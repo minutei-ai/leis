@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2022","module":"Preserve","moduleResolution":"bundler","strict":true,"noEmit":true,"esModuleInterop":true,"skipLibCheck":true,"types":["bun"]},"include":["scripts/**/*.ts"]}
