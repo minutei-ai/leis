@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-05-20-15412",
+  "titulo": "Lei nº 15.412 de 20/05/2026",
+  "data": "2026-05-20",
+  "fonte": "https://normas.leg.br/api/public/binario/a5fb28d2-9296-420a-b677-7a7a1b17878d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-05-20;15412",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-05-20%3B15412&tipo_documento=maior-detalhe",
+  "sha256_dados": "82719c40130df49448c1bdbacf521c07d35d44ef4d84945e50d46ce2ee4502bd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:39.788Z",
+  "sha256_fonte": "b83233872a4f89d800ba18ae6a8946a72f46f756426e9ae658f2a244cdfb7a37",
+  "sha256_markdown": "b297397946f9a7dc2dd61ee9fe6254c85491e3edc77a97906e09b3bfe46ff574"
+}

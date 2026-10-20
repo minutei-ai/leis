@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-15-15504",
+  "titulo": "Lei nº 15.504 de 15/09/2026",
+  "data": "2026-09-15",
+  "fonte": "https://normas.leg.br/api/public/binario/7d35e0a0-16b3-4fbe-af03-42668f28ae41/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-15;15504",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-15%3B15504&tipo_documento=maior-detalhe",
+  "sha256_dados": "4c68eee33ead8df22396d70fccb4b510c3e880420d7c72679ffc23e570990fd8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:38.862Z",
+  "sha256_fonte": "09d8e3eb26bf9731492d60a5c247b2b11b5c98c97e9c9895806bef7a1d8274f0",
+  "sha256_markdown": "17e4389aac860c97ac1cbb4c265e59cffe662674ce9af61a6b238858ee8742fa"
+}

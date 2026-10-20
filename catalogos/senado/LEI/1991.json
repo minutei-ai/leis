@@ -1,0 +1,2389 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1991",
+  "tipo": "LEI",
+  "ano": 1991,
+  "coletado_em": "2026-10-20T22:57:08.362Z",
+  "normas": [
+    {
+      "senadoId": "550243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8367",
+      "titulo": "Lei nº 8.367 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8367",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8367",
+      "ementa": "Dispõe sobre o prazo para concessão para exploração de serviços públicos de telecomunicações, relativo ao art. 66 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "550256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8380",
+      "titulo": "Lei nº 8.380 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8380",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8380",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos   adicionais no valor de Cr$915.608.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8388",
+      "titulo": "Lei nº 8.388 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8388",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8388",
+      "ementa": "Estabelece diretrizes para que a União possa realizar a consolidação e o reescalonamento de dívidas das administrações direta e indireta dos Estados, do Distrito Federal e dos Municípios e dá outras providências."
+    },
+    {
+      "senadoId": "550253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8377",
+      "titulo": "Lei nº 8.377 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8377",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8377",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$1.086.498.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8389",
+      "titulo": "Lei nº 8.389 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8389",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8389",
+      "ementa": "Institui o Conselho de Comunicação Social, na forma do art. 224 da   Constituição Federal e dá outras providências."
+    },
+    {
+      "senadoId": "550267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8391",
+      "titulo": "Lei nº 8.391 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8391",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8391",
+      "ementa": "Dá nova redação a dispositivos da Lei n° 2.180, de 5 de fevereiro de 1954,   que \"dispõe sobre o Tribunal Marítimo\", alterada pelas Leis n° 3.543, de 11 de   fevereiro de 1959, 5.056, de 29 de junho de 1966, e pelo Decreto-Lei n° 25, de 1°   de novembro de 1966."
+    },
+    {
+      "senadoId": "550246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8370",
+      "titulo": "Lei nº 8.370 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8370",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8370",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor dos Ministérios da Saúde e do Trabalho e da Previdência Social,   créditos adicionais até o limite de Cr$17.653.374.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8393",
+      "titulo": "Lei nº 8.393 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8393",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8393",
+      "ementa": "Extingue a contribuição e o adicional incidentes sobre as saídas de açúcar a   que se referem os Decretos-Leis n°s 308°, de 28 de fevereiro de 1967 e 1952, de   15 de julho de 1982, os subsídios de equalização de custos de produção de   açúcar; e dispõe sobre isenção de IPI nas operações que menciona."
+    },
+    {
+      "senadoId": "550260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8384",
+      "titulo": "Lei nº 8.384 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8384",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8384",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União créditos   adicionais até o limite de Cr$ 124.437.490.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8385",
+      "titulo": "Lei nº 8.385 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8385",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8385",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial no valor de Cr$ 85.163.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8381",
+      "titulo": "Lei nº 8.381 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8381",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8381",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial no valor de Cr$5.600.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8392",
+      "titulo": "Lei nº 8.392 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8392",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8392",
+      "ementa": "Prorroga o prazo a que se refere o art. 1° das Leis n°s 8.056, de 28 de junho de 1990, 8.127, de 20 de dezembro de 1990 e 8.201, de 29 de junho de 1991."
+    },
+    {
+      "senadoId": "550244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8368",
+      "titulo": "Lei nº 8.368 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8368",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8368",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar de Cr$2.757.125.000,00 (dois bilhões, setecentos e cinqüenta e sete   milhões, cento e vinte e cinco mil cruzeiros), para atender à programação   indicada no Anexo I desta Lei."
+    },
+    {
+      "senadoId": "550254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8378",
+      "titulo": "Lei nº 8.378 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8378",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8378",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito   suplementar no valor de Cr$2.960.707.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8372",
+      "titulo": "Lei nº 8.372 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8372",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8372",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento de Investimento crédito   especial até o limite de Cr$65.373.673.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8386",
+      "titulo": "Lei nº 8.386 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8386",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8386",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar no valor de Cr$ 291.287.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8369",
+      "titulo": "Lei nº 8.369 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8369",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8369",
+      "ementa": "Dispõe sobre a renúncia fiscal de que trata a Lei n° 8.191, de 11 de junho   de 1991, autoriza a abertura de crédito especial e dá outras providências."
+    },
+    {
+      "senadoId": "550249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8373",
+      "titulo": "Lei nº 8.373 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8373",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8373",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento de Investimento crédito   suplementar no valor de Cr$753.336.029.000,00, para reforço de dotações   consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "550258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8382",
+      "titulo": "Lei nº 8.382 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8382",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8382",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos   adicionais no valor de Cr$ 73.414.749.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8374",
+      "titulo": "Lei nº 8.374 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8374",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8374",
+      "ementa": "Dispõe sobre o Seguro Obrigatório de Danos Pessoais causados por embarcações ou por sua carga e dá outras providências."
+    },
+    {
+      "senadoId": "550251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8375",
+      "titulo": "Lei nº 8.375 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8375",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8375",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   adicional até o limite de Cr$2.709.335.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8394",
+      "titulo": "Lei nº 8.394 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8394",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8394",
+      "ementa": "Dispõe sobre a preservação, organização e proteção dos acervos documentais   privados dos presidentes da República e dá outras providências."
+    },
+    {
+      "senadoId": "550259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8383",
+      "titulo": "Lei nº 8.383 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8383",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8383",
+      "ementa": "Institui a Unidade Fiscal de Referência, altera a legislação do imposto de renda, e dá outras providências."
+    },
+    {
+      "senadoId": "550255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8379",
+      "titulo": "Lei nº 8.379 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8379",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8379",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial no valor de Cr$21.922.096.000,00, para os fins que especifica e dá   outras providências."
+    },
+    {
+      "senadoId": "550266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8390",
+      "titulo": "Lei nº 8.390 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8390",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8390",
+      "ementa": "Dispõe sobre a revisão geral da remuneração dos servidores públicos   federais."
+    },
+    {
+      "senadoId": "550247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8371",
+      "titulo": "Lei nº 8.371 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8371",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8371",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos   adicionais até o limite de Cr$210.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8376",
+      "titulo": "Lei nº 8.376 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8376",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8376",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$1.229.627.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-30-8387",
+      "titulo": "Lei nº 8.387 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "8387",
+      "urn": "urn:lex:br:federal:lei:1991-12-30;8387",
+      "ementa": "Dá nova redação ao § 1° do art. 3° aos arts. 7° e 9° do Decreto-Lei n° 288, de 28 de fevereiro de 1967, ao caput do art. 37 do Decreto-Lei n° 1.455, de 7 de abril de 1976 e ao art. 10 da Lei n° 2.145, de 29 de dezembro de 1953, e dá outras providências."
+    },
+    {
+      "senadoId": "550229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8353",
+      "titulo": "Lei nº 8.353 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8353",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8353",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos   adicionais até o limite de Cr$ 1.180.968.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8358",
+      "titulo": "Lei nº 8.358 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8358",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8358",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União créditos   adicionais até o limite de Cr$ 73.655.880.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8355",
+      "titulo": "Lei nº 8.355 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8355",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8355",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 1.575.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550242",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8366",
+      "titulo": "Lei nº 8.366 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8366",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8366",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial no valor de Cr$2.688.405.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550237",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8361",
+      "titulo": "Lei nº 8.361 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8361",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8361",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, crédito   suplementar no valor de Cr$ 10.714.799.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550232",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8356",
+      "titulo": "Lei nº 8.356 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8356",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8356",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 16.465.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8352",
+      "titulo": "Lei nº 8.352 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8352",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8352",
+      "ementa": "Dispõe sobre as disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT e dá outras providências."
+    },
+    {
+      "senadoId": "550230",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8354",
+      "titulo": "Lei nº 8.354 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8354",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8354",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito   suplementar no valor de Cr$ 75.847.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8359",
+      "titulo": "Lei nº 8.359 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8359",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8359",
+      "ementa": "Altera a redação do art. 44 e inclui parágrafo no art. 49 da Lei nº 8.211,   de 22 de julho de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "550239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8363",
+      "titulo": "Lei nº 8.363 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8363",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8363",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de operações oficiais de crédito - recursos sob supervisão do Ministério da   Economia, Fazenda e Planejamento, crédito suplementar no valor de Cr$   18.712.586.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8360",
+      "titulo": "Lei nº 8.360 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8360",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8360",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos   adicionais até o limite de Cr$ 41.770.622.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550233",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8357",
+      "titulo": "Lei nº 8.357 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8357",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8357",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial até o limite de Cr$ 35.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8350",
+      "titulo": "Lei nº 8.350 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8350",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8350",
+      "ementa": "Dispõe sobre gratificações e representações na Justiça Eleitoral."
+    },
+    {
+      "senadoId": "550238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8362",
+      "titulo": "Lei nº 8.362 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8362",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8362",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 17.438.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8364",
+      "titulo": "Lei nº 8.364 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8364",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8364",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$5.794.617.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8351",
+      "titulo": "Lei nº 8.351 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8351",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8351",
+      "ementa": "Autoriza a Companhia Vale do Rio Doce - CVRD a   participar, minoritariamente, do capital social da sociedade anônima a ser constituída sob   a denominação de CELMAR S.A. - Indústria de Celulose e   Papel."
+    },
+    {
+      "senadoId": "550241",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-28-8365",
+      "titulo": "Lei nº 8.365 de 28/12/1991",
+      "data": "1991-12-28",
+      "numero": "8365",
+      "urn": "urn:lex:br:federal:lei:1991-12-28;8365",
+      "ementa": "Autoriza o Poder Executivo a alterar a reabertura do crédito especial de   que trata o Decreto de 19 de abril de 1991, em favor do Ministério da Ação   Social."
+    },
+    {
+      "senadoId": "550224",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-27-8348",
+      "titulo": "Lei nº 8.348 de 27/12/1991",
+      "data": "1991-12-27",
+      "numero": "8348",
+      "urn": "urn:lex:br:federal:lei:1991-12-27;8348",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 5.778.028.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-27-8345",
+      "titulo": "Lei nº 8.345 de 27/12/1991",
+      "data": "1991-12-27",
+      "numero": "8345",
+      "urn": "urn:lex:br:federal:lei:1991-12-27;8345",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial no valor de Cr$ 336.018.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550225",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-27-8349",
+      "titulo": "Lei nº 8.349 de 27/12/1991",
+      "data": "1991-12-27",
+      "numero": "8349",
+      "urn": "urn:lex:br:federal:lei:1991-12-27;8349",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 212.056.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550223",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-27-8347",
+      "titulo": "Lei nº 8.347 de 27/12/1991",
+      "data": "1991-12-27",
+      "numero": "8347",
+      "urn": "urn:lex:br:federal:lei:1991-12-27;8347",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito   suplementar no valor de Cr$ 1.434.401.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550222",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-27-8346",
+      "titulo": "Lei nº 8.346 de 27/12/1991",
+      "data": "1991-12-27",
+      "numero": "8346",
+      "urn": "urn:lex:br:federal:lei:1991-12-27;8346",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos adicionais no valor de Cr$ 567.812.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-27-8344",
+      "titulo": "Lei nº 8.344 de 27/12/1991",
+      "data": "1991-12-27",
+      "numero": "8344",
+      "urn": "urn:lex:br:federal:lei:1991-12-27;8344",
+      "ementa": "Dá nova redação aos arts. 19, inciso VI e 23, inciso V, da Lei nº 8.028,   de 12 de abril de 1990, e 19, inciso II, da Lei nº 8.029, de 12 de abril de 1990, e   dá outras providências."
+    },
+    {
+      "senadoId": "550208",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8332",
+      "titulo": "Lei nº 8.332 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8332",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8332",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 2.129.316.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550210",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8334",
+      "titulo": "Lei nº 8.334 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8334",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8334",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial no valor de Cr$3.370.761.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8322",
+      "titulo": "Lei nº 8.322 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8322",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8322",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$8.640.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550215",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8339",
+      "titulo": "Lei nº 8.339 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8339",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8339",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 58.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8338",
+      "titulo": "Lei nº 8.338 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8338",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8338",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 600.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8333",
+      "titulo": "Lei nº 8.333 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8333",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8333",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União crédito suplementar no valor de Cr$ 247.625.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550205",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8329",
+      "titulo": "Lei nº 8.329 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8329",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8329",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 1.200.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550202",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8326",
+      "titulo": "Lei nº 8.326 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8326",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8326",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar de Cr$804.304.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8343",
+      "titulo": "Lei nº 8.343 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8343",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8343",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 443.256.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8330",
+      "titulo": "Lei nº 8.330 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8330",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8330",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 1.026.451.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550197",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8321",
+      "titulo": "Lei nº 8.321 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8321",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8321",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Economia, Fazenda e Planejamento, crédito suplementar no valor de Cr$45.888.088.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8335",
+      "titulo": "Lei nº 8.335 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8335",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8335",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Agricultura e Reforma Agrária, crédito suplementar no valor de Cr$ 1.345.828.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8342",
+      "titulo": "Lei nº 8.342 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8342",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8342",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial até o limite de Cr$ 61.659.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550217",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8341",
+      "titulo": "Lei nº 8.341 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8341",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8341",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito   suplementar no valor de Cr$ 253.805.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550204",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8328",
+      "titulo": "Lei nº 8.328 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8328",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8328",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar no valor de Cr$2.063.098.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550203",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8327",
+      "titulo": "Lei nº 8.327 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8327",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8327",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar de Cr$21.153.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8324",
+      "titulo": "Lei nº 8.324 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8324",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8324",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar no valor de Cr$731.969.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550212",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8336",
+      "titulo": "Lei nº 8.336 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8336",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8336",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 341.852.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550213",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8337",
+      "titulo": "Lei nº 8.337 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8337",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8337",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito especial até o limite de Cr$ 2.007.487.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550201",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8325",
+      "titulo": "Lei nº 8.325 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8325",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8325",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$65.719.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550207",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8331",
+      "titulo": "Lei nº 8.331 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8331",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8331",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial em favor de operações oficiais de crédito - recursos sob supervisão do Ministério da Economia, Fazenda e Planejamento, até o limite de Cr$ 3.349.969.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550216",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8340",
+      "titulo": "Lei nº 8.340 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8340",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8340",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 20.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8323",
+      "titulo": "Lei nº 8.323 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8323",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8323",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial no valor de Cr$ 113.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550196",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-26-8320",
+      "titulo": "Lei nº 8.320 de 26/12/1991",
+      "data": "1991-12-26",
+      "numero": "8320",
+      "urn": "urn:lex:br:federal:lei:1991-12-26;8320",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial no valor de Cr$100.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8316",
+      "titulo": "Lei nº 8.316 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8316",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8316",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 2.236.498.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8315",
+      "titulo": "Lei nº 8.315 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8315",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8315",
+      "ementa": "Dispõe sobre a criação do Serviço Nacional de Aprendizagem Rural - SENAR nos termos do art. 62 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "550193",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8317",
+      "titulo": "Lei nº 8.317 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8317",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8317",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União créditos adicionais no valor de Cr$1.615.296.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550194",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8318",
+      "titulo": "Lei nº 8.318 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8318",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8318",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos adicionais no valor de Cr$724.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8313",
+      "titulo": "Lei nº 8.313 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8313",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8313",
+      "ementa": "Restabelece princípios da Lei nº 7.505, de 2 de julho de 1986, institui o Programa Nacional de Apoio à Cultura - PRONAC e dá outras Providências."
+    },
+    {
+      "senadoId": "550195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8319",
+      "titulo": "Lei nº 8.319 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8319",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8319",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar no valor de Cr$1.245.000.000,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550190",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-23-8314",
+      "titulo": "Lei nº 8.314 de 23/12/1991",
+      "data": "1991-12-23",
+      "numero": "8314",
+      "urn": "urn:lex:br:federal:lei:1991-12-23;8314",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 17.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8303",
+      "titulo": "Lei nº 8.303 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8303",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8303",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito adicional até o limite de Cr$ 389.189.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8312",
+      "titulo": "Lei nº 8.312 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8312",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8312",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 620.594.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550155",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8279",
+      "titulo": "Lei nº 8.279 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8279",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8279",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$200.601.250.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550164",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8288",
+      "titulo": "Lei nº 8.288 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8288",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8288",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$2.458.217.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8301",
+      "titulo": "Lei nº 8.301 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8301",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8301",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar até o limite de Cr$ 20.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550167",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8291",
+      "titulo": "Lei nº 8.291 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8291",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8291",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, crédito suplementar de Cr$ 4.209.600.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8300",
+      "titulo": "Lei nº 8.300 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8300",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8300",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar de Cr$ 1.284.500.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550178",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8302",
+      "titulo": "Lei nº 8.302 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8302",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8302",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 13.645.676.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550163",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8287",
+      "titulo": "Lei nº 8.287 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8287",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8287",
+      "ementa": "Dispõe sobre a concessão do benefício de seguro-desemprego a pescadores   artesanais, durante os períodos de defeso."
+    },
+    {
+      "senadoId": "550184",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8308",
+      "titulo": "Lei nº 8.308 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8308",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8308",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$1.820.568.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550162",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8286",
+      "titulo": "Lei nº 8.286 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8286",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8286",
+      "ementa": "Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS a doar o bem   que menciona."
+    },
+    {
+      "senadoId": "550185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8309",
+      "titulo": "Lei nº 8.309 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8309",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8309",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito adicional até o limite de Cr$35.457.986.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8305",
+      "titulo": "Lei nº 8.305 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8305",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8305",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$30.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550173",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8297",
+      "titulo": "Lei nº 8.297 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8297",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8297",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 1.651.010.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550156",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8280",
+      "titulo": "Lei nº 8.280 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8280",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8280",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar no valor de Cr$187.199.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550186",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8310",
+      "titulo": "Lei nº 8.310 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8310",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8310",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 51.599.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550159",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8283",
+      "titulo": "Lei nº 8.283 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8283",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8283",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Agricultura e Reforma Agrária, crédito suplementar no valor de Cr$573.116.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550161",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8285",
+      "titulo": "Lei nº 8.285 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8285",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8285",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$1.313.200.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8311",
+      "titulo": "Lei nº 8.311 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8311",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8311",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União créditos suplementares no valor de Cr$ 4.607.200.000.000,00 e dá outras providências."
+    },
+    {
+      "senadoId": "550158",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8282",
+      "titulo": "Lei nº 8.282 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8282",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8282",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, créditos adicionais até o limite de Cr$1.900.823.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550154",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8278",
+      "titulo": "Lei nº 8.278 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8278",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8278",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União créditos adicionais no valor de Cr$ 592.811.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8293",
+      "titulo": "Lei nº 8.293 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8293",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8293",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 28.913.731.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8281",
+      "titulo": "Lei nº 8.281 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8281",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8281",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no limite de Cr$49.845.620.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550168",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8292",
+      "titulo": "Lei nº 8.292 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8292",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8292",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 295.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550165",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8289",
+      "titulo": "Lei nº 8.289 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8289",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8289",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União créditos adicionais no valor de Cr$ 2.027.030.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550182",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8306",
+      "titulo": "Lei nº 8.306 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8306",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8306",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$1.056.376.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8299",
+      "titulo": "Lei nº 8.299 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8299",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8299",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 297.538.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550172",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8296",
+      "titulo": "Lei nº 8.296 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8296",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8296",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 28.280.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550166",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8290",
+      "titulo": "Lei nº 8.290 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8290",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8290",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial no valor de Cr$350.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550183",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8307",
+      "titulo": "Lei nº 8.307 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8307",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8307",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Agricultura e Reforma Agrária, crédito suplementar no valor de Cr$147.735.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550174",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8298",
+      "titulo": "Lei nº 8.298 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8298",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8298",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 169.903.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550170",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8294",
+      "titulo": "Lei nº 8.294 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8294",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8294",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 255.200.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550160",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8284",
+      "titulo": "Lei nº 8.284 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8284",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8284",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$413.659.520.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8304",
+      "titulo": "Lei nº 8.304 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8304",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8304",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 125.546.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-20-8295",
+      "titulo": "Lei nº 8.295 de 20/12/1991",
+      "data": "1991-12-20",
+      "numero": "8295",
+      "urn": "urn:lex:br:federal:lei:1991-12-20;8295",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União crédito suplementar no valor de Cr$ 292.230.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550152",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-19-8276",
+      "titulo": "Lei nº 8.276 de 19/12/1991",
+      "data": "1991-12-19",
+      "numero": "8276",
+      "urn": "urn:lex:br:federal:lei:1991-12-19;8276",
+      "ementa": "Dispõe sobre a concessão de abono aos trabalhadores no mês de dezembro de   1991, e dá outras providências."
+    },
+    {
+      "senadoId": "550153",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-19-8277",
+      "titulo": "Lei nº 8.277 de 19/12/1991",
+      "data": "1991-12-19",
+      "numero": "8277",
+      "urn": "urn:lex:br:federal:lei:1991-12-19;8277",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial até o limite de Cr$15.168.375.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550149",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-18-8273",
+      "titulo": "Lei nº 8.273 de 18/12/1991",
+      "data": "1991-12-18",
+      "numero": "8273",
+      "urn": "urn:lex:br:federal:lei:1991-12-18;8273",
+      "ementa": "Dispõe sobre os vencimentos dos Membros do Ministério Público da União, e   dá outras providências."
+    },
+    {
+      "senadoId": "550150",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-18-8274",
+      "titulo": "Lei nº 8.274 de 18/12/1991",
+      "data": "1991-12-18",
+      "numero": "8274",
+      "urn": "urn:lex:br:federal:lei:1991-12-18;8274",
+      "ementa": "Dispõe sobre os vencimentos dos servidores dos Quadros de Pessoal do Ministério Público da União."
+    },
+    {
+      "senadoId": "550148",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-18-8272",
+      "titulo": "Lei nº 8.272 de 18/12/1991",
+      "data": "1991-12-18",
+      "numero": "8272",
+      "urn": "urn:lex:br:federal:lei:1991-12-18;8272",
+      "ementa": "Dispõe sobre os vencimentos dos Servidores dos Quadros de Pessoal das Secretarias dos Órgãos do Poder Judiciário da União e do Distrito Federal e Territórios."
+    },
+    {
+      "senadoId": "550151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-18-8275",
+      "titulo": "Lei nº 8.275 de 18/12/1991",
+      "data": "1991-12-18",
+      "numero": "8275",
+      "urn": "urn:lex:br:federal:lei:1991-12-18;8275",
+      "ementa": "Dispõe sobre os vencimentos básicos dos Membros da Defensoria-de-Ofício da   Justiça Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "550147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-18-8271",
+      "titulo": "Lei nº 8.271 de 18/12/1991",
+      "data": "1991-12-18",
+      "numero": "8271",
+      "urn": "urn:lex:br:federal:lei:1991-12-18;8271",
+      "ementa": "Dispõe sobre os vencimentos básicos da Magistratura Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "550146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-17-8270",
+      "titulo": "Lei nº 8.270 de 17/12/1991",
+      "data": "1991-12-17",
+      "numero": "8270",
+      "urn": "urn:lex:br:federal:lei:1991-12-17;8270",
+      "ementa": "Dispõe sobre reajuste da remuneração dos servidores públicos, corrige e reestrutura tabelas de vencimentos, e dá outras providências."
+    },
+    {
+      "senadoId": "550143",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8267",
+      "titulo": "Lei nº 8.267 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8267",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8267",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 1.466.938.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550137",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8261",
+      "titulo": "Lei nº 8.261 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8261",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8261",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 15.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550144",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8268",
+      "titulo": "Lei nº 8.268 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8268",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8268",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 57.335.263.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550141",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8265",
+      "titulo": "Lei nº 8.265 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8265",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8265",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 200.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8263",
+      "titulo": "Lei nº 8.263 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8263",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8263",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito até o limite de Cr$ 26.322.000,00, para os fins que especifica. Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 26.322.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550145",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8269",
+      "titulo": "Lei nº 8.269 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8269",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8269",
+      "ementa": "Reajusta valores da tabela progressiva para cálculo do imposto de   renda."
+    },
+    {
+      "senadoId": "550142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8266",
+      "titulo": "Lei nº 8.266 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8266",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8266",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 23.300.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8262",
+      "titulo": "Lei nº 8.262 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8262",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8262",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União crédito especial até o limite de Cr$ 26.900.000.000,00, para os fins que especificam."
+    },
+    {
+      "senadoId": "550140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-16-8264",
+      "titulo": "Lei nº 8.264 de 16/12/1991",
+      "data": "1991-12-16",
+      "numero": "8264",
+      "urn": "urn:lex:br:federal:lei:1991-12-16;8264",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União créditos adicionais no valor de Cr$ 1.178.803.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550136",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-12-8260",
+      "titulo": "Lei nº 8.260 de 12/12/1991",
+      "data": "1991-12-12",
+      "numero": "8260",
+      "urn": "urn:lex:br:federal:lei:1991-12-12;8260",
+      "ementa": "Modifica o art. 16 da Consolidação das Leis do Trabalho."
+    },
+    {
+      "senadoId": "550135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-07-8259",
+      "titulo": "Lei nº 8.259 de 07/12/1991",
+      "data": "1991-12-07",
+      "numero": "8259",
+      "urn": "urn:lex:br:federal:lei:1991-12-07;8259",
+      "ementa": "Dispõe sobre a estruturação das Categorias Funcionais de Agente de Segurança Judiciária, Atendente Judiciário e Agente de Telecomunicações e Eletricidade dos Quadros de Pessoal Permanente do Conselho da Justiça Federal e da Justiça Federal de Primeiro e Segundo Graus, e dá outras providências."
+    },
+    {
+      "senadoId": "550134",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-12-06-8258",
+      "titulo": "Lei nº 8.258 de 06/12/1991",
+      "data": "1991-12-06",
+      "numero": "8258",
+      "urn": "urn:lex:br:federal:lei:1991-12-06;8258",
+      "ementa": "Fixa o efetivo do Corpo de Bombeiros Militar do   Distrito Federal."
+    },
+    {
+      "senadoId": "550133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-11-26-8257",
+      "titulo": "Lei nº 8.257 de 26/11/1991",
+      "data": "1991-11-26",
+      "numero": "8257",
+      "urn": "urn:lex:br:federal:lei:1991-11-26;8257",
+      "ementa": "Dispõe sobre a expropriação das glebas nas quais se localizem culturas   ilegais de plantas psicotrópicas e dá outras providências."
+    },
+    {
+      "senadoId": "550132",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-11-25-8256",
+      "titulo": "Lei nº 8.256 de 25/11/1991",
+      "data": "1991-11-25",
+      "numero": "8256",
+      "urn": "urn:lex:br:federal:lei:1991-11-25;8256",
+      "ementa": "Cria áreas de livre comércio nos municípios de Pacaraima e Bonfim, no Estado de Roraima, e dá outras providências.  NOVA EMENTA - Cria áreas de livre comércio nos municípios de Boa Vista e Bonfim, no Estado de Roraima e dá outras providências."
+    },
+    {
+      "senadoId": "550131",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-11-20-8255",
+      "titulo": "Lei nº 8.255 de 20/11/1991",
+      "data": "1991-11-20",
+      "numero": "8255",
+      "urn": "urn:lex:br:federal:lei:1991-11-20;8255",
+      "ementa": "Dispõe sobre a organização básica do Corpo de Bombeiros Militar do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "550130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-11-04-8254",
+      "titulo": "Lei nº 8.254 de 04/11/1991",
+      "data": "1991-11-04",
+      "numero": "8254",
+      "urn": "urn:lex:br:federal:lei:1991-11-04;8254",
+      "ementa": "Autoriza a emissão de Títulos do Tesouro Nacional no montante de Cr$ 52.800.000.000,00, e a abertura de crédito adicional, em favor de Encargos Financeiros da União, no mesmo valor."
+    },
+    {
+      "senadoId": "550129",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-31-8253",
+      "titulo": "Lei nº 8.253 de 31/10/1991",
+      "data": "1991-10-31",
+      "numero": "8253",
+      "urn": "urn:lex:br:federal:lei:1991-10-31;8253",
+      "ementa": "Reajusta valores da tabela progressiva para cálculo do imposto de renda."
+    },
+    {
+      "senadoId": "550128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-25-8252",
+      "titulo": "Lei nº 8.252 de 25/10/1991",
+      "data": "1991-10-25",
+      "numero": "8252",
+      "urn": "urn:lex:br:federal:lei:1991-10-25;8252",
+      "ementa": "Dispõe sobre a criação de Procuradorias Regionais da República, da Procuradoria da República do Estado de Tocantins de Procuradorias em Municípios do interior e dá outras providências."
+    },
+    {
+      "senadoId": "550126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-24-8250",
+      "titulo": "Lei nº 8.250 de 24/10/1991",
+      "data": "1991-10-24",
+      "numero": "8250",
+      "urn": "urn:lex:br:federal:lei:1991-10-24;8250",
+      "ementa": "Dispõe sobre o Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "550125",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-24-8249",
+      "titulo": "Lei nº 8.249 de 24/10/1991",
+      "data": "1991-10-24",
+      "numero": "8249",
+      "urn": "urn:lex:br:federal:lei:1991-10-24;8249",
+      "ementa": "Estabelece as características da Nota do Tesouro Nacional - NTN e dá   outras providências."
+    },
+    {
+      "senadoId": "550127",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-24-8251",
+      "titulo": "Lei nº 8.251 de 24/10/1991",
+      "data": "1991-10-24",
+      "numero": "8251",
+      "urn": "urn:lex:br:federal:lei:1991-10-24;8251",
+      "ementa": "Dispõe sobre a criação das Seções Judiciárias dos Estados de Tocantins, Amapá e Roraima, reestrutura os serviços da Justiça Federal de Primeiro Grau da 1ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "550124",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-23-8248",
+      "titulo": "Lei nº 8.248 de 23/10/1991",
+      "data": "1991-10-23",
+      "numero": "8248",
+      "urn": "urn:lex:br:federal:lei:1991-10-23;8248",
+      "ementa": "Dispõe sobre a capacitação e competitividade do setor de informática e automação, e dá outras providências."
+    },
+    {
+      "senadoId": "550123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-23-8247",
+      "titulo": "Lei nº 8.247 de 23/10/1991",
+      "data": "1991-10-23",
+      "numero": "8247",
+      "urn": "urn:lex:br:federal:lei:1991-10-23;8247",
+      "ementa": "Altera dispositivos da Lei nº 5.682, de 21 de julho de 1971 - Lei Orgânica dos Partidos Políticos."
+    },
+    {
+      "senadoId": "550122",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-22-8246",
+      "titulo": "Lei nº 8.246 de 22/10/1991",
+      "data": "1991-10-22",
+      "numero": "8246",
+      "urn": "urn:lex:br:federal:lei:1991-10-22;8246",
+      "ementa": "Autoriza o Poder Executivo a instituir o Serviço   Social Autônomo Associação das Pioneiras Sociais e dá outras   providências."
+    },
+    {
+      "senadoId": "550121",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-18-8245",
+      "titulo": "Lei nº 8.245 de 18/10/1991",
+      "data": "1991-10-18",
+      "numero": "8245",
+      "urn": "urn:lex:br:federal:lei:1991-10-18;8245",
+      "ementa": "Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes."
+    },
+    {
+      "senadoId": "550120",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-16-8244",
+      "titulo": "Lei nº 8.244 de 16/10/1991",
+      "data": "1991-10-16",
+      "numero": "8244",
+      "urn": "urn:lex:br:federal:lei:1991-10-16;8244",
+      "ementa": "Dispõe sobre o II Plano Nacional de Informática e Automação - PLANIN."
+    },
+    {
+      "senadoId": "550119",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-14-8243",
+      "titulo": "Lei nº 8.243 de 14/10/1991",
+      "data": "1991-10-14",
+      "numero": "8243",
+      "urn": "urn:lex:br:federal:lei:1991-10-14;8243",
+      "ementa": "Dispõe sobre os vencimentos dos professores incluídos no Plano Único de Classificação e Retribuição de Cargos de que trata a Lei nº 7.596, de 10 de abril de 1987, e dá outras providências."
+    },
+    {
+      "senadoId": "550118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-12-8242",
+      "titulo": "Lei nº 8.242 de 12/10/1991",
+      "data": "1991-10-12",
+      "numero": "8242",
+      "urn": "urn:lex:br:federal:lei:1991-10-12;8242",
+      "ementa": "Cria o Conselho Nacional dos Direitos da Criança e do Adolescente - CONANDA e dá outras providências."
+    },
+    {
+      "senadoId": "550117",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-07-8241",
+      "titulo": "Lei nº 8.241 de 07/10/1991",
+      "data": "1991-10-07",
+      "numero": "8241",
+      "urn": "urn:lex:br:federal:lei:1991-10-07;8241",
+      "ementa": "Autoriza o Poder Executivo a abri ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 578.256.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550116",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-07-8240",
+      "titulo": "Lei nº 8.240 de 07/10/1991",
+      "data": "1991-10-07",
+      "numero": "8240",
+      "urn": "urn:lex:br:federal:lei:1991-10-07;8240",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar até o limite de Cr$ 33.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550115",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-04-8239",
+      "titulo": "Lei nº 8.239 de 04/10/1991",
+      "data": "1991-10-04",
+      "numero": "8239",
+      "urn": "urn:lex:br:federal:lei:1991-10-04;8239",
+      "ementa": "Regulamenta o art. 143, §§ 1º e 2º da Constituição Federal, que dispõem sobre a prestação de Serviço Alternativo ao Serviço Militar Obrigatório."
+    },
+    {
+      "senadoId": "550114",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-10-04-8238",
+      "titulo": "Lei nº 8.238 de 04/10/1991",
+      "data": "1991-10-04",
+      "numero": "8238",
+      "urn": "urn:lex:br:federal:lei:1991-10-04;8238",
+      "ementa": "Dispõe sobre a incorporação, aos salários, do abono de que trata a Lei nº   8.178, de 1 de março de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "550113",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-30-8237",
+      "titulo": "Lei nº 8.237 de 30/09/1991",
+      "data": "1991-09-30",
+      "numero": "8237",
+      "urn": "urn:lex:br:federal:lei:1991-09-30;8237",
+      "ementa": "Dispõe sobre a remuneração dos Servidores Militares Federais das Forças Armadas e dá outras providências."
+    },
+    {
+      "senadoId": "550112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-20-8236",
+      "titulo": "Lei nº 8.236 de 20/09/1991",
+      "data": "1991-09-20",
+      "numero": "8236",
+      "urn": "urn:lex:br:federal:lei:1991-09-20;8236",
+      "ementa": "Altera disposições do Código de Processo Penal   Militar e da Lei da Organização Judiciária Militar."
+    },
+    {
+      "senadoId": "550111",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-19-8235",
+      "titulo": "Lei nº 8.235 de 19/09/1991",
+      "data": "1991-09-19",
+      "numero": "8235",
+      "urn": "urn:lex:br:federal:lei:1991-09-19;8235",
+      "ementa": "Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau e dá   outras providências."
+    },
+    {
+      "senadoId": "550110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-17-8234",
+      "titulo": "Lei nº 8.234 de 17/09/1991",
+      "data": "1991-09-17",
+      "numero": "8234",
+      "urn": "urn:lex:br:federal:lei:1991-09-17;8234",
+      "ementa": "Regulamenta a profissão de Nutricionista e determina outras providências."
+    },
+    {
+      "senadoId": "550109",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-10-8233",
+      "titulo": "Lei nº 8.233 de 10/09/1991",
+      "data": "1991-09-10",
+      "numero": "8233",
+      "urn": "urn:lex:br:federal:lei:1991-09-10;8233",
+      "ementa": "Cria o Tribunal Regional do Trabalho da 20ª Região."
+    },
+    {
+      "senadoId": "550106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8230",
+      "titulo": "Lei nº 8.230 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8230",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8230",
+      "ementa": "Dispõe sobre os vencimentos dos Membros do Ministério Público da União e dá outras providências."
+    },
+    {
+      "senadoId": "550108",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8232",
+      "titulo": "Lei nº 8.232 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8232",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8232",
+      "ementa": "Dispõe sobre a revisão dos vencimentos básico dos Desembargadores do   Tribunal de Justiça do Distrito Federal e dos Territórios, dos Juízes de Direito   e dos Juízes de Direito Substituto e dá outras providências."
+    },
+    {
+      "senadoId": "550104",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8228",
+      "titulo": "Lei nº 8.228 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8228",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8228",
+      "ementa": "Altera os valores dos vencimentos dos cargos efetivos e em comissão das Secretarias dos Tribunais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "550103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8227",
+      "titulo": "Lei nº 8.227 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8227",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8227",
+      "ementa": "Dispõe sobre a revisão dos vencimentos básicos dos Ministros do Tribunal   Superior do Trabalho, dos Juízes dos Tribunais Regionais do Trabalho, dos Juízes   Presidentes de Juntas de Conciliação e Julgamento e dos Juízes do Trabalho   Substitutos da Justiça do Trabalho, e dá outra providências."
+    },
+    {
+      "senadoId": "550107",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8231",
+      "titulo": "Lei nº 8.231 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8231",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8231",
+      "ementa": "Dispõe sobre a revisão dos vencimentos básicos dos Membros da   Defensoria-de-Ofício da Justiça Militar, e dá outra providências."
+    },
+    {
+      "senadoId": "550101",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8225",
+      "titulo": "Lei nº 8.225 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8225",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8225",
+      "ementa": "Altera os valores dos vencimentos dos cargos efetivos e comissionados da Secretaria do Supremo Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "550100",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8224",
+      "titulo": "Lei nº 8.224 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8224",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8224",
+      "ementa": "Dispõe sobre os vencimentos dos Ministros do Supremo Tribunal Federal e dá   outras providências."
+    },
+    {
+      "senadoId": "550105",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8229",
+      "titulo": "Lei nº 8.229 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8229",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8229",
+      "ementa": "Dispõe sobre a revisão dos vencimentos básicos dos Ministros do Superior   Tribunal Militar e dos Juízes da Justiça Militar Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "550102",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-09-8226",
+      "titulo": "Lei nº 8.226 de 09/09/1991",
+      "data": "1991-09-09",
+      "numero": "8226",
+      "urn": "urn:lex:br:federal:lei:1991-09-09;8226",
+      "ementa": "Dispõe sobre a revisão dos   vencimentos básicos dos Ministros do Superior Tribunal de Justiça, dos Juízes dos   Tribunais Regionais Federais, dos Juízes Federais e dos Juízes Federais   Substitutos da Justiça Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "550099",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-06-8223",
+      "titulo": "Lei nº 8.223 de 06/09/1991",
+      "data": "1991-09-06",
+      "numero": "8223",
+      "urn": "urn:lex:br:federal:lei:1991-09-06;8223",
+      "ementa": "Autoriza o Poder Executivo a doar o Imóvel que menciona ao Município de   Campinas, Estado de São Paulo."
+    },
+    {
+      "senadoId": "550098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-05-8222",
+      "titulo": "Lei nº 8.222 de 05/09/1991",
+      "data": "1991-09-05",
+      "numero": "8222",
+      "urn": "urn:lex:br:federal:lei:1991-09-05;8222",
+      "ementa": "Dispõe sobre a Política Nacional de Salários, o salário mínimo e dá outras   providências."
+    },
+    {
+      "senadoId": "550097",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-05-8221",
+      "titulo": "Lei nº 8.221 de 05/09/1991",
+      "data": "1991-09-05",
+      "numero": "8221",
+      "urn": "urn:lex:br:federal:lei:1991-09-05;8221",
+      "ementa": "Cria o Tribunal Regional do Trabalho da 22ª. Região."
+    },
+    {
+      "senadoId": "550096",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-09-04-8220",
+      "titulo": "Lei nº 8.220 de 04/09/1991",
+      "data": "1991-09-04",
+      "numero": "8220",
+      "urn": "urn:lex:br:federal:lei:1991-09-04;8220",
+      "ementa": "Dispõe sobre a obrigatoriedade de abertura de concurso   de projetos arquitetônicos para edifícios públicos do governo federal e dá   outras providências."
+    },
+    {
+      "senadoId": "550095",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-08-29-8219",
+      "titulo": "Lei nº 8.219 de 29/08/1991",
+      "data": "1991-08-29",
+      "numero": "8219",
+      "urn": "urn:lex:br:federal:lei:1991-08-29;8219",
+      "ementa": "Cria o Tribunal Regional do Trabalho da 19ª Região."
+    },
+    {
+      "senadoId": "550094",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-08-29-8218",
+      "titulo": "Lei nº 8.218 de 29/08/1991",
+      "data": "1991-08-29",
+      "numero": "8218",
+      "urn": "urn:lex:br:federal:lei:1991-08-29;8218",
+      "ementa": "Dispõe sobre imposto e contribuições federais, disciplina a utilização de cruzados novos e dá outras providências."
+    },
+    {
+      "senadoId": "550093",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-08-27-8217",
+      "titulo": "Lei nº 8.217 de 27/08/1991",
+      "data": "1991-08-27",
+      "numero": "8217",
+      "urn": "urn:lex:br:federal:lei:1991-08-27;8217",
+      "ementa": "Altera a composição do Tribunal Regional do Trabalho da 8ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "550092",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-08-13-8216",
+      "titulo": "Lei nº 8.216 de 13/08/1991",
+      "data": "1991-08-13",
+      "numero": "8216",
+      "urn": "urn:lex:br:federal:lei:1991-08-13;8216",
+      "ementa": "Dispõe sobre antecipação a ser compensada quando da revisão geral da remuneração dos servidores públicos, corrige e reestrutura tabelas de vencimentos e dá outras providências."
+    },
+    {
+      "senadoId": "550091",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-25-8215",
+      "titulo": "Lei nº 8.215 de 25/07/1991",
+      "data": "1991-07-25",
+      "numero": "8215",
+      "urn": "urn:lex:br:federal:lei:1991-07-25;8215",
+      "ementa": "Cria o Tribunal Regional do Trabalho da 21ª Região."
+    },
+    {
+      "senadoId": "550089",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-24-8213",
+      "titulo": "Lei nº 8.213 de 24/07/1991",
+      "data": "1991-07-24",
+      "numero": "8213",
+      "urn": "urn:lex:br:federal:lei:1991-07-24;8213",
+      "ementa": "Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências."
+    },
+    {
+      "senadoId": "550088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-24-8212",
+      "titulo": "Lei nº 8.212 de 24/07/1991",
+      "data": "1991-07-24",
+      "numero": "8212",
+      "urn": "urn:lex:br:federal:lei:1991-07-24;8212",
+      "ementa": "Dispõe sobre a organização da Seguridade Social, institui Plano de Custeio, e dá outras providências. ; ;"
+    },
+    {
+      "senadoId": "550090",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-24-8214",
+      "titulo": "Lei nº 8.214 de 24/07/1991",
+      "data": "1991-07-24",
+      "numero": "8214",
+      "urn": "urn:lex:br:federal:lei:1991-07-24;8214",
+      "ementa": "Estabelece normas para a realização das eleições municipais de 3 de outubro de 1992 e dá outras providências."
+    },
+    {
+      "senadoId": "550087",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-22-8211",
+      "titulo": "Lei nº 8.211 de 22/07/1991",
+      "data": "1991-07-22",
+      "numero": "8211",
+      "urn": "urn:lex:br:federal:lei:1991-07-22;8211",
+      "ementa": "Dispõe sobre as diretrizes orçamentárias para o ano de 1992 e dá outras providências."
+    },
+    {
+      "senadoId": "550086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-19-8210",
+      "titulo": "Lei nº 8.210 de 19/07/1991",
+      "data": "1991-07-19",
+      "numero": "8210",
+      "urn": "urn:lex:br:federal:lei:1991-07-19;8210",
+      "ementa": "Cria a Área de Livre Comércio de Guajará-Mirim, no Estado de Rondônia, e dá outras providências."
+    },
+    {
+      "senadoId": "550085",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-18-8209",
+      "titulo": "Lei nº 8.209 de 18/07/1991",
+      "data": "1991-07-18",
+      "numero": "8209",
+      "urn": "urn:lex:br:federal:lei:1991-07-18;8209",
+      "ementa": "Altera a Lei nº 6.939, de 9 de setembro de 1981, que trata do regime sumário de registro e arquivamento no Registro do Comércio."
+    },
+    {
+      "senadoId": "550084",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-16-8208",
+      "titulo": "Lei nº 8.208 de 16/07/1991",
+      "data": "1991-07-16",
+      "numero": "8208",
+      "urn": "urn:lex:br:federal:lei:1991-07-16;8208",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Secas (DNOCS),   autarquia vinculada ao Ministério da Agricultura e Reforma Agrária, a doar o   imóvel que menciona situado no Município de Coremas, Estado da   Paraíba."
+    },
+    {
+      "senadoId": "550083",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-11-8207",
+      "titulo": "Lei nº 8.207 de 11/07/1991",
+      "data": "1991-07-11",
+      "numero": "8207",
+      "urn": "urn:lex:br:federal:lei:1991-07-11;8207",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as   Secas - (DNOCS), Autarquia vinculada ao Ministério da Agricultura e Reforma   Agrária, a doar o imóvel que menciona, situado no Município de Coremas, Estado   da Paraíba."
+    },
+    {
+      "senadoId": "550082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-10-8206",
+      "titulo": "Lei nº 8.206 de 10/07/1991",
+      "data": "1991-07-10",
+      "numero": "8206",
+      "urn": "urn:lex:br:federal:lei:1991-07-10;8206",
+      "ementa": "Autoriza o Instituto Nacional do Seguro Social (INSS) a doar à Diocese de   Pinheiro, no Estado do Maranhão, o imóvel que menciona."
+    },
+    {
+      "senadoId": "550081",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-08-8205",
+      "titulo": "Lei nº 8.205 de 08/07/1991",
+      "data": "1991-07-08",
+      "numero": "8205",
+      "urn": "urn:lex:br:federal:lei:1991-07-08;8205",
+      "ementa": "Autoriza a emissão extraordinária de Títulos Públicos Federais, no   montante de Cr$ 205.500.000.000,00 e a abertura de créditos adicionais, em favor   da unidade \"Recursos sob a Supervisão do Ministério da Economia, Fazenda e   Planejamento\", no montante de até Cr$ 302.100.000.000,00."
+    },
+    {
+      "senadoId": "550080",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-08-8204",
+      "titulo": "Lei nº 8.204 de 08/07/1991",
+      "data": "1991-07-08",
+      "numero": "8204",
+      "urn": "urn:lex:br:federal:lei:1991-07-08;8204",
+      "ementa": "Fixa o efetivo da Polícia Militar do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "550079",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-05-8203",
+      "titulo": "Lei nº 8.203 de 05/07/1991",
+      "data": "1991-07-05",
+      "numero": "8203",
+      "urn": "urn:lex:br:federal:lei:1991-07-05;8203",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   suplementar no valor de Cr$ 209.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-07-05-8202",
+      "titulo": "Lei nº 8.202 de 05/07/1991",
+      "data": "1991-07-05",
+      "numero": "8202",
+      "urn": "urn:lex:br:federal:lei:1991-07-05;8202",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito especial até o limite de Cr$ 18.350.532.000,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "550077",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-29-8201",
+      "titulo": "Lei nº 8.201 de 29/06/1991",
+      "data": "1991-06-29",
+      "numero": "8201",
+      "urn": "urn:lex:br:federal:lei:1991-06-29;8201",
+      "ementa": "Prorroga o prazo a que se refere o artigo 1º das Leis nºs 8.056, de 28 de junho de 1990, e nº 8.127, de 20 de dezembro de 1990."
+    },
+    {
+      "senadoId": "550074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-28-8198",
+      "titulo": "Lei nº 8.198 de 28/06/1991",
+      "data": "1991-06-28",
+      "numero": "8198",
+      "urn": "urn:lex:br:federal:lei:1991-06-28;8198",
+      "ementa": "Dispõe sobre os vencimentos, salários e demais retribuições de servidores que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "550075",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-28-8199",
+      "titulo": "Lei nº 8.199 de 28/06/1991",
+      "data": "1991-06-28",
+      "numero": "8199",
+      "urn": "urn:lex:br:federal:lei:1991-06-28;8199",
+      "ementa": "Concede isenção do Imposto sobre Produtos Industrializados - IPI na   aquisição de automóveis para utilização no transporte autônomo de passageiros,   bem como por pessoas portadoras de deficiência física e aos destinados ao   transporte escolar, e dá outras providências."
+    },
+    {
+      "senadoId": "550076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-28-8200",
+      "titulo": "Lei nº 8.200 de 28/06/1991",
+      "data": "1991-06-28",
+      "numero": "8200",
+      "urn": "urn:lex:br:federal:lei:1991-06-28;8200",
+      "ementa": "Dispõe sobre a correção monetária das demonstrações financeiras para efeitos fiscais e societários."
+    },
+    {
+      "senadoId": "550073",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-27-8197",
+      "titulo": "Lei nº 8.197 de 27/06/1991",
+      "data": "1991-06-27",
+      "numero": "8197",
+      "urn": "urn:lex:br:federal:lei:1991-06-27;8197",
+      "ementa": "Disciplina a transação nas causas de interesse da União, suas autarquias,   fundações e empresas públicas federais; dispõe sobre a intervenção da União   Federal nas causas em que figurem como autores ou réus entes da administração   indireta; regula os pagamentos devidos pela Fazenda Pública, em virtude de   senteça judiciária; revoga a Lei nº 6.825, de 22 de setembro de 1980, e dá   outras providências."
+    },
+    {
+      "senadoId": "550072",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-26-8196",
+      "titulo": "Lei nº 8.196 de 26/06/1991",
+      "data": "1991-06-26",
+      "numero": "8196",
+      "urn": "urn:lex:br:federal:lei:1991-06-26;8196",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 850.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550071",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-26-8195",
+      "titulo": "Lei nº 8.195 de 26/06/1991",
+      "data": "1991-06-26",
+      "numero": "8195",
+      "urn": "urn:lex:br:federal:lei:1991-06-26;8195",
+      "ementa": "Altera a Lei nº 5.194, de 24 de dezembro de 1966, que regula o exercício   das profissões de Engenheiro, Arquiteto e Engenheiro Agrônomo, dispondo sobre   eleições diretas para Presidente dos Conselhos Federal e Regionais de   Engenharia, Arquitetura e Agronomia, e dá outras providências."
+    },
+    {
+      "senadoId": "550070",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-25-8194",
+      "titulo": "Lei nº 8.194 de 25/06/1991",
+      "data": "1991-06-25",
+      "numero": "8194",
+      "urn": "urn:lex:br:federal:lei:1991-06-25;8194",
+      "ementa": "Altera dispositivos da Lei nº 7.622, de 9 de outubro de 1987, e fixa os efetivos de Oficiais e Praças dos Quadros do Corpo Auxiliar Feminino da Reserva da Marinha - CAFRM."
+    },
+    {
+      "senadoId": "550069",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-18-8193",
+      "titulo": "Lei nº 8.193 de 18/06/1991",
+      "data": "1991-06-18",
+      "numero": "8193",
+      "urn": "urn:lex:br:federal:lei:1991-06-18;8193",
+      "ementa": "Complementa e introduz alterações em dispositivos da Lei de Diretrizes   Orçamentárias (Lei nº 8074, de 31 de julho de 1990)."
+    },
+    {
+      "senadoId": "550068",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-12-8192",
+      "titulo": "Lei nº 8.192 de 12/06/1991",
+      "data": "1991-06-12",
+      "numero": "8192",
+      "urn": "urn:lex:br:federal:lei:1991-06-12;8192",
+      "ementa": "Reajusta pensão especial concedida pela Lei nº 5.347, de 3 de novembro de   1967, ao Dr. Speridião Gabínio de Carvalho, revertida à viúva ANA   GUIMARÃES."
+    },
+    {
+      "senadoId": "550067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-11-8191",
+      "titulo": "Lei nº 8.191 de 11/06/1991",
+      "data": "1991-06-11",
+      "numero": "8191",
+      "urn": "urn:lex:br:federal:lei:1991-06-11;8191",
+      "ementa": "Institui isenção do Imposto sobre Produtos Industrializados - IPI e   depreciação acelerada para máquinas, equipamentos, e dá outras   providências."
+    },
+    {
+      "senadoId": "550066",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-07-8190",
+      "titulo": "Lei nº 8.190 de 07/06/1991",
+      "data": "1991-06-07",
+      "numero": "8190",
+      "urn": "urn:lex:br:federal:lei:1991-06-07;8190",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do Trabalho da 5ª Região, cria cargos e dá outras providências."
+    },
+    {
+      "senadoId": "550065",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-04-8189",
+      "titulo": "Lei nº 8.189 de 04/06/1991",
+      "data": "1991-06-04",
+      "numero": "8189",
+      "urn": "urn:lex:br:federal:lei:1991-06-04;8189",
+      "ementa": "Autoriza a União a doar ao Município de Patrocínio, Estado de Minas   Gerais, o terreno que especifica."
+    },
+    {
+      "senadoId": "550063",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-01-8187",
+      "titulo": "Lei nº 8.187 de 01/06/1991",
+      "data": "1991-06-01",
+      "numero": "8187",
+      "urn": "urn:lex:br:federal:lei:1991-06-01;8187",
+      "ementa": "Autoriza a concessão de financiamento à exportação de bens e serviços   nacionais."
+    },
+    {
+      "senadoId": "550064",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-06-01-8188",
+      "titulo": "Lei nº 8.188 de 01/06/1991",
+      "data": "1991-06-01",
+      "numero": "8188",
+      "urn": "urn:lex:br:federal:lei:1991-06-01;8188",
+      "ementa": "Dispõe sobre o enquadramento dos servidores da extinta Fundação Projeto   Rondon, redistribuídos para órgãos da Administração Federal direta, autarquias e   fundações públicas."
+    },
+    {
+      "senadoId": "550062",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-05-21-8186",
+      "titulo": "Lei nº 8.186 de 21/05/1991",
+      "data": "1991-05-21",
+      "numero": "8186",
+      "urn": "urn:lex:br:federal:lei:1991-05-21;8186",
+      "ementa": "Dispõe sobre a complementação de aposentadoria de ferroviários e dá outras   providências."
+    },
+    {
+      "senadoId": "550061",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-05-14-8185",
+      "titulo": "Lei nº 8.185 de 14/05/1991",
+      "data": "1991-05-14",
+      "numero": "8185",
+      "urn": "urn:lex:br:federal:lei:1991-05-14;8185",
+      "ementa": "Dispõe sobre a organização judiciária do Distrito Federal e dos Territórios."
+    },
+    {
+      "senadoId": "550060",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-05-10-8184",
+      "titulo": "Lei nº 8.184 de 10/05/1991",
+      "data": "1991-05-10",
+      "numero": "8184",
+      "urn": "urn:lex:br:federal:lei:1991-05-10;8184",
+      "ementa": "Dispõe sobre a periodicidade dos Censos Demográficos e dos Censos Econômicos e dá outras providências."
+    },
+    {
+      "senadoId": "550059",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-04-11-8183",
+      "titulo": "Lei nº 8.183 de 11/04/1991",
+      "data": "1991-04-11",
+      "numero": "8183",
+      "urn": "urn:lex:br:federal:lei:1991-04-11;8183",
+      "ementa": "Dispõe sobre a organização e o funcionamento do Conselho de Defesa Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "550058",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-04-02-8182",
+      "titulo": "Lei nº 8.182 de 02/04/1991",
+      "data": "1991-04-02",
+      "numero": "8182",
+      "urn": "urn:lex:br:federal:lei:1991-04-02;8182",
+      "ementa": "Autoriza a reversão ao Municípo de Poconé, Estado de Mato Grosso, do   terreno que menciona."
+    },
+    {
+      "senadoId": "550057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-03-28-8181",
+      "titulo": "Lei nº 8.181 de 28/03/1991",
+      "data": "1991-03-28",
+      "numero": "8181",
+      "urn": "urn:lex:br:federal:lei:1991-03-28;8181",
+      "ementa": "Dá nova denominação à Empresa Brasileira de Turismo - EMBRATUR, e dá outras providências."
+    },
+    {
+      "senadoId": "550056",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-03-18-8180",
+      "titulo": "Lei nº 8.180 de 18/03/1991",
+      "data": "1991-03-18",
+      "numero": "8180",
+      "urn": "urn:lex:br:federal:lei:1991-03-18;8180",
+      "ementa": "Dispensa a realização de vistoria judicial na hipótese que menciona."
+    },
+    {
+      "senadoId": "550055",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-03-14-8179",
+      "titulo": "Lei nº 8.179 de 14/03/1991",
+      "data": "1991-03-14",
+      "numero": "8179",
+      "urn": "urn:lex:br:federal:lei:1991-03-14;8179",
+      "ementa": "Autoriza a reversão ao Município de Iguape, Estado de São Paulo, do   terreno que menciona."
+    },
+    {
+      "senadoId": "550053",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-03-01-8177",
+      "titulo": "Lei nº 8.177 de 01/03/1991",
+      "data": "1991-03-01",
+      "numero": "8177",
+      "urn": "urn:lex:br:federal:lei:1991-03-01;8177",
+      "ementa": "Estabelece regras para a desindexação da economia e dá outras providências."
+    },
+    {
+      "senadoId": "550054",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-03-01-8178",
+      "titulo": "Lei nº 8.178 de 01/03/1991",
+      "data": "1991-03-01",
+      "numero": "8178",
+      "urn": "urn:lex:br:federal:lei:1991-03-01;8178",
+      "ementa": "Estabelece regras sobre preços e salários e dá outras providências."
+    },
+    {
+      "senadoId": "550052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-02-08-8176",
+      "titulo": "Lei nº 8.176 de 08/02/1991",
+      "data": "1991-02-08",
+      "numero": "8176",
+      "urn": "urn:lex:br:federal:lei:1991-02-08;8176",
+      "ementa": "Define crimes contra a ordem econômica e cria o Sistema de Estoques de   Combustíveis."
+    },
+    {
+      "senadoId": "550051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-31-8175",
+      "titulo": "Lei nº 8.175 de 31/01/1991",
+      "data": "1991-01-31",
+      "numero": "8175",
+      "urn": "urn:lex:br:federal:lei:1991-01-31;8175",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1991."
+    },
+    {
+      "senadoId": "550050",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-30-8174",
+      "titulo": "Lei nº 8.174 de 30/01/1991",
+      "data": "1991-01-30",
+      "numero": "8174",
+      "urn": "urn:lex:br:federal:lei:1991-01-30;8174",
+      "ementa": "Dispõe sobre principios de Política Agrícola, estabelecendo atribuições ao   Conselho Nacional de Política Agrícola - CNPA, tributação compensatória de   produtos agrícolas, amparo ao pequeno produtor e regras de fixação e liberação   dos estoques públicos ."
+    },
+    {
+      "senadoId": "550049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-30-8173",
+      "titulo": "Lei nº 8.173 de 30/01/1991",
+      "data": "1991-01-30",
+      "numero": "8173",
+      "urn": "urn:lex:br:federal:lei:1991-01-30;8173",
+      "ementa": "Dispõe sobre o Plano Plurianual para o quinquênio 1991/1995 e dá outras providências."
+    },
+    {
+      "senadoId": "550048",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-18-8172",
+      "titulo": "Lei nº 8.172 de 18/01/1991",
+      "data": "1991-01-18",
+      "numero": "8172",
+      "urn": "urn:lex:br:federal:lei:1991-01-18;8172",
+      "ementa": "Restabelece o Fundo Nacional de Desenvolvimento Científico e   Tecnológico."
+    },
+    {
+      "senadoId": "550045",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-17-8169",
+      "titulo": "Lei nº 8.169 de 17/01/1991",
+      "data": "1991-01-17",
+      "numero": "8169",
+      "urn": "urn:lex:br:federal:lei:1991-01-17;8169",
+      "ementa": "Autoriza a utilização de recursos do Fundo de Renovação da Marinha   Mercante em favor da Companhia de Navegação Lloyd Brasileiro   (LLOYDBRAS)."
+    },
+    {
+      "senadoId": "550047",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-17-8171",
+      "titulo": "Lei nº 8.171 de 17/01/1991",
+      "data": "1991-01-17",
+      "numero": "8171",
+      "urn": "urn:lex:br:federal:lei:1991-01-17;8171",
+      "ementa": "Dispõe sobre a política agrícola."
+    },
+    {
+      "senadoId": "550046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-17-8170",
+      "titulo": "Lei nº 8.170 de 17/01/1991",
+      "data": "1991-01-17",
+      "numero": "8170",
+      "urn": "urn:lex:br:federal:lei:1991-01-17;8170",
+      "ementa": "Estabelece regras para a negociação de reajustes das mensalidades   escolares, e dá outras providências."
+    },
+    {
+      "senadoId": "550044",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-16-8168",
+      "titulo": "Lei nº 8.168 de 16/01/1991",
+      "data": "1991-01-16",
+      "numero": "8168",
+      "urn": "urn:lex:br:federal:lei:1991-01-16;8168",
+      "ementa": "Dispõe sobre as funções de confiança a que se refere a Lei nº 7.596, de 10 de abril de 1987, e dá outras providências."
+    },
+    {
+      "senadoId": "550043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-16-8167",
+      "titulo": "Lei nº 8.167 de 16/01/1991",
+      "data": "1991-01-16",
+      "numero": "8167",
+      "urn": "urn:lex:br:federal:lei:1991-01-16;8167",
+      "ementa": "Altera a legislação do Imposto sobre a Renda relativa a incentivos fiscais, estabelece novas condições operacionais dos Fundos de Invenstimentos Regionais e dá outras providências."
+    },
+    {
+      "senadoId": "550041",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-11-8165",
+      "titulo": "Lei nº 8.165 de 11/01/1991",
+      "data": "1991-01-11",
+      "numero": "8165",
+      "urn": "urn:lex:br:federal:lei:1991-01-11;8165",
+      "ementa": "Autoriza a União Federal e o Instituto Nacional do Seguro Social - INSS a permutarem frações ideais de imóveis que menciona, situados nos Municípios de Caxias do Sul e de Pelotas, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "550042",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-11-8166",
+      "titulo": "Lei nº 8.166 de 11/01/1991",
+      "data": "1991-01-11",
+      "numero": "8166",
+      "urn": "urn:lex:br:federal:lei:1991-01-11;8166",
+      "ementa": "Dispõe sobre a não incidência do Imposto de Renda sobre lucros ou   dividendos distribuídos a residentes ou domiciliados no exterior, doados a   instituições sem fins lucrativos."
+    },
+    {
+      "senadoId": "550039",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-09-8163",
+      "titulo": "Lei nº 8.163 de 09/01/1991",
+      "data": "1991-01-09",
+      "numero": "8163",
+      "urn": "urn:lex:br:federal:lei:1991-01-09;8163",
+      "ementa": "Cria cargos na Procuradoria Regional do Trabalho da 14ª Região, em Porto Velho - RO, e dá outras providências."
+    },
+    {
+      "senadoId": "550040",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-09-8164",
+      "titulo": "Lei nº 8.164 de 09/01/1991",
+      "data": "1991-01-09",
+      "numero": "8164",
+      "urn": "urn:lex:br:federal:lei:1991-01-09;8164",
+      "ementa": "Cria a Procuradoria Regional do Trabalho da 17ª Região da Justiça do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "550037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-08-8161",
+      "titulo": "Lei nº 8.161 de 08/01/1991",
+      "data": "1991-01-08",
+      "numero": "8161",
+      "urn": "urn:lex:br:federal:lei:1991-01-08;8161",
+      "ementa": "Autoriza a doação do imóvel que menciona."
+    },
+    {
+      "senadoId": "550034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-08-8158",
+      "titulo": "Lei nº 8.158 de 08/01/1991",
+      "data": "1991-01-08",
+      "numero": "8158",
+      "urn": "urn:lex:br:federal:lei:1991-01-08;8158",
+      "ementa": "Institui normas para a defesa da concorrência e dá outras providências."
+    },
+    {
+      "senadoId": "550038",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-08-8162",
+      "titulo": "Lei nº 8.162 de 08/01/1991",
+      "data": "1991-01-08",
+      "numero": "8162",
+      "urn": "urn:lex:br:federal:lei:1991-01-08;8162",
+      "ementa": "Dispõe sobre a revisão dos vencimentos, salários, proventos e demais retribuições dos servidores civis e a fixação dos soldos dos militares do Poder Executivo, na Administração direta, autárquica e fundacional, e dá outra providências."
+    },
+    {
+      "senadoId": "550035",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-08-8159",
+      "titulo": "Lei nº 8.159 de 08/01/1991",
+      "data": "1991-01-08",
+      "numero": "8159",
+      "urn": "urn:lex:br:federal:lei:1991-01-08;8159",
+      "ementa": "Dispõe sobre a política nacional de arquivos públicos e privados e dá outras providências."
+    },
+    {
+      "senadoId": "550036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-08-8160",
+      "titulo": "Lei nº 8.160 de 08/01/1991",
+      "data": "1991-01-08",
+      "numero": "8160",
+      "urn": "urn:lex:br:federal:lei:1991-01-08;8160",
+      "ementa": "Dispõe sobre a caracterização de símbolo que permita a identificação de pessoas portadoras de deficiência auditiva."
+    },
+    {
+      "senadoId": "550033",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1991-01-03-8157",
+      "titulo": "Lei nº 8.157 de 03/01/1991",
+      "data": "1991-01-03",
+      "numero": "8157",
+      "urn": "urn:lex:br:federal:lei:1991-01-03;8157",
+      "ementa": "Modifica a Lei nº 6.649, de 16 de maio de 1979, que regula a locação   predial urbana, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-04-15499",
+  "titulo": "Lei nº 15.499 de 04/09/2026",
+  "data": "2026-09-04",
+  "fonte": "https://normas.leg.br/api/public/binario/53f09c3f-ab40-41b1-9a08-4657772ef5ed/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-04;15499",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-04%3B15499&tipo_documento=maior-detalhe",
+  "sha256_dados": "f611c45502e28d20e8c0fbea23d4bbfd464ad6a270cdf9f0024c0389aad15cfb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:45.334Z",
+  "sha256_fonte": "972614d0ca3a83d316e2a209038ab6258be95ad2a1e2037b44629b2707b31de7",
+  "sha256_markdown": "730b41717161771f266061a7093d273b3129674d8531b6eca2a575e3445d7162"
+}

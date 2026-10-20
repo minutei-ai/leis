@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-08-17-15490",
+  "titulo": "Lei nº 15.490 de 17/08/2026",
+  "data": "2026-08-17",
+  "fonte": "https://normas.leg.br/api/public/binario/7b0f6bc2-d0e2-4df5-9ea0-57b82416a2a7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-08-17;15490",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-08-17%3B15490&tipo_documento=maior-detalhe",
+  "sha256_dados": "e9b93b1f85dcdcef2b1e11bc3f82362cb24d10f8b41e0a78f6ba4c8f1399eb8c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:56.852Z",
+  "sha256_fonte": "634ac4a9c54af120f43eb6bc287272ba8b3d0aee23966de292d62577de7aa380",
+  "sha256_markdown": "d7aa3a38e26a5020bb03df0f101058874ce37e82665f355172319644e138f40f"
+}

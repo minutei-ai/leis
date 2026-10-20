@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-21-15508",
+  "titulo": "Lei nº 15.508 de 21/09/2026",
+  "data": "2026-09-21",
+  "fonte": "https://normas.leg.br/api/public/binario/6b348a52-c1ba-4176-8457-0b22f7f6007c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-21;15508",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-21%3B15508&tipo_documento=maior-detalhe",
+  "sha256_dados": "897e9c7b70923179ec3856a648af627d521dba86cc1f12a2ea7c937807a435f9",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:34.963Z",
+  "sha256_fonte": "18f9f753a9817408440a64206954e4d95c615689846b16a60677f6a34980ab4c",
+  "sha256_markdown": "d14d3e6c8896eb7a2c68f761910f54f6996977fd204d2410e3c82d145a9bfbdf"
+}

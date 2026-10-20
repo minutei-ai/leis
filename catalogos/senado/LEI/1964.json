@@ -1,0 +1,2789 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1964",
+  "tipo": "LEI",
+  "ano": 1964,
+  "coletado_em": "2026-10-20T22:59:53.085Z",
+  "normas": [
+    {
+      "senadoId": "546448",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-31-4595",
+      "titulo": "Lei nº 4.595 de 31/12/1964",
+      "data": "1964-12-31",
+      "numero": "4595",
+      "urn": "urn:lex:br:federal:lei:1964-12-31;4595",
+      "ementa": "Dispõe sôbre a Política e as Instituições Monetárias, Bancárias e Creditícias, cria o Conselho Monetário Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "546447",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-29-4594",
+      "titulo": "Lei nº 4.594 de 29/12/1964",
+      "data": "1964-12-29",
+      "numero": "4594",
+      "urn": "urn:lex:br:federal:lei:1964-12-29;4594",
+      "ementa": "Regula a profissão de corretor de seguros."
+    },
+    {
+      "senadoId": "546445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-29-4592",
+      "titulo": "Lei nº 4.592 de 29/12/1964",
+      "data": "1964-12-29",
+      "numero": "4592",
+      "urn": "urn:lex:br:federal:lei:1964-12-29;4592",
+      "ementa": "Aprova o Plano Nacional de Viação."
+    },
+    {
+      "senadoId": "546446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-29-4593",
+      "titulo": "Lei nº 4.593 de 29/12/1964",
+      "data": "1964-12-29",
+      "numero": "4593",
+      "urn": "urn:lex:br:federal:lei:1964-12-29;4593",
+      "ementa": "Disciplina a desapropriação para as obras de combate às sêcas do Nordeste."
+    },
+    {
+      "senadoId": "546444",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-16-4591",
+      "titulo": "Lei nº 4.591 de 16/12/1964",
+      "data": "1964-12-16",
+      "numero": "4591",
+      "urn": "urn:lex:br:federal:lei:1964-12-16;4591",
+      "ementa": "Dispõe sobre o condomínio em edificações e as incorporações imobiliárias."
+    },
+    {
+      "senadoId": "546439",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4586",
+      "titulo": "Lei nº 4.586 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4586",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4586",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 2ª Região - o crédito especial de Cr$ 23.418.880,00 (vinte e três milhões, quatrocentos e dezoito mil, oitocentos e oitenta cruzeiros), destinado à instalação e adaptação de sua sede."
+    },
+    {
+      "senadoId": "546425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4572",
+      "titulo": "Lei nº 4.572 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4572",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4572",
+      "ementa": "Estende à União dos Ferroviários do Brasil as vantagens da Lei nº 2.339, de 20 de novembro de 1954, que inclui a Associação dos Servidores Civis do Brasil e o Montepio Geral de Economia dos Servidores do Estado entre as entidades consignatárias de que trata a Lei n. 1046, de 2 de janeiro de 1950."
+    },
+    {
+      "senadoId": "546423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4570",
+      "titulo": "Lei nº 4.570 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4570",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4570",
+      "ementa": "Transfere verbas do Orçamento da Comissão do Vale do São Francisco."
+    },
+    {
+      "senadoId": "546442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4589",
+      "titulo": "Lei nº 4.589 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4589",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4589",
+      "ementa": "Extingue a Comissão do Imposto Sindical, a Comissão Técnica de Orientação Sindical cria órgãos no Ministério do Trabalho e Previdência Social, e dá outras providências."
+    },
+    {
+      "senadoId": "546417",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4564",
+      "titulo": "Lei nº 4.564 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4564",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4564",
+      "ementa": "Dispõe sobre vencimentos e salários do pessoal da Rede Ferroviária Federal S.A. e dá outras providências."
+    },
+    {
+      "senadoId": "546418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4565",
+      "titulo": "Lei nº 4.565 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4565",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4565",
+      "ementa": "Altera o art. 4º da Lei nº 3.643, de 14 de outubro de 1959 (pagamento de débitos de cafeicultores), e dá outras providências."
+    },
+    {
+      "senadoId": "546432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4579",
+      "titulo": "Lei nº 4.579 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4579",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4579",
+      "ementa": "Autoriza a abertura do crédito especial de Cr$ 1.360.000,00 em favor do Tribunal Regional Eleitoral da Bahia."
+    },
+    {
+      "senadoId": "546422",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4569",
+      "titulo": "Lei nº 4.569 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4569",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4569",
+      "ementa": "Autoriza o Poder Executivo a doar à Cooperação Agrícola Samborjense Ltda., com sede na cidade de São Borja, Estado do Rio Grande do Sul, uma área de terrenos de seu domínio patrimonial, sob a administração da Viação Férrea do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "546441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4588",
+      "titulo": "Lei nº 4.588 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4588",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4588",
+      "ementa": "Altera, sem aumento de despesa, a Lei nº 4.295, de 16 de dezembro de 1963, que estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1964, na parte referente ao Subanexo 4.17 - Ministério da Justiça e Negócios Interiores - 17 - Territórios Federais."
+    },
+    {
+      "senadoId": "546431",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4578",
+      "titulo": "Lei nº 4.578 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4578",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4578",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Superior Eleitoral - crédito especial de Cr$ 5.422.893,50 (cinco milhões, quatrocentos e vinte e dois mil, oitocentos e noventa e três cruzeiros e cinqüenta centavos), para atender a despesas com pessoal civil, salário-família e gratificações adicionais por tempo de serviço dos servidores de sua Secretaria."
+    },
+    {
+      "senadoId": "546416",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4563",
+      "titulo": "Lei nº 4.563 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4563",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4563",
+      "ementa": "Institui o Conselho Nacional de Transportes e dá outras providências."
+    },
+    {
+      "senadoId": "546424",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4571",
+      "titulo": "Lei nº 4.571 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4571",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4571",
+      "ementa": "Concede amparo aos alunos dos Centros de Formação de Reservistas e dos Tiros de Guerra, quando invalidados em consequência de acidentes verificados em serviço."
+    },
+    {
+      "senadoId": "546427",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4574",
+      "titulo": "Lei nº 4.574 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4574",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4574",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 90.000.000,00 (noventa milhões de cruzeiros) para atender às despesas urgentes de pessoal da Comissão Mista Ferroviária Brasileiro-Boliviano."
+    },
+    {
+      "senadoId": "546426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4573",
+      "titulo": "Lei nº 4.573 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4573",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4573",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional Eleitoral do Distrito Federal - o crédito suplementar de Cr$ 2.507.880,00 (dois milhões, quinhentos e sete mil oitocentos e oitenta cruzeiros), em reforço de subconsignação que especifica."
+    },
+    {
+      "senadoId": "546420",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4567",
+      "titulo": "Lei nº 4.567 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4567",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4567",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, do crédito especial de Cr$ 397.246.024,90, destinado ao ressarcimento do Banco de Crédito da Amazônia S.A. pelas despesas efetuadas com o pagamento do aumento de 25% sobre os preços de compra da borracha nacional."
+    },
+    {
+      "senadoId": "546419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4566",
+      "titulo": "Lei nº 4.566 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4566",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4566",
+      "ementa": "Altera a subvenção concedida à Faculdade de Filosofia da Universidade Católica Sul- Riograndense."
+    },
+    {
+      "senadoId": "546415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4562",
+      "titulo": "Lei nº 4.562 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4562",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4562",
+      "ementa": "Isenta dos impostos de importação e de consumo, ressalvada a taxa de despacho aduaneiro, materiais destinados à montagem de uma base de revisão para motores a reação e de combustão interna importados pela firma Rolls Royce S.A."
+    },
+    {
+      "senadoId": "546443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4590",
+      "titulo": "Lei nº 4.590 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4590",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4590",
+      "ementa": "Dispõe sobre o custeio pela União, no exercício de 1960, dos serviços públicos transferidos para o Estado da Guanabara pela Lei n. 3752, de 14 de abril de 1960."
+    },
+    {
+      "senadoId": "546440",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4587",
+      "titulo": "Lei nº 4.587 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4587",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4587",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 47.130.000,00 (quarenta e sete milhões cento e trinta mil cruzeiros), destinado ao pagamento de despesas que especifica."
+    },
+    {
+      "senadoId": "546438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4585",
+      "titulo": "Lei nº 4.585 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4585",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4585",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional do Eleitoral da Guanabara - o crédito suplementar de Cr$ 66.679.000,00 (sessenta e seis milhões seiscentos e setenta e nove mil cruzeiros), em reforço à dotação do Orçamento vigente."
+    },
+    {
+      "senadoId": "546414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4561",
+      "titulo": "Lei nº 4.561 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4561",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4561",
+      "ementa": "Cria cargos isolados de provimento em comissão no Quadro Permanente do Ministério da Saúde."
+    },
+    {
+      "senadoId": "546428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4575",
+      "titulo": "Lei nº 4.575 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4575",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4575",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 24.804.500,00, para atender às despesas com a desapropriação, pela União, do imóvel situado na Praia do Flamengo, 130-132, no Estado da Guanabara, e que se destina a abrigar a Campanha de Assistência ao Estudante."
+    },
+    {
+      "senadoId": "546430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4577",
+      "titulo": "Lei nº 4.577 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4577",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4577",
+      "ementa": "Isenta do imposto de importação material destinado à fabricação de centrais telefônicas a ser importado pela Siemens do Brasil Companhia de Eletricidade."
+    },
+    {
+      "senadoId": "546429",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4576",
+      "titulo": "Lei nº 4.576 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4576",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4576",
+      "ementa": "Define a competência julgadora de recursos fiscais."
+    },
+    {
+      "senadoId": "546433",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4580",
+      "titulo": "Lei nº 4.580 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4580",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4580",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial até Cr$ 2.502.419,80 (Dois milhões, quinhentos e dois mil, quatrocentos e dezenove cruzeiros e oitenta centavos), para ocorrer a despesas com pagamento devido ao pessoal admitido por conta da verba de obras, e dá outras providências."
+    },
+    {
+      "senadoId": "546435",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4582",
+      "titulo": "Lei nº 4.582 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4582",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4582",
+      "ementa": "Concede isenção dos impostos de importação e de consumo para centros telefônicos automáticos a serem importados pelas Companhias Telefônicas de Valinhos, em Valinhos, e Empresa Telefônica Araraense S.A., em Araras, ambas, no Estado de São Paulo, e pela Companhia Telefônica de Goiás, em Goiás, Estado de Goiás."
+    },
+    {
+      "senadoId": "546434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4581",
+      "titulo": "Lei nº 4.581 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4581",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4581",
+      "ementa": "Dispõe sobre a venda das casas residenciais que integram a \"Vila Demóstenes Rockert\" em Fortaleza, a seus atuais ocupantes."
+    },
+    {
+      "senadoId": "546436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4583",
+      "titulo": "Lei nº 4.583 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4583",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4583",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito especial de Cr$ 125.251.270,60 (cento e vinte e cinco milhões, duzentos e cinqüenta e um mil, duzentos e setenta cruzeiros e sessenta centavos), para pagamento de débitos da Divisão do Material do mesmo Ministério."
+    },
+    {
+      "senadoId": "546413",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4560",
+      "titulo": "Lei nº 4.560 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4560",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4560",
+      "ementa": "Concede aos servidores da Viação Férrea do Rio Grande do Sul, aposentados até 31 de dezembro de 1959, o abono provisório de que trata a Lei nº 3.531, de 19 de janeiro de 1959, e dá outras providências."
+    },
+    {
+      "senadoId": "546437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4584",
+      "titulo": "Lei nº 4.584 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4584",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4584",
+      "ementa": "Concede, pelo prazo de 4 (quatro) anos, isenção dos impostos de importação e consumo, para importação do material destinado à instalação ou ampliação da Indústria Nacional de Mecânica Pesada e dá outras providências."
+    },
+    {
+      "senadoId": "546421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-11-4568",
+      "titulo": "Lei nº 4.568 de 11/12/1964",
+      "data": "1964-12-11",
+      "numero": "4568",
+      "urn": "urn:lex:br:federal:lei:1964-12-11;4568",
+      "ementa": "Concede prorrogação até 30 de junho de 1964 do prazo estabelecido no art.   1. de Lei nº 3.963, de 20 de setembro de 1961 (Faculta isenção de direitos   alfandegários para importação de material destinado à fabricação de máquinas   agrícolas)."
+    },
+    {
+      "senadoId": "546399",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4546",
+      "titulo": "Lei nº 4.546 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4546",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4546",
+      "ementa": "Concede isenção de direitos, imposto de consumo e taxas aduaneiras, exceto a de Previdência Social, para a importação de pertences e acessórios para órgãos, destinados à Igreja Evangélica Lutherana de São Paulo, Estado de São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "546394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4541",
+      "titulo": "Lei nº 4.541 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4541",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4541",
+      "ementa": "Concede isenção dos impostos de importação e de consumo, bem como de emolumentos consulares e demais taxas a mercadorias e materiais destinados às comemorações do IV Centenário do Rio de Janeiro."
+    },
+    {
+      "senadoId": "546404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4551",
+      "titulo": "Lei nº 4.551 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4551",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4551",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Rio Grande do Sul, o crédito especial de Cr$ 2.500.000,00 (dois milhões e quinhentos mil cruzeiros), para os fins que especifica."
+    },
+    {
+      "senadoId": "546405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4552",
+      "titulo": "Lei nº 4.552 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4552",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4552",
+      "ementa": "Autoriza o Poder Executivo a abrir à Presidência da República - Conselho Nacional de Telecomunicações - o crédito suplementar de Cr$ 10.000.000,00."
+    },
+    {
+      "senadoId": "546393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4540",
+      "titulo": "Lei nº 4.540 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4540",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4540",
+      "ementa": "Dipõe sobre a elaboração e execução de Planos Quadrienais de Obras para a implantação do Plano Nacional de Viação."
+    },
+    {
+      "senadoId": "546392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4539",
+      "titulo": "Lei nº 4.539 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4539",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4539",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1965."
+    },
+    {
+      "senadoId": "546410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4557",
+      "titulo": "Lei nº 4.557 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4557",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4557",
+      "ementa": "Dispõe sobre a marcação de volumes para exportação e dá outras providências."
+    },
+    {
+      "senadoId": "546395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4542",
+      "titulo": "Lei nº 4.542 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4542",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4542",
+      "ementa": "Autoriza a abertura ao Poder Executivo - Presidência da República - do crédito suplementar de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros) para atender às despesas decorrentes da aplicação do Decreto Legislativo nº 40, de 20 de agosto de 1964."
+    },
+    {
+      "senadoId": "546400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4547",
+      "titulo": "Lei nº 4.547 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4547",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4547",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Fazenda o crédito especial de Cr$ 750.000.000,00, destinado a atender às despesas com a reconstrução da Feira de Água de Meninos, Estado da Bahia."
+    },
+    {
+      "senadoId": "546406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4553",
+      "titulo": "Lei nº 4.553 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4553",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4553",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 34.800.000,00 às verbas que especifica."
+    },
+    {
+      "senadoId": "546407",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4554",
+      "titulo": "Lei nº 4.554 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4554",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4554",
+      "ementa": "Isenta de tributos convênios que visem a atender ao disposto no art. 168, inciso III, da Constituição Federal."
+    },
+    {
+      "senadoId": "546408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4555",
+      "titulo": "Lei nº 4.555 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4555",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4555",
+      "ementa": "Concede isenção de direitos de importação para materiais, máquinas e equipamentos adquiridos pela Refinaria de Petróleo de Manguinhos S.A., para instalação e manutenção de sua Refinaria em Manguinhos, no Estado da Guanabara, antigo Distrito Federal."
+    },
+    {
+      "senadoId": "546412",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4559",
+      "titulo": "Lei nº 4.559 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4559",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4559",
+      "ementa": "Isenta dos impostos de importação e de consumo o equipamento telefônico a ser importado pela Companhia Telefônica de Patrocínio, na cidade do mesmo nome, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "546401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4548",
+      "titulo": "Lei nº 4.548 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4548",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4548",
+      "ementa": "Extingue a Agência da Capitania dos Portos do Estado do Piauí, em Urussuí, criada pela Lei nº 1.473-B, de 24 de novembro de 1951."
+    },
+    {
+      "senadoId": "546402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4549",
+      "titulo": "Lei nº 4.549 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4549",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4549",
+      "ementa": "Concede, pelo prazo de 24 meses, isenção de direitos alfadegários, imposto de consumo e taxa de despacho aduaneiro para importação de equipamento e material cinematográfico."
+    },
+    {
+      "senadoId": "546397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4544",
+      "titulo": "Lei nº 4.544 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4544",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4544",
+      "ementa": "Orça a Receita e fixa a Despesa do Distrito Federal para o exercício financeiro de 1965."
+    },
+    {
+      "senadoId": "546403",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4550",
+      "titulo": "Lei nº 4.550 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4550",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4550",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 3.000.000.000,00 (três bilhões de cruzeiros), destinado à aquisição e fabricação de munições."
+    },
+    {
+      "senadoId": "546396",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4543",
+      "titulo": "Lei nº 4.543 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4543",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4543",
+      "ementa": "Isenta do impôsto de importação equipamento industrial."
+    },
+    {
+      "senadoId": "546411",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4558",
+      "titulo": "Lei nº 4.558 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4558",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4558",
+      "ementa": "Cria uma Coletoria Federal no Município de Osasco, Estado de São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "546409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4556",
+      "titulo": "Lei nº 4.556 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4556",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4556",
+      "ementa": "Isenta do Imposto do Selo o contrato e demais atos subsequentes relativos ao empréstimo firmado pelo Departamento de Águas e Esgoto da Prefeitura Municipal de Porto Alegre com o Banco Interamericano de Desenvolvimento (B.I.D.)."
+    },
+    {
+      "senadoId": "546398",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-10-4545",
+      "titulo": "Lei nº 4.545 de 10/12/1964",
+      "data": "1964-12-10",
+      "numero": "4545",
+      "urn": "urn:lex:br:federal:lei:1964-12-10;4545",
+      "ementa": "Dispõe sobre a reestruturação administrativa do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "546390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-09-4537",
+      "titulo": "Lei nº 4.537 de 09/12/1964",
+      "data": "1964-12-09",
+      "numero": "4537",
+      "urn": "urn:lex:br:federal:lei:1964-12-09;4537",
+      "ementa": "Cria Juntas de Conciliação e Julgamento na 4ª Região da Justiça do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "546391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-09-4538",
+      "titulo": "Lei nº 4.538 de 09/12/1964",
+      "data": "1964-12-09",
+      "numero": "4538",
+      "urn": "urn:lex:br:federal:lei:1964-12-09;4538",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 833.570.000,00, para atender a cumpromissos com o programa de expansão de matrículas no ensino superior."
+    },
+    {
+      "senadoId": "546389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-09-4536",
+      "titulo": "Lei nº 4.536 de 09/12/1964",
+      "data": "1964-12-09",
+      "numero": "4536",
+      "urn": "urn:lex:br:federal:lei:1964-12-09;4536",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 10.221.025,50, para atender às despesas que especifica."
+    },
+    {
+      "senadoId": "546388",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-09-4535",
+      "titulo": "Lei nº 4.535 de 09/12/1964",
+      "data": "1964-12-09",
+      "numero": "4535",
+      "urn": "urn:lex:br:federal:lei:1964-12-09;4535",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 5.000.000.000,00 (cinco bilhões de cruzeiros) destinado à Rodovia Belém-Brasília."
+    },
+    {
+      "senadoId": "546387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-09-4534",
+      "titulo": "Lei nº 4.534 de 09/12/1964",
+      "data": "1964-12-09",
+      "numero": "4534",
+      "urn": "urn:lex:br:federal:lei:1964-12-09;4534",
+      "ementa": "Autoriza o Poder Executivo a doar à Cúria Diocesana de Santos o domínio pleno ou útil de área de terreno, localizada no Morro de Jabaquara, no Município de Santos."
+    },
+    {
+      "senadoId": "546384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4531",
+      "titulo": "Lei nº 4.531 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4531",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4531",
+      "ementa": "Fixa os vencimentos de Membros do Ministério Público Federal e do Serviço Jurídico da União e dá outras providências."
+    },
+    {
+      "senadoId": "546379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4527",
+      "titulo": "Lei nº 4.527 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4527",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4527",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 600.000,00, para atender a despesas com a concessão de um prêmio pecuniário de Cr$ 150.000,00 a cada um dos quatro jardineiros empregados do Cemitério Militar Brasileiro de Pistóia."
+    },
+    {
+      "senadoId": "546378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4526",
+      "titulo": "Lei nº 4.526 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4526",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4526",
+      "ementa": "Autoriza o Poder Executivo a conceder isenção dos tributos alfandegários à Ericson do Brasil, Comércio e Indústria S.A., para a importação de material destinado à Telefônica de Sete Lagoas, Minas Gerais."
+    },
+    {
+      "senadoId": "546382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4530",
+      "titulo": "Lei nº 4.530 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4530",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4530",
+      "ementa": "Extingue a Comissão de Reparações de Guerra e dá outras providências."
+    },
+    {
+      "senadoId": "546381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4529",
+      "titulo": "Lei nº 4.529 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4529",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4529",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho e Previdência Social, o crédito suplementar de Cr$ 11.400.000.000,00 (onze bilhões e quatrocentos milhões de cruzeiros), para atender ao pagamento de despesas que especifica."
+    },
+    {
+      "senadoId": "546380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4528",
+      "titulo": "Lei nº 4.528 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4528",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4528",
+      "ementa": "Isenta dos impostos de importação e de consumo, exceto a taxa de despacho aduaneiros, equipamento telefônico destinado à Empresa Telefônica de Uberaba S.A."
+    },
+    {
+      "senadoId": "546386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4533",
+      "titulo": "Lei nº 4.533 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4533",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4533",
+      "ementa": "Altera a Lei nº 1.310, de 15 de janeiro de 1951, que criou o Conselho Nacional de Pesquisas, e dá outras providências."
+    },
+    {
+      "senadoId": "546385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-08-4532",
+      "titulo": "Lei nº 4.532 de 08/12/1964",
+      "data": "1964-12-08",
+      "numero": "4532",
+      "urn": "urn:lex:br:federal:lei:1964-12-08;4532",
+      "ementa": "Dá a denominação de \"Campo Fontenelle\" ao Aeródromo Militar de Pirassununga, Estado de São Paulo."
+    },
+    {
+      "senadoId": "546377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-07-4525",
+      "titulo": "Lei nº 4.525 de 07/12/1964",
+      "data": "1964-12-07",
+      "numero": "4525",
+      "urn": "urn:lex:br:federal:lei:1964-12-07;4525",
+      "ementa": "Revoga o Decreto-Lei nº 8.986, de 15 de fevereiro de 1946, que dispõe sobre a especialização do pessoal do Corpo de Pessoal Subalterno da Armada, e dá outras providências."
+    },
+    {
+      "senadoId": "546374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-07-4522",
+      "titulo": "Lei nº 4.522 de 07/12/1964",
+      "data": "1964-12-07",
+      "numero": "4522",
+      "urn": "urn:lex:br:federal:lei:1964-12-07;4522",
+      "ementa": "Isenta do imposto de importação, exclusive a taxa de despacho aduaneiro, equipamento destinado à instalação de uma fábrica de leite em pó, em Belo Horizonte - Minas Gerais."
+    },
+    {
+      "senadoId": "546372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-07-4520",
+      "titulo": "Lei nº 4.520 de 07/12/1964",
+      "data": "1964-12-07",
+      "numero": "4520",
+      "urn": "urn:lex:br:federal:lei:1964-12-07;4520",
+      "ementa": "Altera o parágrafo 1º do art. 4º da Lei nº 3.858, de 23 de dezembro de 1960."
+    },
+    {
+      "senadoId": "546376",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-07-4524",
+      "titulo": "Lei nº 4.524 de 07/12/1964",
+      "data": "1964-12-07",
+      "numero": "4524",
+      "urn": "urn:lex:br:federal:lei:1964-12-07;4524",
+      "ementa": "Isenta do imposto de importação e de consumo equipamento destinado à ampliação de usina siderúgica."
+    },
+    {
+      "senadoId": "546375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-07-4523",
+      "titulo": "Lei nº 4.523 de 07/12/1964",
+      "data": "1964-12-07",
+      "numero": "4523",
+      "urn": "urn:lex:br:federal:lei:1964-12-07;4523",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal de Justiça do Distrito Federal - o crédito suplementar de Cr$ 27.700.000,00 (vinte e sete milhões e setecentos mil cruzeiros), às verbas que especifica."
+    },
+    {
+      "senadoId": "546373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-07-4521",
+      "titulo": "Lei nº 4.521 de 07/12/1964",
+      "data": "1964-12-07",
+      "numero": "4521",
+      "urn": "urn:lex:br:federal:lei:1964-12-07;4521",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento telefônico a ser importado pela Companhia Telefônica de Passos - Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "546370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-02-4518",
+      "titulo": "Lei nº 4.518 de 02/12/1964",
+      "data": "1964-12-02",
+      "numero": "4518",
+      "urn": "urn:lex:br:federal:lei:1964-12-02;4518",
+      "ementa": "Dispõe sobre associados obrigatórios do Serviço de Assistência e Seguro Social dos Economiários."
+    },
+    {
+      "senadoId": "546371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-02-4519",
+      "titulo": "Lei nº 4.519 de 02/12/1964",
+      "data": "1964-12-02",
+      "numero": "4519",
+      "urn": "urn:lex:br:federal:lei:1964-12-02;4519",
+      "ementa": "Dispõe sobre a liquidação, por acordo, das desapropriações efetuadas no Nordeste e dá outras providências."
+    },
+    {
+      "senadoId": "546369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-02-4517",
+      "titulo": "Lei nº 4.517 de 02/12/1964",
+      "data": "1964-12-02",
+      "numero": "4517",
+      "urn": "urn:lex:br:federal:lei:1964-12-02;4517",
+      "ementa": "Altera o Código da Justiça Militar, aprovado pelo Decreto-Lei número 925, de 2 de dezembro de 1938."
+    },
+    {
+      "senadoId": "546362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4510",
+      "titulo": "Lei nº 4.510 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4510",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4510",
+      "ementa": "Reorganiza a Casa da Moeda, e dá outras providências."
+    },
+    {
+      "senadoId": "546367",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4515",
+      "titulo": "Lei nº 4.515 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4515",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4515",
+      "ementa": "Dispõe sobre a Zona de Proteção de Aeroportos."
+    },
+    {
+      "senadoId": "546364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4512",
+      "titulo": "Lei nº 4.512 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4512",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4512",
+      "ementa": "Isenta de imposto de importação equipamento destinado à instalação de uma usina central piloto para beneficiamento de chá."
+    },
+    {
+      "senadoId": "546366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4514",
+      "titulo": "Lei nº 4.514 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4514",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4514",
+      "ementa": "Modifica dispositivo do decreto-lei nº 5.252, de 16 de fevereiro de 1943, que institui com personalidade própria de natureza autárquica, o Serviço de Navegação da Bacia do Prata, e dá outras providências."
+    },
+    {
+      "senadoId": "546363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4511",
+      "titulo": "Lei nº 4.511 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4511",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4511",
+      "ementa": "Dispõe sobre o meio circulante, e dá outras providências."
+    },
+    {
+      "senadoId": "546368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4516",
+      "titulo": "Lei nº 4.516 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4516",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4516",
+      "ementa": "Cria o Serviço Federal de Processamento de Dados, vinculado ao Ministério da Fazenda."
+    },
+    {
+      "senadoId": "546365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-12-01-4513",
+      "titulo": "Lei nº 4.513 de 01/12/1964",
+      "data": "1964-12-01",
+      "numero": "4513",
+      "urn": "urn:lex:br:federal:lei:1964-12-01;4513",
+      "ementa": "Autoriza o Poder Executivo a criar a Fundação Nacional do Bem-Estar do Menor, a ela incorporado o patrimônio e as atribuições do Serviço de Assistência a Menores, e dá outras providências."
+    },
+    {
+      "senadoId": "546356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4504",
+      "titulo": "Lei nº 4.504 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4504",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4504",
+      "ementa": "Dispõe sôbre o Estatuto da Terra, e dá outras providências."
+    },
+    {
+      "senadoId": "546361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4509",
+      "titulo": "Lei nº 4.509 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4509",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4509",
+      "ementa": "Altera dispositivos da Lei nº 4.122, de 27 de agosto de 1962, que constitui a Siderúgica de Santa Catarina S.A., e dá outras providências."
+    },
+    {
+      "senadoId": "546357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4505",
+      "titulo": "Lei nº 4.505 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4505",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4505",
+      "ementa": "Dispõe sobre o Imposto do Selo e dá outras providências."
+    },
+    {
+      "senadoId": "546354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4502",
+      "titulo": "Lei nº 4.502 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4502",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4502",
+      "ementa": "Dispõe sobre o Impôsto de Consumo e reorganiza a Diretoria de Rendas Internas."
+    },
+    {
+      "senadoId": "546359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4507",
+      "titulo": "Lei nº 4.507 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4507",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4507",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 6.000.000.000,00, para atender ao pagamento do pessoal do Departamento Nacional de Obras Contra as Secas."
+    },
+    {
+      "senadoId": "546360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4508",
+      "titulo": "Lei nº 4.508 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4508",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4508",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Minas e Energia, o crédito especial de Cr$ 18.079.505,80, para pagamento de gratificação pela execução de trabalho de natureza especial, com risco de vida ou saúde, a funcionários do Departamento Nacional de Produção Mineral, em decorrência de mandado de segurança."
+    },
+    {
+      "senadoId": "546358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4506",
+      "titulo": "Lei nº 4.506 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4506",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4506",
+      "ementa": "Dispõe sôbre o impôsto que recai sôbre as rendas e proventos de qualquer natureza."
+    },
+    {
+      "senadoId": "546355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-30-4503",
+      "titulo": "Lei nº 4.503 de 30/11/1964",
+      "data": "1964-11-30",
+      "numero": "4503",
+      "urn": "urn:lex:br:federal:lei:1964-11-30;4503",
+      "ementa": "Institui, no Ministério da Fazenda, o cadastro geral de pessoas jurídicas, cria o Departamento de Arrecadação e dá outras providências."
+    },
+    {
+      "senadoId": "546353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4501-a",
+      "titulo": "Lei nº 4.501-A de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4501-a",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4501-a",
+      "ementa": "Retifica a Lei nº 4.295, de 16 de dezembro de 1963, que estima a Receita e fixa a Despesa para o exercício financeiro."
+    },
+    {
+      "senadoId": "546348",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4497",
+      "titulo": "Lei nº 4.497 de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4497",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4497",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 20.000.000,00 (vinte milhões de cruzeiros), à verba que especifica."
+    },
+    {
+      "senadoId": "546351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4500",
+      "titulo": "Lei nº 4.500 de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4500",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4500",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Supremo Tribunal Federal - o crédito suplementar de Cr$ 1.580.200,00 em reforço de dotação que especifica."
+    },
+    {
+      "senadoId": "546352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4501",
+      "titulo": "Lei nº 4.501 de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4501",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4501",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito suplementar de Cr$ 36.000.000,00 (trinta e seis milhões de cruzeiros) à verba que especifica."
+    },
+    {
+      "senadoId": "546350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4499",
+      "titulo": "Lei nº 4.499 de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4499",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4499",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 28.145.795,40, à verba que especifica."
+    },
+    {
+      "senadoId": "546349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4498",
+      "titulo": "Lei nº 4.498 de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4498",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4498",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito suplementar de Cr$ 226.403.500,00 à verba que especifica."
+    },
+    {
+      "senadoId": "546347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-26-4496",
+      "titulo": "Lei nº 4.496 de 26/11/1964",
+      "data": "1964-11-26",
+      "numero": "4496",
+      "urn": "urn:lex:br:federal:lei:1964-11-26;4496",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 1.038.400,00 (um milhão, trinta e oito mil e quatrocentos cruzeiros), destinado ao pagamento da indenização devida a José Vasco Junior pelas benfeitorias realizadas em terras da Fazenda Nacional de Santa Cruz."
+    },
+    {
+      "senadoId": "546345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-25-4494",
+      "titulo": "Lei nº 4.494 de 25/11/1964",
+      "data": "1964-11-25",
+      "numero": "4494",
+      "urn": "urn:lex:br:federal:lei:1964-11-25;4494",
+      "ementa": "Regula a Locação de Prédios Urbanos."
+    },
+    {
+      "senadoId": "546346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-25-4495",
+      "titulo": "Lei nº 4.495 de 25/11/1964",
+      "data": "1964-11-25",
+      "numero": "4495",
+      "urn": "urn:lex:br:federal:lei:1964-11-25;4495",
+      "ementa": "Enquadra os atuais professores fundadores em cargos de Professor do Ensino Superior."
+    },
+    {
+      "senadoId": "546343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-24-4492",
+      "titulo": "Lei nº 4.492 de 24/11/1964",
+      "data": "1964-11-24",
+      "numero": "4492",
+      "urn": "urn:lex:br:federal:lei:1964-11-24;4492",
+      "ementa": "Concede isenção dos impostos de consumo e de importação, excetuada a taxa de despacho aduaneiro, para importação de material destinado a indústrias de fabricação de material automobilístico, motores de explosão e de combustão interna e equipamentos para produção de energia elétrica."
+    },
+    {
+      "senadoId": "546344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-24-4493",
+      "titulo": "Lei nº 4.493 de 24/11/1964",
+      "data": "1964-11-24",
+      "numero": "4493",
+      "urn": "urn:lex:br:federal:lei:1964-11-24;4493",
+      "ementa": "Regula processamento da aposentadoria e do montepio dos magistrados remunerados pela União e dá outras providências."
+    },
+    {
+      "senadoId": "546342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-21-4491",
+      "titulo": "Lei nº 4.491 de 21/11/1964",
+      "data": "1964-11-21",
+      "numero": "4491",
+      "urn": "urn:lex:br:federal:lei:1964-11-21;4491",
+      "ementa": "Altera disposições de Lei nº 3780, de 12 de julho de 1960 (Plano de Reclassificação), relativas às séries de classes de Impressor, Encadernador, Mestre e Técnico de Artes Gráficas e dá outras providências."
+    },
+    {
+      "senadoId": "546341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-20-4490",
+      "titulo": "Lei nº 4.490 de 20/11/1964",
+      "data": "1964-11-20",
+      "numero": "4490",
+      "urn": "urn:lex:br:federal:lei:1964-11-20;4490",
+      "ementa": "Abre, pela Superintendência do Desenvolvimento Econômico do Nordeste (SUDENE), o crédito especial de Cr$ 62.091.094.800,00, para fins que especifica."
+    },
+    {
+      "senadoId": "546339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-19-4488",
+      "titulo": "Lei nº 4.488 de 19/11/1964",
+      "data": "1964-11-19",
+      "numero": "4488",
+      "urn": "urn:lex:br:federal:lei:1964-11-19;4488",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 40.000.000,00, à verba que especifica."
+    },
+    {
+      "senadoId": "546337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-19-4486",
+      "titulo": "Lei nº 4.486 de 19/11/1964",
+      "data": "1964-11-19",
+      "numero": "4486",
+      "urn": "urn:lex:br:federal:lei:1964-11-19;4486",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   suplementar de Cr$ 17.005.578,00 (dezessete milhões, cinco mil, quinhentos e   setenta e oito cruzeiros) à verda que especifica."
+    },
+    {
+      "senadoId": "546336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-19-4485",
+      "titulo": "Lei nº 4.485 de 19/11/1964",
+      "data": "1964-11-19",
+      "numero": "4485",
+      "urn": "urn:lex:br:federal:lei:1964-11-19;4485",
+      "ementa": "Concede isenção de impostos, taxas e emolumentos para donativos remetidos a instituições de benemerência."
+    },
+    {
+      "senadoId": "546338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-19-4487",
+      "titulo": "Lei nº 4.487 de 19/11/1964",
+      "data": "1964-11-19",
+      "numero": "4487",
+      "urn": "urn:lex:br:federal:lei:1964-11-19;4487",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo MInistério das Relações Exteriores, o crédito especial de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros), para atender às despesas decorrentes da visita ao Brasil, do Presidente da República do Senegal."
+    },
+    {
+      "senadoId": "546340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-19-4489",
+      "titulo": "Lei nº 4.489 de 19/11/1964",
+      "data": "1964-11-19",
+      "numero": "4489",
+      "urn": "urn:lex:br:federal:lei:1964-11-19;4489",
+      "ementa": "Altera o art. 114 da Lei nº 4.320, de 17 de março de 1964, que estatui normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+    },
+    {
+      "senadoId": "546335",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-19-4484",
+      "titulo": "Lei nº 4.484 de 19/11/1964",
+      "data": "1964-11-19",
+      "numero": "4484",
+      "urn": "urn:lex:br:federal:lei:1964-11-19;4484",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Presidência da República, o crédito suplementar de Cr$ 250.340.000,00 (duzentos e cinquenta milhões, trezentos e quarenta mil cruzeiros), como reforço das verbas que enumera."
+    },
+    {
+      "senadoId": "546334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-16-4483",
+      "titulo": "Lei nº 4.483 de 16/11/1964",
+      "data": "1964-11-16",
+      "numero": "4483",
+      "urn": "urn:lex:br:federal:lei:1964-11-16;4483",
+      "ementa": "Reorganiza o Departamento Federal de Segurança Pública, e dá outras providências."
+    },
+    {
+      "senadoId": "546332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-14-4481",
+      "titulo": "Lei nº 4.481 de 14/11/1964",
+      "data": "1964-11-14",
+      "numero": "4481",
+      "urn": "urn:lex:br:federal:lei:1964-11-14;4481",
+      "ementa": "Altera disposições das Leis nº 4.357, de 16 de julho de 1964, e nº 4.388, de 28 de agosto de 1964."
+    },
+    {
+      "senadoId": "546333",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-14-4482",
+      "titulo": "Lei nº 4.482 de 14/11/1964",
+      "data": "1964-11-14",
+      "numero": "4482",
+      "urn": "urn:lex:br:federal:lei:1964-11-14;4482",
+      "ementa": "Concede isenção dos impostos de importação e de consumo para os equipamentos, suas peças e sobressalentes, destinados à instalação ou ampliação de indústrias complementares de construção naval."
+    },
+    {
+      "senadoId": "546331",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-14-4480",
+      "titulo": "Lei nº 4.480 de 14/11/1964",
+      "data": "1964-11-14",
+      "numero": "4480",
+      "urn": "urn:lex:br:federal:lei:1964-11-14;4480",
+      "ementa": "Regula a tributação, pelo imposto de renda, dos direitos de autor, da remuneração de professores e jornalistas e dos vencimentos dos magistrados."
+    },
+    {
+      "senadoId": "546320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4469",
+      "titulo": "Lei nº 4.469 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4469",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4469",
+      "ementa": "Dá nova redação ao art. 56 da Lei nº 3.654, de 1959, que dispõe sobre a criação e organização do Quadro de Material Bélico, das Armas de Comunicações e de Engenharia, regula as condições de extinção do Quadro Técnico da Ativa e dá outras providências."
+    },
+    {
+      "senadoId": "546327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4476",
+      "titulo": "Lei nº 4.476 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4476",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4476",
+      "ementa": "Estabelece a precedência funcional entre Oficiais Generais dos postos de Almirante-Esquadra, General de Exército e Tenente-Brigadeiro."
+    },
+    {
+      "senadoId": "546330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4479",
+      "titulo": "Lei nº 4.479 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4479",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4479",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 278.690.500,00 (duzentos e setenta e oito milhões siescentos e noventa mil e quinhentos cruzeiros), destinado a atender as despesas com a ligação ferroviária Belo Horizonte Itabira - Peçanha."
+    },
+    {
+      "senadoId": "546319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4468",
+      "titulo": "Lei nº 4.468 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4468",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4468",
+      "ementa": "Autoriza a abertura pelo Ministério da Viação e Obras Públicas do crédito especial de Cr$ 5.000.000.000,00 para atender ao pagamento de débitos anteriormente acumulados."
+    },
+    {
+      "senadoId": "546321",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4470",
+      "titulo": "Lei nº 4.470 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4470",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4470",
+      "ementa": "Revoga o artigo 8º da Lei nº 4.370, de 28 de julho de 1964, que aprova normas para revisão de preço em contratos de obras ou serviços a cargo de órgãos do Governo Federal e dá outras providências."
+    },
+    {
+      "senadoId": "546325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4474",
+      "titulo": "Lei nº 4.474 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4474",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4474",
+      "ementa": "Altera o Quadro da Secretaria do Tribunal de Contas da União."
+    },
+    {
+      "senadoId": "546317",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4466",
+      "titulo": "Lei nº 4.466 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4466",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4466",
+      "ementa": "Determina a arborização das margens das rodovias do Nordeste, bem como a construção de aterro - barragem para represamento de águas."
+    },
+    {
+      "senadoId": "546324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4473",
+      "titulo": "Lei nº 4.473 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4473",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4473",
+      "ementa": "Dispõe sôbre atribuições das autoridades para fiscalizar a entrada de estrangeiros no território nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "546329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4478",
+      "titulo": "Lei nº 4.478 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4478",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4478",
+      "ementa": "Cria, na 8ª Região da Justiça do Trabalho, cargos e funções necessários ao funcionamento das Juntas de Conciliação e Julgamento de Manaus e Parintins, no Estado do Amazonas."
+    },
+    {
+      "senadoId": "546328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4477",
+      "titulo": "Lei nº 4.477 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4477",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4477",
+      "ementa": "Modifica os arts. 1º e 3º da Lei nº 3.058, de 22 de dezembro de 1956, que atualiza a contribuição mensal dos Ministros do Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "546322",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4471",
+      "titulo": "Lei nº 4.471 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4471",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4471",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 65.000.000,00, para atender às despesas decorrentes da visita ao Brasil do Presidente da República Francesa."
+    },
+    {
+      "senadoId": "546323",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4472",
+      "titulo": "Lei nº 4.472 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4472",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4472",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Superior Tribunal Militar - o crédito suplementar de Cr$ 402.322.243,10, em reforço à dotação que especifica."
+    },
+    {
+      "senadoId": "546326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4475",
+      "titulo": "Lei nº 4.475 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4475",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4475",
+      "ementa": "Concede pensão especial a Lucinda de Jesus Maduro, viúva de José Augusto Maduro."
+    },
+    {
+      "senadoId": "546318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-12-4467",
+      "titulo": "Lei nº 4.467 de 12/11/1964",
+      "data": "1964-11-12",
+      "numero": "4467",
+      "urn": "urn:lex:br:federal:lei:1964-11-12;4467",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda - Superintendência do Plano de Valorização Econômica da Amazônia - o crédito especial de Cr$ 10.000.000.000,00 (dez bilhões de cruzeiros), para atender às despesas que especifica, com a BR-14 Belém - Brasília, e dá outras providências."
+    },
+    {
+      "senadoId": "546316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-11-4465",
+      "titulo": "Lei nº 4.465 de 11/11/1964",
+      "data": "1964-11-11",
+      "numero": "4465",
+      "urn": "urn:lex:br:federal:lei:1964-11-11;4465",
+      "ementa": "Fixa novos valores para os símbolos dos cargos e das   funções gratificadas dos Quadros das Secretarias dos Tribunais Regionais Eleitorais e   dá outras providências."
+    },
+    {
+      "senadoId": "546315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-09-4464",
+      "titulo": "Lei nº 4.464 de 09/11/1964",
+      "data": "1964-11-09",
+      "numero": "4464",
+      "urn": "urn:lex:br:federal:lei:1964-11-09;4464",
+      "ementa": "Dispõe sobre os Órgãos de Representação dos estudantes e dá outras providências."
+    },
+    {
+      "senadoId": "546312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-07-4461",
+      "titulo": "Lei nº 4.461 de 07/11/1964",
+      "data": "1964-11-07",
+      "numero": "4461",
+      "urn": "urn:lex:br:federal:lei:1964-11-07;4461",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 600.000.000,00, para atender às despesas com a   desapropriação dos bens da Fundação Gaffrée - Guinle."
+    },
+    {
+      "senadoId": "546314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-07-4463",
+      "titulo": "Lei nº 4.463 de 07/11/1964",
+      "data": "1964-11-07",
+      "numero": "4463",
+      "urn": "urn:lex:br:federal:lei:1964-11-07;4463",
+      "ementa": "Dispõe sobre o Quadro de Pessoal da Consultoria Geral da República e dá outras providências."
+    },
+    {
+      "senadoId": "546313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-07-4462",
+      "titulo": "Lei nº 4.462 de 07/11/1964",
+      "data": "1964-11-07",
+      "numero": "4462",
+      "urn": "urn:lex:br:federal:lei:1964-11-07;4462",
+      "ementa": "Concede isenção dos impostos de importação e de consumo, da taxa de despacho aduaneiro, emolumentos consulares, taxas de armazenagem e capatazias sobre um aeroplano monomotor, instrumentos, máquinas, aparelhos e utensílios a serem importados pela Ordem dos Servos de Maria, e dá outras providências."
+    },
+    {
+      "senadoId": "546310",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-07-4459",
+      "titulo": "Lei nº 4.459 de 07/11/1964",
+      "data": "1964-11-07",
+      "numero": "4459",
+      "urn": "urn:lex:br:federal:lei:1964-11-07;4459",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 107.484.000,00, para atender às despesas   com o comparecimento do Episcopado brasileiro ao Concílio Ecumênico Vaticano   II."
+    },
+    {
+      "senadoId": "546311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-07-4460",
+      "titulo": "Lei nº 4.460 de 07/11/1964",
+      "data": "1964-11-07",
+      "numero": "4460",
+      "urn": "urn:lex:br:federal:lei:1964-11-07;4460",
+      "ementa": "Concede pensão especial de Cr$ 13.500,00 (treze mil e quinhentos cruzeiros) ao servidor Francisco Teixeira Dantas, acidentado em serviço na Base Naval de Natal."
+    },
+    {
+      "senadoId": "546305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-06-4454",
+      "titulo": "Lei nº 4.454 de 06/11/1964",
+      "data": "1964-11-06",
+      "numero": "4454",
+      "urn": "urn:lex:br:federal:lei:1964-11-06;4454",
+      "ementa": "Dispõe sobre a unificação de frequência da corrente elétrica no   País."
+    },
+    {
+      "senadoId": "546307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-06-4456",
+      "titulo": "Lei nº 4.456 de 06/11/1964",
+      "data": "1964-11-06",
+      "numero": "4456",
+      "urn": "urn:lex:br:federal:lei:1964-11-06;4456",
+      "ementa": "Concede isenção dos impostos de importação e de consumo, exceto a taxa de despacho aduaneiro, para equipamento a ser importado pela Empresa de Navegação Santa Catarina Limitada, sediada na cidade de São Francisco do Sul, Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "546308",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-06-4457",
+      "titulo": "Lei nº 4.457 de 06/11/1964",
+      "data": "1964-11-06",
+      "numero": "4457",
+      "urn": "urn:lex:br:federal:lei:1964-11-06;4457",
+      "ementa": "Eleva os limites das autorizações concedidas ao Poder Executivo pela Lei n. 1518, de 24 de dezembro de 1951, para contratar créditos ou dar a garantia do Tesouro Nacional a créditos obtidos no exterior, e dá outras providências."
+    },
+    {
+      "senadoId": "546306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-06-4455",
+      "titulo": "Lei nº 4.455 de 06/11/1964",
+      "data": "1964-11-06",
+      "numero": "4455",
+      "urn": "urn:lex:br:federal:lei:1964-11-06;4455",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Fazenda, o crédito   especial de Cr$ 797.904.300,00, para atender às despesas de custeio dos serviços   mecanizados do referido Ministério."
+    },
+    {
+      "senadoId": "546309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-06-4458",
+      "titulo": "Lei nº 4.458 de 06/11/1964",
+      "data": "1964-11-06",
+      "numero": "4458",
+      "urn": "urn:lex:br:federal:lei:1964-11-06;4458",
+      "ementa": "Altera a redação do inciso IV do artigo 2º da Lei nº 2.661, de 3 de   dezembro de 1955, que dispõe sobre a regulamentação do § 4º do artigo 153 da   Constituição Federal e dá outras providências."
+    },
+    {
+      "senadoId": "546304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-06-4453",
+      "titulo": "Lei nº 4.453 de 06/11/1964",
+      "data": "1964-11-06",
+      "numero": "4453",
+      "urn": "urn:lex:br:federal:lei:1964-11-06;4453",
+      "ementa": "Concede isenção dos impostos de importação e de consumo e da taxa de despacho aduaneiro, para os equipamentos e materiais a serem importados pela Companhia Pernambucana de Borracha Sintética - COPERBO - destinados à instalação e montagem de uma unidade de produção de butadieno e uma polimerização e unidades auxiliares de conjunto industrial, no Município de Cabo, Estado de Pernambuco."
+    },
+    {
+      "senadoId": "546303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-05-4452",
+      "titulo": "Lei nº 4.452 de 05/11/1964",
+      "data": "1964-11-05",
+      "numero": "4452",
+      "urn": "urn:lex:br:federal:lei:1964-11-05;4452",
+      "ementa": "Altera a Legislação relativa ao Imposto Único sobre lubrificantes e combustíveis líquidos e gasosos, e dá outras providências."
+    },
+    {
+      "senadoId": "546302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-04-4451",
+      "titulo": "Lei nº 4.451 de 04/11/1964",
+      "data": "1964-11-04",
+      "numero": "4451",
+      "urn": "urn:lex:br:federal:lei:1964-11-04;4451",
+      "ementa": "Altera a redação do artigo 281 do Código Penal."
+    },
+    {
+      "senadoId": "546301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-11-04-4450",
+      "titulo": "Lei nº 4.450 de 04/11/1964",
+      "data": "1964-11-04",
+      "numero": "4450",
+      "urn": "urn:lex:br:federal:lei:1964-11-04;4450",
+      "ementa": "Dispõe sobre os vencimentos e vantagens do Marechal João Batista Mascarenhas de Morais."
+    },
+    {
+      "senadoId": "546298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4447",
+      "titulo": "Lei nº 4.447 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4447",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4447",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 35.000.000,00 (trinta e cinco milhões de cruzeiros) para atender às despesas decorrentes da visita ao Brasil do Presidente dos Estados Unidos da América."
+    },
+    {
+      "senadoId": "546294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4443",
+      "titulo": "Lei nº 4.443 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4443",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4443",
+      "ementa": "Autoriza o Poder Executivo a abrir, através do ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 14.600.000,00 (quatorze milhões e seiscentos mil cruzeiros) destinado a despesas com a elaboração dos anteprojetos de reforma dos Códigos Federais."
+    },
+    {
+      "senadoId": "546292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4441",
+      "titulo": "Lei nº 4.441 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4441",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4441",
+      "ementa": "Altera o art. 14 da Lei nº 3.750, de 11 de abril de 1960, que autoriza o Poder Executivo a transformar em Fundação o Serviço Especial de Saúde Pública e dá outras providências."
+    },
+    {
+      "senadoId": "546293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4442",
+      "titulo": "Lei nº 4.442 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4442",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4442",
+      "ementa": "Financiamento de papel para impressão de jornais, revistas e   livros."
+    },
+    {
+      "senadoId": "546300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4449",
+      "titulo": "Lei nº 4.449 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4449",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4449",
+      "ementa": "Dispõe sobre o aproveitamento de funcionários das autarquias   que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "546296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4445",
+      "titulo": "Lei nº 4.445 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4445",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4445",
+      "ementa": "Altera diposições da Lei nº 3.682, de 7 de dezembro de 1959, que estima a Receita e fixa a Despesa da União para o exercício de 1960."
+    },
+    {
+      "senadoId": "546297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4446",
+      "titulo": "Lei nº 4.446 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4446",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4446",
+      "ementa": "Altera a alínea j do art. 3º da Lei nº 2.391, de 7 de janeiro de 1955, que fixa os efetivos das Forças Armadas em tempo de paz."
+    },
+    {
+      "senadoId": "546299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4448",
+      "titulo": "Lei nº 4.448 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4448",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4448",
+      "ementa": "Regula as promoções de Oficiais do Exército."
+    },
+    {
+      "senadoId": "546295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-29-4444",
+      "titulo": "Lei nº 4.444 de 29/10/1964",
+      "data": "1964-10-29",
+      "numero": "4444",
+      "urn": "urn:lex:br:federal:lei:1964-10-29;4444",
+      "ementa": "Dá o nome de \"Senador Fernandes Távora\" à ponte sobre o Rio Jaguaribe, em Limoeiro do Norte, Estado do Ceará."
+    },
+    {
+      "senadoId": "546289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-27-4439",
+      "titulo": "Lei nº 4.439 de 27/10/1964",
+      "data": "1964-10-27",
+      "numero": "4439",
+      "urn": "urn:lex:br:federal:lei:1964-10-27;4439",
+      "ementa": "Fixa os vencimentos de Magistrados, membros do Ministério Público e do Serviço Jurídico da União, e dá outras providências."
+    },
+    {
+      "senadoId": "546291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-27-4440",
+      "titulo": "Lei nº 4.440 de 27/10/1964",
+      "data": "1964-10-27",
+      "numero": "4440",
+      "urn": "urn:lex:br:federal:lei:1964-10-27;4440",
+      "ementa": "Institui o Salário-Educação e dá outras providências."
+    },
+    {
+      "senadoId": "546287",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4437",
+      "titulo": "Lei nº 4.437 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4437",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4437",
+      "ementa": "Isenta do imposto de importação e de consumo equipamento de onda portadora."
+    },
+    {
+      "senadoId": "546288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4438",
+      "titulo": "Lei nº 4.438 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4438",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4438",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 70.000.000,00 (setenta milões de cruzeiros), para atender a despesas com o funcionamento da Comissão Geral de Investigações."
+    },
+    {
+      "senadoId": "546283",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4433",
+      "titulo": "Lei nº 4.433 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4433",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4433",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 51.572.600,00, para atender às despesas que especifica."
+    },
+    {
+      "senadoId": "546280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4430",
+      "titulo": "Lei nº 4.430 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4430",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4430",
+      "ementa": "Altera a constituição da Companhia Nacional de Seguro Agrícola e dá outras providências."
+    },
+    {
+      "senadoId": "546285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4435",
+      "titulo": "Lei nº 4.435 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4435",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4435",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Federal de Recursos - o crédito suplementar de Cr$ 405.400.000,00 (quatrocentos e cinco milhões e quatrocentos mil cruzeiros), para fins que especifica."
+    },
+    {
+      "senadoId": "546281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4431",
+      "titulo": "Lei nº 4.431 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4431",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4431",
+      "ementa": "Retifica, sem ônus, a Lei nº 4.295, de 16 de dezembro de 1963, que estima a Receita e fixa a Despesa da União para exercício de 1964."
+    },
+    {
+      "senadoId": "546284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4434",
+      "titulo": "Lei nº 4.434 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4434",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4434",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Presidência da República, o crédito especial de Cr$ 50.000.000,00 (cinquenta milhões de cruzeiros), para atender às despesas do Grupo Executivo para as Terras do Sudoeste do Paraná (GETSOP)"
+    },
+    {
+      "senadoId": "546282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4432",
+      "titulo": "Lei nº 4.432 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4432",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4432",
+      "ementa": "Isenta do imposto de importação equipamento adquirido pela Rádio Bandeirantes S.A., com sede em São Paulo - S.P."
+    },
+    {
+      "senadoId": "546286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-20-4436",
+      "titulo": "Lei nº 4.436 de 20/10/1964",
+      "data": "1964-10-20",
+      "numero": "4436",
+      "urn": "urn:lex:br:federal:lei:1964-10-20;4436",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Justiça Eleitoral - Tribunal Superior Eleitoral - o crédito suplementar de Cr$ 226.131.375,40 (duzentos e vinte e seis milhões, cento e trinta e um mil, trezentos e setenta e cinco cruzeiros e quarenta centavos)."
+    },
+    {
+      "senadoId": "546278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-14-4428",
+      "titulo": "Lei nº 4.428 de 14/10/1964",
+      "data": "1964-10-14",
+      "numero": "4428",
+      "urn": "urn:lex:br:federal:lei:1964-10-14;4428",
+      "ementa": "Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS a adquirir, por compra, ações de empresas concessionárias de serviços públicos que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "546279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-14-4429",
+      "titulo": "Lei nº 4.429 de 14/10/1964",
+      "data": "1964-10-14",
+      "numero": "4429",
+      "urn": "urn:lex:br:federal:lei:1964-10-14;4429",
+      "ementa": "Autoriza a Associação Civil \"Lar Proletário\" a transferir, à Fundação Leão XIII, o imóvel situado à Rua Ricardo Machado, no Rio de Janeiro."
+    },
+    {
+      "senadoId": "546277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-14-4427",
+      "titulo": "Lei nº 4.427 de 14/10/1964",
+      "data": "1964-10-14",
+      "numero": "4427",
+      "urn": "urn:lex:br:federal:lei:1964-10-14;4427",
+      "ementa": "Concede isenção dos impostos de importação e de consumo, taxa de despacho aduaneiro e de emolumentos consulares para automóvel com transmissão automática, que for adquirido por ex-integrante da Força Expedicionária Brasileira, mutilado em consequência de ferimentos recebidos na Campanha da Itália."
+    },
+    {
+      "senadoId": "546274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-08-4424",
+      "titulo": "Lei nº 4.424 de 08/10/1964",
+      "data": "1964-10-08",
+      "numero": "4424",
+      "urn": "urn:lex:br:federal:lei:1964-10-08;4424",
+      "ementa": "Autoriza a abertura de crédito especial ao Tribunal Regional Eleitoral do   Piuaí, para pagamento de dívida de execícios findos."
+    },
+    {
+      "senadoId": "546273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-08-4423",
+      "titulo": "Lei nº 4.423 de 08/10/1964",
+      "data": "1964-10-08",
+      "numero": "4423",
+      "urn": "urn:lex:br:federal:lei:1964-10-08;4423",
+      "ementa": "Dá nova redação ao parágrafo único do art. 28 da Lei nº 3917, de 14 de julho de 1961 (que reorganizou o Ministério das Relações Exteriores) e dá outras providências."
+    },
+    {
+      "senadoId": "546275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-08-4425",
+      "titulo": "Lei nº 4.425 de 08/10/1964",
+      "data": "1964-10-08",
+      "numero": "4425",
+      "urn": "urn:lex:br:federal:lei:1964-10-08;4425",
+      "ementa": "Cria o imposto único sobre os minerais do País; dispõe sobre o produto de sua arrecadação; institui o \"Fundo Nacional de Mineração\" e dá outras providências."
+    },
+    {
+      "senadoId": "546276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-10-08-4426",
+      "titulo": "Lei nº 4.426 de 08/10/1964",
+      "data": "1964-10-08",
+      "numero": "4426",
+      "urn": "urn:lex:br:federal:lei:1964-10-08;4426",
+      "ementa": "Dispõe sobre a venda de vinho em recipientes de volume superior ao estabelecido pela legislação em vigor e dá outras providências."
+    },
+    {
+      "senadoId": "546271",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4421",
+      "titulo": "Lei nº 4.421 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4421",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4421",
+      "ementa": "Transforma a Escola Paulista de Medicina em estabelecimento isolado de ensino superior de natureza autárquica, e dá outras providências."
+    },
+    {
+      "senadoId": "546267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4417",
+      "titulo": "Lei nº 4.417 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4417",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4417",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério das Minas e Energia, o crédito especial de Cr$ 30.567.300.000,00 (trinta bilhões, quinhentos e sessenta e sete milhões e trezentos mil cruzeiros), para fins que especifica."
+    },
+    {
+      "senadoId": "546268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4418",
+      "titulo": "Lei nº 4.418 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4418",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4418",
+      "ementa": "Altera o limite quantitativo, inclui novos doadores e amplia o prazo de vigência da Lei nº 4.184, de 17 de dezembro de 1962."
+    },
+    {
+      "senadoId": "546270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4420",
+      "titulo": "Lei nº 4.420 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4420",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4420",
+      "ementa": "Concede Pensão especial de Cr$ 6.720,00 (Seis mil setecentos e vinte cruzeiros) a Nicolau Janrô, ex-extranumerário-diarista do Ministério da Marinha."
+    },
+    {
+      "senadoId": "546266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4416",
+      "titulo": "Lei nº 4.416 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4416",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4416",
+      "ementa": "Prorroga a vigência da Lei nº 1.300, de 28 de dezembro de 1950 (Lei do Inquilinato)."
+    },
+    {
+      "senadoId": "546269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4419",
+      "titulo": "Lei nº 4.419 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4419",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4419",
+      "ementa": "Isenta de imposto de importação e de consumo, equipamento e acessórios de uma estação transmissora de televisão e máquinas gravadoras (video-tape)."
+    },
+    {
+      "senadoId": "546272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-29-4422",
+      "titulo": "Lei nº 4.422 de 29/09/1964",
+      "data": "1964-09-29",
+      "numero": "4422",
+      "urn": "urn:lex:br:federal:lei:1964-09-29;4422",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Supremo Tribunal Federal - o crédito suplementar de Cr$ 934.526.904,70 (novecentos e trinta e quatro milhões, quinhentos e vinte e seis mil, novecentos e quatro cruzeiros e setenta centavos), em reforço das seguintes dotações:Verba 1.0.00 - Custeio; Consignação 1.1.00 - Pessoal civil , Subconsignação 1.1.01 e 1.1.04, do orçamento vigente (Lei número 4295-63)."
+    },
+    {
+      "senadoId": "546265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4415",
+      "titulo": "Lei nº 4.415 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4415",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4415",
+      "ementa": "Altera a Lei nº 3.917, de 14 de julho de 1961, que reorganiza o Ministério das Relações Exteriores."
+    },
+    {
+      "senadoId": "546262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4412",
+      "titulo": "Lei nº 4.412 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4412",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4412",
+      "ementa": "Concede isenção de licença, impostos e taxas que recaem na importação de uma clínica móvel de campo, completamente equipada, doada à União Norte Brasileira da Igreja Adventista do Sétimo Dia, que se encontra no Porto de Nova Iorque."
+    },
+    {
+      "senadoId": "546263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4413",
+      "titulo": "Lei nº 4.413 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4413",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4413",
+      "ementa": "Autoriza o Tesouro Nacional a promover a elevação do capital da Companhia Nacional de Álcalis e dá outras providências."
+    },
+    {
+      "senadoId": "546259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4409",
+      "titulo": "Lei nº 4.409 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4409",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4409",
+      "ementa": "Concede pensão especial de Cr$ 3.000,00 a Maria Nazaré Souza Ferreira, viúva do ex-marinheiro da Alfândega de Belém José Alves Ferreira, morto por afogamento quando em serviço."
+    },
+    {
+      "senadoId": "546261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4411",
+      "titulo": "Lei nº 4.411 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4411",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4411",
+      "ementa": "Autoriza a abertura ao Poder Judiciário - Tribunal Regional do Trabalho da 4ª Região - do crédito especial de Cr$ 323.157,10, para pagamento de dívidas de exercícios findos."
+    },
+    {
+      "senadoId": "546260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4410",
+      "titulo": "Lei nº 4.410 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4410",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4410",
+      "ementa": "Institui prioridade para os feitos eleitorais, e dá outras providências."
+    },
+    {
+      "senadoId": "546264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-24-4414",
+      "titulo": "Lei nº 4.414 de 24/09/1964",
+      "data": "1964-09-24",
+      "numero": "4414",
+      "urn": "urn:lex:br:federal:lei:1964-09-24;4414",
+      "ementa": "Regula o pagamento de juros moratórios pela União, pelos Estados, Distrito Federal, Municípios e autarquias."
+    },
+    {
+      "senadoId": "546258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-21-4408",
+      "titulo": "Lei nº 4.408 de 21/09/1964",
+      "data": "1964-09-21",
+      "numero": "4408",
+      "urn": "urn:lex:br:federal:lei:1964-09-21;4408",
+      "ementa": "Autoriza a abertura ao Ministério da Justiça e Negócios Interiores, do crédito especial de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-15-4407",
+      "titulo": "Lei nº 4.407 de 15/09/1964",
+      "data": "1964-09-15",
+      "numero": "4407",
+      "urn": "urn:lex:br:federal:lei:1964-09-15;4407",
+      "ementa": "Autoriza a Sociedade Brasileira de Educação a alienar terreno que lhe foi doado pela União Federal."
+    },
+    {
+      "senadoId": "546256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-15-4406",
+      "titulo": "Lei nº 4.406 de 15/09/1964",
+      "data": "1964-09-15",
+      "numero": "4406",
+      "urn": "urn:lex:br:federal:lei:1964-09-15;4406",
+      "ementa": "Incorpora à Universidade do Paraná o Instituto de Biologia e Pesquisas Tecnológicas do Estado do Paraná, e dá outras providências."
+    },
+    {
+      "senadoId": "546255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-15-4405",
+      "titulo": "Lei nº 4.405 de 15/09/1964",
+      "data": "1964-09-15",
+      "numero": "4405",
+      "urn": "urn:lex:br:federal:lei:1964-09-15;4405",
+      "ementa": "Autoriza a abertura, ao Ministério da Justiça e Negócios Interiores, do crédito especial de Cr$ 980.000.000,00, para fins que especifica."
+    },
+    {
+      "senadoId": "546253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-14-4403",
+      "titulo": "Lei nº 4.403 de 14/09/1964",
+      "data": "1964-09-14",
+      "numero": "4403",
+      "urn": "urn:lex:br:federal:lei:1964-09-14;4403",
+      "ementa": "Dispõe sobre bens e direitos de Companhias de Seguro Alemãs."
+    },
+    {
+      "senadoId": "546254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-14-4404",
+      "titulo": "Lei nº 4.404 de 14/09/1964",
+      "data": "1964-09-14",
+      "numero": "4404",
+      "urn": "urn:lex:br:federal:lei:1964-09-14;4404",
+      "ementa": "Dispõe sobre a nacionalidade de menor estrangeiro residente no País, filho de pais estrangeiros naturalizados brasileiros e aqui domiciliados."
+    },
+    {
+      "senadoId": "546251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-10-4401",
+      "titulo": "Lei nº 4.401 de 10/09/1964",
+      "data": "1964-09-10",
+      "numero": "4401",
+      "urn": "urn:lex:br:federal:lei:1964-09-10;4401",
+      "ementa": "Estabelece normas para licitação de serviços e obras e aquisição de materiais no Serviço Público da União, e dá outras providências."
+    },
+    {
+      "senadoId": "546252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-09-10-4402",
+      "titulo": "Lei nº 4.402 de 10/09/1964",
+      "data": "1964-09-10",
+      "numero": "4402",
+      "urn": "urn:lex:br:federal:lei:1964-09-10;4402",
+      "ementa": "Transfere para a Universidade do Brasil o Escritório Técnico da Cidade Universidade, da Divisão de Edifícios Públicos do Departamento Administrativo do Serviço Público, e dá outras providências."
+    },
+    {
+      "senadoId": "546250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4400",
+      "titulo": "Lei nº 4.400 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4400",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4400",
+      "ementa": "Altera a Lei nº 3.890-A, de 25 de abril de 1961, e dá outras providências."
+    },
+    {
+      "senadoId": "546242",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4392",
+      "titulo": "Lei nº 4.392 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4392",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4392",
+      "ementa": "Altera o artigo 136, da Lei nº 3.807, de 26 de agosto de 1960, que trata de amortização e juros de dívidas da União."
+    },
+    {
+      "senadoId": "546243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4393",
+      "titulo": "Lei nº 4.393 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4393",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4393",
+      "ementa": "Cria no Ministério da Educação e Cultura - Conselho Federal de Educação -   cargos em comissão de Secretário-Geral e Secretários de Câmaras."
+    },
+    {
+      "senadoId": "546245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4395",
+      "titulo": "Lei nº 4.395 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4395",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4395",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Superior Tribunal Militar o crédito especial de Cr$ 18.002.427,00 para atender ao pagamento de despesas que especifica, relativas ao exercício de 1959."
+    },
+    {
+      "senadoId": "546244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4394",
+      "titulo": "Lei nº 4.394 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4394",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4394",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 16.000.000.000,00 (dezesseis bilhões de cruzeiros) para subscrição dos aumentos de capital da Fábrica Nacional de Motores S.A., pelo Tesouro Nacional."
+    },
+    {
+      "senadoId": "546246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4396",
+      "titulo": "Lei nº 4.396 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4396",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4396",
+      "ementa": "Estende ao Município de Barroso a Jurisdição da Junta de Conciliação e Julgamento de Barbacena."
+    },
+    {
+      "senadoId": "546247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4397",
+      "titulo": "Lei nº 4.397 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4397",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4397",
+      "ementa": "Isenta dos impostos de importação e de consumo, equipamento telefônico a   ser importado pela Empresa Telefônica de Limoeiro, para instalação do serviço de   telefone na Cidade de Limoeiro, Estado de Pernambuco."
+    },
+    {
+      "senadoId": "546248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4398",
+      "titulo": "Lei nº 4.398 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4398",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4398",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$ 660.814,30 (seiscentos e sessenta mil oitocentos e quatorze cruzeiros e trinta centavos) para atender a pagamentos com exercícios findos a funcionário (salário-família, ajuda de custo, diárias e etc.) e a Firmas por fornecimento de material e serviços prestados."
+    },
+    {
+      "senadoId": "546241",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4391",
+      "titulo": "Lei nº 4.391 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4391",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4391",
+      "ementa": "Revalida a autorização para abertura, pelo Ministério da Fazenda, do crédito especial de Cr$ 100.000.000,00 (cem milhões de cruzeiros), destinados ao cumprimento da Lei nº 4.106, de 26 de julho de 1962."
+    },
+    {
+      "senadoId": "546249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-31-4399",
+      "titulo": "Lei nº 4.399 de 31/08/1964",
+      "data": "1964-08-31",
+      "numero": "4399",
+      "urn": "urn:lex:br:federal:lei:1964-08-31;4399",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 9.295, de 27 de maio de 1946, que criou o Conselho Federal de Contabilidade, modificados pela Lei nº 570, de 22 de dezembro de 1948."
+    },
+    {
+      "senadoId": "546240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-29-4390",
+      "titulo": "Lei nº 4.390 de 29/08/1964",
+      "data": "1964-08-29",
+      "numero": "4390",
+      "urn": "urn:lex:br:federal:lei:1964-08-29;4390",
+      "ementa": "Altera a Lei nº 4.131, de 3 de setembro de 1962, e dá outras providências."
+    },
+    {
+      "senadoId": "546239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-28-4389",
+      "titulo": "Lei nº 4.389 de 28/08/1964",
+      "data": "1964-08-28",
+      "numero": "4389",
+      "urn": "urn:lex:br:federal:lei:1964-08-28;4389",
+      "ementa": "Altera os arts. 273 a 283 do Código da Justiça Militar."
+    },
+    {
+      "senadoId": "546238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-28-4388",
+      "titulo": "Lei nº 4.388 de 28/08/1964",
+      "data": "1964-08-28",
+      "numero": "4388",
+      "urn": "urn:lex:br:federal:lei:1964-08-28;4388",
+      "ementa": "Modifica a legislação dos impostos de consumo e do selo e dá outras providências."
+    },
+    {
+      "senadoId": "546237",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-26-4387",
+      "titulo": "Lei nº 4.387 de 26/08/1964",
+      "data": "1964-08-26",
+      "numero": "4387",
+      "urn": "urn:lex:br:federal:lei:1964-08-26;4387",
+      "ementa": "Estabelece a idade-limite de permanência, no serviço ativo, dos Oficiais   dos Quadros de Administração e de infantaria-de-Guarda e dos Tenentes-Coronéis   de vários Quadros de Oficiais Especialistas do Corpo de Oficiais da   Aeronáutica."
+    },
+    {
+      "senadoId": "546236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-24-4386",
+      "titulo": "Lei nº 4.386 de 24/08/1964",
+      "data": "1964-08-24",
+      "numero": "4386",
+      "urn": "urn:lex:br:federal:lei:1964-08-24;4386",
+      "ementa": "Extingue cargos e cria outros, no Quadro da Secretaria do Superior Tribunal Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "546235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-24-4385",
+      "titulo": "Lei nº 4.385 de 24/08/1964",
+      "data": "1964-08-24",
+      "numero": "4385",
+      "urn": "urn:lex:br:federal:lei:1964-08-24;4385",
+      "ementa": "Isenta de taxa de despacho aduaneiro de 5% ( cinco por cento ) um computador eletrônico Burroughs e respectivos pertences, importados pela Pontifícia Universidade Católica do Rio de Janeiro."
+    },
+    {
+      "senadoId": "546234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-24-4384",
+      "titulo": "Lei nº 4.384 de 24/08/1964",
+      "data": "1964-08-24",
+      "numero": "4384",
+      "urn": "urn:lex:br:federal:lei:1964-08-24;4384",
+      "ementa": "Isenta da taxa de despacho aduaneiro equipamento gráfico destinado à Mitra da Arquidiocese de Porto Alegre."
+    },
+    {
+      "senadoId": "546233",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-24-4383",
+      "titulo": "Lei nº 4.383 de 24/08/1964",
+      "data": "1964-08-24",
+      "numero": "4383",
+      "urn": "urn:lex:br:federal:lei:1964-08-24;4383",
+      "ementa": "Isenta a Petrobrás do Imposto de Transmissão \"inter-vivos\" por aquisições de imóveis no Distrito Federal."
+    },
+    {
+      "senadoId": "546232",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-24-4382",
+      "titulo": "Lei nº 4.382 de 24/08/1964",
+      "data": "1964-08-24",
+      "numero": "4382",
+      "urn": "urn:lex:br:federal:lei:1964-08-24;4382",
+      "ementa": "Isenta dos emolumentos consulares o embarque de quatro centrais termelétricas."
+    },
+    {
+      "senadoId": "546231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-24-4381",
+      "titulo": "Lei nº 4.381 de 24/08/1964",
+      "data": "1964-08-24",
+      "numero": "4381",
+      "urn": "urn:lex:br:federal:lei:1964-08-24;4381",
+      "ementa": "Autoriza a abertura do crédito especial de Cr$ 4.000.000.000,00 (quatro bilhões de cruzeiros) para ocorrer às despesas com a desapropriação da área da bacia hidráulica do Açude Público, Orós, no Estado do Ceará, e dá outras providências."
+    },
+    {
+      "senadoId": "546230",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-21-4380",
+      "titulo": "Lei nº 4.380 de 21/08/1964",
+      "data": "1964-08-21",
+      "numero": "4380",
+      "urn": "urn:lex:br:federal:lei:1964-08-21;4380",
+      "ementa": "Institui a correção monetária nos contratos imobiliários de interesse social, o sistema financeiro para aquisição da casa própria, cria o Banco Nacional da Habitação (BNH), e Sociedades de Crédito Imobiliário, as Letras Imobiliárias, o Serviço Federal de Habitação e Urbanismo e dá outras providências."
+    },
+    {
+      "senadoId": "546229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-21-4379",
+      "titulo": "Lei nº 4.379 de 21/08/1964",
+      "data": "1964-08-21",
+      "numero": "4379",
+      "urn": "urn:lex:br:federal:lei:1964-08-21;4379",
+      "ementa": "Inclui no Plano Rodoviário Nacional a ligação entre Rio Verde, no   Estado de Goiás ( BR-19 ) e Campo Grande, no Estado de Mato Grosso ( BR-16   )."
+    },
+    {
+      "senadoId": "546225",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-17-4375",
+      "titulo": "Lei nº 4.375 de 17/08/1964",
+      "data": "1964-08-17",
+      "numero": "4375",
+      "urn": "urn:lex:br:federal:lei:1964-08-17;4375",
+      "ementa": "Lei do Serviço Militar."
+    },
+    {
+      "senadoId": "546226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-17-4376",
+      "titulo": "Lei nº 4.376 de 17/08/1964",
+      "data": "1964-08-17",
+      "numero": "4376",
+      "urn": "urn:lex:br:federal:lei:1964-08-17;4376",
+      "ementa": "Dispõe sobre a prestação do Serviço Militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos, Dentistas e Veterinários."
+    },
+    {
+      "senadoId": "546228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-17-4378",
+      "titulo": "Lei nº 4.378 de 17/08/1964",
+      "data": "1964-08-17",
+      "numero": "4378",
+      "urn": "urn:lex:br:federal:lei:1964-08-17;4378",
+      "ementa": "Revoga a Lei nº 388, de 18 de setembro de 1948, que dispõe sobre a   promoção dos Capitães dos Quadros dos Serviços das Forças Armadas."
+    },
+    {
+      "senadoId": "546227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-17-4377",
+      "titulo": "Lei nº 4.377 de 17/08/1964",
+      "data": "1964-08-17",
+      "numero": "4377",
+      "urn": "urn:lex:br:federal:lei:1964-08-17;4377",
+      "ementa": "Concede isenção de direitos de importação, de imposto de consumo e de   taxas aduaneiras, para as mercadorias doadas à Confederação de Igrejas   Evangélicas Fundamentalistas do Brasil pela International Christian Relief, dos   Estados Unidos da América do Norte."
+    },
+    {
+      "senadoId": "546224",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-08-04-4374",
+      "titulo": "Lei nº 4.374 de 04/08/1964",
+      "data": "1964-08-04",
+      "numero": "4374",
+      "urn": "urn:lex:br:federal:lei:1964-08-04;4374",
+      "ementa": "Altera disposições da Lei nº 3.860, de 24 de dezembro de 1960, que aprova o   plano de coordenação das atividades relacionadas com o carvão   mineral."
+    },
+    {
+      "senadoId": "546222",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-30-4372",
+      "titulo": "Lei nº 4.372 de 30/07/1964",
+      "data": "1964-07-30",
+      "numero": "4372",
+      "urn": "urn:lex:br:federal:lei:1964-07-30;4372",
+      "ementa": "Autoriza o Poder Executivo a alienar o imóvel pertencente ao Patrimônio   Nacional, situado à Rua 42 da Cidade de Washington, onde estão localizados os   serviços da Chancelaria da Embaixada do Brasil nos Estados Unidos da América, e   a utilizar o produto dessa venda para custeio de uma chancelaria."
+    },
+    {
+      "senadoId": "546223",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-30-4373",
+      "titulo": "Lei nº 4.373 de 30/07/1964",
+      "data": "1964-07-30",
+      "numero": "4373",
+      "urn": "urn:lex:br:federal:lei:1964-07-30;4373",
+      "ementa": "Manda computar, para efeito de cálculo da percentagem-limite das   consignações em folha de pagamento, as vantagens pecuniárias acessórias de   caráter permanente."
+    },
+    {
+      "senadoId": "546220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-28-4370",
+      "titulo": "Lei nº 4.370 de 28/07/1964",
+      "data": "1964-07-28",
+      "numero": "4370",
+      "urn": "urn:lex:br:federal:lei:1964-07-28;4370",
+      "ementa": "Aprova normas para revisão de preços em contratos de obras ou serviços a cargo de órgãos do Governo Federal e dá outras providências."
+    },
+    {
+      "senadoId": "546221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-28-4371",
+      "titulo": "Lei nº 4.371 de 28/07/1964",
+      "data": "1964-07-28",
+      "numero": "4371",
+      "urn": "urn:lex:br:federal:lei:1964-07-28;4371",
+      "ementa": "Abre ao Poder Legislativo o crédito suplementar de Cr$ 11.882.465.000,00,   ao Orçamento da União para o exercício financeiro de 1964."
+    },
+    {
+      "senadoId": "546219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-23-4369",
+      "titulo": "Lei nº 4.369 de 23/07/1964",
+      "data": "1964-07-23",
+      "numero": "4369",
+      "urn": "urn:lex:br:federal:lei:1964-07-23;4369",
+      "ementa": "Concede pensão especial de Cr$ 3.000,00 mensais a Rusina Cardoso Machado, viúva de João Cardoso Machado, ex-servidor da Comissão Brasileira Demarcadora de Limites, falecido em consequência de enfermidade adquirida em serviço."
+    },
+    {
+      "senadoId": "546216",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-23-4366",
+      "titulo": "Lei nº 4.366 de 23/07/1964",
+      "data": "1964-07-23",
+      "numero": "4366",
+      "urn": "urn:lex:br:federal:lei:1964-07-23;4366",
+      "ementa": "Autoriza o Poder Executivo a financiar, mediante empréstimos às municipalidades, o estudo e construção de sistemas públicos de abastecimento de água potável e dá outras providências."
+    },
+    {
+      "senadoId": "546217",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-23-4367",
+      "titulo": "Lei nº 4.367 de 23/07/1964",
+      "data": "1964-07-23",
+      "numero": "4367",
+      "urn": "urn:lex:br:federal:lei:1964-07-23;4367",
+      "ementa": "Isenta do imposto de importação e de consumo, equipamento destinado à   instalação de uma fábrica de café solúvel."
+    },
+    {
+      "senadoId": "546218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-23-4368",
+      "titulo": "Lei nº 4.368 de 23/07/1964",
+      "data": "1964-07-23",
+      "numero": "4368",
+      "urn": "urn:lex:br:federal:lei:1964-07-23;4368",
+      "ementa": "Institui o \"Dia Nacional dos Bancários\"."
+    },
+    {
+      "senadoId": "546215",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-22-4365",
+      "titulo": "Lei nº 4.365 de 22/07/1964",
+      "data": "1964-07-22",
+      "numero": "4365",
+      "urn": "urn:lex:br:federal:lei:1964-07-22;4365",
+      "ementa": "Concede pensão especial à mãe de Bolivar da Cunha Lopes, ex-assalariado do   Serviço de Proteção dos Índios do Ministério da Agricultura."
+    },
+    {
+      "senadoId": "546214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-22-4364",
+      "titulo": "Lei nº 4.364 de 22/07/1964",
+      "data": "1964-07-22",
+      "numero": "4364",
+      "urn": "urn:lex:br:federal:lei:1964-07-22;4364",
+      "ementa": "Modifica a Lei nº 4.156, de 28 de novembro de 1962, que altera a legislação sobre o Fundo Federal de Eletrificação."
+    },
+    {
+      "senadoId": "546208",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-17-4358",
+      "titulo": "Lei nº 4.358 de 17/07/1964",
+      "data": "1964-07-17",
+      "numero": "4358",
+      "urn": "urn:lex:br:federal:lei:1964-07-17;4358",
+      "ementa": "Acrescenta um parágrafo ao art. 9º do Decreto-Lei nº 3.198, de 14 de abril   de 1941."
+    },
+    {
+      "senadoId": "546213",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-17-4363",
+      "titulo": "Lei nº 4.363 de 17/07/1964",
+      "data": "1964-07-17",
+      "numero": "4363",
+      "urn": "urn:lex:br:federal:lei:1964-07-17;4363",
+      "ementa": "Autoriza a criação da Escola de Arquitetura da Universidade do Ceará e dá   outras providências."
+    },
+    {
+      "senadoId": "546211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-17-4361",
+      "titulo": "Lei nº 4.361 de 17/07/1964",
+      "data": "1964-07-17",
+      "numero": "4361",
+      "urn": "urn:lex:br:federal:lei:1964-07-17;4361",
+      "ementa": "Fixa até 31 de julho de cada ano o prazo para o encaminhamento, à Câmara   dos Deputados, da proposta orçamentária do Distrito Federal."
+    },
+    {
+      "senadoId": "546209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-17-4359",
+      "titulo": "Lei nº 4.359 de 17/07/1964",
+      "data": "1964-07-17",
+      "numero": "4359",
+      "urn": "urn:lex:br:federal:lei:1964-07-17;4359",
+      "ementa": "Inclui no art.14 da Lei nº 2.976, de 1956, os Municípios de Pelotas e Rio   Grande, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "546210",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-17-4360",
+      "titulo": "Lei nº 4.360 de 17/07/1964",
+      "data": "1964-07-17",
+      "numero": "4360",
+      "urn": "urn:lex:br:federal:lei:1964-07-17;4360",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 50.000.000,00   ( cinquenta milhões de cruzeiros ) em favor das Comissões de Comércio Exterior e   Desenvolvimento Industrial, do Ministério da Indústria e Comércio."
+    },
+    {
+      "senadoId": "546212",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-17-4362",
+      "titulo": "Lei nº 4.362 de 17/07/1964",
+      "data": "1964-07-17",
+      "numero": "4362",
+      "urn": "urn:lex:br:federal:lei:1964-07-17;4362",
+      "ementa": "Modifica o art. 4º da Lei nº 3.737, de 28 de março de 1960, que transferiu para o Poder Legislativo e sujeitou à sua administração, os canais de ondas curtas e médias da Rádio Ministério da Educação e Cultura, com os respectivos equipamentos e instalações."
+    },
+    {
+      "senadoId": "546207",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-16-4357",
+      "titulo": "Lei nº 4.357 de 16/07/1964",
+      "data": "1964-07-16",
+      "numero": "4357",
+      "urn": "urn:lex:br:federal:lei:1964-07-16;4357",
+      "ementa": "Autoriza a emissão de Obrigações do Tesouro Nacional, altera a legislação do imposto sobre a renda, e dá outras providências."
+    },
+    {
+      "senadoId": "546204",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-14-4354",
+      "titulo": "Lei nº 4.354 de 14/07/1964",
+      "data": "1964-07-14",
+      "numero": "4354",
+      "urn": "urn:lex:br:federal:lei:1964-07-14;4354",
+      "ementa": "Revoga o Decreto-Lei nº 5298, de 3 de março de 1943, que fixa as autoridades da Aeronáutica que dispõem de Ajudantes-de-Ordens, e dá outras providências."
+    },
+    {
+      "senadoId": "546206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-14-4356",
+      "titulo": "Lei nº 4.356 de 14/07/1964",
+      "data": "1964-07-14",
+      "numero": "4356",
+      "urn": "urn:lex:br:federal:lei:1964-07-14;4356",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário -   Tribunal Superior do Trabalho - o crédito suplementar de Cr$ 196.368.800,00 (cento e noventa   e seis milhões, trezentos e sessenta e oito mil e oitocentos cruzeiros) em   reforço à dotação do Orçamento vigente."
+    },
+    {
+      "senadoId": "546205",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-14-4355",
+      "titulo": "Lei nº 4.355 de 14/07/1964",
+      "data": "1964-07-14",
+      "numero": "4355",
+      "urn": "urn:lex:br:federal:lei:1964-07-14;4355",
+      "ementa": "Dá nova redação ao art. 25, da Lei nº 3.807, de 26 de agosto de 1960   (Lei Orgânica da Previdência Social)."
+    },
+    {
+      "senadoId": "546198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-06-4349",
+      "titulo": "Lei nº 4.349 de 06/07/1964",
+      "data": "1964-07-06",
+      "numero": "4349",
+      "urn": "urn:lex:br:federal:lei:1964-07-06;4349",
+      "ementa": "Prorroga, até 31 de dezembro de 1965, a suspensão da cobrança das taxas aeroportuárias aplicadas às aeronaves das empresas brasileiras, na execução de suas linhas domésticas."
+    },
+    {
+      "senadoId": "546202",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-06-4352",
+      "titulo": "Lei nº 4.352 de 06/07/1964",
+      "data": "1964-07-06",
+      "numero": "4352",
+      "urn": "urn:lex:br:federal:lei:1964-07-06;4352",
+      "ementa": "Dispõe sobre a Campanha Nacional da Merenda Escolar."
+    },
+    {
+      "senadoId": "546200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-06-4350",
+      "titulo": "Lei nº 4.350 de 06/07/1964",
+      "data": "1964-07-06",
+      "numero": "4350",
+      "urn": "urn:lex:br:federal:lei:1964-07-06;4350",
+      "ementa": "Altera a denominação do Instituto de Puericultura da Universidade do Brasil, a que se refere o Decreto-Lei nº 98, de 23 de dezembro de 1937."
+    },
+    {
+      "senadoId": "546203",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-06-4353",
+      "titulo": "Lei nº 4.353 de 06/07/1964",
+      "data": "1964-07-06",
+      "numero": "4353",
+      "urn": "urn:lex:br:federal:lei:1964-07-06;4353",
+      "ementa": "Autoriza a desapropriação de bens do domínio do Estado de Minas Gerais e   dos municípios atingidos pelo reservatório a formar-se pela corredeira de   Furnas."
+    },
+    {
+      "senadoId": "546201",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-07-06-4351",
+      "titulo": "Lei nº 4.351 de 06/07/1964",
+      "data": "1964-07-06",
+      "numero": "4351",
+      "urn": "urn:lex:br:federal:lei:1964-07-06;4351",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral   do Estado de Minas Gerais - o crédito suplementar que especifica."
+    },
+    {
+      "senadoId": "546197",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-26-4348",
+      "titulo": "Lei nº 4.348 de 26/06/1964",
+      "data": "1964-06-26",
+      "numero": "4348",
+      "urn": "urn:lex:br:federal:lei:1964-06-26;4348",
+      "ementa": "Estabelece normas processuais relativas a mandado de segurança."
+    },
+    {
+      "senadoId": "546195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-26-4346",
+      "titulo": "Lei nº 4.346 de 26/06/1964",
+      "data": "1964-06-26",
+      "numero": "4346",
+      "urn": "urn:lex:br:federal:lei:1964-06-26;4346",
+      "ementa": "Prorroga até 30 de setembro de 1964, a vigência da Lei nº 1300, de 28 de   dezembro de 1950."
+    },
+    {
+      "senadoId": "546196",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-26-4347",
+      "titulo": "Lei nº 4.347 de 26/06/1964",
+      "data": "1964-06-26",
+      "numero": "4347",
+      "urn": "urn:lex:br:federal:lei:1964-06-26;4347",
+      "ementa": "Isenta dos impostos de importação e de consumo a importação de uma \"Bomba   de Cobalto\" e de seus respectivos acessórios, destinados à Santa Casa de   Misericórdia de Santos, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "546194",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-26-4345",
+      "titulo": "Lei nº 4.345 de 26/06/1964",
+      "data": "1964-06-26",
+      "numero": "4345",
+      "urn": "urn:lex:br:federal:lei:1964-06-26;4345",
+      "ementa": "Institui novos valores de vencimentos para os servidores públicos civis do Poder Executivo e dá outras providências."
+    },
+    {
+      "senadoId": "546193",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-21-4344",
+      "titulo": "Lei nº 4.344 de 21/06/1964",
+      "data": "1964-06-21",
+      "numero": "4344",
+      "urn": "urn:lex:br:federal:lei:1964-06-21;4344",
+      "ementa": "Cria o cargo de Ministro Extraordinário e dá outras   providências."
+    },
+    {
+      "senadoId": "546192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-19-4343",
+      "titulo": "Lei nº 4.343 de 19/06/1964",
+      "data": "1964-06-19",
+      "numero": "4343",
+      "urn": "urn:lex:br:federal:lei:1964-06-19;4343",
+      "ementa": "Dispõe, para efeito de aposentadoria e disponibilidade, sobre o tempo de   serviço prestado pelo pessoal brasileiro à Comissão Mista Ferroviária   Brasileiro-Boliviana."
+    },
+    {
+      "senadoId": "546191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-15-4342",
+      "titulo": "Lei nº 4.342 de 15/06/1964",
+      "data": "1964-06-15",
+      "numero": "4342",
+      "urn": "urn:lex:br:federal:lei:1964-06-15;4342",
+      "ementa": "Modifica a Lei nº 909, de 8 de novembro de 1949, elevando o valor do selo   postal adicional, emitido em benefício dos filhos de Lázaros e dá outras   providências."
+    },
+    {
+      "senadoId": "546189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-13-4340",
+      "titulo": "Lei nº 4.340 de 13/06/1964",
+      "data": "1964-06-13",
+      "numero": "4340",
+      "urn": "urn:lex:br:federal:lei:1964-06-13;4340",
+      "ementa": "Regula a execução do art. 3º da Lei nº 458, de 29 de outubro de 1948, que dispõe sobre a extensão de vantagens do montepio militar."
+    },
+    {
+      "senadoId": "546190",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-13-4341",
+      "titulo": "Lei nº 4.341 de 13/06/1964",
+      "data": "1964-06-13",
+      "numero": "4341",
+      "urn": "urn:lex:br:federal:lei:1964-06-13;4341",
+      "ementa": "Cria o Serviço Nacional de Informações."
+    },
+    {
+      "senadoId": "546188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-05-4339",
+      "titulo": "Lei nº 4.339 de 05/06/1964",
+      "data": "1964-06-05",
+      "numero": "4339",
+      "urn": "urn:lex:br:federal:lei:1964-06-05;4339",
+      "ementa": "Altera o art. 1º da Lei nº 2586, de 5 de setembro de 1955, que reestrutura   o Quadro de Oficiais-Intendentes do Exército, e dá outras providências   ."
+    },
+    {
+      "senadoId": "546186",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4337",
+      "titulo": "Lei nº 4.337 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4337",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4337",
+      "ementa": "Regula a declaração de inconstitucionalidade para os efeitos do artigo 7º,   nº VII, da Constituição Federal."
+    },
+    {
+      "senadoId": "546182",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4333",
+      "titulo": "Lei nº 4.333 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4333",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4333",
+      "ementa": "Acrescenta um parágrafo ao artigo 853, do Código de Processo   Civil."
+    },
+    {
+      "senadoId": "546180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4331",
+      "titulo": "Lei nº 4.331 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4331",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4331",
+      "ementa": "Dispõe sobre a aquisição, por Govêrnos estrangeiros, no Distrito Federal, de imóveis necessários à residência dos agentes diplomáticos das respectivas Missões Diplomáticas."
+    },
+    {
+      "senadoId": "546179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4330",
+      "titulo": "Lei nº 4.330 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4330",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4330",
+      "ementa": "Regula o direito de greve, na forma do art. 158, da Constituição Federal."
+    },
+    {
+      "senadoId": "546183",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4334",
+      "titulo": "Lei nº 4.334 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4334",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4334",
+      "ementa": "Autoriza permuta de imóveis entre a União e o Estado do   Maranhão."
+    },
+    {
+      "senadoId": "546181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4332",
+      "titulo": "Lei nº 4.332 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4332",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4332",
+      "ementa": "Concede isenção de licença prévia e de imposto de importação e outros   tributos e taxas para donativos consignados à Associação Obras Sociais Irmã   Dulce."
+    },
+    {
+      "senadoId": "546184",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4335",
+      "titulo": "Lei nº 4.335 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4335",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4335",
+      "ementa": "Altera o art. 870 do Código do Processo Civil."
+    },
+    {
+      "senadoId": "546187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4338",
+      "titulo": "Lei nº 4.338 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4338",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4338",
+      "ementa": "Fixa o dia 25 de maio como a data comemorativa do trabalhador   rural."
+    },
+    {
+      "senadoId": "546185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-06-01-4336",
+      "titulo": "Lei nº 4.336 de 01/06/1964",
+      "data": "1964-06-01",
+      "numero": "4336",
+      "urn": "urn:lex:br:federal:lei:1964-06-01;4336",
+      "ementa": "Altera dispositivo do Código do Processo Penal."
+    },
+    {
+      "senadoId": "546177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-30-4328",
+      "titulo": "Lei nº 4.328 de 30/04/1964",
+      "data": "1964-04-30",
+      "numero": "4328",
+      "urn": "urn:lex:br:federal:lei:1964-04-30;4328",
+      "ementa": "Institui o novo Código de Vencimentos dos Militares."
+    },
+    {
+      "senadoId": "546178",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-30-4329",
+      "titulo": "Lei nº 4.329 de 30/04/1964",
+      "data": "1964-04-30",
+      "numero": "4329",
+      "urn": "urn:lex:br:federal:lei:1964-04-30;4329",
+      "ementa": "Dispõe sobre o prazo para declaração do Imposto de Renda e dá outras   providências."
+    },
+    {
+      "senadoId": "546176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-30-4327",
+      "titulo": "Lei nº 4.327 de 30/04/1964",
+      "data": "1964-04-30",
+      "numero": "4327",
+      "urn": "urn:lex:br:federal:lei:1964-04-30;4327",
+      "ementa": "Promove a General-de-Exército o General-de-Divisão Olimpio Mourão Filho, e   dá outras providências."
+    },
+    {
+      "senadoId": "546175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-26-4326",
+      "titulo": "Lei nº 4.326 de 26/04/1964",
+      "data": "1964-04-26",
+      "numero": "4326",
+      "urn": "urn:lex:br:federal:lei:1964-04-26;4326",
+      "ementa": "Estabelece prazo para o provimento de cargos públicos."
+    },
+    {
+      "senadoId": "546174",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-16-4325",
+      "titulo": "Lei nº 4.325 de 16/04/1964",
+      "data": "1964-04-16",
+      "numero": "4325",
+      "urn": "urn:lex:br:federal:lei:1964-04-16;4325",
+      "ementa": "Reverte ao Serviço Ativo do Exército o Tenente Coronel Rubens Ribeiro dos   Santos, e dá outras providências."
+    },
+    {
+      "senadoId": "546173",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-14-4324",
+      "titulo": "Lei nº 4.324 de 14/04/1964",
+      "data": "1964-04-14",
+      "numero": "4324",
+      "urn": "urn:lex:br:federal:lei:1964-04-14;4324",
+      "ementa": "Institui o Conselho Federal e os Conselhos Regionais de Odontologia, e dá outras providências."
+    },
+    {
+      "senadoId": "546172",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-11-4323",
+      "titulo": "Lei nº 4.323 de 11/04/1964",
+      "data": "1964-04-11",
+      "numero": "4323",
+      "urn": "urn:lex:br:federal:lei:1964-04-11;4323",
+      "ementa": "Cria a Escola \"Agrotécnica Antônio Versiani Athayde\", no Estado de Minas   Gerais, e dá outras providências."
+    },
+    {
+      "senadoId": "546170",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-07-4321",
+      "titulo": "Lei nº 4.321 de 07/04/1964",
+      "data": "1964-04-07",
+      "numero": "4321",
+      "urn": "urn:lex:br:federal:lei:1964-04-07;4321",
+      "ementa": "Dispõe sobre a eleição, pelo Congresso Nacional, do Presidente e Vice-Presidente da República."
+    },
+    {
+      "senadoId": "546171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-04-07-4322",
+      "titulo": "Lei nº 4.322 de 07/04/1964",
+      "data": "1964-04-07",
+      "numero": "4322",
+      "urn": "urn:lex:br:federal:lei:1964-04-07;4322",
+      "ementa": "Dispõe sôbre atribuições conferidas às autoridades de polícia para   fiscalizar e conceder ingresso em território nacional a estrangeiros."
+    },
+    {
+      "senadoId": "546169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-03-17-4320",
+      "titulo": "Lei nº 4.320 de 17/03/1964",
+      "data": "1964-03-17",
+      "numero": "4320",
+      "urn": "urn:lex:br:federal:lei:1964-03-17;4320",
+      "ementa": "Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+    },
+    {
+      "senadoId": "546168",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1964-03-16-4319",
+      "titulo": "Lei nº 4.319 de 16/03/1964",
+      "data": "1964-03-16",
+      "numero": "4319",
+      "urn": "urn:lex:br:federal:lei:1964-03-16;4319",
+      "ementa": "Cria o Conselho de Defesa dos Direitos da Pessoa Humana."
+    }
+  ],
+  "pendencias": []
+}

@@ -4,7 +4,11 @@
   "type": "module",
   "scripts": {
     "collect": "bun scripts/collect.ts",
-    "check": "tsc --noEmit && bun test"
+    "check": "tsc --noEmit && bun test",
+    "discover": "bun scripts/discover.ts",
+    "collect:senado": "bun scripts/collect-senado.ts",
+    "audit": "bun scripts/audit.ts",
+    "coverage": "bun scripts/coverage.ts"
   },
   "dependencies": {
     "cheerio": "1.1.2",

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-30-15447",
+  "titulo": "Lei nº 15.447 de 30/06/2026",
+  "data": "2026-06-30",
+  "fonte": "https://normas.leg.br/api/public/binario/84ee2dcb-6ca9-4989-9679-6369758387c7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-30;15447",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-30%3B15447&tipo_documento=maior-detalhe",
+  "sha256_dados": "b79cfd4cb496d434699eefceac061685971e215cd62ee107f9fe3aca5b08ea99",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:49.036Z",
+  "sha256_fonte": "0c6135b242e38a193cc12e2e873688c3f95494c897efa60f3236dcc08c799cb3",
+  "sha256_markdown": "fd2429970004895266d3503b823c6577ad1d20d8fc009acc8e9e5e40ea9672ef"
+}

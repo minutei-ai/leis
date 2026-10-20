@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-05-25-15417",
+  "titulo": "Lei nº 15.417 de 25/05/2026",
+  "data": "2026-05-25",
+  "fonte": "https://normas.leg.br/api/public/binario/6b803887-c6e7-477f-b2df-bd94d442acc0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-05-25;15417",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-05-25%3B15417&tipo_documento=maior-detalhe",
+  "sha256_dados": "a08e7e7eb3208808592bfbca6abb136fcadd48c0c56f1ee0d86e9f79adc744a1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:33.385Z",
+  "sha256_fonte": "726b7b47d25e5e9fdf1a5d49a819488dd26b7fdf3f787ea994c16893d16e8a21",
+  "sha256_markdown": "dde7fc58a4281babdaa4806597648591f6108a021ca151ff79f4326393c31d8a"
+}

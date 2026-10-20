@@ -1,0 +1,2909 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2009",
+  "tipo": "LEI",
+  "ano": 2009,
+  "coletado_em": "2026-10-20T22:56:42.401Z",
+  "normas": [
+    {
+      "senadoId": "580852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12160",
+      "titulo": "Lei nº 12.160 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12160",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12160",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito especial no valor de R$ 4.987.500.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580865",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12173",
+      "titulo": "Lei nº 12.173 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12173",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12173",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito especial no valor de R$ 75.501.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580869",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12177",
+      "titulo": "Lei nº 12.177 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12177",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12177",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento, Indústria e Comércio Exterior, crédito especial no valor de R$ 100.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580858",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12166",
+      "titulo": "Lei nº 12.166 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12166",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12166",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Pesca e Aquicultura, crédito especial no valor de R$ 31.150.175,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580875",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12183",
+      "titulo": "Lei nº 12.183 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12183",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12183",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial no valor de R$ 277.207.100,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580868",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12176",
+      "titulo": "Lei nº 12.176 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12176",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12176",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 10.000.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580877",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12185",
+      "titulo": "Lei nº 12.185 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12185",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12185",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Câmara dos Deputados, do Senado Federal, das Justiças Federal, Eleitoral e do Trabalho, da Presidência da República, do Ministério Público da União e do Ministério da Pesca e Aquicultura, crédito especial no valor global de R$ 293.272.036,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580872",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12180",
+      "titulo": "Lei nº 12.180 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12180",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12180",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor de empresas estatais federais, crédito suplementar no valor total de R$ 842.967.231,00 e reduz o Orçamento de Investimento de diversas empresas no valor global de R$ 2.249.997.748,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12184",
+      "titulo": "Lei nº 12.184 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12184",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12184",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Cultura e do Esporte, crédito suplementar no valor global de R$ 1.277.680.344,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580861",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12169",
+      "titulo": "Lei nº 12.169 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12169",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12169",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito especial no valor de R$ 30.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580851",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12159",
+      "titulo": "Lei nº 12.159 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12159",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12159",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor global de R$ 445.096.235,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580854",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12162",
+      "titulo": "Lei nº 12.162 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12162",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12162",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor do Banco da Amazônia S.A. - BASA, da Caixa Econômica Federal - CAIXA, do Banco Nossa Caixa S.A. - BNC e do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, crédito especial no valor total de R$ 256.205.237,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580859",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12167",
+      "titulo": "Lei nº 12.167 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12167",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12167",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito especial no valor de R$ 1.430.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580855",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12163",
+      "titulo": "Lei nº 12.163 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12163",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12163",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Relações Exteriores, crédito especial no valor de R$ 77.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580856",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12164",
+      "titulo": "Lei nº 12.164 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12164",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12164",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Previdência Social e do Desenvolvimento Social e Combate à Fome, crédito especial no valor global de R$ 20.300.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12178",
+      "titulo": "Lei nº 12.178 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12178",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12178",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Superior Tribunal de Justiça, das Justiças Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territórios, da Presidência da República, do Ministério Público da União e do Ministério das Relações Exteriores, crédito suplementar no valor global de R$ 646.938.037,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12186",
+      "titulo": "Lei nº 12.186 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12186",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12186",
+      "ementa": "Dispõe sobre os valores das parcelas remuneratórias dos integrantes das Carreiras e do Plano Especial de Cargos do DNIT, de que trata a Lei nº 11.171, de 2 de setembro de 2005, da Carreira de Analista de Infraestrutura e do cargo isolado de Especialista em Infraestrutura Sênior, de que trata a Lei nº 11.539, de 8 de novembro de 2007; altera as Leis nºs 11.171, de 2 de setembro de 2005, e 11.539, de 8 de novembro de 2007; e dá outras providências."
+    },
+    {
+      "senadoId": "580857",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12165",
+      "titulo": "Lei nº 12.165 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12165",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12165",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 69.646.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580874",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12182",
+      "titulo": "Lei nº 12.182 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12182",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12182",
+      "ementa": "Altera o caput do art. 3º e o art. 78 da Lei nº 12.017, de 12 de agosto de 2009, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2010 e dá outras providências."
+    },
+    {
+      "senadoId": "580860",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12168",
+      "titulo": "Lei nº 12.168 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12168",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12168",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito especial no valor de R$ 13.570.912,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580871",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12179",
+      "titulo": "Lei nº 12.179 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12179",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12179",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor de empresas estatais, crédito especial no valor total de R$ 257.168.111,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580862",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12170",
+      "titulo": "Lei nº 12.170 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12170",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12170",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 350.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12171",
+      "titulo": "Lei nº 12.171 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12171",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12171",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Integração Nacional, crédito especial no valor de R$ 22.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580864",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12172",
+      "titulo": "Lei nº 12.172 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12172",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12172",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Turismo e de Encargos Financeiros da União, crédito especial no valor global de R$ 15.959.834,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "575829",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12187",
+      "titulo": "Lei nº 12.187 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12187",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12187",
+      "ementa": "Institui a Política Nacional sobre Mudança do Clima - PNMC e dá outras providências."
+    },
+    {
+      "senadoId": "580867",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12175",
+      "titulo": "Lei nº 12.175 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12175",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12175",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Previdência Social e do Desenvolvimento Social e Combate à Fome, crédito suplementar no valor global de R$ 98.671.192,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580873",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12181",
+      "titulo": "Lei nº 12.181 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12181",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12181",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios do Planejamento, Orçamento e Gestão e das Cidades, crédito suplementar no valor global de R$ 420.999.637,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580866",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12174",
+      "titulo": "Lei nº 12.174 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12174",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12174",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito especial no valor de R$ 11.590.361,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580853",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-29-12161",
+      "titulo": "Lei nº 12.161 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "12161",
+      "urn": "urn:lex:br:federal:lei:2009-12-29;12161",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor de Companhias Docas, crédito especial no valor total de R$ 78.800.615,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580850",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-28-12158",
+      "titulo": "Lei nº 12.158 de 28/12/2009",
+      "data": "2009-12-28",
+      "numero": "12158",
+      "urn": "urn:lex:br:federal:lei:2009-12-28;12158",
+      "ementa": "Dispõe sobre o acesso às graduações superiores de militares oriundos do Quadro de Taifeiros da Aeronáutica."
+    },
+    {
+      "senadoId": "580847",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-23-12155",
+      "titulo": "Lei nº 12.155 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "12155",
+      "urn": "urn:lex:br:federal:lei:2009-12-23;12155",
+      "ementa": "Dispõe sobre a concessão de Bônus Especial de Desempenho Institucional - BESP/DNIT aos servidores do Departamento Nacional de Infra-Estrutura de Transportes - DNIT; altera as Leis nºs 11.171, de 2 de setembro de 2005, 10.997, de 15 de dezembro de 2004, 11.907, de 2 de fevereiro de 2009, e 11.507, de 20 de julho de 2007; e dá outras providências."
+    },
+    {
+      "senadoId": "580848",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-23-12156",
+      "titulo": "Lei nº 12.156 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "12156",
+      "urn": "urn:lex:br:federal:lei:2009-12-23;12156",
+      "ementa": "Cria cargos efetivos, cargos comissionados e funções gratificadas no âmbito do Ministério da Educação."
+    },
+    {
+      "senadoId": "580846",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-23-12154",
+      "titulo": "Lei nº 12.154 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "12154",
+      "urn": "urn:lex:br:federal:lei:2009-12-23;12154",
+      "ementa": "Cria a Superintendência Nacional de Previdência Complementar - PREVIC e dispõe sobre o seu pessoal; inclui a Câmara de Recursos da Previdência Complementar na estrutura básica do Ministério da Previdência Social; altera disposições referentes a auditores-fiscais da Receita Federal do Brasil; altera as Leis nºs 11.457, de 16 de março de 2007, e 10.683, de 28 de maio de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "580849",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-23-12157",
+      "titulo": "Lei nº 12.157 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "12157",
+      "urn": "urn:lex:br:federal:lei:2009-12-23;12157",
+      "ementa": "Altera o art. 13 da Lei nº 5.700, de 1º de setembro de 1971."
+    },
+    {
+      "senadoId": "580845",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-22-12153",
+      "titulo": "Lei nº 12.153 de 22/12/2009",
+      "data": "2009-12-22",
+      "numero": "12153",
+      "urn": "urn:lex:br:federal:lei:2009-12-22;12153",
+      "ementa": "Dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios."
+    },
+    {
+      "senadoId": "580837",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12145",
+      "titulo": "Lei nº 12.145 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12145",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12145",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito especial no valor de R$ 200.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580844",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12152",
+      "titulo": "Lei nº 12.152 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12152",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12152",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito suplementar no valor de R$ 14.500.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580839",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12147",
+      "titulo": "Lei nº 12.147 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12147",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12147",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, crédito suplementar no valor de R$ 8.341.060,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580843",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12151",
+      "titulo": "Lei nº 12.151 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12151",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12151",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito suplementar no valor de R$ 13.916.787,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580834",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12142",
+      "titulo": "Lei nº 12.142 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12142",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12142",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento, Indústria e Comércio Exterior e de Encargos Financeiros da União, crédito especial no valor global de R$ 6.040.022,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580835",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12143",
+      "titulo": "Lei nº 12.143 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12143",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12143",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Planejamento, Orçamento e Gestão, crédito suplementar no valor de R$ 5.468.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580838",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12146",
+      "titulo": "Lei nº 12.146 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12146",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12146",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Planejamento, Orçamento e Gestão, crédito especial no valor de R$ 6.050.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580833",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12141",
+      "titulo": "Lei nº 12.141 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12141",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12141",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 5.000.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580836",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12144",
+      "titulo": "Lei nº 12.144 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12144",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12144",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, crédito especial no valor de R$ 90.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580842",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12150",
+      "titulo": "Lei nº 12.150 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12150",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12150",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério do Desenvolvimento Social e Combate à Fome, crédito especial no valor de R$ 1.720.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580831",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12139",
+      "titulo": "Lei nº 12.139 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12139",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12139",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência e Tecnologia, da Educação, da Cultura e do Esporte, crédito suplementar no valor global de R$ 250.945.886,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580841",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12149",
+      "titulo": "Lei nº 12.149 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12149",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12149",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 500.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580840",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12148",
+      "titulo": "Lei nº 12.148 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12148",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12148",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito especial no valor de R$ 6.250.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580832",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-21-12140",
+      "titulo": "Lei nº 12.140 de 21/12/2009",
+      "data": "2009-12-21",
+      "numero": "12140",
+      "urn": "urn:lex:br:federal:lei:2009-12-21;12140",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Supremo Tribunal Federal, da Justiça Eleitoral, da Presidência da República e do Ministério Público da União, crédito suplementar no valor global de R$ 16.301.300,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580829",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-18-12137",
+      "titulo": "Lei nº 12.137 de 18/12/2009",
+      "data": "2009-12-18",
+      "numero": "12137",
+      "urn": "urn:lex:br:federal:lei:2009-12-18;12137",
+      "ementa": "Altera o § 4º do art. 9º da Lei nº 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Cíveis e Criminais e dá outras providências."
+    },
+    {
+      "senadoId": "580827",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-18-12135",
+      "titulo": "Lei nº 12.135 de 18/12/2009",
+      "data": "2009-12-18",
+      "numero": "12135",
+      "urn": "urn:lex:br:federal:lei:2009-12-18;12135",
+      "ementa": "Institui o Dia Nacional de Combate e Prevenção da Hanseníase."
+    },
+    {
+      "senadoId": "580826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-18-12134",
+      "titulo": "Lei nº 12.134 de 18/12/2009",
+      "data": "2009-12-18",
+      "numero": "12134",
+      "urn": "urn:lex:br:federal:lei:2009-12-18;12134",
+      "ementa": "Altera a Lei nº 6.815, de 19 de agosto de 1980, para instituir a reciprocidade na concessão de prazos de permanência de estrangeiros no Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "580828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-18-12136",
+      "titulo": "Lei nº 12.136 de 18/12/2009",
+      "data": "2009-12-18",
+      "numero": "12136",
+      "urn": "urn:lex:br:federal:lei:2009-12-18;12136",
+      "ementa": "Institui o Dia Nacional de Conscientização e Divulgação da Fibrose Cística."
+    },
+    {
+      "senadoId": "580830",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-18-12138",
+      "titulo": "Lei nº 12.138 de 18/12/2009",
+      "data": "2009-12-18",
+      "numero": "12138",
+      "urn": "urn:lex:br:federal:lei:2009-12-18;12138",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento e do Desenvolvimento Agrário, crédito suplementar no valor global de R$ 782.710.706,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580825",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12133",
+      "titulo": "Lei nº 12.133 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12133",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12133",
+      "ementa": "Dá nova redação ao art. 1.526 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para determinar que a habilitação para o casamento seja feita pessoalmente perante o oficial do Registro Civil."
+    },
+    {
+      "senadoId": "580820",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12128",
+      "titulo": "Lei nº 12.128 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12128",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12128",
+      "ementa": "Dispõe sobre a criação do Dia Nacional do Arqueólogo."
+    },
+    {
+      "senadoId": "580819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12127",
+      "titulo": "Lei nº 12.127 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12127",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12127",
+      "ementa": "Cria o Cadastro Nacional de Crianças e Adolescentes Desaparecidos."
+    },
+    {
+      "senadoId": "580823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12131",
+      "titulo": "Lei nº 12.131 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12131",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12131",
+      "ementa": "Denomina Rodovia Senador Jonas Pinheiro o trecho da rodovia BR-163 situado entre as cidades de Cuiabá, no Estado de Mato Grosso, e de Santarém, no Estado do Pará."
+    },
+    {
+      "senadoId": "580821",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12129",
+      "titulo": "Lei nº 12.129 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12129",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12129",
+      "ementa": "Denomina Contorno Oeste Ottomar de Souza Pinto o trecho do Contorno Oeste de Boa Vista, no Estado de Roraima, que faz a ligação da BR-174 Norte à BR-174 Sul."
+    },
+    {
+      "senadoId": "580824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12132",
+      "titulo": "Lei nº 12.132 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12132",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12132",
+      "ementa": "Institui o ano de 2009 como o Ano Nacional Patativa do Assaré."
+    },
+    {
+      "senadoId": "580822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-17-12130",
+      "titulo": "Lei nº 12.130 de 17/12/2009",
+      "data": "2009-12-17",
+      "numero": "12130",
+      "urn": "urn:lex:br:federal:lei:2009-12-17;12130",
+      "ementa": "Institui o Dia Nacional do Historiador, a ser celebrado anualmente no dia 19 de agosto."
+    },
+    {
+      "senadoId": "580818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-16-12126",
+      "titulo": "Lei nº 12.126 de 16/12/2009",
+      "data": "2009-12-16",
+      "numero": "12126",
+      "urn": "urn:lex:br:federal:lei:2009-12-16;12126",
+      "ementa": "Dá nova redação ao § 1º do art. 8º da Lei nº 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Cíveis e Criminais."
+    },
+    {
+      "senadoId": "580816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-16-12124",
+      "titulo": "Lei nº 12.124 de 16/12/2009",
+      "data": "2009-12-16",
+      "numero": "12124",
+      "urn": "urn:lex:br:federal:lei:2009-12-16;12124",
+      "ementa": "Dispõe sobre a instituição do dia 18 de março como data comemorativa do Dia Nacional da Imigração Judaica e dá outras providências."
+    },
+    {
+      "senadoId": "580817",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-16-12125",
+      "titulo": "Lei nº 12.125 de 16/12/2009",
+      "data": "2009-12-16",
+      "numero": "12125",
+      "urn": "urn:lex:br:federal:lei:2009-12-16;12125",
+      "ementa": "Acrescenta parágrafo ao art. 1.050 da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), para dispensar, nos embargos de terceiro, a citação pessoal."
+    },
+    {
+      "senadoId": "580814",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-15-12122",
+      "titulo": "Lei nº 12.122 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "12122",
+      "urn": "urn:lex:br:federal:lei:2009-12-15;12122",
+      "ementa": "Altera o art. 275 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, incluindo como sujeitas ao procedimento sumário as causas relativas à revogação de doação."
+    },
+    {
+      "senadoId": "580813",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-15-12121",
+      "titulo": "Lei nº 12.121 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "12121",
+      "urn": "urn:lex:br:federal:lei:2009-12-15;12121",
+      "ementa": "Acrescenta o § 3º ao art. 83 da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, determinando que os estabelecimentos penais destinados às mulheres tenham por efetivo de segurança interna somente agentes do sexo feminino."
+    },
+    {
+      "senadoId": "580812",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-15-12120",
+      "titulo": "Lei nº 12.120 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "12120",
+      "urn": "urn:lex:br:federal:lei:2009-12-15;12120",
+      "ementa": "Altera os arts. 12 e 21 da Lei nº 8.429, de 2 de junho de 1992 - Lei de Improbidade Administrativa."
+    },
+    {
+      "senadoId": "580811",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-15-12119",
+      "titulo": "Lei nº 12.119 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "12119",
+      "urn": "urn:lex:br:federal:lei:2009-12-15;12119",
+      "ementa": "Altera o art. 2º da Lei nº 11.337, de 26 de julho de 2006, para melhor detalhar a abrangência da exigência nele contida e para adequar a nomenclatura empregada aos padrões técnicos estabelecidos."
+    },
+    {
+      "senadoId": "580815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-15-12123",
+      "titulo": "Lei nº 12.123 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "12123",
+      "urn": "urn:lex:br:federal:lei:2009-12-15;12123",
+      "ementa": "Dá nova redação à alínea o do inciso VII do caput do art. 27 da Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios."
+    },
+    {
+      "senadoId": "580810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-14-12118",
+      "titulo": "Lei nº 12.118 de 14/12/2009",
+      "data": "2009-12-14",
+      "numero": "12118",
+      "urn": "urn:lex:br:federal:lei:2009-12-14;12118",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor global de R$ 2.698.867,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580809",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-14-12117",
+      "titulo": "Lei nº 12.117 de 14/12/2009",
+      "data": "2009-12-14",
+      "numero": "12117",
+      "urn": "urn:lex:br:federal:lei:2009-12-14;12117",
+      "ementa": "Autoriza a União a doar recursos à República de Moçambique para a primeira fase de instalação de fábrica de antirretrovirais e outros medicamentos."
+    },
+    {
+      "senadoId": "580808",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-10-12116",
+      "titulo": "Lei nº 12.116 de 10/12/2009",
+      "data": "2009-12-10",
+      "numero": "12116",
+      "urn": "urn:lex:br:federal:lei:2009-12-10;12116",
+      "ementa": "Institui o Dia Nacional de Luta contra o Câncer de Mama."
+    },
+    {
+      "senadoId": "580807",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-10-12115",
+      "titulo": "Lei nº 12.115 de 10/12/2009",
+      "data": "2009-12-10",
+      "numero": "12115",
+      "urn": "urn:lex:br:federal:lei:2009-12-10;12115",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor das Justiças Eleitoral e do Trabalho e de diversos órgãos do Poder Executivo, crédito suplementar no valor global de R$ 38.168.091,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580805",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12113",
+      "titulo": "Lei nº 12.113 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12113",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12113",
+      "ementa": "Dá nova redação ao art. 4º da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados - IPI, na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas com deficiência física."
+    },
+    {
+      "senadoId": "580806",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12114",
+      "titulo": "Lei nº 12.114 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12114",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12114",
+      "ementa": "Cria o Fundo Nacional sobre Mudança do Clima, altera os arts. 6º e 50 da Lei nº 9.478, de 6 de agosto de 1997, e dá outras providências."
+    },
+    {
+      "senadoId": "580802",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12110",
+      "titulo": "Lei nº 12.110 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12110",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12110",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Cultura e do Esporte, crédito especial no valor global de R$ 82.397.711,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580801",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12109",
+      "titulo": "Lei nº 12.109 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12109",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12109",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito suplementar no valor de R$ 90.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580804",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12112",
+      "titulo": "Lei nº 12.112 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12112",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12112",
+      "ementa": "Altera a Lei nº 8.245, de 18 de outubro de 1991, para aperfeiçoar as regras e procedimentos sobre locação de imóvel urbano."
+    },
+    {
+      "senadoId": "580800",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12108",
+      "titulo": "Lei nº 12.108 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12108",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12108",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito especial no valor de R$ 10.000.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580799",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12107",
+      "titulo": "Lei nº 12.107 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12107",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12107",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Previdência Social e do Desenvolvimento Social e Combate à Fome, crédito suplementar no valor global de R$ 597.937.321,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580803",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-09-12111",
+      "titulo": "Lei nº 12.111 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "12111",
+      "urn": "urn:lex:br:federal:lei:2009-12-09;12111",
+      "ementa": "Dispõe sobre os serviços de energia elétrica nos Sistemas Isolados; altera as Leis nºs 9.991, de 24 de julho de 2000, 9.074, de 7 de julho de 1995, 9.427, de 26 de dezembro de 1996, e 10.848, de 15 de março de 2004; revoga dispositivos das Leis nºs 8.631, de 4 de março de 1993, 9.648, de 27 de maio de 1998, e 10.833, de 29 de dezembro de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "580798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-07-12106",
+      "titulo": "Lei nº 12.106 de 07/12/2009",
+      "data": "2009-12-07",
+      "numero": "12106",
+      "urn": "urn:lex:br:federal:lei:2009-12-07;12106",
+      "ementa": "Cria, no âmbito do Conselho Nacional de Justiça, o Departamento de Monitoramento e Fiscalização do Sistema Carcerário e do Sistema de Execução de Medidas Socioeducativas e dá outras providências."
+    },
+    {
+      "senadoId": "580797",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-02-12105",
+      "titulo": "Lei nº 12.105 de 02/12/2009",
+      "data": "2009-12-02",
+      "numero": "12105",
+      "urn": "urn:lex:br:federal:lei:2009-12-02;12105",
+      "ementa": "Inscreve o nome de Anna Justina Ferreira Nery no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "580795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-01-12103",
+      "titulo": "Lei nº 12.103 de 01/12/2009",
+      "data": "2009-12-01",
+      "numero": "12103",
+      "urn": "urn:lex:br:federal:lei:2009-12-01;12103",
+      "ementa": "Institui o Dia Nacional do Bumba Meu Boi."
+    },
+    {
+      "senadoId": "580794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-01-12102",
+      "titulo": "Lei nº 12.102 de 01/12/2009",
+      "data": "2009-12-01",
+      "numero": "12102",
+      "urn": "urn:lex:br:federal:lei:2009-12-01;12102",
+      "ementa": "Institui o Dia do Plano Nacional de Educação, acrescentando artigo à Lei nº 10.172, de 9 de janeiro de 2001."
+    },
+    {
+      "senadoId": "580796",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-12-01-12104",
+      "titulo": "Lei nº 12.104 de 01/12/2009",
+      "data": "2009-12-01",
+      "numero": "12104",
+      "urn": "urn:lex:br:federal:lei:2009-12-01;12104",
+      "ementa": "Dispõe sobre a instituição do Dia Nacional de Luta pelos Direitos das Pessoas com Doenças Falciformes."
+    },
+    {
+      "senadoId": "580792",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-27-12100",
+      "titulo": "Lei nº 12.100 de 27/11/2009",
+      "data": "2009-11-27",
+      "numero": "12100",
+      "urn": "urn:lex:br:federal:lei:2009-11-27;12100",
+      "ementa": "Dá nova redação aos arts. 40, 57 e 110 da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos e dá outras providências."
+    },
+    {
+      "senadoId": "580793",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-27-12101",
+      "titulo": "Lei nº 12.101 de 27/11/2009",
+      "data": "2009-11-27",
+      "numero": "12101",
+      "urn": "urn:lex:br:federal:lei:2009-11-27;12101",
+      "ementa": "Dispõe sobre a certificação das entidades beneficentes de assistência social; regula os procedimentos de isenção de contribuições para a seguridade social; altera a Lei nº 8.742, de 7 de dezembro de 1993; revoga dispositivos das Leis nºs 8.212, de 24 de julho de 1991, 9.429, de 26 de dezembro de 1996, 9.732, de 11 de dezembro de 1998, 10.684, de 30 de maio de 2003, e da Medida Provisória nº 2.187-13, de 24 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "580791",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-27-12099",
+      "titulo": "Lei nº 12.099 de 27/11/2009",
+      "data": "2009-11-27",
+      "numero": "12099",
+      "urn": "urn:lex:br:federal:lei:2009-11-27;12099",
+      "ementa": "Dispõe sobre a transferência de depósitos judiciais e extrajudiciais de tributos e contribuições federais para a Caixa Econômica Federal; e altera a Lei nº 9.703, de 17 de novembro de 1998."
+    },
+    {
+      "senadoId": "580789",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-24-12097",
+      "titulo": "Lei nº 12.097 de 24/11/2009",
+      "data": "2009-11-24",
+      "numero": "12097",
+      "urn": "urn:lex:br:federal:lei:2009-11-24;12097",
+      "ementa": "Dispõe sobre o conceito e a aplicação de rastreabilidade na cadeia produtiva das carnes de bovinos e de búfalos."
+    },
+    {
+      "senadoId": "580790",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-24-12098",
+      "titulo": "Lei nº 12.098 de 24/11/2009",
+      "data": "2009-11-24",
+      "numero": "12098",
+      "urn": "urn:lex:br:federal:lei:2009-11-24;12098",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do Trabalho da Segunda Região, com sede em São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "580788",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-24-12096",
+      "titulo": "Lei nº 12.096 de 24/11/2009",
+      "data": "2009-11-24",
+      "numero": "12096",
+      "urn": "urn:lex:br:federal:lei:2009-11-24;12096",
+      "ementa": "Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica; altera as Leis nºs 10.925, de 23 de julho de 2004, 11.948, de 16 de junho de 2009, e 9.818, de 23 de agosto de 1999; revoga dispositivos da Medida Provisória nº 462, de 14 de maio de 2009, e do Decreto nº 70.235, de 6 de março de 1972; e dá outras providências."
+    },
+    {
+      "senadoId": "580786",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-19-12094",
+      "titulo": "Lei nº 12.094 de 19/11/2009",
+      "data": "2009-11-19",
+      "numero": "12094",
+      "urn": "urn:lex:br:federal:lei:2009-11-19;12094",
+      "ementa": "Dispõe sobre a criação da Carreira de Desenvolvimento de Políticas Sociais, sobre a criação de cargos de Analista Técnico e de Agente Executivo da Superintendência de Seguros Privados - SUSEP, sobre a transformação de cargos na Agência Nacional de Vigilância Sanitária - ANVISA, altera o Anexo I da Lei nº 10.871, de 20 de maio de 2004, para adaptar os quantitativos de cargos da ANVISA, a Lei nº 11.539, de 8 de novembro de 2007, que dispõe sobre a Carreira de Analista de Infra-Estrutura e sobre o cargo isolado de provimento efetivo de Especialista em Infra-Estrutura Sênior, e altera a Lei nº 11.526, de 4 de outubro de 2007, para prever a fórmula de pagamento de cargo em comissão ocupado por militar, e a Lei nº 10.683, de 28 de maio de 2003."
+    },
+    {
+      "senadoId": "580787",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-19-12095",
+      "titulo": "Lei nº 12.095 de 19/11/2009",
+      "data": "2009-11-19",
+      "numero": "12095",
+      "urn": "urn:lex:br:federal:lei:2009-11-19;12095",
+      "ementa": "Declara Sant'Ana do Livramento, Estado do Rio Grande do Sul, cidade símbolo da integração brasileira com os países membros do Mercosul."
+    },
+    {
+      "senadoId": "580784",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-16-12092",
+      "titulo": "Lei nº 12.092 de 16/11/2009",
+      "data": "2009-11-16",
+      "numero": "12092",
+      "urn": "urn:lex:br:federal:lei:2009-11-16;12092",
+      "ementa": "Institui o Dia Nacional do Cerimonialista."
+    },
+    {
+      "senadoId": "580785",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-16-12093",
+      "titulo": "Lei nº 12.093 de 16/11/2009",
+      "data": "2009-11-16",
+      "numero": "12093",
+      "urn": "urn:lex:br:federal:lei:2009-11-16;12093",
+      "ementa": "Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Desenvolvimento, Indústria e Comércio Exterior."
+    },
+    {
+      "senadoId": "580781",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-11-12089",
+      "titulo": "Lei nº 12.089 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "12089",
+      "urn": "urn:lex:br:federal:lei:2009-11-11;12089",
+      "ementa": "Proíbe que uma mesma pessoa ocupe 2 (duas) vagas simultaneamente em instituições públicas de ensino superior."
+    },
+    {
+      "senadoId": "580783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-11-12091",
+      "titulo": "Lei nº 12.091 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "12091",
+      "urn": "urn:lex:br:federal:lei:2009-11-11;12091",
+      "ementa": "Acrescenta inciso VII ao § 2º do art. 81 da Lei nº 9.610, de 19 de fevereiro de 1998, para incluir o nome dos dubladores nos créditos das obras audiovisuais."
+    },
+    {
+      "senadoId": "580782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-11-12090",
+      "titulo": "Lei nº 12.090 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "12090",
+      "urn": "urn:lex:br:federal:lei:2009-11-11;12090",
+      "ementa": "Altera a Lei nº 9.782, de 26 de janeiro de 1999, para dispor sobre a cooperação institucional entre a Agência Nacional de Vigilância Sanitária e instituições de ensino superior e de pesquisa mantidas pelo poder público e organismos internacionais com os quais o Brasil tenha acordos de cooperação técnica."
+    },
+    {
+      "senadoId": "580780",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-11-12088",
+      "titulo": "Lei nº 12.088 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "12088",
+      "urn": "urn:lex:br:federal:lei:2009-11-11;12088",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Previdência Social e do Desenvolvimento Social e Combate à Fome, crédito suplementar no valor global de R$ 919.845.711,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580779",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-11-12087",
+      "titulo": "Lei nº 12.087 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "12087",
+      "urn": "urn:lex:br:federal:lei:2009-11-11;12087",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2009, com o objetivo de fomentar as exportações do País, e sobre a participação da União em fundos garantidores de risco de crédito para micro, pequenas e médias empresas e para produtores rurais e suas cooperativas; e altera as Leis nºs 11.491, de 20 de junho de 2007, 8.036, de 11 de maio de 1990, e 8.001, de 13 de março de 1990."
+    },
+    {
+      "senadoId": "580778",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-06-12086",
+      "titulo": "Lei nº 12.086 de 06/11/2009",
+      "data": "2009-11-06",
+      "numero": "12086",
+      "urn": "urn:lex:br:federal:lei:2009-11-06;12086",
+      "ementa": "Dispõe sobre os militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal; altera as Leis nºs 6.450, de 14 de outubro de 1977, 7.289, de 18 de dezembro de 1984, 7.479, de 2 de junho de 1986, 8.255, de 20 de novembro de 1991, e 10.486, de 4 de julho de 2002; revoga as Leis nºs 6.302, de 15 de dezembro de 1975, 6.645, de 14 de maio de 1979, 7.491, de 13 de junho de 1986, 7.687, de 13 de dezembro de 1988, 7.851, de 23 de outubro de 1989, 8.204, de 8 de julho de 1991, 8.258, de 6 de dezembro de 1991, 9.054, de 29 de maio de 1995, e 9.237, de 22 de dezembro de 1995; revoga dispositivos das Leis nºs 7.457, de 9 de abril de 1986, 9.713, de 25 de novembro de 1998, e 11.134, de 15 de julho de 2005; e dá outras providências."
+    },
+    {
+      "senadoId": "580777",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-11-05-12085",
+      "titulo": "Lei nº 12.085 de 05/11/2009",
+      "data": "2009-11-05",
+      "numero": "12085",
+      "urn": "urn:lex:br:federal:lei:2009-11-05;12085",
+      "ementa": "Dispõe sobre a criação da Universidade Federal do Oeste do Pará - UFOPA, por desmembramento da Universidade Federal do Pará - UFPA e da Universidade Federal Rural da Amazônia - UFRA, e dá outras providências."
+    },
+    {
+      "senadoId": "580776",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-30-12084",
+      "titulo": "Lei nº 12.084 de 30/10/2009",
+      "data": "2009-10-30",
+      "numero": "12084",
+      "urn": "urn:lex:br:federal:lei:2009-10-30;12084",
+      "ementa": "Autoriza, em caráter excepcional, a prorrogação de contratos por tempo determinado firmados com fundamento nas alíneas ;d e h do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências."
+    },
+    {
+      "senadoId": "580766",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12074",
+      "titulo": "Lei nº 12.074 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12074",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12074",
+      "ementa": "Institui o Dia Nacional do Engenheiro Eletricista."
+    },
+    {
+      "senadoId": "580772",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12080",
+      "titulo": "Lei nº 12.080 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12080",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12080",
+      "ementa": "Institui o Dia da Legalidade no calendário oficial brasileiro."
+    },
+    {
+      "senadoId": "580761",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12069",
+      "titulo": "Lei nº 12.069 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12069",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12069",
+      "ementa": "Denomina Rodovia Governador Hélio Campos o trecho da BR-174."
+    },
+    {
+      "senadoId": "580756",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12064",
+      "titulo": "Lei nº 12.064 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12064",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12064",
+      "ementa": "Dispõe sobre a criação do Dia Nacional de Combate ao Trabalho Escravo, bem como da Semana Nacional de Combate ao Trabalho Escravo."
+    },
+    {
+      "senadoId": "580758",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12066",
+      "titulo": "Lei nº 12.066 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12066",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12066",
+      "ementa": "Institui o Dia da Guarda Municipal, a ser comemorado no dia 10 de outubro."
+    },
+    {
+      "senadoId": "580765",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12073",
+      "titulo": "Lei nº 12.073 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12073",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12073",
+      "ementa": "Institui o dia 10 de dezembro como o Dia da Inclusão Social."
+    },
+    {
+      "senadoId": "580763",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12071",
+      "titulo": "Lei nº 12.071 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12071",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12071",
+      "ementa": "Denomina Ponte José Vieira de Sales Guerra a ponte sobre o rio Branco, na BR-174, no Município de Caracaraí, no Estado de Roraima."
+    },
+    {
+      "senadoId": "580775",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12083",
+      "titulo": "Lei nº 12.083 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12083",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12083",
+      "ementa": "Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Desenvolvimento Social e Combate à Fome e à Fundação Nacional do Índio - FUNAI."
+    },
+    {
+      "senadoId": "580768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12076",
+      "titulo": "Lei nº 12.076 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12076",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12076",
+      "ementa": "Denomina Viaduto Trampolim da Vitória o viaduto localizado no entroncamento das rodovias BR-101 e BR-304(B), no Município de Parnamirim, no Estado do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "580760",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12068",
+      "titulo": "Lei nº 12.068 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12068",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12068",
+      "ementa": "Institui o Dia do Pescador Amador."
+    },
+    {
+      "senadoId": "580769",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12077",
+      "titulo": "Lei nº 12.077 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12077",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12077",
+      "ementa": "Institui o Dia Nacional da Alimentação."
+    },
+    {
+      "senadoId": "580770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12078",
+      "titulo": "Lei nº 12.078 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12078",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12078",
+      "ementa": "Denomina Viaduto Múcio Teixeira o viaduto localizado no km 166 da BR-060."
+    },
+    {
+      "senadoId": "580764",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12072",
+      "titulo": "Lei nº 12.072 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12072",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12072",
+      "ementa": "Denomina Sebastião Diniz a ponte sobre o rio Uraricoera, na rodovia BR-174, no Estado de Roraima."
+    },
+    {
+      "senadoId": "580762",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12070",
+      "titulo": "Lei nº 12.070 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12070",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12070",
+      "ementa": "Institui o Dia Nacional do Inventor e dá outras providências."
+    },
+    {
+      "senadoId": "580773",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12081",
+      "titulo": "Lei nº 12.081 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12081",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12081",
+      "ementa": "Confere ao Município de Não-Me-Toque, no Estado do Rio Grande do Sul, o título de Capital Nacional da Agricultura de Precisão."
+    },
+    {
+      "senadoId": "580774",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12082",
+      "titulo": "Lei nº 12.082 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12082",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12082",
+      "ementa": "Denomina Rodovia Guimarães Rosa o trecho da rodovia BR-135 situado entre o entroncamento com a rodovia BR-040, no Município de Curvelo, e a cidade de Januária, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "580757",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12065",
+      "titulo": "Lei nº 12.065 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12065",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12065",
+      "ementa": "Denomina Chico Xavier o trecho da rodovia BR-050, entre a divisa dos Estados de São Paulo e Minas Gerais e a divisa dos Municípios de Uberaba com Uberlândia, em Minas Gerais."
+    },
+    {
+      "senadoId": "580759",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12067",
+      "titulo": "Lei nº 12.067 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12067",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12067",
+      "ementa": "Institui o dia 9 de agosto como o Dia Nacional da Equoterapia."
+    },
+    {
+      "senadoId": "580771",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12079",
+      "titulo": "Lei nº 12.079 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12079",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12079",
+      "ementa": "Dá denominação a viadutos da BR-232 localizados no perímetro urbano da cidade de Bezerros, no Estado de Pernambuco."
+    },
+    {
+      "senadoId": "580767",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-29-12075",
+      "titulo": "Lei nº 12.075 de 29/10/2009",
+      "data": "2009-10-29",
+      "numero": "12075",
+      "urn": "urn:lex:br:federal:lei:2009-10-29;12075",
+      "ementa": "Institui o Dia da Integração Jurídica Latino-Americana."
+    },
+    {
+      "senadoId": "580753",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-27-12061",
+      "titulo": "Lei nº 12.061 de 27/10/2009",
+      "data": "2009-10-27",
+      "numero": "12061",
+      "urn": "urn:lex:br:federal:lei:2009-10-27;12061",
+      "ementa": "Altera o inciso II do art. 4º e o inciso VI do art. 10 da Lei nº 9.394, de 20 de dezembro de 1996, para assegurar o acesso de todos os interessados ao ensino médio público."
+    },
+    {
+      "senadoId": "580755",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-27-12063",
+      "titulo": "Lei nº 12.063 de 27/10/2009",
+      "data": "2009-10-27",
+      "numero": "12063",
+      "urn": "urn:lex:br:federal:lei:2009-10-27;12063",
+      "ementa": "Acrescenta à Lei nº 9.868, de 10 de novembro de 1999, o Capítulo II-A, que estabelece a disciplina processual da ação direta de inconstitucionalidade por omissão."
+    },
+    {
+      "senadoId": "580754",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-27-12062",
+      "titulo": "Lei nº 12.062 de 27/10/2009",
+      "data": "2009-10-27",
+      "numero": "12062",
+      "urn": "urn:lex:br:federal:lei:2009-10-27;12062",
+      "ementa": "Altera a Lei nº 9.875, de 25 de novembro de 1999, para dar a denominação suplementar Rodovia Ulysses Guimarães - Trecho Carlos Joffre do Amaral ao trecho que menciona da Rodovia BR-282."
+    },
+    {
+      "senadoId": "580752",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-23-12060",
+      "titulo": "Lei nº 12.060 de 23/10/2009",
+      "data": "2009-10-23",
+      "numero": "12060",
+      "urn": "urn:lex:br:federal:lei:2009-10-23;12060",
+      "ementa": "Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Planejamento, Orçamento e Gestão."
+    },
+    {
+      "senadoId": "580751",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-23-12059",
+      "titulo": "Lei nº 12.059 de 23/10/2009",
+      "data": "2009-10-23",
+      "numero": "12059",
+      "urn": "urn:lex:br:federal:lei:2009-10-23;12059",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito especial no valor de R$ 2.108.400.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-13-12058",
+      "titulo": "Lei nº 12.058 de 13/10/2009",
+      "data": "2009-10-13",
+      "numero": "12058",
+      "urn": "urn:lex:br:federal:lei:2009-10-13;12058",
+      "ementa": "Dispõe sobre a prestação de apoio financeiro pela União aos entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras emergenciais; altera as Leis nºs 11.786, de 25 de setembro de 2008, 9.503, de 23 de setembro de 1997, 11.882, de 23 de dezembro de 2008, 10.836, de 9 de janeiro de 2004, 11.314, de 3 de julho de 2006, 11.941, de 27 de maio de 2009, 10.925, de 23 de julho de 2004, 9.636, de 15 de maio de 1998, 8.036, de 11 de maio de 1990, 8.212, de 24 de julho de 1991, 10.893, de 13 de julho de 2004, 9.454, de 7 de abril de 1997, 11.945, de 4 de junho de 2009, 11.775, de 17 de setembro de 2008, 11.326, de 24 de julho de 2006, 8.427, de 27 de maio de 1992, 8.171, de 17 de janeiro de 1991, 5.917, de 10 de setembro de 1973, 11.977, de 7 de julho de 2009, 11.196, de 21 de novembro de 2005, 9.703, de 17 de novembro de 1998, 10.865, de 30 de abril de 2004, 9.984, de 17 de julho de 2000, e 11.772, de 17 de setembro de 2008, a Medida Provisória nº 2.197-43, de 24 de agosto de 2001, e o Decreto-Lei nº 1.455, de 7 de abril de 1976; revoga a Lei nº 5.969, de 11 de dezembro de 1973, e o art. 13 da Lei nº 11.322, de 13 de julho de 2006; e dá outras providências."
+    },
+    {
+      "senadoId": "580280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-13-12057",
+      "titulo": "Lei nº 12.057 de 13/10/2009",
+      "data": "2009-10-13",
+      "numero": "12057",
+      "urn": "urn:lex:br:federal:lei:2009-10-13;12057",
+      "ementa": "Denomina Rodovia Prefeito João Eutrópio o trecho da Rodovia BR-484 situado entre a sede do Município de Afonso Cláudio e seu Distrito de Serra Pelada, no Estado do Espírito Santo."
+    },
+    {
+      "senadoId": "580279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-13-12056",
+      "titulo": "Lei nº 12.056 de 13/10/2009",
+      "data": "2009-10-13",
+      "numero": "12056",
+      "urn": "urn:lex:br:federal:lei:2009-10-13;12056",
+      "ementa": "Acrescenta parágrafos ao art. 62 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional."
+    },
+    {
+      "senadoId": "580269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12046",
+      "titulo": "Lei nº 12.046 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12046",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12046",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor de empresas estatais, crédito suplementar no valor total de R$ 827.569.050,00 e reduz o Orçamento de Investimento de diversas empresas no valor global de R$ 789.136.377,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12044",
+      "titulo": "Lei nº 12.044 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12044",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12044",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, crédito especial no valor de R$ 1.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12049",
+      "titulo": "Lei nº 12.049 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12049",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12049",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Trabalho e Emprego e do Desenvolvimento Social e Combate à Fome, crédito especial no valor global de R$ 750.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12055",
+      "titulo": "Lei nº 12.055 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12055",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12055",
+      "ementa": "Institui a data de 5 de junho como o Dia Nacional da Reciclagem."
+    },
+    {
+      "senadoId": "580276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12053",
+      "titulo": "Lei nº 12.053 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12053",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12053",
+      "ementa": "Altera os arts. 2º, 3º e 7º e o Anexo IV da Lei nº 11.768, de 14 de agosto de 2008, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2009 e dá outras providências."
+    },
+    {
+      "senadoId": "580274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12051",
+      "titulo": "Lei nº 12.051 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12051",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12051",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Cultura e do Esporte, crédito suplementar no valor global de R$ 50.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580271",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12048",
+      "titulo": "Lei nº 12.048 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12048",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12048",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios de Minas e Energia, dos Transportes e das Comunicações, crédito suplementar no valor global de R$ 58.403.246,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12052",
+      "titulo": "Lei nº 12.052 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12052",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12052",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito especial no valor de R$ 1.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12043",
+      "titulo": "Lei nº 12.043 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12043",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12043",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor de Companhias Docas, crédito suplementar no valor total de R$ 116.408.996,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12047",
+      "titulo": "Lei nº 12.047 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12047",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12047",
+      "ementa": "Abre aos Orçamentos Fiscal e de Investimento da União, em favor das Justiças Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territórios e da Presidência da República, crédito suplementar no valor global de R$ 304.927.063,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12045",
+      "titulo": "Lei nº 12.045 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12045",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12045",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor da Empresa de Tecnologia e Informações da Previdência Social - DATAPREV, crédito suplementar no valor total de R$ 60.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12054",
+      "titulo": "Lei nº 12.054 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12054",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12054",
+      "ementa": "Institui o Dia do Movimento Pestalozziano no Brasil, a ser comemorado no dia 26 de outubro."
+    },
+    {
+      "senadoId": "580273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-09-12050",
+      "titulo": "Lei nº 12.050 de 09/10/2009",
+      "data": "2009-10-09",
+      "numero": "12050",
+      "urn": "urn:lex:br:federal:lei:2009-10-09;12050",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça do Trabalho, crédito suplementar no valor de R$ 26.724.533,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-08-12041",
+      "titulo": "Lei nº 12.041 de 08/10/2009",
+      "data": "2009-10-08",
+      "numero": "12041",
+      "urn": "urn:lex:br:federal:lei:2009-10-08;12041",
+      "ementa": "Dispõe sobre a revisão do subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do art. 48 da Constituição Federal."
+    },
+    {
+      "senadoId": "580265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-08-12042",
+      "titulo": "Lei nº 12.042 de 08/10/2009",
+      "data": "2009-10-08",
+      "numero": "12042",
+      "urn": "urn:lex:br:federal:lei:2009-10-08;12042",
+      "ementa": "Dispõe sobre a revisão do subsídio do Procurador-Geral da República, referido no inciso XI do art. 37 e no § 4º do art. 39, c/c o § 2º do art. 127 e a alínea c do inciso I do § 5º do art. 128, todos da Constituição Federal."
+    },
+    {
+      "senadoId": "580261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-01-12038",
+      "titulo": "Lei nº 12.038 de 01/10/2009",
+      "data": "2009-10-01",
+      "numero": "12038",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12038",
+      "ementa": "Altera o art. 250 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para determinar o fechamento definitivo de hotel, pensão, motel ou congênere que reiteradamente hospede crianças e adolescentes desacompanhados dos pais ou responsáveis, ou sem autorização."
+    },
+    {
+      "senadoId": "580258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-01-12035",
+      "titulo": "Lei nº 12.035 de 01/10/2009",
+      "data": "2009-10-01",
+      "numero": "12035",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12035",
+      "ementa": "Institui o Ato Olímpico, no âmbito da administração pública federal, com a finalidade de assegurar garantias à candidatura da cidade do Rio de Janeiro a sede dos Jogos Olímpicos e Paraolímpicos de 2016 e de estabelecer regras especiais para a sua realização, condicionada a aplicação desta Lei à confirmação da escolha da referida cidade pelo Comitê Olímpico Internacional."
+    },
+    {
+      "senadoId": "580263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-01-12040",
+      "titulo": "Lei nº 12.040 de 01/10/2009",
+      "data": "2009-10-01",
+      "numero": "12040",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12040",
+      "ementa": "Altera o art. 2º da Lei nº 6.088, de 16 de julho de 1974, para incluir o Ceará na área de atuação da Codevasf, e dá outras providências."
+    },
+    {
+      "senadoId": "580260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-01-12037",
+      "titulo": "Lei nº 12.037 de 01/10/2009",
+      "data": "2009-10-01",
+      "numero": "12037",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12037",
+      "ementa": "Dispõe sobre a identificação criminal do civilmente identificado, regulamentando o art. 5º, inciso LVIII, da Constituição Federal."
+    },
+    {
+      "senadoId": "580259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-01-12036",
+      "titulo": "Lei nº 12.036 de 01/10/2009",
+      "data": "2009-10-01",
+      "numero": "12036",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12036",
+      "ementa": "Altera o Decreto-Lei nº 4.657, de 4 de setembro de 1942 - Lei de Introdução ao Código Civil Brasileiro, para adequá-lo à Constituição Federal em vigor."
+    },
+    {
+      "senadoId": "580262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-10-01-12039",
+      "titulo": "Lei nº 12.039 de 01/10/2009",
+      "data": "2009-10-01",
+      "numero": "12039",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12039",
+      "ementa": "Inclui dispositivo na Lei nº 8.078, de 11 de setembro de 1990, para determinar que constem, nos documentos de cobrança de dívida encaminhados ao consumidor, o nome, o endereço e o número de inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional de Pessoa Jurídica - CNPJ do fornecedor do produto ou serviço."
+    },
+    {
+      "senadoId": "580257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-29-12034",
+      "titulo": "Lei nº 12.034 de 29/09/2009",
+      "data": "2009-09-29",
+      "numero": "12034",
+      "urn": "urn:lex:br:federal:lei:2009-09-29;12034",
+      "ementa": "Altera as Leis nºs 9.096, de 19 de setembro de 1995 - Lei dos Partidos Políticos, 9.504, de 30 de setembro de 1997, que estabelece normas para as eleições, e 4.737, de 15 de julho de 1965 - Código Eleitoral."
+    },
+    {
+      "senadoId": "580256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-29-12033",
+      "titulo": "Lei nº 12.033 de 29/09/2009",
+      "data": "2009-09-29",
+      "numero": "12033",
+      "urn": "urn:lex:br:federal:lei:2009-09-29;12033",
+      "ementa": "Altera a redação do parágrafo único do art. 145 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, tornando pública condicionada a ação penal em razão da injúria que especifica."
+    },
+    {
+      "senadoId": "580255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-21-12032",
+      "titulo": "Lei nº 12.032 de 21/09/2009",
+      "data": "2009-09-21",
+      "numero": "12032",
+      "urn": "urn:lex:br:federal:lei:2009-09-21;12032",
+      "ementa": "Inscreve o nome de Sepé Tiaraju no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "580254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-21-12031",
+      "titulo": "Lei nº 12.031 de 21/09/2009",
+      "data": "2009-09-21",
+      "numero": "12031",
+      "urn": "urn:lex:br:federal:lei:2009-09-21;12031",
+      "ementa": "Altera a Lei nº 5.700, de 1º de setembro de 1971, para determinar a obrigatoriedade de execução semanal do Hino Nacional nos estabelecimentos de ensino fundamental."
+    },
+    {
+      "senadoId": "580253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-17-12030",
+      "titulo": "Lei nº 12.030 de 17/09/2009",
+      "data": "2009-09-17",
+      "numero": "12030",
+      "urn": "urn:lex:br:federal:lei:2009-09-17;12030",
+      "ementa": "Dispõe sobre as perícias oficiais e dá outras providências."
+    },
+    {
+      "senadoId": "580252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-15-12029",
+      "titulo": "Lei nº 12.029 de 15/09/2009",
+      "data": "2009-09-15",
+      "numero": "12029",
+      "urn": "urn:lex:br:federal:lei:2009-09-15;12029",
+      "ementa": "Dispõe sobre a criação da Universidade Federal da Fronteira Sul - UFFS e dá outras providências."
+    },
+    {
+      "senadoId": "580251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-10-12028",
+      "titulo": "Lei nº 12.028 de 10/09/2009",
+      "data": "2009-09-10",
+      "numero": "12028",
+      "urn": "urn:lex:br:federal:lei:2009-09-10;12028",
+      "ementa": "Denomina Rodovia Presidente Juscelino Kubitschek o trecho da rodovia BR-040 compreendido entre as cidades de Brasília, Distrito Federal, e Petrópolis, Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "580250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-09-12027",
+      "titulo": "Lei nº 12.027 de 09/09/2009",
+      "data": "2009-09-09",
+      "numero": "12027",
+      "urn": "urn:lex:br:federal:lei:2009-09-09;12027",
+      "ementa": "Cria cargos de juiz do trabalho substituto no Tribunal Regional do Trabalho da 2ª Região, com sede em São Paulo."
+    },
+    {
+      "senadoId": "580249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-09-12026",
+      "titulo": "Lei nº 12.026 de 09/09/2009",
+      "data": "2009-09-09",
+      "numero": "12026",
+      "urn": "urn:lex:br:federal:lei:2009-09-09;12026",
+      "ementa": "Institui o Dia Nacional de Luta contra Queimaduras."
+    },
+    {
+      "senadoId": "580248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-09-03-12025",
+      "titulo": "Lei nº 12.025 de 03/09/2009",
+      "data": "2009-09-03",
+      "numero": "12025",
+      "urn": "urn:lex:br:federal:lei:2009-09-03;12025",
+      "ementa": "Institui o Dia Nacional da Marcha para Jesus."
+    },
+    {
+      "senadoId": "580243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-27-12020",
+      "titulo": "Lei nº 12.020 de 27/08/2009",
+      "data": "2009-08-27",
+      "numero": "12020",
+      "urn": "urn:lex:br:federal:lei:2009-08-27;12020",
+      "ementa": "Dá nova redação ao inciso II do caput do art. 20 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para modificar o rol de instituições de ensino comunitárias."
+    },
+    {
+      "senadoId": "580247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-27-12024",
+      "titulo": "Lei nº 12.024 de 27/08/2009",
+      "data": "2009-08-27",
+      "numero": "12024",
+      "urn": "urn:lex:br:federal:lei:2009-08-27;12024",
+      "ementa": "Dá nova redação aos arts. 4º, 5º e 8º da Lei nº 10.931, de 2 de agosto de 2004, que tratam de patrimônio de afetação de incorporações imobiliárias; dispõe sobre o tratamento tributário a ser dado às receitas mensais auferidas pelas empresas construtoras nos contratos de construção de moradias firmados dentro do Programa Minha Casa, Minha Vida - PMCMV, atribui à Agência Nacional de Telecomunicações - ANATEL as atribuições de apurar, constituir, fiscalizar e arrecadar a Contribuição para o Fomento da Radiodifusão Pública; altera as Leis nºs 11.196, de 21 de novembro de 2005, 11.652, de 7 de abril de 2008, 10.833, de 29 de dezembro de 2003, 9.826, de 23 de agosto de 1999, 6.099, de 12 de setembro de 1974, 11.079, de 30 de dezembro de 2004, 8.668, de 25 de junho de 1993, 8.745, de 9 de dezembro de 1993, 10.865, de 30 de abril de 2004, 8.989, de 24 de fevereiro de 1995, e 11.941, de 27 de maio de 2009; e dá outras providências."
+    },
+    {
+      "senadoId": "580246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-27-12023",
+      "titulo": "Lei nº 12.023 de 27/08/2009",
+      "data": "2009-08-27",
+      "numero": "12023",
+      "urn": "urn:lex:br:federal:lei:2009-08-27;12023",
+      "ementa": "Dispõe sobre as atividades de movimentação de mercadorias em geral e sobre o trabalho avulso."
+    },
+    {
+      "senadoId": "580245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-27-12022",
+      "titulo": "Lei nº 12.022 de 27/08/2009",
+      "data": "2009-08-27",
+      "numero": "12022",
+      "urn": "urn:lex:br:federal:lei:2009-08-27;12022",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 20ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "580244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-27-12021",
+      "titulo": "Lei nº 12.021 de 27/08/2009",
+      "data": "2009-08-27",
+      "numero": "12021",
+      "urn": "urn:lex:br:federal:lei:2009-08-27;12021",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal do Tribunal Regional do Trabalho da 8ª Região."
+    },
+    {
+      "senadoId": "580242",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-21-12019",
+      "titulo": "Lei nº 12.019 de 21/08/2009",
+      "data": "2009-08-21",
+      "numero": "12019",
+      "urn": "urn:lex:br:federal:lei:2009-08-21;12019",
+      "ementa": "Insere inciso III no art. 3º da Lei nº 8.038, de 28 de maio de 1990, para prever a possibilidade de o relator de ações penais de competência originária do Superior Tribunal de Justiça e do Supremo Tribunal Federal convocar desembargador ou juiz para a realização de interrogatório e outros atos de instrução."
+    },
+    {
+      "senadoId": "580241",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-12-12018",
+      "titulo": "Lei nº 12.018 de 12/08/2009",
+      "data": "2009-08-12",
+      "numero": "12018",
+      "urn": "urn:lex:br:federal:lei:2009-08-12;12018",
+      "ementa": "Abre aos Orçamentos Fiscal, da Seguridade Social e de Investimento da União, em favor da Presidência da República e dos Ministérios dos Transportes, da Integração Nacional e das Cidades, crédito especial no valor global de R$ 886.314.909,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-12-12017",
+      "titulo": "Lei nº 12.017 de 12/08/2009",
+      "data": "2009-08-12",
+      "numero": "12017",
+      "urn": "urn:lex:br:federal:lei:2009-08-12;12017",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2010 e dá outras providências."
+    },
+    {
+      "senadoId": "580238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-07-12015",
+      "titulo": "Lei nº 12.015 de 07/08/2009",
+      "data": "2009-08-07",
+      "numero": "12015",
+      "urn": "urn:lex:br:federal:lei:2009-08-07;12015",
+      "ementa": "Altera o Título VI da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e o art. 1º da Lei nº 8.072, de 25 de julho de 1990, que dispõe sobre os crimes hediondos, nos termos do inciso XLIII do art. 5º da Constituição Federal e revoga a Lei nº 2.252, de 1º de julho de 1954, que trata de corrupção de menores."
+    },
+    {
+      "senadoId": "580239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-07-12016",
+      "titulo": "Lei nº 12.016 de 07/08/2009",
+      "data": "2009-08-07",
+      "numero": "12016",
+      "urn": "urn:lex:br:federal:lei:2009-08-07;12016",
+      "ementa": "Disciplina o mandado de segurança individual e coletivo e dá outras providências."
+    },
+    {
+      "senadoId": "580235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-06-12012",
+      "titulo": "Lei nº 12.012 de 06/08/2009",
+      "data": "2009-08-06",
+      "numero": "12012",
+      "urn": "urn:lex:br:federal:lei:2009-08-06;12012",
+      "ementa": "Acrescenta o art. 349-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal."
+    },
+    {
+      "senadoId": "580237",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-06-12014",
+      "titulo": "Lei nº 12.014 de 06/08/2009",
+      "data": "2009-08-06",
+      "numero": "12014",
+      "urn": "urn:lex:br:federal:lei:2009-08-06;12014",
+      "ementa": "Altera o art. 61 da Lei nº 9.394, de 20 de dezembro de 1996, com a finalidade de discriminar as categorias de trabalhadores que se devem considerar profissionais da educação."
+    },
+    {
+      "senadoId": "580236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-06-12013",
+      "titulo": "Lei nº 12.013 de 06/08/2009",
+      "data": "2009-08-06",
+      "numero": "12013",
+      "urn": "urn:lex:br:federal:lei:2009-08-06;12013",
+      "ementa": "Altera o art. 12 da Lei nº 9.394, de 20 de dezembro de 1996, determinando às instituições de ensino obrigatoriedade no envio de informações escolares aos pais, conviventes ou não com seus filhos."
+    },
+    {
+      "senadoId": "580234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-04-12011",
+      "titulo": "Lei nº 12.011 de 04/08/2009",
+      "data": "2009-08-04",
+      "numero": "12011",
+      "urn": "urn:lex:br:federal:lei:2009-08-04;12011",
+      "ementa": "Dispõe sobre a criação de 230 (duzentas e trinta) Varas Federais, destinadas, precipuamente, à interiorização da Justiça Federal de primeiro grau e à implantação dos Juizados Especiais Federais no País, e dá outras providências."
+    },
+    {
+      "senadoId": "580233",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-08-03-12010",
+      "titulo": "Lei nº 12.010 de 03/08/2009",
+      "data": "2009-08-03",
+      "numero": "12010",
+      "urn": "urn:lex:br:federal:lei:2009-08-03;12010",
+      "ementa": "Dispõe sobre adoção; altera as Leis nºs 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, 8.560, de 29 de dezembro de 1992; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, e da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto- Lei nº 5.452, de ;1º de maio de 1943; e dá outras providências."
+    },
+    {
+      "senadoId": "580231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12008",
+      "titulo": "Lei nº 12.008 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12008",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12008",
+      "ementa": "Altera os arts. 1.211-A, 1.211-B e 1.211-C da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, e acrescenta o art. 69-A à Lei nº 9.784, de 29 de janeiro de 1999, que regula o processo administrativo no âmbito da administração pública federal, a fim de estender a prioridade na tramitação de procedimentos judiciais e administrativos às pessoas que especifica."
+    },
+    {
+      "senadoId": "580223",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12000",
+      "titulo": "Lei nº 12.000 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12000",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12000",
+      "ementa": "Cria cargos de Juiz do Trabalho Substituto e de Analista Judiciário no Tribunal Regional do Trabalho da 15ª Região, com sede em Campinas, Estado de São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "580220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-11997",
+      "titulo": "Lei nº 11.997 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "11997",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;11997",
+      "ementa": "Cria funções comissionadas e cargos de provimento efetivo no Quadro de Pessoal do Tribunal Regional do Trabalho da 2ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "580232",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12009",
+      "titulo": "Lei nº 12.009 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12009",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12009",
+      "ementa": "Regulamenta o exercício das atividades dos profissionais em transporte de passageiros, \"mototaxista\", em entrega de mercadorias e em serviço comunitário de rua, e \"motoboy\", com o uso de motocicleta, altera a Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre regras de segurança dos serviços de transporte remunerado de mercadorias em motocicletas e motonetas - moto- frete -, estabelece regras gerais para a regulação deste serviço e dá outras providências."
+    },
+    {
+      "senadoId": "580227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12004",
+      "titulo": "Lei nº 12.004 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12004",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12004",
+      "ementa": "Altera a Lei nº 8.560, de 29 de dezembro de 1992, que regula a investigação de paternidade dos filhos havidos fora do casamento e dá outras providências."
+    },
+    {
+      "senadoId": "580219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-11996",
+      "titulo": "Lei nº 11.996 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "11996",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;11996",
+      "ementa": "Autoriza o Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO a promover a alienação de bem público."
+    },
+    {
+      "senadoId": "580225",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12002",
+      "titulo": "Lei nº 12.002 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12002",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12002",
+      "ementa": "Dispõe sobre a criação de Funções Comissionadas do DNPM - FCDNPM, no Departamento Nacional de Produção Mineral - DNPM, de Cargos em Comissão do Grupo- Direção e Assessoramento Superiores - DAS e Funções Gratificadas - FG, destinados ao DNPM, e altera as Leis nºs 11.526, de 4 de outubro de 2007, para dispor sobre a remuneração das FCDNPM, 8.876, de 2 de maio de 1994, e 11.046, de 27 de dezembro de 2004."
+    },
+    {
+      "senadoId": "580228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12005",
+      "titulo": "Lei nº 12.005 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12005",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12005",
+      "ementa": "Dispõe sobre a criação de 1 (um) cargo em comissão e de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 1ª Região."
+    },
+    {
+      "senadoId": "580224",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12001",
+      "titulo": "Lei nº 12.001 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12001",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12001",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do Trabalho da 15ª Região, com sede em Campinas, Estado de São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "580222",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-11999",
+      "titulo": "Lei nº 11.999 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "11999",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;11999",
+      "ementa": "Altera a composição do Tribunal Regional do Trabalho da 7ª Região; cria cargos de provimento efetivo e em comissão e funções comissionadas no seu Quadro de Pessoal; e dá outras providências."
+    },
+    {
+      "senadoId": "580226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12003",
+      "titulo": "Lei nº 12.003 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12003",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12003",
+      "ementa": "Dispõe sobre a criação de número telefônico para uso exclusivo dos Conselhos Tutelares."
+    },
+    {
+      "senadoId": "580221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-11998",
+      "titulo": "Lei nº 11.998 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "11998",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;11998",
+      "ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho Substituto, de cargos de provimento efetivo e em comissão e de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 2ª Região."
+    },
+    {
+      "senadoId": "580230",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12007",
+      "titulo": "Lei nº 12.007 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12007",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12007",
+      "ementa": "Dispõe sobre a emissão de declaração de quitação anual de débitos pelas pessoas jurídicas prestadoras de serviços públicos ou privados."
+    },
+    {
+      "senadoId": "580229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-29-12006",
+      "titulo": "Lei nº 12.006 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "12006",
+      "urn": "urn:lex:br:federal:lei:2009-07-29;12006",
+      "ementa": "Acrescenta artigos à Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer mecanismos para a veiculação de mensagens educativas de trânsito, nas modalidades de propaganda que especifica, em caráter suplementar às campanhas previstas nos arts. 75 e 77."
+    },
+    {
+      "senadoId": "580218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11995",
+      "titulo": "Lei nº 11.995 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11995",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11995",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, crédito suplementar no valor de R$ 501.561.242,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11991",
+      "titulo": "Lei nº 11.991 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11991",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11991",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 300.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580208",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11985",
+      "titulo": "Lei nº 11.985 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11985",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11985",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo e em comissão e funções comissionadas no Tribunal Regional do Trabalho da 16ª Região, sediado em São Luís - MA, e dá outras providências."
+    },
+    {
+      "senadoId": "580213",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11990",
+      "titulo": "Lei nº 11.990 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11990",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11990",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República e dos Ministérios dos Transportes e das Cidades, crédito suplementar no valor global de R$ 638.258.797,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11988",
+      "titulo": "Lei nº 11.988 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11988",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11988",
+      "ementa": "Cria a Semana de Educação para a Vida, nas escolas públicas de ensino fundamental e médio de todo o País, e dá outras providências."
+    },
+    {
+      "senadoId": "580209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11986",
+      "titulo": "Lei nº 11.986 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11986",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11986",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do Trabalho da 17ª Região; cria cargos de provimento efetivo e em comissão e funções comissionadas; e dá outras providências."
+    },
+    {
+      "senadoId": "580210",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11987",
+      "titulo": "Lei nº 11.987 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11987",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11987",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do Trabalho da 11ª Região - AM/RR, com sede em Manaus, Estado do Amazonas, e dá outras providências."
+    },
+    {
+      "senadoId": "580215",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11992",
+      "titulo": "Lei nº 11.992 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11992",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11992",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor da Empresa de Tecnologia e Informações da Previdência Social - DATAPREV, crédito especial no valor total de R$ 103.263.522,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580212",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11989",
+      "titulo": "Lei nº 11.989 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11989",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11989",
+      "ementa": "Acrescenta parágrafo único ao art. 31 da Lei nº 8.078, de 11 de setembro de 1990, que dispõe sobre a proteção do consumidor e dá outras providências."
+    },
+    {
+      "senadoId": "580217",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11994",
+      "titulo": "Lei nº 11.994 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11994",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11994",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor global de R$ 301.900.623,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580216",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-27-11993",
+      "titulo": "Lei nº 11.993 de 27/07/2009",
+      "data": "2009-07-27",
+      "numero": "11993",
+      "urn": "urn:lex:br:federal:lei:2009-07-27;11993",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor da Companhia Docas do Rio de Janeiro - CDRJ, crédito especial no valor total de R$ 39.640.772,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580207",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-23-11984",
+      "titulo": "Lei nº 11.984 de 23/07/2009",
+      "data": "2009-07-23",
+      "numero": "11984",
+      "urn": "urn:lex:br:federal:lei:2009-07-23;11984",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Eleitoral e do Distrito Federal e dos Territórios, da Presidência da República e do Ministério Público da União, crédito especial no valor global de R$ 119.120.055,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580205",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-16-11982",
+      "titulo": "Lei nº 11.982 de 16/07/2009",
+      "data": "2009-07-16",
+      "numero": "11982",
+      "urn": "urn:lex:br:federal:lei:2009-07-16;11982",
+      "ementa": "Acrescenta parágrafo único ao art. 4° da Lei n° 10.098, de 19 de dezembro de 2000, para determinar a adaptação de parte dos brinquedos e equipamentos dos parques de diversões às necessidades das pessoas com deficiência ou com mobilidade reduzida."
+    },
+    {
+      "senadoId": "580206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-16-11983",
+      "titulo": "Lei nº 11.983 de 16/07/2009",
+      "data": "2009-07-16",
+      "numero": "11983",
+      "urn": "urn:lex:br:federal:lei:2009-07-16;11983",
+      "ementa": "Revoga o art. 60 do Decreto-Lei n° 3.688, de 3 de outubro de 1941 - Lei de Contravenções Penais."
+    },
+    {
+      "senadoId": "580204",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-09-11981",
+      "titulo": "Lei nº 11.981 de 09/07/2009",
+      "data": "2009-07-09",
+      "numero": "11981",
+      "urn": "urn:lex:br:federal:lei:2009-07-09;11981",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.217.677.730,00 (um bilhão, duzentos e dezessete milhões, seiscentos e setenta e sete mil, setecentos e trinta reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "580203",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-09-11980",
+      "titulo": "Lei nº 11.980 de 09/07/2009",
+      "data": "2009-07-09",
+      "numero": "11980",
+      "urn": "urn:lex:br:federal:lei:2009-07-09;11980",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 300.000.000,00 (trezentos milhões de reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "580201",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-08-11978",
+      "titulo": "Lei nº 11.978 de 08/07/2009",
+      "data": "2009-07-08",
+      "numero": "11978",
+      "urn": "urn:lex:br:federal:lei:2009-07-08;11978",
+      "ementa": "Cria cargos de provimento efetivo e em comissão no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "580202",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-08-11979",
+      "titulo": "Lei nº 11.979 de 08/07/2009",
+      "data": "2009-07-08",
+      "numero": "11979",
+      "urn": "urn:lex:br:federal:lei:2009-07-08;11979",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo e em comissão e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 9ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "580198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-07-11975",
+      "titulo": "Lei nº 11.975 de 07/07/2009",
+      "data": "2009-07-07",
+      "numero": "11975",
+      "urn": "urn:lex:br:federal:lei:2009-07-07;11975",
+      "ementa": "Dispõe sobre a validade dos bilhetes de passagem no transporte coletivo rodoviário de passageiros e dá outras providências."
+    },
+    {
+      "senadoId": "580199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-07-11976",
+      "titulo": "Lei nº 11.976 de 07/07/2009",
+      "data": "2009-07-07",
+      "numero": "11976",
+      "urn": "urn:lex:br:federal:lei:2009-07-07;11976",
+      "ementa": "Dispõe sobre a Declaração de Óbito e a realização de estatísticas de óbitos em hospitais públicos e privados."
+    },
+    {
+      "senadoId": "580200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-07-11977",
+      "titulo": "Lei nº 11.977 de 07/07/2009",
+      "data": "2009-07-07",
+      "numero": "11977",
+      "urn": "urn:lex:br:federal:lei:2009-07-07;11977",
+      "ementa": "Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, as Leis nºs 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de maio de 1990, e 10.257, de 10 de julho de 2001, e a Medida Provisória nº 2.197-43, de 24 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "580191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11968",
+      "titulo": "Lei nº 11.968 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11968",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11968",
+      "ementa": "Inclui na relação descritiva do Sistema Rodoviário Federal, integrante do Anexo da Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, a ligação rodoviária entre Redenção/PA e Marabá/PA."
+    },
+    {
+      "senadoId": "580192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11969",
+      "titulo": "Lei nº 11.969 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11969",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11969",
+      "ementa": "Altera a redação do § 2º do art. 40 da Lei nº 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil."
+    },
+    {
+      "senadoId": "580196",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11973",
+      "titulo": "Lei nº 11.973 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11973",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11973",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, crédito especial no valor de R$ 492.078.530,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580197",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11974",
+      "titulo": "Lei nº 11.974 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11974",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11974",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Cidades e de Encargos Financeiros da União, crédito especial no valor global de R$ 6.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580193",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11970",
+      "titulo": "Lei nº 11.970 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11970",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11970",
+      "ementa": "Altera a Lei nº 9.537, de 11 de dezembro de 1997, para tornar obrigatório o uso de proteção no motor, eixo e partes móveis das embarcações."
+    },
+    {
+      "senadoId": "580194",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11971",
+      "titulo": "Lei nº 11.971 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11971",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11971",
+      "ementa": "Dispõe sobre as certidões expedidas pelos Ofícios do Registro de Distribuição e Distribuidores Judiciais."
+    },
+    {
+      "senadoId": "580190",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11967",
+      "titulo": "Lei nº 11.967 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11967",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11967",
+      "ementa": "Dispõe sobre a estrutura organizacional e funcional do Conselho Nacional do Ministério Público e dá outras providências."
+    },
+    {
+      "senadoId": "580195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-06-11972",
+      "titulo": "Lei nº 11.972 de 06/07/2009",
+      "data": "2009-07-06",
+      "numero": "11972",
+      "urn": "urn:lex:br:federal:lei:2009-07-06;11972",
+      "ementa": "Altera a Lei nº 9.782, de 26 de janeiro de 1999, para dispor sobre as Certificações de Boas Práticas para os produtos sujeitos ao regime de vigilância sanitária."
+    },
+    {
+      "senadoId": "580186",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-03-11963",
+      "titulo": "Lei nº 11.963 de 03/07/2009",
+      "data": "2009-07-03",
+      "numero": "11963",
+      "urn": "urn:lex:br:federal:lei:2009-07-03;11963",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 5ª Região."
+    },
+    {
+      "senadoId": "580185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-03-11962",
+      "titulo": "Lei nº 11.962 de 03/07/2009",
+      "data": "2009-07-03",
+      "numero": "11962",
+      "urn": "urn:lex:br:federal:lei:2009-07-03;11962",
+      "ementa": "Altera o art. 1º da Lei nº 7.064, de 6 de dezembro de 1982, estendendo as regras desse diploma legal a todas as empresas que venham a contratar ou transferir trabalhadores para prestar serviço no exterior."
+    },
+    {
+      "senadoId": "580188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-03-11965",
+      "titulo": "Lei nº 11.965 de 03/07/2009",
+      "data": "2009-07-03",
+      "numero": "11965",
+      "urn": "urn:lex:br:federal:lei:2009-07-03;11965",
+      "ementa": "Dá nova redação aos arts. 982 e 1.124-A da Lei nº 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil."
+    },
+    {
+      "senadoId": "580189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-03-11966",
+      "titulo": "Lei nº 11.966 de 03/07/2009",
+      "data": "2009-07-03",
+      "numero": "11966",
+      "urn": "urn:lex:br:federal:lei:2009-07-03;11966",
+      "ementa": "Altera o art. 5º do Decreto-Lei nº 201, de 27 de fevereiro de 1967, que dispõe sobre a responsabilidade dos Prefeitos e Vereadores e dá outras providências."
+    },
+    {
+      "senadoId": "580187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-03-11964",
+      "titulo": "Lei nº 11.964 de 03/07/2009",
+      "data": "2009-07-03",
+      "numero": "11964",
+      "urn": "urn:lex:br:federal:lei:2009-07-03;11964",
+      "ementa": "Altera a composição do Tribunal Regional do Trabalho da 18ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "580184",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-07-02-11961",
+      "titulo": "Lei nº 11.961 de 02/07/2009",
+      "data": "2009-07-02",
+      "numero": "11961",
+      "urn": "urn:lex:br:federal:lei:2009-07-02;11961",
+      "ementa": "Dispõe sobre a residência provisória para o estrangeiro em situação irregular no território nacional e dá outras providências."
+    },
+    {
+      "senadoId": "580183",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-29-11960",
+      "titulo": "Lei nº 11.960 de 29/06/2009",
+      "data": "2009-06-29",
+      "numero": "11960",
+      "urn": "urn:lex:br:federal:lei:2009-06-29;11960",
+      "ementa": "Altera e acresce dispositivos às Leis nºs 9.639, de 25 de maio de 1998, e 11.196, de 21 de novembro de 2005, para dispor sobre parcelamento de débitos de responsabilidade dos Municípios, decorrentes de contribuições sociais de que tratam as alíneas a e c do parágrafo único do art. 11 da Lei nº 8.212, de 24 de julho de 1991; bem como acresce dispositivo à Lei nº 6.830, de 22 de setembro de 1980, para simplificar o tratamento dado às cobranças judiciais da dívida ativa quando, da decisão que ordene o seu arquivamento, tiver decorrido o prazo prescricional; dá nova redação ao art. 47 da Lei nº 8.212, de 24 de julho de 1991, para dispensar a apresentação da Certidão Negativa de Débito em caso de calamidade pública ou para recebimento de recursos para projetos sociais, ao art. 1º-F da Lei nº 9.494, de 10 de setembro de 1997, para uniformizar a atualização monetária e dos juros incidentes sobre todas as condenações judiciais impostas à Fazenda Pública, ao art. 19 da Lei nº 11.314, de 3 de julho de 2006, para estender o prazo durante o qual o Departamento Nacional de Infra-Estrutura de Transportes poderá utilizar recursos federais para executar obras de conservação, recuperação, restauração, construção e sinalização de rodovias transferidas para outros membros da Federação, e ao inciso II do art. 8º da Lei nº 11.775, de 17 de setembro de 2008, para prorrogar a data-limite para adesão pelos mutuários de créditos rurais inscritos em Dívida Ativa da União ao parcelamento dos seus débitos; e dá outras providências."
+    },
+    {
+      "senadoId": "580182",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-29-11959",
+      "titulo": "Lei nº 11.959 de 29/06/2009",
+      "data": "2009-06-29",
+      "numero": "11959",
+      "urn": "urn:lex:br:federal:lei:2009-06-29;11959",
+      "ementa": "Dispõe sobre a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca, regula as atividades pesqueiras, revoga a Lei nº 7.679, de 23 de novembro de 1988, e dispositivos do Decreto-Lei nº 221, de 28 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "580181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-26-11958",
+      "titulo": "Lei nº 11.958 de 26/06/2009",
+      "data": "2009-06-26",
+      "numero": "11958",
+      "urn": "urn:lex:br:federal:lei:2009-06-26;11958",
+      "ementa": "Altera as Leis nºs 7.853, de 24 de outubro de 1989, e 10.683, de 28 de maio de 2003; dispõe sobre a transformação da Secretaria Especial de Aquicultura e Pesca da Presidência da República em Ministério da Pesca e Aquicultura; cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Gratificações de Representação da Presidência da República; e dá outras providências."
+    },
+    {
+      "senadoId": "580177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-25-11954",
+      "titulo": "Lei nº 11.954 de 25/06/2009",
+      "data": "2009-06-25",
+      "numero": "11954",
+      "urn": "urn:lex:br:federal:lei:2009-06-25;11954",
+      "ementa": "Abre ao Orçamento de Investimento para 2009 crédito especial no valor total de R$ 43.549.795,00, em favor da Empresa Brasileira de Infra-Estrutura Aeroportuária - INFRAERO, para os fins que especifica."
+    },
+    {
+      "senadoId": "580176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-25-11953",
+      "titulo": "Lei nº 11.953 de 25/06/2009",
+      "data": "2009-06-25",
+      "numero": "11953",
+      "urn": "urn:lex:br:federal:lei:2009-06-25;11953",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Relações Exteriores, crédito especial no valor de R$ 25.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580178",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-25-11955",
+      "titulo": "Lei nº 11.955 de 25/06/2009",
+      "data": "2009-06-25",
+      "numero": "11955",
+      "urn": "urn:lex:br:federal:lei:2009-06-25;11955",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Ciência e Tecnologia, crédito especial no valor de R$ 42.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-25-11956",
+      "titulo": "Lei nº 11.956 de 25/06/2009",
+      "data": "2009-06-25",
+      "numero": "11956",
+      "urn": "urn:lex:br:federal:lei:2009-06-25;11956",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito suplementar no valor de R$ 149.299.610,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "580175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-25-11952",
+      "titulo": "Lei nº 11.952 de 25/06/2009",
+      "data": "2009-06-25",
+      "numero": "11952",
+      "urn": "urn:lex:br:federal:lei:2009-06-25;11952",
+      "ementa": "Dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis nºs 8.666, de 21 de junho de 1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências."
+    },
+    {
+      "senadoId": "580180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-25-11957",
+      "titulo": "Lei nº 11.957 de 25/06/2009",
+      "data": "2009-06-25",
+      "numero": "11957",
+      "urn": "urn:lex:br:federal:lei:2009-06-25;11957",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito especial no valor de R$ 305.000.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "580174",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-24-11951",
+      "titulo": "Lei nº 11.951 de 24/06/2009",
+      "data": "2009-06-24",
+      "numero": "11951",
+      "urn": "urn:lex:br:federal:lei:2009-06-24;11951",
+      "ementa": "Altera o art. 36 da Lei nº 5.991, de 17 de dezembro de 1973, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos, para proibir a captação de receitas contendo prescrições magistrais e oficinais por outros estabelecimentos de comércio de medicamentos que não as farmácias e vedar a intermediação de outros estabelecimentos."
+    },
+    {
+      "senadoId": "580172",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-17-11949",
+      "titulo": "Lei nº 11.949 de 17/06/2009",
+      "data": "2009-06-17",
+      "numero": "11949",
+      "urn": "urn:lex:br:federal:lei:2009-06-17;11949",
+      "ementa": "Dá nova redação à Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá as terras pertencentes à União e dá outras providências."
+    },
+    {
+      "senadoId": "580173",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-17-11950",
+      "titulo": "Lei nº 11.950 de 17/06/2009",
+      "data": "2009-06-17",
+      "numero": "11950",
+      "urn": "urn:lex:br:federal:lei:2009-06-17;11950",
+      "ementa": "Altera dispositivos da Lei nº 10.356, de 27 de dezembro de 2001 - Plano de Carreira do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "580171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-16-11948",
+      "titulo": "Lei nº 11.948 de 16/06/2009",
+      "data": "2009-06-16",
+      "numero": "11948",
+      "urn": "urn:lex:br:federal:lei:2009-06-16;11948",
+      "ementa": "Constitui fonte adicional de recursos para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências."
+    },
+    {
+      "senadoId": "580170",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-16-11947",
+      "titulo": "Lei nº 11.947 de 16/06/2009",
+      "data": "2009-06-16",
+      "numero": "11947",
+      "urn": "urn:lex:br:federal:lei:2009-06-16;11947",
+      "ementa": "Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis nºs 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória nº 2.178-36, de 24 de agosto de 2001, e a Lei nº 8.913, de 12 de julho de 1994; e dá outras providências."
+    },
+    {
+      "senadoId": "580169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-15-11946",
+      "titulo": "Lei nº 11.946 de 15/06/2009",
+      "data": "2009-06-15",
+      "numero": "11946",
+      "urn": "urn:lex:br:federal:lei:2009-06-15;11946",
+      "ementa": "Institui o ano de 2010 como Ano Nacional Joaquim Nabuco."
+    },
+    {
+      "senadoId": "580168",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-06-04-11945",
+      "titulo": "Lei nº 11.945 de 04/06/2009",
+      "data": "2009-06-04",
+      "numero": "11945",
+      "urn": "urn:lex:br:federal:lei:2009-06-04;11945",
+      "ementa": "Altera a legislação tributária federal e dá outras providências."
+    },
+    {
+      "senadoId": "580166",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-28-11943",
+      "titulo": "Lei nº 11.943 de 28/05/2009",
+      "data": "2009-05-28",
+      "numero": "11943",
+      "urn": "urn:lex:br:federal:lei:2009-05-28;11943",
+      "ementa": "Autoriza a União a participar de Fundo de Garantia a Empreendimentos de Energia Elétrica - FGEE; altera o § 4º do art. 1º da Lei nº 11.805, de 6 de novembro de 2008; dispõe sobre a utilização do excesso de arrecadação e do superávit financeiro das fontes de recursos existentes no Tesouro Nacional; altera o art. 1º da Lei nº 10.841, de 18 de fevereiro de 2004, as Leis nºs 9.074, de 7 de julho de 1995, 9.427, de 26 de dezembro de 1996, 10.848, de 15 de março de 2004, 3.890-A, de 25 de abril de 1961, 10.847, de 15 de março de 2004, e 10.438, de 26 de abril de 2002; e autoriza a União a repassar ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES recursos captados junto ao Banco Internacional para a Reconstrução e o Desenvolvimento - BIRD."
+    },
+    {
+      "senadoId": "580165",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-28-11942",
+      "titulo": "Lei nº 11.942 de 28/05/2009",
+      "data": "2009-05-28",
+      "numero": "11942",
+      "urn": "urn:lex:br:federal:lei:2009-05-28;11942",
+      "ementa": "Dá nova redação aos arts. 14, 83 e 89 da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para assegurar às mães presas e aos recém-nascidos condições mínimas de assistência."
+    },
+    {
+      "senadoId": "580167",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-28-11944",
+      "titulo": "Lei nº 11.944 de 28/05/2009",
+      "data": "2009-05-28",
+      "numero": "11944",
+      "urn": "urn:lex:br:federal:lei:2009-05-28;11944",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de fevereiro de 2009."
+    },
+    {
+      "senadoId": "580164",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-27-11941",
+      "titulo": "Lei nº 11.941 de 27/05/2009",
+      "data": "2009-05-27",
+      "numero": "11941",
+      "urn": "urn:lex:br:federal:lei:2009-05-27;11941",
+      "ementa": "Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários; concede remissão nos casos em que especifica; institui regime tributário de transição, alterando o Decreto nº 70.235, de 6 de março de 1972, as Leis nºs 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 8.218, de 29 de agosto de 1991, 9.249, de 26 de dezembro de 1995, 9.430, de 27 de dezembro de 1996, 9.469, de 10 de julho de 1997, 9.532, de 10 de dezembro de 1997, 10.426, de 24 de abril de 2002, 10.480, de 2 de julho de 2002, 10.522, de 19 de julho de 2002, 10.887, de 18 de junho de 2004, e 6.404, de 15 de dezembro de 1976, o Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e as Leis nºs 8.981, de 20 de janeiro de 1995, 10.925, de 23 de julho de 2004, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 11.116, de 18 de maio de 2005, 11.732, de 30 de junho de 2008, 10.260, de 12 de julho de 2001, 9.873, de 23 de novembro de 1999, 11.171, de 2 de setembro de 2005, 11.345, de 14 de setembro de 2006; prorroga a vigência da Lei nº 8.989, de 24 de fevereiro de 1995; revoga dispositivos das Leis nºs 8.383, de 30 de dezembro de 1991, e 8.620, de 5 de janeiro de 1993, do Decreto-Lei nº 73, de 21 de novembro de 1966, das Leis nºs 10.190, de 14 de fevereiro de 2001, 9.718, de 27 de novembro de 1998, e 6.938, de 31 de agosto de 1981, 9.964, de 10 de abril de 2000, e, a partir da instalação do Conselho Administrativo de Recursos Fiscais, os Decretos nºs 83.304, de 28 de março de 1979, e 89.892, de 2 de julho de 1984, e o art. 112 da Lei nº 11.196, de 21 de novembro de 2005; e dá outras providências."
+    },
+    {
+      "senadoId": "580163",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-19-11940",
+      "titulo": "Lei nº 11.940 de 19/05/2009",
+      "data": "2009-05-19",
+      "numero": "11940",
+      "urn": "urn:lex:br:federal:lei:2009-05-19;11940",
+      "ementa": "Estabelece 2009 como Ano da Educação Profissional e Tecnológica e o dia 23 de setembro como o Dia Nacional dos Profissionais de Nível Técnico."
+    },
+    {
+      "senadoId": "580162",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-14-11939",
+      "titulo": "Lei nº 11.939 de 14/05/2009",
+      "data": "2009-05-14",
+      "numero": "11939",
+      "urn": "urn:lex:br:federal:lei:2009-05-14;11939",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito especial no valor de R$ 1.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "580160",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-14-11937",
+      "titulo": "Lei nº 11.937 de 14/05/2009",
+      "data": "2009-05-14",
+      "numero": "11937",
+      "urn": "urn:lex:br:federal:lei:2009-05-14;11937",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor da empresa Centrais Elétricas Brasileiras S.A. - ELETROBRÁS, crédito suplementar no valor de R$ 37.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580161",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-14-11938",
+      "titulo": "Lei nº 11.938 de 14/05/2009",
+      "data": "2009-05-14",
+      "numero": "11938",
+      "urn": "urn:lex:br:federal:lei:2009-05-14;11938",
+      "ementa": "Abre ao Orçamento de Investimento para 2009, em favor de empresas do Grupo ELETROBRÁS, crédito especial no valor total de R$ 310.511.886,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "580159",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-14-11936",
+      "titulo": "Lei nº 11.936 de 14/05/2009",
+      "data": "2009-05-14",
+      "numero": "11936",
+      "urn": "urn:lex:br:federal:lei:2009-05-14;11936",
+      "ementa": "Proíbe a fabricação, a importação, a exportação, a manutenção em estoque, a comercialização e o uso de diclorodifeniltricloretano (DDT) e dá outras providências."
+    },
+    {
+      "senadoId": "580158",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-11-11935",
+      "titulo": "Lei nº 11.935 de 11/05/2009",
+      "data": "2009-05-11",
+      "numero": "11935",
+      "urn": "urn:lex:br:federal:lei:2009-05-11;11935",
+      "ementa": "Altera o art. 35-C da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde."
+    },
+    {
+      "senadoId": "580157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-05-05-11934",
+      "titulo": "Lei nº 11.934 de 05/05/2009",
+      "data": "2009-05-05",
+      "numero": "11934",
+      "urn": "urn:lex:br:federal:lei:2009-05-05;11934",
+      "ementa": "Dispõe sobre limites à exposição humana a campos elétricos, magnéticos e eletromagnéticos; altera a Lei nº 4.771, de 15 de setembro de 1965; e dá outras providências."
+    },
+    {
+      "senadoId": "580156",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-28-11933",
+      "titulo": "Lei nº 11.933 de 28/04/2009",
+      "data": "2009-04-28",
+      "numero": "11933",
+      "urn": "urn:lex:br:federal:lei:2009-04-28;11933",
+      "ementa": "Altera a Medida Provisória nº 2.158-35, de 24 de agosto de 2001, as Leis nºs 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 8.383, de 30 de dezembro de 1991, 11.196, de 21 de novembro de 2005, 8.212, de 24 de julho de 1991, 10.666, de 8 de maio de 2003, e 11.907, de 2 de fevereiro de 2009; revoga dispositivos das Leis nºs 11.033, de 21 de dezembro de 2004, 11.488, de 15 de junho de 2007, e 8.850, de 28 de janeiro de 1994, para alterar o prazo de pagamento dos impostos e contribuições federais que especifica, reduzir a base de cálculo da contribuição do produtor rural na venda dos produtos que especifica e efetuar ajustes na tributação do cigarro; e dá outras providências."
+    },
+    {
+      "senadoId": "580155",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-24-11932",
+      "titulo": "Lei nº 11.932 de 24/04/2009",
+      "data": "2009-04-24",
+      "numero": "11932",
+      "urn": "urn:lex:br:federal:lei:2009-04-24;11932",
+      "ementa": "Inscreve o nome de Antônio de Sampaio, o Brigadeiro Sampaio, no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "580154",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-22-11931",
+      "titulo": "Lei nº 11.931 de 22/04/2009",
+      "data": "2009-04-22",
+      "numero": "11931",
+      "urn": "urn:lex:br:federal:lei:2009-04-22;11931",
+      "ementa": "Denomina \"Aeroporto Internacional de Macapá/ AP - Alberto Alcolumbre\" o aeroporto da cidade de Macapá, Estado do Amapá."
+    },
+    {
+      "senadoId": "580153",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-22-11930",
+      "titulo": "Lei nº 11.930 de 22/04/2009",
+      "data": "2009-04-22",
+      "numero": "11930",
+      "urn": "urn:lex:br:federal:lei:2009-04-22;11930",
+      "ementa": "Institui a Semana de Mobilização Nacional para Doação de Medula Óssea e dispõe sobre a localização de doadores de medula óssea."
+    },
+    {
+      "senadoId": "583551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11926",
+      "titulo": "Lei nº 11.926 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11926",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11926",
+      "ementa": "Institui o dia 25 de janeiro como Dia Nacional da Bossa Nova."
+    },
+    {
+      "senadoId": "583550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11925",
+      "titulo": "Lei nº 11.925 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11925",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11925",
+      "ementa": "Dá nova redação aos arts. 830 e 895 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "583553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11928",
+      "titulo": "Lei nº 11.928 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11928",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11928",
+      "ementa": "Institui o Dia do Vaqueiro Nordestino, a ser comemorado, anualmente, no terceiro domingo do mês de julho."
+    },
+    {
+      "senadoId": "583549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11924",
+      "titulo": "Lei nº 11.924 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11924",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11924",
+      "ementa": "Altera o art. 57 da Lei nº 6.015, de 31 de dezembro de 1973, para autorizar o enteado ou a enteada a adotar o nome da família do padrasto ou da madrasta."
+    },
+    {
+      "senadoId": "580152",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11929",
+      "titulo": "Lei nº 11.929 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11929",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11929",
+      "ementa": "Denomina Rodovia Governador Aquilino Mota Duarte o trecho da rodovia BR-210."
+    },
+    {
+      "senadoId": "583548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11923",
+      "titulo": "Lei nº 11.923 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11923",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11923",
+      "ementa": "Acrescenta parágrafo ao art. 158 do Decreto- Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para tipificar o chamado \"sequestro relâmpago\"."
+    },
+    {
+      "senadoId": "583552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-17-11927",
+      "titulo": "Lei nº 11.927 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "11927",
+      "urn": "urn:lex:br:federal:lei:2009-04-17;11927",
+      "ementa": "Institui o Dia Nacional do Caminhoneiro."
+    },
+    {
+      "senadoId": "583547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-13-11922",
+      "titulo": "Lei nº 11.922 de 13/04/2009",
+      "data": "2009-04-13",
+      "numero": "11922",
+      "urn": "urn:lex:br:federal:lei:2009-04-13;11922",
+      "ementa": "Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal; altera as Leis nºs 11.124, de 16 de junho de 2005, 8.427, de 27 de maio de 1992, 11.322, de 13 de julho de 2006, 11.775, de 17 de setembro de 2008, e a Medida Provisória nº 2.185-35, de 24 de agosto de2001; prorroga os prazos previstos nos arts. 5º e 30 da Lei nº 10.826, de 22 de dezembro de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "583546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-13-11921",
+      "titulo": "Lei nº 11.921 de 13/04/2009",
+      "data": "2009-04-13",
+      "numero": "11921",
+      "urn": "urn:lex:br:federal:lei:2009-04-13;11921",
+      "ementa": "Altera a redação dos arts. 6º e 49 da Lei nº 9.478, de 6 de agosto de 1997, e dá outras providências."
+    },
+    {
+      "senadoId": "583542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-09-11917",
+      "titulo": "Lei nº 11.917 de 09/04/2009",
+      "data": "2009-04-09",
+      "numero": "11917",
+      "urn": "urn:lex:br:federal:lei:2009-04-09;11917",
+      "ementa": "Denomina Aeroporto Internacional de Rio Branco/AC - Plácido de Castro o Aeroporto Internacional de Rio Branco, no Estado do Acre."
+    },
+    {
+      "senadoId": "583543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-09-11918",
+      "titulo": "Lei nº 11.918 de 09/04/2009",
+      "data": "2009-04-09",
+      "numero": "11918",
+      "urn": "urn:lex:br:federal:lei:2009-04-09;11918",
+      "ementa": "Denomina Ponte Prefeito Olavo Brasil Filho a ponte sobre o Rio Tacutu, na BR-401, Km 120, no Município de Bonfim, no Estado de Roraima."
+    },
+    {
+      "senadoId": "583541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-09-11916",
+      "titulo": "Lei nº 11.916 de 09/04/2009",
+      "data": "2009-04-09",
+      "numero": "11916",
+      "urn": "urn:lex:br:federal:lei:2009-04-09;11916",
+      "ementa": "Denomina Rodovia Governador Virgílio Távora trecho da rodovia BR-116."
+    },
+    {
+      "senadoId": "583544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-09-11919",
+      "titulo": "Lei nº 11.919 de 09/04/2009",
+      "data": "2009-04-09",
+      "numero": "11919",
+      "urn": "urn:lex:br:federal:lei:2009-04-09;11919",
+      "ementa": "Denomina Ponte João Monteiro Barbosa Filho a ponte transposta sobre o Rio Tacutu, na BR-401, Km 133, nos Municípios de Bonfim e Normandia, no Estado de Roraima"
+    },
+    {
+      "senadoId": "583545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-09-11920",
+      "titulo": "Lei nº 11.920 de 09/04/2009",
+      "data": "2009-04-09",
+      "numero": "11920",
+      "urn": "urn:lex:br:federal:lei:2009-04-09;11920",
+      "ementa": "Altera o nome do Aeroporto Internacional de Boa Vista, no Estado de Roraima."
+    },
+    {
+      "senadoId": "583540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-04-07-11915",
+      "titulo": "Lei nº 11.915 de 07/04/2009",
+      "data": "2009-04-07",
+      "numero": "11915",
+      "urn": "urn:lex:br:federal:lei:2009-04-07;11915",
+      "ementa": "Denomina Governador Mário Covas o Complexo Industrial e Portuário do Pecém, no Estado do Ceará."
+    },
+    {
+      "senadoId": "583538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-31-11913",
+      "titulo": "Lei nº 11.913 de 31/03/2009",
+      "data": "2009-03-31",
+      "numero": "11913",
+      "urn": "urn:lex:br:federal:lei:2009-03-31;11913",
+      "ementa": "Denomina \"Rodovia Sylvio Lofêgo Botelho\" trecho da BR-401, no Estado de Roraima."
+    },
+    {
+      "senadoId": "583537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-31-11912",
+      "titulo": "Lei nº 11.912 de 31/03/2009",
+      "data": "2009-03-31",
+      "numero": "11912",
+      "urn": "urn:lex:br:federal:lei:2009-03-31;11912",
+      "ementa": "Altera a denominação do Aeroporto Internacional de Macapá."
+    },
+    {
+      "senadoId": "583536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-31-11911",
+      "titulo": "Lei nº 11.911 de 31/03/2009",
+      "data": "2009-03-31",
+      "numero": "11911",
+      "urn": "urn:lex:br:federal:lei:2009-03-31;11911",
+      "ementa": "Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, para incluir na Relação Descritiva das Rodovias do Sistema Rodoviário Federal o trecho rodoviário compreendido entre as localidades de Pedro Canário - ES e Nanuque - MG."
+    },
+    {
+      "senadoId": "583539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-31-11914",
+      "titulo": "Lei nº 11.914 de 31/03/2009",
+      "data": "2009-03-31",
+      "numero": "11914",
+      "urn": "urn:lex:br:federal:lei:2009-03-31;11914",
+      "ementa": "Denomina Palácio Dra. Maria Luiza Galindo Malaquias, o edifício sede do Tribunal Regional Eleitoral do Estado de Roraima."
+    },
+    {
+      "senadoId": "583535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-18-11910",
+      "titulo": "Lei nº 11.910 de 18/03/2009",
+      "data": "2009-03-18",
+      "numero": "11910",
+      "urn": "urn:lex:br:federal:lei:2009-03-18;11910",
+      "ementa": "Altera o art. 105 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer a obrigatoriedade de uso do equipamento suplementar de retenção - air bag."
+    },
+    {
+      "senadoId": "583534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-04-11909",
+      "titulo": "Lei nº 11.909 de 04/03/2009",
+      "data": "2009-03-04",
+      "numero": "11909",
+      "urn": "urn:lex:br:federal:lei:2009-03-04;11909",
+      "ementa": "Dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art. 177 da Constituição Federal, bem como sobre as atividades de tratamento, processamento, estocagem, liquefação, regaseificação e comercialização de gás natural; altera a Lei nº 9.478, de 6 de agosto de 1997; e dá outras providências."
+    },
+    {
+      "senadoId": "583533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-03-03-11908",
+      "titulo": "Lei nº 11.908 de 03/03/2009",
+      "data": "2009-03-03",
+      "numero": "11908",
+      "urn": "urn:lex:br:federal:lei:2009-03-03;11908",
+      "ementa": "Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil; altera as Leis nºs 7.940, de 20 de dezembro de 1989, 10.637, de 30 de dezembro de 2002, 11.524, de 24 de setembro de 2007, e 11.774, de 17 de setembro de 2008; e dá outras providências."
+    },
+    {
+      "senadoId": "583532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-02-02-11907",
+      "titulo": "Lei nº 11.907 de 02/02/2009",
+      "data": "2009-02-02",
+      "numero": "11907",
+      "urn": "urn:lex:br:federal:lei:2009-02-02;11907",
+      "ementa": "Dispõe sobre a reestruturação da composição remuneratória das Carreiras de Oficial de Chancelaria e de Assistente de Chancelaria, de que trata o art. 2º da Lei nº 11.440, de 29 de dezembro de 2006, da Carreira de Tecnologia Militar, de que trata a Lei nº 9.657, de 3 de junho de 1998, dos cargos do Grupo Defesa Aérea e Controle de Tráfego Aéreo - Grupo DACTA, de que trata a Lei nº 10.551, de 13 de novembro de 2002, dos empregos públicos do Quadro de Pessoal do Hospital das Forças Armadas - HFA, de que trata a Lei nº 10.225, de 15 de maio de 2001, da Carreira de Supervisor Médico-Pericial, de que trata a Lei nº 9.620, de 2 de abril de 1998, das Carreiras da Área de Ciência e Tecnologia, de que trata a Lei nº 8.691, de 28 de julho de 1993, do Plano de Carreiras e Cargos da Fundação Oswaldo Cruz - FIOCRUZ, de que trata a Lei nº 11.355, de 19 de outubro de 2006, das Carreiras e do Plano Especial de Cargos do Departamento Nacional de Infra-Estrutura de Transportes - DNIT, de que trata a Lei nº 11.171, de 2 de setembro de 2005, da Carreira da Seguridade Social e do Trabalho, de que trata a Lei nº 10.483, de 3 de julho de 2002, da Carreira Previdenciária, de que trata a Lei nº 10.355, de 26 de dezembro de 2001, dos Policiais e Bombeiros Militares dos Ex-Territórios Federais e do antigo Distrito Federal, de que trata a Lei nº 10.486, de 4 de julho de 2002, do Plano Especial de Cargos da Superintendência da Zona Franca de Manaus - SUFRAMA, de que trata a Lei nº 11.356, de 19 de outubro de 2006, do Plano Especial de Cargos da Empresa Brasileira de Turismo - EMBRATUR, de que trata a Lei nº 11.356, de 19 de outubro de 2006, do Plano de Classificação de Cargos, de que trata a Lei nº 5.645, de 10 de dezembro de 1970, do Plano Geral de Cargos do Poder Executivo, de que trata a Lei nº 11.357, de 19 de outubro de 2006, do Quadro de Pessoal da Imprensa Nacional, de que trata a Lei nº 11.090, de 7 de janeiro de 2005, da Gratificação de Incremento à Atividade de Administração do Patrimônio da União - GIAPU, de que trata a Lei nº 11.095, de 13 de janeiro de 2005, das Carreiras da área de Meio Ambiente, de que trata a Lei nº 10.410, de 11 de janeiro de 2002, do Plano Especial de Cargos do Ministério do Meio Ambiente e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, de que trata a Lei nº 11.357, de 19 de outubro de 2006, das Carreiras e do Plano Especial de Cargos do FNDE, de que trata a Lei nº 11.357, de 19 de outubro de 2006, das Carreiras e do Plano Especial de Cargos do INEP, de que trata a Lei nº 11.357, de 19 de outubro de 2006, dos Juizes do Tribunal Marítimo, de que trata a Lei nº 11.319, de 6 de julho de 2006, do Quadro de Pessoal da Fundação Nacional do Índio - FUNAI, do Plano de Carreiras e Cargos do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO, de que trata a Lei nº 11.355, de 19 de outubro de 2006, do Plano de Carreiras e Cargos do Instituto Brasileiro de Geografia e Estatística - IBGE, de que trata a Lei nº 11.355, de 19 de outubro de 2006, do Plano de Carreiras e Cargos do Instituto Nacional de Propriedade Industrial - INPI, de que trata a Lei nº 11.355, de 19 de outubro de 2006, da Carreira do Seguro Social, de que trata a Lei nº 10.855, de 1o de abril de 2004, das Carreiras e do Plano Especial de Cargos do Departamento Nacional de Produção Mineral - DNPM, de que trata a Lei nº 11.046, de 27 de dezembro de 2004, do Quadro de Pessoal da AGU, de que trata a Lei nº 10.480, de 2 de julho de 2002, da Tabela de Vencimentos e da Gratificação de Desempenho de Atividade dos Fiscais Federais Agropecuários, de que trata a Lei nº 10.883, de 16 de junho de 2004, da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária - GDATFA, de que trata a Lei nº 10.484, de 3 julho de 2002, da Gratificação de Desempenho de Atividade de Perito Federal Agrário - GDAPA, de que trata a Lei nº 10.550, de 13 de novembro de 2002, da Gratificação de Desempenho de Atividade de"
+    },
+    {
+      "senadoId": "583530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-20-11905",
+      "titulo": "Lei nº 11.905 de 20/01/2009",
+      "data": "2009-01-20",
+      "numero": "11905",
+      "urn": "urn:lex:br:federal:lei:2009-01-20;11905",
+      "ementa": "Institui o Dia Nacional do Auditor-Fiscal do Trabalho."
+    },
+    {
+      "senadoId": "583531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-20-11906",
+      "titulo": "Lei nº 11.906 de 20/01/2009",
+      "data": "2009-01-20",
+      "numero": "11906",
+      "urn": "urn:lex:br:federal:lei:2009-01-20;11906",
+      "ementa": "Cria o Instituto Brasileiro de Museus - IBRAM, cria 425 (quatrocentos e vinte e cinco) cargos efetivos do Plano Especial de Cargos da Cultura, cria Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas, no âmbito do Poder Executivo Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "583528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-14-11903",
+      "titulo": "Lei nº 11.903 de 14/01/2009",
+      "data": "2009-01-14",
+      "numero": "11903",
+      "urn": "urn:lex:br:federal:lei:2009-01-14;11903",
+      "ementa": "Dispõe sobre o rastreamento da produção e do consumo de medicamentos por meio de tecnologia de captura, armazenamento e transmissão eletrônica de dados."
+    },
+    {
+      "senadoId": "583529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-14-11904",
+      "titulo": "Lei nº 11.904 de 14/01/2009",
+      "data": "2009-01-14",
+      "numero": "11904",
+      "urn": "urn:lex:br:federal:lei:2009-01-14;11904",
+      "ementa": "Institui o Estatuto de Museus e dá outras providências."
+    },
+    {
+      "senadoId": "583526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-12-11901",
+      "titulo": "Lei nº 11.901 de 12/01/2009",
+      "data": "2009-01-12",
+      "numero": "11901",
+      "urn": "urn:lex:br:federal:lei:2009-01-12;11901",
+      "ementa": "Dispõe sobre a profissão de Bombeiro Civil e dá outras providências."
+    },
+    {
+      "senadoId": "583527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-12-11902",
+      "titulo": "Lei nº 11.902 de 12/01/2009",
+      "data": "2009-01-12",
+      "numero": "11902",
+      "urn": "urn:lex:br:federal:lei:2009-01-12;11902",
+      "ementa": "Acrescenta dispositivo à Lei nº 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil-OAB."
+    },
+    {
+      "senadoId": "583523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-08-11898",
+      "titulo": "Lei nº 11.898 de 08/01/2009",
+      "data": "2009-01-08",
+      "numero": "11898",
+      "urn": "urn:lex:br:federal:lei:2009-01-08;11898",
+      "ementa": "Institui o Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai; e altera as Leis nºs 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003."
+    },
+    {
+      "senadoId": "583524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-08-11899",
+      "titulo": "Lei nº 11.899 de 08/01/2009",
+      "data": "2009-01-08",
+      "numero": "11899",
+      "urn": "urn:lex:br:federal:lei:2009-01-08;11899",
+      "ementa": "Institui o Dia Nacional da Leitura e a Semana Nacional da Leitura e da Literatura."
+    },
+    {
+      "senadoId": "583525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2009-01-08-11900",
+      "titulo": "Lei nº 11.900 de 08/01/2009",
+      "data": "2009-01-08",
+      "numero": "11900",
+      "urn": "urn:lex:br:federal:lei:2009-01-08;11900",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para prever a possibilidade de realização de interrogatório e outros atos processuais por sistema de videoconferência, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

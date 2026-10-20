@@ -1,0 +1,1639 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2015",
+  "tipo": "LEI",
+  "ano": 2015,
+  "coletado_em": "2026-10-20T22:56:33.926Z",
+  "normas": [
+    {
+      "senadoId": "602465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-30-13240",
+      "titulo": "Lei nº 13.240 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "13240",
+      "urn": "urn:lex:br:federal:lei:2015-12-30;13240",
+      "ementa": "Dispõe sobre a administração, a alienação, a transferência de gestão de imóveis da União e seu uso para a constituição de fundos; altera a Lei nº 9.636, de 15 de maio de 1998, e os Decretos-Lei nºs 3.438, de 17 de julho de 1941, 9.760, de 5 de setembro de 1946, 271, de 28 de fevereiro de 1967, e 2.398, de 21 de dezembro de 1987; e revoga dispositivo da Lei nº 13.139, de 26 de junho de 2015."
+    },
+    {
+      "senadoId": "602466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-30-13241",
+      "titulo": "Lei nº 13.241 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "13241",
+      "urn": "urn:lex:br:federal:lei:2015-12-30;13241",
+      "ementa": "Dispõe sobre a incidência do Imposto sobre Produtos Industrializados - IPI sobre as bebidas classificadas nas posições 22.04, 22.05, 22.06 e 22.08, exceto o código 2208.90.00 Ex 01, da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e altera as Leis nºs 13.097, de 19 de janeiro de 2015, e 11.196, de 21 de novembro de 2005."
+    },
+    {
+      "senadoId": "602464",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-30-13239",
+      "titulo": "Lei nº 13.239 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "13239",
+      "urn": "urn:lex:br:federal:lei:2015-12-30;13239",
+      "ementa": "Dispõe sobre a oferta e a realização, no âmbito do Sistema Único de Saúde - SUS, de cirurgia plástica reparadora de sequelas de lesões causadas por atos de violência contra a mulher."
+    },
+    {
+      "senadoId": "602467",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-30-13242",
+      "titulo": "Lei nº 13.242 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "13242",
+      "urn": "urn:lex:br:federal:lei:2015-12-30;13242",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2016 e dá outras providências."
+    },
+    {
+      "senadoId": "602457",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13232",
+      "titulo": "Lei nº 13.232 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13232",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13232",
+      "ementa": "Confere ao Município de Nova Iguaçu, Estado do Rio de Janeiro, o título de Capital Nacional dos Cosméticos."
+    },
+    {
+      "senadoId": "602459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13234",
+      "titulo": "Lei nº 13.234 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13234",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13234",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a identificação, o cadastramento e o atendimento, na educação básica e na educação superior, de alunos com altas habilidades ou superdotação."
+    },
+    {
+      "senadoId": "602460",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13235",
+      "titulo": "Lei nº 13.235 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13235",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13235",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, para equiparar o controle de qualidade de medicamentos similares ao de medicamentos genéricos."
+    },
+    {
+      "senadoId": "602461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13236",
+      "titulo": "Lei nº 13.236 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13236",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13236",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, que \"dispõe sobre a Vigilância Sanitária a que ficam sujeitos os Medicamentos, as Drogas, os Insumos Farmacêuticos e Correlatos, Cosméticos, Saneantes e Outros Produtos, e dá outras Providências\", para estabelecer medidas que inibam erros de dispensação e de administração e uso equivocado de medicamentos, drogas e produtos correlatos."
+    },
+    {
+      "senadoId": "602463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13238",
+      "titulo": "Lei nº 13.238 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13238",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13238",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, do Trabalho e Emprego e do Esporte, crédito especial no valor de R$ 131.395.201,00 (cento e trinta e um milhões, trezentos e noventa e cinco mil, duzentos e um reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "602458",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13233",
+      "titulo": "Lei nº 13.233 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13233",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13233",
+      "ementa": "Obriga, nas hipóteses que especifica, a veiculação de mensagem de advertência sobre o risco de escassez e de incentivo ao consumo moderado de água."
+    },
+    {
+      "senadoId": "602462",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-29-13237",
+      "titulo": "Lei nº 13.237 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "13237",
+      "urn": "urn:lex:br:federal:lei:2015-12-29;13237",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Integração Nacional, crédito suplementar no valor de R$ 23.747.286,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-28-13228",
+      "titulo": "Lei nº 13.228 de 28/12/2015",
+      "data": "2015-12-28",
+      "numero": "13228",
+      "urn": "urn:lex:br:federal:lei:2015-12-28;13228",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para estabelecer causa de aumento de pena para o caso de estelionato cometido contra idoso."
+    },
+    {
+      "senadoId": "602452",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-28-13227",
+      "titulo": "Lei nº 13.227 de 28/12/2015",
+      "data": "2015-12-28",
+      "numero": "13227",
+      "urn": "urn:lex:br:federal:lei:2015-12-28;13227",
+      "ementa": "Institui o Dia Nacional de Doação de Leite Humano e a Semana Nacional de Doação de Leite Humano, a serem comemorados anualmente."
+    },
+    {
+      "senadoId": "602455",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-28-13230",
+      "titulo": "Lei nº 13.230 de 28/12/2015",
+      "data": "2015-12-28",
+      "numero": "13230",
+      "urn": "urn:lex:br:federal:lei:2015-12-28;13230",
+      "ementa": "Institui a semana nacional de prevenção do câncer bucal."
+    },
+    {
+      "senadoId": "602454",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-28-13229",
+      "titulo": "Lei nº 13.229 de 28/12/2015",
+      "data": "2015-12-28",
+      "numero": "13229",
+      "urn": "urn:lex:br:federal:lei:2015-12-28;13229",
+      "ementa": "Inscreve o nome de Leonel de Moura Brizola no Livro dos Heróis da Pátria e altera a Lei nº 11.597, de 29 de novembro de 2007."
+    },
+    {
+      "senadoId": "602456",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-28-13231",
+      "titulo": "Lei nº 13.231 de 28/12/2015",
+      "data": "2015-12-28",
+      "numero": "13231",
+      "urn": "urn:lex:br:federal:lei:2015-12-28;13231",
+      "ementa": "Denomina Rodovia Engenheiro Isaac Bennesby a rodovia BR-425 entre o distrito de Abunã e a cidade de Guajará-Mirim, no Estado de Rondônia."
+    },
+    {
+      "senadoId": "602447",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13222",
+      "titulo": "Lei nº 13.222 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13222",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13222",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento, Indústria e Comércio Exterior, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 5.408.574.434,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13224",
+      "titulo": "Lei nº 13.224 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13224",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13224",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, da Secretaria de Políticas para as Mulheres e da Controladoria-Geral da União, crédito suplementar no valor de R$ 44.355.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13221",
+      "titulo": "Lei nº 13.221 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13221",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13221",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 10.497.921,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602450",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13225",
+      "titulo": "Lei nº 13.225 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13225",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13225",
+      "ementa": "Abre ao Orçamento de Investimento para 2015, em favor de diversas empresas estatais, crédito suplementar no valor de R$ 14.282.407.686,00 e reduz o Orçamento de Investimento de diversas empresas no valor de R$ 25.279.323.222,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13220",
+      "titulo": "Lei nº 13.220 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13220",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13220",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 10.091.253,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602451",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13226",
+      "titulo": "Lei nº 13.226 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13226",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13226",
+      "ementa": "Abre ao Orçamento de Investimento para 2015, em favor de empresas estatais, crédito especial no valor de R$ 4.770.586.136,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602448",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-23-13223",
+      "titulo": "Lei nº 13.223 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "13223",
+      "urn": "urn:lex:br:federal:lei:2015-12-23;13223",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito especial no valor de R$ 745.150.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13216",
+      "titulo": "Lei nº 13.216 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13216",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13216",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito especial no valor de R$ 120.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "585023",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13211",
+      "titulo": "Lei nº 13.211 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13211",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13211",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Educação e da Cultura, crédito suplementar no valor de R$ 187.278.058,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585020",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13208",
+      "titulo": "Lei nº 13.208 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13208",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13208",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 49.758.315,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585025",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13213",
+      "titulo": "Lei nº 13.213 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13213",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13213",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Saúde e do Desenvolvimento Social e Combate à Fome, crédito especial no valor de R$ 1.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "585022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13210",
+      "titulo": "Lei nº 13.210 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13210",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13210",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor das Justiças Eleitoral e do Trabalho, do Ministério da Educação e da Secretaria de Portos, crédito especial no valor de R$ 593.148,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "585027",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13215",
+      "titulo": "Lei nº 13.215 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13215",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13215",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito suplementar no valor de R$ 17.470.517,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585021",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13209",
+      "titulo": "Lei nº 13.209 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13209",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13209",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 50.273.243,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "585026",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13214",
+      "titulo": "Lei nº 13.214 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13214",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13214",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios dos Transportes e do Meio Ambiente, crédito suplementar no valor de R$ 26.769.407,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13205",
+      "titulo": "Lei nº 13.205 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13205",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13205",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério do Trabalho e Emprego, crédito suplementar no valor de R$ 2.159.298.268,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13217",
+      "titulo": "Lei nº 13.217 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13217",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13217",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Previdência Social e do Desenvolvimento Social e Combate à Fome, crédito suplementar no valor de R$ 211.172.171,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13207",
+      "titulo": "Lei nº 13.207 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13207",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13207",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 6.050.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602444",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13219",
+      "titulo": "Lei nº 13.219 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13219",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13219",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 38.412.557,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13206",
+      "titulo": "Lei nº 13.206 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13206",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13206",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 5.060.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "585024",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13212",
+      "titulo": "Lei nº 13.212 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13212",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13212",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito suplementar no valor de R$ 1.900.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-22-13218",
+      "titulo": "Lei nº 13.218 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "13218",
+      "urn": "urn:lex:br:federal:lei:2015-12-22;13218",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Cidades, crédito especial no valor de R$ 61.150.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "585016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-14-13204",
+      "titulo": "Lei nº 13.204 de 14/12/2015",
+      "data": "2015-12-14",
+      "numero": "13204",
+      "urn": "urn:lex:br:federal:lei:2015-12-14;13204",
+      "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, \"que estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não transferências de recursos financeiros, entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público; define diretrizes para a política de fomento e de colaboração com organizações da sociedade civil; institui o termo de colaboração e o termo de fomento; e altera as Leis nºs 8.429, de 2 de junho de 1992, e 9.790, de 23 de março de 1999\"; altera as Leis nºs 8.429, de 2 de junho de 1992, 9.790, de 23 de março de 1999, 9.249, de 26 de dezembro de 1995, 9.532, de 10 de dezembro de 1997, 12.101, de 27 de novembro de 2009, e 8.666, de 21 de junho de 1993; e revoga a Lei nº 91, de 28 de agosto de 1935."
+    },
+    {
+      "senadoId": "585015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-08-13203",
+      "titulo": "Lei nº 13.203 de 08/12/2015",
+      "data": "2015-12-08",
+      "numero": "13203",
+      "urn": "urn:lex:br:federal:lei:2015-12-08;13203",
+      "ementa": "Dispõe sobre a repactuação do risco hidrológico de geração de energia elétrica; institui a bonificação pela outorga; e altera as Leis nºs 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de energia elétrica, 9.427, de 26 de dezembro de 1996, que disciplina o regime das concessões de serviços públicos de energia elétrica, 9.478, de 6 de agosto de 1997, que institui o Conselho Nacional de Política Energética, 9.991, de 24 de julho de 2000, que dispõe sobre realização de investimentos em pesquisa e desenvolvimento e em eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas do setor de energia elétrica, 10.438, de 26 de abril de 2002, 10.848, de 15 de março de 2004, que dispõe sobre a comercialização de energia elétrica, e 11.488, de 15 de junho de 2007, que equipara a autoprodutor o consumidor que atenda a requisitos que especifica."
+    },
+    {
+      "senadoId": "585014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-08-13202",
+      "titulo": "Lei nº 13.202 de 08/12/2015",
+      "data": "2015-12-08",
+      "numero": "13202",
+      "urn": "urn:lex:br:federal:lei:2015-12-08;13202",
+      "ementa": "Institui o Programa de Redução de Litígios Tributários - PRORELIT; autoriza o Poder Executivo federal a atualizar monetariamente o valor das taxas que indica; altera as Leis nºs 12.873, de 24 de outubro de 2013, 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 9.250, de 26 de dezembro de 1995, e 12.546, de 14 de dezembro de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "585013",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-04-13201",
+      "titulo": "Lei nº 13.201 de 04/12/2015",
+      "data": "2015-12-04",
+      "numero": "13201",
+      "urn": "urn:lex:br:federal:lei:2015-12-04;13201",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 331.755.228,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "585012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-04-13200",
+      "titulo": "Lei nº 13.200 de 04/12/2015",
+      "data": "2015-12-04",
+      "numero": "13200",
+      "urn": "urn:lex:br:federal:lei:2015-12-04;13200",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência Social, crédito especial no valor de R$ 368.258.333,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "585011",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-03-13199",
+      "titulo": "Lei nº 13.199 de 03/12/2015",
+      "data": "2015-12-03",
+      "numero": "13199",
+      "urn": "urn:lex:br:federal:lei:2015-12-03;13199",
+      "ementa": "Altera os dispositivos que menciona da Lei nº 13.080, de 2 de janeiro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2015."
+    },
+    {
+      "senadoId": "585010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-02-13198",
+      "titulo": "Lei nº 13.198 de 02/12/2015",
+      "data": "2015-12-02",
+      "numero": "13198",
+      "urn": "urn:lex:br:federal:lei:2015-12-02;13198",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça, das Relações Exteriores, dos Transportes, da Defesa e da Integração Nacional, no valor de R$ 950.246.149,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "585008",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-01-13196",
+      "titulo": "Lei nº 13.196 de 01/12/2015",
+      "data": "2015-12-01",
+      "numero": "13196",
+      "urn": "urn:lex:br:federal:lei:2015-12-01;13196",
+      "ementa": "Altera a Medida Provisória no 2.228-1, de 6 de setembro de 2001, para dispor sobre a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (Condecine) e prorrogar a vigência de incentivo fiscal no âmbito dos Fundos de Financiamento da Indústria Cinematográfica Nacional (Funcines), e a Lei nº 12.529, de 30 de novembro de 2011, para dispor sobre as taxas processuais sobre os processos de competência do Conselho Administrativo de Defesa Econômica (Cade); autoriza o Poder Executivo federal a atualizar monetariamente o valor dos preços dos serviços e produtos e da taxa estabelecidos pela Lei nº 6.938, de 31 de agosto de 1981; e prorroga a vigência de incentivos fiscais previstos na Lei nº 8.685, de 20 de julho de 1993."
+    },
+    {
+      "senadoId": "585009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-12-01-13197",
+      "titulo": "Lei nº 13.197 de 01/12/2015",
+      "data": "2015-12-01",
+      "numero": "13197",
+      "urn": "urn:lex:br:federal:lei:2015-12-01;13197",
+      "ementa": "Altera a Lei nº 9.264, de 7 de fevereiro de 1996, para transformar em cargos de nível superior os cargos da Carreira Policial Civil do Distrito Federal."
+    },
+    {
+      "senadoId": "585007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-25-13195",
+      "titulo": "Lei nº 13.195 de 25/11/2015",
+      "data": "2015-11-25",
+      "numero": "13195",
+      "urn": "urn:lex:br:federal:lei:2015-11-25;13195",
+      "ementa": "Altera a Lei nº 12.712, de 30 de agosto de 2012, para estabelecer que a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF ficará encarregada da gestão do Fundo de Estabilidade do Seguro Rural - FESR até a completa liquidação das obrigações deste Fundo, as Leis nºs 4.829, de 5 de novembro de 1965, e 10.823, de 19 de dezembro de 2003, e o Decreto-Lei nº 73, de 21 de novembro de 1966."
+    },
+    {
+      "senadoId": "585005",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-24-13193",
+      "titulo": "Lei nº 13.193 de 24/11/2015",
+      "data": "2015-11-24",
+      "numero": "13193",
+      "urn": "urn:lex:br:federal:lei:2015-11-24;13193",
+      "ementa": "Altera a Lei nº 6.815, de 19 de agosto de 1980, que define a situação jurídica do estrangeiro no Brasil e cria o Conselho Nacional de Imigração, para dispor sobre a dispensa unilateral do visto de turista por ocasião dos Jogos Olímpicos e Paralímpicos de 2016, Rio 2016."
+    },
+    {
+      "senadoId": "585006",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-24-13194",
+      "titulo": "Lei nº 13.194 de 24/11/2015",
+      "data": "2015-11-24",
+      "numero": "13194",
+      "urn": "urn:lex:br:federal:lei:2015-11-24;13194",
+      "ementa": "Altera a Lei nº 7.573, de 23 de dezembro de 1986, que \"dispõe sobre o Ensino Profissional Marítimo\"."
+    },
+    {
+      "senadoId": "585004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-23-13192",
+      "titulo": "Lei nº 13.192 de 23/11/2015",
+      "data": "2015-11-23",
+      "numero": "13192",
+      "urn": "urn:lex:br:federal:lei:2015-11-23;13192",
+      "ementa": "Altera a Lei nº 13.080, de 2 de janeiro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2015."
+    },
+    {
+      "senadoId": "585003",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-23-13191",
+      "titulo": "Lei nº 13.191 de 23/11/2015",
+      "data": "2015-11-23",
+      "numero": "13191",
+      "urn": "urn:lex:br:federal:lei:2015-11-23;13191",
+      "ementa": "Altera o Anexo V à Lei nº 13.115, de 20 de abril de 2015, que estima a receita e fixa a despesa da União para o exercício financeiro de 2015."
+    },
+    {
+      "senadoId": "585001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-19-13189",
+      "titulo": "Lei nº 13.189 de 19/11/2015",
+      "data": "2015-11-19",
+      "numero": "13189",
+      "urn": "urn:lex:br:federal:lei:2015-11-19;13189",
+      "ementa": "Institui o Programa Seguro-Emprego (PSE)."
+    },
+    {
+      "senadoId": "585002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-19-13190",
+      "titulo": "Lei nº 13.190 de 19/11/2015",
+      "data": "2015-11-19",
+      "numero": "13190",
+      "urn": "urn:lex:br:federal:lei:2015-11-19;13190",
+      "ementa": "Altera as Leis nºs 12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas - RDC, 7.210, de 11 de julho de 1984, 6.015, de 31 de dezembro de 1973, 8.935, de 18 de novembro de 1994, 11.196, de 21 de novembro de 2005, e 12.305, de 2 de agosto de 2010; e dá outras providências."
+    },
+    {
+      "senadoId": "585000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-11-13188",
+      "titulo": "Lei nº 13.188 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "13188",
+      "urn": "urn:lex:br:federal:lei:2015-11-11;13188",
+      "ementa": "Dispõe sobre o direito de resposta ou retificação do ofendido em matéria divulgada, publicada ou transmitida por veículo de comunicação social."
+    },
+    {
+      "senadoId": "584998",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-11-13186",
+      "titulo": "Lei nº 13.186 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "13186",
+      "urn": "urn:lex:br:federal:lei:2015-11-11;13186",
+      "ementa": "Institui a Política de Educação para o Consumo Sustentável."
+    },
+    {
+      "senadoId": "584999",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-11-13187",
+      "titulo": "Lei nº 13.187 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "13187",
+      "urn": "urn:lex:br:federal:lei:2015-11-11;13187",
+      "ementa": "Institui o Dia Nacional da Amazônia Azul."
+    },
+    {
+      "senadoId": "584997",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-06-13185",
+      "titulo": "Lei nº 13.185 de 06/11/2015",
+      "data": "2015-11-06",
+      "numero": "13185",
+      "urn": "urn:lex:br:federal:lei:2015-11-06;13185",
+      "ementa": "Institui o Programa de Combate à Intimidação Sistemática (Bullying)."
+    },
+    {
+      "senadoId": "584996",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-04-13184",
+      "titulo": "Lei nº 13.184 de 04/11/2015",
+      "data": "2015-11-04",
+      "numero": "13184",
+      "urn": "urn:lex:br:federal:lei:2015-11-04;13184",
+      "ementa": "Acrescenta § 2º ao art. 44 da Lei no 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional, para dispor sobre a matrícula do candidato de renda familiar inferior a dez salários mínimos nas instituições públicas de ensino superior."
+    },
+    {
+      "senadoId": "584995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-04-13183",
+      "titulo": "Lei nº 13.183 de 04/11/2015",
+      "data": "2015-11-04",
+      "numero": "13183",
+      "urn": "urn:lex:br:federal:lei:2015-11-04;13183",
+      "ementa": "Altera as Leis nºs 8.212, de 24 de julho de 1991, e 8.213, de 24 de julho de 1991, para tratar da associação do segurado especial em cooperativa de crédito rural e, ainda essa última, para atualizar o rol de dependentes, estabelecer regra de não incidência do fator previdenciário, regras de pensão por morte e de empréstimo consignado, a Lei nº 10.779, de 25 de novembro de 2003, para assegurar pagamento do seguro-defeso para familiar que exerça atividade de apoio à pesca, a Lei nº 12.618, de 30 de abril de 2012, para estabelecer regra de inscrição no regime de previdência complementar dos servidores públicos federais titulares de cargo efetivo, a Lei nº 10.820, de 17 de dezembro de 2003, para dispor sobre o pagamento de empréstimos realizados por participantes e assistidos com entidades fechadas e abertas de previdência complementar e a Lei nº 7.998, de 11 de janeiro de 1990; e dá outras providências"
+    },
+    {
+      "senadoId": "584994",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-03-13182",
+      "titulo": "Lei nº 13.182 de 03/11/2015",
+      "data": "2015-11-03",
+      "numero": "13182",
+      "urn": "urn:lex:br:federal:lei:2015-11-03;13182",
+      "ementa": "Autoriza a Companhia Hidro Elétrica do São Francisco e a Furnas Centrais Elétricas a participar, respectivamente, do Fundo de Energia do Nordeste e do Fundo de Energia do Sudeste e do Centro-Oeste, com o objetivo de prover recursos para a implementação de empreendimentos de energia elétrica; altera as Leis nºs 11.943, de 28 de maio de 2009, 9.491, de 9 de setembro de 1997, 10.522, de 19 de julho de 2002, e 12.111, de 9 de dezembro de 2009; e dá outras providências."
+    },
+    {
+      "senadoId": "584993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-11-03-13181",
+      "titulo": "Lei nº 13.181 de 03/11/2015",
+      "data": "2015-11-03",
+      "numero": "13181",
+      "urn": "urn:lex:br:federal:lei:2015-11-03;13181",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Educação, de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 9.820.639.868,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "584992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-22-13180",
+      "titulo": "Lei nº 13.180 de 22/10/2015",
+      "data": "2015-10-22",
+      "numero": "13180",
+      "urn": "urn:lex:br:federal:lei:2015-10-22;13180",
+      "ementa": "Dispõe sobre a profissão de artesão e dá outras providências."
+    },
+    {
+      "senadoId": "584990",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-22-13178",
+      "titulo": "Lei nº 13.178 de 22/10/2015",
+      "data": "2015-10-22",
+      "numero": "13178",
+      "urn": "urn:lex:br:federal:lei:2015-10-22;13178",
+      "ementa": "Dispõe sobre a ratificação dos registros imobiliários decorrentes de alienações e concessões de terras públicas situadas nas faixas de fronteira; e revoga o Decreto-Lei nº 1.414, de 18 de agosto de 1975, e a Lei nº 9.871, de 23 de novembro de 1999."
+    },
+    {
+      "senadoId": "584991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-22-13179",
+      "titulo": "Lei nº 13.179 de 22/10/2015",
+      "data": "2015-10-22",
+      "numero": "13179",
+      "urn": "urn:lex:br:federal:lei:2015-10-22;13179",
+      "ementa": "Obriga o fornecedor de ingresso para evento cultural pela internet a tornar disponível a venda de meia-entrada por esse veículo."
+    },
+    {
+      "senadoId": "584989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-22-13177",
+      "titulo": "Lei nº 13.177 de 22/10/2015",
+      "data": "2015-10-22",
+      "numero": "13177",
+      "urn": "urn:lex:br:federal:lei:2015-10-22;13177",
+      "ementa": "Altera a Lei nº 12.869, de 15 de outubro de 2013, acerca do regime de permissão de serviços públicos."
+    },
+    {
+      "senadoId": "584986",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-21-13174",
+      "titulo": "Lei nº 13.174 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "13174",
+      "urn": "urn:lex:br:federal:lei:2015-10-21;13174",
+      "ementa": "Insere inciso VIII no art. 43 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir, entre as finalidades da educação superior, seu envolvimento com a educação básica."
+    },
+    {
+      "senadoId": "584984",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-21-13172",
+      "titulo": "Lei nº 13.172 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "13172",
+      "urn": "urn:lex:br:federal:lei:2015-10-21;13172",
+      "ementa": "Altera as Leis nºs 10.820, de 17 de dezembro de 2003, 8.213, de 24 de julho de 1991, e 8.112, de 11 de dezembro de 1990, para dispor sobre desconto em folha de pagamento de valores destinados ao pagamento de cartão de crédito."
+    },
+    {
+      "senadoId": "584983",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-21-13171",
+      "titulo": "Lei nº 13.171 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "13171",
+      "urn": "urn:lex:br:federal:lei:2015-10-21;13171",
+      "ementa": "Dispõe sobre o empregador rural; altera as Leis nºs 8.023, de 12 de abril de 1990, e 5.889, de 8 de junho de 1973; e dá outras providências."
+    },
+    {
+      "senadoId": "584988",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-21-13176",
+      "titulo": "Lei nº 13.176 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "13176",
+      "urn": "urn:lex:br:federal:lei:2015-10-21;13176",
+      "ementa": "Acrescenta inciso IX ao art. 964 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, para outorgar privilégio especial, sobre os produtos do abate, ao credor por animais."
+    },
+    {
+      "senadoId": "584985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-21-13173",
+      "titulo": "Lei nº 13.173 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "13173",
+      "urn": "urn:lex:br:federal:lei:2015-10-21;13173",
+      "ementa": "Dispõe sobre autorização para a realização de obras e serviços necessários ao fornecimento de energia elétrica temporária para os Jogos Rio 2016; altera as Leis nºs 11.473, de 10 de maio de 2007, que dispõe sobre cooperação federativa no âmbito da segurança pública, 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida e a regularização fundiária de assentamentos em áreas urbanas, 12.035, de 1º de outubro de 2009, que institui o Ato Olímpico, e 12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas (RDC); e revoga o art. 5º-A da Lei nº 12.035, de 1º de outubro de 2009."
+    },
+    {
+      "senadoId": "584987",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-21-13175",
+      "titulo": "Lei nº 13.175 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "13175",
+      "urn": "urn:lex:br:federal:lei:2015-10-21;13175",
+      "ementa": "Acrescenta art. 2º-A à Lei nº 10.962, de 11 de outubro de 2004, que dispõe sobre a oferta e as formas de afixação de preços de produtos e serviços para o consumidor, para obrigar a informação do preço por unidade de medida na comercialização de produtos fracionados em pequenas quantidades."
+    },
+    {
+      "senadoId": "584982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-16-13170",
+      "titulo": "Lei nº 13.170 de 16/10/2015",
+      "data": "2015-10-16",
+      "numero": "13170",
+      "urn": "urn:lex:br:federal:lei:2015-10-16;13170",
+      "ementa": "Disciplina a ação de indisponibilidade de bens, direitos ou valores em decorrência de resolução do Conselho de Segurança das Nações Unidas - CSNU."
+    },
+    {
+      "senadoId": "584980",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-06-13168",
+      "titulo": "Lei nº 13.168 de 06/10/2015",
+      "data": "2015-10-06",
+      "numero": "13168",
+      "urn": "urn:lex:br:federal:lei:2015-10-06;13168",
+      "ementa": "Altera a redação do § 1º do art. 47 da Lei nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional."
+    },
+    {
+      "senadoId": "584981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-06-13169",
+      "titulo": "Lei nº 13.169 de 06/10/2015",
+      "data": "2015-10-06",
+      "numero": "13169",
+      "urn": "urn:lex:br:federal:lei:2015-10-06;13169",
+      "ementa": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, para elevar a alíquota da Contribuição Social sobre o Lucro Líquido - CSLL em relação às pessoas jurídicas de seguros privados e de capitalização, e às referidas nos incisos I a VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; altera as Leis nºs 9.808, de 20 de julho de 1999, 8.402, de 8 de janeiro de 1992, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 11.033, de 21 de dezembro de 2004, 12.715, de 17 de setembro de 2012, 9.249, de 26 de dezembro de 1995, 11.484, de 31 de maio de 2007, 12.973, de 13 de maio de 2014, 10.150, de 21 de dezembro de 2000, e 10.865, de 30 de abril de 2004; e dá outras providências."
+    },
+    {
+      "senadoId": "584979",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-06-13167",
+      "titulo": "Lei nº 13.167 de 06/10/2015",
+      "data": "2015-10-06",
+      "numero": "13167",
+      "urn": "urn:lex:br:federal:lei:2015-10-06;13167",
+      "ementa": "Altera o disposto no art. 84 da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para estabelecer critérios para a separação de presos nos estabelecimentos penais."
+    },
+    {
+      "senadoId": "584978",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-10-01-13166",
+      "titulo": "Lei nº 13.166 de 01/10/2015",
+      "data": "2015-10-01",
+      "numero": "13166",
+      "urn": "urn:lex:br:federal:lei:2015-10-01;13166",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2014, com o objetivo de fomentar as exportações do País."
+    },
+    {
+      "senadoId": "584977",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-09-29-13165",
+      "titulo": "Lei nº 13.165 de 29/09/2015",
+      "data": "2015-09-29",
+      "numero": "13165",
+      "urn": "urn:lex:br:federal:lei:2015-09-29;13165",
+      "ementa": "Altera as Leis nºs 9.504, de 30 de setembro de 1997, 9.096, de 19 de setembro de 1995, e 4.737, de 15 de julho de 1965 - Código Eleitoral, para reduzir os custos das campanhas eleitorais, simplificar a administração dos Partidos Políticos e incentivar a participação feminina."
+    },
+    {
+      "senadoId": "584976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-09-16-13164",
+      "titulo": "Lei nº 13.164 de 16/09/2015",
+      "data": "2015-09-16",
+      "numero": "13164",
+      "urn": "urn:lex:br:federal:lei:2015-09-16;13164",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário, da Defesa e da Integração Nacional, no valor de R$ 904.756.882,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "584975",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-09-09-13163",
+      "titulo": "Lei nº 13.163 de 09/09/2015",
+      "data": "2015-09-09",
+      "numero": "13163",
+      "urn": "urn:lex:br:federal:lei:2015-09-09;13163",
+      "ementa": "Modifica a Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para instituir o ensino médio nas penitenciárias."
+    },
+    {
+      "senadoId": "584974",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-09-09-13162",
+      "titulo": "Lei nº 13.162 de 09/09/2015",
+      "data": "2015-09-09",
+      "numero": "13162",
+      "urn": "urn:lex:br:federal:lei:2015-09-09;13162",
+      "ementa": "Inscreve o nome de Rui Barbosa de Oliveira no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "584973",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-31-13161",
+      "titulo": "Lei nº 13.161 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "13161",
+      "urn": "urn:lex:br:federal:lei:2015-08-31;13161",
+      "ementa": "Altera as Leis nºs 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, 11.977, de 7 de julho de 2009, e 12.035, de 1º de outubro de 2009; e revoga dispositivos da Lei nº 11.196, de 21 de novembro de 2005, quanto à tributação de bebidas frias."
+    },
+    {
+      "senadoId": "584972",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-25-13160",
+      "titulo": "Lei nº 13.160 de 25/08/2015",
+      "data": "2015-08-25",
+      "numero": "13160",
+      "urn": "urn:lex:br:federal:lei:2015-08-25;13160",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre retenção, remoção e leilão de veículo, e revoga a Lei nº 6.575, de 30 de setembro de 1978."
+    },
+    {
+      "senadoId": "584971",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-10-13159",
+      "titulo": "Lei nº 13.159 de 10/08/2015",
+      "data": "2015-08-10",
+      "numero": "13159",
+      "urn": "urn:lex:br:federal:lei:2015-08-10;13159",
+      "ementa": "Altera a Lei nº 11.484, de 31 de maio de 2007, que dispõe sobre os incentivos às indústrias de equipamentos para TV Digital e de componentes eletrônicos semicondutores e sobre a proteção à propriedade intelectual das topografias de circuitos integrados, instituindo o Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores - PADIS e o Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Equipamentos para a TV Digital - PATVD."
+    },
+    {
+      "senadoId": "584969",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-04-13157",
+      "titulo": "Lei nº 13.157 de 04/08/2015",
+      "data": "2015-08-04",
+      "numero": "13157",
+      "urn": "urn:lex:br:federal:lei:2015-08-04;13157",
+      "ementa": "Institui o Dia Nacional do Oficial de Justiça."
+    },
+    {
+      "senadoId": "584967",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-04-13155",
+      "titulo": "Lei nº 13.155 de 04/08/2015",
+      "data": "2015-08-04",
+      "numero": "13155",
+      "urn": "urn:lex:br:federal:lei:2015-08-04;13155",
+      "ementa": "Estabelece princípios e práticas de responsabilidade fiscal e financeira e de gestão transparente e democrática para entidades desportivas profissionais de futebol; institui parcelamentos especiais para recuperação de dívidas pela União, cria a Autoridade Pública de Governança do Futebol - APFUT; dispõe sobre a gestão temerária no âmbito das entidades desportivas profissionais; cria a Loteria Exclusiva - LOTEX; altera as Leis nºs 9.615, de 24 de março de 1998, 8.212, de 24 de julho de 1991, 10.671, de 15 de maio de 2003, 10.891, de 9 de julho de 2004, 11.345, de 14 de setembro de 2006, e 11.438, de 29 de dezembro de 2006, e os Decretos-Leis nºs 3.688, de 3 de outubro de 1941, e 204, de 27 de fevereiro de 1967; revoga a Medida Provisória nº 669, de 26 de fevereiro de 2015; cria programa de iniciação esportiva escolar; e dá outras providências."
+    },
+    {
+      "senadoId": "584968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-04-13156",
+      "titulo": "Lei nº 13.156 de 04/08/2015",
+      "data": "2015-08-04",
+      "numero": "13156",
+      "urn": "urn:lex:br:federal:lei:2015-08-04;13156",
+      "ementa": "Altera a redação do § 2º do art. 5º da Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional de Meio Ambiente e dá outras providências."
+    },
+    {
+      "senadoId": "584970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-08-04-13158",
+      "titulo": "Lei nº 13.158 de 04/08/2015",
+      "data": "2015-08-04",
+      "numero": "13158",
+      "urn": "urn:lex:br:federal:lei:2015-08-04;13158",
+      "ementa": "Altera os arts. 48 e 103 da Lei nº 8.171, de 17 de janeiro de 1991, com a finalidade de instituir, entre os objetivos do crédito rural, estímulos à substituição do sistema de pecuária extensivo pelo sistema de pecuária intensivo e ao desenvolvimento do sistema orgânico de produção agropecuária."
+    },
+    {
+      "senadoId": "584966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-30-13154",
+      "titulo": "Lei nº 13.154 de 30/07/2015",
+      "data": "2015-07-30",
+      "numero": "13154",
+      "urn": "urn:lex:br:federal:lei:2015-07-30;13154",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 13.001, de 20 de junho de 2014; e dá outras providências."
+    },
+    {
+      "senadoId": "584965",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-30-13153",
+      "titulo": "Lei nº 13.153 de 30/07/2015",
+      "data": "2015-07-30",
+      "numero": "13153",
+      "urn": "urn:lex:br:federal:lei:2015-07-30;13153",
+      "ementa": "Institui a Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca e seus instrumentos; prevê a criação da Comissão Nacional de Combate à Desertificação; e dá outras providências."
+    },
+    {
+      "senadoId": "584964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-29-13152",
+      "titulo": "Lei nº 13.152 de 29/07/2015",
+      "data": "2015-07-29",
+      "numero": "13152",
+      "urn": "urn:lex:br:federal:lei:2015-07-29;13152",
+      "ementa": "Dispõe sobre a política de valorização do salário-mínimo e dos benefícios pagos pelo Regime Geral de Previdência Social (RGPS) para o período de 2016 a 2019."
+    },
+    {
+      "senadoId": "584963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-28-13151",
+      "titulo": "Lei nº 13.151 de 28/07/2015",
+      "data": "2015-07-28",
+      "numero": "13151",
+      "urn": "urn:lex:br:federal:lei:2015-07-28;13151",
+      "ementa": "Altera os arts. 62, 66 e 67 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, o art. 12 da Lei nº 9.532, de 10 de dezembro de 1997, o art. 1º da Lei nº 91, de 28 de agosto de 1935, e o art. 29 da Lei nº 12.101, de 27 de novembro de 2009, para dispor sobre a finalidade das fundações, o prazo para manifestação do Ministério Público sobre suas alterações estatutárias e a remuneração dos seus dirigentes; e dá outras providências."
+    },
+    {
+      "senadoId": "584962",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-27-13150",
+      "titulo": "Lei nº 13.150 de 27/07/2015",
+      "data": "2015-07-27",
+      "numero": "13150",
+      "urn": "urn:lex:br:federal:lei:2015-07-27;13150",
+      "ementa": "Cria cargos efetivos e funções comissionadas nos quadros de pessoal dos Tribunais Regionais Eleitorais, destinados às Zonas Eleitorais, e transforma funções de Chefe de Cartório."
+    },
+    {
+      "senadoId": "584961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-21-13149",
+      "titulo": "Lei nº 13.149 de 21/07/2015",
+      "data": "2015-07-21",
+      "numero": "13149",
+      "urn": "urn:lex:br:federal:lei:2015-07-21;13149",
+      "ementa": "Altera as Leis nºs 11.482, de 31 de maio de 2007, para dispor sobre os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física, 7.713, de 22 de dezembro de 1988, 9.250, de 26 de dezembro de 1995, e 10.823, de 19 de dezembro de 2003."
+    },
+    {
+      "senadoId": "584960",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-16-13148",
+      "titulo": "Lei nº 13.148 de 16/07/2015",
+      "data": "2015-07-16",
+      "numero": "13148",
+      "urn": "urn:lex:br:federal:lei:2015-07-16;13148",
+      "ementa": "Concede pensão especial aos herdeiros de Frei Tito de Alencar Lima."
+    },
+    {
+      "senadoId": "584959",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-07-13147",
+      "titulo": "Lei nº 13.147 de 07/07/2015",
+      "data": "2015-07-07",
+      "numero": "13147",
+      "urn": "urn:lex:br:federal:lei:2015-07-07;13147",
+      "ementa": "Denomina Ponte Luís Carlos Prestes a ponte transposta sobre o rio Gravataí na BR-116, km 270, nos Municípios de Canoas e Porto Alegre, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "584956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-06-13144",
+      "titulo": "Lei nº 13.144 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "13144",
+      "urn": "urn:lex:br:federal:lei:2015-07-06;13144",
+      "ementa": "Altera o inciso III do art. 3º da Lei nº 8.009, de 29 de março de 1990, que disciplina o instituto do bem de família, para assegurar proteção ao patrimônio do novo cônjuge ou companheiro do devedor de pensão alimentícia."
+    },
+    {
+      "senadoId": "584958",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-06-13146",
+      "titulo": "Lei nº 13.146 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "13146",
+      "urn": "urn:lex:br:federal:lei:2015-07-06;13146",
+      "ementa": "Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)."
+    },
+    {
+      "senadoId": "584954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-06-13142",
+      "titulo": "Lei nº 13.142 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "13142",
+      "urn": "urn:lex:br:federal:lei:2015-07-06;13142",
+      "ementa": "Altera os arts. 121 e 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o art. 1º da Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos)."
+    },
+    {
+      "senadoId": "584955",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-06-13143",
+      "titulo": "Lei nº 13.143 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "13143",
+      "urn": "urn:lex:br:federal:lei:2015-07-06;13143",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo, de cargos em comissão e de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "584957",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-07-06-13145",
+      "titulo": "Lei nº 13.145 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "13145",
+      "urn": "urn:lex:br:federal:lei:2015-07-06;13145",
+      "ementa": "Denomina \"Rodovia Governador Alberto Silva\" o trecho da rodovia BR-343 compreendido entre as localidades de Luís Correia e Bertolínia, no Estado do Piauí."
+    },
+    {
+      "senadoId": "584953",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-30-13141",
+      "titulo": "Lei nº 13.141 de 30/06/2015",
+      "data": "2015-06-30",
+      "numero": "13141",
+      "urn": "urn:lex:br:federal:lei:2015-06-30;13141",
+      "ementa": "Inscreve o nome de Cândido Mariano da Silva Rondon, o Marechal Rondon, no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "584951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-26-13139",
+      "titulo": "Lei nº 13.139 de 26/06/2015",
+      "data": "2015-06-26",
+      "numero": "13139",
+      "urn": "urn:lex:br:federal:lei:2015-06-26;13139",
+      "ementa": "Altera os Decretos-Lei nº 9.760, de 5 de setembro de 1946, nº 2.398, de 21 de dezembro de 1987, a Lei nº 9.636, de 15 de maio de 1998, e o Decreto-Lei nº 1.876, de 15 de julho de 1981; dispõe sobre o parcelamento e a remissão de dívidas patrimoniais com a União; e dá outras providências."
+    },
+    {
+      "senadoId": "584950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-26-13138",
+      "titulo": "Lei nº 13.138 de 26/06/2015",
+      "data": "2015-06-26",
+      "numero": "13138",
+      "urn": "urn:lex:br:federal:lei:2015-06-26;13138",
+      "ementa": "Altera o art. 19 do Regulamento a que se refere o Decreto nº 21.981, de 19 de outubro de 1932, que regula a profissão de Leiloeiro ao território da República, para incluir como competência dos leiloeiros a venda em hasta pública ou público pregão por meio da rede mundial de computadores."
+    },
+    {
+      "senadoId": "584952",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-26-13140",
+      "titulo": "Lei nº 13.140 de 26/06/2015",
+      "data": "2015-06-26",
+      "numero": "13140",
+      "urn": "urn:lex:br:federal:lei:2015-06-26;13140",
+      "ementa": "Dispõe sobre a mediação entre particulares como meio de solução de controvérsias e sobre a autocomposição de conflitos no âmbito da administração pública; altera a Lei nº 9.469, de 10 de julho de 1997, e o Decreto nº 70.235, de 6 de março de 1972; e revoga o § 2º do art. 6º da Lei nº 9.469, de 10 de julho de 1997."
+    },
+    {
+      "senadoId": "584949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-19-13137",
+      "titulo": "Lei nº 13.137 de 19/06/2015",
+      "data": "2015-06-19",
+      "numero": "13137",
+      "urn": "urn:lex:br:federal:lei:2015-06-19;13137",
+      "ementa": "Altera as Leis nºs 10.865, de 30 de abril de 2004, para elevar alíquotas da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, 11.941, de 27 de maio de 2009, 11.079, de 30 de dezembro de 2004, 10.925, de 23 de julho de 2004, 11.051, de 29 de dezembro de 2004, 7.827, de 27 de setembro de 1989, 8.212, de 24 de julho de 1991, 8.935, de 18 de novembro de 1994, 10.150, de 21 de dezembro de 2000, 12.810, de 15 de maio de 2013, 5.861, de 12 de dezembro de 1972, 13.043, de 13 de novembro de 2014, 10.522, de 19 de julho de 2002, 12.469, de 26 de agosto de 2011, 12.995, de 18 de junho de 2014, 13.097, de 19 de janeiro de 2015, 10.996, de 15 de dezembro de 2004, 11.196, de 21 de novembro de 2005, 10.833, de 29 de dezembro de 2003, e 12.024, de 27 de agosto de 2009, e o Decreto-Lei nº 1.598, de 26 de dezembro de 1977; revoga dispositivos das Leis nºs 4.380, de 21 de agosto de 1964, 9.430, de 27 de dezembro de 1996, e 8.177, de 1º de março de 1991; e dá outras providências."
+    },
+    {
+      "senadoId": "584948",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-17-13136",
+      "titulo": "Lei nº 13.136 de 17/06/2015",
+      "data": "2015-06-17",
+      "numero": "13136",
+      "urn": "urn:lex:br:federal:lei:2015-06-17;13136",
+      "ementa": "Dispõe sobre a instituição do Dia Nacional do Vigilante."
+    },
+    {
+      "senadoId": "584947",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-17-13135",
+      "titulo": "Lei nº 13.135 de 17/06/2015",
+      "data": "2015-06-17",
+      "numero": "13135",
+      "urn": "urn:lex:br:federal:lei:2015-06-17;13135",
+      "ementa": "Altera as Leis nº 8.213, de 24 de julho de 1991, nº 10.876, de 2 de junho de 2004, nº 8.112, de 11 de dezembro de 1990, e nº 10.666, de 8 de maio de 2003, e dá outras providências."
+    },
+    {
+      "senadoId": "584946",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-16-13134",
+      "titulo": "Lei nº 13.134 de 16/06/2015",
+      "data": "2015-06-16",
+      "numero": "13134",
+      "urn": "urn:lex:br:federal:lei:2015-06-16;13134",
+      "ementa": "Altera as Leis nº 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego e o Abono Salarial e institui o Fundo de Amparo ao Trabalhador (FAT), nº 10.779, de 25 de novembro de 2003, que dispõe sobre o seguro-desemprego para o pescador artesanal, e nº 8.213, de 24 de julho de 1991, que dispõe sobre os planos de benefícios da Previdência Social; revoga dispositivos da Lei nº 7.998, de 11 de janeiro de 1990, e as Leis nº 7.859, de 25 de outubro de 1989, e nº 8.900, de 30 de junho de 1994; e dá outras providências."
+    },
+    {
+      "senadoId": "584945",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-15-13133",
+      "titulo": "Lei nº 13.133 de 15/06/2015",
+      "data": "2015-06-15",
+      "numero": "13133",
+      "urn": "urn:lex:br:federal:lei:2015-06-15;13133",
+      "ementa": "Acrescenta dispositivos à Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para explicitar a obrigatoriedade do uso e da manutenção de sinalizadores ou balizadores aéreos de obstáculos existentes nas zonas de proteção dos aeródromos."
+    },
+    {
+      "senadoId": "584944",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-09-13132",
+      "titulo": "Lei nº 13.132 de 09/06/2015",
+      "data": "2015-06-09",
+      "numero": "13132",
+      "urn": "urn:lex:br:federal:lei:2015-06-09;13132",
+      "ementa": "Altera a Lei nº 12.096, de 24 de novembro de 2009."
+    },
+    {
+      "senadoId": "584943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-03-13131",
+      "titulo": "Lei nº 13.131 de 03/06/2015",
+      "data": "2015-06-03",
+      "numero": "13131",
+      "urn": "urn:lex:br:federal:lei:2015-06-03;13131",
+      "ementa": "Institui o dia 31 de outubro como o Dia Nacional da Poesia."
+    },
+    {
+      "senadoId": "584942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-06-03-13130",
+      "titulo": "Lei nº 13.130 de 03/06/2015",
+      "data": "2015-06-03",
+      "numero": "13130",
+      "urn": "urn:lex:br:federal:lei:2015-06-03;13130",
+      "ementa": "Declara a Caminhada com Maria, realizada no dia 15 de agosto de cada ano, do Santuário de Nossa Senhora da Assunção na Barra do Ceará até a Catedral Metropolitana de Fortaleza, Estado do Ceará, Patrimônio Cultural Imaterial do Brasil."
+    },
+    {
+      "senadoId": "584939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-26-13127",
+      "titulo": "Lei nº 13.127 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "13127",
+      "urn": "urn:lex:br:federal:lei:2015-05-26;13127",
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para eximir as entidades de autogestão constituídas sob a forma de fundação, de sindicato ou de associação da obrigação de constituir pessoa jurídica independente, especificamente para operar planos privados de assistência à saúde."
+    },
+    {
+      "senadoId": "584940",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-26-13128",
+      "titulo": "Lei nº 13.128 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "13128",
+      "urn": "urn:lex:br:federal:lei:2015-05-26;13128",
+      "ementa": "Denomina Ponte Anita Garibaldi a ponte sobre o Canal das Laranjeiras, localizada entre o km 313,1 e o km 315,9 da rodovia BR-101, no Município de Laguna, Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "584941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-26-13129",
+      "titulo": "Lei nº 13.129 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "13129",
+      "urn": "urn:lex:br:federal:lei:2015-05-26;13129",
+      "ementa": "Altera a Lei nº 9.307, de 23 de setembro de 1996, e a Lei nº 6.404, de 15 de dezembro de 1976, para ampliar o âmbito de aplicação da arbitragem e dispor sobre a escolha dos árbitros quando as partes recorrem a órgão arbitral, a interrupção da prescrição pela instituição da arbitragem, a concessão de tutelas cautelares e de urgência nos casos de arbitragem, a carta arbitral e a sentença arbitral, e revoga dispositivos da Lei nº 9.307, de 23 de setembro de 1996."
+    },
+    {
+      "senadoId": "584937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-21-13125",
+      "titulo": "Lei nº 13.125 de 21/05/2015",
+      "data": "2015-05-21",
+      "numero": "13125",
+      "urn": "urn:lex:br:federal:lei:2015-05-21;13125",
+      "ementa": "Declara o Tenente-Coronel Jorge da Silva Prado Patrono do Material Bélico da Aeronáutica."
+    },
+    {
+      "senadoId": "584936",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-21-13124",
+      "titulo": "Lei nº 13.124 de 21/05/2015",
+      "data": "2015-05-21",
+      "numero": "13124",
+      "urn": "urn:lex:br:federal:lei:2015-05-21;13124",
+      "ementa": "Altera a Lei nº 10.446, de 8 de maio de 2002, que dispõe sobre infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme, para os fins do disposto no inciso I do § 1º do art. 144 da Constituição Federal."
+    },
+    {
+      "senadoId": "584938",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-21-13126",
+      "titulo": "Lei nº 13.126 de 21/05/2015",
+      "data": "2015-05-21",
+      "numero": "13126",
+      "urn": "urn:lex:br:federal:lei:2015-05-21;13126",
+      "ementa": "Autoriza a União a conceder crédito ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e a destinar superávit financeiro das fontes de recursos existentes no Tesouro Nacional à cobertura de despesas primárias obrigatórias e altera as Leis nº 12.096, de 24 de novembro de 2009, nº 10.820, de 17 de dezembro de 2003, nº 8.213, de 24 de julho de 1991, e nº 8.112, de 11 de dezembro de 1990."
+    },
+    {
+      "senadoId": "584935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-20-13123",
+      "titulo": "Lei nº 13.123 de 20/05/2015",
+      "data": "2015-05-20",
+      "numero": "13123",
+      "urn": "urn:lex:br:federal:lei:2015-05-20;13123",
+      "ementa": "Regulamenta o inciso II do § 1º e o § 4º do art. 225 da Constituição Federal, o Artigo 1, a alínea j do Artigo 8, a alínea c do Artigo 10, o Artigo 15 e os §§ 3º e 4º do Artigo 16 da Convenção sobre Diversidade Biológica, promulgada pelo Decreto nº 2.519, de 16 de março de 1998; dispõe sobre o acesso ao patrimônio genético, sobre a proteção e o acesso ao conhecimento tradicional associado e sobre a repartição de benefícios para conservação e uso sustentável da biodiversidade; revoga a Medida Provisória nº 2.186-16, de 23 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "584934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-13-13122",
+      "titulo": "Lei nº 13.122 de 13/05/2015",
+      "data": "2015-05-13",
+      "numero": "13122",
+      "urn": "urn:lex:br:federal:lei:2015-05-13;13122",
+      "ementa": "Institui o dia 15 de maio como Dia Nacional de Conscientização quanto à Mucopolissacaridose."
+    },
+    {
+      "senadoId": "584933",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-08-13121",
+      "titulo": "Lei nº 13.121 de 08/05/2015",
+      "data": "2015-05-08",
+      "numero": "13121",
+      "urn": "urn:lex:br:federal:lei:2015-05-08;13121",
+      "ementa": "Altera a Lei nº 12.800, de 23 de abril de 2013, que dispõe sobre as tabelas de salários, vencimentos, soldos e demais vantagens aplicáveis aos servidores civis, aos militares e aos empregados oriundos do ex-Território Federal de Rondônia integrantes do quadro em extinção de que trata o art. 85 da Lei nº 12.249, de 11 de junho de 2010, e os Anexos III e III-A da Lei nº 11.356, de 19 de outubro de 2006; e dá outras providências."
+    },
+    {
+      "senadoId": "584931",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-07-13119",
+      "titulo": "Lei nº 13.119 de 07/05/2015",
+      "data": "2015-05-07",
+      "numero": "13119",
+      "urn": "urn:lex:br:federal:lei:2015-05-07;13119",
+      "ementa": "Institui o Dia do Intensivista."
+    },
+    {
+      "senadoId": "584932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-07-13120",
+      "titulo": "Lei nº 13.120 de 07/05/2015",
+      "data": "2015-05-07",
+      "numero": "13120",
+      "urn": "urn:lex:br:federal:lei:2015-05-07;13120",
+      "ementa": "Institui o dia 26 de junho como Dia Nacional da Consciência do 1º Voto."
+    },
+    {
+      "senadoId": "584930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-07-13118",
+      "titulo": "Lei nº 13.118 de 07/05/2015",
+      "data": "2015-05-07",
+      "numero": "13118",
+      "urn": "urn:lex:br:federal:lei:2015-05-07;13118",
+      "ementa": "Institui o Dia Nacional do Médico Radiologista."
+    },
+    {
+      "senadoId": "584929",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-05-07-13117",
+      "titulo": "Lei nº 13.117 de 07/05/2015",
+      "data": "2015-05-07",
+      "numero": "13117",
+      "urn": "urn:lex:br:federal:lei:2015-05-07;13117",
+      "ementa": "Institui o Dia Nacional da Liberdade."
+    },
+    {
+      "senadoId": "584928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-04-20-13116",
+      "titulo": "Lei nº 13.116 de 20/04/2015",
+      "data": "2015-04-20",
+      "numero": "13116",
+      "urn": "urn:lex:br:federal:lei:2015-04-20;13116",
+      "ementa": "Estabelece normas gerais para implantação e compartilhamento da infraestrutura de telecomunicações e altera as Leis nºs 9.472, de 16 de julho de 1997, 11.934, de 5 de maio de 2009, e 10.257, de 10 de julho de 2001."
+    },
+    {
+      "senadoId": "584927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-04-20-13115",
+      "titulo": "Lei nº 13.115 de 20/04/2015",
+      "data": "2015-04-20",
+      "numero": "13115",
+      "urn": "urn:lex:br:federal:lei:2015-04-20;13115",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2015."
+    },
+    {
+      "senadoId": "584926",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-04-16-13114",
+      "titulo": "Lei nº 13.114 de 16/04/2015",
+      "data": "2015-04-16",
+      "numero": "13114",
+      "urn": "urn:lex:br:federal:lei:2015-04-16;13114",
+      "ementa": "Dispõe sobre a obrigatoriedade de os serviços de registros civis de pessoas naturais comunicarem à Receita Federal e à Secretaria de Segurança Pública os óbitos registrados, acrescentando parágrafo único ao art. 80 da Lei nº 6.015, de 31 de dezembro de 1973."
+    },
+    {
+      "senadoId": "584925",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-04-09-13113",
+      "titulo": "Lei nº 13.113 de 09/04/2015",
+      "data": "2015-04-09",
+      "numero": "13113",
+      "urn": "urn:lex:br:federal:lei:2015-04-09;13113",
+      "ementa": "Denomina Aeroporto Internacional de Pelotas/RS - João Simões Lopes Neto o aeroporto da cidade de Pelotas, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "584924",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-30-13112",
+      "titulo": "Lei nº 13.112 de 30/03/2015",
+      "data": "2015-03-30",
+      "numero": "13112",
+      "urn": "urn:lex:br:federal:lei:2015-03-30;13112",
+      "ementa": "Altera os itens 1º e 2º do art. 52 da Lei nº 6.015, de 31 de dezembro de 1973, para permitir à mulher, em igualdade de condições, proceder ao registro de nascimento do filho."
+    },
+    {
+      "senadoId": "584922",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-25-13110",
+      "titulo": "Lei nº 13.110 de 25/03/2015",
+      "data": "2015-03-25",
+      "numero": "13110",
+      "urn": "urn:lex:br:federal:lei:2015-03-25;13110",
+      "ementa": "Altera a Lei nº 11.145, de 26 de julho de 2005, que institui a Fundação Universidade Federal do ABC - UFABC, e dá outras providências."
+    },
+    {
+      "senadoId": "584923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-25-13111",
+      "titulo": "Lei nº 13.111 de 25/03/2015",
+      "data": "2015-03-25",
+      "numero": "13111",
+      "urn": "urn:lex:br:federal:lei:2015-03-25;13111",
+      "ementa": "Dispõe sobre a obrigatoriedade de os empresários que comercializam veículos automotores informarem ao comprador o valor dos tributos incidentes sobre a venda e a situação de regularidade do veículo quanto a furto, multas, taxas anuais, débitos de impostos, alienação fiduciária ou quaisquer outros registros que limitem ou impeçam a circulação do veículo."
+    },
+    {
+      "senadoId": "584920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-25-13108",
+      "titulo": "Lei nº 13.108 de 25/03/2015",
+      "data": "2015-03-25",
+      "numero": "13108",
+      "urn": "urn:lex:br:federal:lei:2015-03-25;13108",
+      "ementa": "Institui o dia 8 de agosto como Dia Nacional do Elos Internacional da Comunidade Lusíada."
+    },
+    {
+      "senadoId": "584921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-25-13109",
+      "titulo": "Lei nº 13.109 de 25/03/2015",
+      "data": "2015-03-25",
+      "numero": "13109",
+      "urn": "urn:lex:br:federal:lei:2015-03-25;13109",
+      "ementa": "Dispõe sobre a licença à gestante e à adotante, as medidas de proteção à maternidade para militares grávidas e a licença-paternidade, no âmbito das Forças Armadas."
+    },
+    {
+      "senadoId": "584919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-24-13107",
+      "titulo": "Lei nº 13.107 de 24/03/2015",
+      "data": "2015-03-24",
+      "numero": "13107",
+      "urn": "urn:lex:br:federal:lei:2015-03-24;13107",
+      "ementa": "Altera as Leis nºs 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para dispor sobre fusão de partidos políticos."
+    },
+    {
+      "senadoId": "584918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-17-13106",
+      "titulo": "Lei nº 13.106 de 17/03/2015",
+      "data": "2015-03-17",
+      "numero": "13106",
+      "urn": "urn:lex:br:federal:lei:2015-03-17;13106",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para tornar crime vender, fornecer, servir, ministrar ou entregar bebida alcoólica a criança ou a adolescente; e revoga o inciso I do art. 63 do Decreto-Lei nº 3.688, de 3 de outubro de 1941 - Lei das Contravenções Penais."
+    },
+    {
+      "senadoId": "584917",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-16-13105",
+      "titulo": "Lei nº 13.105 de 16/03/2015",
+      "data": "2015-03-16",
+      "numero": "13105",
+      "urn": "urn:lex:br:federal:lei:2015-03-16;13105",
+      "ementa": "Código de Processo Civil."
+    },
+    {
+      "senadoId": "584916",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-09-13104",
+      "titulo": "Lei nº 13.104 de 09/03/2015",
+      "data": "2015-03-09",
+      "numero": "13104",
+      "urn": "urn:lex:br:federal:lei:2015-03-09;13104",
+      "ementa": "Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para prever o feminicídio como circunstância qualificadora do crime de homicídio, e o art. 1º da Lei nº 8.072, de 25 de julho de 1990, para incluir o feminicídio no rol dos crimes hediondos."
+    },
+    {
+      "senadoId": "584915",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-03-02-13103",
+      "titulo": "Lei nº 13.103 de 02/03/2015",
+      "data": "2015-03-02",
+      "numero": "13103",
+      "urn": "urn:lex:br:federal:lei:2015-03-02;13103",
+      "ementa": "Dispõe sobre o exercício da profissão de motorista; altera a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e 11.442, de 5 de janeiro de 2007 (empresas e transportadores autônomos de carga), para disciplinar a jornada de trabalho e o tempo de direção do motorista profissional; altera a Lei nº 7.408, de 25 de novembro de 1985; revoga dispositivos da Lei nº 12.619, de 30 de abril de 2012; e dá outras providências."
+    },
+    {
+      "senadoId": "584914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-02-26-13102",
+      "titulo": "Lei nº 13.102 de 26/02/2015",
+      "data": "2015-02-26",
+      "numero": "13102",
+      "urn": "urn:lex:br:federal:lei:2015-02-26;13102",
+      "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, que estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não transferências de recursos financeiros, entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público; define diretrizes para a política de fomento e de colaboração com organizações da sociedade civil; institui o termo de colaboração e o termo de fomento; e altera as Leis nºs 8.429, de 2 de junho de 1992, e 9.790, de 23 de março de 1999."
+    },
+    {
+      "senadoId": "584912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-27-13100",
+      "titulo": "Lei nº 13.100 de 27/01/2015",
+      "data": "2015-01-27",
+      "numero": "13100",
+      "urn": "urn:lex:br:federal:lei:2015-01-27;13100",
+      "ementa": "Institui o dia 20 de janeiro como Dia Nacional da Parteira Tradicional."
+    },
+    {
+      "senadoId": "584910",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-27-13098",
+      "titulo": "Lei nº 13.098 de 27/01/2015",
+      "data": "2015-01-27",
+      "numero": "13098",
+      "urn": "urn:lex:br:federal:lei:2015-01-27;13098",
+      "ementa": "Institui o Dia Nacional da Vigilância Sanitária."
+    },
+    {
+      "senadoId": "584911",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-27-13099",
+      "titulo": "Lei nº 13.099 de 27/01/2015",
+      "data": "2015-01-27",
+      "numero": "13099",
+      "urn": "urn:lex:br:federal:lei:2015-01-27;13099",
+      "ementa": "Institui o Dia do Técnico Agrícola."
+    },
+    {
+      "senadoId": "584913",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-27-13101",
+      "titulo": "Lei nº 13.101 de 27/01/2015",
+      "data": "2015-01-27",
+      "numero": "13101",
+      "urn": "urn:lex:br:federal:lei:2015-01-27;13101",
+      "ementa": "Dispõe sobre o Dia Nacional do Milho."
+    },
+    {
+      "senadoId": "584909",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-19-13097",
+      "titulo": "Lei nº 13.097 de 19/01/2015",
+      "data": "2015-01-19",
+      "numero": "13097",
+      "urn": "urn:lex:br:federal:lei:2015-01-19;13097",
+      "ementa": "Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre a receita de vendas e na importação de partes utilizadas em aerogeradores; prorroga os benefícios previstos nas Leis nºs 9.250, de 26 de dezembro de 1995, 9.440, de 14 de março de 1997, 10.931, de 2 de agosto de 2004, 11.196, de 21 de novembro de 2005, 12.024, de 27 de agosto de 2009, e 12.375, de 30 de dezembro de 2010; altera o art. 46 da Lei nº 12.715, de 17 de setembro de 2012, que dispõe sobre a devolução ao exterior ou a destruição de mercadoria estrangeira cuja importação não seja autorizada; altera as Leis nºs 9.430, de 27 de dezembro de 1996, 12.546, de 14 de dezembro de 2011, 12.973, de 13 de maio de 2014, 9.826, de 23 de agosto de 1999, 10.833, de 29 de dezembro de 2003, 10.865, de 30 de abril de 2004, 11.051, de 29 de dezembro de 2004, 11.774, de 17 de setembro de 2008, 10.637, de 30 de dezembro de 2002, 12.249, de 11 de junho de 2010, 10.522, de 19 de julho de 2002, 12.865, de 9 de outubro de 2013, 10.820, de 17 de dezembro de 2003, 6.634, de 2 de maio de 1979, 7.433, de 18 de dezembro de 1985, 11.977, de 7 de julho de 2009, 10.931, de 2 de agosto de 2004, 11.076, de 30 de dezembro de 2004, 9.514, de 20 de novembro de 1997, 9.427, de 26 de dezembro de 1996, 9.074, de 7 de julho de 1995, 12.783, de 11 de janeiro de 2013, 11.943, de 28 de maio de 2009, 10.848, de 15 de março de 2004, 7.565, de 19 de dezembro de 1986, 12.462, de 4 de agosto de 2011, 9.503, de 23 de setembro de 1997, 11.442, de 5 de janeiro de 2007, 8.666, de 21 de junho de 1993, 9.782, de 26 de janeiro de 1999, 6.360, de 23 de setembro de 1976, 5.991, de 17 de dezembro de 1973, 12.850, de 2 de agosto de 2013, 5.070, de 7 de julho de 1966, 9.472, de 16 de julho de 1997, 10.480, de 2 de julho de 2002, 8.112, de 11 de dezembro de 1990, 6.530, de 12 de maio de 1978, 5.764, de 16 de dezembro de 1971, 8.080, de 19 de setembro de 1990, 11.079, de 30 de dezembro de 2004, 13.043, de 13 de novembro de 2014, 8.987, de 13 de fevereiro de 1995, 10.925, de 23 de julho de 2004, 12.096, de 24 de novembro de 2009, 11.482, de 31 de maio de 2007, 7.713, de 22 de dezembro de 1988, a Lei Complementar no 123, de 14 de dezembro de 2006, o Decreto-Lei nº 745, de 7 de agosto de 1969, e o Decreto nº 70.235, de 6 de março de 1972; revoga dispositivos das Leis nºs 4.380, de 21 de agosto de 1964, 6.360, de 23 de setembro de 1976, 7.789, de 23 de novembro de 1989, 8.666, de 21 de junho de 1993, 9.782, de 26 de janeiro de 1999, 10.150, de 21 de dezembro de 2000, 9.430, de 27 de dezembro de 1996, 12.973, de 13 de maio de 2014, 8.177, de 1º de março de 1991, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 10.865, de 30 de abril de 2004, 11.051, de 29 de dezembro de 2004 e 9.514, de 20 de novembro de 1997, e do Decreto-Lei nº 3.365, de 21 de junho de 1941; e dá outras providências."
+    },
+    {
+      "senadoId": "584906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13094",
+      "titulo": "Lei nº 13.094 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13094",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13094",
+      "ementa": "Institui a Gratificação por Exercício Cumulativo de Jurisdição devida aos membros da Justiça do Distrito Federal e dos Territórios."
+    },
+    {
+      "senadoId": "584902",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13090",
+      "titulo": "Lei nº 13.090 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13090",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13090",
+      "ementa": "Altera os limites do Parque Nacional das Nascentes do Rio Parnaíba, nos Estados do Piauí, Maranhão, Bahia e Tocantins, criado pelo Decreto s/nº de 16 de julho de 2002."
+    },
+    {
+      "senadoId": "584907",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13095",
+      "titulo": "Lei nº 13.095 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13095",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13095",
+      "ementa": "Institui a Gratificação por Exercício Cumulativo de Jurisdição devida aos membros da Justiça do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "584901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13089",
+      "titulo": "Lei nº 13.089 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13089",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13089",
+      "ementa": "Institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "584903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13091",
+      "titulo": "Lei nº 13.091 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13091",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13091",
+      "ementa": "Dispõe sobre o subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do art. 48 da Constituição Federal; revoga dispositivo da Lei nº 12.771, de 28 de dezembro de 2012; e dá outras providências."
+    },
+    {
+      "senadoId": "584899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13087",
+      "titulo": "Lei nº 13.087 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13087",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13087",
+      "ementa": "Concede pensão especial à atleta Lais da Silva Souza."
+    },
+    {
+      "senadoId": "584900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13088",
+      "titulo": "Lei nº 13.088 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13088",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13088",
+      "ementa": "Dispõe sobre a criação de 1 (uma) vara federal no Estado do Paraná e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "584905",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13093",
+      "titulo": "Lei nº 13.093 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13093",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13093",
+      "ementa": "Institui a gratificação por exercício cumulativo de jurisdição aos membros da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "584904",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13092",
+      "titulo": "Lei nº 13.092 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13092",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13092",
+      "ementa": "Dispõe sobre o subsídio do Procurador-Geral da República, referido no inciso XI do art. 37 e no § 4º do art. 39, combinados com o § 2º do art. 127 e a alínea c do inciso I do § 5º do art. 128, todos da Constituição Federal; revoga dispositivo da Lei nº 12.770, de 28 de dezembro de 2012; e dá outras providências."
+    },
+    {
+      "senadoId": "584908",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-12-13096",
+      "titulo": "Lei nº 13.096 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "13096",
+      "urn": "urn:lex:br:federal:lei:2015-01-12;13096",
+      "ementa": "Institui a Gratificação por Exercício Cumulativo de Jurisdição aos Membros da Justiça Militar da União e dá outras providências."
+    },
+    {
+      "senadoId": "584898",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-08-13086",
+      "titulo": "Lei nº 13.086 de 08/01/2015",
+      "data": "2015-01-08",
+      "numero": "13086",
+      "urn": "urn:lex:br:federal:lei:2015-01-08;13086",
+      "ementa": "Institui, no Calendário Oficial do Governo Federal, o Dia da Conquista do Voto Feminino no Brasil."
+    },
+    {
+      "senadoId": "584896",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-08-13084",
+      "titulo": "Lei nº 13.084 de 08/01/2015",
+      "data": "2015-01-08",
+      "numero": "13084",
+      "urn": "urn:lex:br:federal:lei:2015-01-08;13084",
+      "ementa": "Institui o Dia Nacional do Fisioterapeuta e do Terapeuta Ocupacional."
+    },
+    {
+      "senadoId": "584895",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-08-13083",
+      "titulo": "Lei nº 13.083 de 08/01/2015",
+      "data": "2015-01-08",
+      "numero": "13083",
+      "urn": "urn:lex:br:federal:lei:2015-01-08;13083",
+      "ementa": "Institui o Dia Nacional do Pedagogo."
+    },
+    {
+      "senadoId": "584897",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-08-13085",
+      "titulo": "Lei nº 13.085 de 08/01/2015",
+      "data": "2015-01-08",
+      "numero": "13085",
+      "urn": "urn:lex:br:federal:lei:2015-01-08;13085",
+      "ementa": "Dispõe sobre o Dia Nacional de Atenção à Dislexia."
+    },
+    {
+      "senadoId": "584894",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-08-13082",
+      "titulo": "Lei nº 13.082 de 08/01/2015",
+      "data": "2015-01-08",
+      "numero": "13082",
+      "urn": "urn:lex:br:federal:lei:2015-01-08;13082",
+      "ementa": "Institui o Dia Nacional do Humorista."
+    },
+    {
+      "senadoId": "584892",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-02-13080",
+      "titulo": "Lei nº 13.080 de 02/01/2015",
+      "data": "2015-01-02",
+      "numero": "13080",
+      "urn": "urn:lex:br:federal:lei:2015-01-02;13080",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2015 e dá outras providências."
+    },
+    {
+      "senadoId": "584893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2015-01-02-13081",
+      "titulo": "Lei nº 13.081 de 02/01/2015",
+      "data": "2015-01-02",
+      "numero": "13081",
+      "urn": "urn:lex:br:federal:lei:2015-01-02;13081",
+      "ementa": "Dispõe sobre a construção e a operação de eclusas ou de outros dispositivos de transposição hidroviária de níveis em vias navegáveis e potencialmente navegáveis; altera as Leis nºs 9.074, de 7 de julho de 1995, 9.984, de 17 de julho de 2000, 10.233, de 5 de junho de 2001, e 12.712, de 30 de agosto de 2012; e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

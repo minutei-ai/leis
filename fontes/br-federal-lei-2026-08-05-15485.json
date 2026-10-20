@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-08-05-15485",
+  "titulo": "Lei nº 15.485 de 05/08/2026",
+  "data": "2026-08-05",
+  "fonte": "https://normas.leg.br/api/public/binario/5d263d1a-d40a-410b-b9d6-3dd793be85ad/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-08-05;15485",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-08-05%3B15485&tipo_documento=maior-detalhe",
+  "sha256_dados": "5a38973871edd287a6a44c812c5875c6851b34b2aeee78956a431b8c56db8b95",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:03.503Z",
+  "sha256_fonte": "29ab4308e4591615f1374c4608f712ab231e858c58e4f2f45b203b5657a97389",
+  "sha256_markdown": "daf3e6a72973ef49b2e957dce582b00589b12d2311547c70ff4eb2b13025d456"
+}

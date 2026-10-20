@@ -1,0 +1,1939 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2012",
+  "tipo": "LEI",
+  "ano": 2012,
+  "coletado_em": "2026-10-20T22:56:38.208Z",
+  "normas": [
+    {
+      "senadoId": "588155",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12779",
+      "titulo": "Lei nº 12.779 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12779",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12779",
+      "ementa": "Altera a Lei nº 12.300, de 28 de julho de 2010."
+    },
+    {
+      "senadoId": "588152",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12776",
+      "titulo": "Lei nº 12.776 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12776",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12776",
+      "ementa": "Altera dispositivos da Lei nº 10.356, de 27 de dezembro de 2001, que dispõe sobre o Quadro de Pessoal e o Plano de Carreira do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "588146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12770",
+      "titulo": "Lei nº 12.770 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12770",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12770",
+      "ementa": "Dispõe sobre o subsídio do Procurador-Geral da República, referido no inciso XI do art. 37 e no § 4º do art. 39, combinados com o § 2º do art. 127 e a alínea c do inciso I do § 5º do art. 128, todos da Constituição Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "588149",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12773",
+      "titulo": "Lei nº 12.773 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12773",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12773",
+      "ementa": "Altera a Lei nº 11.415, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Ministério Público da União, fixa os valores de sua remuneração e dá outras providências."
+    },
+    {
+      "senadoId": "588147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12771",
+      "titulo": "Lei nº 12.771 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12771",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12771",
+      "ementa": "Dispõe sobre o subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do art. 48 da Constituição Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "588153",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12777",
+      "titulo": "Lei nº 12.777 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12777",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12777",
+      "ementa": "Altera o Plano de Carreira dos Servidores da Câmara dos Deputados e dá outras providências."
+    },
+    {
+      "senadoId": "588148",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12772",
+      "titulo": "Lei nº 12.772 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12772",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12772",
+      "ementa": "Dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal; sobre a Carreira do Magistério Superior, de que trata a Lei nº 7.596, de 10 de abril de 1987; sobre o Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico e sobre o Plano de Carreiras de Magistério do Ensino Básico Federal, de que trata a Lei nº 11.784, de 22 de setembro de 2008; sobre a contratação de professores substitutos, visitantes e estrangeiros, de que trata a Lei nº 8.745 de 9 de dezembro de 1993; sobre a remuneração das Carreiras e Planos Especiais do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira e do Fundo Nacional de Desenvolvimento da Educação, de que trata a Lei nº 11.357, de 19 de outubro de 2006; altera remuneração do Plano de Cargos Técnico-Administrativos em Educação; altera as Leis nºs 8.745, de 9 de dezembro de 1993, 11.784, de 22 de setembro de 2008, 11.091, de 12 de janeiro de 2005, 11.892, de 29 de dezembro de 2008, 11.357, de 19 de outubro de 2006, 11.344, de 8 de setembro de 2006, 12.702, de 7 de agosto de 2012, e 8.168, de 16 de janeiro de 1991; revoga o art. 4º da Lei nº 12.677, de 25 de junho de 2012; e dá outras providências."
+    },
+    {
+      "senadoId": "588150",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12774",
+      "titulo": "Lei nº 12.774 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12774",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12774",
+      "ementa": "Altera a Lei nº 11.416, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União, fixa os valores de sua remuneração e dá outras providências."
+    },
+    {
+      "senadoId": "588154",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12778",
+      "titulo": "Lei nº 12.778 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12778",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12778",
+      "ementa": "Dispõe sobre remuneração e reajuste de Planos de Cargos, Carreiras e Planos Especiais de Cargos do Poder Executivo federal; sobre as remunerações do Grupo Defesa Aérea e Controle de Tráfego Aéreo - Grupo DACTA, dos cargos da área de Ciência e Tecnologia, dos cargos de atividades técnicas da fiscalização federal agropecuária, da Carreira do Seguro Social, das Carreiras de Perito Médico Previdenciário e Supervisor Médico-Pericial, e dos empregados beneficiados pela Lei nº 8.878, de 11 de maio de 1994; e sobre a criação de cargos integrantes da Carreira do Magistério Superior, de que trata a Lei nº 7.596, de 10 de abril de 1987, e do Plano de Carreiras para a área de Ciência e Tecnologia, estruturado pela Lei nº 8.691, de 28 de julho de 1993; altera os valores dos soldos dos militares das Forças Armadas constantes da Lei nº 11.784, de 22 de setembro de 2008; altera as Leis nºs 11.907, de 2 de fevereiro de 2009, quanto às Carreiras de Especialista em Assistência Penitenciária, de Agente Penitenciário Federal e de Técnico de Apoio à Assistência Penitenciária do Quadro de Pessoal do Ministério da Justiça, 10.410, de 11 de janeiro de 2002, e 11.357, de 19 de outubro de 2006, para dispor sobre a remuneração da Carreira de Especialista em Meio Ambiente e do Plano Especial de Cargos do Ministério do Meio Ambiente e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA - PECMA, 11.355, de 19 de outubro de 2006, 10.971, de 25 de novembro de 2004, 10.483, de 3 de julho de 2002, 10.355, de 26 de dezembro de 2001, 11.233, de 22 de dezembro de 2005, 10.682, de 28 de maio de 2003, 11.344, de 8 de setembro de 2006, 11.095, de 13 de janeiro de 2005, 11.090, de 7 de janeiro de 2005, 11.356, de 19 de outubro de 2006, 10.480, de 2 de julho de 2002, 12.277, de 30 de junho de 2010, 11.784, de 22 de setembro de 2008, 12.702, de 7 de agosto de 2012, 10.551, de 13 de novembro de 2002, 10.484, de 3 de julho de 2002, 10.855, de 1º de abril de 2004, 9.657, de 3 de junho de 1998, 11.156, de 29 de julho de 2005, 12.094, de 19 de novembro de 2009, 11.319, de 6 de julho de 2006, 11.350, de 5 de outubro de 2006, 10.225, de 15 de maio de 2001, 11.776, de 17 de setembro de 2008, 11.890, de 24 de dezembro de 2008, 12.154, de 23 de dezembro de 2009, e 11.526, de 4 de outubro de 2007; revoga dispositivo da Lei nº 8.691, de 28 de julho de 1993; e dá outras providências."
+    },
+    {
+      "senadoId": "588151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-28-12775",
+      "titulo": "Lei nº 12.775 de 28/12/2012",
+      "data": "2012-12-28",
+      "numero": "12775",
+      "urn": "urn:lex:br:federal:lei:2012-12-28;12775",
+      "ementa": "Dispõe sobre a remuneração dos cargos das Carreiras de Oficial de Chancelaria e Assistente de Chancelaria, de que trata a Lei nº 11.440, de 29 de dezembro de 2006, da Carreira de Fiscal Federal Agropecuário, de que trata a Lei nº 10.883, de 16 de junho de 2004, das Carreiras de Procurador da Fazenda Nacional, Advogado da União, Procurador Federal, Defensor Público da União e da Carreira de Procurador do Banco Central do Brasil, de que trata a Lei nº 11.358, de 19 de outubro de 2006, das Carreiras de Gestão Governamental, Diplomata, Técnico de Planejamento e Pesquisa do Ipea, de que trata a Lei nº 11.890, de 24 de dezembro de 2008, das Carreiras de Oficial de Inteligência, Oficial Técnico de Inteligência, Agente de Inteligência e Agente Técnico de Inteligência, de que trata a Lei nº 11.776, de 17 de setembro de 2008, dos cargos de Delegado de Polícia Federal e de Perito Criminal Federal da Carreira Policial Federal, da Carreira de Policial Rodoviário Federal; altera as Leis nº 11.890, de 24 de dezembro de 2008, 11.776, de 17 de setembro de 2008, 9.654, de 2 de junho de 1998, 11.358, de 19 de outubro de 2006, e 11.907, de 2 de fevereiro de 2009; revoga dispositivos das Leis nºs 10.883, de 16 de junho de 2004, e 11.784, de 22 de setembro de 2008; e dá outras providências."
+    },
+    {
+      "senadoId": "588144",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12768",
+      "titulo": "Lei nº 12.768 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12768",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12768",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial no valor de R$ 14.510.591,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12763",
+      "titulo": "Lei nº 12.763 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12763",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12763",
+      "ementa": "Dispõe sobre a criação de cargos de Defensor Público Federal."
+    },
+    {
+      "senadoId": "588138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12762",
+      "titulo": "Lei nº 12.762 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12762",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12762",
+      "ementa": "Dispõe sobre a criação de 3 (três) varas federais no Estado do Amapá e sobre a criação de cargos efetivos e em comissão e funções de confiança nos Quadros de Pessoal da Justiça Federal e do Superior Tribunal de Justiça, e dá outras providências."
+    },
+    {
+      "senadoId": "588145",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12769",
+      "titulo": "Lei nº 12.769 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12769",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12769",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e da Defesa, crédito especial no valor de R$ 165.930.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588143",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12767",
+      "titulo": "Lei nº 12.767 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12767",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12767",
+      "ementa": "Dispõe sobre a extinção das concessões de serviço público de energia elétrica e a prestação temporária do serviço e sobre a intervenção para adequação do serviço público de energia elétrica; altera as Leis nºs 8.987, de 13 de fevereiro de 1995, 11.508, de 20 de julho de 2007, 11.484, de 31 de maio de 2007, 9.028, de 12 de abril de 1995, 9.492, de 10 de setembro de 1997, 10.931, de 2 de agosto de 2004, 12.024, de 27 de agosto de 2009, e 10.833, de 29 de dezembro de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "588142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12766",
+      "titulo": "Lei nº 12.766 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12766",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12766",
+      "ementa": "Altera as Leis nºs 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública, para dispor sobre o aporte de recursos em favor do parceiro privado, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 12.058, de 13 de outubro de 2009, 9.430, de 27 de dezembro de 1996, 10.420, de 10 de abril de 2002, 10.925, de 23 de julho de 2004, 10.602, de 12 de dezembro de 2002, e 9.718, de 27 de novembro de 1998, e a Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "588137",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12761",
+      "titulo": "Lei nº 12.761 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12761",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12761",
+      "ementa": "Institui o Programa de Cultura do Trabalhador; cria o vale-cultura; altera as Leis nºs 8.212, de 24 de julho de 1991, e 7.713, de 22 de dezembro de 1988, e a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943; e dá outras providências."
+    },
+    {
+      "senadoId": "588140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12764",
+      "titulo": "Lei nº 12.764 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12764",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12764",
+      "ementa": "Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990."
+    },
+    {
+      "senadoId": "588141",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-27-12765",
+      "titulo": "Lei nº 12.765 de 27/12/2012",
+      "data": "2012-12-27",
+      "numero": "12765",
+      "urn": "urn:lex:br:federal:lei:2012-12-27;12765",
+      "ementa": "Altera as Leis nºs 12.468, de 26 de agosto de 2011, e 6.094, de 30 de agosto de 1974; e dá outras providências."
+    },
+    {
+      "senadoId": "588136",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-20-12760",
+      "titulo": "Lei nº 12.760 de 20/12/2012",
+      "data": "2012-12-20",
+      "numero": "12760",
+      "urn": "urn:lex:br:federal:lei:2012-12-20;12760",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro."
+    },
+    {
+      "senadoId": "588129",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12753",
+      "titulo": "Lei nº 12.753 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12753",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12753",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda e do Desenvolvimento, Indústria e Comércio Exterior, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor global de R$ 1.228.086.820,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588119",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12743",
+      "titulo": "Lei nº 12.743 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12743",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12743",
+      "ementa": "Altera as Leis nºs 10.233, de 5 de junho de 2001, e 12.404, de 4 de maio de 2011, para modificar a denominação da Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV para Empresa de Planejamento e Logística S.A. - EPL, e ampliar suas competências; e revoga dispositivo da Lei nº 11.772, de 17 de setembro de 2008."
+    },
+    {
+      "senadoId": "588128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12752",
+      "titulo": "Lei nº 12.752 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12752",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12752",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito suplementar no valor de R$ 100.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12750",
+      "titulo": "Lei nº 12.750 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12750",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12750",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Senado Federal, das Justiças Federal, Eleitoral e do Trabalho, da Presidência da República e do Ministério Público da União, crédito suplementar no valor global de R$ 97.162.367,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12759",
+      "titulo": "Lei nº 12.759 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12759",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12759",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor de R$ 590.979.322,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588120",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12744",
+      "titulo": "Lei nº 12.744 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12744",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12744",
+      "ementa": "Altera o art. 4º e acrescenta art. 54-A à Lei nº 8.245, de 18 de outubro de 1991, que \"dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes\", para dispor sobre a locação nos contratos de construção ajustada."
+    },
+    {
+      "senadoId": "588123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12747",
+      "titulo": "Lei nº 12.747 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12747",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12747",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios do Planejamento, Orçamento e Gestão e das Cidades, crédito suplementar no valor global de R$ 37.500.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12754",
+      "titulo": "Lei nº 12.754 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12754",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12754",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Eleitoral, do Trabalho e do Distrito Federal e dos Territórios, da Presidência da República e do Ministério das Relações Exteriores, crédito especial no valor global de R$ 209.495.824,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588125",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12749",
+      "titulo": "Lei nº 12.749 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12749",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12749",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Educação, da Cultura e do Esporte e de Operações Oficiais de Crédito, crédito suplementar no valor global de R$ 1.789.182.545,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588121",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12745",
+      "titulo": "Lei nº 12.745 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12745",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12745",
+      "ementa": "Altera as Leis nºs 11.759, de 31 de julho de 2008, que autoriza a criação da empresa pública Centro Nacional de Tecnologia Eletrônica Avançada S.A. - CEITEC, 11.578, de 26 de novembro de 2007, que dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e 12.462, de 4 de agosto de 2011, e dá outras providências."
+    },
+    {
+      "senadoId": "588133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12757",
+      "titulo": "Lei nº 12.757 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12757",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12757",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Educação, da Cultura e do Esporte e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 1.700.600.911,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588122",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12746",
+      "titulo": "Lei nº 12.746 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12746",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12746",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor global de R$ 802.197.850,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588132",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12756",
+      "titulo": "Lei nº 12.756 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12756",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12756",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 548.210.050,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588127",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12751",
+      "titulo": "Lei nº 12.751 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12751",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12751",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito especial no valor de R$ 1.790.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "588134",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12758",
+      "titulo": "Lei nº 12.758 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12758",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12758",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda, do Desenvolvimento, Indústria e Comércio Exterior e do Turismo, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 1.402.258.308,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588124",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12748",
+      "titulo": "Lei nº 12.748 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12748",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12748",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios de Minas e Energia, dos Transportes e das Comunicações, crédito suplementar no valor global de R$ 141.276.277,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "588131",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-19-12755",
+      "titulo": "Lei nº 12.755 de 19/12/2012",
+      "data": "2012-12-19",
+      "numero": "12755",
+      "urn": "urn:lex:br:federal:lei:2012-12-19;12755",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Previdência Social, do Trabalho e Emprego e do Desenvolvimento Social e Combate à Fome, crédito especial no valor de R$ 9.030.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-17-12742",
+      "titulo": "Lei nº 12.742 de 17/12/2012",
+      "data": "2012-12-17",
+      "numero": "12742",
+      "urn": "urn:lex:br:federal:lei:2012-12-17;12742",
+      "ementa": "Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e de Funções Gratificadas, destinados ao Ministério da Integração Nacional, à Superintendência do Desenvolvimento do Centro-Oeste - SUDECO, à Superintendência do Desenvolvimento do Nordeste - SUDENE, à Superintendência do Desenvolvimento da Amazônia - SUDAM e ao Departamento Nacional de Infraestrutura de Transporte - DNIT."
+    },
+    {
+      "senadoId": "588116",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-08-12740",
+      "titulo": "Lei nº 12.740 de 08/12/2012",
+      "data": "2012-12-08",
+      "numero": "12740",
+      "urn": "urn:lex:br:federal:lei:2012-12-08;12740",
+      "ementa": "Altera o art. 193 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto- Lei nº 5.452, de 1º de maio de 1943, a fim de redefinir os critérios para caracterização das atividades ou operações perigosas, e revoga a Lei nº 7.369, de 20 de setembro de 1985."
+    },
+    {
+      "senadoId": "588117",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-08-12741",
+      "titulo": "Lei nº 12.741 de 08/12/2012",
+      "data": "2012-12-08",
+      "numero": "12741",
+      "urn": "urn:lex:br:federal:lei:2012-12-08;12741",
+      "ementa": "Dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor."
+    },
+    {
+      "senadoId": "588115",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-12-05-12739",
+      "titulo": "Lei nº 12.739 de 05/12/2012",
+      "data": "2012-12-05",
+      "numero": "12739",
+      "urn": "urn:lex:br:federal:lei:2012-12-05;12739",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 676.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588114",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-30-12738",
+      "titulo": "Lei nº 12.738 de 30/11/2012",
+      "data": "2012-11-30",
+      "numero": "12738",
+      "urn": "urn:lex:br:federal:lei:2012-11-30;12738",
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para tornar obrigatório o fornecimento de bolsas de colostomia, ileostomia e urostomia, de coletor de urina e de sonda vesical pelos planos privados de assistência à saúde."
+    },
+    {
+      "senadoId": "588113",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-30-12737",
+      "titulo": "Lei nº 12.737 de 30/11/2012",
+      "data": "2012-11-30",
+      "numero": "12737",
+      "urn": "urn:lex:br:federal:lei:2012-11-30;12737",
+      "ementa": "Dispõe sobre a tipificação criminal de delitos informáticos; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal; e dá outras providências."
+    },
+    {
+      "senadoId": "588110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-30-12734",
+      "titulo": "Lei nº 12.734 de 30/11/2012",
+      "data": "2012-11-30",
+      "numero": "12734",
+      "urn": "urn:lex:br:federal:lei:2012-11-30;12734",
+      "ementa": "Modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha."
+    },
+    {
+      "senadoId": "588111",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-30-12735",
+      "titulo": "Lei nº 12.735 de 30/11/2012",
+      "data": "2012-11-30",
+      "numero": "12735",
+      "urn": "urn:lex:br:federal:lei:2012-11-30;12735",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, o Decreto-Lei nº 1.001, de 21 de outubro de 1969 - Código Penal Militar, e a Lei nº 7.716, de 5 de janeiro de 1989, para tipificar condutas realizadas mediante uso de sistema eletrônico, digital ou similares, que sejam praticadas contra sistemas informatizados e similares; e dá outras providências."
+    },
+    {
+      "senadoId": "588112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-30-12736",
+      "titulo": "Lei nº 12.736 de 30/11/2012",
+      "data": "2012-11-30",
+      "numero": "12736",
+      "urn": "urn:lex:br:federal:lei:2012-11-30;12736",
+      "ementa": "Dá nova redação ao art. 387 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para a detração ser considerada pelo juiz que proferir sentença condenatória."
+    },
+    {
+      "senadoId": "588109",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-22-12733",
+      "titulo": "Lei nº 12.733 de 22/11/2012",
+      "data": "2012-11-22",
+      "numero": "12733",
+      "urn": "urn:lex:br:federal:lei:2012-11-22;12733",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 14ª Região."
+    },
+    {
+      "senadoId": "588108",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-22-12732",
+      "titulo": "Lei nº 12.732 de 22/11/2012",
+      "data": "2012-11-22",
+      "numero": "12732",
+      "urn": "urn:lex:br:federal:lei:2012-11-22;12732",
+      "ementa": "Dispõe sobre o primeiro tratamento de paciente com neoplasia maligna comprovada e estabelece prazo para seu início."
+    },
+    {
+      "senadoId": "588107",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-21-12731",
+      "titulo": "Lei nº 12.731 de 21/11/2012",
+      "data": "2012-11-21",
+      "numero": "12731",
+      "urn": "urn:lex:br:federal:lei:2012-11-21;12731",
+      "ementa": "Institui o Sistema de Proteção ao Programa Nuclear Brasileiro - SIPRON e revoga o Decreto-Lei nº 1.809, de 7 de outubro de 1980."
+    },
+    {
+      "senadoId": "588106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-11-14-12730",
+      "titulo": "Lei nº 12.730 de 14/11/2012",
+      "data": "2012-11-14",
+      "numero": "12730",
+      "urn": "urn:lex:br:federal:lei:2012-11-14;12730",
+      "ementa": "Altera o § 2º do art. 3º e revoga o § 3º do art. 3º e o art. 4º, todos do Decreto-Lei nº 467, de 13 de fevereiro de 1969."
+    },
+    {
+      "senadoId": "588104",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-18-12728",
+      "titulo": "Lei nº 12.728 de 18/10/2012",
+      "data": "2012-10-18",
+      "numero": "12728",
+      "urn": "urn:lex:br:federal:lei:2012-10-18;12728",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 381.252.988,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588105",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-18-12729",
+      "titulo": "Lei nº 12.729 de 18/10/2012",
+      "data": "2012-10-18",
+      "numero": "12729",
+      "urn": "urn:lex:br:federal:lei:2012-10-18;12729",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça, da Educação, da Saúde, dos Transportes, do Planejamento, Orçamento e Gestão, do Desenvolvimento Agrário, da Defesa, da Integração Nacional e das Cidades, no valor global de R$ 6.843.701.650,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-17-12727",
+      "titulo": "Lei nº 12.727 de 17/10/2012",
+      "data": "2012-10-17",
+      "numero": "12727",
+      "urn": "urn:lex:br:federal:lei:2012-10-17;12727",
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa; altera as Leis nºs 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; e revoga as Leis nºs 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, a Medida Provisória nº 2.166- 67, de 24 de agosto de 2001, o item 22 do inciso II do art. 167 da Lei nº 6.015, de 31 de dezembro de 1973, e o § 2º do art. 4º da Lei nº 12.651, de 25 de maio de 2012."
+    },
+    {
+      "senadoId": "588100",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-16-12724",
+      "titulo": "Lei nº 12.724 de 16/10/2012",
+      "data": "2012-10-16",
+      "numero": "12724",
+      "urn": "urn:lex:br:federal:lei:2012-10-16;12724",
+      "ementa": "Confere ao Município de Sorriso, no Estado de Mato Grosso, o título de Capital Nacional do Agronegócio."
+    },
+    {
+      "senadoId": "588101",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-16-12725",
+      "titulo": "Lei nº 12.725 de 16/10/2012",
+      "data": "2012-10-16",
+      "numero": "12725",
+      "urn": "urn:lex:br:federal:lei:2012-10-16;12725",
+      "ementa": "Dispõe sobre o controle da fauna nas imediações de aeródromos."
+    },
+    {
+      "senadoId": "588102",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-16-12726",
+      "titulo": "Lei nº 12.726 de 16/10/2012",
+      "data": "2012-10-16",
+      "numero": "12726",
+      "urn": "urn:lex:br:federal:lei:2012-10-16;12726",
+      "ementa": "Acrescenta parágrafo único ao art. 95 da Lei nº 9.099, de 26 de setembro de 1995, para dispor sobre o Juizado Especial Itinerante."
+    },
+    {
+      "senadoId": "588099",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-09-12723",
+      "titulo": "Lei nº 12.723 de 09/10/2012",
+      "data": "2012-10-09",
+      "numero": "12723",
+      "urn": "urn:lex:br:federal:lei:2012-10-09;12723",
+      "ementa": "Altera o Decreto-Lei nº 1.455, de 7 de abril de 1976, que dispõe sobre bagagem de passageiro procedente do exterior, disciplina o regime de entreposto aduaneiro, estabelece normas sobre mercadorias estrangeiras apreendidas e dá outras providências, para autorizar a instalação de lojas francas em Municípios da faixa de fronteira cujas sedes se caracterizam como cidades gêmeas de cidades estrangeiras e para aplicar penalidade aos responsáveis dos órgãos da administração direta ou indireta que dolosamente realizarem importação ao desamparo de guia de importação."
+    },
+    {
+      "senadoId": "588098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-03-12722",
+      "titulo": "Lei nº 12.722 de 03/10/2012",
+      "data": "2012-10-03",
+      "numero": "12722",
+      "urn": "urn:lex:br:federal:lei:2012-10-03;12722",
+      "ementa": "Altera as Leis nºs 10.836, de 9 de janeiro de 2004, 12.462, de 4 de agosto de 2011, e 11.977, de 7 de julho de 2009; dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil; e dá outras providências."
+    },
+    {
+      "senadoId": "588097",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-10-02-12721",
+      "titulo": "Lei nº 12.721 de 02/10/2012",
+      "data": "2012-10-02",
+      "numero": "12721",
+      "urn": "urn:lex:br:federal:lei:2012-10-02;12721",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 6ª Região."
+    },
+    {
+      "senadoId": "588096",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-27-12720",
+      "titulo": "Lei nº 12.720 de 27/09/2012",
+      "data": "2012-09-27",
+      "numero": "12720",
+      "urn": "urn:lex:br:federal:lei:2012-09-27;12720",
+      "ementa": "Dispõe sobre o crime de extermínio de seres humanos; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal; e dá outras providências."
+    },
+    {
+      "senadoId": "588095",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-26-12719",
+      "titulo": "Lei nº 12.719 de 26/09/2012",
+      "data": "2012-09-26",
+      "numero": "12719",
+      "urn": "urn:lex:br:federal:lei:2012-09-26;12719",
+      "ementa": "Altera o inciso III do art. 2º da Lei nº 11.476, de 29 de maio de 2007, para permitir que os portadores de diploma de técnico de nível médio em Enologia e os alunos que ingressaram em curso deste nível até 29 de maio de 2007 possam exercer a profissão de enólogo, e dá outras providências."
+    },
+    {
+      "senadoId": "588093",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-26-12717",
+      "titulo": "Lei nº 12.717 de 26/09/2012",
+      "data": "2012-09-26",
+      "numero": "12717",
+      "urn": "urn:lex:br:federal:lei:2012-09-26;12717",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 21ª Região."
+    },
+    {
+      "senadoId": "588094",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-26-12718",
+      "titulo": "Lei nº 12.718 de 26/09/2012",
+      "data": "2012-09-26",
+      "numero": "12718",
+      "urn": "urn:lex:br:federal:lei:2012-09-26;12718",
+      "ementa": "Autoriza o Banco Central do Brasil a doar ao Estado de Pernambuco o imóvel que especifica."
+    },
+    {
+      "senadoId": "588092",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-21-12716",
+      "titulo": "Lei nº 12.716 de 21/09/2012",
+      "data": "2012-09-21",
+      "numero": "12716",
+      "urn": "urn:lex:br:federal:lei:2012-09-21;12716",
+      "ementa": "Altera as Leis nºs 10.177, de 12 de janeiro de 2001, 7.827, de 27 de setembro de 1989, 11.524, de 24 de setembro de 2007, 11.775, de 17 de setembro de 2008, 9.469, de 10 de julho de 1997, 11.196, de 21 de novembro de 2005, 8.029, de 12 de abril de 1990, 10.954, de 29 de setembro de 2004, e 11.314, de 3 de julho de 2006; e dá outras providências."
+    },
+    {
+      "senadoId": "588091",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-17-12715",
+      "titulo": "Lei nº 12.715 de 17/09/2012",
+      "data": "2012-09-17",
+      "numero": "12715",
+      "urn": "urn:lex:br:federal:lei:2012-09-17;12715",
+      "ementa": "Altera a alíquota das contribuições previdenciárias sobre a folha de salários devidas pelas empresas que especifica; institui o Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores, o Regime Especial de Tributação do Programa Nacional de Banda Larga para Implantação de Redes de Telecomunicações, o Regime Especial de Incentivo a Computadores para Uso Educacional, o Programa Nacional de Apoio à Atenção Oncológica e o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência; restabelece o Programa Um Computador por Aluno; altera o Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores, instituído pela Lei nº 11.484, de 31 de maio de 2007; altera as Leis nºs 9.250, de 26 de dezembro de 1995, 11.033, de 21 de dezembro de 2004, 9.430, de 27 de dezembro de 1996, 10.865, de 30 de abril de 2004, 11.774, de 17 de setembro de 2008, 12.546, de 14 de dezembro de 2011, 11.484, de 31 de maio de 2007, 10.637, de 30 de dezembro de 2002, 11.196, de 21 de novembro de 2005, 10.406, de 10 de janeiro de 2002, 9.532, de 10 de dezembro de 1997, 12.431, de 24 de junho de 2011, 12.414, de 9 de junho de 2011, 8.666, de 21 de junho de 1993, 10.925, de 23 de julho de 2004, os Decretos-Leis nºs 1.455, de 7 de abril de 1976, 1.593, de 21 de dezembro de 1977, e a Medida Provisória nº 2.199-14, de 24 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "588090",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-14-12714",
+      "titulo": "Lei nº 12.714 de 14/09/2012",
+      "data": "2012-09-14",
+      "numero": "12714",
+      "urn": "urn:lex:br:federal:lei:2012-09-14;12714",
+      "ementa": "Dispõe sobre o sistema de acompanhamento da execução das penas, da prisão cautelar e da medida de segurança."
+    },
+    {
+      "senadoId": "588089",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-09-05-12713",
+      "titulo": "Lei nº 12.713 de 05/09/2012",
+      "data": "2012-09-05",
+      "numero": "12713",
+      "urn": "urn:lex:br:federal:lei:2012-09-05;12713",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Defesa, da Integração Nacional e do Desenvolvimento Social e Combate à Fome, no valor global de R$ 688.497.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "588088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-30-12712",
+      "titulo": "Lei nº 12.712 de 30/08/2012",
+      "data": "2012-08-30",
+      "numero": "12712",
+      "urn": "urn:lex:br:federal:lei:2012-08-30;12712",
+      "ementa": "Altera as Leis nºs 12.096, de 24 de novembro de 2009, 12.453, de 21 de julho de 2011, para conceder crédito ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, 9.529, de 10 de dezembro de 1997, 11.529, de 22 de outubro de 2007, para incluir no Programa Revitaliza do BNDES os setores que especifica, 11.196, de 21 de novembro de 2005, 7.972, de 22 de dezembro de 1989, 12.666, de 14 de junho de 2012, 10.260, de 12 de julho de 2001, 12.087, de 11 de novembro de 2009, 7.827, de 27 de setembro de 1989, 10.849, de 23 de março de 2004, e 6.704, de 26 de outubro de 1979, as Medidas Provisórias nos 2.156-5, de 24 de agosto de 2001, e 2.157- 5, de 24 de agosto de 2001; dispõe sobre financiamento às exportações indiretas; autoriza a União a aumentar o capital social do Banco do Nordeste do Brasil S.A. e do Banco da Amazônia S.A.; autoriza o Poder Executivo a criar a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF; autoriza a União a conceder subvenção econômica nas operações de crédito do Fundo de Desenvolvimento da Amazônia - FDA e do Fundo de Desenvolvimento do Nordeste - FDNE; autoriza a União a participar de fundos dedicados a garantir operações de comércio exterior ou projetos de infraestrutura de grande vulto; revoga dispositivos das Leis ;nos 10.637, de 30 de dezembro de 2002, 10.865, de 30 de abril de 2004, e 12.545, de 14 de dezembro de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "588087",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-29-12711",
+      "titulo": "Lei nº 12.711 de 29/08/2012",
+      "data": "2012-08-29",
+      "numero": "12711",
+      "urn": "urn:lex:br:federal:lei:2012-08-29;12711",
+      "ementa": "Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências."
+    },
+    {
+      "senadoId": "588086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-29-12710",
+      "titulo": "Lei nº 12.710 de 29/08/2012",
+      "data": "2012-08-29",
+      "numero": "12710",
+      "urn": "urn:lex:br:federal:lei:2012-08-29;12710",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região."
+    },
+    {
+      "senadoId": "588085",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-29-12709",
+      "titulo": "Lei nº 12.709 de 29/08/2012",
+      "data": "2012-08-29",
+      "numero": "12709",
+      "urn": "urn:lex:br:federal:lei:2012-08-29;12709",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 3ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "588084",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-17-12708",
+      "titulo": "Lei nº 12.708 de 17/08/2012",
+      "data": "2012-08-17",
+      "numero": "12708",
+      "urn": "urn:lex:br:federal:lei:2012-08-17;12708",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2013 e dá outras providências."
+    },
+    {
+      "senadoId": "588083",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-08-12707",
+      "titulo": "Lei nº 12.707 de 08/08/2012",
+      "data": "2012-08-08",
+      "numero": "12707",
+      "urn": "urn:lex:br:federal:lei:2012-08-08;12707",
+      "ementa": "Dá a denominação de Aeroporto de Bauru - Comandante João Ribeiro de Barros ao Aeroporto de Bauru, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "588080",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-08-12704",
+      "titulo": "Lei nº 12.704 de 08/08/2012",
+      "data": "2012-08-08",
+      "numero": "12704",
+      "urn": "urn:lex:br:federal:lei:2012-08-08;12704",
+      "ementa": "Altera a Lei nº 11.279, de 9 de fevereiro de 2006, que dispõe sobre o ensino na Marinha, no que se refere aos requisitos para ingresso nas Carreiras da Marinha."
+    },
+    {
+      "senadoId": "588082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-08-12706",
+      "titulo": "Lei nº 12.706 de 08/08/2012",
+      "data": "2012-08-08",
+      "numero": "12706",
+      "urn": "urn:lex:br:federal:lei:2012-08-08;12706",
+      "ementa": "Autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL e dá outras providências."
+    },
+    {
+      "senadoId": "588081",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-08-12705",
+      "titulo": "Lei nº 12.705 de 08/08/2012",
+      "data": "2012-08-08",
+      "numero": "12705",
+      "urn": "urn:lex:br:federal:lei:2012-08-08;12705",
+      "ementa": "Dispõe sobre os requisitos para ingresso nos cursos de formação de militares de carreira do Exército."
+    },
+    {
+      "senadoId": "588079",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-07-12703",
+      "titulo": "Lei nº 12.703 de 07/08/2012",
+      "data": "2012-08-07",
+      "numero": "12703",
+      "urn": "urn:lex:br:federal:lei:2012-08-07;12703",
+      "ementa": "Altera o art. 12 da Lei nº 8.177, de 1º de março de 1991, que estabelece regras para a desindexação da economia e dá outras providências, o art. 25 da Lei nº 9.514, de 20 de novembro de 1997, que dispõe sobre o Sistema de Financiamento Imobiliário, institui a alienação fiduciária de coisa imóvel e dá outras providências, e o inciso II do art. 167 da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos e dá outras providências."
+    },
+    {
+      "senadoId": "588078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-07-12702",
+      "titulo": "Lei nº 12.702 de 07/08/2012",
+      "data": "2012-08-07",
+      "numero": "12702",
+      "urn": "urn:lex:br:federal:lei:2012-08-07;12702",
+      "ementa": "Dispõe sobre servidores do Instituto Nacional de Meteorologia, da Comissão Executiva do Plano da Lavoura Cacaueira, da Agência Brasileira de Inteligência, da Comissão de Valores Mobiliários, do Instituto Evandro Chagas, do Centro Nacional de Primatas, da Fundação Oswaldo Cruz, do Instituto de Pesquisa Econômica Aplicada, do Instituto Nacional do Seguro Social, da Superintendência de Seguros Privados, do Instituto Nacional de Metrologia, Qualidade e Tecnologia, da Superintendência Nacional de Previdência Complementar, do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, do Fundo Nacional de Desenvolvimento para a Educação, do Departamento Nacional de Obras Contra as Secas, do Serviço Exterior Brasileiro, do Instituto Brasileiro de Turismo, da Superintendência da Zona Franca de Manaus, do ex-Território de Fernando de Noronha e do Ministério da Fazenda, sobre os ocupantes de cargos de Médico do Poder Executivo, de cargos de Especialista em Infraestrutura Sênior, de cargos de Agente de Combate às Endemias e de cargos das Carreiras de Magistério Superior e do Ensino Básico, Técnico e Tecnológico, de Analista de Infraestrutura, de Ciência e Tecnologia, de Tecnologia Militar, de Desenvolvimento de Políticas Sociais e de Finanças e Controle, sobre as gratificações e adicionais que menciona; altera as Leis nºs 11.776, de 17 de setembro de 2008, 8.691, de 28 de julho de 1993, 11.344, de 8 de setembro de 2006, 11.907, de 2 de fevereiro de 2009, 11.890, de 24 de dezembro de 2008, 11.355, de 19 de outubro de 2006, 12.154, de 23 de dezembro de 2009, 12.277, de 30 de junho de 2010, 11.356, de 19 de outubro de 2006, 9.657, de 3 de junho de 1998, 12.094, de 19 de novembro de 2009, 11.784, de 22 de setembro de 2008, 8.270, de 17 de dezembro de 1991, 11.357, de 19 de outubro de 2006, 11.539, de 8 de novembro de 2007, 11.440, de 29 de dezembro de 2006, 8.829, de 22 de dezembro de 1993, 11.350, de 5 de outubro de 2006, 11.421, de 21 de dezembro de 2006, 10.484, de 3 de julho de 2002, 10.355, de 26 de dezembro de 2001, 10.404, de 9 de janeiro de 2002, 10.483, de 3 de julho de 2002, 10.550, de 13 de novembro de 2002, 10.768, de 19 de novembro de 2003, 10.855, de 1o de abril de 2004, 11.171, de 2 de setembro de 2005, 11.319, de 6 de julho de 2006, 11.233, de 22 de dezembro de 2005, 10.971, de 25 de novembro de 2004, 11.090, de 7 de janeiro de 2005, 10.682, de 28 de maio de 2003, 11.095, de 13 de janeiro de 2005, 10.480, de 2 de julho de 2002, 10.683, de 28 de maio de 2003, e 11.526, de 4 de outubro de 2007; revoga a Lei nº 9.436, de 5 de fevereiro de 1997, o art. 21 da Lei nº 9.625, de 7 de abril de 1998, e o § 2º do art. 52 da Lei nº 12.462, de 4 de agosto de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "588077",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-08-06-12701",
+      "titulo": "Lei nº 12.701 de 06/08/2012",
+      "data": "2012-08-06",
+      "numero": "12701",
+      "urn": "urn:lex:br:federal:lei:2012-08-06;12701",
+      "ementa": "Inscreve os nomes de Francisco Barreto de Menezes, João Fernandes Vieira, André Vidal de Negreiros, Henrique Dias, Antônio Filipe Camarão e Antônio Dias Cardoso no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "588076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-30-12700",
+      "titulo": "Lei nº 12.700 de 30/07/2012",
+      "data": "2012-07-30",
+      "numero": "12700",
+      "urn": "urn:lex:br:federal:lei:2012-07-30;12700",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios do Meio Ambiente e da Integração Nacional, crédito suplementar no valor global de R$ 93.045.987,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "589621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-30-12698",
+      "titulo": "Lei nº 12.698 de 30/07/2012",
+      "data": "2012-07-30",
+      "numero": "12698",
+      "urn": "urn:lex:br:federal:lei:2012-07-30;12698",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Integração Nacional, crédito especial no valor de R$ 90.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "589622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-30-12699",
+      "titulo": "Lei nº 12.699 de 30/07/2012",
+      "data": "2012-07-30",
+      "numero": "12699",
+      "urn": "urn:lex:br:federal:lei:2012-07-30;12699",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 1.355.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "589620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-30-12697",
+      "titulo": "Lei nº 12.697 de 30/07/2012",
+      "data": "2012-07-30",
+      "numero": "12697",
+      "urn": "urn:lex:br:federal:lei:2012-07-30;12697",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor de órgãos dos Poderes Legislativo e Judiciário, do Ministério Público da União e do Ministério do Planejamento, Orçamento e Gestão, crédito especial no valor global de R$ 100.000.000,00, para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "589618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-25-12695",
+      "titulo": "Lei nº 12.695 de 25/07/2012",
+      "data": "2012-07-25",
+      "numero": "12695",
+      "urn": "urn:lex:br:federal:lei:2012-07-25;12695",
+      "ementa": "Dispõe sobre o apoio técnico ou financeiro da União no âmbito do Plano de Ações Articuladas; altera a Lei nº 11.947, de 16 de junho de 2009, para incluir os polos presenciais do sistema Universidade Aberta do Brasil na assistência financeira do Programa Dinheiro Direto na Escola; altera a Lei nº 11.494, de 20 de junho de 2007, para contemplar com recursos do FUNDEB as instituições comunitárias que atuam na educação do campo; altera a Lei nº 10.880, de 9 de junho de 2004, para dispor sobre a assistência financeira da União no âmbito do Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos; altera a Lei nº 8.405, de 9 de janeiro de 1992; e dá outras providências."
+    },
+    {
+      "senadoId": "589619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-25-12696",
+      "titulo": "Lei nº 12.696 de 25/07/2012",
+      "data": "2012-07-25",
+      "numero": "12696",
+      "urn": "urn:lex:br:federal:lei:2012-07-25;12696",
+      "ementa": "Altera os arts. 132, 134, 135 e 139 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre os Conselhos Tutelares."
+    },
+    {
+      "senadoId": "589615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-24-12692",
+      "titulo": "Lei nº 12.692 de 24/07/2012",
+      "data": "2012-07-24",
+      "numero": "12692",
+      "urn": "urn:lex:br:federal:lei:2012-07-24;12692",
+      "ementa": "Altera os arts. 32 e 80 da Lei nº 8.212, de 24 de julho de 1991, para dispor sobre o acesso do empregado às informações relativas ao recolhimento de suas contribuições ao INSS."
+    },
+    {
+      "senadoId": "589616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-24-12693",
+      "titulo": "Lei nº 12.693 de 24/07/2012",
+      "data": "2012-07-24",
+      "numero": "12693",
+      "urn": "urn:lex:br:federal:lei:2012-07-24;12693",
+      "ementa": "Altera as Leis nºs 12.409, de 25 de maio de 2011, 11.578, de 26 de novembro de 2007, 11.977, de 7 de julho de 2009, 10.188, de 12 de fevereiro de 2001, 10.150, de 21 de dezembro de 2000, 10.637, de 30 de dezembro de 2002, 9.636, de 15 de maio de 1998, 6.015, de 31 de dezembro de 1973, e 11.941, de 27 de maio de 2009."
+    },
+    {
+      "senadoId": "589617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-24-12694",
+      "titulo": "Lei nº 12.694 de 24/07/2012",
+      "data": "2012-07-24",
+      "numero": "12694",
+      "urn": "urn:lex:br:federal:lei:2012-07-24;12694",
+      "ementa": "Dispõe sobre o processo e o julgamento colegiado em primeiro grau de jurisdição de crimes praticados por organizações criminosas; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, o Decreto- Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, e as Leis nºs 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e 10.826, de 22 de dezembro de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "589614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-24-12691",
+      "titulo": "Lei nº 12.691 de 24/07/2012",
+      "data": "2012-07-24",
+      "numero": "12691",
+      "urn": "urn:lex:br:federal:lei:2012-07-24;12691",
+      "ementa": "Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, Gratificações de Representação, Gratificações de Exercício em Cargo de Confiança devidas a militares e Gratificações de Representação pelo Exercício de Função, destinados ao Ministério da Defesa."
+    },
+    {
+      "senadoId": "589613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-19-12690",
+      "titulo": "Lei nº 12.690 de 19/07/2012",
+      "data": "2012-07-19",
+      "numero": "12690",
+      "urn": "urn:lex:br:federal:lei:2012-07-19;12690",
+      "ementa": "Dispõe sobre a organização e o funcionamento das Cooperativas de Trabalho; institui o Programa Nacional de Fomento às Cooperativas de Trabalho - PRONACOOP; e revoga o parágrafo único do art. 442 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "589612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-19-12689",
+      "titulo": "Lei nº 12.689 de 19/07/2012",
+      "data": "2012-07-19",
+      "numero": "12689",
+      "urn": "urn:lex:br:federal:lei:2012-07-19;12689",
+      "ementa": "Altera o Decreto-Lei nº 467, de 13 de fevereiro de 1969, para estabelecer o medicamento genérico de uso veterinário; e dispõe sobre o registro, a aquisição pelo poder público, a prescrição, a fabricação, o regime econômico-fiscal, a distribuição e a dispensação de medicamentos genéricos de uso veterinário, bem como sobre a promoção de programas de desenvolvimento técnico- científico e de incentivo à cooperação técnica para aferição da qualidade e da eficácia de produtos farmacêuticos de uso veterinário."
+    },
+    {
+      "senadoId": "589610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-18-12687",
+      "titulo": "Lei nº 12.687 de 18/07/2012",
+      "data": "2012-07-18",
+      "numero": "12687",
+      "urn": "urn:lex:br:federal:lei:2012-07-18;12687",
+      "ementa": "Altera dispositivo da Lei nº 7.116, de 29 de agosto de 1983, para tornar gratuita a emissão de carteira de identidade no caso que menciona."
+    },
+    {
+      "senadoId": "589607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-18-12684",
+      "titulo": "Lei nº 12.684 de 18/07/2012",
+      "data": "2012-07-18",
+      "numero": "12684",
+      "urn": "urn:lex:br:federal:lei:2012-07-18;12684",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e da Integração Nacional, no valor global de R$ 706.400.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "589609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-18-12686",
+      "titulo": "Lei nº 12.686 de 18/07/2012",
+      "data": "2012-07-18",
+      "numero": "12686",
+      "urn": "urn:lex:br:federal:lei:2012-07-18;12686",
+      "ementa": "Normatiza a divulgação de documentos institucionais produzidos em língua estrangeira, nos sítios e portais da rede mundial de computadores - internet mantidos por órgãos e entidades públicos."
+    },
+    {
+      "senadoId": "589608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-18-12685",
+      "titulo": "Lei nº 12.685 de 18/07/2012",
+      "data": "2012-07-18",
+      "numero": "12685",
+      "urn": "urn:lex:br:federal:lei:2012-07-18;12685",
+      "ementa": "Institui o Dia Nacional do Compromisso com a Criança, o Adolescente e a Educação."
+    },
+    {
+      "senadoId": "589611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-18-12688",
+      "titulo": "Lei nº 12.688 de 18/07/2012",
+      "data": "2012-07-18",
+      "numero": "12688",
+      "urn": "urn:lex:br:federal:lei:2012-07-18;12688",
+      "ementa": "Autoriza a Centrais Elétricas Brasileiras S.A. (Eletrobras) a adquirir o controle acionário da Celg Distribuição S.A. (Celg D); institui o Programa de Estímulo à Reestruturação e ao Fortalecimento das Instituições de Ensino Superior (Proies); altera as Leis nºs 3.890-A, de 25 de abril de 1961, 9.718, de 27 de novembro de 1998, 10.637, de 30 de dezembro de 2002, 10.887, de 18 de junho de 2004, 10.833, de 29 de dezembro de 2003, 11.033, de 21 de dezembro de 2004, 11.128, de 28 de junho de 2005, 11.651, de 7 de abril de 2008, 12.024, de 27 de agosto de 2009, 12.101, de 27 de novembro de 2009, 12.429, de 20 de junho de 2011, 12.462, de 4 de agosto de 2011, e 12.546, de 14 de dezembro de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "589606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-09-12683",
+      "titulo": "Lei nº 12.683 de 09/07/2012",
+      "data": "2012-07-09",
+      "numero": "12683",
+      "urn": "urn:lex:br:federal:lei:2012-07-09;12683",
+      "ementa": "Altera a Lei nº 9.613, de 3 de março de 1998, para tornar mais eficiente a persecução penal dos crimes de lavagem de dinheiro."
+    },
+    {
+      "senadoId": "589605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-09-12682",
+      "titulo": "Lei nº 12.682 de 09/07/2012",
+      "data": "2012-07-09",
+      "numero": "12682",
+      "urn": "urn:lex:br:federal:lei:2012-07-09;12682",
+      "ementa": "Dispõe sobre a elaboração e o arquivamento de documentos em meios eletromagnéticos."
+    },
+    {
+      "senadoId": "589604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-07-04-12681",
+      "titulo": "Lei nº 12.681 de 04/07/2012",
+      "data": "2012-07-04",
+      "numero": "12681",
+      "urn": "urn:lex:br:federal:lei:2012-07-04;12681",
+      "ementa": "Institui o Sistema Nacional de Informações de Segurança Pública, Prisionais e sobre Drogas - SINESP; altera as Leis nºs 10.201, de 14 de fevereiro de 2001, e 11.530, de 24 de outubro de 2007, a Lei Complementar nº 79, de 7 de janeiro de 1994, e o Decreto- Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal; e revoga dispositivo da Lei nº 10.201, de 14 de fevereiro de 2001."
+    },
+    {
+      "senadoId": "589603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-28-12680",
+      "titulo": "Lei nº 12.680 de 28/06/2012",
+      "data": "2012-06-28",
+      "numero": "12680",
+      "urn": "urn:lex:br:federal:lei:2012-06-28;12680",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 40.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "589598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12675",
+      "titulo": "Lei nº 12.675 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12675",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12675",
+      "ementa": "Dispõe sobre a criação de cargos no quadro de pessoal do Tribunal Regional Federal da 2ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12678",
+      "titulo": "Lei nº 12.678 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12678",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12678",
+      "ementa": "Dispõe sobre alterações nos limites dos Parques Nacionais da Amazônia, dos Campos Amazônicos e Mapinguari, das Florestas Nacionais de Itaituba I, Itaituba II e do Crepori e da Área de Proteção Ambiental do Tapajós; altera a Lei nº 12.249, de 11 de junho de 2010; e dá outras providências."
+    },
+    {
+      "senadoId": "589597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12674",
+      "titulo": "Lei nº 12.674 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12674",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12674",
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 10ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12676",
+      "titulo": "Lei nº 12.676 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12676",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12676",
+      "ementa": "Transforma cargos de Promotor de Justiça Adjunto em cargos de Procurador de Justiça e de Promotor de Justiça, no âmbito do Ministério Público do Distrito Federal e Territórios."
+    },
+    {
+      "senadoId": "589600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12677",
+      "titulo": "Lei nº 12.677 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12677",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12677",
+      "ementa": "Dispõe sobre a criação de cargos efetivos, cargos de direção e funções gratificadas no âmbito do Ministério da Educação, destinados às instituições federais de ensino; altera as Leis nºs 8.168, de 16 de janeiro de 1991, 11.892, de 29 de dezembro de 2008, e 11.526, de 4 de outubro de 2007; revoga as Leis nºs 5.490, de 3 de setembro de 1968, e 5.758, de 3 de dezembro de 1971, e os Decretos-Leis nºs 245, de 28 de fevereiro de 1967, 419, de 10 de janeiro de 1969, e 530, de 15 de abril de 1969; e dá outras providências."
+    },
+    {
+      "senadoId": "589596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12673",
+      "titulo": "Lei nº 12.673 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12673",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12673",
+      "ementa": "Dispõe sobre a criação de cargos no quadro do Ministério Público Militar."
+    },
+    {
+      "senadoId": "589602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-25-12679",
+      "titulo": "Lei nº 12.679 de 25/06/2012",
+      "data": "2012-06-25",
+      "numero": "12679",
+      "urn": "urn:lex:br:federal:lei:2012-06-25;12679",
+      "ementa": "Autoriza o Poder Executivo a doar 4 (quatro) aeronaves H-1H à Força Aérea Boliviana."
+    },
+    {
+      "senadoId": "589592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-19-12669",
+      "titulo": "Lei nº 12.669 de 19/06/2012",
+      "data": "2012-06-19",
+      "numero": "12669",
+      "urn": "urn:lex:br:federal:lei:2012-06-19;12669",
+      "ementa": "Dispõe sobre a obrigatoriedade de empresas de beneficiamento e comércio de laticínios informarem ao produtor de leite o valor pago pelo produto até o dia 25 (vinte e cinco) de cada mês."
+    },
+    {
+      "senadoId": "589594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-19-12671",
+      "titulo": "Lei nº 12.671 de 19/06/2012",
+      "data": "2012-06-19",
+      "numero": "12671",
+      "urn": "urn:lex:br:federal:lei:2012-06-19;12671",
+      "ementa": "Cria cargos de Advogado da União."
+    },
+    {
+      "senadoId": "589595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-19-12672",
+      "titulo": "Lei nº 12.672 de 19/06/2012",
+      "data": "2012-06-19",
+      "numero": "12672",
+      "urn": "urn:lex:br:federal:lei:2012-06-19;12672",
+      "ementa": "Denomina Ferrovia Dorival Roriz Guedes Coelho o trecho da Ferrovia Norte-Sul situado no Estado do Tocantins."
+    },
+    {
+      "senadoId": "589593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-19-12670",
+      "titulo": "Lei nº 12.670 de 19/06/2012",
+      "data": "2012-06-19",
+      "numero": "12670",
+      "urn": "urn:lex:br:federal:lei:2012-06-19;12670",
+      "ementa": "Altera o inciso V do art. 108 da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares, para incluir a esclerose múltipla no rol das doenças incapacitantes."
+    },
+    {
+      "senadoId": "589591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-18-12668",
+      "titulo": "Lei nº 12.668 de 18/06/2012",
+      "data": "2012-06-18",
+      "numero": "12668",
+      "urn": "urn:lex:br:federal:lei:2012-06-18;12668",
+      "ementa": "Institui o Dia Nacional do Piso Salarial dos Professores."
+    },
+    {
+      "senadoId": "589590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-15-12667",
+      "titulo": "Lei nº 12.667 de 15/06/2012",
+      "data": "2012-06-15",
+      "numero": "12667",
+      "urn": "urn:lex:br:federal:lei:2012-06-15;12667",
+      "ementa": "Altera a Lei nº 11.442, de 5 de janeiro de 2007, que dispõe sobre o transporte rodoviário de cargas por conta de terceiros e mediante remuneração e revoga a Lei nº 6.813, de 10 de julho de 1980, para determinar, no caso do transporte de produtos perigosos, a observância de legislação federal específica."
+    },
+    {
+      "senadoId": "589589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-14-12666",
+      "titulo": "Lei nº 12.666 de 14/06/2012",
+      "data": "2012-06-14",
+      "numero": "12666",
+      "urn": "urn:lex:br:federal:lei:2012-06-14;12666",
+      "ementa": "Altera a Lei nº 11.110, de 25 de abril de 2005, para autorizar a União a conceder subvenção econômica, sob a forma de equalização de parte dos custos a que estão sujeitas as instituições financeiras para contratação e acompanhamento de operações de microcrédito produtivo orientado; autoriza a concessão de subvenção econômica, sob a modalidade de equalização de taxa de juros, nas operações de financiamento para a estocagem de álcool combustível; altera a Lei nº 10.453, de 13 de maio de 2002; e dá outras providências."
+    },
+    {
+      "senadoId": "589588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-13-12665",
+      "titulo": "Lei nº 12.665 de 13/06/2012",
+      "data": "2012-06-13",
+      "numero": "12665",
+      "urn": "urn:lex:br:federal:lei:2012-06-13;12665",
+      "ementa": "Dispõe sobre a criação de estrutura permanente para as Turmas Recursais dos Juizados Especiais Federais; cria os respectivos cargos de Juízes Federais; e revoga dispositivos da Lei nº 10.259, de 12 de julho de 2001."
+    },
+    {
+      "senadoId": "589586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12663",
+      "titulo": "Lei nº 12.663 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12663",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12663",
+      "ementa": "Dispõe sobre as medidas relativas à Copa das Confederações FIFA 2013, à Copa do Mundo FIFA 2014 e à Jornada Mundial da Juventude - 2013, que serão realizadas no Brasil; altera as Leis nºs 6.815, de 19 de agosto de 1980, e 10.671, de 15 de maio de 2003; e estabelece concessão de prêmio e de auxílio especial mensal aos jogadores das seleções campeãs do mundo em 1958, 1962 e 1970."
+    },
+    {
+      "senadoId": "589583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12660",
+      "titulo": "Lei nº 12.660 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12660",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12660",
+      "ementa": "Dispõe sobre a criação de 1 (uma) Vara do Trabalho na jurisdição do Tribunal Regional do Trabalho da 23ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12662",
+      "titulo": "Lei nº 12.662 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12662",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12662",
+      "ementa": "Assegura validade nacional à Declaração de Nascido Vivo - DNV, regula sua expedição, altera a Lei nº 6.015, de 31 de dezembro de 1973, e dá outras providências."
+    },
+    {
+      "senadoId": "589581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12658",
+      "titulo": "Lei nº 12.658 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12658",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12658",
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 12ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12659",
+      "titulo": "Lei nº 12.659 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12659",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12659",
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 8ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12656",
+      "titulo": "Lei nº 12.656 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12656",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12656",
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 1ª Região, define jurisdição e dá outras providências."
+    },
+    {
+      "senadoId": "589580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12657",
+      "titulo": "Lei nº 12.657 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12657",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12657",
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 7ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12661",
+      "titulo": "Lei nº 12.661 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12661",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12661",
+      "ementa": "Dispõe sobre a criação de Vara do Trabalho na jurisdição do Tribunal Regional do Trabalho da 19ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-06-05-12664",
+      "titulo": "Lei nº 12.664 de 05/06/2012",
+      "data": "2012-06-05",
+      "numero": "12664",
+      "urn": "urn:lex:br:federal:lei:2012-06-05;12664",
+      "ementa": "Dispõe sobre a venda de uniformes das Forças Armadas, dos órgãos de segurança pública, das guardas municipais e das empresas de segurança privada."
+    },
+    {
+      "senadoId": "589578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-30-12655",
+      "titulo": "Lei nº 12.655 de 30/05/2012",
+      "data": "2012-05-30",
+      "numero": "12655",
+      "urn": "urn:lex:br:federal:lei:2012-05-30;12655",
+      "ementa": "Altera o art. 4º da Lei nº 10.931, de 2 de agosto de 2004, e o art. 1º da Lei nº 10.925, de 23 de julho de 2004."
+    },
+    {
+      "senadoId": "589577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-28-12654",
+      "titulo": "Lei nº 12.654 de 28/05/2012",
+      "data": "2012-05-28",
+      "numero": "12654",
+      "urn": "urn:lex:br:federal:lei:2012-05-28;12654",
+      "ementa": "Altera as Leis nºs 12.037, de 1º de outubro de 2009, e 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para prever a coleta de perfil genético como forma de identificação criminal, e dá outras providências."
+    },
+    {
+      "senadoId": "589576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-28-12653",
+      "titulo": "Lei nº 12.653 de 28/05/2012",
+      "data": "2012-05-28",
+      "numero": "12653",
+      "urn": "urn:lex:br:federal:lei:2012-05-28;12653",
+      "ementa": "Acresce o art. 135-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para tipificar o crime de condicionar atendimento médico-hospitalar emergencial a qualquer garantia e dá outras providências."
+    },
+    {
+      "senadoId": "589575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-25-12652",
+      "titulo": "Lei nº 12.652 de 25/05/2012",
+      "data": "2012-05-25",
+      "numero": "12652",
+      "urn": "urn:lex:br:federal:lei:2012-05-25;12652",
+      "ementa": "Altera a Lei nº 12.337, de 12 de novembro de 2010, para autorizar a prorrogação de contratos por tempo determinado firmados com fundamento na alínea h do inciso VI do caput do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993; autoriza a prorrogação do prazo de vigência do contrato de gestão firmado entre a União e a Associação de Comunicação Educativa Roquette Pinto - ACERP; e dá outras providências."
+    },
+    {
+      "senadoId": "589574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-25-12651",
+      "titulo": "Lei nº 12.651 de 25/05/2012",
+      "data": "2012-05-25",
+      "numero": "12651",
+      "urn": "urn:lex:br:federal:lei:2012-05-25;12651",
+      "ementa": "Dispõe sobre a proteção da vegetação nativa; altera as Leis nºs 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as Leis nºs 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166- 67, de 24 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "589572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-17-12649",
+      "titulo": "Lei nº 12.649 de 17/05/2012",
+      "data": "2012-05-17",
+      "numero": "12649",
+      "urn": "urn:lex:br:federal:lei:2012-05-17;12649",
+      "ementa": "Reduz a zero as alíquotas da Contribuição para o PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social (Cofins), da Contribuição para o PIS/Pasep - Importação e da Cofins - Importação incidentes sobre a importação e a receita de venda no mercado interno dos produtos que menciona; altera as Leis nºs 10.865, de 30 de abril de 2004, 10.522, de 19 de julho de 2002, 8.989, de 24 de fevereiro de 1995, 5.991, de 17 de dezembro de 1973, 10.451, de 10 de maio de 2002, e 11.051, de 29 de dezembro de 2004; e revoga dispositivos das Leis nºs 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003."
+    },
+    {
+      "senadoId": "589573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-17-12650",
+      "titulo": "Lei nº 12.650 de 17/05/2012",
+      "data": "2012-05-17",
+      "numero": "12650",
+      "urn": "urn:lex:br:federal:lei:2012-05-17;12650",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, com a finalidade de modificar as regras relativas à prescrição dos crimes praticados contra crianças e adolescentes."
+    },
+    {
+      "senadoId": "589571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-17-12648",
+      "titulo": "Lei nº 12.648 de 17/05/2012",
+      "data": "2012-05-17",
+      "numero": "12648",
+      "urn": "urn:lex:br:federal:lei:2012-05-17;12648",
+      "ementa": "Altera dispositivos das Leis nºs 7.920, de 12 de dezembro de 1989, 8.399, de 7 de janeiro de 1992, 9.825, de 23 de agosto de 1999, 12.462, de 5 de agosto de 2011, 6.009, de 26 de dezembro de 1973, e 5.862, de 12 de dezembro de 1972; revoga o Decreto- Lei nº 1.896, de 17 de dezembro de 1981; e dá outras providências."
+    },
+    {
+      "senadoId": "589567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-16-12644",
+      "titulo": "Lei nº 12.644 de 16/05/2012",
+      "data": "2012-05-16",
+      "numero": "12644",
+      "urn": "urn:lex:br:federal:lei:2012-05-16;12644",
+      "ementa": "Institui o Dia Nacional da Umbanda."
+    },
+    {
+      "senadoId": "589569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-16-12646",
+      "titulo": "Lei nº 12.646 de 16/05/2012",
+      "data": "2012-05-16",
+      "numero": "12646",
+      "urn": "urn:lex:br:federal:lei:2012-05-16;12646",
+      "ementa": "Institui o Dia Nacional de Luta dos Acidentados por Fontes Radioativas."
+    },
+    {
+      "senadoId": "589570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-16-12647",
+      "titulo": "Lei nº 12.647 de 16/05/2012",
+      "data": "2012-05-16",
+      "numero": "12647",
+      "urn": "urn:lex:br:federal:lei:2012-05-16;12647",
+      "ementa": "Institui o Dia Nacional de Valorização da Família."
+    },
+    {
+      "senadoId": "589568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-16-12645",
+      "titulo": "Lei nº 12.645 de 16/05/2012",
+      "data": "2012-05-16",
+      "numero": "12645",
+      "urn": "urn:lex:br:federal:lei:2012-05-16;12645",
+      "ementa": "Institui o Dia Nacional de Segurança e de Saúde nas Escolas."
+    },
+    {
+      "senadoId": "589563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-15-12640",
+      "titulo": "Lei nº 12.640 de 15/05/2012",
+      "data": "2012-05-15",
+      "numero": "12640",
+      "urn": "urn:lex:br:federal:lei:2012-05-15;12640",
+      "ementa": "Institui o Dia Nacional do Securitário."
+    },
+    {
+      "senadoId": "589565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-15-12642",
+      "titulo": "Lei nº 12.642 de 15/05/2012",
+      "data": "2012-05-15",
+      "numero": "12642",
+      "urn": "urn:lex:br:federal:lei:2012-05-15;12642",
+      "ementa": "Institui o dia 3 de novembro como o Dia Nacional do Quilo."
+    },
+    {
+      "senadoId": "589564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-15-12641",
+      "titulo": "Lei nº 12.641 de 15/05/2012",
+      "data": "2012-05-15",
+      "numero": "12641",
+      "urn": "urn:lex:br:federal:lei:2012-05-15;12641",
+      "ementa": "Institui o dia 12 de agosto como o Dia Nacional dos Direitos Humanos."
+    },
+    {
+      "senadoId": "589566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-15-12643",
+      "titulo": "Lei nº 12.643 de 15/05/2012",
+      "data": "2012-05-15",
+      "numero": "12643",
+      "urn": "urn:lex:br:federal:lei:2012-05-15;12643",
+      "ementa": "Institui o Dia Nacional da Silvicultura."
+    },
+    {
+      "senadoId": "589562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-15-12639",
+      "titulo": "Lei nº 12.639 de 15/05/2012",
+      "data": "2012-05-15",
+      "numero": "12639",
+      "urn": "urn:lex:br:federal:lei:2012-05-15;12639",
+      "ementa": "Institui o dia 23 de fevereiro como o Dia Nacional do Movimento Municipalista Brasileiro."
+    },
+    {
+      "senadoId": "589557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12634",
+      "titulo": "Lei nº 12.634 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12634",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12634",
+      "ementa": "Institui o Dia Nacional do Artesão."
+    },
+    {
+      "senadoId": "589561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12638",
+      "titulo": "Lei nº 12.638 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12638",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12638",
+      "ementa": "Institui o Dia Nacional do Jogo Limpo e de Combate ao Doping nos Esportes."
+    },
+    {
+      "senadoId": "589560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12637",
+      "titulo": "Lei nº 12.637 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12637",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12637",
+      "ementa": "Institui o dia 18 de setembro como Dia Nacional de Conscientização e Incentivo ao Diagnóstico Precoce do Retinoblastoma."
+    },
+    {
+      "senadoId": "589555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12632",
+      "titulo": "Lei nº 12.632 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12632",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12632",
+      "ementa": "Institui o Dia Nacional do Ouvidor."
+    },
+    {
+      "senadoId": "589559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12636",
+      "titulo": "Lei nº 12.636 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12636",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12636",
+      "ementa": "Institui o Dia Nacional da Advocacia Pública."
+    },
+    {
+      "senadoId": "589556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12633",
+      "titulo": "Lei nº 12.633 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12633",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12633",
+      "ementa": "Institui o Dia Nacional da Educação Ambiental."
+    },
+    {
+      "senadoId": "589558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-14-12635",
+      "titulo": "Lei nº 12.635 de 14/05/2012",
+      "data": "2012-05-14",
+      "numero": "12635",
+      "urn": "urn:lex:br:federal:lei:2012-05-14;12635",
+      "ementa": "Institui o Dia Nacional do Suinocultor."
+    },
+    {
+      "senadoId": "589551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-11-12628",
+      "titulo": "Lei nº 12.628 de 11/05/2012",
+      "data": "2012-05-11",
+      "numero": "12628",
+      "urn": "urn:lex:br:federal:lei:2012-05-11;12628",
+      "ementa": "Institui o Dia Nacional do Paisagista, a ser comemorado em 4 de outubro."
+    },
+    {
+      "senadoId": "589553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-11-12630",
+      "titulo": "Lei nº 12.630 de 11/05/2012",
+      "data": "2012-05-11",
+      "numero": "12630",
+      "urn": "urn:lex:br:federal:lei:2012-05-11;12630",
+      "ementa": "Institui o Dia Nacional do Reggae."
+    },
+    {
+      "senadoId": "589552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-11-12629",
+      "titulo": "Lei nº 12.629 de 11/05/2012",
+      "data": "2012-05-11",
+      "numero": "12629",
+      "urn": "urn:lex:br:federal:lei:2012-05-11;12629",
+      "ementa": "Institui o Dia Nacional de Combate e Prevenção à Trombose."
+    },
+    {
+      "senadoId": "589554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-11-12631",
+      "titulo": "Lei nº 12.631 de 11/05/2012",
+      "data": "2012-05-11",
+      "numero": "12631",
+      "urn": "urn:lex:br:federal:lei:2012-05-11;12631",
+      "ementa": "Institui o Dia Nacional das Hemoglobinopatias."
+    },
+    {
+      "senadoId": "589550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-11-12627",
+      "titulo": "Lei nº 12.627 de 11/05/2012",
+      "data": "2012-05-11",
+      "numero": "12627",
+      "urn": "urn:lex:br:federal:lei:2012-05-11;12627",
+      "ementa": "Institui o Dia Nacional dos Portadores de Vitiligo."
+    },
+    {
+      "senadoId": "589549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-10-12626",
+      "titulo": "Lei nº 12.626 de 10/05/2012",
+      "data": "2012-05-10",
+      "numero": "12626",
+      "urn": "urn:lex:br:federal:lei:2012-05-10;12626",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Defesa e da Integração Nacional, no valor global de R$ 533.581.700,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "589547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-09-12624",
+      "titulo": "Lei nº 12.624 de 09/05/2012",
+      "data": "2012-05-09",
+      "numero": "12624",
+      "urn": "urn:lex:br:federal:lei:2012-05-09;12624",
+      "ementa": "Institui o dia 17 de outubro como o Dia Nacional da Música Popular Brasileira."
+    },
+    {
+      "senadoId": "589548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-09-12625",
+      "titulo": "Lei nº 12.625 de 09/05/2012",
+      "data": "2012-05-09",
+      "numero": "12625",
+      "urn": "urn:lex:br:federal:lei:2012-05-09;12625",
+      "ementa": "Institui o dia 8 de maio como o Dia Nacional do Turismo."
+    },
+    {
+      "senadoId": "589546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-09-12623",
+      "titulo": "Lei nº 12.623 de 09/05/2012",
+      "data": "2012-05-09",
+      "numero": "12623",
+      "urn": "urn:lex:br:federal:lei:2012-05-09;12623",
+      "ementa": "Institui o Dia do Aniversário do Buda Shakyamuni e o inclui no Calendário Oficial de Datas e Eventos Brasileiro."
+    },
+    {
+      "senadoId": "589543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-08-12620",
+      "titulo": "Lei nº 12.620 de 08/05/2012",
+      "data": "2012-05-08",
+      "numero": "12620",
+      "urn": "urn:lex:br:federal:lei:2012-05-08;12620",
+      "ementa": "Institui o Dia Nacional do Cooperativismo de Crédito."
+    },
+    {
+      "senadoId": "589545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-08-12622",
+      "titulo": "Lei nº 12.622 de 08/05/2012",
+      "data": "2012-05-08",
+      "numero": "12622",
+      "urn": "urn:lex:br:federal:lei:2012-05-08;12622",
+      "ementa": "Institui o Dia Nacional do Atleta Paraolímpico e dá outras providências."
+    },
+    {
+      "senadoId": "589544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-05-08-12621",
+      "titulo": "Lei nº 12.621 de 08/05/2012",
+      "data": "2012-05-08",
+      "numero": "12621",
+      "urn": "urn:lex:br:federal:lei:2012-05-08;12621",
+      "ementa": "Institui o Dia Nacional do Maquinista Ferroviário."
+    },
+    {
+      "senadoId": "589542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-30-12619",
+      "titulo": "Lei nº 12.619 de 30/04/2012",
+      "data": "2012-04-30",
+      "numero": "12619",
+      "urn": "urn:lex:br:federal:lei:2012-04-30;12619",
+      "ementa": "Dispõe sobre o exercício da profissão de motorista; altera a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto- Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 9.503, de 23 de setembro de 1997, 10.233, de 5 de junho de 2001, 11.079, de 30 de dezembro de 2004, e 12.023, de 27 de agosto de 2009, para regular e disciplinar a jornada de trabalho e o tempo de direção do motorista profissional; e dá outras providências."
+    },
+    {
+      "senadoId": "589540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-30-12617",
+      "titulo": "Lei nº 12.617 de 30/04/2012",
+      "data": "2012-04-30",
+      "numero": "12617",
+      "urn": "urn:lex:br:federal:lei:2012-04-30;12617",
+      "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 9ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "589539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-30-12616",
+      "titulo": "Lei nº 12.616 de 30/04/2012",
+      "data": "2012-04-30",
+      "numero": "12616",
+      "urn": "urn:lex:br:federal:lei:2012-04-30;12616",
+      "ementa": "Altera a composição do Tribunal Regional do Trabalho da 3ª Região, cria Varas do Trabalho em sua jurisdição e dá outras providências."
+    },
+    {
+      "senadoId": "589538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-30-12615",
+      "titulo": "Lei nº 12.615 de 30/04/2012",
+      "data": "2012-04-30",
+      "numero": "12615",
+      "urn": "urn:lex:br:federal:lei:2012-04-30;12615",
+      "ementa": "Inscreve o nome de Anita Garibaldi - Ana Maria de Jesus Ribeiro - no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "589541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-30-12618",
+      "titulo": "Lei nº 12.618 de 30/04/2012",
+      "data": "2012-04-30",
+      "numero": "12618",
+      "urn": "urn:lex:br:federal:lei:2012-04-30;12618",
+      "ementa": "Institui o regime de previdência complementar para os servidores públicos federais titulares de cargo efetivo, inclusive os membros dos órgãos que menciona; fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição Federal; autoriza a criação de 3 (três) entidades fechadas de previdência complementar, denominadas Fundação de Previdência Complementar do Servidor Público Federal do Poder Executivo (Funpresp-Exe), Fundação de Previdência Complementar do Servidor Público Federal do Poder Legislativo (Funpresp-Leg) e Fundação de Previdência Complementar do Servidor Público Federal do Poder Judiciário (Funpresp-Jud); altera dispositivos da Lei nº 10.887, de 18 de junho de 2004; e dá outras providências."
+    },
+    {
+      "senadoId": "589537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-27-12614",
+      "titulo": "Lei nº 12.614 de 27/04/2012",
+      "data": "2012-04-27",
+      "numero": "12614",
+      "urn": "urn:lex:br:federal:lei:2012-04-27;12614",
+      "ementa": "Dispõe sobre a inscrição do nome do Padre Roberto Landell de Moura no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "589536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-18-12613",
+      "titulo": "Lei nº 12.613 de 18/04/2012",
+      "data": "2012-04-18",
+      "numero": "12613",
+      "urn": "urn:lex:br:federal:lei:2012-04-18;12613",
+      "ementa": "Altera a Lei nº 10.735, de 11 de setembro de 2003, que dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, e dá outras providências."
+    },
+    {
+      "senadoId": "589535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-13-12612",
+      "titulo": "Lei nº 12.612 de 13/04/2012",
+      "data": "2012-04-13",
+      "numero": "12612",
+      "urn": "urn:lex:br:federal:lei:2012-04-13;12612",
+      "ementa": "Declara o educador Paulo Freire Patrono da Educação Brasileira."
+    },
+    {
+      "senadoId": "589532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-10-12609",
+      "titulo": "Lei nº 12.609 de 10/04/2012",
+      "data": "2012-04-10",
+      "numero": "12609",
+      "urn": "urn:lex:br:federal:lei:2012-04-10;12609",
+      "ementa": "Denomina \"Viaduto Professor Geraldo Maurício Lima\" a obra de arte especial localizada no quilômetro 75 mais 650 metros da rodovia BR-153, no Município de Bady Bassitt, Estado de São Paulo."
+    },
+    {
+      "senadoId": "589531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-10-12608",
+      "titulo": "Lei nº 12.608 de 10/04/2012",
+      "data": "2012-04-10",
+      "numero": "12608",
+      "urn": "urn:lex:br:federal:lei:2012-04-10;12608",
+      "ementa": "Institui a Política Nacional de Proteção e Defesa Civil - PNPDEC; dispõe sobre o Sistema Nacional de Proteção e Defesa Civil - SINPDEC e o Conselho Nacional de Proteção e Defesa Civil - CONPDEC; autoriza a criação de sistema de informações e monitoramento de desastres; altera as Leis nºs 12.340, de 1º de dezembro de 2010, 10.257, de 10 de julho de 2001, 6.766, de 19 de dezembro de 1979, 8.239, de 4 de outubro de 1991, e 9.394, de 20 de dezembro de 1996; e dá outras providências."
+    },
+    {
+      "senadoId": "589534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-10-12611",
+      "titulo": "Lei nº 12.611 de 10/04/2012",
+      "data": "2012-04-10",
+      "numero": "12611",
+      "urn": "urn:lex:br:federal:lei:2012-04-10;12611",
+      "ementa": "Denomina Avenida Hamid Afif o trecho urbano da rodovia BR-491 que cruza a cidade de Varginha, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "589533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-10-12610",
+      "titulo": "Lei nº 12.610 de 10/04/2012",
+      "data": "2012-04-10",
+      "numero": "12610",
+      "urn": "urn:lex:br:federal:lei:2012-04-10;12610",
+      "ementa": "Denomina Ponte Hélio Serejo a ponte sobre o rio Paraná, localizada na BR-267, na divisa entre os Estados de São Paulo e Mato Grosso do Sul."
+    },
+    {
+      "senadoId": "589530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-04-12607",
+      "titulo": "Lei nº 12.607 de 04/04/2012",
+      "data": "2012-04-04",
+      "numero": "12607",
+      "urn": "urn:lex:br:federal:lei:2012-04-04;12607",
+      "ementa": "Altera o § 1º do art. 1.331 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, no que tange ao critério de fixação da fração ideal e às disposições sobre alienação e locação de abrigos para veículos em condomínios edilícios."
+    },
+    {
+      "senadoId": "589527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-03-12604",
+      "titulo": "Lei nº 12.604 de 03/04/2012",
+      "data": "2012-04-03",
+      "numero": "12604",
+      "urn": "urn:lex:br:federal:lei:2012-04-03;12604",
+      "ementa": "Institui a Semana Nacional de Controle e Combate à Leishmaniose."
+    },
+    {
+      "senadoId": "589528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-03-12605",
+      "titulo": "Lei nº 12.605 de 03/04/2012",
+      "data": "2012-04-03",
+      "numero": "12605",
+      "urn": "urn:lex:br:federal:lei:2012-04-03;12605",
+      "ementa": "Determina o emprego obrigatório da flexão de gênero para nomear profissão ou grau em diplomas."
+    },
+    {
+      "senadoId": "589525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-03-12602",
+      "titulo": "Lei nº 12.602 de 03/04/2012",
+      "data": "2012-04-03",
+      "numero": "12602",
+      "urn": "urn:lex:br:federal:lei:2012-04-03;12602",
+      "ementa": "Institui a Semana e o Dia Nacional da Educação Infantil."
+    },
+    {
+      "senadoId": "589529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-03-12606",
+      "titulo": "Lei nº 12.606 de 03/04/2012",
+      "data": "2012-04-03",
+      "numero": "12606",
+      "urn": "urn:lex:br:federal:lei:2012-04-03;12606",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 460.530.000,00 (quatrocentos e sessenta milhões e quinhentos e trinta mil reais), para o fim que especifica."
+    },
+    {
+      "senadoId": "589526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-04-03-12603",
+      "titulo": "Lei nº 12.603 de 03/04/2012",
+      "data": "2012-04-03",
+      "numero": "12603",
+      "urn": "urn:lex:br:federal:lei:2012-04-03;12603",
+      "ementa": "Altera o inciso I do § 4º do art. 80 da Lei nº 9.394, de 20 de dezembro de 1996, para beneficiar a educação a distância com a redução de custos em meios de comunicação que sejam explorados mediante autorização, concessão ou permissão do Poder Público."
+    },
+    {
+      "senadoId": "589524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-03-23-12601",
+      "titulo": "Lei nº 12.601 de 23/03/2012",
+      "data": "2012-03-23",
+      "numero": "12601",
+      "urn": "urn:lex:br:federal:lei:2012-03-23;12601",
+      "ementa": "Cria cargos na Carreira de Diplomata; altera o Anexo I da Lei nº 11.440, de 29 de dezembro de 2006; e cria cargos de Oficial de Chancelaria."
+    },
+    {
+      "senadoId": "589522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-03-23-12599",
+      "titulo": "Lei nº 12.599 de 23/03/2012",
+      "data": "2012-03-23",
+      "numero": "12599",
+      "urn": "urn:lex:br:federal:lei:2012-03-23;12599",
+      "ementa": "Altera as Leis nºs 10.893, de 13 de julho de 2004, que dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, 11.434, de 28 de dezembro de 2006, 11.196, de 21 de novembro de 2005, 10.865, de 30 de abril de 2004, 8.685, de 20 de julho de 1993, 12.249, de 11 de junho de 2010, 11.775, de 17 de setembro de 2008, e 11.491, de 20 de junho de 2007, e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001; revoga dispositivos das Leis nºs 9.432, de 8 de janeiro de 1997, e 10.925, de 23 de junho de 2004; altera a incidência da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS na cadeia produtiva do café; institui o Programa Cinema Perto de Você; e dá outras providências."
+    },
+    {
+      "senadoId": "589523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-03-23-12600",
+      "titulo": "Lei nº 12.600 de 23/03/2012",
+      "data": "2012-03-23",
+      "numero": "12600",
+      "urn": "urn:lex:br:federal:lei:2012-03-23;12600",
+      "ementa": "Cria os cargos de Juiz-Auditor e Juiz-Auditor Substituto para a 2ª Auditoria da 11ª Circunscrição Judiciária Militar, no âmbito da Justiça Militar da União; revoga dispositivos da Lei nº 10.333, de 19 de dezembro de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "589521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-03-21-12598",
+      "titulo": "Lei nº 12.598 de 21/03/2012",
+      "data": "2012-03-21",
+      "numero": "12598",
+      "urn": "urn:lex:br:federal:lei:2012-03-21;12598",
+      "ementa": "Estabelece normas especiais para as compras, as contratações e o desenvolvimento de produtos e de sistemas de defesa; dispõe sobre regras de incentivo à área estratégica de defesa; altera a Lei nº 12.249, de 11 de junho de 2010; e dá outras providências."
+    },
+    {
+      "senadoId": "589520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-03-21-12597",
+      "titulo": "Lei nº 12.597 de 21/03/2012",
+      "data": "2012-03-21",
+      "numero": "12597",
+      "urn": "urn:lex:br:federal:lei:2012-03-21;12597",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2011, com o objetivo de fomentar as exportações do País; altera o art. 4º da Lei nº 12.409, de 25 de maio de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "589519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-03-15-12596",
+      "titulo": "Lei nº 12.596 de 15/03/2012",
+      "data": "2012-03-15",
+      "numero": "12596",
+      "urn": "urn:lex:br:federal:lei:2012-03-15;12596",
+      "ementa": "Confere ao Município de Maravilha, no Estado de Santa Catarina, o título de Cidade das Crianças."
+    },
+    {
+      "senadoId": "589518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-19-12595",
+      "titulo": "Lei nº 12.595 de 19/01/2012",
+      "data": "2012-01-19",
+      "numero": "12595",
+      "urn": "urn:lex:br:federal:lei:2012-01-19;12595",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2012."
+    },
+    {
+      "senadoId": "589515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-18-12592",
+      "titulo": "Lei nº 12.592 de 18/01/2012",
+      "data": "2012-01-18",
+      "numero": "12592",
+      "urn": "urn:lex:br:federal:lei:2012-01-18;12592",
+      "ementa": "Dispõe sobre o exercício das atividades profissionais de Cabeleireiro, Barbeiro, Esteticista, Manicure, Pedicure, Depilador e Maquiador."
+    },
+    {
+      "senadoId": "589517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-18-12594",
+      "titulo": "Lei nº 12.594 de 18/01/2012",
+      "data": "2012-01-18",
+      "numero": "12594",
+      "urn": "urn:lex:br:federal:lei:2012-01-18;12594",
+      "ementa": "Institui o Sistema Nacional de Atendimento Socioeducativo (Sinase), regulamenta a execução das medidas socioeducativas destinadas a adolescente que pratique ato infracional; e altera as Leis nºs 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente); 7.560, de 19 de dezembro de 1986, 7.998, de 11 de janeiro de 1990, 5.537, de 21 de novembro de 1968, 8.315, de 23 de dezembro de 1991, 8.706, de 14 de setembro de 1993, os Decretos-Leis nos 4.048, de 22 de janeiro de 1942, 8.621, de 10 de janeiro de 1946, e a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto- Lei nº 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "589516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-18-12593",
+      "titulo": "Lei nº 12.593 de 18/01/2012",
+      "data": "2012-01-18",
+      "numero": "12593",
+      "urn": "urn:lex:br:federal:lei:2012-01-18;12593",
+      "ementa": "Institui o Plano Plurianual da União para o período de 2012 a 2015."
+    },
+    {
+      "senadoId": "589514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-18-12591",
+      "titulo": "Lei nº 12.591 de 18/01/2012",
+      "data": "2012-01-18",
+      "numero": "12591",
+      "urn": "urn:lex:br:federal:lei:2012-01-18;12591",
+      "ementa": "Reconhece a profissão de Turismólogo e disciplina o seu exercício."
+    },
+    {
+      "senadoId": "589512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-09-12589",
+      "titulo": "Lei nº 12.589 de 09/01/2012",
+      "data": "2012-01-09",
+      "numero": "12589",
+      "urn": "urn:lex:br:federal:lei:2012-01-09;12589",
+      "ementa": "Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Esporte."
+    },
+    {
+      "senadoId": "589513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-09-12590",
+      "titulo": "Lei nº 12.590 de 09/01/2012",
+      "data": "2012-01-09",
+      "numero": "12590",
+      "urn": "urn:lex:br:federal:lei:2012-01-09;12590",
+      "ementa": "Altera a Lei nº 8.313, de 23 de dezembro de 1991 - Lei Rouanet - para reconhecer a música gospel e os eventos a ela relacionados como manifestação cultural."
+    },
+    {
+      "senadoId": "589511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-09-12588",
+      "titulo": "Lei nº 12.588 de 09/01/2012",
+      "data": "2012-01-09",
+      "numero": "12588",
+      "urn": "urn:lex:br:federal:lei:2012-01-09;12588",
+      "ementa": "Denomina Milton Brandão a rodovia BR- 404, que liga a cidade de Piripiri, no Estado do Piauí, à de Icó, no Estado do Ceará."
+    },
+    {
+      "senadoId": "589510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2012-01-03-12587",
+      "titulo": "Lei nº 12.587 de 03/01/2012",
+      "data": "2012-01-03",
+      "numero": "12587",
+      "urn": "urn:lex:br:federal:lei:2012-01-03;12587",
+      "ementa": "Institui as diretrizes da Política Nacional de Mobilidade Urbana; revoga dispositivos dos Decretos-Leis nºs 3.326, de 3 de junho de 1941, e 5.405, de 13 de abril de 1943, da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e das Leis nºs 5.917, de 10 de setembro de 1973, e 6.261, de 14 de novembro de 1975; e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

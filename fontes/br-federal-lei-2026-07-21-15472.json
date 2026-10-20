@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-07-21-15472",
+  "titulo": "Lei nº 15.472 de 21/07/2026",
+  "data": "2026-07-21",
+  "fonte": "https://normas.leg.br/api/public/binario/a97bc3e8-c61d-4194-8610-5fd4539ba462/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-07-21;15472",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-07-21%3B15472&tipo_documento=maior-detalhe",
+  "sha256_dados": "c38148f4b7d79eeae6439550916df4168906b6bf03e3a6e021496a0402addd49",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:20.509Z",
+  "sha256_fonte": "8c8dc0a3443b1e6a0d0dc3aa25f309ee113353d743971c3d8ce8c3fac7ab7b10",
+  "sha256_markdown": "672646e5a42c30417be7bc83e81c4e164416ec65c53b5f36de9fb10fe9b3bc4f"
+}

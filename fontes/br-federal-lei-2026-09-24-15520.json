@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-24-15520",
+  "titulo": "Lei nº 15.520 de 24/09/2026",
+  "data": "2026-09-24",
+  "fonte": "https://normas.leg.br/api/public/binario/231bbcb4-43be-4de4-a7b5-808c7951e240/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-24;15520",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-24%3B15520&tipo_documento=maior-detalhe",
+  "sha256_dados": "abbf46dea7279b7869f137fa76f6d443b306c7b6de73c72d5dd70011a5dc6eec",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:18.321Z",
+  "sha256_fonte": "4dbde97b92af7140b3481551155a4e6278b3090a7568ee311acc3e871a08ec37",
+  "sha256_markdown": "7796f32d6f0fc198536743ddcc38b210c17cf1bc59d0fa2094206c5c6e7ee63b"
+}

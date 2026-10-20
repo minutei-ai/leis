@@ -1,0 +1,1819 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1974",
+  "tipo": "LEI",
+  "ano": 1974,
+  "coletado_em": "2026-10-20T22:58:11.422Z",
+  "normas": [
+    {
+      "senadoId": "548074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-26-6198",
+      "titulo": "Lei nº 6.198 de 26/12/1974",
+      "data": "1974-12-26",
+      "numero": "6198",
+      "urn": "urn:lex:br:federal:lei:1974-12-26;6198",
+      "ementa": "Dispõe sobre a inspeção e a fiscalização obrigatórias dos produtos destinados à alimentação animal e dá outras providências."
+    },
+    {
+      "senadoId": "548073",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-23-6197",
+      "titulo": "Lei nº 6.197 de 23/12/1974",
+      "data": "1974-12-23",
+      "numero": "6197",
+      "urn": "urn:lex:br:federal:lei:1974-12-23;6197",
+      "ementa": "Retifica, sem ônus, a Lei nº 5.964, de 1973, que estima a Receita e fixa a   Despesa da União para o Exercício financeiro de 1974."
+    },
+    {
+      "senadoId": "548071",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-19-6195",
+      "titulo": "Lei nº 6.195 de 19/12/1974",
+      "data": "1974-12-19",
+      "numero": "6195",
+      "urn": "urn:lex:br:federal:lei:1974-12-19;6195",
+      "ementa": "Atribui ao FUNRURAL a concessão de prestações por acidente do   trabalho."
+    },
+    {
+      "senadoId": "548072",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-19-6196",
+      "titulo": "Lei nº 6.196 de 19/12/1974",
+      "data": "1974-12-19",
+      "numero": "6196",
+      "urn": "urn:lex:br:federal:lei:1974-12-19;6196",
+      "ementa": "Altera o artigo 28, e o parágrafo único, do artigo 35, da Lei nº 5.682, de   21 de julho de 1971 (Lei Orgânica dos Partidos Políticos), e dá outras   providências."
+    },
+    {
+      "senadoId": "548069",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-19-6193",
+      "titulo": "Lei nº 6.193 de 19/12/1974",
+      "data": "1974-12-19",
+      "numero": "6193",
+      "urn": "urn:lex:br:federal:lei:1974-12-19;6193",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria do Supremo   Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "548068",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-19-6192",
+      "titulo": "Lei nº 6.192 de 19/12/1974",
+      "data": "1974-12-19",
+      "numero": "6192",
+      "urn": "urn:lex:br:federal:lei:1974-12-19;6192",
+      "ementa": "Dispõe sobre restrições a brasileiros naturalizados, e dá outras   providências."
+    },
+    {
+      "senadoId": "548070",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-19-6194",
+      "titulo": "Lei nº 6.194 de 19/12/1974",
+      "data": "1974-12-19",
+      "numero": "6194",
+      "urn": "urn:lex:br:federal:lei:1974-12-19;6194",
+      "ementa": "Dispõe sobre Seguro Obrigatório de Danos Pessoais causados por veículos automotores de via terrestre, ou por sua carga, a pessoas transportadas ou não."
+    },
+    {
+      "senadoId": "548066",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-17-6190",
+      "titulo": "Lei nº 6.190 de 17/12/1974",
+      "data": "1974-12-17",
+      "numero": "6190",
+      "urn": "urn:lex:br:federal:lei:1974-12-17;6190",
+      "ementa": "Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício   Financeiro de 1975."
+    },
+    {
+      "senadoId": "548067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-17-6191",
+      "titulo": "Lei nº 6.191 de 17/12/1974",
+      "data": "1974-12-17",
+      "numero": "6191",
+      "urn": "urn:lex:br:federal:lei:1974-12-17;6191",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos do Distrito Federal para o   Triênio 1975/1977."
+    },
+    {
+      "senadoId": "548064",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-16-6188",
+      "titulo": "Lei nº 6.188 de 16/12/1974",
+      "data": "1974-12-16",
+      "numero": "6188",
+      "urn": "urn:lex:br:federal:lei:1974-12-16;6188",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos para o triênio de   1975/1977."
+    },
+    {
+      "senadoId": "548065",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-16-6189",
+      "titulo": "Lei nº 6.189 de 16/12/1974",
+      "data": "1974-12-16",
+      "numero": "6189",
+      "urn": "urn:lex:br:federal:lei:1974-12-16;6189",
+      "ementa": "Altera a Lei nº 4.118, de 27 de agosto de 1962, e a Lei n. 5740, de 1º de dezembro de 1971, que criaram, respectivamente, a comissão Nacional de Energia Nuclear - CNEN e a Companhia Brasileira de Tecnologia Nuclear - CBTN, que passa a denominar-se Empresas Nucleares Brasileiras Sociedade Anônima - NUCLEBRÁS, e dá outras providências."
+    },
+    {
+      "senadoId": "548063",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-16-6187",
+      "titulo": "Lei nº 6.187 de 16/12/1974",
+      "data": "1974-12-16",
+      "numero": "6187",
+      "urn": "urn:lex:br:federal:lei:1974-12-16;6187",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1975."
+    },
+    {
+      "senadoId": "548052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6176",
+      "titulo": "Lei nº 6.176 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6176",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6176",
+      "ementa": "Autoriza o Poder Executivo a realizar a subscrição de ações nos aumentos   de capital da Companhia Brasileira de Alimentos e dá outras   providências."
+    },
+    {
+      "senadoId": "548058",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6182",
+      "titulo": "Lei nº 6.182 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6182",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6182",
+      "ementa": "Fixa a retribuição do Grupo-Magistério, do Serviço Civil da União e das Autarquias Federais, e dá outras providências."
+    },
+    {
+      "senadoId": "548062",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6186",
+      "titulo": "Lei nº 6.186 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6186",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6186",
+      "ementa": "Dispõe sobre o fornecimento ou divulgação, pela Fundação Instituto   Brasileiro de Geografia e Estatística, aos Municípios brasileiros interessados,   dos dados demográficos necessários ao cumprimento do § 2º do artigo 15, da   Constituição Federal."
+    },
+    {
+      "senadoId": "548053",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6177",
+      "titulo": "Lei nº 6.177 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6177",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6177",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos suplementares ao Orçamento da   União, aprovado pela Lei nº 5.964, de 10 de dezembro de 1973."
+    },
+    {
+      "senadoId": "548057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6181",
+      "titulo": "Lei nº 6.181 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6181",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6181",
+      "ementa": "Altera o artigo 600, da Consolidação das Leis do Trabalho, amplia a destinação do Fundo de Assistência ao Desempregado e dá outras providências."
+    },
+    {
+      "senadoId": "548055",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6179",
+      "titulo": "Lei nº 6.179 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6179",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6179",
+      "ementa": "Institui amparo previdenciário para maiores de setenta anos de idade e   para inválidos, e dá outras providências."
+    },
+    {
+      "senadoId": "548054",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6178",
+      "titulo": "Lei nº 6.178 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6178",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6178",
+      "ementa": "Estabelece acréscimo provisório dos benefícios da previdência   social."
+    },
+    {
+      "senadoId": "548059",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6183",
+      "titulo": "Lei nº 6.183 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6183",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6183",
+      "ementa": "Dispõe sobre os Sistemas Estatístico e Cartográfico Nacionais, e dá outras   providências."
+    },
+    {
+      "senadoId": "548061",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6185",
+      "titulo": "Lei nº 6.185 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6185",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6185",
+      "ementa": "Dispõe sobre os servidores públicos civis da Administração Federal direta e autárquica, segundo a natureza jurídica do vínculo empregatício, e dá outras providências."
+    },
+    {
+      "senadoId": "548060",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6184",
+      "titulo": "Lei nº 6.184 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6184",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6184",
+      "ementa": "Dispõe sobre a integração de funcionários públicos nos quadros de   sociedades de economia mista, empresas públicas e fundações resultantes de   transformação de órgãos da Administração Federal Direta e autarquias; revoga a   Lei nº 5.927, de 11 de outubro de 1973, e dá outras providências."
+    },
+    {
+      "senadoId": "548056",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-11-6180",
+      "titulo": "Lei nº 6.180 de 11/12/1974",
+      "data": "1974-12-11",
+      "numero": "6180",
+      "urn": "urn:lex:br:federal:lei:1974-12-11;6180",
+      "ementa": "Mantém até 31 de dezembro de 1983 o percentual a que se refere o artigo 1º, item I, da Lei nº 5.824, de 14 de novembro de 1972, e dá outras providências."
+    },
+    {
+      "senadoId": "548051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-10-6175",
+      "titulo": "Lei nº 6.175 de 10/12/1974",
+      "data": "1974-12-10",
+      "numero": "6175",
+      "urn": "urn:lex:br:federal:lei:1974-12-10;6175",
+      "ementa": "Revoga as Leis nºs 1.386, de 18 de junho de 1951, e 2186-A, de 13 de   fevereiro de 1954."
+    },
+    {
+      "senadoId": "548042",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6166",
+      "titulo": "Lei nº 6.166 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6166",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6166",
+      "ementa": "Autoriza a doação de terreno situado no Rio de Janeiro, Estado da   Guanabara, de propriedade do Instituto de Previdência e Assistência dos   Servidores do Estado (IPASE)."
+    },
+    {
+      "senadoId": "548045",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6169",
+      "titulo": "Lei nº 6.169 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6169",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6169",
+      "ementa": "Concede pensão especial a José Carlos Tedesco."
+    },
+    {
+      "senadoId": "548043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6167",
+      "titulo": "Lei nº 6.167 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6167",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6167",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Distrito Federal e dos   Territórios, em favor do Juizado de Menores, o crédito especial de Cr$   235.000,00 para o fim que especifica."
+    },
+    {
+      "senadoId": "548047",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6171",
+      "titulo": "Lei nº 6.171 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6171",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6171",
+      "ementa": "Extingue o Departamento Nacional de Estradas de Ferro e dá outras providências."
+    },
+    {
+      "senadoId": "548049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6173",
+      "titulo": "Lei nº 6.173 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6173",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6173",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério das Comunicações o   crédito especial de Cr$ 3.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548050",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6174",
+      "titulo": "Lei nº 6.174 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6174",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6174",
+      "ementa": "Dispõe sobre a aplicação do disposto nos artigos 12,   da alínea a           , e 339,   do Código de Processo Penal Militar, nos casos de acidente de trânsito, e dá   outras providências."
+    },
+    {
+      "senadoId": "548044",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6168",
+      "titulo": "Lei nº 6.168 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6168",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6168",
+      "ementa": "Cria o Fundo de Apoio ao Desenvolvimento Social - FAS - e dá outras providências."
+    },
+    {
+      "senadoId": "548048",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6172",
+      "titulo": "Lei nº 6.172 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6172",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6172",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Agricultura, crédito   especial até o limite de Cr$ 16.761.800,00, para o fim que   especifica."
+    },
+    {
+      "senadoId": "548041",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6165",
+      "titulo": "Lei nº 6.165 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6165",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6165",
+      "ementa": "Dispõe sobre a formação de Oficiais Engenheiros para o Corpo de Oficiais   da Aeronáutica, da Ativa, e dá outras providências."
+    },
+    {
+      "senadoId": "548046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-09-6170",
+      "titulo": "Lei nº 6.170 de 09/12/1974",
+      "data": "1974-12-09",
+      "numero": "6170",
+      "urn": "urn:lex:br:federal:lei:1974-12-09;6170",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Justiça em favor do   Conselho Administrativo de Defesa Econômica, o crédito especial de Cr$ 10.200,00   para o fim que especifica."
+    },
+    {
+      "senadoId": "548040",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-06-6164",
+      "titulo": "Lei nº 6.164 de 06/12/1974",
+      "data": "1974-12-06",
+      "numero": "6164",
+      "urn": "urn:lex:br:federal:lei:1974-12-06;6164",
+      "ementa": "Dispõe sobre a transferência da propriedade de bens imóveis do Serviço   Federal de Habitação e Urbanismo (SERFHAU), e dá outras   providências."
+    },
+    {
+      "senadoId": "548038",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-06-6162",
+      "titulo": "Lei nº 6.162 de 06/12/1974",
+      "data": "1974-12-06",
+      "numero": "6162",
+      "urn": "urn:lex:br:federal:lei:1974-12-06;6162",
+      "ementa": "Dispõe sobre a integração de funcionários públicos do Distrito Federal nos   quadros de pessoal dos órgãos relativamente autônomos, autarquia, empresas   públicas, sociedades de economia mista e fundações, e dá outras   providências."
+    },
+    {
+      "senadoId": "548036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-06-6160",
+      "titulo": "Lei nº 6.160 de 06/12/1974",
+      "data": "1974-12-06",
+      "numero": "6160",
+      "urn": "urn:lex:br:federal:lei:1974-12-06;6160",
+      "ementa": "Acrescenta parágrafo ao artigo 9º, da Lei nº 4.519, de 2 de dezembro de 1964, que \"dispõe sobre a liquidação, por acordo, das desapropriações efetuadas no Nordeste e dá outras providências."
+    },
+    {
+      "senadoId": "548035",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-06-6159",
+      "titulo": "Lei nº 6.159 de 06/12/1974",
+      "data": "1974-12-06",
+      "numero": "6159",
+      "urn": "urn:lex:br:federal:lei:1974-12-06;6159",
+      "ementa": "Altera dispositivos da Lei nº 5.919, de 17 de setembro de 1973, que autorizou a constituição da SIDERBRÁS, e dá outras providências."
+    },
+    {
+      "senadoId": "548037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-06-6161",
+      "titulo": "Lei nº 6.161 de 06/12/1974",
+      "data": "1974-12-06",
+      "numero": "6161",
+      "urn": "urn:lex:br:federal:lei:1974-12-06;6161",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Trabalho, em favor do   Tribunal Regional do Trabalho da 3ª Região, o crédito especial de Cr$   550.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548039",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-06-6163",
+      "titulo": "Lei nº 6.163 de 06/12/1974",
+      "data": "1974-12-06",
+      "numero": "6163",
+      "urn": "urn:lex:br:federal:lei:1974-12-06;6163",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Saúde, em favor das   Delegacias Federais de Saúde, o crédito especial de Cr$   1.800.000,00."
+    },
+    {
+      "senadoId": "548031",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-05-6155",
+      "titulo": "Lei nº 6.155 de 05/12/1974",
+      "data": "1974-12-05",
+      "numero": "6155",
+      "urn": "urn:lex:br:federal:lei:1974-12-05;6155",
+      "ementa": "Reajusta os vencimentos dos servidores da Câmara dos Deputados e dá outras   providências."
+    },
+    {
+      "senadoId": "548032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-05-6156",
+      "titulo": "Lei nº 6.156 de 05/12/1974",
+      "data": "1974-12-05",
+      "numero": "6156",
+      "urn": "urn:lex:br:federal:lei:1974-12-05;6156",
+      "ementa": "Reajusta os vencimentos dos servidores do Senado Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "548034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-05-6158",
+      "titulo": "Lei nº 6.158 de 05/12/1974",
+      "data": "1974-12-05",
+      "numero": "6158",
+      "urn": "urn:lex:br:federal:lei:1974-12-05;6158",
+      "ementa": "Reorganiza os Quadros de Oficiais Auxiliares da Marinha e dá outras   providências."
+    },
+    {
+      "senadoId": "548033",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-05-6157",
+      "titulo": "Lei nº 6.157 de 05/12/1974",
+      "data": "1974-12-05",
+      "numero": "6157",
+      "urn": "urn:lex:br:federal:lei:1974-12-05;6157",
+      "ementa": "Concede pensão especial a José Fernandes da Luz."
+    },
+    {
+      "senadoId": "548027",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-04-6151",
+      "titulo": "Lei nº 6.151 de 04/12/1974",
+      "data": "1974-12-04",
+      "numero": "6151",
+      "urn": "urn:lex:br:federal:lei:1974-12-04;6151",
+      "ementa": "Dispõe sobre o Segundo Plano Nacional de Desenvolvimento (PND), para o período de 1975 a 1979."
+    },
+    {
+      "senadoId": "548028",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-04-6152",
+      "titulo": "Lei nº 6.152 de 04/12/1974",
+      "data": "1974-12-04",
+      "numero": "6152",
+      "urn": "urn:lex:br:federal:lei:1974-12-04;6152",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Trabalho, em favor do   Tribunal Regional do Trabalho da 4ª Região, o crédito especial de Cr$   440.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548029",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-04-6153",
+      "titulo": "Lei nº 6.153 de 04/12/1974",
+      "data": "1974-12-04",
+      "numero": "6153",
+      "urn": "urn:lex:br:federal:lei:1974-12-04;6153",
+      "ementa": "Autoriza o Poder Executivo a abrir a Encargos Gerais da União - Recursos   sob Supervisão da Secretaria de Planejamento da Presidência da República - o   crédito especial de Cr$ 40.800,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548030",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-04-6154",
+      "titulo": "Lei nº 6.154 de 04/12/1974",
+      "data": "1974-12-04",
+      "numero": "6154",
+      "urn": "urn:lex:br:federal:lei:1974-12-04;6154",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério dos Transportes o crédito   especial até o limite de Cr$ 138.678.600,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548026",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-03-6150",
+      "titulo": "Lei nº 6.150 de 03/12/1974",
+      "data": "1974-12-03",
+      "numero": "6150",
+      "urn": "urn:lex:br:federal:lei:1974-12-03;6150",
+      "ementa": "Dispõe sobre a obrigatoriedade da iodação do sal destinado ao consumo humano, seu controle pelos órgãos sanitários e dá outras providências."
+    },
+    {
+      "senadoId": "548025",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-02-6149",
+      "titulo": "Lei nº 6.149 de 02/12/1974",
+      "data": "1974-12-02",
+      "numero": "6149",
+      "urn": "urn:lex:br:federal:lei:1974-12-02;6149",
+      "ementa": "Dispõe sobre a segurança do transporte metroviário e dá outras   providências."
+    },
+    {
+      "senadoId": "548024",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-12-02-6148",
+      "titulo": "Lei nº 6.148 de 02/12/1974",
+      "data": "1974-12-02",
+      "numero": "6148",
+      "urn": "urn:lex:br:federal:lei:1974-12-02;6148",
+      "ementa": "Altera o artigo 51, da Lei nº 2.851, de 25 de agosto de 1956, que dispõe   sobre a Organização Básica do Exército, e dá outras providências."
+    },
+    {
+      "senadoId": "548022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-29-6146",
+      "titulo": "Lei nº 6.146 de 29/11/1974",
+      "data": "1974-11-29",
+      "numero": "6146",
+      "urn": "urn:lex:br:federal:lei:1974-11-29;6146",
+      "ementa": "Estabelece normas de reajustamento nos contratos de locações residenciais   regidos pela Lei nº 4.494, de 25 de novembro de 1964."
+    },
+    {
+      "senadoId": "548023",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-29-6147",
+      "titulo": "Lei nº 6.147 de 29/11/1974",
+      "data": "1974-11-29",
+      "numero": "6147",
+      "urn": "urn:lex:br:federal:lei:1974-11-29;6147",
+      "ementa": "Dispõe sobre o reajustamento coletivo de salário das categorias   profissionais e dá outras providências."
+    },
+    {
+      "senadoId": "548020",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-29-6144",
+      "titulo": "Lei nº 6.144 de 29/11/1974",
+      "data": "1974-11-29",
+      "numero": "6144",
+      "urn": "urn:lex:br:federal:lei:1974-11-29;6144",
+      "ementa": "Fixa os efetivos do Exército em tempo de paz, e dá outras providências."
+    },
+    {
+      "senadoId": "548021",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-29-6145",
+      "titulo": "Lei nº 6.145 de 29/11/1974",
+      "data": "1974-11-29",
+      "numero": "6145",
+      "urn": "urn:lex:br:federal:lei:1974-11-29;6145",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Trabalho, em favor do   Tribunal Regional do Trabalho da 5ª Região, o crédito especial de Cr$   500.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-29-6143",
+      "titulo": "Lei nº 6.143 de 29/11/1974",
+      "data": "1974-11-29",
+      "numero": "6143",
+      "urn": "urn:lex:br:federal:lei:1974-11-29;6143",
+      "ementa": "Autoriza a União a subscrever ações no aumento do capital social do Banco   Nacional de Crédito Cooperativo S.A., e dá outras providências."
+    },
+    {
+      "senadoId": "548017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-28-6141",
+      "titulo": "Lei nº 6.141 de 28/11/1974",
+      "data": "1974-11-28",
+      "numero": "6141",
+      "urn": "urn:lex:br:federal:lei:1974-11-28;6141",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da Quinta Região e dá outras providências."
+    },
+    {
+      "senadoId": "548016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-28-6140",
+      "titulo": "Lei nº 6.140 de 28/11/1974",
+      "data": "1974-11-28",
+      "numero": "6140",
+      "urn": "urn:lex:br:federal:lei:1974-11-28;6140",
+      "ementa": "Dá nova redação ao artigo 49 e seus parágrafos, e ao item 7º, do artigo   55, da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros   públicos e dá outras providências."
+    },
+    {
+      "senadoId": "548018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-28-6142",
+      "titulo": "Lei nº 6.142 de 28/11/1974",
+      "data": "1974-11-28",
+      "numero": "6142",
+      "urn": "urn:lex:br:federal:lei:1974-11-28;6142",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos-Atividades de Apoio Judiciário, Serviços de Transporte Oficial e Portaria, Artesanato, Outras Atividades de Nível Superior e Outras Atividades de Nível Médio do Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da Quinta Região e dá outras providências."
+    },
+    {
+      "senadoId": "548015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-11-6139",
+      "titulo": "Lei nº 6.139 de 11/11/1974",
+      "data": "1974-11-11",
+      "numero": "6139",
+      "urn": "urn:lex:br:federal:lei:1974-11-11;6139",
+      "ementa": "Autoriza a incorporação da Faculdade de Serviço Social de Juiz de Fora à   Universidade Federal de Juiz de Fora."
+    },
+    {
+      "senadoId": "548014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-08-6138",
+      "titulo": "Lei nº 6.138 de 08/11/1974",
+      "data": "1974-11-08",
+      "numero": "6138",
+      "urn": "urn:lex:br:federal:lei:1974-11-08;6138",
+      "ementa": "Dispõe sobre a inspeção e fiscalização do comércio de fertilizantes,   corretivos e inoculantes destinados à agricultura, e dá outras   providências."
+    },
+    {
+      "senadoId": "548012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6136",
+      "titulo": "Lei nº 6.136 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6136",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6136",
+      "ementa": "Inclui o salário-maternidade entre as prestações da Previdência Social."
+    },
+    {
+      "senadoId": "548008",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6132",
+      "titulo": "Lei nº 6.132 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6132",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6132",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Justiça, em favor do   Ministério Público da União, o crédito especial de Cr$ 78.500,00, para o fim que   especifica."
+    },
+    {
+      "senadoId": "548013",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6137",
+      "titulo": "Lei nº 6.137 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6137",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6137",
+      "ementa": "Acrescenta parágrafo ao artigo 43 da Lei nº 4.502, de 30 de novembro de 1964 e ao artigo 1º da Lei nº 4.557, de 10 de dezembro de 1964."
+    },
+    {
+      "senadoId": "548010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6134",
+      "titulo": "Lei nº 6.134 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6134",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6134",
+      "ementa": "Autoriza o Poder Executivo a efetuar transação com o Governo da   Grã-Bretanha para saldar débitos provenientes de encampação e desapropriação de   Companhias estrangeiras."
+    },
+    {
+      "senadoId": "548011",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6135",
+      "titulo": "Lei nº 6.135 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6135",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6135",
+      "ementa": "Altera a Lei Orgânica da Previdência Social no tocante à contribuição do trabalhador autônomo."
+    },
+    {
+      "senadoId": "548009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6133",
+      "titulo": "Lei nº 6.133 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6133",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6133",
+      "ementa": "Dispõe sobre doação de terreno da União à Companhia Brasileira de   Alimentos - COBAL."
+    },
+    {
+      "senadoId": "548007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6131",
+      "titulo": "Lei nº 6.131 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6131",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6131",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Trabalho, em favor do   Tribunal Regional do Trabalho da 7ª Região, o crédito especial de Cr$ 300.000,00   (trezentos mil cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "548006",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-07-6130",
+      "titulo": "Lei nº 6.130 de 07/11/1974",
+      "data": "1974-11-07",
+      "numero": "6130",
+      "urn": "urn:lex:br:federal:lei:1974-11-07;6130",
+      "ementa": "Autoriza a Superintendência do Desenvolvimento da Região Centro-Oeste   (SUDECO) a alienar bens integrantes do seu patrimônio."
+    },
+    {
+      "senadoId": "548002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-06-6126",
+      "titulo": "Lei nº 6.126 de 06/11/1974",
+      "data": "1974-11-06",
+      "numero": "6126",
+      "urn": "urn:lex:br:federal:lei:1974-11-06;6126",
+      "ementa": "Autoriza o Poder Executivo a instituir a Empresa Brasileira de Assistência   Técnica e Extensão Rural (EMBRATER) e dá outras providências."
+    },
+    {
+      "senadoId": "548005",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-06-6129",
+      "titulo": "Lei nº 6.129 de 06/11/1974",
+      "data": "1974-11-06",
+      "numero": "6129",
+      "urn": "urn:lex:br:federal:lei:1974-11-06;6129",
+      "ementa": "Dispõe sobre a transformação do Conselho Nacional de Pesquisas em Conselho   Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e dá outras   providências."
+    },
+    {
+      "senadoId": "548004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-06-6128",
+      "titulo": "Lei nº 6.128 de 06/11/1974",
+      "data": "1974-11-06",
+      "numero": "6128",
+      "urn": "urn:lex:br:federal:lei:1974-11-06;6128",
+      "ementa": "Acrescenta parágrafo único ao artigo 566 da Consolidação das Leis do Trabalho para assegurar a sindicalização dos empregados de sociedades de economia mista."
+    },
+    {
+      "senadoId": "548003",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-06-6127",
+      "titulo": "Lei nº 6.127 de 06/11/1974",
+      "data": "1974-11-06",
+      "numero": "6127",
+      "urn": "urn:lex:br:federal:lei:1974-11-06;6127",
+      "ementa": "Prorroga, por período indeterminado, o prazo fixado no artigo 51, da Lei   nº 4.117, de 27 de agosto de 1962, que institui o Código Brasileiro de   Telecomunicações."
+    },
+    {
+      "senadoId": "548001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-11-04-6125",
+      "titulo": "Lei nº 6.125 de 04/11/1974",
+      "data": "1974-11-04",
+      "numero": "6125",
+      "urn": "urn:lex:br:federal:lei:1974-11-04;6125",
+      "ementa": "Autoriza o Poder Executivo a constituir a Empresa de Processamento de Dados da Previdência Social - DATAPREV, e dá outras providências."
+    },
+    {
+      "senadoId": "548000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-25-6124",
+      "titulo": "Lei nº 6.124 de 25/10/1974",
+      "data": "1974-10-25",
+      "numero": "6124",
+      "urn": "urn:lex:br:federal:lei:1974-10-25;6124",
+      "ementa": "Altera o artigo 14, da Lei número 5.108, de 21 de setembro de 1966 -   Código Nacional de Trânsito."
+    },
+    {
+      "senadoId": "547999",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-22-6123",
+      "titulo": "Lei nº 6.123 de 22/10/1974",
+      "data": "1974-10-22",
+      "numero": "6123",
+      "urn": "urn:lex:br:federal:lei:1974-10-22;6123",
+      "ementa": "Autoriza o Poder Executivo a realizar a subscrição de ações nos aumentos   de capital da Companhia Nacional de Álcalis e dá outras   providências."
+    },
+    {
+      "senadoId": "547995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-15-6119",
+      "titulo": "Lei nº 6.119 de 15/10/1974",
+      "data": "1974-10-15",
+      "numero": "6119",
+      "urn": "urn:lex:br:federal:lei:1974-10-15;6119",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos suplementares aos programas   constantes da Lei nº 5.964, de 10 de dezembro de 1973."
+    },
+    {
+      "senadoId": "547997",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-15-6121",
+      "titulo": "Lei nº 6.121 de 15/10/1974",
+      "data": "1974-10-15",
+      "numero": "6121",
+      "urn": "urn:lex:br:federal:lei:1974-10-15;6121",
+      "ementa": "Concede pensão especial a Orestes Correa."
+    },
+    {
+      "senadoId": "547996",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-15-6120",
+      "titulo": "Lei nº 6.120 de 15/10/1974",
+      "data": "1974-10-15",
+      "numero": "6120",
+      "urn": "urn:lex:br:federal:lei:1974-10-15;6120",
+      "ementa": "Dispõe sobre a alienação de bens imóveis de instituições federais de   ensino e dá outras providências."
+    },
+    {
+      "senadoId": "547998",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-15-6122",
+      "titulo": "Lei nº 6.122 de 15/10/1974",
+      "data": "1974-10-15",
+      "numero": "6122",
+      "urn": "urn:lex:br:federal:lei:1974-10-15;6122",
+      "ementa": "Dispõe sobre o restituição de bens em dinheiro de súditos alemães e   japoneses domiciliados no Brasil."
+    },
+    {
+      "senadoId": "547994",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-09-6118",
+      "titulo": "Lei nº 6.118 de 09/10/1974",
+      "data": "1974-10-09",
+      "numero": "6118",
+      "urn": "urn:lex:br:federal:lei:1974-10-09;6118",
+      "ementa": "Dispõe sobre a criação do Conselho de Desenvolvimento Social e dá outras   providências."
+    },
+    {
+      "senadoId": "547992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-08-6116",
+      "titulo": "Lei nº 6.116 de 08/10/1974",
+      "data": "1974-10-08",
+      "numero": "6116",
+      "urn": "urn:lex:br:federal:lei:1974-10-08;6116",
+      "ementa": "Autoriza o Instituto Brasileiro de Desenvolvimento Florestal - IBDF - a   alienar imóveis que menciona."
+    },
+    {
+      "senadoId": "547993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-08-6117",
+      "titulo": "Lei nº 6.117 de 08/10/1974",
+      "data": "1974-10-08",
+      "numero": "6117",
+      "urn": "urn:lex:br:federal:lei:1974-10-08;6117",
+      "ementa": "Dispõe sobre a composição do Conselho Nacional de Desportos."
+    },
+    {
+      "senadoId": "547991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-08-6115",
+      "titulo": "Lei nº 6.115 de 08/10/1974",
+      "data": "1974-10-08",
+      "numero": "6115",
+      "urn": "urn:lex:br:federal:lei:1974-10-08;6115",
+      "ementa": "Autoriza o Governo do Distrito Federal a abrir crédito suplementar em   reforço de dotações que especifica, constantes do Orçamento do Distrito Federal   para o exercício financeiro de 1974."
+    },
+    {
+      "senadoId": "547990",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-03-6114",
+      "titulo": "Lei nº 6.114 de 03/10/1974",
+      "data": "1974-10-03",
+      "numero": "6114",
+      "urn": "urn:lex:br:federal:lei:1974-10-03;6114",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos-Atividades de Apoio   Judiciário, Serviços Auxiliares, Serviços de Transporte Oficial e Portaria,   Artesanato, Outras Atividades de Nível Superior, Outras Atividades de Nível   Médio e Direção e Assistência Intermediárias, do Quadro Permanente da Secretaria   do Tribunal Regional do Trabalho da 8ª Região e dá outras   providências."
+    },
+    {
+      "senadoId": "547987",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-01-6111",
+      "titulo": "Lei nº 6.111 de 01/10/1974",
+      "data": "1974-10-01",
+      "numero": "6111",
+      "urn": "urn:lex:br:federal:lei:1974-10-01;6111",
+      "ementa": "Reajusta o valor de gratificações, na Justiça Eleitoral, e dá outras   providências."
+    },
+    {
+      "senadoId": "547986",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-01-6110",
+      "titulo": "Lei nº 6.110 de 01/10/1974",
+      "data": "1974-10-01",
+      "numero": "6110",
+      "urn": "urn:lex:br:federal:lei:1974-10-01;6110",
+      "ementa": "Prorroga o prazo de validade das carteiras de identidade de estrangeiros \"modelo 19\" e dá outras providências."
+    },
+    {
+      "senadoId": "547989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-01-6113",
+      "titulo": "Lei nº 6.113 de 01/10/1974",
+      "data": "1974-10-01",
+      "numero": "6113",
+      "urn": "urn:lex:br:federal:lei:1974-10-01;6113",
+      "ementa": "Dispõe sobre os ex-integrantes da extinta Polícia do antigo Território do   Acre e dá outras providências."
+    },
+    {
+      "senadoId": "547988",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-10-01-6112",
+      "titulo": "Lei nº 6.112 de 01/10/1974",
+      "data": "1974-10-01",
+      "numero": "6112",
+      "urn": "urn:lex:br:federal:lei:1974-10-01;6112",
+      "ementa": "Estende a jurisdição da Junta de Conciliação e Julgamento de São Gonçalo,   Estado do Rio de Janeiro, ao Município de Rio Bonito."
+    },
+    {
+      "senadoId": "547985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-23-6109",
+      "titulo": "Lei nº 6.109 de 23/09/1974",
+      "data": "1974-09-23",
+      "numero": "6109",
+      "urn": "urn:lex:br:federal:lei:1974-09-23;6109",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e   Assessoramento Superiores, do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da 8ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547983",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-23-6107",
+      "titulo": "Lei nº 6.107 de 23/09/1974",
+      "data": "1974-09-23",
+      "numero": "6107",
+      "urn": "urn:lex:br:federal:lei:1974-09-23;6107",
+      "ementa": "Fixa valores dos níveis de vencimentos do Grupo-Direção e Assessoramento   Superiores do Quadro Permanente da Secretaria do Tribunal Regional do Trabalho   da Quarta Região e dá outras providências."
+    },
+    {
+      "senadoId": "547984",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-23-6108",
+      "titulo": "Lei nº 6.108 de 23/09/1974",
+      "data": "1974-09-23",
+      "numero": "6108",
+      "urn": "urn:lex:br:federal:lei:1974-09-23;6108",
+      "ementa": "Fixa valores de vencimentos e gratificações dos cargos e função dos Grupos   - Atividades de Apoio Judiciário, Serviços Auxiliares, Serviços de Transporte   Oficial e Portaria, Artesanato, Outras Atividades de Nível Superior, Outras   Atividades de Nível Médio e Direção e Assistência Intermediárias, do Quadro   Permanente da Secretaria do Tribunal Regional do Trabalho da Quarta Região e dá   outras providências."
+    },
+    {
+      "senadoId": "547982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-19-6106",
+      "titulo": "Lei nº 6.106 de 19/09/1974",
+      "data": "1974-09-19",
+      "numero": "6106",
+      "urn": "urn:lex:br:federal:lei:1974-09-19;6106",
+      "ementa": "Autoriza a Universidade Federal de Santa Catarina a doar ao Governo do   Estado de Santa Catarina terreno que especifica."
+    },
+    {
+      "senadoId": "547980",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-13-6104",
+      "titulo": "Lei nº 6.104 de 13/09/1974",
+      "data": "1974-09-13",
+      "numero": "6104",
+      "urn": "urn:lex:br:federal:lei:1974-09-13;6104",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos-Atividades de Apoio   Judiciário, Serviços Auxiliares, Serviços de Transporte Oficial e Portaria,   Artesanato, outras Atividades de Nível Superior, outras Atividades de Nível   Médio e Direção e Assistência Intermediárias, do Quadro Permanente da Secretaria   do Tribunal Regional do Trabalho da Sexta Região e dá outras   providências."
+    },
+    {
+      "senadoId": "547979",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-13-6103",
+      "titulo": "Lei nº 6.103 de 13/09/1974",
+      "data": "1974-09-13",
+      "numero": "6103",
+      "urn": "urn:lex:br:federal:lei:1974-09-13;6103",
+      "ementa": "Altera o Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho   da Terceira Região e dá outras providências."
+    },
+    {
+      "senadoId": "547981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-13-6105",
+      "titulo": "Lei nº 6.105 de 13/09/1974",
+      "data": "1974-09-13",
+      "numero": "6105",
+      "urn": "urn:lex:br:federal:lei:1974-09-13;6105",
+      "ementa": "Altera o Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho   da Sétima Região e dá outras providências."
+    },
+    {
+      "senadoId": "547978",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-12-6102",
+      "titulo": "Lei nº 6.102 de 12/09/1974",
+      "data": "1974-09-12",
+      "numero": "6102",
+      "urn": "urn:lex:br:federal:lei:1974-09-12;6102",
+      "ementa": "Atualiza o valor da pensão especial concedida pela Lei nº 4.460, de 7 de   novembro de 1964."
+    },
+    {
+      "senadoId": "547977",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-12-6101",
+      "titulo": "Lei nº 6.101 de 12/09/1974",
+      "data": "1974-09-12",
+      "numero": "6101",
+      "urn": "urn:lex:br:federal:lei:1974-09-12;6101",
+      "ementa": "Autoriza a União a subscrever o aumento do capital social da Indústria   Carboquímica Catarinense SA - ICC e dá outras providências."
+    },
+    {
+      "senadoId": "547975",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-12-6099",
+      "titulo": "Lei nº 6.099 de 12/09/1974",
+      "data": "1974-09-12",
+      "numero": "6099",
+      "urn": "urn:lex:br:federal:lei:1974-09-12;6099",
+      "ementa": "Dispõe sobre o tratamento tributário das operações de arrendamento mercantil e dá outras providências."
+    },
+    {
+      "senadoId": "547976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-12-6100",
+      "titulo": "Lei nº 6.100 de 12/09/1974",
+      "data": "1974-09-12",
+      "numero": "6100",
+      "urn": "urn:lex:br:federal:lei:1974-09-12;6100",
+      "ementa": "Autoriza o Poder Executivo a promover a subscrição no aumento de capital   da Companhia Vale do Rio Doce - CVRD, e dá outras providências."
+    },
+    {
+      "senadoId": "547974",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-11-6098",
+      "titulo": "Lei nº 6.098 de 11/09/1974",
+      "data": "1974-09-11",
+      "numero": "6098",
+      "urn": "urn:lex:br:federal:lei:1974-09-11;6098",
+      "ementa": "Altera o Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho   da 5ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "547973",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-05-6097",
+      "titulo": "Lei nº 6.097 de 05/09/1974",
+      "data": "1974-09-05",
+      "numero": "6097",
+      "urn": "urn:lex:br:federal:lei:1974-09-05;6097",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da Sexta Região e dá outras providências."
+    },
+    {
+      "senadoId": "547972",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-09-05-6096",
+      "titulo": "Lei nº 6.096 de 05/09/1974",
+      "data": "1974-09-05",
+      "numero": "6096",
+      "urn": "urn:lex:br:federal:lei:1974-09-05;6096",
+      "ementa": "Prorroga o prazo estabelecido no parágrafo único do artigo 1º, da Lei nº   5.802, de 11 de setembro de 1972, que dispõe sobre a inscrição em prova de   habilitação à livre-docência e dá outras providências."
+    },
+    {
+      "senadoId": "547971",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-08-30-6095",
+      "titulo": "Lei nº 6.095 de 30/08/1974",
+      "data": "1974-08-30",
+      "numero": "6095",
+      "urn": "urn:lex:br:federal:lei:1974-08-30;6095",
+      "ementa": "Reajusta o valor da pensão especial assegurada às viúvas de ex-Presidentes   da República e dá outras providências."
+    },
+    {
+      "senadoId": "547970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-08-30-6094",
+      "titulo": "Lei nº 6.094 de 30/08/1974",
+      "data": "1974-08-30",
+      "numero": "6094",
+      "urn": "urn:lex:br:federal:lei:1974-08-30;6094",
+      "ementa": "Define, para fins de Previdência Social, a atividade de Auxiliar de Condutor Autônomo de Veículo Rodoviário, e dá outras providências."
+    },
+    {
+      "senadoId": "547969",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-08-29-6093",
+      "titulo": "Lei nº 6.093 de 29/08/1974",
+      "data": "1974-08-29",
+      "numero": "6093",
+      "urn": "urn:lex:br:federal:lei:1974-08-29;6093",
+      "ementa": "Cria o Fundo Nacional de Desenvolvimento (FND) e dá outras providências."
+    },
+    {
+      "senadoId": "547968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-08-26-6092",
+      "titulo": "Lei nº 6.092 de 26/08/1974",
+      "data": "1974-08-26",
+      "numero": "6092",
+      "urn": "urn:lex:br:federal:lei:1974-08-26;6092",
+      "ementa": "Revoga disposições do Decreto-lei nº. 286, de 28 de fevereiro de 1967, que   dispõe sobre a regularização de emissões ilegais de títulos, e dá outras   providências."
+    },
+    {
+      "senadoId": "547967",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-08-15-6091",
+      "titulo": "Lei nº 6.091 de 15/08/1974",
+      "data": "1974-08-15",
+      "numero": "6091",
+      "urn": "urn:lex:br:federal:lei:1974-08-15;6091",
+      "ementa": "Dispõe sobre o fornecimento gratuito de transporte, em dias de eleição, a eleitores residentes nas zonas rurais, e dá outras providências."
+    },
+    {
+      "senadoId": "547965",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-16-6089",
+      "titulo": "Lei nº 6.089 de 16/07/1974",
+      "data": "1974-07-16",
+      "numero": "6089",
+      "urn": "urn:lex:br:federal:lei:1974-07-16;6089",
+      "ementa": "Reajusta os vencimentos dos servidores da Secretaria do Supremo Tribunal   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "547963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-16-6087",
+      "titulo": "Lei nº 6.087 de 16/07/1974",
+      "data": "1974-07-16",
+      "numero": "6087",
+      "urn": "urn:lex:br:federal:lei:1974-07-16;6087",
+      "ementa": "Dá nova redação ao ;§ 3º do Artigo 654 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei número 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "547966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-16-6090",
+      "titulo": "Lei nº 6.090 de 16/07/1974",
+      "data": "1974-07-16",
+      "numero": "6090",
+      "urn": "urn:lex:br:federal:lei:1974-07-16;6090",
+      "ementa": "Altera o disposto na letra a     , do § 5º, do Artigo 654 da Consolidação das   Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de   1943."
+    },
+    {
+      "senadoId": "547964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-16-6088",
+      "titulo": "Lei nº 6.088 de 16/07/1974",
+      "data": "1974-07-16",
+      "numero": "6088",
+      "urn": "urn:lex:br:federal:lei:1974-07-16;6088",
+      "ementa": "Dispõe sobre a criação da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF - e ;dá outras providências."
+    },
+    {
+      "senadoId": "547961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-15-6085",
+      "titulo": "Lei nº 6.085 de 15/07/1974",
+      "data": "1974-07-15",
+      "numero": "6085",
+      "urn": "urn:lex:br:federal:lei:1974-07-15;6085",
+      "ementa": "Dá nova redação às letras \"a\" e \"b\", do inciso IV, do art. 7º, da Lei nº 6.009, de 26 de dezembro de 1973, que dispõe sobre a utilização e a exploração dos aeroportos, das facilidades à navegação aérea e dá outras providências."
+    },
+    {
+      "senadoId": "547962",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-15-6086",
+      "titulo": "Lei nº 6.086 de 15/07/1974",
+      "data": "1974-07-15",
+      "numero": "6086",
+      "urn": "urn:lex:br:federal:lei:1974-07-15;6086",
+      "ementa": "Dispõe sobre o salário-mínimo dos menores, e dá outras   providências."
+    },
+    {
+      "senadoId": "547951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6075",
+      "titulo": "Lei nº 6.075 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6075",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6075",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da Segunda Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547958",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6082",
+      "titulo": "Lei nº 6.082 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6082",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6082",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupo-Atividades de Apoio Judiciário, Serviços Auxiliares, Serviços de Transporte Oficial e Portaria, Artesanato, Outras Atividades de Nível Superior e Outras Atividades de Nível Médio, dos Quadros Permanentes das Secretarias dos Tribunais Regionais Eleitorais, e dá outras providências."
+    },
+    {
+      "senadoId": "547955",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6079",
+      "titulo": "Lei nº 6.079 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6079",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6079",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da Sétima Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6074",
+      "titulo": "Lei nº 6.074 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6074",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6074",
+      "ementa": "Altera o Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho   da Primeira Região e dá outras providências."
+    },
+    {
+      "senadoId": "547960",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6084",
+      "titulo": "Lei nº 6.084 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6084",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6084",
+      "ementa": "Acrescenta parágrafo ao artigo 22, da Lei nº 4.229, de 1º de junho de 1963,   que transforma o Departamento Nacional de Obras Contra as Secas (DNOCS) em   autarquia e dá outras providências."
+    },
+    {
+      "senadoId": "547957",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6081",
+      "titulo": "Lei nº 6.081 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6081",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6081",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e Assessoramento Superiores, dos Quadros Permanentes das Secretarias dos Tribunais Regionais Eleitorais, e dá outras providências."
+    },
+    {
+      "senadoId": "547959",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6083",
+      "titulo": "Lei nº 6.083 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6083",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6083",
+      "ementa": "Autoriza a alienação de bens imóveis da União, situados na área urbana de   Porto Velho, no Território Federal de Rondônia e dá outras   providências."
+    },
+    {
+      "senadoId": "547954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6078",
+      "titulo": "Lei nº 6.078 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6078",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6078",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos-Atividades de Apoio   Judiciário, Serviços Auxiliares, Serviço de Transporte Oficial e Portaria,   Artesanato, Outras Atividades de Nível Superior, Outras Atividades de Nível   Médio, Direção e Assistência Intermediárias, do Quadro Permanente do Tribunal   Regional do Trabalho da 3ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547948",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6072",
+      "titulo": "Lei nº 6.072 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6072",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6072",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da Primeira Região e dá outras providências."
+    },
+    {
+      "senadoId": "547952",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6076",
+      "titulo": "Lei nº 6.076 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6076",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6076",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos-Atividades de Apoio   Judiciário, Serviços Auxiliares, Serviços de Transporte Oficial e Portaria,   Artesanato, Outras Atividades de Nível Superior e Outras Atividades de Nível   Médio, do Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da   Segunda Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547953",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6077",
+      "titulo": "Lei nº 6.077 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6077",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6077",
+      "ementa": "Fixa os valores dos níveis de vencimentos dos Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da Terceira Região e dá outras providências."
+    },
+    {
+      "senadoId": "547956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6080",
+      "titulo": "Lei nº 6.080 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6080",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6080",
+      "ementa": "Fixa os valores de vencimentos dos cargos Grupos-Atividades de Apoio   Judiciário, Serviços Auxiliares, Serviços de Transporte Oficial e Portaria,   Artesanato, Outras Atividades de Nível Superior e Outras Atividades de Nível   Médio do Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da   Sétima Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-10-6073",
+      "titulo": "Lei nº 6.073 de 10/07/1974",
+      "data": "1974-07-10",
+      "numero": "6073",
+      "urn": "urn:lex:br:federal:lei:1974-07-10;6073",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos-Atividades de Apoio Judiciário, Serviços Auxiliares, Serviços de Transporte Oficial e Portaria, Artesanato, Outras Atividades de Nível Superior e Outras Atividades de Nível Médio, do Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da Primeira Região, e dá outras providências."
+    },
+    {
+      "senadoId": "547947",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-03-6071",
+      "titulo": "Lei nº 6.071 de 03/07/1974",
+      "data": "1974-07-03",
+      "numero": "6071",
+      "urn": "urn:lex:br:federal:lei:1974-07-03;6071",
+      "ementa": "Adapta ao Código de Processo Civil as leis que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "547946",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-03-6070",
+      "titulo": "Lei nº 6.070 de 03/07/1974",
+      "data": "1974-07-03",
+      "numero": "6070",
+      "urn": "urn:lex:br:federal:lei:1974-07-03;6070",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Trabalho em favor do   Tribunal Regional do Trabalho da 4ª Região o crédito especial de Cr$   2.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "547945",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-03-6069",
+      "titulo": "Lei nº 6.069 de 03/07/1974",
+      "data": "1974-07-03",
+      "numero": "6069",
+      "urn": "urn:lex:br:federal:lei:1974-07-03;6069",
+      "ementa": "Autoriza a doação do imóvel que menciona, situado no Estado da   Guanabara."
+    },
+    {
+      "senadoId": "547944",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-02-6068",
+      "titulo": "Lei nº 6.068 de 02/07/1974",
+      "data": "1974-07-02",
+      "numero": "6068",
+      "urn": "urn:lex:br:federal:lei:1974-07-02;6068",
+      "ementa": "Dispõe sobre a retribuição dos membros do Ministério Público junto ao   Tribunal de Contas do Distrito Federal."
+    },
+    {
+      "senadoId": "547942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-02-6066",
+      "titulo": "Lei nº 6.066 de 02/07/1974",
+      "data": "1974-07-02",
+      "numero": "6066",
+      "urn": "urn:lex:br:federal:lei:1974-07-02;6066",
+      "ementa": "Autoriza a doação, pelo Departamento Nacional de Obras Contra as Secas   (DNOCS), da área de terreno que menciona, situada no Município de Santa Luzia,   no Estado da Paraíba."
+    },
+    {
+      "senadoId": "547943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-02-6067",
+      "titulo": "Lei nº 6.067 de 02/07/1974",
+      "data": "1974-07-02",
+      "numero": "6067",
+      "urn": "urn:lex:br:federal:lei:1974-07-02;6067",
+      "ementa": "Autoriza o Governo do Distrito Federal a promover a transferência do   controle acionário da Companhia de Telecomunicações de Brasília - COTELB - para   a Telecomunicações Brasileiras S.A. - TELEBRÁS, e dá outras   providências."
+    },
+    {
+      "senadoId": "547941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-07-02-6065",
+      "titulo": "Lei nº 6.065 de 02/07/1974",
+      "data": "1974-07-02",
+      "numero": "6065",
+      "urn": "urn:lex:br:federal:lei:1974-07-02;6065",
+      "ementa": "Autoriza a doação, pelo Departamento Nacional de Obras Contra as Secas   (DNOCS), da área de terreno que menciona, situada no Município de Orós, no   Estado do Ceará."
+    },
+    {
+      "senadoId": "547940",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-28-6064",
+      "titulo": "Lei nº 6.064 de 28/06/1974",
+      "data": "1974-06-28",
+      "numero": "6064",
+      "urn": "urn:lex:br:federal:lei:1974-06-28;6064",
+      "ementa": "Altera a redação do Artigo 310 da Lei nº 6.015, de 31 de dezembro de 1973,   e dá outras providências."
+    },
+    {
+      "senadoId": "547939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-27-6063",
+      "titulo": "Lei nº 6.063 de 27/06/1974",
+      "data": "1974-06-27",
+      "numero": "6063",
+      "urn": "urn:lex:br:federal:lei:1974-06-27;6063",
+      "ementa": "Altera a data de entrada em vigor do Código Penal (Decreto-lei nº 1.004, de 21   de outubro de 1969, com alterações posteriores) e dos artigos 3º, 4º, 5º da Lei   nº 6.016, de 31 de dezembro de 1973."
+    },
+    {
+      "senadoId": "547936",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-25-6060",
+      "titulo": "Lei nº 6.060 de 25/06/1974",
+      "data": "1974-06-25",
+      "numero": "6060",
+      "urn": "urn:lex:br:federal:lei:1974-06-25;6060",
+      "ementa": "Estende aos municípios que menciona as Jurisdições das 1ª , 2ª, 3ª, 4ª e   5ª Juntas de Conciliação e Julgamento de Fortaleza e a da Junta de Conciliação e   Julgamento de Iguatu, no Estado do Ceará."
+    },
+    {
+      "senadoId": "547937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-25-6061",
+      "titulo": "Lei nº 6.061 de 25/06/1974",
+      "data": "1974-06-25",
+      "numero": "6061",
+      "urn": "urn:lex:br:federal:lei:1974-06-25;6061",
+      "ementa": "Renova o prazo para estabelecimento das novas especificações da   classificação comercial de lã de ovinos e determina outras   providências."
+    },
+    {
+      "senadoId": "547938",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-25-6062",
+      "titulo": "Lei nº 6.062 de 25/06/1974",
+      "data": "1974-06-25",
+      "numero": "6062",
+      "urn": "urn:lex:br:federal:lei:1974-06-25;6062",
+      "ementa": "Dispõe sobre o desdobramento do extinto Ministério do Trabalho e Previdência Social e a instalação do Ministério da Previdência e Assistência Social, e dá outras providências."
+    },
+    {
+      "senadoId": "547935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-24-6059",
+      "titulo": "Lei nº 6.059 de 24/06/1974",
+      "data": "1974-06-24",
+      "numero": "6059",
+      "urn": "urn:lex:br:federal:lei:1974-06-24;6059",
+      "ementa": "Suprime o artigo 58, do Decreto-lei nº 200, de 25 de fevereiro de 1967,   alterado pelo Decreto-lei nº 900, de 29 de setembro de 1969."
+    },
+    {
+      "senadoId": "547931",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-17-6055",
+      "titulo": "Lei nº 6.055 de 17/06/1974",
+      "data": "1974-06-17",
+      "numero": "6055",
+      "urn": "urn:lex:br:federal:lei:1974-06-17;6055",
+      "ementa": "Estabelece normas sobre a realização de eleições em 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "547932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-17-6056",
+      "titulo": "Lei nº 6.056 de 17/06/1974",
+      "data": "1974-06-17",
+      "numero": "6056",
+      "urn": "urn:lex:br:federal:lei:1974-06-17;6056",
+      "ementa": "Cria na Justiça do Trabalho da 2ª Região a Junta de Conciliação e   Julgamento de São José do Rio Preto, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "547933",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-17-6057",
+      "titulo": "Lei nº 6.057 de 17/06/1974",
+      "data": "1974-06-17",
+      "numero": "6057",
+      "urn": "urn:lex:br:federal:lei:1974-06-17;6057",
+      "ementa": "Autoriza o Governador do Distrito Federal a abrir à Secretaria de Saúde o   crédito especial de Cr$ 350.000,00 para o fim que especifica."
+    },
+    {
+      "senadoId": "547934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-17-6058",
+      "titulo": "Lei nº 6.058 de 17/06/1974",
+      "data": "1974-06-17",
+      "numero": "6058",
+      "urn": "urn:lex:br:federal:lei:1974-06-17;6058",
+      "ementa": "Cria na Justiça do Trabalho da 5ª Região a 1ª e 2ª Juntas de Conciliação e   Julgamento com sede no Município de Simões Filho, no Estado da   Bahia."
+    },
+    {
+      "senadoId": "547930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-12-6054",
+      "titulo": "Lei nº 6.054 de 12/06/1974",
+      "data": "1974-06-12",
+      "numero": "6054",
+      "urn": "urn:lex:br:federal:lei:1974-06-12;6054",
+      "ementa": "Acrescenta inciso ao artigo 11, da Lei nº 4.726, de 13 de junho de 1965,   que ;\"dispõe sobre os serviços de Registro do Comércio e atividades afins, e dá outras   providências\"."
+    },
+    {
+      "senadoId": "547929",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-06-03-6053",
+      "titulo": "Lei nº 6.053 de 03/06/1974",
+      "data": "1974-06-03",
+      "numero": "6053",
+      "urn": "urn:lex:br:federal:lei:1974-06-03;6053",
+      "ementa": "Cria, na Justiça do Trabalho da 1ª Região, a 2ª Junta de Conciliação e   Julgamento de Vitória, no Estado do Espírito Santo."
+    },
+    {
+      "senadoId": "547928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-31-6052",
+      "titulo": "Lei nº 6.052 de 31/05/1974",
+      "data": "1974-05-31",
+      "numero": "6052",
+      "urn": "urn:lex:br:federal:lei:1974-05-31;6052",
+      "ementa": "Cria, na Justiça do Trabalho da 2ª Região, a Junta de Conciliação e   Julgamento de Suzano, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "547927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-30-6051",
+      "titulo": "Lei nº 6.051 de 30/05/1974",
+      "data": "1974-05-30",
+      "numero": "6051",
+      "urn": "urn:lex:br:federal:lei:1974-05-30;6051",
+      "ementa": "Denomina de \"Ponte Marcelino Machado\" a ponte sobre o Canal dos Mosquitos,   na BR-135, em São Luís, Estado do Maranhão."
+    },
+    {
+      "senadoId": "547926",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-24-6050",
+      "titulo": "Lei nº 6.050 de 24/05/1974",
+      "data": "1974-05-24",
+      "numero": "6050",
+      "urn": "urn:lex:br:federal:lei:1974-05-24;6050",
+      "ementa": "Dispõe sobre a fluoretação da água em sistemas de abastecimento quando existir estação de tratamento."
+    },
+    {
+      "senadoId": "547925",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-23-6049",
+      "titulo": "Lei nº 6.049 de 23/05/1974",
+      "data": "1974-05-23",
+      "numero": "6049",
+      "urn": "urn:lex:br:federal:lei:1974-05-23;6049",
+      "ementa": "Atualiza o valor da pensão especial concedida pelo Decreto nº 4.696, de 28   de fevereiro de 1923."
+    },
+    {
+      "senadoId": "547924",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-23-6048",
+      "titulo": "Lei nº 6.048 de 23/05/1974",
+      "data": "1974-05-23",
+      "numero": "6048",
+      "urn": "urn:lex:br:federal:lei:1974-05-23;6048",
+      "ementa": "Cria e extingue cargos no Quadro de Pessoal do Ministério da Marinha e dá   outras providências."
+    },
+    {
+      "senadoId": "547923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-16-6047",
+      "titulo": "Lei nº 6.047 de 16/05/1974",
+      "data": "1974-05-16",
+      "numero": "6047",
+      "urn": "urn:lex:br:federal:lei:1974-05-16;6047",
+      "ementa": "Dá nova redação aos artigos 1º e 2º, da Lei nº 5.506, de 8 de outubro de   1968, que concedeu aos funcionários do extinto Território do Acre o direito de   retorno aos serviços da União."
+    },
+    {
+      "senadoId": "547921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-15-6045",
+      "titulo": "Lei nº 6.045 de 15/05/1974",
+      "data": "1974-05-15",
+      "numero": "6045",
+      "urn": "urn:lex:br:federal:lei:1974-05-15;6045",
+      "ementa": "Altera a constituição e a competência do Conselho Monetário Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "547922",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-15-6046",
+      "titulo": "Lei nº 6.046 de 15/05/1974",
+      "data": "1974-05-15",
+      "numero": "6046",
+      "urn": "urn:lex:br:federal:lei:1974-05-15;6046",
+      "ementa": "Dispõe sobre a retribuição do Grupo-Direção e Assistência Intermediárias   do Quadro Permanente da Secretaria-Geral do Tribunal de Contas da União e dá   outras providências."
+    },
+    {
+      "senadoId": "547920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-14-6044",
+      "titulo": "Lei nº 6.044 de 14/05/1974",
+      "data": "1974-05-14",
+      "numero": "6044",
+      "urn": "urn:lex:br:federal:lei:1974-05-14;6044",
+      "ementa": "Dispõe sobre a disponibilidade e aposentadoria dos membros da magistratura federal e dá outras providências."
+    },
+    {
+      "senadoId": "547919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-13-6043",
+      "titulo": "Lei nº 6.043 de 13/05/1974",
+      "data": "1974-05-13",
+      "numero": "6043",
+      "urn": "urn:lex:br:federal:lei:1974-05-13;6043",
+      "ementa": "Altera dispositivos da Lei nº 5.682, de 21 de julho de 1971 (Lei Orgânica   dos Partidos Políticos)."
+    },
+    {
+      "senadoId": "547918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-09-6042",
+      "titulo": "Lei nº 6.042 de 09/05/1974",
+      "data": "1974-05-09",
+      "numero": "6042",
+      "urn": "urn:lex:br:federal:lei:1974-05-09;6042",
+      "ementa": "Altera os valores retributivos das escalas de vencimentos dos Grupos de   que tratam as Leis nºs 5.900, de 9 de julho de 1973; 5.903 de 9 de julho de   1973; e 5.975, de 12 de dezembro de 1973, e dá outras providências."
+    },
+    {
+      "senadoId": "547917",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-09-6041",
+      "titulo": "Lei nº 6.041 de 09/05/1974",
+      "data": "1974-05-09",
+      "numero": "6041",
+      "urn": "urn:lex:br:federal:lei:1974-05-09;6041",
+      "ementa": "Reajusta os vencimentos dos servidores da Câmara dos Deputados e dá outras providências."
+    },
+    {
+      "senadoId": "547915",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-09-6039",
+      "titulo": "Lei nº 6.039 de 09/05/1974",
+      "data": "1974-05-09",
+      "numero": "6039",
+      "urn": "urn:lex:br:federal:lei:1974-05-09;6039",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal de Justiça do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547916",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-09-6040",
+      "titulo": "Lei nº 6.040 de 09/05/1974",
+      "data": "1974-05-09",
+      "numero": "6040",
+      "urn": "urn:lex:br:federal:lei:1974-05-09;6040",
+      "ementa": "Fixa os valores de vencimentos dos Grupos Atividades de Apoio Judiciário, Serviços Auxiliares, Transporte Oficial e Portaria, Artesanato, Outras Atividades de Nível Superior e Outras Atividades de Nível Médio, do Quadro Permanente da Secretaria do Tribunal de Justiça do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-07-6038",
+      "titulo": "Lei nº 6.038 de 07/05/1974",
+      "data": "1974-05-07",
+      "numero": "6038",
+      "urn": "urn:lex:br:federal:lei:1974-05-07;6038",
+      "ementa": "Concede pensão especial a Maria da Cruz Gouveia, filha de Delmiro Augusto ; da Cruz   Gouveia."
+    },
+    {
+      "senadoId": "547913",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-02-6037",
+      "titulo": "Lei nº 6.037 de 02/05/1974",
+      "data": "1974-05-02",
+      "numero": "6037",
+      "urn": "urn:lex:br:federal:lei:1974-05-02;6037",
+      "ementa": "Estende às Fundações Nacional e Estaduais do Bem-Estar do Menor a isenção   de que trata a Lei nº 3.577, de 04 de julho de 1959."
+    },
+    {
+      "senadoId": "547912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-05-01-6036",
+      "titulo": "Lei nº 6.036 de 01/05/1974",
+      "data": "1974-05-01",
+      "numero": "6036",
+      "urn": "urn:lex:br:federal:lei:1974-05-01;6036",
+      "ementa": "Dispõe sobre a criação, na Presidência da República, do Conselho de   Desenvolvimento Econômico e da Secretaria de Planejamento, sobre o desdobramento   do Ministério do Trabalho e Previdência Social e dá outras   providências."
+    },
+    {
+      "senadoId": "547909",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-30-6033",
+      "titulo": "Lei nº 6.033 de 30/04/1974",
+      "data": "1974-04-30",
+      "numero": "6033",
+      "urn": "urn:lex:br:federal:lei:1974-04-30;6033",
+      "ementa": "Fixa os valores de vencimentos dos cargos dos Grupos- Atividades de Apoio Judiciário, Serviços Auxiliares, Transporte Oficial e Portaria, Artesanato, outras Atividades de Nível Superior ;e Outras Atividades de Nível Médio, do Quadro Permanente da Secretaria do Tribunal Superior Eleitoral, e dá outras providências."
+    },
+    {
+      "senadoId": "547910",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-30-6034",
+      "titulo": "Lei nº 6.034 de 30/04/1974",
+      "data": "1974-04-30",
+      "numero": "6034",
+      "urn": "urn:lex:br:federal:lei:1974-04-30;6034",
+      "ementa": "Altera o Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 6ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "547907",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-30-6031",
+      "titulo": "Lei nº 6.031 de 30/04/1974",
+      "data": "1974-04-30",
+      "numero": "6031",
+      "urn": "urn:lex:br:federal:lei:1974-04-30;6031",
+      "ementa": "Fixa os valores dos níveis de vencimentos do Grupo-Direção e Assessoramento Superiores do Quadro Permanente da Secretaria doTribunal Superior Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "547908",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-30-6032",
+      "titulo": "Lei nº 6.032 de 30/04/1974",
+      "data": "1974-04-30",
+      "numero": "6032",
+      "urn": "urn:lex:br:federal:lei:1974-04-30;6032",
+      "ementa": "Dispõe sobre o Regimento de Custas da Justiça Federal."
+    },
+    {
+      "senadoId": "547911",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-30-6035",
+      "titulo": "Lei nº 6.035 de 30/04/1974",
+      "data": "1974-04-30",
+      "numero": "6035",
+      "urn": "urn:lex:br:federal:lei:1974-04-30;6035",
+      "ementa": "Altera o Quadro da Secretaria do Tribunal Regional do Trabalho da 4ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "547906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-25-6030",
+      "titulo": "Lei nº 6.030 de 25/04/1974",
+      "data": "1974-04-25",
+      "numero": "6030",
+      "urn": "urn:lex:br:federal:lei:1974-04-25;6030",
+      "ementa": "Altera o Quadro da Secretaria do Tribunal Regional do Trabalho da 8ª   Região e dá outras providências."
+    },
+    {
+      "senadoId": "547905",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-09-6029",
+      "titulo": "Lei nº 6.029 de 09/04/1974",
+      "data": "1974-04-09",
+      "numero": "6029",
+      "urn": "urn:lex:br:federal:lei:1974-04-09;6029",
+      "ementa": "Fixa os valores de vencimento dos cargos dos Grupos - Atividades de Apoio   Judiciário, Serviços Auxiliares, Outras Atividades de Nível Médio, Serviços de   Transportes Oficial e Portaria do Quadro Permanente das Secretarias das Seções   Judiciárias da Justiça Federal de Primeira Instância, e dá outras   providências."
+    },
+    {
+      "senadoId": "547904",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-09-6028",
+      "titulo": "Lei nº 6.028 de 09/04/1974",
+      "data": "1974-04-09",
+      "numero": "6028",
+      "urn": "urn:lex:br:federal:lei:1974-04-09;6028",
+      "ementa": "Fixa os valores de vencimentos dos cargos do Grupo-Tributação, Arrecadação   e Fiscalização do Serviço Civil do Distrito Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "547902",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-09-6026",
+      "titulo": "Lei nº 6.026 de 09/04/1974",
+      "data": "1974-04-09",
+      "numero": "6026",
+      "urn": "urn:lex:br:federal:lei:1974-04-09;6026",
+      "ementa": "Fixa o valor do Nível de vencimento do Grupo-Direção e Assessoramento   Superiores, do Quadro Permanente das Secretarias das Seções Judiciárias da   Justiça Federal de Primeira Instância e dá outras providências."
+    },
+    {
+      "senadoId": "547903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-09-6027",
+      "titulo": "Lei nº 6.027 de 09/04/1974",
+      "data": "1974-04-09",
+      "numero": "6027",
+      "urn": "urn:lex:br:federal:lei:1974-04-09;6027",
+      "ementa": "Autoriza a Universidade Federal do Rio de Janeiro - UFRJ - a alienar os   imóveis que menciona."
+    },
+    {
+      "senadoId": "547901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-04-05-6025",
+      "titulo": "Lei nº 6.025 de 05/04/1974",
+      "data": "1974-04-05",
+      "numero": "6025",
+      "urn": "urn:lex:br:federal:lei:1974-04-05;6025",
+      "ementa": "Autoriza o Poder Executivo a transformar a Fundação Universidade do Acre   em Fundação Universidade Federal do Acre e dá outras providências."
+    },
+    {
+      "senadoId": "547900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-03-13-6024",
+      "titulo": "Lei nº 6.024 de 13/03/1974",
+      "data": "1974-03-13",
+      "numero": "6024",
+      "urn": "urn:lex:br:federal:lei:1974-03-13;6024",
+      "ementa": "Dispõe sobre a intervenção e a liquidação extrajudicial de instituições financeiras, e dá outras providências."
+    },
+    {
+      "senadoId": "547895",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-01-03-6019",
+      "titulo": "Lei nº 6.019 de 03/01/1974",
+      "data": "1974-01-03",
+      "numero": "6019",
+      "urn": "urn:lex:br:federal:lei:1974-01-03;6019",
+      "ementa": "Dispõe sobre o trabalho temporário nas empresas urbanas e dá outras providências."
+    },
+    {
+      "senadoId": "547896",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-01-03-6020",
+      "titulo": "Lei nº 6.020 de 03/01/1974",
+      "data": "1974-01-03",
+      "numero": "6020",
+      "urn": "urn:lex:br:federal:lei:1974-01-03;6020",
+      "ementa": "Fixa os valores de vencimentos dos cargos do Grupo-Polícia Civil do Serviço Civil do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-01-03-6023",
+      "titulo": "Lei nº 6.023 de 03/01/1974",
+      "data": "1974-01-03",
+      "numero": "6023",
+      "urn": "urn:lex:br:federal:lei:1974-01-03;6023",
+      "ementa": "Dispõe sobre o Estatuto dos policiais-militares da Polícia Militar do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547897",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-01-03-6021",
+      "titulo": "Lei nº 6.021 de 03/01/1974",
+      "data": "1974-01-03",
+      "numero": "6021",
+      "urn": "urn:lex:br:federal:lei:1974-01-03;6021",
+      "ementa": "Altera dispositivos da Lei nº 1.411, de 13 de agosto de 1951, que dispõe sobre a profissão de Economista; atualiza os valores das anuidades, taxas e multas, subordinando-as a percentuais do maior salário-mínimo, e altera a denominação dos Conselhos Federal e Regionais."
+    },
+    {
+      "senadoId": "547898",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-01-03-6022",
+      "titulo": "Lei nº 6.022 de 03/01/1974",
+      "data": "1974-01-03",
+      "numero": "6022",
+      "urn": "urn:lex:br:federal:lei:1974-01-03;6022",
+      "ementa": "Dispõe sobre o Estatuto dos bombeiros-militares do Corpo de Bombeiros do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547894",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1974-01-02-6018",
+      "titulo": "Lei nº 6.018 de 02/01/1974",
+      "data": "1974-01-02",
+      "numero": "6018",
+      "urn": "urn:lex:br:federal:lei:1974-01-02;6018",
+      "ementa": "Dispõe sobre a isenção da multa prevista pelo artigo 8º, da Lei nº 4.737,   de 15 de julho de 1965, que \" Institui o Código Eleitoral \" e acrescenta   parágrafo ao seu artigo 47, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-01-07-15330",
+  "titulo": "Lei nº 15.330 de 07/01/2026",
+  "data": "2026-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/d4cf13f4-d5d8-42ef-b29d-6eef77b571fc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-01-07;15330",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-01-07%3B15330&tipo_documento=maior-detalhe",
+  "sha256_dados": "1a02d25ec66bb6dba478869035b1e41c68944f2c3829e10d9bdbc4e5148d4689",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:22.208Z",
+  "sha256_fonte": "53a0df1f3fea17335542234bc446811022cf920c69a7e16f496a874fd9940e3d",
+  "sha256_markdown": "cb22c503071809823c3dd720daccde5e812acb903f2440bbc1ca844af2a7a103"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-26-15440",
+  "titulo": "Lei nº 15.440 de 26/06/2026",
+  "data": "2026-06-26",
+  "fonte": "https://normas.leg.br/api/public/binario/854869cd-85d7-4877-b739-b690606a3928/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-26;15440",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-26%3B15440&tipo_documento=maior-detalhe",
+  "sha256_dados": "0b00053c85f156ed7f9d1b853510dcbf3421d81c62f0f9879212bf127277e9b1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:56.913Z",
+  "sha256_fonte": "56b8abb0f66dda7e442e44be5b9fe8e1c9a7a9d35d764a73c9f54c8532b4f05f",
+  "sha256_markdown": "fbeefd1eb6f016f8048e7dfbe987cc657f14bc5b38d5e28e5ef851776923e9ff"
+}

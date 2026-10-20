@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-03-10-15354",
+  "titulo": "Lei nº 15.354 de 10/03/2026",
+  "data": "2026-03-10",
+  "fonte": "https://normas.leg.br/api/public/binario/014b2976-5386-4eee-8301-c952b75da373/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-03-10;15354",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-03-10%3B15354&tipo_documento=maior-detalhe",
+  "sha256_dados": "6e9eb8b6ea4ef64b86de05e4878b3d379712486337e669d0b18df2c78f28827f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:52.170Z",
+  "sha256_fonte": "41d15c55a81494b476612f431b5c658c25847553a67a33fb2d3c17e88fbbd96c",
+  "sha256_markdown": "111368f36b3da593668457da0afa29d3ae95ddb033ffb566df79b82f11bcdf1a"
+}

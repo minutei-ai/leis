@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-03-20-15357",
+  "titulo": "Lei nº 15.357 de 20/03/2026",
+  "data": "2026-03-20",
+  "fonte": "https://normas.leg.br/api/public/binario/6a7cd33d-4a59-4a61-81a0-87c63acddc95/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-03-20;15357",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-03-20%3B15357&tipo_documento=maior-detalhe",
+  "sha256_dados": "277b6857214c3c8a56b3f382101d29912ce2c19be20122b7f1546368034f45b5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:48.374Z",
+  "sha256_fonte": "523ffa790e13823ef913e3039e6fcab5e8fcfb493ed33fdebfe631244c9b2d14",
+  "sha256_markdown": "00c275913ae6a6fda9ad048152d1ca815380cecba6f8d7bd9104cb6304855559"
+}

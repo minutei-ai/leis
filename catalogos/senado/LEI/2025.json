@@ -1,0 +1,2399 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2025",
+  "tipo": "LEI",
+  "ano": 2025,
+  "coletado_em": "2026-10-20T22:56:17.838Z",
+  "normas": [
+    {
+      "senadoId": "41912067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-31-15321",
+      "titulo": "Lei nº 15.321 de 31/12/2025",
+      "data": "2025-12-31",
+      "numero": "15321",
+      "urn": "urn:lex:br:federal:lei:2025-12-31;15321",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2026 e dá outras providências."
+    },
+    {
+      "senadoId": "41889298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-26-15319",
+      "titulo": "Lei nº 15.319 de 26/12/2025",
+      "data": "2025-12-26",
+      "numero": "15319",
+      "urn": "urn:lex:br:federal:lei:2025-12-26;15319",
+      "ementa": "Reconhece a obra musical do violonista Sebastião Tapajós como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "41886547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-26-15320",
+      "titulo": "Lei nº 15.320 de 26/12/2025",
+      "data": "2025-12-26",
+      "numero": "15320",
+      "urn": "urn:lex:br:federal:lei:2025-12-26;15320",
+      "ementa": "Altera a Lei nº 5.070, de 7 de julho de 1966, a Lei nº 11.652, de 7 de abril de 2008, a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e a Lei nº 14.173, de 15 de junho de 2021, para prorrogar até 31 de dezembro de 2030 os benefícios tributários relativos às taxas de fiscalização de instalação e de funcionamento, à Contribuição para o Fomento da Radiodifusão Pública e à Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (Condecine) incidentes sobre estações de telecomunicações integrantes de sistemas de comunicação máquina a máquina e estações satelitais de pequeno porte."
+    },
+    {
+      "senadoId": "41882019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-23-15318",
+      "titulo": "Lei nº 15.318 de 23/12/2025",
+      "data": "2025-12-23",
+      "numero": "15318",
+      "urn": "urn:lex:br:federal:lei:2025-12-23;15318",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 14.428.665.740,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41869786",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15303",
+      "titulo": "Lei nº 15.303 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15303",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15303",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, dos Ministérios da Educação, dos Transportes, de Portos e Aeroportos e dos Povos Indígenas, crédito especial no valor de R$ 22.923.351,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "41870906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15298",
+      "titulo": "Lei nº 15.298 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15298",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15298",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito especial no valor de R$ 6.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "41870110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15317",
+      "titulo": "Lei nº 15.317 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15317",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15317",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Telecomunicações Brasileiras S.A. - Telebras, crédito especial no valor de R$ 600.000,00, para inclusão de programações na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41869822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15304",
+      "titulo": "Lei nº 15.304 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15304",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15304",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, crédito especial no valor de R$ 500.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "41869894",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15306",
+      "titulo": "Lei nº 15.306 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15306",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15306",
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para conceder porte de arma de fogo aos policiais legislativos das Assembleias Legislativas dos Estados e da Câmara Legislativa do Distrito Federal."
+    },
+    {
+      "senadoId": "41867927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15313",
+      "titulo": "Lei nº 15.313 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15313",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15313",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor do Banco da Amazônia S.A. - Basa, do Serviço Federal de Processamento de Dados - Serpro e da Companhia Docas do Rio Grande do Norte - CODERN, crédito suplementar no valor de R$ 46.769.856,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41869858",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15305",
+      "titulo": "Lei nº 15.305 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15305",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15305",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, das Justiças Federal, Eleitoral e do Trabalho, do Ministério Público da União e do Conselho Nacional do Ministério Público, crédito suplementar no valor de R$ 14.224.686,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41867783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15302",
+      "titulo": "Lei nº 15.302 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15302",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15302",
+      "ementa": "Altera a Lei nº 15.080, de 30 de dezembro de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025."
+    },
+    {
+      "senadoId": "41870074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15316",
+      "titulo": "Lei nº 15.316 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15316",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15316",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, crédito suplementar no valor de R$ 254.878.286,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41869966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15308",
+      "titulo": "Lei nº 15.308 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15308",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15308",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Estado do Rio Grande do Norte - CODERN, crédito especial no valor de R$ 10.550.000,00, para inclusão de programações na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41867711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15300",
+      "titulo": "Lei nº 15.300 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15300",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15300",
+      "ementa": "Dispõe sobre o licenciamento ambiental especial, para a consecução eficiente e eficaz de atividades e de empreendimentos estratégicos, nos termos que especifica; e altera as Leis nºs 15.190, de 8 de agosto de 2025, e 13.116, de 20 de abril de 2015."
+    },
+    {
+      "senadoId": "41870876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15297",
+      "titulo": "Lei nº 15.297 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15297",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15297",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Eleitoral e do Trabalho, crédito especial no valor de R$ 4.730.282,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "41867819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15309",
+      "titulo": "Lei nº 15.309 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15309",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15309",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Telecomunicações Brasileiras S.A., crédito especial no valor de R$ 53.040.201,00, para inclusão de programações na Lei Orçamentária vigente, para os fins que especifica."
+    },
+    {
+      "senadoId": "41867747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15301",
+      "titulo": "Lei nº 15.301 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15301",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15301",
+      "ementa": "Denomina \"Rodovia Álvaro Gaudêncio Filho\" o trecho da BR-412 entre o km 0, na localidade de Farinha, no Município de Pocinhos, Estado da Paraíba, e o km 129, no Município de Monteiro, Estado da Paraíba."
+    },
+    {
+      "senadoId": "41874939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15296",
+      "titulo": "Lei nº 15.296 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15296",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15296",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal, crédito suplementar no valor de R$ 8.792.048.580,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41873624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15315",
+      "titulo": "Lei nº 15.315 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15315",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15315",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Eleitoral, do Trabalho e do Distrito Federal e dos Territórios, crédito especial no valor de R$ 600.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "41870038",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15314",
+      "titulo": "Lei nº 15.314 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15314",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15314",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Superior Tribunal de Justiça, crédito suplementar no valor de R$ 13.500.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41870002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15310",
+      "titulo": "Lei nº 15.310 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15310",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15310",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Ceará - CDC, crédito suplementar no valor de R$ 3.036.965,00, para reforço de dotações constantes da Lei Orçamentária Anual vigente."
+    },
+    {
+      "senadoId": "41867120",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15299",
+      "titulo": "Lei nº 15.299 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15299",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15299",
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para estabelecer que não configura crime a poda ou o corte de árvore em logradouros públicos ou em propriedades privadas no caso de não atendimento pelo órgão ambiental do pedido de supressão feito em razão da possibilidade de ocorrência de acidente, e permite a contratação de profissional habilitado para a execução do serviço de poda ou de corte de árvore."
+    },
+    {
+      "senadoId": "41867855",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15311",
+      "titulo": "Lei nº 15.311 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15311",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15311",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Estado do Rio Grande do Norte, da Empresa Gerencial de Projetos Navais e da Empresa de Projetos Aeroespaciais do Brasil S.A., crédito especial no valor de R$ 43.632.528,00, para inclusão de programações na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41867891",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15312",
+      "titulo": "Lei nº 15.312 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15312",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15312",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor do Banco da Amazônia S.A. - Basa, do Serviço Federal de Processamento de Dados - Serpro e da Companhia Docas do Rio Grande do Norte - CODERN, crédito suplementar no valor de R$ 46.769.856,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41869930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-22-15307",
+      "titulo": "Lei nº 15.307 de 22/12/2025",
+      "data": "2025-12-22",
+      "numero": "15307",
+      "urn": "urn:lex:br:federal:lei:2025-12-22;15307",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Petrobras Biocombustível S.A., crédito suplementar no valor de R$ 3.309.800,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41853402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-19-15291",
+      "titulo": "Lei nº 15.291 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "15291",
+      "urn": "urn:lex:br:federal:lei:2025-12-19;15291",
+      "ementa": "Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 23ª Região, sem aumento de despesas."
+    },
+    {
+      "senadoId": "41853438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-19-15293",
+      "titulo": "Lei nº 15.293 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "15293",
+      "urn": "urn:lex:br:federal:lei:2025-12-19;15293",
+      "ementa": "Altera a Lei nº 11.416, de 15 de dezembro de 2006, que dispõe sobre as carreiras dos servidores do Poder Judiciário da União."
+    },
+    {
+      "senadoId": "41853680",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-19-15292",
+      "titulo": "Lei nº 15.292 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "15292",
+      "urn": "urn:lex:br:federal:lei:2025-12-19;15292",
+      "ementa": "Altera a Lei nº 11.416, de 15 de dezembro de 2006, para dispor sobre o adicional de qualificação dos servidores do Poder Judiciário da União."
+    },
+    {
+      "senadoId": "41853726",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-19-15294",
+      "titulo": "Lei nº 15.294 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "15294",
+      "urn": "urn:lex:br:federal:lei:2025-12-19;15294",
+      "ementa": "Institui o Programa Especial de Sustentabilidade da Indústria Química - PRESIQ, dispõe sobre o Regime Especial da Indústria Química - REIQ e altera as Leis nº 10.865, de 30 de abril de 2004, nº 11.196, de 21 de novembro de 2005, e nº 9.440, de 14 de março de 1997."
+    },
+    {
+      "senadoId": "41853762",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-19-15295",
+      "titulo": "Lei nº 15.295 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "15295",
+      "urn": "urn:lex:br:federal:lei:2025-12-19;15295",
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e a Lei nº 12.037, de 1º de outubro de 2009, para dispor sobre a obtenção do perfil genético na identificação criminal."
+    },
+    {
+      "senadoId": "41844402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15284",
+      "titulo": "Lei nº 15.284 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15284",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15284",
+      "ementa": "Altera a Lei nº 11.664, de 29 de abril de 2008, para assegurar a todas as mulheres a partir dos 40 (quarenta) anos de idade o direito à realização do exame de mamografia."
+    },
+    {
+      "senadoId": "41844366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15283",
+      "titulo": "Lei nº 15.283 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15283",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15283",
+      "ementa": "Dispõe sobre a regulamentação da profissão de marinheiro profissional de esporte e recreio."
+    },
+    {
+      "senadoId": "41844474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15286",
+      "titulo": "Lei nº 15.286 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15286",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15286",
+      "ementa": "Inclui no calendário turístico oficial do País o evento Carnatal, no Município de Natal, no Estado do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "41844582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15290",
+      "titulo": "Lei nº 15.290 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15290",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15290",
+      "ementa": "Institui o Dia Nacional do Ribeirinho."
+    },
+    {
+      "senadoId": "41844546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15289",
+      "titulo": "Lei nº 15.289 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15289",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15289",
+      "ementa": "Confere o título de Capital Nacional da Rota do Cacau e do Chocolate ao Município de Ilhéus, no Estado da Bahia."
+    },
+    {
+      "senadoId": "41844438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15285",
+      "titulo": "Lei nº 15.285 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15285",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15285",
+      "ementa": "Altera a Lei nº 11.416, de 15 de dezembro de 2006, para dispor sobre a especialidade de polícia judicial no âmbito das carreiras do quadro permanente de servidores do Poder Judiciário."
+    },
+    {
+      "senadoId": "41844510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15288",
+      "titulo": "Lei nº 15.288 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15288",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15288",
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para prever a atuação do Serviço Social nos hospitais públicos."
+    },
+    {
+      "senadoId": "41844866",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-18-15287",
+      "titulo": "Lei nº 15.287 de 18/12/2025",
+      "data": "2025-12-18",
+      "numero": "15287",
+      "urn": "urn:lex:br:federal:lei:2025-12-18;15287",
+      "ementa": "Institui o Dia Nacional da Conscientização sobre a Agenesia de Membros."
+    },
+    {
+      "senadoId": "41822009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-09-15282",
+      "titulo": "Lei nº 15.282 de 09/12/2025",
+      "data": "2025-12-09",
+      "numero": "15282",
+      "urn": "urn:lex:br:federal:lei:2025-12-09;15282",
+      "ementa": "Isenta a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) do pagamento de taxas e de contribuições por serviços prestados, cobradas pelos órgãos reguladores, incidentes sobre os seus pedidos de registro e proteção de experimentos de pesquisa, produtos e tecnologias geradas."
+    },
+    {
+      "senadoId": "41808787",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-05-15281",
+      "titulo": "Lei nº 15.281 de 05/12/2025",
+      "data": "2025-12-05",
+      "numero": "15281",
+      "urn": "urn:lex:br:federal:lei:2025-12-05;15281",
+      "ementa": "Altera a Lei nº 11.343, de 23 de agosto de 2006, para dispor sobre a criação de estratégia de saúde direcionada às mulheres alcoolistas."
+    },
+    {
+      "senadoId": "41808731",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-05-15280",
+      "titulo": "Lei nº 15.280 de 05/12/2025",
+      "data": "2025-12-05",
+      "numero": "15280",
+      "urn": "urn:lex:br:federal:lei:2025-12-05;15280",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável; o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade; a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual; a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual; e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias."
+    },
+    {
+      "senadoId": "41796562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-02-15279",
+      "titulo": "Lei nº 15.279 de 02/12/2025",
+      "data": "2025-12-02",
+      "numero": "15279",
+      "urn": "urn:lex:br:federal:lei:2025-12-02;15279",
+      "ementa": "Estabelece a isenção de tributos federais para a doação de medicamentos aos órgãos da administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, e às entidades reconhecidas como de utilidade pública."
+    },
+    {
+      "senadoId": "41788606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-01-15277",
+      "titulo": "Lei nº 15.277 de 01/12/2025",
+      "data": "2025-12-01",
+      "numero": "15277",
+      "urn": "urn:lex:br:federal:lei:2025-12-01;15277",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Previdência Social e do Desenvolvimento e Assistência Social, Família e Combate à Fome, crédito suplementar no valor de R$ 34.328.328.634,00, para reforço de dotações constantes da Lei Orçamentária vigente, e dá outras providências."
+    },
+    {
+      "senadoId": "41788654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-12-01-15278",
+      "titulo": "Lei nº 15.278 de 01/12/2025",
+      "data": "2025-12-01",
+      "numero": "15278",
+      "urn": "urn:lex:br:federal:lei:2025-12-01;15278",
+      "ementa": "Altera o Anexo V à Lei nº 15.121, de 10 de abril de 2025, que estima a receita e fixa a despesa da União para o exercício financeiro de 2025."
+    },
+    {
+      "senadoId": "41784056",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-28-15276",
+      "titulo": "Lei nº 15.276 de 28/11/2025",
+      "data": "2025-11-28",
+      "numero": "15276",
+      "urn": "urn:lex:br:federal:lei:2025-11-28;15276",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e a Lei nº 11.947, de 16 de junho de 2009, para garantir o acesso a água potável nas instituições de ensino."
+    },
+    {
+      "senadoId": "41758209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-26-15271",
+      "titulo": "Lei nº 15.271 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "15271",
+      "urn": "urn:lex:br:federal:lei:2025-11-26;15271",
+      "ementa": "Dispõe sobre a isenção da cobrança da taxa de verificação inicial e subsequente de taxímetro; institui o Dia Nacional do Taxista; altera a Lei nº 12.468, de 26 de agosto de 2011, para dispor sobre cessão de direitos decorrentes da outorga concedida para exploração do serviço de táxi e para permitir a realização de cursos na modalidade a distância; altera a Lei nº 11.771, de 17 de setembro de 2008, para incluir taxistas e cooperativas de táxi no Cadastro de Prestadores de Serviços Turísticos; e altera a Lei nº 12.587, de 3 de janeiro de 2012, para revogar os dispositivos que tratam da transferência de titularidade de outorgas concedidas a profissionais taxistas e remetê-los à Lei nº 12.468, de 26 de agosto de 2011."
+    },
+    {
+      "senadoId": "41758136",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-26-15270",
+      "titulo": "Lei nº 15.270 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "15270",
+      "urn": "urn:lex:br:federal:lei:2025-11-26;15270",
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, e a Lei nº 9.249, de 26 de dezembro de 1995, para instituir a redução do imposto sobre a renda devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas; e dá outras providências."
+    },
+    {
+      "senadoId": "41759201",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-26-15272",
+      "titulo": "Lei nº 15.272 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "15272",
+      "urn": "urn:lex:br:federal:lei:2025-11-26;15272",
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre as circunstâncias que recomendam a conversão da prisão em flagrante em preventiva, sobre a coleta de material biológico para obtenção e armazenamento do perfil genético do custodiado e sobre os critérios para aferição da periculosidade do agente para concessão de prisão preventiva, inclusive quando da audiência de custódia."
+    },
+    {
+      "senadoId": "41759272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-26-15273",
+      "titulo": "Lei nº 15.273 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "15273",
+      "urn": "urn:lex:br:federal:lei:2025-11-26;15273",
+      "ementa": "Altera a Lei nº 8.256, de 25 de novembro de 1991, para incluir o Município de Pacaraima, no Estado de Roraima, na Área de Livre Comércio de Boa Vista (ALCBV)."
+    },
+    {
+      "senadoId": "41759413",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-26-15275",
+      "titulo": "Lei nº 15.275 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "15275",
+      "urn": "urn:lex:br:federal:lei:2025-11-26;15275",
+      "ementa": "Cria a Rota Turística das Serras Gerais do Tocantins, no Estado do Tocantins."
+    },
+    {
+      "senadoId": "41759342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-26-15274",
+      "titulo": "Lei nº 15.274 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "15274",
+      "urn": "urn:lex:br:federal:lei:2025-11-26;15274",
+      "ementa": "Cria a Rota Turística do Capim Dourado, no Estado do Tocantins."
+    },
+    {
+      "senadoId": "41727716",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-24-15269",
+      "titulo": "Lei nº 15.269 de 24/11/2025",
+      "data": "2025-11-24",
+      "numero": "15269",
+      "urn": "urn:lex:br:federal:lei:2025-11-24;15269",
+      "ementa": "Moderniza o marco regulatório do setor elétrico para promover a modicidade tarifária e a segurança energética, estabelece as diretrizes para a regulamentação da atividade de armazenamento de energia elétrica, prevê medidas para facilitar a comercialização do gás natural da União, cria incentivo para sistemas de armazenamento de energia em baterias, altera a Lei nº 8.429, de 2 de junho de 1992, a Lei nº 9.074, de 7 de julho de 1995, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.433, de 8 de janeiro de 1997, a Lei nº 9.478, de 6 de agosto de 1997, a Lei nº 9.648, de 27 de maio de 1998, a Lei nº 9.991, de 24 de julho de 2000, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 10.847, de 15 de março de 2004, a Lei nº 10.848, de 15 de março de 2004, a Lei nº 11.488, de 15 de junho de 2007, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.304, de 2 de agosto de 2010, a Lei nº 12.351, de 22 de dezembro de 2010, a Lei nº 12.783, de 11 de janeiro de 2013, a Lei nº 13.203, de 8 de dezembro de 2015, a Lei nº 14.182, de 12 de julho de 2021, a Lei nº 14.300, de 6 de janeiro de 2022, a Lei nº 14.990, de 27 de setembro de 2024, a Lei nº 15.190, de 8 de agosto de 2025, e a Lei nº 15.235, de 8 de outubro de 2025, e dá outras providências."
+    },
+    {
+      "senadoId": "41716387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-21-15266",
+      "titulo": "Lei nº 15.266 de 21/11/2025",
+      "data": "2025-11-21",
+      "numero": "15266",
+      "urn": "urn:lex:br:federal:lei:2025-11-21;15266",
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para prever o uso do Sistema de Compras Expressas (Sicx) na contratação de bens e serviços comuns padronizados."
+    },
+    {
+      "senadoId": "41716638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-21-15267",
+      "titulo": "Lei nº 15.267 de 21/11/2025",
+      "data": "2025-11-21",
+      "numero": "15267",
+      "urn": "urn:lex:br:federal:lei:2025-11-21;15267",
+      "ementa": "Altera a Lei nº 9.797, de 6 de maio de 1999, para incluir a garantia de assistência fisioterapêutica aos pacientes submetidos a cirurgia de mastectomia."
+    },
+    {
+      "senadoId": "41716495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-21-15268",
+      "titulo": "Lei nº 15.268 de 21/11/2025",
+      "data": "2025-11-21",
+      "numero": "15268",
+      "urn": "urn:lex:br:federal:lei:2025-11-21;15268",
+      "ementa": "Altera a alínea \"a\" do inciso III do caput do art. 136 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para substituir a expressão \"serviço social\" por \"assistência social\"."
+    },
+    {
+      "senadoId": "41715423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-21-15265",
+      "titulo": "Lei nº 15.265 de 21/11/2025",
+      "data": "2025-11-21",
+      "numero": "15265",
+      "urn": "urn:lex:br:federal:lei:2025-11-21;15265",
+      "ementa": "Institui o Regime Especial de Atualização e Regularização Patrimonial (Rearp), dispõe sobre a tributação das operações de empréstimo de títulos ou valores mobiliários no País e a tributação das operações de cobertura de riscos (hedge) e altera as Leis nºs 8.213, de 24 de julho de 1991, 9.430, de 27 de dezembro de 1996, 9.481, de 13 de agosto de 1997, 9.796, de 5 de maio de 1999, 10.150, de 21 de dezembro de 2000, 10.779, de 25 de novembro de 2003, e 14.818, de 16 de janeiro de 2024."
+    },
+    {
+      "senadoId": "41727253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-19-15264",
+      "titulo": "Lei nº 15.264 de 19/11/2025",
+      "data": "2025-11-19",
+      "numero": "15264",
+      "urn": "urn:lex:br:federal:lei:2025-11-19;15264",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República, dos Ministérios da Justiça e Segurança Pública, da Cultura, do Esporte e da Integração e do Desenvolvimento Regional, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 2.151.590.306,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41699861",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-14-15263",
+      "titulo": "Lei nº 15.263 de 14/11/2025",
+      "data": "2025-11-14",
+      "numero": "15263",
+      "urn": "urn:lex:br:federal:lei:2025-11-14;15263",
+      "ementa": "Institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os Poderes da União, dos Estados, do Distrito Federal e dos Municípios."
+    },
+    {
+      "senadoId": "41697076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-13-15262",
+      "titulo": "Lei nº 15.262 de 13/11/2025",
+      "data": "2025-11-13",
+      "numero": "15262",
+      "urn": "urn:lex:br:federal:lei:2025-11-13;15262",
+      "ementa": "Cria funções comissionadas no quadro de pessoal do Superior Tribunal de Justiça."
+    },
+    {
+      "senadoId": "41696828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-13-15261",
+      "titulo": "Lei nº 15.261 de 13/11/2025",
+      "data": "2025-11-13",
+      "numero": "15261",
+      "urn": "urn:lex:br:federal:lei:2025-11-13;15261",
+      "ementa": "Altera a Lei nº 6.791, de 9 de junho de 1980, para modificar a data do Dia Nacional da Mulher e incluir o Dia Internacional da Mulher no calendário nacional de datas comemorativas; e institui o Dia Nacional das Meninas e inclui o Dia Internacional das Meninas no calendário nacional de datas comemorativas."
+    },
+    {
+      "senadoId": "41690226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-12-15257",
+      "titulo": "Lei nº 15.257 de 12/11/2025",
+      "data": "2025-11-12",
+      "numero": "15257",
+      "urn": "urn:lex:br:federal:lei:2025-11-12;15257",
+      "ementa": "Revoga as Leis nºs 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social), 5.890, de 8 de junho de 1973, e 6.367, de 19 de outubro de 1976, e dispositivos do Decreto-Lei nº 72, de 21 de novembro de 1966."
+    },
+    {
+      "senadoId": "41690296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-12-15258",
+      "titulo": "Lei nº 15.258 de 12/11/2025",
+      "data": "2025-11-12",
+      "numero": "15258",
+      "urn": "urn:lex:br:federal:lei:2025-11-12;15258",
+      "ementa": "Institui o mês de novembro como o Mês Nacional da Segurança Aquática."
+    },
+    {
+      "senadoId": "41690362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-12-15259",
+      "titulo": "Lei nº 15.259 de 12/11/2025",
+      "data": "2025-11-12",
+      "numero": "15259",
+      "urn": "urn:lex:br:federal:lei:2025-11-12;15259",
+      "ementa": "Institui o Dia Nacional da Capoterapia."
+    },
+    {
+      "senadoId": "41689188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-12-15256",
+      "titulo": "Lei nº 15.256 de 12/11/2025",
+      "data": "2025-11-12",
+      "numero": "15256",
+      "urn": "urn:lex:br:federal:lei:2025-11-12;15256",
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para incentivar a realização da investigação diagnóstica do transtorno do espectro autista em pessoas adultas e idosas."
+    },
+    {
+      "senadoId": "41690433",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-12-15260",
+      "titulo": "Lei nº 15.260 de 12/11/2025",
+      "data": "2025-11-12",
+      "numero": "15260",
+      "urn": "urn:lex:br:federal:lei:2025-11-12;15260",
+      "ementa": "Altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins."
+    },
+    {
+      "senadoId": "41678355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-10-15255",
+      "titulo": "Lei nº 15.255 de 10/11/2025",
+      "data": "2025-11-10",
+      "numero": "15255",
+      "urn": "urn:lex:br:federal:lei:2025-11-10;15255",
+      "ementa": "Altera a Lei nº 10.880, de 9 de junho de 2004, e a Lei nº 11.947, de 16 de junho de 2009, para dispor sobre o Programa Nacional de Apoio ao Transporte do Escolar (PNATE) e o Programa Nacional de Alimentação Escolar (PNAE) nas escolas da Rede Federal de Educação Profissional, Científica e Tecnológica e nas demais escolas federais."
+    },
+    {
+      "senadoId": "41673794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-06-15254",
+      "titulo": "Lei nº 15.254 de 06/11/2025",
+      "data": "2025-11-06",
+      "numero": "15254",
+      "urn": "urn:lex:br:federal:lei:2025-11-06;15254",
+      "ementa": "Institui o Dia Nacional da Proteção de Dados."
+    },
+    {
+      "senadoId": "41660984",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-05-15253",
+      "titulo": "Lei nº 15.253 de 05/11/2025",
+      "data": "2025-11-05",
+      "numero": "15253",
+      "urn": "urn:lex:br:federal:lei:2025-11-05;15253",
+      "ementa": "Cria funções comissionadas e cargos de provimento efetivo da carreira de Técnico Judiciário - Área Administrativa - Agente da Polícia Judicial no quadro de pessoal do Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "41661680",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-04-15252",
+      "titulo": "Lei nº 15.252 de 04/11/2025",
+      "data": "2025-11-04",
+      "numero": "15252",
+      "urn": "urn:lex:br:federal:lei:2025-11-04;15252",
+      "ementa": "Dispõe sobre os direitos da pessoa natural usuária de serviços financeiros."
+    },
+    {
+      "senadoId": "41656821",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-03-15250",
+      "titulo": "Lei nº 15.250 de 03/11/2025",
+      "data": "2025-11-03",
+      "numero": "15250",
+      "urn": "urn:lex:br:federal:lei:2025-11-03;15250",
+      "ementa": "Dispõe sobre o exercício da atividade de condutor de ambulância."
+    },
+    {
+      "senadoId": "41656785",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-03-15249",
+      "titulo": "Lei nº 15.249 de 03/11/2025",
+      "data": "2025-11-03",
+      "numero": "15249",
+      "urn": "urn:lex:br:federal:lei:2025-11-03;15249",
+      "ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000 (Lei da Acessibilidade), e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispor sobre a instalação de sistemas de comunicação aumentativa e alternativa de baixa tecnologia em espaços públicos e abertos ao público, com vistas à promoção da acessibilidade da pessoa com necessidades complexas de comunicação."
+    },
+    {
+      "senadoId": "41661608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-03-15248",
+      "titulo": "Lei nº 15.248 de 03/11/2025",
+      "data": "2025-11-03",
+      "numero": "15248",
+      "urn": "urn:lex:br:federal:lei:2025-11-03;15248",
+      "ementa": "Institui o Dia Nacional do Motociclista Profissional."
+    },
+    {
+      "senadoId": "41661644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-11-03-15251",
+      "titulo": "Lei nº 15.251 de 03/11/2025",
+      "data": "2025-11-03",
+      "numero": "15251",
+      "urn": "urn:lex:br:federal:lei:2025-11-03;15251",
+      "ementa": "Dispõe sobre a transferência simbólica da capital da República Federativa do Brasil para a cidade de Belém, no Estado do Pará, durante a 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP 30), a ser realizada no período de 11 a 21 de novembro de 2025."
+    },
+    {
+      "senadoId": "41627661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-31-15246",
+      "titulo": "Lei nº 15.246 de 31/10/2025",
+      "data": "2025-10-31",
+      "numero": "15246",
+      "urn": "urn:lex:br:federal:lei:2025-10-31;15246",
+      "ementa": "Altera a Lei nº 15.080, de 30 de dezembro de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025."
+    },
+    {
+      "senadoId": "41627486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-31-15247",
+      "titulo": "Lei nº 15.247 de 31/10/2025",
+      "data": "2025-10-31",
+      "numero": "15247",
+      "urn": "urn:lex:br:federal:lei:2025-10-31;15247",
+      "ementa": "Dispõe sobre o Compromisso Nacional Criança Alfabetizada (Compromisso)."
+    },
+    {
+      "senadoId": "41620264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-29-15245",
+      "titulo": "Lei nº 15.245 de 29/10/2025",
+      "data": "2025-10-29",
+      "numero": "15245",
+      "urn": "urn:lex:br:federal:lei:2025-10-29;15245",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre o crime de associação criminosa, a Lei nº 12.694, de 24 de julho de 2012, para ampliar a proteção pessoal dos agentes públicos ou processuais envolvidos no combate ao crime organizado, e a Lei nº 12.850, de 2 de agosto de 2013, para tipificar as condutas de obstrução de ações contra o crime organizado e de conspiração para obstrução de ações contra o crime organizado."
+    },
+    {
+      "senadoId": "41609139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-28-15242",
+      "titulo": "Lei nº 15.242 de 28/10/2025",
+      "data": "2025-10-28",
+      "numero": "15242",
+      "urn": "urn:lex:br:federal:lei:2025-10-28;15242",
+      "ementa": "Inscreve o nome de Dom Hélder Pessoa Câmara no Livro dos Heróis e Heroínas da Pátria e altera a Lei nº 11.597, de 29 de novembro de 2007."
+    },
+    {
+      "senadoId": "41609211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-28-15244",
+      "titulo": "Lei nº 15.244 de 28/10/2025",
+      "data": "2025-10-28",
+      "numero": "15244",
+      "urn": "urn:lex:br:federal:lei:2025-10-28;15244",
+      "ementa": "Declara a Cultne como manifestação da cultura brasileira."
+    },
+    {
+      "senadoId": "41609175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-28-15243",
+      "titulo": "Lei nº 15.243 de 28/10/2025",
+      "data": "2025-10-28",
+      "numero": "15243",
+      "urn": "urn:lex:br:federal:lei:2025-10-28;15243",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para garantir assistência integral e multiprofissional à criança e ao adolescente dependentes químicos e/ou com problemas decorrentes do uso de drogas."
+    },
+    {
+      "senadoId": "41609103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-28-15241",
+      "titulo": "Lei nº 15.241 de 28/10/2025",
+      "data": "2025-10-28",
+      "numero": "15241",
+      "urn": "urn:lex:br:federal:lei:2025-10-28;15241",
+      "ementa": "Institui o Dia Nacional do Acolhimento do Paciente Oncológico."
+    },
+    {
+      "senadoId": "41609067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-28-15240",
+      "titulo": "Lei nº 15.240 de 28/10/2025",
+      "data": "2025-10-28",
+      "numero": "15240",
+      "urn": "urn:lex:br:federal:lei:2025-10-28;15240",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para caracterizar o abandono afetivo como ilícito civil."
+    },
+    {
+      "senadoId": "41601044",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-23-15238",
+      "titulo": "Lei nº 15.238 de 23/10/2025",
+      "data": "2025-10-23",
+      "numero": "15238",
+      "urn": "urn:lex:br:federal:lei:2025-10-23;15238",
+      "ementa": "Declara Robson Sampaio de Almeida Patrono do Paradesporto Brasileiro."
+    },
+    {
+      "senadoId": "41599951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-23-15237",
+      "titulo": "Lei nº 15.237 de 23/10/2025",
+      "data": "2025-10-23",
+      "numero": "15237",
+      "urn": "urn:lex:br:federal:lei:2025-10-23;15237",
+      "ementa": "Confere ao Município de Antonina, no Estado do Paraná, o título de Capital Nacional da Bala de Banana."
+    },
+    {
+      "senadoId": "41600016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-23-15239",
+      "titulo": "Lei nº 15.239 de 23/10/2025",
+      "data": "2025-10-23",
+      "numero": "15239",
+      "urn": "urn:lex:br:federal:lei:2025-10-23;15239",
+      "ementa": "Institui o Dia Nacional de Prevenção da Asfixia Perinatal."
+    },
+    {
+      "senadoId": "41573970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-16-15236",
+      "titulo": "Lei nº 15.236 de 16/10/2025",
+      "data": "2025-10-16",
+      "numero": "15236",
+      "urn": "urn:lex:br:federal:lei:2025-10-16;15236",
+      "ementa": "Altera a Lei nº 10.420, de 10 de abril de 2002, para modificar disposições relativas ao Fundo Garantia Safra e ao Benefício Garantia-Safra."
+    },
+    {
+      "senadoId": "41554304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-08-15235",
+      "titulo": "Lei nº 15.235 de 08/10/2025",
+      "data": "2025-10-08",
+      "numero": "15235",
+      "urn": "urn:lex:br:federal:lei:2025-10-08;15235",
+      "ementa": "Altera as Leis nºs 10.438, de 26 de abril de 2002, 12.111, de 9 de dezembro de 2009, e 12.212, de 20 de janeiro de 2010; e revoga dispositivos das Leis nºs 9.427, de 26 de dezembro de 1996, e 11.196, de 21 de novembro de 2005."
+    },
+    {
+      "senadoId": "41540060",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-07-15233",
+      "titulo": "Lei nº 15.233 de 07/10/2025",
+      "data": "2025-10-07",
+      "numero": "15233",
+      "urn": "urn:lex:br:federal:lei:2025-10-07;15233",
+      "ementa": "Institui o Programa Agora Tem Especialistas; dispõe sobre o Grupo Hospitalar Conceição S.A.; altera as Leis nºs 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), 8.958, de 20 de dezembro de 1994, 9.656, de 3 de junho de 1998, 12.732, de 22 de novembro de 2012, 12.871, de 22 de outubro de 2013, e 13.958, de 18 de dezembro de 2019."
+    },
+    {
+      "senadoId": "41536819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-07-15234",
+      "titulo": "Lei nº 15.234 de 07/10/2025",
+      "data": "2025-10-07",
+      "numero": "15234",
+      "urn": "urn:lex:br:federal:lei:2025-10-07;15234",
+      "ementa": "Cria causa de aumento de pena para o crime de vender, fornecer, servir, ministrar ou entregar, ainda que gratuitamente, de qualquer forma, a criança ou a adolescente, bebida alcoólica ou, sem justa causa, outros produtos cujos componentes possam causar dependência física ou psíquica, no caso de a criança ou o adolescente utilizar ou consumir o produto."
+    },
+    {
+      "senadoId": "41535496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-06-15231",
+      "titulo": "Lei nº 15.231 de 06/10/2025",
+      "data": "2025-10-06",
+      "numero": "15231",
+      "urn": "urn:lex:br:federal:lei:2025-10-06;15231",
+      "ementa": "Altera as Leis nºs 13.819, de 26 de abril de 2019, e 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a notificação ao Conselho Tutelar, pelos estabelecimentos de ensino, dos casos de violência neles ocorridos, especialmente automutilação e suicídio."
+    },
+    {
+      "senadoId": "41534247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-06-15232",
+      "titulo": "Lei nº 15.232 de 06/10/2025",
+      "data": "2025-10-06",
+      "numero": "15232",
+      "urn": "urn:lex:br:federal:lei:2025-10-06;15232",
+      "ementa": "Altera a Lei nº 13.819, de 26 de abril de 2019, que institui a Política Nacional de Prevenção da Automutilação e do Suicídio, para prever ações direcionadas às pessoas psicossocialmente mais vulneráveis ou com maiores riscos de desenvolvimento de doenças ou transtornos mentais que aumentem o risco de violência autoprovocada, como automutilação e suicídio."
+    },
+    {
+      "senadoId": "41528134",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-02-15230",
+      "titulo": "Lei nº 15.230 de 02/10/2025",
+      "data": "2025-10-02",
+      "numero": "15230",
+      "urn": "urn:lex:br:federal:lei:2025-10-02;15230",
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para disciplinar a aferição da idade de elegibilidade e para dispor sobre o uso de panfletos em sistema Braille nas campanhas eleitorais dos candidatos aos cargos majoritários."
+    },
+    {
+      "senadoId": "41523964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-10-02-15229",
+      "titulo": "Lei nº 15.229 de 02/10/2025",
+      "data": "2025-10-02",
+      "numero": "15229",
+      "urn": "urn:lex:br:federal:lei:2025-10-02;15229",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever que o estelionato cometido contra pessoa com deficiência procede-se mediante ação penal pública incondicionada."
+    },
+    {
+      "senadoId": "41512427",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-30-15225",
+      "titulo": "Lei nº 15.225 de 30/09/2025",
+      "data": "2025-09-30",
+      "numero": "15225",
+      "urn": "urn:lex:br:federal:lei:2025-09-30;15225",
+      "ementa": "Altera a Lei nº 11.346, de 15 de setembro de 2006, que cria o Sistema Nacional de Segurança Alimentar e Nutricional (Sisan), para dispor sobre indicadores de segurança alimentar e nutricional que orientem a priorização das atividades do referido Sistema."
+    },
+    {
+      "senadoId": "41512355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-30-15223",
+      "titulo": "Lei nº 15.223 de 30/09/2025",
+      "data": "2025-09-30",
+      "numero": "15223",
+      "urn": "urn:lex:br:federal:lei:2025-09-30;15223",
+      "ementa": "Institui o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e o Plano Safra da agricultura familiar, e dá outras providências."
+    },
+    {
+      "senadoId": "41510839",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-30-15227",
+      "titulo": "Lei nº 15.227 de 30/09/2025",
+      "data": "2025-09-30",
+      "numero": "15227",
+      "urn": "urn:lex:br:federal:lei:2025-09-30;15227",
+      "ementa": "Altera a Lei nº 14.628, de 20 de julho de 2023, para prever prioridade de aquisição e distribuição de produtos do Programa de Aquisição de Alimentos (PAA) aos Municípios em situação de emergência ou estado de calamidade pública."
+    },
+    {
+      "senadoId": "41512391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-30-15224",
+      "titulo": "Lei nº 15.224 de 30/09/2025",
+      "data": "2025-09-30",
+      "numero": "15224",
+      "urn": "urn:lex:br:federal:lei:2025-09-30;15224",
+      "ementa": "Institui a Política Nacional de Combate à Perda e ao Desperdício de Alimentos (PNCPDA); cria o Selo Doador de Alimentos; altera a Lei nº 9.249, de 26 de dezembro de 1995; e revoga a Lei nº 14.016, de 23 de junho de 2020."
+    },
+    {
+      "senadoId": "41512463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-30-15226",
+      "titulo": "Lei nº 15.226 de 30/09/2025",
+      "data": "2025-09-30",
+      "numero": "15226",
+      "urn": "urn:lex:br:federal:lei:2025-09-30;15226",
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para dispor sobre o prazo de validade dos gêneros alimentícios adquiridos no âmbito do Programa Nacional de Alimentação Escolar (PNAE) e para estabelecer em 45% o percentual mínimo para aquisição de gêneros alimentícios diretamente da agricultura familiar e do empreendedor familiar rural no âmbito desse programa."
+    },
+    {
+      "senadoId": "41512499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-30-15228",
+      "titulo": "Lei nº 15.228 de 30/09/2025",
+      "data": "2025-09-30",
+      "numero": "15228",
+      "urn": "urn:lex:br:federal:lei:2025-09-30;15228",
+      "ementa": "Dispõe sobre o uso, a conservação, a proteção e a recuperação do bioma Pantanal."
+    },
+    {
+      "senadoId": "41506750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-29-15221",
+      "titulo": "Lei nº 15.221 de 29/09/2025",
+      "data": "2025-09-29",
+      "numero": "15221",
+      "urn": "urn:lex:br:federal:lei:2025-09-29;15221",
+      "ementa": "Institui a Semana Nacional de Conscientização sobre os Cuidados com as Gestantes e as Mães."
+    },
+    {
+      "senadoId": "41505272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-29-15222",
+      "titulo": "Lei nº 15.222 de 29/09/2025",
+      "data": "2025-09-29",
+      "numero": "15222",
+      "urn": "urn:lex:br:federal:lei:2025-09-29;15222",
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para prorrogar a licença-maternidade em até 120 (cento e vinte) dias após a alta hospitalar do recém-nascido e de sua mãe; e a Lei nº 8.213, de 24 de julho de 1991, para ampliar o prazo de recebimento do salário-maternidade."
+    },
+    {
+      "senadoId": "41503238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-26-15220",
+      "titulo": "Lei nº 15.220 de 26/09/2025",
+      "data": "2025-09-26",
+      "numero": "15220",
+      "urn": "urn:lex:br:federal:lei:2025-09-26;15220",
+      "ementa": "Altera a Lei nº 13.257, de 8 de março de 2016 (Marco Legal da Primeira Infância), para criar sistema nacional de informação sobre o desenvolvimento integral da primeira infância."
+    },
+    {
+      "senadoId": "41495826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-24-15219",
+      "titulo": "Lei nº 15.219 de 24/09/2025",
+      "data": "2025-09-24",
+      "numero": "15219",
+      "urn": "urn:lex:br:federal:lei:2025-09-24;15219",
+      "ementa": "Institui o Dia de São Miguel Arcanjo."
+    },
+    {
+      "senadoId": "41496901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-24-15218",
+      "titulo": "Lei nº 15.218 de 24/09/2025",
+      "data": "2025-09-24",
+      "numero": "15218",
+      "urn": "urn:lex:br:federal:lei:2025-09-24;15218",
+      "ementa": "Inclui no calendário turístico oficial do País o evento Pingo da Mei Dia, realizado no Município de Mossoró, no Estado do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "41492426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-22-15216",
+      "titulo": "Lei nº 15.216 de 22/09/2025",
+      "data": "2025-09-22",
+      "numero": "15216",
+      "urn": "urn:lex:br:federal:lei:2025-09-22;15216",
+      "ementa": "Confere o título de Capital Nacional do Guaraná ao Município de Maués, no Estado do Amazonas."
+    },
+    {
+      "senadoId": "41491943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-22-15217",
+      "titulo": "Lei nº 15.217 de 22/09/2025",
+      "data": "2025-09-22",
+      "numero": "15217",
+      "urn": "urn:lex:br:federal:lei:2025-09-22;15217",
+      "ementa": "Confere ao Município de Soledade, no Estado do Rio Grande do Sul, o título de Capital Nacional das Pedras Preciosas."
+    },
+    {
+      "senadoId": "41485032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-18-15214",
+      "titulo": "Lei nº 15.214 de 18/09/2025",
+      "data": "2025-09-18",
+      "numero": "15214",
+      "urn": "urn:lex:br:federal:lei:2025-09-18;15214",
+      "ementa": "Cria o Selo Cidade Mulher, a ser conferido aos Municípios que se destacarem na efetividade das políticas públicas específicas para o bem-estar das mulheres."
+    },
+    {
+      "senadoId": "41484721",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-18-15213",
+      "titulo": "Lei nº 15.213 de 18/09/2025",
+      "data": "2025-09-18",
+      "numero": "15213",
+      "urn": "urn:lex:br:federal:lei:2025-09-18;15213",
+      "ementa": "Denomina Viaduto Papa Francisco o viaduto localizado no Km 2,3 da rodovia BR-488, no Município de Aparecida, Estado de São Paulo."
+    },
+    {
+      "senadoId": "41484899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-18-15212",
+      "titulo": "Lei nº 15.212 de 18/09/2025",
+      "data": "2025-09-18",
+      "numero": "15212",
+      "urn": "urn:lex:br:federal:lei:2025-09-18;15212",
+      "ementa": "Altera a ementa da Lei nº 11.340, de 7 de agosto de 2006, para denominá-la oficialmente Lei Maria da Penha."
+    },
+    {
+      "senadoId": "41485267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-18-15215",
+      "titulo": "Lei nº 15.215 de 18/09/2025",
+      "data": "2025-09-18",
+      "numero": "15215",
+      "urn": "urn:lex:br:federal:lei:2025-09-18;15215",
+      "ementa": "Dispõe sobre os procedimentos para a denominação de instituições públicas de ensino indígenas, quilombolas e do campo no território nacional."
+    },
+    {
+      "senadoId": "41465823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-17-15211",
+      "titulo": "Lei nº 15.211 de 17/09/2025",
+      "data": "2025-09-17",
+      "numero": "15211",
+      "urn": "urn:lex:br:federal:lei:2025-09-17;15211",
+      "ementa": "Dispõe sobre a proteção de crianças e adolescentes em ambientes digitais (Estatuto Digital da Criança e do Adolescente)."
+    },
+    {
+      "senadoId": "41462395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-16-15210",
+      "titulo": "Lei nº 15.210 de 16/09/2025",
+      "data": "2025-09-16",
+      "numero": "15210",
+      "urn": "urn:lex:br:federal:lei:2025-09-16;15210",
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para estabelecer requisitos para a compra de equipamentos destinados a procedimentos diagnósticos ou terapêuticos no âmbito do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "41456211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-15-15209",
+      "titulo": "Lei nº 15.209 de 15/09/2025",
+      "data": "2025-09-15",
+      "numero": "15209",
+      "urn": "urn:lex:br:federal:lei:2025-09-15;15209",
+      "ementa": "Cria cargos de Juiz do Trabalho Substituto no Tribunal Regional do Trabalho da 3ª Região."
+    },
+    {
+      "senadoId": "41456175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-15-15208",
+      "titulo": "Lei nº 15.208 de 15/09/2025",
+      "data": "2025-09-15",
+      "numero": "15208",
+      "urn": "urn:lex:br:federal:lei:2025-09-15;15208",
+      "ementa": "Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 2ª Região, sem aumento de despesas."
+    },
+    {
+      "senadoId": "41453782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-12-15205",
+      "titulo": "Lei nº 15.205 de 12/09/2025",
+      "data": "2025-09-12",
+      "numero": "15205",
+      "urn": "urn:lex:br:federal:lei:2025-09-12;15205",
+      "ementa": "Reconhece como manifestação da cultura nacional a Festa de San Gennaro, realizada no Município de São Paulo, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "41453818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-12-15206",
+      "titulo": "Lei nº 15.206 de 12/09/2025",
+      "data": "2025-09-12",
+      "numero": "15206",
+      "urn": "urn:lex:br:federal:lei:2025-09-12;15206",
+      "ementa": "Altera a Lei nº 13.178, de 22 de outubro de 2015, para ampliar o prazo para requerer a certificação de georreferenciamento e a atualização do Sistema Nacional de Cadastro Rural para fins de ratificação de registros de imóveis rurais na faixa de fronteira."
+    },
+    {
+      "senadoId": "41454218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-12-15207",
+      "titulo": "Lei nº 15.207 de 12/09/2025",
+      "data": "2025-09-12",
+      "numero": "15207",
+      "urn": "urn:lex:br:federal:lei:2025-09-12;15207",
+      "ementa": "Institui a campanha Agosto Branco, destinada a conscientizar a população sobre o câncer de pulmão."
+    },
+    {
+      "senadoId": "41432082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-11-15202",
+      "titulo": "Lei nº 15.202 de 11/09/2025",
+      "data": "2025-09-11",
+      "numero": "15202",
+      "urn": "urn:lex:br:federal:lei:2025-09-11;15202",
+      "ementa": "Autoriza a criação da Carteira Nacional de Docente no Brasil (CNDB)."
+    },
+    {
+      "senadoId": "41434809",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-11-15203",
+      "titulo": "Lei nº 15.203 de 11/09/2025",
+      "data": "2025-09-11",
+      "numero": "15203",
+      "urn": "urn:lex:br:federal:lei:2025-09-11;15203",
+      "ementa": "Reconhece o sítio arqueológico Cais do Valongo, na região portuária do Município do Rio de Janeiro, como patrimônio histórico-cultural afro-brasileiro essencial à formação da identidade nacional e estabelece diretrizes para a sua especial proteção em decorrência do título de Patrimônio Mundial da Humanidade pela Unesco."
+    },
+    {
+      "senadoId": "41432118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-11-15204",
+      "titulo": "Lei nº 15.204 de 11/09/2025",
+      "data": "2025-09-11",
+      "numero": "15204",
+      "urn": "urn:lex:br:federal:lei:2025-09-11;15204",
+      "ementa": "Declara Lupicínio Rodrigues e Alfredo da Rocha Vianna Filho, conhecido como Pixinguinha, Patronos da Música Popular Brasileira."
+    },
+    {
+      "senadoId": "41409746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-09-15200",
+      "titulo": "Lei nº 15.200 de 09/09/2025",
+      "data": "2025-09-09",
+      "numero": "15200",
+      "urn": "urn:lex:br:federal:lei:2025-09-09;15200",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 520.000.000,00 (quinhentos e vinte milhões de reais), para o fim que especifica."
+    },
+    {
+      "senadoId": "41409794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-09-15201",
+      "titulo": "Lei nº 15.201 de 09/09/2025",
+      "data": "2025-09-09",
+      "numero": "15201",
+      "urn": "urn:lex:br:federal:lei:2025-09-09;15201",
+      "ementa": "Institui o Programa de Gerenciamento de Benefícios (PGB) no âmbito do Instituto Nacional do Seguro Social (INSS) e do Departamento de Perícia Médica Federal da Secretaria de Regime Geral de Previdência Social do Ministério da Previdência Social."
+    },
+    {
+      "senadoId": "41403729",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-08-15199",
+      "titulo": "Lei nº 15.199 de 08/09/2025",
+      "data": "2025-09-08",
+      "numero": "15199",
+      "urn": "urn:lex:br:federal:lei:2025-09-08;15199",
+      "ementa": "Institui a campanha Setembro Amarelo, o Dia Nacional de Prevenção da Automutilação e o Dia Nacional de Prevenção do Suicídio."
+    },
+    {
+      "senadoId": "41401809",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-08-15198",
+      "titulo": "Lei nº 15.198 de 08/09/2025",
+      "data": "2025-09-08",
+      "numero": "15198",
+      "urn": "urn:lex:br:federal:lei:2025-09-08;15198",
+      "ementa": "Dispõe sobre ações relacionadas ao enfrentamento do parto prematuro e institui o Novembro Roxo, o Dia Nacional da Prematuridade e a Semana da Prematuridade."
+    },
+    {
+      "senadoId": "41397082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-05-15196",
+      "titulo": "Lei nº 15.196 de 05/09/2025",
+      "data": "2025-09-05",
+      "numero": "15196",
+      "urn": "urn:lex:br:federal:lei:2025-09-05;15196",
+      "ementa": "Reconhece como manifestação da cultura nacional o Carnaval de Salvador, no Estado da Bahia."
+    },
+    {
+      "senadoId": "41397112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-09-05-15197",
+      "titulo": "Lei nº 15.197 de 05/09/2025",
+      "data": "2025-09-05",
+      "numero": "15197",
+      "urn": "urn:lex:br:federal:lei:2025-09-05;15197",
+      "ementa": "Declara como manifestação da cultura nacional a Romaria do Senhor Bom Jesus da Lapa, no Estado da Bahia."
+    },
+    {
+      "senadoId": "41356327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-28-15192",
+      "titulo": "Lei nº 15.192 de 28/08/2025",
+      "data": "2025-08-28",
+      "numero": "15192",
+      "urn": "urn:lex:br:federal:lei:2025-08-28;15192",
+      "ementa": "Reconhece como manifestação da cultura nacional a guitarrada."
+    },
+    {
+      "senadoId": "41350362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-28-15193",
+      "titulo": "Lei nº 15.193 de 28/08/2025",
+      "data": "2025-08-28",
+      "numero": "15193",
+      "urn": "urn:lex:br:federal:lei:2025-08-28;15193",
+      "ementa": "Confere o título de Capital Nordestina do Cuscuz ao Município de Angelim, no Estado de Pernambuco."
+    },
+    {
+      "senadoId": "41350428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-28-15195",
+      "titulo": "Lei nº 15.195 de 28/08/2025",
+      "data": "2025-08-28",
+      "numero": "15195",
+      "urn": "urn:lex:br:federal:lei:2025-08-28;15195",
+      "ementa": "Confere o título de Capital Nacional da Paçoca de Carne com Farinha ao Município de Boa Vista, no Estado de Roraima."
+    },
+    {
+      "senadoId": "41350392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-28-15194",
+      "titulo": "Lei nº 15.194 de 28/08/2025",
+      "data": "2025-08-28",
+      "numero": "15194",
+      "urn": "urn:lex:br:federal:lei:2025-08-28;15194",
+      "ementa": "Inscreve o nome de Manoel Mattos no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "41217728",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-11-15191",
+      "titulo": "Lei nº 15.191 de 11/08/2025",
+      "data": "2025-08-11",
+      "numero": "15191",
+      "urn": "urn:lex:br:federal:lei:2025-08-11;15191",
+      "ementa": "Altera a Lei nº 11.482, de 31 de maio de 2007, a fim de modificar os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física (IRPF); e revoga a Medida Provisória nº 1.294, de 11 de abril de 2025."
+    },
+    {
+      "senadoId": "41198421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-08-15190",
+      "titulo": "Lei nº 15.190 de 08/08/2025",
+      "data": "2025-08-08",
+      "numero": "15190",
+      "urn": "urn:lex:br:federal:lei:2025-08-08;15190",
+      "ementa": "Dispõe sobre o licenciamento ambiental; regulamenta o inciso IV do § 1º do art. 225 da Constituição Federal; altera as Leis nºs 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), 9.985, de 18 de julho de 2000, e 6.938, de 31 de agosto de 1981; revoga dispositivos das Leis nºs 7.661, de 16 de maio de 1988, e 11.428, de 22 de dezembro de 2006; e dá outras providências."
+    },
+    {
+      "senadoId": "41194481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-06-15189",
+      "titulo": "Lei nº 15.189 de 06/08/2025",
+      "data": "2025-08-06",
+      "numero": "15189",
+      "urn": "urn:lex:br:federal:lei:2025-08-06;15189",
+      "ementa": "Institui o Dia Nacional da Axé-Music."
+    },
+    {
+      "senadoId": "41191934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-06-15188",
+      "titulo": "Lei nº 15.188 de 06/08/2025",
+      "data": "2025-08-06",
+      "numero": "15188",
+      "urn": "urn:lex:br:federal:lei:2025-08-06;15188",
+      "ementa": "Reconhece como manifestação da cultura nacional o Carnaval do Município do Rio de Janeiro, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "41189123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-04-15187",
+      "titulo": "Lei nº 15.187 de 04/08/2025",
+      "data": "2025-08-04",
+      "numero": "15187",
+      "urn": "urn:lex:br:federal:lei:2025-08-04;15187",
+      "ementa": "Institui o Dia da Luta da População em Situação de Rua."
+    },
+    {
+      "senadoId": "41189087",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-04-15185",
+      "titulo": "Lei nº 15.185 de 04/08/2025",
+      "data": "2025-08-04",
+      "numero": "15185",
+      "urn": "urn:lex:br:federal:lei:2025-08-04;15185",
+      "ementa": "Reestrutura cargos da magistratura no quadro permanente da Justiça Federal da 1ª Região; e cria a 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Piauí."
+    },
+    {
+      "senadoId": "41188968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-04-15186",
+      "titulo": "Lei nº 15.186 de 04/08/2025",
+      "data": "2025-08-04",
+      "numero": "15186",
+      "urn": "urn:lex:br:federal:lei:2025-08-04;15186",
+      "ementa": "Concede o título de Capital Nacional dos Bombeiros Voluntários ao Município de Joinville, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "41189051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-08-04-15184",
+      "titulo": "Lei nº 15.184 de 04/08/2025",
+      "data": "2025-08-04",
+      "numero": "15184",
+      "urn": "urn:lex:br:federal:lei:2025-08-04;15184",
+      "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), para aprimorar a destinação de recursos do Fundo."
+    },
+    {
+      "senadoId": "41180763",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-30-15182",
+      "titulo": "Lei nº 15.182 de 30/07/2025",
+      "data": "2025-07-30",
+      "numero": "15182",
+      "urn": "urn:lex:br:federal:lei:2025-07-30;15182",
+      "ementa": "Altera as Leis nºs 4.117, de 27 de agosto de 1962 (Código Brasileiro de Telecomunicações), 9.612, de 19 de fevereiro de 1998 (Lei das Rádios Comunitárias), 13.424, de 28 de março de 2017, 5.785, de 23 de junho de 1972, e 5.768, de 20 de dezembro de 1971, para estabelecer diretrizes relacionadas à autorização de modificações de características técnicas, à apresentação de documentos, aos procedimentos de renovação de outorgas e à promoção de recursos de acessibilidade, com o intuito de promover a modernização da legislação sobre serviços de radiodifusão; e revoga a Lei nº 6.606, de 7 de dezembro de 1978."
+    },
+    {
+      "senadoId": "41180666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-30-15183",
+      "titulo": "Lei nº 15.183 de 30/07/2025",
+      "data": "2025-07-30",
+      "numero": "15183",
+      "urn": "urn:lex:br:federal:lei:2025-07-30;15183",
+      "ementa": "Altera as Leis nºs 11.794, de 8 de outubro de 2008, e 6.360, de 23 de setembro de 1976, para vedar a utilização de animais em testes de produtos de higiene pessoal, cosméticos e perfumes e de seus ingredientes."
+    },
+    {
+      "senadoId": "41179604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-28-15181",
+      "titulo": "Lei nº 15.181 de 28/07/2025",
+      "data": "2025-07-28",
+      "numero": "15181",
+      "urn": "urn:lex:br:federal:lei:2025-07-28;15181",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar as penas aplicadas ao furto, roubo e receptação de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia ou para transferência de dados e as aplicadas à interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública; e altera as Leis nºs 9.613, de 3 de março de 1998, para aumentar a pena dos crimes previstos no seu art. 1º, e 9.472, de 16 de julho de 1997, para estabelecer sanções aos detentores de serviço de telecomunicações pelo uso de fios, cabos ou equipamentos de telefonia ou transferência de dados que sejam produtos de crime; e dá outras providências."
+    },
+    {
+      "senadoId": "41168336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-25-15180",
+      "titulo": "Lei nº 15.180 de 25/07/2025",
+      "data": "2025-07-25",
+      "numero": "15180",
+      "urn": "urn:lex:br:federal:lei:2025-07-25;15180",
+      "ementa": "Institui a Política Nacional de Incentivo à Visitação a Unidades de Conservação e autoriza o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) e os órgãos estaduais e municipais executores do Sistema Nacional de Unidades de Conservação da Natureza (SNUC) a contratar instituição financeira oficial para criar e gerir fundo privado com os objetivos de financiar e de apoiar a visitação a unidades de conservação."
+    },
+    {
+      "senadoId": "41160586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-24-15179",
+      "titulo": "Lei nº 15.179 de 24/07/2025",
+      "data": "2025-07-24",
+      "numero": "15179",
+      "urn": "urn:lex:br:federal:lei:2025-07-24;15179",
+      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003 (Lei do Crédito Consignado), para dispor sobre a operacionalização das operações de crédito consignado por meio de sistemas ou de plataformas digitais."
+    },
+    {
+      "senadoId": "41155497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-23-15177",
+      "titulo": "Lei nº 15.177 de 23/07/2025",
+      "data": "2025-07-23",
+      "numero": "15177",
+      "urn": "urn:lex:br:federal:lei:2025-07-23;15177",
+      "ementa": "Estabelece a obrigatoriedade de reserva mínima de participação de mulheres em conselhos de administração das sociedades empresárias que especifica; e altera a Lei nº 6.404, de 15 de dezembro de 1976 (Lei das Sociedades Anônimas), e a Lei nº 13.303, de 30 de junho de 2016 (Lei de Responsabilidade das Estatais)."
+    },
+    {
+      "senadoId": "41155425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-23-15175",
+      "titulo": "Lei nº 15.175 de 23/07/2025",
+      "data": "2025-07-23",
+      "numero": "15175",
+      "urn": "urn:lex:br:federal:lei:2025-07-23;15175",
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a transferência de empregado público cujo cônjuge ou companheiro tenha sido deslocado no interesse da administração pública."
+    },
+    {
+      "senadoId": "41155461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-23-15176",
+      "titulo": "Lei nº 15.176 de 23/07/2025",
+      "data": "2025-07-23",
+      "numero": "15176",
+      "urn": "urn:lex:br:federal:lei:2025-07-23;15176",
+      "ementa": "Altera a Lei nº 14.705, de 25 de outubro de 2023, para prever programa nacional de proteção dos direitos da pessoa acometida por Síndrome de Fibromialgia ou Fadiga Crônica ou por Síndrome Complexa de Dor Regional ou outras doenças correlatas."
+    },
+    {
+      "senadoId": "41155408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-23-15178",
+      "titulo": "Lei nº 15.178 de 23/07/2025",
+      "data": "2025-07-23",
+      "numero": "15178",
+      "urn": "urn:lex:br:federal:lei:2025-07-23;15178",
+      "ementa": "Institui a Política Nacional de Juventude e Sucessão Rural e o Plano Nacional de Juventude e Sucessão Rural e altera a Lei nº 12.852, de 5 de agosto de 2013 (Estatuto da Juventude), a Lei nº 11.947, de 16 de junho de 2009, e a Lei nº 14.628, de 20 de julho de 2023."
+    },
+    {
+      "senadoId": "41153524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-22-15174",
+      "titulo": "Lei nº 15.174 de 22/07/2025",
+      "data": "2025-07-22",
+      "numero": "15174",
+      "urn": "urn:lex:br:federal:lei:2025-07-22;15174",
+      "ementa": "Institui a Política Nacional de Enfrentamento da Infecção por Papilomavírus Humano."
+    },
+    {
+      "senadoId": "41153385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-22-15172",
+      "titulo": "Lei nº 15.172 de 22/07/2025",
+      "data": "2025-07-22",
+      "numero": "15172",
+      "urn": "urn:lex:br:federal:lei:2025-07-22;15172",
+      "ementa": "Cria varas federais no Estado de Santa Catarina; transforma cargos de juiz federal substituto na Justiça Federal da 4ª Região; e cria cargos de juiz federal."
+    },
+    {
+      "senadoId": "41153372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-22-15173",
+      "titulo": "Lei nº 15.173 de 22/07/2025",
+      "data": "2025-07-22",
+      "numero": "15173",
+      "urn": "urn:lex:br:federal:lei:2025-07-22;15173",
+      "ementa": "Transforma cargos vagos da carreira de Técnico Judiciário em novos cargos da carreira de Analista Judiciário no quadro permanente do Superior Tribunal de Justiça."
+    },
+    {
+      "senadoId": "41146057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-17-15171",
+      "titulo": "Lei nº 15.171 de 17/07/2025",
+      "data": "2025-07-17",
+      "numero": "15171",
+      "urn": "urn:lex:br:federal:lei:2025-07-17;15171",
+      "ementa": "Altera a Lei nº 9.797, de 6 de maio de 1999, e a Lei nº 9.656, de 3 de junho de 1998, para ampliar o direito das mulheres à cirurgia plástica reparadora da mama em casos de mutilação total ou parcial."
+    },
+    {
+      "senadoId": "41146012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-17-15169",
+      "titulo": "Lei nº 15.169 de 17/07/2025",
+      "data": "2025-07-17",
+      "numero": "15169",
+      "urn": "urn:lex:br:federal:lei:2025-07-17;15169",
+      "ementa": "Altera a Lei nº 12.858, de 9 de setembro de 2013, para incluir as políticas de assistência aos estudantes da educação superior e da educação profissional, científica e tecnológica entre as prioridades para recebimento de recursos do Fundo Social, e a Lei nº 14.914, de 3 de julho de 2024, para dispor sobre a aplicação de receitas para o atendimento a estudantes beneficiados por políticas de ação afirmativa de reserva de vagas da educação superior e da educação profissional, científica e tecnológica pública federal."
+    },
+    {
+      "senadoId": "41145965",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-17-15167",
+      "titulo": "Lei nº 15.167 de 17/07/2025",
+      "data": "2025-07-17",
+      "numero": "15167",
+      "urn": "urn:lex:br:federal:lei:2025-07-17;15167",
+      "ementa": "Altera a Lei nº 13.954, de 16 de dezembro de 2019, para dispor sobre os soldos dos militares das Forças Armadas."
+    },
+    {
+      "senadoId": "41145961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-17-15168",
+      "titulo": "Lei nº 15.168 de 17/07/2025",
+      "data": "2025-07-17",
+      "numero": "15168",
+      "urn": "urn:lex:br:federal:lei:2025-07-17;15168",
+      "ementa": "Altera a Lei nº 11.678, de 19 de maio de 2008, para denominar os trechos que especifica da rodovia BR158; e revoga as Leis nºs 13.597, de 8 de janeiro de 2018, e 14.427, de 28 de julho de 2022."
+    },
+    {
+      "senadoId": "41146088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-17-15170",
+      "titulo": "Lei nº 15.170 de 17/07/2025",
+      "data": "2025-07-17",
+      "numero": "15170",
+      "urn": "urn:lex:br:federal:lei:2025-07-17;15170",
+      "ementa": "Denomina Viaduto Deputado José Pereira da Silva o viaduto localizado no Km 102 da rodovia BR-459, no trecho do perímetro urbano do Município de Pouso Alegre, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "41141565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-16-15165",
+      "titulo": "Lei nº 15.165 de 16/07/2025",
+      "data": "2025-07-16",
+      "numero": "15165",
+      "urn": "urn:lex:br:federal:lei:2025-07-16;15165",
+      "ementa": "Cria a Rota Turística Imperial Caminho dos Príncipes, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "41141564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-16-15166",
+      "titulo": "Lei nº 15.166 de 16/07/2025",
+      "data": "2025-07-16",
+      "numero": "15166",
+      "urn": "urn:lex:br:federal:lei:2025-07-16;15166",
+      "ementa": "Cria a Rota Turística Costa Azul, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "41130876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-14-15164",
+      "titulo": "Lei nº 15.164 de 14/07/2025",
+      "data": "2025-07-14",
+      "numero": "15164",
+      "urn": "urn:lex:br:federal:lei:2025-07-14;15164",
+      "ementa": "Altera a Lei nº 12.351, de 22 de dezembro de 2010, a fim de aperfeiçoar os mecanismos disponíveis ao Fundo Social (FS) para enfrentamento dos desafios socioeconômicos do País; autoriza a União a alienar seus direitos e obrigações decorrentes de acordos de individualização da produção em áreas não concedidas ou não partilhadas na área do pré-sal e em áreas estratégicas; e altera as Leis nºs 14.620, de 13 de julho de 2023, e 11.977, de 7 de julho de 2009."
+    },
+    {
+      "senadoId": "41110229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-03-15159",
+      "titulo": "Lei nº 15.159 de 03/07/2025",
+      "data": "2025-07-03",
+      "numero": "15159",
+      "urn": "urn:lex:br:federal:lei:2025-07-03;15159",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para recrudescer o tratamento penal dispensado ao autor de crime praticado nas dependências de instituição de ensino."
+    },
+    {
+      "senadoId": "41110325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-03-15162",
+      "titulo": "Lei nº 15.162 de 03/07/2025",
+      "data": "2025-07-03",
+      "numero": "15162",
+      "urn": "urn:lex:br:federal:lei:2025-07-03;15162",
+      "ementa": "Institui o Dia Nacional do Conselheiro Comunitário de Segurança."
+    },
+    {
+      "senadoId": "41110181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-03-15158",
+      "titulo": "Lei nº 15.158 de 03/07/2025",
+      "data": "2025-07-03",
+      "numero": "15158",
+      "urn": "urn:lex:br:federal:lei:2025-07-03;15158",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 816.647.541,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "41110295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-03-15161",
+      "titulo": "Lei nº 15.161 de 03/07/2025",
+      "data": "2025-07-03",
+      "numero": "15161",
+      "urn": "urn:lex:br:federal:lei:2025-07-03;15161",
+      "ementa": "Institui o Dia Nacional do Coco de Roda, da Ciranda e da Mazurca."
+    },
+    {
+      "senadoId": "41109625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-03-15160",
+      "titulo": "Lei nº 15.160 de 03/07/2025",
+      "data": "2025-07-03",
+      "numero": "15160",
+      "urn": "urn:lex:br:federal:lei:2025-07-03;15160",
+      "ementa": "Modifica os arts. 65 e 115 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para alterar circunstância atenuante e vedar a redução do prazo de prescrição para os crimes que envolvam violência sexual contra a mulher, quando o agente for, na data do fato, menor de 21 (vinte e um) anos ou, na data da sentença, maior de 70 (setenta) anos de idade."
+    },
+    {
+      "senadoId": "41110355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-03-15163",
+      "titulo": "Lei nº 15.163 de 03/07/2025",
+      "data": "2025-07-03",
+      "numero": "15163",
+      "urn": "urn:lex:br:federal:lei:2025-07-03;15163",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para modificar as penas dos crimes de abandono de incapaz e de maus-tratos, a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para modificar as penas do crime de exposição a perigo da saúde e da integridade física ou psíquica da pessoa idosa, a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), a fim de estabelecer penas para o crime de abandono de pessoa com deficiência que resulte em lesão corporal de natureza grave ou em morte, e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para vedar a aplicação da Lei nº 9.099, de 26 de setembro de 1995, em caso de apreensão indevida de criança ou de adolescente."
+    },
+    {
+      "senadoId": "41100951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-01-15157",
+      "titulo": "Lei nº 15.157 de 01/07/2025",
+      "data": "2025-07-01",
+      "numero": "15157",
+      "urn": "urn:lex:br:federal:lei:2025-07-01;15157",
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), e a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para dispensar o segurado do Regime Geral de Previdência Social e o beneficiário do benefício de prestação continuada da reavaliação periódica das condições da concessão do benefício quando a incapacidade for permanente, irreversível ou irrecuperável e para determinar a participação de especialista em infectologia na perícia médica de pessoa com síndrome da imunodeficiência adquirida."
+    },
+    {
+      "senadoId": "41100893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-07-01-15156",
+      "titulo": "Lei nº 15.156 de 01/07/2025",
+      "data": "2025-07-01",
+      "numero": "15156",
+      "urn": "urn:lex:br:federal:lei:2025-07-01;15156",
+      "ementa": "Dispõe sobre o direito a indenização por dano moral e a concessão de pensão especial à pessoa com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 8.742, de 7 de dezembro de 1993, e 8.213, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "41091101",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-30-15154",
+      "titulo": "Lei nº 15.154 de 30/06/2025",
+      "data": "2025-06-30",
+      "numero": "15154",
+      "urn": "urn:lex:br:federal:lei:2025-06-30;15154",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, para estabelecer isenção de registro e observância de regras simplificadas para cosméticos, produtos de higiene pessoal, perfumes e outros produtos de finalidade congênere, quando produzidos de maneira artesanal."
+    },
+    {
+      "senadoId": "41091192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-30-15155",
+      "titulo": "Lei nº 15.155 de 30/06/2025",
+      "data": "2025-06-30",
+      "numero": "15155",
+      "urn": "urn:lex:br:federal:lei:2025-06-30;15155",
+      "ementa": "Altera a Lei nº 7.853, de 24 de outubro de 1989, para incluir o incentivo ao empreendedorismo entre as medidas de apoio às pessoas com deficiência e para atualizar a terminologia relativa às pessoas com deficiência."
+    },
+    {
+      "senadoId": "41086989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-26-15153",
+      "titulo": "Lei nº 15.153 de 26/06/2025",
+      "data": "2025-06-26",
+      "numero": "15153",
+      "urn": "urn:lex:br:federal:lei:2025-06-26;15153",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), a fim de permitir a destinação de recursos arrecadados com multas de trânsito para o custeio da habilitação de condutores de baixa renda, estabelecer regras para transferência de propriedade de veículo por meio eletrônico e exigir exame toxicológico nos casos que especifica."
+    },
+    {
+      "senadoId": "41082397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-25-15152",
+      "titulo": "Lei nº 15.152 de 25/06/2025",
+      "data": "2025-06-25",
+      "numero": "15152",
+      "urn": "urn:lex:br:federal:lei:2025-06-25;15152",
+      "ementa": "Institui o Dia da Celebração da Amizade Brasil-Israel."
+    },
+    {
+      "senadoId": "41077525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-24-15151",
+      "titulo": "Lei nº 15.151 de 24/06/2025",
+      "data": "2025-06-24",
+      "numero": "15151",
+      "urn": "urn:lex:br:federal:lei:2025-06-24;15151",
+      "ementa": "Institui o dia 23 de abril como Dia Nacional de Conscientização da Fibrodisplasia Ossificante Progressiva (FOP)"
+    },
+    {
+      "senadoId": "41058832",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-16-15150",
+      "titulo": "Lei nº 15.150 de 16/06/2025",
+      "data": "2025-06-16",
+      "numero": "15150",
+      "urn": "urn:lex:br:federal:lei:2025-06-16;15150",
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que \"dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente\", para proibir a realização de tatuagens e a colocação de piercings em cães e gatos, com fins estéticos."
+    },
+    {
+      "senadoId": "41050729",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-12-15149",
+      "titulo": "Lei nº 15.149 de 12/06/2025",
+      "data": "2025-06-12",
+      "numero": "15149",
+      "urn": "urn:lex:br:federal:lei:2025-06-12;15149",
+      "ementa": "Denomina \"Rotatória Márcio Heleno Henrique\" a rotatória localizada na rodovia BR-488, no Município de Aparecida, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "41026710",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-11-15147",
+      "titulo": "Lei nº 15.147 de 11/06/2025",
+      "data": "2025-06-11",
+      "numero": "15147",
+      "urn": "urn:lex:br:federal:lei:2025-06-11;15147",
+      "ementa": "Abre crédito extraordinário em favor do Ministério do Desenvolvimento, Indústria, Comércio e Serviços, do Ministério do Desenvolvimento Agrário e Agricultura Familiar, do Ministério da Integração e do Desenvolvimento Regional, do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, do Ministério das Cidades e de Operações Oficiais de Crédito, no valor de R$ 357.443.320,00 (trezentos e cinquenta e sete milhões quatrocentos e quarenta e três mil trezentos e vinte reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "41026514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-11-15148",
+      "titulo": "Lei nº 15.148 de 11/06/2025",
+      "data": "2025-06-11",
+      "numero": "15148",
+      "urn": "urn:lex:br:federal:lei:2025-06-11;15148",
+      "ementa": "Inclui no calendário turístico oficial do País o Festival Halleluya, no Município de Fortaleza, no Estado do Ceará."
+    },
+    {
+      "senadoId": "41019280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-09-15144",
+      "titulo": "Lei nº 15.144 de 09/06/2025",
+      "data": "2025-06-09",
+      "numero": "15144",
+      "urn": "urn:lex:br:federal:lei:2025-06-09;15144",
+      "ementa": "Cria a Rota Turística Histórica Belém-Bragança, no Estado do Pará."
+    },
+    {
+      "senadoId": "41019352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-09-15146",
+      "titulo": "Lei nº 15.146 de 09/06/2025",
+      "data": "2025-06-09",
+      "numero": "15146",
+      "urn": "urn:lex:br:federal:lei:2025-06-09;15146",
+      "ementa": "Reconhece como manifestação da cultura nacional o espetáculo Paixão de Cristo de Nova Jerusalém, que se realiza na cidade-teatro de Nova Jerusalém, localizada no distrito de Fazenda Nova, no Município do Brejo da Madre de Deus, no Estado de Pernambuco."
+    },
+    {
+      "senadoId": "41019316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-09-15145",
+      "titulo": "Lei nº 15.145 de 09/06/2025",
+      "data": "2025-06-09",
+      "numero": "15145",
+      "urn": "urn:lex:br:federal:lei:2025-06-09;15145",
+      "ementa": "Institui o Dia Nacional do Brincar."
+    },
+    {
+      "senadoId": "40952047",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-05-15143",
+      "titulo": "Lei nº 15.143 de 05/06/2025",
+      "data": "2025-06-05",
+      "numero": "15143",
+      "urn": "urn:lex:br:federal:lei:2025-06-05;15143",
+      "ementa": "Dispõe sobre medidas excepcionais para concessão de colaboração financeira à União, aos Estados e ao Distrito Federal, para apoio a ações de prevenção e combate à ocorrência de queimadas irregulares e de incêndios florestais; autoriza a participação da União no Fundo de Apoio à Infraestrutura para Recuperação e Adaptação a Eventos Climáticos Extremos; dispensa a celebração de convênio ou instrumento congênere para repasses do Fundo Nacional de Meio Ambiente aos entes subnacionais a fim de financiar projetos de prevenção, preparação e combate a incêndios florestais; dispõe sobre medidas de fortalecimento da capacidade operacional e logística de resposta a emergências; altera as Leis nºs 7.565, de 19 de dezembro de 1986, 7.797, de 10 de julho de 1989, e 7.957, de 20 de dezembro de 1989; e revoga as Medidas Provisórias nºs 1.276, de 22 de novembro de 2024, e 1.278, de 11 de dezembro de 2024."
+    },
+    {
+      "senadoId": "40947829",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-03-15142",
+      "titulo": "Lei nº 15.142 de 03/06/2025",
+      "data": "2025-06-03",
+      "numero": "15142",
+      "urn": "urn:lex:br:federal:lei:2025-06-03;15142",
+      "ementa": "Reserva às pessoas pretas e pardas, indígenas e quilombolas o percentual de 30% (trinta por cento) das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública federal direta, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista controladas pela União e nos processos seletivos simplificados para o recrutamento de pessoal nas hipóteses de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público para os órgãos da administração pública federal direta, as autarquias e as fundações públicas; e revoga a Lei nº 12.990, de 9 de junho de 2014."
+    },
+    {
+      "senadoId": "40946961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-06-02-15141",
+      "titulo": "Lei nº 15.141 de 02/06/2025",
+      "data": "2025-06-02",
+      "numero": "15141",
+      "urn": "urn:lex:br:federal:lei:2025-06-02;15141",
+      "ementa": "Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências."
+    },
+    {
+      "senadoId": "40933673",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-28-15140",
+      "titulo": "Lei nº 15.140 de 28/05/2025",
+      "data": "2025-05-28",
+      "numero": "15140",
+      "urn": "urn:lex:br:federal:lei:2025-05-28;15140",
+      "ementa": "Institui a Política Nacional de Proteção dos Direitos da Pessoa com Albinismo."
+    },
+    {
+      "senadoId": "40878600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-23-15139",
+      "titulo": "Lei nº 15.139 de 23/05/2025",
+      "data": "2025-05-23",
+      "numero": "15139",
+      "urn": "urn:lex:br:federal:lei:2025-05-23;15139",
+      "ementa": "Institui a Política Nacional de Humanização do Luto Materno e Parental e altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei dos Registros Públicos), para dispor sobre o registro de criança nascida morta."
+    },
+    {
+      "senadoId": "40864550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-21-15137",
+      "titulo": "Lei nº 15.137 de 21/05/2025",
+      "data": "2025-05-21",
+      "numero": "15137",
+      "urn": "urn:lex:br:federal:lei:2025-05-21;15137",
+      "ementa": "Reconhece o Carnaval de Pernambuco como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "40864478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-21-15135",
+      "titulo": "Lei nº 15.135 de 21/05/2025",
+      "data": "2025-05-21",
+      "numero": "15135",
+      "urn": "urn:lex:br:federal:lei:2025-05-21;15135",
+      "ementa": "Inscreve o nome do Marechal Casimiro Montenegro Filho no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "40864514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-21-15136",
+      "titulo": "Lei nº 15.136 de 21/05/2025",
+      "data": "2025-05-21",
+      "numero": "15136",
+      "urn": "urn:lex:br:federal:lei:2025-05-21;15136",
+      "ementa": "Institui o Dia Nacional do Brega."
+    },
+    {
+      "senadoId": "40864435",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-21-15138",
+      "titulo": "Lei nº 15.138 de 21/05/2025",
+      "data": "2025-05-21",
+      "numero": "15138",
+      "urn": "urn:lex:br:federal:lei:2025-05-21;15138",
+      "ementa": "Institui a Política Nacional de Assistência, Conscientização e Orientação sobre as Doenças Inflamatórias Intestinais - Doença de Crohn e Retocolite Ulcerativa."
+    },
+    {
+      "senadoId": "40685437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-06-15134",
+      "titulo": "Lei nº 15.134 de 06/05/2025",
+      "data": "2025-05-06",
+      "numero": "15134",
+      "urn": "urn:lex:br:federal:lei:2025-05-06;15134",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), 12.694, de 24 de julho de 2012, e 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para reconhecer como atividade de risco permanente as atribuições inerentes ao Poder Judiciário, ao Ministério Público e à Defensoria Pública e garantir aos seus membros e aos oficiais de justiça medidas de proteção, bem como recrudescer o tratamento penal destinado aos crimes de homicídio e de lesão corporal dolosa contra eles e os membros da Advocacia Pública, desde que no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição."
+    },
+    {
+      "senadoId": "40685323",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-05-06-15133",
+      "titulo": "Lei nº 15.133 de 06/05/2025",
+      "data": "2025-05-06",
+      "numero": "15133",
+      "urn": "urn:lex:br:federal:lei:2025-05-06;15133",
+      "ementa": "Estabelece a obrigatoriedade da prestação de cirurgia reconstrutiva de lábio leporino ou fenda palatina pelo Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "40667057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-30-15132",
+      "titulo": "Lei nº 15.132 de 30/04/2025",
+      "data": "2025-04-30",
+      "numero": "15132",
+      "urn": "urn:lex:br:federal:lei:2025-04-30;15132",
+      "ementa": "Altera a Lei nº 8.685, de 20 de julho de 1993 (Lei do Audiovisual), e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para prorrogar benefícios fiscais nelas previstos, a Lei nº 13.594, de 5 de janeiro de 2018, para prorrogar o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine), e a Lei nº 14.399, de 8 de julho de 2022 (Lei Aldir Blanc 2); e revoga a Medida Provisória nº 1.280, de 23 de dezembro de 2024."
+    },
+    {
+      "senadoId": "40660542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-29-15131",
+      "titulo": "Lei nº 15.131 de 29/04/2025",
+      "data": "2025-04-29",
+      "numero": "15131",
+      "urn": "urn:lex:br:federal:lei:2025-04-29;15131",
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012 (Lei Berenice Piana), para especificar a nutrição adequada e a terapia nutricional a ser aplicada à pessoa com transtorno do espectro autista."
+    },
+    {
+      "senadoId": "40660506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-29-15130",
+      "titulo": "Lei nº 15.130 de 29/04/2025",
+      "data": "2025-04-29",
+      "numero": "15130",
+      "urn": "urn:lex:br:federal:lei:2025-04-29;15130",
+      "ementa": "Altera a Lei nº 7.827, de 27 de setembro de 1989 (Lei dos Fundos Constitucionais), que \"regulamenta o art. 159, inciso I, alínea c, da Constituição Federal, institui o Fundo Constitucional de Financiamento do Norte (FNO), o Fundo Constitucional de Financiamento do Nordeste (FNE) e o Fundo Constitucional de Financiamento do Centro-Oeste (FCO), e dá outras providências\"."
+    },
+    {
+      "senadoId": "40638219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-28-15127",
+      "titulo": "Lei nº 15.127 de 28/04/2025",
+      "data": "2025-04-28",
+      "numero": "15127",
+      "urn": "urn:lex:br:federal:lei:2025-04-28;15127",
+      "ementa": "Institui a Campanha Nacional de Incentivo à Doação de Cabelo a Pessoas Carentes em Tratamento de Câncer e Vítimas de Escalpelamento."
+    },
+    {
+      "senadoId": "40638308",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-28-15128",
+      "titulo": "Lei nº 15.128 de 28/04/2025",
+      "data": "2025-04-28",
+      "numero": "15128",
+      "urn": "urn:lex:br:federal:lei:2025-04-28;15128",
+      "ementa": "Confere o título de Capital Nacional da Linguiça Tradicional Campeira ao Município de Alegrete, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "40638327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-28-15129",
+      "titulo": "Lei nº 15.129 de 28/04/2025",
+      "data": "2025-04-28",
+      "numero": "15129",
+      "urn": "urn:lex:br:federal:lei:2025-04-28;15129",
+      "ementa": "Confere o título de Capital Nacional da Castanha do Brasil ao Município de Sena Madureira, no Estado do Acre."
+    },
+    {
+      "senadoId": "40638123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-28-15126",
+      "titulo": "Lei nº 15.126 de 28/04/2025",
+      "data": "2025-04-28",
+      "numero": "15126",
+      "urn": "urn:lex:br:federal:lei:2025-04-28;15126",
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para estabelecer a atenção humanizada como princípio no âmbito do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "40595397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-24-15125",
+      "titulo": "Lei nº 15.125 de 24/04/2025",
+      "data": "2025-04-24",
+      "numero": "15125",
+      "urn": "urn:lex:br:federal:lei:2025-04-24;15125",
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para sujeitar o agressor a monitoração eletrônica durante aplicação de medida protetiva de urgência em casos de violência doméstica e familiar."
+    },
+    {
+      "senadoId": "40595361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-24-15124",
+      "titulo": "Lei nº 15.124 de 24/04/2025",
+      "data": "2025-04-24",
+      "numero": "15124",
+      "urn": "urn:lex:br:federal:lei:2025-04-24;15124",
+      "ementa": "Veda a adoção de critérios discriminatórios contra estudantes e pesquisadores em virtude de gestação, de parto, de nascimento de filho ou de adoção ou obtenção de guarda judicial para fins de adoção nos processos de seleção para bolsas de estudo e pesquisa das instituições de educação superior e das agências de fomento à pesquisa."
+    },
+    {
+      "senadoId": "40595325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-24-15123",
+      "titulo": "Lei nº 15.123 de 24/04/2025",
+      "data": "2025-04-24",
+      "numero": "15123",
+      "urn": "urn:lex:br:federal:lei:2025-04-24;15123",
+      "ementa": "Altera o art. 147-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena no crime de violência psicológica contra a mulher quando praticado com o uso de inteligência artificial ou de qualquer outro recurso tecnológico que altere imagem ou som da vítima."
+    },
+    {
+      "senadoId": "40527930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-11-15122",
+      "titulo": "Lei nº 15.122 de 11/04/2025",
+      "data": "2025-04-11",
+      "numero": "15122",
+      "urn": "urn:lex:br:federal:lei:2025-04-11;15122",
+      "ementa": "Estabelece critérios para suspensão de concessões comerciais, de investimentos e de obrigações relativas a direitos de propriedade intelectual em resposta a medidas unilaterais adotadas por país ou bloco econômico que impactem negativamente a competitividade internacional brasileira; e dá outras providências."
+    },
+    {
+      "senadoId": "40523493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-10-15121",
+      "titulo": "Lei nº 15.121 de 10/04/2025",
+      "data": "2025-04-10",
+      "numero": "15121",
+      "urn": "urn:lex:br:federal:lei:2025-04-10;15121",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2025."
+    },
+    {
+      "senadoId": "40512072",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-07-15119",
+      "titulo": "Lei nº 15.119 de 07/04/2025",
+      "data": "2025-04-07",
+      "numero": "15119",
+      "urn": "urn:lex:br:federal:lei:2025-04-07;15119",
+      "ementa": "Abre crédito extraordinário em favor da Defensoria Pública da União, do Ministério do Planejamento e Orçamento e do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 118.206.027,00 (cento e dezoito milhões duzentos e seis mil e vinte e sete reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "40514157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-07-15118",
+      "titulo": "Lei nº 15.118 de 07/04/2025",
+      "data": "2025-04-07",
+      "numero": "15118",
+      "urn": "urn:lex:br:federal:lei:2025-04-07;15118",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Justiça e Segurança Pública, do Ministério da Saúde, do Ministério do Meio Ambiente e Mudança do Clima, do Ministério do Desenvolvimento Agrário e Agricultura Familiar, do Ministério da Integração e do Desenvolvimento Regional, do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome e do Ministério da Pesca e Aquicultura, no valor de R$ 938.458.061,00 (novecentos e trinta e oito milhões quatrocentos e cinquenta e oito mil e sessenta e um reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "40514299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-07-15120",
+      "titulo": "Lei nº 15.120 de 07/04/2025",
+      "data": "2025-04-07",
+      "numero": "15120",
+      "urn": "urn:lex:br:federal:lei:2025-04-07;15120",
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para modificar a composição da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec)."
+    },
+    {
+      "senadoId": "40503998",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-02-15117",
+      "titulo": "Lei nº 15.117 de 02/04/2025",
+      "data": "2025-04-02",
+      "numero": "15117",
+      "urn": "urn:lex:br:federal:lei:2025-04-02;15117",
+      "ementa": "Dispõe sobre a veiculação gratuita de informação educativa acerca da prevenção de doenças pelas emissoras de rádio e televisão."
+    },
+    {
+      "senadoId": "40503962",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-04-02-15116",
+      "titulo": "Lei nº 15.116 de 02/04/2025",
+      "data": "2025-04-02",
+      "numero": "15116",
+      "urn": "urn:lex:br:federal:lei:2025-04-02;15116",
+      "ementa": "Institui o Programa de Reconstrução Dentária para Mulheres Vítimas de Violência Doméstica, no âmbito do Sistema Único de Saúde (SUS), com vistas a garantir a prestação de serviços odontológicos para reconstrução e reparação dentária de mulheres vítimas de agressões que tenham causado danos à sua saúde bucal."
+    },
+    {
+      "senadoId": "40495559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-28-15115",
+      "titulo": "Lei nº 15.115 de 28/03/2025",
+      "data": "2025-03-28",
+      "numero": "15115",
+      "urn": "urn:lex:br:federal:lei:2025-03-28;15115",
+      "ementa": "Inscreve o nome de João Carlos de Oliveira, conhecido como João do Pulo, no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "40459279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-19-15114",
+      "titulo": "Lei nº 15.114 de 19/03/2025",
+      "data": "2025-03-19",
+      "numero": "15114",
+      "urn": "urn:lex:br:federal:lei:2025-03-19;15114",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 383.000.000,00 (trezentos e oitenta e três milhões de reais), para o fim que especifica."
+    },
+    {
+      "senadoId": "40444828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-18-15113",
+      "titulo": "Lei nº 15.113 de 18/03/2025",
+      "data": "2025-03-18",
+      "numero": "15113",
+      "urn": "urn:lex:br:federal:lei:2025-03-18;15113",
+      "ementa": "Reconhece como manifestação da cultura nacional a cerimônia do Kuarup, realizada no Parque Nacional do Xingu, no Estado de Mato Grosso."
+    },
+    {
+      "senadoId": "40441954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-17-15112",
+      "titulo": "Lei nº 15.112 de 17/03/2025",
+      "data": "2025-03-17",
+      "numero": "15112",
+      "urn": "urn:lex:br:federal:lei:2025-03-17;15112",
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007 (Lei de Saneamento Básico), para prever a possibilidade de emprego de recursos públicos em serviços de drenagem e manejo de águas urbanas em condições emergenciais."
+    },
+    {
+      "senadoId": "40441773",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-17-15111",
+      "titulo": "Lei nº 15.111 de 17/03/2025",
+      "data": "2025-03-17",
+      "numero": "15111",
+      "urn": "urn:lex:br:federal:lei:2025-03-17;15111",
+      "ementa": "Institui o Dia Nacional do Criador de Cavalos."
+    },
+    {
+      "senadoId": "40441668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-17-15110",
+      "titulo": "Lei nº 15.110 de 17/03/2025",
+      "data": "2025-03-17",
+      "numero": "15110",
+      "urn": "urn:lex:br:federal:lei:2025-03-17;15110",
+      "ementa": "Institui o Dia Nacional de Segurança da Vida nas Áreas de Barragens."
+    },
+    {
+      "senadoId": "40429945",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-13-15108",
+      "titulo": "Lei nº 15.108 de 13/03/2025",
+      "data": "2025-03-13",
+      "numero": "15108",
+      "urn": "urn:lex:br:federal:lei:2025-03-13;15108",
+      "ementa": "Altera o § 2º do art. 16 da Lei nº 8.213, de 24 de julho de 1991, para equiparar ao filho do segurado o menor sob sua guarda judicial, mediante declaração do segurado, desde que o menor não possua condições suficientes para o próprio sustento e educação."
+    },
+    {
+      "senadoId": "40430078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-13-15109",
+      "titulo": "Lei nº 15.109 de 13/03/2025",
+      "data": "2025-03-13",
+      "numero": "15109",
+      "urn": "urn:lex:br:federal:lei:2025-03-13;15109",
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispensar o advogado do adiantamento de custas processuais em ações de cobrança e em execuções de honorários advocatícios."
+    },
+    {
+      "senadoId": "40402878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-06-15106",
+      "titulo": "Lei nº 15.106 de 06/03/2025",
+      "data": "2025-03-06",
+      "numero": "15106",
+      "urn": "urn:lex:br:federal:lei:2025-03-06;15106",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Previdência Social, do Ministério da Saúde, do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, de Encargos Financeiros da União e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 5.131.822.721,00 (cinco bilhões cento e trinta e um milhões oitocentos e vinte e dois mil setecentos e vinte e um reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "40402925",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-03-06-15107",
+      "titulo": "Lei nº 15.107 de 06/03/2025",
+      "data": "2025-03-06",
+      "numero": "15107",
+      "urn": "urn:lex:br:federal:lei:2025-03-06;15107",
+      "ementa": "Institui o Dia Nacional de Conscientização sobre a Esclerose Tuberosa."
+    },
+    {
+      "senadoId": "40387617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-02-20-15105",
+      "titulo": "Lei nº 15.105 de 20/02/2025",
+      "data": "2025-02-20",
+      "numero": "15105",
+      "urn": "urn:lex:br:federal:lei:2025-02-20;15105",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Agricultura e Pecuária, do Ministério da Ciência, Tecnologia e Inovação, do Ministério do Desenvolvimento Agrário e Agricultura Familiar, do Ministério de Portos e Aeroportos e de Operações Oficiais de Crédito, no valor de R$ 1.659.821.159,00 (um bilhão seiscentos e cinquenta e nove milhões oitocentos e vinte e um mil cento e cinquenta e nove reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "40387627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-02-20-15104",
+      "titulo": "Lei nº 15.104 de 20/02/2025",
+      "data": "2025-02-20",
+      "numero": "15104",
+      "urn": "urn:lex:br:federal:lei:2025-02-20;15104",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Justiça e Segurança Pública, do Ministério do Meio Ambiente e Mudança do Clima, do Ministério do Desenvolvimento Agrário e Agricultura Familiar, do Ministério da Defesa, do Ministério da Integração e do Desenvolvimento Regional, do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome e do Ministério dos Povos Indígenas, no valor de R$ 514.474.666,00 (quinhentos e quatorze milhões quatrocentos e setenta e quatro mil seiscentos e sessenta e seis reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "40306198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-22-15103",
+      "titulo": "Lei nº 15.103 de 22/01/2025",
+      "data": "2025-01-22",
+      "numero": "15103",
+      "urn": "urn:lex:br:federal:lei:2025-01-22;15103",
+      "ementa": "Institui o Programa de Aceleração da Transição Energética (Paten); e altera as Leis nºs 13.988, de 14 de abril de 2020, 11.484, de 31 de maio de 2007, 9.991, de 24 de julho de 2000, e 9.478, de 6 de agosto de 1997."
+    },
+    {
+      "senadoId": "40167866",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-15-15102",
+      "titulo": "Lei nº 15.102 de 15/01/2025",
+      "data": "2025-01-15",
+      "numero": "15102",
+      "urn": "urn:lex:br:federal:lei:2025-01-15;15102",
+      "ementa": "Altera a Lei nº 14.165, de 10 de junho de 2021, para estabelecer critérios adicionais para a recompra de cotas pelo Fundo de Investimentos da Amazônia (Finam) e pelo Fundo de Investimentos do Nordeste (Finor); para destinar os recursos remanescentes do Finam e do Finor para investimentos em infraestrutura nas regiões Norte e Nordeste; e para reverter os saldos remanescentes em favor do Fundo de Desenvolvimento da Amazônia (FDA) e do Fundo de Desenvolvimento do Nordeste (FDNE)."
+    },
+    {
+      "senadoId": "40157066",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-13-15100",
+      "titulo": "Lei nº 15.100 de 13/01/2025",
+      "data": "2025-01-13",
+      "numero": "15100",
+      "urn": "urn:lex:br:federal:lei:2025-01-13;15100",
+      "ementa": "Dispõe sobre a utilização, por estudantes, de aparelhos eletrônicos portáteis pessoais nos estabelecimentos públicos e privados de ensino da educação básica."
+    },
+    {
+      "senadoId": "40157128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-13-15101",
+      "titulo": "Lei nº 15.101 de 13/01/2025",
+      "data": "2025-01-13",
+      "numero": "15101",
+      "urn": "urn:lex:br:federal:lei:2025-01-13;15101",
+      "ementa": "Institui o Dia Nacional do Rádio."
+    },
+    {
+      "senadoId": "40151345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-10-15098",
+      "titulo": "Lei nº 15.098 de 10/01/2025",
+      "data": "2025-01-10",
+      "numero": "15098",
+      "urn": "urn:lex:br:federal:lei:2025-01-10;15098",
+      "ementa": "Institui o Dia Nacional da Ikebana."
+    },
+    {
+      "senadoId": "40151309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-10-15097",
+      "titulo": "Lei nº 15.097 de 10/01/2025",
+      "data": "2025-01-10",
+      "numero": "15097",
+      "urn": "urn:lex:br:federal:lei:2025-01-10;15097",
+      "ementa": "Disciplina o aproveitamento de potencial energético offshore; e altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.478, de 6 de agosto de 1997, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 14.182, de 12 de julho de 2021, e a Lei nº 14.300, de 6 de janeiro de 2022."
+    },
+    {
+      "senadoId": "40151381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-10-15099",
+      "titulo": "Lei nº 15.099 de 10/01/2025",
+      "data": "2025-01-10",
+      "numero": "15099",
+      "urn": "urn:lex:br:federal:lei:2025-01-10;15099",
+      "ementa": "Denomina \"Passarela Domingos Rosa dos Santos\" a passarela situada no Km 181,4 da BR-116, na Rodovia Presidente Dutra, no Município de Guararema, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "40150231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-09-15096",
+      "titulo": "Lei nº 15.096 de 09/01/2025",
+      "data": "2025-01-09",
+      "numero": "15096",
+      "urn": "urn:lex:br:federal:lei:2025-01-09;15096",
+      "ementa": "Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 15ª Região, sem aumento de despesas."
+    },
+    {
+      "senadoId": "40150270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-09-15095",
+      "titulo": "Lei nº 15.095 de 09/01/2025",
+      "data": "2025-01-09",
+      "numero": "15095",
+      "urn": "urn:lex:br:federal:lei:2025-01-09;15095",
+      "ementa": "Dispõe sobre a criação de cargos em comissão e a transformação de cargos de Técnico e de Analista em cargos em comissão, no âmbito do Conselho Nacional do Ministério Público."
+    },
+    {
+      "senadoId": "40147356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-08-15094",
+      "titulo": "Lei nº 15.094 de 08/01/2025",
+      "data": "2025-01-08",
+      "numero": "15094",
+      "urn": "urn:lex:br:federal:lei:2025-01-08;15094",
+      "ementa": "Torna obrigatória a realização de exame clínico destinado a identificar a Fibrodisplasia Ossificante Progressiva (FOP) nos recém-nascidos na triagem neonatal das redes pública e privada de saúde, com cobertura do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "40144567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-07-15093",
+      "titulo": "Lei nº 15.093 de 07/01/2025",
+      "data": "2025-01-07",
+      "numero": "15093",
+      "urn": "urn:lex:br:federal:lei:2025-01-07;15093",
+      "ementa": "Institui a Campanha Setembro da Paz."
+    },
+    {
+      "senadoId": "40144250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-07-15089",
+      "titulo": "Lei nº 15.089 de 07/01/2025",
+      "data": "2025-01-07",
+      "numero": "15089",
+      "urn": "urn:lex:br:federal:lei:2025-01-07;15089",
+      "ementa": "Institui a Política Nacional para o Manejo Sustentável, Plantio, Extração, Consumo, Comercialização e Transformação do Pequi (Caryocar brasiliense) e demais Frutos e Produtos Nativos do Cerrado."
+    },
+    {
+      "senadoId": "40144356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-07-15090",
+      "titulo": "Lei nº 15.090 de 07/01/2025",
+      "data": "2025-01-07",
+      "numero": "15090",
+      "urn": "urn:lex:br:federal:lei:2025-01-07;15090",
+      "ementa": "Altera os limites do Parque Nacional da Serra do Itajaí, criado por decreto não numerado de 4 de junho de 2004, e localizado nos Municípios de Apiúna, Blumenau, Botuverá, Gaspar, Guabiruba, Indaial, Presidente Nereu e Vidal Ramos, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "40144493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-07-15092",
+      "titulo": "Lei nº 15.092 de 07/01/2025",
+      "data": "2025-01-07",
+      "numero": "15092",
+      "urn": "urn:lex:br:federal:lei:2025-01-07;15092",
+      "ementa": "Reconhece como patrimônio cultural brasileiro as barracas de praia e a atividade desempenhada pelos barraqueiros da Praia do Futuro, em Fortaleza, Estado do Ceará."
+    },
+    {
+      "senadoId": "40144428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-07-15091",
+      "titulo": "Lei nº 15.091 de 07/01/2025",
+      "data": "2025-01-07",
+      "numero": "15091",
+      "urn": "urn:lex:br:federal:lei:2025-01-07;15091",
+      "ementa": "Denomina Viaduto Soldado Constitucionalista Abílio Previdi o viaduto localizado no Km 464,6 da BR-116, Rodovia Régis Bittencourt, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "40143494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-06-15088",
+      "titulo": "Lei nº 15.088 de 06/01/2025",
+      "data": "2025-01-06",
+      "numero": "15088",
+      "urn": "urn:lex:br:federal:lei:2025-01-06;15088",
+      "ementa": "Altera a Lei nº 12.305, de 2 de agosto de 2010 (Lei de Resíduos Sólidos), para proibir a importação de resíduos sólidos e de rejeitos, ressalvados os casos que especifica."
+    },
+    {
+      "senadoId": "40142811",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-03-15087",
+      "titulo": "Lei nº 15.087 de 03/01/2025",
+      "data": "2025-01-03",
+      "numero": "15087",
+      "urn": "urn:lex:br:federal:lei:2025-01-03;15087",
+      "ementa": "Institui o Dia Nacional do Medicamento Biossimilar."
+    },
+    {
+      "senadoId": "40142844",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-03-15086",
+      "titulo": "Lei nº 15.086 de 03/01/2025",
+      "data": "2025-01-03",
+      "numero": "15086",
+      "urn": "urn:lex:br:federal:lei:2025-01-03;15086",
+      "ementa": "Inscreve o nome de Hipólita Jacinta Teixeira de Melo no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "40140078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-02-15083",
+      "titulo": "Lei nº 15.083 de 02/01/2025",
+      "data": "2025-01-02",
+      "numero": "15083",
+      "urn": "urn:lex:br:federal:lei:2025-01-02;15083",
+      "ementa": "Altera a Lei nº 13.903, de 19 de novembro de 2019, para autorizar a criação de subsidiária da NAV Brasil Serviços de Navegação Aérea S.A. (NAV Brasil), nos termos que especifica, e dispõe sobre a possibilidade de alienação do seu controle acionário à União."
+    },
+    {
+      "senadoId": "40140174",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-02-15085",
+      "titulo": "Lei nº 15.085 de 02/01/2025",
+      "data": "2025-01-02",
+      "numero": "15085",
+      "urn": "urn:lex:br:federal:lei:2025-01-02;15085",
+      "ementa": "Denomina Silvio Andreoli o viaduto situado no Km 65 da rodovia BR-153, na pista sul da Avenida Murchid Homsi, no Município de São José do Rio Preto, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "40140133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2025-01-02-15084",
+      "titulo": "Lei nº 15.084 de 02/01/2025",
+      "data": "2025-01-02",
+      "numero": "15084",
+      "urn": "urn:lex:br:federal:lei:2025-01-02;15084",
+      "ementa": "Denomina \"Rodovia Pedro Gurgacz\" o trecho da rodovia BR-163 entre o Município de Cascavel, no entroncamento com a rodovia BR-277, e o Município de Capitão Leônidas Marques, no Estado do Paraná."
+    }
+  ],
+  "pendencias": []
+}

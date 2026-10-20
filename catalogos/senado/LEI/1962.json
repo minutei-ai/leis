@@ -1,0 +1,1589 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1962",
+  "tipo": "LEI",
+  "ano": 1962,
+  "coletado_em": "2026-10-20T23:01:40.023Z",
+  "normas": [
+    {
+      "senadoId": "546038",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4196",
+      "titulo": "Lei nº 4.196 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4196",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4196",
+      "ementa": "Isenta dos impostos de importação e de consumo, equipamentos e acessórios destinados à montagem de uma estação transmissora para radiodifusão e televisão importados pela Fundação Casper Líbero, em São Paulo."
+    },
+    {
+      "senadoId": "546039",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4197",
+      "titulo": "Lei nº 4.197 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4197",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4197",
+      "ementa": "Concede ao jornalista João Castaldi dei Ruccillo, a pensão de Cr$ 20.000,00 mensais, por serviços prestados à Nação no setor de Jornalismo."
+    },
+    {
+      "senadoId": "546034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4192",
+      "titulo": "Lei nº 4.192 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4192",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4192",
+      "ementa": "Aplica aos cargos e funções do Quadro do Pessoal e Ógãos da Justiça do Trabalho da 3ª Região disposições das Leis nºs. 3780, de 12 de julho de 1960, e 3826, de 23 de novembro de 1960, e dá outras providências."
+    },
+    {
+      "senadoId": "546036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4194",
+      "titulo": "Lei nº 4.194 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4194",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4194",
+      "ementa": "Isenta do imposto de importação e de consumo materiais importados pela S.A. Rádio Tupi."
+    },
+    {
+      "senadoId": "546037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4195",
+      "titulo": "Lei nº 4.195 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4195",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4195",
+      "ementa": "Concede isenção de imposto de importação para os equipamentos insdustriais a serem importados pela Companhia Brasileira de Alumínio."
+    },
+    {
+      "senadoId": "546033",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4191",
+      "titulo": "Lei nº 4.191 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4191",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4191",
+      "ementa": "Dispõe sobre o Código Tributário do Distrito Federal."
+    },
+    {
+      "senadoId": "546035",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-24-4193",
+      "titulo": "Lei nº 4.193 de 24/12/1962",
+      "data": "1962-12-24",
+      "numero": "4193",
+      "urn": "urn:lex:br:federal:lei:1962-12-24;4193",
+      "ementa": "Orça a Receita e fixa a Despesa do Distrito Federal, para o exercício financeiro de 1963."
+    },
+    {
+      "senadoId": "546026",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4184",
+      "titulo": "Lei nº 4.184 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4184",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4184",
+      "ementa": "Concede isenção de lincença prévia e de imposto de importação e outros tributos e taxas para donativos consignados à Conferência de Bispos do Brasil."
+    },
+    {
+      "senadoId": "546032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4190",
+      "titulo": "Lei nº 4.190 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4190",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4190",
+      "ementa": "Dispõe sôbre o meio circulante e dá outras providências."
+    },
+    {
+      "senadoId": "546029",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4187",
+      "titulo": "Lei nº 4.187 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4187",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4187",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 2.000.000,00, destinado ao prosseguimento das obras da sede da Associção Sergipana de Imprensa."
+    },
+    {
+      "senadoId": "546031",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4189",
+      "titulo": "Lei nº 4.189 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4189",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4189",
+      "ementa": "Concede isenção de licença prévia e de imposto de importação e outros tributos e taxas para donativos consignados à Confederação Evangélica do Brasil."
+    },
+    {
+      "senadoId": "546028",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4186",
+      "titulo": "Lei nº 4.186 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4186",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4186",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 10.000.000,00 para aplicação na construção do Estádio Univeritário da Federação Universitária Paulista de Esportes."
+    },
+    {
+      "senadoId": "546027",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4185",
+      "titulo": "Lei nº 4.185 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4185",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4185",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, do crédito especial de Cr$ 5.000.000,00, para atender a despesas com a reconstrução e reaparelhamento das instalações da Fábrica Estrêla danificadas com a explosão ocorrida em outubro de 1951."
+    },
+    {
+      "senadoId": "546030",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-17-4188",
+      "titulo": "Lei nº 4.188 de 17/12/1962",
+      "data": "1962-12-17",
+      "numero": "4188",
+      "urn": "urn:lex:br:federal:lei:1962-12-17;4188",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal de Justiça do Distrito Federal - o crédito especial de Cr$ 1.131.000,00, destinado ao pagamento do salário-espôsa de magistrados daquele Tribunal."
+    },
+    {
+      "senadoId": "546025",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-13-4183",
+      "titulo": "Lei nº 4.183 de 13/12/1962",
+      "data": "1962-12-13",
+      "numero": "4183",
+      "urn": "urn:lex:br:federal:lei:1962-12-13;4183",
+      "ementa": "Amplia a jurisdição das Juntas de Conciliação e Julgamento de Volta   Redonda, Petrópolis, Nova Iguaçu e Niterói, no Estado do Rio de   Janeiro."
+    },
+    {
+      "senadoId": "546024",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-13-4182",
+      "titulo": "Lei nº 4.182 de 13/12/1962",
+      "data": "1962-12-13",
+      "numero": "4182",
+      "urn": "urn:lex:br:federal:lei:1962-12-13;4182",
+      "ementa": "Dá ao atual Território Federal do Rio Branco a denominação de Território   Federal de Roraima."
+    },
+    {
+      "senadoId": "546020",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-11-4178",
+      "titulo": "Lei nº 4.178 de 11/12/1962",
+      "data": "1962-12-11",
+      "numero": "4178",
+      "urn": "urn:lex:br:federal:lei:1962-12-11;4178",
+      "ementa": "Extingue o trabalho aos sábados nos estabelecimentos de crédito."
+    },
+    {
+      "senadoId": "546021",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-11-4179",
+      "titulo": "Lei nº 4.179 de 11/12/1962",
+      "data": "1962-12-11",
+      "numero": "4179",
+      "urn": "urn:lex:br:federal:lei:1962-12-11;4179",
+      "ementa": "Denomina \"Palácio Alberto de Britto Pereira\" o edifício onde funciona o   Departamento de Imprensa Nacional, na Capital Federal."
+    },
+    {
+      "senadoId": "546022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-11-4180",
+      "titulo": "Lei nº 4.180 de 11/12/1962",
+      "data": "1962-12-11",
+      "numero": "4180",
+      "urn": "urn:lex:br:federal:lei:1962-12-11;4180",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Fazenda, o crédito especial de Cr$ 826.200,00, para atender a despesas da Comissão de Reparações de Guerra, de 1º de janeiro a 31 de dezembro de 1960."
+    },
+    {
+      "senadoId": "546019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-11-4177",
+      "titulo": "Lei nº 4.177 de 11/12/1962",
+      "data": "1962-12-11",
+      "numero": "4177",
+      "urn": "urn:lex:br:federal:lei:1962-12-11;4177",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1963."
+    },
+    {
+      "senadoId": "546023",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-11-4181",
+      "titulo": "Lei nº 4.181 de 11/12/1962",
+      "data": "1962-12-11",
+      "numero": "4181",
+      "urn": "urn:lex:br:federal:lei:1962-12-11;4181",
+      "ementa": "Retifica, sem ônus, a Lei nº 3.682, de 7 de dezembro de 1959, que estima a   Receita e fixa a Despesa da União, para o exercício de 1960."
+    },
+    {
+      "senadoId": "546018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-07-4176",
+      "titulo": "Lei nº 4.176 de 07/12/1962",
+      "data": "1962-12-07",
+      "numero": "4176",
+      "urn": "urn:lex:br:federal:lei:1962-12-07;4176",
+      "ementa": "Cria o \"Condomínio Rural de Piuí\" e dá outras providências."
+    },
+    {
+      "senadoId": "546017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-05-4175",
+      "titulo": "Lei nº 4.175 de 05/12/1962",
+      "data": "1962-12-05",
+      "numero": "4175",
+      "urn": "urn:lex:br:federal:lei:1962-12-05;4175",
+      "ementa": "Transfere cargo do Quadro de Pessoal - Parte Permanente do Ministério da Agricultura para igual Quadro do Ministério da Aeronáutica."
+    },
+    {
+      "senadoId": "546015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-05-4173",
+      "titulo": "Lei nº 4.173 de 05/12/1962",
+      "data": "1962-12-05",
+      "numero": "4173",
+      "urn": "urn:lex:br:federal:lei:1962-12-05;4173",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Tribunal de Contas, o crédito   especial de Cr$ 150.000,00 para atender a despesas com pagamento de   gratificações adicionais e salários família referentes aos exercícios de 1953,   1954, 1955, 1956 e 1957."
+    },
+    {
+      "senadoId": "546014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-05-4172",
+      "titulo": "Lei nº 4.172 de 05/12/1962",
+      "data": "1962-12-05",
+      "numero": "4172",
+      "urn": "urn:lex:br:federal:lei:1962-12-05;4172",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Tribunal Regional do Trabalho da 6ª Região o crédito especial de Cr$ 1.204.285,00 para custear as despesas daquela Côrte."
+    },
+    {
+      "senadoId": "546012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-05-4170",
+      "titulo": "Lei nº 4.170 de 05/12/1962",
+      "data": "1962-12-05",
+      "numero": "4170",
+      "urn": "urn:lex:br:federal:lei:1962-12-05;4170",
+      "ementa": "Dispõe sobre funcionamento de novos cursos na Escola de Engenharia de Uberlândia e dá outras providências."
+    },
+    {
+      "senadoId": "546016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-05-4174",
+      "titulo": "Lei nº 4.174 de 05/12/1962",
+      "data": "1962-12-05",
+      "numero": "4174",
+      "urn": "urn:lex:br:federal:lei:1962-12-05;4174",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 20.000.000,00, destinado a auxiliar a execução de   Plano Quinquenal de Obras da Diocese de Pelotas, Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "546013",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-05-4171",
+      "titulo": "Lei nº 4.171 de 05/12/1962",
+      "data": "1962-12-05",
+      "numero": "4171",
+      "urn": "urn:lex:br:federal:lei:1962-12-05;4171",
+      "ementa": "Dispõe sobre as férias coletivas do Tribunal Federal de   Recursos."
+    },
+    {
+      "senadoId": "546006",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4164",
+      "titulo": "Lei nº 4.164 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4164",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4164",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 10.000.000,00, destinado à construção do Hospital Santa Maria,   no Rio de Janeiro, Estado da Guanabara."
+    },
+    {
+      "senadoId": "546011",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4169",
+      "titulo": "Lei nº 4.169 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4169",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4169",
+      "ementa": "Oficializa as convenções Braile para uso na escrita e leitura dos cegos e o Código de Contrações e Abreviaturas Braille."
+    },
+    {
+      "senadoId": "546003",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4161",
+      "titulo": "Lei nº 4.161 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4161",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4161",
+      "ementa": "Altera o item 4 do art. 9º e o art. 19 do Decreto-lei nº 6.259, de 10 de fevereiro de 1944, que dispõe sobre loterias."
+    },
+    {
+      "senadoId": "546010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4168",
+      "titulo": "Lei nº 4.168 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4168",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4168",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, créditos suplementares no valor total de Cr$ 652.378.677,30 (seiscentos e cinquenta e dois milhões, trezentos e setenta e oito mil, seiscentos e setenta e sete cruzeiros e trinta centavos), destinados ao reaparelhamento da Força Aérea Brasileira."
+    },
+    {
+      "senadoId": "546004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4162",
+      "titulo": "Lei nº 4.162 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4162",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4162",
+      "ementa": "Altera a redação da letra \"l\", do artigo 88 do Código de Justiça Militar (Decreto-lei nº 925, de 2 de dezembro de 1938)."
+    },
+    {
+      "senadoId": "546005",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4163",
+      "titulo": "Lei nº 4.163 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4163",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4163",
+      "ementa": "Cria a Auditoria da 10ª Região Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "546007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4165",
+      "titulo": "Lei nº 4.165 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4165",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4165",
+      "ementa": "Modifica o Plano Rodoviário Nacional e abre crédito especial de Cr$ 1.000.000.000,00, pelo Ministério da Viação e Obras Públicas."
+    },
+    {
+      "senadoId": "546002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4160",
+      "titulo": "Lei nº 4.160 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4160",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4160",
+      "ementa": "Prorroga a vigência da Lei nº 1.300, de 28 de dezembros de 1950 (Lei do Inquilinato), e dá outras providências."
+    },
+    {
+      "senadoId": "546008",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4166",
+      "titulo": "Lei nº 4.166 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4166",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4166",
+      "ementa": "Modifica a redação do parágrafo unico do art. 6º e do inciso I do artigo   7, tudo da Lei 1533, de 31 de dezembro de 1951, que altera disposições do Código   de Processo Civil relativas ao mandado de segurança."
+    },
+    {
+      "senadoId": "546009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-12-04-4167",
+      "titulo": "Lei nº 4.167 de 04/12/1962",
+      "data": "1962-12-04",
+      "numero": "4167",
+      "urn": "urn:lex:br:federal:lei:1962-12-04;4167",
+      "ementa": "Revigora o crédito especial determinado pela Lei nº 3.842, de 15 de   dezembro de 1960 (auxílio financeiro à Associação Pró-Matre - Estado da   Guanabara)."
+    },
+    {
+      "senadoId": "546001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-30-4159",
+      "titulo": "Lei nº 4.159 de 30/11/1962",
+      "data": "1962-11-30",
+      "numero": "4159",
+      "urn": "urn:lex:br:federal:lei:1962-11-30;4159",
+      "ementa": "Integra na Universidade de Minas Gerais o Conservatório Mineiro de Música   de Belo Horizonte, incorpora o Instituto de Belas Artes do Rio Grande do Sul à   Universidade do Rio Grande do Sul e autoriza a abertura, pelo Ministério da   Educação e Cultura, de crédito especial."
+    },
+    {
+      "senadoId": "545998",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-28-4156",
+      "titulo": "Lei nº 4.156 de 28/11/1962",
+      "data": "1962-11-28",
+      "numero": "4156",
+      "urn": "urn:lex:br:federal:lei:1962-11-28;4156",
+      "ementa": "Altera a legislação sobre o Fundo Federal de Eletrificação e dá outras providências."
+    },
+    {
+      "senadoId": "545995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-28-4153",
+      "titulo": "Lei nº 4.153 de 28/11/1962",
+      "data": "1962-11-28",
+      "numero": "4153",
+      "urn": "urn:lex:br:federal:lei:1962-11-28;4153",
+      "ementa": "Altera a legislação do Imposto de Cosumo e dá outras providências."
+    },
+    {
+      "senadoId": "546000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-28-4158",
+      "titulo": "Lei nº 4.158 de 28/11/1962",
+      "data": "1962-11-28",
+      "numero": "4158",
+      "urn": "urn:lex:br:federal:lei:1962-11-28;4158",
+      "ementa": "Dispõe sobre a carreira do Ministério Público do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "545999",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-28-4157",
+      "titulo": "Lei nº 4.157 de 28/11/1962",
+      "data": "1962-11-28",
+      "numero": "4157",
+      "urn": "urn:lex:br:federal:lei:1962-11-28;4157",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Legislativo - Câmara dos   Deputados e Senado Federal - os créditos suplementares no total de Cr$   1.004.494.000,00 (um bilhão, quatro milhões, quatrocentos e noventa e quatro mil   cruzeiros), como reforço de dotações orçamentárias para o exercício de   1962."
+    },
+    {
+      "senadoId": "545997",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-28-4155",
+      "titulo": "Lei nº 4.155 de 28/11/1962",
+      "data": "1962-11-28",
+      "numero": "4155",
+      "urn": "urn:lex:br:federal:lei:1962-11-28;4155",
+      "ementa": "Estabelece normas para a restituição de receita, autoriza   a reorganização interna das repartições arrecadadoras e dá outras   providências."
+    },
+    {
+      "senadoId": "545996",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-28-4154",
+      "titulo": "Lei nº 4.154 de 28/11/1962",
+      "data": "1962-11-28",
+      "numero": "4154",
+      "urn": "urn:lex:br:federal:lei:1962-11-28;4154",
+      "ementa": "Dispõe sobre a legislação de rendas e proventos de qualquer natureza."
+    },
+    {
+      "senadoId": "545994",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-21-4152",
+      "titulo": "Lei nº 4.152 de 21/11/1962",
+      "data": "1962-11-21",
+      "numero": "4152",
+      "urn": "urn:lex:br:federal:lei:1962-11-21;4152",
+      "ementa": "Denomina Comandante Alberto Autran o antigo Hospital dos Marítimos, de   Belém do Pará."
+    },
+    {
+      "senadoId": "545991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-21-4149",
+      "titulo": "Lei nº 4.149 de 21/11/1962",
+      "data": "1962-11-21",
+      "numero": "4149",
+      "urn": "urn:lex:br:federal:lei:1962-11-21;4149",
+      "ementa": "Autoriza a abertura, ao Ministério da Justiça e Negócios Interiores, do   crédito de Cr$ 25.000.000,00 destinado a ocorrer à instalação e funcionamento,   em Brasília, do Ministério Público do Distrito Federal e da Primeira   Subprocuradoria-Geral."
+    },
+    {
+      "senadoId": "545990",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-21-4148",
+      "titulo": "Lei nº 4.148 de 21/11/1962",
+      "data": "1962-11-21",
+      "numero": "4148",
+      "urn": "urn:lex:br:federal:lei:1962-11-21;4148",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e   Cultura, o crédito especial de Cr$ 5.000.000,00, para auxiliar o IX Congresso Nacional   de Jornalistas realizado em Friburgo."
+    },
+    {
+      "senadoId": "545993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-21-4151",
+      "titulo": "Lei nº 4.151 de 21/11/1962",
+      "data": "1962-11-21",
+      "numero": "4151",
+      "urn": "urn:lex:br:federal:lei:1962-11-21;4151",
+      "ementa": "Concede isenção de impostos, taxas alfandegárias e quaisquer outros ônus federais para material destinado à construção do Pavilhão da Exposição Internacional de Indústria e Comércio de Rio de Janeiro."
+    },
+    {
+      "senadoId": "545992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-11-21-4150",
+      "titulo": "Lei nº 4.150 de 21/11/1962",
+      "data": "1962-11-21",
+      "numero": "4150",
+      "urn": "urn:lex:br:federal:lei:1962-11-21;4150",
+      "ementa": "Institui o regime obrigatório de preparo e observância das normas técnicas nos contratos de obras e compras do serviço público de execução direta, concedida, autárquica ou de ecinomia mista, através da associação Brasileira de Normas Técnicas, e dá outras providências."
+    },
+    {
+      "senadoId": "545989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-24-4147",
+      "titulo": "Lei nº 4.147 de 24/09/1962",
+      "data": "1962-09-24",
+      "numero": "4147",
+      "urn": "urn:lex:br:federal:lei:1962-09-24;4147",
+      "ementa": "Altera a redação do art. 2º da Lei nº 541, de 15 de dezembro de 1948,   e dá outras providências."
+    },
+    {
+      "senadoId": "545985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4143",
+      "titulo": "Lei nº 4.143 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4143",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4143",
+      "ementa": "Isenta dos impostos de importação e de consumo materiais a serem   importados pela Rádio Televisão Piratini S.A. para a instalação de uma estação   completa de televisão, na cidade de Porto Alegre, no Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "545982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4140",
+      "titulo": "Lei nº 4.140 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4140",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4140",
+      "ementa": "Altera as alíneas b e c do artigo 580 do Decreto-Lei número 5452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), e dá outras providências."
+    },
+    {
+      "senadoId": "545984",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4142",
+      "titulo": "Lei nº 4.142 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4142",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4142",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 18.000.000,00 para atender às obras de assistência à população   do município de Caxias, Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "545988",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4146",
+      "titulo": "Lei nº 4.146 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4146",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4146",
+      "ementa": "Concede pensão especial de Cr$ 20.000,00 a Marcionila de Souza Barreto, viúva do Juiz Federal Manuel Xavier Paes Barreto."
+    },
+    {
+      "senadoId": "545981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4139",
+      "titulo": "Lei nº 4.139 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4139",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4139",
+      "ementa": "Autoriza a concessão da subvenção de Cr$ 2.000.000,00 (dois milhões de   cruzeiros) à Liga Bahiana Contra a Mortalidade Infantil para manutenção do   Hospital Martagão Gesteira."
+    },
+    {
+      "senadoId": "545986",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4144",
+      "titulo": "Lei nº 4.144 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4144",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4144",
+      "ementa": "Prorroga até 24 de abril de 1963 o prazo de isenção de que trata o art. 17 da Lei nº 3.381, de 24 de abril de 1958 (que concedeu às empresas nacionais de construção ou reparos navais, isenção de direitos de importação para consumo e demais taxas aduaneiras)."
+    },
+    {
+      "senadoId": "545983",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4141",
+      "titulo": "Lei nº 4.141 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4141",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4141",
+      "ementa": "Concede isenção dos impostos de importação e de consumo para o equipamento   de um órgão litúrgico doado ao Colégio Santa Marcelina, do Rio de   Janeiro."
+    },
+    {
+      "senadoId": "545987",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-21-4145",
+      "titulo": "Lei nº 4.145 de 21/09/1962",
+      "data": "1962-09-21",
+      "numero": "4145",
+      "urn": "urn:lex:br:federal:lei:1962-09-21;4145",
+      "ementa": "Concede pensão especial de Cr$ 30.000,00 mensais à viúva do ex-Senador   José Neiva de Souza."
+    },
+    {
+      "senadoId": "545980",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-17-4138",
+      "titulo": "Lei nº 4.138 de 17/09/1962",
+      "data": "1962-09-17",
+      "numero": "4138",
+      "urn": "urn:lex:br:federal:lei:1962-09-17;4138",
+      "ementa": "Autoriza o Poder Executivo a assinar os protocolos   relativos a aceitação do Acordo Geral de Tarifas Aduaneias de Cooperação   Comercial."
+    },
+    {
+      "senadoId": "545977",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-10-4135",
+      "titulo": "Lei nº 4.135 de 10/09/1962",
+      "data": "1962-09-10",
+      "numero": "4135",
+      "urn": "urn:lex:br:federal:lei:1962-09-10;4135",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 30.791.905,30, para pagamento da diferença   de adicional por tempo de serviço, relativamente ao período de 1º de janeiro de   1956 a 30 de abril de 1959, aos aposentados da Cia. Nacional de Navegação   Costeira."
+    },
+    {
+      "senadoId": "545974",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-10-4132",
+      "titulo": "Lei nº 4.132 de 10/09/1962",
+      "data": "1962-09-10",
+      "numero": "4132",
+      "urn": "urn:lex:br:federal:lei:1962-09-10;4132",
+      "ementa": "Define os casos de desapropriação por interesse social e dispõe sobre sua aplicação"
+    },
+    {
+      "senadoId": "545976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-10-4134",
+      "titulo": "Lei nº 4.134 de 10/09/1962",
+      "data": "1962-09-10",
+      "numero": "4134",
+      "urn": "urn:lex:br:federal:lei:1962-09-10;4134",
+      "ementa": "Abre o crédito especial de Cr$ 5.000.000,00 durante dez exercícios   consecutivos, para auxiliar a manutenção da Casa do Pequeno Jornaleiro, no   Estado da Guanabara, e dá outras providências."
+    },
+    {
+      "senadoId": "545978",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-10-4136",
+      "titulo": "Lei nº 4.136 de 10/09/1962",
+      "data": "1962-09-10",
+      "numero": "4136",
+      "urn": "urn:lex:br:federal:lei:1962-09-10;4136",
+      "ementa": "Concede pensão especial de Cr$ 5.000.00, mensais a Benedito Cândido de   Oliveira Dória."
+    },
+    {
+      "senadoId": "545975",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-10-4133",
+      "titulo": "Lei nº 4.133 de 10/09/1962",
+      "data": "1962-09-10",
+      "numero": "4133",
+      "urn": "urn:lex:br:federal:lei:1962-09-10;4133",
+      "ementa": "Altera o inciso I do artigo 945, do Código de Processo   Civil."
+    },
+    {
+      "senadoId": "545979",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-10-4137",
+      "titulo": "Lei nº 4.137 de 10/09/1962",
+      "data": "1962-09-10",
+      "numero": "4137",
+      "urn": "urn:lex:br:federal:lei:1962-09-10;4137",
+      "ementa": "Regula a repressão ao abuso do Poder Econômico."
+    },
+    {
+      "senadoId": "545973",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-09-03-4131",
+      "titulo": "Lei nº 4.131 de 03/09/1962",
+      "data": "1962-09-03",
+      "numero": "4131",
+      "urn": "urn:lex:br:federal:lei:1962-09-03;4131",
+      "ementa": "Disciplina a aplicação do capital estrangeiro e as remessas de valores para o exterior e dá outras providências."
+    },
+    {
+      "senadoId": "545972",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-28-4130",
+      "titulo": "Lei nº 4.130 de 28/08/1962",
+      "data": "1962-08-28",
+      "numero": "4130",
+      "urn": "urn:lex:br:federal:lei:1962-08-28;4130",
+      "ementa": "Dá nova redação aos §§ 1º e 4º do art. 32 da Lei nº 3.807, de 26 de agosto   de 1960 ( Lei Orgânica da Previdência Social )"
+    },
+    {
+      "senadoId": "545963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4121",
+      "titulo": "Lei nº 4.121 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4121",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4121",
+      "ementa": "Dispõe sobre a situação jurídica da mulher casada."
+    },
+    {
+      "senadoId": "545966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4124",
+      "titulo": "Lei nº 4.124 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4124",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4124",
+      "ementa": "Cria Juntas de Conciliação e Julgamento na 5ª Região da Justiça do Trabalho."
+    },
+    {
+      "senadoId": "545961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4119",
+      "titulo": "Lei nº 4.119 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4119",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4119",
+      "ementa": "Dispõe sobre os cursos de formação em psicologia e regulamenta a profissão de psicólogo."
+    },
+    {
+      "senadoId": "545968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4126",
+      "titulo": "Lei nº 4.126 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4126",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4126",
+      "ementa": "Altera disposições da Lei nº 3.780, de 12 de julho de 1960, relativas à classe de Ascensorista."
+    },
+    {
+      "senadoId": "545964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4122",
+      "titulo": "Lei nº 4.122 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4122",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4122",
+      "ementa": "Autoriza a União a constituir uma Sociedade de Economia Mista, por ações, que se denominará Siderúrgica de Santa Catarina S.A. ( SIDESC ), e dá outras providências."
+    },
+    {
+      "senadoId": "545971",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4129",
+      "titulo": "Lei nº 4.129 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4129",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4129",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 6.000.000,00, destinado a auxiliar o Educandário Nossa   Senhora de Lourdes, de Brusque, Estado de Santa Catarina; o Colégio Coração de   Maria, de Santos, Estado de São Paulo; o Liceu Feminino Santista de Santos,   Estado de São Paulo; o Instituto de Assistência Social, Formação e Cultura, de   Tubarão, Santa Catarina; a Escola Normal Regional, de Leopoldo Bulhões, e a   Escola Normal Rural de Urutaí, ambas no Estado de Goiás."
+    },
+    {
+      "senadoId": "545969",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4127",
+      "titulo": "Lei nº 4.127 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4127",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4127",
+      "ementa": "Dispõe sobre a criação de taxa destinada à remuneração dos vigias portuários."
+    },
+    {
+      "senadoId": "545959",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4117",
+      "titulo": "Lei nº 4.117 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4117",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4117",
+      "ementa": "Institui o Código Brasileiro de Telecomunicações."
+    },
+    {
+      "senadoId": "545958",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4116",
+      "titulo": "Lei nº 4.116 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4116",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4116",
+      "ementa": "Dispõe sobre a regulamentação do exercício da profissão de Corretor de Imóveis."
+    },
+    {
+      "senadoId": "545962",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4120",
+      "titulo": "Lei nº 4.120 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4120",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4120",
+      "ementa": "Dispõe sobre a execução orçamentária do exercício financeiro de 1962,   nos termos do art. 5º da Lei nº 3.994, de 9 de dezembro de   1961."
+    },
+    {
+      "senadoId": "545967",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4125",
+      "titulo": "Lei nº 4.125 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4125",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4125",
+      "ementa": "Autoriza o Poder Executivo a doar um imóvel da União à Prefeitura   Municipal de Maranguape, Estado do Ceará."
+    },
+    {
+      "senadoId": "545965",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4123",
+      "titulo": "Lei nº 4.123 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4123",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4123",
+      "ementa": "Federaliza e incorpora à Universidade do Ceará a Faculdade de   Ciências Econômicas."
+    },
+    {
+      "senadoId": "545970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4128",
+      "titulo": "Lei nº 4.128 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4128",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4128",
+      "ementa": "Regula o exercício do Magistério da Marinha."
+    },
+    {
+      "senadoId": "545960",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-27-4118",
+      "titulo": "Lei nº 4.118 de 27/08/1962",
+      "data": "1962-08-27",
+      "numero": "4118",
+      "urn": "urn:lex:br:federal:lei:1962-08-27;4118",
+      "ementa": "Dispõe sobre a política nacional de energia nuclear, cria a Comissão Nacional de Energia Nuclear, e dá outras providências."
+    },
+    {
+      "senadoId": "545957",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-22-4115",
+      "titulo": "Lei nº 4.115 de 22/08/1962",
+      "data": "1962-08-22",
+      "numero": "4115",
+      "urn": "urn:lex:br:federal:lei:1962-08-22;4115",
+      "ementa": "Introduz alterações na Lei nº 4.109, de 27 de julho de 1962, e dá outras providências."
+    },
+    {
+      "senadoId": "545956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-20-4114-a",
+      "titulo": "Lei nº 4.114-A de 20/08/1962",
+      "data": "1962-08-20",
+      "numero": "4114-a",
+      "urn": "urn:lex:br:federal:lei:1962-08-20;4114-a",
+      "ementa": "Transfere à União a responsabilidade da dívida de Cr$ 110.000.000,00, e   respectivos juros, do Instituto de Moléstias do Aparelho Digestivo e da   Nutrição, de São Paulo."
+    },
+    {
+      "senadoId": "545954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-17-4113",
+      "titulo": "Lei nº 4.113 de 17/08/1962",
+      "data": "1962-08-17",
+      "numero": "4113",
+      "urn": "urn:lex:br:federal:lei:1962-08-17;4113",
+      "ementa": "Concede pensão vitalícia de Cr$ 40.000,00 (quarenta mil cruzeiros) mensais   ao ex-Ministro do Tribunal Superior do Trabalho Antônio Francisco   Carvalhal."
+    },
+    {
+      "senadoId": "545955",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-17-4114",
+      "titulo": "Lei nº 4.114 de 17/08/1962",
+      "data": "1962-08-17",
+      "numero": "4114",
+      "urn": "urn:lex:br:federal:lei:1962-08-17;4114",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito especial de Cr$ 20.000.000,00 para construção do Hospital do Jornalista, e dá outras providências."
+    },
+    {
+      "senadoId": "545953",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-08-01-4112",
+      "titulo": "Lei nº 4.112 de 01/08/1962",
+      "data": "1962-08-01",
+      "numero": "4112",
+      "urn": "urn:lex:br:federal:lei:1962-08-01;4112",
+      "ementa": "Concede isenção dos impostos de importação e de consumo para o material telefônco a ser importado pela Companhia Telefônica Araguarina, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "545952",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-31-4111",
+      "titulo": "Lei nº 4.111 de 31/07/1962",
+      "data": "1962-07-31",
+      "numero": "4111",
+      "urn": "urn:lex:br:federal:lei:1962-07-31;4111",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento telefônico   importado pela Telefones Bahia S.A. - TEBASA."
+    },
+    {
+      "senadoId": "545951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-31-4110",
+      "titulo": "Lei nº 4.110 de 31/07/1962",
+      "data": "1962-07-31",
+      "numero": "4110",
+      "urn": "urn:lex:br:federal:lei:1962-07-31;4110",
+      "ementa": "Isenta dos impostos de importação e de consumo, material importado pela   Emissora de Televisão Continental S.A. - T.V. Continental."
+    },
+    {
+      "senadoId": "545949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-27-4108",
+      "titulo": "Lei nº 4.108 de 27/07/1962",
+      "data": "1962-07-27",
+      "numero": "4108",
+      "urn": "urn:lex:br:federal:lei:1962-07-27;4108",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional   do Trabalho da 2ª Região, o crédito especial de Cr$ 7.700.000,00, para atender à   despesa de adaptação de nova sede daquele Tribunal."
+    },
+    {
+      "senadoId": "545948",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-27-4107",
+      "titulo": "Lei nº 4.107 de 27/07/1962",
+      "data": "1962-07-27",
+      "numero": "4107",
+      "urn": "urn:lex:br:federal:lei:1962-07-27;4107",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional do Trabalho da 2ª Região - o crédito suplementar de Cr$ 11.520.000,00 (Onze milhões, quinhentos e vinte mil cruzeiros), para pagamento de aluguel de imóvel ocupado por aquele Tribunal."
+    },
+    {
+      "senadoId": "545950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-27-4109",
+      "titulo": "Lei nº 4.109 de 27/07/1962",
+      "data": "1962-07-27",
+      "numero": "4109",
+      "urn": "urn:lex:br:federal:lei:1962-07-27;4109",
+      "ementa": "Institui a cédula oficial de votação nas eleições pelo sistema proporcional e dá outras providências."
+    },
+    {
+      "senadoId": "545947",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-26-4106",
+      "titulo": "Lei nº 4.106 de 26/07/1962",
+      "data": "1962-07-26",
+      "numero": "4106",
+      "urn": "urn:lex:br:federal:lei:1962-07-26;4106",
+      "ementa": "Declara de utilidade pública o conjunto residencial situado no Estado da   Guanabara, e dá outras providências."
+    },
+    {
+      "senadoId": "545944",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-23-4104",
+      "titulo": "Lei nº 4.104 de 23/07/1962",
+      "data": "1962-07-23",
+      "numero": "4104",
+      "urn": "urn:lex:br:federal:lei:1962-07-23;4104",
+      "ementa": "Fixa o prazo de aplicação das disposições da Lei nº 4.015, de 16   de dezembro de 1961 (Reengajamento de Sargentos do Exército não possuidores do   Curso de Aperfeiçoamento de Sargentos )."
+    },
+    {
+      "senadoId": "545945",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-23-4104-a",
+      "titulo": "Lei nº 4.104-A de 23/07/1962",
+      "data": "1962-07-23",
+      "numero": "4104-a",
+      "urn": "urn:lex:br:federal:lei:1962-07-23;4104-a",
+      "ementa": "Isenta dos impostos de importação e de consumo, equipamento telefônico a   ser importado pela Telefônica de Jataí S.A., para instalação do serviço de   telefones na Cidade de Jataí, no Estado de Goiás."
+    },
+    {
+      "senadoId": "545946",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-23-4105",
+      "titulo": "Lei nº 4.105 de 23/07/1962",
+      "data": "1962-07-23",
+      "numero": "4105",
+      "urn": "urn:lex:br:federal:lei:1962-07-23;4105",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento destinado à   instalação de uma estação de televisão, pela Rádio Clube de Pernambuco   S.A."
+    },
+    {
+      "senadoId": "545943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-21-4103-a",
+      "titulo": "Lei nº 4.103-A de 21/07/1962",
+      "data": "1962-07-21",
+      "numero": "4103-a",
+      "urn": "urn:lex:br:federal:lei:1962-07-21;4103-a",
+      "ementa": "Dispõe sobre a Caixa de Assistência dos Advogados."
+    },
+    {
+      "senadoId": "545942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-21-4103",
+      "titulo": "Lei nº 4.103 de 21/07/1962",
+      "data": "1962-07-21",
+      "numero": "4103",
+      "urn": "urn:lex:br:federal:lei:1962-07-21;4103",
+      "ementa": "Isenta do imposto de importação equipamento telefônico, importado pela   Companhia Telefônica de Pernambuco."
+    },
+    {
+      "senadoId": "545941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-20-4102",
+      "titulo": "Lei nº 4.102 de 20/07/1962",
+      "data": "1962-07-20",
+      "numero": "4102",
+      "urn": "urn:lex:br:federal:lei:1962-07-20;4102",
+      "ementa": "Transforma o Departamento Nacional de Estradas de Ferro em Autarquia; cria o Fundo Nacional de Investimento Ferroviário, e dá outras providências."
+    },
+    {
+      "senadoId": "545940",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-20-4101",
+      "titulo": "Lei nº 4.101 de 20/07/1962",
+      "data": "1962-07-20",
+      "numero": "4101",
+      "urn": "urn:lex:br:federal:lei:1962-07-20;4101",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 5.000.000,00 destinado às comemorações do cinquentenário da Fundação de Canoinhas, Santa Catarina."
+    },
+    {
+      "senadoId": "545939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-20-4100",
+      "titulo": "Lei nº 4.100 de 20/07/1962",
+      "data": "1962-07-20",
+      "numero": "4100",
+      "urn": "urn:lex:br:federal:lei:1962-07-20;4100",
+      "ementa": "Modifica, sem aumento de despesa, o Orçamento Geral da União para 1962, na   parte relativa ao Subanexo 4.16 - Ministério da Justiça e Negócios Interiores,   visando a permitir o custeio do pessoal do Departamento Federal de Segurança   Pública incumbido dos serviços de policiamento local de Brasília."
+    },
+    {
+      "senadoId": "545936",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-19-4098",
+      "titulo": "Lei nº 4.098 de 19/07/1962",
+      "data": "1962-07-19",
+      "numero": "4098",
+      "urn": "urn:lex:br:federal:lei:1962-07-19;4098",
+      "ementa": "Dispensa de inspenção médica periódica os funcionários públicos   aposentados que contem 60 anos de idade, ou mais de 30 de anos de   serviço."
+    },
+    {
+      "senadoId": "545935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-19-4097",
+      "titulo": "Lei nº 4.097 de 19/07/1962",
+      "data": "1962-07-19",
+      "numero": "4097",
+      "urn": "urn:lex:br:federal:lei:1962-07-19;4097",
+      "ementa": "Aplica aos cargos e funções dos Quadros do Pessoal dos órgãos da Justiça do Trabalho da 4ª e 5ª Regiões disposições das Leis números 3.780 e 3.826, de 1960, e dá outras providências."
+    },
+    {
+      "senadoId": "545937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-19-4098-a",
+      "titulo": "Lei nº 4.098-A de 19/07/1962",
+      "data": "1962-07-19",
+      "numero": "4098-a",
+      "urn": "urn:lex:br:federal:lei:1962-07-19;4098-a",
+      "ementa": "Cria 4 (quatro) cargos de Juiz do Trabalho Substituto para o Tribunal Regional do Trabalho da 4ª Região, em Porto Alegre, e dá outras providências."
+    },
+    {
+      "senadoId": "545938",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-19-4099",
+      "titulo": "Lei nº 4.099 de 19/07/1962",
+      "data": "1962-07-19",
+      "numero": "4099",
+      "urn": "urn:lex:br:federal:lei:1962-07-19;4099",
+      "ementa": "Concede pensão especial de Cr$ 6.000,00 a Benedito Muniz Cardoso,   ex-condutor de malas do Departamento de Correios e Telégrafos, e dá outras   providências."
+    },
+    {
+      "senadoId": "545934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-18-4096",
+      "titulo": "Lei nº 4.096 de 18/07/1962",
+      "data": "1962-07-18",
+      "numero": "4096",
+      "urn": "urn:lex:br:federal:lei:1962-07-18;4096",
+      "ementa": "Altera dispositivos da Lei nº 2.220, de 10 de julho de 1934, que dispõe sobre a taxa a que ficam sujeitas as entidades que exploram apostas sobre corridas de cavalos e dá outras providências."
+    },
+    {
+      "senadoId": "545933",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-17-4095",
+      "titulo": "Lei nº 4.095 de 17/07/1962",
+      "data": "1962-07-17",
+      "numero": "4095",
+      "urn": "urn:lex:br:federal:lei:1962-07-17;4095",
+      "ementa": "Fixa o número de Deputados por Estados e Territórios e dá outras   providências."
+    },
+    {
+      "senadoId": "545932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-14-4094",
+      "titulo": "Lei nº 4.094 de 14/07/1962",
+      "data": "1962-07-14",
+      "numero": "4094",
+      "urn": "urn:lex:br:federal:lei:1962-07-14;4094",
+      "ementa": "Modifica o § 1º do art. 168 do Código do Processo Civil (Decreto-lei nº 1.608, de 18 de setembro de 1939)."
+    },
+    {
+      "senadoId": "545931",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-14-4093",
+      "titulo": "Lei nº 4.093 de 14/07/1962",
+      "data": "1962-07-14",
+      "numero": "4093",
+      "urn": "urn:lex:br:federal:lei:1962-07-14;4093",
+      "ementa": "Concede pensão especial de Cr$ 3.000,00 mensais a Dona Geni Silva   Vivacqua."
+    },
+    {
+      "senadoId": "545930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-14-4092",
+      "titulo": "Lei nº 4.092 de 14/07/1962",
+      "data": "1962-07-14",
+      "numero": "4092",
+      "urn": "urn:lex:br:federal:lei:1962-07-14;4092",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 21.876.000,00, destinado a atender à despesas com a aquisição do   material necessário ao equipamento da posição de operação, resultante da   instalação de Central Rádio em Brasília."
+    },
+    {
+      "senadoId": "545928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-13-4090",
+      "titulo": "Lei nº 4.090 de 13/07/1962",
+      "data": "1962-07-13",
+      "numero": "4090",
+      "urn": "urn:lex:br:federal:lei:1962-07-13;4090",
+      "ementa": "Institui a gratificação de Natal para os trabalhadores."
+    },
+    {
+      "senadoId": "545927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-13-4089",
+      "titulo": "Lei nº 4.089 de 13/07/1962",
+      "data": "1962-07-13",
+      "numero": "4089",
+      "urn": "urn:lex:br:federal:lei:1962-07-13;4089",
+      "ementa": "Transforma o Departamento Nacional de Obras de Saneamento em Autarquia e dá outras providências."
+    },
+    {
+      "senadoId": "545929",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-13-4091",
+      "titulo": "Lei nº 4.091 de 13/07/1962",
+      "data": "1962-07-13",
+      "numero": "4091",
+      "urn": "urn:lex:br:federal:lei:1962-07-13;4091",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 885.343,90, para pagamento do período compreendido entre 1º de   junho a 31 de dezembro de 1958, de vencimentos, salário-família, gratificação   adicional, aos servidores do Estabelecimento de Subsistência da 10ª Região   Militar."
+    },
+    {
+      "senadoId": "545926",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-12-4088",
+      "titulo": "Lei nº 4.088 de 12/07/1962",
+      "data": "1962-07-12",
+      "numero": "4088",
+      "urn": "urn:lex:br:federal:lei:1962-07-12;4088",
+      "ementa": "Cria Juntas de Conciliação e Julgamento nas 2ª, 4ª, 6ª e 8ª Regiões da Justiça do Trabalho; eleva à 1ª Categoria os Tribunais Regionais do Trabalho das 7ª e 8ª Regiões; extingue as atuais funções de Suplente de Juiz do Trabalho; Presidente das Juntas de Conciliação e Julgamento, com sede em Recife; e dá outras providências."
+    },
+    {
+      "senadoId": "545925",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-07-4087",
+      "titulo": "Lei nº 4.087 de 07/07/1962",
+      "data": "1962-07-07",
+      "numero": "4087",
+      "urn": "urn:lex:br:federal:lei:1962-07-07;4087",
+      "ementa": "Autoriza a compra das ações do Banco de Crédito da Amazônia S.A.   pertencente ao Governo Americano, e dá outras providências."
+    },
+    {
+      "senadoId": "545924",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-07-4086",
+      "titulo": "Lei nº 4.086 de 07/07/1962",
+      "data": "1962-07-07",
+      "numero": "4086",
+      "urn": "urn:lex:br:federal:lei:1962-07-07;4086",
+      "ementa": "Dispõe sobre a imcorporação, ao Patrimônio da União, de bens   da Faculdade de Direito de Sergipe, e dá outras providências."
+    },
+    {
+      "senadoId": "545923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-07-03-4085",
+      "titulo": "Lei nº 4.085 de 03/07/1962",
+      "data": "1962-07-03",
+      "numero": "4085",
+      "urn": "urn:lex:br:federal:lei:1962-07-03;4085",
+      "ementa": "Dispõe sobre as medidas necessárias ao funcionamento da Escola de Engenharia Indústrial."
+    },
+    {
+      "senadoId": "545922",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-30-4084",
+      "titulo": "Lei nº 4.084 de 30/06/1962",
+      "data": "1962-06-30",
+      "numero": "4084",
+      "urn": "urn:lex:br:federal:lei:1962-06-30;4084",
+      "ementa": "Dispõe sobre a profissão de bibliotecário e regula seu exercício."
+    },
+    {
+      "senadoId": "545921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-24-4083",
+      "titulo": "Lei nº 4.083 de 24/06/1962",
+      "data": "1962-06-24",
+      "numero": "4083",
+      "urn": "urn:lex:br:federal:lei:1962-06-24;4083",
+      "ementa": "Altera o Quadro da Secretaria do Superior Tribunal Militar e serviços auxiliares, e dá outras providências."
+    },
+    {
+      "senadoId": "545913",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4075",
+      "titulo": "Lei nº 4.075 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4075",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4075",
+      "ementa": "Inclui entre os bens impenhoráveis os exemplares da Bandeira Nacional não destinados ao comércio."
+    },
+    {
+      "senadoId": "545916",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4078",
+      "titulo": "Lei nº 4.078 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4078",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4078",
+      "ementa": "Isenta do imposto de importação, materiais destinados à instalação de   estação de televisão a serem importados pela Rádio Rio Ltda."
+    },
+    {
+      "senadoId": "545917",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4079",
+      "titulo": "Lei nº 4.079 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4079",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4079",
+      "ementa": "Concede a pensão mensal de Cr$ 20.000,00 à senhora Adélia da Silva   Constantino, viúva do ex-engenheiro João Lourenço Constantino."
+    },
+    {
+      "senadoId": "545915",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4077",
+      "titulo": "Lei nº 4.077 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4077",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4077",
+      "ementa": "Dispõe sobre a gratificação dos encarregados de postos de   Correio."
+    },
+    {
+      "senadoId": "545920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4082",
+      "titulo": "Lei nº 4.082 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4082",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4082",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 8.000.000,00 para atender as despesas decorrentes de tratamento,   ambulatório e hospitalização dos ex-integrantes da Força Expedicionária   Brasileira, nos nosocômios do Exército."
+    },
+    {
+      "senadoId": "545912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4074",
+      "titulo": "Lei nº 4.074 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4074",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4074",
+      "ementa": "Concede isenção de direitos e taxas aduaneiras, exclusive a de previdência   social, para equipamentos telefônicos importados pela Companhia Telefônica Alta   Paulista."
+    },
+    {
+      "senadoId": "545914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4076",
+      "titulo": "Lei nº 4.076 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4076",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4076",
+      "ementa": "Que regula o exercício da profissão de geólogo."
+    },
+    {
+      "senadoId": "545919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4081",
+      "titulo": "Lei nº 4.081 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4081",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4081",
+      "ementa": "Concede pensão vitálicia de Cr$ 3.000,00 mensais a Rita Gonçalves de   Oliveira Pitanga, viúva do ex-servidor federal Ricardo Corrêa   Pitanga."
+    },
+    {
+      "senadoId": "545918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-23-4080",
+      "titulo": "Lei nº 4.080 de 23/06/1962",
+      "data": "1962-06-23",
+      "numero": "4080",
+      "urn": "urn:lex:br:federal:lei:1962-06-23;4080",
+      "ementa": "Dá nova redação aos artigos 2º, 6º e 7º da Lei nº 3.226, de 27 de julho de   1957, que dispõe sobre a constituição da Usina Termoelétrica de Figueira S.A.,   em Curiúva, Estado do Paraná."
+    },
+    {
+      "senadoId": "545911",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-22-4073",
+      "titulo": "Lei nº 4.073 de 22/06/1962",
+      "data": "1962-06-22",
+      "numero": "4073",
+      "urn": "urn:lex:br:federal:lei:1962-06-22;4073",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$   2.000.000.000,00 para as obras de duplicação da rodovia Presidente   Dutra."
+    },
+    {
+      "senadoId": "545910",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-16-4072",
+      "titulo": "Lei nº 4.072 de 16/06/1962",
+      "data": "1962-06-16",
+      "numero": "4072",
+      "urn": "urn:lex:br:federal:lei:1962-06-16;4072",
+      "ementa": "Acrescenta parágrafo único ao art. 4º da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "545909",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-15-4071-a",
+      "titulo": "Lei nº 4.071-A de 15/06/1962",
+      "data": "1962-06-15",
+      "numero": "4071-a",
+      "urn": "urn:lex:br:federal:lei:1962-06-15;4071-a",
+      "ementa": "Dispõe sobre gratificação mensal, ao Oficiais do Registro Civil, e dá outras providências."
+    },
+    {
+      "senadoId": "545907",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-15-4070-a",
+      "titulo": "Lei nº 4.070-A de 15/06/1962",
+      "data": "1962-06-15",
+      "numero": "4070-a",
+      "urn": "urn:lex:br:federal:lei:1962-06-15;4070-a",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 278.690.500,00, destinado às despesas de   desapropriação dos imóveis necessários à construção da ligação ferroviária Belo   Horizonte-Itabira-Peçanha."
+    },
+    {
+      "senadoId": "545906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-15-4070",
+      "titulo": "Lei nº 4.070 de 15/06/1962",
+      "data": "1962-06-15",
+      "numero": "4070",
+      "urn": "urn:lex:br:federal:lei:1962-06-15;4070",
+      "ementa": "Eleva o Território do Acre à categoria de Estado e dá outras providências."
+    },
+    {
+      "senadoId": "545908",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-15-4071",
+      "titulo": "Lei nº 4.071 de 15/06/1962",
+      "data": "1962-06-15",
+      "numero": "4071",
+      "urn": "urn:lex:br:federal:lei:1962-06-15;4071",
+      "ementa": "Dispõe sobre o pagamento a lavradores de cana, que forneçam a usinas de açucar ou destilarias, e dá outras providências."
+    },
+    {
+      "senadoId": "545904",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-12-4069-a",
+      "titulo": "Lei nº 4.069-A de 12/06/1962",
+      "data": "1962-06-12",
+      "numero": "4069-a",
+      "urn": "urn:lex:br:federal:lei:1962-06-12;4069-a",
+      "ementa": "Cria a fundação Universidade do Amazonas, e dá outras providências."
+    },
+    {
+      "senadoId": "545905",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-12-4069-b",
+      "titulo": "Lei nº 4.069-B de 12/06/1962",
+      "data": "1962-06-12",
+      "numero": "4069-b",
+      "urn": "urn:lex:br:federal:lei:1962-06-12;4069-b",
+      "ementa": "Assegura isenção do imposto de renda e adicional de renda às indústrias de beneficiamento e de artefatos de borracha e às de beneficiamento e de tecelagem de juta, localizada na Amazônia."
+    },
+    {
+      "senadoId": "545903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-11-4069",
+      "titulo": "Lei nº 4.069 de 11/06/1962",
+      "data": "1962-06-11",
+      "numero": "4069",
+      "urn": "urn:lex:br:federal:lei:1962-06-11;4069",
+      "ementa": "Fixa novos valores para os vencimentos dos servidores da União, institui empréstimo compulsório e altera legislação de imposto de renda, autoriza emissão de títulos de recuperação financeira, modifica legislação sobre emissão de letras e Obrigações do Tesouro Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "545902",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-10-4068-a",
+      "titulo": "Lei nº 4.068-A de 10/06/1962",
+      "data": "1962-06-10",
+      "numero": "4068-a",
+      "urn": "urn:lex:br:federal:lei:1962-06-10;4068-a",
+      "ementa": "Dispõe sobre a não aplicação das normas estabelecidas no Decreto-Lei número 3.768, a partir da vigência da Lei nº 1.050, de 1950, aos extranumerários mensalistas, diaristas ou tarefeiros julgados incapazes por motivo de acidente no exercício de suas atribuições, de doença profissional ou por moléstia especificada em lei."
+    },
+    {
+      "senadoId": "545901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-09-4068",
+      "titulo": "Lei nº 4.068 de 09/06/1962",
+      "data": "1962-06-09",
+      "numero": "4068",
+      "urn": "urn:lex:br:federal:lei:1962-06-09;4068",
+      "ementa": "Declara comerciais as empresas de construção, e dá outras providências."
+    },
+    {
+      "senadoId": "545900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-06-05-4067",
+      "titulo": "Lei nº 4.067 de 05/06/1962",
+      "data": "1962-06-05",
+      "numero": "4067",
+      "urn": "urn:lex:br:federal:lei:1962-06-05;4067",
+      "ementa": "Aplica aos cargos e funções do Quadro de Pessoal dos órgãos da Justiça do Trabalho da 2ª Região disposições das Leis ns. 3.780, de 12 de julho, e 3.826, de 23 de novembro, ambas de 1960, e dá outras providências."
+    },
+    {
+      "senadoId": "545899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-28-4066",
+      "titulo": "Lei nº 4.066 de 28/05/1962",
+      "data": "1962-05-28",
+      "numero": "4066",
+      "urn": "urn:lex:br:federal:lei:1962-05-28;4066",
+      "ementa": "Estabelece normas para a validade de pedido de demissão ou recibo de quitação contratual, firmado por empregado."
+    },
+    {
+      "senadoId": "545897",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-19-4064",
+      "titulo": "Lei nº 4.064 de 19/05/1962",
+      "data": "1962-05-19",
+      "numero": "4064",
+      "urn": "urn:lex:br:federal:lei:1962-05-19;4064",
+      "ementa": "Isenta dos impostos de importação e de consumo meterial importado pela Companhia Telefônica de Pirapora, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "545896",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-19-4063",
+      "titulo": "Lei nº 4.063 de 19/05/1962",
+      "data": "1962-05-19",
+      "numero": "4063",
+      "urn": "urn:lex:br:federal:lei:1962-05-19;4063",
+      "ementa": "Autoriza o Poder Executivo a abrir, Pelo o Ministério da Educação e   Cultura, créditos especiais destinados às Escolas de Enfermagem Wenceslau Braz   de Itajubá, do Pará, em Belém e Hermantina Beraldo, de Juiz de Fora, bem como à   Faculdade de Serviço Social de Juiz de Fora."
+    },
+    {
+      "senadoId": "545898",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-19-4065",
+      "titulo": "Lei nº 4.065 de 19/05/1962",
+      "data": "1962-05-19",
+      "numero": "4065",
+      "urn": "urn:lex:br:federal:lei:1962-05-19;4065",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Conselho de Ministros, o crédito   especial de Cr$ 30.000.000,00 para ocorrer a despesas com o seu funcionamento no   exercício de 1961."
+    },
+    {
+      "senadoId": "545895",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-14-4062",
+      "titulo": "Lei nº 4.062 de 14/05/1962",
+      "data": "1962-05-14",
+      "numero": "4062",
+      "urn": "urn:lex:br:federal:lei:1962-05-14;4062",
+      "ementa": "Autoriza o Poder Executivo a abrir, Pelo o Ministério da Educação e   Cultura, o crédito especial de Cr$ 5.000.000,00, como auxílio à Faculdade   Católica de Filosofia de Sergipe."
+    },
+    {
+      "senadoId": "545891",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-08-4058",
+      "titulo": "Lei nº 4.058 de 08/05/1962",
+      "data": "1962-05-08",
+      "numero": "4058",
+      "urn": "urn:lex:br:federal:lei:1962-05-08;4058",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo o Ministério da Viação e Obras Púbicas, o crédito especial de Cr$ 15.000.000.000,00 destinado à pavimentação de trechos rodoviários da BR-4 (Rio-Bahia) e da BR-13 (Transnordestina)."
+    },
+    {
+      "senadoId": "545893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-08-4060",
+      "titulo": "Lei nº 4.060 de 08/05/1962",
+      "data": "1962-05-08",
+      "numero": "4060",
+      "urn": "urn:lex:br:federal:lei:1962-05-08;4060",
+      "ementa": "Isenta do imposto de consumo os fertilizantes simples e compostos destinados à aplicação em atividades agrícolas."
+    },
+    {
+      "senadoId": "545894",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-08-4061",
+      "titulo": "Lei nº 4.061 de 08/05/1962",
+      "data": "1962-05-08",
+      "numero": "4061",
+      "urn": "urn:lex:br:federal:lei:1962-05-08;4061",
+      "ementa": "Altera o art. 1º da Lei nº 3.205, de 15 de julho de 1957, que reestruturou os cargos de tesoureiros do Serviço Público Federal."
+    },
+    {
+      "senadoId": "545892",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-08-4059",
+      "titulo": "Lei nº 4.059 de 08/05/1962",
+      "data": "1962-05-08",
+      "numero": "4059",
+      "urn": "urn:lex:br:federal:lei:1962-05-08;4059",
+      "ementa": "Dispõe sobre os depósitos que os bancos devem manter no Banco do Brasil S.A. à ordem da Superintendência da Moeda e do Crédito."
+    },
+    {
+      "senadoId": "545890",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-05-04-4057",
+      "titulo": "Lei nº 4.057 de 04/05/1962",
+      "data": "1962-05-04",
+      "numero": "4057",
+      "urn": "urn:lex:br:federal:lei:1962-05-04;4057",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo o Ministério da Educação e Cultura, o crédito especial de Cr$ 20.000.000,00 destinado às obras e equipamentos da Escola Politécnica de Campina Grande, Estado da Paraíba."
+    },
+    {
+      "senadoId": "545889",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-04-14-4056",
+      "titulo": "Lei nº 4.056 de 14/04/1962",
+      "data": "1962-04-14",
+      "numero": "4056",
+      "urn": "urn:lex:br:federal:lei:1962-04-14;4056",
+      "ementa": "Cria cargos no Quadro Permanente do Ministério da Agricultura, e dá outras providências."
+    },
+    {
+      "senadoId": "545888",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-04-13-4055",
+      "titulo": "Lei nº 4.055 de 13/04/1962",
+      "data": "1962-04-13",
+      "numero": "4055",
+      "urn": "urn:lex:br:federal:lei:1962-04-13;4055",
+      "ementa": "Altera a Lei nº 2.944, de 8 de novembro de 1956, que permite ao Banco   Nacional do Desenvolvimento Econômico o ajuste de emprétimos com autarquias   estaduais que tenham a seu cargo planos de eletrificação, e dá outras   providências."
+    },
+    {
+      "senadoId": "545887",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-04-02-4054",
+      "titulo": "Lei nº 4.054 de 02/04/1962",
+      "data": "1962-04-02",
+      "numero": "4054",
+      "urn": "urn:lex:br:federal:lei:1962-04-02;4054",
+      "ementa": "Dispõe sobre a efetivação de servidores interinos, e dá outras providências."
+    },
+    {
+      "senadoId": "545886",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-03-09-4053",
+      "titulo": "Lei nº 4.053 de 09/03/1962",
+      "data": "1962-03-09",
+      "numero": "4053",
+      "urn": "urn:lex:br:federal:lei:1962-03-09;4053",
+      "ementa": "Concede pensões especiais a Maria do Amparo Medeiros Parente e Lícia Costa   Perlingeiro."
+    },
+    {
+      "senadoId": "545885",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-03-09-4052",
+      "titulo": "Lei nº 4.052 de 09/03/1962",
+      "data": "1962-03-09",
+      "numero": "4052",
+      "urn": "urn:lex:br:federal:lei:1962-03-09;4052",
+      "ementa": "Estende aos servidores da Superintendência do Serviço de Profilaxia da   Lepra, no Estado de Goiás, os benefícios das Leis nºs 1.765, de 18 de dezembro de   1952 e 2.412 de 1º de fevereiro de 1955, e dá outras providências."
+    },
+    {
+      "senadoId": "545884",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-03-01-4051",
+      "titulo": "Lei nº 4.051 de 01/03/1962",
+      "data": "1962-03-01",
+      "numero": "4051",
+      "urn": "urn:lex:br:federal:lei:1962-03-01;4051",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 4.500.000,00 em favor dos Institutos Históricos e   Gográficos dos Estados de Minas Gerais, Sergipe e Pará."
+    },
+    {
+      "senadoId": "545882",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-02-23-4049",
+      "titulo": "Lei nº 4.049 de 23/02/1962",
+      "data": "1962-02-23",
+      "numero": "4049",
+      "urn": "urn:lex:br:federal:lei:1962-02-23;4049",
+      "ementa": "Torna extensivas aos servidores das Secretarias dos Tribunais Regionais Eleitorais disposições das Leis ns. 3.780 e 3.826, de 1960, e dá outras providências."
+    },
+    {
+      "senadoId": "545883",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1962-02-23-4050",
+      "titulo": "Lei nº 4.050 de 23/02/1962",
+      "data": "1962-02-23",
+      "numero": "4050",
+      "urn": "urn:lex:br:federal:lei:1962-02-23;4050",
+      "ementa": "Reestrutura o Quadro de Oficiais Dentistas do Exército, modificando a Lei nº 2.414, de 8 de fevereiro de 1955."
+    }
+  ],
+  "pendencias": []
+}

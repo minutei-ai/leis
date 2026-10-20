@@ -1,0 +1,1739 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2017",
+  "tipo": "LEI",
+  "ano": 2017,
+  "coletado_em": "2026-10-20T22:56:31.097Z",
+  "normas": [
+    {
+      "senadoId": "26334275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-28-13586",
+      "titulo": "Lei nº 13.586 de 28/12/2017",
+      "data": "2017-12-28",
+      "numero": "13586",
+      "urn": "urn:lex:br:federal:lei:2017-12-28;13586",
+      "ementa": "Dispõe sobre o tratamento tributário das atividades de exploração e de desenvolvimento de campo de petróleo ou de gás natural; institui regime tributário especial para as atividades de exploração, de desenvolvimento e de produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos; altera as Leis nºs 9.481, de 13 de agosto de 1997, e 12.973, de 13 de maio de 2014; e revoga dispositivo do Decreto-Lei nº 62, de 21 de novembro de 1966."
+    },
+    {
+      "senadoId": "26330515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13583",
+      "titulo": "Lei nº 13.583 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13583",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13583",
+      "ementa": "Institui o Dia Nacional dos Rosacruzes, a ser comemorado, anualmente, no dia 2 de agosto."
+    },
+    {
+      "senadoId": "26330575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13581",
+      "titulo": "Lei nº 13.581 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13581",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13581",
+      "ementa": "Declara Dom Helder Câmara Patrono Brasileiro dos Direitos Humanos."
+    },
+    {
+      "senadoId": "26330853",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13575",
+      "titulo": "Lei nº 13.575 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13575",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13575",
+      "ementa": "Cria a Agência Nacional de Mineração (ANM); extingue o Departamento Nacional de Produção Mineral (DNPM); altera as Leis nºs 11.046, de 27 de dezembro de 2004, e 10.826, de 22 de dezembro de 2003; e revoga a Lei nº 8.876, de 2 de maio de 1994, e dispositivos do Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração)."
+    },
+    {
+      "senadoId": "26330545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13582",
+      "titulo": "Lei nº 13.582 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13582",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13582",
+      "ementa": "Denomina Viaduto Elizete Aparecida Romangnoli Piveta Assunção o viaduto construído na rodovia BR-376, no km 183,7, cruzamento com a Avenida Colombo, na cidade de Maringá, Estado do Paraná."
+    },
+    {
+      "senadoId": "26330700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13578",
+      "titulo": "Lei nº 13.578 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13578",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13578",
+      "ementa": "Denomina \"Elevado Vitório Cella\" o elevado que liga a rodovia BR-282 ao acesso à rodovia BR-480, no Município de Chapecó, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "26330640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13580",
+      "titulo": "Lei nº 13.580 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13580",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13580",
+      "ementa": "Institui no Brasil o Dia Nacional do Educador Social."
+    },
+    {
+      "senadoId": "26330730",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13577",
+      "titulo": "Lei nº 13.577 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13577",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13577",
+      "ementa": "Denomina Rodovia General Bento Gonçalves o trecho da rodovia BR-116 entre os Municípios de Porto Alegre e Jaguarão, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "26330485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13584",
+      "titulo": "Lei nº 13.584 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13584",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13584",
+      "ementa": "Confere ao Município de Castro, no Estado do Paraná, o título de Capital Nacional do Leite."
+    },
+    {
+      "senadoId": "26330795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13576",
+      "titulo": "Lei nº 13.576 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13576",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13576",
+      "ementa": "Dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio) e dá outras providências."
+    },
+    {
+      "senadoId": "26330419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13585",
+      "titulo": "Lei nº 13.585 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13585",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13585",
+      "ementa": "Institui a Semana Nacional da Pessoa com Deficiência Intelectual e Múltipla."
+    },
+    {
+      "senadoId": "26330670",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-26-13579",
+      "titulo": "Lei nº 13.579 de 26/12/2017",
+      "data": "2017-12-26",
+      "numero": "13579",
+      "urn": "urn:lex:br:federal:lei:2017-12-26;13579",
+      "ementa": "Determina a inscrição do nome do maestro Antônio Carlos Gomes no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "26329949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-22-13574",
+      "titulo": "Lei nº 13.574 de 22/12/2017",
+      "data": "2017-12-22",
+      "numero": "13574",
+      "urn": "urn:lex:br:federal:lei:2017-12-22;13574",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça Federal e do Ministério da Saúde, crédito suplementar no valor de R$ 10.524.058,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26329901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-22-13573",
+      "titulo": "Lei nº 13.573 de 22/12/2017",
+      "data": "2017-12-22",
+      "numero": "13573",
+      "urn": "urn:lex:br:federal:lei:2017-12-22;13573",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal, crédito suplementar no valor de R$ 82.980.878,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26328662",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13572",
+      "titulo": "Lei nº 13.572 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13572",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13572",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2017, com o objetivo de fomentar as exportações do País."
+    },
+    {
+      "senadoId": "26328542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13567",
+      "titulo": "Lei nº 13.567 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13567",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13567",
+      "ementa": "Institui o dia 3 de dezembro como o Dia do Delegado de Polícia."
+    },
+    {
+      "senadoId": "26328209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13557",
+      "titulo": "Lei nº 13.557 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13557",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13557",
+      "ementa": "Institui o Dia Nacional do Samba de Roda."
+    },
+    {
+      "senadoId": "26328743",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13571",
+      "titulo": "Lei nº 13.571 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13571",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13571",
+      "ementa": "Confere ao Município de Parintins, no Estado do Amazonas, o título de Capital Nacional do Boi Bumbá."
+    },
+    {
+      "senadoId": "26328344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13561",
+      "titulo": "Lei nº 13.561 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13561",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13561",
+      "ementa": "Institui o Dia do Palhaço no calendário das efemérides nacionais."
+    },
+    {
+      "senadoId": "26328632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13570",
+      "titulo": "Lei nº 13.570 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13570",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13570",
+      "ementa": "Institui o dia 9 de fevereiro como o Dia Nacional do Cerco da Lapa."
+    },
+    {
+      "senadoId": "26328602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13569",
+      "titulo": "Lei nº 13.569 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13569",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13569",
+      "ementa": "Institui a data de 18 de janeiro como o Dia Nacional do Krav Maga."
+    },
+    {
+      "senadoId": "26328374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13562",
+      "titulo": "Lei nº 13.562 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13562",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13562",
+      "ementa": "Confere ao Município de Anchieta, no Estado de Santa Catarina, o título de Capital Nacional da Produção de Sementes Crioulas."
+    },
+    {
+      "senadoId": "26328434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13564",
+      "titulo": "Lei nº 13.564 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13564",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13564",
+      "ementa": "Designa Juscelino Kubitschek de Oliveira como o patrono da urologia no Brasil."
+    },
+    {
+      "senadoId": "26328404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13563",
+      "titulo": "Lei nº 13.563 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13563",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13563",
+      "ementa": "Confere ao Município de Teutônia, no Estado do Rio Grande do Sul, o título de Capital Nacional do Canto Coral."
+    },
+    {
+      "senadoId": "26328239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13558",
+      "titulo": "Lei nº 13.558 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13558",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13558",
+      "ementa": "Inscreve o nome de Joaquim Maria Machado de Assis no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "26328314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13560",
+      "titulo": "Lei nº 13.560 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13560",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13560",
+      "ementa": "Institui o Dia Nacional do Teatro do Oprimido."
+    },
+    {
+      "senadoId": "26328512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13566",
+      "titulo": "Lei nº 13.566 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13566",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13566",
+      "ementa": "Confere ao Município de Olímpia, no Estado de São Paulo, o título de Capital Nacional do Folclore."
+    },
+    {
+      "senadoId": "26328572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13568",
+      "titulo": "Lei nº 13.568 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13568",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13568",
+      "ementa": "Confere o título de Capital do Semiárido à cidade de Mossoró, no Estado do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "26328284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13559",
+      "titulo": "Lei nº 13.559 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13559",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13559",
+      "ementa": "Institui a Semana Nacional da Responsabilidade Social."
+    },
+    {
+      "senadoId": "26328464",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13565",
+      "titulo": "Lei nº 13.565 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13565",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13565",
+      "ementa": "Institui o Dia Nacional da Agroecologia."
+    },
+    {
+      "senadoId": "26328161",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-21-13556",
+      "titulo": "Lei nº 13.556 de 21/12/2017",
+      "data": "2017-12-21",
+      "numero": "13556",
+      "urn": "urn:lex:br:federal:lei:2017-12-21;13556",
+      "ementa": "Fica instituído o Dia Nacional da Astronomia, a ser celebrado anualmente no dia 2 de dezembro."
+    },
+    {
+      "senadoId": "26327142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13551",
+      "titulo": "Lei nº 13.551 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13551",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13551",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 76.342.363,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26327284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13553",
+      "titulo": "Lei nº 13.553 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13553",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13553",
+      "ementa": "Abre ao Orçamento de Investimento para 2017 crédito suplementar no valor total de R$ 8.480.320.523,00 em favor de diversas empresas estatais e reduz o Orçamento de Investimento de diversas empresas no valor global de R$ 15.278.975.941,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26327022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13547",
+      "titulo": "Lei nº 13.547 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13547",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13547",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito especial no valor de R$ 51.034.535,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "26327112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13550",
+      "titulo": "Lei nº 13.550 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13550",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13550",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, de Minas e Energia, do Planejamento, Desenvolvimento e Gestão, do Desenvolvimento Social e Agrário, e das Cidades, crédito especial no valor de R$ 59.034.574,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26327082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13549",
+      "titulo": "Lei nº 13.549 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13549",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13549",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça Federal e da Defensoria Pública da União, crédito suplementar no valor de R$ 36.262.712,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26327052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13548",
+      "titulo": "Lei nº 13.548 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13548",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13548",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Educação, crédito especial no valor de R$ 270.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26327414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13555",
+      "titulo": "Lei nº 13.555 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13555",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13555",
+      "ementa": "Altera a Lei nº 13.408, de 26 de dezembro de 2016, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2017."
+    },
+    {
+      "senadoId": "26327346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13554",
+      "titulo": "Lei nº 13.554 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13554",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13554",
+      "ementa": "Altera a Lei nº 13.414, de 10 de janeiro de 2017, que estima a receita e fixa a despesa da União para o exercício financeiro de 2017."
+    },
+    {
+      "senadoId": "26327175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-20-13552",
+      "titulo": "Lei nº 13.552 de 20/12/2017",
+      "data": "2017-12-20",
+      "numero": "13552",
+      "urn": "urn:lex:br:federal:lei:2017-12-20;13552",
+      "ementa": "Abre ao Orçamento de Investimento para 2017, em favor de diversas empresas estatais, crédito especial no valor de R$ 666.143.078,00, e reduz o Orçamento de Investimento de diversas empresas estatais no valor de R$ 179.062.342,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26326135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-19-13544",
+      "titulo": "Lei nº 13.544 de 19/12/2017",
+      "data": "2017-12-19",
+      "numero": "13544",
+      "urn": "urn:lex:br:federal:lei:2017-12-19;13544",
+      "ementa": "Institui a data de 31 de janeiro como o Dia Nacional das Reservas Particulares do Patrimônio Natural - RPPN."
+    },
+    {
+      "senadoId": "26326165",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-19-13545",
+      "titulo": "Lei nº 13.545 de 19/12/2017",
+      "data": "2017-12-19",
+      "numero": "13545",
+      "urn": "urn:lex:br:federal:lei:2017-12-19;13545",
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre prazos processuais."
+    },
+    {
+      "senadoId": "26326220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-19-13546",
+      "titulo": "Lei nº 13.546 de 19/12/2017",
+      "data": "2017-12-19",
+      "numero": "13546",
+      "urn": "urn:lex:br:federal:lei:2017-12-19;13546",
+      "ementa": "Altera dispositivos da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre crimes cometidos na direção de veículos automotores."
+    },
+    {
+      "senadoId": "26326105",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-19-13543",
+      "titulo": "Lei nº 13.543 de 19/12/2017",
+      "data": "2017-12-19",
+      "numero": "13543",
+      "urn": "urn:lex:br:federal:lei:2017-12-19;13543",
+      "ementa": "Acrescenta dispositivo à Lei nº 10.962, de 11 de outubro de 2004, que dispõe sobre a oferta e as formas de afixação de preços de produtos e serviços para o consumidor."
+    },
+    {
+      "senadoId": "26326311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-19-13542",
+      "titulo": "Lei nº 13.542 de 19/12/2017",
+      "data": "2017-12-19",
+      "numero": "13542",
+      "urn": "urn:lex:br:federal:lei:2017-12-19;13542",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho, e do Ministério Público da União, crédito especial no valor de R$ 348.074.677,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26324782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-18-13541",
+      "titulo": "Lei nº 13.541 de 18/12/2017",
+      "data": "2017-12-18",
+      "numero": "13541",
+      "urn": "urn:lex:br:federal:lei:2017-12-18;13541",
+      "ementa": "Altera a Lei nº 9.519, de 26 de novembro de 1997, que \"Dispõe sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha\"."
+    },
+    {
+      "senadoId": "26324818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-18-13540",
+      "titulo": "Lei nº 13.540 de 18/12/2017",
+      "data": "2017-12-18",
+      "numero": "13540",
+      "urn": "urn:lex:br:federal:lei:2017-12-18;13540",
+      "ementa": "Altera as Leis nºs 7.990, de 28 de dezembro de 1989, e 8.001, de 13 de março de 1990, para dispor sobre a Compensação Financeira pela Exploração de Recursos Minerais (CFEM)."
+    },
+    {
+      "senadoId": "26324724",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-18-13539",
+      "titulo": "Lei nº 13.539 de 18/12/2017",
+      "data": "2017-12-18",
+      "numero": "13539",
+      "urn": "urn:lex:br:federal:lei:2017-12-18;13539",
+      "ementa": "Altera a Lei nº 13.408, de 26 de dezembro de 2016, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2017."
+    },
+    {
+      "senadoId": "26323264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-15-13534",
+      "titulo": "Lei nº 13.534 de 15/12/2017",
+      "data": "2017-12-15",
+      "numero": "13534",
+      "urn": "urn:lex:br:federal:lei:2017-12-15;13534",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Cidadania, dos Transportes, Portos e Aviação Civil e da Defesa e de Operações Oficiais de Crédito, crédito especial no valor de R$ 1.294.333.380,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26322601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-15-13535",
+      "titulo": "Lei nº 13.535 de 15/12/2017",
+      "data": "2017-12-15",
+      "numero": "13535",
+      "urn": "urn:lex:br:federal:lei:2017-12-15;13535",
+      "ementa": "Altera o art. 25 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para garantir aos idosos a oferta de cursos e programas de extensão pelas instituições de educação superior."
+    },
+    {
+      "senadoId": "26322649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-15-13538",
+      "titulo": "Lei nº 13.538 de 15/12/2017",
+      "data": "2017-12-15",
+      "numero": "13538",
+      "urn": "urn:lex:br:federal:lei:2017-12-15;13538",
+      "ementa": "Cria, no âmbito do Tribunal Superior Eleitoral (TSE), o Centro Cultural da Justiça Eleitoral (CCJE)."
+    },
+    {
+      "senadoId": "26322679",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-15-13537",
+      "titulo": "Lei nº 13.537 de 15/12/2017",
+      "data": "2017-12-15",
+      "numero": "13537",
+      "urn": "urn:lex:br:federal:lei:2017-12-15;13537",
+      "ementa": "Confere ao Município de Terra Roxa, no Estado do Paraná, o título de Capital Nacional da Moda Bebê."
+    },
+    {
+      "senadoId": "26323329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-15-13533",
+      "titulo": "Lei nº 13.533 de 15/12/2017",
+      "data": "2017-12-15",
+      "numero": "13533",
+      "urn": "urn:lex:br:federal:lei:2017-12-15;13533",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Trabalho, do Meio Ambiente e do Desenvolvimento Social e Agrário e de Encargos Financeiros da União, crédito suplementar no valor de R$ 4.511.886.489,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26322794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-15-13536",
+      "titulo": "Lei nº 13.536 de 15/12/2017",
+      "data": "2017-12-15",
+      "numero": "13536",
+      "urn": "urn:lex:br:federal:lei:2017-12-15;13536",
+      "ementa": "Dispõe sobre a prorrogação dos prazos de vigência das bolsas de estudo concedidas por agências de fomento à pesquisa nos casos de maternidade e de adoção."
+    },
+    {
+      "senadoId": "26314723",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-07-13530",
+      "titulo": "Lei nº 13.530 de 07/12/2017",
+      "data": "2017-12-07",
+      "numero": "13530",
+      "urn": "urn:lex:br:federal:lei:2017-12-07;13530",
+      "ementa": "Altera a Lei nº 10.260, de 12 de julho de 2001, a Lei Complementar nº 129, de 8 de janeiro de 2009, a Medida Provisória nº 2.156-5, de 24 de agosto de 2001, a Medida Provisória nº 2.157-5, de 24 de agosto de 2001, a Lei nº 7.827, de 27 de setembro de 1989, a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), a Lei nº 8.958, de 20 de dezembro de 1994, a Lei nº 9.766, de 18 de dezembro de 1998, a Lei nº 8.745, de 9 de dezembro de 1993, a Lei nº 12.101, de 27 de novembro de 2009, a Lei nº 12.688, de 18 de julho de 2012, e a Lei nº 12.871, de 22 de outubro de 2013; e dá outras providências."
+    },
+    {
+      "senadoId": "26314458",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-07-13532",
+      "titulo": "Lei nº 13.532 de 07/12/2017",
+      "data": "2017-12-07",
+      "numero": "13532",
+      "urn": "urn:lex:br:federal:lei:2017-12-07;13532",
+      "ementa": "Altera a redação do art. 1.815 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, para promover ação visando à declaração de indignidade de herdeiro ou legatário."
+    },
+    {
+      "senadoId": "26314410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-07-13531",
+      "titulo": "Lei nº 13.531 de 07/12/2017",
+      "data": "2017-12-07",
+      "numero": "13531",
+      "urn": "urn:lex:br:federal:lei:2017-12-07;13531",
+      "ementa": "Dá nova redação ao inciso III do parágrafo único do art. 163 e ao § 6º do art. 180 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal."
+    },
+    {
+      "senadoId": "26308694",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-12-04-13529",
+      "titulo": "Lei nº 13.529 de 04/12/2017",
+      "data": "2017-12-04",
+      "numero": "13529",
+      "urn": "urn:lex:br:federal:lei:2017-12-04;13529",
+      "ementa": "Dispõe sobre a participação da União em fundo de apoio à estruturação e ao desenvolvimento de projetos de concessões e parcerias público-privadas; altera a Lei nº 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada na administração pública, a Lei nº 11.578, de 26 de novembro de 2007, que dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento (PAC), e a Lei nº 12.712, de 30 de agosto de 2012, que autoriza o Poder Executivo a criar a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. (ABGF)."
+    },
+    {
+      "senadoId": "26302068",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-29-13528",
+      "titulo": "Lei nº 13.528 de 29/11/2017",
+      "data": "2017-11-29",
+      "numero": "13528",
+      "urn": "urn:lex:br:federal:lei:2017-11-29;13528",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República e dos Ministérios da Agricultura, Pecuária e Abastecimento, da Justiça e Cidadania, da Saúde, dos Transportes, Portos e Aviação Civil, do Esporte, da Defesa, da Integração Nacional, do Turismo e do Desenvolvimento Social e Agrário, crédito suplementar no valor de R$ 6.988.987.930,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26302000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-29-13525",
+      "titulo": "Lei nº 13.525 de 29/11/2017",
+      "data": "2017-11-29",
+      "numero": "13525",
+      "urn": "urn:lex:br:federal:lei:2017-11-29;13525",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça Eleitoral, da Defensoria Pública da União e de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 37.691.842,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26301774",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-29-13527",
+      "titulo": "Lei nº 13.527 de 29/11/2017",
+      "data": "2017-11-29",
+      "numero": "13527",
+      "urn": "urn:lex:br:federal:lei:2017-11-29;13527",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal, crédito suplementar no valor de R$ 288.435.891,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26300126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-29-13526",
+      "titulo": "Lei nº 13.526 de 29/11/2017",
+      "data": "2017-11-29",
+      "numero": "13526",
+      "urn": "urn:lex:br:federal:lei:2017-11-29;13526",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios do Trabalho e do Desenvolvimento Social e Agrário, crédito suplementar no valor de R$ 232.807.540,00, para reforço de dotações constantes da Lei Orçamentária vigente, e abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 300.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26292587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-27-13523",
+      "titulo": "Lei nº 13.523 de 27/11/2017",
+      "data": "2017-11-27",
+      "numero": "13523",
+      "urn": "urn:lex:br:federal:lei:2017-11-27;13523",
+      "ementa": "Denomina Rodovia do Vaqueiro o trecho rodoviário da BR-235 compreendido entre a divisa do Estado da Bahia com o de Sergipe e do Estado da Bahia com o do Piauí."
+    },
+    {
+      "senadoId": "26292506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-27-13524",
+      "titulo": "Lei nº 13.524 de 27/11/2017",
+      "data": "2017-11-27",
+      "numero": "13524",
+      "urn": "urn:lex:br:federal:lei:2017-11-27;13524",
+      "ementa": "Prorroga o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine) e dos benefícios fiscais previstos nos arts. 1º e 1º-A da Lei nº 8.685, de 20 de julho de 1993, e no art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001; e altera a Lei nº 12.599, de 23 de março de 2012."
+    },
+    {
+      "senadoId": "26292554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-27-13522",
+      "titulo": "Lei nº 13.522 de 27/11/2017",
+      "data": "2017-11-27",
+      "numero": "13522",
+      "urn": "urn:lex:br:federal:lei:2017-11-27;13522",
+      "ementa": "Altera a Lei nº 11.664, de 29 de abril de 2008, para estabelecer que serão desenvolvidas estratégias intersetoriais específicas para mulheres com dificuldade de acesso às ações de saúde relativas a prevenção, detecção, tratamento e controle dos cânceres do colo uterino e de mama."
+    },
+    {
+      "senadoId": "26291221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13520",
+      "titulo": "Lei nº 13.520 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13520",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13520",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Planejamento, Desenvolvimento e Gestão, crédito suplementar no valor de R$ 58.594.866,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26290882",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13517",
+      "titulo": "Lei nº 13.517 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13517",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13517",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União e de Transferências a Estados, ao Distrito Federal e a Municípios, crédito suplementar no valor de R$ 305.047.057,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26290912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13513",
+      "titulo": "Lei nº 13.513 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13513",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13513",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Saúde e do Meio Ambiente e de Transferências a Estados, ao Distrito Federal e a Municípios, crédito especial no valor de R$ 54.316.267,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26291365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13521",
+      "titulo": "Lei nº 13.521 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13521",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13521",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República e dos Ministérios da Educação, da Justiça e Cidadania, do Desenvolvimento Social e Agrário e das Cidades, crédito especial no valor de R$ 330.073.110,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26290807",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13510",
+      "titulo": "Lei nº 13.510 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13510",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13510",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República e dos Ministérios da Educação, da Indústria, Comércio Exterior e Serviços e da Saúde, crédito especial no valor de R$ 30.439.400,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26291073",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13518",
+      "titulo": "Lei nº 13.518 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13518",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13518",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 38.619.878,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26291140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13514",
+      "titulo": "Lei nº 13.514 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13514",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13514",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito especial no valor de R$ 2.700.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "26291279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13516",
+      "titulo": "Lei nº 13.516 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13516",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13516",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e Cidadania, crédito especial no valor de R$ 60.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "26291667",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13515",
+      "titulo": "Lei nº 13.515 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13515",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13515",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 7.720.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26290751",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13511",
+      "titulo": "Lei nº 13.511 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13511",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13511",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, Portos e Aviação Civil, crédito suplementar no valor de R$ 49.500.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26290942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13512",
+      "titulo": "Lei nº 13.512 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13512",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13512",
+      "ementa": "Abre ao Orçamento de Investimento da União para 2017, em favor da empresa Companhia Hidro Elétrica do São Francisco - Chesf, crédito suplementar no valor de R$ 164.686.056,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26291319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-24-13519",
+      "titulo": "Lei nº 13.519 de 24/11/2017",
+      "data": "2017-11-24",
+      "numero": "13519",
+      "urn": "urn:lex:br:federal:lei:2017-11-24;13519",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Integração Nacional, crédito suplementar no valor de R$ 164.600.000,00, para reforço de dotações constantes da Lei Orçamentária vigente"
+    },
+    {
+      "senadoId": "26288627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-22-13508",
+      "titulo": "Lei nº 13.508 de 22/11/2017",
+      "data": "2017-11-22",
+      "numero": "13508",
+      "urn": "urn:lex:br:federal:lei:2017-11-22;13508",
+      "ementa": "Institui o Dia Nacional do Ciclista."
+    },
+    {
+      "senadoId": "26288660",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-22-13509",
+      "titulo": "Lei nº 13.509 de 22/11/2017",
+      "data": "2017-11-22",
+      "numero": "13509",
+      "urn": "urn:lex:br:federal:lei:2017-11-22;13509",
+      "ementa": "Dispõe sobre adoção e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil)."
+    },
+    {
+      "senadoId": "26286114",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-17-13507",
+      "titulo": "Lei nº 13.507 de 17/11/2017",
+      "data": "2017-11-17",
+      "numero": "13507",
+      "urn": "urn:lex:br:federal:lei:2017-11-17;13507",
+      "ementa": "Altera a Lei nº 6.088, de 16 de julho de 1974, para incluir os vales dos rios Paraíba, Mundaú, Jequiá, Tocantins, Munim, Gurupi, Turiaçu e Pericumã na área de atuação da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf)."
+    },
+    {
+      "senadoId": "26282176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-13-13506",
+      "titulo": "Lei nº 13.506 de 13/11/2017",
+      "data": "2017-11-13",
+      "numero": "13506",
+      "urn": "urn:lex:br:federal:lei:2017-11-13;13506",
+      "ementa": "Dispõe sobre o processo administrativo sancionador na esfera de atuação do Banco Central do Brasil e da Comissão de Valores Mobiliários; altera a Lei nº 6.385, de 7 de dezembro de 1976, a Lei nº 4.131, de 3 de setembro de 1962, a Lei nº 4.829, de 5 de novembro de 1965, a Lei nº 6.024, de 13 de março de 1974, a Lei nº 7.492, de 16 de junho de 1986, a Lei nº 9.069, de 29 de junho de 1995, a Lei nº 9.613, de 3 de março de 1998, a Lei nº 10.214, de 27 de março de 2001, a Lei nº 11.371, de 28 de novembro de 2006, a Lei nº 11.795, de 8 de outubro de 2008, a Lei nº 12.810, de 15 de maio de 2013, a Lei nº 12.865, de 9 de outubro de 2013, a Lei nº 4.595, de 31 de dezembro de 1964, o Decreto nº 23.258, de 19 de outubro de 1933, o Decreto-Lei nº 9.025, de 27 de fevereiro de 1946, e a Medida Provisória nº 2.224, de 4 de setembro de 2001; revoga o Decreto-Lei nº 448, de 3 de fevereiro de 1969, e dispositivos da Lei nº 9.447, de 14 de março de 1997, da Lei nº 4.380, de 21 de agosto de  1964, da Lei nº 4.728, de 14 de julho de 1965, e da Lei nº 9.873, de 23 de novembro de 1999; e dá outras providências."
+    },
+    {
+      "senadoId": "26278581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-08-13505",
+      "titulo": "Lei nº 13.505 de 08/11/2017",
+      "data": "2017-11-08",
+      "numero": "13505",
+      "urn": "urn:lex:br:federal:lei:2017-11-08;13505",
+      "ementa": "Acrescenta dispositivos à Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre o direito da mulher em situação de violência doméstica e familiar de ter atendimento policial e pericial especializado, ininterrupto e prestado, preferencialmente, por servidores do sexo feminino."
+    },
+    {
+      "senadoId": "26276480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-07-13504",
+      "titulo": "Lei nº 13.504 de 07/11/2017",
+      "data": "2017-11-07",
+      "numero": "13504",
+      "urn": "urn:lex:br:federal:lei:2017-11-07;13504",
+      "ementa": "Institui a campanha nacional de prevenção ao HIV/AIDS e outras infecções sexualmente transmissíveis, denominada Dezembro Vermelho."
+    },
+    {
+      "senadoId": "26273876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-01-13502",
+      "titulo": "Lei nº 13.502 de 01/11/2017",
+      "data": "2017-11-01",
+      "numero": "13502",
+      "urn": "urn:lex:br:federal:lei:2017-11-01;13502",
+      "ementa": "Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios; altera a Lei nº 13.334, de 13 de setembro de 2016; e revoga a Lei nº 10.683, de 28 de maio de 2003, e a Medida Provisória nº 768, de 2 de fevereiro de 2017."
+    },
+    {
+      "senadoId": "26273828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-11-01-13503",
+      "titulo": "Lei nº 13.503 de 01/11/2017",
+      "data": "2017-11-01",
+      "numero": "13503",
+      "urn": "urn:lex:br:federal:lei:2017-11-01;13503",
+      "ementa": "Confere ao Município de Carlos Barbosa, no Rio Grande do Sul, o título de Capital Nacional do Futsal."
+    },
+    {
+      "senadoId": "26269814",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-30-13501",
+      "titulo": "Lei nº 13.501 de 30/10/2017",
+      "data": "2017-10-30",
+      "numero": "13501",
+      "urn": "urn:lex:br:federal:lei:2017-10-30;13501",
+      "ementa": "Altera o art. 2º da Lei nº 9.433, de 8 de janeiro de 1997, que institui a Política Nacional de Recursos Hídricos, para incluir o aproveitamento de águas pluviais como um de seus objetivos."
+    },
+    {
+      "senadoId": "26268607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-26-13499",
+      "titulo": "Lei nº 13.499 de 26/10/2017",
+      "data": "2017-10-26",
+      "numero": "13499",
+      "urn": "urn:lex:br:federal:lei:2017-10-26;13499",
+      "ementa": "Estabelece critérios para a celebração de aditivos contratuais relativos às outorgas nos contratos de parceria no setor aeroportuário."
+    },
+    {
+      "senadoId": "26268806",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-26-13500",
+      "titulo": "Lei nº 13.500 de 26/10/2017",
+      "data": "2017-10-26",
+      "numero": "13500",
+      "urn": "urn:lex:br:federal:lei:2017-10-26;13500",
+      "ementa": "Altera a Lei Complementar nº 79, de 7 de janeiro de 1994, para dispor sobre a transferência de recursos financeiros do Fundo Penitenciário Nacional (Funpen), a Lei nº 11.473, de 10 de maio de 2007, para permitir a prestação de serviços, em caráter excepcional e voluntário, à Secretaria Nacional de Segurança Pública (Senasp), na qual se inclui a Força Nacional de Segurança Pública (FNSP), e as Leis nºs 8.666, de 21 de junho de 1993, e 10.826, de 22 de dezembro de 2003; e revoga a Medida Provisória nº 755, de 19 de dezembro de 2016."
+    },
+    {
+      "senadoId": "26268637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-26-13497",
+      "titulo": "Lei nº 13.497 de 26/10/2017",
+      "data": "2017-10-26",
+      "numero": "13497",
+      "urn": "urn:lex:br:federal:lei:2017-10-26;13497",
+      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para incluir o crime de posse ou porte ilegal de arma de fogo de uso restrito no rol dos crimes hediondos."
+    },
+    {
+      "senadoId": "26268544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-26-13498",
+      "titulo": "Lei nº 13.498 de 26/10/2017",
+      "data": "2017-10-26",
+      "numero": "13498",
+      "urn": "urn:lex:br:federal:lei:2017-10-26;13498",
+      "ementa": "Acrescenta parágrafo único ao art. 16 da Lei nº 9.250, de 26 de dezembro de 1995, para estabelecer que, após os idosos, os professores tenham prioridade para recebimento da restituição do imposto de renda da pessoa física."
+    },
+    {
+      "senadoId": "26266316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-24-13495",
+      "titulo": "Lei nº 13.495 de 24/10/2017",
+      "data": "2017-10-24",
+      "numero": "13495",
+      "urn": "urn:lex:br:federal:lei:2017-10-24;13495",
+      "ementa": "Altera dispositivos da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para possibilitar ao proprietário cadastrar o principal condutor do veículo automotor no Registro Nacional de Veículos Automotores (Renavam), para fins de responsabilidade."
+    },
+    {
+      "senadoId": "26266181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-24-13496",
+      "titulo": "Lei nº 13.496 de 24/10/2017",
+      "data": "2017-10-24",
+      "numero": "13496",
+      "urn": "urn:lex:br:federal:lei:2017-10-24;13496",
+      "ementa": "Institui o Programa Especial de Regularização Tributária (Pert) na Secretaria da Receita Federal do Brasil e na Procuradoria-Geral da Fazenda Nacional; e altera a Lei nº 12.249, de 11 de junho de 2010, e o Decreto nº 70.235, de 6 de março de 1972."
+    },
+    {
+      "senadoId": "26266274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-24-13494",
+      "titulo": "Lei nº 13.494 de 24/10/2017",
+      "data": "2017-10-24",
+      "numero": "13494",
+      "urn": "urn:lex:br:federal:lei:2017-10-24;13494",
+      "ementa": "Institui o Programa de Regularização de Débitos não Tributários (PRD) nas autarquias e fundações públicas federais e na Procuradoria-Geral Federal; altera as Leis nºs 10.522, de 19 de julho de 2002, e 8.213, de 24 de julho de 1991; e dá outras providências."
+    },
+    {
+      "senadoId": "26259927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-17-13493",
+      "titulo": "Lei nº 13.493 de 17/10/2017",
+      "data": "2017-10-17",
+      "numero": "13493",
+      "urn": "urn:lex:br:federal:lei:2017-10-17;13493",
+      "ementa": "Estabelece o Produto Interno Verde (PIV), em cujo cálculo será considerado o patrimônio ecológico nacional."
+    },
+    {
+      "senadoId": "26258681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-16-13492",
+      "titulo": "Lei nº 13.492 de 16/10/2017",
+      "data": "2017-10-16",
+      "numero": "13492",
+      "urn": "urn:lex:br:federal:lei:2017-10-16;13492",
+      "ementa": "Confere o título de Capital Nacional da Cerâmica Artística e da Decoração ao Município de Porto Ferreira, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "26250947",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-13-13491",
+      "titulo": "Lei nº 13.491 de 13/10/2017",
+      "data": "2017-10-13",
+      "numero": "13491",
+      "urn": "urn:lex:br:federal:lei:2017-10-13;13491",
+      "ementa": "Altera o Decreto-Lei nº 1.001, de 21 de outubro de 1969 - Código Penal Militar."
+    },
+    {
+      "senadoId": "26250344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-10-13490",
+      "titulo": "Lei nº 13.490 de 10/10/2017",
+      "data": "2017-10-10",
+      "numero": "13490",
+      "urn": "urn:lex:br:federal:lei:2017-10-10;13490",
+      "ementa": "Altera o art. 53 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre doações às universidades."
+    },
+    {
+      "senadoId": "26248288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-06-13489",
+      "titulo": "Lei nº 13.489 de 06/10/2017",
+      "data": "2017-10-06",
+      "numero": "13489",
+      "urn": "urn:lex:br:federal:lei:2017-10-06;13489",
+      "ementa": "Altera a Lei nº 8.935, de 18 de novembro de 1994 - Lei dos Cartórios, que regulamenta o art. 236 da Constituição Federal, dispondo sobre serviços notariais e de registro."
+    },
+    {
+      "senadoId": "26248218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-06-13487",
+      "titulo": "Lei nº 13.487 de 06/10/2017",
+      "data": "2017-10-06",
+      "numero": "13487",
+      "urn": "urn:lex:br:federal:lei:2017-10-06;13487",
+      "ementa": "Altera as Leis nºs 9.504, de 30 de setembro de 1997, e 9.096, de 19 de setembro de 1995, para instituir o Fundo Especial de Financiamento de Campanha (FEFC) e extinguir a propaganda partidária no rádio e na televisão."
+    },
+    {
+      "senadoId": "26248253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-06-13488",
+      "titulo": "Lei nº 13.488 de 06/10/2017",
+      "data": "2017-10-06",
+      "numero": "13488",
+      "urn": "urn:lex:br:federal:lei:2017-10-06;13488",
+      "ementa": "Altera as Leis nºs 9.504, de 30 de setembro de 1997 (Lei das Eleições), 9.096, de 19 de setembro de 1995, e 4.737, de 15 de julho de 1965 (Código Eleitoral), e revoga dispositivos da Lei nº 13.165, de 29 de setembro de 2015 (Minirreforma Eleitoral de 2015), com o fim de promover reforma no ordenamento político-eleitoral."
+    },
+    {
+      "senadoId": "26247104",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-03-13486",
+      "titulo": "Lei nº 13.486 de 03/10/2017",
+      "data": "2017-10-03",
+      "numero": "13486",
+      "urn": "urn:lex:br:federal:lei:2017-10-03;13486",
+      "ementa": "Altera o art. 8º da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre os deveres do fornecedor de higienizar os equipamentos e utensílios utilizados no fornecimento de produtos ou serviços e de informar, quando for o caso, sobre o risco de contaminação."
+    },
+    {
+      "senadoId": "26246818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-10-02-13485",
+      "titulo": "Lei nº 13.485 de 02/10/2017",
+      "data": "2017-10-02",
+      "numero": "13485",
+      "urn": "urn:lex:br:federal:lei:2017-10-02;13485",
+      "ementa": "Dispõe sobre o parcelamento de débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios, e sobre a revisão da dívida previdenciária dos Municípios pelo Poder Executivo federal; altera a Lei nº 9.796, de 5 de maio de 1999; e dá outras providências."
+    },
+    {
+      "senadoId": "26244389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-09-26-13484",
+      "titulo": "Lei nº 13.484 de 26/09/2017",
+      "data": "2017-09-26",
+      "numero": "13484",
+      "urn": "urn:lex:br:federal:lei:2017-09-26;13484",
+      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos."
+    },
+    {
+      "senadoId": "26242144",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-09-21-13483",
+      "titulo": "Lei nº 13.483 de 21/09/2017",
+      "data": "2017-09-21",
+      "numero": "13483",
+      "urn": "urn:lex:br:federal:lei:2017-09-21;13483",
+      "ementa": "Institui a Taxa de Longo Prazo (TLP); dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador (FAT) e do Fundo da Marinha Mercante (FMM) e sobre a remuneração dos financiamentos concedidos pelo Tesouro Nacional ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES); altera as Leis nºs 8.019, de 11 de abril de 1990, 9.365, de 16 de dezembro de 1996, 10.893, de 13 de  Julho de 2004, e 10.849, de 23 de março de 2004; e dá outras providências."
+    },
+    {
+      "senadoId": "26238665",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-09-20-13482",
+      "titulo": "Lei nº 13.482 de 20/09/2017",
+      "data": "2017-09-20",
+      "numero": "13482",
+      "urn": "urn:lex:br:federal:lei:2017-09-20;13482",
+      "ementa": "Altera a Lei nº 10.893, de 13 de julho de 2004, para estabelecer a obrigatoriedade de divulgação dos valores arrecadados do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) e do quantitativo\ne da destinação dos valores arrecadados ao Fundo da Marinha Mercante (FMM)."
+    },
+    {
+      "senadoId": "26235704",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-09-18-13481",
+      "titulo": "Lei nº 13.481 de 18/09/2017",
+      "data": "2017-09-18",
+      "numero": "13481",
+      "urn": "urn:lex:br:federal:lei:2017-09-18;13481",
+      "ementa": "Altera a Lei nº 6.088, de 16 de julho de 1974, para incluir o vale do rio Vaza-Barris na área de atuação da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf); e dá outras providências."
+    },
+    {
+      "senadoId": "17763810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-09-13-13480",
+      "titulo": "Lei nº 13.480 de 13/09/2017",
+      "data": "2017-09-13",
+      "numero": "13480",
+      "urn": "urn:lex:br:federal:lei:2017-09-13;13480",
+      "ementa": "Altera o art. 2º e o Anexo IV da Lei nº 13.408, de 26 de dezembro de 2016, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2017, e o art. 2º e o Anexo IV da Lei nº 13.473, de 8 de agosto de 2017, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2018."
+    },
+    {
+      "senadoId": "17761764",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-09-05-13479",
+      "titulo": "Lei nº 13.479 de 05/09/2017",
+      "data": "2017-09-05",
+      "numero": "13479",
+      "urn": "urn:lex:br:federal:lei:2017-09-05;13479",
+      "ementa": "Cria o Programa de Financiamento Preferencial às Instituições Filantrópicas e Sem Fins Lucrativos (Pro-Santas Casas) para atender instituições filantrópicas e sem fins lucrativos que participam de forma complementar do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "17760504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-08-30-13477",
+      "titulo": "Lei nº 13.477 de 30/08/2017",
+      "data": "2017-08-30",
+      "numero": "13477",
+      "urn": "urn:lex:br:federal:lei:2017-08-30;13477",
+      "ementa": "Dispõe sobre a instalação de cerca eletrificada ou energizada em zonas urbana e rural."
+    },
+    {
+      "senadoId": "17760539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-08-30-13478",
+      "titulo": "Lei nº 13.478 de 30/08/2017",
+      "data": "2017-08-30",
+      "numero": "13478",
+      "urn": "urn:lex:br:federal:lei:2017-08-30;13478",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para estabelecer direito de acesso aos profissionais do magistério a cursos de formação de professores, por meio de processo seletivo diferenciado."
+    },
+    {
+      "senadoId": "17759247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-08-28-13475",
+      "titulo": "Lei nº 13.475 de 28/08/2017",
+      "data": "2017-08-28",
+      "numero": "13475",
+      "urn": "urn:lex:br:federal:lei:2017-08-28;13475",
+      "ementa": "Dispõe sobre o exercício da profissão de tripulante de aeronave, denominado aeronauta; e revoga a Lei nº 7.183, de 5 de abril de 1984."
+    },
+    {
+      "senadoId": "17759282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-08-28-13476",
+      "titulo": "Lei nº 13.476 de 28/08/2017",
+      "data": "2017-08-28",
+      "numero": "13476",
+      "urn": "urn:lex:br:federal:lei:2017-08-28;13476",
+      "ementa": "Altera a Lei nº 12.810, de 15 de maio de 2013, para dispor sobre a constituição de gravames e ônus sobre ativos financeiros e valores mobiliários objeto de registro ou de depósito centralizado, e a Lei nº 13.097, de 19 de janeiro de 2015; e revoga dispositivo da Lei nº 10.931, de 2 de agosto de 2004."
+    },
+    {
+      "senadoId": "17758140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-08-23-13474",
+      "titulo": "Lei nº 13.474 de 23/08/2017",
+      "data": "2017-08-23",
+      "numero": "13474",
+      "urn": "urn:lex:br:federal:lei:2017-08-23;13474",
+      "ementa": "Transforma a Autoridade Pública Olímpica (APO) na Autoridade de Governança do Legado Olímpico (Aglo); altera a Lei no 11.356, de 19 de outubro de 2006; revoga a Lei nº 12.396, de 21 de março de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "17745360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-08-08-13473",
+      "titulo": "Lei nº 13.473 de 08/08/2017",
+      "data": "2017-08-08",
+      "numero": "13473",
+      "urn": "urn:lex:br:federal:lei:2017-08-08;13473",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2018 e dá outras providências."
+    },
+    {
+      "senadoId": "17741851",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-31-13471",
+      "titulo": "Lei nº 13.471 de 31/07/2017",
+      "data": "2017-07-31",
+      "numero": "13471",
+      "urn": "urn:lex:br:federal:lei:2017-07-31;13471",
+      "ementa": "Institui o Dia Nacional de Luta Contra a Esclerose Lateral Amiotrófica (ELA)."
+    },
+    {
+      "senadoId": "17741886",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-31-13472",
+      "titulo": "Lei nº 13.472 de 31/07/2017",
+      "data": "2017-07-31",
+      "numero": "13472",
+      "urn": "urn:lex:br:federal:lei:2017-07-31;13472",
+      "ementa": "Institui o Dia Nacional de Combate ao Preconceito contra as Pessoas com Nanismo."
+    },
+    {
+      "senadoId": "17740034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-26-13470",
+      "titulo": "Lei nº 13.470 de 26/07/2017",
+      "data": "2017-07-26",
+      "numero": "13470",
+      "urn": "urn:lex:br:federal:lei:2017-07-26;13470",
+      "ementa": "Inclui no calendário turístico oficial a Festa do Vinho Goethe, no Distrito de Azambuja, Município de Pedras Grandes, Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "17734093",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-19-13469",
+      "titulo": "Lei nº 13.469 de 19/07/2017",
+      "data": "2017-07-19",
+      "numero": "13469",
+      "urn": "urn:lex:br:federal:lei:2017-07-19;13469",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e Cidadania, crédito suplementar no valor de R$ 102.385.511,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "17733543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-18-13468",
+      "titulo": "Lei nº 13.468 de 18/07/2017",
+      "data": "2017-07-18",
+      "numero": "13468",
+      "urn": "urn:lex:br:federal:lei:2017-07-18;13468",
+      "ementa": "Inscreve o nome de Francisco José do Nascimento, o Dragão do Mar, no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "17728053",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-13-13467",
+      "titulo": "Lei nº 13.467 de 13/07/2017",
+      "data": "2017-07-13",
+      "numero": "13467",
+      "urn": "urn:lex:br:federal:lei:2017-07-13;13467",
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 6.019, de 3 de janeiro de 1974, 8.036, de 11 de maio de 1990, e 8.212, de 24 de julho de 1991, a fim de adequar a legislação às novas relações de trabalho."
+    },
+    {
+      "senadoId": "17726570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-12-13466",
+      "titulo": "Lei nº 13.466 de 12/07/2017",
+      "data": "2017-07-12",
+      "numero": "13466",
+      "urn": "urn:lex:br:federal:lei:2017-07-12;13466",
+      "ementa": "Altera os arts. 3º, 15 e 71 da Lei nº 10.741, de 1º de outubro de 2003, que dispõe sobre o Estatuto do Idoso e dá outras providências."
+    },
+    {
+      "senadoId": "17723904",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-11-13465",
+      "titulo": "Lei nº 13.465 de 11/07/2017",
+      "data": "2017-07-11",
+      "numero": "13465",
+      "urn": "urn:lex:br:federal:lei:2017-07-11;13465",
+      "ementa": "Dispõe sobre a regularização fundiária rural e urbana, sobre a liquidação de créditos concedidos aos assentados da reforma agrária e sobre a regularização fundiária no âmbito da Amazônia Legal; institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de imóveis da União; altera as Leis nº 8.629, de 25 de fevereiro de 1993, 13.001, de 20 de junho de 2014, 11.952, de 25 de junho de 2009, 13.340, de 28 de setembro de 2016, 8.666, de 21 de junho de 1993, 6.015, de 31 de dezembro de 1973, 12.512, de 14 de outubro de 2011, 10.406, de 10 de janeiro de 2002 (Código Civil), 13.105, de 16 de março de 2015 (Código de Processo Civil), 11.977, de 7 de julho de 2009, 9.514, de 20 de novembro de 1997, 11.124, de 16 de junho de 2005, 6.766, de 19 de dezembro de 1979, 10.257, de 10 de julho de 2001, 12.651, de 25 de maio de 2012, 13.240, de 30 de dezembro de 2015, 9.636, de 15 de maio de 1998, 8.036, de 11 de maio de 1990, 13.139, de 26 de junho de 2015, 11.483, de 31 de maio de 2007, e a 12.712, de 30 de agosto de 2012, a Medida Provisória no 2.220, de 4 de setembro de 2001, e os Decretos-Leis nº 2.398, de 21 de dezembro de 1987, 1.876, de 15 de julho de 1981, 9.760, de 5 de setembro de 1946, e 3.365, de 21 de junho de 1941; revoga dispositivos da Lei Complementar nº 76, de 6 de julho de 1993, e da Lei no 13.347, de 10 de outubro de 2016; e dá outras providências."
+    },
+    {
+      "senadoId": "17723267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-10-13464",
+      "titulo": "Lei nº 13.464 de 10/07/2017",
+      "data": "2017-07-10",
+      "numero": "13464",
+      "urn": "urn:lex:br:federal:lei:2017-07-10;13464",
+      "ementa": "Altera a remuneração de servidores de ex-Territórios e de servidores públicos federais; reorganiza cargos e carreiras; estabelece regras de incorporação de gratificação de desempenho a aposentadorias e pensões; altera as Leis nos 11.907, de 2 de fevereiro de 2009, 11.457, de 16 de março de 2007, 10.887, de 18 de junho de 2004, 10.593, de 6 de dezembro de 2002, 10.910, de 15 de julho de 2004, 11.358, de 19 de outubro de 2006, 11.890, de 24 de dezembro de 2008, 12.775, de 28 de dezembro de 2012, 11.539, de 8 de novembro de 2007, 10.480, de 2 de julho de 2002, 11.356, de 19 de outubro de 2006, 12.702, de 7 de agosto de 2012, 13.324, de 29 de julho de 2016, 9.625, de 7 de abril de 1998, 10.180, de 6 de fevereiro de 2001, 8.112, de 11 de dezembro de 1990, 11.355, de 19 de outubro de 2006, 12.404, de 4 de maio de 2011, 12.277, de 30 de junho de 2010, 12.800, de 23 de abril de 2013, 9.650, de 27 maio de 1998, e 10.876, de 2 de junho de 2004, e o Decreto-Lei nº 1.437, de 17 de dezembro de 1975; revoga dispositivos das Leis nos 13.327, de 29 de julho de 2016, 13.328, de 29 de julho de 2016, 12.086, de 6 de novembro de 2009, e 8.213, de 24 de julho de 1991, e o Decreto-Lei nº 2.355, de 27 de agosto de 1987."
+    },
+    {
+      "senadoId": "17717809",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-06-13463",
+      "titulo": "Lei nº 13.463 de 06/07/2017",
+      "data": "2017-07-06",
+      "numero": "13463",
+      "urn": "urn:lex:br:federal:lei:2017-07-06;13463",
+      "ementa": "Dispõe sobre os recursos destinados aos pagamentos decorrentes de precatórios e de Requisições de Pequeno Valor (RPV) federais."
+    },
+    {
+      "senadoId": "17717499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-05-13462",
+      "titulo": "Lei nº 13.462 de 05/07/2017",
+      "data": "2017-07-05",
+      "numero": "13462",
+      "urn": "urn:lex:br:federal:lei:2017-07-05;13462",
+      "ementa": "Denomina Rodovia Abadio Pereira Cardoso o trecho da BR-060 entre a cidade de Goiânia e o entroncamento com a BR-452 e a GO-174, no Estado de Goiás."
+    },
+    {
+      "senadoId": "17716613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-07-03-13461",
+      "titulo": "Lei nº 13.461 de 03/07/2017",
+      "data": "2017-07-03",
+      "numero": "13461",
+      "urn": "urn:lex:br:federal:lei:2017-07-03;13461",
+      "ementa": "Denomina Rodovia Mestre Dominguinhos o trecho da rodovia BR-423 compreendido entre as cidades de São Caetano e Garanhuns, no Estado de Pernambuco."
+    },
+    {
+      "senadoId": "17711146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-26-13457",
+      "titulo": "Lei nº 13.457 de 26/06/2017",
+      "data": "2017-06-26",
+      "numero": "13457",
+      "urn": "urn:lex:br:federal:lei:2017-06-26;13457",
+      "ementa": "Altera as Leis nºs 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, e 11.907, de 2 de fevereiro de 2009, que dispõe sobre a reestruturação da composição remuneratória da Carreira de Perito Médico Previdenciário e da Carreira de Supervisor Médico- Pericial; e institui o Bônus Especial de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade."
+    },
+    {
+      "senadoId": "17711111",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-26-13456",
+      "titulo": "Lei nº 13.456 de 26/06/2017",
+      "data": "2017-06-26",
+      "numero": "13456",
+      "urn": "urn:lex:br:federal:lei:2017-06-26;13456",
+      "ementa": "Altera o Programa de que trata a Lei nº 13.189, de 19 de novembro de 2015, para denominá-lo Programa Seguro-Emprego e para prorrogar seu prazo de vigência."
+    },
+    {
+      "senadoId": "17711076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-26-13455",
+      "titulo": "Lei nº 13.455 de 26/06/2017",
+      "data": "2017-06-26",
+      "numero": "13455",
+      "urn": "urn:lex:br:federal:lei:2017-06-26;13455",
+      "ementa": "Dispõe sobre a diferenciação de preços de bens e serviços oferecidos ao público em função do prazo ou do instrumento de pagamento utilizado, e altera a Lei nº 10.962, de 11 de outubro de 2004."
+    },
+    {
+      "senadoId": "17711181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-26-13458",
+      "titulo": "Lei nº 13.458 de 26/06/2017",
+      "data": "2017-06-26",
+      "numero": "13458",
+      "urn": "urn:lex:br:federal:lei:2017-06-26;13458",
+      "ementa": "Altera a Lei nº 11.482, de 31 de maio de 2007, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) previsto no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997; a Lei nº 9.432, de 8 de janeiro de 1997; e a Lei nº 10.893, de 13 de julho de 2004."
+    },
+    {
+      "senadoId": "17711216",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-26-13459",
+      "titulo": "Lei nº 13.459 de 26/06/2017",
+      "data": "2017-06-26",
+      "numero": "13459",
+      "urn": "urn:lex:br:federal:lei:2017-06-26;13459",
+      "ementa": "Altera a Lei nº 12.086, de 6 de novembro de 2009, que dispõe sobre os militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal."
+    },
+    {
+      "senadoId": "17711251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-26-13460",
+      "titulo": "Lei nº 13.460 de 26/06/2017",
+      "data": "2017-06-26",
+      "numero": "13460",
+      "urn": "urn:lex:br:federal:lei:2017-06-26;13460",
+      "ementa": "Dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços públicos da administração pública."
+    },
+    {
+      "senadoId": "17710936",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-23-13454",
+      "titulo": "Lei nº 13.454 de 23/06/2017",
+      "data": "2017-06-23",
+      "numero": "13454",
+      "urn": "urn:lex:br:federal:lei:2017-06-23;13454",
+      "ementa": "Autoriza a produção, a comercialização e o consumo, sob prescrição médica, dos anorexígenos sibutramina, anfepramona, femproporex e mazindol."
+    },
+    {
+      "senadoId": "17709816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-21-13453",
+      "titulo": "Lei nº 13.453 de 21/06/2017",
+      "data": "2017-06-21",
+      "numero": "13453",
+      "urn": "urn:lex:br:federal:lei:2017-06-21;13453",
+      "ementa": "Institui o Dia Nacional do Engenheiro de Custos."
+    },
+    {
+      "senadoId": "17708893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-19-13452",
+      "titulo": "Lei nº 13.452 de 19/06/2017",
+      "data": "2017-06-19",
+      "numero": "13452",
+      "urn": "urn:lex:br:federal:lei:2017-06-19;13452",
+      "ementa": "Altera os limites do Parque Nacional do Jamanxim e cria a Área de Proteção Ambiental Rio Branco."
+    },
+    {
+      "senadoId": "17707928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-16-13450",
+      "titulo": "Lei nº 13.450 de 16/06/2017",
+      "data": "2017-06-16",
+      "numero": "13450",
+      "urn": "urn:lex:br:federal:lei:2017-06-16;13450",
+      "ementa": "Denomina Aeroporto de São Paulo/Congonhas - Deputado Freitas Nobre o aeroporto da cidade de São Paulo, capital do Estado de São Paulo."
+    },
+    {
+      "senadoId": "17707963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-16-13451",
+      "titulo": "Lei nº 13.451 de 16/06/2017",
+      "data": "2017-06-16",
+      "numero": "13451",
+      "urn": "urn:lex:br:federal:lei:2017-06-16;13451",
+      "ementa": "Dispõe sobre a competência da Superintendência da Zona Franca de Manaus (Suframa) para regular e controlar a importação e o ingresso de mercadorias, com incentivos fiscais, na Zona Franca de Manaus, nas áreas de livre comércio e na Amazônia Ocidental e institui a Taxa de Controle de Incentivos Fiscais (TCIF) e a Taxa de Serviços (TS)."
+    },
+    {
+      "senadoId": "17707893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-16-13449",
+      "titulo": "Lei nº 13.449 de 16/06/2017",
+      "data": "2017-06-16",
+      "numero": "13449",
+      "urn": "urn:lex:br:federal:lei:2017-06-16;13449",
+      "ementa": "Institui o Dia Nacional do Policial e do Bombeiro Militares."
+    },
+    {
+      "senadoId": "17702463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-06-05-13448",
+      "titulo": "Lei nº 13.448 de 05/06/2017",
+      "data": "2017-06-05",
+      "numero": "13448",
+      "urn": "urn:lex:br:federal:lei:2017-06-05;13448",
+      "ementa": "Estabelece diretrizes gerais para prorrogação e relicitação dos contratos de parceria definidos nos termos da Lei nº 13.334, de 13 de setembro de 2016, nos setores rodoviário, ferroviário e aeroportuário da administração pública federal, e altera a Lei nº 10.233, de 5 de junho de 2001, e a Lei nº 8.987, de 13 de fevereiro de 1995."
+    },
+    {
+      "senadoId": "17699516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-31-13447",
+      "titulo": "Lei nº 13.447 de 31/05/2017",
+      "data": "2017-05-31",
+      "numero": "13447",
+      "urn": "urn:lex:br:federal:lei:2017-05-31;13447",
+      "ementa": "Confere ao Município de Braço do Norte, no Estado de Santa Catarina, o título de Capital Nacional do Gado Jersey."
+    },
+    {
+      "senadoId": "17697493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-25-13446",
+      "titulo": "Lei nº 13.446 de 25/05/2017",
+      "data": "2017-05-25",
+      "numero": "13446",
+      "urn": "urn:lex:br:federal:lei:2017-05-25;13446",
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para elevar a rentabilidade das contas vinculadas do trabalhador por meio da distribuição de lucros do Fundo de Garantia do Tempo de Serviço (FGTS) e dispor sobre possibilidade de movimentação de conta do Fundo vinculada a contrato de trabalho extinto até 31 de dezembro de 2015."
+    },
+    {
+      "senadoId": "17696552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-24-13445",
+      "titulo": "Lei nº 13.445 de 24/05/2017",
+      "data": "2017-05-24",
+      "numero": "13445",
+      "urn": "urn:lex:br:federal:lei:2017-05-24;13445",
+      "ementa": "Institui a Lei de Migração."
+    },
+    {
+      "senadoId": "17690226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-11-13443",
+      "titulo": "Lei nº 13.443 de 11/05/2017",
+      "data": "2017-05-11",
+      "numero": "13443",
+      "urn": "urn:lex:br:federal:lei:2017-05-11;13443",
+      "ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000, para estabelecer a obrigatoriedade da oferta, em espaços de uso público, de brinquedos e equipamentos de lazer adaptados para utilização por pessoas com deficiência, inclusive visual, ou com mobilidade reduzida."
+    },
+    {
+      "senadoId": "17690261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-11-13444",
+      "titulo": "Lei nº 13.444 de 11/05/2017",
+      "data": "2017-05-11",
+      "numero": "13444",
+      "urn": "urn:lex:br:federal:lei:2017-05-11;13444",
+      "ementa": "Dispõe sobre a Identificação Civil Nacional (ICN)."
+    },
+    {
+      "senadoId": "17685556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-08-13440",
+      "titulo": "Lei nº 13.440 de 08/05/2017",
+      "data": "2017-05-08",
+      "numero": "13440",
+      "urn": "urn:lex:br:federal:lei:2017-05-08;13440",
+      "ementa": "Altera o art. 244-A da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente."
+    },
+    {
+      "senadoId": "17685626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-08-13442",
+      "titulo": "Lei nº 13.442 de 08/05/2017",
+      "data": "2017-05-08",
+      "numero": "13442",
+      "urn": "urn:lex:br:federal:lei:2017-05-08;13442",
+      "ementa": "Institui o \"Dia Nacional do Teatro Acessível: Arte, Prazer e Direitos\"."
+    },
+    {
+      "senadoId": "17685591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-05-08-13441",
+      "titulo": "Lei nº 13.441 de 08/05/2017",
+      "data": "2017-05-08",
+      "numero": "13441",
+      "urn": "urn:lex:br:federal:lei:2017-05-08;13441",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para prever a infiltração de agentes de polícia na internet com o fim de investigar crimes contra a dignidade sexual de criança e de adolescente."
+    },
+    {
+      "senadoId": "17683013",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-27-13439",
+      "titulo": "Lei nº 13.439 de 27/04/2017",
+      "data": "2017-04-27",
+      "numero": "13439",
+      "urn": "urn:lex:br:federal:lei:2017-04-27;13439",
+      "ementa": "Cria o Programa Cartão Reforma e dá outras providências."
+    },
+    {
+      "senadoId": "17681536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-26-13438",
+      "titulo": "Lei nº 13.438 de 26/04/2017",
+      "data": "2017-04-26",
+      "numero": "13438",
+      "urn": "urn:lex:br:federal:lei:2017-04-26;13438",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para tornar obrigatória a adoção pelo Sistema Único de Saúde (SUS) de protocolo que estabeleça padrões para a avaliação de riscos para o desenvolvimento psíquico das crianças."
+    },
+    {
+      "senadoId": "17677816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-19-13437",
+      "titulo": "Lei nº 13.437 de 19/04/2017",
+      "data": "2017-04-19",
+      "numero": "13437",
+      "urn": "urn:lex:br:federal:lei:2017-04-19;13437",
+      "ementa": "Institui o Dia Nacional do Perdão."
+    },
+    {
+      "senadoId": "17676954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-12-13434",
+      "titulo": "Lei nº 13.434 de 12/04/2017",
+      "data": "2017-04-12",
+      "numero": "13434",
+      "urn": "urn:lex:br:federal:lei:2017-04-12;13434",
+      "ementa": "Acrescenta parágrafo único ao art. 292 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para vedar o uso de algemas em mulheres grávidas durante o parto e em mulheres durante a fase de puerpério imediato."
+    },
+    {
+      "senadoId": "17676919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-12-13433",
+      "titulo": "Lei nº 13.433 de 12/04/2017",
+      "data": "2017-04-12",
+      "numero": "13433",
+      "urn": "urn:lex:br:federal:lei:2017-04-12;13433",
+      "ementa": "Inscreve no Livro dos Heróis da Pátria o nome de Zuleika Angel Jones e altera a Lei nº 11.597, de 29 de novembro de 2007."
+    },
+    {
+      "senadoId": "17677024",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-12-13436",
+      "titulo": "Lei nº 13.436 de 12/04/2017",
+      "data": "2017-04-12",
+      "numero": "13436",
+      "urn": "urn:lex:br:federal:lei:2017-04-12;13436",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para garantir o direito a acompanhamento e orientação à mãe com relação à amamentação."
+    },
+    {
+      "senadoId": "17676989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-12-13435",
+      "titulo": "Lei nº 13.435 de 12/04/2017",
+      "data": "2017-04-12",
+      "numero": "13435",
+      "urn": "urn:lex:br:federal:lei:2017-04-12;13435",
+      "ementa": "Institui o mês de agosto como o Mês do Aleitamento Materno."
+    },
+    {
+      "senadoId": "17676553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-11-13432",
+      "titulo": "Lei nº 13.432 de 11/04/2017",
+      "data": "2017-04-11",
+      "numero": "13432",
+      "urn": "urn:lex:br:federal:lei:2017-04-11;13432",
+      "ementa": "Dispõe sobre o exercício da profissão de detetive particular."
+    },
+    {
+      "senadoId": "17674073",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-04-04-13431",
+      "titulo": "Lei nº 13.431 de 04/04/2017",
+      "data": "2017-04-04",
+      "numero": "13431",
+      "urn": "urn:lex:br:federal:lei:2017-04-04;13431",
+      "ementa": "Estabelece o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente)."
+    },
+    {
+      "senadoId": "17672675",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-31-13430",
+      "titulo": "Lei nº 13.430 de 31/03/2017",
+      "data": "2017-03-31",
+      "numero": "13430",
+      "urn": "urn:lex:br:federal:lei:2017-03-31;13430",
+      "ementa": "Institui o Dia Nacional de Combate à Sífilis e à Sífilis Congênita."
+    },
+    {
+      "senadoId": "17672582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-31-13429",
+      "titulo": "Lei nº 13.429 de 31/03/2017",
+      "data": "2017-03-31",
+      "numero": "13429",
+      "urn": "urn:lex:br:federal:lei:2017-03-31;13429",
+      "ementa": "Altera dispositivos da Lei nº 6.019, de 3 de janeiro de 1974, que dispõe sobre o trabalho temporário nas empresas urbanas e dá outras providências; e dispõe sobre as relações de trabalho na empresa de prestação de serviços a terceiros."
+    },
+    {
+      "senadoId": "17668401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-30-13425",
+      "titulo": "Lei nº 13.425 de 30/03/2017",
+      "data": "2017-03-30",
+      "numero": "13425",
+      "urn": "urn:lex:br:federal:lei:2017-03-30;13425",
+      "ementa": "Estabelece diretrizes gerais sobre medidas de prevenção e combate a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público; altera as Leis nºs 8.078, de 11 de setembro de 1990, e 10.406, de 10 de janeiro de 2002 – Código Civil; e dá outras providências."
+    },
+    {
+      "senadoId": "17668436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-30-13426",
+      "titulo": "Lei nº 13.426 de 30/03/2017",
+      "data": "2017-03-30",
+      "numero": "13426",
+      "urn": "urn:lex:br:federal:lei:2017-03-30;13426",
+      "ementa": "Dispõe sobre a política de controle da natalidade de cães e gatos e dá outras providências."
+    },
+    {
+      "senadoId": "17668471",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-30-13427",
+      "titulo": "Lei nº 13.427 de 30/03/2017",
+      "data": "2017-03-30",
+      "numero": "13427",
+      "urn": "urn:lex:br:federal:lei:2017-03-30;13427",
+      "ementa": "Altera o art. 7º da Lei nº 8.080, de 19 de setembro de 1990, que \"dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências\", para inserir, entre os princípios do Sistema Único de Saúde (SUS), o princípio da organização de atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral."
+    },
+    {
+      "senadoId": "17668516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-30-13428",
+      "titulo": "Lei nº 13.428 de 30/03/2017",
+      "data": "2017-03-30",
+      "numero": "13428",
+      "urn": "urn:lex:br:federal:lei:2017-03-30;13428",
+      "ementa": "Altera a Lei nº 13.254, de 13 de janeiro de 2016, que \"Dispõe sobre o Regime Especial de Regularização Cambial e Tributária (RERCT) de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País\"."
+    },
+    {
+      "senadoId": "17666446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-28-13424",
+      "titulo": "Lei nº 13.424 de 28/03/2017",
+      "data": "2017-03-28",
+      "numero": "13424",
+      "urn": "urn:lex:br:federal:lei:2017-03-28;13424",
+      "ementa": "Altera as Leis nºs 5.785, de 23 de junho de 1972, 9.612, de 19 de fevereiro de 1998, 4.117, de 27 de agosto de 1962, 6.615, de 16 de dezembro de 1978, para dispor sobre o processo de renovação do prazo das concessões e permissões dos serviços de radiodifusão, e dá outras providências."
+    },
+    {
+      "senadoId": "17665976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-27-13421",
+      "titulo": "Lei nº 13.421 de 27/03/2017",
+      "data": "2017-03-27",
+      "numero": "13421",
+      "urn": "urn:lex:br:federal:lei:2017-03-27;13421",
+      "ementa": "Dispõe sobre a criação da Semana Nacional pela Não Violência contra a Mulher e dá outras providências."
+    },
+    {
+      "senadoId": "17666011",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-27-13422",
+      "titulo": "Lei nº 13.422 de 27/03/2017",
+      "data": "2017-03-27",
+      "numero": "13422",
+      "urn": "urn:lex:br:federal:lei:2017-03-27;13422",
+      "ementa": "Inscreve o nome de Clara Camarão no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "17666046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-27-13423",
+      "titulo": "Lei nº 13.423 de 27/03/2017",
+      "data": "2017-03-27",
+      "numero": "13423",
+      "urn": "urn:lex:br:federal:lei:2017-03-27;13423",
+      "ementa": "Inscreve o nome de Antonia Alves Feitosa, conhecida como Jovita Alves Feitosa, no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "17653330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-13-13420",
+      "titulo": "Lei nº 13.420 de 13/03/2017",
+      "data": "2017-03-13",
+      "numero": "13420",
+      "urn": "urn:lex:br:federal:lei:2017-03-13;13420",
+      "ementa": "Altera dispositivos da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para incentivar a formação técnico-profissional de adolescentes e jovens em áreas relacionadas à gestão e prática de atividades desportivas e à prestação de serviços relacionados à infraestrutura, à organização e à promoção de eventos esportivos e dá outras providências."
+    },
+    {
+      "senadoId": "17653295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-13-13419",
+      "titulo": "Lei nº 13.419 de 13/03/2017",
+      "data": "2017-03-13",
+      "numero": "13419",
+      "urn": "urn:lex:br:federal:lei:2017-03-13;13419",
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar o rateio, entre empregados, da cobrança adicional sobre as despesas em bares, restaurantes, hotéis, motéis e estabelecimentos similares."
+    },
+    {
+      "senadoId": "17653190",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-09-13418",
+      "titulo": "Lei nº 13.418 de 09/03/2017",
+      "data": "2017-03-09",
+      "numero": "13418",
+      "urn": "urn:lex:br:federal:lei:2017-03-09;13418",
+      "ementa": "Confere ao Município de Blumenau, no Estado de Santa Catarina, o título de Capital Nacional da Cerveja."
+    },
+    {
+      "senadoId": "17648880",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-03-01-13417",
+      "titulo": "Lei nº 13.417 de 01/03/2017",
+      "data": "2017-03-01",
+      "numero": "13417",
+      "urn": "urn:lex:br:federal:lei:2017-03-01;13417",
+      "ementa": "Altera a Lei nº 11.652, de 7 de abril de 2008, que \"Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta; autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC; altera a Lei nº 5.070, de 7 de julho de 1966; e dá outras providências\", para dispor sobre a prestação dos serviços de radiodifusão pública e a organização da EBC."
+    },
+    {
+      "senadoId": "17648375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-02-23-13416",
+      "titulo": "Lei nº 13.416 de 23/02/2017",
+      "data": "2017-02-23",
+      "numero": "13416",
+      "urn": "urn:lex:br:federal:lei:2017-02-23;13416",
+      "ementa": "Autoriza o Banco Central do Brasil a adquirir papel-moeda e moeda metálica fabricados fora do País por fornecedor estrangeiro."
+    },
+    {
+      "senadoId": "602639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-02-16-13415",
+      "titulo": "Lei nº 13.415 de 16/02/2017",
+      "data": "2017-02-16",
+      "numero": "13415",
+      "urn": "urn:lex:br:federal:lei:2017-02-16;13415",
+      "ementa": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e 11.494, de 20 de junho 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e o Decreto-Lei nº 236, de 28 de fevereiro de 1967; revoga a Lei nº 11.161, de 5 de agosto de 2005; e institui a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral."
+    },
+    {
+      "senadoId": "602638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2017-01-10-13414",
+      "titulo": "Lei nº 13.414 de 10/01/2017",
+      "data": "2017-01-10",
+      "numero": "13414",
+      "urn": "urn:lex:br:federal:lei:2017-01-10;13414",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2017."
+    }
+  ],
+  "pendencias": []
+}

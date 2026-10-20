@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-01-07-15333",
+  "titulo": "Lei nº 15.333 de 07/01/2026",
+  "data": "2026-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/dc78f2c2-df62-4ac8-a759-b18124adfcaf/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-01-07;15333",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-01-07%3B15333&tipo_documento=maior-detalhe",
+  "sha256_dados": "8d71e75263a3940ff5a39c57630ccea9528665d5dafcea9e84a4c9d9a7f8bab2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:26.147Z",
+  "sha256_fonte": "02bf54bb53ed4eeb7340674e88fb9e2d3eb53c776486edd8bf761ce93916a937",
+  "sha256_markdown": "56f5d1aa2bb66911381c5effc1520c6808fac3e312918de7e0e7d468494b9084"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-01-15421",
+  "titulo": "Lei nº 15.421 de 01/06/2026",
+  "data": "2026-06-01",
+  "fonte": "https://normas.leg.br/api/public/binario/ef7200d4-d00b-40d0-aa79-c04874e1bd3a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-01;15421",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-01%3B15421&tipo_documento=maior-detalhe",
+  "sha256_dados": "98712a388dc227c9b85602c9acfd2d1165beec396d017097fc0ef7202b7d2dfe",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:26.860Z",
+  "sha256_fonte": "eae7331e44e1bfa8654b258ac99c64602ba4335e7e72376bf102ecb05904a53e",
+  "sha256_markdown": "295a60465292d9a926146e044a7c0f60f1b25fb5578b72b6c62e7dc108ad0f70"
+}

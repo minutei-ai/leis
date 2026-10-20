@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-01-07-15332",
+  "titulo": "Lei nº 15.332 de 07/01/2026",
+  "data": "2026-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/caf80878-daf8-4013-a674-e7e709e6e908/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-01-07;15332",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-01-07%3B15332&tipo_documento=maior-detalhe",
+  "sha256_dados": "cfa9cc704444e202d23de795bd9c81a8da8a71f506a9fedde7eec6cd6e2ed31e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:24.822Z",
+  "sha256_fonte": "7ce2949c7fb871edc64a017d647526b85b0d11f4c64e5c44d09d7c15b532f8d5",
+  "sha256_markdown": "25cb8462e2a5b06883b6d1630dd8f779227462243c8d3e99eb1b7c9cec9465a0"
+}

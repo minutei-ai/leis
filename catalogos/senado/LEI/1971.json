@@ -1,0 +1,1239 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1971",
+  "tipo": "LEI",
+  "ano": 1971,
+  "coletado_em": "2026-10-20T22:58:15.082Z",
+  "normas": [
+    {
+      "senadoId": "547651",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-27-5775",
+      "titulo": "Lei nº 5.775 de 27/12/1971",
+      "data": "1971-12-27",
+      "numero": "5775",
+      "urn": "urn:lex:br:federal:lei:1971-12-27;5775",
+      "ementa": "Estima a Receita e Fixa a Despesa do Distrito Federal para o Exercício Financeiro de 1972."
+    },
+    {
+      "senadoId": "547650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-23-5774",
+      "titulo": "Lei nº 5.774 de 23/12/1971",
+      "data": "1971-12-23",
+      "numero": "5774",
+      "urn": "urn:lex:br:federal:lei:1971-12-23;5774",
+      "ementa": "Dispõe sobre o Estatuto dos Militares e dá outras providências."
+    },
+    {
+      "senadoId": "547649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-21-5773",
+      "titulo": "Lei nº 5.773 de 21/12/1971",
+      "data": "1971-12-21",
+      "numero": "5773",
+      "urn": "urn:lex:br:federal:lei:1971-12-21;5773",
+      "ementa": "Transforma em cargos de provimento em comissão os isolados efetivos de   Diretor de Serviço, Quadro da Secretaria do Tribunal Regional Eleitoral de   Pernambuco."
+    },
+    {
+      "senadoId": "547648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-21-5772",
+      "titulo": "Lei nº 5.772 de 21/12/1971",
+      "data": "1971-12-21",
+      "numero": "5772",
+      "urn": "urn:lex:br:federal:lei:1971-12-21;5772",
+      "ementa": "Institui o Código da Propriedade Industrial, e dá outras providências."
+    },
+    {
+      "senadoId": "547647",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-21-5771",
+      "titulo": "Lei nº 5.771 de 21/12/1971",
+      "data": "1971-12-21",
+      "numero": "5771",
+      "urn": "urn:lex:br:federal:lei:1971-12-21;5771",
+      "ementa": "Dispõe sobre o Quadro de Pessoal Civil da Secretaria de Segurança Pública do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-21-5770",
+      "titulo": "Lei nº 5.770 de 21/12/1971",
+      "data": "1971-12-21",
+      "numero": "5770",
+      "urn": "urn:lex:br:federal:lei:1971-12-21;5770",
+      "ementa": "Dá nova redação ao art. 7º do Decreto-lei nº ;43, de 18 de novembro de 1966, que cria o Instituto Nacional do Cinema, torna da exclusiva competência da União a censura de filmes, estende aos pagamentos do exterior de filmes adquiridos a preços fixos o disposto no art. 45 da Lei nº ;4.131, de 3 de setembro de 1962, prorroga por 6 meses dispositivos da legislação sobre a exibição de filmes nacionais e dá outras providências."
+    },
+    {
+      "senadoId": "547643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-20-5767",
+      "titulo": "Lei nº 5.767 de 20/12/1971",
+      "data": "1971-12-20",
+      "numero": "5767",
+      "urn": "urn:lex:br:federal:lei:1971-12-20;5767",
+      "ementa": "Reorganiza a Secretaria de Segurança Pública, orgão integrante da administração do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-20-5766",
+      "titulo": "Lei nº 5.766 de 20/12/1971",
+      "data": "1971-12-20",
+      "numero": "5766",
+      "urn": "urn:lex:br:federal:lei:1971-12-20;5766",
+      "ementa": "Cria o Conselho Federal e os Conselhos Regionais de Psicologia e dá outras providências."
+    },
+    {
+      "senadoId": "547645",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-20-5769",
+      "titulo": "Lei nº 5.769 de 20/12/1971",
+      "data": "1971-12-20",
+      "numero": "5769",
+      "urn": "urn:lex:br:federal:lei:1971-12-20;5769",
+      "ementa": "Dispõe sobre a remuneração dos funcionários do Fisco do Distrito Federal,   e dá outras providências."
+    },
+    {
+      "senadoId": "547644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-20-5768",
+      "titulo": "Lei nº 5.768 de 20/12/1971",
+      "data": "1971-12-20",
+      "numero": "5768",
+      "urn": "urn:lex:br:federal:lei:1971-12-20;5768",
+      "ementa": "Altera a legislação sobre distribuição gratuita de prêmios, mediante sorteio, vale-brinde ou concurso, a título de propaganda, estabelece normas de proteção à poupança popular e dá outras providências."
+    },
+    {
+      "senadoId": "547641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-18-5765",
+      "titulo": "Lei nº 5.765 de 18/12/1971",
+      "data": "1971-12-18",
+      "numero": "5765",
+      "urn": "urn:lex:br:federal:lei:1971-12-18;5765",
+      "ementa": "Aprova alterações na ortografia da língua portuguesa e dá outras   providências."
+    },
+    {
+      "senadoId": "547640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-16-5764",
+      "titulo": "Lei nº 5.764 de 16/12/1971",
+      "data": "1971-12-16",
+      "numero": "5764",
+      "urn": "urn:lex:br:federal:lei:1971-12-16;5764",
+      "ementa": "Define a Política Nacional de Cooperativismo, institui o regime jurídico das sociedades cooperativas, e dá outras providências."
+    },
+    {
+      "senadoId": "547639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-15-5763",
+      "titulo": "Lei nº 5.763 de 15/12/1971",
+      "data": "1971-12-15",
+      "numero": "5763",
+      "urn": "urn:lex:br:federal:lei:1971-12-15;5763",
+      "ementa": "Altera a Lei nº ;4.319, de 16 de março de 1964, que cria o Conselho de   Defesa dos Direitos da Pessoa Humana."
+    },
+    {
+      "senadoId": "547638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-14-5762",
+      "titulo": "Lei nº 5.762 de 14/12/1971",
+      "data": "1971-12-14",
+      "numero": "5762",
+      "urn": "urn:lex:br:federal:lei:1971-12-14;5762",
+      "ementa": "Transforma o Banco Nacional da Habitação (BNH) em empresa pública, e dá outras providências."
+    },
+    {
+      "senadoId": "547635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5759",
+      "titulo": "Lei nº 5.759 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5759",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5759",
+      "ementa": "Acrescenta parágrafos ao artigo 11 do Decreto-lei nº ;55, de 18 de novembro de 1966, que define a política nacional do turismo, cria o Conselho Nacional do Turismo e a Empresa Brasileira de Turismo e dá outras providências."
+    },
+    {
+      "senadoId": "547633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5757",
+      "titulo": "Lei nº 5.757 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5757",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5757",
+      "ementa": "Estabelece regime de gratificação ao pessoal à disposição do FUNRURAL e dá outras providências."
+    },
+    {
+      "senadoId": "547632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5756",
+      "titulo": "Lei nº 5.756 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5756",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5756",
+      "ementa": "Dispõe sobre o Ensino no Exército."
+    },
+    {
+      "senadoId": "547629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5753",
+      "titulo": "Lei nº 5.753 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5753",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5753",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos para o triênio 1972/1974."
+    },
+    {
+      "senadoId": "547636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5760",
+      "titulo": "Lei nº 5.760 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5760",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5760",
+      "ementa": "Dispõe sobre a inspeção sanitária e industrial dos produtos de origem   animal e dá outras providências."
+    },
+    {
+      "senadoId": "547630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5754",
+      "titulo": "Lei nº 5.754 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5754",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5754",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1972."
+    },
+    {
+      "senadoId": "547634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5758",
+      "titulo": "Lei nº 5.758 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5758",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5758",
+      "ementa": "Dá nova redação a dispositivos do Decreto-lei nº ;245, 28 de fevereiro de 1967, que transforma o Colégio Pedro II em autarquia, alterados pela Lei nº ;5.490, de 03 de setembro de 1968, e pelo Decreto-lei nº ;530, de 15 de abril de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "547631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5755",
+      "titulo": "Lei nº 5.755 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5755",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5755",
+      "ementa": "Isenta do pagamento dos impostos predial e territorial urbano e de transmissão, no Distrito Federal, imóveis adquiridos por componentes da Força Expedicionária Brasileira."
+    },
+    {
+      "senadoId": "547637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-03-5761",
+      "titulo": "Lei nº 5.761 de 03/12/1971",
+      "data": "1971-12-03",
+      "numero": "5761",
+      "urn": "urn:lex:br:federal:lei:1971-12-03;5761",
+      "ementa": "Prorroga o prazo estabelecido no ítem I do artigo 14 do Decreto-lei   nº ;61, de 21 de novembro de 1966, que altera a legislação relativa ao   Imposto Único sobre lubrificantes e combustíveis líquidos e gasosos e dá outras   providências."
+    },
+    {
+      "senadoId": "547625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-02-5750",
+      "titulo": "Lei nº 5.750 de 02/12/1971",
+      "data": "1971-12-02",
+      "numero": "5750",
+      "urn": "urn:lex:br:federal:lei:1971-12-02;5750",
+      "ementa": "Autoriza o Poder Executivo a abrir crédito suplementar utilizando como   recurso o excesso de arrecadação previsto para o corrente exercício e dá outras   providências."
+    },
+    {
+      "senadoId": "547627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-02-5752",
+      "titulo": "Lei nº 5.752 de 02/12/1971",
+      "data": "1971-12-02",
+      "numero": "5752",
+      "urn": "urn:lex:br:federal:lei:1971-12-02;5752",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça Eleitoral, em favor do Tribunal Reginal Eleitoral, de Mato Grosso, o crédito especial de Cr$ 4.600,00 (quatro mil e seiscentos cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "547626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-02-5751",
+      "titulo": "Lei nº 5.751 de 02/12/1971",
+      "data": "1971-12-02",
+      "numero": "5751",
+      "urn": "urn:lex:br:federal:lei:1971-12-02;5751",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça Eleitoral, em favor do   Tribunal Regional Eleitoral do Piauí, o crédito especial de Cr$ 24.000,00 (vinte   e quatro mil cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "547618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5744",
+      "titulo": "Lei nº 5.744 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5744",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5744",
+      "ementa": "Retifica a Lei ;nº 5.641, de 3 de dezembro de 1970, que \"estima a   Receita e fixa a Despesa do Distrito Federal para o exercício financeiro de   1971\"."
+    },
+    {
+      "senadoId": "547619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5745",
+      "titulo": "Lei nº 5.745 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5745",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5745",
+      "ementa": "Denomina \"Porto Barão de Teffé\" o Porto de Antonina, no Estado do   Paraná."
+    },
+    {
+      "senadoId": "547620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5746",
+      "titulo": "Lei nº 5.746 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5746",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5746",
+      "ementa": "Autoriza doação de próprio nacional à Prefeitura Municipal de Juiz de Fora, no Estado de Minas Gerais, e dá outras providências."
+    },
+    {
+      "senadoId": "547623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5749",
+      "titulo": "Lei nº 5.749 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5749",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5749",
+      "ementa": "Altera o artigo 407 do Decreto-lei ;nº 1.004, de 21 de outubro de 1969 (Código Penal)."
+    },
+    {
+      "senadoId": "547622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5748",
+      "titulo": "Lei nº 5.748 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5748",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5748",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Fazenda, em favor da   Superintendência das Empresas Incorporadoras ao Patrimônio Nacional, o crédito   especial até o limite de Cr$ 13.100.000,00 (treze milhões e cem mil cruzeiros),   para o fim que especifica."
+    },
+    {
+      "senadoId": "547617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5743",
+      "titulo": "Lei nº 5.743 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5743",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5743",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário, em favor da   Justiça Federal de 1ª Instância, o crédito especial de Cr$ 500.000,00   (quinhentos mil cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "547616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5742",
+      "titulo": "Lei nº 5.742 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5742",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5742",
+      "ementa": "Dá nova redação a dispositivos da Lei nº ;2.180, de 5 de fevereiro de   1954, alterada pela Lei nº ; 5.056, de 29 de junho de 1966, que dispõe sobre   o Tribunal Marítimo."
+    },
+    {
+      "senadoId": "547621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5747",
+      "titulo": "Lei nº 5.747 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5747",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5747",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação e Cultura, em favor do Departamento de Assuntos Universitários, o crédito especial de Cr$ 74.489,00 (setenta e quatro mil, quatrocentos e oitenta e nove cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "547614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5741",
+      "titulo": "Lei nº 5.741 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5741",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5741",
+      "ementa": "Dispõe sobre a proteção do financiamento de bens imóveis vinculados ao Sistema Financeiro da Habitação."
+    },
+    {
+      "senadoId": "547613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-12-01-5740",
+      "titulo": "Lei nº 5.740 de 01/12/1971",
+      "data": "1971-12-01",
+      "numero": "5740",
+      "urn": "urn:lex:br:federal:lei:1971-12-01;5740",
+      "ementa": "Autoriza a Comissão Nacional de Energia Nuclear (CNEN) a constituir a sociedade por ações Companhia Brasileira de Tecnologia Nuclear - C.B.T.N., e dá outras providências."
+    },
+    {
+      "senadoId": "547612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-24-5739",
+      "titulo": "Lei nº 5.739 de 24/11/1971",
+      "data": "1971-11-24",
+      "numero": "5739",
+      "urn": "urn:lex:br:federal:lei:1971-11-24;5739",
+      "ementa": "Dispõe sobre cargos do Quadro da Secretaria do Supremo Tribunal   Federal."
+    },
+    {
+      "senadoId": "547611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-24-5738",
+      "titulo": "Lei nº 5.738 de 24/11/1971",
+      "data": "1971-11-24",
+      "numero": "5738",
+      "urn": "urn:lex:br:federal:lei:1971-11-24;5738",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos do Distrito Federal para o   triênio 1972/1974."
+    },
+    {
+      "senadoId": "547610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-22-5737",
+      "titulo": "Lei nº 5.737 de 22/11/1971",
+      "data": "1971-11-22",
+      "numero": "5737",
+      "urn": "urn:lex:br:federal:lei:1971-11-22;5737",
+      "ementa": "Dá nova redação ao § 1º do artigo 5º da Lei nº 4.923, de 23 de dezembro de   1965, que institui o cadastro permanente das admissões e dispensas de   empregados, estabelece medidas contra o desemprego e de assistência aos   desempregados e dá outras providências."
+    },
+    {
+      "senadoId": "547609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-22-5736",
+      "titulo": "Lei nº 5.736 de 22/11/1971",
+      "data": "1971-11-22",
+      "numero": "5736",
+      "urn": "urn:lex:br:federal:lei:1971-11-22;5736",
+      "ementa": "Autoriza a União a subscrever aumento de capital da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB, e dá outras prvidências."
+    },
+    {
+      "senadoId": "547608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-17-5735",
+      "titulo": "Lei nº 5.735 de 17/11/1971",
+      "data": "1971-11-17",
+      "numero": "5735",
+      "urn": "urn:lex:br:federal:lei:1971-11-17;5735",
+      "ementa": "Dá nova redação ao parágrafo único do art. 27 da Lei nº 2.800, de 18 de   junho de 1956, que cria os Conselhos Federal e Regionais de Química, dispõe   sobre o exercício da profissão de químico e dá outras   providências."
+    },
+    {
+      "senadoId": "547607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-16-5734",
+      "titulo": "Lei nº 5.734 de 16/11/1971",
+      "data": "1971-11-16",
+      "numero": "5734",
+      "urn": "urn:lex:br:federal:lei:1971-11-16;5734",
+      "ementa": "Reinclui, no Mistério da Saúde, o Instituto Nacional do Câncer, e dá   outras providências."
+    },
+    {
+      "senadoId": "547605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-16-5732",
+      "titulo": "Lei nº 5.732 de 16/11/1971",
+      "data": "1971-11-16",
+      "numero": "5732",
+      "urn": "urn:lex:br:federal:lei:1971-11-16;5732",
+      "ementa": "Dispõe sobre os dividendos da União na Companhia Vale do Rio Doce - CVRD, altera o Decreto-lei nº 1.038, de 21 de outubro de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "547606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-16-5733",
+      "titulo": "Lei nº 5.733 de 16/11/1971",
+      "data": "1971-11-16",
+      "numero": "5733",
+      "urn": "urn:lex:br:federal:lei:1971-11-16;5733",
+      "ementa": "Altera a redação dos artigos 2º e 3º do Decreto-lei nº 1.015, de 21 de   outubro de 1969, que dispõe sobre a responsabilidade da União no pagamento do   pessoal transferido para o Estado da Guanabara ou neste reincluído, e dá outas   providências."
+    },
+    {
+      "senadoId": "547604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-08-5731",
+      "titulo": "Lei nº 5.731 de 08/11/1971",
+      "data": "1971-11-08",
+      "numero": "5731",
+      "urn": "urn:lex:br:federal:lei:1971-11-08;5731",
+      "ementa": "Dá nova redação aos arts. 2º, 3º, 4º e 6º do Decreto-lei nº 863, de 12 de   setembro de 1969, que autoriza o Poder Executivo a instituir nos Ministérios da   Marinha, do Exército e da Aeronáutica um Programa Especial de Bolsas de Estudos   a Acadêmico de Medicina de Faculdade Oficial ou reconhecida."
+    },
+    {
+      "senadoId": "547602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-08-5729",
+      "titulo": "Lei nº 5.729 de 08/11/1971",
+      "data": "1971-11-08",
+      "numero": "5729",
+      "urn": "urn:lex:br:federal:lei:1971-11-08;5729",
+      "ementa": "Altera o parágrafo 2º do art. 141 da Lei nº 3.807, de 26 de agosto de   1960, que dispõe sobre a Lei Orgânica da Previdência Social."
+    },
+    {
+      "senadoId": "547603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-08-5730",
+      "titulo": "Lei nº 5.730 de 08/11/1971",
+      "data": "1971-11-08",
+      "numero": "5730",
+      "urn": "urn:lex:br:federal:lei:1971-11-08;5730",
+      "ementa": "Altera o Decreto-lei nº 1.040, de 21 de outubro de 1969, que dispõe sobre   os Conselhos Federal e Regionais de Contabilidade, regula a eleição de seus   membros e dá outras providências."
+    },
+    {
+      "senadoId": "547601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-05-5728",
+      "titulo": "Lei nº 5.728 de 05/11/1971",
+      "data": "1971-11-05",
+      "numero": "5728",
+      "urn": "urn:lex:br:federal:lei:1971-11-05;5728",
+      "ementa": "Dispõe sobre a formação de Engenheiros Militares para o Quadro de Oficiais Engenheiros do Corpo de Oficiais da Aeronáutica da Ativa e dá outras providências."
+    },
+    {
+      "senadoId": "547600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-11-04-5727",
+      "titulo": "Lei nº 5.727 de 04/11/1971",
+      "data": "1971-11-04",
+      "numero": "5727",
+      "urn": "urn:lex:br:federal:lei:1971-11-04;5727",
+      "ementa": "Dispõe sobre o Primeiro Plano Nacional de Desenvolvimento (PND), para o período de 1972 a 1974."
+    },
+    {
+      "senadoId": "547599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-29-5726",
+      "titulo": "Lei nº 5.726 de 29/10/1971",
+      "data": "1971-10-29",
+      "numero": "5726",
+      "urn": "urn:lex:br:federal:lei:1971-10-29;5726",
+      "ementa": "Dispõe sobre medidas preventivas e repressivas ao tráfico e uso de substâncias entorpecentes ou que determinem dependência física ou psíquica e dá outras providências."
+    },
+    {
+      "senadoId": "547598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-27-5725",
+      "titulo": "Lei nº 5.725 de 27/10/1971",
+      "data": "1971-10-27",
+      "numero": "5725",
+      "urn": "urn:lex:br:federal:lei:1971-10-27;5725",
+      "ementa": "Estabelece a permissão do desconto no salário do empregado de prestações relativas ao financiamento para aquisição de unidade habitacional, no Sistema Financeiro de Habitação."
+    },
+    {
+      "senadoId": "547596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5723",
+      "titulo": "Lei nº 5.723 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5723",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5723",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 70.000.000,00 (setenta milhões de cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "547592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5719",
+      "titulo": "Lei nº 5.719 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5719",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5719",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério das Relações Exteriores, o crédito especial de Cr$ 1.620.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "547590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5717",
+      "titulo": "Lei nº 5.717 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5717",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5717",
+      "ementa": "Autoriza a criação da Fundação Alexandre de Gusmão."
+    },
+    {
+      "senadoId": "547594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5721",
+      "titulo": "Lei nº 5.721 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5721",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5721",
+      "ementa": "Dispõe sobre normas relativas às licitações e alienações de bens do   Distrito Federal."
+    },
+    {
+      "senadoId": "547591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5718",
+      "titulo": "Lei nº 5.718 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5718",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5718",
+      "ementa": "Autoriza o Poder Executivo a abrir, à Justiça Eleitoral, o crédito   especial de Cr$ 1.900.200,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "547593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5720",
+      "titulo": "Lei nº 5.720 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5720",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5720",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério das Comunicações, o crédito especial de Cr$ 400.400,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "547595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5722",
+      "titulo": "Lei nº 5.722 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5722",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5722",
+      "ementa": "Autoriza o Poder Executivo a doar uma aeronave A-122 à Escuela Nacional de   Aeronáutica Civil, da República do Paraguai."
+    },
+    {
+      "senadoId": "547597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-26-5724",
+      "titulo": "Lei nº 5.724 de 26/10/1971",
+      "data": "1971-10-26",
+      "numero": "5724",
+      "urn": "urn:lex:br:federal:lei:1971-10-26;5724",
+      "ementa": "Atualiza o valor das multas previstas na Lei nº 3.820, de 11 de novembro   de 1960, que cria o Conselho Federal e os Conselhos Regionais de Farmácia e dá   outras providências."
+    },
+    {
+      "senadoId": "547589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-19-5716",
+      "titulo": "Lei nº 5.716 de 19/10/1971",
+      "data": "1971-10-19",
+      "numero": "5716",
+      "urn": "urn:lex:br:federal:lei:1971-10-19;5716",
+      "ementa": "Proclama Patrono da Força Aérea Brasileira o Marechal-do-Ar Alberto Santos   Dumont."
+    },
+    {
+      "senadoId": "547588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-18-5715",
+      "titulo": "Lei nº 5.715 de 18/10/1971",
+      "data": "1971-10-18",
+      "numero": "5715",
+      "urn": "urn:lex:br:federal:lei:1971-10-18;5715",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério do Exército, o crédito especial de Cr$ 7.550.000,00 para o fim que especifica."
+    },
+    {
+      "senadoId": "547587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-13-5714",
+      "titulo": "Lei nº 5.714 de 13/10/1971",
+      "data": "1971-10-13",
+      "numero": "5714",
+      "urn": "urn:lex:br:federal:lei:1971-10-13;5714",
+      "ementa": "Autoriza o Poder Executivo a renunciar direitos creditórios em favor do   Estado da Paraíba."
+    },
+    {
+      "senadoId": "547586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-11-5713",
+      "titulo": "Lei nº 5.713 de 11/10/1971",
+      "data": "1971-10-11",
+      "numero": "5713",
+      "urn": "urn:lex:br:federal:lei:1971-10-11;5713",
+      "ementa": "Cria cargos no Quadro da Secretaria do Tribunal de Contas da União, dispõe sobre a forma de provimento, e dá outras providências."
+    },
+    {
+      "senadoId": "547585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-08-5712",
+      "titulo": "Lei nº 5.712 de 08/10/1971",
+      "data": "1971-10-08",
+      "numero": "5712",
+      "urn": "urn:lex:br:federal:lei:1971-10-08;5712",
+      "ementa": "Estende a jurisdição das Juntas de Conciliação e Julgamento de São   Leopoldo, Lajeado, Monte Negro e Santa Rosa, no Estado do Rio Grande do Sul, e   das Juntas de Conciliação e Julgamento de Florianópolis, Chapecó, Concórdia,   Itajaí, Criciúma, Tubarão e Lages, no Estado de Santa Catarina, e dá outras   providências."
+    },
+    {
+      "senadoId": "547584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-08-5711",
+      "titulo": "Lei nº 5.711 de 08/10/1971",
+      "data": "1971-10-08",
+      "numero": "5711",
+      "urn": "urn:lex:br:federal:lei:1971-10-08;5711",
+      "ementa": "Reestrutura o Serviço de Assistência Religiosa nas Forças Armadas, considera em extinção os atuais Quadros de Efetivos de Capelães Militares e dá outras providências."
+    },
+    {
+      "senadoId": "547583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-07-5710",
+      "titulo": "Lei nº 5.710 de 07/10/1971",
+      "data": "1971-10-07",
+      "numero": "5710",
+      "urn": "urn:lex:br:federal:lei:1971-10-07;5710",
+      "ementa": "Dá nova redação ao artigo 25 da Lei nº 4595, de 31 de dezembro de 1964,   aos artigos 60 e 61 da Lei nº 4728, de 14 de julho de 1965, e ao artigo 69 do   Decreto-lei nº 32, de 18 de novembro de 1966, e dá outras   providências."
+    },
+    {
+      "senadoId": "547582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-07-5709",
+      "titulo": "Lei nº 5.709 de 07/10/1971",
+      "data": "1971-10-07",
+      "numero": "5709",
+      "urn": "urn:lex:br:federal:lei:1971-10-07;5709",
+      "ementa": "Regula a aquisição de imóvel rural por estrangeiro residente no País ou pessoa jurídica estrangeira autorizada a funcionar no Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "547581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-10-04-5708",
+      "titulo": "Lei nº 5.708 de 04/10/1971",
+      "data": "1971-10-04",
+      "numero": "5708",
+      "urn": "urn:lex:br:federal:lei:1971-10-04;5708",
+      "ementa": "Dispõe sobre a gratificação pela participação em órgãos de deliberação coletiva."
+    },
+    {
+      "senadoId": "547580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-27-5707",
+      "titulo": "Lei nº 5.707 de 27/09/1971",
+      "data": "1971-09-27",
+      "numero": "5707",
+      "urn": "urn:lex:br:federal:lei:1971-09-27;5707",
+      "ementa": "Dá nova redação ao caput    do art. 1º e ao art. 3º da Lei nº 5591, de 16 de julho de   1970, e dá outras providências."
+    },
+    {
+      "senadoId": "547578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-21-5705",
+      "titulo": "Lei nº 5.705 de 21/09/1971",
+      "data": "1971-09-21",
+      "numero": "5705",
+      "urn": "urn:lex:br:federal:lei:1971-09-21;5705",
+      "ementa": "Altera disposições da Lei nº 5107, de 13 de setembro de 1966, e dá outras   providências."
+    },
+    {
+      "senadoId": "547579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-21-5706",
+      "titulo": "Lei nº 5.706 de 21/09/1971",
+      "data": "1971-09-21",
+      "numero": "5706",
+      "urn": "urn:lex:br:federal:lei:1971-09-21;5706",
+      "ementa": "Altera o Quadro da Secretaria do Tribunal Superior Eleitoral e dá outras   providências."
+    },
+    {
+      "senadoId": "547577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-14-5704",
+      "titulo": "Lei nº 5.704 de 14/09/1971",
+      "data": "1971-09-14",
+      "numero": "5704",
+      "urn": "urn:lex:br:federal:lei:1971-09-14;5704",
+      "ementa": "Autoriza o Poder Executivo a desapropriar, em favor da Empresa Brasileira   de Telecomunicações - EMBRATEL -, o domínio direto de terrenos do Estado da   Guanabara."
+    },
+    {
+      "senadoId": "547575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-14-5702",
+      "titulo": "Lei nº 5.702 de 14/09/1971",
+      "data": "1971-09-14",
+      "numero": "5702",
+      "urn": "urn:lex:br:federal:lei:1971-09-14;5702",
+      "ementa": "Autoriza a incorporação da Faculdade de Ciências Econômicas, Contábeis e   Atuariais de Natal à Universidade Federal do Rio Grande do Norte e dá outras   providências."
+    },
+    {
+      "senadoId": "547576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-14-5703",
+      "titulo": "Lei nº 5.703 de 14/09/1971",
+      "data": "1971-09-14",
+      "numero": "5703",
+      "urn": "urn:lex:br:federal:lei:1971-09-14;5703",
+      "ementa": "Concede pensão especial a beneficiários legais de menbro integrante do   grupo de atração e pacificação dos índios Cintas Largas."
+    },
+    {
+      "senadoId": "547574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-09-5701",
+      "titulo": "Lei nº 5.701 de 09/09/1971",
+      "data": "1971-09-09",
+      "numero": "5701",
+      "urn": "urn:lex:br:federal:lei:1971-09-09;5701",
+      "ementa": "Dispõe sobre o Magistério do Exército."
+    },
+    {
+      "senadoId": "547572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-01-5699",
+      "titulo": "Lei nº 5.699 de 01/09/1971",
+      "data": "1971-09-01",
+      "numero": "5699",
+      "urn": "urn:lex:br:federal:lei:1971-09-01;5699",
+      "ementa": "Estende a Jurisdição da Junta de Conciliação e Julgamento de Bento   Gonçalves aos Municípios de Carlos Barbosa, Garibaldi, Guaporé, Nova Araçá, Nova   Bassano, Nova Prata, Paraí e Veranópolis, altera a jurisdição das Juntas de   Conciliação e Julgamneto de Novo Hamburgo e Santa Maria, no Estado do Rio grande   do Sul, e a da Junta de Conciliação e Julgamento de Americana, no Estado de São   Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "547573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-09-01-5700",
+      "titulo": "Lei nº 5.700 de 01/09/1971",
+      "data": "1971-09-01",
+      "numero": "5700",
+      "urn": "urn:lex:br:federal:lei:1971-09-01;5700",
+      "ementa": "Dispõe sobre a forma e a apresentação dos Símbolos Nacionais, e dá outras providências."
+    },
+    {
+      "senadoId": "547571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-31-5698",
+      "titulo": "Lei nº 5.698 de 31/08/1971",
+      "data": "1971-08-31",
+      "numero": "5698",
+      "urn": "urn:lex:br:federal:lei:1971-08-31;5698",
+      "ementa": "Dispõe sobre as prestações devidas a ex-combatente segurado da previdência   social e dá outras providências."
+    },
+    {
+      "senadoId": "547570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-27-5697",
+      "titulo": "Lei nº 5.697 de 27/08/1971",
+      "data": "1971-08-27",
+      "numero": "5697",
+      "urn": "urn:lex:br:federal:lei:1971-08-27;5697",
+      "ementa": "Dá nova redação aos artigos que menciona da Lei nº 5682, de 21 de julho de   1971 - Lei Orgânica dos Partidos Poíticos."
+    },
+    {
+      "senadoId": "547569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-24-5696",
+      "titulo": "Lei nº 5.696 de 24/08/1971",
+      "data": "1971-08-24",
+      "numero": "5696",
+      "urn": "urn:lex:br:federal:lei:1971-08-24;5696",
+      "ementa": "Dispõe sobre o registro profissional de jornalista e altera a redação do §   5º do art. 8º do Decreto-lei nº 972, de 17 de outubro de 1969."
+    },
+    {
+      "senadoId": "547567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-23-5694",
+      "titulo": "Lei nº 5.694 de 23/08/1971",
+      "data": "1971-08-23",
+      "numero": "5694",
+      "urn": "urn:lex:br:federal:lei:1971-08-23;5694",
+      "ementa": "Dá nova redação ao item I do § 4º do art. 64 da Lei nº 3.807, de 26 de   agosto de 1960, que dispõe sobre a Lei Orgânica da Previdência   Social."
+    },
+    {
+      "senadoId": "547568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-23-5695",
+      "titulo": "Lei nº 5.695 de 23/08/1971",
+      "data": "1971-08-23",
+      "numero": "5695",
+      "urn": "urn:lex:br:federal:lei:1971-08-23;5695",
+      "ementa": "Modifica o Art. 1º do Decreto-lei nº 150, de 9 de fevereiro de 1967, que   dispensa de registro, no Serviço Nacional de Fiscalização da Medicina e   Farmácia, os diplomas expedidos por Escolas ou Faculdades de Medicina e de   Farmácia."
+    },
+    {
+      "senadoId": "547566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-16-5693",
+      "titulo": "Lei nº 5.693 de 16/08/1971",
+      "data": "1971-08-16",
+      "numero": "5693",
+      "urn": "urn:lex:br:federal:lei:1971-08-16;5693",
+      "ementa": "Altera o item XXIX do artigo 89 da Lei nº 5108, de 21 de setembro de 1966, que institui o Código Nacional de Trânsito."
+    },
+    {
+      "senadoId": "547565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-11-5692",
+      "titulo": "Lei nº 5.692 de 11/08/1971",
+      "data": "1971-08-11",
+      "numero": "5692",
+      "urn": "urn:lex:br:federal:lei:1971-08-11;5692",
+      "ementa": "Fixa Diretrizes e Bases para o ensino de 1° e 2º graus, e dá outras providências."
+    },
+    {
+      "senadoId": "547564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-10-5691",
+      "titulo": "Lei nº 5.691 de 10/08/1971",
+      "data": "1971-08-10",
+      "numero": "5691",
+      "urn": "urn:lex:br:federal:lei:1971-08-10;5691",
+      "ementa": "Autoriza o Governo do Distrito Federal a constituir a \"Central de Abastecimento de Brasília S/A - CENABRA\", e dá outras providências."
+    },
+    {
+      "senadoId": "547562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-05-5689",
+      "titulo": "Lei nº 5.689 de 05/08/1971",
+      "data": "1971-08-05",
+      "numero": "5689",
+      "urn": "urn:lex:br:federal:lei:1971-08-05;5689",
+      "ementa": "Dá nova redação à Tebela L do Decreto-lei nº 115, de 25 de janeiro de   1967, que aprova o Regimento de Custas da Justiça do Distrito Federal e dá   outras providências."
+    },
+    {
+      "senadoId": "547563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-05-5690",
+      "titulo": "Lei nº 5.690 de 05/08/1971",
+      "data": "1971-08-05",
+      "numero": "5690",
+      "urn": "urn:lex:br:federal:lei:1971-08-05;5690",
+      "ementa": "Dá a denominação de \"Coaracy Nunes\" à Usina Hidrelétrica da cachoeira do   Paredão, no Território Federal do Amapá."
+    },
+    {
+      "senadoId": "547559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-03-5686",
+      "titulo": "Lei nº 5.686 de 03/08/1971",
+      "data": "1971-08-03",
+      "numero": "5686",
+      "urn": "urn:lex:br:federal:lei:1971-08-03;5686",
+      "ementa": "Dá nova redação a dispositivos da Consolidação das Leis do Trabalho,   aprovada pelo Decreto-Lei nº 5.452, de 1 de maio de 1943, e dá outras   providências."
+    },
+    {
+      "senadoId": "547561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-03-5688",
+      "titulo": "Lei nº 5.688 de 03/08/1971",
+      "data": "1971-08-03",
+      "numero": "5688",
+      "urn": "urn:lex:br:federal:lei:1971-08-03;5688",
+      "ementa": "Concede aumento de vencimentos aos funcionários dos Serviços Auxiliares de Tribunal de Contas do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "547560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-08-03-5687",
+      "titulo": "Lei nº 5.687 de 03/08/1971",
+      "data": "1971-08-03",
+      "numero": "5687",
+      "urn": "urn:lex:br:federal:lei:1971-08-03;5687",
+      "ementa": "Concede aumento de vencimentos aos funcionários da Secretaria-Geral do   Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "547558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-23-5685",
+      "titulo": "Lei nº 5.685 de 23/07/1971",
+      "data": "1971-07-23",
+      "numero": "5685",
+      "urn": "urn:lex:br:federal:lei:1971-07-23;5685",
+      "ementa": "Concede aumento de vencimentos aos funcionários das Secretarias e Serviços   Auxiliares do Poder Judiciário da União e do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "547557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-23-5684",
+      "titulo": "Lei nº 5.684 de 23/07/1971",
+      "data": "1971-07-23",
+      "numero": "5684",
+      "urn": "urn:lex:br:federal:lei:1971-07-23;5684",
+      "ementa": "Dá nova redação aos arts. 4 e 6 da Lei nº 4.838, de 10 de novembro de   1965, que cria, no Ministério da Aeronáutica, o Quadro de Oficiais Aviadores da   Reserva de 2º Classe e dá outras providências."
+    },
+    {
+      "senadoId": "547555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-21-5682",
+      "titulo": "Lei nº 5.682 de 21/07/1971",
+      "data": "1971-07-21",
+      "numero": "5682",
+      "urn": "urn:lex:br:federal:lei:1971-07-21;5682",
+      "ementa": "Lei Orgânica dos Partidos Políticos."
+    },
+    {
+      "senadoId": "547556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-21-5683",
+      "titulo": "Lei nº 5.683 de 21/07/1971",
+      "data": "1971-07-21",
+      "numero": "5683",
+      "urn": "urn:lex:br:federal:lei:1971-07-21;5683",
+      "ementa": "Altera a redação do art. 369 da Consolidação das Leis do Trabalho,   aprovada pelo Decreto-Lei nº 5452, de 1 de maio de 1943."
+    },
+    {
+      "senadoId": "547554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-20-5681",
+      "titulo": "Lei nº 5.681 de 20/07/1971",
+      "data": "1971-07-20",
+      "numero": "5681",
+      "urn": "urn:lex:br:federal:lei:1971-07-20;5681",
+      "ementa": "Altera a redação de dispositivos da Lei nº 4.215, de 27 de abril de 1963   (Estatuto da Ordem dos Advogados do Brasil)."
+    },
+    {
+      "senadoId": "547553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-20-5680",
+      "titulo": "Lei nº 5.680 de 20/07/1971",
+      "data": "1971-07-20",
+      "numero": "5680",
+      "urn": "urn:lex:br:federal:lei:1971-07-20;5680",
+      "ementa": "Dispõe sobre os Prêmios Literários Nacionais."
+    },
+    {
+      "senadoId": "547551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-19-5678",
+      "titulo": "Lei nº 5.678 de 19/07/1971",
+      "data": "1971-07-19",
+      "numero": "5678",
+      "urn": "urn:lex:br:federal:lei:1971-07-19;5678",
+      "ementa": "Modifica o item III do artigo 178 da Lei nº 1.711, de 28 outubro de 1952   (Estatuto dos Funcionários Públicos Civis da União)."
+    },
+    {
+      "senadoId": "547552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-19-5679",
+      "titulo": "Lei nº 5.679 de 19/07/1971",
+      "data": "1971-07-19",
+      "numero": "5679",
+      "urn": "urn:lex:br:federal:lei:1971-07-19;5679",
+      "ementa": "Dispõe sobre alterações introduzidos no Quadro de pessoal do Departamento   de Polícia Federal."
+    },
+    {
+      "senadoId": "547550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-19-5677",
+      "titulo": "Lei nº 5.677 de 19/07/1971",
+      "data": "1971-07-19",
+      "numero": "5677",
+      "urn": "urn:lex:br:federal:lei:1971-07-19;5677",
+      "ementa": "Dispõe sobre o Quadro de Juízes e o Quadro Permanente da Justiça Federal de Primeira Instância, extingue as Seções Judiciárias dos Territórios do Amapá, de Roraima e de Rondônia, e dá outras providências."
+    },
+    {
+      "senadoId": "547548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-12-5675",
+      "titulo": "Lei nº 5.675 de 12/07/1971",
+      "data": "1971-07-12",
+      "numero": "5675",
+      "urn": "urn:lex:br:federal:lei:1971-07-12;5675",
+      "ementa": "Dá nova redação ao art. 77 do Decreto nº 5.083, de 1 de dezembro de 1926,   que institui o Código de Menores."
+    },
+    {
+      "senadoId": "547549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-12-5676",
+      "titulo": "Lei nº 5.676 de 12/07/1971",
+      "data": "1971-07-12",
+      "numero": "5676",
+      "urn": "urn:lex:br:federal:lei:1971-07-12;5676",
+      "ementa": "Concede aumento de vencimentos aos funcionários da Secretaria do Senado Federal e dá outras providências."
+    },
+    {
+      "senadoId": "547547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-12-5674",
+      "titulo": "Lei nº 5.674 de 12/07/1971",
+      "data": "1971-07-12",
+      "numero": "5674",
+      "urn": "urn:lex:br:federal:lei:1971-07-12;5674",
+      "ementa": "Concede aumento de vencimentos aos Funcionários da Secretaria da Câmara dos Deputados, e dá outras providências."
+    },
+    {
+      "senadoId": "547546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-06-5673",
+      "titulo": "Lei nº 5.673 de 06/07/1971",
+      "data": "1971-07-06",
+      "numero": "5673",
+      "urn": "urn:lex:br:federal:lei:1971-07-06;5673",
+      "ementa": "Acrescenta itens ao artigo 379 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei n. 5452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "547544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-02-5671",
+      "titulo": "Lei nº 5.671 de 02/07/1971",
+      "data": "1971-07-02",
+      "numero": "5671",
+      "urn": "urn:lex:br:federal:lei:1971-07-02;5671",
+      "ementa": "Concede pensão especial ao Cientista e Pesquisador Ceslau Maria   Biezanko."
+    },
+    {
+      "senadoId": "547543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-02-5670",
+      "titulo": "Lei nº 5.670 de 02/07/1971",
+      "data": "1971-07-02",
+      "numero": "5670",
+      "urn": "urn:lex:br:federal:lei:1971-07-02;5670",
+      "ementa": "Dispõe sobre o cálculo da correção monetária."
+    },
+    {
+      "senadoId": "547545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-02-5672",
+      "titulo": "Lei nº 5.672 de 02/07/1971",
+      "data": "1971-07-02",
+      "numero": "5672",
+      "urn": "urn:lex:br:federal:lei:1971-07-02;5672",
+      "ementa": "Modifica o parágrafo 2. do art. 10 da Lei nº. 4947, de 6 de abril de 1966 (Normas de Direito Agrário), e o parágrafo 2º do art. 11 do Decreto-Lei nº 57, de 18 de novembro de 1966, que dispõe sobre o lançamento e cobrança do imposto sobre a propriedade territorial, e dá outras providências."
+    },
+    {
+      "senadoId": "547542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-07-01-5669",
+      "titulo": "Lei nº 5.669 de 01/07/1971",
+      "data": "1971-07-01",
+      "numero": "5669",
+      "urn": "urn:lex:br:federal:lei:1971-07-01;5669",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça   Eleitoral, em favor do Tribunal Regional Eleitoral do Rio Grande do Sul, o   crédito especial de Cr$ 94.800,00 (Noventa e quatro mil e oitocentos cruzeiros)   para o fim que especifica."
+    },
+    {
+      "senadoId": "547541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-23-5668",
+      "titulo": "Lei nº 5.668 de 23/06/1971",
+      "data": "1971-06-23",
+      "numero": "5668",
+      "urn": "urn:lex:br:federal:lei:1971-06-23;5668",
+      "ementa": "Dispõe sobre a filiação dos empregados das Bolsas de Valores ao sistema   orgânico da Previdência Social e dá outras providências."
+    },
+    {
+      "senadoId": "547536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-21-5663",
+      "titulo": "Lei nº 5.663 de 21/06/1971",
+      "data": "1971-06-21",
+      "numero": "5663",
+      "urn": "urn:lex:br:federal:lei:1971-06-21;5663",
+      "ementa": "Fixa os vencimentos dos membros do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-21-5665",
+      "titulo": "Lei nº 5.665 de 21/06/1971",
+      "data": "1971-06-21",
+      "numero": "5665",
+      "urn": "urn:lex:br:federal:lei:1971-06-21;5665",
+      "ementa": "Altera o artigo 41 da Lei nº 2.004, de 3 de outubro de 1953, que dispõe   sobre a política nacional do petróleo e define as atribuições do Conselho   Nacional do Petróleo, institui a sociedade por ações Petróleo Brasileiro   Sociedade Anônima, e dá outras providências."
+    },
+    {
+      "senadoId": "547537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-21-5664",
+      "titulo": "Lei nº 5.664 de 21/06/1971",
+      "data": "1971-06-21",
+      "numero": "5664",
+      "urn": "urn:lex:br:federal:lei:1971-06-21;5664",
+      "ementa": "Acrescenta parágrafo único ao artigo 1º do Decreto-Lei nº 705, de 25 de   julho de 1969, que altera a redação do artigo 22 da Lei nº ;4.024, de 20 de dezembro   de 1961, que fixa as Diretrizes e Bases da Educação Nacional."
+    },
+    {
+      "senadoId": "547540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-21-5667",
+      "titulo": "Lei nº 5.667 de 21/06/1971",
+      "data": "1971-06-21",
+      "numero": "5667",
+      "urn": "urn:lex:br:federal:lei:1971-06-21;5667",
+      "ementa": "Concede pensão especial ao Compositor Mozart Camargo   Guarnieri."
+    },
+    {
+      "senadoId": "547535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-21-5662",
+      "titulo": "Lei nº 5.662 de 21/06/1971",
+      "data": "1971-06-21",
+      "numero": "5662",
+      "urn": "urn:lex:br:federal:lei:1971-06-21;5662",
+      "ementa": "Enquadra o Banco Nacional do Desenvolvimento Econômico (BNDE) na categoria de empresa pública, e dá outras providências."
+    },
+    {
+      "senadoId": "547539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-21-5666",
+      "titulo": "Lei nº 5.666 de 21/06/1971",
+      "data": "1971-06-21",
+      "numero": "5666",
+      "urn": "urn:lex:br:federal:lei:1971-06-21;5666",
+      "ementa": "Concede pensão especial vitalícia à pianista Aurora Bruzon   Majdalany."
+    },
+    {
+      "senadoId": "547534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-16-5661",
+      "titulo": "Lei nº 5.661 de 16/06/1971",
+      "data": "1971-06-16",
+      "numero": "5661",
+      "urn": "urn:lex:br:federal:lei:1971-06-16;5661",
+      "ementa": "Cria a 3ª Auditoria da 2ª Circunscrição Judiciária Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "547533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-14-5660",
+      "titulo": "Lei nº 5.660 de 14/06/1971",
+      "data": "1971-06-14",
+      "numero": "5660",
+      "urn": "urn:lex:br:federal:lei:1971-06-14;5660",
+      "ementa": "Fixa os vencimentos de Magistrados, dos membros do Tribunal de Contas da União, e dá outras providências."
+    },
+    {
+      "senadoId": "547532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-08-5659",
+      "titulo": "Lei nº 5.659 de 08/06/1971",
+      "data": "1971-06-08",
+      "numero": "5659",
+      "urn": "urn:lex:br:federal:lei:1971-06-08;5659",
+      "ementa": "Acrescenta parágrafo ao artigo 8º do Decreto-Lei nº 201, de 27 de   fevereiro de 1967, que dispõe sobre a responsabilidade dos Prefeitos e   Vereadores, e dá outras providências."
+    },
+    {
+      "senadoId": "547531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-07-5658",
+      "titulo": "Lei nº 5.658 de 07/06/1971",
+      "data": "1971-06-07",
+      "numero": "5658",
+      "urn": "urn:lex:br:federal:lei:1971-06-07;5658",
+      "ementa": "Dispõe sobre a venda de bens imóveis, pelos Ministérios da Aeronáutica e   da Marinha, sobre a aplicação do produto da operação, e dá outras   providências."
+    },
+    {
+      "senadoId": "547530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-06-04-5657",
+      "titulo": "Lei nº 5.657 de 04/06/1971",
+      "data": "1971-06-04",
+      "numero": "5657",
+      "urn": "urn:lex:br:federal:lei:1971-06-04;5657",
+      "ementa": "Altera a redação do parágrafo 1º do art. 662 da Consolidação das Leis do   Trabalho."
+    },
+    {
+      "senadoId": "547529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-05-27-5656",
+      "titulo": "Lei nº 5.656 de 27/05/1971",
+      "data": "1971-05-27",
+      "numero": "5656",
+      "urn": "urn:lex:br:federal:lei:1971-05-27;5656",
+      "ementa": "Concede pensão especial a Mercedes Biancheri Locatelli, viúva do   ex-Professor Aldo Doniele Locatelli."
+    },
+    {
+      "senadoId": "547528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-05-20-5655",
+      "titulo": "Lei nº 5.655 de 20/05/1971",
+      "data": "1971-05-20",
+      "numero": "5655",
+      "urn": "urn:lex:br:federal:lei:1971-05-20;5655",
+      "ementa": "Dispõe sobre a remuneração legal do investimento dos concessionários de serviços públicos de energia elétrica, e dá outras providências."
+    },
+    {
+      "senadoId": "547527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-05-14-5654",
+      "titulo": "Lei nº 5.654 de 14/05/1971",
+      "data": "1971-05-14",
+      "numero": "5654",
+      "urn": "urn:lex:br:federal:lei:1971-05-14;5654",
+      "ementa": "Dispõe sobre a produção açucareira do País e dá outras providências."
+    },
+    {
+      "senadoId": "547526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1971-04-27-5653",
+      "titulo": "Lei nº 5.653 de 27/04/1971",
+      "data": "1971-04-27",
+      "numero": "5653",
+      "urn": "urn:lex:br:federal:lei:1971-04-27;5653",
+      "ementa": "Altera o art. 19 do Decreto-Lei nº 3.200, de 19 de abril de 1941, alterado   pela Lei n. 2514, de 27 de junho de 1955, que dispõe sobre bem de   família."
+    }
+  ],
+  "pendencias": []
+}

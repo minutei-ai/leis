@@ -1,0 +1,3019 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1952",
+  "tipo": "LEI",
+  "ano": 1952,
+  "coletado_em": "2026-10-20T23:02:58.918Z",
+  "normas": [
+    {
+      "senadoId": "543547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1798",
+      "titulo": "Lei nº 1.798 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1798",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1798",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 100.000,00, à Verba 3 do anexo 21, da Lei n° 1.487, de 6 de dezembro de 1951."
+    },
+    {
+      "senadoId": "543544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1795",
+      "titulo": "Lei nº 1.795 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1795",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1795",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 135.200,00, em reforço de verbas do Anexo 19 do Orçamento Geral da União (Lei nº 1.487, de 6 de dezembro de 1951)."
+    },
+    {
+      "senadoId": "543549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1800",
+      "titulo": "Lei nº 1.800 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1800",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1800",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o crédito especial de Cr$ 11.000.000,00, para atender a despesas com as obras de restauração da pista principal do aeroporto internacional do Galeão."
+    },
+    {
+      "senadoId": "543545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1796",
+      "titulo": "Lei nº 1.796 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1796",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1796",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito suplementar de Cr$ 100.800,00 à verba 1 do Anexo n° 17, da Lei n° 1.487, de 6 de dezembro de 1951."
+    },
+    {
+      "senadoId": "543546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1797",
+      "titulo": "Lei nº 1.797 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1797",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1797",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 2.600.000,00, à dotação atribuída à Verba 3 do Anexo n° 21, da Lei n° 1.487, de 6 de dezembro de 1951."
+    },
+    {
+      "senadoId": "543543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1794",
+      "titulo": "Lei nº 1.794 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1794",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1794",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 22.000,00 em reforço à Verba 3 do Anexo n° 19, da Lei n° 1.487, de 6 de dezembro de 1951."
+    },
+    {
+      "senadoId": "543548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-31-1799",
+      "titulo": "Lei nº 1.799 de 31/12/1952",
+      "data": "1952-12-31",
+      "numero": "1799",
+      "urn": "urn:lex:br:federal:lei:1952-12-31;1799",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário, o crédito especial de Cr$ 400.000,00 para pagamento de despesas de material com a reinstalação do Tribunal Regional Eleitoral do Estado do Maranhão."
+    },
+    {
+      "senadoId": "543538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1789",
+      "titulo": "Lei nº 1.789 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1789",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1789",
+      "ementa": "Concede a pensão especial de Cr$ 2.000,00 mensais a Laura Lins Arcoverde, viúva do engenheiro Leonardo de Siqueira Barbosa Arcoverde."
+    },
+    {
+      "senadoId": "543541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1792",
+      "titulo": "Lei nº 1.792 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1792",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1792",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 2.325.996,00, para pagamento de gratificação de paraquedismo ao pessoal formado pelo antigo Núcleo de Formação de Paraquedistas do Exército, no exercício de 1949."
+    },
+    {
+      "senadoId": "543540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1791",
+      "titulo": "Lei nº 1.791 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1791",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1791",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 300.000,00, como auxílio à Associação Rural de Cruz Alta, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1788",
+      "titulo": "Lei nº 1.788 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1788",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1788",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 6.200.000,00 à dotação atribuída à Verba 1 do Anexo 21 da Lei nº 1.487, de 6 de dezembro de 1951."
+    },
+    {
+      "senadoId": "543536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1787",
+      "titulo": "Lei nº 1.787 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1787",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1787",
+      "ementa": "Amplia o programa de Primeira Urgência, constante nos arts. 21 e 22 da Lei nº 302 de 13 de julho de 1948."
+    },
+    {
+      "senadoId": "543542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1793",
+      "titulo": "Lei nº 1.793 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1793",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1793",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 571.462,70, destinado ao pagamento da diferença dos vencimentos atrasados aos funcionários abrangidos pela Lei n° 1.329, de 21 de janeiro de 1951."
+    },
+    {
+      "senadoId": "543535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1786",
+      "titulo": "Lei nº 1.786 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1786",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1786",
+      "ementa": "Inclui o Instituto Eletrotécnico de Itajubá dentre os estabelecimentos subvencionados pelo Governo Federal."
+    },
+    {
+      "senadoId": "543539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-30-1790",
+      "titulo": "Lei nº 1.790 de 30/12/1952",
+      "data": "1952-12-30",
+      "numero": "1790",
+      "urn": "urn:lex:br:federal:lei:1952-12-30;1790",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Minstério da Agricultura, o crédito especial de Cr$ 30.000,00, destinado ao amparo da triticultura nacional."
+    },
+    {
+      "senadoId": "543532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-e",
+      "titulo": "Lei nº 1.785-E de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-e",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-e",
+      "ementa": "Modifica dispositivos do Decreto-Lei n° 4.014, de 13 janeiro de 1942, alterado pelo Decreto-Lei n° 5.989, de 11 de novembro de 1943."
+    },
+    {
+      "senadoId": "543531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-d",
+      "titulo": "Lei nº 1.785-D de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-d",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-d",
+      "ementa": "Dispõe sôbre a rescisão do contrato de arrendamento da Rede Mineira de Viação, celebrado entre a União e o estado de Minas Gerais."
+    },
+    {
+      "senadoId": "543529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-b",
+      "titulo": "Lei nº 1.785-B de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-b",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-b",
+      "ementa": "Concede a pensão especial de Cr$ 2.000,00 mensais a Joaquim Tavares Vianna, ex-professor da Escola de Marinha Mercante de Belém do Pará."
+    },
+    {
+      "senadoId": "543533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-f",
+      "titulo": "Lei nº 1.785-F de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-f",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-f",
+      "ementa": "Autoriza o Poder Executivo a mandar proceder, no Ceará, aos estudos, projeto e contrução de barragens submersas nos rios Salgado e Jaguaribe e dá outras providências."
+    },
+    {
+      "senadoId": "543528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-a",
+      "titulo": "Lei nº 1.785-A de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-a",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-a",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 2.000.000,00, como auxílio à Associação Museu de Arte de São Paulo, Estado de São Paulo."
+    },
+    {
+      "senadoId": "543530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-c",
+      "titulo": "Lei nº 1.785-C de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-c",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-c",
+      "ementa": "Abre ao Poder Judiciário - Justiça Eleitoral, Tribunal Regional do Paraná, o crédito suplementar de Cr$ 49.960,00 em reforço de dotação do Anexo n° 26 do Orçamento de 1952 (Lei n° 1.487, de 6 de dezembro de 1951)."
+    },
+    {
+      "senadoId": "543534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-29-1785-g",
+      "titulo": "Lei nº 1.785-G de 29/12/1952",
+      "data": "1952-12-29",
+      "numero": "1785-g",
+      "urn": "urn:lex:br:federal:lei:1952-12-29;1785-g",
+      "ementa": "Denomina \"Francisco de Assis\" o aeroporto de Juiz de Fora."
+    },
+    {
+      "senadoId": "543527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-27-1785",
+      "titulo": "Lei nº 1.785 de 27/12/1952",
+      "data": "1952-12-27",
+      "numero": "1785",
+      "urn": "urn:lex:br:federal:lei:1952-12-27;1785",
+      "ementa": "Exclui os minicípios de Niterói e Angra dos Reis, no estado do Rio de Janeiro, do art. 1º da Lei nº 121, de 22 de outubro de 1947."
+    },
+    {
+      "senadoId": "543525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-27-1784",
+      "titulo": "Lei nº 1.784 de 27/12/1952",
+      "data": "1952-12-27",
+      "numero": "1784",
+      "urn": "urn:lex:br:federal:lei:1952-12-27;1784",
+      "ementa": "Concede o auxílio especial de Cr$ 6.000.000,00, à Academia Nacional de Medicina para construção do seu edifício sede, e dá outras providências."
+    },
+    {
+      "senadoId": "543524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-26-1783-a",
+      "titulo": "Lei nº 1.783-A de 26/12/1952",
+      "data": "1952-12-26",
+      "numero": "1783-a",
+      "urn": "urn:lex:br:federal:lei:1952-12-26;1783-a",
+      "ementa": "Autoriza o Poder Executivo a abrir concorrência pública para os estudos e projetos de concessão de construção e exploração de um túnel submarino entre as cidades do Rio de Janeiro e Niterói."
+    },
+    {
+      "senadoId": "543522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-24-1782",
+      "titulo": "Lei nº 1.782 de 24/12/1952",
+      "data": "1952-12-24",
+      "numero": "1782",
+      "urn": "urn:lex:br:federal:lei:1952-12-24;1782",
+      "ementa": "Dispõe sobre promoção ao posto de 2°s. Tenentes dos Subtenentes, Suboficiais e Sargentos do Exército e da Aeronáutica na Itália, como integrantes da Força Expedicionária Brasileira, e possuiam até o término da guerra o Curso de Comandante de Pelotão, Seção ou equivalente, ou Curso de Especialista da Aeronáutica."
+    },
+    {
+      "senadoId": "543523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-24-1783",
+      "titulo": "Lei nº 1.783 de 24/12/1952",
+      "data": "1952-12-24",
+      "numero": "1783",
+      "urn": "urn:lex:br:federal:lei:1952-12-24;1783",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 146.974,90, para pagamento de gratificação a funcionários daquele Ministério, nos exercícios de 1950, 1951 e 1952."
+    },
+    {
+      "senadoId": "543521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-23-1781",
+      "titulo": "Lei nº 1.781 de 23/12/1952",
+      "data": "1952-12-23",
+      "numero": "1781",
+      "urn": "urn:lex:br:federal:lei:1952-12-23;1781",
+      "ementa": "Abre ao Congresso Nacional - Câmara dos Deputados - o crédito especial de Cr$ 101.780,60, para pagamento aos herdeiros do ex-funcionário desta Casa do Congresso, Dr. Leônidas Resende, e dá outras providências."
+    },
+    {
+      "senadoId": "543520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-23-1780",
+      "titulo": "Lei nº 1.780 de 23/12/1952",
+      "data": "1952-12-23",
+      "numero": "1780",
+      "urn": "urn:lex:br:federal:lei:1952-12-23;1780",
+      "ementa": "Reajusta os proventos dos inativos do Departamento dos Correios e Telégrafos."
+    },
+    {
+      "senadoId": "543519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-22-1779",
+      "titulo": "Lei nº 1.779 de 22/12/1952",
+      "data": "1952-12-22",
+      "numero": "1779",
+      "urn": "urn:lex:br:federal:lei:1952-12-22;1779",
+      "ementa": "Cria o Instituto Brasileiro do Café, e dá outras providências."
+    },
+    {
+      "senadoId": "543518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-20-1778-c",
+      "titulo": "Lei nº 1.778-C de 20/12/1952",
+      "data": "1952-12-20",
+      "numero": "1778-c",
+      "urn": "urn:lex:br:federal:lei:1952-12-20;1778-c",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - os créditos suplementar de Cr$ 117.320,00 em reforço da dotação do Anexo 26 do Orçamento de 1952, e o especial de Cr$ 429.427,30 para pagamento de despesas correspondentes ao exercício de 1951."
+    },
+    {
+      "senadoId": "543517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-20-1778-b",
+      "titulo": "Lei nº 1.778-B de 20/12/1952",
+      "data": "1952-12-20",
+      "numero": "1778-b",
+      "urn": "urn:lex:br:federal:lei:1952-12-20;1778-b",
+      "ementa": "Aumenta para Cr$ 1.000.000,00 o valor da subvenção concedida pela Lei nº 720, de 28 de maio de 1949, ao Instituto Histórico e Geográfico Brasileiro."
+    },
+    {
+      "senadoId": "543515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1778",
+      "titulo": "Lei nº 1.778 de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1778",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1778",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 60.130.000,00, para despesas com o aparelhamento da Casa da Moeda."
+    },
+    {
+      "senadoId": "543516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1778-a",
+      "titulo": "Lei nº 1.778-A de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1778-a",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1778-a",
+      "ementa": "Concede auxílio de Cr$ 300.000,00 à Federação Nacional dos Odontologistas, para ocorrer às despesas com o 1º Congresso Odontológico realizado, em julho de 1952, na cidade de Salvador, Estado da Bahia."
+    },
+    {
+      "senadoId": "543512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1775",
+      "titulo": "Lei nº 1.775 de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1775",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1775",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 1.942.911,50 , para atender ao pagamento da contribuição do Brasil, em favor do Comité Provisório Intergovernamental, para os movimentos migratórios da Europa."
+    },
+    {
+      "senadoId": "543514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1777",
+      "titulo": "Lei nº 1.777 de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1777",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1777",
+      "ementa": "Inclui a Faculdade de Filosofia Ciências e Letras, do Instituto \"Sedes Sapientiae\", de São Paulo, na categoria de estabelecimentos subvencionados pelo Governo Federal."
+    },
+    {
+      "senadoId": "543511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1774",
+      "titulo": "Lei nº 1.774 de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1774",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1774",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 124.209,10 , para pagamento das despesas efetuadas pelo Governo da Suécia com a proteção dos interesses brasileiros na Rumânia."
+    },
+    {
+      "senadoId": "543510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1773",
+      "titulo": "Lei nº 1.773 de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1773",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1773",
+      "ementa": "Modifica o art. 1º e a letra \"b \" do art. 3º da Lei nº 1.024, de 28 de dezembro de 1949."
+    },
+    {
+      "senadoId": "543513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-19-1776",
+      "titulo": "Lei nº 1.776 de 19/12/1952",
+      "data": "1952-12-19",
+      "numero": "1776",
+      "urn": "urn:lex:br:federal:lei:1952-12-19;1776",
+      "ementa": "Concede a pensão especial de Cr$ 1.507,80 mensais a Alda Mourão Mota Reis, Ana Maria Mourão Mota Reis e Rogério Mourão Mota Reis, viúva e filhos do Dr. Jorge Lessa Mota Reis."
+    },
+    {
+      "senadoId": "543506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1770",
+      "titulo": "Lei nº 1.770 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1770",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1770",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Marinha o crédito suplementar de Cr$ 300.000.000,00 em reforço de verba do Anexo relativo àquele Ministério, do Orçamento Geral da União para 1952 ( Lei nº 1.487, 6 de dezembro de 1951 )."
+    },
+    {
+      "senadoId": "543507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1771",
+      "titulo": "Lei nº 1.771 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1771",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1771",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 20.000.000,00 como contribuição da União às comemorações do primeiro centenário da emancipação política do Estado do Paraná."
+    },
+    {
+      "senadoId": "543504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1768",
+      "titulo": "Lei nº 1.768 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1768",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1768",
+      "ementa": "Altera o art. 141, e o item II, do art. 134, do Código Civil Brasileiro."
+    },
+    {
+      "senadoId": "543499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1765",
+      "titulo": "Lei nº 1.765 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1765",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1765",
+      "ementa": "Concede abono de emergência aos servidores civis do Poder Executivo e dos Territórios e dá outras providências."
+    },
+    {
+      "senadoId": "543505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1769",
+      "titulo": "Lei nº 1.769 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1769",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1769",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 26.750,00 , destinado ao pagamento de salário-família aos servidores da Comissão do Vale do São Francisco."
+    },
+    {
+      "senadoId": "543508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1772",
+      "titulo": "Lei nº 1.772 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1772",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1772",
+      "ementa": "Prorroga o prazo estipulado nos parágrafos 2º e 3º, letra \"h \" do art. 1º da Lei nº 1.474, de 26 de novembro de 1951."
+    },
+    {
+      "senadoId": "543503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1767",
+      "titulo": "Lei nº 1.767 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1767",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1767",
+      "ementa": "Exclui da classificação constante do artigo 1º, da Lei nº 121, de 23 de outubro de 1947, o município de Corumbá, no Estado de Mato Grosso."
+    },
+    {
+      "senadoId": "543501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1766",
+      "titulo": "Lei nº 1.766 de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1766",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1766",
+      "ementa": "Altera, sem aumento de despesas, o Anexo nº 25, do Orçamento Geral da República para o exercício de 1952."
+    },
+    {
+      "senadoId": "543509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-18-1772-a",
+      "titulo": "Lei nº 1.772-A de 18/12/1952",
+      "data": "1952-12-18",
+      "numero": "1772-a",
+      "urn": "urn:lex:br:federal:lei:1952-12-18;1772-a",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Superior Tribunal Militar - o crédito suplementar de Cr$ 24.700,00, em reforço de dotações do Orçamento de 1952, e o especial de Cr$ 317.448,60 para pagamento de despesas relativas aos exercícios de 1949, 1950 e 1951."
+    },
+    {
+      "senadoId": "543495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-17-1763",
+      "titulo": "Lei nº 1.763 de 17/12/1952",
+      "data": "1952-12-17",
+      "numero": "1763",
+      "urn": "urn:lex:br:federal:lei:1952-12-17;1763",
+      "ementa": "Abre ao Congresso Nacional os créditos suplementares de Cr$ 252.000,00 e Cr$ 500.000,00 destinados, respectivamente ao reforço da Verba I, Consignação I, Subconsignação 03, item 02 e Verba 1, Consignação III, Subconsignação 11, item 01-01, da Lei n. 1487, de 6 de dezembro de 1951."
+    },
+    {
+      "senadoId": "543497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-17-1764",
+      "titulo": "Lei nº 1.764 de 17/12/1952",
+      "data": "1952-12-17",
+      "numero": "1764",
+      "urn": "urn:lex:br:federal:lei:1952-12-17;1764",
+      "ementa": "Cria, na Terceira Região da Justiça do Trabalho, uma Junta de Conciliação e Julgamento."
+    },
+    {
+      "senadoId": "543494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-16-1762-a",
+      "titulo": "Lei nº 1.762-A de 16/12/1952",
+      "data": "1952-12-16",
+      "numero": "1762-a",
+      "urn": "urn:lex:br:federal:lei:1952-12-16;1762-a",
+      "ementa": "Autoriza a designação de Assistentes Jurídicos do Ministério da Justiça e Negócios Interiores para servirem junto ao Ministério Público Federal."
+    },
+    {
+      "senadoId": "543492",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-15-1761",
+      "titulo": "Lei nº 1.761 de 15/12/1952",
+      "data": "1952-12-15",
+      "numero": "1761",
+      "urn": "urn:lex:br:federal:lei:1952-12-15;1761",
+      "ementa": "Autoriza o Instituto Nacional do Sal a promover a construção, adaptação e aparelhagem de armazéns para depósito de sal nos principais centros de consumo e dá outras providências."
+    },
+    {
+      "senadoId": "543493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-15-1762",
+      "titulo": "Lei nº 1.762 de 15/12/1952",
+      "data": "1952-12-15",
+      "numero": "1762",
+      "urn": "urn:lex:br:federal:lei:1952-12-15;1762",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 200.000,00 destinado a auxiliar as despesas com a Delegação da Cruz Vermelha Brasileira à 18ª Conferência da Cruz Vermelha Internacional."
+    },
+    {
+      "senadoId": "543491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-15-1760",
+      "titulo": "Lei nº 1.760 de 15/12/1952",
+      "data": "1952-12-15",
+      "numero": "1760",
+      "urn": "urn:lex:br:federal:lei:1952-12-15;1760",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 900.000,00 destinado à regularização de despesas com o serviço da Comissão Mista Brasil-Estados Unidos."
+    },
+    {
+      "senadoId": "543489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-12-1758",
+      "titulo": "Lei nº 1.758 de 12/12/1952",
+      "data": "1952-12-12",
+      "numero": "1758",
+      "urn": "urn:lex:br:federal:lei:1952-12-12;1758",
+      "ementa": "Retifica a Lei n° 1.487, de 6 de dezembro de 1951, que estima a Receita e Fixa a Despesa da União para o exercício de 1952, e dá outras providências."
+    },
+    {
+      "senadoId": "543490",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-12-1759",
+      "titulo": "Lei nº 1.759 de 12/12/1952",
+      "data": "1952-12-12",
+      "numero": "1759",
+      "urn": "urn:lex:br:federal:lei:1952-12-12;1759",
+      "ementa": "Dá nova redação à letra \"b \", do § 2º do art. 31 do Decreto-lei nº 1.190, de 4 de abril de 1939, modificado pelo Decreto-Lei nº 8.195, de 20 de novembro de 1945."
+    },
+    {
+      "senadoId": "543487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-10-1757",
+      "titulo": "Lei nº 1.757 de 10/12/1952",
+      "data": "1952-12-10",
+      "numero": "1757",
+      "urn": "urn:lex:br:federal:lei:1952-12-10;1757",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1953."
+    },
+    {
+      "senadoId": "543488",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-10-1757-a",
+      "titulo": "Lei nº 1.757-A de 10/12/1952",
+      "data": "1952-12-10",
+      "numero": "1757-a",
+      "urn": "urn:lex:br:federal:lei:1952-12-10;1757-a",
+      "ementa": "Modifica o Salário-Família."
+    },
+    {
+      "senadoId": "543485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-05-1755",
+      "titulo": "Lei nº 1.755 de 05/12/1952",
+      "data": "1952-12-05",
+      "numero": "1755",
+      "urn": "urn:lex:br:federal:lei:1952-12-05;1755",
+      "ementa": "Concede pensão especial à viúva e filhos menores do ex-investigador Luciano Maciel."
+    },
+    {
+      "senadoId": "543486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-05-1756",
+      "titulo": "Lei nº 1.756 de 05/12/1952",
+      "data": "1952-12-05",
+      "numero": "1756",
+      "urn": "urn:lex:br:federal:lei:1952-12-05;1756",
+      "ementa": "Estende ao pessoal da Marinha Mercante Nacional, no que couber, os direitos e vantagens da Lei nº 288, de 8 de junho de 1948."
+    },
+    {
+      "senadoId": "543482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-04-1752",
+      "titulo": "Lei nº 1.752 de 04/12/1952",
+      "data": "1952-12-04",
+      "numero": "1752",
+      "urn": "urn:lex:br:federal:lei:1952-12-04;1752",
+      "ementa": "Concede auxílio ao Capítulo Brasileiro do Colégio Internacional de Cirurgiões, em São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "543480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-04-1750",
+      "titulo": "Lei nº 1.750 de 04/12/1952",
+      "data": "1952-12-04",
+      "numero": "1750",
+      "urn": "urn:lex:br:federal:lei:1952-12-04;1750",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 20.000.000,00 , destinado à aquisição, para revenda, de inseticidas e distribuição gratuita de sementes selecionadas ao pequeno agricultor."
+    },
+    {
+      "senadoId": "543484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-04-1754",
+      "titulo": "Lei nº 1.754 de 04/12/1952",
+      "data": "1952-12-04",
+      "numero": "1754",
+      "urn": "urn:lex:br:federal:lei:1952-12-04;1754",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Justiça do Trabalho - os créditos especiais na importância de Cr$ 986.298,30, para atender às despesas correspodentes a dotações dos Orçamentos de 1950 e 1951."
+    },
+    {
+      "senadoId": "543483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-04-1753",
+      "titulo": "Lei nº 1.753 de 04/12/1952",
+      "data": "1952-12-04",
+      "numero": "1753",
+      "urn": "urn:lex:br:federal:lei:1952-12-04;1753",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 13.127.430,40, para pagamento à Universidade do Brasil, dos saldos verificados no Orçamento relativos aos exercícios de 1946 a 1949."
+    },
+    {
+      "senadoId": "543481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-12-04-1751",
+      "titulo": "Lei nº 1.751 de 04/12/1952",
+      "data": "1952-12-04",
+      "numero": "1751",
+      "urn": "urn:lex:br:federal:lei:1952-12-04;1751",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito de Cr$ 14.000.000,00 suplementar à Verba 2 - Material, do Anexo n° 19, do Orçamento da União de 1952 ( Lei nº 1.487, de 6-12-51 )."
+    },
+    {
+      "senadoId": "543479",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-28-1749",
+      "titulo": "Lei nº 1.749 de 28/11/1952",
+      "data": "1952-11-28",
+      "numero": "1749",
+      "urn": "urn:lex:br:federal:lei:1952-11-28;1749",
+      "ementa": "Dispõe sobre o imposto único dos lubrificantes e combustíveis líquidos ou gasosos de qualquer origem ou natureza."
+    },
+    {
+      "senadoId": "543478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-28-1748",
+      "titulo": "Lei nº 1.748 de 28/11/1952",
+      "data": "1952-11-28",
+      "numero": "1748",
+      "urn": "urn:lex:br:federal:lei:1952-11-28;1748",
+      "ementa": "Altera dispositivos da Consolidação das Leis do Imposto de Consumo."
+    },
+    {
+      "senadoId": "543477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-28-1747",
+      "titulo": "Lei nº 1.747 de 28/11/1952",
+      "data": "1952-11-28",
+      "numero": "1747",
+      "urn": "urn:lex:br:federal:lei:1952-11-28;1747",
+      "ementa": "Altera o Decreto nº 4.655, de 3 de setembro de 1942, que dispõe sobre o Imposto do Selo."
+    },
+    {
+      "senadoId": "543476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-26-1746-a",
+      "titulo": "Lei nº 1.746-A de 26/11/1952",
+      "data": "1952-11-26",
+      "numero": "1746-a",
+      "urn": "urn:lex:br:federal:lei:1952-11-26;1746-a",
+      "ementa": "Abre ao Congresso Nacional - Senado Federal - os créditos especiais de Cr$ 89.623,50 e Cr$ 1.691.848,90 e suplementar de Cr$ 2.347.059,30, para pagamento de despesas de pessoal e material da Secretaria daquela Casa."
+    },
+    {
+      "senadoId": "543475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-26-1746",
+      "titulo": "Lei nº 1.746 de 26/11/1952",
+      "data": "1952-11-26",
+      "numero": "1746",
+      "urn": "urn:lex:br:federal:lei:1952-11-26;1746",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 4.500,00, destinado a ocorrer ao excesso de despesas, verificado no exercício de 1951, com iluminação, força motriz e gás, na Alfândega de Sergipe e na Delegacia Fiscal do Maranhão."
+    },
+    {
+      "senadoId": "543472",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-26-1743",
+      "titulo": "Lei nº 1.743 de 26/11/1952",
+      "data": "1952-11-26",
+      "numero": "1743",
+      "urn": "urn:lex:br:federal:lei:1952-11-26;1743",
+      "ementa": "Exclui da classificação constante do art. 1º da Lei nº 121, de 22 de outubro de 1947, o município de Santos, no Estado de São Paulo, e o de Natal, no Estado do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "543473",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-26-1744",
+      "titulo": "Lei nº 1.744 de 26/11/1952",
+      "data": "1952-11-26",
+      "numero": "1744",
+      "urn": "urn:lex:br:federal:lei:1952-11-26;1744",
+      "ementa": "Dispõe sobre o provimento de cargos de carreira de Escrivão de Política do Quadro Permanente do Ministério da Justiça e Negócios Interiores."
+    },
+    {
+      "senadoId": "543474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-26-1745",
+      "titulo": "Lei nº 1.745 de 26/11/1952",
+      "data": "1952-11-26",
+      "numero": "1745",
+      "urn": "urn:lex:br:federal:lei:1952-11-26;1745",
+      "ementa": "Altera, sem aumento de despesa, o Anexo nº 21 - Ministério da Justiça e Negócios Interiores - para o exercício de 1952 ( Lei nº 1.487, de 6 de dezembro de 1951)."
+    },
+    {
+      "senadoId": "543471",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-22-1742",
+      "titulo": "Lei nº 1.742 de 22/11/1952",
+      "data": "1952-11-22",
+      "numero": "1742",
+      "urn": "urn:lex:br:federal:lei:1952-11-22;1742",
+      "ementa": "Estende os favores concedidos pelo art. 11, do item 20, do Decreto-lei nº 300, de 24 de fevereiro de 1938, à importação de material que especifica."
+    },
+    {
+      "senadoId": "543470",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-22-1741",
+      "titulo": "Lei nº 1.741 de 22/11/1952",
+      "data": "1952-11-22",
+      "numero": "1741",
+      "urn": "urn:lex:br:federal:lei:1952-11-22;1741",
+      "ementa": "Assegura ao ocupante de cargo de caráter permanente e de provimento em comissão, o direito de continuar a perceber o vencimento do mesmo cargo."
+    },
+    {
+      "senadoId": "543469",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-21-1740",
+      "titulo": "Lei nº 1.740 de 21/11/1952",
+      "data": "1952-11-21",
+      "numero": "1740",
+      "urn": "urn:lex:br:federal:lei:1952-11-21;1740",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 500.000,00 para instalação da 1ª Conferência Regional das Nações Unidas da América Latina."
+    },
+    {
+      "senadoId": "543468",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-21-1739",
+      "titulo": "Lei nº 1.739 de 21/11/1952",
+      "data": "1952-11-21",
+      "numero": "1739",
+      "urn": "urn:lex:br:federal:lei:1952-11-21;1739",
+      "ementa": "Concede a pensão especial de Cr$ 1.145,30 mensais à viuva do Engenheiro José Maia Filho."
+    },
+    {
+      "senadoId": "543466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-20-1737",
+      "titulo": "Lei nº 1.737 de 20/11/1952",
+      "data": "1952-11-20",
+      "numero": "1737",
+      "urn": "urn:lex:br:federal:lei:1952-11-20;1737",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 30.000.000,00, para auxiliar os festejos comemorativos do 4º centenário da fundação da cidade de São Paulo."
+    },
+    {
+      "senadoId": "543467",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-20-1738",
+      "titulo": "Lei nº 1.738 de 20/11/1952",
+      "data": "1952-11-20",
+      "numero": "1738",
+      "urn": "urn:lex:br:federal:lei:1952-11-20;1738",
+      "ementa": "Abre ao Congresso Nacional - Câmara dos Deputados - o crédito suplementar de Cr$ 3.235.000,00 em reforço de dotações do Orçamento de 1952."
+    },
+    {
+      "senadoId": "543465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-18-1736",
+      "titulo": "Lei nº 1.736 de 18/11/1952",
+      "data": "1952-11-18",
+      "numero": "1736",
+      "urn": "urn:lex:br:federal:lei:1952-11-18;1736",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 194.331,80, para regularização de despesas orçamentárias de dezembro de 1949, feitas pelas Delegacias Fiscais do Tesouro Nacional nos Estados do Maranhão e do Amazonas."
+    },
+    {
+      "senadoId": "543463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-18-1735",
+      "titulo": "Lei nº 1.735 de 18/11/1952",
+      "data": "1952-11-18",
+      "numero": "1735",
+      "urn": "urn:lex:br:federal:lei:1952-11-18;1735",
+      "ementa": "Acrescenta um parágrafo ao artigo 45, da Lei de Orgânica do Distrito Federal."
+    },
+    {
+      "senadoId": "543461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-17-1734-b",
+      "titulo": "Lei nº 1.734-B de 17/11/1952",
+      "data": "1952-11-17",
+      "numero": "1734-b",
+      "urn": "urn:lex:br:federal:lei:1952-11-17;1734-b",
+      "ementa": "Abre ao Congresso Nacional, Senado Federal e Câmara dos Deputados, os créditos especiais de Cr$ 460.000,00 - para cada uma dessas Casas do Poder Legislativo, a fim de atender às despesas das respectivas Delegações que foram a Londres, em julho de 1952, a convite do Parlamento da Grã-Bretanha."
+    },
+    {
+      "senadoId": "543460",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-17-1734-a",
+      "titulo": "Lei nº 1.734-A de 17/11/1952",
+      "data": "1952-11-17",
+      "numero": "1734-a",
+      "urn": "urn:lex:br:federal:lei:1952-11-17;1734-a",
+      "ementa": "Modifica os arts 142, 153 e 188 do Decreto-lei nº 8.527, de 31 de dezembro de 1945 - Código de Organização Judiciária do Distrito Federal - e autoriza o Poder Executivo a abrir, pelo Ministério da Justiça o crédito especial de 166.600,00."
+    },
+    {
+      "senadoId": "543459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-14-1734",
+      "titulo": "Lei nº 1.734 de 14/11/1952",
+      "data": "1952-11-14",
+      "numero": "1734",
+      "urn": "urn:lex:br:federal:lei:1952-11-14;1734",
+      "ementa": "Abre ao Congresso Nacional, Senado Federal e Câmara dos Deputados, os créditos especiais de Cr$ 560.000,00 para cada uma destas casas do Poder Legislativo, a fim de atender as despesas das respectivas delegações a Conferência da União Interparlamentar que se reuniu em Berna, Suiça."
+    },
+    {
+      "senadoId": "543458",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-14-1733",
+      "titulo": "Lei nº 1.733 de 14/11/1952",
+      "data": "1952-11-14",
+      "numero": "1733",
+      "urn": "urn:lex:br:federal:lei:1952-11-14;1733",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito suplementar de Cr$ 252.440.000,00, em reforço da Verba 3, Anexo 19 - Auxílios aos Municípios - do Orçamento de 1952."
+    },
+    {
+      "senadoId": "543457",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-14-1732",
+      "titulo": "Lei nº 1.732 de 14/11/1952",
+      "data": "1952-11-14",
+      "numero": "1732",
+      "urn": "urn:lex:br:federal:lei:1952-11-14;1732",
+      "ementa": "Revigora o artigo 1º da Lei número 1.116, de 30 de maio de 1950."
+    },
+    {
+      "senadoId": "543456",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-13-1731",
+      "titulo": "Lei nº 1.731 de 13/11/1952",
+      "data": "1952-11-13",
+      "numero": "1731",
+      "urn": "urn:lex:br:federal:lei:1952-11-13;1731",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Conselho Nacional do Petróleo os créditos suplementar de Cr$ 574.016.700,00 e especial de Cr$ 231.350.000,00, para atender dotações do Orçamento de 1952."
+    },
+    {
+      "senadoId": "543454",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-11-1729",
+      "titulo": "Lei nº 1.729 de 11/11/1952",
+      "data": "1952-11-11",
+      "numero": "1729",
+      "urn": "urn:lex:br:federal:lei:1952-11-11;1729",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 155.167,70, para atender ao pagamento de indenização à Companhia Ferro Carril do Jardim Botânico."
+    },
+    {
+      "senadoId": "543455",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-11-1730",
+      "titulo": "Lei nº 1.730 de 11/11/1952",
+      "data": "1952-11-11",
+      "numero": "1730",
+      "urn": "urn:lex:br:federal:lei:1952-11-11;1730",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Federal de Recursos - o crédito suplementar de Cr$ 100.000.000,00 para pagamento de sentenças judiciárias."
+    },
+    {
+      "senadoId": "543453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-10-1728",
+      "titulo": "Lei nº 1.728 de 10/11/1952",
+      "data": "1952-11-10",
+      "numero": "1728",
+      "urn": "urn:lex:br:federal:lei:1952-11-10;1728",
+      "ementa": "Dispõe sobre a forma de pagamento das dívidas dos criadores e recriadores de gado bovino, e dá outras providências."
+    },
+    {
+      "senadoId": "543449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-08-1725",
+      "titulo": "Lei nº 1.725 de 08/11/1952",
+      "data": "1952-11-08",
+      "numero": "1725",
+      "urn": "urn:lex:br:federal:lei:1952-11-08;1725",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 6.080,00, para atender às despesas com o pagamento de honorários, por exercícios findos, aos Professores Alcides Fonseca e Virgílio José Athayde Fernandes Pinheiro."
+    },
+    {
+      "senadoId": "543452",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-08-1727",
+      "titulo": "Lei nº 1.727 de 08/11/1952",
+      "data": "1952-11-08",
+      "numero": "1727",
+      "urn": "urn:lex:br:federal:lei:1952-11-08;1727",
+      "ementa": "Dispõe sobre o concurso de provas para o ingresso na magistratura vitalícia."
+    },
+    {
+      "senadoId": "543447",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-08-1723",
+      "titulo": "Lei nº 1.723 de 08/11/1952",
+      "data": "1952-11-08",
+      "numero": "1723",
+      "urn": "urn:lex:br:federal:lei:1952-11-08;1723",
+      "ementa": "Modifica o artigo 461, do Decreto-lei nº 5.452, de 1º de maio de 1943 (Consolidação das leis do Trabalho)."
+    },
+    {
+      "senadoId": "543451",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-08-1726",
+      "titulo": "Lei nº 1.726 de 08/11/1952",
+      "data": "1952-11-08",
+      "numero": "1726",
+      "urn": "urn:lex:br:federal:lei:1952-11-08;1726",
+      "ementa": "Concede pensão mensal de Cr$ 3.620,00 a Vera Vieira Garcia, viúva do agrônomo Murilo Geraldo Garcia, morto em virtude de agressão em serviço, e dá outras providências."
+    },
+    {
+      "senadoId": "543448",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-08-1724",
+      "titulo": "Lei nº 1.724 de 08/11/1952",
+      "data": "1952-11-08",
+      "numero": "1724",
+      "urn": "urn:lex:br:federal:lei:1952-11-08;1724",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 1.969.650,00, para atender às despesas com a V Conferência dos Estados da América, Membros da Organização Internacional do Trabalho."
+    },
+    {
+      "senadoId": "543446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-06-1722",
+      "titulo": "Lei nº 1.722 de 06/11/1952",
+      "data": "1952-11-06",
+      "numero": "1722",
+      "urn": "urn:lex:br:federal:lei:1952-11-06;1722",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal de Justiça do Distrito Federal - o crédito especial de Cr$ 489.440,00 para ocorrer ao pagamento de gratificação adicional a desembargadores em disponibilidade do extinto Tribunal de Apelação do Território do Acre."
+    },
+    {
+      "senadoId": "543445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-04-1721",
+      "titulo": "Lei nº 1.721 de 04/11/1952",
+      "data": "1952-11-04",
+      "numero": "1721",
+      "urn": "urn:lex:br:federal:lei:1952-11-04;1721",
+      "ementa": "Dispõe sobre as carreiras de contínuo e servente do serviço público federal, e dá outras providências."
+    },
+    {
+      "senadoId": "543441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-03-1720",
+      "titulo": "Lei nº 1.720 de 03/11/1952",
+      "data": "1952-11-03",
+      "numero": "1720",
+      "urn": "urn:lex:br:federal:lei:1952-11-03;1720",
+      "ementa": "Exclui da classificação declarada no art. 1º da Lei nº 121, de 22 de outubro de 1947, o Município de São Paulo, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "543442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-03-1720-a",
+      "titulo": "Lei nº 1.720-A de 03/11/1952",
+      "data": "1952-11-03",
+      "numero": "1720-a",
+      "urn": "urn:lex:br:federal:lei:1952-11-03;1720-a",
+      "ementa": "Dispõe sobre a contagem de tempo de serviço prestado à União pelos servidores do Conselho Técnico de Economia e Finanças do Ministério da Fazenda."
+    },
+    {
+      "senadoId": "543443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-03-1720-b",
+      "titulo": "Lei nº 1.720-B de 03/11/1952",
+      "data": "1952-11-03",
+      "numero": "1720-b",
+      "urn": "urn:lex:br:federal:lei:1952-11-03;1720-b",
+      "ementa": "Modifica o artigo 609 do Código de Processo Penal."
+    },
+    {
+      "senadoId": "543444",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-03-1720-c",
+      "titulo": "Lei nº 1.720-C de 03/11/1952",
+      "data": "1952-11-03",
+      "numero": "1720-c",
+      "urn": "urn:lex:br:federal:lei:1952-11-03;1720-c",
+      "ementa": "Revigora o prazo a que se refere o art. 4º, da Lei nº 1.239-A, de 20 de novembro de 1950."
+    },
+    {
+      "senadoId": "543440",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-11-01-1719",
+      "titulo": "Lei nº 1.719 de 01/11/1952",
+      "data": "1952-11-01",
+      "numero": "1719",
+      "urn": "urn:lex:br:federal:lei:1952-11-01;1719",
+      "ementa": "Amplia o prazo de execução da Lei nº 1.003, de 24 de dezembro de 1949, relativo a financiamento da lavoura de café."
+    },
+    {
+      "senadoId": "543439",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-31-1718",
+      "titulo": "Lei nº 1.718 de 31/10/1952",
+      "data": "1952-10-31",
+      "numero": "1718",
+      "urn": "urn:lex:br:federal:lei:1952-10-31;1718",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 7.361.531,20, para atender a despesas com o Corpo de Bombeiros do Distrito Federal."
+    },
+    {
+      "senadoId": "543438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-30-1717",
+      "titulo": "Lei nº 1.717 de 30/10/1952",
+      "data": "1952-10-30",
+      "numero": "1717",
+      "urn": "urn:lex:br:federal:lei:1952-10-30;1717",
+      "ementa": "Abre ao Congresso Nacional - Câmara dos Deputados - o crédito especial de Cr$ 220.000,00, para atender às despesas desta Casa do Congresso na 35ª Conferência Internacional do Trabalho, em Genebra, Suiça."
+    },
+    {
+      "senadoId": "543437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-29-1716",
+      "titulo": "Lei nº 1.716 de 29/10/1952",
+      "data": "1952-10-29",
+      "numero": "1716",
+      "urn": "urn:lex:br:federal:lei:1952-10-29;1716",
+      "ementa": "Dispõe sobre a concessão dos favores previstos no Decreto nº 12.944, de 30 de março de 1918 e no Decreto nº 4.246, de 6 de janeiro de 1921, à Companhia de Usinas Metalúrgicas."
+    },
+    {
+      "senadoId": "543434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-29-1713",
+      "titulo": "Lei nº 1.713 de 29/10/1952",
+      "data": "1952-10-29",
+      "numero": "1713",
+      "urn": "urn:lex:br:federal:lei:1952-10-29;1713",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 429.200,80, para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "543435",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-29-1714",
+      "titulo": "Lei nº 1.714 de 29/10/1952",
+      "data": "1952-10-29",
+      "numero": "1714",
+      "urn": "urn:lex:br:federal:lei:1952-10-29;1714",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 13.799.805,20, correspondente a cota que fizeram juz as Companhias carboníferas que especifica, pela quantidade de carvão \"lavador\" fornecida, de julho de 1949 a dezembro de 1950, à Companhia Siderúrgica Nacional."
+    },
+    {
+      "senadoId": "543433",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-29-1712",
+      "titulo": "Lei nº 1.712 de 29/10/1952",
+      "data": "1952-10-29",
+      "numero": "1712",
+      "urn": "urn:lex:br:federal:lei:1952-10-29;1712",
+      "ementa": "Autoriza o Poder Executivo a promover a liquidação e o pagamento de despesas com a execução de obras na Secretaria do Ministério da Educação e Saúde."
+    },
+    {
+      "senadoId": "543436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-29-1715",
+      "titulo": "Lei nº 1.715 de 29/10/1952",
+      "data": "1952-10-29",
+      "numero": "1715",
+      "urn": "urn:lex:br:federal:lei:1952-10-29;1715",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, do crédito especial de Cr$ 8.150.000,00, para regularização de despesa efetuada em favor da Casa da Moeda."
+    },
+    {
+      "senadoId": "543432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-28-1711",
+      "titulo": "Lei nº 1.711 de 28/10/1952",
+      "data": "1952-10-28",
+      "numero": "1711",
+      "urn": "urn:lex:br:federal:lei:1952-10-28;1711",
+      "ementa": "Dispõe sobre o Estatuto dos Funcionários Públicos Civis da União."
+    },
+    {
+      "senadoId": "543431",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-27-1710-b",
+      "titulo": "Lei nº 1.710-B de 27/10/1952",
+      "data": "1952-10-27",
+      "numero": "1710-b",
+      "urn": "urn:lex:br:federal:lei:1952-10-27;1710-b",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal de Justiça do Distrito Federal - o crédito suplementar de Cr$ 1.615.950,00 em reforço da verba 1 - Pessoal, Tribunal de Justiça, do Anexo 26 do Orçamento vigente."
+    },
+    {
+      "senadoId": "543429",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-24-1710",
+      "titulo": "Lei nº 1.710 de 24/10/1952",
+      "data": "1952-10-24",
+      "numero": "1710",
+      "urn": "urn:lex:br:federal:lei:1952-10-24;1710",
+      "ementa": "Organiza o quadro do Conselho Nacional de Economia, autoriza o Poder Executivo a abrir ao mesmo Conselho o crédito especial de Cr$ 4.628.400,00, e dá outras providências."
+    },
+    {
+      "senadoId": "543428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-24-1709",
+      "titulo": "Lei nº 1.709 de 24/10/1952",
+      "data": "1952-10-24",
+      "numero": "1709",
+      "urn": "urn:lex:br:federal:lei:1952-10-24;1709",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 6.718.219,60, para ocorrer ao pagamento de despesas realizadas no exercício de 1949."
+    },
+    {
+      "senadoId": "543430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-24-1710-a",
+      "titulo": "Lei nº 1.710-A de 24/10/1952",
+      "data": "1952-10-24",
+      "numero": "1710-a",
+      "urn": "urn:lex:br:federal:lei:1952-10-24;1710-a",
+      "ementa": "Abre, ao Poder Judiciário - Justiça do Trabalho - o crédito suplementar de Cr$ 7.207.810,00, em reforço de dotações para o exercício de 1952."
+    },
+    {
+      "senadoId": "543427",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-23-1708",
+      "titulo": "Lei nº 1.708 de 23/10/1952",
+      "data": "1952-10-23",
+      "numero": "1708",
+      "urn": "urn:lex:br:federal:lei:1952-10-23;1708",
+      "ementa": "Prorroga até 31 de dezembro de 1954 a Lei nº 1.300, de 28 de dezembro de   1950 (Lei do Inquilinato)."
+    },
+    {
+      "senadoId": "543426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-23-1707",
+      "titulo": "Lei nº 1.707 de 23/10/1952",
+      "data": "1952-10-23",
+      "numero": "1707",
+      "urn": "urn:lex:br:federal:lei:1952-10-23;1707",
+      "ementa": "Altera dispositivos do Decreto-lei nº 3.832, de 18 de novembro de 1941, que dispõe sobre a situação perante o Instituto de Aposentadoria e Pensões dos Marítimos, dos armadores de pesca e dos pescadores e empregados em profissões conexas com a indústria da pesca."
+    },
+    {
+      "senadoId": "543425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-22-1706",
+      "titulo": "Lei nº 1.706 de 22/10/1952",
+      "data": "1952-10-22",
+      "numero": "1706",
+      "urn": "urn:lex:br:federal:lei:1952-10-22;1706",
+      "ementa": "Autoriza o Poder Executivo a imprimir as obras do naturalista Patrício Alexandre Rodrigues Ferreira."
+    },
+    {
+      "senadoId": "543424",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-22-1705",
+      "titulo": "Lei nº 1.705 de 22/10/1952",
+      "data": "1952-10-22",
+      "numero": "1705",
+      "urn": "urn:lex:br:federal:lei:1952-10-22;1705",
+      "ementa": "Autoriza a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 1.492.174.391,20, para despesas de exercícios encerrados e suprimentos de fundos até Cr$ 2.492.174.391,20 à conta do saldo apurado no exercício de 1951."
+    },
+    {
+      "senadoId": "543420",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-15-1701",
+      "titulo": "Lei nº 1.701 de 15/10/1952",
+      "data": "1952-10-15",
+      "numero": "1701",
+      "urn": "urn:lex:br:federal:lei:1952-10-15;1701",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 1.200.000,00 para atender as despesas com o comparecimento do Brasil à 35ª Sessão da Conferência Internacional do Trabalho."
+    },
+    {
+      "senadoId": "543422",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-15-1703",
+      "titulo": "Lei nº 1.703 de 15/10/1952",
+      "data": "1952-10-15",
+      "numero": "1703",
+      "urn": "urn:lex:br:federal:lei:1952-10-15;1703",
+      "ementa": "Modifica a alínea \"a\" do art. 32 da Lei Orgânica do Ensino Secundário."
+    },
+    {
+      "senadoId": "543419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-15-1700",
+      "titulo": "Lei nº 1.700 de 15/10/1952",
+      "data": "1952-10-15",
+      "numero": "1700",
+      "urn": "urn:lex:br:federal:lei:1952-10-15;1700",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 600.000,00, destinado à regularização de despesa efetuada, no exercício de 1950, pela Polícia Militar do Distrito Federal."
+    },
+    {
+      "senadoId": "543421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-15-1702",
+      "titulo": "Lei nº 1.702 de 15/10/1952",
+      "data": "1952-10-15",
+      "numero": "1702",
+      "urn": "urn:lex:br:federal:lei:1952-10-15;1702",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 308.674,26, para atender ao pagamento das despesas efetuadas pelo Governo dos Estados Unidos da América, com a repatriação de brasileiros que se encontravam na Ásia."
+    },
+    {
+      "senadoId": "543416",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-10-1697",
+      "titulo": "Lei nº 1.697 de 10/10/1952",
+      "data": "1952-10-10",
+      "numero": "1697",
+      "urn": "urn:lex:br:federal:lei:1952-10-10;1697",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 16.200,00, para atender ao pagamento de diferença de aluguéis, relativos a 1950, das salas em que funciona a 2ª Junta de Conciliação e Julgamento de Niterói."
+    },
+    {
+      "senadoId": "543417",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-10-1698",
+      "titulo": "Lei nº 1.698 de 10/10/1952",
+      "data": "1952-10-10",
+      "numero": "1698",
+      "urn": "urn:lex:br:federal:lei:1952-10-10;1698",
+      "ementa": "Abre ao Poder Judiciário - Tribunal Federal de Recursos - o crédito suplementar de Cr$ 2.197.924,50, para atender às despesas decorrentes da Lei nº 1.441, de 24 de setembro de 1951."
+    },
+    {
+      "senadoId": "543418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-10-1699",
+      "titulo": "Lei nº 1.699 de 10/10/1952",
+      "data": "1952-10-10",
+      "numero": "1699",
+      "urn": "urn:lex:br:federal:lei:1952-10-10;1699",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Viação e Obras Públicas (Departamento de Estradas de Ferro - Estrada de Ferro de Goiás), o crédito especial de Cr$ 2.897.727,00, para pagamento de dívidas contraídas pela Estrada de Ferro de Goiás."
+    },
+    {
+      "senadoId": "543414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-07-1695",
+      "titulo": "Lei nº 1.695 de 07/10/1952",
+      "data": "1952-10-07",
+      "numero": "1695",
+      "urn": "urn:lex:br:federal:lei:1952-10-07;1695",
+      "ementa": "Cria um cargo isolado de provimento efetivo, padrão \"M\", de Consul Privativo, no Quadro Permanente do Ministério das Relações Exteriores, e dá outras providências."
+    },
+    {
+      "senadoId": "543415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-07-1696",
+      "titulo": "Lei nº 1.696 de 07/10/1952",
+      "data": "1952-10-07",
+      "numero": "1696",
+      "urn": "urn:lex:br:federal:lei:1952-10-07;1696",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, crédito especial para atender, no exercício de 1952, à obrigação prevista no termo aditivo ao Convênio firmado entre a União e o Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-03-1690",
+      "titulo": "Lei nº 1.690 de 03/10/1952",
+      "data": "1952-10-03",
+      "numero": "1690",
+      "urn": "urn:lex:br:federal:lei:1952-10-03;1690",
+      "ementa": "Estende aos Médicos Sanitaristas do Ministério da Educação e Saúde, as vantagens e os direitos concedidos pela Lei nº 488, de 15 de ;novembro de 1948."
+    },
+    {
+      "senadoId": "543412",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-03-1693",
+      "titulo": "Lei nº 1.693 de 03/10/1952",
+      "data": "1952-10-03",
+      "numero": "1693",
+      "urn": "urn:lex:br:federal:lei:1952-10-03;1693",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito especial como contribuição do Governo Federal às despesas com a construção do monumento a J. J. Seabra, no Estado da Bahia."
+    },
+    {
+      "senadoId": "543411",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-03-1692",
+      "titulo": "Lei nº 1.692 de 03/10/1952",
+      "data": "1952-10-03",
+      "numero": "1692",
+      "urn": "urn:lex:br:federal:lei:1952-10-03;1692",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 700.000,00 para as despesas decorrentes da participação do Brasil na exposição retrospectiva concernente à vida de Santos Dumont organizada em Paris pelo Governo da França."
+    },
+    {
+      "senadoId": "543413",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-03-1694",
+      "titulo": "Lei nº 1.694 de 03/10/1952",
+      "data": "1952-10-03",
+      "numero": "1694",
+      "urn": "urn:lex:br:federal:lei:1952-10-03;1694",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial destinado à construção do edifício para a Delegacia do Tesouro Nacional e demais repartições federais no Estado de S.Paulo."
+    },
+    {
+      "senadoId": "543410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-03-1691",
+      "titulo": "Lei nº 1.691 de 03/10/1952",
+      "data": "1952-10-03",
+      "numero": "1691",
+      "urn": "urn:lex:br:federal:lei:1952-10-03;1691",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, crédito especial para pagamento de salário-família."
+    },
+    {
+      "senadoId": "543404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-02-1686",
+      "titulo": "Lei nº 1.686 de 02/10/1952",
+      "data": "1952-10-02",
+      "numero": "1686",
+      "urn": "urn:lex:br:federal:lei:1952-10-02;1686",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 161.460,00, para atender ao pagamento da contribuição do Brasil à Conferência Internacional de Materiais, no exercício de 1952."
+    },
+    {
+      "senadoId": "543408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-02-1689",
+      "titulo": "Lei nº 1.689 de 02/10/1952",
+      "data": "1952-10-02",
+      "numero": "1689",
+      "urn": "urn:lex:br:federal:lei:1952-10-02;1689",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação a Saúde, crédito especial para pagamento de prêmios e aquisição de quadros premiados no Salão Nacional de Belas Artes e Salão Nacional de Arte Moderna."
+    },
+    {
+      "senadoId": "543403",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-02-1685",
+      "titulo": "Lei nº 1.685 de 02/10/1952",
+      "data": "1952-10-02",
+      "numero": "1685",
+      "urn": "urn:lex:br:federal:lei:1952-10-02;1685",
+      "ementa": "Prorroga até 31 de dezembro de 1953, as disposições da Lei n° 641, de 27 de fevereiro de 1949, com as modificações introduzidas pela Lei nº 1.243, de 25 de novembro de 1950."
+    },
+    {
+      "senadoId": "543406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-02-1688",
+      "titulo": "Lei nº 1.688 de 02/10/1952",
+      "data": "1952-10-02",
+      "numero": "1688",
+      "urn": "urn:lex:br:federal:lei:1952-10-02;1688",
+      "ementa": "Concede pensão especial de Cr$ 273,00 mesais a Honorina Cavalcanti de Moura, genitora de Francisco Cavalcanti de Moura, servidor público, falecido no exercício de suas funções."
+    },
+    {
+      "senadoId": "543405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-02-1687",
+      "titulo": "Lei nº 1.687 de 02/10/1952",
+      "data": "1952-10-02",
+      "numero": "1687",
+      "urn": "urn:lex:br:federal:lei:1952-10-02;1687",
+      "ementa": "Concede pensão especial à menor Maria Edite de Oliveira, filha de João Rodrigues de Oliveira, extranumerário diarista da Estrada de Ferro Central do Piauí, falecido em consequência de acidente no Trabalho."
+    },
+    {
+      "senadoId": "543396",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1679",
+      "titulo": "Lei nº 1.679 de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1679",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1679",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 480.000,00 para pagamento de pensão especial aos veteranos da Revolução Acreana."
+    },
+    {
+      "senadoId": "543397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1680",
+      "titulo": "Lei nº 1.680 de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1680",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1680",
+      "ementa": "Autoriza o Poder executivo a construir e pavimentar o trecho Itumbiara-Monte Alegre de Minas, da BR-14 do Plano Rodoviário Nacional, e a ligação Monte Alegre-Uberlândia."
+    },
+    {
+      "senadoId": "543399",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1682",
+      "titulo": "Lei nº 1.682 de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1682",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1682",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Tribunal de Contas, o crédito especial de Cr$ 17.854,60, para ocorrer ao pagamento de vencimentos, acrécimo e diferença de vencimentos, salários e salários-família, relativos a 1951."
+    },
+    {
+      "senadoId": "543400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1683",
+      "titulo": "Lei nº 1.683 de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1683",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1683",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, crédito especial de Cr$ 5.000.000,00, para regularizar despesas de pessoal na Estrada de Ferro de Goiás."
+    },
+    {
+      "senadoId": "543398",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1681",
+      "titulo": "Lei nº 1.681 de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1681",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1681",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário o crédito especial de Cr$ 11.400,00 para atender ao pagamento de despesas na Justiça do Trabalho, da 1ª Região."
+    },
+    {
+      "senadoId": "543401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1684",
+      "titulo": "Lei nº 1.684 de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1684",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1684",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação e Saúde o crédito especial de Cr$ 156.900,00, para atender as despesas feitas com a observação do eclípse solar no dia 20 de maio de 1947."
+    },
+    {
+      "senadoId": "543402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-10-01-1684-a",
+      "titulo": "Lei nº 1.684-A de 01/10/1952",
+      "data": "1952-10-01",
+      "numero": "1684-a",
+      "urn": "urn:lex:br:federal:lei:1952-10-01;1684-a",
+      "ementa": "Altera a redação do item XIII do art. 43 do Plano dos Uniformes para uso dos Oficiais e Praças da Aeronáutica."
+    },
+    {
+      "senadoId": "543395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-26-1678",
+      "titulo": "Lei nº 1.678 de 26/09/1952",
+      "data": "1952-09-26",
+      "numero": "1678",
+      "urn": "urn:lex:br:federal:lei:1952-09-26;1678",
+      "ementa": "Isenta do pagamento dos Impostos de importação e taxas aduaneiras, maquinários usados, destinados ao fabrico de sabão, gordura e produtos similares."
+    },
+    {
+      "senadoId": "543394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-26-1677",
+      "titulo": "Lei nº 1.677 de 26/09/1952",
+      "data": "1952-09-26",
+      "numero": "1677",
+      "urn": "urn:lex:br:federal:lei:1952-09-26;1677",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário, o crédito especial de Cr$ 6.575,00, afim de ocorrer às despesas com o pagamento de diferença de vencimentos ao Suplente de Presidente da Junta de Conciliação e Julgamento de Vitória."
+    },
+    {
+      "senadoId": "543393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-26-1676",
+      "titulo": "Lei nº 1.676 de 26/09/1952",
+      "data": "1952-09-26",
+      "numero": "1676",
+      "urn": "urn:lex:br:federal:lei:1952-09-26;1676",
+      "ementa": "Faculta a contribuição para diversos Institutos de Previdência e dá outras providências."
+    },
+    {
+      "senadoId": "543392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-25-1675",
+      "titulo": "Lei nº 1.675 de 25/09/1952",
+      "data": "1952-09-25",
+      "numero": "1675",
+      "urn": "urn:lex:br:federal:lei:1952-09-25;1675",
+      "ementa": "Estende as vantagens da Lei nº 264, de 25 de fevereiro de 1948, aos funcionários da Secretaria do Superior Tribunal Militar."
+    },
+    {
+      "senadoId": "543391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-19-1674",
+      "titulo": "Lei nº 1.674 de 19/09/1952",
+      "data": "1952-09-19",
+      "numero": "1674",
+      "urn": "urn:lex:br:federal:lei:1952-09-19;1674",
+      "ementa": "Autoriza a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 2.270.000,00, destinado ao Departamento Nacional de Estradas de Ferro (Estrada de Ferro de Goiás)."
+    },
+    {
+      "senadoId": "543389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-18-1672",
+      "titulo": "Lei nº 1.672 de 18/09/1952",
+      "data": "1952-09-18",
+      "numero": "1672",
+      "urn": "urn:lex:br:federal:lei:1952-09-18;1672",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 200.000.000,00 à Fundação da Casa Popular."
+    },
+    {
+      "senadoId": "543390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-18-1673",
+      "titulo": "Lei nº 1.673 de 18/09/1952",
+      "data": "1952-09-18",
+      "numero": "1673",
+      "urn": "urn:lex:br:federal:lei:1952-09-18;1673",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores - Corpo de Bombeiros do Distrito Federal - crédito especial para ocorrer às despesas com o pagamento de auxílios para funeral."
+    },
+    {
+      "senadoId": "543423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-15-1704",
+      "titulo": "Lei nº 1.704 de 15/09/1952",
+      "data": "1952-09-15",
+      "numero": "1704",
+      "urn": "urn:lex:br:federal:lei:1952-09-15;1704",
+      "ementa": "Concede uma subvenção extraordinária de Cr$ 100.000,00 (cem mil cruzeiros), ao Museu Santos Dumont, em Minas Gerais."
+    },
+    {
+      "senadoId": "543388",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-12-1671",
+      "titulo": "Lei nº 1.671 de 12/09/1952",
+      "data": "1952-09-12",
+      "numero": "1671",
+      "urn": "urn:lex:br:federal:lei:1952-09-12;1671",
+      "ementa": "Autoriza o Poder Executivo a emitir, pelo Ministério da Viação e Obras Públicas - Departamento dos Correios e Telégrafos - selo comemorativo de 150º aniversário de nascimento do Dr. José Martins da Cruz Jobim."
+    },
+    {
+      "senadoId": "543387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-05-1670",
+      "titulo": "Lei nº 1.670 de 05/09/1952",
+      "data": "1952-09-05",
+      "numero": "1670",
+      "urn": "urn:lex:br:federal:lei:1952-09-05;1670",
+      "ementa": "Abre ao Congresso Nacional - Senado Federal - o crédito especial de Cr$ 1.188.000,00, para pagamento de ajuda de custo aos Senadores pela convocação extraordinária do Congresso Nacional no período de 16 de dezembro de 1950 a 31 de janeiro de 1951."
+    },
+    {
+      "senadoId": "543386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-03-1669",
+      "titulo": "Lei nº 1.669 de 03/09/1952",
+      "data": "1952-09-03",
+      "numero": "1669",
+      "urn": "urn:lex:br:federal:lei:1952-09-03;1669",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, do crédito especial de Cr$ 16.511.040,00, para o pagamento ao Tesouro Britânico, com liquidação de todas as reivindicações pendentes, constantes do Memorando entregue ao Embaixador Brasileiro de Londres, a 1º de março de 1947."
+    },
+    {
+      "senadoId": "543385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-02-1668",
+      "titulo": "Lei nº 1.668 de 02/09/1952",
+      "data": "1952-09-02",
+      "numero": "1668",
+      "urn": "urn:lex:br:federal:lei:1952-09-02;1668",
+      "ementa": "Concede auxílio de Cr$ 150.000,00 à Associação Médica de Goiás para realização do III Congresso Médico do Brasil Central e V do Triângulo Mineiro."
+    },
+    {
+      "senadoId": "543382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-01-1665",
+      "titulo": "Lei nº 1.665 de 01/09/1952",
+      "data": "1952-09-01",
+      "numero": "1665",
+      "urn": "urn:lex:br:federal:lei:1952-09-01;1665",
+      "ementa": "Modifica a Lei nº 121, de 22 de outubro de 1947, na parte relativa ao Município de Angra dos Reis, Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "543384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-01-1667",
+      "titulo": "Lei nº 1.667 de 01/09/1952",
+      "data": "1952-09-01",
+      "numero": "1667",
+      "urn": "urn:lex:br:federal:lei:1952-09-01;1667",
+      "ementa": "Revoga a alínea \"a\" do art. 530 do Decreto-lei n° 5.452, de 1º de maio de 1943, (Consolidação das Leis do Trabalho), e dá outras providências."
+    },
+    {
+      "senadoId": "543383",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-09-01-1666",
+      "titulo": "Lei nº 1.666 de 01/09/1952",
+      "data": "1952-09-01",
+      "numero": "1666",
+      "urn": "urn:lex:br:federal:lei:1952-09-01;1666",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aviação e Obras Públicas, o crédito especial de Cr$ 1.563.337,10, para pagamento da parte restante das despesas realizadas pelo Departamento dos Correios e Telégrafos com a aquisição de carros-correio."
+    },
+    {
+      "senadoId": "543381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-27-1664",
+      "titulo": "Lei nº 1.664 de 27/08/1952",
+      "data": "1952-08-27",
+      "numero": "1664",
+      "urn": "urn:lex:br:federal:lei:1952-08-27;1664",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Federal de Recursos - o crédito especial de Cr$ 3.150,00 para reforço de pagamento de salário-família."
+    },
+    {
+      "senadoId": "543380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-27-1663",
+      "titulo": "Lei nº 1.663 de 27/08/1952",
+      "data": "1952-08-27",
+      "numero": "1663",
+      "urn": "urn:lex:br:federal:lei:1952-08-27;1663",
+      "ementa": "Autoriza a abertura ao Poder Judiciário - Superior Tribunal Militar - do crédito especial de Cr$ 792.000,00, para atender às despesas com pagamento de gratificações adicionais aos Ministros daquele Tribunal."
+    },
+    {
+      "senadoId": "543379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-21-1662",
+      "titulo": "Lei nº 1.662 de 21/08/1952",
+      "data": "1952-08-21",
+      "numero": "1662",
+      "urn": "urn:lex:br:federal:lei:1952-08-21;1662",
+      "ementa": "Abre ao Ministério das Relações Exteriores, o crédito especial de Cr$ 2.614.877,10, para atender às despesas de transporte aéreo de malas diplomáticas entre a Secretaria de Estado e as missões diplomáticas brasileiras, no período de 1945 a 1949."
+    },
+    {
+      "senadoId": "543377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-19-1660",
+      "titulo": "Lei nº 1.660 de 19/08/1952",
+      "data": "1952-08-19",
+      "numero": "1660",
+      "urn": "urn:lex:br:federal:lei:1952-08-19;1660",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério do Trabalho, Indústria e Comércio, crédito especial para pagamento de despesas com ajuda de custo e passagens do pessoal dos Escritórios e Agências de Propaganda no Exterior."
+    },
+    {
+      "senadoId": "543378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-19-1661",
+      "titulo": "Lei nº 1.661 de 19/08/1952",
+      "data": "1952-08-19",
+      "numero": "1661",
+      "urn": "urn:lex:br:federal:lei:1952-08-19;1661",
+      "ementa": "Modifica os artigos 801, 835, 871, 872 e 874, do Código do Processo Civil, sobre julgamento do recurso da revista e da ação rescisória."
+    },
+    {
+      "senadoId": "543376",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-06-1659",
+      "titulo": "Lei nº 1.659 de 06/08/1952",
+      "data": "1952-08-06",
+      "numero": "1659",
+      "urn": "urn:lex:br:federal:lei:1952-08-06;1659",
+      "ementa": "Autoriza a emissão de selos postais comemorativos do cinquentenário da prova de Saint Cloud, realizada em 1901, e na qual Alberto dos Santos Dumont provou a dirigibilidade dos aerostatos."
+    },
+    {
+      "senadoId": "543375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-05-1658-b",
+      "titulo": "Lei nº 1.658-B de 05/08/1952",
+      "data": "1952-08-05",
+      "numero": "1658-b",
+      "urn": "urn:lex:br:federal:lei:1952-08-05;1658-b",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - o crédito especial de Cr$ 325.000,00, para pagamento de despesas efetuadas pelo Tribunal Regional do Trabalho da 2ª Região."
+    },
+    {
+      "senadoId": "543374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-05-1658-a",
+      "titulo": "Lei nº 1.658-A de 05/08/1952",
+      "data": "1952-08-05",
+      "numero": "1658-a",
+      "urn": "urn:lex:br:federal:lei:1952-08-05;1658-a",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional do Trabalho da 1ª Região - o crédito especial de Cr$ 605.734,40, para pagamento de despesa relativa ao exercício de 1951."
+    },
+    {
+      "senadoId": "543373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-04-1658",
+      "titulo": "Lei nº 1.658 de 04/08/1952",
+      "data": "1952-08-04",
+      "numero": "1658",
+      "urn": "urn:lex:br:federal:lei:1952-08-04;1658",
+      "ementa": "Dá nova organização administrativa ao Ministério da Marinha."
+    },
+    {
+      "senadoId": "543372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-01-1657-b",
+      "titulo": "Lei nº 1.657-B de 01/08/1952",
+      "data": "1952-08-01",
+      "numero": "1657-b",
+      "urn": "urn:lex:br:federal:lei:1952-08-01;1657-b",
+      "ementa": "Concede isenção de imposto de importação e taxas aduaneiras, excetuada a de previdência social, para materiais importados pela Ipiranga S.A. - Cia. Brasileira de Petróleos."
+    },
+    {
+      "senadoId": "543371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-08-01-1657-a",
+      "titulo": "Lei nº 1.657-A de 01/08/1952",
+      "data": "1952-08-01",
+      "numero": "1657-a",
+      "urn": "urn:lex:br:federal:lei:1952-08-01;1657-a",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 10.000.000,00, para socorrer a população do Município de Santos Dumond, vítima de tromba d'água."
+    },
+    {
+      "senadoId": "543370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-29-1657",
+      "titulo": "Lei nº 1.657 de 29/07/1952",
+      "data": "1952-07-29",
+      "numero": "1657",
+      "urn": "urn:lex:br:federal:lei:1952-07-29;1657",
+      "ementa": "Modifica a Lei n° 1.365, de 7 de maio de 1951, que autoriza a abertura pelo Ministério do Trabalho, Indústria e Comércio, de crédito especial para despesas com as hospedarias de imigrantes de Rio Branco, Manaus, Belém, Fortaleza e Natal."
+    },
+    {
+      "senadoId": "543369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-28-1656",
+      "titulo": "Lei nº 1.656 de 28/07/1952",
+      "data": "1952-07-28",
+      "numero": "1656",
+      "urn": "urn:lex:br:federal:lei:1952-07-28;1656",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 15.500,00, para pagamento de pensão a Maria de Bastos Medeiros Chagas."
+    },
+    {
+      "senadoId": "543366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-28-1654",
+      "titulo": "Lei nº 1.654 de 28/07/1952",
+      "data": "1952-07-28",
+      "numero": "1654",
+      "urn": "urn:lex:br:federal:lei:1952-07-28;1654",
+      "ementa": "Autoriza a União a constituir, com o Estado do Amazonas e o município de sua capital, a \"Companhia de Eletricidade de Manaus\", e dá outras providências."
+    },
+    {
+      "senadoId": "543368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-28-1655",
+      "titulo": "Lei nº 1.655 de 28/07/1952",
+      "data": "1952-07-28",
+      "numero": "1655",
+      "urn": "urn:lex:br:federal:lei:1952-07-28;1655",
+      "ementa": "Concede a pensão especial de Cr$ 300,00 a Adelaide Evaristo da Silva, mãe de José Raimundo da Silva, extranumerário diarista da Estrada de Ferro Central do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "543365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-26-1653-a",
+      "titulo": "Lei nº 1.653-A de 26/07/1952",
+      "data": "1952-07-26",
+      "numero": "1653-a",
+      "urn": "urn:lex:br:federal:lei:1952-07-26;1653-a",
+      "ementa": "Altera o artigos 4º e 5º do Decreto-Lei nº 9.143, de 8 de abril de 1946."
+    },
+    {
+      "senadoId": "543363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-22-1652",
+      "titulo": "Lei nº 1.652 de 22/07/1952",
+      "data": "1952-07-22",
+      "numero": "1652",
+      "urn": "urn:lex:br:federal:lei:1952-07-22;1652",
+      "ementa": "Considera ferroviários, para os efeitos das leis do Trabalho e Previdência Social, os empregados dos carros restaurantes das estradas de ferro e dá outras providências."
+    },
+    {
+      "senadoId": "543362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-22-1651",
+      "titulo": "Lei nº 1.651 de 22/07/1952",
+      "data": "1952-07-22",
+      "numero": "1651",
+      "urn": "urn:lex:br:federal:lei:1952-07-22;1651",
+      "ementa": "Fixa o prazo para a conclusão da construção e pavimentação do trecho Salvador - Feira da Estrada de Salvador."
+    },
+    {
+      "senadoId": "543364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-22-1653",
+      "titulo": "Lei nº 1.653 de 22/07/1952",
+      "data": "1952-07-22",
+      "numero": "1653",
+      "urn": "urn:lex:br:federal:lei:1952-07-22;1653",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$ 767.650,00 para pagamento de despesas relativas ao exercício de 1951."
+    },
+    {
+      "senadoId": "543360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-19-1649",
+      "titulo": "Lei nº 1.649 de 19/07/1952",
+      "data": "1952-07-19",
+      "numero": "1649",
+      "urn": "urn:lex:br:federal:lei:1952-07-19;1649",
+      "ementa": "Cria o Banco do Nordeste do Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "543361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-19-1650",
+      "titulo": "Lei nº 1.650 de 19/07/1952",
+      "data": "1952-07-19",
+      "numero": "1650",
+      "urn": "urn:lex:br:federal:lei:1952-07-19;1650",
+      "ementa": "Cria uma seção de organização na Direção Geral da Fazenda Nacional do Ministério da Fazenda, e outra em cada um dos departamentos de administração dos demais Ministérios civis, e dá outras providências."
+    },
+    {
+      "senadoId": "543359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-18-1648",
+      "titulo": "Lei nº 1.648 de 18/07/1952",
+      "data": "1952-07-18",
+      "numero": "1648",
+      "urn": "urn:lex:br:federal:lei:1952-07-18;1648",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 4.872.320,00 para atender ao pagamento de despesas de pessoal dos Quadros Permanentes e Suplementar daquele Ministério."
+    },
+    {
+      "senadoId": "543358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-18-1647",
+      "titulo": "Lei nº 1.647 de 18/07/1952",
+      "data": "1952-07-18",
+      "numero": "1647",
+      "urn": "urn:lex:br:federal:lei:1952-07-18;1647",
+      "ementa": "Torna extensivas às enfermeiras que prestaram serviço no 1º Grupo de Caça, as disposições da Lei nº 1.209, de 25 de outubro de 1950."
+    },
+    {
+      "senadoId": "543355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-16-1644",
+      "titulo": "Lei nº 1.644 de 16/07/1952",
+      "data": "1952-07-16",
+      "numero": "1644",
+      "urn": "urn:lex:br:federal:lei:1952-07-16;1644",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 15.000.000,00, como auxílio à Fundação Abrigo do Cristo Redentor."
+    },
+    {
+      "senadoId": "543356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-16-1645",
+      "titulo": "Lei nº 1.645 de 16/07/1952",
+      "data": "1952-07-16",
+      "numero": "1645",
+      "urn": "urn:lex:br:federal:lei:1952-07-16;1645",
+      "ementa": "Exclui o Município de Belém, no Estado do Pará, do art. 1º da Lei nº 121, de 22 de outubro de 1947."
+    },
+    {
+      "senadoId": "543354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-16-1643",
+      "titulo": "Lei nº 1.643 de 16/07/1952",
+      "data": "1952-07-16",
+      "numero": "1643",
+      "urn": "urn:lex:br:federal:lei:1952-07-16;1643",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 40.000.000,00 para a conclusão das obras de ligação Itajaí-Blumenau, da Estrada de Ferro Santa Catarina."
+    },
+    {
+      "senadoId": "543357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-16-1646",
+      "titulo": "Lei nº 1.646 de 16/07/1952",
+      "data": "1952-07-16",
+      "numero": "1646",
+      "urn": "urn:lex:br:federal:lei:1952-07-16;1646",
+      "ementa": "Concede licença às entidades sindicais brasileiras, de 2º e 3º graus para que se filiem à Confederação Internacional das Organizações Sindicais Livres."
+    },
+    {
+      "senadoId": "543348",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-14-1637",
+      "titulo": "Lei nº 1.637 de 14/07/1952",
+      "data": "1952-07-14",
+      "numero": "1637",
+      "urn": "urn:lex:br:federal:lei:1952-07-14;1637",
+      "ementa": "Cria, no Quadro Suplementar do Ministério da Educação e Saúde, um cargo isolado, de provimento efetivo, de Entomologista, padrão M."
+    },
+    {
+      "senadoId": "543350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-14-1639",
+      "titulo": "Lei nº 1.639 de 14/07/1952",
+      "data": "1952-07-14",
+      "numero": "1639",
+      "urn": "urn:lex:br:federal:lei:1952-07-14;1639",
+      "ementa": "Altera a carreira de Comissário de Polícia do Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências."
+    },
+    {
+      "senadoId": "543353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-14-1642",
+      "titulo": "Lei nº 1.642 de 14/07/1952",
+      "data": "1952-07-14",
+      "numero": "1642",
+      "urn": "urn:lex:br:federal:lei:1952-07-14;1642",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 2.000.000,00, para aquisição de instalação do equipamento para o Matadouro do Núcleo Agro-Industrial São Francisco."
+    },
+    {
+      "senadoId": "543349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-14-1638",
+      "titulo": "Lei nº 1.638 de 14/07/1952",
+      "data": "1952-07-14",
+      "numero": "1638",
+      "urn": "urn:lex:br:federal:lei:1952-07-14;1638",
+      "ementa": "Altera disposições do Decreto-Lei nº 9.058, de 13 de março de 1946, que dizem respeito à composição e funcionamento do Conselho Nacional de Minas e Metalurgia."
+    },
+    {
+      "senadoId": "543351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-14-1640",
+      "titulo": "Lei nº 1.640 de 14/07/1952",
+      "data": "1952-07-14",
+      "numero": "1640",
+      "urn": "urn:lex:br:federal:lei:1952-07-14;1640",
+      "ementa": "Concede isenção de imposto de consumo de direitos de importação e taxas aduaneiras, exclusive a de previdência social, para maquinarias e material técnico importados por Serviços Aerofotogramétricos Cruzeiro do Sul, S.A.."
+    },
+    {
+      "senadoId": "543352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-14-1641",
+      "titulo": "Lei nº 1.641 de 14/07/1952",
+      "data": "1952-07-14",
+      "numero": "1641",
+      "urn": "urn:lex:br:federal:lei:1952-07-14;1641",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 79.657.946,00, para completar o pagamento devido aos municípios pela cota do imposto de renda."
+    },
+    {
+      "senadoId": "543347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-11-1636",
+      "titulo": "Lei nº 1.636 de 11/07/1952",
+      "data": "1952-07-11",
+      "numero": "1636",
+      "urn": "urn:lex:br:federal:lei:1952-07-11;1636",
+      "ementa": "Estende aos servidores das estradas de ferro da União, sob regime de autarquia, os direitos e vantagens previstos na Lei nº 1.163, de 22 de julho de 1950, que dispõe sobre a Estrada de Ferro Central do Brasil."
+    },
+    {
+      "senadoId": "543346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-04-1635",
+      "titulo": "Lei nº 1.635 de 04/07/1952",
+      "data": "1952-07-04",
+      "numero": "1635",
+      "urn": "urn:lex:br:federal:lei:1952-07-04;1635",
+      "ementa": "Dá destinação aos saldos apurados do auxílio concedido à Rede Ferroviária do Nordeste pela Lei nº 1.180, de 17 de agosto de 1950."
+    },
+    {
+      "senadoId": "543345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-03-1634",
+      "titulo": "Lei nº 1.634 de 03/07/1952",
+      "data": "1952-07-03",
+      "numero": "1634",
+      "urn": "urn:lex:br:federal:lei:1952-07-03;1634",
+      "ementa": "Autoriza a abertura, pelo Ministério das Relações Exteriores, do crédito especial de Cr$ 500.000,00, para atender às despesas decorrentes da realização do VIII Congresso da Comissão Interamericana de Mulheres."
+    },
+    {
+      "senadoId": "543344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-07-01-1633",
+      "titulo": "Lei nº 1.633 de 01/07/1952",
+      "data": "1952-07-01",
+      "numero": "1633",
+      "urn": "urn:lex:br:federal:lei:1952-07-01;1633",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - dois créditos especiais, um de Cr$ 12.469,00 e outro de Cr$ 29.908,00, para atender, respectivamente, ao pagamento de despesas relativas aos exercícios de 1947, 1948 e 1949."
+    },
+    {
+      "senadoId": "543343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-30-1632",
+      "titulo": "Lei nº 1.632 de 30/06/1952",
+      "data": "1952-06-30",
+      "numero": "1632",
+      "urn": "urn:lex:br:federal:lei:1952-06-30;1632",
+      "ementa": "Fixa o número de oficiais generais do Exército em tempo de paz."
+    },
+    {
+      "senadoId": "543342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-26-1631",
+      "titulo": "Lei nº 1.631 de 26/06/1952",
+      "data": "1952-06-26",
+      "numero": "1631",
+      "urn": "urn:lex:br:federal:lei:1952-06-26;1631",
+      "ementa": "Concede uma pensão especial de Cr$ 463,00 a Hilda Ribeiro de Almeida, e outra de Cr$ 558,00 a Teresa Giancecchi Moreira."
+    },
+    {
+      "senadoId": "543341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-24-1630",
+      "titulo": "Lei nº 1.630 de 24/06/1952",
+      "data": "1952-06-24",
+      "numero": "1630",
+      "urn": "urn:lex:br:federal:lei:1952-06-24;1630",
+      "ementa": "Abre ao Poder Judiciário - Tribunal Regional Eleitoral do Estado do Paraná - o crédito especial de Cr$ 54.060,00 para o pagamento de despesas de pessoal."
+    },
+    {
+      "senadoId": "543340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-24-1629",
+      "titulo": "Lei nº 1.629 de 24/06/1952",
+      "data": "1952-06-24",
+      "numero": "1629",
+      "urn": "urn:lex:br:federal:lei:1952-06-24;1629",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Federal de Recursos - o crédito especial de Cr$ 717.904,20, para pagamento de despesas relativas ao exercício de 1951."
+    },
+    {
+      "senadoId": "543339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-20-1628",
+      "titulo": "Lei nº 1.628 de 20/06/1952",
+      "data": "1952-06-20",
+      "numero": "1628",
+      "urn": "urn:lex:br:federal:lei:1952-06-20;1628",
+      "ementa": "Dispõe sôbre a restituição dos adicionais criados pelo art. 3º da Lei n° 1.474, de 26 de novembro de 1951, e fixa a respectiva bonificação; autoriza a emissão de obrigações da Dívida Pública Federal; cria o Banco Nacional do Desenvolvimento Econômico; abre crédito especial e dá outras providências."
+    },
+    {
+      "senadoId": "543338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-18-1627",
+      "titulo": "Lei nº 1.627 de 18/06/1952",
+      "data": "1952-06-18",
+      "numero": "1627",
+      "urn": "urn:lex:br:federal:lei:1952-06-18;1627",
+      "ementa": "Assegura aos oficiais da reserva de 2ª classe da Aeronáutica aproveitados no serviço ativo da FAB a inscrição como contribuinte do Montepio Militar."
+    },
+    {
+      "senadoId": "543337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-17-1626",
+      "titulo": "Lei nº 1.626 de 17/06/1952",
+      "data": "1952-06-17",
+      "numero": "1626",
+      "urn": "urn:lex:br:federal:lei:1952-06-17;1626",
+      "ementa": "Estende a todos os chefes e servidores dos Postos de Atração e Pacificação dos Índios, quando em expedição pelas regiões habitadas pelos índios não aldeados os benefícios do Decreto-Lei n° 5.801, de 8 de dezembro de 1943, que considera de interesse militar a Expedição Roncador-Xingú."
+    },
+    {
+      "senadoId": "543336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-17-1625",
+      "titulo": "Lei nº 1.625 de 17/06/1952",
+      "data": "1952-06-17",
+      "numero": "1625",
+      "urn": "urn:lex:br:federal:lei:1952-06-17;1625",
+      "ementa": "Autoriza a doação de imóveis à Paróquia de N. S. da Soledade, em Recife, Estado de Pernambuco."
+    },
+    {
+      "senadoId": "543335",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-13-1624",
+      "titulo": "Lei nº 1.624 de 13/06/1952",
+      "data": "1952-06-13",
+      "numero": "1624",
+      "urn": "urn:lex:br:federal:lei:1952-06-13;1624",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal de Justiça do Distrito Federal - o crédito especial de Cr$ 256.751,50, para pagamento de vencimentos atrasados a Paulo Vasconcelos Calmon."
+    },
+    {
+      "senadoId": "543334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-10-1623",
+      "titulo": "Lei nº 1.623 de 10/06/1952",
+      "data": "1952-06-10",
+      "numero": "1623",
+      "urn": "urn:lex:br:federal:lei:1952-06-10;1623",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Fazenda um crédito especial de Cr$ 6.000.000,00 com que auxiliará o Clube de Engenharia na construção do edifício de sua sede."
+    },
+    {
+      "senadoId": "543329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-09-1620",
+      "titulo": "Lei nº 1.620 de 09/06/1952",
+      "data": "1952-06-09",
+      "numero": "1620",
+      "urn": "urn:lex:br:federal:lei:1952-06-09;1620",
+      "ementa": "Altera o Decreto-Lei n° 4.271, de 17 de abril de 1942."
+    },
+    {
+      "senadoId": "543330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-09-1621",
+      "titulo": "Lei nº 1.621 de 09/06/1952",
+      "data": "1952-06-09",
+      "numero": "1621",
+      "urn": "urn:lex:br:federal:lei:1952-06-09;1621",
+      "ementa": "Autoriza a abertura pelo Ministério da Fazenda, do crédito especial de Cr$ 34.307,10, destinado à regularização da despesa do exercício de 1950, com o estudo de letras hipotecárias e escriturada em conta de ordem pela Contadoria Geral da República."
+    },
+    {
+      "senadoId": "543333",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-09-1622-b",
+      "titulo": "Lei nº 1.622-B de 09/06/1952",
+      "data": "1952-06-09",
+      "numero": "1622-b",
+      "urn": "urn:lex:br:federal:lei:1952-06-09;1622-b",
+      "ementa": "Concede isenção de imposto de importação e taxas aduaneiras para material importado pela Santa Casa de Misericórdia de Maceió, Estado de Alagoas."
+    },
+    {
+      "senadoId": "543328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-09-1619",
+      "titulo": "Lei nº 1.619 de 09/06/1952",
+      "data": "1952-06-09",
+      "numero": "1619",
+      "urn": "urn:lex:br:federal:lei:1952-06-09;1619",
+      "ementa": "Abre ao Ministério da Marinha um crédito especial de Cr$ 18.986.786,20 (dezoito milhões, novecentos e oitenta e seis mil e setecentos e oitenta e seis cruzeiros e vinte centavos) para a aquisição de um estabelecimento hospitalar destinado à Assistência Médico-Social da Armada."
+    },
+    {
+      "senadoId": "543331",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-09-1622",
+      "titulo": "Lei nº 1.622 de 09/06/1952",
+      "data": "1952-06-09",
+      "numero": "1622",
+      "urn": "urn:lex:br:federal:lei:1952-06-09;1622",
+      "ementa": "Regula a quebra natural do sal estocado nas salinas."
+    },
+    {
+      "senadoId": "543332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-09-1622-a",
+      "titulo": "Lei nº 1.622-A de 09/06/1952",
+      "data": "1952-06-09",
+      "numero": "1622-a",
+      "urn": "urn:lex:br:federal:lei:1952-06-09;1622-a",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal de Justiça do Distrito Federal - o crédito especial de Cr$ 269.041,00 para pagamento de diferença de vencimentos ao Ministro Antônio Pereira Braga."
+    },
+    {
+      "senadoId": "543327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-06-1618-c",
+      "titulo": "Lei nº 1.618-C de 06/06/1952",
+      "data": "1952-06-06",
+      "numero": "1618-c",
+      "urn": "urn:lex:br:federal:lei:1952-06-06;1618-c",
+      "ementa": "Releva a prescrição em que incorreu o direito dos antigos escreventes do Ministério da Guerra, a fim de que possam pleitear os benefícios a que se julgarem com direito."
+    },
+    {
+      "senadoId": "543326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-06-1618-b",
+      "titulo": "Lei nº 1.618-B de 06/06/1952",
+      "data": "1952-06-06",
+      "numero": "1618-b",
+      "urn": "urn:lex:br:federal:lei:1952-06-06;1618-b",
+      "ementa": "Concede isenção de tributos a materiais e imagens importados para templos religiosos."
+    },
+    {
+      "senadoId": "543325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-06-1618-a",
+      "titulo": "Lei nº 1.618-A de 06/06/1952",
+      "data": "1952-06-06",
+      "numero": "1618-a",
+      "urn": "urn:lex:br:federal:lei:1952-06-06;1618-a",
+      "ementa": "Considera monumentos nacionais os edifícios e logradouros remanescentes das duas antigas vilas coloniais que, respectivamente, foram origem das atuais cidades de São Vicente, no Estado de São Paulo e Porto Calvo, no Estado de Alagoas."
+    },
+    {
+      "senadoId": "543324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-04-1618",
+      "titulo": "Lei nº 1.618 de 04/06/1952",
+      "data": "1952-06-04",
+      "numero": "1618",
+      "urn": "urn:lex:br:federal:lei:1952-06-04;1618",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 2.000.000,00, destinado à regularização de despesas relacionadas com o pessoal brasileiro à serviço da Comissão Mista Brasil - Estados Unidos e ao desenvolvimento dos trabalhos da referida Comissão."
+    },
+    {
+      "senadoId": "543320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-04-1616",
+      "titulo": "Lei nº 1.616 de 04/06/1952",
+      "data": "1952-06-04",
+      "numero": "1616",
+      "urn": "urn:lex:br:federal:lei:1952-06-04;1616",
+      "ementa": "Altera o art. 7º da Lei nº 116, de 15 de outubro de 1947, e acrescenta um parágrafo ao art. 3º da Lei nº 216, de 9 de janeiro de 1948."
+    },
+    {
+      "senadoId": "543322",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-06-04-1617",
+      "titulo": "Lei nº 1.617 de 04/06/1952",
+      "data": "1952-06-04",
+      "numero": "1617",
+      "urn": "urn:lex:br:federal:lei:1952-06-04;1617",
+      "ementa": "Concede pensão especial à viúva e filhos menores de Pedro Inácio de Freitas, auxiliar de artífice da Estrada de Ferro Goiás, falecido em consequência de acidente no trabalho, quando em exercício de suas funções."
+    },
+    {
+      "senadoId": "543318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-30-1615",
+      "titulo": "Lei nº 1.615 de 30/05/1952",
+      "data": "1952-05-30",
+      "numero": "1615",
+      "urn": "urn:lex:br:federal:lei:1952-05-30;1615",
+      "ementa": "Concede isenção de impostos e taxas, exceto a de Previdência Social, a dois volumes contendo paramentos sacerdotais, adquiridos na França, e destinados à Imperial Irmandade de N. S. da Glória do Outeiro, desta capital."
+    },
+    {
+      "senadoId": "543317",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-29-1614",
+      "titulo": "Lei nº 1.614 de 29/05/1952",
+      "data": "1952-05-29",
+      "numero": "1614",
+      "urn": "urn:lex:br:federal:lei:1952-05-29;1614",
+      "ementa": "Concede pensão especial de Cr$ 432,00, mensais a Helena Pereira Munis, viúva de Nestor Munis de Medeiros Filho, ex-guarda civil, classe G, do Quadro Permanente do Ministério da Justiça e Negócios Interiores."
+    },
+    {
+      "senadoId": "543316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-29-1613",
+      "titulo": "Lei nº 1.613 de 29/05/1952",
+      "data": "1952-05-29",
+      "numero": "1613",
+      "urn": "urn:lex:br:federal:lei:1952-05-29;1613",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 3.000.000,00 destinado ao Departamento Federal de Segurança Pública."
+    },
+    {
+      "senadoId": "543315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-28-1612",
+      "titulo": "Lei nº 1.612 de 28/05/1952",
+      "data": "1952-05-28",
+      "numero": "1612",
+      "urn": "urn:lex:br:federal:lei:1952-05-28;1612",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 356.649,00, para pagamento à Serviços Hollerith S.A., em decorrência do Decreto Legislativo nº 2, de 5 de fevereiro de 1948."
+    },
+    {
+      "senadoId": "543314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-27-1611",
+      "titulo": "Lei nº 1.611 de 27/05/1952",
+      "data": "1952-05-27",
+      "numero": "1611",
+      "urn": "urn:lex:br:federal:lei:1952-05-27;1611",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério das Relações Exteriores, o crédito especial de Cr$ 412.076,62 para o fim de atender ao pagamento da contribuição do Brasil em favor do Fundo de Reserva da Organização Mundial de Saúde."
+    },
+    {
+      "senadoId": "543313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-27-1610",
+      "titulo": "Lei nº 1.610 de 27/05/1952",
+      "data": "1952-05-27",
+      "numero": "1610",
+      "urn": "urn:lex:br:federal:lei:1952-05-27;1610",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas um crédito especial de Cr$ 150.000.000,00, para custear a instalação de uma usina termo-elétrica em Candiota, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-22-1608",
+      "titulo": "Lei nº 1.608 de 22/05/1952",
+      "data": "1952-05-22",
+      "numero": "1608",
+      "urn": "urn:lex:br:federal:lei:1952-05-22;1608",
+      "ementa": "Altera o art. 59 do Decreto-Lei n° 9.120, de 2 de abril de 1946, referente à organização dos quadros efetivos do Exército."
+    },
+    {
+      "senadoId": "543312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-22-1609",
+      "titulo": "Lei nº 1.609 de 22/05/1952",
+      "data": "1952-05-22",
+      "numero": "1609",
+      "urn": "urn:lex:br:federal:lei:1952-05-22;1609",
+      "ementa": "Estende os dispositivos da Lei n° 1.195, de 9 de setembro de 1950, aos reformados por incapacidade física, anteriormente à vigência da citada Lei."
+    },
+    {
+      "senadoId": "543310",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-22-1607",
+      "titulo": "Lei nº 1.607 de 22/05/1952",
+      "data": "1952-05-22",
+      "numero": "1607",
+      "urn": "urn:lex:br:federal:lei:1952-05-22;1607",
+      "ementa": "Dá nova redação ao art. 3º e seu § 1º das Lei n° 1.185, de 31 de agosto de 1950."
+    },
+    {
+      "senadoId": "543307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-16-1604",
+      "titulo": "Lei nº 1.604 de 16/05/1952",
+      "data": "1952-05-16",
+      "numero": "1604",
+      "urn": "urn:lex:br:federal:lei:1952-05-16;1604",
+      "ementa": "Autoriza o Poder Executivo a abrir, à Presidência da República, o crédito especial de Cr$ 20.000.000,00 destinado à aquisição de um sincro-cicloton e seus aparelhos complementares."
+    },
+    {
+      "senadoId": "543306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-16-1603",
+      "titulo": "Lei nº 1.603 de 16/05/1952",
+      "data": "1952-05-16",
+      "numero": "1603",
+      "urn": "urn:lex:br:federal:lei:1952-05-16;1603",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 27.000.000,00 para atender às despesas com serviços e encargos do Departamento dos Correios e Telégrafos em 1951."
+    },
+    {
+      "senadoId": "543309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-16-1606",
+      "titulo": "Lei nº 1.606 de 16/05/1952",
+      "data": "1952-05-16",
+      "numero": "1606",
+      "urn": "urn:lex:br:federal:lei:1952-05-16;1606",
+      "ementa": "Declara de utilidade pública a Associação dos Servidores Públicos de Sergipe."
+    },
+    {
+      "senadoId": "543308",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-16-1605",
+      "titulo": "Lei nº 1.605 de 16/05/1952",
+      "data": "1952-05-16",
+      "numero": "1605",
+      "urn": "urn:lex:br:federal:lei:1952-05-16;1605",
+      "ementa": "Concede pensão especial de Cr$ 242,00 a Francisca dos Santos, viúva do ex-maquinista-auxiliar da Estrada de Ferro de Goiás, Claudomiro Luiz dos Santos, falecido em consequência de acidente ocorrido em serviço."
+    },
+    {
+      "senadoId": "543305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-13-1602",
+      "titulo": "Lei nº 1.602 de 13/05/1952",
+      "data": "1952-05-13",
+      "numero": "1602",
+      "urn": "urn:lex:br:federal:lei:1952-05-13;1602",
+      "ementa": "Denomina \"Aeroporto Pinto Martins\" o aeroporto de Cocorote em Fortaleza."
+    },
+    {
+      "senadoId": "543303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-12-1600",
+      "titulo": "Lei nº 1.600 de 12/05/1952",
+      "data": "1952-05-12",
+      "numero": "1600",
+      "urn": "urn:lex:br:federal:lei:1952-05-12;1600",
+      "ementa": "Concede a pensão especial de Cr$ 300,00 mensais, a Honorina Maria de Jesus, genitora de Vital Alves dos Santos, extranumerário diarista da Viação Férrea Federal Leste Brasileiro, falecido em conseqüência de acidente no trabalho."
+    },
+    {
+      "senadoId": "543304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-12-1601",
+      "titulo": "Lei nº 1.601 de 12/05/1952",
+      "data": "1952-05-12",
+      "numero": "1601",
+      "urn": "urn:lex:br:federal:lei:1952-05-12;1601",
+      "ementa": "Regula a promoção de ano dos Cadetes da Escola de Aeronáutica."
+    },
+    {
+      "senadoId": "543302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-09-1599-a",
+      "titulo": "Lei nº 1.599-A de 09/05/1952",
+      "data": "1952-05-09",
+      "numero": "1599-a",
+      "urn": "urn:lex:br:federal:lei:1952-05-09;1599-a",
+      "ementa": "Considera segurados obrigatórios do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas os motoristas profissionais, empregados de empresas concessionárias de serviço público."
+    },
+    {
+      "senadoId": "543301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-09-1599",
+      "titulo": "Lei nº 1.599 de 09/05/1952",
+      "data": "1952-05-09",
+      "numero": "1599",
+      "urn": "urn:lex:br:federal:lei:1952-05-09;1599",
+      "ementa": "Restabelece a Delegacia do Trabalho, do Estado de São Paulo e dá outras providências."
+    },
+    {
+      "senadoId": "543300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-07-1598",
+      "titulo": "Lei nº 1.598 de 07/05/1952",
+      "data": "1952-05-07",
+      "numero": "1598",
+      "urn": "urn:lex:br:federal:lei:1952-05-07;1598",
+      "ementa": "Abre ao Congresso Nacional - Senado Federal - o crédito especial de Cr$ 2.506.511,30, para pagamento de subsídios aos Senadores e gratificações e diárias aos funcionários da Secretaria do Senado, por sessões extraordinárias realizadas no exercício de 1951; e os créditos suplementar de Cr$ 5.620.000,00 e especial de Cr$ 2.092.000,00 - Câmara do Deputados - para pagamento de ajuda de custo aos Deputados e gratificação aos funcionários da Secretaria da Câmara, correspondente ao período de convocação extraordinária de 1952."
+    },
+    {
+      "senadoId": "543299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-05-02-1597",
+      "titulo": "Lei nº 1.597 de 02/05/1952",
+      "data": "1952-05-02",
+      "numero": "1597",
+      "urn": "urn:lex:br:federal:lei:1952-05-02;1597",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 711.800,00, para atender ao pagamento de despesas decorrentes de fornecimento e instalação de equipamento do laboratório para microfilmagem, pela firma Microfilme Técnica Limitada."
+    },
+    {
+      "senadoId": "543298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-30-1596",
+      "titulo": "Lei nº 1.596 de 30/04/1952",
+      "data": "1952-04-30",
+      "numero": "1596",
+      "urn": "urn:lex:br:federal:lei:1952-04-30;1596",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, do crédito especial de Cr$ 21.415.680,00, para pagamento de prestações devidas nos termos e condições do \"Suplemento I ao Ajuste de Liquidação do Lend Lease\"."
+    },
+    {
+      "senadoId": "543296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-29-1594",
+      "titulo": "Lei nº 1.594 de 29/04/1952",
+      "data": "1952-04-29",
+      "numero": "1594",
+      "urn": "urn:lex:br:federal:lei:1952-04-29;1594",
+      "ementa": "Concede pensão especial de Cr$ 425,00 a Mônica Isabel de Alcântara, viúva de Manoel Batista de Alcântara, ex-foguista da Viação Férrea Federal Leste Brasileira."
+    },
+    {
+      "senadoId": "543297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-29-1595",
+      "titulo": "Lei nº 1.595 de 29/04/1952",
+      "data": "1952-04-29",
+      "numero": "1595",
+      "urn": "urn:lex:br:federal:lei:1952-04-29;1595",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 100.000,00, destinado à ereção de monumento a Amaro Cavalcanti e à publicação de trabalho comemorativo do centenário de seu nascimento."
+    },
+    {
+      "senadoId": "543295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-23-1593",
+      "titulo": "Lei nº 1.593 de 23/04/1952",
+      "data": "1952-04-23",
+      "numero": "1593",
+      "urn": "urn:lex:br:federal:lei:1952-04-23;1593",
+      "ementa": "Assegura pensão especial às viúvas dos ex-Presidentes da República."
+    },
+    {
+      "senadoId": "543294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-23-1592",
+      "titulo": "Lei nº 1.592 de 23/04/1952",
+      "data": "1952-04-23",
+      "numero": "1592",
+      "urn": "urn:lex:br:federal:lei:1952-04-23;1592",
+      "ementa": "Concede pensão especial de Cr$ 1.100,00 mensais a D. Avelina de Almeida Campos, ex-agente postal de Planaltina."
+    },
+    {
+      "senadoId": "543292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-17-1591",
+      "titulo": "Lei nº 1.591 de 17/04/1952",
+      "data": "1952-04-17",
+      "numero": "1591",
+      "urn": "urn:lex:br:federal:lei:1952-04-17;1591",
+      "ementa": "Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.444.319,00 destinado às obras de ampliação das instalações do Tribunal de Contas."
+    },
+    {
+      "senadoId": "543293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-16-1591-a",
+      "titulo": "Lei nº 1.591-A de 16/04/1952",
+      "data": "1952-04-16",
+      "numero": "1591-a",
+      "urn": "urn:lex:br:federal:lei:1952-04-16;1591-a",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 1.600.000,00 para despesas decorrentes de substituições."
+    },
+    {
+      "senadoId": "543291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-08-1590",
+      "titulo": "Lei nº 1.590 de 08/04/1952",
+      "data": "1952-04-08",
+      "numero": "1590",
+      "urn": "urn:lex:br:federal:lei:1952-04-08;1590",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria e Comércio, um crédito especial de Cr$ 2.000.000,00, (dois milhões de cruzeiros), para socorro às vítimas de incêndios ocorridos, em 1951, na zona suburbana da cidade de São Luís, Estado do Maranhão."
+    },
+    {
+      "senadoId": "543289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-04-08-1589",
+      "titulo": "Lei nº 1.589 de 08/04/1952",
+      "data": "1952-04-08",
+      "numero": "1589",
+      "urn": "urn:lex:br:federal:lei:1952-04-08;1589",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 40.716,40, para atender ao pagamento de despesas com a Justiça do Trabalho."
+    },
+    {
+      "senadoId": "543288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-31-1588",
+      "titulo": "Lei nº 1.588 de 31/03/1952",
+      "data": "1952-03-31",
+      "numero": "1588",
+      "urn": "urn:lex:br:federal:lei:1952-03-31;1588",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial Cr$ 980.023,20 (novecentos e oitenta mil, vinte e três cruzeiros e vinte centavos), para atender às despesas do Ministério Público do Trabalho."
+    },
+    {
+      "senadoId": "543285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-31-1587",
+      "titulo": "Lei nº 1.587 de 31/03/1952",
+      "data": "1952-03-31",
+      "numero": "1587",
+      "urn": "urn:lex:br:federal:lei:1952-03-31;1587",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras para material destinado à Usina Elétrica Municipal de Santa Cruz do Sul, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-29-1586",
+      "titulo": "Lei nº 1.586 de 29/03/1952",
+      "data": "1952-03-29",
+      "numero": "1586",
+      "urn": "urn:lex:br:federal:lei:1952-03-29;1586",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Aeronáutica, o crédito especial de Cr$ 217.644,00, para pagamento de diferença de proventos ao suboficial reformado Luiz de Goes."
+    },
+    {
+      "senadoId": "543281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-28-1585",
+      "titulo": "Lei nº 1.585 de 28/03/1952",
+      "data": "1952-03-28",
+      "numero": "1585",
+      "urn": "urn:lex:br:federal:lei:1952-03-28;1585",
+      "ementa": "Altera dispositivos da Lei do Serviço Militar (Decreto-lei número 9.500, de 23 de julho de 1946)."
+    },
+    {
+      "senadoId": "543280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-27-1584",
+      "titulo": "Lei nº 1.584 de 27/03/1952",
+      "data": "1952-03-27",
+      "numero": "1584",
+      "urn": "urn:lex:br:federal:lei:1952-03-27;1584",
+      "ementa": "Dispõe sobre o provimento dos cargos em comissão, nos Institutos e Caixas de Aposentadoria e Pensões."
+    },
+    {
+      "senadoId": "543279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-25-1583",
+      "titulo": "Lei nº 1.583 de 25/03/1952",
+      "data": "1952-03-25",
+      "numero": "1583",
+      "urn": "urn:lex:br:federal:lei:1952-03-25;1583",
+      "ementa": "Abre ao Poder Judiciário - Tribunal Federal de Recursos - o crédito especial de Cr$ 44.740,50, destinado ao pagamento das despesas de substituição de Ministros, em razão de convocação ou impedimento."
+    },
+    {
+      "senadoId": "543278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-22-1582",
+      "titulo": "Lei nº 1.582 de 22/03/1952",
+      "data": "1952-03-22",
+      "numero": "1582",
+      "urn": "urn:lex:br:federal:lei:1952-03-22;1582",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, do crédito especial de Cr$ 17.835.400,00, para ocorrer ao pagamento de diversos despesas relativas aos exercícios de 1947 e 1948."
+    },
+    {
+      "senadoId": "543277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-21-1581",
+      "titulo": "Lei nº 1.581 de 21/03/1952",
+      "data": "1952-03-21",
+      "numero": "1581",
+      "urn": "urn:lex:br:federal:lei:1952-03-21;1581",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Justiça Eleitoral - o crédito especial de Cr$ 45.900,00 a fim de atender ao pagamento de gratificação de representação devido aos juízes do Tribunal Regional Eleitoral do Estado de Mato Grosso, relativamente ao exercício de 1947."
+    },
+    {
+      "senadoId": "543276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-20-1580",
+      "titulo": "Lei nº 1.580 de 20/03/1952",
+      "data": "1952-03-20",
+      "numero": "1580",
+      "urn": "urn:lex:br:federal:lei:1952-03-20;1580",
+      "ementa": "Altera os arts. 3º, 4º e 5º da Lei nº 794, de 29 de agosto de 1949, que assegura a inscrição de provisionados no quadro da Ordem dos Advogados do Brasil."
+    },
+    {
+      "senadoId": "543275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-18-1579",
+      "titulo": "Lei nº 1.579 de 18/03/1952",
+      "data": "1952-03-18",
+      "numero": "1579",
+      "urn": "urn:lex:br:federal:lei:1952-03-18;1579",
+      "ementa": "Dispõe sobre as Comissões Parlamentares de Inquéritos."
+    },
+    {
+      "senadoId": "543274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-17-1578",
+      "titulo": "Lei nº 1.578 de 17/03/1952",
+      "data": "1952-03-17",
+      "numero": "1578",
+      "urn": "urn:lex:br:federal:lei:1952-03-17;1578",
+      "ementa": "Concede isenção de tributos, exclusive a taxa de previdência social, a materiais importados para vários templos religiosos."
+    },
+    {
+      "senadoId": "543273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-17-1577",
+      "titulo": "Lei nº 1.577 de 17/03/1952",
+      "data": "1952-03-17",
+      "numero": "1577",
+      "urn": "urn:lex:br:federal:lei:1952-03-17;1577",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 93.600.000,00, para pagamento de compromissos de guerra."
+    },
+    {
+      "senadoId": "543272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-17-1576",
+      "titulo": "Lei nº 1.576 de 17/03/1952",
+      "data": "1952-03-17",
+      "numero": "1576",
+      "urn": "urn:lex:br:federal:lei:1952-03-17;1576",
+      "ementa": "Restitui ao Governo da República Federal da Alemanha o imóvel da antiga Embaixada Alemã no Rio de Janeiro, incorporado ao patrimônio nacional."
+    },
+    {
+      "senadoId": "543271",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-14-1575",
+      "titulo": "Lei nº 1.575 de 14/03/1952",
+      "data": "1952-03-14",
+      "numero": "1575",
+      "urn": "urn:lex:br:federal:lei:1952-03-14;1575",
+      "ementa": "Reorganiza o Quadro da Secretaria do Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "543269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-13-1573",
+      "titulo": "Lei nº 1.573 de 13/03/1952",
+      "data": "1952-03-13",
+      "numero": "1573",
+      "urn": "urn:lex:br:federal:lei:1952-03-13;1573",
+      "ementa": "Manda contar, para efeito de disponibilidade e aposentadoria, o tempo de serviço prestado junto ao Serviço Especial de Saúde Pública."
+    },
+    {
+      "senadoId": "543270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-13-1574",
+      "titulo": "Lei nº 1.574 de 13/03/1952",
+      "data": "1952-03-13",
+      "numero": "1574",
+      "urn": "urn:lex:br:federal:lei:1952-03-13;1574",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o crédito especial de Cr$ 30.391.198,30, para atender ao pagamento de indenização devida a Construções Aeronáuticas S.A., concessionária da Fábrica de Aviões da Lagoa Santa, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "543268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-11-1572",
+      "titulo": "Lei nº 1.572 de 11/03/1952",
+      "data": "1952-03-11",
+      "numero": "1572",
+      "urn": "urn:lex:br:federal:lei:1952-03-11;1572",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 5.000.000,00, para auxiliar os festejos comemorativos do 1º centenário da Cidade de Teresina, Capital do Estado do Piauí."
+    },
+    {
+      "senadoId": "543267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-11-1571",
+      "titulo": "Lei nº 1.571 de 11/03/1952",
+      "data": "1952-03-11",
+      "numero": "1571",
+      "urn": "urn:lex:br:federal:lei:1952-03-11;1571",
+      "ementa": "Aplica-se às pessoas físicas ou jurídicas, alemães ou japonesas, residentes ou domiciliadas no exterior, as disposições do art. 1º do Decreto-lei nº 4.806, de 7 de outubro de 1942, e do artigo 1º do Decreto-lei n° 9.123, de 3 de abril de 1946."
+    },
+    {
+      "senadoId": "543266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-10-1570",
+      "titulo": "Lei nº 1.570 de 10/03/1952",
+      "data": "1952-03-10",
+      "numero": "1570",
+      "urn": "urn:lex:br:federal:lei:1952-03-10;1570",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial de Cr$ 1.000.000,00, para ressarcimento das despesas e trabalhos realizados por Manoel Inácio Bastos e Oscar Salvador Cordeiro."
+    },
+    {
+      "senadoId": "543265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-08-1569",
+      "titulo": "Lei nº 1.569 de 08/03/1952",
+      "data": "1952-03-08",
+      "numero": "1569",
+      "urn": "urn:lex:br:federal:lei:1952-03-08;1569",
+      "ementa": "Autoriza o Poder Executivo a doar imóveis sitos nos Municípios de Lavras e São João del-Rei, Estado de Minas Gerais, provenientes de heranças vacantes, à Fundação da Casa Popular de São João Del Rei e a instituições sociais do mesmo Estado."
+    },
+    {
+      "senadoId": "543264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-07-1568",
+      "titulo": "Lei nº 1.568 de 07/03/1952",
+      "data": "1952-03-07",
+      "numero": "1568",
+      "urn": "urn:lex:br:federal:lei:1952-03-07;1568",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - o crédito especial de Cr$ 90.468,10, para ocorrer ao saldo do pagamento devido, por substituições, aos Juízes do Tribunal Regional do Trabalho da 1ª. Região."
+    },
+    {
+      "senadoId": "543263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-05-1567",
+      "titulo": "Lei nº 1.567 de 05/03/1952",
+      "data": "1952-03-05",
+      "numero": "1567",
+      "urn": "urn:lex:br:federal:lei:1952-03-05;1567",
+      "ementa": "Concede pensão especial a Ester de Souza Valente."
+    },
+    {
+      "senadoId": "543262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-05-1566",
+      "titulo": "Lei nº 1.566 de 05/03/1952",
+      "data": "1952-03-05",
+      "numero": "1566",
+      "urn": "urn:lex:br:federal:lei:1952-03-05;1566",
+      "ementa": "Aumenta para Cr$ 1.200,00 mensais a importância da pensão especial concedida à Senhora Leonor Barata Cotegipe."
+    },
+    {
+      "senadoId": "543261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-03-1565",
+      "titulo": "Lei nº 1.565 de 03/03/1952",
+      "data": "1952-03-03",
+      "numero": "1565",
+      "urn": "urn:lex:br:federal:lei:1952-03-03;1565",
+      "ementa": "Estabelece obrigatoriedade da representação, pelas Companhias teatrais, de peças de autores nacionais."
+    },
+    {
+      "senadoId": "543260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-01-1564",
+      "titulo": "Lei nº 1.564 de 01/03/1952",
+      "data": "1952-03-01",
+      "numero": "1564",
+      "urn": "urn:lex:br:federal:lei:1952-03-01;1564",
+      "ementa": "Altera, sem aumento de despesa, as carreiras de Marinheiro e Patrão do Quadro Suplementar do Ministério da Fazenda."
+    },
+    {
+      "senadoId": "543259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-03-01-1563",
+      "titulo": "Lei nº 1.563 de 01/03/1952",
+      "data": "1952-03-01",
+      "numero": "1563",
+      "urn": "urn:lex:br:federal:lei:1952-03-01;1563",
+      "ementa": "Dispõe sobre a marcação dos volumes que contiverem produtos brasileiros destinados à exportação para o estrangeiro."
+    },
+    {
+      "senadoId": "543258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-28-1562",
+      "titulo": "Lei nº 1.562 de 28/02/1952",
+      "data": "1952-02-28",
+      "numero": "1562",
+      "urn": "urn:lex:br:federal:lei:1952-02-28;1562",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 10.000.000,00, para ereção, na Capital da República, de um monumento a Rui Barbosa (Art. 33 do Ato das Disposições Constitucionais Transitórias)."
+    },
+    {
+      "senadoId": "543256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-21-1560",
+      "titulo": "Lei nº 1.560 de 21/02/1952",
+      "data": "1952-02-21",
+      "numero": "1560",
+      "urn": "urn:lex:br:federal:lei:1952-02-21;1560",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério das Relações Exteriores o crédito especial de Cr$ 600.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "543257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-21-1561",
+      "titulo": "Lei nº 1.561 de 21/02/1952",
+      "data": "1952-02-21",
+      "numero": "1561",
+      "urn": "urn:lex:br:federal:lei:1952-02-21;1561",
+      "ementa": "Dispõe sobre a profissão de conferente de carga e descarga, nos portos organizados do país."
+    },
+    {
+      "senadoId": "543255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-18-1559",
+      "titulo": "Lei nº 1.559 de 18/02/1952",
+      "data": "1952-02-18",
+      "numero": "1559",
+      "urn": "urn:lex:br:federal:lei:1952-02-18;1559",
+      "ementa": "Reconhece aos antigos encarregados e escrivães dos postos fiscais do Território do Acre os direitos assegurados pela Lei nº 3.454, de 6 de janeiro de 1918, e confirmados pelo Decreto n. 15.220, de 29 de setembro de 1921."
+    },
+    {
+      "senadoId": "543254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-16-1558",
+      "titulo": "Lei nº 1.558 de 16/02/1952",
+      "data": "1952-02-16",
+      "numero": "1558",
+      "urn": "urn:lex:br:federal:lei:1952-02-16;1558",
+      "ementa": "Dispõe sobre a contagem de tempo de efetivo serviço dos Oficiais Veterinários que outrora cursaram, na qualidade de alunos civis, a Escola de Veterinária do Exército."
+    },
+    {
+      "senadoId": "543253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-14-1557-a",
+      "titulo": "Lei nº 1.557-A de 14/02/1952",
+      "data": "1952-02-14",
+      "numero": "1557-a",
+      "urn": "urn:lex:br:federal:lei:1952-02-14;1557-a",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 300.000,00, como auxílio ao V Congresso Nacional dos Estabelecimentos Particulares de Ensino, a realizar-se em 1952, na cidade de Porto Alegre, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-12-1556",
+      "titulo": "Lei nº 1.556 de 12/02/1952",
+      "data": "1952-02-12",
+      "numero": "1556",
+      "urn": "urn:lex:br:federal:lei:1952-02-12;1556",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 300.000,00, destinado as despesas do Congresso de Anestesiologia."
+    },
+    {
+      "senadoId": "543252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-12-1557",
+      "titulo": "Lei nº 1.557 de 12/02/1952",
+      "data": "1952-02-12",
+      "numero": "1557",
+      "urn": "urn:lex:br:federal:lei:1952-02-12;1557",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 10.000.000,00 para socorro às populações flageladas pelos incêndios nos Estados de Santa Catarina e do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-08-1555",
+      "titulo": "Lei nº 1.555 de 08/02/1952",
+      "data": "1952-02-08",
+      "numero": "1555",
+      "urn": "urn:lex:br:federal:lei:1952-02-08;1555",
+      "ementa": "Denomina \"Comandante Gustavo Kramer\" o Aeroporto de Bagé, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "543248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-08-1553",
+      "titulo": "Lei nº 1.553 de 08/02/1952",
+      "data": "1952-02-08",
+      "numero": "1553",
+      "urn": "urn:lex:br:federal:lei:1952-02-08;1553",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário, o crédito especial de Cr$ 9.100,00, para pagamento de gratificações no exercício de 1948, no Tribunal Regional Eleitoral do Estado do Amazonas."
+    },
+    {
+      "senadoId": "543249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-08-1554",
+      "titulo": "Lei nº 1.554 de 08/02/1952",
+      "data": "1952-02-08",
+      "numero": "1554",
+      "urn": "urn:lex:br:federal:lei:1952-02-08;1554",
+      "ementa": "Manda incluir, no ensino da cadeira de Farmácia Galênica, as noções fundamentais de Farmácia Homeopática."
+    },
+    {
+      "senadoId": "543247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-08-1552",
+      "titulo": "Lei nº 1.552 de 08/02/1952",
+      "data": "1952-02-08",
+      "numero": "1552",
+      "urn": "urn:lex:br:federal:lei:1952-02-08;1552",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 189.760,00, para pagamento de diferença de vencimentos a Salomão Vasconcelos."
+    },
+    {
+      "senadoId": "543246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-07-1551",
+      "titulo": "Lei nº 1.551 de 07/02/1952",
+      "data": "1952-02-07",
+      "numero": "1551",
+      "urn": "urn:lex:br:federal:lei:1952-02-07;1551",
+      "ementa": "Fixa o prazo para o Conselho de Segurança Nacional emitir parecer nos termos do § 2º do art. 28 da Constituição Federal."
+    },
+    {
+      "senadoId": "543242",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-05-1547",
+      "titulo": "Lei nº 1.547 de 05/02/1952",
+      "data": "1952-02-05",
+      "numero": "1547",
+      "urn": "urn:lex:br:federal:lei:1952-02-05;1547",
+      "ementa": "Faculta aos químicos agrícolas interinos, da carreira especializada, do Ministério da Agricultura, o direito à matrícula no Curso de Aperfeiçoamento, Especialização e Extensão."
+    },
+    {
+      "senadoId": "543244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-05-1549",
+      "titulo": "Lei nº 1.549 de 05/02/1952",
+      "data": "1952-02-05",
+      "numero": "1549",
+      "urn": "urn:lex:br:federal:lei:1952-02-05;1549",
+      "ementa": "Estende aos químicos, para efeito de ingresso na carreira especializada de químico agrícola, as vantagens outorgadas pela Lei nº 657, de 21 de março de 1949, que dispõe sobre os cursos de aperfeiçoamento de especialização, criados no Ministério da Agricultura."
+    },
+    {
+      "senadoId": "543243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-05-1548",
+      "titulo": "Lei nº 1.548 de 05/02/1952",
+      "data": "1952-02-05",
+      "numero": "1548",
+      "urn": "urn:lex:br:federal:lei:1952-02-05;1548",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 300.000,00, como auxílio à Prefeitura Municipal de Uberaba e à Sociedade Rural do Triângulo Mineiro de Uberaba, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "543245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-02-05-1550",
+      "titulo": "Lei nº 1.550 de 05/02/1952",
+      "data": "1952-02-05",
+      "numero": "1550",
+      "urn": "urn:lex:br:federal:lei:1952-02-05;1550",
+      "ementa": "Reclassifica na carreira de contínuo do Quadro Suplementar do Ministério da Fazenda, classe F, os ex-contínuos de Delegacias Fiscais, incluídos no Quadro VII pela Lei n° 284, de 28 de outubro de 1936, como serventes, e dá outras providências."
+    },
+    {
+      "senadoId": "543241",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-29-1546",
+      "titulo": "Lei nº 1.546 de 29/01/1952",
+      "data": "1952-01-29",
+      "numero": "1546",
+      "urn": "urn:lex:br:federal:lei:1952-01-29;1546",
+      "ementa": "Revoga o art. 10 do Decreto-lei número 4.791, de 5 de outubro de 1942 e dá outras providências."
+    },
+    {
+      "senadoId": "543238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-08-1543",
+      "titulo": "Lei nº 1.543 de 08/01/1952",
+      "data": "1952-01-08",
+      "numero": "1543",
+      "urn": "urn:lex:br:federal:lei:1952-01-08;1543",
+      "ementa": "Concede pensão mensal a Benvinda de Holanda Moreira."
+    },
+    {
+      "senadoId": "543239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-08-1544",
+      "titulo": "Lei nº 1.544 de 08/01/1952",
+      "data": "1952-01-08",
+      "numero": "1544",
+      "urn": "urn:lex:br:federal:lei:1952-01-08;1544",
+      "ementa": "Autoriza a abertura de um crédito especial de Cr$ 80.000,00, (oitenta mil cruzeiros) para pagamento de despesas provenientes da substituição de presidentes de juntas do Tribunal Regional do Trabalho, da 1ª Região, e relativas ao exercício de 1950."
+    },
+    {
+      "senadoId": "543240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-08-1545",
+      "titulo": "Lei nº 1.545 de 08/01/1952",
+      "data": "1952-01-08",
+      "numero": "1545",
+      "urn": "urn:lex:br:federal:lei:1952-01-08;1545",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário, o crédito especial de Cr$ 9.000,00, para pagamento de diferença de aluguel do prédio-sede do Tribunal Regional Eleitoral do Ceará."
+    },
+    {
+      "senadoId": "543237",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-05-1542",
+      "titulo": "Lei nº 1.542 de 05/01/1952",
+      "data": "1952-01-05",
+      "numero": "1542",
+      "urn": "urn:lex:br:federal:lei:1952-01-05;1542",
+      "ementa": "Dispõe sobre o casamento de funcionários da carreira de Diplomata com pessoa de nacionalidade estrangeira."
+    },
+    {
+      "senadoId": "543236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-05-1541",
+      "titulo": "Lei nº 1.541 de 05/01/1952",
+      "data": "1952-01-05",
+      "numero": "1541",
+      "urn": "urn:lex:br:federal:lei:1952-01-05;1541",
+      "ementa": "Autoriza a abertura ao Poder Judiciário - Justiça do Trabalho - de crédito especial de Cr$ 3.807.847,40, para pagamento de despesas relativas ao exercicío de 1951."
+    },
+    {
+      "senadoId": "543233",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-03-1538",
+      "titulo": "Lei nº 1.538 de 03/01/1952",
+      "data": "1952-01-03",
+      "numero": "1538",
+      "urn": "urn:lex:br:federal:lei:1952-01-03;1538",
+      "ementa": "Concede isenção de tributos, exclusive a taxa de previdência Social, a materiais importados pela Creche Regina Apostolorum, de Sete Lagoas, e outras instituições."
+    },
+    {
+      "senadoId": "543234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-03-1539",
+      "titulo": "Lei nº 1.539 de 03/01/1952",
+      "data": "1952-01-03",
+      "numero": "1539",
+      "urn": "urn:lex:br:federal:lei:1952-01-03;1539",
+      "ementa": "Ratifica a Lei nº 1.249, de 12 de dezembro de 1950, que orça a Receita e fixa a Despesa da União para o exercício financeiro de 1951."
+    },
+    {
+      "senadoId": "543235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-03-1540",
+      "titulo": "Lei nº 1.540 de 03/01/1952",
+      "data": "1952-01-03",
+      "numero": "1540",
+      "urn": "urn:lex:br:federal:lei:1952-01-03;1540",
+      "ementa": "Dá nova redação ao art. 224, da Consolidação das Leis do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "543231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-02-1536",
+      "titulo": "Lei nº 1.536 de 02/01/1952",
+      "data": "1952-01-02",
+      "numero": "1536",
+      "urn": "urn:lex:br:federal:lei:1952-01-02;1536",
+      "ementa": "Autoriza o Poder Executivo a doar imóvel do domínio da União ao Município de Ibaiti, Estado do Paraná."
+    },
+    {
+      "senadoId": "543232",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1952-01-02-1537",
+      "titulo": "Lei nº 1.537 de 02/01/1952",
+      "data": "1952-01-02",
+      "numero": "1537",
+      "urn": "urn:lex:br:federal:lei:1952-01-02;1537",
+      "ementa": "Autoriza o ministro da Fazenda a contratar com o Banco do Brasil S.A. o financiamento de compra de máquinas agrícolas e animais de tração destinados ao fomento da produção, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

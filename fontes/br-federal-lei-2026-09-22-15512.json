@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-22-15512",
+  "titulo": "Lei nº 15.512 de 22/09/2026",
+  "data": "2026-09-22",
+  "fonte": "https://normas.leg.br/api/public/binario/4b6e0675-95bf-48d6-aa58-8bf2f77b194f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-22;15512",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-22%3B15512&tipo_documento=maior-detalhe",
+  "sha256_dados": "0c86751e0398e743ff995862e5586e3b6ffa071d627e017f8cb287e08f468f1a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:19.641Z",
+  "sha256_fonte": "ac0fd35c728ae2ef900a153fcdcd7f6a73ced8be7e23222162189139bffc3d84",
+  "sha256_markdown": "d4bbbaafbfd76cd67a27ea597af31ff4c0234d7620cbd3a8f8d0690208b90607"
+}

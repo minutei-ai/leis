@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-04-30-15398",
+  "titulo": "Lei nº 15.398 de 30/04/2026",
+  "data": "2026-04-30",
+  "fonte": "https://normas.leg.br/api/public/binario/0de2bcc1-c6b6-413b-ab99-73e582f6275f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-04-30;15398",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-04-30%3B15398&tipo_documento=maior-detalhe",
+  "sha256_dados": "2192212b7aa6ee063756f5a242586f26f2ab29447f82be01c2b268b045f5702b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:56.094Z",
+  "sha256_fonte": "0e35d8c9bcafb2fb422a7a01fce56781b74cb54d10a0a12923ac5ac02a78de1d",
+  "sha256_markdown": "63c1cce72f896a22530dc6222686f6ba70a00dbb02ec299a5691701f9294e536"
+}

@@ -1,0 +1,1759 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1999",
+  "tipo": "LEI",
+  "ano": 1999,
+  "coletado_em": "2026-10-20T22:56:55.596Z",
+  "normas": [
+    {
+      "senadoId": "551828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-28-9952",
+      "titulo": "Lei nº 9.952 de 28/12/1999",
+      "data": "1999-12-28",
+      "numero": "9952",
+      "urn": "urn:lex:br:federal:lei:1999-12-28;9952",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Senado Federal e da   Presidência da República, crédito especial no valor global de R$ 2.363.536,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "551827",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-23-9951",
+      "titulo": "Lei nº 9.951 de 23/12/1999",
+      "data": "1999-12-23",
+      "numero": "9951",
+      "urn": "urn:lex:br:federal:lei:1999-12-23;9951",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Cultura, crédito especial no valor global de R$ 620.000,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "551826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-23-9950",
+      "titulo": "Lei nº 9.950 de 23/12/1999",
+      "data": "1999-12-23",
+      "numero": "9950",
+      "urn": "urn:lex:br:federal:lei:1999-12-23;9950",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, crédito suplementar no valor global de R$ 10.959.846,00 para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9946",
+      "titulo": "Lei nº 9.946 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9946",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9946",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça do Trabalho, crédito suplementar no valor de R$ 8.825.405,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551820",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9944",
+      "titulo": "Lei nº 9.944 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9944",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9944",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento, Indústria e Comércio Exterior, crédito especial no valor de R$ 353.155.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9942",
+      "titulo": "Lei nº 9.942 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9942",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9942",
+      "ementa": "Dá ao aeroporto de Teresina a denominação de Aeroporto de Teresina/Senador Petrônio Portella."
+    },
+    {
+      "senadoId": "551824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9948",
+      "titulo": "Lei nº 9.948 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9948",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9948",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 55.681.391,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9947",
+      "titulo": "Lei nº 9.947 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9947",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9947",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, do Ministério da Ciência e Tecnologia, do Ministério das Minas e Energia e do Ministério do Meio Ambiente, crédito suplementar no valor global de R$ 54.776.195,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9943",
+      "titulo": "Lei nº 9.943 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9943",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9943",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor global de R$ 57.827.000,00 para reforço de dotações consignadas no orçamento vigente."
+    },
+    {
+      "senadoId": "551821",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9945",
+      "titulo": "Lei nº 9.945 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9945",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9945",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos, crédito suplementar no valor global de R$ 5.438.926,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551825",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-22-9949",
+      "titulo": "Lei nº 9.949 de 22/12/1999",
+      "data": "1999-12-22",
+      "numero": "9949",
+      "urn": "urn:lex:br:federal:lei:1999-12-22;9949",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos dos Poderes Legislativo e Executivo, crédito suplementar no valor global de 138.930.729,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551817",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-21-9941",
+      "titulo": "Lei nº 9.941 de 21/12/1999",
+      "data": "1999-12-21",
+      "numero": "9941",
+      "urn": "urn:lex:br:federal:lei:1999-12-21;9941",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Educação, crédito especial no valor de R$ 5.949.717,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-21-9940",
+      "titulo": "Lei nº 9.940 de 21/12/1999",
+      "data": "1999-12-21",
+      "numero": "9940",
+      "urn": "urn:lex:br:federal:lei:1999-12-21;9940",
+      "ementa": "Altera dispositivo da Lei n. 9615, de 24 de março de 1998, que institui   normas gerais sobre desporto e dá outras providências."
+    },
+    {
+      "senadoId": "551815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9939",
+      "titulo": "Lei nº 9.939 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9939",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9939",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 12.458.518.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551809",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9933",
+      "titulo": "Lei nº 9.933 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9933",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9933",
+      "ementa": "Dispõe sobre as competências do Conmetro e do Inmetro, institui a Taxa de Serviços Metrológicos, e dá outras providências."
+    },
+    {
+      "senadoId": "551814",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9938",
+      "titulo": "Lei nº 9.938 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9938",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9938",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor de diversas empresas do Grupo PETROBRÁS, crédito suplementar no valor total de R$ 1.300.234.022,00 e reduz o Orçamento de Investimento da empresa Petrobrás Internacional S.A. - BRASPETRO, no valor global de R$ 206.032.800,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551813",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9937",
+      "titulo": "Lei nº 9.937 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9937",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9937",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor da Empresa Transmissora de Energia Elétrica do Sul do Brasil S.A. - ELETROSUL e de FURNAS Centrais Elétricas S.A., crédito especial no valor total de R$ 466.853.100,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551812",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9936",
+      "titulo": "Lei nº 9.936 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9936",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9936",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito suplementar no valor de R$ 336.102.046,00, para reforço de dotações constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "551811",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9935",
+      "titulo": "Lei nº 9.935 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9935",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9935",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 76.022.300,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551808",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9932",
+      "titulo": "Lei nº 9.932 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9932",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9932",
+      "ementa": "Dispõe sobre a transferência de atribuições da IRB-Brasil Resseguros S.A. - IRB-BRASIL Re para a Superintendência de Seguros Privados - SUSEP, e dá outras providências."
+    },
+    {
+      "senadoId": "551810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-20-9934",
+      "titulo": "Lei nº 9.934 de 20/12/1999",
+      "data": "1999-12-20",
+      "numero": "9934",
+      "urn": "urn:lex:br:federal:lei:1999-12-20;9934",
+      "ementa": "Altera a Lei n. 6015, de 31 de dezembro de 1973, para acrescentar dispositivos sobre a redução de despesas cartorárias com as escrituras públicas e os registros imobiliários para a aquisição de imóvel construído pelo sistema de mutirão nos programas habitacionais para famílias de baixa renda."
+    },
+    {
+      "senadoId": "551805",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-17-9929",
+      "titulo": "Lei nº 9.929 de 17/12/1999",
+      "data": "1999-12-17",
+      "numero": "9929",
+      "urn": "urn:lex:br:federal:lei:1999-12-17;9929",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial no valor dae R$ 12.112.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551806",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-17-9930",
+      "titulo": "Lei nº 9.930 de 17/12/1999",
+      "data": "1999-12-17",
+      "numero": "9930",
+      "urn": "urn:lex:br:federal:lei:1999-12-17;9930",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Relações Exteriores, crédito suplementar no valor de R$ 23.000.000,00, para reforço de dotação constante do orçamento vigente."
+    },
+    {
+      "senadoId": "551802",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-17-9926",
+      "titulo": "Lei nº 9.926 de 17/12/1999",
+      "data": "1999-12-17",
+      "numero": "9926",
+      "urn": "urn:lex:br:federal:lei:1999-12-17;9926",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Planejamento, Orçamento e Gestão e de Encargos Financeiros da União, crédito especial no valor global de R$291.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551807",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-17-9931",
+      "titulo": "Lei nº 9.931 de 17/12/1999",
+      "data": "1999-12-17",
+      "numero": "9931",
+      "urn": "urn:lex:br:federal:lei:1999-12-17;9931",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Refinanciamento da Dívida Pública Mobiliária Federal, crédito suplementar no valor de R$ 17.200.000.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551803",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-17-9927",
+      "titulo": "Lei nº 9.927 de 17/12/1999",
+      "data": "1999-12-17",
+      "numero": "9927",
+      "urn": "urn:lex:br:federal:lei:1999-12-17;9927",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça do Distrito Federal e dos Territórios, crédito suplementar no valor de R$ 4.855.000,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551804",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-17-9928",
+      "titulo": "Lei nº 9.928 de 17/12/1999",
+      "data": "1999-12-17",
+      "numero": "9928",
+      "urn": "urn:lex:br:federal:lei:1999-12-17;9928",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Planejamento, Orçamento e Gestão, crédito especial no valor de R$ 5.400.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551791",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9915",
+      "titulo": "Lei nº 9.915 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9915",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9915",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios dos Transportes e do Meio Ambiente, crédito suplementar no valor global de R$ 48.675.754,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9919",
+      "titulo": "Lei nº 9.919 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9919",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9919",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito suplementar no valor de R$ 143.234.909,00, para reforço de dotações constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "551798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9922",
+      "titulo": "Lei nº 9.922 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9922",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9922",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor de diversas empresas do Grupo Eletrobrás, crédito suplementar no valor total de R$ 494.578.820,00, e reduz o Orçamento de Investimento, de diversas empresas do mesmo Grupo, no valor global de R$ 472.583.663,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551789",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9913",
+      "titulo": "Lei nº 9.913 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9913",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9913",
+      "ementa": "Abre ao Orçamento de Investimento, em favor das empresas Casa da Moeda do Brasil e BANESPA S.A. - Corretora de Seguros, crédito suplementar no valor total de R$ 8.510.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9918",
+      "titulo": "Lei nº 9.918 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9918",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9918",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, crédito suplementar no valor global de R$ 141.436.100,00, para reforço de dotações consignadas no orçamento vigente."
+    },
+    {
+      "senadoId": "551797",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9921",
+      "titulo": "Lei nº 9.921 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9921",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9921",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação e da Previdência e Assistência Social, crédito suplementar no valor global de R$ 343.049.123,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551793",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9917",
+      "titulo": "Lei nº 9.917 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9917",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9917",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 65.995.300,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551788",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9912",
+      "titulo": "Lei nº 9.912 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9912",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9912",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 20.041.582.000,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551790",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9914",
+      "titulo": "Lei nº 9.914 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9914",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9914",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência e Tecnologia e do Meio Ambiente, crédito especial no valor global de R$ 11.935.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551801",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9925",
+      "titulo": "Lei nº 9.925 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9925",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9925",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 10.000.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551792",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9916",
+      "titulo": "Lei nº 9.916 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9916",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9916",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito especial no valor de R$ 49.014.700,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551796",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9920",
+      "titulo": "Lei nº 9.920 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9920",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9920",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de diversos Órgãos do Poder Executivo, crédito suplementar no valor global de R$ 236.537.774,00, para reforço de dotações consignadas no orçamento vigente."
+    },
+    {
+      "senadoId": "551799",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9923",
+      "titulo": "Lei nº 9.923 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9923",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9923",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor da empresas Petróleo Brasileiro S.A. - Petrobrás, e Petrobrás Distribuidora S.A. - BR, do Grupo Petrobrás, crédito especial no valor total de R$ 507.500.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551800",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-16-9924",
+      "titulo": "Lei nº 9.924 de 16/12/1999",
+      "data": "1999-12-16",
+      "numero": "9924",
+      "urn": "urn:lex:br:federal:lei:1999-12-16;9924",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 1.259..061.232,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551787",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-15-9911",
+      "titulo": "Lei nº 9.911 de 15/12/1999",
+      "data": "1999-12-15",
+      "numero": "9911",
+      "urn": "urn:lex:br:federal:lei:1999-12-15;9911",
+      "ementa": "Altera o nome do Aeroporto Campo dos Palmares no Estado de Alagoas."
+    },
+    {
+      "senadoId": "551784",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9908",
+      "titulo": "Lei nº 9.908 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9908",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9908",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, crédito suplementar no valor de R$ 9.849.000,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551777",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9901",
+      "titulo": "Lei nº 9.901 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9901",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9901",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, crédito suplementar no valor global de R$ 51.143.245,00, para reforço de dotações constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "551782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9906",
+      "titulo": "Lei nº 9.906 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9906",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9906",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor da Companhia de Geração Térmica de Energia Elétrica - CGTEE, crédito especial no valor de R$ 41.211.137,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551771",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9895",
+      "titulo": "Lei nº 9.895 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9895",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9895",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e do Ministério da Defesa, crédito suplementar no valor global de R$ 52.496.869,00, para reforço de dotações constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "551779",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9903",
+      "titulo": "Lei nº 9.903 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9903",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9903",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 4.290.301,00, para reforço de dotações para pessoal e encargos sociais."
+    },
+    {
+      "senadoId": "551778",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9902",
+      "titulo": "Lei nº 9.902 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9902",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9902",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério de Minas e Energia e do Ministério do Meio Ambiente, crédito especial no valor global de R$ 10.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9907",
+      "titulo": "Lei nº 9.907 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9907",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9907",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Agricultura e do Abastecimento, crédito suplementar no valor de R$ 50.000.000,00, para reforço de dotações do orçamento vigente."
+    },
+    {
+      "senadoId": "551780",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9904",
+      "titulo": "Lei nº 9.904 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9904",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9904",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor do Banco do Brasil S.A. e da Caixa Econômica Federal, crédito suplementar no valor total de R$ 373.370.723,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551775",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9899",
+      "titulo": "Lei nº 9.899 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9899",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9899",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar no valor de R$ 160.729.000,00, reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551774",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9898",
+      "titulo": "Lei nº 9.898 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9898",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9898",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União-Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$ 300.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551776",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9900",
+      "titulo": "Lei nº 9.900 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9900",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9900",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor das empresas Companhia Docas do Ceará e Companhia Docas do Espírito Santo, crédito especial até o limite de R$ 3.600.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551785",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9909",
+      "titulo": "Lei nº 9.909 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9909",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9909",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social , em favor da Câmara dos Deputados e do Ministério da Defesa, crédito suplementar no valor global de R$ 7.459.118,00, para reforço de dotações constantes dos orçamentos vigentes."
+    },
+    {
+      "senadoId": "551772",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9896",
+      "titulo": "Lei nº 9.896 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9896",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9896",
+      "ementa": "Institui o Programa Emergencial de Combate aos Efeitos da Seca, autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor da Presidência da República, crédito extraordinário no valor de R$ 165.000.000,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "551786",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9910",
+      "titulo": "Lei nº 9.910 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9910",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9910",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social, crédito suplementar no valor de R$ 4.016.521.323,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551773",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9897",
+      "titulo": "Lei nº 9.897 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9897",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9897",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$ 183.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551781",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-14-9905",
+      "titulo": "Lei nº 9.905 de 14/12/1999",
+      "data": "1999-12-14",
+      "numero": "9905",
+      "urn": "urn:lex:br:federal:lei:1999-12-14;9905",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor do Banco do Estado do Amazonas S.A., Banco do Estado do Ceará S.A. e Banco do Estado de Goiás S.A., crédito especial no valor de R$ 26.518.929,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-13-9894",
+      "titulo": "Lei nº 9.894 de 13/12/1999",
+      "data": "1999-12-13",
+      "numero": "9894",
+      "urn": "urn:lex:br:federal:lei:1999-12-13;9894",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, do Ministério da Justiça e do Ministério da Integração Nacional, crédito suplementar no valor global de R$ 32.839.000,00, para reforço de dotações constantes dos orçamentos vigentes."
+    },
+    {
+      "senadoId": "551767",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-10-9891",
+      "titulo": "Lei nº 9.891 de 10/12/1999",
+      "data": "1999-12-10",
+      "numero": "9891",
+      "urn": "urn:lex:br:federal:lei:1999-12-10;9891",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral e do Ministério Públicação da União, crédito suplementar no valor global de R$ 1.984.260,00, para refoço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551766",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-10-9890",
+      "titulo": "Lei nº 9.890 de 10/12/1999",
+      "data": "1999-12-10",
+      "numero": "9890",
+      "urn": "urn:lex:br:federal:lei:1999-12-10;9890",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, crédito suplementar no valor de R$ 3.647.634,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551769",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-10-9893",
+      "titulo": "Lei nº 9.893 de 10/12/1999",
+      "data": "1999-12-10",
+      "numero": "9893",
+      "urn": "urn:lex:br:federal:lei:1999-12-10;9893",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, crédito suplementar no valor de R$ 124.924.041,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551765",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-10-9889",
+      "titulo": "Lei nº 9.889 de 10/12/1999",
+      "data": "1999-12-10",
+      "numero": "9889",
+      "urn": "urn:lex:br:federal:lei:1999-12-10;9889",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, crédito especial no valor de R$ 347.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-10-9892",
+      "titulo": "Lei nº 9.892 de 10/12/1999",
+      "data": "1999-12-10",
+      "numero": "9892",
+      "urn": "urn:lex:br:federal:lei:1999-12-10;9892",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Senado Federal, do Ministério das Relações Exteriores e do Ministério da Defesa, crédito suplementar no valor global de R$ 115.771.900,00, para reforço de dotações constantes dos orçamentos vigentes."
+    },
+    {
+      "senadoId": "551764",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-08-9888",
+      "titulo": "Lei nº 9.888 de 08/12/1999",
+      "data": "1999-12-08",
+      "numero": "9888",
+      "urn": "urn:lex:br:federal:lei:1999-12-08;9888",
+      "ementa": "Altera a redação e revoga dispositivos da Lei n. 7501, de 27 de junho de 1986, e dá outras providências."
+    },
+    {
+      "senadoId": "551761",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-07-9885",
+      "titulo": "Lei nº 9.885 de 07/12/1999",
+      "data": "1999-12-07",
+      "numero": "9885",
+      "urn": "urn:lex:br:federal:lei:1999-12-07;9885",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, crédito suplementar no valor global de R$ 179.828.737,00, para reforço de dotações consignadas no orçamento vigente."
+    },
+    {
+      "senadoId": "551762",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-07-9886",
+      "titulo": "Lei nº 9.886 de 07/12/1999",
+      "data": "1999-12-07",
+      "numero": "9886",
+      "urn": "urn:lex:br:federal:lei:1999-12-07;9886",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Gabinete do Ministro Extraordinário de Política Fundiária, crédito suplementar no valor de R$ 79.936.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551760",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-07-9884",
+      "titulo": "Lei nº 9.884 de 07/12/1999",
+      "data": "1999-12-07",
+      "numero": "9884",
+      "urn": "urn:lex:br:federal:lei:1999-12-07;9884",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial no valor global de R$ 76.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551763",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-07-9887",
+      "titulo": "Lei nº 9.887 de 07/12/1999",
+      "data": "1999-12-07",
+      "numero": "9887",
+      "urn": "urn:lex:br:federal:lei:1999-12-07;9887",
+      "ementa": "Altera a Legislação Tributária Federal."
+    },
+    {
+      "senadoId": "551759",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-07-9883",
+      "titulo": "Lei nº 9.883 de 07/12/1999",
+      "data": "1999-12-07",
+      "numero": "9883",
+      "urn": "urn:lex:br:federal:lei:1999-12-07;9883",
+      "ementa": "Institui o Sistema Brasileiro de Inteligência, cria a Agência Brasileira de Inteligência - ABIN, e dá outras providências."
+    },
+    {
+      "senadoId": "551758",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-03-9882",
+      "titulo": "Lei nº 9.882 de 03/12/1999",
+      "data": "1999-12-03",
+      "numero": "9882",
+      "urn": "urn:lex:br:federal:lei:1999-12-03;9882",
+      "ementa": "Dispõe sobre o processo e julgamento da argüição de descumprimento de preceito fundamental, nos termos do § 1º do art. 102 da Constituição Federal."
+    },
+    {
+      "senadoId": "551755",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-01-9879",
+      "titulo": "Lei nº 9.879 de 01/12/1999",
+      "data": "1999-12-01",
+      "numero": "9879",
+      "urn": "urn:lex:br:federal:lei:1999-12-01;9879",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 1.019.077.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551754",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-01-9878",
+      "titulo": "Lei nº 9.878 de 01/12/1999",
+      "data": "1999-12-01",
+      "numero": "9878",
+      "urn": "urn:lex:br:federal:lei:1999-12-01;9878",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor global de R$ 141.861.413,00, para reforço de dotações consignadas no orçamento vigente."
+    },
+    {
+      "senadoId": "551757",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-01-9881",
+      "titulo": "Lei nº 9.881 de 01/12/1999",
+      "data": "1999-12-01",
+      "numero": "9881",
+      "urn": "urn:lex:br:federal:lei:1999-12-01;9881",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito especial no valor de R$ 246.311.035,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551756",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-12-01-9880",
+      "titulo": "Lei nº 9.880 de 01/12/1999",
+      "data": "1999-12-01",
+      "numero": "9880",
+      "urn": "urn:lex:br:federal:lei:1999-12-01;9880",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 57.634.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551753",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-29-9877",
+      "titulo": "Lei nº 9.877 de 29/11/1999",
+      "data": "1999-11-29",
+      "numero": "9877",
+      "urn": "urn:lex:br:federal:lei:1999-11-29;9877",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos dos Poderes Legislativo, Executivo e Judiciário, crédito suplementar no valor global de R$ 1.737.394.876,00, para reforço de dotações consignadas nos orçamentos vigentes."
+    },
+    {
+      "senadoId": "551752",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-26-9876",
+      "titulo": "Lei nº 9.876 de 26/11/1999",
+      "data": "1999-11-26",
+      "numero": "9876",
+      "urn": "urn:lex:br:federal:lei:1999-11-26;9876",
+      "ementa": "Dispõe sobre a contribuição previdenciária do contribuinte individual, o cálculo do benefício, altera dispositivos das Leis nºs 8.212 e 8.213, ambas de 24 de julho de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "551751",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-25-9875",
+      "titulo": "Lei nº 9.875 de 25/11/1999",
+      "data": "1999-11-25",
+      "numero": "9875",
+      "urn": "urn:lex:br:federal:lei:1999-11-25;9875",
+      "ementa": "Denomina \"Rodovia ULYSSES GUIMARÃES\" a BR-282."
+    },
+    {
+      "senadoId": "551748",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-23-9872",
+      "titulo": "Lei nº 9.872 de 23/11/1999",
+      "data": "1999-11-23",
+      "numero": "9872",
+      "urn": "urn:lex:br:federal:lei:1999-11-23;9872",
+      "ementa": "Cria o Fundo de Aval para a Geração de Emprego e Renda - FUNPROGER, altera o art. 11 da Lei nº 9.365, de 16 de dezembro de 1996, e dá outras providências."
+    },
+    {
+      "senadoId": "551747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-23-9871",
+      "titulo": "Lei nº 9.871 de 23/11/1999",
+      "data": "1999-11-23",
+      "numero": "9871",
+      "urn": "urn:lex:br:federal:lei:1999-11-23;9871",
+      "ementa": "Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na faixa de fronteira, e dá outras providências."
+    },
+    {
+      "senadoId": "551749",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-23-9873",
+      "titulo": "Lei nº 9.873 de 23/11/1999",
+      "data": "1999-11-23",
+      "numero": "9873",
+      "urn": "urn:lex:br:federal:lei:1999-11-23;9873",
+      "ementa": "Estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta, e dá outras providências."
+    },
+    {
+      "senadoId": "551750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-23-9874",
+      "titulo": "Lei nº 9.874 de 23/11/1999",
+      "data": "1999-11-23",
+      "numero": "9874",
+      "urn": "urn:lex:br:federal:lei:1999-11-23;9874",
+      "ementa": "Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "551746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-23-9870",
+      "titulo": "Lei nº 9.870 de 23/11/1999",
+      "data": "1999-11-23",
+      "numero": "9870",
+      "urn": "urn:lex:br:federal:lei:1999-11-23;9870",
+      "ementa": "Dispõe sobre o valor total das anuidades escolares e dá outras providências."
+    },
+    {
+      "senadoId": "551745",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-12-9869",
+      "titulo": "Lei nº 9.869 de 12/11/1999",
+      "data": "1999-11-12",
+      "numero": "9869",
+      "urn": "urn:lex:br:federal:lei:1999-11-12;9869",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia e do Ministério do Meio Ambiente, crédito especial no valor global de R$ 111.580.000,00 (cento e onze milhões, quinhentos e oitenta mil reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "551744",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-10-9868",
+      "titulo": "Lei nº 9.868 de 10/11/1999",
+      "data": "1999-11-10",
+      "numero": "9868",
+      "urn": "urn:lex:br:federal:lei:1999-11-10;9868",
+      "ementa": "Dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "551743",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-10-9867",
+      "titulo": "Lei nº 9.867 de 10/11/1999",
+      "data": "1999-11-10",
+      "numero": "9867",
+      "urn": "urn:lex:br:federal:lei:1999-11-10;9867",
+      "ementa": "Dispõe sobre a criação e o funcionamento de Cooperativas Sociais, visando à integração social dos cidadãos, conforme especifica."
+    },
+    {
+      "senadoId": "551742",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-09-9866",
+      "titulo": "Lei nº 9.866 de 09/11/1999",
+      "data": "1999-11-09",
+      "numero": "9866",
+      "urn": "urn:lex:br:federal:lei:1999-11-09;9866",
+      "ementa": "Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995, e de dívidas para com o Fundo de Defesa da Economia Cafeeira - Funcafé, instituído pelo Decreto-Lei nº 2.295, de 21 de novembro de 1986, que foram reescalonadas no exercício de 1997, das operações de custeio e colheita da safra 1997/1998, à luz de resolução do Conselho Monetário Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "551737",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9861",
+      "titulo": "Lei nº 9.861 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9861",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9861",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, crédito suplementar no valor de R$ 11.000.000,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551736",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9860",
+      "titulo": "Lei nº 9.860 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9860",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9860",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor global de R$ 12.866.296,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551740",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9864",
+      "titulo": "Lei nº 9.864 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9864",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9864",
+      "ementa": "Abre ao Orçamento de Investimento para 1999, em favor das companhias que menciona, crédito suplementar até o limite de R$ 20.046.356,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551738",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9862",
+      "titulo": "Lei nº 9.862 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9862",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9862",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social e do Ministério da Educação, crédito especial no valor global de R$ 47.526.311,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551735",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9859",
+      "titulo": "Lei nº 9.859 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9859",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9859",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da empresa Companhia Docas do Rio de Janeiro, crédito especial até o limite de R$ 1.166.253,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551741",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9865",
+      "titulo": "Lei nº 9.865 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9865",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9865",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça do Distrito Federal e dos Territórios, crédito especial no valor de R$ 600.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551739",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-08-9863",
+      "titulo": "Lei nº 9.863 de 08/11/1999",
+      "data": "1999-11-08",
+      "numero": "9863",
+      "urn": "urn:lex:br:federal:lei:1999-11-08;9863",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério do Meio Ambiente, crédito suplementar no valor de R$ 2.157.300,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551734",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-04-9858",
+      "titulo": "Lei nº 9.858 de 04/11/1999",
+      "data": "1999-11-04",
+      "numero": "9858",
+      "urn": "urn:lex:br:federal:lei:1999-11-04;9858",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da empresa Companhia Docas do Rio de Janeiro, crédito suplementar até o limite de R$ 48.703.139,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551733",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-11-04-9857",
+      "titulo": "Lei nº 9.857 de 04/11/1999",
+      "data": "1999-11-04",
+      "numero": "9857",
+      "urn": "urn:lex:br:federal:lei:1999-11-04;9857",
+      "ementa": "Denomina \"Ponte Ivan Alcides Dias\" a obra-de-arte especial localizada no Município de Camaquã, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "551732",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-29-9856",
+      "titulo": "Lei nº 9.856 de 29/10/1999",
+      "data": "1999-10-29",
+      "numero": "9856",
+      "urn": "urn:lex:br:federal:lei:1999-10-29;9856",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação e da Previdência e Assistência Social, crédito suplementar no valor global de R$ 407.473.235,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551731",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-28-9855",
+      "titulo": "Lei nº 9.855 de 28/10/1999",
+      "data": "1999-10-28",
+      "numero": "9855",
+      "urn": "urn:lex:br:federal:lei:1999-10-28;9855",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Integração Nacional, crédito extraordinário no valor de R$ 110.000.000,00, para fins que especifica."
+    },
+    {
+      "senadoId": "551728",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-27-9852",
+      "titulo": "Lei nº 9.852 de 27/10/1999",
+      "data": "1999-10-27",
+      "numero": "9852",
+      "urn": "urn:lex:br:federal:lei:1999-10-27;9852",
+      "ementa": "Altera a Lei n. 5917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir na Relação Descritiva dos Portos Marítimos, Fluviais e Lacustres do Sistema Portuário Nacional os portos que especifica."
+    },
+    {
+      "senadoId": "551729",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-27-9853",
+      "titulo": "Lei nº 9.853 de 27/10/1999",
+      "data": "1999-10-27",
+      "numero": "9853",
+      "urn": "urn:lex:br:federal:lei:1999-10-27;9853",
+      "ementa": "Acrescenta inciso ao art. 473 da Consolidação das Leis do Trabalho, permitindo ao empregado faltar ao serviço, na hipótese que especifica."
+    },
+    {
+      "senadoId": "551730",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-27-9854",
+      "titulo": "Lei nº 9.854 de 27/10/1999",
+      "data": "1999-10-27",
+      "numero": "9854",
+      "urn": "urn:lex:br:federal:lei:1999-10-27;9854",
+      "ementa": "Altera dispositivos da Lei n. 8666, de 21 de junho de 1993, que regula o art 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+    },
+    {
+      "senadoId": "551727",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-27-9851",
+      "titulo": "Lei nº 9.851 de 27/10/1999",
+      "data": "1999-10-27",
+      "numero": "9851",
+      "urn": "urn:lex:br:federal:lei:1999-10-27;9851",
+      "ementa": "Dá nova redação ao § 1º do art. 61 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n. 5452."
+    },
+    {
+      "senadoId": "551724",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-26-9848",
+      "titulo": "Lei nº 9.848 de 26/10/1999",
+      "data": "1999-10-26",
+      "numero": "9848",
+      "urn": "urn:lex:br:federal:lei:1999-10-26;9848",
+      "ementa": "Altera dispositivos das Leis nºs 9138, de 29 de novembro de 1995, 8427, de 27 de maio de 1992, e 9126, de 10 de novembro de 1995, que dispõem, respectivamente, sobre o crédito rural; sobre a concessão de subvenção econômica nas operações de crédito rural; autoriza o Poder Executivo a renegociar as obrigações financeiras relativas à liquidação de operações de Empréstimos do Governo Federal - EGF, vencidas e prorrogadas a partir de 1991; e a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais e com recursos das Operações Oficiais de Crédito."
+    },
+    {
+      "senadoId": "551723",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-26-9847",
+      "titulo": "Lei nº 9.847 de 26/10/1999",
+      "data": "1999-10-26",
+      "numero": "9847",
+      "urn": "urn:lex:br:federal:lei:1999-10-26;9847",
+      "ementa": "Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis, de que trata a Lei nº 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras providências."
+    },
+    {
+      "senadoId": "551725",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-26-9849",
+      "titulo": "Lei nº 9.849 de 26/10/1999",
+      "data": "1999-10-26",
+      "numero": "9849",
+      "urn": "urn:lex:br:federal:lei:1999-10-26;9849",
+      "ementa": "Altera os arts. 2º, 3º, 4º, 5º, 6º, 7º e 9º da Lei n. 8745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, e dá outras providências."
+    },
+    {
+      "senadoId": "551726",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-26-9850",
+      "titulo": "Lei nº 9.850 de 26/10/1999",
+      "data": "1999-10-26",
+      "numero": "9850",
+      "urn": "urn:lex:br:federal:lei:1999-10-26;9850",
+      "ementa": "Dispõe sobre o número de cargos de Natureza Especial, de cargos do Grupo-Direção e Assessoramento Superiores e de Funções de Confiança existentes nos órgãos da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências."
+    },
+    {
+      "senadoId": "551722",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-26-9846",
+      "titulo": "Lei nº 9.846 de 26/10/1999",
+      "data": "1999-10-26",
+      "numero": "9846",
+      "urn": "urn:lex:br:federal:lei:1999-10-26;9846",
+      "ementa": "Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei n. 9424, de 24 de dezembro de 1996."
+    },
+    {
+      "senadoId": "551721",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-20-9845",
+      "titulo": "Lei nº 9.845 de 20/10/1999",
+      "data": "1999-10-20",
+      "numero": "9845",
+      "urn": "urn:lex:br:federal:lei:1999-10-20;9845",
+      "ementa": "Altera dispositivos da Lei n. 8432, de 11 de junho de 1992, determina a transferência de Sede de Junta de Conciliação e Julgamento, define jurisdição e dá outras providências."
+    },
+    {
+      "senadoId": "551719",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-18-9843",
+      "titulo": "Lei nº 9.843 de 18/10/1999",
+      "data": "1999-10-18",
+      "numero": "9843",
+      "urn": "urn:lex:br:federal:lei:1999-10-18;9843",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Judiciário, crédito suplementar no valor global de R$ 4.246.237,00, para reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "551720",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-18-9844",
+      "titulo": "Lei nº 9.844 de 18/10/1999",
+      "data": "1999-10-18",
+      "numero": "9844",
+      "urn": "urn:lex:br:federal:lei:1999-10-18;9844",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento, Indústria e Comércio Exterior, crédito suplementar no valor de R$ 36.983.700,00, para reforço de dotações constantes do vigente orçamento."
+    },
+    {
+      "senadoId": "551718",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-07-9842",
+      "titulo": "Lei nº 9.842 de 07/10/1999",
+      "data": "1999-10-07",
+      "numero": "9842",
+      "urn": "urn:lex:br:federal:lei:1999-10-07;9842",
+      "ementa": "Revoga os arts. 723, 724 e 725 do Decreto-Lei n. 5452, de 1º de maio de 1943, que aprova a Consolidação das Leis do Trabalho."
+    },
+    {
+      "senadoId": "551717",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-10-05-9841",
+      "titulo": "Lei nº 9.841 de 05/10/1999",
+      "data": "1999-10-05",
+      "numero": "9841",
+      "urn": "urn:lex:br:federal:lei:1999-10-05;9841",
+      "ementa": "Institui o Estatuto da Microempresa e da Empresa de Pequeno Porte, dispondo sobre o tratamento jurídico diferenciado, simplificado e favorecido previsto nos arts. 170 e 179 da Constituição Federal."
+    },
+    {
+      "senadoId": "551716",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-28-9840",
+      "titulo": "Lei nº 9.840 de 28/09/1999",
+      "data": "1999-09-28",
+      "numero": "9840",
+      "urn": "urn:lex:br:federal:lei:1999-09-28;9840",
+      "ementa": "Altera dispositivos da Lei nº 9.504, de 30 de setembro de 1997, e da Lei nº 4.737, de 15 de julho de 1965 ;- Código Eleitoral."
+    },
+    {
+      "senadoId": "551715",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-27-9839",
+      "titulo": "Lei nº 9.839 de 27/09/1999",
+      "data": "1999-09-27",
+      "numero": "9839",
+      "urn": "urn:lex:br:federal:lei:1999-09-27;9839",
+      "ementa": "Acrescenta artigo à Lei nº 9.099, de 26 de setembro de 1995."
+    },
+    {
+      "senadoId": "551714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-27-9838",
+      "titulo": "Lei nº 9.838 de 27/09/1999",
+      "data": "1999-09-27",
+      "numero": "9838",
+      "urn": "urn:lex:br:federal:lei:1999-09-27;9838",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 269.604.045,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551713",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-23-9837",
+      "titulo": "Lei nº 9.837 de 23/09/1999",
+      "data": "1999-09-23",
+      "numero": "9837",
+      "urn": "urn:lex:br:federal:lei:1999-09-23;9837",
+      "ementa": "Dá nova redação a dispositivo da Lei nº 2.929, de 27 de outubro de 1956, que disciplina o processo de alteração ou retificação de idade dos oficiais das Forças Armadas e dá outras providências."
+    },
+    {
+      "senadoId": "551712",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-23-9836",
+      "titulo": "Lei nº 9.836 de 23/09/1999",
+      "data": "1999-09-23",
+      "numero": "9836",
+      "urn": "urn:lex:br:federal:lei:1999-09-23;9836",
+      "ementa": "Acrescenta dispositivos à Lei nº 8080, de 19 de setembro de 1990, que \"dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências\", instituindo o Subsistema de Atenção à Saúde Indígena."
+    },
+    {
+      "senadoId": "551709",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-22-9833",
+      "titulo": "Lei nº 9.833 de 22/09/1999",
+      "data": "1999-09-22",
+      "numero": "9833",
+      "urn": "urn:lex:br:federal:lei:1999-09-22;9833",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 50.107.683,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551710",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-22-9834",
+      "titulo": "Lei nº 9.834 de 22/09/1999",
+      "data": "1999-09-22",
+      "numero": "9834",
+      "urn": "urn:lex:br:federal:lei:1999-09-22;9834",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social, crédito suplementar no valor de R$ 84.097.645,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-22-9835",
+      "titulo": "Lei nº 9.835 de 22/09/1999",
+      "data": "1999-09-22",
+      "numero": "9835",
+      "urn": "urn:lex:br:federal:lei:1999-09-22;9835",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Senado Federal, crédito especial no valor de R$ 190.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551708",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-14-9832",
+      "titulo": "Lei nº 9.832 de 14/09/1999",
+      "data": "1999-09-14",
+      "numero": "9832",
+      "urn": "urn:lex:br:federal:lei:1999-09-14;9832",
+      "ementa": "Proíbe o uso industrial de embalagens metálicas soldadas com liga de chumbo e estanho para acondicionamento de gêneros alimentícios, exceto para produtos secos ou desidratados."
+    },
+    {
+      "senadoId": "551707",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-13-9831",
+      "titulo": "Lei nº 9.831 de 13/09/1999",
+      "data": "1999-09-13",
+      "numero": "9831",
+      "urn": "urn:lex:br:federal:lei:1999-09-13;9831",
+      "ementa": "Estabelece, em todo o País, a data de 1º de junho de cada ano para as comemorações do Dia da Imprensa."
+    },
+    {
+      "senadoId": "551705",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-02-9829",
+      "titulo": "Lei nº 9.829 de 02/09/1999",
+      "data": "1999-09-02",
+      "numero": "9829",
+      "urn": "urn:lex:br:federal:lei:1999-09-02;9829",
+      "ementa": "Altera a redação do inciso III do art. 12 da Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins e dá outras providências."
+    },
+    {
+      "senadoId": "551706",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-09-02-9830",
+      "titulo": "Lei nº 9.830 de 02/09/1999",
+      "data": "1999-09-02",
+      "numero": "9830",
+      "urn": "urn:lex:br:federal:lei:1999-09-02;9830",
+      "ementa": "Altera a Lei n. 5917, de 10 de setembro de 1973, para incluir a ligação rodoviária Bragança (PA) - Itaúna (MA) na Relação Descritiva das Rodovias do Sistema Rodoviário Federal."
+    },
+    {
+      "senadoId": "551704",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-30-9828",
+      "titulo": "Lei nº 9.828 de 30/08/1999",
+      "data": "1999-08-30",
+      "numero": "9828",
+      "urn": "urn:lex:br:federal:lei:1999-08-30;9828",
+      "ementa": "Inscreve o nome de D. Pedro I no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "551703",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-27-9827",
+      "titulo": "Lei nº 9.827 de 27/08/1999",
+      "data": "1999-08-27",
+      "numero": "9827",
+      "urn": "urn:lex:br:federal:lei:1999-08-27;9827",
+      "ementa": "Acrescenta parágrafo único ao art. 2º do Decreto-Lei nº 227, de 28 de fevereiro de 1967, com a redação dada pela Lei nº 9.314, de 14 de novembro de 1996."
+    },
+    {
+      "senadoId": "551689",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9813",
+      "titulo": "Lei nº 9.813 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9813",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9813",
+      "ementa": "Acresce parágrafo ao art. 12 da Lei nº 7.738, de 9 de março de 1989, que   baixa normas complementares para execução da Lei nº 7.730, de 31 de janeiro de   1989."
+    },
+    {
+      "senadoId": "551690",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9814",
+      "titulo": "Lei nº 9.814 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9814",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9814",
+      "ementa": "Acresce dispositivo às Leis nºs 9.526, de 8 de dezembro de 1997, e 9.496,   de 11 de setembro de 1997."
+    },
+    {
+      "senadoId": "551696",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9820",
+      "titulo": "Lei nº 9.820 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9820",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9820",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério dos Transportes, crédito extraordinário até o limite de R$   106.000.000,00 (cento e seis milhões de reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "551697",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9821",
+      "titulo": "Lei nº 9.821 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9821",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9821",
+      "ementa": "Altera dispositivos das Leis nºs 5.972, de 11 de dezembro de 1973, e   9.636, de 15 de maio de 1998, e dá outras providências."
+    },
+    {
+      "senadoId": "551699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9823",
+      "titulo": "Lei nº 9.823 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9823",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9823",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência e Assistência Social, crédito   extraordinário no valor de R$ 2.932.395.868,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9824",
+      "titulo": "Lei nº 9.824 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9824",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9824",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor dos Ministérios do Planejamento e Orçamento, da   Agricultura e do Abastecimento, e do Meio Ambiente, dos Recursos Hídricos e da   Amazônia Legal, crédito extraordinário no valor de R$ 824.000.000,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "551701",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9825",
+      "titulo": "Lei nº 9.825 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9825",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9825",
+      "ementa": "Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências."
+    },
+    {
+      "senadoId": "551695",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9819",
+      "titulo": "Lei nº 9.819 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9819",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9819",
+      "ementa": "Acrescenta os §§ 1º e 2º ao art. 17 da Lei nº 8.029, de 12 de abril de   1990, renumerado para art. 20, nos termos da Lei nº 8.154, de 28 de dezembro de   1990."
+    },
+    {
+      "senadoId": "551702",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9826",
+      "titulo": "Lei nº 9.826 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9826",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9826",
+      "ementa": "Dispõe sobre incentivos fiscais para desenvolvimento regional, altera a legislação do Imposto sobre Produtos Industrializados - IPI, e dá outras providências."
+    },
+    {
+      "senadoId": "551694",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9818",
+      "titulo": "Lei nº 9.818 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9818",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9818",
+      "ementa": "Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências."
+    },
+    {
+      "senadoId": "551691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9815",
+      "titulo": "Lei nº 9.815 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9815",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9815",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Justiça do Distrito Federal e dos territórios, credito extraordinário no   valor de R$ 3.200.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551693",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9817",
+      "titulo": "Lei nº 9.817 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9817",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9817",
+      "ementa": "Estabelece multa em operações de importação e dá outras providências."
+    },
+    {
+      "senadoId": "551698",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9822",
+      "titulo": "Lei nº 9.822 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9822",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9822",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e dá outras providências."
+    },
+    {
+      "senadoId": "551692",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-23-9816",
+      "titulo": "Lei nº 9.816 de 23/08/1999",
+      "data": "1999-08-23",
+      "numero": "9816",
+      "urn": "urn:lex:br:federal:lei:1999-08-23;9816",
+      "ementa": "Estabelece normas para registro do resultado líquido negativo decorrente   do ajuste dos valores em reais de obrigações e créditos, e dá outras   providências."
+    },
+    {
+      "senadoId": "551688",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-08-10-9812",
+      "titulo": "Lei nº 9.812 de 10/08/1999",
+      "data": "1999-08-10",
+      "numero": "9812",
+      "urn": "urn:lex:br:federal:lei:1999-08-10;9812",
+      "ementa": "Acrescenta parágrafos ao art. 30 da Lei nº 6.015, de 31 de dezembro de 1973, com a redação dada pela Lei nº 9.534, de 10 de dezembro de 1997, e inciso VI ao art. 39 da Lei nº 8.935, de 18 de novembro de 1994."
+    },
+    {
+      "senadoId": "551687",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-28-9811",
+      "titulo": "Lei nº 9.811 de 28/07/1999",
+      "data": "1999-07-28",
+      "numero": "9811",
+      "urn": "urn:lex:br:federal:lei:1999-07-28;9811",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 2000 e dá outras providências."
+    },
+    {
+      "senadoId": "551685",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-21-9809",
+      "titulo": "Lei nº 9.809 de 21/07/1999",
+      "data": "1999-07-21",
+      "numero": "9809",
+      "urn": "urn:lex:br:federal:lei:1999-07-21;9809",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Gabinete do Ministro Extraordinário de Política Fundiária, crédito suplementar no valor de R$ 95.191.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551686",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-21-9810",
+      "titulo": "Lei nº 9.810 de 21/07/1999",
+      "data": "1999-07-21",
+      "numero": "9810",
+      "urn": "urn:lex:br:federal:lei:1999-07-21;9810",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar no valor de R$ 131.535.158,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551684",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-20-9808",
+      "titulo": "Lei nº 9.808 de 20/07/1999",
+      "data": "1999-07-20",
+      "numero": "9808",
+      "urn": "urn:lex:br:federal:lei:1999-07-20;9808",
+      "ementa": "Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências."
+    },
+    {
+      "senadoId": "551683",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-13-9807",
+      "titulo": "Lei nº 9.807 de 13/07/1999",
+      "data": "1999-07-13",
+      "numero": "9807",
+      "urn": "urn:lex:br:federal:lei:1999-07-13;9807",
+      "ementa": "Estabelece normas para a organização e a manutenção de programas especiais de proteção a vítimas e a testemunhas ameaçadas, institui o Programa Federal de Assistência a Vítimas e a Testemunhas Ameaçadas e dispõe sobre a proteção de acusados ou condenados que tenham voluntariamente prestado efetiva colaboração à investigação policial e ao processo criminal."
+    },
+    {
+      "senadoId": "551682",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-02-9806",
+      "titulo": "Lei nº 9.806 de 02/07/1999",
+      "data": "1999-07-02",
+      "numero": "9806",
+      "urn": "urn:lex:br:federal:lei:1999-07-02;9806",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da   Agricultura e do Abastecimento, crédito suplementar no valor de R$   50.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-07-02-9805",
+      "titulo": "Lei nº 9.805 de 02/07/1999",
+      "data": "1999-07-02",
+      "numero": "9805",
+      "urn": "urn:lex:br:federal:lei:1999-07-02;9805",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das   Comunicações, crédito suplementar no valor de R$ 105.296.000,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "551680",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-06-30-9804",
+      "titulo": "Lei nº 9.804 de 30/06/1999",
+      "data": "1999-06-30",
+      "numero": "9804",
+      "urn": "urn:lex:br:federal:lei:1999-06-30;9804",
+      "ementa": "Altera a redação do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que   dispõe sobre medidas de prevenção e repressão ao tráfico ilícito e uso indevido   de substâncias entorpecentes ou que determinem dependência física ou psíquica."
+    },
+    {
+      "senadoId": "551678",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-06-30-9802",
+      "titulo": "Lei nº 9.802 de 30/06/1999",
+      "data": "1999-06-30",
+      "numero": "9802",
+      "urn": "urn:lex:br:federal:lei:1999-06-30;9802",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da   União - Recursos sob a Supervisão do Ministério da Fazenda, crédito especial no   valor de R$ 22.069.388.000,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "551679",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-06-30-9803",
+      "titulo": "Lei nº 9.803 de 30/06/1999",
+      "data": "1999-06-30",
+      "numero": "9803",
+      "urn": "urn:lex:br:federal:lei:1999-06-30;9803",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Planejamento e Orçamento, crédito   extraordinário no valor de R$ 7.556.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551677",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-06-14-9801",
+      "titulo": "Lei nº 9.801 de 14/06/1999",
+      "data": "1999-06-14",
+      "numero": "9801",
+      "urn": "urn:lex:br:federal:lei:1999-06-14;9801",
+      "ementa": "Dispõe sobre as normas gerais para perda de cargo público por excesso de   despesa e dá outras providências."
+    },
+    {
+      "senadoId": "551675",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-05-26-9799",
+      "titulo": "Lei nº 9.799 de 26/05/1999",
+      "data": "1999-05-26",
+      "numero": "9799",
+      "urn": "urn:lex:br:federal:lei:1999-05-26;9799",
+      "ementa": "Insere na Consolidação das Leis do Trabalho regras sobre o acesso da   mulher ao mercado de trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "551676",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-05-26-9800",
+      "titulo": "Lei nº 9.800 de 26/05/1999",
+      "data": "1999-05-26",
+      "numero": "9800",
+      "urn": "urn:lex:br:federal:lei:1999-05-26;9800",
+      "ementa": "Permite às partes a utilização de sistema de transmissão de dados para a prática de atos processuais."
+    },
+    {
+      "senadoId": "551674",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-05-18-9798",
+      "titulo": "Lei nº 9.798 de 18/05/1999",
+      "data": "1999-05-18",
+      "numero": "9798",
+      "urn": "urn:lex:br:federal:lei:1999-05-18;9798",
+      "ementa": "Altera a Lei nº 7.674, de 4 de outubro de 1988, que autoriza o Instituto   de Administração Financeira da Previdência e Assistência Social-Iapas a doar à   Academia Nacional de Medicina imóveis destinados à instalação de centros de   estudo e pesquisa."
+    },
+    {
+      "senadoId": "551673",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-05-06-9797",
+      "titulo": "Lei nº 9.797 de 06/05/1999",
+      "data": "1999-05-06",
+      "numero": "9797",
+      "urn": "urn:lex:br:federal:lei:1999-05-06;9797",
+      "ementa": "Dispõe sobre a obrigatoriedade da cirurgia plástica reparadora da mama pela rede de unidades integrantes do Sistema Único de Saúde - SUS nos casos de mutilação decorrentes de tratamento de câncer."
+    },
+    {
+      "senadoId": "551672",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-05-05-9796",
+      "titulo": "Lei nº 9.796 de 05/05/1999",
+      "data": "1999-05-05",
+      "numero": "9796",
+      "urn": "urn:lex:br:federal:lei:1999-05-05;9796",
+      "ementa": "Dispõe sobre a compensação financeira entre o Regime Geral de Previdência Social e os regimes de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios, nos casos de contagem recíproca de tempo de contribuição para efeito de aposentadoria, e dá outras providências."
+    },
+    {
+      "senadoId": "551671",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-04-27-9795",
+      "titulo": "Lei nº 9.795 de 27/04/1999",
+      "data": "1999-04-27",
+      "numero": "9795",
+      "urn": "urn:lex:br:federal:lei:1999-04-27;9795",
+      "ementa": "Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências."
+    },
+    {
+      "senadoId": "551670",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-04-20-9794",
+      "titulo": "Lei nº 9.794 de 20/04/1999",
+      "data": "1999-04-20",
+      "numero": "9794",
+      "urn": "urn:lex:br:federal:lei:1999-04-20;9794",
+      "ementa": "Altera o nome do Aeroporto Internacional de Brasília."
+    },
+    {
+      "senadoId": "551669",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-04-19-9793",
+      "titulo": "Lei nº 9.793 de 19/04/1999",
+      "data": "1999-04-19",
+      "numero": "9793",
+      "urn": "urn:lex:br:federal:lei:1999-04-19;9793",
+      "ementa": "Concede pensão especial a Cláudio Villas Boas e Orlando Villas Boas."
+    },
+    {
+      "senadoId": "551668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-04-14-9792",
+      "titulo": "Lei nº 9.792 de 14/04/1999",
+      "data": "1999-04-14",
+      "numero": "9792",
+      "urn": "urn:lex:br:federal:lei:1999-04-14;9792",
+      "ementa": "Revoga o art. 112 da Lei nº 9.503, de 23 de setembro de 1997 - Código de   Trânsito Brasileiro."
+    },
+    {
+      "senadoId": "551667",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-03-24-9791",
+      "titulo": "Lei nº 9.791 de 24/03/1999",
+      "data": "1999-03-24",
+      "numero": "9791",
+      "urn": "urn:lex:br:federal:lei:1999-03-24;9791",
+      "ementa": "Dispõe sobre a obrigatoriedade de as concessionárias de serviços públicos estabelecerem ao consumidor e ao usuário datas opcionais para o vencimento de seus débitos."
+    },
+    {
+      "senadoId": "551666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-03-23-9790",
+      "titulo": "Lei nº 9.790 de 23/03/1999",
+      "data": "1999-03-23",
+      "numero": "9790",
+      "urn": "urn:lex:br:federal:lei:1999-03-23;9790",
+      "ementa": "Dispõe sobre a qualificação de pessoas jurídicas de direito privado, sem fins lucrativos, como Organizações da Sociedade Civil de Interesse Público, institui e disciplina o Termo de Parceria, e dá outras providências."
+    },
+    {
+      "senadoId": "551665",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-02-23-9789",
+      "titulo": "Lei nº 9.789 de 23/02/1999",
+      "data": "1999-02-23",
+      "numero": "9789",
+      "urn": "urn:lex:br:federal:lei:1999-02-23;9789",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1999."
+    },
+    {
+      "senadoId": "551664",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-02-19-9788",
+      "titulo": "Lei nº 9.788 de 19/02/1999",
+      "data": "1999-02-19",
+      "numero": "9788",
+      "urn": "urn:lex:br:federal:lei:1999-02-19;9788",
+      "ementa": "Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau nas   cinco Regiões, com a criação de Varas Federais e dá outras providências."
+    },
+    {
+      "senadoId": "551663",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-02-10-9787",
+      "titulo": "Lei nº 9.787 de 10/02/1999",
+      "data": "1999-02-10",
+      "numero": "9787",
+      "urn": "urn:lex:br:federal:lei:1999-02-10;9787",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a vigilância sanitária, estabelece o medicamento genérico, dispõe sobre a utilização de nomes genéricos em produtos farmacêuticos e dá outras providências."
+    },
+    {
+      "senadoId": "551662",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-02-08-9786",
+      "titulo": "Lei nº 9.786 de 08/02/1999",
+      "data": "1999-02-08",
+      "numero": "9786",
+      "urn": "urn:lex:br:federal:lei:1999-02-08;9786",
+      "ementa": "Dispõe sobre o Ensino no Exército Brasileiro e dá outras providências."
+    },
+    {
+      "senadoId": "551660",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-29-9784",
+      "titulo": "Lei nº 9.784 de 29/01/1999",
+      "data": "1999-01-29",
+      "numero": "9784",
+      "urn": "urn:lex:br:federal:lei:1999-01-29;9784",
+      "ementa": "Regula o processo administrativo no âmbito da Administração Pública Federal."
+    },
+    {
+      "senadoId": "551661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-29-9785",
+      "titulo": "Lei nº 9.785 de 29/01/1999",
+      "data": "1999-01-29",
+      "numero": "9785",
+      "urn": "urn:lex:br:federal:lei:1999-01-29;9785",
+      "ementa": "Altera o Decreto-Lei nº 3.365, de 21 de junho de 1941 (desapropriação por   utilidade pública) e as Leis nºs 6.015, de 31 de dezembro de 1973 (registros   públicos) e 6.766, de 19 de dezembro de 1979 (parcelamento do solo urbano)."
+    },
+    {
+      "senadoId": "551659",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-28-9783",
+      "titulo": "Lei nº 9.783 de 28/01/1999",
+      "data": "1999-01-28",
+      "numero": "9783",
+      "urn": "urn:lex:br:federal:lei:1999-01-28;9783",
+      "ementa": "Dispõe sobre a contribuição para o custeio da previdência social dos   servidores públicos, ativos e inativos, e dos pensionistas dos três Poderes da   União, e dá outras providências."
+    },
+    {
+      "senadoId": "551658",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-26-9782",
+      "titulo": "Lei nº 9.782 de 26/01/1999",
+      "data": "1999-01-26",
+      "numero": "9782",
+      "urn": "urn:lex:br:federal:lei:1999-01-26;9782",
+      "ementa": "Define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária, e dá outras providências."
+    },
+    {
+      "senadoId": "551656",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-19-9780",
+      "titulo": "Lei nº 9.780 de 19/01/1999",
+      "data": "1999-01-19",
+      "numero": "9780",
+      "urn": "urn:lex:br:federal:lei:1999-01-19;9780",
+      "ementa": "Altera a Lei n. 9365, de 16 de dezembro de 1996."
+    },
+    {
+      "senadoId": "551657",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-19-9781",
+      "titulo": "Lei nº 9.781 de 19/01/1999",
+      "data": "1999-01-19",
+      "numero": "9781",
+      "urn": "urn:lex:br:federal:lei:1999-01-19;9781",
+      "ementa": "Institui a Taxa Processual sobre os processos de competência do Conselho   Administrativo de Defesa Econômica - CADE, e dá outras providências."
+    },
+    {
+      "senadoId": "551655",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-19-9779",
+      "titulo": "Lei nº 9.779 de 19/01/1999",
+      "data": "1999-01-19",
+      "numero": "9779",
+      "urn": "urn:lex:br:federal:lei:1999-01-19;9779",
+      "ementa": "Altera a legislação do Imposto sobre a Renda, relativamente à tributação dos Fundos de Investimento Imobiliário e dos rendimentos auferidos em aplicação ou operação financeira de renda fixa ou variável, ao Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES, à incidência sobre rendimentos de beneficiários no exterior, bem assim a legislação do Imposto sobre Produtos Industrializados - IPI, relativamente ao aproveitamento de créditos e à equiparação de atacadista a estabelecimento industrial, do Imposto sobre Operações de Crédito, Câmbio e Seguros ou Relativas a Títulos e Valores Mobiliários - IOF, relativamente às operações de mútuo, e da Contribuição Social sobre o Lucro Líquido, relativamente às despesas financeiras, e dá outras providências."
+    },
+    {
+      "senadoId": "551654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1999-01-05-9778",
+      "titulo": "Lei nº 9.778 de 05/01/1999",
+      "data": "1999-01-05",
+      "numero": "9778",
+      "urn": "urn:lex:br:federal:lei:1999-01-05;9778",
+      "ementa": "Denomina Aeroporto Internacional do Rio de Janeiro/Galeão - Antonio Carlos   Jobim ao Aeroporto Internacional do Rio de Janeiro/Galeão."
+    }
+  ],
+  "pendencias": []
+}

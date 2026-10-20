@@ -14,3 +14,4 @@ jobs:
           bun-version: 1.4.3
       - run: bun install --frozen-lockfile
       - run: bun run check
+      - run: bun run audit

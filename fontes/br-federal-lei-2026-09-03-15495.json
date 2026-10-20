@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-03-15495",
+  "titulo": "Lei nº 15.495 de 03/09/2026",
+  "data": "2026-09-03",
+  "fonte": "https://normas.leg.br/api/public/binario/60f7ab39-23cc-4498-a32d-ccb80f676247/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-03;15495",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-03%3B15495&tipo_documento=maior-detalhe",
+  "sha256_dados": "4f194f7d0b3abcc63032cd93894be5e8411e4f7add6e405f702eef3c12986a82",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:50.373Z",
+  "sha256_fonte": "d347019ef5421501ccab66c0336a4c61597d2be7915c79fce4a92acbb6c9a6bd",
+  "sha256_markdown": "c9a40a9195d997648769ae26a0750e50dd9b9559c5b8871ec53a04bf322210af"
+}

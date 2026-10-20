@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-03-25-15360",
+  "titulo": "Lei nº 15.360 de 25/03/2026",
+  "data": "2026-03-25",
+  "fonte": "https://normas.leg.br/api/public/binario/af69c0af-5dc2-4196-87cb-991f7191f9cd/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-03-25;15360",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-03-25%3B15360&tipo_documento=maior-detalhe",
+  "sha256_dados": "33950ea1a53897cf431d3efad4da0926e9b3b88e1e0ae972e99d4d7d51c5be3b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:44.465Z",
+  "sha256_fonte": "a5a202eaa134c0dd213f2fa4353a7568912f494f63d03830fb2dede5fe1cfc41",
+  "sha256_markdown": "fc00552095ca265f7ddcac0b0620e44a666678d46f8fd01b24d4f3b302fb674c"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-16-15506",
+  "titulo": "Lei nº 15.506 de 16/09/2026",
+  "data": "2026-09-16",
+  "fonte": "https://normas.leg.br/api/public/binario/f0033c05-5553-4233-8314-e0ed4ff4b3cf/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-16;15506",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-16%3B15506&tipo_documento=maior-detalhe",
+  "sha256_dados": "513611f4746433a01a43028f5beeaaf84aa312fe40991acca69474861ca1f687",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:36.275Z",
+  "sha256_fonte": "5d6198826a10bfdaf122e8c7120685c4151e3b5971f8d528bc7722e95e01fa06",
+  "sha256_markdown": "37e848ac06e24ec6121c28f0ea10612186c645d1a11d2c78eeafbbe46eab827f"
+}

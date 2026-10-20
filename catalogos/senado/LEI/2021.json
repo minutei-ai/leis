@@ -1,0 +1,1729 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2021",
+  "tipo": "LEI",
+  "ano": 2021,
+  "coletado_em": "2026-10-20T22:56:24.140Z",
+  "normas": [
+    {
+      "senadoId": "35395664",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-31-14288",
+      "titulo": "Lei nº 14.288 de 31/12/2021",
+      "data": "2021-12-31",
+      "numero": "14288",
+      "urn": "urn:lex:br:federal:lei:2021-12-31;14288",
+      "ementa": "Altera a Lei nº 12.546, de 14 de dezembro de 2011, para prorrogar o prazo referente à contribuição previdenciária sobre a receita bruta, e a Lei nº 10.865, de 30 de abril de 2004, para prorrogar o prazo referente a acréscimo de alíquota da Contribuição Social para o Financiamento da Seguridade Social devida pelo Importador de Bens Estrangeiros ou Serviços do Exterior (Cofins-Importação), nos termos que especifica."
+    },
+    {
+      "senadoId": "35395515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-31-14287",
+      "titulo": "Lei nº 14.287 de 31/12/2021",
+      "data": "2021-12-31",
+      "numero": "14287",
+      "urn": "urn:lex:br:federal:lei:2021-12-31;14287",
+      "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para prorrogar a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis de passageiros e para estender o benefício para as pessoas com deficiência auditiva."
+    },
+    {
+      "senadoId": "35368534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-29-14285",
+      "titulo": "Lei nº 14.285 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "14285",
+      "urn": "urn:lex:br:federal:lei:2021-12-29;14285",
+      "ementa": "Altera as Leis nºs 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa, 11.952, de 25 de junho de 2009, que dispõe sobre regularização fundiária em terras da União, e 6.766, de 19 de dezembro de 1979, que dispõe sobre o parcelamento do solo urbano, para dispor sobre as áreas de preservação permanente no entorno de cursos d'água em áreas urbanas consolidadas."
+    },
+    {
+      "senadoId": "35368486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-29-14283",
+      "titulo": "Lei nº 14.283 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "14283",
+      "urn": "urn:lex:br:federal:lei:2021-12-29;14283",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento e da Ciência, Tecnologia e Inovações, crédito suplementar no valor de R$ 279.387.421,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35368372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-29-14284",
+      "titulo": "Lei nº 14.284 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "14284",
+      "urn": "urn:lex:br:federal:lei:2021-12-29;14284",
+      "ementa": "Institui o Programa Auxílio Brasil e o Programa Alimenta Brasil; define metas para taxas de pobreza; altera a Lei nº 8.742, de 7 de dezembro de 1993; revoga a Lei nº 10.836, de 9 de janeiro de 2004, e dispositivos das Leis n°s 10.696, de 2 de julho de 2003, 12.512, de 14 de outubro de 2011, e 12.722, de 3 de outubro de 2012; e dá outras providências."
+    },
+    {
+      "senadoId": "35368728",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-29-14286",
+      "titulo": "Lei nº 14.286 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "14286",
+      "urn": "urn:lex:br:federal:lei:2021-12-29;14286",
+      "ementa": "Dispõe sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil; altera as Leis n°s 4.131, de 3 de setembro de 1962, 4.728, de 14 de julho de 1965, 8.383, de 30 de dezembro de 1991, 10.192, de 14 de fevereiro de 2001, e 11.371, de 28 de novembro de 2006, e o Decreto nº 23.258, de 19 de outubro de 1933; e revoga as Leis n°s 156, de 27 de novembro de 1947, 1.383, de 13 de junho de 1951, 1.807, de 7 de janeiro de 1953, 2.145, de 29 de dezembro de 1953, 2.698, de 27 de dezembro de 1955, 4.390, de 29 de agosto de 1964, 5.331, de 11 de outubro de 1967, 9.813, de 23 de agosto de 1999, e 13.017, de 21 de julho de 2014, os Decretos-Leis n°s 1.201, de 8 de abril de 1939, 9.025, de 27 de fevereiro de 1946, 9.602, de 16 de agosto de 1946, 9.863, de 13 de setembro de 1946, e 857, de 11 de setembro de 1969, a Medida Provisória nº 2.224, de 4 de setembro de 2001, e dispositivos das Leis n°s 4.182, de 13 de novembro de 1920, 3.244, de 14 de agosto de 1957, 4.595, de 31 de dezembro de 1964, 5.409, de 9 de abril de 1968, 6.099, de 12 de setembro de 1974, 7.738, de 9 de março de 1989, 8.021, de 12 de abril de 1990, 8.880, de 27 de maio de 1994, 9.069, de 29 de junho de 1995, 9.529, de 10 de dezembro de 1997, 11.803, de 5 de novembro de 2008, 12.865, de 9 de outubro de 2013, 13.292, de 31 de maio de 2016, e 13.506, de 13 de novembro de 2017, e dos Decretos-Leis n°s 2.440, de 23 de julho de 1940, 1.060, de 21 de outubro de 1969, 1.986, de 28 de dezembro de 1982, e 2.285, de 23 de julho de 1986."
+    },
+    {
+      "senadoId": "35365151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-28-14277",
+      "titulo": "Lei nº 14.277 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "14277",
+      "urn": "urn:lex:br:federal:lei:2021-12-28;14277",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, crédito suplementar no valor de R$ 83.402.306,00, para reforço de dotações orçamentárias."
+    },
+    {
+      "senadoId": "35365934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-28-14282",
+      "titulo": "Lei nº 14.282 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "14282",
+      "urn": "urn:lex:br:federal:lei:2021-12-28;14282",
+      "ementa": "Regulamenta o exercício da profissão de despachante documentalista."
+    },
+    {
+      "senadoId": "35364962",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-28-14280",
+      "titulo": "Lei nº 14.280 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "14280",
+      "urn": "urn:lex:br:federal:lei:2021-12-28;14280",
+      "ementa": "Confere o título de Capital Nacional das Etnias à cidade de Ijuí, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "35365078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-28-14278",
+      "titulo": "Lei nº 14.278 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "14278",
+      "urn": "urn:lex:br:federal:lei:2021-12-28;14278",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Economia, da Educação, da Justiça e Segurança Pública, da Infraestrutura e do Desenvolvimento Regional, crédito especial no valor de R$ 1.054.909.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35365272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-28-14281",
+      "titulo": "Lei nº 14.281 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "14281",
+      "urn": "urn:lex:br:federal:lei:2021-12-28;14281",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Transportadora Brasileira Gasoduto Bolívia-Brasil S.A. e da Refinaria de Mataripe S.A. crédito especial no valor de R$ 38.000.000,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "35364932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-28-14279",
+      "titulo": "Lei nº 14.279 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "14279",
+      "urn": "urn:lex:br:federal:lei:2021-12-28;14279",
+      "ementa": "Reconhece o carnaval do Município de Aracati, no Estado do Ceará, como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "35339453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-27-14276",
+      "titulo": "Lei nº 14.276 de 27/12/2021",
+      "data": "2021-12-27",
+      "numero": "14276",
+      "urn": "urn:lex:br:federal:lei:2021-12-27;14276",
+      "ementa": "Altera a Lei nº 14.113, de 25 de dezembro de 2020, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb)."
+    },
+    {
+      "senadoId": "35319251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14265",
+      "titulo": "Lei nº 14.265 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14265",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14265",
+      "ementa": "Abre ao Orçamento de Investimento para 2021, em favor da Caixa Econômica Federal, da Companhia de Entrepostos e Armazéns Gerais de São Paulo, da Transmissora Sul Litorânea de Energia S.A., da Companhia das Docas do Estado da Bahia e da Companhia Docas do Pará, crédito suplementar no valor de R$ 109.288.191,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35319550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14274",
+      "titulo": "Lei nº 14.274 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14274",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14274",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 1.232.472.854,00, para reforço das dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35319203",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14264",
+      "titulo": "Lei nº 14.264 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14264",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14264",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Caixa Econômica Federal, da Companhia de Entrepostos e Armazéns Gerais de São Paulo, da Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil e da Empresa Gerencial de Projetos Navais, crédito especial no valor de R$ 61.605.170,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35319401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14270",
+      "titulo": "Lei nº 14.270 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14270",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14270",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Conselho Nacional de Justiça, crédito suplementar no valor de R$ 15.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35319281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14266",
+      "titulo": "Lei nº 14.266 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14266",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14266",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Infraestrutura e da Cidadania, crédito especial no valor de R$ 12.744.095,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35319341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14268",
+      "titulo": "Lei nº 14.268 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14268",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14268",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 31.361.412,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35319431",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14271",
+      "titulo": "Lei nº 14.271 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14271",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14271",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Saúde e do Desenvolvimento Regional, crédito especial no valor de R$ 104.953.146,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35319461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14272",
+      "titulo": "Lei nº 14.272 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14272",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14272",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito especial no valor de R$ 84.022,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "35319491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14273",
+      "titulo": "Lei nº 14.273 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14273",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14273",
+      "ementa": "Estabelece a Lei das Ferrovias; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, e as Leis nºs 6.015, de 31 de dezembro de 1973, 9.074, de 7 de julho de 1995, 9.636, de 15 de maio de 1998, 10.233, de 5 de junho de 2001, 10.257, de 10 de julho de 2001, 10.636, de 30 de dezembro de 2002, 12.815, de 5 de junho de 2013, 12.379, de 6 de janeiro de 2011, e 13.448, de 5 de junho de 2017; e revoga a Lei nº 5.917, de 10 de setembro de 1973."
+    },
+    {
+      "senadoId": "35319371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14269",
+      "titulo": "Lei nº 14.269 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14269",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14269",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 5.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35319311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14267",
+      "titulo": "Lei nº 14.267 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14267",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14267",
+      "ementa": "Abre ao Orçamento de Investimento, em favor do Banco da Amazônia S.A., da Empresa de Tecnologia e Informações da Previdência, da Centrais Elétricas do Norte do Brasil S.A., da Petrobras Transporte S.A., da Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil e da Companhia Docas do Ceará, crédito suplementar no valor de R$ 59.580.226,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35319637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-23-14275",
+      "titulo": "Lei nº 14.275 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "14275",
+      "urn": "urn:lex:br:federal:lei:2021-12-23;14275",
+      "ementa": "Dispõe sobre medidas emergenciais de amparo à agricultura familiar, para mitigar os impactos socioeconômicos da Covid-19; altera as Leis nºs 13.340, de 28 de setembro de 2016, e 13.606, de 9 de janeiro de 2018; e dá outras providências (Lei Assis Carvalho II)."
+    },
+    {
+      "senadoId": "35345364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-22-14263",
+      "titulo": "Lei nº 14.263 de 22/12/2021",
+      "data": "2021-12-22",
+      "numero": "14263",
+      "urn": "urn:lex:br:federal:lei:2021-12-22;14263",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Cidadania, crédito especial no valor de R$ 300.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "35289393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-16-14262",
+      "titulo": "Lei nº 14.262 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "14262",
+      "urn": "urn:lex:br:federal:lei:2021-12-16;14262",
+      "ementa": "Institui o Dia do Policial Legislativo."
+    },
+    {
+      "senadoId": "35289099",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-16-14261",
+      "titulo": "Lei nº 14.261 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "14261",
+      "urn": "urn:lex:br:federal:lei:2021-12-16;14261",
+      "ementa": "Cria o Ministério do Trabalho e Previdência; altera as Leis n°s 13.844, de 18 de junho de 2019, 7.998, de 11 de janeiro de 1990, e 8.036, de 11 de maio de 1990, e a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943; revoga dispositivos da Lei nº 13.846, de 18 de junho de 2019; e dá outras providências."
+    },
+    {
+      "senadoId": "35268118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-08-14260",
+      "titulo": "Lei nº 14.260 de 08/12/2021",
+      "data": "2021-12-08",
+      "numero": "14260",
+      "urn": "urn:lex:br:federal:lei:2021-12-08;14260",
+      "ementa": "Estabelece incentivos à indústria da reciclagem; e cria o Fundo de Apoio para Ações Voltadas à Reciclagem (Favorecicle) e Fundos de Investimentos para Projetos de Reciclagem (ProRecicle)."
+    },
+    {
+      "senadoId": "35263696",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-07-14259",
+      "titulo": "Lei nº 14.259 de 07/12/2021",
+      "data": "2021-12-07",
+      "numero": "14259",
+      "urn": "urn:lex:br:federal:lei:2021-12-07;14259",
+      "ementa": "Altera a Lei nº 14.124, de 10 de março de 2021, que dispõe sobre as medidas excepcionais relativas à aquisição de vacinas e de insumos e à contratação de bens e serviços de logística, de tecnologia da informação e comunicação, de comunicação social e publicitária e de treinamentos destinados à vacinação contra a covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19."
+    },
+    {
+      "senadoId": "35220285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-03-14258",
+      "titulo": "Lei nº 14.258 de 03/12/2021",
+      "data": "2021-12-03",
+      "numero": "14258",
+      "urn": "urn:lex:br:federal:lei:2021-12-03;14258",
+      "ementa": "Dispõe sobre o exercício da profissão de compositor."
+    },
+    {
+      "senadoId": "35212463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-12-01-14257",
+      "titulo": "Lei nº 14.257 de 01/12/2021",
+      "data": "2021-12-01",
+      "numero": "14257",
+      "urn": "urn:lex:br:federal:lei:2021-12-01;14257",
+      "ementa": "Institui o Programa de Estímulo ao Crédito (PEC); dispõe sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias; e altera as Leis nºs 13.999, de 18 de maio de 2020, 14.161, de 2 de junho de 2021, e 10.150, de 21 de dezembro de 2000."
+    },
+    {
+      "senadoId": "35207682",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-30-14255",
+      "titulo": "Lei nº 14.255 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "14255",
+      "urn": "urn:lex:br:federal:lei:2021-11-30;14255",
+      "ementa": "Confere ao Município de Urupema, no Estado de Santa Catarina, o título de Capital Nacional do Frio."
+    },
+    {
+      "senadoId": "35207438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-30-14254",
+      "titulo": "Lei nº 14.254 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "14254",
+      "urn": "urn:lex:br:federal:lei:2021-11-30;14254",
+      "ementa": "Dispõe sobre o acompanhamento integral para educandos com dislexia ou Transtorno do Deficit de Atenção com Hiperatividade (TDAH) ou outro transtorno de aprendizagem."
+    },
+    {
+      "senadoId": "35207541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-30-14253",
+      "titulo": "Lei nº 14.253 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "14253",
+      "urn": "urn:lex:br:federal:lei:2021-11-30;14253",
+      "ementa": "Dispõe sobre a transformação de cargos vagos de juiz federal substituto no quadro permanente da Justiça Federal em cargos de Desembargador dos Tribunais Regionais Federais; e altera as Leis nºs 9.967, de 10 de maio de 2000, e 9.968, de 10 de maio de 2000."
+    },
+    {
+      "senadoId": "35207802",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-30-14256",
+      "titulo": "Lei nº 14.256 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "14256",
+      "urn": "urn:lex:br:federal:lei:2021-11-30;14256",
+      "ementa": "Confere ao Município de Lagoa Vermelha, no Estado do Rio Grande do Sul, o título de Capital Nacional do Churrasco."
+    },
+    {
+      "senadoId": "35204003",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-29-14252",
+      "titulo": "Lei nº 14.252 de 29/11/2021",
+      "data": "2021-11-29",
+      "numero": "14252",
+      "urn": "urn:lex:br:federal:lei:2021-11-29;14252",
+      "ementa": "Institui o Dia Nacional do Condutor de Ambulância."
+    },
+    {
+      "senadoId": "35198614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-25-14250",
+      "titulo": "Lei nº 14.250 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "14250",
+      "urn": "urn:lex:br:federal:lei:2021-11-25;14250",
+      "ementa": "Dispõe sobre a eliminação controlada de materiais, de fluidos, de transformadores, de capacitores e de demais equipamentos elétricos contaminados por bifenilas policloradas (PCBs) e por seus resíduos."
+    },
+    {
+      "senadoId": "35198716",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-25-14251",
+      "titulo": "Lei nº 14.251 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "14251",
+      "urn": "urn:lex:br:federal:lei:2021-11-25;14251",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 721.321.565,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35199070",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-25-14248",
+      "titulo": "Lei nº 14.248 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "14248",
+      "urn": "urn:lex:br:federal:lei:2021-11-25;14248",
+      "ementa": "Estabelece o Programa Nacional do Bioquerosene para o incentivo à pesquisa e o fomento da produção de energia à base de biomassas, visando à sustentabilidade da aviação brasileira."
+    },
+    {
+      "senadoId": "35198584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-25-14249",
+      "titulo": "Lei nº 14.249 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "14249",
+      "urn": "urn:lex:br:federal:lei:2021-11-25;14249",
+      "ementa": "Institui o Dia Nacional da Criança Traqueostomizada."
+    },
+    {
+      "senadoId": "35196147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-24-14247",
+      "titulo": "Lei nº 14.247 de 24/11/2021",
+      "data": "2021-11-24",
+      "numero": "14247",
+      "urn": "urn:lex:br:federal:lei:2021-11-24;14247",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério do Desenvolvimento Regional, crédito especial no valor de R$ 763.600.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35193920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-23-14246",
+      "titulo": "Lei nº 14.246 de 23/11/2021",
+      "data": "2021-11-23",
+      "numero": "14246",
+      "urn": "urn:lex:br:federal:lei:2021-11-23;14246",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 3.066.300.000,00, para reforço das dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35190605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-22-14245",
+      "titulo": "Lei nº 14.245 de 22/11/2021",
+      "data": "2021-11-22",
+      "numero": "14245",
+      "urn": "urn:lex:br:federal:lei:2021-11-22;14245",
+      "ementa": "Altera os Decretos-Leis nºs 2.848, de 7 de dezembro de 1940 (Código Penal), e 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e a Lei nº 9.099, de 26 de setembro de 1995 (Lei dos Juizados Especiais Cíveis e Criminais), para coibir a prática de atos atentatórios à dignidade da vítima e de testemunhas e para estabelecer causa de aumento de pena no crime de coação no curso do processo (Lei Mariana Ferrer)."
+    },
+    {
+      "senadoId": "35184798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14243",
+      "titulo": "Lei nº 14.243 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14243",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14243",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, crédito especial no valor de R$ 23.300.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35185714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14237",
+      "titulo": "Lei nº 14.237 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14237",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14237",
+      "ementa": "Institui o auxílio Gás dos Brasileiros; e altera a Lei nº 10.336, de 19 de dezembro de 2001."
+    },
+    {
+      "senadoId": "35184545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14241",
+      "titulo": "Lei nº 14.241 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14241",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14241",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 4.113.646.125,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35184358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14240",
+      "titulo": "Lei nº 14.240 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14240",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14240",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 18.004.050,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35185072",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14244",
+      "titulo": "Lei nº 14.244 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14244",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14244",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo e de Encargos Financeiros da União, crédito especial no valor de R$ 402.775.152,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35184137",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14239",
+      "titulo": "Lei nº 14.239 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14239",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14239",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, da Justiça do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 1.229.972,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35187061",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14238",
+      "titulo": "Lei nº 14.238 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14238",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14238",
+      "ementa": "Institui o Estatuto da Pessoa com Câncer; e dá outras providências."
+    },
+    {
+      "senadoId": "35184639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-19-14242",
+      "titulo": "Lei nº 14.242 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "14242",
+      "urn": "urn:lex:br:federal:lei:2021-11-19;14242",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência, Tecnologia e Inovações e da Justiça e Segurança Pública, crédito especial no valor de R$ 16.764.966,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35129934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-11-14235",
+      "titulo": "Lei nº 14.235 de 11/11/2021",
+      "data": "2021-11-11",
+      "numero": "14235",
+      "urn": "urn:lex:br:federal:lei:2021-11-11;14235",
+      "ementa": "Altera o Anexo I à Lei nº 13.971, de 27 de dezembro de 2019, que institui o Plano Plurianual da União para o período de 2020 a 2023."
+    },
+    {
+      "senadoId": "35130256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-11-14236",
+      "titulo": "Lei nº 14.236 de 11/11/2021",
+      "data": "2021-11-11",
+      "numero": "14236",
+      "urn": "urn:lex:br:federal:lei:2021-11-11;14236",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Cidadania, crédito especial no valor de R$ 9.363.481.257,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35108794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-03-14234",
+      "titulo": "Lei nº 14.234 de 03/11/2021",
+      "data": "2021-11-03",
+      "numero": "14234",
+      "urn": "urn:lex:br:federal:lei:2021-11-03;14234",
+      "ementa": "Cria cargos efetivos no quadro de pessoal do Tribunal Regional Eleitoral de São Paulo."
+    },
+    {
+      "senadoId": "35113042",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-11-03-14233",
+      "titulo": "Lei nº 14.233 de 03/11/2021",
+      "data": "2021-11-03",
+      "numero": "14233",
+      "urn": "urn:lex:br:federal:lei:2021-11-03;14233",
+      "ementa": "Institui o Dia Nacional de Conscientização e Enfrentamento da Fibromialgia."
+    },
+    {
+      "senadoId": "35099599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-28-14232",
+      "titulo": "Lei nº 14.232 de 28/10/2021",
+      "data": "2021-10-28",
+      "numero": "14232",
+      "urn": "urn:lex:br:federal:lei:2021-10-28;14232",
+      "ementa": "Institui a Política Nacional de Dados e Informações relacionadas à Violência contra as Mulheres (PNAINFO)."
+    },
+    {
+      "senadoId": "35099551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-28-14231",
+      "titulo": "Lei nº 14.231 de 28/10/2021",
+      "data": "2021-10-28",
+      "numero": "14231",
+      "urn": "urn:lex:br:federal:lei:2021-10-28;14231",
+      "ementa": "Inclui os profissionais fisioterapeuta e terapeuta ocupacional na estratégia de saúde da família."
+    },
+    {
+      "senadoId": "35083056",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-25-14230",
+      "titulo": "Lei nº 14.230 de 25/10/2021",
+      "data": "2021-10-25",
+      "numero": "14230",
+      "urn": "urn:lex:br:federal:lei:2021-10-25;14230",
+      "ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, que dispõe sobre improbidade administrativa."
+    },
+    {
+      "senadoId": "35077748",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-21-14229",
+      "titulo": "Lei nº 14.229 de 21/10/2021",
+      "data": "2021-10-21",
+      "numero": "14229",
+      "urn": "urn:lex:br:federal:lei:2021-10-21;14229",
+      "ementa": "Altera a Lei nº 7.408, de 25 de novembro de 1985, e a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a fiscalização do excesso de peso dos veículos; altera a Lei nº 10.209, de 23 de março de 2001, para dispor sobre a prescrição da cobrança de multa ou indenização nos termos que especifica; e dá outras providências."
+    },
+    {
+      "senadoId": "35067268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-20-14227",
+      "titulo": "Lei nº 14.227 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "14227",
+      "urn": "urn:lex:br:federal:lei:2021-10-20;14227",
+      "ementa": "Altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 7.827, de 27 de setembro de 1989, a Lei nº 10.177, de 12 de janeiro de 2001, a Lei nº 9.126, de 10 de novembro de 1995, a Lei nº 11.079, de 30 de dezembro de 2004, e a Medida Provisória nº 2.199-14, de 24 de agosto de 2001."
+    },
+    {
+      "senadoId": "35067221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-20-14226",
+      "titulo": "Lei nº 14.226 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "14226",
+      "urn": "urn:lex:br:federal:lei:2021-10-20;14226",
+      "ementa": "Dispõe sobre a criação do Tribunal Regional Federal da 6ª Região e altera a Lei nº 11.798, de 29 de outubro de 2008, para modificar a composição do Conselho da Justiça Federal."
+    },
+    {
+      "senadoId": "35067327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-20-14228",
+      "titulo": "Lei nº 14.228 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "14228",
+      "urn": "urn:lex:br:federal:lei:2021-10-20;14228",
+      "ementa": "Dispõe sobre a proibição da eliminação de cães e gatos pelos órgãos de controle de zoonoses, canis públicos e estabelecimentos oficiais congêneres; e dá outras providências."
+    },
+    {
+      "senadoId": "35065046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-19-14225",
+      "titulo": "Lei nº 14.225 de 19/10/2021",
+      "data": "2021-10-19",
+      "numero": "14225",
+      "urn": "urn:lex:br:federal:lei:2021-10-19;14225",
+      "ementa": "Abre crédito extraordinário em favor dos Ministérios da Justiça e Segurança Pública, da Defesa e da Cidadania, no valor de R$ 235.348.850,00 (duzentos e trinta e cinco milhões trezentos e quarenta e oito mil oitocentos e cinquenta reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "35062147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-18-14223",
+      "titulo": "Lei nº 14.223 de 18/10/2021",
+      "data": "2021-10-18",
+      "numero": "14223",
+      "urn": "urn:lex:br:federal:lei:2021-10-18;14223",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo e de Encargos Financeiros da União, crédito suplementar, no valor de R$ 2.082.617.753,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "35062699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-18-14224",
+      "titulo": "Lei nº 14.224 de 18/10/2021",
+      "data": "2021-10-18",
+      "numero": "14224",
+      "urn": "urn:lex:br:federal:lei:2021-10-18;14224",
+      "ementa": "Denomina Aeroporto Internacional de Campo Grande - Ueze Elias Zahran o aeroporto internacional da cidade de Campo Grande, no Estado de Mato Grosso do Sul."
+    },
+    {
+      "senadoId": "35051852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-15-14220",
+      "titulo": "Lei nº 14.220 de 15/10/2021",
+      "data": "2021-10-15",
+      "numero": "14220",
+      "urn": "urn:lex:br:federal:lei:2021-10-15;14220",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 690.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35051343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-15-14221",
+      "titulo": "Lei nº 14.221 de 15/10/2021",
+      "data": "2021-10-15",
+      "numero": "14221",
+      "urn": "urn:lex:br:federal:lei:2021-10-15;14221",
+      "ementa": "Transforma cargos de Juiz de Direito em Juiz de Direito de Turma Recursal no Quadro Permanente da Justiça do Distrito Federal e dos Territórios; e altera o art. 2º da Lei nº 13.049, de 2 de dezembro de 2014."
+    },
+    {
+      "senadoId": "35051463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-15-14222",
+      "titulo": "Lei nº 14.222 de 15/10/2021",
+      "data": "2021-10-15",
+      "numero": "14222",
+      "urn": "urn:lex:br:federal:lei:2021-10-15;14222",
+      "ementa": "Cria a Autoridade Nacional de Segurança Nuclear (ANSN); altera as Leis n°s 4.118, de 27 de agosto de 1962, 6.189, de 16 de dezembro de 1974, 6.453, de 17 de outubro de 1977, 9.765, de 17 de dezembro de 1998, 8.691, de 28 de julho de 1993, e 10.308, de 20 de novembro de 2001; e revoga a Lei nº 13.976, de 7 de janeiro de 2020."
+    },
+    {
+      "senadoId": "35047596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-14-14219",
+      "titulo": "Lei nº 14.219 de 14/10/2021",
+      "data": "2021-10-14",
+      "numero": "14219",
+      "urn": "urn:lex:br:federal:lei:2021-10-14;14219",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, crédito especial no valor de R$ 944.400,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "35040976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-13-14217",
+      "titulo": "Lei nº 14.217 de 13/10/2021",
+      "data": "2021-10-13",
+      "numero": "14217",
+      "urn": "urn:lex:br:federal:lei:2021-10-13;14217",
+      "ementa": "Dispõe sobre medidas excepcionais para a aquisição de bens e de insumos e para a contratação de serviços, inclusive de engenharia, destinados ao enfrentamento da pandemia da Covid-19."
+    },
+    {
+      "senadoId": "35041021",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-13-14218",
+      "titulo": "Lei nº 14.218 de 13/10/2021",
+      "data": "2021-10-13",
+      "numero": "14218",
+      "urn": "urn:lex:br:federal:lei:2021-10-13;14218",
+      "ementa": "Altera a Lei nº 14.040, de 18 de agosto de 2020, para dispor sobre a validade das normas educacionais a serem adotadas, em caráter excepcional, enquanto perdurarem a crise sanitária decorrente da pandemia da Covid-19 e suas consequências."
+    },
+    {
+      "senadoId": "35034231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-07-14215",
+      "titulo": "Lei nº 14.215 de 07/10/2021",
+      "data": "2021-10-07",
+      "numero": "14215",
+      "urn": "urn:lex:br:federal:lei:2021-10-07;14215",
+      "ementa": "Institui normas de caráter transitório aplicáveis a parcerias celebradas pela administração pública durante a vigência de medidas restritivas relacionadas ao combate à pandemia de covid-19, e dá outras providências."
+    },
+    {
+      "senadoId": "35034346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-07-14216",
+      "titulo": "Lei nº 14.216 de 07/10/2021",
+      "data": "2021-10-07",
+      "numero": "14216",
+      "urn": "urn:lex:br:federal:lei:2021-10-07;14216",
+      "ementa": "Estabelece medidas excepcionais em razão da Emergência em Saúde Pública de Importância Nacional (Espin) decorrente da infecção humana pelo coronavírus SARS-CoV-2, para suspender o cumprimento de medida judicial, extrajudicial ou administrativa que resulte em desocupação ou remoção forçada coletiva em imóvel privado ou público, exclusivamente urbano, e a concessão de liminar em ação de despejo de que trata a Lei nº 8.245, de 18 de outubro de 1991, e para estimular a celebração de acordos nas relações locatícias."
+    },
+    {
+      "senadoId": "35031015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-06-14214",
+      "titulo": "Lei nº 14.214 de 06/10/2021",
+      "data": "2021-10-06",
+      "numero": "14214",
+      "urn": "urn:lex:br:federal:lei:2021-10-06;14214",
+      "ementa": "Institui o Programa de Proteção e Promoção da Saúde Menstrual; e altera a Lei nº 11.346, de 15 de setembro de 2006, para determinar que as cestas básicas entregues no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional (Sisan) deverão conter como item essencial o absorvente higiênico feminino."
+    },
+    {
+      "senadoId": "35009405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-05-14212",
+      "titulo": "Lei nº 14.212 de 05/10/2021",
+      "data": "2021-10-05",
+      "numero": "14212",
+      "urn": "urn:lex:br:federal:lei:2021-10-05;14212",
+      "ementa": "Altera a Lei nº 14.116, de 31 de dezembro de 2020, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021."
+    },
+    {
+      "senadoId": "35009641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-05-14213",
+      "titulo": "Lei nº 14.213 de 05/10/2021",
+      "data": "2021-10-05",
+      "numero": "14213",
+      "urn": "urn:lex:br:federal:lei:2021-10-05;14213",
+      "ementa": "Altera a Lei nº 14.144, de 22 de abril de 2021, que estima a receita e fixa a despesa da União para o exercício financeiro de 2021."
+    },
+    {
+      "senadoId": "34981829",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-10-01-14211",
+      "titulo": "Lei nº 14.211 de 01/10/2021",
+      "data": "2021-10-01",
+      "numero": "14211",
+      "urn": "urn:lex:br:federal:lei:2021-10-01;14211",
+      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei n º 9.504, de 30 de setembro de 1997 (Lei das Eleições), para ajustar a sua redação à vedação constitucional de coligações nas eleições proporcionais; para fixar critérios para a participação dos partidos e dos candidatos na distribuição dos lugares pelo critério das maiores médias nas eleições proporcionais; e para reduzir o limite de candidatos que cada partido poderá registrar nas eleições proporcionais."
+    },
+    {
+      "senadoId": "34978491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-30-14209",
+      "titulo": "Lei nº 14.209 de 30/09/2021",
+      "data": "2021-09-30",
+      "numero": "14209",
+      "urn": "urn:lex:br:federal:lei:2021-09-30;14209",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 2.993.097.348,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "34978182",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-30-14210",
+      "titulo": "Lei nº 14.210 de 30/09/2021",
+      "data": "2021-09-30",
+      "numero": "14210",
+      "urn": "urn:lex:br:federal:lei:2021-09-30;14210",
+      "ementa": "Acrescenta o Capítulo XI-A à Lei nº 9.784, de 29 de janeiro de 1999, para dispor sobre a decisão coordenada no âmbito da administração pública federal."
+    },
+    {
+      "senadoId": "34971504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-28-14207",
+      "titulo": "Lei nº 14.207 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "14207",
+      "urn": "urn:lex:br:federal:lei:2021-09-28;14207",
+      "ementa": "Denomina Ponte Rondon-Roosevelt a ponte sobre o rio Madeira que liga a BR-364, no Estado de Rondônia, à BR-319, no Estado do Amazonas, entre os Municípios de Porto Velho, no Estado de Rondônia, e de Humaitá, no Estado do Amazonas."
+    },
+    {
+      "senadoId": "34969522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-28-14208",
+      "titulo": "Lei nº 14.208 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "14208",
+      "urn": "urn:lex:br:federal:lei:2021-09-28;14208",
+      "ementa": "Altera a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para instituir as federações de partidos políticos."
+    },
+    {
+      "senadoId": "34952449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-27-14206",
+      "titulo": "Lei nº 14.206 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "14206",
+      "urn": "urn:lex:br:federal:lei:2021-09-27;14206",
+      "ementa": "Institui o Documento Eletrônico de Transporte (DT-e); e altera a Lei nº 11.442, de 5 de janeiro de 2007, a Lei nº 13.703, de 8 de agosto de 2018, a Lei nº 10.209, de 23 de março de 2001, a Lei nº 5.474, de 18 de julho de 1968, a Lei nº 10.833, de 29 de dezembro de 2003, e a Lei nº 8.935, de 18 de novembro de 1994."
+    },
+    {
+      "senadoId": "34868285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-17-14205",
+      "titulo": "Lei nº 14.205 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "14205",
+      "urn": "urn:lex:br:federal:lei:2021-09-17;14205",
+      "ementa": "Altera a Lei nº 9.615, de 24 de março de 1998, para modificar as regras relativas ao direito de arena sobre o espetáculo desportivo."
+    },
+    {
+      "senadoId": "34863599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-16-14204",
+      "titulo": "Lei nº 14.204 de 16/09/2021",
+      "data": "2021-09-16",
+      "numero": "14204",
+      "urn": "urn:lex:br:federal:lei:2021-09-16;14204",
+      "ementa": "Simplifica a gestão de cargos em comissão e de funções de confiança na administração pública federal direta, autárquica e fundacional; altera a Lei nº 11.526, de 4 de outubro de 2007; e revoga dispositivos das Leis nºs 8.216, de 13 de agosto de 1991, 8.460, de 17 de setembro de 1992, 9.028, de 12 de abril de 1995, 9.625, de 7 de abril de 1998, 9.649, de 27 de maio de 1998, 10.480, de 2 de julho de 2002, 10.556, de 13 de novembro de 2002, 10.667, de 14 de maio de 2003, 10.682, de 28 de maio de 2003, 11.355, de 19 de outubro de 2006, 11.357, de 19 de outubro de 2006, 11.907, de 2 de fevereiro de 2009, e 13.346, de 10 de outubro de 2016, e da Medida Provisória nº 2.229-43, de 6 de setembro de 2001."
+    },
+    {
+      "senadoId": "34849049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-10-14203",
+      "titulo": "Lei nº 14.203 de 10/09/2021",
+      "data": "2021-09-10",
+      "numero": "14203",
+      "urn": "urn:lex:br:federal:lei:2021-09-10;14203",
+      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para tornar obrigatória a atualização do cadastro dos beneficiários da Tarifa Social de Energia Elétrica."
+    },
+    {
+      "senadoId": "34820718",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-08-14202",
+      "titulo": "Lei nº 14.202 de 08/09/2021",
+      "data": "2021-09-08",
+      "numero": "14202",
+      "urn": "urn:lex:br:federal:lei:2021-09-08;14202",
+      "ementa": "Denomina Aeroporto Prefeito Orlando Marinho o aeroporto situado no Município de Tefé, Estado do Amazonas."
+    },
+    {
+      "senadoId": "34816714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-06-14201",
+      "titulo": "Lei nº 14.201 de 06/09/2021",
+      "data": "2021-09-06",
+      "numero": "14201",
+      "urn": "urn:lex:br:federal:lei:2021-09-06;14201",
+      "ementa": "Inscreve o nome de Francisco Cândido Xavier, o Chico Xavier, no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "34809528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-02-14199",
+      "titulo": "Lei nº 14.199 de 02/09/2021",
+      "data": "2021-09-02",
+      "numero": "14199",
+      "urn": "urn:lex:br:federal:lei:2021-09-02;14199",
+      "ementa": "Altera as Leis nºs 8.212, de 24 de julho de 1991, e 8.213, de 24 de julho de 1991, para dispor sobre medidas alternativas de prova de vida para os beneficiários da Previdência Social durante o estado de calamidade pública reconhecido pelo Congresso Nacional; e dá outras providências."
+    },
+    {
+      "senadoId": "34810390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-02-14200",
+      "titulo": "Lei nº 14.200 de 02/09/2021",
+      "data": "2021-09-02",
+      "numero": "14200",
+      "urn": "urn:lex:br:federal:lei:2021-09-02;14200",
+      "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996 (Lei de Propriedade Industrial), para dispor sobre a licença compulsória de patentes ou de pedidos de patente nos casos de declaração de emergência nacional ou internacional ou de interesse público, ou de reconhecimento de estado de calamidade pública de âmbito nacional."
+    },
+    {
+      "senadoId": "34809498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-02-14198",
+      "titulo": "Lei nº 14.198 de 02/09/2021",
+      "data": "2021-09-02",
+      "numero": "14198",
+      "urn": "urn:lex:br:federal:lei:2021-09-02;14198",
+      "ementa": "Dispõe sobre videochamadas entre pacientes internados em serviços de saúde impossibilitados de receber visitas e seus familiares."
+    },
+    {
+      "senadoId": "34803754",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-09-01-14197",
+      "titulo": "Lei nº 14.197 de 01/09/2021",
+      "data": "2021-09-01",
+      "numero": "14197",
+      "urn": "urn:lex:br:federal:lei:2021-09-01;14197",
+      "ementa": "Acrescenta o Título XII na Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), relativo aos crimes contra o Estado Democrático de Direito; e revoga a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança Nacional), e dispositivo do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais)."
+    },
+    {
+      "senadoId": "34763238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-08-26-14195",
+      "titulo": "Lei nº 14.195 de 26/08/2021",
+      "data": "2021-08-26",
+      "numero": "14195",
+      "urn": "urn:lex:br:federal:lei:2021-08-26;14195",
+      "ementa": "Dispõe sobre a facilitação para abertura de empresas, sobre a proteção de acionistas minoritários, sobre a facilitação do comércio exterior, sobre o Sistema Integrado de Recuperação de Ativos (Sira), sobre as cobranças realizadas pelos conselhos profissionais, sobre a profissão de tradutor e intérprete público, sobre a obtenção de eletricidade, sobre a desburocratização societária e de atos processuais e a prescrição intercorrente na Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); altera as Leis nºs 11.598, de 3 de dezembro de 2007, 8.934, de 18 de novembro de 1994, 6.404, de 15 de dezembro de 1976, 7.913, de 7 de dezembro de 1989, 12.546, de 14 de dezembro 2011, 9.430, de 27 de dezembro de 1996, 10.522, de 19 de julho de 2002, 12.514, de 28 de outubro de 2011, 6.015, de 31 de dezembro de 1973, 10.406, de 10 de janeiro de 2002 (Código Civil), 13.105, de 16 de março de 2015 (Código de Processo Civil), 4.886, de 9 de dezembro de 1965, 5.764, de 16 de dezembro de 1971, 6.385, de 7 de dezembro de 1976, e 13.874, de 20 de setembro de 2019, e o Decreto-Lei nº 341, de 17 de março de 1938; e revoga as Leis nºs 2.145, de 29 de dezembro de 1953, 2.807, de 28 de junho de 1956, 2.815, de 6 de julho de 1956, 3.187, de 28 de junho de 1957, 3.227, de 27 de julho de 1957, 4.557, de 10 de dezembro de 1964, 7.409, de 25 de novembro de 1985, e 7.690, de 15 de dezembro de 1988, os Decretos nºs 13.609, de 21 de outubro de 1943, 20.256, de 20 de dezembro de 1945, e 84.248, de 28 de novembro de 1979, e os Decretos-Lei nºs 1.416, de 25 de agosto de 1975, e 1.427, de 2 de dezembro de 1975, e dispositivos das Leis nºs 2.410, de 29 de janeiro de 1955, 2.698, de 27 de dezembro de 1955, 3.053, de 22 de dezembro de 1956, 5.025, de 10 de junho de 1966, 6.137, de 7 de novembro de 1974, 8.387, de 30 de dezembro de 1991, 9.279, de 14 de maio de 1996, e 9.472, de 16 de julho de 1997, e dos Decretos-Lei nºs 491, de 5 de março de 1969, 666, de 2 de julho de 1969, e 687, de 18 de julho de 1969; e dá outras providências."
+    },
+    {
+      "senadoId": "34763315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-08-26-14196",
+      "titulo": "Lei nº 14.196 de 26/08/2021",
+      "data": "2021-08-26",
+      "numero": "14196",
+      "urn": "urn:lex:br:federal:lei:2021-08-26;14196",
+      "ementa": "Cria o título de Patrimônio Nacional da Saúde Pública, a ser concedido a instituições públicas e privadas sem fins lucrativos prestadoras de relevantes e notórios serviços à saúde pública, e o concede à Fundação Oswaldo Cruz (Fiocruz) e ao Instituto Butantan."
+    },
+    {
+      "senadoId": "34722181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-08-20-14194",
+      "titulo": "Lei nº 14.194 de 20/08/2021",
+      "data": "2021-08-20",
+      "numero": "14194",
+      "urn": "urn:lex:br:federal:lei:2021-08-20;14194",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2022 e dá outras providências."
+    },
+    {
+      "senadoId": "34657133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-08-06-14193",
+      "titulo": "Lei nº 14.193 de 06/08/2021",
+      "data": "2021-08-06",
+      "numero": "14193",
+      "urn": "urn:lex:br:federal:lei:2021-08-06;14193",
+      "ementa": "Institui a Sociedade Anônima do Futebol e dispõe sobre normas de constituição, governança, controle e transparência, meios de financiamento da atividade futebolística, tratamento dos passivos das entidades de práticas desportivas e regime tributário específico; e altera as Leis nºs 9.615, de 24 de março de 1998, e 10.406, de 10 de janeiro de 2002 (Código Civil)."
+    },
+    {
+      "senadoId": "34640621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-08-04-14192",
+      "titulo": "Lei nº 14.192 de 04/08/2021",
+      "data": "2021-08-04",
+      "numero": "14192",
+      "urn": "urn:lex:br:federal:lei:2021-08-04;14192",
+      "ementa": "Estabelece normas para prevenir, reprimir e combater a violência política contra a mulher; e altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para dispor sobre os crimes de divulgação de fato ou vídeo com conteúdo inverídico no período de campanha eleitoral, para criminalizar a violência política contra a mulher e para assegurar a participação de mulheres em debates eleitorais proporcionalmente ao número de candidatas às eleições proporcionais."
+    },
+    {
+      "senadoId": "34639654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-08-03-14191",
+      "titulo": "Lei nº 14.191 de 03/08/2021",
+      "data": "2021-08-03",
+      "numero": "14191",
+      "urn": "urn:lex:br:federal:lei:2021-08-03;14191",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a modalidade de educação bilíngue de surdos."
+    },
+    {
+      "senadoId": "34630155",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-29-14190",
+      "titulo": "Lei nº 14.190 de 29/07/2021",
+      "data": "2021-07-29",
+      "numero": "14190",
+      "urn": "urn:lex:br:federal:lei:2021-07-29;14190",
+      "ementa": "Altera a Lei nº 14.124, de 10 de março de 2021, para determinar a inclusão como grupo prioritário no Plano Nacional de Operacionalização da Vacinação contra a Covid-19 de gestantes, puérperas e lactantes, bem como de crianças e adolescentes com deficiência permanente, com comorbidade ou privados de liberdade."
+    },
+    {
+      "senadoId": "34628219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-28-14189",
+      "titulo": "Lei nº 14.189 de 28/07/2021",
+      "data": "2021-07-28",
+      "numero": "14189",
+      "urn": "urn:lex:br:federal:lei:2021-07-28;14189",
+      "ementa": "Altera a Lei nº 13.992, de 22 de abril de 2020, para prorrogar a suspensão da obrigatoriedade da manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde de qualquer natureza no âmbito do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "34628171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-28-14188",
+      "titulo": "Lei nº 14.188 de 28/07/2021",
+      "data": "2021-07-28",
+      "numero": "14188",
+      "urn": "urn:lex:br:federal:lei:2021-07-28;14188",
+      "ementa": "Define o programa de cooperação Sinal Vermelho contra a Violência Doméstica como uma das medidas de enfrentamento da violência doméstica e familiar contra a mulher previstas na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), em todo o território nacional; e altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para modificar a modalidade da pena da lesão corporal simples cometida contra a mulher por razões da condição do sexo feminino e para criar o tipo penal de violência psicológica contra a mulher."
+    },
+    {
+      "senadoId": "34296018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-15-14187",
+      "titulo": "Lei nº 14.187 de 15/07/2021",
+      "data": "2021-07-15",
+      "numero": "14187",
+      "urn": "urn:lex:br:federal:lei:2021-07-15;14187",
+      "ementa": "Dispõe sobre a autorização para que estruturas industriais destinadas à fabricação de vacinas de uso veterinário sejam utilizadas na produção de insumos farmacêuticos ativos (IFA) e vacinas contra a covid-19 no Brasil."
+    },
+    {
+      "senadoId": "34296138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-15-14186",
+      "titulo": "Lei nº 14.186 de 15/07/2021",
+      "data": "2021-07-15",
+      "numero": "14186",
+      "urn": "urn:lex:br:federal:lei:2021-07-15;14186",
+      "ementa": "Altera a Lei nº 14.046, de 24 de agosto de 2020, para dispor sobre medidas emergenciais para atenuar os efeitos da crise decorrente da pandemia da covid-19 nos setores de turismo e de cultura."
+    },
+    {
+      "senadoId": "34286177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-14-14183",
+      "titulo": "Lei nº 14.183 de 14/07/2021",
+      "data": "2021-07-14",
+      "numero": "14183",
+      "urn": "urn:lex:br:federal:lei:2021-07-14;14183",
+      "ementa": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, para majorar a alíquota da Contribuição Social sobre o Lucro Líquido devida pelas pessoas jurídicas do setor financeiro, a Lei nº 8.989, de 24 de fevereiro de 1995, para modificar a concessão da isenção relativa ao Imposto sobre Produtos Industrializados incidente na aquisição de automóveis por pessoa com deficiência, as Leis nºs 10.865, de 30 de abril de 2004, 11.196, de 21 de novembro de 2005, 13.756, de 12 de dezembro de 2018, e 9.613, de 3 de março de 1998, e o Decreto-Lei nº 288, de 28 de fevereiro de 1967; e revoga a tributação especial relativa à nafta e a outros produtos destinados a centrais petroquímicas."
+    },
+    {
+      "senadoId": "34286357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-14-14184",
+      "titulo": "Lei nº 14.184 de 14/07/2021",
+      "data": "2021-07-14",
+      "numero": "14184",
+      "urn": "urn:lex:br:federal:lei:2021-07-14;14184",
+      "ementa": "Altera a Lei nº 11.508, de 20 de julho de 2007, para fins de modernização do marco legal das Zonas de Processamento de Exportação (ZPE)."
+    },
+    {
+      "senadoId": "34286489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-14-14185",
+      "titulo": "Lei nº 14.185 de 14/07/2021",
+      "data": "2021-07-14",
+      "numero": "14185",
+      "urn": "urn:lex:br:federal:lei:2021-07-14;14185",
+      "ementa": "Dispõe sobre o acolhimento pelo Banco Central do Brasil de depósitos voluntários à vista ou a prazo das instituições financeiras; e altera a Lei nº 12.865, de 9 de outubro de 2013."
+    },
+    {
+      "senadoId": "34276459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-12-14182",
+      "titulo": "Lei nº 14.182 de 12/07/2021",
+      "data": "2021-07-12",
+      "numero": "14182",
+      "urn": "urn:lex:br:federal:lei:2021-07-12;14182",
+      "ementa": "Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras); altera as Leis n os 5.899, de 5 de julho de 1973, 9.991, de 24 de julho de 2000, 10.438, de 26 de abril de 2002, 10.848, de 15 de março de 2004, 13.182, de 3 de novembro de 2015, 13.203, de 8 de dezembro de 2015, 14.118, de 13 de janeiro de 2021, 9.648, de 27 de maio de 1998, e 9.074, de 7 de julho de 1995; e revoga dispositivos da Lei nº 3.890-A, de 25 de abril de 1961."
+    },
+    {
+      "senadoId": "34251655",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-01-14181",
+      "titulo": "Lei nº 14.181 de 01/07/2021",
+      "data": "2021-07-01",
+      "numero": "14181",
+      "urn": "urn:lex:br:federal:lei:2021-07-01;14181",
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), e a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para aperfeiçoar a disciplina do crédito ao consumidor e dispor sobre a prevenção e o tratamento do superendividamento."
+    },
+    {
+      "senadoId": "34251506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-07-01-14180",
+      "titulo": "Lei nº 14.180 de 01/07/2021",
+      "data": "2021-07-01",
+      "numero": "14180",
+      "urn": "urn:lex:br:federal:lei:2021-07-01;14180",
+      "ementa": "Institui a Política de Inovação Educação Conectada."
+    },
+    {
+      "senadoId": "34247869",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-30-14179",
+      "titulo": "Lei nº 14.179 de 30/06/2021",
+      "data": "2021-06-30",
+      "numero": "14179",
+      "urn": "urn:lex:br:federal:lei:2021-06-30;14179",
+      "ementa": "Estabelece normas para facilitação de acesso a crédito e para mitigação dos impactos econômicos decorrentes da pandemia da Covid-19; e revoga dispositivos das Leis n°s 8.870, de 15 de abril de 1994, e 10.406, de 10 de janeiro de 2002 (Código Civil)."
+    },
+    {
+      "senadoId": "34225405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-28-14178",
+      "titulo": "Lei nº 14.178 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "14178",
+      "urn": "urn:lex:br:federal:lei:2021-06-28;14178",
+      "ementa": "Altera o Anexo V à Lei nº 14.144, de 22 de abril de 2021, que estima a receita e fixa a despesa da União para o exercício financeiro de 2021."
+    },
+    {
+      "senadoId": "34215147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-22-14176",
+      "titulo": "Lei nº 14.176 de 22/06/2021",
+      "data": "2021-06-22",
+      "numero": "14176",
+      "urn": "urn:lex:br:federal:lei:2021-06-22;14176",
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para estabelecer o critério de renda familiar per capita para acesso ao benefício de prestação continuada, estipular parâmetros adicionais de caracterização da situação de miserabilidade e de vulnerabilidade social e dispor sobre o auxílio-inclusão de que trata a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência); autoriza, em caráter excepcional, a realização de avaliação social mediada por meio de videoconferência; e dá outras providências."
+    },
+    {
+      "senadoId": "34215384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-22-14177",
+      "titulo": "Lei nº 14.177 de 22/06/2021",
+      "data": "2021-06-22",
+      "numero": "14177",
+      "urn": "urn:lex:br:federal:lei:2021-06-22;14177",
+      "ementa": "Altera a Lei nº 13.178, de 22 de outubro de 2015, para ampliar o prazo para ratificação dos registros imobiliários referentes aos imóveis rurais com origem em títulos de alienação ou de concessão de terras devolutas expedidos pelos Estados em faixa de fronteira; e dá outras providências."
+    },
+    {
+      "senadoId": "34207699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-17-14175",
+      "titulo": "Lei nº 14.175 de 17/06/2021",
+      "data": "2021-06-17",
+      "numero": "14175",
+      "urn": "urn:lex:br:federal:lei:2021-06-17;14175",
+      "ementa": "Abre crédito extraordinário em favor do Ministério do Desenvolvimento Regional, no valor de R$ 450.000.000,00 (quatrocentos e cinquenta milhões de reais), para o fim que especifica."
+    },
+    {
+      "senadoId": "34207602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-17-14174",
+      "titulo": "Lei nº 14.174 de 17/06/2021",
+      "data": "2021-06-17",
+      "numero": "14174",
+      "urn": "urn:lex:br:federal:lei:2021-06-17;14174",
+      "ementa": "Altera a Lei nº 14.034, de 5 de agosto de 2020, para prorrogar o prazo de vigência de medidas emergenciais para a aviação civil brasileira em razão da pandemia da Covid-19."
+    },
+    {
+      "senadoId": "34189874",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-15-14173",
+      "titulo": "Lei nº 14.173 de 15/06/2021",
+      "data": "2021-06-15",
+      "numero": "14173",
+      "urn": "urn:lex:br:federal:lei:2021-06-15;14173",
+      "ementa": "Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para modificar valores da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional, a Lei nº 5.070, de 7 de julho de 1966, para modificar valores da Taxa de Fiscalização de Instalação, a Lei nº 11.652, de 7 de abril de 2008, para modificar valores da Contribuição para o Fomento da Radiodifusão Pública, e as Leis n os 9.998, de 17 de agosto de 2000, 9.472, de 16 de julho de 1997, 13.649, de 11 de abril de 2018, 4.117, de 27 de agosto de 1962, e 12.485, de 12 de setembro de 2011; e revoga dispositivo da Lei nº 11.934, de 5 de maio de 2009."
+    },
+    {
+      "senadoId": "34152840",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14171",
+      "titulo": "Lei nº 14.171 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14171",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14171",
+      "ementa": "Altera a Lei nº 13.982, de 2 de abril de 2020, para estabelecer medidas de proteção à mulher provedora de família monoparental em relação ao recebimento do auxílio emergencial de que trata o seu art. 2º; e dá outras providências."
+    },
+    {
+      "senadoId": "34155739",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14167",
+      "titulo": "Lei nº 14.167 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14167",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14167",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Economia e da Cidadania, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 19.767.619.840,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "34148365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14168",
+      "titulo": "Lei nº 14.168 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14168",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14168",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, crédito especial no valor de R$ 584.265.195,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "34153033",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14172",
+      "titulo": "Lei nº 14.172 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14172",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14172",
+      "ementa": "Dispõe sobre a garantia de acesso à internet, com fins educacionais, a alunos e a professores da educação básica pública."
+    },
+    {
+      "senadoId": "34148147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14165",
+      "titulo": "Lei nº 14.165 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14165",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14165",
+      "ementa": "Define as diretrizes para a quitação e para a renegociação das dívidas relativas às debêntures emitidas por empresas e subscritas pelos fundos de investimentos regionais e para o desinvestimento, a liquidação e a extinção dos fundos."
+    },
+    {
+      "senadoId": "34148535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14166",
+      "titulo": "Lei nº 14.166 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14166",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14166",
+      "ementa": "Altera a Lei nº 7.827, de 27 de setembro de 1989, para dispor sobre a renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte (FNO), do Fundo Constitucional de Financiamento do Nordeste (FNE) e do Fundo Constitucional de Financiamento do Centro-Oeste (FCO); e dá outras providências."
+    },
+    {
+      "senadoId": "34147923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14164",
+      "titulo": "Lei nº 14.164 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14164",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14164",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir conteúdo sobre a prevenção da violência contra a mulher nos currículos da educação básica, e institui a Semana Escolar de Combate à Violência contra a Mulher."
+    },
+    {
+      "senadoId": "34148425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14170",
+      "titulo": "Lei nº 14.170 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14170",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14170",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 1.888.194.595,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "34148395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-10-14169",
+      "titulo": "Lei nº 14.169 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "14169",
+      "urn": "urn:lex:br:federal:lei:2021-06-10;14169",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Ciência, Tecnologia e Inovações, do Meio Ambiente, da Defesa, do Desenvolvimento Regional e da Mulher, da Família e dos Direitos Humanos e de Encargos Financeiros da União, crédito suplementar no valor de R$ 1.095.575.217,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "34146161",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-09-14163",
+      "titulo": "Lei nº 14.163 de 09/06/2021",
+      "data": "2021-06-09",
+      "numero": "14163",
+      "urn": "urn:lex:br:federal:lei:2021-06-09;14163",
+      "ementa": "Altera a Lei nº 13.475, de 28 de agosto de 2017, que dispõe sobre o exercício da profissão de tripulante de aeronave."
+    },
+    {
+      "senadoId": "34133219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-02-14161",
+      "titulo": "Lei nº 14.161 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "14161",
+      "urn": "urn:lex:br:federal:lei:2021-06-02;14161",
+      "ementa": "Altera a Lei nº 13.999, de 18 de maio de 2020, para permitir o uso do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), de forma permanente, como política oficial de crédito, de modo a conferir tratamento diferenciado e favorecido às microempresas e às pequenas empresas, com vistas a consolidar os pequenos negócios como agentes de sustentação, de transformação e de desenvolvimento da economia nacional."
+    },
+    {
+      "senadoId": "34133074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-02-14160",
+      "titulo": "Lei nº 14.160 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "14160",
+      "urn": "urn:lex:br:federal:lei:2021-06-02;14160",
+      "ementa": "Dispõe sobre o estabelecimento de barreiras sanitárias protetivas de áreas indígenas."
+    },
+    {
+      "senadoId": "34133034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-02-14159",
+      "titulo": "Lei nº 14.159 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "14159",
+      "urn": "urn:lex:br:federal:lei:2021-06-02;14159",
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), a fim de ampliar o prazo para cumprimento do disposto no § 6º do art. 44 da referida Lei."
+    },
+    {
+      "senadoId": "34133352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-02-14162",
+      "titulo": "Lei nº 14.162 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "14162",
+      "urn": "urn:lex:br:federal:lei:2021-06-02;14162",
+      "ementa": "Dispõe sobre a organização básica da Polícia Civil do Distrito Federal."
+    },
+    {
+      "senadoId": "34132879",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-02-14158",
+      "titulo": "Lei nº 14.158 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "14158",
+      "urn": "urn:lex:br:federal:lei:2021-06-02;14158",
+      "ementa": "Dispõe sobre o valor do salário-mínimo a vigorar a partir de 1º de janeiro de 2021."
+    },
+    {
+      "senadoId": "34125164",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-01-14157",
+      "titulo": "Lei nº 14.157 de 01/06/2021",
+      "data": "2021-06-01",
+      "numero": "14157",
+      "urn": "urn:lex:br:federal:lei:2021-06-01;14157",
+      "ementa": "Altera as Leis nºs 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e 10.233, de 5 de junho de 2001, para estabelecer condições para a implementação da cobrança pelo uso de rodovias por meio de sistemas de livre passagem."
+    },
+    {
+      "senadoId": "34124513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-06-01-14156",
+      "titulo": "Lei nº 14.156 de 01/06/2021",
+      "data": "2021-06-01",
+      "numero": "14156",
+      "urn": "urn:lex:br:federal:lei:2021-06-01;14156",
+      "ementa": "Altera a Lei nº 12.343, de 2 de dezembro de 2010, para aumentar o prazo de vigência do Plano Nacional de Cultura (PNC) para 12 (doze) anos."
+    },
+    {
+      "senadoId": "34016289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-27-14155",
+      "titulo": "Lei nº 14.155 de 27/05/2021",
+      "data": "2021-05-27",
+      "numero": "14155",
+      "urn": "urn:lex:br:federal:lei:2021-05-27;14155",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tornar mais graves os crimes de violação de dispositivo informático, furto e estelionato cometidos de forma eletrônica ou pela internet; e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para definir a competência em modalidades de estelionato."
+    },
+    {
+      "senadoId": "34012681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-26-14154",
+      "titulo": "Lei nº 14.154 de 26/05/2021",
+      "data": "2021-05-26",
+      "numero": "14154",
+      "urn": "urn:lex:br:federal:lei:2021-05-26;14154",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para aperfeiçoar o Programa Nacional de Triagem Neonatal (PNTN), por meio do estabelecimento de rol mínimo de doenças a serem rastreadas pelo teste do pezinho; e dá outras providências."
+    },
+    {
+      "senadoId": "34011521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-25-14153",
+      "titulo": "Lei nº 14.153 de 25/05/2021",
+      "data": "2021-05-25",
+      "numero": "14153",
+      "urn": "urn:lex:br:federal:lei:2021-05-25;14153",
+      "ementa": "Denomina Rodovia Deputado Aloízio Santos o trecho da BR-262 do Km 7,2, em Cariacica, até o Km 20, em Viana, no Estado do Espírito Santo."
+    },
+    {
+      "senadoId": "33997347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-19-14152",
+      "titulo": "Lei nº 14.152 de 19/05/2021",
+      "data": "2021-05-19",
+      "numero": "14152",
+      "urn": "urn:lex:br:federal:lei:2021-05-19;14152",
+      "ementa": "Dispõe sobre a extensão do prazo de validade de prescrições médicas e de pedidos de exames complementares de diagnóstico emitidos para gestantes e puérperas, e sobre o acesso facilitado a cuidados intensivos e à internação em leitos de unidade de terapia intensiva (UTI) enquanto perdurar a pandemia de covid-19."
+    },
+    {
+      "senadoId": "33969692",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-12-14151",
+      "titulo": "Lei nº 14.151 de 12/05/2021",
+      "data": "2021-05-12",
+      "numero": "14151",
+      "urn": "urn:lex:br:federal:lei:2021-05-12;14151",
+      "ementa": "Dispõe sobre o afastamento da empregada gestante das atividades de trabalho presencial durante a emergência de saúde pública de importância nacional decorrente do novo coronavírus."
+    },
+    {
+      "senadoId": "33970180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-12-14150",
+      "titulo": "Lei nº 14.150 de 12/05/2021",
+      "data": "2021-05-12",
+      "numero": "14150",
+      "urn": "urn:lex:br:federal:lei:2021-05-12;14150",
+      "ementa": "Altera a Lei nº 14.017, de 29 de junho de 2020 (Lei Aldir Blanc), para estender a prorrogação do auxílio emergencial a trabalhadores e trabalhadoras da cultura e para prorrogar o prazo de utilização de recursos pelos Estados, pelo Distrito Federal e pelos Municípios."
+    },
+    {
+      "senadoId": "33803235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-05-14149",
+      "titulo": "Lei nº 14.149 de 05/05/2021",
+      "data": "2021-05-05",
+      "numero": "14149",
+      "urn": "urn:lex:br:federal:lei:2021-05-05;14149",
+      "ementa": "Institui o Formulário Nacional de Avaliação de Risco, a ser aplicado à mulher vítima de violência doméstica e familiar."
+    },
+    {
+      "senadoId": "33736404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-05-03-14148",
+      "titulo": "Lei nº 14.148 de 03/05/2021",
+      "data": "2021-05-03",
+      "numero": "14148",
+      "urn": "urn:lex:br:federal:lei:2021-05-03;14148",
+      "ementa": "Dispõe sobre ações emergenciais e temporárias destinadas ao setor de eventos para compensar os efeitos decorrentes das medidas de combate à pandemia da Covid-19; institui o Programa Emergencial de Retomada do Setor de Eventos (Perse) e o Programa de Garantia aos Setores Críticos (PGSC); e altera as Leis n°s 13.756, de 12 de dezembro de 2018, e 8.212, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "33660547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-26-14147",
+      "titulo": "Lei nº 14.147 de 26/04/2021",
+      "data": "2021-04-26",
+      "numero": "14147",
+      "urn": "urn:lex:br:federal:lei:2021-04-26;14147",
+      "ementa": "Cria o Programa Pró-Leitos, com aplicação enquanto perdurar a emergência de saúde pública decorrente da pandemia da covid-19."
+    },
+    {
+      "senadoId": "33660483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-26-14146",
+      "titulo": "Lei nº 14.146 de 26/04/2021",
+      "data": "2021-04-26",
+      "numero": "14146",
+      "urn": "urn:lex:br:federal:lei:2021-04-26;14146",
+      "ementa": "Isenta os consumidores dos Municípios do Estado do Amapá abrangidos pelo estado de calamidade pública do pagamento de fatura de energia elétrica, nos termos em que especifica; altera a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 10.848, de 15 de março de 2004, e a Lei nº 12.111, de 9 de dezembro de 2009; e dá outras providências."
+    },
+    {
+      "senadoId": "33636755",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-23-14145",
+      "titulo": "Lei nº 14.145 de 23/04/2021",
+      "data": "2021-04-23",
+      "numero": "14145",
+      "urn": "urn:lex:br:federal:lei:2021-04-23;14145",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Educação, do Fundo Nacional de Desenvolvimento da Educação (FNDE), do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e da Agência Nacional de Saúde Suplementar (ANS)."
+    },
+    {
+      "senadoId": "33595931",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-22-14144",
+      "titulo": "Lei nº 14.144 de 22/04/2021",
+      "data": "2021-04-22",
+      "numero": "14144",
+      "urn": "urn:lex:br:federal:lei:2021-04-22;14144",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2021."
+    },
+    {
+      "senadoId": "33581521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-21-14143",
+      "titulo": "Lei nº 14.143 de 21/04/2021",
+      "data": "2021-04-21",
+      "numero": "14143",
+      "urn": "urn:lex:br:federal:lei:2021-04-21;14143",
+      "ementa": "Altera a Lei nº 14.116, de 31 de dezembro de 2020, que \"dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021\"."
+    },
+    {
+      "senadoId": "33576723",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-19-14142",
+      "titulo": "Lei nº 14.142 de 19/04/2021",
+      "data": "2021-04-19",
+      "numero": "14142",
+      "urn": "urn:lex:br:federal:lei:2021-04-19;14142",
+      "ementa": "Confere à cidade de Três Lagoas, no Estado de Mato Grosso do Sul, o título de Capital Nacional da Celulose."
+    },
+    {
+      "senadoId": "33573103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-19-14140",
+      "titulo": "Lei nº 14.140 de 19/04/2021",
+      "data": "2021-04-19",
+      "numero": "14140",
+      "urn": "urn:lex:br:federal:lei:2021-04-19;14140",
+      "ementa": "Institui o Dia Nacional do Sanfoneiro."
+    },
+    {
+      "senadoId": "33573141",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-19-14141",
+      "titulo": "Lei nº 14.141 de 19/04/2021",
+      "data": "2021-04-19",
+      "numero": "14141",
+      "urn": "urn:lex:br:federal:lei:2021-04-19;14141",
+      "ementa": "Altera o art. 16 da Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre a remessa de patrimônio genético ao exterior em situações epidemiológicas que caracterizem emergência em saúde pública."
+    },
+    {
+      "senadoId": "33548185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-16-14136",
+      "titulo": "Lei nº 14.136 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "14136",
+      "urn": "urn:lex:br:federal:lei:2021-04-16;14136",
+      "ementa": "Denomina Rodovia José Pereira Alvarez o trecho da rodovia BR-287 entre as cidades de São Borja e Santiago, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "33548270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-16-14138",
+      "titulo": "Lei nº 14.138 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "14138",
+      "urn": "urn:lex:br:federal:lei:2021-04-16;14138",
+      "ementa": "Acrescenta § 2º ao art. 2º-A da Lei nº 8.560, de 29 de dezembro de 1992, para permitir, em sede de ação de investigação de paternidade, a realização do exame de pareamento do código genético (DNA) em parentes do suposto pai, nos casos em que especifica."
+    },
+    {
+      "senadoId": "33550275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-16-14135",
+      "titulo": "Lei nº 14.135 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "14135",
+      "urn": "urn:lex:br:federal:lei:2021-04-16;14135",
+      "ementa": "Institui, no calendário nacional, a Semana Global do Empreendedorismo."
+    },
+    {
+      "senadoId": "33548240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-16-14137",
+      "titulo": "Lei nº 14.137 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "14137",
+      "urn": "urn:lex:br:federal:lei:2021-04-16;14137",
+      "ementa": "Denomina Passarela Eurico da Costa Carneiro a passarela situada no Km 140 da rodovia BR-153, no Município de Araguaína, Estado do Tocantins."
+    },
+    {
+      "senadoId": "33546880",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-16-14139",
+      "titulo": "Lei nº 14.139 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "14139",
+      "urn": "urn:lex:br:federal:lei:2021-04-16;14139",
+      "ementa": "Institui o Dia Nacional da Educação Profissional e Tecnológica."
+    },
+    {
+      "senadoId": "33429875",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-08-14134",
+      "titulo": "Lei nº 14.134 de 08/04/2021",
+      "data": "2021-04-08",
+      "numero": "14134",
+      "urn": "urn:lex:br:federal:lei:2021-04-08;14134",
+      "ementa": "Dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art. 177 da Constituição Federal, e sobre as atividades de escoamento, tratamento, processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comercialização de gás natural; altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999; e revoga a Lei nº 11.909, de 4 de março de 2009, e dispositivo da Lei nº 10.438, de 26 de abril de 2002."
+    },
+    {
+      "senadoId": "33382036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-04-01-14133",
+      "titulo": "Lei nº 14.133 de 01/04/2021",
+      "data": "2021-04-01",
+      "numero": "14133",
+      "urn": "urn:lex:br:federal:lei:2021-04-01;14133",
+      "ementa": "Lei de Licitações e Contratos Administrativos."
+    },
+    {
+      "senadoId": "33381985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-31-14132",
+      "titulo": "Lei nº 14.132 de 31/03/2021",
+      "data": "2021-03-31",
+      "numero": "14132",
+      "urn": "urn:lex:br:federal:lei:2021-03-31;14132",
+      "ementa": "Acrescenta o art. 147-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever o crime de perseguição; e revoga o art. 65 do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais)."
+    },
+    {
+      "senadoId": "33378969",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-30-14131",
+      "titulo": "Lei nº 14.131 de 30/03/2021",
+      "data": "2021-03-30",
+      "numero": "14131",
+      "urn": "urn:lex:br:federal:lei:2021-03-30;14131",
+      "ementa": "Dispõe sobre o acréscimo de 5% (cinco por cento) ao percentual máximo para a contratação de operações de crédito com desconto automático em folha de pagamento até 31 de dezembro de 2021; e altera a Lei nº 8.213, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "33359128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-29-14129",
+      "titulo": "Lei nº 14.129 de 29/03/2021",
+      "data": "2021-03-29",
+      "numero": "14129",
+      "urn": "urn:lex:br:federal:lei:2021-03-29;14129",
+      "ementa": "Dispõe sobre princípios, regras e instrumentos para o Governo Digital e para o aumento da eficiência pública e altera a Lei nº 7.116, de 29 de agosto de 1983, a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), a Lei nº 12.682, de 9 de julho de 2012, e a Lei nº 13.460, de 26 de junho de 2017."
+    },
+    {
+      "senadoId": "33359187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-29-14130",
+      "titulo": "Lei nº 14.130 de 29/03/2021",
+      "data": "2021-03-29",
+      "numero": "14130",
+      "urn": "urn:lex:br:federal:lei:2021-03-29;14130",
+      "ementa": "Altera a Lei nº 8.668, de 25 de junho de 1993, para instituir os Fundos de Investimento nas Cadeias Produtivas Agroindustriais (Fiagro), e a Lei nº 11.033, de 21 de dezembro de 2004; e dá outras providências."
+    },
+    {
+      "senadoId": "33356591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-26-14128",
+      "titulo": "Lei nº 14.128 de 26/03/2021",
+      "data": "2021-03-26",
+      "numero": "14128",
+      "urn": "urn:lex:br:federal:lei:2021-03-26;14128",
+      "ementa": "Dispõe sobre compensação financeira a ser paga pela União aos profissionais e trabalhadores de saúde que, durante o período de emergência de saúde pública de importância nacional decorrente da disseminação do novo coronavírus (SARS-CoV-2), por terem trabalhado no atendimento direto a pacientes acometidos pela Covid-19, ou realizado visitas domiciliares em determinado período de tempo, no caso de agentes comunitários de saúde ou de combate a endemias, tornarem-se permanentemente incapacitados para o trabalho, ou ao seu cônjuge ou companheiro, aos seus dependentes e aos seus herdeiros necessários, em caso de óbito; e altera a Lei nº 605, de 5 de janeiro de 1949."
+    },
+    {
+      "senadoId": "33347151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-22-14127",
+      "titulo": "Lei nº 14.127 de 22/03/2021",
+      "data": "2021-03-22",
+      "numero": "14127",
+      "urn": "urn:lex:br:federal:lei:2021-03-22;14127",
+      "ementa": "Altera a Lei nº 14.116, de 31 de dezembro de 2020, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021."
+    },
+    {
+      "senadoId": "33348426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-22-14126",
+      "titulo": "Lei nº 14.126 de 22/03/2021",
+      "data": "2021-03-22",
+      "numero": "14126",
+      "urn": "urn:lex:br:federal:lei:2021-03-22;14126",
+      "ementa": "Classifica a visão monocular como deficiência sensorial, do tipo visual."
+    },
+    {
+      "senadoId": "33304386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-10-14124",
+      "titulo": "Lei nº 14.124 de 10/03/2021",
+      "data": "2021-03-10",
+      "numero": "14124",
+      "urn": "urn:lex:br:federal:lei:2021-03-10;14124",
+      "ementa": "Dispõe sobre as medidas excepcionais relativas à aquisição de vacinas e de insumos e à contratação de bens e serviços de logística, de tecnologia da informação e comunicação, de comunicação social e publicitária e de treinamentos destinados à vacinação contra a covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19."
+    },
+    {
+      "senadoId": "33304607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-10-14125",
+      "titulo": "Lei nº 14.125 de 10/03/2021",
+      "data": "2021-03-10",
+      "numero": "14125",
+      "urn": "urn:lex:br:federal:lei:2021-03-10;14125",
+      "ementa": "Dispõe sobre a responsabilidade civil relativa a eventos adversos pós-vacinação contra a Covid-19 e sobre a aquisição e distribuição de vacinas por pessoas jurídicas de direito privado."
+    },
+    {
+      "senadoId": "33304209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-10-14123",
+      "titulo": "Lei nº 14.123 de 10/03/2021",
+      "data": "2021-03-10",
+      "numero": "14123",
+      "urn": "urn:lex:br:federal:lei:2021-03-10;14123",
+      "ementa": "Altera a Lei nº 13.650, de 11 de abril de 2018, e prorroga até 31 de dezembro de 2020 a suspensão da obrigatoriedade de manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde no âmbito do Sistema Único de Saúde (SUS) estabelecida pelo art. 1º da Lei nº 13.992, de 22 de abril de 2020."
+    },
+    {
+      "senadoId": "33288234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-03-14122",
+      "titulo": "Lei nº 14.122 de 03/03/2021",
+      "data": "2021-03-03",
+      "numero": "14122",
+      "urn": "urn:lex:br:federal:lei:2021-03-03;14122",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Saúde, no valor de R$ 2.513.700.000,00 (dois bilhões, quinhentos e treze milhões e setecentos mil reais), para o fim que especifica; e dá outras providências."
+    },
+    {
+      "senadoId": "33265950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-01-14121",
+      "titulo": "Lei nº 14.121 de 01/03/2021",
+      "data": "2021-03-01",
+      "numero": "14121",
+      "urn": "urn:lex:br:federal:lei:2021-03-01;14121",
+      "ementa": "Autoriza o Poder Executivo federal a aderir ao Instrumento de Acesso Global de Vacinas Covid-19 (Covax Facility) e estabelece diretrizes para a imunização da população."
+    },
+    {
+      "senadoId": "33265892",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-03-01-14120",
+      "titulo": "Lei nº 14.120 de 01/03/2021",
+      "data": "2021-03-01",
+      "numero": "14120",
+      "urn": "urn:lex:br:federal:lei:2021-03-01;14120",
+      "ementa": "Altera a Lei nº 9.991, de 24 de julho de 2000, a Lei nº 5.655, de 20 de maio de 1971, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 10.848, de 15 de março de 2004, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.783, de 11 de janeiro de 2013, a Lei nº 13.203, de 8 de dezembro de 2015, e o Decreto-Lei nº 1.383, de 26 de dezembro de 1974; transfere para a União as ações de titularidade da Comissão Nacional de Energia Nuclear (CNEN) representativas do capital social da Indústrias Nucleares do Brasil S.A. (INB) e da Nuclebrás Equipamentos Pesados S.A. (Nuclep); e dá outras providências."
+    },
+    {
+      "senadoId": "33089316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-01-13-14119",
+      "titulo": "Lei nº 14.119 de 13/01/2021",
+      "data": "2021-01-13",
+      "numero": "14119",
+      "urn": "urn:lex:br:federal:lei:2021-01-13;14119",
+      "ementa": "Institui a Política Nacional de Pagamento por Serviços Ambientais; e altera as Leis n°s 8.212, de 24 de julho de 1991, 8.629, de 25 de fevereiro de 1993, e 6.015, de 31 de dezembro de 1973, para adequá-las à nova política."
+    },
+    {
+      "senadoId": "33079815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-01-12-14118",
+      "titulo": "Lei nº 14.118 de 12/01/2021",
+      "data": "2021-01-12",
+      "numero": "14118",
+      "urn": "urn:lex:br:federal:lei:2021-01-12;14118",
+      "ementa": "Institui o Programa Casa Verde e Amarela; altera as Leis n°s 8.036, de 11 de maio de 1990, 8.100, de 5 de dezembro de 1990, 8.677, de 13 de julho de 1993, 11.124, de 16 de junho de 2005, 11.977, de 7 de julho de 2009, 12.024, de 27 de agosto de 2009, 13.465, de 11 de julho de 2017, e 6.766, de 19 de dezembro de 1979; e revoga a Lei nº 13.439, de 27 de abril de 2017."
+    },
+    {
+      "senadoId": "33076937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2021-01-08-14117",
+      "titulo": "Lei nº 14.117 de 08/01/2021",
+      "data": "2021-01-08",
+      "numero": "14117",
+      "urn": "urn:lex:br:federal:lei:2021-01-08;14117",
+      "ementa": "Suspende o pagamento do parcelamento de dívidas no âmbito do Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro (Profut), criado pela Lei nº 13.155, de 4 de agosto de 2015, durante a vigência de calamidade pública nacional reconhecida pelo Congresso Nacional; e altera as Leis nºs 9.615, de 24 de março de 1998, e 10.671, de 15 de maio de 2003."
+    }
+  ],
+  "pendencias": []
+}

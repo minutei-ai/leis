@@ -1,0 +1,2379 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2002",
+  "tipo": "LEI",
+  "ano": 2002,
+  "coletado_em": "2026-10-20T22:56:51.735Z",
+  "normas": [
+    {
+      "senadoId": "552513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-30-10637",
+      "titulo": "Lei nº 10.637 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "10637",
+      "urn": "urn:lex:br:federal:lei:2002-12-30;10637",
+      "ementa": "Dispõe sobre a não-cumulatividade na cobrança da contribuição para os Programas de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (Pasep), nos casos que especifica; sobre o pagamento e o parcelamento de débitos tributários federais, a compensação de créditos fiscais, a declaração de inaptidão de inscrição de pessoas jurídicas, a legislação aduaneira, e dá outras providências."
+    },
+    {
+      "senadoId": "552510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-30-10634",
+      "titulo": "Lei nº 10.634 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "10634",
+      "urn": "urn:lex:br:federal:lei:2002-12-30;10634",
+      "ementa": "Dá ao Aeroporto de Navegantes, no Estado de Santa Catarina, a denominação de \"Aeroporto de Navegantes - Ministro Victor Konder\"."
+    },
+    {
+      "senadoId": "552512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-30-10636",
+      "titulo": "Lei nº 10.636 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "10636",
+      "urn": "urn:lex:br:federal:lei:2002-12-30;10636",
+      "ementa": "Dispõe sobre a aplicação dos recursos originários da Contribuição de Intervenção no Domínio Econômico - Cide incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível, atendendo o disposto no § 2º do art. 1º da Lei nº 10.336, de 19 de dezembro de 2001, cria o Fundo Nacional de Infra-Estrutura de Transportes ;- FNIT e dá outras providências."
+    },
+    {
+      "senadoId": "552511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-30-10635",
+      "titulo": "Lei nº 10.635 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "10635",
+      "urn": "urn:lex:br:federal:lei:2002-12-30;10635",
+      "ementa": "Autoriza o Instituto Nacional do Seguro Social - INSS a receber em dação em pagamento o imóvel que especifica."
+    },
+    {
+      "senadoId": "552507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-27-10631",
+      "titulo": "Lei nº 10.631 de 27/12/2002",
+      "data": "2002-12-27",
+      "numero": "10631",
+      "urn": "urn:lex:br:federal:lei:2002-12-27;10631",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas empresas do Grupo Eletrobrás, crédito suplementar no valor total de R$ 466.915.087,00 e reduz o Orçamento de Investimento das mesmas empresas, no valor global de R$ 817.779.212,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-27-10632",
+      "titulo": "Lei nº 10.632 de 27/12/2002",
+      "data": "2002-12-27",
+      "numero": "10632",
+      "urn": "urn:lex:br:federal:lei:2002-12-27;10632",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Previdência e Assistência Social e do Trabalho e Emprego, crédito suplementar no valor global de R$ 374.647.346,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-27-10633",
+      "titulo": "Lei nº 10.633 de 27/12/2002",
+      "data": "2002-12-27",
+      "numero": "10633",
+      "urn": "urn:lex:br:federal:lei:2002-12-27;10633",
+      "ementa": "Institui o Fundo Constitucional do Distrito Federal - FCDF, para atender o disposto no inciso XIV do art. 21 da Constituição Federal."
+    },
+    {
+      "senadoId": "552506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-26-10630",
+      "titulo": "Lei nº 10.630 de 26/12/2002",
+      "data": "2002-12-26",
+      "numero": "10630",
+      "urn": "urn:lex:br:federal:lei:2002-12-26;10630",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 22.232.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-26-10629",
+      "titulo": "Lei nº 10.629 de 26/12/2002",
+      "data": "2002-12-26",
+      "numero": "10629",
+      "urn": "urn:lex:br:federal:lei:2002-12-26;10629",
+      "ementa": "Abre crédito suplementar aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Fazenda, do Desenvolvimento, Indústria e Comércio Exterior, do Planejamento, Orçamento e Gestão, da Integração Nacional e de Transferências a Estados, Distrito Federal e Municípios, no valor global de R$ 250.072.546,00, para reforço de dotações consignadas na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-24-10628",
+      "titulo": "Lei nº 10.628 de 24/12/2002",
+      "data": "2002-12-24",
+      "numero": "10628",
+      "urn": "urn:lex:br:federal:lei:2002-12-24;10628",
+      "ementa": "Altera a redação do art. 84 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal."
+    },
+    {
+      "senadoId": "552503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-24-10627",
+      "titulo": "Lei nº 10.627 de 24/12/2002",
+      "data": "2002-12-24",
+      "numero": "10627",
+      "urn": "urn:lex:br:federal:lei:2002-12-24;10627",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Meio Ambiente e da Integração Nacional, crédito suplementar no valor de R$ 96.425.663,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10619",
+      "titulo": "Lei nº 10.619 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10619",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10619",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União crédito suplementar no valor global de R$ 105.232.872,00, em favor do Ministério da Ciência e Tecnologia e do Ministério das Relações Exteriores, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10615",
+      "titulo": "Lei nº 10.615 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10615",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10615",
+      "ementa": "Abre ao Orçamento de Investimento para 2002, em favor de diversas empresas estatais federais, crédito suplementar no valor total de R$ 117.570.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552490",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10614",
+      "titulo": "Lei nº 10.614 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10614",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10614",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas empresas do Grupo ELETROBRÁS, crédito especial no valor total de R$ 339.606.483,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10621",
+      "titulo": "Lei nº 10.621 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10621",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10621",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito especial no valor global de R$ 74.400.000,00, em favor da Justiça Federal e da Justiça Eleitoral, para os fins que especifica."
+    },
+    {
+      "senadoId": "552501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10625",
+      "titulo": "Lei nº 10.625 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10625",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10625",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito suplementar no valor de R$ 93.234.000,00, em favor da Justiça Federal, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10611",
+      "titulo": "Lei nº 10.611 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10611",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10611",
+      "ementa": "Dispõe sobre a transformação da Faculdade de Ciências Agrárias do Pará em Universidade Federal Rural da Amazônia e dá outras providências."
+    },
+    {
+      "senadoId": "552488",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10612",
+      "titulo": "Lei nº 10.612 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10612",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10612",
+      "ementa": "Dispõe sobre a concessão de subvenção econômica à aquisição de veículos automotores movidos a álcool etílico hidratado carburante e dá outras providências."
+    },
+    {
+      "senadoId": "552502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10626",
+      "titulo": "Lei nº 10.626 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10626",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10626",
+      "ementa": "Abre crédito suplementar ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor global de R$ 195.335.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10617",
+      "titulo": "Lei nº 10.617 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10617",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10617",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas empresas do Grupo PETROBRÁS, crédito suplementar no valor total de R$ 1.843.369.241,00 e reduz o Orçamento de Investimento das mesmas empresas no valor global de R$ 2.367.078.669,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10613",
+      "titulo": "Lei nº 10.613 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10613",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10613",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República e do Ministério da Integração Nacional, crédito suplementar no valor global de R$ 15.030.387,00, para reforço de dotações orçamentárias consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10622",
+      "titulo": "Lei nº 10.622 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10622",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10622",
+      "ementa": "Abre crédito suplementar aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento e do Desenvolvimento Agrário, no valor global de R$ 28.205.505,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10620",
+      "titulo": "Lei nº 10.620 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10620",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10620",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União crédito suplementar no valor global de R$ 78.540.619,00, em favor de diversos Órgãos do Poder Judiciário e do Ministério Público da União, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10624",
+      "titulo": "Lei nº 10.624 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10624",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10624",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União crédito suplementar no valor global de R$ 4.459.032.102,00 em favor dos Ministérios da Previdência e Assistência Social e do Trabalho e Emprego, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10623",
+      "titulo": "Lei nº 10.623 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10623",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10623",
+      "ementa": "Abre ao Orçamento de Investimento para 2002, em favor de diversas empresas estatais federais, crédito suplementar no valor total de R$ 6.294.845,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552492",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10616",
+      "titulo": "Lei nº 10.616 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10616",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10616",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas empresas estatais federais, crédito suplementar no valor total de R$ 14.997.502,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-23-10618",
+      "titulo": "Lei nº 10.618 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "10618",
+      "urn": "urn:lex:br:federal:lei:2002-12-23;10618",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas empresas do Grupo PETROBRÁS, crédito especial no valor total de R$ 1.753.297.047,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-20-10609",
+      "titulo": "Lei nº 10.609 de 20/12/2002",
+      "data": "2002-12-20",
+      "numero": "10609",
+      "urn": "urn:lex:br:federal:lei:2002-12-20;10609",
+      "ementa": "Dispõe sobre a instituição de equipe de transição pelo candidato eleito para o cargo de Presidente da República, cria cargos em comissão, e dá outras providências."
+    },
+    {
+      "senadoId": "552484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-20-10608",
+      "titulo": "Lei nº 10.608 de 20/12/2002",
+      "data": "2002-12-20",
+      "numero": "10608",
+      "urn": "urn:lex:br:federal:lei:2002-12-20;10608",
+      "ementa": "Altera a Lei nº 7.998, de 11 de janeiro de 1990, para assegurar o pagamento de seguro-desemprego ao trabalhador resgatado da condição análoga à de escravo."
+    },
+    {
+      "senadoId": "552486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-20-10610",
+      "titulo": "Lei nº 10.610 de 20/12/2002",
+      "data": "2002-12-20",
+      "numero": "10610",
+      "urn": "urn:lex:br:federal:lei:2002-12-20;10610",
+      "ementa": "Dispõe sobre a participação de capital estrangeiro nas empresas jornalísticas e de radiodifusão sonora e de sons e imagens, conforme o § 4º do art. 222 da Constituição, altera os arts. 38 e 64 da Lei nº 4.117, de 27 de agosto de 1962, o § 3º do art. 12 do Decreto-Lei nº 236, de 28 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "552482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-19-10606",
+      "titulo": "Lei nº 10.606 de 19/12/2002",
+      "data": "2002-12-19",
+      "numero": "10606",
+      "urn": "urn:lex:br:federal:lei:2002-12-19;10606",
+      "ementa": "Altera a Lei nº 5.917, de 10 de setembro de 1973 (entroncamento com a BR-020 ao entroncamento com a BR-040, no Distrito Federal)."
+    },
+    {
+      "senadoId": "552483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-19-10607",
+      "titulo": "Lei nº 10.607 de 19/12/2002",
+      "data": "2002-12-19",
+      "numero": "10607",
+      "urn": "urn:lex:br:federal:lei:2002-12-19;10607",
+      "ementa": "Dá nova redação ao art. 1º da Lei nº 662, de 6 de abril de 1949, que \"declara feriados nacionais os dias 1º de janeiro, 1º de maio, 7 de setembro, 15 de novembro e 25 de dezembro\", e dá outras providências."
+    },
+    {
+      "senadoId": "552481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-18-10605",
+      "titulo": "Lei nº 10.605 de 18/12/2002",
+      "data": "2002-12-18",
+      "numero": "10605",
+      "urn": "urn:lex:br:federal:lei:2002-12-18;10605",
+      "ementa": "Dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de matrícula brasileira operadas por empresas brasileiras de transporte aéreo público, excluídas as empresas de táxi aéreo."
+    },
+    {
+      "senadoId": "552479",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-17-10603",
+      "titulo": "Lei nº 10.603 de 17/12/2002",
+      "data": "2002-12-17",
+      "numero": "10603",
+      "urn": "urn:lex:br:federal:lei:2002-12-17;10603",
+      "ementa": "Dispõe sobre a proteção de informação não divulgada submetida para aprovação da comercialização de produtos e dá outras providências."
+    },
+    {
+      "senadoId": "552480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-17-10604",
+      "titulo": "Lei nº 10.604 de 17/12/2002",
+      "data": "2002-12-17",
+      "numero": "10604",
+      "urn": "urn:lex:br:federal:lei:2002-12-17;10604",
+      "ementa": "Dispõe sobre recursos para subvenção a consumidores de energia elétrica da Subclasse Baixa Renda, dá nova redação aos arts. 27 e 28 da Lei nº 10.438, de 26 de abril de 2002, e dá outras providências."
+    },
+    {
+      "senadoId": "552477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-12-10601",
+      "titulo": "Lei nº 10.601 de 12/12/2002",
+      "data": "2002-12-12",
+      "numero": "10601",
+      "urn": "urn:lex:br:federal:lei:2002-12-12;10601",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União crédito suplementar no valor global de R$ 46.060.851,00, em favor de diversos Órgãos dos Poderes Legislativo, Judiciário e Executivo e do Ministério Público da União, para reforço de dotações constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "552478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-12-10602",
+      "titulo": "Lei nº 10.602 de 12/12/2002",
+      "data": "2002-12-12",
+      "numero": "10602",
+      "urn": "urn:lex:br:federal:lei:2002-12-12;10602",
+      "ementa": "Dispõe sobre o Conselho Federal e os Conselhos Regionais dos Despachantes Documentalistas e dá outras providências."
+    },
+    {
+      "senadoId": "552474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-11-10598",
+      "titulo": "Lei nº 10.598 de 11/12/2002",
+      "data": "2002-12-11",
+      "numero": "10598",
+      "urn": "urn:lex:br:federal:lei:2002-12-11;10598",
+      "ementa": "Altera programas do Plano Plurianual para o período 2000 - 2003."
+    },
+    {
+      "senadoId": "552476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-11-10600",
+      "titulo": "Lei nº 10.600 de 11/12/2002",
+      "data": "2002-12-11",
+      "numero": "10600",
+      "urn": "urn:lex:br:federal:lei:2002-12-11;10600",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial no valor de R$ 63.479.999,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-11-10599",
+      "titulo": "Lei nº 10.599 de 11/12/2002",
+      "data": "2002-12-11",
+      "numero": "10599",
+      "urn": "urn:lex:br:federal:lei:2002-12-11;10599",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e do Ministério do Meio Ambiente, crédito suplementar no valor global de R$ 120.003.735,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552471",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-11-10595",
+      "titulo": "Lei nº 10.595 de 11/12/2002",
+      "data": "2002-12-11",
+      "numero": "10595",
+      "urn": "urn:lex:br:federal:lei:2002-12-11;10595",
+      "ementa": "Dispõe sobre a utilização das fontes de recursos existentes no Tesouro Nacional no encerramento do exercício financeiro de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "552473",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-11-10597",
+      "titulo": "Lei nº 10.597 de 11/12/2002",
+      "data": "2002-12-11",
+      "numero": "10597",
+      "urn": "urn:lex:br:federal:lei:2002-12-11;10597",
+      "ementa": "Altera o parágrafo único do art. 6º da Lei nº 9.612, de 19 de fevereiro de 1998, que institui o Serviço de Radiodifusão Comunitária, para aumentar o prazo de outorga."
+    },
+    {
+      "senadoId": "552472",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-11-10596",
+      "titulo": "Lei nº 10.596 de 11/12/2002",
+      "data": "2002-12-11",
+      "numero": "10596",
+      "urn": "urn:lex:br:federal:lei:2002-12-11;10596",
+      "ementa": "Denomina \"Barragem Padre Cícero\" a Barragem do Castanhão, no Estado do Ceará."
+    },
+    {
+      "senadoId": "552470",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-09-10594",
+      "titulo": "Lei nº 10.594 de 09/12/2002",
+      "data": "2002-12-09",
+      "numero": "10594",
+      "urn": "urn:lex:br:federal:lei:2002-12-09;10594",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Cultura e do Esporte e Turismo, crédito suplementar no valor global de R$ 43.762.093,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552469",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-06-10593",
+      "titulo": "Lei nº 10.593 de 06/12/2002",
+      "data": "2002-12-06",
+      "numero": "10593",
+      "urn": "urn:lex:br:federal:lei:2002-12-06;10593",
+      "ementa": "Dispõe sobre a reestruturação da Carreira Auditoria do Tesouro Nacional, que passa a denominar-se Carreira Auditoria da Receita Federal - ARF, e sobre a organização da Carreira Auditoria-Fiscal da Previdência Social e da Carreira Auditoria-Fiscal do Trabalho, e dá outras providências."
+    },
+    {
+      "senadoId": "552460",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10584",
+      "titulo": "Lei nº 10.584 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10584",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10584",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor global de R$ 75.801.806,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552457",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10581",
+      "titulo": "Lei nº 10.581 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10581",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10581",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito especial no valor de R$ 39.766,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10590",
+      "titulo": "Lei nº 10.590 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10590",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10590",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Educação, crédito especial no valor de R$ 240.988,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10583",
+      "titulo": "Lei nº 10.583 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10583",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10583",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito especial no valor global de R$ 2.264.739,00, em favor da Justiça Eleitoral, da Justiça do Trabalho e do Ministério Público da União, para os fins que especifica."
+    },
+    {
+      "senadoId": "552463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10587",
+      "titulo": "Lei nº 10.587 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10587",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10587",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito suplementar no valor de R$ 5.200.000,00, para reforço de dotações consignadas na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10589",
+      "titulo": "Lei nº 10.589 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10589",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10589",
+      "ementa": "Abre crédito especial ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, no valor de R$ 2.875.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "552458",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10582",
+      "titulo": "Lei nº 10.582 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10582",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10582",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 12.000.000,00, para reforço de dotação orçamentária consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "552467",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10591",
+      "titulo": "Lei nº 10.591 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10591",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10591",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 197.811.440,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10585",
+      "titulo": "Lei nº 10.585 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10585",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10585",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito suplementar no valor global de R$ 11.236.692,00, em favor do Ministério da Fazenda e do Ministério do Planejamento, Orçamento e Gestão, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552464",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10588",
+      "titulo": "Lei nº 10.588 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10588",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10588",
+      "ementa": "Abre crédito especial ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda e do Desenvolvimento, Indústria e Comércio Exterior, no valor de R$ 193.900.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552468",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10592",
+      "titulo": "Lei nº 10.592 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10592",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10592",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 35.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552462",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-04-10586",
+      "titulo": "Lei nº 10.586 de 04/12/2002",
+      "data": "2002-12-04",
+      "numero": "10586",
+      "urn": "urn:lex:br:federal:lei:2002-12-04;10586",
+      "ementa": "Abre crédito suplementar aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério de Minas e Energia e do Ministério das Comunicações, no valor global de R$ 68.123.121,00, para reforço de dotações constantes da Lei Orçamentária vigente, e dá outras providências."
+    },
+    {
+      "senadoId": "552456",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-12-03-10580",
+      "titulo": "Lei nº 10.580 de 03/12/2002",
+      "data": "2002-12-03",
+      "numero": "10580",
+      "urn": "urn:lex:br:federal:lei:2002-12-03;10580",
+      "ementa": "Abre crédito extraordinário, no valor de R$ 208.000.000,00, (duzentos e oito milhões de reais), em favor dos Ministérios da Integração Nacional e de Minas e Energia, para os fins que especifica."
+    },
+    {
+      "senadoId": "552455",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-28-10579",
+      "titulo": "Lei nº 10.579 de 28/11/2002",
+      "data": "2002-11-28",
+      "numero": "10579",
+      "urn": "urn:lex:br:federal:lei:2002-11-28;10579",
+      "ementa": "Abre crédito suplementar ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, no valor de R$ 707.342.273,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552454",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-27-10578",
+      "titulo": "Lei nº 10.578 de 27/11/2002",
+      "data": "2002-11-27",
+      "numero": "10578",
+      "urn": "urn:lex:br:federal:lei:2002-11-27;10578",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial no valor de R$ 8.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-27-10577",
+      "titulo": "Lei nº 10.577 de 27/11/2002",
+      "data": "2002-11-27",
+      "numero": "10577",
+      "urn": "urn:lex:br:federal:lei:2002-11-27;10577",
+      "ementa": "Prorroga o prazo constante do parágrafo único do art. 1º da Lei nº 9.074, de 7 de julho de 1995, acrescentado pelo art. 3º da Lei nº 9.648, de 27 de maio de 1998."
+    },
+    {
+      "senadoId": "552451",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-25-10575",
+      "titulo": "Lei nº 10.575 de 25/11/2002",
+      "data": "2002-11-25",
+      "numero": "10575",
+      "urn": "urn:lex:br:federal:lei:2002-11-25;10575",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e do Ministério da Defesa, crédito suplementar no valor global de R$ 169.667.597,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-25-10573",
+      "titulo": "Lei nº 10.573 de 25/11/2002",
+      "data": "2002-11-25",
+      "numero": "10573",
+      "urn": "urn:lex:br:federal:lei:2002-11-25;10573",
+      "ementa": "Abre ao Orçamento de Investimento para 2002, em favor da Caixa Econômica Federal, crédito especial no valor total de R$ 1.420.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552448",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-25-10572",
+      "titulo": "Lei nº 10.572 de 25/11/2002",
+      "data": "2002-11-25",
+      "numero": "10572",
+      "urn": "urn:lex:br:federal:lei:2002-11-25;10572",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 677.683.990,00, para reforço de dotações orçamentárias consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552447",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-25-10571",
+      "titulo": "Lei nº 10.571 de 25/11/2002",
+      "data": "2002-11-25",
+      "numero": "10571",
+      "urn": "urn:lex:br:federal:lei:2002-11-25;10571",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito especial no valor de R$ 54.573,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552452",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-25-10576",
+      "titulo": "Lei nº 10.576 de 25/11/2002",
+      "data": "2002-11-25",
+      "numero": "10576",
+      "urn": "urn:lex:br:federal:lei:2002-11-25;10576",
+      "ementa": "Abre crédito suplementar aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação e da Saúde, no valor global de R$ 142.091.424,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552450",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-25-10574",
+      "titulo": "Lei nº 10.574 de 25/11/2002",
+      "data": "2002-11-25",
+      "numero": "10574",
+      "urn": "urn:lex:br:federal:lei:2002-11-25;10574",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito especial no valor de R$ 3.100.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "552445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-21-10569",
+      "titulo": "Lei nº 10.569 de 21/11/2002",
+      "data": "2002-11-21",
+      "numero": "10569",
+      "urn": "urn:lex:br:federal:lei:2002-11-21;10569",
+      "ementa": "Denomina \"subestação Delfino Araújo Macedo\" a subestação de energia elétrica do Linhão Norte-Sul da Eletronorte situada no Município de Miracema do Tocantins, Estado do Tocantins."
+    },
+    {
+      "senadoId": "552446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-21-10570",
+      "titulo": "Lei nº 10.570 de 21/11/2002",
+      "data": "2002-11-21",
+      "numero": "10570",
+      "urn": "urn:lex:br:federal:lei:2002-11-21;10570",
+      "ementa": "Dá denominação à ponte rodoferroviária sobre o Rio Paraná, que liga os municípios de Rubinéia-SP e Aparecida do Taboado-MS."
+    },
+    {
+      "senadoId": "552444",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-19-10568",
+      "titulo": "Lei nº 10.568 de 19/11/2002",
+      "data": "2002-11-19",
+      "numero": "10568",
+      "urn": "urn:lex:br:federal:lei:2002-11-19;10568",
+      "ementa": "Exclui da vedação prevista no art. 3º da Lei nº 9.491, de 9 de setembro de 1997, as ações detidas pela União no capital do Banco do Brasil S.A., e dá outras providências."
+    },
+    {
+      "senadoId": "552443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-18-10567",
+      "titulo": "Lei nº 10.567 de 18/11/2002",
+      "data": "2002-11-18",
+      "numero": "10567",
+      "urn": "urn:lex:br:federal:lei:2002-11-18;10567",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas empresas estatais federais, crédito suplementar no valor total de R$ 8.748.277,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-18-10566",
+      "titulo": "Lei nº 10.566 de 18/11/2002",
+      "data": "2002-11-18",
+      "numero": "10566",
+      "urn": "urn:lex:br:federal:lei:2002-11-18;10566",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 78.961.301,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "552439",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-18-10563",
+      "titulo": "Lei nº 10.563 de 18/11/2002",
+      "data": "2002-11-18",
+      "numero": "10563",
+      "urn": "urn:lex:br:federal:lei:2002-11-18;10563",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 425.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-18-10562",
+      "titulo": "Lei nº 10.562 de 18/11/2002",
+      "data": "2002-11-18",
+      "numero": "10562",
+      "urn": "urn:lex:br:federal:lei:2002-11-18;10562",
+      "ementa": "Denomina \"Avenida Engenheiro Emiliano Macieira\" o trecho da BR-135 compreendido entre o quilômetro zero e a Ponte da Estiva, localizado no Município de São Luís, Estado do Maranhão."
+    },
+    {
+      "senadoId": "552441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-18-10565",
+      "titulo": "Lei nº 10.565 de 18/11/2002",
+      "data": "2002-11-18",
+      "numero": "10565",
+      "urn": "urn:lex:br:federal:lei:2002-11-18;10565",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 70.000.000,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "552440",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-18-10564",
+      "titulo": "Lei nº 10.564 de 18/11/2002",
+      "data": "2002-11-18",
+      "numero": "10564",
+      "urn": "urn:lex:br:federal:lei:2002-11-18;10564",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito suplementar no valor de R$ 10.011.885,00, para reforço de dotação consignada no orçamento vigente."
+    },
+    {
+      "senadoId": "552429",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10553",
+      "titulo": "Lei nº 10.553 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10553",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10553",
+      "ementa": "Abre, em favor de Operações Oficiais de Crédito, crédito extraordinário no valor de R$ 380.905.883,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552435",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10559",
+      "titulo": "Lei nº 10.559 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10559",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10559",
+      "ementa": "Regulamenta o art. 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências."
+    },
+    {
+      "senadoId": "552428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10552",
+      "titulo": "Lei nº 10.552 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10552",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10552",
+      "ementa": "Autoriza o Poder Executivo a contratar em nome da União operação de crédito interno e a conceder garantia da União a entidades da administração federal indireta, bem como a Estados, ao Distrito Federal, aos Municípios e às suas entidades da administração indireta, em operação de crédito interno, e dá outras providências."
+    },
+    {
+      "senadoId": "552434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10558",
+      "titulo": "Lei nº 10.558 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10558",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10558",
+      "ementa": "Cria o Programa Diversidade na Universidade, e dá outras providências."
+    },
+    {
+      "senadoId": "552437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10561",
+      "titulo": "Lei nº 10.561 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10561",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10561",
+      "ementa": "Altera as Leis nºs 10.209, de 23 de março de 2001, e 10.233, de 5 de junho de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "552424",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10548",
+      "titulo": "Lei nº 10.548 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10548",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10548",
+      "ementa": "Altera a Lei nº 10.147, de 21 de dezembro de 2000, que dispõe sobre a incidência da contribuição para os Programas de Integração Social e de Formação do Patrimônio - PIS-Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, nas operações de venda dos produtos que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "552432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10556",
+      "titulo": "Lei nº 10.556 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10556",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10556",
+      "ementa": "Dispõe sobre a inclusão dos cargos que especifica no Plano de Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de dezembro de 1970, altera as Leis nº 10.486, de 4 de julho de 2002, e 5.662, de 21 de junho de 1971, e dá outras providências."
+    },
+    {
+      "senadoId": "552433",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10557",
+      "titulo": "Lei nº 10.557 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10557",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10557",
+      "ementa": "Abre, em favor de Encargos Financeiros da União, crédito extraordinário no valor de R$ 7.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552427",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10551",
+      "titulo": "Lei nº 10.551 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10551",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10551",
+      "ementa": "Dispõe sobre a criação da Gratificação de Desempenho de Atividade de Controle e Segurança de Tráfego Aéreo - GDASA e da Gratificação Especial de Controle do Tráfego Aéreo - GECTA, e dá outras providências."
+    },
+    {
+      "senadoId": "552431",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10555",
+      "titulo": "Lei nº 10.555 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10555",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10555",
+      "ementa": "Autoriza condições especiais para o crédito de valores iguais ou inferiores a R$ 100,00, de que trata a Lei Complementar nº 110, de 29 de junho de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "552430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10554",
+      "titulo": "Lei nº 10.554 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10554",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10554",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 36.365.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10550",
+      "titulo": "Lei nº 10.550 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10550",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10550",
+      "ementa": "Dispõe sobre a estruturação da Carreira de Perito Federal Agrário, a criação da Gratificação de Desempenho de Atividade de Perito Federal Agrário - GDAPA e da Gratificação Especial de Perito Federal Agrário - GEPRA, e dá outras providências."
+    },
+    {
+      "senadoId": "552436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10560",
+      "titulo": "Lei nº 10.560 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10560",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10560",
+      "ementa": "Dispõe sobre o tratamento tributário dispensado às empresas de transporte aéreo, e dá outras providências."
+    },
+    {
+      "senadoId": "552425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-13-10549",
+      "titulo": "Lei nº 10.549 de 13/11/2002",
+      "data": "2002-11-13",
+      "numero": "10549",
+      "urn": "urn:lex:br:federal:lei:2002-11-13;10549",
+      "ementa": "Dispõe sobre a remuneração dos cargos da Carreira de Procurador da Fazenda Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "552419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-12-10543",
+      "titulo": "Lei nº 10.543 de 12/11/2002",
+      "data": "2002-11-12",
+      "numero": "10543",
+      "urn": "urn:lex:br:federal:lei:2002-11-12;10543",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito suplementar no valor de R$ 2.080.000,00 para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552420",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-12-10544",
+      "titulo": "Lei nº 10.544 de 12/11/2002",
+      "data": "2002-11-12",
+      "numero": "10544",
+      "urn": "urn:lex:br:federal:lei:2002-11-12;10544",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União crédito suplementar no valor de R$ 467.434,00, em favor do Ministério da Previdência e Assistência Social, para reforço de dotações constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "552422",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-12-10546",
+      "titulo": "Lei nº 10.546 de 12/11/2002",
+      "data": "2002-11-12",
+      "numero": "10546",
+      "urn": "urn:lex:br:federal:lei:2002-11-12;10546",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 5.600.000,00, para reforço de dotação orçamentária consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "552423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-12-10547",
+      "titulo": "Lei nº 10.547 de 12/11/2002",
+      "data": "2002-11-12",
+      "numero": "10547",
+      "urn": "urn:lex:br:federal:lei:2002-11-12;10547",
+      "ementa": "Altera ações dos programas Nosso Bairro, Morar Melhor e Gestão da Política de Desenvolvimento Urbano constantes do Plano Plurianual para o período 2000 - 2003."
+    },
+    {
+      "senadoId": "552418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-12-10542",
+      "titulo": "Lei nº 10.542 de 12/11/2002",
+      "data": "2002-11-12",
+      "numero": "10542",
+      "urn": "urn:lex:br:federal:lei:2002-11-12;10542",
+      "ementa": "Abre crédito extraordinário, no valor de R$ 326.075.000,00, em favor do Ministério de Minas e Energia, para os fins que especifica."
+    },
+    {
+      "senadoId": "552421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-12-10545",
+      "titulo": "Lei nº 10.545 de 12/11/2002",
+      "data": "2002-11-12",
+      "numero": "10545",
+      "urn": "urn:lex:br:federal:lei:2002-11-12;10545",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Fazenda, do Desenvolvimento, Indústria e Comércio Exterior e do Planejamento, Orçamento e Gestão, crédito suplementar no valor global de R$ 110.187.191,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552417",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-11-07-10541",
+      "titulo": "Lei nº 10.541 de 07/11/2002",
+      "data": "2002-11-07",
+      "numero": "10541",
+      "urn": "urn:lex:br:federal:lei:2002-11-07;10541",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos dos Poderes Legislativo, Executivo e Judiciário e do Ministério Público da União, crédito suplementar no valor global de R$ 3.201.123.539,00 para reforço de dotações consignadas na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "552416",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-10-01-10540",
+      "titulo": "Lei nº 10.540 de 01/10/2002",
+      "data": "2002-10-01",
+      "numero": "10540",
+      "urn": "urn:lex:br:federal:lei:2002-10-01;10540",
+      "ementa": "Altera a Lei nº 5.917, de 10 de setembro de 1973, que \"aprova o Plano   Nacional de Viação\", de modo a incluir, na Relação Descritiva das Rodovias do   Sistema Rodoviário Federal, a interligação das rodovias federais BR-405 e   BR-116, com extremos localizados, respectivamente, nos Estados do Rio Grande do   Norte e do Ceará."
+    },
+    {
+      "senadoId": "552415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-09-23-10539",
+      "titulo": "Lei nº 10.539 de 23/09/2002",
+      "data": "2002-09-23",
+      "numero": "10539",
+      "urn": "urn:lex:br:federal:lei:2002-09-23;10539",
+      "ementa": "Dispõe sobre a estruturação de órgãos, cria cargos em comissão no âmbito   do Poder Executivo Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "552413",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-27-10537",
+      "titulo": "Lei nº 10.537 de 27/08/2002",
+      "data": "2002-08-27",
+      "numero": "10537",
+      "urn": "urn:lex:br:federal:lei:2002-08-27;10537",
+      "ementa": "Altera os arts. 789 e 790 da Consolidação das Leis do Trabalho - CLT,   aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, sobre custas e   emolumentos da Justiça do Trabalho, e acrescenta os arts. 789- A, 789-B, 790-A e   790-B."
+    },
+    {
+      "senadoId": "552414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-27-10538",
+      "titulo": "Lei nº 10.538 de 27/08/2002",
+      "data": "2002-08-27",
+      "numero": "10538",
+      "urn": "urn:lex:br:federal:lei:2002-08-27;10538",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da   União, crédito especial no valor de R$ 500.000.000,00 para os fins que   especifica."
+    },
+    {
+      "senadoId": "552412",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-14-10536",
+      "titulo": "Lei nº 10.536 de 14/08/2002",
+      "data": "2002-08-14",
+      "numero": "10536",
+      "urn": "urn:lex:br:federal:lei:2002-08-14;10536",
+      "ementa": "Altera dispositivos da Lei nº 9.140, de 4 de dezembro de 1995, que   reconhece como mortas pessoas desaparecidas em razão de participação, ou de   acusação de participação, em atividades políticas, no período de 2 de setembro   de 1961 a 15 de agosto de 1979, e dá outras providências."
+    },
+    {
+      "senadoId": "552411",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10535",
+      "titulo": "Lei nº 10.535 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10535",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10535",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do   Ministério da Defesa, crédito suplementar no valor de R$ 48.000.000,00, para   reforço de dotações consignadas nos vigentes orçamentos."
+    },
+    {
+      "senadoId": "552405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10529",
+      "titulo": "Lei nº 10.529 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10529",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10529",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de   diversos órgãos dos Poderes Legislativo, Executivo e Judiciário e do Ministério   Público da União, crédito suplementar no valor global de R$ 2.606.057.783,00   para reforço de dotações consignadas nos orçamentos vigentes"
+    },
+    {
+      "senadoId": "552407",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10531",
+      "titulo": "Lei nº 10.531 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10531",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10531",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do   Desenvolvimento, Indústria e Comércio Exterior, crédito especial no valor de R$   77.217.464,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10533",
+      "titulo": "Lei nº 10.533 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10533",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10533",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da   Previdência e Assistência Social, crédito suplementar no valor de R$   10.000.000,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "552408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10532",
+      "titulo": "Lei nº 10.532 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10532",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10532",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do   Ministério da Educação, crédito suplementar no valor de R$ 79.276.270,00, para   reforço de dotações consignadas no orçamento vigente."
+    },
+    {
+      "senadoId": "552410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10534",
+      "titulo": "Lei nº 10.534 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10534",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10534",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e do   Ministério das Relações Exteriores, crédito suplementar no valor global de R$   209.280.539,00 para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-12-10530",
+      "titulo": "Lei nº 10.530 de 12/08/2002",
+      "data": "2002-08-12",
+      "numero": "10530",
+      "urn": "urn:lex:br:federal:lei:2002-08-12;10530",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do   Ministério de Minas e Energia e do Ministério da Defesa, crédito especial no   valor global de R$ 9.664.614,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-08-10528",
+      "titulo": "Lei nº 10.528 de 08/08/2002",
+      "data": "2002-08-08",
+      "numero": "10528",
+      "urn": "urn:lex:br:federal:lei:2002-08-08;10528",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito suplementar no valor de R$   50.000.000,00, em favor da Justiça Eleitoral, para reforço de dotações   constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "552403",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-08-10527",
+      "titulo": "Lei nº 10.527 de 08/08/2002",
+      "data": "2002-08-08",
+      "numero": "10527",
+      "urn": "urn:lex:br:federal:lei:2002-08-08;10527",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do   Tribunal de Contas da União, dos órgãos do Poder Judiciário e do Ministério   Público da União, crédito suplementar no valor global de R$ 546.661.876,00, para   reforço de dotações consignadas nos orçamentos vigentes."
+    },
+    {
+      "senadoId": "552402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-06-10526",
+      "titulo": "Lei nº 10.526 de 06/08/2002",
+      "data": "2002-08-06",
+      "numero": "10526",
+      "urn": "urn:lex:br:federal:lei:2002-08-06;10526",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça do Trabalho e do   Ministério da Integração Nacional, no valor global de R$ 124.210.542,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "552401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-08-06-10525",
+      "titulo": "Lei nº 10.525 de 06/08/2002",
+      "data": "2002-08-06",
+      "numero": "10525",
+      "urn": "urn:lex:br:federal:lei:2002-08-06;10525",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de abril de 2002, e dá outras   providências."
+    },
+    {
+      "senadoId": "552400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-25-10524",
+      "titulo": "Lei nº 10.524 de 25/07/2002",
+      "data": "2002-07-25",
+      "numero": "10524",
+      "urn": "urn:lex:br:federal:lei:2002-07-25;10524",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração da lei orçamentária de 2003 e dá outras providências."
+    },
+    {
+      "senadoId": "552399",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-23-10523",
+      "titulo": "Lei nº 10.523 de 23/07/2002",
+      "data": "2002-07-23",
+      "numero": "10523",
+      "urn": "urn:lex:br:federal:lei:2002-07-23;10523",
+      "ementa": "Cria e transforma, no Quadro Permanente de Pessoal da Secretaria do   Tribunal Regional do Trabalho da 9ª Região, os cargos que menciona e dá outras   providências."
+    },
+    {
+      "senadoId": "552398",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-19-10522",
+      "titulo": "Lei nº 10.522 de 19/07/2002",
+      "data": "2002-07-19",
+      "numero": "10522",
+      "urn": "urn:lex:br:federal:lei:2002-07-19;10522",
+      "ementa": "Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais e dá outras providências."
+    },
+    {
+      "senadoId": "552397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-18-10521",
+      "titulo": "Lei nº 10.521 de 18/07/2002",
+      "data": "2002-07-18",
+      "numero": "10521",
+      "urn": "urn:lex:br:federal:lei:2002-07-18;10521",
+      "ementa": "Assegura a instalação de Municípios criados por Lei Estadual."
+    },
+    {
+      "senadoId": "552395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-17-10519",
+      "titulo": "Lei nº 10.519 de 17/07/2002",
+      "data": "2002-07-17",
+      "numero": "10519",
+      "urn": "urn:lex:br:federal:lei:2002-07-17;10519",
+      "ementa": "Dispõe sobre a promoção e a fiscalização da defesa sanitária animal quando   da realização de rodeio e dá outras providências."
+    },
+    {
+      "senadoId": "552396",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-17-10520",
+      "titulo": "Lei nº 10.520 de 17/07/2002",
+      "data": "2002-07-17",
+      "numero": "10520",
+      "urn": "urn:lex:br:federal:lei:2002-07-17;10520",
+      "ementa": "Institui, no âmbito da União, Estados, Distrito Federal e Municípios, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências."
+    },
+    {
+      "senadoId": "552394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-12-10518",
+      "titulo": "Lei nº 10.518 de 12/07/2002",
+      "data": "2002-07-12",
+      "numero": "10518",
+      "urn": "urn:lex:br:federal:lei:2002-07-12;10518",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor do Banco da   Amazônia S.A., crédito especial no valor de R$ 3.824.838,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10516",
+      "titulo": "Lei nº 10.516 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10516",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10516",
+      "ementa": "Institui a CARTEIRA NACIONAL DE SAÚDE DA MULHER."
+    },
+    {
+      "senadoId": "552389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10513",
+      "titulo": "Lei nº 10.513 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10513",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10513",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas   empresas, crédito suplementar no valor total de R$ 4.125.562,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "552388",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10512",
+      "titulo": "Lei nº 10.512 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10512",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10512",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União crédito   suplementar no valor global de R$ 20.571.084,00, em favor de diversos Órgãos do   Poder Judiciário e do Ministério Público da União, para reforço de dotações   constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "552391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10515",
+      "titulo": "Lei nº 10.515 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10515",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10515",
+      "ementa": "Institui o 12 de agosto como Dia Nacional da Juventude."
+    },
+    {
+      "senadoId": "552393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10517",
+      "titulo": "Lei nº 10.517 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10517",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10517",
+      "ementa": "Acrescenta dispositivos à Lei nº 9.503, de 23 de setembro de 1997, que   institui o Código de Trânsito Brasileiro, para permitir o uso de semi-reboque   acoplado a motocicleta ou motoneta, nas condições que estabelece."
+    },
+    {
+      "senadoId": "552390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10514",
+      "titulo": "Lei nº 10.514 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10514",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10514",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito suplementar no valor global de   R$ 49.637.005,00, em favor da Justiça Eleitoral, Justiça do Trabalho e   Presidência da República, para reforço de dotações constantes do orçamento   vigente."
+    },
+    {
+      "senadoId": "552387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-11-10511",
+      "titulo": "Lei nº 10.511 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "10511",
+      "urn": "urn:lex:br:federal:lei:2002-07-11;10511",
+      "ementa": "Altera o Quadro VI da Lei nº 10.407, de 10 de janeiro de 2002."
+    },
+    {
+      "senadoId": "552386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-10-10510",
+      "titulo": "Lei nº 10.510 de 10/07/2002",
+      "data": "2002-07-10",
+      "numero": "10510",
+      "urn": "urn:lex:br:federal:lei:2002-07-10;10510",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do   Ministério da Defesa e do Ministério da Justiça, crédito suplementar no valor   global de R$ 76.329.780,00, para reforço de dotações consignadas no vigente   orçamento."
+    },
+    {
+      "senadoId": "552384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-10-10508",
+      "titulo": "Lei nº 10.508 de 10/07/2002",
+      "data": "2002-07-10",
+      "numero": "10508",
+      "urn": "urn:lex:br:federal:lei:2002-07-10;10508",
+      "ementa": "Altera o inciso I do art. 2º da Lei nº 7.394, de 29 de outubro de 1985."
+    },
+    {
+      "senadoId": "552383",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-10-10507",
+      "titulo": "Lei nº 10.507 de 10/07/2002",
+      "data": "2002-07-10",
+      "numero": "10507",
+      "urn": "urn:lex:br:federal:lei:2002-07-10;10507",
+      "ementa": "Cria a Profissão de Agente Comunitário de Saúde e dá outras providências."
+    },
+    {
+      "senadoId": "552385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-10-10509",
+      "titulo": "Lei nº 10.509 de 10/07/2002",
+      "data": "2002-07-10",
+      "numero": "10509",
+      "urn": "urn:lex:br:federal:lei:2002-07-10;10509",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios de Minas e   Energia e das Comunicações, crédito suplementar no valor global de R$   48.283.434,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-09-10506",
+      "titulo": "Lei nº 10.506 de 09/07/2002",
+      "data": "2002-07-09",
+      "numero": "10506",
+      "urn": "urn:lex:br:federal:lei:2002-07-09;10506",
+      "ementa": "Altera o art. 16 da Lei n. 8935, de 18 de novembro de 1994, que   regulamenta o art. 236 da Constituição Federal."
+    },
+    {
+      "senadoId": "552380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10504",
+      "titulo": "Lei nº 10.504 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10504",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10504",
+      "ementa": "Dispõe sobre a criação do Dia Nacional do Consumidor."
+    },
+    {
+      "senadoId": "552367",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10491",
+      "titulo": "Lei nº 10.491 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10491",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10491",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa,   crédito suplementar no valor de R$ 360.000.000,00, para reforço de dotações   constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "552371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10495",
+      "titulo": "Lei nº 10.495 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10495",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10495",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de   Crédito, crédito suplementar no valor de R$ 358.000.000,00, para reforço de   dotações consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "552379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10503",
+      "titulo": "Lei nº 10.503 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10503",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10503",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor do Banco da   Amazônia S.A., crédito suplementar no valor de R$ 11.279.608,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "552381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10505",
+      "titulo": "Lei nº 10.505 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10505",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10505",
+      "ementa": "Dá a denominação de \"Aeroporto de Petrolina - Senador Nilo Coelho\" ao   aeroporto da cidade de Petrolina, Estado de Pernambuco."
+    },
+    {
+      "senadoId": "552377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10501",
+      "titulo": "Lei nº 10.501 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10501",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10501",
+      "ementa": "Abre ao Orçamento Fiscal da União, crédito especial no valor de R$   166.097.000,00, em favor do Ministério da Ciência e Tecnologia, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10492",
+      "titulo": "Lei nº 10.492 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10492",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10492",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor da Comercializadora   Brasileira de Energia Emergencial - CBEE, crédito especial no valor de R$   1.700.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10496",
+      "titulo": "Lei nº 10.496 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10496",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10496",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação,   crédito especial no valor de R$ 3.000.000,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "552369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10493",
+      "titulo": "Lei nº 10.493 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10493",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10493",
+      "ementa": "Abre ao Orçamento Fiscal da União, crédito especial no valor global de R$   3.474.618,00, em favor do Tribunal de Contas da União, da Justiça Eleitoral e da   Justiça do Trabalho, para os fins que especifica."
+    },
+    {
+      "senadoId": "552378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10502",
+      "titulo": "Lei nº 10.502 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10502",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10502",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República,   crédito suplementar no valor de R$ 45.745.500,00, para reforço de dotações   constantes do orçamento vigente."
+    },
+    {
+      "senadoId": "552376",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10500",
+      "titulo": "Lei nº 10.500 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10500",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10500",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Superior Tribunal de   Justiça e do Ministério da Defesa, crédito especial no valor global de R$   6.439.737,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10494",
+      "titulo": "Lei nº 10.494 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10494",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10494",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor de diversas   empresas, crédito especial no valor total de R$ 4.094.656,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10498",
+      "titulo": "Lei nº 10.498 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10498",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10498",
+      "ementa": "Abre ao Orçamento Fiscal da União, crédito suplementar no valor global de   R$ 51.199.340,00, em favor do Ministério da Ciência e Tecnologia e do Ministério   das Relações Exteriores, para reforço de dotações constantes do orçamento   vigente."
+    },
+    {
+      "senadoId": "552375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10499",
+      "titulo": "Lei nº 10.499 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10499",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10499",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Eleitoral e do   Ministério da Agricultura, Pecuária e Abastecimento, crédito suplementar no   valor global de R$ 155.300.000,00, para reforço de dotações consignadas do   orçamento vigente"
+    },
+    {
+      "senadoId": "552373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-08-10497",
+      "titulo": "Lei nº 10.497 de 08/07/2002",
+      "data": "2002-07-08",
+      "numero": "10497",
+      "urn": "urn:lex:br:federal:lei:2002-07-08;10497",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda, do   Desenvolvimento, Indústria e Comércio Exterior e do Planejamento, Orçamento e   Gestão, crédito suplementar no valor global de R$ 13.340.000,00, para reforço de   dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-05-10488",
+      "titulo": "Lei nº 10.488 de 05/07/2002",
+      "data": "2002-07-05",
+      "numero": "10488",
+      "urn": "urn:lex:br:federal:lei:2002-07-05;10488",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Integração   Nacional e do Ministério do Meio Ambiente, crédito suplementar no valor global   de R$ 14.248.332,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-05-10489",
+      "titulo": "Lei nº 10.489 de 05/07/2002",
+      "data": "2002-07-05",
+      "numero": "10489",
+      "urn": "urn:lex:br:federal:lei:2002-07-05;10489",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes,   crédito suplementar no valor de R$ 394.691.635,00, para reforço de dotações   orçamentárias consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "552366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-05-10490",
+      "titulo": "Lei nº 10.490 de 05/07/2002",
+      "data": "2002-07-05",
+      "numero": "10490",
+      "urn": "urn:lex:br:federal:lei:2002-07-05;10490",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos   Ministérios da Saúde, da Educação e do Esporte e Turismo, crédito suplementar no   valor global de R$ 269.223.359,00 para reforço de dotações consignadas no   vigente orçamento."
+    },
+    {
+      "senadoId": "552363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-04-10487",
+      "titulo": "Lei nº 10.487 de 04/07/2002",
+      "data": "2002-07-04",
+      "numero": "10487",
+      "urn": "urn:lex:br:federal:lei:2002-07-04;10487",
+      "ementa": "Altera a denominação da Faculdade Federal de Odontologia de Diamantina."
+    },
+    {
+      "senadoId": "552362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-04-10486",
+      "titulo": "Lei nº 10.486 de 04/07/2002",
+      "data": "2002-07-04",
+      "numero": "10486",
+      "urn": "urn:lex:br:federal:lei:2002-07-04;10486",
+      "ementa": "Dispõe sobre a remuneração dos militares do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "552361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-03-10485",
+      "titulo": "Lei nº 10.485 de 03/07/2002",
+      "data": "2002-07-03",
+      "numero": "10485",
+      "urn": "urn:lex:br:federal:lei:2002-07-03;10485",
+      "ementa": "Dispõe sobre a incidência das contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins), nas hipóteses que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "552358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-03-10482",
+      "titulo": "Lei nº 10.482 de 03/07/2002",
+      "data": "2002-07-03",
+      "numero": "10482",
+      "urn": "urn:lex:br:federal:lei:2002-07-03;10482",
+      "ementa": "Dispõe sobre os depósitos judiciais e extrajudiciais de tributos, no âmbito dos Estados e do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "552357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-03-10481",
+      "titulo": "Lei nº 10.481 de 03/07/2002",
+      "data": "2002-07-03",
+      "numero": "10481",
+      "urn": "urn:lex:br:federal:lei:2002-07-03;10481",
+      "ementa": "Denomina \"Aeroporto de Porto Velho/Governador Jorge Teixeira de Oliveira\"   o Aeroporto de Porto Velho, Estado de Rondônia."
+    },
+    {
+      "senadoId": "552360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-03-10484",
+      "titulo": "Lei nº 10.484 de 03/07/2002",
+      "data": "2002-07-03",
+      "numero": "10484",
+      "urn": "urn:lex:br:federal:lei:2002-07-03;10484",
+      "ementa": "Dispõe sobre a criação da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária - GDATFA, e dá outras providências."
+    },
+    {
+      "senadoId": "552359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-03-10483",
+      "titulo": "Lei nº 10.483 de 03/07/2002",
+      "data": "2002-07-03",
+      "numero": "10483",
+      "urn": "urn:lex:br:federal:lei:2002-07-03;10483",
+      "ementa": "Dispõe sobre a estruturação da Carreira da Seguridade Social e do Trabalho no âmbito da Administração Pública Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "552356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-07-02-10480",
+      "titulo": "Lei nº 10.480 de 02/07/2002",
+      "data": "2002-07-02",
+      "numero": "10480",
+      "urn": "urn:lex:br:federal:lei:2002-07-02;10480",
+      "ementa": "Dispõe sobre o Quadro de Pessoal da Advocacia-Geral da União, a criação da Gratificação de Desempenho de Atividade de Apoio Técnico-Administrativo na AGU - GDAA, cria a Procuradoria-Geral Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "552355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-28-10479",
+      "titulo": "Lei nº 10.479 de 28/06/2002",
+      "data": "2002-06-28",
+      "numero": "10479",
+      "urn": "urn:lex:br:federal:lei:2002-06-28;10479",
+      "ementa": "Dispõe sobre a remuneração dos integrantes das Carreiras de Diplomata,   Oficial de Chancelaria e Assistente de Chancelaria, e dá outras providências."
+    },
+    {
+      "senadoId": "552354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-28-10478",
+      "titulo": "Lei nº 10.478 de 28/06/2002",
+      "data": "2002-06-28",
+      "numero": "10478",
+      "urn": "urn:lex:br:federal:lei:2002-06-28;10478",
+      "ementa": "Dispõe sobre a complementação de aposentadorias de ferroviários da Rede   Ferroviária Federal S.A. - RFFSA, em liquidação, e dá outras providências."
+    },
+    {
+      "senadoId": "552349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-27-10473",
+      "titulo": "Lei nº 10.473 de 27/06/2002",
+      "data": "2002-06-27",
+      "numero": "10473",
+      "urn": "urn:lex:br:federal:lei:2002-06-27;10473",
+      "ementa": "Institui a Fundação Universidade Federal do Vale do São Francisco."
+    },
+    {
+      "senadoId": "552350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-27-10474",
+      "titulo": "Lei nº 10.474 de 27/06/2002",
+      "data": "2002-06-27",
+      "numero": "10474",
+      "urn": "urn:lex:br:federal:lei:2002-06-27;10474",
+      "ementa": "Dispõe sobre a remuneração da magistratura da União."
+    },
+    {
+      "senadoId": "552352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-27-10476",
+      "titulo": "Lei nº 10.476 de 27/06/2002",
+      "data": "2002-06-27",
+      "numero": "10476",
+      "urn": "urn:lex:br:federal:lei:2002-06-27;10476",
+      "ementa": "Altera dispositivos da Lei nº 9.953, de 4 de janeiro de 2000, reestrutura   a Carreira de Apoio Técnico-Administrativo do Ministério Público da União, e dá   outras providências."
+    },
+    {
+      "senadoId": "552351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-27-10475",
+      "titulo": "Lei nº 10.475 de 27/06/2002",
+      "data": "2002-06-27",
+      "numero": "10475",
+      "urn": "urn:lex:br:federal:lei:2002-06-27;10475",
+      "ementa": "Altera dispositivos da Lei nº 9.421, de 24 de dezembro de 1996, e   reestrutura as carreiras dos servidores do Poder Judiciário da União."
+    },
+    {
+      "senadoId": "552353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-27-10477",
+      "titulo": "Lei nº 10.477 de 27/06/2002",
+      "data": "2002-06-27",
+      "numero": "10477",
+      "urn": "urn:lex:br:federal:lei:2002-06-27;10477",
+      "ementa": "Dispõe sobre a remuneração dos membros do Ministério Público da União."
+    },
+    {
+      "senadoId": "552348",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-25-10472",
+      "titulo": "Lei nº 10.472 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "10472",
+      "urn": "urn:lex:br:federal:lei:2002-06-25;10472",
+      "ementa": "Dispõe sobre posicionamento dos servidores ocupantes de cargos da Carreira   de Especialista em Meio Ambiente na Tabela de Vencimentos instituída pela Lei nº   10.410, de 11 de janeiro de 2002."
+    },
+    {
+      "senadoId": "552345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-25-10469",
+      "titulo": "Lei nº 10.469 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "10469",
+      "urn": "urn:lex:br:federal:lei:2002-06-25;10469",
+      "ementa": "Institui o Dia Nacional de Luta pela Reforma Agrária."
+    },
+    {
+      "senadoId": "552346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-25-10470",
+      "titulo": "Lei nº 10.470 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "10470",
+      "urn": "urn:lex:br:federal:lei:2002-06-25;10470",
+      "ementa": "Dispõe sobre a remuneração dos Cargos em Comissão de Natureza Especial - NES e do Grupo-Direção e Assessoramento Superiores - DAS, dos Cargos de Direção - CD e das Funções Gratificadas - FG das Instituições Federais de Ensino, e dá outras providências."
+    },
+    {
+      "senadoId": "552347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-25-10471",
+      "titulo": "Lei nº 10.471 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "10471",
+      "urn": "urn:lex:br:federal:lei:2002-06-25;10471",
+      "ementa": "Confere ao Governador Mário Covas a designação de \"Patrono do Turismo   Nacional\"."
+    },
+    {
+      "senadoId": "552344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-20-10468",
+      "titulo": "Lei nº 10.468 de 20/06/2002",
+      "data": "2002-06-20",
+      "numero": "10468",
+      "urn": "urn:lex:br:federal:lei:2002-06-20;10468",
+      "ementa": "Altera o art. 3º da Lei nº 4.069-A, de 12 de junho de 1962, dando nova   denominação à Universidade do Amazonas."
+    },
+    {
+      "senadoId": "552343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-06-11-10467",
+      "titulo": "Lei nº 10.467 de 11/06/2002",
+      "data": "2002-06-11",
+      "numero": "10467",
+      "urn": "urn:lex:br:federal:lei:2002-06-11;10467",
+      "ementa": "Acrescenta o Capítulo II-A ao Título XI do Decreto-Lei nº 2.848, de 7 de   dezembro de 1940 - Código Penal, e dispositivo à Lei nº 9.613, de 3 de março de   1998, que \"dispõe sobre os crimes de ''lavagem'' ou ocultação de bens, direitos   e valores; a prevenção da utilização do Sistema Financeiro para os ilícitos   previstos nesta Lei, cria o Conselho de Controle de Atividades Financeiras   (Coaf), e dá outras providências\"."
+    },
+    {
+      "senadoId": "552342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-29-10466",
+      "titulo": "Lei nº 10.466 de 29/05/2002",
+      "data": "2002-05-29",
+      "numero": "10466",
+      "urn": "urn:lex:br:federal:lei:2002-05-29;10466",
+      "ementa": "Dispõe sobre o Programa Grande Fronteira do Mercosul."
+    },
+    {
+      "senadoId": "552341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-27-10465",
+      "titulo": "Lei nº 10.465 de 27/05/2002",
+      "data": "2002-05-27",
+      "numero": "10465",
+      "urn": "urn:lex:br:federal:lei:2002-05-27;10465",
+      "ementa": "Institui o dia 25 de outubro como \"Dia Nacional da Saúde Bucal\"."
+    },
+    {
+      "senadoId": "552340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-24-10464",
+      "titulo": "Lei nº 10.464 de 24/05/2002",
+      "data": "2002-05-24",
+      "numero": "10464",
+      "urn": "urn:lex:br:federal:lei:2002-05-24;10464",
+      "ementa": "Dispõe sobre a repactuação e o alongamento de dívidas oriundas de   operações de crédito rural contratadas, sob a égide do Programa Especial de   Crédito para a Reforma Agrária - PROCERA, do Programa Nacional de Fortalecimento   da Agricultura Familiar - PRONAF, ou de outras fontes de recursos, por   agricultores familiares, mini e pequenos agricultores, suas associações e   cooperativas, e dá outras providências."
+    },
+    {
+      "senadoId": "552338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-23-10462",
+      "titulo": "Lei nº 10.462 de 23/05/2002",
+      "data": "2002-05-23",
+      "numero": "10462",
+      "urn": "urn:lex:br:federal:lei:2002-05-23;10462",
+      "ementa": "Abre crédito extraordinário, no valor global de R$ 209.600.000,00, em   favor da Presidência da República e dos Ministérios de Minas e Energia, do   Esporte e Turismo e da Integração Nacional, para os fins que especifica."
+    },
+    {
+      "senadoId": "552339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-23-10463",
+      "titulo": "Lei nº 10.463 de 23/05/2002",
+      "data": "2002-05-23",
+      "numero": "10463",
+      "urn": "urn:lex:br:federal:lei:2002-05-23;10463",
+      "ementa": "Altera a sede e o foro da Indústrias Nucleares do Brasil S.A. - INB."
+    },
+    {
+      "senadoId": "552337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-17-10461",
+      "titulo": "Lei nº 10.461 de 17/05/2002",
+      "data": "2002-05-17",
+      "numero": "10461",
+      "urn": "urn:lex:br:federal:lei:2002-05-17;10461",
+      "ementa": "Acrescenta alínea ao inciso I do art. 23 da Lei nº 8.977, de 6 de janeiro   de 1995, que dispõe sobre o Serviço de TV a Cabo, para incluir canal reservado   ao Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "552336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-15-10460",
+      "titulo": "Lei nº 10.460 de 15/05/2002",
+      "data": "2002-05-15",
+      "numero": "10460",
+      "urn": "urn:lex:br:federal:lei:2002-05-15;10460",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia e   da Integração Nacional, no valor global de R$ 805.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552335",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-15-10459",
+      "titulo": "Lei nº 10.459 de 15/05/2002",
+      "data": "2002-05-15",
+      "numero": "10459",
+      "urn": "urn:lex:br:federal:lei:2002-05-15;10459",
+      "ementa": "Prorroga a autorização de que trata a Lei nº 10.309, de 22 de novembro de   2001, que dispõe sobre a assunção pela União de responsabilidades civis perante   terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de   empresas aéreas brasileiras."
+    },
+    {
+      "senadoId": "552333",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-14-10457",
+      "titulo": "Lei nº 10.457 de 14/05/2002",
+      "data": "2002-05-14",
+      "numero": "10457",
+      "urn": "urn:lex:br:federal:lei:2002-05-14;10457",
+      "ementa": "Institui o Dia Nacional do Turismólogo e dos Profissionais do Turismo."
+    },
+    {
+      "senadoId": "552334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-14-10458",
+      "titulo": "Lei nº 10.458 de 14/05/2002",
+      "data": "2002-05-14",
+      "numero": "10458",
+      "urn": "urn:lex:br:federal:lei:2002-05-14;10458",
+      "ementa": "Institui o Programa Bolsa-Renda para atendimento a agricultores familiares   atingidos pelos efeitos da estiagem nos Municípios em estado de calamidade   pública ou situação de emergência, e dá outras providências."
+    },
+    {
+      "senadoId": "552331",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-13-10455",
+      "titulo": "Lei nº 10.455 de 13/05/2002",
+      "data": "2002-05-13",
+      "numero": "10455",
+      "urn": "urn:lex:br:federal:lei:2002-05-13;10455",
+      "ementa": "Modifica o parágrafo único do art. 69 da Lei nº 9.099, de 26 de setembro   de 1995."
+    },
+    {
+      "senadoId": "552332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-13-10456",
+      "titulo": "Lei nº 10.456 de 13/05/2002",
+      "data": "2002-05-13",
+      "numero": "10456",
+      "urn": "urn:lex:br:federal:lei:2002-05-13;10456",
+      "ementa": "Institui o Dia Nacional de Combate ao Glaucoma."
+    },
+    {
+      "senadoId": "552330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-13-10454",
+      "titulo": "Lei nº 10.454 de 13/05/2002",
+      "data": "2002-05-13",
+      "numero": "10454",
+      "urn": "urn:lex:br:federal:lei:2002-05-13;10454",
+      "ementa": "Dispõe sobre remissão da Contribuição para o Desenvolvimento da Indústria   Cinematográfica - CONDECINE, de que trata a Medida Provisória nº 2.228-1, de 6   de setembro de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "552329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-13-10453",
+      "titulo": "Lei nº 10.453 de 13/05/2002",
+      "data": "2002-05-13",
+      "numero": "10453",
+      "urn": "urn:lex:br:federal:lei:2002-05-13;10453",
+      "ementa": "Dispõe sobre subvenções ao preço e ao transporte do álcool combustível e subsídios ao preço do gás liqüefeito de petróleo - GLP, e dá outras providências."
+    },
+    {
+      "senadoId": "552326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-10-10450",
+      "titulo": "Lei nº 10.450 de 10/05/2002",
+      "data": "2002-05-10",
+      "numero": "10450",
+      "urn": "urn:lex:br:federal:lei:2002-05-10;10450",
+      "ementa": "Altera a denominação da ponte sobre o km 316,5 da BR-158/RS."
+    },
+    {
+      "senadoId": "552328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-10-10452",
+      "titulo": "Lei nº 10.452 de 10/05/2002",
+      "data": "2002-05-10",
+      "numero": "10452",
+      "urn": "urn:lex:br:federal:lei:2002-05-10;10452",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da   Presidência da República, crédito especial no valor de R$ 104.567.230,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "552327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-10-10451",
+      "titulo": "Lei nº 10.451 de 10/05/2002",
+      "data": "2002-05-10",
+      "numero": "10451",
+      "urn": "urn:lex:br:federal:lei:2002-05-10;10451",
+      "ementa": "Altera a legislação tributária federal e dá outras providências."
+    },
+    {
+      "senadoId": "552323",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-09-10447",
+      "titulo": "Lei nº 10.447 de 09/05/2002",
+      "data": "2002-05-09",
+      "numero": "10447",
+      "urn": "urn:lex:br:federal:lei:2002-05-09;10447",
+      "ementa": "Institui o Dia Nacional da Adoção e a Semana Nacional da Adoção."
+    },
+    {
+      "senadoId": "552325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-09-10449",
+      "titulo": "Lei nº 10.449 de 09/05/2002",
+      "data": "2002-05-09",
+      "numero": "10449",
+      "urn": "urn:lex:br:federal:lei:2002-05-09;10449",
+      "ementa": "Dispõe sobre a comercialização de preservativos masculinos de látex de   borracha."
+    },
+    {
+      "senadoId": "552324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-09-10448",
+      "titulo": "Lei nº 10.448 de 09/05/2002",
+      "data": "2002-05-09",
+      "numero": "10448",
+      "urn": "urn:lex:br:federal:lei:2002-05-09;10448",
+      "ementa": "Institui o Dia Nacional da Defensoria Pública."
+    },
+    {
+      "senadoId": "552322",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-08-10446",
+      "titulo": "Lei nº 10.446 de 08/05/2002",
+      "data": "2002-05-08",
+      "numero": "10446",
+      "urn": "urn:lex:br:federal:lei:2002-05-08;10446",
+      "ementa": "Dispõe sobre infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme, para os fins do disposto no inciso I do § 1º do art. 144 da Constituição."
+    },
+    {
+      "senadoId": "552321",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-07-10445",
+      "titulo": "Lei nº 10.445 de 07/05/2002",
+      "data": "2002-05-07",
+      "numero": "10445",
+      "urn": "urn:lex:br:federal:lei:2002-05-07;10445",
+      "ementa": "Altera dispositivos da Lei nº 8.457, de 4 de setembro de 1992."
+    },
+    {
+      "senadoId": "552320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-07-10444",
+      "titulo": "Lei nº 10.444 de 07/05/2002",
+      "data": "2002-05-07",
+      "numero": "10444",
+      "urn": "urn:lex:br:federal:lei:2002-05-07;10444",
+      "ementa": "Altera a Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil."
+    },
+    {
+      "senadoId": "552317",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-06-10441",
+      "titulo": "Lei nº 10.441 de 06/05/2002",
+      "data": "2002-05-06",
+      "numero": "10441",
+      "urn": "urn:lex:br:federal:lei:2002-05-06;10441",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República,   crédito especial no valor de R$ 6.700.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-06-10443",
+      "titulo": "Lei nº 10.443 de 06/05/2002",
+      "data": "2002-05-06",
+      "numero": "10443",
+      "urn": "urn:lex:br:federal:lei:2002-05-06;10443",
+      "ementa": "Abre ao Orçamento de Investimento, para 2002, em favor da empresa Boa   Vista Energia S.A. - BOVESA, crédito suplementar no valor de R$ 6.610.000,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "552318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-06-10442",
+      "titulo": "Lei nº 10.442 de 06/05/2002",
+      "data": "2002-05-06",
+      "numero": "10442",
+      "urn": "urn:lex:br:federal:lei:2002-05-06;10442",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa,   crédito especial no valor de R$ 223.590.266,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "552316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-05-02-10440",
+      "titulo": "Lei nº 10.440 de 02/05/2002",
+      "data": "2002-05-02",
+      "numero": "10440",
+      "urn": "urn:lex:br:federal:lei:2002-05-02;10440",
+      "ementa": "Inscreve o nome de Plácido de Castro no \"Livro dos Heróis da Pátria\"."
+    },
+    {
+      "senadoId": "552315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-30-10439",
+      "titulo": "Lei nº 10.439 de 30/04/2002",
+      "data": "2002-04-30",
+      "numero": "10439",
+      "urn": "urn:lex:br:federal:lei:2002-04-30;10439",
+      "ementa": "Institui o Dia Nacional de Prevenção e Combate à Hipertensão Arterial e dá   outras providências."
+    },
+    {
+      "senadoId": "552314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-26-10438",
+      "titulo": "Lei nº 10.438 de 26/04/2002",
+      "data": "2002-04-26",
+      "numero": "10438",
+      "urn": "urn:lex:br:federal:lei:2002-04-26;10438",
+      "ementa": "Dispõe sobre a expansão da oferta de energia elétrica emergencial, recomposição tarifária extraordinária, cria o Programa de Incentivo às Fontes Alternativas de Energia Elétrica (Proinfa), a Conta de Desenvolvimento Energético (CDE), dispõe sobre a universalização do serviço público de energia elétrica, dá nova redação às Leis nº 9.427, de 26 de dezembro de 1996, nº 9.648, de 27 de maio de 1998, nº 3.890-A, de 25 de abril de 1961, nº 5.655, de 20 de maio de 1971, nº 5.899, de 5 de julho de 1973, nº 9.991, de 24 de julho de 2000, e dá outras providências."
+    },
+    {
+      "senadoId": "552313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-25-10437",
+      "titulo": "Lei nº 10.437 de 25/04/2002",
+      "data": "2002-04-25",
+      "numero": "10437",
+      "urn": "urn:lex:br:federal:lei:2002-04-25;10437",
+      "ementa": "Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995, e dá outras providências."
+    },
+    {
+      "senadoId": "552307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10431",
+      "titulo": "Lei nº 10.431 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10431",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10431",
+      "ementa": "Dispõe sobre a tributação dos planos de benefícios de caráter   previdenciário."
+    },
+    {
+      "senadoId": "552304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10428",
+      "titulo": "Lei nº 10.428 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10428",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10428",
+      "ementa": "Abre crédito extraordinário ao Orçamento de Investimento para 2001, em   favor de diversas empresas estatais, no valor total de R$ 2.816.630.828,00, e   reduz o Orçamento de Investimento das mesmas empresas no valor global de R$   1.846.971.305,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10430",
+      "titulo": "Lei nº 10.430 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10430",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10430",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da   Integração Nacional, no valor global de R$ 115.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10433",
+      "titulo": "Lei nº 10.433 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10433",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10433",
+      "ementa": "Dispõe sobre a autorização para a criação do Mercado Atacadista de Energia Elétrica - MAE, pessoa jurídica de direito privado, e dá outras providências."
+    },
+    {
+      "senadoId": "552302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10426",
+      "titulo": "Lei nº 10.426 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10426",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10426",
+      "ementa": "Altera a legislação tributária federal e dá outras providências."
+    },
+    {
+      "senadoId": "552310",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10434",
+      "titulo": "Lei nº 10.434 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10434",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10434",
+      "ementa": "Denomina \"Rodovia Luiz Carlos Prestes\" o trecho que especifica da rodovia   BR-020, e dá outras providências."
+    },
+    {
+      "senadoId": "552303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10427",
+      "titulo": "Lei nº 10.427 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10427",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10427",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração   Nacional, no valor de R$ 13.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10435",
+      "titulo": "Lei nº 10.435 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10435",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10435",
+      "ementa": "Dispõe sobre a transformação da Escola Federal de Engenharia de Itajubá em   Universidade Federal de Itajubá - UNIFEI e dá outras providências."
+    },
+    {
+      "senadoId": "552308",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10432",
+      "titulo": "Lei nº 10.432 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10432",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10432",
+      "ementa": "Dispõe sobre a extinção da gratificação de produção suplementar devida aos servidores da Imprensa Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "552305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10429",
+      "titulo": "Lei nº 10.429 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10429",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10429",
+      "ementa": "Institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos Trabalhadores de Enfermagem - Profae."
+    },
+    {
+      "senadoId": "552312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-24-10436",
+      "titulo": "Lei nº 10.436 de 24/04/2002",
+      "data": "2002-04-24",
+      "numero": "10436",
+      "urn": "urn:lex:br:federal:lei:2002-04-24;10436",
+      "ementa": "Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências."
+    },
+    {
+      "senadoId": "552301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-19-10425",
+      "titulo": "Lei nº 10.425 de 19/04/2002",
+      "data": "2002-04-19",
+      "numero": "10425",
+      "urn": "urn:lex:br:federal:lei:2002-04-19;10425",
+      "ementa": "Dispõe sobre a transformação da Fundação de Ensino Superior de São João   del Rei em Fundação Universidade Federal de São João del Rei, e dá outras   providências."
+    },
+    {
+      "senadoId": "552298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-15-10422",
+      "titulo": "Lei nº 10.422 de 15/04/2002",
+      "data": "2002-04-15",
+      "numero": "10422",
+      "urn": "urn:lex:br:federal:lei:2002-04-15;10422",
+      "ementa": "Autoriza doação de imóvel de propriedade do Instituto Nacional do Seguro   Social."
+    },
+    {
+      "senadoId": "552297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-15-10421",
+      "titulo": "Lei nº 10.421 de 15/04/2002",
+      "data": "2002-04-15",
+      "numero": "10421",
+      "urn": "urn:lex:br:federal:lei:2002-04-15;10421",
+      "ementa": "Estende à mãe adotiva o direito à licença-maternidade e ao   salário-maternidade, alterando a Consolidação das Leis do Trabalho, aprovada   pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 8.213, de 24 de   julho de 1991."
+    },
+    {
+      "senadoId": "552299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-15-10423",
+      "titulo": "Lei nº 10.423 de 15/04/2002",
+      "data": "2002-04-15",
+      "numero": "10423",
+      "urn": "urn:lex:br:federal:lei:2002-04-15;10423",
+      "ementa": "Denomina \"Viaduto Luiz Philippe Pereira\" o viaduto localizado no km 404 da   rodovia BR- 364/163, no entroncamento com a rodovia MT-407, Rodovia dos   Imigrantes, no Município de Cuiabá, Estado do Mato Grosso."
+    },
+    {
+      "senadoId": "552300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-15-10424",
+      "titulo": "Lei nº 10.424 de 15/04/2002",
+      "data": "2002-04-15",
+      "numero": "10424",
+      "urn": "urn:lex:br:federal:lei:2002-04-15;10424",
+      "ementa": "Acrescenta capítulo e artigo à Lei nº 8.080, de 19 de setembro de 1990,   que dispõe sobre as condições para a promoção, proteção e recuperação da saúde,   a organização e o funcionamento de serviços correspondentes e dá outras   providências, regulamentando a assistência domiciliar no Sistema Único de Saúde."
+    },
+    {
+      "senadoId": "552296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-10-10420",
+      "titulo": "Lei nº 10.420 de 10/04/2002",
+      "data": "2002-04-10",
+      "numero": "10420",
+      "urn": "urn:lex:br:federal:lei:2002-04-10;10420",
+      "ementa": "Cria o Fundo Seguro-Safra e institui o benefício Seguro-Safra para os agricultores familiares da Região Nordeste, do semi-árido do Estado de Minas Gerais (norte de Minas Gerais e Vale do Jequitinhonha) e da região norte do Estado do Espírito Santo, definidos na Lei nº 9.690, de 15 de julho de 1998, nos Municípios sujeitos a estado de calamidade ou situação de emergência em razão do fenômeno da estiagem."
+    },
+    {
+      "senadoId": "552294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-09-10418",
+      "titulo": "Lei nº 10.418 de 09/04/2002",
+      "data": "2002-04-09",
+      "numero": "10418",
+      "urn": "urn:lex:br:federal:lei:2002-04-09;10418",
+      "ementa": "Abre ao Orçamento Fiscal da União crédito suplementar no valor de R$   26.000.000,00, em favor da Justiça Eleitoral, para reforço de dotação constante   do orçamento vigente."
+    },
+    {
+      "senadoId": "552295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-09-10419",
+      "titulo": "Lei nº 10.419 de 09/04/2002",
+      "data": "2002-04-09",
+      "numero": "10419",
+      "urn": "urn:lex:br:federal:lei:2002-04-09;10419",
+      "ementa": "Dispõe sobre a criação da Universidade Federal de Campina Grande - UFCG, a   partir do desmembramento da Universidade Federal da Paraíba - UFPB, e dá outras   providências."
+    },
+    {
+      "senadoId": "552293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-04-05-10417",
+      "titulo": "Lei nº 10.417 de 05/04/2002",
+      "data": "2002-04-05",
+      "numero": "10417",
+      "urn": "urn:lex:br:federal:lei:2002-04-05;10417",
+      "ementa": "Institui Gratificação por Execução de Mandados para a carreira de Analista   Judiciário - Oficiais de Justiça - Área Judiciária - Especialidade Execução de   Mandados do Quadro de Pessoal do Tribunal de Justiça do Distrito Federal e dos   Territórios."
+    },
+    {
+      "senadoId": "552292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-03-27-10416",
+      "titulo": "Lei nº 10.416 de 27/03/2002",
+      "data": "2002-03-27",
+      "numero": "10416",
+      "urn": "urn:lex:br:federal:lei:2002-03-27;10416",
+      "ementa": "Altera o art. 98 da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe   sobre o Estatuto dos Militares."
+    },
+    {
+      "senadoId": "552290",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-03-21-10414",
+      "titulo": "Lei nº 10.414 de 21/03/2002",
+      "data": "2002-03-21",
+      "numero": "10414",
+      "urn": "urn:lex:br:federal:lei:2002-03-21;10414",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da   Integração Nacional, no valor global de R$ 86.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-03-21-10415",
+      "titulo": "Lei nº 10.415 de 21/03/2002",
+      "data": "2002-03-21",
+      "numero": "10415",
+      "urn": "urn:lex:br:federal:lei:2002-03-21;10415",
+      "ementa": "Cria o cargo de Secretário de Estado de Comunicação de Governo."
+    },
+    {
+      "senadoId": "552288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-03-12-10412",
+      "titulo": "Lei nº 10.412 de 12/03/2002",
+      "data": "2002-03-12",
+      "numero": "10412",
+      "urn": "urn:lex:br:federal:lei:2002-03-12;10412",
+      "ementa": "Denomina \"Aeroporto de Ilhéus/Bahia - Jorge Amado\" o Aeroporto de   Ilhéus/Bahia."
+    },
+    {
+      "senadoId": "552289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-03-12-10413",
+      "titulo": "Lei nº 10.413 de 12/03/2002",
+      "data": "2002-03-12",
+      "numero": "10413",
+      "urn": "urn:lex:br:federal:lei:2002-03-12;10413",
+      "ementa": "Determina o tombamento dos bens culturais das empresas incluídas no   Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "552287",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-02-26-10411",
+      "titulo": "Lei nº 10.411 de 26/02/2002",
+      "data": "2002-02-26",
+      "numero": "10411",
+      "urn": "urn:lex:br:federal:lei:2002-02-26;10411",
+      "ementa": "Altera e acresce dispositivos à Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários."
+    },
+    {
+      "senadoId": "552286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-11-10410",
+      "titulo": "Lei nº 10.410 de 11/01/2002",
+      "data": "2002-01-11",
+      "numero": "10410",
+      "urn": "urn:lex:br:federal:lei:2002-01-11;10410",
+      "ementa": "Cria e disciplina a carreira de Especialista em Meio Ambiente."
+    },
+    {
+      "senadoId": "552285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-11-10409",
+      "titulo": "Lei nº 10.409 de 11/01/2002",
+      "data": "2002-01-11",
+      "numero": "10409",
+      "urn": "urn:lex:br:federal:lei:2002-01-11;10409",
+      "ementa": "Dispõe sobre a prevenção, o tratamento, a fiscalização, o controle e a repressão à produção, ao uso e ao tráfico ilícitos de produtos, substâncias ou drogas ilícitas que causem dependência física ou psíquica, assim elencados pelo Ministério da Saúde, e dá outras providências."
+    },
+    {
+      "senadoId": "552282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-10-10406",
+      "titulo": "Lei nº 10.406 de 10/01/2002",
+      "data": "2002-01-10",
+      "numero": "10406",
+      "urn": "urn:lex:br:federal:lei:2002-01-10;10406",
+      "ementa": "Institui o Código Civil."
+    },
+    {
+      "senadoId": "552284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-10-10408",
+      "titulo": "Lei nº 10.408 de 10/01/2002",
+      "data": "2002-01-10",
+      "numero": "10408",
+      "urn": "urn:lex:br:federal:lei:2002-01-10;10408",
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, que estabelece normas para as eleições, para ampliar a segurança e a fiscalização do voto eletrônico."
+    },
+    {
+      "senadoId": "552283",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-10-10407",
+      "titulo": "Lei nº 10.407 de 10/01/2002",
+      "data": "2002-01-10",
+      "numero": "10407",
+      "urn": "urn:lex:br:federal:lei:2002-01-10;10407",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2002."
+    },
+    {
+      "senadoId": "552281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-09-10405",
+      "titulo": "Lei nº 10.405 de 09/01/2002",
+      "data": "2002-01-09",
+      "numero": "10405",
+      "urn": "urn:lex:br:federal:lei:2002-01-09;10405",
+      "ementa": "Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, altera as tabelas de vencimento básico dos professores do ensino de 3º grau e dos professores de 1º e 2º graus, integrantes dos quadros de pessoal das instituições federais de ensino, e altera dispositivos da Lei nº 10.187, de 12 de fevereiro de 2001."
+    },
+    {
+      "senadoId": "552280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-09-10404",
+      "titulo": "Lei nº 10.404 de 09/01/2002",
+      "data": "2002-01-09",
+      "numero": "10404",
+      "urn": "urn:lex:br:federal:lei:2002-01-09;10404",
+      "ementa": "Dispõe sobre a criação da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, e dá outras providências."
+    },
+    {
+      "senadoId": "552278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-08-10402",
+      "titulo": "Lei nº 10.402 de 08/01/2002",
+      "data": "2002-01-08",
+      "numero": "10402",
+      "urn": "urn:lex:br:federal:lei:2002-01-08;10402",
+      "ementa": "Institui o Dia Nacional do Livro Infantil."
+    },
+    {
+      "senadoId": "552279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-08-10403",
+      "titulo": "Lei nº 10.403 de 08/01/2002",
+      "data": "2002-01-08",
+      "numero": "10403",
+      "urn": "urn:lex:br:federal:lei:2002-01-08;10403",
+      "ementa": "Altera as Leis nº 8.212 e 8.213, ambas de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "552277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2002-01-07-10401",
+      "titulo": "Lei nº 10.401 de 07/01/2002",
+      "data": "2002-01-07",
+      "numero": "10401",
+      "urn": "urn:lex:br:federal:lei:2002-01-07;10401",
+      "ementa": "Institui o ano 2002 como \"Ano Nacional Carlos Drummond de Andrade\"."
+    }
+  ],
+  "pendencias": []
+}

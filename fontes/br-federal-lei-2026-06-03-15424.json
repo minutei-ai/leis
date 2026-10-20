@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-03-15424",
+  "titulo": "Lei nº 15.424 de 03/06/2026",
+  "data": "2026-06-03",
+  "fonte": "https://normas.leg.br/api/public/binario/3b05b4f6-ce54-4304-affb-ec40b867f07c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-03;15424",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-03%3B15424&tipo_documento=maior-detalhe",
+  "sha256_dados": "ea6a4e31705bc0a294c22868c064e0221900b7d47529e5725b25107d1c23374d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:21.530Z",
+  "sha256_fonte": "7188ff89008ceebae252766fd38cc7860e9391a365adf5ba30180b336bb98437",
+  "sha256_markdown": "14e4e4ddd4b597d6ac6c73abd61707ca4ebdf90724e854c72c2c2437095c2c92"
+}

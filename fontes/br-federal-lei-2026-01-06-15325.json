@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-01-06-15325",
+  "titulo": "Lei nº 15.325 de 06/01/2026",
+  "data": "2026-01-06",
+  "fonte": "https://normas.leg.br/api/public/binario/4ce22fe1-03e3-4e3a-ba2f-bd165341b967/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-01-06;15325",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-01-06%3B15325&tipo_documento=maior-detalhe",
+  "sha256_dados": "6dbc692d6a2782fab79e08cb07cb163839ef7657c9900c3b98879c8c03804b57",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:32.607Z",
+  "sha256_fonte": "ee2804ae1d7766cda244c84e28f50e9a9b99eee20cca2cec3c60bf0ec2159fdf",
+  "sha256_markdown": "ffd6bdcad2bc3040247290ef8cc9b69070ac368a58e76ac26aec731c7c92b45c"
+}

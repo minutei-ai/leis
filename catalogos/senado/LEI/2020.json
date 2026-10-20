@@ -1,0 +1,1439 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2020",
+  "tipo": "LEI",
+  "ano": 2020,
+  "coletado_em": "2026-10-20T22:56:26.151Z",
+  "normas": [
+    {
+      "senadoId": "33040572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-31-14116",
+      "titulo": "Lei nº 14.116 de 31/12/2020",
+      "data": "2020-12-31",
+      "numero": "14116",
+      "urn": "urn:lex:br:federal:lei:2020-12-31;14116",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021 e dá outras providências."
+    },
+    {
+      "senadoId": "33036885",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-29-14115",
+      "titulo": "Lei nº 14.115 de 29/12/2020",
+      "data": "2020-12-29",
+      "numero": "14115",
+      "urn": "urn:lex:br:federal:lei:2020-12-29;14115",
+      "ementa": "Estabelece o aumento da participação da União no Fundo Garantidor de Operações (FGO), no montante equivalente ao dos recursos devolvidos à União em conformidade com os §§ 4º e 5º do art. 10 da Lei nº 14.043, de 19 de agosto de 2020."
+    },
+    {
+      "senadoId": "33036837",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-29-14114",
+      "titulo": "Lei nº 14.114 de 29/12/2020",
+      "data": "2020-12-29",
+      "numero": "14114",
+      "urn": "urn:lex:br:federal:lei:2020-12-29;14114",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 4.223.266.669,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32999206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-25-14113",
+      "titulo": "Lei nº 14.113 de 25/12/2020",
+      "data": "2020-12-25",
+      "numero": "14113",
+      "urn": "urn:lex:br:federal:lei:2020-12-25;14113",
+      "ementa": "Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), de que trata o art. 212-A da Constituição Federal; revoga dispositivos da Lei nº 11.494, de 20 de junho de 2007; e dá outras providências."
+    },
+    {
+      "senadoId": "32996337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-24-14111",
+      "titulo": "Lei nº 14.111 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "14111",
+      "urn": "urn:lex:br:federal:lei:2020-12-24;14111",
+      "ementa": "Abre ao Orçamento Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 3.302.973.107,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32996385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-24-14112",
+      "titulo": "Lei nº 14.112 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "14112",
+      "urn": "urn:lex:br:federal:lei:2020-12-24;14112",
+      "ementa": "Altera as Leis n°s 11.101, de 9 de fevereiro de 2005, 10.522, de 19 de julho de 2002, e 8.929, de 22 de agosto de 1994, para atualizar a legislação referente à recuperação judicial, à recuperação extrajudicial e à falência do empresário e da sociedade empresária."
+    },
+    {
+      "senadoId": "32993713",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-18-14110",
+      "titulo": "Lei nº 14.110 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "14110",
+      "urn": "urn:lex:br:federal:lei:2020-12-18;14110",
+      "ementa": "Altera o art. 339 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dar nova redação ao crime de denunciação caluniosa."
+    },
+    {
+      "senadoId": "32981532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-16-14109",
+      "titulo": "Lei nº 14.109 de 16/12/2020",
+      "data": "2020-12-16",
+      "numero": "14109",
+      "urn": "urn:lex:br:federal:lei:2020-12-16;14109",
+      "ementa": "Altera as Leis n°s 9.472, de 16 de julho de 1997, e 9.998, de 17 de agosto de 2000, para dispor sobre a finalidade, a destinação dos recursos, a administração e os objetivos do Fundo de Universalização dos Serviços de Telecomunicações (Fust)."
+    },
+    {
+      "senadoId": "32981502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-16-14108",
+      "titulo": "Lei nº 14.108 de 16/12/2020",
+      "data": "2020-12-16",
+      "numero": "14108",
+      "urn": "urn:lex:br:federal:lei:2020-12-16;14108",
+      "ementa": "Altera as Leis nºs 12.715, de 17 de setembro de 2012, e 9.472, de 16 de julho de 1997, para dispor sobre os valores da Taxa de Fiscalização de Instalação, da Taxa de Fiscalização de Funcionamento, da Contribuição para o Fomento da Radiodifusão Pública e da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (Condecine) das estações de telecomunicações que integrem sistemas de comunicação máquina a máquina, e sobre a dispensa de licenciamento de funcionamento prévio dessas estações."
+    },
+    {
+      "senadoId": "32957921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-12-03-14107",
+      "titulo": "Lei nº 14.107 de 03/12/2020",
+      "data": "2020-12-03",
+      "numero": "14107",
+      "urn": "urn:lex:br:federal:lei:2020-12-03;14107",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Saúde, no valor de R$ 1.994.960.005,00, (um bilhão, novecentos e noventa e quatro milhões, novecentos e sessenta mil e cinco reais), para o fim que especifica; e dá outras providências."
+    },
+    {
+      "senadoId": "32947614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-26-14106",
+      "titulo": "Lei nº 14.106 de 26/11/2020",
+      "data": "2020-11-26",
+      "numero": "14106",
+      "urn": "urn:lex:br:federal:lei:2020-11-26;14106",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Instituto Nacional de Colonização e Reforma Agrária (Incra)."
+    },
+    {
+      "senadoId": "32943019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-24-14105",
+      "titulo": "Lei nº 14.105 de 24/11/2020",
+      "data": "2020-11-24",
+      "numero": "14105",
+      "urn": "urn:lex:br:federal:lei:2020-11-24;14105",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo e de Encargos Financeiros da União, crédito suplementar no valor de R$ 6.245.544.242,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32942989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-24-14104",
+      "titulo": "Lei nº 14.104 de 24/11/2020",
+      "data": "2020-11-24",
+      "numero": "14104",
+      "urn": "urn:lex:br:federal:lei:2020-11-24;14104",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Economia, da Educação e da Infraestrutura, crédito especial no valor de R$ 84.117.762,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32937996",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-19-14103",
+      "titulo": "Lei nº 14.103 de 19/11/2020",
+      "data": "2020-11-19",
+      "numero": "14103",
+      "urn": "urn:lex:br:federal:lei:2020-11-19;14103",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 3.844.052.009,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32937917",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-19-14102",
+      "titulo": "Lei nº 14.102 de 19/11/2020",
+      "data": "2020-11-19",
+      "numero": "14102",
+      "urn": "urn:lex:br:federal:lei:2020-11-19;14102",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 234.174.347,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929116",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14080",
+      "titulo": "Lei nº 14.080 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14080",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14080",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e do Trabalho, crédito especial no valor de R$ 493.615,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929739",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14093",
+      "titulo": "Lei nº 14.093 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14093",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14093",
+      "ementa": "Abre ao Orçamento de Investimento para 2020, em favor da Empresa Brasileira de Correios e Telégrafos, do Banco Nacional de Desenvolvimento Econômico e Social, da Centrais Elétricas do Norte do Brasil S.A., da Centrais Elétricas Brasileiras S.A., da Energia dos Ventos V S.A., da Energia dos Ventos VI S.A., da Energia dos Ventos VII S.A., da Energia dos Ventos VIII S.A., da Energia dos Ventos IX S.A., de Furnas Centrais Elétricas S.A., da Eletrobras Termonuclear S.A., da Amazonas Geração e Transmissão de Energia S.A., da Fronteira Oeste Transmissora de Energia S.A., da Transmissora Sul Litorânea de Energia S.A., da Transmissora Sul Brasileira de Energia S.A., da Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil, da Petrobras Transporte S. A., da Transpetro Internacional B. V., da Eólica Mangue Seco 2 - Geradora e Comercializadora de Energia Elétrica S. A. - Mangue Seco 2 e da Companhia das Docas do Estado da Bahia, crédito suplementar no valor de R$ 976.705.407,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32930346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14101",
+      "titulo": "Lei nº 14.101 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14101",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14101",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Supremo Tribunal Federal, do Superior Tribunal de Justiça, da Justiça Eleitoral, da Justiça do Distrito Federal e dos Territórios, do Conselho Nacional de Justiça, da Defensoria Pública da União, do Ministério Público da União e do Conselho Nacional do Ministério Público, crédito suplementar no valor de R$ 18.907.712,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14089",
+      "titulo": "Lei nº 14.089 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14089",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14089",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo e de Encargos Financeiros da União, crédito suplementar no valor de R$ 589.113.328,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14095",
+      "titulo": "Lei nº 14.095 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14095",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14095",
+      "ementa": "Abre ao Orçamento de Investimento para 2020, em favor da Empresa Gerencial de Projetos Navais, da Transpetro Bel 09 S.A. e da Amazonas Geração e Transmissão de Energia S.A., crédito especial no valor de R$ 24.340.126,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14086",
+      "titulo": "Lei nº 14.086 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14086",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14086",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Infraestrutura e do Desenvolvimento Regional, crédito especial no valor de R$ 20.924.080,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14085",
+      "titulo": "Lei nº 14.085 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14085",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14085",
+      "ementa": "Altera a Lei nº 13.898, de 11 de novembro de 2019, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020."
+    },
+    {
+      "senadoId": "32929460",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14088",
+      "titulo": "Lei nº 14.088 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14088",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14088",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 4.546.900.129,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14091",
+      "titulo": "Lei nº 14.091 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14091",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14091",
+      "ementa": "Abre ao Orçamento de Investimento para 2020, em favor da Companhia Docas do Ceará, da Companhia Docas do Espírito Santo, da Companhia das Docas do Estado da Bahia, da Companhia Docas do Pará, da Companhia Docas do Rio Grande do Norte, da Empresa Brasileira de Infraestrutura Aeroportuária e da Empresa Gerencial de Projetos Navais, crédito suplementar no valor de R$ 502.572.920,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14082",
+      "titulo": "Lei nº 14.082 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14082",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14082",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Educação e da Saúde, crédito especial no valor de R$ 7.807.411,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14083",
+      "titulo": "Lei nº 14.083 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14083",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14083",
+      "ementa": "Altera os identificadores de resultado primário constantes da Lei nº 13.978, de 17 de janeiro de 2020, no âmbito do Ministério da Justiça e Segurança Pública, no valor de R$ 869.038.273,00."
+    },
+    {
+      "senadoId": "32930273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14100",
+      "titulo": "Lei nº 14.100 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14100",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14100",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Saúde, do Desenvolvimento Regional e da Cidadania, crédito suplementar no valor de R$ 3.181.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14090",
+      "titulo": "Lei nº 14.090 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14090",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14090",
+      "ementa": "Abre ao Orçamento de Investimento para 2020, em favor da Companhia Docas do Rio Grande do Norte e da Empresa Brasileira de Infraestrutura Aeroportuária, crédito especial no valor de R$ 74.933.175,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14081",
+      "titulo": "Lei nº 14.081 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14081",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14081",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 3.364.687.357,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14096",
+      "titulo": "Lei nº 14.096 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14096",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14096",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento Regional, crédito especial no valor de R$ 20.028.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14092",
+      "titulo": "Lei nº 14.092 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14092",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14092",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, do Conselho Nacional de Justiça, do Ministério Público da União e do Conselho Nacional do Ministério Público, crédito suplementar no valor de R$ 29.421.542,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32930100",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14098",
+      "titulo": "Lei nº 14.098 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14098",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14098",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Educação, crédito especial no valor de R$ 187.858,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14087",
+      "titulo": "Lei nº 14.087 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14087",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14087",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, crédito suplementar no valor de R$ 6.194.427,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14084",
+      "titulo": "Lei nº 14.084 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14084",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14084",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, crédito especial no valor de R$ 1.104.860,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14079",
+      "titulo": "Lei nº 14.079 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14079",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14079",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito especial no valor de R$ 336.700.811,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32929038",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14078",
+      "titulo": "Lei nº 14.078 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14078",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14078",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 8.580.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32930027",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14097",
+      "titulo": "Lei nº 14.097 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14097",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14097",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública, da Saúde e da Cidadania, crédito especial no valor de R$ 3.440.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32930200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14099",
+      "titulo": "Lei nº 14.099 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14099",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14099",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor da Justiça Federal, crédito suplementar no valor de R$ 10.706.761,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32929812",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-17-14094",
+      "titulo": "Lei nº 14.094 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "14094",
+      "urn": "urn:lex:br:federal:lei:2020-11-17;14094",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e do Trabalho, crédito especial no valor de R$ 14.928.044,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "32924124",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-11-11-14077",
+      "titulo": "Lei nº 14.077 de 11/11/2020",
+      "data": "2020-11-11",
+      "numero": "14077",
+      "urn": "urn:lex:br:federal:lei:2020-11-11;14077",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 6.118.751.868,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32910301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-28-14076",
+      "titulo": "Lei nº 14.076 de 28/10/2020",
+      "data": "2020-10-28",
+      "numero": "14076",
+      "urn": "urn:lex:br:federal:lei:2020-10-28;14076",
+      "ementa": "Altera as Leis nºs 9.440, de 14 de março de 1997, 9.826, de 23 de agosto de 1999, e 7.827, de 27 de setembro de 1989, a fim de prorrogar incentivos fiscais para o desenvolvimento regional, na forma que especifica."
+    },
+    {
+      "senadoId": "32902854",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-22-14075",
+      "titulo": "Lei nº 14.075 de 22/10/2020",
+      "data": "2020-10-22",
+      "numero": "14075",
+      "urn": "urn:lex:br:federal:lei:2020-10-22;14075",
+      "ementa": "Dispõe sobre a conta do tipo poupança social digital; e altera as Leis nºs 13.982, de 2 de abril de 2020, e 14.058, de 17 de setembro de 2020."
+    },
+    {
+      "senadoId": "32872442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-14-14072",
+      "titulo": "Lei nº 14.072 de 14/10/2020",
+      "data": "2020-10-14",
+      "numero": "14072",
+      "urn": "urn:lex:br:federal:lei:2020-10-14;14072",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Saúde e do Ministério da Educação."
+    },
+    {
+      "senadoId": "32872552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-14-14074",
+      "titulo": "Lei nº 14.074 de 14/10/2020",
+      "data": "2020-10-14",
+      "numero": "14074",
+      "urn": "urn:lex:br:federal:lei:2020-10-14;14074",
+      "ementa": "Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações."
+    },
+    {
+      "senadoId": "32872582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-14-14073",
+      "titulo": "Lei nº 14.073 de 14/10/2020",
+      "data": "2020-10-14",
+      "numero": "14073",
+      "urn": "urn:lex:br:federal:lei:2020-10-14;14073",
+      "ementa": "Dispõe sobre ações emergenciais destinadas ao setor esportivo a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera as Leis n°s 9.615, de 24 de março de 1998, e 13.756, de 12 de dezembro de 2018."
+    },
+    {
+      "senadoId": "32865511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-13-14071",
+      "titulo": "Lei nº 14.071 de 13/10/2020",
+      "data": "2020-10-13",
+      "numero": "14071",
+      "urn": "urn:lex:br:federal:lei:2020-10-13;14071",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para modificar a composição do Conselho Nacional de Trânsito e ampliar o prazo de validade das habilitações; e dá outras providências."
+    },
+    {
+      "senadoId": "32865445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-13-14070",
+      "titulo": "Lei nº 14.070 de 13/10/2020",
+      "data": "2020-10-13",
+      "numero": "14070",
+      "urn": "urn:lex:br:federal:lei:2020-10-13;14070",
+      "ementa": "Estabelece que as carteiras de identidade funcional de policial legislativo emitidas pela Câmara dos Deputados e pelo Senado Federal constituem prova de identidade e têm validade, para todos os fins de direito, em todo o território nacional."
+    },
+    {
+      "senadoId": "32844135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-01-14069",
+      "titulo": "Lei nº 14.069 de 01/10/2020",
+      "data": "2020-10-01",
+      "numero": "14069",
+      "urn": "urn:lex:br:federal:lei:2020-10-01;14069",
+      "ementa": "Cria o Cadastro Nacional de Pessoas Condenadas por Crime de Estupro."
+    },
+    {
+      "senadoId": "32844017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-01-14067",
+      "titulo": "Lei nº 14.067 de 01/10/2020",
+      "data": "2020-10-01",
+      "numero": "14067",
+      "urn": "urn:lex:br:federal:lei:2020-10-01;14067",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Saúde, no valor de R$ 4.489.224.000,00 (quatro bilhões, quatrocentos e oitenta e nove milhões, duzentos e vinte e quatro mil reais), para o fim que especifica."
+    },
+    {
+      "senadoId": "32844047",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-10-01-14068",
+      "titulo": "Lei nº 14.068 de 01/10/2020",
+      "data": "2020-10-01",
+      "numero": "14068",
+      "urn": "urn:lex:br:federal:lei:2020-10-01;14068",
+      "ementa": "Abre crédito extraordinário em favor de Encargos Financeiros da União, no valor de R$ 20.000.000.000,00 (vinte bilhões de reais), para o fim que especifica; e dá outras providências."
+    },
+    {
+      "senadoId": "32831375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-30-14065",
+      "titulo": "Lei nº 14.065 de 30/09/2020",
+      "data": "2020-09-30",
+      "numero": "14065",
+      "urn": "urn:lex:br:federal:lei:2020-09-30;14065",
+      "ementa": "Autoriza pagamentos antecipados nas licitações e nos contratos realizados no âmbito da administração pública; adequa os limites de dispensa de licitação; amplia o uso do Regime Diferenciado de Contratações Públicas (RDC) durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera a Lei nº 13.979, de 6 de fevereiro de 2020."
+    },
+    {
+      "senadoId": "32831491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-30-14066",
+      "titulo": "Lei nº 14.066 de 30/09/2020",
+      "data": "2020-09-30",
+      "numero": "14066",
+      "urn": "urn:lex:br:federal:lei:2020-09-30;14066",
+      "ementa": "Altera a Lei nº 12.334, de 20 de setembro de 2010, que estabelece a Política Nacional de Segurança de Barragens (PNSB), a Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional do Meio Ambiente (FNMA), a Lei nº 9.433, de 8 de janeiro de 1997, que institui a Política Nacional de Recursos Hídricos, e o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração)."
+    },
+    {
+      "senadoId": "32829192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-29-14064",
+      "titulo": "Lei nº 14.064 de 29/09/2020",
+      "data": "2020-09-29",
+      "numero": "14064",
+      "urn": "urn:lex:br:federal:lei:2020-09-29;14064",
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para aumentar as penas cominadas ao crime de maus-tratos aos animais quando se tratar de cão ou gato."
+    },
+    {
+      "senadoId": "32811050",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-23-14062",
+      "titulo": "Lei nº 14.062 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "14062",
+      "urn": "urn:lex:br:federal:lei:2020-09-23;14062",
+      "ementa": "Institui o Dia Nacional da Pessoa com Atrofia Muscular Espinhal (AME)."
+    },
+    {
+      "senadoId": "32811080",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-23-14063",
+      "titulo": "Lei nº 14.063 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "14063",
+      "urn": "urn:lex:br:federal:lei:2020-09-23;14063",
+      "ementa": "Dispõe sobre o uso de assinaturas eletrônicas em interações com entes públicos, em atos de pessoas jurídicas e em questões de saúde e sobre as licenças de softwares desenvolvidos por entes públicos; e altera a Lei nº 9.096, de 19 de setembro de 1995, a Lei nº 5.991, de 17 de dezembro de 1973, e a Medida Provisória nº 2.200-2, de 24 de agosto de 2001."
+    },
+    {
+      "senadoId": "32810906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-23-14060",
+      "titulo": "Lei nº 14.060 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "14060",
+      "urn": "urn:lex:br:federal:lei:2020-09-23;14060",
+      "ementa": "Prorroga os prazos de suspensão de pagamentos de tributos previstos nos atos concessórios do regime especial de drawback que tenham sido prorrogados por 1 (um) ano pela autoridade fiscal e que tenham termo em 2020; e altera a Lei nº 11.945, de 4 de junho de 2009."
+    },
+    {
+      "senadoId": "32811301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-23-14061",
+      "titulo": "Lei nº 14.061 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "14061",
+      "urn": "urn:lex:br:federal:lei:2020-09-23;14061",
+      "ementa": "Prorroga até 30 de setembro de 2020 a suspensão da obrigatoriedade da manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde, de qualquer natureza, no âmbito do Sistema Único de Saúde (SUS), estabelecida na Lei nº 13.992, de 22 de abril de 2020; e dá outras providências."
+    },
+    {
+      "senadoId": "32789770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-22-14059",
+      "titulo": "Lei nº 14.059 de 22/09/2020",
+      "data": "2020-09-22",
+      "numero": "14059",
+      "urn": "urn:lex:br:federal:lei:2020-09-22;14059",
+      "ementa": "Altera as Leis nºs 9.264, de 7 de fevereiro de 1996, 11.134, de 15 de julho de 2005, 11.361, de 19 de outubro de 2006, e 13.328, de 29 de julho de 2016, para aumentar a remuneração da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal e da Polícia Militar e do Corpo de Bombeiros Militar dos extintos Territórios Federais e para modificar as regras de cessão da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal."
+    },
+    {
+      "senadoId": "32648855",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-17-14058",
+      "titulo": "Lei nº 14.058 de 17/09/2020",
+      "data": "2020-09-17",
+      "numero": "14058",
+      "urn": "urn:lex:br:federal:lei:2020-09-17;14058",
+      "ementa": "Estabelece a operacionalização do pagamento do Benefício Emergencial de Preservação do Emprego e da Renda e do benefício emergencial mensal de que trata a Lei nº 14.020, de 6 de julho de 2020."
+    },
+    {
+      "senadoId": "32640219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-11-14057",
+      "titulo": "Lei nº 14.057 de 11/09/2020",
+      "data": "2020-09-11",
+      "numero": "14057",
+      "urn": "urn:lex:br:federal:lei:2020-09-11;14057",
+      "ementa": "Disciplina o acordo com credores para pagamento com desconto de precatórios federais e o acordo terminativo de litígio contra a Fazenda Pública e dispõe sobre a destinação dos recursos deles oriundos para o combate à Covid-19, durante a vigência do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera a Lei nº 7.689, de 15 de dezembro de 1988, e a Lei nº 8.212, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "32637725",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-10-14055",
+      "titulo": "Lei nº 14.055 de 10/09/2020",
+      "data": "2020-09-10",
+      "numero": "14055",
+      "urn": "urn:lex:br:federal:lei:2020-09-10;14055",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Saúde, no valor de R$ 5.566.379.351,00 (cinco bilhões, quinhentos e sessenta e seis milhões, trezentos e setenta e nove mil trezentos e cinquenta e um reais), para os fins que especifica; e dá outras providências."
+    },
+    {
+      "senadoId": "32637430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-10-14054",
+      "titulo": "Lei nº 14.054 de 10/09/2020",
+      "data": "2020-09-10",
+      "numero": "14054",
+      "urn": "urn:lex:br:federal:lei:2020-09-10;14054",
+      "ementa": "Abre crédito extraordinário em favor dos Ministérios da Ciência, Tecnologia, Inovações e Comunicações e das Relações Exteriores, no valor de R$ 418.800.000,00 (quatrocentos e dezoito milhões e oitocentos mil reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "32637810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-10-14056",
+      "titulo": "Lei nº 14.056 de 10/09/2020",
+      "data": "2020-09-10",
+      "numero": "14056",
+      "urn": "urn:lex:br:federal:lei:2020-09-10;14056",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Saúde, no valor de R$ 10.000.000.000,00 (dez bilhões de reais), para os fins que especifica; e dá outras providências."
+    },
+    {
+      "senadoId": "32629724",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-08-14053",
+      "titulo": "Lei nº 14.053 de 08/09/2020",
+      "data": "2020-09-08",
+      "numero": "14053",
+      "urn": "urn:lex:br:federal:lei:2020-09-08;14053",
+      "ementa": "Altera a Lei nº 6.088, de 16 de julho de 1974, para incluir as bacias hidrográficas dos rios Araguari (AP), Araguari (MG), Jequitinhonha, Mucuri e Pardo e as demais bacias hidrográficas e litorâneas dos Estados do Amapá, da Bahia, do Ceará, de Goiás, da Paraíba, de Pernambuco, do Piauí e do Rio Grande do Norte na área de atuação da Companhia de Desenvolvimento do Vale do São Francisco (Codevasf)."
+    },
+    {
+      "senadoId": "32629632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-08-14052",
+      "titulo": "Lei nº 14.052 de 08/09/2020",
+      "data": "2020-09-08",
+      "numero": "14052",
+      "urn": "urn:lex:br:federal:lei:2020-09-08;14052",
+      "ementa": "Altera a Lei nº 9.427, de 26 de dezembro de 1996, para estabelecer multa a ser paga aos usuários do serviço de energia elétrica, a Lei nº 13.203, de 8 de dezembro de 2015, para estabelecer novas condições para a repactuação do risco hidrológico de geração de energia elétrica, a Lei nº 11.909, de 4 de março de 2009, para criar o Fundo de Expansão dos Gasodutos de Transporte e de Escoamento da Produção (Brasduto), a Lei nº 12.351, de 22 de dezembro de 2010, para dispor sobre a destinação da receita advinda da comercialização do petróleo, do gás natural e de outros hidrocarbonetos fluidos destinados à União, e a Lei nº 12.783, de 11 de janeiro de 2013, para reduzir o prazo para solicitação de prorrogação de concessões de que trata essa Lei."
+    },
+    {
+      "senadoId": "32629199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-09-08-14051",
+      "titulo": "Lei nº 14.051 de 08/09/2020",
+      "data": "2020-09-08",
+      "numero": "14051",
+      "urn": "urn:lex:br:federal:lei:2020-09-08;14051",
+      "ementa": "Abre crédito extraordinário em favor de Operações Oficiais de Crédito, no valor de R$ 5.000.000.000,00 (cinco bilhões de reais), para o fim que especifica."
+    },
+    {
+      "senadoId": "32601001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-26-14049",
+      "titulo": "Lei nº 14.049 de 26/08/2020",
+      "data": "2020-08-26",
+      "numero": "14049",
+      "urn": "urn:lex:br:federal:lei:2020-08-26;14049",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, do Trabalho, e do Distrito Federal e dos Territórios, crédito suplementar no valor de R$ 36.737.273,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32601049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-26-14050",
+      "titulo": "Lei nº 14.050 de 26/08/2020",
+      "data": "2020-08-26",
+      "numero": "14050",
+      "urn": "urn:lex:br:federal:lei:2020-08-26;14050",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 166.822.755,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32584477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-24-14048",
+      "titulo": "Lei nº 14.048 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "14048",
+      "urn": "urn:lex:br:federal:lei:2020-08-24;14048",
+      "ementa": "Dispõe sobre medidas emergenciais de amparo aos agricultores familiares do Brasil para mitigar os impactos socioeconômicos da Covid-19; altera as Leis n°s 13.340, de 28 de setembro de 2016, e 13.606, de 9 de janeiro de 2018; e dá outras providências (Lei Assis Carvalho)."
+    },
+    {
+      "senadoId": "32584373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-24-14047",
+      "titulo": "Lei nº 14.047 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "14047",
+      "urn": "urn:lex:br:federal:lei:2020-08-24;14047",
+      "ementa": "Dispõe sobre medidas temporárias para enfrentamento da pandemia da Covid-19 no âmbito do setor portuário, sobre a cessão de pátios da administração pública e sobre o custeio das despesas com serviços de estacionamento para a permanência de aeronaves de empresas nacionais de transporte aéreo regular de passageiros em pátios da Empresa Brasileira de Infraestrutura Aeroportuária (Infraero); e altera as Leis nºs 9.719, de 27 de novembro de 1998, 7.783, de 28 de junho de 1989, 12.815, de 5 de junho de 2013, 7.565, de 19 de dezembro de 1986, e 10.233, de 5 de junho de 2001."
+    },
+    {
+      "senadoId": "32584315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-24-14046",
+      "titulo": "Lei nº 14.046 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "14046",
+      "urn": "urn:lex:br:federal:lei:2020-08-24;14046",
+      "ementa": "Dispõe sobre medidas emergenciais para atenuar os efeitos da crise decorrente da pandemia da covid-19 nos setores de turismo e de cultura."
+    },
+    {
+      "senadoId": "32581251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-20-14045",
+      "titulo": "Lei nº 14.045 de 20/08/2020",
+      "data": "2020-08-20",
+      "numero": "14045",
+      "urn": "urn:lex:br:federal:lei:2020-08-20;14045",
+      "ementa": "Altera a Lei nº 13.999, de 18 de maio de 2020, para instituir linha de crédito destinada aos profissionais liberais que atuem como pessoa física, durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e a Lei nº 12.087, de 11 de novembro de 2009, para criar o Conselho de Participação em Fundos Garantidores de Risco de Crédito para Microempresas e para Pequenas e Médias Empresas e o Conselho de Participação em Operações de Crédito Educativo."
+    },
+    {
+      "senadoId": "32570107",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-19-14044",
+      "titulo": "Lei nº 14.044 de 19/08/2020",
+      "data": "2020-08-19",
+      "numero": "14044",
+      "urn": "urn:lex:br:federal:lei:2020-08-19;14044",
+      "ementa": "Prorroga o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine), constante da Lei nº 13.594, de 5 de janeiro de 2018, e os benefícios fiscais previstos nos arts. 1º e 1º-A da Lei nº 8.685, de 20 de julho de 1993, e no art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001."
+    },
+    {
+      "senadoId": "32569991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-19-14042",
+      "titulo": "Lei nº 14.042 de 19/08/2020",
+      "data": "2020-08-19",
+      "numero": "14042",
+      "urn": "urn:lex:br:federal:lei:2020-08-19;14042",
+      "ementa": "Institui o Programa Emergencial de Acesso a Crédito (Peac); altera as Leis nºs 12.087, de 11 de novembro de 2009, e 13.999, de 18 de maio de 2020; e dá outras providências."
+    },
+    {
+      "senadoId": "32570049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-19-14043",
+      "titulo": "Lei nº 14.043 de 19/08/2020",
+      "data": "2020-08-19",
+      "numero": "14043",
+      "urn": "urn:lex:br:federal:lei:2020-08-19;14043",
+      "ementa": "Institui o Programa Emergencial de Suporte a Empregos; altera as Leis n°s 9.430, de 27 de dezembro de 1996, e 13.999, de 18 de maio de 2020; e dá outras providências."
+    },
+    {
+      "senadoId": "32560623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-18-14041",
+      "titulo": "Lei nº 14.041 de 18/08/2020",
+      "data": "2020-08-18",
+      "numero": "14041",
+      "urn": "urn:lex:br:federal:lei:2020-08-18;14041",
+      "ementa": "Dispõe sobre a prestação de apoio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios com o objetivo de mitigar as dificuldades financeiras decorrentes do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente da pandemia da Covid-19."
+    },
+    {
+      "senadoId": "32560565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-18-14040",
+      "titulo": "Lei nº 14.040 de 18/08/2020",
+      "data": "2020-08-18",
+      "numero": "14040",
+      "urn": "urn:lex:br:federal:lei:2020-08-18;14040",
+      "ementa": "Estabelece normas educacionais excepcionais a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera a Lei nº 11.947, de 16 de junho de 2009."
+    },
+    {
+      "senadoId": "32553774",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-17-14037",
+      "titulo": "Lei nº 14.037 de 17/08/2020",
+      "data": "2020-08-17",
+      "numero": "14037",
+      "urn": "urn:lex:br:federal:lei:2020-08-17;14037",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Justiça e Segurança Pública e da Defesa, crédito suplementar no valor de R$ 615.996.235,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32554701",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-17-14039",
+      "titulo": "Lei nº 14.039 de 17/08/2020",
+      "data": "2020-08-17",
+      "numero": "14039",
+      "urn": "urn:lex:br:federal:lei:2020-08-17;14039",
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994 (Estatuto da OAB), e o Decreto-Lei nº 9.295, de 27 de maio de 1946, para dispor sobre a natureza técnica e singular dos serviços prestados por advogados e por profissionais de contabilidade."
+    },
+    {
+      "senadoId": "32553822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-17-14038",
+      "titulo": "Lei nº 14.038 de 17/08/2020",
+      "data": "2020-08-17",
+      "numero": "14038",
+      "urn": "urn:lex:br:federal:lei:2020-08-17;14038",
+      "ementa": "Dispõe sobre a regulamentação da profissão de Historiador e dá outras providências."
+    },
+    {
+      "senadoId": "32550654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-13-14036",
+      "titulo": "Lei nº 14.036 de 13/08/2020",
+      "data": "2020-08-13",
+      "numero": "14036",
+      "urn": "urn:lex:br:federal:lei:2020-08-13;14036",
+      "ementa": "Altera a Lei nº 14.017, de 29 de junho de 2020, para estabelecer a forma de repasse pela União dos valores a serem aplicados pelos Poderes Executivos locais em ações emergenciais de apoio ao setor cultural durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e as regras para a restituição ou a suplementação dos valores por meio de outras fontes próprias de recursos pelos Estados, pelos Municípios ou pelo Distrito Federal."
+    },
+    {
+      "senadoId": "32540854",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-11-14035",
+      "titulo": "Lei nº 14.035 de 11/08/2020",
+      "data": "2020-08-11",
+      "numero": "14035",
+      "urn": "urn:lex:br:federal:lei:2020-08-11;14035",
+      "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre procedimentos para a aquisição ou contratação de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019."
+    },
+    {
+      "senadoId": "32530099",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-05-14034",
+      "titulo": "Lei nº 14.034 de 05/08/2020",
+      "data": "2020-08-05",
+      "numero": "14034",
+      "urn": "urn:lex:br:federal:lei:2020-08-05;14034",
+      "ementa": "Dispõe sobre medidas emergenciais para a aviação civil brasileira em razão da pandemia da Covid-19; e altera as Leis n°s 7.565, de 19 de dezembro de 1986, 6.009, de 26 de dezembro de 1973, 12.462, de 4 de agosto de 2011, 13.319, de 25 de julho de 2016, 13.499, de 26 de outubro de 2017, e 9.825, de 23 de agosto de 1999."
+    },
+    {
+      "senadoId": "32527106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-04-14033",
+      "titulo": "Lei nº 14.033 de 04/08/2020",
+      "data": "2020-08-04",
+      "numero": "14033",
+      "urn": "urn:lex:br:federal:lei:2020-08-04;14033",
+      "ementa": "Abre crédito extraordinário em favor da Presidência da República, do Ministério da Educação, do Ministério da Justiça e Segurança Pública e do Ministério da Mulher, da Família e dos Direitos Humanos, no valor de R$ 639.034.512,00 (seiscentos e trinta e nove milhões, trinta e quatro mil quinhentos e doze reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "32527076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-08-04-14032",
+      "titulo": "Lei nº 14.032 de 04/08/2020",
+      "data": "2020-08-04",
+      "numero": "14032",
+      "urn": "urn:lex:br:federal:lei:2020-08-04;14032",
+      "ementa": "Abre crédito extraordinário em favor dos Ministérios da Educação, da Saúde e da Cidadania, no valor de R$ 2.113.789.466,00 (dois bilhões, cento e treze milhões, setecentos e oitenta e nove mil quatrocentos e sessenta e seis reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "32512759",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-28-14031",
+      "titulo": "Lei nº 14.031 de 28/07/2020",
+      "data": "2020-07-28",
+      "numero": "14031",
+      "urn": "urn:lex:br:federal:lei:2020-07-28;14031",
+      "ementa": "Dispõe sobre o tratamento tributário incidente sobre a variação cambial do valor de investimento realizado por instituições financeiras e pelas demais instituições autorizadas a funcionar pelo Banco Central do Brasil em sociedade controlada, coligada, filial, sucursal ou agência domiciliada no exterior; altera a Lei nº 12.865, de 9 de outubro de 2013, que dispõe, entre outras matérias, sobre os arranjos de pagamento e sobre as instituições de pagamento integrantes do Sistema de Pagamentos Brasileiro, e a Lei nº 12.249, de 11 de junho de 2010, que dispõe, entre outras matérias, sobre a Letra Financeira; e dá outras providências."
+    },
+    {
+      "senadoId": "32512432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-28-14029",
+      "titulo": "Lei nº 14.029 de 28/07/2020",
+      "data": "2020-07-28",
+      "numero": "14029",
+      "urn": "urn:lex:br:federal:lei:2020-07-28;14029",
+      "ementa": "Dispõe sobre a transposição e a reprogramação de saldos financeiros constantes dos fundos de assistência social dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais."
+    },
+    {
+      "senadoId": "32512568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-28-14030",
+      "titulo": "Lei nº 14.030 de 28/07/2020",
+      "data": "2020-07-28",
+      "numero": "14030",
+      "urn": "urn:lex:br:federal:lei:2020-07-28;14030",
+      "ementa": "Dispõe sobre as assembleias e as reuniões de sociedades anônimas, de sociedades limitadas, de sociedades cooperativas e de entidades de representação do cooperativismo durante o exercício de 2020; altera as Leis n os 5.764, de 16 de dezembro de 1971, 6.404, de 15 de dezembro de 1976, e 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências."
+    },
+    {
+      "senadoId": "32511135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-27-14028",
+      "titulo": "Lei nº 14.028 de 27/07/2020",
+      "data": "2020-07-27",
+      "numero": "14028",
+      "urn": "urn:lex:br:federal:lei:2020-07-27;14028",
+      "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para garantir que o receituário médico ou odontológico de medicamentos sujeitos a prescrição e de uso contínuo tenha validade pelo menos enquanto perdurarem as medidas de isolamento para contenção do surto da Covid-19, na forma que especifica."
+    },
+    {
+      "senadoId": "32501614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-20-14027",
+      "titulo": "Lei nº 14.027 de 20/07/2020",
+      "data": "2020-07-20",
+      "numero": "14027",
+      "urn": "urn:lex:br:federal:lei:2020-07-20;14027",
+      "ementa": "Altera a Lei nº 5.768, de 20 de dezembro de 1971, para estabelecer regras acerca da distribuição gratuita de prêmios mediante sorteio, vale-brinde, concurso ou operação assemelhada, realizada por concessionárias ou permissionárias de serviço de radiodifusão ou por organizações da sociedade civil."
+    },
+    {
+      "senadoId": "32462863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-15-14026",
+      "titulo": "Lei nº 14.026 de 15/07/2020",
+      "data": "2020-07-15",
+      "numero": "14026",
+      "urn": "urn:lex:br:federal:lei:2020-07-15;14026",
+      "ementa": "Atualiza o marco legal do saneamento básico e altera a Lei nº 9.984, de 17 de julho de 2000, para atribuir à Agência Nacional de Águas e Saneamento Básico (ANA) competência para editar normas de referência sobre o serviço de saneamento, a Lei nº 10.768, de 19 de novembro de 2003, para alterar o nome e as atribuições do cargo de Especialista em Recursos Hídricos, a Lei nº 11.107, de 6 de abril de 2005, para vedar a prestação por contrato de programa dos serviços públicos de que trata o art. 175 da Constituição Federal, a Lei nº 11.445, de 5 de janeiro de 2007, para aprimorar as condições estruturais do saneamento básico no País, a Lei nº 12.305, de 2 de agosto de 2010, para tratar dos prazos para a disposição final ambientalmente adequada dos rejeitos, a Lei nº 13.089, de 12 de janeiro de 2015 (Estatuto da Metrópole), para estender seu âmbito de aplicação às microrregiões, e a Lei nº 13.529, de 4 de dezembro de 2017, para autorizar a União a participar de fundo com a finalidade exclusiva de financiar serviços técnicos especializados."
+    },
+    {
+      "senadoId": "32458174",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-14-14025",
+      "titulo": "Lei nº 14.025 de 14/07/2020",
+      "data": "2020-07-14",
+      "numero": "14025",
+      "urn": "urn:lex:br:federal:lei:2020-07-14;14025",
+      "ementa": "Altera excepcionalmente as alíquotas das contribuições aos serviços sociais autônomos que especifica e ao Fundo de Desenvolvimento do Ensino Profissional Marítimo."
+    },
+    {
+      "senadoId": "32450354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-09-14024",
+      "titulo": "Lei nº 14.024 de 09/07/2020",
+      "data": "2020-07-09",
+      "numero": "14024",
+      "urn": "urn:lex:br:federal:lei:2020-07-09;14024",
+      "ementa": "Altera a Lei nº 10.260, de 12 de julho de 2001, para suspender temporariamente as obrigações financeiras dos estudantes beneficiários do Fundo de Financiamento Estudantil (Fies) durante o período de vigência do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020."
+    },
+    {
+      "senadoId": "32447398",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-08-14023",
+      "titulo": "Lei nº 14.023 de 08/07/2020",
+      "data": "2020-07-08",
+      "numero": "14023",
+      "urn": "urn:lex:br:federal:lei:2020-07-08;14023",
+      "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para determinar a adoção de medidas imediatas que preservem a saúde e a vida de todos os profissionais considerados essenciais ao controle de doenças e à manutenção da ordem pública, durante a emergência de saúde pública decorrente do coronavírus responsável pelo surto de 2019."
+    },
+    {
+      "senadoId": "32440002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-07-14021",
+      "titulo": "Lei nº 14.021 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "14021",
+      "urn": "urn:lex:br:federal:lei:2020-07-07;14021",
+      "ementa": "Dispõe sobre medidas de proteção social para prevenção do contágio e da disseminação da Covid-19 nos territórios indígenas; cria o Plano Emergencial para Enfrentamento à Covid-19 nos territórios indígenas; estipula medidas de apoio às comunidades quilombolas, aos pescadores artesanais e aos demais povos e comunidades tradicionais para o enfrentamento à Covid-19; e altera a Lei nº 8.080, de 19 de setembro de 1990, a fim de assegurar aporte de recursos adicionais nas situações emergenciais e de calamidade pública."
+    },
+    {
+      "senadoId": "32440098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-07-14022",
+      "titulo": "Lei nº 14.022 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "14022",
+      "urn": "urn:lex:br:federal:lei:2020-07-07;14022",
+      "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, e dispõe sobre medidas de enfrentamento à violência doméstica e familiar contra a mulher e de enfrentamento à violência contra crianças, adolescentes, pessoas idosas e pessoas com deficiência durante a emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019."
+    },
+    {
+      "senadoId": "32432200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-06-14020",
+      "titulo": "Lei nº 14.020 de 06/07/2020",
+      "data": "2020-07-06",
+      "numero": "14020",
+      "urn": "urn:lex:br:federal:lei:2020-07-06;14020",
+      "ementa": "Institui o Programa Emergencial de Manutenção do Emprego e da Renda; dispõe sobre medidas complementares para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus, de que trata a Lei nº 13.979, de 6 de fevereiro de 2020; altera as Leis n°s 8.213, de 24 de julho de 1991, 10.101, de 19 de dezembro de 2000, 12.546, de 14 de dezembro de 2011, 10.865, de 30 de abril de 2004, e 8.177, de 1º de março de 1991; e dá outras providências."
+    },
+    {
+      "senadoId": "32316830",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-07-02-14019",
+      "titulo": "Lei nº 14.019 de 02/07/2020",
+      "data": "2020-07-02",
+      "numero": "14019",
+      "urn": "urn:lex:br:federal:lei:2020-07-02;14019",
+      "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre a obrigatoriedade do uso de máscaras de proteção individual para circulação em espaços públicos e privados acessíveis ao público, em vias públicas e em transportes públicos, sobre a adoção de medidas de assepsia de locais de acesso público, inclusive transportes públicos, e sobre a disponibilização de produtos saneantes aos usuários durante a vigência das medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente da pandemia da Covid-19."
+    },
+    {
+      "senadoId": "32297647",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-29-14018",
+      "titulo": "Lei nº 14.018 de 29/06/2020",
+      "data": "2020-06-29",
+      "numero": "14018",
+      "urn": "urn:lex:br:federal:lei:2020-06-29;14018",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União às Instituições de Longa Permanência para Idosos (ILPIs), no exercício de 2020, em razão do enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (Covid-19)."
+    },
+    {
+      "senadoId": "32297589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-29-14017",
+      "titulo": "Lei nº 14.017 de 29/06/2020",
+      "data": "2020-06-29",
+      "numero": "14017",
+      "urn": "urn:lex:br:federal:lei:2020-06-29;14017",
+      "ementa": "Dispõe sobre ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020."
+    },
+    {
+      "senadoId": "32285364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-23-14016",
+      "titulo": "Lei nº 14.016 de 23/06/2020",
+      "data": "2020-06-23",
+      "numero": "14016",
+      "urn": "urn:lex:br:federal:lei:2020-06-23;14016",
+      "ementa": "Dispõe sobre o combate ao desperdício de alimentos e a doação de excedentes de alimentos para o consumo humano."
+    },
+    {
+      "senadoId": "32264872",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-15-14015",
+      "titulo": "Lei nº 14.015 de 15/06/2020",
+      "data": "2020-06-15",
+      "numero": "14015",
+      "urn": "urn:lex:br:federal:lei:2020-06-15;14015",
+      "ementa": "Altera as Leis n°s 13.460, de 26 de junho de 2017, e 8.987, de 13 de fevereiro de 1995, para dispor sobre a interrupção e a religação ou o restabelecimento de serviços públicos."
+    },
+    {
+      "senadoId": "32250900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-10-14014",
+      "titulo": "Lei nº 14.014 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "14014",
+      "urn": "urn:lex:br:federal:lei:2020-06-10;14014",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Regional, no valor de R$ 892.000.000,00 (oitocentos e noventa e dois milhões de reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "32250930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-10-14012",
+      "titulo": "Lei nº 14.012 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "14012",
+      "urn": "urn:lex:br:federal:lei:2020-06-10;14012",
+      "ementa": "Denomina Rodovia Padre Cícero Romão Batista o trecho da rodovia BR-116 compreendido entre o Município de Pacajus, no Estado do Ceará, e a divisa do Estado do Ceará com o Estado de Pernambuco."
+    },
+    {
+      "senadoId": "32250736",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-10-14010",
+      "titulo": "Lei nº 14.010 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "14010",
+      "urn": "urn:lex:br:federal:lei:2020-06-10;14010",
+      "ementa": "Dispõe sobre o Regime Jurídico Emergencial e Transitório das relações jurídicas de Direito Privado (RJET) no período da pandemia do coronavírus (Covid-19)."
+    },
+    {
+      "senadoId": "32250870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-10-14013",
+      "titulo": "Lei nº 14.013 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "14013",
+      "urn": "urn:lex:br:federal:lei:2020-06-10;14013",
+      "ementa": "Dispõe sobre o valor do salário-mínimo a vigorar a partir de 1º de janeiro de 2020; e dá outras providências."
+    },
+    {
+      "senadoId": "32254494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-10-14011",
+      "titulo": "Lei nº 14.011 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "14011",
+      "urn": "urn:lex:br:federal:lei:2020-06-10;14011",
+      "ementa": "Aprimora os procedimentos de gestão e alienação dos imóveis da União; altera as Leis n°s 6.015, de 31 de dezembro de 1973, 9.636, de 15 de maio de 1998, 13.240, de 30 de dezembro de 2015, 13.259, de 16 de março de 2016, e 10.204, de 22 de fevereiro de 2001, e o Decreto-Lei nº 2.398, de 21 de dezembro de 1987; revoga dispositivos das Leis n°s 9.702, de 17 de novembro de 1998, 11.481, de 31 de maio de 2007, e 13.874, de 20 de setembro de 2019; e dá outras providências."
+    },
+    {
+      "senadoId": "32239009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-03-14009",
+      "titulo": "Lei nº 14.009 de 03/06/2020",
+      "data": "2020-06-03",
+      "numero": "14009",
+      "urn": "urn:lex:br:federal:lei:2020-06-03;14009",
+      "ementa": "Altera o art. 125 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispor sobre a acessibilidade para pessoas com deficiência nas salas de cinema."
+    },
+    {
+      "senadoId": "32236751",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-02-14007",
+      "titulo": "Lei nº 14.007 de 02/06/2020",
+      "data": "2020-06-02",
+      "numero": "14007",
+      "urn": "urn:lex:br:federal:lei:2020-06-02;14007",
+      "ementa": "Extingue o fundo formado pelas reservas monetárias de que trata o art. 12 da Lei nº 5.143, de 20 de outubro de 1966; dispõe sobre a destinação dos recursos oriundos do fundo; revoga o art. 12 da Lei nº 5.143, de 20 de outubro de 1966; e dá outras providências."
+    },
+    {
+      "senadoId": "32236874",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-06-02-14008",
+      "titulo": "Lei nº 14.008 de 02/06/2020",
+      "data": "2020-06-02",
+      "numero": "14008",
+      "urn": "urn:lex:br:federal:lei:2020-06-02;14008",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União, de Transferências a Estados, Distrito Federal e Municípios e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 343.623.574.293,00, para reforço de dotações constantes da Lei Orçamentária vigente e dá outras providências."
+    },
+    {
+      "senadoId": "32224032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-28-14006",
+      "titulo": "Lei nº 14.006 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "14006",
+      "urn": "urn:lex:br:federal:lei:2020-05-28;14006",
+      "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para estabelecer o prazo de 72 (setenta e duas) horas para que a Agência Nacional de Vigilância Sanitária (Anvisa) autorize a importação e distribuição de quaisquer materiais, medicamentos, equipamentos e insumos da área de saúde registrados por autoridade sanitária estrangeira e autorizados à distribuição comercial em seus respectivos países; e dá outras providências."
+    },
+    {
+      "senadoId": "32213180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-26-14005",
+      "titulo": "Lei nº 14.005 de 26/05/2020",
+      "data": "2020-05-26",
+      "numero": "14005",
+      "urn": "urn:lex:br:federal:lei:2020-05-26;14005",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e Segurança Pública, crédito suplementar no valor de R$ 775.994.538,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32211519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-26-14003",
+      "titulo": "Lei nº 14.003 de 26/05/2020",
+      "data": "2020-05-26",
+      "numero": "14003",
+      "urn": "urn:lex:br:federal:lei:2020-05-26;14003",
+      "ementa": "Cria funções de confiança destinadas à Polícia Federal e extingue cargos em comissão."
+    },
+    {
+      "senadoId": "32213007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-26-14004",
+      "titulo": "Lei nº 14.004 de 26/05/2020",
+      "data": "2020-05-26",
+      "numero": "14004",
+      "urn": "urn:lex:br:federal:lei:2020-05-26;14004",
+      "ementa": "Altera a Lei nº 6.634, de 2 de maio de 1979, que dispõe sobre a Faixa de Fronteira, e a Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá terras pertencentes à União."
+    },
+    {
+      "senadoId": "32198227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-22-14002",
+      "titulo": "Lei nº 14.002 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "14002",
+      "urn": "urn:lex:br:federal:lei:2020-05-22;14002",
+      "ementa": "Altera as Leis n°s 11.371, de 28 de novembro de 2006, e 12.249, de 11 de junho de 2010, para dispor a respeito das alíquotas do imposto sobre a renda incidentes nas operações que especifica, e as Leis n°s 9.825, de 23 de agosto de 1999, 11.356, de 19 de outubro de 2006, e 12.462, de 4 de agosto de 2011; autoriza o Poder Executivo federal a instituir a Agência Brasileira de Promoção Internacional do Turismo (Embratur); extingue o Instituto Brasileiro de Turismo (Embratur); revoga a Lei nº 8.181, de 28 de março de 1991; e dá outras providências."
+    },
+    {
+      "senadoId": "32197273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-22-14001",
+      "titulo": "Lei nº 14.001 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "14001",
+      "urn": "urn:lex:br:federal:lei:2020-05-22;14001",
+      "ementa": "Altera a Lei nº 13.898, de 11 de novembro de 2019, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020."
+    },
+    {
+      "senadoId": "32190004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-19-14000",
+      "titulo": "Lei nº 14.000 de 19/05/2020",
+      "data": "2020-05-19",
+      "numero": "14000",
+      "urn": "urn:lex:br:federal:lei:2020-05-19;14000",
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre a elaboração do Plano de Mobilidade Urbana pelos Municípios."
+    },
+    {
+      "senadoId": "32183563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-18-13999",
+      "titulo": "Lei nº 13.999 de 18/05/2020",
+      "data": "2020-05-18",
+      "numero": "13999",
+      "urn": "urn:lex:br:federal:lei:2020-05-18;13999",
+      "ementa": "Institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), para o desenvolvimento e o fortalecimento dos pequenos negócios; e altera as Leis n°s 13.636, de 20 de março de 2018, 10.735, de 11 de setembro de 2003, e 9.790, de 23 de março de 1999."
+    },
+    {
+      "senadoId": "32180339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-14-13998",
+      "titulo": "Lei nº 13.998 de 14/05/2020",
+      "data": "2020-05-14",
+      "numero": "13998",
+      "urn": "urn:lex:br:federal:lei:2020-05-14;13998",
+      "ementa": "Promove mudanças no auxílio emergencial instituído pela Lei nº 13.982, de 2 de abril de 2020, e dá outras providências."
+    },
+    {
+      "senadoId": "32153919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-06-13997",
+      "titulo": "Lei nº 13.997 de 06/05/2020",
+      "data": "2020-05-06",
+      "numero": "13997",
+      "urn": "urn:lex:br:federal:lei:2020-05-06;13997",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Agricultura, Pecuária e Abastecimento."
+    },
+    {
+      "senadoId": "32145903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-05-13996",
+      "titulo": "Lei nº 13.996 de 05/05/2020",
+      "data": "2020-05-05",
+      "numero": "13996",
+      "urn": "urn:lex:br:federal:lei:2020-05-05;13996",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Agricultura, Pecuária e Abastecimento; e acrescenta dispositivo à Lei nº 9.264, de 7 de fevereiro de 1996."
+    },
+    {
+      "senadoId": "32146371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-05-05-13995",
+      "titulo": "Lei nº 13.995 de 05/05/2020",
+      "data": "2020-05-05",
+      "numero": "13995",
+      "urn": "urn:lex:br:federal:lei:2020-05-05;13995",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União às santas casas e hospitais filantrópicos, sem fins lucrativos, que participam de forma complementar do Sistema Único de Saúde (SUS), no exercício de 2020, com o objetivo de permitir-lhes atuar de forma coordenada no combate à pandemia da Covid-19."
+    },
+    {
+      "senadoId": "32129823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-24-13994",
+      "titulo": "Lei nº 13.994 de 24/04/2020",
+      "data": "2020-04-24",
+      "numero": "13994",
+      "urn": "urn:lex:br:federal:lei:2020-04-24;13994",
+      "ementa": "Altera a Lei nº 9.099, de 26 de setembro de 1995, para possibilitar a conciliação não presencial no âmbito dos Juizados Especiais Cíveis."
+    },
+    {
+      "senadoId": "32128504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-23-13993",
+      "titulo": "Lei nº 13.993 de 23/04/2020",
+      "data": "2020-04-23",
+      "numero": "13993",
+      "urn": "urn:lex:br:federal:lei:2020-04-23;13993",
+      "ementa": "Dispõe sobre a proibição de exportações de produtos médicos, hospitalares e de higiene essenciais ao combate à epidemia de coronavírus no Brasil."
+    },
+    {
+      "senadoId": "32124112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-22-13992",
+      "titulo": "Lei nº 13.992 de 22/04/2020",
+      "data": "2020-04-22",
+      "numero": "13992",
+      "urn": "urn:lex:br:federal:lei:2020-04-22;13992",
+      "ementa": "Suspende por 120 (cento e vinte) dias, a contar de 1º de março do corrente ano, a obrigatoriedade da manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde no âmbito do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "32118143",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-17-13990",
+      "titulo": "Lei nº 13.990 de 17/04/2020",
+      "data": "2020-04-17",
+      "numero": "13990",
+      "urn": "urn:lex:br:federal:lei:2020-04-17;13990",
+      "ementa": "Confere ao Município de Gramado, no Estado do Rio Grande do Sul, o título de Capital Nacional do Chocolate Artesanal."
+    },
+    {
+      "senadoId": "32118179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-17-13991",
+      "titulo": "Lei nº 13.991 de 17/04/2020",
+      "data": "2020-04-17",
+      "numero": "13991",
+      "urn": "urn:lex:br:federal:lei:2020-04-17;13991",
+      "ementa": "Inscreve o nome de Osvaldo Euclides de Sousa Aranha no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "32111272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-15-13989",
+      "titulo": "Lei nº 13.989 de 15/04/2020",
+      "data": "2020-04-15",
+      "numero": "13989",
+      "urn": "urn:lex:br:federal:lei:2020-04-15;13989",
+      "ementa": "Dispõe sobre o uso da telemedicina durante a crise causada pelo coronavírus (SARS-CoV-2)."
+    },
+    {
+      "senadoId": "32103727",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-14-13988",
+      "titulo": "Lei nº 13.988 de 14/04/2020",
+      "data": "2020-04-14",
+      "numero": "13988",
+      "urn": "urn:lex:br:federal:lei:2020-04-14;13988",
+      "ementa": "Dispõe sobre a transação nas hipóteses que especifica; e altera as Leis nºs 13.464, de 10 de julho de 2017, e 10.522, de 19 de julho de 2002."
+    },
+    {
+      "senadoId": "32071214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-07-13987",
+      "titulo": "Lei nº 13.987 de 07/04/2020",
+      "data": "2020-04-07",
+      "numero": "13987",
+      "urn": "urn:lex:br:federal:lei:2020-04-07;13987",
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para autorizar, em caráter excepcional, durante o período de suspensão das aulas em razão de situação de emergência ou calamidade pública, a distribuição de gêneros alimentícios adquiridos com recursos do Programa Nacional de Alimentação Escolar (Pnae) aos pais ou responsáveis dos estudantes das escolas públicas de educação básica."
+    },
+    {
+      "senadoId": "32071312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-07-13986",
+      "titulo": "Lei nº 13.986 de 07/04/2020",
+      "data": "2020-04-07",
+      "numero": "13986",
+      "urn": "urn:lex:br:federal:lei:2020-04-07;13986",
+      "ementa": "Institui o Fundo Garantidor Solidário (FGS); dispõe sobre o patrimônio rural em afetação, a Cédula Imobiliária Rural (CIR), a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas; altera as Leis nºs 8.427, de 27 de maio de 1992, 8.929, de 22 de agosto de 1994, 11.076, de 30 de dezembro de 2004, 10.931, de 2 de agosto de 2004, 12.865, de 9 de outubro de 2013, 5.709, de 7 de outubro de 1971, 6.634, de 2 de maio de 1979, 6.015, de 31 de dezembro de 1973, 7.827, de 27 de setembro de 1989, 8.212, de 24 de julho de 1991, 10.169, de 29 de dezembro de 2000, 11.116, de 18 de maio de 2005, 12.810, de 15 de maio de 2013, 13.340, de 28 de setembro de 2016, 13.576, de 26 de dezembro de 2017, e o Decreto-Lei nº 167, de 14 de fevereiro de 1967; revoga dispositivos das Leis nºs 4.728, de 14 de julho de 1965, e 13.476, de 28 de agosto de 2017, e dos Decretos-Leis nºs 13, de 18 de julho de 1966; 14, de 29 de julho de 1966; e 73, de 21 de novembro de 1966; e dá outras providências."
+    },
+    {
+      "senadoId": "32071166",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-07-13985",
+      "titulo": "Lei nº 13.985 de 07/04/2020",
+      "data": "2020-04-07",
+      "numero": "13985",
+      "urn": "urn:lex:br:federal:lei:2020-04-07;13985",
+      "ementa": "Institui pensão especial destinada a crianças com Síndrome Congênita do Zika Vírus, nascidas entre 1º de janeiro de 2015 e 31 de dezembro de 2019, beneficiárias do Benefício de Prestação Continuada (BPC)."
+    },
+    {
+      "senadoId": "32054082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-03-13984",
+      "titulo": "Lei nº 13.984 de 03/04/2020",
+      "data": "2020-04-03",
+      "numero": "13984",
+      "urn": "urn:lex:br:federal:lei:2020-04-03;13984",
+      "ementa": "Altera o art. 22 da Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer como medidas protetivas de urgência frequência do agressor a centro de educação e de reabilitação e acompanhamento psicossocial."
+    },
+    {
+      "senadoId": "32053665",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-03-13983",
+      "titulo": "Lei nº 13.983 de 03/04/2020",
+      "data": "2020-04-03",
+      "numero": "13983",
+      "urn": "urn:lex:br:federal:lei:2020-04-03;13983",
+      "ementa": "Altera a Lei nº 13.898, de 11 de novembro de 2019, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020."
+    },
+    {
+      "senadoId": "32045742",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-04-02-13982",
+      "titulo": "Lei nº 13.982 de 02/04/2020",
+      "data": "2020-04-02",
+      "numero": "13982",
+      "urn": "urn:lex:br:federal:lei:2020-04-02;13982",
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre parâmetros adicionais de caracterização da situação de vulnerabilidade social para fins de elegibilidade ao benefício de prestação continuada (BPC), e estabelece medidas excepcionais de proteção social a serem adotadas durante o período de enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (Covid-19) responsável pelo surto de 2019, a que se refere a Lei nº 13.979, de 6 de fevereiro de 2020."
+    },
+    {
+      "senadoId": "32000360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-03-23-13981",
+      "titulo": "Lei nº 13.981 de 23/03/2020",
+      "data": "2020-03-23",
+      "numero": "13981",
+      "urn": "urn:lex:br:federal:lei:2020-03-23;13981",
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para elevar o limite de renda familiar per capita para fins de concessão do benefício de prestação continuada."
+    },
+    {
+      "senadoId": "31985365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-03-11-13980",
+      "titulo": "Lei nº 13.980 de 11/03/2020",
+      "data": "2020-03-11",
+      "numero": "13980",
+      "urn": "urn:lex:br:federal:lei:2020-03-11;13980",
+      "ementa": "Altera a Lei nº 11.664, de 29 de abril de 2008, que \"dispõe sobre a efetivação de ações de saúde que assegurem a prevenção, a detecção, o tratamento e o seguimento dos cânceres do colo uterino e de mama, no âmbito do Sistema Único de Saúde - SUS\", para garantir a realização de ultrassonografia mamária."
+    },
+    {
+      "senadoId": "31933184",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-02-06-13979",
+      "titulo": "Lei nº 13.979 de 06/02/2020",
+      "data": "2020-02-06",
+      "numero": "13979",
+      "urn": "urn:lex:br:federal:lei:2020-02-06;13979",
+      "ementa": "Dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019."
+    },
+    {
+      "senadoId": "31906110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-01-17-13978",
+      "titulo": "Lei nº 13.978 de 17/01/2020",
+      "data": "2020-01-17",
+      "numero": "13978",
+      "urn": "urn:lex:br:federal:lei:2020-01-17;13978",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2020."
+    },
+    {
+      "senadoId": "31904204",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-01-08-13977",
+      "titulo": "Lei nº 13.977 de 08/01/2020",
+      "data": "2020-01-08",
+      "numero": "13977",
+      "urn": "urn:lex:br:federal:lei:2020-01-08;13977",
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012 (Lei Berenice Piana), e a Lei nº 9.265, de 12 de fevereiro de 1996, para instituir a Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea), e dá outras providências."
+    },
+    {
+      "senadoId": "31901701",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-01-07-13976",
+      "titulo": "Lei nº 13.976 de 07/01/2020",
+      "data": "2020-01-07",
+      "numero": "13976",
+      "urn": "urn:lex:br:federal:lei:2020-01-07;13976",
+      "ementa": "Altera a Lei nº 6.189, de 16 de dezembro de 1974, a fim de dispor sobre competência do Comando da Marinha para promover o licenciamento e a fiscalização dos meios navais e suas plantas nucleares embarcadas para propulsão e do transporte de seu combustível nuclear."
+    },
+    {
+      "senadoId": "31901623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-01-07-13975",
+      "titulo": "Lei nº 13.975 de 07/01/2020",
+      "data": "2020-01-07",
+      "numero": "13975",
+      "urn": "urn:lex:br:federal:lei:2020-01-07;13975",
+      "ementa": "Altera a Lei nº 6.567, de 24 de setembro de 1978, para incluir a exploração de rochas ornamentais e de revestimento e de carbonatos de cálcio e de magnésio no regime de licenciamento ou de autorização e concessão."
+    },
+    {
+      "senadoId": "31901671",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2020-01-07-13974",
+      "titulo": "Lei nº 13.974 de 07/01/2020",
+      "data": "2020-01-07",
+      "numero": "13974",
+      "urn": "urn:lex:br:federal:lei:2020-01-07;13974",
+      "ementa": "Dispõe sobre o Conselho de Controle de Atividades Financeiras (Coaf), de que trata o art. 14 da Lei nº 9.613, de 3 de março de 1998."
+    }
+  ],
+  "pendencias": []
+}

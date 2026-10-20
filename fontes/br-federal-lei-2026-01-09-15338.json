@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-01-09-15338",
+  "titulo": "Lei nº 15.338 de 09/01/2026",
+  "data": "2026-01-09",
+  "fonte": "https://normas.leg.br/api/public/binario/44a0a0e1-df84-4458-abce-fd978ffa648e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-01-09;15338",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-01-09%3B15338&tipo_documento=maior-detalhe",
+  "sha256_dados": "05a379adc8c616f9b9e1a164851fd2d51fda350fc84169afa3e41b721570f6c2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:13.023Z",
+  "sha256_fonte": "0318936f50ab2c3d7203379747ed07a112946a13a5a494fde148eb5c377d5037",
+  "sha256_markdown": "6fd9f7f298f0aee0566dbf5704d28f9e0f40dadd402afb8a4b59e20933823daa"
+}

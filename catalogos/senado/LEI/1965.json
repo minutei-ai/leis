@@ -1,0 +1,3339 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1965",
+  "tipo": "LEI",
+  "ano": 1965,
+  "coletado_em": "2026-10-20T22:59:49.089Z",
+  "normas": [
+    {
+      "senadoId": "546777",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4920",
+      "titulo": "Lei nº 4.920 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4920",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4920",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério das Minas e Energia o crédito especial de Cr$ 1.500.000.000,00 (um bilhão e quinhentos milhões de cruzeiros) para a complementação dos recursos destinados à construção da \"Usina Coaraci Nunes\", no Território Federal do Amapá."
+    },
+    {
+      "senadoId": "546783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4926",
+      "titulo": "Lei nº 4.926 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4926",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4926",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento para produção   de formol a ser importado por \"Resinas Sintéticas e Plásticas S.A.\" - Resimpla -   com sede em Pôrto Alegre e fábrica em Gravataí, Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "546780",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4923",
+      "titulo": "Lei nº 4.923 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4923",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4923",
+      "ementa": "Institui o cadastro permanente das admissões e dispensas de empregados, estabelece medidas contra o desemprego e de assistência aos desempregados, e dá outras providências."
+    },
+    {
+      "senadoId": "546779",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4922",
+      "titulo": "Lei nº 4.922 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4922",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4922",
+      "ementa": "Retifica, sem ônus para a União, a Lei nº 4.539, de 10 de dezembro de 1964, que estima a receita e fixa a despesa da União para o exercício de 1965."
+    },
+    {
+      "senadoId": "546782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4925",
+      "titulo": "Lei nº 4.925 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4925",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4925",
+      "ementa": "Autoriza o Ministério da Marinha a aproveitar na classe inicial das séries   de classe de suas especialidades, após conclusão de curso, todos os alunos   bolsistas e os aprendizes das Escolas Técnicas e Indústrias reconhecidas ou   classificadas pelo Ministério da Educação e Cultura."
+    },
+    {
+      "senadoId": "546781",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4924",
+      "titulo": "Lei nº 4.924 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4924",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4924",
+      "ementa": "Fixa normas para a elaboração do Esquema Financeiro das safras cafeeiras."
+    },
+    {
+      "senadoId": "546778",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-23-4921",
+      "titulo": "Lei nº 4.921 de 23/12/1965",
+      "data": "1965-12-23",
+      "numero": "4921",
+      "urn": "urn:lex:br:federal:lei:1965-12-23;4921",
+      "ementa": "Estende aos Serviços de Navegação da Amazônia e de Administração do Porto do Pará, o regime de isenção fiscal de que gozam o Lóide Brasileiro e a Companhia de Navegação Costeira, e dá outras providências."
+    },
+    {
+      "senadoId": "546774",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4917",
+      "titulo": "Lei nº 4.917 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4917",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4917",
+      "ementa": "Isenta dos impostos de importação e de consumo, e de outras contribuições fiscais, os alimentos de qualquer natureza, e outras utilidades, adquiridos no exterior, mediante doação, pelas instituições em funcionamento no País, que se dediquem à assistência social."
+    },
+    {
+      "senadoId": "546760",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4904",
+      "titulo": "Lei nº 4.904 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4904",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4904",
+      "ementa": "Dispõe sôbre a organização do Ministério das Minas e Energia, e dá outras providências."
+    },
+    {
+      "senadoId": "546772",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4915",
+      "titulo": "Lei nº 4.915 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4915",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4915",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra o crédito especial de Cr$ 2.070.000.000,00 (dois bilhões e setenta milhões de cruzeiros), destinado a atender a despesas com a Fábrica Presidente Vargas, em Piquête."
+    },
+    {
+      "senadoId": "546776",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4919",
+      "titulo": "Lei nº 4.919 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4919",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4919",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 138.941.000,00 (cento e trinta e oito milhões novecentos e quarenta e um mil cruzeiros), destinado ao pagamento de ações preferenciais subscritas pelo Tesouro Nacional ao aumento de capital da Companhia Vale do Rio Doce."
+    },
+    {
+      "senadoId": "546766",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4910",
+      "titulo": "Lei nº 4.910 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4910",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4910",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 10.000.000,00 (dez milhões de cruzeiros),   para atender às despesas decorrentes da viagem do Senhor Presidente da República   ao Chile."
+    },
+    {
+      "senadoId": "546761",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4905",
+      "titulo": "Lei nº 4.905 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4905",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4905",
+      "ementa": "Inclui na Receita do Fundo Naval as indenizações a verbas orçamentárias de   exercícios financeiros já encerrados."
+    },
+    {
+      "senadoId": "546773",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4916",
+      "titulo": "Lei nº 4.916 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4916",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4916",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 86.087.100,00 (oitenta e seis milhões, oitenta e sete mil e cem cruzeiros), para atender às despesas decorrentes das Segundas Reuniões Anuais Ordinárias do Conselho Interamericano Econômico e Social (CIES) da organização dos Estados Americanos."
+    },
+    {
+      "senadoId": "546775",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4918",
+      "titulo": "Lei nº 4.918 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4918",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4918",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores o crédito suplementar de Cr$ 614.000.000,00 para atender ao pagamento da contribuição brasileira ao Fundo Especial das Nações Unidas."
+    },
+    {
+      "senadoId": "546768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4911",
+      "titulo": "Lei nº 4.911 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4911",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4911",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Marinha, o crédito   especial de Cr$ 10.000.000,00 (dez milhões de cruzeiros), para atender a   despesas com um dique flutuante, precedente dos Estados Unidos da América do   Norte."
+    },
+    {
+      "senadoId": "546765",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4909",
+      "titulo": "Lei nº 4.909 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4909",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4909",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, crédito especial de Cr$ 6.000.000,00 (seis milhões de cruzeiros), para atender às despesas decorrentes do asilo concedido pelo Brasil a cidadãos da República Dominicana."
+    },
+    {
+      "senadoId": "546762",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4906",
+      "titulo": "Lei nº 4.906 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4906",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4906",
+      "ementa": "Modifica o \"Plano Nacional de Viação\", estabelecido pela Lei nº 4.592, de 29 de dezembro de 1964."
+    },
+    {
+      "senadoId": "546769",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4912",
+      "titulo": "Lei nº 4.912 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4912",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4912",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 10.000.000,00 (dez milhões de cruzeiros),   para atender às despesas decorrentes da visita ao Brasil do Presidente da   República do México."
+    },
+    {
+      "senadoId": "546771",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4914",
+      "titulo": "Lei nº 4.914 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4914",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4914",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 512.729,00 (quinhentos e doze mil setecentos e vinte e nove cruzeiros) ao Tribunal Regional Eleitoral da Bahia, para atender a despesas dos exercícios de 1958 a 1962."
+    },
+    {
+      "senadoId": "546764",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4908",
+      "titulo": "Lei nº 4.908 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4908",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4908",
+      "ementa": "Modifica dispositivo da Lei nº 3119, de 31 de março de 1957, que autoriza a União a constituir uma sociedade por ações, denominada \"Sociedade Termoelétrica de Capivari\" - SOTELCA - e que passa a denominar-se \"Sociedade Termoelétrica de Capivari S.A.\" - SOTELCA."
+    },
+    {
+      "senadoId": "546770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4913",
+      "titulo": "Lei nº 4.913 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4913",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4913",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o   crédito especial de Cr$ 533.412.079,00 (quinhentos e trinta e três milhões,   quatrocentos e doze mil e setenta e nove cruzeiros), para atender ao pagamento   de diferenças de proventos e vantagens, aos inativos da Rede Viação Paraná-Santa   Catarina, relativa aos anos de 1961 e 1962."
+    },
+    {
+      "senadoId": "546763",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-17-4907",
+      "titulo": "Lei nº 4.907 de 17/12/1965",
+      "data": "1965-12-17",
+      "numero": "4907",
+      "urn": "urn:lex:br:federal:lei:1965-12-17;4907",
+      "ementa": "Dispõe sôbre uso de cofres de carga nos transportes de mercadorias."
+    },
+    {
+      "senadoId": "546757",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-16-4901",
+      "titulo": "Lei nº 4.901 de 16/12/1965",
+      "data": "1965-12-16",
+      "numero": "4901",
+      "urn": "urn:lex:br:federal:lei:1965-12-16;4901",
+      "ementa": "Cria cargo de Professor de Ensino Superior e de Direito no Quadro de   Pessoal do Ministério da Educação e Cultura, e dá outras   providências."
+    },
+    {
+      "senadoId": "546759",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-16-4903",
+      "titulo": "Lei nº 4.903 de 16/12/1965",
+      "data": "1965-12-16",
+      "numero": "4903",
+      "urn": "urn:lex:br:federal:lei:1965-12-16;4903",
+      "ementa": "Dá nova redação ao art. 2º e ao parágrafo 1º do art. 6º da Lei nº 4.725, de 13 de julho de 1965, que estabelece normas para o processo dos dissídios coletivos, e dá outras providências."
+    },
+    {
+      "senadoId": "546758",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-16-4902",
+      "titulo": "Lei nº 4.902 de 16/12/1965",
+      "data": "1965-12-16",
+      "numero": "4902",
+      "urn": "urn:lex:br:federal:lei:1965-12-16;4902",
+      "ementa": "Dispõe sôbre a inatividade dos militares da Marinha, da Aeronáutica e do Exército."
+    },
+    {
+      "senadoId": "546755",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-10-4899",
+      "titulo": "Lei nº 4.899 de 10/12/1965",
+      "data": "1965-12-10",
+      "numero": "4899",
+      "urn": "urn:lex:br:federal:lei:1965-12-10;4899",
+      "ementa": "Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício Financeiro de 1966."
+    },
+    {
+      "senadoId": "546756",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-10-4900",
+      "titulo": "Lei nº 4.900 de 10/12/1965",
+      "data": "1965-12-10",
+      "numero": "4900",
+      "urn": "urn:lex:br:federal:lei:1965-12-10;4900",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1966."
+    },
+    {
+      "senadoId": "546748",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4892",
+      "titulo": "Lei nº 4.892 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4892",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4892",
+      "ementa": "Concede isenção de direitos para importação de equipamentos de segurança e   higiene do trabalho sem similar nacional."
+    },
+    {
+      "senadoId": "546754",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4898",
+      "titulo": "Lei nº 4.898 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4898",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4898",
+      "ementa": "Regula o Direito de Representação e o Processo de Responsabilidade Administrativa Civil e Penal, nos casos de abuso de autoridade."
+    },
+    {
+      "senadoId": "546738",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4882",
+      "titulo": "Lei nº 4.882 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4882",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4882",
+      "ementa": "Abre ao Poder Legislativo - Câmara dos Deputados - o crédito suplementar de Cr$ 3.440.000.000, para refôrço de dotações orçamentárias que especifica."
+    },
+    {
+      "senadoId": "546745",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4889",
+      "titulo": "Lei nº 4.889 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4889",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4889",
+      "ementa": "Fixa novos valores para os símbolos dos cargos e função gratificada do Quadro de Pessoal do Tribunal Regional do Trabalho da 7º Região."
+    },
+    {
+      "senadoId": "546751",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4895",
+      "titulo": "Lei nº 4.895 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4895",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4895",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 30.000.000,00 (trinta milhões de   cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546739",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4883",
+      "titulo": "Lei nº 4.883 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4883",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4883",
+      "ementa": "Concede isenção dos impostos de importação e de consumo e das taxas aduaneiras, exceto a de previdência social, ao equipamento importado pela Cervejaria Paraense S.A. - CERPASA - destinado à instalação de uma fábrica de cerveja em Belém, no Estado do Pará."
+    },
+    {
+      "senadoId": "546743",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4887",
+      "titulo": "Lei nº 4.887 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4887",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4887",
+      "ementa": "Autoriza o Ministério da Fazenda a efetuar a doação de Obrigações   Reajustáveis do Tesouro Nacional às entidades que menciona, e dá outras   providências."
+    },
+    {
+      "senadoId": "546750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4894",
+      "titulo": "Lei nº 4.894 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4894",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4894",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho e   Previdência Social, o crédito especial de Cr$ 57.482.525,00 (cinqüenta e sete   milhões, quatrocentos e oitenta e dois mil, quinhentos e vinte cinco cruzeiros),   para o fim que especifica."
+    },
+    {
+      "senadoId": "546741",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4885",
+      "titulo": "Lei nº 4.885 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4885",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4885",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Senado Federal, o crédito suplementar de Cr$ 2.415.240.000 (dois bilhões, quatrocentos e quinze milhões, duzentos e quarenta mil cruzeiros), em refôrço a dotações que especifica."
+    },
+    {
+      "senadoId": "546752",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4896",
+      "titulo": "Lei nº 4.896 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4896",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4896",
+      "ementa": "Dispõe sôbre a fusão dos cargos de Assistente Jurídico e de Assessor de   Direito Aeronáutico, do Quadro de Pessoal do Ministério da   Aeronáutica."
+    },
+    {
+      "senadoId": "546747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4891",
+      "titulo": "Lei nº 4.891 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4891",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4891",
+      "ementa": "Altera a redação do parágrafo único do art. 32 do Decreto nº 22.239, de 19   de dezembro de 1932, que reforma as disposições do Decreto Legislativo nº 1.637,   de 5 de janeiro de 1907, na parte referente às Cooperativas."
+    },
+    {
+      "senadoId": "546744",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4888",
+      "titulo": "Lei nº 4.888 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4888",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4888",
+      "ementa": "Proíbe o emprêgo da palavra couro em produtos industrializados, e dá outras providências."
+    },
+    {
+      "senadoId": "546753",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4897",
+      "titulo": "Lei nº 4.897 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4897",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4897",
+      "ementa": "Declara Joaquim José da Silva Xavier, o Tiradentes, Patrono da Nação Brasileira."
+    },
+    {
+      "senadoId": "546746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4890",
+      "titulo": "Lei nº 4.890 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4890",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4890",
+      "ementa": "Fixa novos valôres para os símbolos dos cargos e das funções gratificadas   do Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 8º   Região, e dá outras providências."
+    },
+    {
+      "senadoId": "546742",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4886",
+      "titulo": "Lei nº 4.886 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4886",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4886",
+      "ementa": "Regula as atividades dos representantes comerciais autônomos."
+    },
+    {
+      "senadoId": "546749",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4893",
+      "titulo": "Lei nº 4.893 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4893",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4893",
+      "ementa": "Dá nova redação ao art. 91 do Código do Processo Penal (Decreto-Lei número   3.693, de 3 de outubro de 1941)."
+    },
+    {
+      "senadoId": "546740",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-09-4884",
+      "titulo": "Lei nº 4.884 de 09/12/1965",
+      "data": "1965-12-09",
+      "numero": "4884",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4884",
+      "ementa": "Concede à Fundação Nacional do Bem-Estar do Menor o auxílio de Cr$ 6.000.000.000 (seis bilhões de cruzeiros); autoriza a abertura do crédito especial para atender a ;essa finalidade, e dá outras providências."
+    },
+    {
+      "senadoId": "546737",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-06-4881-a",
+      "titulo": "Lei nº 4.881-A de 06/12/1965",
+      "data": "1965-12-06",
+      "numero": "4881-a",
+      "urn": "urn:lex:br:federal:lei:1965-12-06;4881-a",
+      "ementa": "Dispõe sôbre o Estatuto do Magistério Superior."
+    },
+    {
+      "senadoId": "546734",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-03-4879",
+      "titulo": "Lei nº 4.879 de 03/12/1965",
+      "data": "1965-12-03",
+      "numero": "4879",
+      "urn": "urn:lex:br:federal:lei:1965-12-03;4879",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 800.000.000 (oitocentos milhões de   cruzeiros), destinado a obras de complementação de repartições do D.F.S.P, em   Brasília."
+    },
+    {
+      "senadoId": "546736",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-03-4881",
+      "titulo": "Lei nº 4.881 de 03/12/1965",
+      "data": "1965-12-03",
+      "numero": "4881",
+      "urn": "urn:lex:br:federal:lei:1965-12-03;4881",
+      "ementa": "Dispensa a cobrança do impôsto de sêlo em contrato de promessa de compra e   venda firmado entre a Associação Brasileira para o Rearmamento Moral e os   proprietários do \"Sítio São Luiz\" localizado em Petrópolis."
+    },
+    {
+      "senadoId": "546735",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-03-4880",
+      "titulo": "Lei nº 4.880 de 03/12/1965",
+      "data": "1965-12-03",
+      "numero": "4880",
+      "urn": "urn:lex:br:federal:lei:1965-12-03;4880",
+      "ementa": "Isenta do imposto de importação equipamento para tratamento de água   destinado à Companhia de Saneamento do Paraná."
+    },
+    {
+      "senadoId": "546733",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-03-4878",
+      "titulo": "Lei nº 4.878 de 03/12/1965",
+      "data": "1965-12-03",
+      "numero": "4878",
+      "urn": "urn:lex:br:federal:lei:1965-12-03;4878",
+      "ementa": "Dispõe sôbre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal."
+    },
+    {
+      "senadoId": "546727",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4872",
+      "titulo": "Lei nº 4.872 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4872",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4872",
+      "ementa": "Isenta do impôsto de importação o material destindo à Faculdade de   Medicina de Rio Grande e importado pela Fundação Cidade do Rio   Grande."
+    },
+    {
+      "senadoId": "546728",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4873",
+      "titulo": "Lei nº 4.873 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4873",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4873",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Fazenda, o crédito suplementar de Cr$ 600.000.000 (seiscentos milhões de cruzeiros), como refôrço à dotação orçamentária insuficiente destinado ao Departamento do Impôsto de Renda."
+    },
+    {
+      "senadoId": "546729",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4874",
+      "titulo": "Lei nº 4.874 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4874",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4874",
+      "ementa": "Autoriza a doação, ao Hospital Evangélico da Bahia, de um ;lote de terreno, e dá outras providências."
+    },
+    {
+      "senadoId": "546731",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4876",
+      "titulo": "Lei nº 4.876 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4876",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4876",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 5.810.000, para atender às despesas complementares com o comparecimento do Clero brasileiro ao \"Concílio Ecumênico Vaticano II\"."
+    },
+    {
+      "senadoId": "546730",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4875",
+      "titulo": "Lei nº 4.875 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4875",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4875",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Fazenda, o crédito   especial de Cr$ 80.000.000 (oitenta milhões de cruzeiros), destinado a atender   às despesas de viagem e estada no exterior de representantes do aludido   Ministério à reunião do GATT que realizou em Genebra."
+    },
+    {
+      "senadoId": "546726",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4871",
+      "titulo": "Lei nº 4.871 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4871",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4871",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, do crédito especial de Cr$ 74.344.128,10 (setenta e quatro milhões trezentos e quarenta e quatro mil cento e vinte e oito cruzeiros e dez centavos) para o fim que especifica."
+    },
+    {
+      "senadoId": "546732",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-02-4877",
+      "titulo": "Lei nº 4.877 de 02/12/1965",
+      "data": "1965-12-02",
+      "numero": "4877",
+      "urn": "urn:lex:br:federal:lei:1965-12-02;4877",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Fazenda, o crédito suplementar de Cr$ 10.000.000 como refôrço à dotação orçamentária insuficiente destinada à Contadoria-Geral da República."
+    },
+    {
+      "senadoId": "546725",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-01-4870",
+      "titulo": "Lei nº 4.870 de 01/12/1965",
+      "data": "1965-12-01",
+      "numero": "4870",
+      "urn": "urn:lex:br:federal:lei:1965-12-01;4870",
+      "ementa": "Dispõe sôbre a produção açucareira a receita do Instituto do Açúcar e do Álcool e sua aplicação, e dá outras providências."
+    },
+    {
+      "senadoId": "546724",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-12-01-4869",
+      "titulo": "Lei nº 4.869 de 01/12/1965",
+      "data": "1965-12-01",
+      "numero": "4869",
+      "urn": "urn:lex:br:federal:lei:1965-12-01;4869",
+      "ementa": "Aprova o Plano Diretor do Desenvolvimento do Nordeste para os anos de 1966, 1967 e 1968, e dá outras providências. /Há veto/"
+    },
+    {
+      "senadoId": "546720",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-30-4866",
+      "titulo": "Lei nº 4.866 de 30/11/1965",
+      "data": "1965-11-30",
+      "numero": "4866",
+      "urn": "urn:lex:br:federal:lei:1965-11-30;4866",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 120.000.000 (cento e vinte milhões de cruzeiros), para atender às despesas decorrentes da visita ao Brasil do Presidente da República Italiana e da sua comitiva."
+    },
+    {
+      "senadoId": "546719",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-30-4865",
+      "titulo": "Lei nº 4.865 de 30/11/1965",
+      "data": "1965-11-30",
+      "numero": "4865",
+      "urn": "urn:lex:br:federal:lei:1965-11-30;4865",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas do crédito especial de Cr$ 20.500.000.000 (vinte bilhões e quinhentos milhões de cruzeiros), para o fim que menciona."
+    },
+    {
+      "senadoId": "546721",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-30-4867",
+      "titulo": "Lei nº 4.867 de 30/11/1965",
+      "data": "1965-11-30",
+      "numero": "4867",
+      "urn": "urn:lex:br:federal:lei:1965-11-30;4867",
+      "ementa": "Concede a pensão especial de Cr$ 66.000 (sessenta e seis mil cruzeiros)   mensais a Maria de Lourdes Corrêa da Silva, viúva do ex-comandante de Guarnição   da Seção de Bombeiros do GEB, Ademar Corrêa da Silva."
+    },
+    {
+      "senadoId": "546723",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-30-4868-a",
+      "titulo": "Lei nº 4.868-A de 30/11/1965",
+      "data": "1965-11-30",
+      "numero": "4868-a",
+      "urn": "urn:lex:br:federal:lei:1965-11-30;4868-a",
+      "ementa": "Estende a jurisdição das Juntas de Conciliação e Julgamento de Campos e   Nova Friburgo."
+    },
+    {
+      "senadoId": "546722",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-30-4868",
+      "titulo": "Lei nº 4.868 de 30/11/1965",
+      "data": "1965-11-30",
+      "numero": "4868",
+      "urn": "urn:lex:br:federal:lei:1965-11-30;4868",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário créditos suplementares num montante de Cr$ 2.390.859.490 destinados ao refôrço de dotações orçamentárias que discrimina, referentes ao vigente exercício."
+    },
+    {
+      "senadoId": "546718",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-29-4864",
+      "titulo": "Lei nº 4.864 de 29/11/1965",
+      "data": "1965-11-29",
+      "numero": "4864",
+      "urn": "urn:lex:br:federal:lei:1965-11-29;4864",
+      "ementa": "Cria medidas de estímulo à Indústria de Construção Civil."
+    },
+    {
+      "senadoId": "546717",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-29-4863",
+      "titulo": "Lei nº 4.863 de 29/11/1965",
+      "data": "1965-11-29",
+      "numero": "4863",
+      "urn": "urn:lex:br:federal:lei:1965-11-29;4863",
+      "ementa": "Reajusta os vencimentos dos servidores civis e militares, altera as alíquotas dos impostos de renda, importação, consumo e sêlo e da quota de previdência social, unifica contribuições baseadas nas fôlhas de salários, e dá outras providências. /Há veto/"
+    },
+    {
+      "senadoId": "546716",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-29-4862",
+      "titulo": "Lei nº 4.862 de 29/11/1965",
+      "data": "1965-11-29",
+      "numero": "4862",
+      "urn": "urn:lex:br:federal:lei:1965-11-29;4862",
+      "ementa": "Altera a legislação do impôsto de renda, adota diversas medidas de ordem fiscal e fazendária, e dá outras providências."
+    },
+    {
+      "senadoId": "546715",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-26-4861",
+      "titulo": "Lei nº 4.861 de 26/11/1965",
+      "data": "1965-11-26",
+      "numero": "4861",
+      "urn": "urn:lex:br:federal:lei:1965-11-26;4861",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Tribunal de Contas o crédito suplementar de Cr$ 2.166.530.000 (dois bilhões, cento e sessenta e seis milhões, quinhentos e trinta mil cruzeiros) para reforço de dotações que especifica."
+    },
+    {
+      "senadoId": "546714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-26-4860",
+      "titulo": "Lei nº 4.860 de 26/11/1965",
+      "data": "1965-11-26",
+      "numero": "4860",
+      "urn": "urn:lex:br:federal:lei:1965-11-26;4860",
+      "ementa": "Dispõe sôbre o regime de trabalho nos portos organizados, e dá outras providências."
+    },
+    {
+      "senadoId": "546713",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-26-4859",
+      "titulo": "Lei nº 4.859 de 26/11/1965",
+      "data": "1965-11-26",
+      "numero": "4859",
+      "urn": "urn:lex:br:federal:lei:1965-11-26;4859",
+      "ementa": "Revoga a Lei nº 4.127, de 27 de agôsto de 1962, e estabelece normas para prestação do serviço de vigilância portuária por vigias matriculados nas Delegacias do Trabalho Marítimo."
+    },
+    {
+      "senadoId": "546712",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-26-4858",
+      "titulo": "Lei nº 4.858 de 26/11/1965",
+      "data": "1965-11-26",
+      "numero": "4858",
+      "urn": "urn:lex:br:federal:lei:1965-11-26;4858",
+      "ementa": "Dispõe sobre as novas atribuições da Comissão de Marinha Mercante e do Conselho Superior do Trabalho Marítimo, e dá outras providências."
+    },
+    {
+      "senadoId": "546708",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-25-4854",
+      "titulo": "Lei nº 4.854 de 25/11/1965",
+      "data": "1965-11-25",
+      "numero": "4854",
+      "urn": "urn:lex:br:federal:lei:1965-11-25;4854",
+      "ementa": "Modifica o art. 115 da Lei nº 1.711, de 28 de outubro de 1952 (Estatuto dos Funcionários Públicos Civis da União)."
+    },
+    {
+      "senadoId": "546711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-25-4857",
+      "titulo": "Lei nº 4.857 de 25/11/1965",
+      "data": "1965-11-25",
+      "numero": "4857",
+      "urn": "urn:lex:br:federal:lei:1965-11-25;4857",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Comissão Nacional de Energia Nuclear (CNEN), o crédito especial de Cr$ 3.170.703.600 (três bilhões, cento e setenta milhões, setecentos e três mil e seiscentos cruzeiros), para atender ao pagamento das despesas com a desapropriação do acêrvo dos bens pertecentes à Orquima - Indústrias Químicas Reunidas S/A, situados na Capital do Estado de São Paulo, destinados à industrialização da Monazita, Ambliogonita e Zirconita."
+    },
+    {
+      "senadoId": "546709",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-25-4855",
+      "titulo": "Lei nº 4.855 de 25/11/1965",
+      "data": "1965-11-25",
+      "numero": "4855",
+      "urn": "urn:lex:br:federal:lei:1965-11-25;4855",
+      "ementa": "Vincula ao Ministério da Viação e Obras Públicas a Companhia de Navegação   do São Francisco, Sociedade de Economia Mista."
+    },
+    {
+      "senadoId": "546706",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-25-4852",
+      "titulo": "Lei nº 4.852 de 25/11/1965",
+      "data": "1965-11-25",
+      "numero": "4852",
+      "urn": "urn:lex:br:federal:lei:1965-11-25;4852",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Fazenda, o crédito   especial de Cr$ 350.000.000 (trezentos e cinqüenta milhões de cruzeiros), para   atender a despesas com obras em repartições do mesmo Ministério."
+    },
+    {
+      "senadoId": "546710",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-25-4856",
+      "titulo": "Lei nº 4.856 de 25/11/1965",
+      "data": "1965-11-25",
+      "numero": "4856",
+      "urn": "urn:lex:br:federal:lei:1965-11-25;4856",
+      "ementa": "Dispõe sôbre o regime de funções gratificadas na Secretaria de Estado das   Relações Exteriores."
+    },
+    {
+      "senadoId": "546707",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-25-4853",
+      "titulo": "Lei nº 4.853 de 25/11/1965",
+      "data": "1965-11-25",
+      "numero": "4853",
+      "urn": "urn:lex:br:federal:lei:1965-11-25;4853",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Guerra o crédito especial de Cr$ 300.000.000 para atender às despesas da transferência do Regimento de Cavalaria de Guardas - Dragões da Independência - para Brasília."
+    },
+    {
+      "senadoId": "546705",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-24-4851",
+      "titulo": "Lei nº 4.851 de 24/11/1965",
+      "data": "1965-11-24",
+      "numero": "4851",
+      "urn": "urn:lex:br:federal:lei:1965-11-24;4851",
+      "ementa": "Altera o Quadro do Pessoal da Secretaria do Tribunal Superior do Trabalho e dá outras providências. /Há veto/"
+    },
+    {
+      "senadoId": "546699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4845",
+      "titulo": "Lei nº 4.845 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4845",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4845",
+      "ementa": "Proíbe a saída, para o exterior, de obras de arte e ofícios produzidos no País, até o fim do período monárquico."
+    },
+    {
+      "senadoId": "546698",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4844",
+      "titulo": "Lei nº 4.844 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4844",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4844",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 25.000.000 (vinte e cinco milhões de   cruzeiros), para atender às despesas decorrentes da visita ao Brasil do   Presidente da República Popular Federativa da Iugoslávia."
+    },
+    {
+      "senadoId": "546702",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4848",
+      "titulo": "Lei nº 4.848 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4848",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4848",
+      "ementa": "Autoriza o Poder Executivo a abrir, a diversos Órgãos e Ministérios,   créditos especiais num montante de Cr$ 265.347.106 (duzentos e sessenta e cinco   milhões trezentos e quarenta e sete mil cento e seis cruzeiros), destinados a   atender às despesas que especifica."
+    },
+    {
+      "senadoId": "546697",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4843",
+      "titulo": "Lei nº 4.843 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4843",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4843",
+      "ementa": "Autoriza os estabelecimentos Bancários a substituirem, em sua contabilidade, o livro \"Diário\" de escrituração mercantil pelo livro \"Balancetes Diários e Balanços\", cujas características define: atribui eficácia probatória ao lançamento efetuado segundo o sistema de \"fichas de lançamento\", e dá outras providências."
+    },
+    {
+      "senadoId": "546701",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4847",
+      "titulo": "Lei nº 4.847 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4847",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4847",
+      "ementa": "Autoriza a abertura do crédito suplementar de Cr$ 2.280.338.948 ao Ministério da Fazenda, para pagamento do pessoal do Estado do Acre, e dá outras providências."
+    },
+    {
+      "senadoId": "546703",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4849",
+      "titulo": "Lei nº 4.849 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4849",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4849",
+      "ementa": "Autoriza o Poder Executivo ;a abrir, a diversos Órgãos e Ministérios, créditos especiais num montante de Cr$ 15.665.913.118 e suplementares num montante de Cr$ 27.312.000 destinados à regularização de despesas consignadas em orçamentos anteriores."
+    },
+    {
+      "senadoId": "546700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4846",
+      "titulo": "Lei nº 4.846 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4846",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4846",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 58.960.943 (cinqüenta e oito milhões, novecentos e sessenta mil,   novecentos e quarenta e três cruzeiros) para atender a pagamento de vencimentos   e vantagens."
+    },
+    {
+      "senadoId": "546704",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-19-4850",
+      "titulo": "Lei nº 4.850 de 19/11/1965",
+      "data": "1965-11-19",
+      "numero": "4850",
+      "urn": "urn:lex:br:federal:lei:1965-11-19;4850",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 10.000.000 (dez milhões de cruzeiros),   para atender a despesas de qualquer natureza com a realização da Conferência   Conjunta da FAO e da CEPAL."
+    },
+    {
+      "senadoId": "546694",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-18-4840",
+      "titulo": "Lei nº 4.840 de 18/11/1965",
+      "data": "1965-11-18",
+      "numero": "4840",
+      "urn": "urn:lex:br:federal:lei:1965-11-18;4840",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 315.000.000 (trezentos e quinze milhões   de cruzeiros), destinado à Fundação Brasil Central."
+    },
+    {
+      "senadoId": "546696",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-18-4842",
+      "titulo": "Lei nº 4.842 de 18/11/1965",
+      "data": "1965-11-18",
+      "numero": "4842",
+      "urn": "urn:lex:br:federal:lei:1965-11-18;4842",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 15.000.000 para atender às despesas   decorrentes da visita ao Brasil de Governadores Estaduais   norte-americanos."
+    },
+    {
+      "senadoId": "546695",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-18-4841",
+      "titulo": "Lei nº 4.841 de 18/11/1965",
+      "data": "1965-11-18",
+      "numero": "4841",
+      "urn": "urn:lex:br:federal:lei:1965-11-18;4841",
+      "ementa": "Acresce de um parágrafo único o artigo 16 da Lei nº 4.102, de 20 de julho de   1962."
+    },
+    {
+      "senadoId": "546693",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-18-4839",
+      "titulo": "Lei nº 4.839 de 18/11/1965",
+      "data": "1965-11-18",
+      "numero": "4839",
+      "urn": "urn:lex:br:federal:lei:1965-11-18;4839",
+      "ementa": "Dispõe sôbre o alcance da preferência dos créditos de empregados por   salários e indenizações trabalhistas."
+    },
+    {
+      "senadoId": "546692",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-10-4838",
+      "titulo": "Lei nº 4.838 de 10/11/1965",
+      "data": "1965-11-10",
+      "numero": "4838",
+      "urn": "urn:lex:br:federal:lei:1965-11-10;4838",
+      "ementa": "Cria, no Ministério da Aeronáutica, o Quadro de Oficiais Aviadores da Reserva de 2ª Classe, e dá outras providências."
+    },
+    {
+      "senadoId": "546691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-10-4837",
+      "titulo": "Lei nº 4.837 de 10/11/1965",
+      "data": "1965-11-10",
+      "numero": "4837",
+      "urn": "urn:lex:br:federal:lei:1965-11-10;4837",
+      "ementa": "Autoriza o Poder Executivo a abrir, através do Ministério da Marinha, o   crédito especial de Cr$ 300.000.000 (trezentos milhões de cruzeiros), destinado   à construção, organização e instalação do Centro de Instrução de Marítimos   \"Almirante Graça Aranha\"."
+    },
+    {
+      "senadoId": "546690",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-09-4836",
+      "titulo": "Lei nº 4.836 de 09/11/1965",
+      "data": "1965-11-09",
+      "numero": "4836",
+      "urn": "urn:lex:br:federal:lei:1965-11-09;4836",
+      "ementa": "Autoriza a abertura, pela Secretaria de Educação e Cultura da Prefeitura do Distrito Federal, do crédito especial de Cr$ 1.750.000.000 (um bilhão e ;setecentos e cinqüenta milhões de cruzeiros), para auxílio à Fundação Educacional do Distrito Federal."
+    },
+    {
+      "senadoId": "546689",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-09-4835",
+      "titulo": "Lei nº 4.835 de 09/11/1965",
+      "data": "1965-11-09",
+      "numero": "4835",
+      "urn": "urn:lex:br:federal:lei:1965-11-09;4835",
+      "ementa": "Autoriza a abertura, pela Secretaria de Finanças da Prefeitura do Distrito Federal, do crédito especial de Cr$ 619.790.191 (seiscentos e dezenove milhões, setecentos e noventa mil, cento e noventa e ; um cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546688",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-09-4834",
+      "titulo": "Lei nº 4.834 de 09/11/1965",
+      "data": "1965-11-09",
+      "numero": "4834",
+      "urn": "urn:lex:br:federal:lei:1965-11-09;4834",
+      "ementa": "Autoriza a abertura, pela Secretaria de Finanças da Prefeitura do Distrito Federal, do crédito especial de Cr$ 200.000.000 (duzentos milhões de cruzeiros), para auxílio às obras do Estádio de Brasília."
+    },
+    {
+      "senadoId": "546685",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4831",
+      "titulo": "Lei nº 4.831 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4831",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4831",
+      "ementa": "Dispõe sôbre as novas denominações das Universidades Federais das cidades   do Rio de Janeiro e de Niterói."
+    },
+    {
+      "senadoId": "546680",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4826",
+      "titulo": "Lei nº 4.826 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4826",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4826",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 20.000.000 (vinte milhões de cruzeiros) para ocorrer às   despesas com a aquisição de imóvel em Rezende, Estado do Rio de Janeiro,   destinado à instalação da Exatoria Federal naquela cidade."
+    },
+    {
+      "senadoId": "546679",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4825",
+      "titulo": "Lei nº 4.825 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4825",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4825",
+      "ementa": "Acresce de um parágrafo o artigo 483, da Consolidação das Leis do   Trabalho."
+    },
+    {
+      "senadoId": "546686",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4832",
+      "titulo": "Lei nº 4.832 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4832",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4832",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o crédito especial de Cr$ 508.500.000,00 (quinhentos e oito milhões e quinhentos mil cruzeiros), destinado a atender a despesas com a restauração e adptação de vários aeroportos."
+    },
+    {
+      "senadoId": "546682",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4828",
+      "titulo": "Lei nº 4.828 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4828",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4828",
+      "ementa": "Modifica, sem aumento de despesas, distribuição de dotações consignadas na Lei nº 4.539, de 10 de dezembro de 1964, na parte que se refere ao subanexo do Conselho Nacional de Telecomunicações."
+    },
+    {
+      "senadoId": "546687",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4833",
+      "titulo": "Lei nº 4.833 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4833",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4833",
+      "ementa": "Concede pensão mensal especial vitalícia a Dona Adelina   Fernandes."
+    },
+    {
+      "senadoId": "546684",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4830",
+      "titulo": "Lei nº 4.830 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4830",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4830",
+      "ementa": "Prorroga, até 31 de dezembro de 1967, a suspensão da cobrança das taxas   aeroportuárias aplicadas às aeronaves das emprêsas brasileiras na execução de   suas linhas domésticas."
+    },
+    {
+      "senadoId": "546683",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4829",
+      "titulo": "Lei nº 4.829 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4829",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4829",
+      "ementa": "Institucionaliza o crédito rural."
+    },
+    {
+      "senadoId": "546678",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4824",
+      "titulo": "Lei nº 4.824 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4824",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4824",
+      "ementa": "Altera o § 1º do art. 475, da Consolidação das Leis do   Trabalho."
+    },
+    {
+      "senadoId": "546681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-05-4827",
+      "titulo": "Lei nº 4.827 de 05/11/1965",
+      "data": "1965-11-05",
+      "numero": "4827",
+      "urn": "urn:lex:br:federal:lei:1965-11-05;4827",
+      "ementa": "Concede pensão especial ao cidadão inglês Henry Philip Brotherton Dye,   servidor da Delegacia do Tesouro Brasileiro no Exterior."
+    },
+    {
+      "senadoId": "546677",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-11-04-4823",
+      "titulo": "Lei nº 4.823 de 04/11/1965",
+      "data": "1965-11-04",
+      "numero": "4823",
+      "urn": "urn:lex:br:federal:lei:1965-11-04;4823",
+      "ementa": "Concede isenção do impôsto de importação e de taxas aduaneiras para   materiais a serem importados pela Rádio Santana Limitada, de Anápolis, Estado de   Goiás e dá outras providências."
+    },
+    {
+      "senadoId": "546675",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-29-4821",
+      "titulo": "Lei nº 4.821 de 29/10/1965",
+      "data": "1965-10-29",
+      "numero": "4821",
+      "urn": "urn:lex:br:federal:lei:1965-10-29;4821",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Sêcas a aplicar até 5%   (cinco por cento) de seu orçamento anual, em crédito rotativo destinado a   operações de revenda."
+    },
+    {
+      "senadoId": "546671",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-29-4817",
+      "titulo": "Lei nº 4.817 de 29/10/1965",
+      "data": "1965-10-29",
+      "numero": "4817",
+      "urn": "urn:lex:br:federal:lei:1965-10-29;4817",
+      "ementa": "Acrescenta parágrafo ao art. 33 da Lei nº 3.820, de 11 de novembro de   1960, que cria o Conselho Federal e os Conselhos Regionais de Farmácia, e dá   outras providências."
+    },
+    {
+      "senadoId": "546673",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-29-4819",
+      "titulo": "Lei nº 4.819 de 29/10/1965",
+      "data": "1965-10-29",
+      "numero": "4819",
+      "urn": "urn:lex:br:federal:lei:1965-10-29;4819",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 6.749.890 (seis milhões, setecentos e   quarenta e nove mil, oitocentos e noventa cruzeiros), para regularização de   despesas decorrentes da visita ao Brasil de personalidades ilustres   estrangeiras, no exercício de 1960."
+    },
+    {
+      "senadoId": "546672",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-29-4818",
+      "titulo": "Lei nº 4.818 de 29/10/1965",
+      "data": "1965-10-29",
+      "numero": "4818",
+      "urn": "urn:lex:br:federal:lei:1965-10-29;4818",
+      "ementa": "Estende aos demais servidores federais de orgãos transferidos ao Estado da   Guanabara, em virtude da Lei número 3.752, de 14 de abril de 1960, os benefícios   do art. 46 e seus parágrafos, da Lei nº 4.242, de 17 de julho de   1963."
+    },
+    {
+      "senadoId": "546674",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-29-4820",
+      "titulo": "Lei nº 4.820 de 29/10/1965",
+      "data": "1965-10-29",
+      "numero": "4820",
+      "urn": "urn:lex:br:federal:lei:1965-10-29;4820",
+      "ementa": "Dá nova redação ao item 85-28, alínea 004, da Seção XVI, da Tarifa que acompanha a Lei nº 3.244, de 14 de agôsto de 1957."
+    },
+    {
+      "senadoId": "546676",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-29-4822",
+      "titulo": "Lei nº 4.822 de 29/10/1965",
+      "data": "1965-10-29",
+      "numero": "4822",
+      "urn": "urn:lex:br:federal:lei:1965-10-29;4822",
+      "ementa": "Estabelece princípios, condições e critérios básicos para as promoções dos Oficiais da Marinha do Brasil."
+    },
+    {
+      "senadoId": "546669",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-26-4815",
+      "titulo": "Lei nº 4.815 de 26/10/1965",
+      "data": "1965-10-26",
+      "numero": "4815",
+      "urn": "urn:lex:br:federal:lei:1965-10-26;4815",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 201.591.171,50, para o fim que   especifica."
+    },
+    {
+      "senadoId": "546670",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-26-4816",
+      "titulo": "Lei nº 4.816 de 26/10/1965",
+      "data": "1965-10-26",
+      "numero": "4816",
+      "urn": "urn:lex:br:federal:lei:1965-10-26;4816",
+      "ementa": "Cria, na Justiça do Trabalho da 3ª Região, duas Juntas de Conciliação e Julgamento, com sede em Brasília, Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "546668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4814",
+      "titulo": "Lei nº 4.814 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4814",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4814",
+      "ementa": "Altera, sem aumento de despesa, o Orçamento Geral da União para 1965."
+    },
+    {
+      "senadoId": "546664",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4810",
+      "titulo": "Lei nº 4.810 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4810",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4810",
+      "ementa": "Transfere cargo do Quadro I - Parte Permanente - do Ministério da Viação e   Obras Públicas para o Quadro do Pessoal do Ministério da Fazenda."
+    },
+    {
+      "senadoId": "546666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4812",
+      "titulo": "Lei nº 4.812 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4812",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4812",
+      "ementa": "Concede pensão especial a Dª. Hermínia Furtado Reis."
+    },
+    {
+      "senadoId": "546667",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4813",
+      "titulo": "Lei nº 4.813 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4813",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4813",
+      "ementa": "Inclui, no Quadro de Pessoal da Polícia do Distrito Federal, criada pela Lei nº 4.483, de 16 de novembro de 1964, o Grupo Ocupacional PM-400 - Policiamento Ostensivo, e dá outras providências."
+    },
+    {
+      "senadoId": "546662",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4808",
+      "titulo": "Lei nº 4.808 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4808",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4808",
+      "ementa": "Dá nova redação ao art. 3º da Lei nº 4.563, de 11 de dezembro de 1964, que \"institui o Conselho Nacional de Transportes e dá outras providências."
+    },
+    {
+      "senadoId": "546665",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4811",
+      "titulo": "Lei nº 4.811 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4811",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4811",
+      "ementa": "Concede pensão mensal a Dona Maria Luiza Vitória Ruy Barbosa Guerra."
+    },
+    {
+      "senadoId": "546663",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-25-4809",
+      "titulo": "Lei nº 4.809 de 25/10/1965",
+      "data": "1965-10-25",
+      "numero": "4809",
+      "urn": "urn:lex:br:federal:lei:1965-10-25;4809",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 191.364.240,00 (cento e noventa e um   milhões, trezentos e sessenta e quatro mil, duzentos e quarenta cruzeiros), para   atender às despesas com o comparecimento do Episcopado brasileiro à Quarta   Sessão do Concílio Ecumêncio Vaticano II."
+    },
+    {
+      "senadoId": "546661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-21-4807",
+      "titulo": "Lei nº 4.807 de 21/10/1965",
+      "data": "1965-10-21",
+      "numero": "4807",
+      "urn": "urn:lex:br:federal:lei:1965-10-21;4807",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Superior   Eleitoral - o crédito especial de Cr$ 519.550 (quinhentos e dezenove mil,   quinhentos e cinqüenta cruzeiros), para atender a despesas efetuadas com a   realização de eleições em 1963 e 1964."
+    },
+    {
+      "senadoId": "546645",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4791",
+      "titulo": "Lei nº 4.791 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4791",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4791",
+      "ementa": "Fixa novos valôres para os símbolos dos cargos e das funções gratificadas do Quadro do Pessoal da Secretaria do Tribunal Regional do Trabalho da 5ª Região, e dá outras providências. /Há veto/"
+    },
+    {
+      "senadoId": "546649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4795",
+      "titulo": "Lei nº 4.795 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4795",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4795",
+      "ementa": "Modifica, sem aumento de depesas, distribuição de dotações consignadas na Lei nº 4.539, de 10 de dezembro de 1964."
+    },
+    {
+      "senadoId": "546646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4792",
+      "titulo": "Lei nº 4.792 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4792",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4792",
+      "ementa": "Autoriza a abertura do crédito especial de Cr$ 200.000.000   (duzentos milhões de cruzeiros) à Superintendência do Plano de Valorização Econômica da   Amazônia, para atender a despesas que especifica."
+    },
+    {
+      "senadoId": "546652",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4798",
+      "titulo": "Lei nº 4.798 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4798",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4798",
+      "ementa": "Concede, pelo prazo de 2 (dois) anos, isenção dos impostos e taxas   que menciona, aos materias importados, para uso próprio, pelos bancos oficiais   dos Estados, e dá outras providências."
+    },
+    {
+      "senadoId": "546656",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4802",
+      "titulo": "Lei nº 4.802 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4802",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4802",
+      "ementa": "Determina a sede e o fôro da Administração do Pôrto do Rio de Janeiro e dá   outras providências."
+    },
+    {
+      "senadoId": "546648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4794",
+      "titulo": "Lei nº 4.794 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4794",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4794",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 120.000.000 (cento e vinte milhões de   cruzeiros), para atender às despesas com a visita ao Brasil, em caráter oficial,   de Suas Altezas Reais o Grão-Duque e a Grã-Duquesa de Luxemburgo."
+    },
+    {
+      "senadoId": "546659",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4805",
+      "titulo": "Lei nº 4.805 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4805",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4805",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral - Tribunal Superior Eleitoral o crédito suplementar de Cr$ 456.950.000, em refôrço à dotação do Orçamento vigente (Lei nº 4.539, de 10 de dezembro de 1964)."
+    },
+    {
+      "senadoId": "546644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4790",
+      "titulo": "Lei nº 4.790 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4790",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4790",
+      "ementa": "Fixa novos valôres dos símbolos do Quadro do Pessoal da Secretaria do Tribunal Regional do Trabalho da 6ª Região, e dá outras providências. /Há veto/"
+    },
+    {
+      "senadoId": "546651",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4797",
+      "titulo": "Lei nº 4.797 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4797",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4797",
+      "ementa": "Torna obrigatório, pelas empresas concessionárias de serviços públicos, o   emprego de madeiras preservadas e dá outras providências."
+    },
+    {
+      "senadoId": "546658",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4804",
+      "titulo": "Lei nº 4.804 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4804",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4804",
+      "ementa": "Dispõe sôbre demolições e reconstruções de benfeitorias, em próprio nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "546655",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4801",
+      "titulo": "Lei nº 4.801 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4801",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4801",
+      "ementa": "Altera dispositivo do Decreto-Lei número 1.995, de 1º de fevereiro de 1940, que fixa a tarifa geral para os serviços dos Correios e Telegráfos."
+    },
+    {
+      "senadoId": "546647",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4793",
+      "titulo": "Lei nº 4.793 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4793",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4793",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Marinha, o crédito especial de Cr$ 400.000.000 (Quatrocentos milhões de cruzeiros) para atender a despesas com reparos de navios."
+    },
+    {
+      "senadoId": "546653",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4799",
+      "titulo": "Lei nº 4.799 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4799",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4799",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral - Tribunais Regionais Eleitorais - o crédito suplementar de Cr$ 6.438.130.186,00, em reforço a dotações do Orçamento vigente (Lei número 4.539, de 10 de dezembro de 1964)."
+    },
+    {
+      "senadoId": "546650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4796",
+      "titulo": "Lei nº 4.796 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4796",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4796",
+      "ementa": "Altera, sem ônus, a Lei nº 4.539, de 10 de dezembro de 1964 que estima a   Receita e fixa a Despesa da União para o exercício financeiro de   1965."
+    },
+    {
+      "senadoId": "546654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4800",
+      "titulo": "Lei nº 4.800 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4800",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4800",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito suplementar de Cr$ 8.700.000.000 à categoria econômica 3.2.00 - Transferências Correntes, do Anexo 4.21.00 - Ministério da Saúde - 06 - Departamento de Administração (Lei número 4.539, de 10 de dezembro de 1964)."
+    },
+    {
+      "senadoId": "546657",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4803",
+      "titulo": "Lei nº 4.803 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4803",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4803",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, o crédito especial de Cr$   820.000.000,00 (oitocentos e vinte milhões de cruzeiros) para ocorrer às   despesas com a mudança da Delegacia Fiscal de São Paulo para o Edifìcio Cibraço."
+    },
+    {
+      "senadoId": "546660",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-20-4806",
+      "titulo": "Lei nº 4.806 de 20/10/1965",
+      "data": "1965-10-20",
+      "numero": "4806",
+      "urn": "urn:lex:br:federal:lei:1965-10-20;4806",
+      "ementa": "Extingue a Divisão de Cooperativismo e Organização Rural do Departamento   de Promoção Agropecuária do Ministério da Agricultura, transfere atribuições, e   dá outras providências."
+    },
+    {
+      "senadoId": "546643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-14-4789",
+      "titulo": "Lei nº 4.789 de 14/10/1965",
+      "data": "1965-10-14",
+      "numero": "4789",
+      "urn": "urn:lex:br:federal:lei:1965-10-14;4789",
+      "ementa": "Dispõe sôbre o Serviço Nacional de Recenseamento e dá outras   providências."
+    },
+    {
+      "senadoId": "546642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-13-4788",
+      "titulo": "Lei nº 4.788 de 13/10/1965",
+      "data": "1965-10-13",
+      "numero": "4788",
+      "urn": "urn:lex:br:federal:lei:1965-10-13;4788",
+      "ementa": "Autoriza a abertura de créditos especiais, no montante de Cr$ 4.269.970.880 (quatro bilhões, duzentos e sessenta e nove milhões, novecentos e setenta mil, oitocentos e oitenta cruzeiros), a diversos Ministérios, ao Poder Judiciário e ao Tribunal de Contas da União."
+    },
+    {
+      "senadoId": "546641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-06-4787",
+      "titulo": "Lei nº 4.787 de 06/10/1965",
+      "data": "1965-10-06",
+      "numero": "4787",
+      "urn": "urn:lex:br:federal:lei:1965-10-06;4787",
+      "ementa": "Autoriza a abertura do crédito suplementar, pelo Ministério da Fazenda, de   Cr$ 292.468.000 e torna inaplicável igual montante no Orçamento vigente, em   dotações que especifica."
+    },
+    {
+      "senadoId": "546639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-06-4785",
+      "titulo": "Lei nº 4.785 de 06/10/1965",
+      "data": "1965-10-06",
+      "numero": "4785",
+      "urn": "urn:lex:br:federal:lei:1965-10-06;4785",
+      "ementa": "Dispõe sôbre a fiscalização do comércio e uso de produtos fitossanitários e dá outras providências."
+    },
+    {
+      "senadoId": "546640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-10-06-4786",
+      "titulo": "Lei nº 4.786 de 06/10/1965",
+      "data": "1965-10-06",
+      "numero": "4786",
+      "urn": "urn:lex:br:federal:lei:1965-10-06;4786",
+      "ementa": "Concede isenção de impostos para importação de bens destinados ao   desenvolvimento da indústria mecânica de precisão."
+    },
+    {
+      "senadoId": "546635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-28-4782",
+      "titulo": "Lei nº 4.782 de 28/09/1965",
+      "data": "1965-09-28",
+      "numero": "4782",
+      "urn": "urn:lex:br:federal:lei:1965-09-28;4782",
+      "ementa": "Autoriza a abertura de crédito especial especial de Cr$ 11.283.990.500 (   onze bilhões, duzentos e oitenta e três milhões, novecentos e noventa mil e   quinhentos cruzeiros ) ao Ministério da Agricultura, para o fim que   especifica."
+    },
+    {
+      "senadoId": "546637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-28-4783",
+      "titulo": "Lei nº 4.783 de 28/09/1965",
+      "data": "1965-09-28",
+      "numero": "4783",
+      "urn": "urn:lex:br:federal:lei:1965-09-28;4783",
+      "ementa": "Autoriza a abertura ao Ministério da Justiça e Negócios Interiores de   crédito especial para o custeio dos vencimentos e vantagens dos servidores da   Fundação Brasil Central."
+    },
+    {
+      "senadoId": "546634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-28-4781",
+      "titulo": "Lei nº 4.781 de 28/09/1965",
+      "data": "1965-09-28",
+      "numero": "4781",
+      "urn": "urn:lex:br:federal:lei:1965-09-28;4781",
+      "ementa": "Concede isenção de licença de importação, tributos e emolumentos   consulares para donativos destinados às obras de assistência social, mantidas   pela Sociedade das Obras Sociais e Educativas - Estado da Bahia."
+    },
+    {
+      "senadoId": "546638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-28-4784",
+      "titulo": "Lei nº 4.784 de 28/09/1965",
+      "data": "1965-09-28",
+      "numero": "4784",
+      "urn": "urn:lex:br:federal:lei:1965-09-28;4784",
+      "ementa": "Define a competência dos Estados para a cobrança do impôsto sôbre vendas e consignações."
+    },
+    {
+      "senadoId": "546632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-28-4779",
+      "titulo": "Lei nº 4.779 de 28/09/1965",
+      "data": "1965-09-28",
+      "numero": "4779",
+      "urn": "urn:lex:br:federal:lei:1965-09-28;4779",
+      "ementa": "Retifica, sem aumento de despesa, a Lei nº 4.539, de 10 de dezembro de   1964, que estima a receita e fixa a despesa para o exercício financeiro de   1965."
+    },
+    {
+      "senadoId": "546633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-28-4780",
+      "titulo": "Lei nº 4.780 de 28/09/1965",
+      "data": "1965-09-28",
+      "numero": "4780",
+      "urn": "urn:lex:br:federal:lei:1965-09-28;4780",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 100.000.000 (cem milhões de cruzeiros)   para atender às despesas decorrentes do reajustamento da contribuição brasileira   ao Fundo Especial de Assistência para o Desenvolvimento."
+    },
+    {
+      "senadoId": "546629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-22-4776",
+      "titulo": "Lei nº 4.776 de 22/09/1965",
+      "data": "1965-09-22",
+      "numero": "4776",
+      "urn": "urn:lex:br:federal:lei:1965-09-22;4776",
+      "ementa": "Abre, pelo Ministério da Saúde, o crédito especial de Cr$ 2.500.000.000   (dois bilhões e quinhentos milhões de cruzeiros), destinado ao combate à   malária."
+    },
+    {
+      "senadoId": "546628",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-22-4775",
+      "titulo": "Lei nº 4.775 de 22/09/1965",
+      "data": "1965-09-22",
+      "numero": "4775",
+      "urn": "urn:lex:br:federal:lei:1965-09-22;4775",
+      "ementa": "Prorroga o prazo estabelecido no art. 2º da Lei nº 2.341, de 22 de novembro de 1954, que autoriza o Poder Executivo a financiar operações imobiliárias realizadas pelo Clube Naval."
+    },
+    {
+      "senadoId": "546630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-22-4777",
+      "titulo": "Lei nº 4.777 de 22/09/1965",
+      "data": "1965-09-22",
+      "numero": "4777",
+      "urn": "urn:lex:br:federal:lei:1965-09-22;4777",
+      "ementa": "Estende à Comarca de São Vicente à Jurisdição da Junta de Conciliação e   Julgamento de Santos, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "546631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-22-4778",
+      "titulo": "Lei nº 4.778 de 22/09/1965",
+      "data": "1965-09-22",
+      "numero": "4778",
+      "urn": "urn:lex:br:federal:lei:1965-09-22;4778",
+      "ementa": "Dispõe sôbre a obrigatoriedade de serem ouvidas as autoridades florestais   na aprovação de plantas e planos de loteamento para venda de terrenos em   prestações."
+    },
+    {
+      "senadoId": "546624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-15-4771",
+      "titulo": "Lei nº 4.771 de 15/09/1965",
+      "data": "1965-09-15",
+      "numero": "4771",
+      "urn": "urn:lex:br:federal:lei:1965-09-15;4771",
+      "ementa": "Institui o novo Código Florestal."
+    },
+    {
+      "senadoId": "546625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-15-4772",
+      "titulo": "Lei nº 4.772 de 15/09/1965",
+      "data": "1965-09-15",
+      "numero": "4772",
+      "urn": "urn:lex:br:federal:lei:1965-09-15;4772",
+      "ementa": "Dispõe sôbre a transferência de cargos e dos respectivos servidores do   Escritório técnico da Cidade Universitária, da Universidade do Brasil, para o   Quadro do Pessoal - Parte Permanente, do Departamento Administrativo do Serviço   Público e vice-versa, e dá outras providências."
+    },
+    {
+      "senadoId": "546623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-15-4770",
+      "titulo": "Lei nº 4.770 de 15/09/1965",
+      "data": "1965-09-15",
+      "numero": "4770",
+      "urn": "urn:lex:br:federal:lei:1965-09-15;4770",
+      "ementa": "Dispõe sôbre a assistência financeira do Govêrno Federal a Estados e Municípios e dá outras providências."
+    },
+    {
+      "senadoId": "546626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-15-4773",
+      "titulo": "Lei nº 4.773 de 15/09/1965",
+      "data": "1965-09-15",
+      "numero": "4773",
+      "urn": "urn:lex:br:federal:lei:1965-09-15;4773",
+      "ementa": "Autoriza o Poder Executivo a abrir, através do Ministério da Fazenda, o crédito especial de Cr$ 5.000.000.000 (cinco bilhões de cruzeiros), destinado a atender às despesas decorrentes da participação da União na constituição do capital da Emprêsa Brasileira de Telecomunicações."
+    },
+    {
+      "senadoId": "546627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-15-4774",
+      "titulo": "Lei nº 4.774 de 15/09/1965",
+      "data": "1965-09-15",
+      "numero": "4774",
+      "urn": "urn:lex:br:federal:lei:1965-09-15;4774",
+      "ementa": "Concede pensão especial a Paulo Soares, ex-servidor do Ministério da Guerra."
+    },
+    {
+      "senadoId": "546622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-09-4769",
+      "titulo": "Lei nº 4.769 de 09/09/1965",
+      "data": "1965-09-09",
+      "numero": "4769",
+      "urn": "urn:lex:br:federal:lei:1965-09-09;4769",
+      "ementa": "Dispõe sobre o exercício da profissão de Técnico de Administração, e dá outras providências."
+    },
+    {
+      "senadoId": "546621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-09-03-4768",
+      "titulo": "Lei nº 4.768 de 03/09/1965",
+      "data": "1965-09-03",
+      "numero": "4768",
+      "urn": "urn:lex:br:federal:lei:1965-09-03;4768",
+      "ementa": "Isenta de todos os impostos e taxas federais a Fundação Bienal de São   Paulo."
+    },
+    {
+      "senadoId": "546615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-30-4762",
+      "titulo": "Lei nº 4.762 de 30/08/1965",
+      "data": "1965-08-30",
+      "numero": "4762",
+      "urn": "urn:lex:br:federal:lei:1965-08-30;4762",
+      "ementa": "Modifica o art. 11 e seus parágrafos da Lei nº 1.493, de 13 de dezembro de 1951, alterados pela Lei nº 2.266, de 12 de julho de 1954, e dá outras providências."
+    },
+    {
+      "senadoId": "546618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-30-4765",
+      "titulo": "Lei nº 4.765 de 30/08/1965",
+      "data": "1965-08-30",
+      "numero": "4765",
+      "urn": "urn:lex:br:federal:lei:1965-08-30;4765",
+      "ementa": "Aplica disposições das Leis ns. 2.370, de 9 de dezembro de 1954 e 3.765, de   4 de maio de 1960, aos Oficiais Engenheiros da Reserva de 2ª Classe da   Aeronáutica convocados para o serviço ativo."
+    },
+    {
+      "senadoId": "546620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-30-4767",
+      "titulo": "Lei nº 4.767 de 30/08/1965",
+      "data": "1965-08-30",
+      "numero": "4767",
+      "urn": "urn:lex:br:federal:lei:1965-08-30;4767",
+      "ementa": "Promove os Militares Veteranos da Segunda Guerra Mundial, licenciados do serviço ativo e incluídos na reserva não remunerada."
+    },
+    {
+      "senadoId": "546617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-30-4764",
+      "titulo": "Lei nº 4.764 de 30/08/1965",
+      "data": "1965-08-30",
+      "numero": "4764",
+      "urn": "urn:lex:br:federal:lei:1965-08-30;4764",
+      "ementa": "Concede a inclusão da Escola de Serviço Social, anexa à Pontifícia   Universidade Católica do Rio de Janeiro, entre os estabelecimentos   subvencionados pelo Govêrno Federal."
+    },
+    {
+      "senadoId": "546616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-30-4763",
+      "titulo": "Lei nº 4.763 de 30/08/1965",
+      "data": "1965-08-30",
+      "numero": "4763",
+      "urn": "urn:lex:br:federal:lei:1965-08-30;4763",
+      "ementa": "Inclui, no Polígono das Sêcas, o Município de Vitória da Conquista, no   Estado da Bahia e dá outras providências."
+    },
+    {
+      "senadoId": "546619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-30-4766",
+      "titulo": "Lei nº 4.766 de 30/08/1965",
+      "data": "1965-08-30",
+      "numero": "4766",
+      "urn": "urn:lex:br:federal:lei:1965-08-30;4766",
+      "ementa": "Dispõe sôbre a elaboração de um Plano Diretor Regional, ao qual ficará   subordinada a utilização das áreas que constituem o Distrito Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "546614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-23-4761",
+      "titulo": "Lei nº 4.761 de 23/08/1965",
+      "data": "1965-08-23",
+      "numero": "4761",
+      "urn": "urn:lex:br:federal:lei:1965-08-23;4761",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Estado Maior das Fôrças Armadas e   aos Ministérios Militares o crédito especial de Cr$ 6.400.000.000 para atender a   despesas com o Destacamento Brasileiro da Fôrça Armada Interamericana ( FAIBRÁS   )."
+    },
+    {
+      "senadoId": "546613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-23-4760",
+      "titulo": "Lei nº 4.760 de 23/08/1965",
+      "data": "1965-08-23",
+      "numero": "4760",
+      "urn": "urn:lex:br:federal:lei:1965-08-23;4760",
+      "ementa": "Estende aos guardas-civis dos Estados e Territórios o benefício previsto no art. 295 do Código de Processo Penal."
+    },
+    {
+      "senadoId": "546612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-20-4759",
+      "titulo": "Lei nº 4.759 de 20/08/1965",
+      "data": "1965-08-20",
+      "numero": "4759",
+      "urn": "urn:lex:br:federal:lei:1965-08-20;4759",
+      "ementa": "Dispõe sôbre a denominação e qualificação das Universidades e Escolas Técnicas Federais."
+    },
+    {
+      "senadoId": "546611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-19-4758",
+      "titulo": "Lei nº 4.758 de 19/08/1965",
+      "data": "1965-08-19",
+      "numero": "4758",
+      "urn": "urn:lex:br:federal:lei:1965-08-19;4758",
+      "ementa": "Altera dispositivos da Lei n° 4.539, de 10 de dezembro de 1964, que aprovou o Orçamento Geral da União para o exercício de 1965."
+    },
+    {
+      "senadoId": "546607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-18-4754",
+      "titulo": "Lei nº 4.754 de 18/08/1965",
+      "data": "1965-08-18",
+      "numero": "4754",
+      "urn": "urn:lex:br:federal:lei:1965-08-18;4754",
+      "ementa": "Retifica vários dispositivos da Lei número 4.375, de 17 de agôsto de 1964 (Lei do Serviço Militar)."
+    },
+    {
+      "senadoId": "546610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-18-4757",
+      "titulo": "Lei nº 4.757 de 18/08/1965",
+      "data": "1965-08-18",
+      "numero": "4757",
+      "urn": "urn:lex:br:federal:lei:1965-08-18;4757",
+      "ementa": "Concede isenção de direitos de importação, mais taxas aduaneiras e impôsto   de consumo para materiais importados pela S.A. Rádio Tupi, com sede no Estado da   Guanabara."
+    },
+    {
+      "senadoId": "546609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-18-4756",
+      "titulo": "Lei nº 4.756 de 18/08/1965",
+      "data": "1965-08-18",
+      "numero": "4756",
+      "urn": "urn:lex:br:federal:lei:1965-08-18;4756",
+      "ementa": "Concede isenção de impostos, taxa e emolumentos para um automóvel doado a   Edson Arantes do Nascimento pela firma \"Auto Hennekg\", de München,   Alemanha."
+    },
+    {
+      "senadoId": "546608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-18-4755",
+      "titulo": "Lei nº 4.755 de 18/08/1965",
+      "data": "1965-08-18",
+      "numero": "4755",
+      "urn": "urn:lex:br:federal:lei:1965-08-18;4755",
+      "ementa": "Dispõe sôbre a forma de fixação do impôsto sindical devido pelos   estabelecimentos rurais e dá outras providências."
+    },
+    {
+      "senadoId": "546605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-13-4752",
+      "titulo": "Lei nº 4.752 de 13/08/1965",
+      "data": "1965-08-13",
+      "numero": "4752",
+      "urn": "urn:lex:br:federal:lei:1965-08-13;4752",
+      "ementa": "Revigora o art. 40 da Lei nº 4.229, de 1º de junho de 1963, que autorizou o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de até Cr$ 100.000.000 (cem milhões de cruzeiros), para o fim que menciona."
+    },
+    {
+      "senadoId": "546606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-13-4753",
+      "titulo": "Lei nº 4.753 de 13/08/1965",
+      "data": "1965-08-13",
+      "numero": "4753",
+      "urn": "urn:lex:br:federal:lei:1965-08-13;4753",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 60.000.000 ( sessenta milhões de cruzeiros   ), para atender às despesas com a realização da VIII Bienal de São   Paulo."
+    },
+    {
+      "senadoId": "546602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-12-4749",
+      "titulo": "Lei nº 4.749 de 12/08/1965",
+      "data": "1965-08-12",
+      "numero": "4749",
+      "urn": "urn:lex:br:federal:lei:1965-08-12;4749",
+      "ementa": "Dispõe sôbre o pagamento da gratificação prevista na Lei nº 4.090, de 13 de   julho de 1962."
+    },
+    {
+      "senadoId": "546604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-12-4751",
+      "titulo": "Lei nº 4.751 de 12/08/1965",
+      "data": "1965-08-12",
+      "numero": "4751",
+      "urn": "urn:lex:br:federal:lei:1965-08-12;4751",
+      "ementa": "Autoriza a abertura do crédito especial de Cr$ 200.000.000 ( duzentos   milhões de cruzeiros ), ao Ministério da Justiça e Negócios Interiores, para   atender a despesas com o Território Federal do Amapá, referentes a exercícios   anteriores."
+    },
+    {
+      "senadoId": "546603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-12-4750",
+      "titulo": "Lei nº 4.750 de 12/08/1965",
+      "data": "1965-08-12",
+      "numero": "4750",
+      "urn": "urn:lex:br:federal:lei:1965-08-12;4750",
+      "ementa": "Dispõe sôbre financiamento de papel de imprensa, cria o Grupo Executivo da Indústria do Livro - GEIL - e dá outras providências."
+    },
+    {
+      "senadoId": "546601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-11-4748",
+      "titulo": "Lei nº 4.748 de 11/08/1965",
+      "data": "1965-08-11",
+      "numero": "4748",
+      "urn": "urn:lex:br:federal:lei:1965-08-11;4748",
+      "ementa": "Concede pensão especial a ex-aluno da Escola Técnico-Profissional   \"Almirante Ferraz\" do Centro de Armamento da Marinha, do Ministério da   Marinha."
+    },
+    {
+      "senadoId": "546600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-08-11-4747",
+      "titulo": "Lei nº 4.747 de 11/08/1965",
+      "data": "1965-08-11",
+      "numero": "4747",
+      "urn": "urn:lex:br:federal:lei:1965-08-11;4747",
+      "ementa": "Concede a pensão especial de Cr$ 33.000 ( trinta e três mil cruzeiros )   mensais à viúva e filhas de Manoel Gomes da Silva."
+    },
+    {
+      "senadoId": "546599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-23-4746",
+      "titulo": "Lei nº 4.746 de 23/07/1965",
+      "data": "1965-07-23",
+      "numero": "4746",
+      "urn": "urn:lex:br:federal:lei:1965-07-23;4746",
+      "ementa": "Abre ao Poder Legislativo o crédito especial de Cr$   415.756.000 ( quatrocentos e quinze milhões setecentos e cinqüenta e seis mil   cruzeiros), destinado a pagamentos devidos ao Instituto de Previdência dos Congressistas   ( I.P.C.)."
+    },
+    {
+      "senadoId": "546598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-21-4745",
+      "titulo": "Lei nº 4.745 de 21/07/1965",
+      "data": "1965-07-21",
+      "numero": "4745",
+      "urn": "urn:lex:br:federal:lei:1965-07-21;4745",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, do   crédito especial de Cr$ 200.000.000 ( duzentos milhões de cruzeiros ), para   reconstrução da ponte sôbre o Rio da Prata, no trecho João Pinheiro -   Paracatu."
+    },
+    {
+      "senadoId": "546597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-19-4744",
+      "titulo": "Lei nº 4.744 de 19/07/1965",
+      "data": "1965-07-19",
+      "numero": "4744",
+      "urn": "urn:lex:br:federal:lei:1965-07-19;4744",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Superintendência do Plano de   Valorização Econômica da Amazônia, o crédito especial de Cr$ 10.000.000.000 (   dez bilhões de cruzeiros ), para o fim que especifica."
+    },
+    {
+      "senadoId": "546596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-16-4743",
+      "titulo": "Lei nº 4.743 de 16/07/1965",
+      "data": "1965-07-16",
+      "numero": "4743",
+      "urn": "urn:lex:br:federal:lei:1965-07-16;4743",
+      "ementa": "Dispõe sôbre as comemorações do centenário do nascimento do Marechal Rondon."
+    },
+    {
+      "senadoId": "546591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4738",
+      "titulo": "Lei nº 4.738 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4738",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4738",
+      "ementa": "Estabelece novos casos de inelegibilidades, com fundamento no art. 2º da Emenda Constitucional número 14."
+    },
+    {
+      "senadoId": "546593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4740",
+      "titulo": "Lei nº 4.740 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4740",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4740",
+      "ementa": "Lei Orgânica dos Partidos Políticos."
+    },
+    {
+      "senadoId": "546594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4741",
+      "titulo": "Lei nº 4.741 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4741",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4741",
+      "ementa": "Fixa novos valôres dos símbolos do Quadro do Pessoal da Secretaria do Tribunal Regional do Trabalho da 1ª região, e dá outras providências."
+    },
+    {
+      "senadoId": "546590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4737",
+      "titulo": "Lei nº 4.737 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4737",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4737",
+      "ementa": "Institui o Código Eleitoral."
+    },
+    {
+      "senadoId": "546592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4739",
+      "titulo": "Lei nº 4.739 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4739",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4739",
+      "ementa": "Dispõe sôbre o exercício da profissão de estatístico e dá outras providências."
+    },
+    {
+      "senadoId": "546595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4742",
+      "titulo": "Lei nº 4.742 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4742",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4742",
+      "ementa": "Dispõe sôbre o prazo de validade de concursos públicos para candidatos habilitados que estejam exercendo ou hajam assumido mandato legislativo ou executivo."
+    },
+    {
+      "senadoId": "546589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-15-4736",
+      "titulo": "Lei nº 4.736 de 15/07/1965",
+      "data": "1965-07-15",
+      "numero": "4736",
+      "urn": "urn:lex:br:federal:lei:1965-07-15;4736",
+      "ementa": "Dispõe sôbre a inspenção e fiscalização de ingredientes, alimentos e produtos destinados à alimentação animal e dá outras providências."
+    },
+    {
+      "senadoId": "546584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4731",
+      "titulo": "Lei nº 4.731 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4731",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4731",
+      "ementa": "Exclui do regime de prévio licenciamento e de visto consular importações realizadas pelos Ministérios Militares."
+    },
+    {
+      "senadoId": "546588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4735",
+      "titulo": "Lei nº 4.735 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4735",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4735",
+      "ementa": "Concede isenção de direitos, imposto de consumo e taxas aduaneiras, exceto a de previdência social, para importação de objetos doados pela Holanda à Província Carmelita de Santo Elias."
+    },
+    {
+      "senadoId": "546586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4733",
+      "titulo": "Lei nº 4.733 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4733",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4733",
+      "ementa": "Isenta do imposto do selo os contratos assinados pela Companhia   Pernambucana de Borracha Sintética - COPERBO sociedade de economia mista   localizada no Município do Cabo, Estado de Pernambuco."
+    },
+    {
+      "senadoId": "546582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4729",
+      "titulo": "Lei nº 4.729 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4729",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4729",
+      "ementa": "Define o crime de sonegação fiscal e dá outras providências."
+    },
+    {
+      "senadoId": "546581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4728",
+      "titulo": "Lei nº 4.728 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4728",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4728",
+      "ementa": "Disciplina o mercado de capitais e estabelece medidas para o seu desenvolvimento."
+    },
+    {
+      "senadoId": "546583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4730",
+      "titulo": "Lei nº 4.730 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4730",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4730",
+      "ementa": "Transforma a Escola de Medicina e Cirurgia do Rio de Janeiro em Fundação e dá outras providências."
+    },
+    {
+      "senadoId": "546585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4732",
+      "titulo": "Lei nº 4.732 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4732",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4732",
+      "ementa": "Altera o artigo 5º da Lei Delegada nº 6, de 26 de setembro de 1962, que \"autoriza a constituição da Companhia Brasileira de Alimentos e dá outras providências."
+    },
+    {
+      "senadoId": "546587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-14-4734",
+      "titulo": "Lei nº 4.734 de 14/07/1965",
+      "data": "1965-07-14",
+      "numero": "4734",
+      "urn": "urn:lex:br:federal:lei:1965-07-14;4734",
+      "ementa": "Estabelece normas para o aproveitamento, como servidores civis efetivos,   dos militares remanescentes das extintas Companhias de Serviço   Industrial."
+    },
+    {
+      "senadoId": "546578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-13-4725",
+      "titulo": "Lei nº 4.725 de 13/07/1965",
+      "data": "1965-07-13",
+      "numero": "4725",
+      "urn": "urn:lex:br:federal:lei:1965-07-13;4725",
+      "ementa": "Estabelece normas para o processo dos dissídios coletivos, e dá outras providências."
+    },
+    {
+      "senadoId": "546579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-13-4726",
+      "titulo": "Lei nº 4.726 de 13/07/1965",
+      "data": "1965-07-13",
+      "numero": "4726",
+      "urn": "urn:lex:br:federal:lei:1965-07-13;4726",
+      "ementa": "Dispõe sobre os Serviços do Registro do Comércio e Atividades afins, e dá outras providências."
+    },
+    {
+      "senadoId": "546580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-13-4727",
+      "titulo": "Lei nº 4.727 de 13/07/1965",
+      "data": "1965-07-13",
+      "numero": "4727",
+      "urn": "urn:lex:br:federal:lei:1965-07-13;4727",
+      "ementa": "Dispõe sôbre a fiscalização do comércio de sementes e mudas e dá outras providências."
+    },
+    {
+      "senadoId": "546575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-09-4722",
+      "titulo": "Lei nº 4.722 de 09/07/1965",
+      "data": "1965-07-09",
+      "numero": "4722",
+      "urn": "urn:lex:br:federal:lei:1965-07-09;4722",
+      "ementa": "Cria a Escola Agrícola de Caconde, no Estado de São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "546574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-09-4721",
+      "titulo": "Lei nº 4.721 de 09/07/1965",
+      "data": "1965-07-09",
+      "numero": "4721",
+      "urn": "urn:lex:br:federal:lei:1965-07-09;4721",
+      "ementa": "Fixa os valôres para os símbolos dos cargos e das funções gratificadas do Quadro do Pessoal da Secretaria do Tribunal Regional do Trabalho da 2ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "546576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-09-4723",
+      "titulo": "Lei nº 4.723 de 09/07/1965",
+      "data": "1965-07-09",
+      "numero": "4723",
+      "urn": "urn:lex:br:federal:lei:1965-07-09;4723",
+      "ementa": "Dispõe sôbre a série de classes de Pesquisador e dá outras providências."
+    },
+    {
+      "senadoId": "546577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-09-4724",
+      "titulo": "Lei nº 4.724 de 09/07/1965",
+      "data": "1965-07-09",
+      "numero": "4724",
+      "urn": "urn:lex:br:federal:lei:1965-07-09;4724",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 70.058.304 (setenta milhões, cinqüenta e   oito mil, trezentos e quatro cruzeiros), para atender às despesas com o   pagamento da contribuição do Brasil relativa ao financiamento dos estudos   preliminares necessários à construção do \"Tampón del Darien\", trecho da Estrada   Pan-americana."
+    },
+    {
+      "senadoId": "546573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-08-4720",
+      "titulo": "Lei nº 4.720 de 08/07/1965",
+      "data": "1965-07-08",
+      "numero": "4720",
+      "urn": "urn:lex:br:federal:lei:1965-07-08;4720",
+      "ementa": "Altera a Lei nº 4.448, de 29 de outubro de 1964 - Lei de Promoções dos Oficiais do Exército."
+    },
+    {
+      "senadoId": "546571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-06-4718",
+      "titulo": "Lei nº 4.718 de 06/07/1965",
+      "data": "1965-07-06",
+      "numero": "4718",
+      "urn": "urn:lex:br:federal:lei:1965-07-06;4718",
+      "ementa": "Dá a denominação de \"Usina Governador Jorge Lacerda\" à usina termelétrica   de Capivari-Tubarão, Estado de Santa Catarina, construída pela   SOTELCA."
+    },
+    {
+      "senadoId": "546572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-07-06-4719",
+      "titulo": "Lei nº 4.719 de 06/07/1965",
+      "data": "1965-07-06",
+      "numero": "4719",
+      "urn": "urn:lex:br:federal:lei:1965-07-06;4719",
+      "ementa": "Eleva a pensão especial, concedida aos herdeiros de Clóvis   Bevilacqua."
+    },
+    {
+      "senadoId": "546570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4717",
+      "titulo": "Lei nº 4.717 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4717",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4717",
+      "ementa": "Regula a ação popular."
+    },
+    {
+      "senadoId": "546567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4714",
+      "titulo": "Lei nº 4.714 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4714",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4714",
+      "ementa": "Modifica legislação anterior sôbre o uso da marca de fogo no gado bovino."
+    },
+    {
+      "senadoId": "546565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4712",
+      "titulo": "Lei nº 4.712 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4712",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4712",
+      "ementa": "Dá nova redação à alínea c , do art. 15 da Lei nº 1.184, de 30 de agôsto de 1950, que dispõe sobre o Banco de Crédito da Borracha S.A."
+    },
+    {
+      "senadoId": "546566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4713",
+      "titulo": "Lei nº 4.713 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4713",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4713",
+      "ementa": "Cria o Quadro de Práticos da Armada e dá outras providências."
+    },
+    {
+      "senadoId": "546568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4715",
+      "titulo": "Lei nº 4.715 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4715",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4715",
+      "ementa": "Autoriza o Poder Executivo a permutar um terreno de propriedade da União   Federal por outros pertencentes ao Município de Guarapuava, Estado do   Paraná."
+    },
+    {
+      "senadoId": "546564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4711",
+      "titulo": "Lei nº 4.711 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4711",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4711",
+      "ementa": "Estende aos remanescentes ou reformados da extinta Polícia Militar do antigo Território do Acre as disposições da Lei nº 4.328, de 30 de abril de 1964, que institui o nôvo Código de Vencimentos dos Militares."
+    },
+    {
+      "senadoId": "546569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-29-4716",
+      "titulo": "Lei nº 4.716 de 29/06/1965",
+      "data": "1965-06-29",
+      "numero": "4716",
+      "urn": "urn:lex:br:federal:lei:1965-06-29;4716",
+      "ementa": "Dispõe sôbre a organização, funcionamento e execução dos registros genealógicos de animais domésticos no País."
+    },
+    {
+      "senadoId": "546557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4704",
+      "titulo": "Lei nº 4.704 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4704",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4704",
+      "ementa": "Disciplina o recolhimento pelo Departamento dos Correios e Telégrafos de seus saldos orçamentários já empenhados e dá outras providências."
+    },
+    {
+      "senadoId": "546561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4708",
+      "titulo": "Lei nº 4.708 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4708",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4708",
+      "ementa": "Revoga o art. 2º da Lei nº 1.024-A, de 29 de dezembro de 1949, que   autoriza o Poder Executivo a ceder à Prefeitura de Salvador, Estado da Bahia,   uma área de terreno para fim de utilidade pública."
+    },
+    {
+      "senadoId": "546553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4700",
+      "titulo": "Lei nº 4.700 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4700",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4700",
+      "ementa": "Isenta dos impostos de importação e de consumo, bem como da taxa de despacho aduaneiro, materiais destinados à Liga de Amadores Brasileiros de Rádio Emissão (LABRE)."
+    },
+    {
+      "senadoId": "546555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4702",
+      "titulo": "Lei nº 4.702 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4702",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4702",
+      "ementa": "Autoriza a abertura de créditos especiais, no montante de Cr$ 47.033.454.687,40 (quarenta e sete bilhões, trinta e três milhões, quatrocentos e cinqüenta e quatro mil, seiscentos e oitenta e sete cruzeiros e quarenta centavos), a orgãos subordinados à Presidência da República e a diversos Ministérios."
+    },
+    {
+      "senadoId": "546563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4710",
+      "titulo": "Lei nº 4.710 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4710",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4710",
+      "ementa": "Isenta da taxa de despacho aduaneiro, a que se refere o art. 66, da Lei número 3.244, de 14 de agôsto de 1957, material doado a estabelecimento hospitalar."
+    },
+    {
+      "senadoId": "546556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4703",
+      "titulo": "Lei nº 4.703 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4703",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4703",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 370.000.000 (trezentos e setenta milhões   de cruzeiros), para atender às despesas decorrentes da realização da Segunda   Conferência Interamericana Extraordinária."
+    },
+    {
+      "senadoId": "546559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4706",
+      "titulo": "Lei nº 4.706 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4706",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4706",
+      "ementa": "Transfere a Seção de Irrigação da Divisão de Águas do Departamento   Nacional da Produção Mineral, do Ministério das Minas e Energia, para o Serviço   de Promoção Agropecuária, do Departamento de Promoção Agropecuária, do   Ministério da Agricultura, e dá outras providências."
+    },
+    {
+      "senadoId": "546551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4698",
+      "titulo": "Lei nº 4.698 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4698",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4698",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o crédito especial de Cr$ 500.000.000 (quinhentos milhões de cruzeiros), destinado a atender às despesas com o financiamento previsto na Lei nº 2.321, de 11 de setembro de 1954."
+    },
+    {
+      "senadoId": "546558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4705",
+      "titulo": "Lei nº 4.705 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4705",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4705",
+      "ementa": "Concede isenção das Taxas de Despacho Aduaneiro e de Melhoramento dos Portos para um aparelho de Raio X, doado ao Círculo Operário Pôrto Alegrense, Pôrto Alegre, Rio Grande do Sul."
+    },
+    {
+      "senadoId": "546560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4707",
+      "titulo": "Lei nº 4.707 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4707",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4707",
+      "ementa": "Dispõe sôbre transferência de próprio nacional ao Estado de Minas Gerais e   à Prefeitura de Belo Horizonte."
+    },
+    {
+      "senadoId": "546562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4709",
+      "titulo": "Lei nº 4.709 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4709",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4709",
+      "ementa": "Altera a Lei nº 2.743, de 6 de março de 1956, e cria a Campanha de Erradicação da Malária."
+    },
+    {
+      "senadoId": "546554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4701",
+      "titulo": "Lei nº 4.701 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4701",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4701",
+      "ementa": "Dispõe sôbre o exercício da atividade hemoterápica no Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "546552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-28-4699",
+      "titulo": "Lei nº 4.699 de 28/06/1965",
+      "data": "1965-06-28",
+      "numero": "4699",
+      "urn": "urn:lex:br:federal:lei:1965-06-28;4699",
+      "ementa": "Revigora o crédito autorizado pela Lei nº 4.271, de 24 de outubro de 1963,   para abertura, pelo Ministério da Fazenda, do crédito especial de Cr$   400.000.000 (quatrocentos milhões de cruzeiros), destinado à integralização da   quota de participação da União na Sociedade de Economia Mista \"Aços Finos   Piratini\", correspondente ao exercício de 1962."
+    },
+    {
+      "senadoId": "546550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-22-4697",
+      "titulo": "Lei nº 4.697 de 22/06/1965",
+      "data": "1965-06-22",
+      "numero": "4697",
+      "urn": "urn:lex:br:federal:lei:1965-06-22;4697",
+      "ementa": "Dá nova redação ao § 2º e acrescenta mais um parágrafo ao art. 16 da Lei nº 4.328, de 30 de abril de 1964 (Código de Vencimentos dos Militares)."
+    },
+    {
+      "senadoId": "546549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-22-4696",
+      "titulo": "Lei nº 4.696 de 22/06/1965",
+      "data": "1965-06-22",
+      "numero": "4696",
+      "urn": "urn:lex:br:federal:lei:1965-06-22;4696",
+      "ementa": "Amplia a isenção do impôsto do sêlo concedida à firma Aços Finos Piratini   S.A. pelo art. 5º da Lei número 3.972, de 13 de outubro 1961."
+    },
+    {
+      "senadoId": "546548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-22-4695",
+      "titulo": "Lei nº 4.695 de 22/06/1965",
+      "data": "1965-06-22",
+      "numero": "4695",
+      "urn": "urn:lex:br:federal:lei:1965-06-22;4695",
+      "ementa": "Dispõe sôbre a composição do Conselho Federal de Contabilidade e dá outras   providências."
+    },
+    {
+      "senadoId": "546535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4682",
+      "titulo": "Lei nº 4.682 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4682",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4682",
+      "ementa": "Isenta da taxa de despacho aduaneiro um conjunto eletrônico importado pelo Govêrno do Estado do Paraná."
+    },
+    {
+      "senadoId": "546544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4691",
+      "titulo": "Lei nº 4.691 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4691",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4691",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 80.000.000,00 (oitenta milhões de   cruzeiros), para atender às despesas decorrentes da visita ao Brasil do Xainxá do   Irã."
+    },
+    {
+      "senadoId": "546542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4689",
+      "titulo": "Lei nº 4.689 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4689",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4689",
+      "ementa": "Isenta de impôsto de importação dez mil toneladas de placas de aço (slabs) importadas pela Companhia Siderúrgica Paulista - COSIPA."
+    },
+    {
+      "senadoId": "546546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4693",
+      "titulo": "Lei nº 4.693 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4693",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4693",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Estado Maior das Fôrças Armadas,   o crédito especial de Cr$ 650.189,50, para atender às despesas com o   enquadramento de seu pessoal civil."
+    },
+    {
+      "senadoId": "546543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4690",
+      "titulo": "Lei nº 4.690 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4690",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4690",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de   Cr$ 36.221.047, ;a favor do Serviço Nacional dos Municípios - SENAM - subordinado ao Ministro   de Estado Extraordinário para a Coordenação dos Organismos   Regionais."
+    },
+    {
+      "senadoId": "546537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4684",
+      "titulo": "Lei nº 4.684 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4684",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4684",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento telefônico   destinado à Telefônica Pinhal S.A."
+    },
+    {
+      "senadoId": "546539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4686",
+      "titulo": "Lei nº 4.686 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4686",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4686",
+      "ementa": "Acrescenta parágrafo ao art. 26 do Decreto-lei nº 3.365, de 21 de junho de 1941 (Lei de Desapropriação por Utilidade Pública)."
+    },
+    {
+      "senadoId": "546538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4685",
+      "titulo": "Lei nº 4.685 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4685",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4685",
+      "ementa": "Modifica a Lei nº 3.760, de 25 de abril de 1960, que concede a pensão especial de Cr$ 40.000 (quarenta mil cruzeiros) à viúva e filhos do Senador Lameira Bittencourt."
+    },
+    {
+      "senadoId": "546545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4692",
+      "titulo": "Lei nº 4.692 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4692",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4692",
+      "ementa": "Isenta dos impostos de importação e de consumo, bem como da taxa de   despacho aduaneiro, um automóvel \"Chevrolet Impala\", de propriedade de Ieda   Maria Vargas."
+    },
+    {
+      "senadoId": "546540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4687",
+      "titulo": "Lei nº 4.687 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4687",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4687",
+      "ementa": "Dispõe sôbre a aplicação do art. 7º da Lei nº 3.421, de 10 de julho de 1958, que trata do aforamento, pelo Poder Executivo, dos acrescidos de marinha resultantes de obras e dá outras providências."
+    },
+    {
+      "senadoId": "546541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4688",
+      "titulo": "Lei nº 4.688 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4688",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4688",
+      "ementa": "Isenta de licença prévia, dos impostos de importação e de consumo, bem   como da taxa de despacho aduaneiro, donativos fornecidos através do Programa   \"Alimentos para Paz\"."
+    },
+    {
+      "senadoId": "546534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4681",
+      "titulo": "Lei nº 4.681 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4681",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4681",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 39.412.700, destinado a atender às despesas com o   prosseguimento das obras da Alfândega de Itajaí, Santa Catarina."
+    },
+    {
+      "senadoId": "546547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4694",
+      "titulo": "Lei nº 4.694 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4694",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4694",
+      "ementa": "Isenta a Fábrica Nacional de Motores S.A. de impostos federais e dá outras providências."
+    },
+    {
+      "senadoId": "546536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-21-4683",
+      "titulo": "Lei nº 4.683 de 21/06/1965",
+      "data": "1965-06-21",
+      "numero": "4683",
+      "urn": "urn:lex:br:federal:lei:1965-06-21;4683",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento telefônico   destinado à Emprêsa Telefônica de Uberaba S.A."
+    },
+    {
+      "senadoId": "546533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-18-4680",
+      "titulo": "Lei nº 4.680 de 18/06/1965",
+      "data": "1965-06-18",
+      "numero": "4680",
+      "urn": "urn:lex:br:federal:lei:1965-06-18;4680",
+      "ementa": "Dispõe sôbre o exercício da profissão de Publicitário e de Agenciador de Propaganda e dá outras providências."
+    },
+    {
+      "senadoId": "546531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-16-4678",
+      "titulo": "Lei nº 4.678 de 16/06/1965",
+      "data": "1965-06-16",
+      "numero": "4678",
+      "urn": "urn:lex:br:federal:lei:1965-06-16;4678",
+      "ementa": "Dispõe sôbre o seguro de crédito à exportação e dá outras providências."
+    },
+    {
+      "senadoId": "546532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-16-4679",
+      "titulo": "Lei nº 4.679 de 16/06/1965",
+      "data": "1965-06-16",
+      "numero": "4679",
+      "urn": "urn:lex:br:federal:lei:1965-06-16;4679",
+      "ementa": "Autoriza \"A Equitativa dos Estados Unidos do Brasil\", Sociedade Mútua de   Seguros Gerais, sob intervenção do Govêrno Federal, a aumentar o \"Fundo\" de que   trata o Decreto-Lei nº 2.063, de 7 de março de 1940, e dá outras   providências."
+    },
+    {
+      "senadoId": "546529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-16-4676",
+      "titulo": "Lei nº 4.676 de 16/06/1965",
+      "data": "1965-06-16",
+      "numero": "4676",
+      "urn": "urn:lex:br:federal:lei:1965-06-16;4676",
+      "ementa": "Modifica, em parte, as Leis nºs. 2.308, de 31 de agôsto de 1954, 2.944, de 8 de novembro de 1956, 4.156, de 28 de novembro de 1962, e 4.364, de 22 de junho de 1964, que dispõem sôbre o Fundo Federal de Eletrificação e sôbre a distribuição e aplicação do Impôsto Único sôbre Energia Elétrica, e dá outras providências."
+    },
+    {
+      "senadoId": "546530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-16-4677",
+      "titulo": "Lei nº 4.677 de 16/06/1965",
+      "data": "1965-06-16",
+      "numero": "4677",
+      "urn": "urn:lex:br:federal:lei:1965-06-16;4677",
+      "ementa": "Isenta de impostos de importação e outras contribuições fiscais os bens adquiridos, mediante doação, pelas instituições que se dedicam, sem finalidade lucrativa, à prestação de assistência médico-hospitalar."
+    },
+    {
+      "senadoId": "546527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-15-4674",
+      "titulo": "Lei nº 4.674 de 15/06/1965",
+      "data": "1965-06-15",
+      "numero": "4674",
+      "urn": "urn:lex:br:federal:lei:1965-06-15;4674",
+      "ementa": "Prorroga, por um dia útil, os prazos judiciais que se iniciarem ou   vencerem aos sábados."
+    },
+    {
+      "senadoId": "546528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-15-4675",
+      "titulo": "Lei nº 4.675 de 15/06/1965",
+      "data": "1965-06-15",
+      "numero": "4675",
+      "urn": "urn:lex:br:federal:lei:1965-06-15;4675",
+      "ementa": "Autoriza o cancelamento do débito do espólio de Codrato de Vilhena, antigo   Diretor-Gerente da Companhia Nacional de Navegação Costeira, incorporada ao   Patrimônio Nacional."
+    },
+    {
+      "senadoId": "546526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-15-4673",
+      "titulo": "Lei nº 4.673 de 15/06/1965",
+      "data": "1965-06-15",
+      "numero": "4673",
+      "urn": "urn:lex:br:federal:lei:1965-06-15;4673",
+      "ementa": "Aplica aos bens penhorados em execuções fiscais as normas de   impenhorabilidade do art. 942 do Código do Processo Civil."
+    },
+    {
+      "senadoId": "546525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-12-4672",
+      "titulo": "Lei nº 4.672 de 12/06/1965",
+      "data": "1965-06-12",
+      "numero": "4672",
+      "urn": "urn:lex:br:federal:lei:1965-06-12;4672",
+      "ementa": "Modifica o inciso IV do art. 842 do Decreto-lei nº 1.608, de 18 de setembro de 1939 (Código de Processo Civil)"
+    },
+    {
+      "senadoId": "546523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-12-4670",
+      "titulo": "Lei nº 4.670 de 12/06/1965",
+      "data": "1965-06-12",
+      "numero": "4670",
+      "urn": "urn:lex:br:federal:lei:1965-06-12;4670",
+      "ementa": "Altera dispositivos da Lei nº 3.244, de 14 de agôsto de 1957, que autoriza abertura de crédito especial e dá outras providências."
+    },
+    {
+      "senadoId": "546524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-12-4671",
+      "titulo": "Lei nº 4.671 de 12/06/1965",
+      "data": "1965-06-12",
+      "numero": "4671",
+      "urn": "urn:lex:br:federal:lei:1965-06-12;4671",
+      "ementa": "Isenta a Comissão Nacional de Alimentação, do Ministério da Saúde, do pagamento de emolumentos, taxas, pedágios, quotas e outras despesas que recaiam sôbre mercadorias ou equipamentos, importados ou doados, mediante acôrdo ou convênio com o Govêrno do Brasil, e dá outras providências."
+    },
+    {
+      "senadoId": "546517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-08-4664",
+      "titulo": "Lei nº 4.664 de 08/06/1965",
+      "data": "1965-06-08",
+      "numero": "4664",
+      "urn": "urn:lex:br:federal:lei:1965-06-08;4664",
+      "ementa": "Considera morto em defesa da ordem, das instituições e do regime o   Tenente-Coronel-Aviador Rubens Florentino Vaz."
+    },
+    {
+      "senadoId": "546518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-08-4665",
+      "titulo": "Lei nº 4.665 de 08/06/1965",
+      "data": "1965-06-08",
+      "numero": "4665",
+      "urn": "urn:lex:br:federal:lei:1965-06-08;4665",
+      "ementa": "Prorroga, por mais 5 (cinco) anos, as disposições dos arts. 78, 79 e 80 da   Lei nº 498, de 28 de novembro de 1948 e dá outras   providências."
+    },
+    {
+      "senadoId": "546521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-08-4668",
+      "titulo": "Lei nº 4.668 de 08/06/1965",
+      "data": "1965-06-08",
+      "numero": "4668",
+      "urn": "urn:lex:br:federal:lei:1965-06-08;4668",
+      "ementa": "Revoga o art. 510 da Consolidação das Leis do Trabalho, aprovado pelo   Decreto-lei nº. 5452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "546520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-08-4667",
+      "titulo": "Lei nº 4.667 de 08/06/1965",
+      "data": "1965-06-08",
+      "numero": "4667",
+      "urn": "urn:lex:br:federal:lei:1965-06-08;4667",
+      "ementa": "Autoriza a abertura, pelo Ministério da Indústria e   do Comércio, do crédito especial de Cr$ 1.000.000.000, ; destinado à   recuperação do edifício da Praça Mauá, nº 7, na Cidade do Rio de Janeiro, Estado   da Guanabara."
+    },
+    {
+      "senadoId": "546519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-08-4666",
+      "titulo": "Lei nº 4.666 de 08/06/1965",
+      "data": "1965-06-08",
+      "numero": "4666",
+      "urn": "urn:lex:br:federal:lei:1965-06-08;4666",
+      "ementa": "Autoriza o Poder Executivo   a abrir, pelo Ministério da Fazenda, consignada ao Conselho Nacional   de Telecomunicações, o crédito especial de Cr$ 1.500.000.000, para atender às   despesas com a participação do Brasil no Sistema Mundial de Telecomunicações por   Satélites."
+    },
+    {
+      "senadoId": "546522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-08-4669",
+      "titulo": "Lei nº 4.669 de 08/06/1965",
+      "data": "1965-06-08",
+      "numero": "4669",
+      "urn": "urn:lex:br:federal:lei:1965-06-08;4669",
+      "ementa": "Complementa a Lei nº 3.917, de 14 de julho de 1961, que \"reorganizou o   Ministério das Relações Exteriores\"."
+    },
+    {
+      "senadoId": "546516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-03-4663",
+      "titulo": "Lei nº 4.663 de 03/06/1965",
+      "data": "1965-06-03",
+      "numero": "4663",
+      "urn": "urn:lex:br:federal:lei:1965-06-03;4663",
+      "ementa": "Cria estímulos ao aumento de produtividade e à contenção de preços e dá outras providências."
+    },
+    {
+      "senadoId": "546508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4655",
+      "titulo": "Lei nº 4.655 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4655",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4655",
+      "ementa": "Dispõe sobre a legitimidade adotiva."
+    },
+    {
+      "senadoId": "546514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4661",
+      "titulo": "Lei nº 4.661 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4661",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4661",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 877.852.800 (oitocentos e setenta e sete milhões,   oitocentos e cinqüenta e dois mil e oitocentos cruzeiros), para atender às   despesas relativas ao enquadramento do pessoal da Universidade da   Bahia."
+    },
+    {
+      "senadoId": "546515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4662",
+      "titulo": "Lei nº 4.662 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4662",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4662",
+      "ementa": "Desdobra em duas unidades universitárias distintas a atual Faculdade de Farmácia e Odontologia da Universidade do Ceará."
+    },
+    {
+      "senadoId": "546513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4660",
+      "titulo": "Lei nº 4.660 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4660",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4660",
+      "ementa": "Isenta de impostos de importação e outras contribuições fiscais os   gêneros, mercadorias e equipamentos doados ou importados para a Comissão   Nacional de Alimentação quer por organizações internacionais, quer por governos   estrangeiros."
+    },
+    {
+      "senadoId": "546511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4658",
+      "titulo": "Lei nº 4.658 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4658",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4658",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento de televisão   destinado à Rádio Difusora São Paulo S.A."
+    },
+    {
+      "senadoId": "546512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4659",
+      "titulo": "Lei nº 4.659 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4659",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4659",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo MInistério da Viação e Obras Públicas, o crédito especial de Cr$ 1.300.000.000,00 (um bilhão e trezentos milhões de cruzeiros) destinado ao pagamento de insalubridade aos associados do Sindicato dos Operários Navais do Rio de Janeiro e de serviços realizados, em navios do Lóide Brasileiro, por estaleiros nacionais."
+    },
+    {
+      "senadoId": "546510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4657",
+      "titulo": "Lei nº 4.657 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4657",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4657",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 10.998.000.000 (dez bilhões, novecentos e noventa e oito milhões de cruzeiros), destinado ao refôrço do Fundo da Marinha Mercante."
+    },
+    {
+      "senadoId": "546507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4654",
+      "titulo": "Lei nº 4.654 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4654",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4654",
+      "ementa": "Altera os arts. 180 e 223 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5452, de 1º de maio de 1943, que adotam medidas obrigatórias para diminuir a fadiga dos empregados."
+    },
+    {
+      "senadoId": "546509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-06-02-4656",
+      "titulo": "Lei nº 4.656 de 02/06/1965",
+      "data": "1965-06-02",
+      "numero": "4656",
+      "urn": "urn:lex:br:federal:lei:1965-06-02;4656",
+      "ementa": "Concede pensão especial aos beneficiários dos Congressistas que tiveram seus mandatos cassados, dos servidores públicos e autárquicos e dos empregados de sociedade de economia mista, demitidos em decorrência do Ato Institucional, e dá outras providências."
+    },
+    {
+      "senadoId": "546505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4652",
+      "titulo": "Lei nº 4.652 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4652",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4652",
+      "ementa": "Autoriza a abertura de créditos especiais, num montante de Cr$ 1.079.494.483,40 (um bilhão, setenta e nove milhões, quatrocentos e noventa e quatro mil,quatrocentos e oitenta e ;três cruzeiros e quarenta centavos), a diversos Ministérios."
+    },
+    {
+      "senadoId": "546499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4646",
+      "titulo": "Lei nº 4.646 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4646",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4646",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Justiça e Negócios   Interiores o crédito especial de Cr$ 280.000.000,00 (duzentos e oitenta milhões   de cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4645",
+      "titulo": "Lei nº 4.645 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4645",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4645",
+      "ementa": "Autoriza a abertura, ao Ministério da Justiça e Negócios Interiores, do   crédito especial de Cr$ 68.000.000,00 (sessenta e oito milhões de cruzeiros),   para o fim que especifica."
+    },
+    {
+      "senadoId": "546504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4651",
+      "titulo": "Lei nº 4.651 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4651",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4651",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 2.300.000.000,00 (dois bilhões e trezentos   milhões de cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4649",
+      "titulo": "Lei nº 4.649 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4649",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4649",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Aeronáutica o crédito   especial de Cr$ 103.806.000,00 (cento e três milhões, oitocentos e seis mil   cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4647",
+      "titulo": "Lei nº 4.647 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4647",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4647",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Presidência da República, o   crédito especial de Cr$ 4.362.416,00 (quatro milhões trezentos e sessenta e dois   mil quatrocentos e dezesseis cruzeiros), para atender a despesas que especifica,   a cargo do Estado Maior das Forças Armadas."
+    },
+    {
+      "senadoId": "546503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4650",
+      "titulo": "Lei nº 4.650 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4650",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4650",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o crédito   especial ;no valor de Cr$ 15.480.000.000,00 (quinze bilhões quatrocentos e oitenta   milhões de cruzeiros), para cobrir a diferença nas aquisições cambiais para   a ;importação de material aeronáutico."
+    },
+    {
+      "senadoId": "546496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4643",
+      "titulo": "Lei nº 4.643 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4643",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4643",
+      "ementa": "Determina a inclusão da especialização de engenheiro florestal na   enumeração do art. 16 do Decreto-lei nº 8.620, de 10 de janeiro de   1946."
+    },
+    {
+      "senadoId": "546506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4653",
+      "titulo": "Lei nº 4.653 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4653",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4653",
+      "ementa": "Altera o art. 4º da Lei nº 2.391, de 7 de janeiro de 1955, que fixa os efetivos das Fôrças Armadas em tempo de paz."
+    },
+    {
+      "senadoId": "546495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4642",
+      "titulo": "Lei nº 4.642 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4642",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4642",
+      "ementa": "Concede isenção dos impostos de importação e de consumo, bem como da taxa de despacho aduaneiro, para os maquinismos e materiais importados pela \"CEMAT\" - Centrais Elétricas Matogrossense S.A\"., e dá outras providências."
+    },
+    {
+      "senadoId": "546501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4648",
+      "titulo": "Lei nº 4.648 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4648",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4648",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o   crédito especial de Cr$ 950.000.000,00 (novecentos e cinquenta milhões de   cruzeiros), para os fins que especifica."
+    },
+    {
+      "senadoId": "546497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-31-4644",
+      "titulo": "Lei nº 4.644 de 31/05/1965",
+      "data": "1965-05-31",
+      "numero": "4644",
+      "urn": "urn:lex:br:federal:lei:1965-05-31;4644",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o   crédito especial de Cr$ 500.000.000,00 (Quinhentos milhões de cruzeiros) para o   fim que especifica."
+    },
+    {
+      "senadoId": "546494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-27-4641",
+      "titulo": "Lei nº 4.641 de 27/05/1965",
+      "data": "1965-05-27",
+      "numero": "4641",
+      "urn": "urn:lex:br:federal:lei:1965-05-27;4641",
+      "ementa": "Dispõe sobre os cursos de teatro e regulamenta as categorias profissionais correspondentes."
+    },
+    {
+      "senadoId": "546491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-26-4638",
+      "titulo": "Lei nº 4.638 de 26/05/1965",
+      "data": "1965-05-26",
+      "numero": "4638",
+      "urn": "urn:lex:br:federal:lei:1965-05-26;4638",
+      "ementa": "Modifica a redação do art. 14 do Decreto-lei nº 3.199, de 14 de abril de 1941 (que estabelece as bases de organização dos Desportos em todo o País)."
+    },
+    {
+      "senadoId": "546493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-26-4640",
+      "titulo": "Lei nº 4.640 de 26/05/1965",
+      "data": "1965-05-26",
+      "numero": "4640",
+      "urn": "urn:lex:br:federal:lei:1965-05-26;4640",
+      "ementa": "Isenta dos impostos de importação e de consumo equipamento tefefônico a   ser importado pela Companhia Telefônica de Campo Grande, Mato   Grosso."
+    },
+    {
+      "senadoId": "546492",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-26-4639",
+      "titulo": "Lei nº 4.639 de 26/05/1965",
+      "data": "1965-05-26",
+      "numero": "4639",
+      "urn": "urn:lex:br:federal:lei:1965-05-26;4639",
+      "ementa": "Dispõe sôbre a reorganização do Museu Imperial, criado pelo Decreto-lei nº 2.096, de 29 de março de 1940, e dá outras providências."
+    },
+    {
+      "senadoId": "546490",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-20-4637",
+      "titulo": "Lei nº 4.637 de 20/05/1965",
+      "data": "1965-05-20",
+      "numero": "4637",
+      "urn": "urn:lex:br:federal:lei:1965-05-20;4637",
+      "ementa": "Dispõe sôbre o exercício da profissão de carregador e transportador de bagagens em portos do País e dá outras providências."
+    },
+    {
+      "senadoId": "546489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-18-4636",
+      "titulo": "Lei nº 4.636 de 18/05/1965",
+      "data": "1965-05-18",
+      "numero": "4636",
+      "urn": "urn:lex:br:federal:lei:1965-05-18;4636",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 25.100.078 (vinte e cinco milhões cem mil   e setenta e oito cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546488",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-18-4635",
+      "titulo": "Lei nº 4.635 de 18/05/1965",
+      "data": "1965-05-18",
+      "numero": "4635",
+      "urn": "urn:lex:br:federal:lei:1965-05-18;4635",
+      "ementa": "Autoriza o Poder Executivo a abrir ;ao Ministério da Educação e   Cultura, o crédito especial de Cr$ 180.000.000(cento e oitenta milhões de cruzeiros),   para custear as despesas com obras de recuperação do imóvel situado no Estado da   Guanabara, na Praia do Flamengo nº 132."
+    },
+    {
+      "senadoId": "546485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-18-4632",
+      "titulo": "Lei nº 4.632 de 18/05/1965",
+      "data": "1965-05-18",
+      "numero": "4632",
+      "urn": "urn:lex:br:federal:lei:1965-05-18;4632",
+      "ementa": "Altera o art. 64 do Código de Processo Civil (Decreto-lei nº 1.608, de 18 de setembro de 1939)."
+    },
+    {
+      "senadoId": "546487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-18-4634",
+      "titulo": "Lei nº 4.634 de 18/05/1965",
+      "data": "1965-05-18",
+      "numero": "4634",
+      "urn": "urn:lex:br:federal:lei:1965-05-18;4634",
+      "ementa": "Dispõe sobre a elevação do capital da Fábrica Nacional de Motores e dá   outras providências."
+    },
+    {
+      "senadoId": "546486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-18-4633",
+      "titulo": "Lei nº 4.633 de 18/05/1965",
+      "data": "1965-05-18",
+      "numero": "4633",
+      "urn": "urn:lex:br:federal:lei:1965-05-18;4633",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 2.750.000,00 (dois milhões, setecentos e cinqüenta mil cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "546484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-15-4631",
+      "titulo": "Lei nº 4.631 de 15/05/1965",
+      "data": "1965-05-15",
+      "numero": "4631",
+      "urn": "urn:lex:br:federal:lei:1965-05-15;4631",
+      "ementa": "Acrescenta parágrafo ao art. 6º da Lei nº 4.096, de 18 de julho de 1962 (Altera dispositivos da Lei nº 2.220, de 10 de julho de 1934), que dispõe sôbre a taxa a que ficaram sujeitas as entidades que exploram apostas sôbre corridas de cavalos."
+    },
+    {
+      "senadoId": "546482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-14-4629",
+      "titulo": "Lei nº 4.629 de 14/05/1965",
+      "data": "1965-05-14",
+      "numero": "4629",
+      "urn": "urn:lex:br:federal:lei:1965-05-14;4629",
+      "ementa": "Autoriza o Ministério da Aeronáutica a dar a denominação de \"Marechal   Rondon\" ao aeroporto que serve às cidades de Várzea Grande e Cuiabá, no Estado   do Mato Grosso."
+    },
+    {
+      "senadoId": "546483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-14-4630",
+      "titulo": "Lei nº 4.630 de 14/05/1965",
+      "data": "1965-05-14",
+      "numero": "4630",
+      "urn": "urn:lex:br:federal:lei:1965-05-14;4630",
+      "ementa": "Dá a denominação de \"Prefeito Emílio Sesti\" à barragem de Furnas do   Segrêdo, no Rio Jaguari, Rio Grande do Sul."
+    },
+    {
+      "senadoId": "546480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-13-4627",
+      "titulo": "Lei nº 4.627 de 13/05/1965",
+      "data": "1965-05-13",
+      "numero": "4627",
+      "urn": "urn:lex:br:federal:lei:1965-05-13;4627",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, do   crédito especial de Cr$ 130.000.000, (cento e trinta milhões de cruzeiros),   para o fim que menciona."
+    },
+    {
+      "senadoId": "546477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-13-4624",
+      "titulo": "Lei nº 4.624 de 13/05/1965",
+      "data": "1965-05-13",
+      "numero": "4624",
+      "urn": "urn:lex:br:federal:lei:1965-05-13;4624",
+      "ementa": "Permite a consignação em fôlha de pagamento de mensalidades e descontos em favor da Caixa Beneficente dos Empregados da Alfândega do Rio de Janeiro."
+    },
+    {
+      "senadoId": "546481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-13-4628",
+      "titulo": "Lei nº 4.628 de 13/05/1965",
+      "data": "1965-05-13",
+      "numero": "4628",
+      "urn": "urn:lex:br:federal:lei:1965-05-13;4628",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 25.874.000(vinte e cinco milhões, oitocentos e setenta e quatro mil cruzeiros) para atender às despesas decorrentes da revisão e remodelação das instalações elétricas do Palácio Itamaraty."
+    },
+    {
+      "senadoId": "546478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-13-4625",
+      "titulo": "Lei nº 4.625 de 13/05/1965",
+      "data": "1965-05-13",
+      "numero": "4625",
+      "urn": "urn:lex:br:federal:lei:1965-05-13;4625",
+      "ementa": "Dá a denominação de \"Rodovia Vital Brasil\" à BR-32."
+    },
+    {
+      "senadoId": "546479",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-13-4626",
+      "titulo": "Lei nº 4.626 de 13/05/1965",
+      "data": "1965-05-13",
+      "numero": "4626",
+      "urn": "urn:lex:br:federal:lei:1965-05-13;4626",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas o crédito especial de Cr$ 539.000.000,00 (quinhentos e trinta e nove   milhões de cruzeiros) para ocorrer a despesas com o pagamento de diferenças   salariais dos servidores do Pôrto do Rio de Janeiro."
+    },
+    {
+      "senadoId": "546476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-06-4623",
+      "titulo": "Lei nº 4.623 de 06/05/1965",
+      "data": "1965-05-06",
+      "numero": "4623",
+      "urn": "urn:lex:br:federal:lei:1965-05-06;4623",
+      "ementa": "Institui o \"Dia Nacional do ex-Combatente\"."
+    },
+    {
+      "senadoId": "546475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-05-03-4622",
+      "titulo": "Lei nº 4.622 de 03/05/1965",
+      "data": "1965-05-03",
+      "numero": "4622",
+      "urn": "urn:lex:br:federal:lei:1965-05-03;4622",
+      "ementa": "Concede isenção de tributos para importação de bens e dá outras providências."
+    },
+    {
+      "senadoId": "546474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-30-4621",
+      "titulo": "Lei nº 4.621 de 30/04/1965",
+      "data": "1965-04-30",
+      "numero": "4621",
+      "urn": "urn:lex:br:federal:lei:1965-04-30;4621",
+      "ementa": "Dispõe sôbre subscrição compulsória de Obrigações Reajustáveis do Tesouro Nacional pelas pessoas que recebem remuneração classificável na cédula \"C\" de rendimentos e dá outras providências."
+    },
+    {
+      "senadoId": "546473",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-28-4620",
+      "titulo": "Lei nº 4.620 de 28/04/1965",
+      "data": "1965-04-28",
+      "numero": "4620",
+      "urn": "urn:lex:br:federal:lei:1965-04-28;4620",
+      "ementa": "Isenta do impôsto único sobre energia elétrica a Rêde Elétrica   Piquete-Itajubá, no período que especifica."
+    },
+    {
+      "senadoId": "546472",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-28-4619",
+      "titulo": "Lei nº 4.619 de 28/04/1965",
+      "data": "1965-04-28",
+      "numero": "4619",
+      "urn": "urn:lex:br:federal:lei:1965-04-28;4619",
+      "ementa": "Dispõe sobre a ação regressiva da União contra seus Agentes."
+    },
+    {
+      "senadoId": "546470",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-15-4617",
+      "titulo": "Lei nº 4.617 de 15/04/1965",
+      "data": "1965-04-15",
+      "numero": "4617",
+      "urn": "urn:lex:br:federal:lei:1965-04-15;4617",
+      "ementa": "Cria o Fundo do Exército, e dá outras providências."
+    },
+    {
+      "senadoId": "546471",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-15-4618",
+      "titulo": "Lei nº 4.618 de 15/04/1965",
+      "data": "1965-04-15",
+      "numero": "4618",
+      "urn": "urn:lex:br:federal:lei:1965-04-15;4618",
+      "ementa": "Incorpora os Cursos da Campanha de Formação de Geólogos a Universidades Federais e dá outras providências."
+    },
+    {
+      "senadoId": "546468",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-15-4615",
+      "titulo": "Lei nº 4.615 de 15/04/1965",
+      "data": "1965-04-15",
+      "numero": "4615",
+      "urn": "urn:lex:br:federal:lei:1965-04-15;4615",
+      "ementa": "Concede pensão mensal especial aos voluntários e militares que prestaram serviço de guerra na Campanha de Canudos e dá outras providências."
+    },
+    {
+      "senadoId": "546469",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-15-4616",
+      "titulo": "Lei nº 4.616 de 15/04/1965",
+      "data": "1965-04-15",
+      "numero": "4616",
+      "urn": "urn:lex:br:federal:lei:1965-04-15;4616",
+      "ementa": "Autoriza a alienação do imóvel da União que menciona, situado no Estado da   Guanabara."
+    },
+    {
+      "senadoId": "546466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-02-4613",
+      "titulo": "Lei nº 4.613 de 02/04/1965",
+      "data": "1965-04-02",
+      "numero": "4613",
+      "urn": "urn:lex:br:federal:lei:1965-04-02;4613",
+      "ementa": "Isenta dos impostos de importação e de consumo, bem como da taxa de   despacho aduaneiro, os veículos especiais destinados a uso exclusivo de   paraplégicos ou pessoas portadoras de defeitos físicos ou quais fiquem   impossibilitados de utilizar os modelos comuns."
+    },
+    {
+      "senadoId": "546465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-02-4612",
+      "titulo": "Lei nº 4.612 de 02/04/1965",
+      "data": "1965-04-02",
+      "numero": "4612",
+      "urn": "urn:lex:br:federal:lei:1965-04-02;4612",
+      "ementa": "Concede isenção de direitos de importação e outros, para mercadorias   doadas pela General Conference of Seventh Day Adventists, dos Estados Unidos da   América do Norte, à União Sul-Brasileira, da Igreja Adventista do Sétimo   Dia."
+    },
+    {
+      "senadoId": "546464",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-02-4611",
+      "titulo": "Lei nº 4.611 de 02/04/1965",
+      "data": "1965-04-02",
+      "numero": "4611",
+      "urn": "urn:lex:br:federal:lei:1965-04-02;4611",
+      "ementa": "Modifica as normas processuais dos crimes previstos nos artigos 121, parágrafo 3º e 129, parágrafo 6º, do Código Penal. ;"
+    },
+    {
+      "senadoId": "546467",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-04-02-4614",
+      "titulo": "Lei nº 4.614 de 02/04/1965",
+      "data": "1965-04-02",
+      "numero": "4614",
+      "urn": "urn:lex:br:federal:lei:1965-04-02;4614",
+      "ementa": "Denomina \"Rodovia Lauro Müller\" a atual BR-59, que liga o Estado do Paraná   ao Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "546462",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-31-4609",
+      "titulo": "Lei nº 4.609 de 31/03/1965",
+      "data": "1965-03-31",
+      "numero": "4609",
+      "urn": "urn:lex:br:federal:lei:1965-03-31;4609",
+      "ementa": "Fixa novos valores para os símbolos dos cargos e das funções gratificadas do Quadro do Pessoal de Secretaria e Serviços Auxiliares do Tribunal de Justiça do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "546461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-31-4608",
+      "titulo": "Lei nº 4.608 de 31/03/1965",
+      "data": "1965-03-31",
+      "numero": "4608",
+      "urn": "urn:lex:br:federal:lei:1965-03-31;4608",
+      "ementa": "Fixa novos valôres para os símbolos dos cargos e das funções gratificadas do Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 3ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "546463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-31-4610",
+      "titulo": "Lei nº 4.610 de 31/03/1965",
+      "data": "1965-03-31",
+      "numero": "4610",
+      "urn": "urn:lex:br:federal:lei:1965-03-31;4610",
+      "ementa": "Fixa novos valôres para os símbolos dos cargos do Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 4ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "546459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-30-4606",
+      "titulo": "Lei nº 4.606 de 30/03/1965",
+      "data": "1965-03-30",
+      "numero": "4606",
+      "urn": "urn:lex:br:federal:lei:1965-03-30;4606",
+      "ementa": "Dispõe sôbre as comemorações do centenário de Epitácio   Pessoa."
+    },
+    {
+      "senadoId": "546458",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-30-4605",
+      "titulo": "Lei nº 4.605 de 30/03/1965",
+      "data": "1965-03-30",
+      "numero": "4605",
+      "urn": "urn:lex:br:federal:lei:1965-03-30;4605",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Marinha, o crédito especial de Cr$ 400.000.000 (quatrocentos milhões de cruzeiros), para a construção do Quartel de Fuzileiros Navais de Brasília."
+    },
+    {
+      "senadoId": "546460",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-30-4607",
+      "titulo": "Lei nº 4.607 de 30/03/1965",
+      "data": "1965-03-30",
+      "numero": "4607",
+      "urn": "urn:lex:br:federal:lei:1965-03-30;4607",
+      "ementa": "Ratifica convênio celebrado pela Prefeitura do Distrito Federal e autoriza   a inclusão no seu orçamento de verba correspondente até 1% das rendas   tributárias, para atender a despesas com a ;execução do ajuste."
+    },
+    {
+      "senadoId": "546457",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-30-4604",
+      "titulo": "Lei nº 4.604 de 30/03/1965",
+      "data": "1965-03-30",
+      "numero": "4604",
+      "urn": "urn:lex:br:federal:lei:1965-03-30;4604",
+      "ementa": "Altera o Decreto-lei nº 7.036, de 10 de novembro de 1944, que reforma a   Lei de Acidentes do Trabalho."
+    },
+    {
+      "senadoId": "546456",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-20-4603",
+      "titulo": "Lei nº 4.603 de 20/03/1965",
+      "data": "1965-03-20",
+      "numero": "4603",
+      "urn": "urn:lex:br:federal:lei:1965-03-20;4603",
+      "ementa": "Concede a denominação de \"Cidade Monumento da História Pátria\" à cidade de   São Vicente, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "546455",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-18-4602",
+      "titulo": "Lei nº 4.602 de 18/03/1965",
+      "data": "1965-03-18",
+      "numero": "4602",
+      "urn": "urn:lex:br:federal:lei:1965-03-18;4602",
+      "ementa": "Dispõe sôbre a fixação de coeficientes de correção monetária para os efeitos legais."
+    },
+    {
+      "senadoId": "546454",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-03-03-4601",
+      "titulo": "Lei nº 4.601 de 03/03/1965",
+      "data": "1965-03-03",
+      "numero": "4601",
+      "urn": "urn:lex:br:federal:lei:1965-03-03;4601",
+      "ementa": "Concede isenção de impostos de importação e de consumo, taxa de despacho aduaneiro e de emolumentos consulares, para um automóvel com transmissão automática a ser adquirido pelo Engenheiro da Petrobrás, Florivaldo Freire de Faria, tornado inválido em conseqüência da acidente sofrido em serviço."
+    },
+    {
+      "senadoId": "546449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-02-22-4596",
+      "titulo": "Lei nº 4.596 de 22/02/1965",
+      "data": "1965-02-22",
+      "numero": "4596",
+      "urn": "urn:lex:br:federal:lei:1965-02-22;4596",
+      "ementa": "Isenta do impôsto de importação e de consumo equipamento a ser importado   pela Rádio Sociedade Gaúcha S.A."
+    },
+    {
+      "senadoId": "546452",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-02-22-4599",
+      "titulo": "Lei nº 4.599 de 22/02/1965",
+      "data": "1965-02-22",
+      "numero": "4599",
+      "urn": "urn:lex:br:federal:lei:1965-02-22;4599",
+      "ementa": "Isenta da taxa de despacho aduaneiro, a que se refere o art. 66 da Lei nº   3.244, de 1957 a importação de camioneta doada à Federação das Sociedades de   Defesa Contra a Lepra."
+    },
+    {
+      "senadoId": "546451",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-02-22-4598",
+      "titulo": "Lei nº 4.598 de 22/02/1965",
+      "data": "1965-02-22",
+      "numero": "4598",
+      "urn": "urn:lex:br:federal:lei:1965-02-22;4598",
+      "ementa": "Isenta do impôsto de importação equipamento de televisão importado pela   Rádio Rio Limitada (TV - Rio)."
+    },
+    {
+      "senadoId": "546450",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-02-22-4597",
+      "titulo": "Lei nº 4.597 de 22/02/1965",
+      "data": "1965-02-22",
+      "numero": "4597",
+      "urn": "urn:lex:br:federal:lei:1965-02-22;4597",
+      "ementa": "Concede isenção de direitos aduaneiros, inclusive adicional de 10 %,   imposto de consumo e mais taxas alfandegárias para materiais importados pela   Companhia Telefônica Sul Bahiano, no Estado da Bahia."
+    },
+    {
+      "senadoId": "546453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1965-02-22-4600",
+      "titulo": "Lei nº 4.600 de 22/02/1965",
+      "data": "1965-02-22",
+      "numero": "4600",
+      "urn": "urn:lex:br:federal:lei:1965-02-22;4600",
+      "ementa": "Cria a Diretoria Regional dos Correios e Telégrafos de São José do Rio Prêto, Estado de São Paulo."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,2919 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2024",
+  "tipo": "LEI",
+  "ano": 2024,
+  "coletado_em": "2026-10-20T22:56:19.291Z",
+  "normas": [
+    {
+      "senadoId": "40035025",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-30-15080",
+      "titulo": "Lei nº 15.080 de 30/12/2024",
+      "data": "2024-12-30",
+      "numero": "15080",
+      "urn": "urn:lex:br:federal:lei:2024-12-30;15080",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025 e dá outras providências."
+    },
+    {
+      "senadoId": "40035256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-30-15082",
+      "titulo": "Lei nº 15.082 de 30/12/2024",
+      "data": "2024-12-30",
+      "numero": "15082",
+      "urn": "urn:lex:br:federal:lei:2024-12-30;15082",
+      "ementa": "Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio), para nela incluir os produtores independentes de matéria-prima destinada à produção de biocombustível; e altera a Lei nº 9.478, de 6 de agosto de 1997."
+    },
+    {
+      "senadoId": "40035193",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-30-15081",
+      "titulo": "Lei nº 15.081 de 30/12/2024",
+      "data": "2024-12-30",
+      "numero": "15081",
+      "urn": "urn:lex:br:federal:lei:2024-12-30;15081",
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida (PMCMV), para assegurar o apoio técnico e financeiro às iniciativas de regularização fundiária de assentamentos urbanos."
+    },
+    {
+      "senadoId": "40020095",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-27-15079",
+      "titulo": "Lei nº 15.079 de 27/12/2024",
+      "data": "2024-12-27",
+      "numero": "15079",
+      "urn": "urn:lex:br:federal:lei:2024-12-27;15079",
+      "ementa": "Institui o Adicional da Contribuição Social sobre o Lucro Líquido (CSLL) no processo de adaptação da legislação brasileira às Regras Globais Contra a Erosão da Base Tributária - Regras GloBE; e altera a Lei nº 9.430, de 27 de dezembro de 1996, e a Lei nº 12.973, de 13 de maio de 2014."
+    },
+    {
+      "senadoId": "40020117",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-27-15078",
+      "titulo": "Lei nº 15.078 de 27/12/2024",
+      "data": "2024-12-27",
+      "numero": "15078",
+      "urn": "urn:lex:br:federal:lei:2024-12-27;15078",
+      "ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil."
+    },
+    {
+      "senadoId": "40019691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-27-15077",
+      "titulo": "Lei nº 15.077 de 27/12/2024",
+      "data": "2024-12-27",
+      "numero": "15077",
+      "urn": "urn:lex:br:federal:lei:2024-12-27;15077",
+      "ementa": "Altera as Leis nºs 8.171, de 17 de janeiro de 1991 (Lei da Política Agrícola), 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), 14.601, de 19 de junho de 2023 (Lei do Programa Bolsa Família), e 14.995, de 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências."
+    },
+    {
+      "senadoId": "40012028",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-26-15076",
+      "titulo": "Lei nº 15.076 de 26/12/2024",
+      "data": "2024-12-26",
+      "numero": "15076",
+      "urn": "urn:lex:br:federal:lei:2024-12-26;15076",
+      "ementa": "Altera as Leis nºs 13.999, de 18 de maio de 2020, e 12.087, de 11 de novembro de 2009, para assegurar que os recursos do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) sejam permanentes, e a Lei nº 15.042, de 11 de dezembro de 2023, para dispor sobre o valor mínimo obrigatório a ser aplicado na aquisição de créditos de carbono pelas entidades que especifica."
+    },
+    {
+      "senadoId": "40012116",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-26-15074",
+      "titulo": "Lei nº 15.074 de 26/12/2024",
+      "data": "2024-12-26",
+      "numero": "15074",
+      "urn": "urn:lex:br:federal:lei:2024-12-26;15074",
+      "ementa": "Regula o exercício da profissão de geofísico."
+    },
+    {
+      "senadoId": "40011784",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-26-15072",
+      "titulo": "Lei nº 15.072 de 26/12/2024",
+      "data": "2024-12-26",
+      "numero": "15072",
+      "urn": "urn:lex:br:federal:lei:2024-12-26;15072",
+      "ementa": "Altera a Lei nº 8.212, de 24 de julho de 1991 (Lei Orgânica da Seguridade Social), e a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), para dispor sobre a condição de segurado especial dos associados em cooperativas."
+    },
+    {
+      "senadoId": "40012080",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-26-15073",
+      "titulo": "Lei nº 15.073 de 26/12/2024",
+      "data": "2024-12-26",
+      "numero": "15073",
+      "urn": "urn:lex:br:federal:lei:2024-12-26;15073",
+      "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), para prever sanções aos prestadores de serviços turísticos que cometerem infrações associadas à facilitação do turismo sexual."
+    },
+    {
+      "senadoId": "40012152",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-26-15075",
+      "titulo": "Lei nº 15.075 de 26/12/2024",
+      "data": "2024-12-26",
+      "numero": "15075",
+      "urn": "urn:lex:br:federal:lei:2024-12-26;15075",
+      "ementa": "Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre contratos para exploração e produção de petróleo e gás natural vigentes; altera as Leis nºs 12.304, de 2 de agosto de 2010, 12.351, de 22 de dezembro de 2010, e 14.871, de 28 de maio de 2024; e revoga a Medida Provisória nº 1.255, de 26 de agosto de 2024."
+    },
+    {
+      "senadoId": "39991707",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15053",
+      "titulo": "Lei nº 15.053 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15053",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15053",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da empresa Petrobras Netherlands B.V. - PNBV, crédito especial no valor total de R$ 67.352.000,00, para inclusão de programações na Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39991879",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15058",
+      "titulo": "Lei nº 15.058 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15058",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15058",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, crédito especial no valor de R$ 685.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39992604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15063",
+      "titulo": "Lei nº 15.063 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15063",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15063",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 25.510.081,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39992881",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15067",
+      "titulo": "Lei nº 15.067 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15067",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15067",
+      "ementa": "Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024."
+    },
+    {
+      "senadoId": "39992275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15061",
+      "titulo": "Lei nº 15.061 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15061",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15061",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor das empresas Araucária Nitrogenados S.A., Petrobras Biocombustível S.A. e Petróleo Brasileiro S.A., crédito especial no valor de R$ 552.847.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39991843",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15055",
+      "titulo": "Lei nº 15.055 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15055",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15055",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da empresa Petrobras International Braspetro B.V. - PIBBV, da empresa Petrobras Biocombustível S.A. - PBIO e da Empresa Brasileira de Correios e Telégrafos, crédito suplementar no valor de R$ 304.301.914,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39992066",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15059",
+      "titulo": "Lei nº 15.059 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15059",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15059",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Rio Grande do Norte, crédito suplementar no valor de R$ 16.089.714,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39991989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15057",
+      "titulo": "Lei nº 15.057 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15057",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15057",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, crédito especial no valor de R$ 500.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39992950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15068",
+      "titulo": "Lei nº 15.068 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15068",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15068",
+      "ementa": "Dispõe sobre os empreendimentos de economia solidária e a Política Nacional de Economia Solidária; cria o Sistema Nacional de Economia Solidária (Sinaes); e altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil)."
+    },
+    {
+      "senadoId": "39992210",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15060",
+      "titulo": "Lei nº 15.060 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15060",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15060",
+      "ementa": "Altera a Lei nº 14.802, de 10 de janeiro de 2024, que institui o Plano Plurianual da União para o período de 2024 a 2027."
+    },
+    {
+      "senadoId": "39992528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15064",
+      "titulo": "Lei nº 15.064 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15064",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15064",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério de Portos e Aeroportos, crédito especial no valor de R$ 15.400.839,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39993152",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15071",
+      "titulo": "Lei nº 15.071 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15071",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15071",
+      "ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais internacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover)."
+    },
+    {
+      "senadoId": "39991918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15056",
+      "titulo": "Lei nº 15.056 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15056",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15056",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39993086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15070",
+      "titulo": "Lei nº 15.070 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15070",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15070",
+      "ementa": "Dispõe sobre a produção, a importação, a exportação, o registro, a comercialização, o uso, a inspeção, a fiscalização, a pesquisa, a experimentação, a embalagem, a rotulagem, a propaganda, o transporte, o armazenamento, as taxas, a prestação de serviços, a destinação de resíduos e embalagens e os incentivos à produção de bioinsumos para uso agrícola, pecuário, aquícola e florestal; e altera as Leis nºs 14.785, de 27 de dezembro de 2023, 10.603, de 17 de dezembro de 2002, e 6.894, de 16 de dezembro de 1980."
+    },
+    {
+      "senadoId": "39993021",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15069",
+      "titulo": "Lei nº 15.069 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15069",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15069",
+      "ementa": "Institui a Política Nacional de Cuidados."
+    },
+    {
+      "senadoId": "39992733",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15065",
+      "titulo": "Lei nº 15.065 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15065",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15065",
+      "ementa": "Abre ao Orçamento de Investimento da União, em favor do Banco da Amazônia S.A., da Eletrobras Termonuclear S.A., da Petrobras Biocombustível S.A., da Companhia Docas do Ceará, e da Empresa Brasileira de Infraestrutura Aeroportuária, crédito suplementar no valor de R$ 200.329.507,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39992810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15066",
+      "titulo": "Lei nº 15.066 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15066",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15066",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 4.031.223.377,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39991778",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15054",
+      "titulo": "Lei nº 15.054 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15054",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15054",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento Agrário e Agricultura Familiar, crédito suplementar no valor de R$ 227.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39992513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-23-15062",
+      "titulo": "Lei nº 15.062 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "15062",
+      "urn": "urn:lex:br:federal:lei:2024-12-23;15062",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, crédito suplementar no valor de R$ 13.261.923,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "39985954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-20-15050",
+      "titulo": "Lei nº 15.050 de 20/12/2024",
+      "data": "2024-12-20",
+      "numero": "15050",
+      "urn": "urn:lex:br:federal:lei:2024-12-20;15050",
+      "ementa": "Confere o título de Capital Nacional do Capim Dourado ao Município de Mateiros, no Estado do Tocantins."
+    },
+    {
+      "senadoId": "39986046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-20-15052",
+      "titulo": "Lei nº 15.052 de 20/12/2024",
+      "data": "2024-12-20",
+      "numero": "15052",
+      "urn": "urn:lex:br:federal:lei:2024-12-20;15052",
+      "ementa": "Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de 2024."
+    },
+    {
+      "senadoId": "39986010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-20-15051",
+      "titulo": "Lei nº 15.051 de 20/12/2024",
+      "data": "2024-12-20",
+      "numero": "15051",
+      "urn": "urn:lex:br:federal:lei:2024-12-20;15051",
+      "ementa": "Confere o título de Capital Nacional da Farinha de Mandioca ao Município de Cruzeiro do Sul, no Estado do Acre."
+    },
+    {
+      "senadoId": "39978415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-19-15049",
+      "titulo": "Lei nº 15.049 de 19/12/2024",
+      "data": "2024-12-19",
+      "numero": "15049",
+      "urn": "urn:lex:br:federal:lei:2024-12-19;15049",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, e do Conselho Nacional de Justiça, crédito especial no valor de R$ 273.689.008,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39978391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-19-15048",
+      "titulo": "Lei nº 15.048 de 19/12/2024",
+      "data": "2024-12-19",
+      "numero": "15048",
+      "urn": "urn:lex:br:federal:lei:2024-12-19;15048",
+      "ementa": "Abre crédito extraordinário em favor de Operações Oficiais de Crédito, no valor de R$ 1.976.872.000,00 (um bilhão novecentos e setenta e seis milhões oitocentos e setenta e dois mil reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39953577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-17-15046",
+      "titulo": "Lei nº 15.046 de 17/12/2024",
+      "data": "2024-12-17",
+      "numero": "15046",
+      "urn": "urn:lex:br:federal:lei:2024-12-17;15046",
+      "ementa": "Autoriza a criação do Cadastro Nacional de Animais Domésticos."
+    },
+    {
+      "senadoId": "39959578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-17-15047",
+      "titulo": "Lei nº 15.047 de 17/12/2024",
+      "data": "2024-12-17",
+      "numero": "15047",
+      "urn": "urn:lex:br:federal:lei:2024-12-17;15047",
+      "ementa": "Institui o regime disciplinar da Polícia Federal e da Polícia Civil do Distrito Federal e revoga dispositivos da Lei nº 4.878, de 3 de dezembro de 1965."
+    },
+    {
+      "senadoId": "39949900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-16-15044",
+      "titulo": "Lei nº 15.044 de 16/12/2024",
+      "data": "2024-12-16",
+      "numero": "15044",
+      "urn": "urn:lex:br:federal:lei:2024-12-16;15044",
+      "ementa": "Institui o Dia Nacional do Metodismo Wesleyano."
+    },
+    {
+      "senadoId": "39949830",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-16-15045",
+      "titulo": "Lei nº 15.045 de 16/12/2024",
+      "data": "2024-12-16",
+      "numero": "15045",
+      "urn": "urn:lex:br:federal:lei:2024-12-16;15045",
+      "ementa": "Denomina \"Ponte Nicanor Azambuja, João Dóglia e Diogo Madruga\" a ponte sobre o Rio Camaquã, na rodovia BR-153, na divisa dos Municípios de Bagé e Caçapava do Sul, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "39949798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-16-15043",
+      "titulo": "Lei nº 15.043 de 16/12/2024",
+      "data": "2024-12-16",
+      "numero": "15043",
+      "urn": "urn:lex:br:federal:lei:2024-12-16;15043",
+      "ementa": "Autoriza o Poder Executivo a doar área para a instalação da Embaixada da República de Cabo Verde."
+    },
+    {
+      "senadoId": "39923461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-11-15042",
+      "titulo": "Lei nº 15.042 de 11/12/2024",
+      "data": "2024-12-11",
+      "numero": "15042",
+      "urn": "urn:lex:br:federal:lei:2024-12-11;15042",
+      "ementa": "Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE); e altera as Leis nºs 12.187, de 29 de dezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de 1976 (Lei da Comissão de Valores Mobiliários), e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos)."
+    },
+    {
+      "senadoId": "39893386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-09-15039",
+      "titulo": "Lei nº 15.039 de 09/12/2024",
+      "data": "2024-12-09",
+      "numero": "15039",
+      "urn": "urn:lex:br:federal:lei:2024-12-09;15039",
+      "ementa": "Altera os limites da Reserva Extrativista do Rio Ouro Preto, define sua zona de amortecimento e amplia a Reserva Extrativista do Lago do Cuniã."
+    },
+    {
+      "senadoId": "39893545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-09-15040",
+      "titulo": "Lei nº 15.040 de 09/12/2024",
+      "data": "2024-12-09",
+      "numero": "15040",
+      "urn": "urn:lex:br:federal:lei:2024-12-09;15040",
+      "ementa": "Dispõe sobre normas de seguro privado; e revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e do Decreto-Lei nº 73, de 21 de novembro de 1966."
+    },
+    {
+      "senadoId": "39893674",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-12-09-15041",
+      "titulo": "Lei nº 15.041 de 09/12/2024",
+      "data": "2024-12-09",
+      "numero": "15041",
+      "urn": "urn:lex:br:federal:lei:2024-12-09;15041",
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para dispor sobre os subsistemas esportivos privados, e revoga dispositivos da Lei nº 9.615, de 24 de março de 1998 (Lei Pelé)."
+    },
+    {
+      "senadoId": "39870981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-29-15038",
+      "titulo": "Lei nº 15.038 de 29/11/2024",
+      "data": "2024-11-29",
+      "numero": "15038",
+      "urn": "urn:lex:br:federal:lei:2024-11-29;15038",
+      "ementa": "Autoriza o Poder Executivo federal a conceder subvenção econômica, sob a forma de desconto para liquidação ou renegociação de parcelas de operações de crédito rural de custeio, de investimento e de industrialização contratadas por mutuários afetados com perdas materiais decorrentes dos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do Decreto Legislativo nº 36, de 7 de maio de 2024, em Municípios do Estado do Rio Grande do Sul que tiveram estado de calamidade pública ou situação de emergência reconhecidos pelo Poder Executivo federal; autoriza as instituições financeiras a operarem com mutuários nas condições que especifica; altera as Leis nºs 14.042, de 19 de agosto de 2020, 8.427, de 27 de maio de 1992, 14.981, de 20 de setembro de 2024, e 13.001, de 20 de junho de 2014; e revoga as Medidas Provisórias nºs 1.247, de 31 de julho de 2024, e 1.272, de 25 de outubro de 2024."
+    },
+    {
+      "senadoId": "39870945",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-29-15037",
+      "titulo": "Lei nº 15.037 de 29/11/2024",
+      "data": "2024-11-29",
+      "numero": "15037",
+      "urn": "urn:lex:br:federal:lei:2024-11-29;15037",
+      "ementa": "Altera a Lei nº14.606, de 20 de junho de 2023, para especificar que o símbolo da campanha de conscientização sobre a doença de Parkinson será uma tulipa vermelha denominada Dr. James Parkinson, desenvolvida pelo floricultor holandês J.W.S. Van der Wereld."
+    },
+    {
+      "senadoId": "39864140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-27-15036",
+      "titulo": "Lei nº 15.036 de 27/11/2024",
+      "data": "2024-11-27",
+      "numero": "15036",
+      "urn": "urn:lex:br:federal:lei:2024-11-27;15036",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Gestão e da Inovação em Serviços Públicos, do Ministério do Desenvolvimento Agrário e Agricultura Familiar, do Ministério da Integração e do Desenvolvimento Regional, do Banco Central do Brasil e de Encargos Financeiros da União, no valor de R$ 1.253.601.800,00 (um bilhão duzentos e cinquenta e três milhões seiscentos e um mil e oitocentos reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39864147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-27-15035",
+      "titulo": "Lei nº 15.035 de 27/11/2024",
+      "data": "2024-11-27",
+      "numero": "15035",
+      "urn": "urn:lex:br:federal:lei:2024-11-27;15035",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para permitir a consulta pública do nome completo e do número de inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas condenadas por crimes contra a dignidade sexual, garantido o sigilo do processo e das informações relativas à vítima, e a Lei nº 14.069, de 1º de outubro de 2020, para determinar a criação do Cadastro Nacional de Pedófilos e Predadores Sexuais."
+    },
+    {
+      "senadoId": "39864063",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-27-15034",
+      "titulo": "Lei nº 15.034 de 27/11/2024",
+      "data": "2024-11-27",
+      "numero": "15034",
+      "urn": "urn:lex:br:federal:lei:2024-11-27;15034",
+      "ementa": "Altera a Lei nº 13.999, de 18 de maio de 2020, e a Lei nº 12.087, de 11 de novembro de 2009, para autorizar o aumento da participação da União no Fundo Garantidor de Operações (FGO), com o objetivo de garantir as operações contratadas no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf); e dá outras providências."
+    },
+    {
+      "senadoId": "39862049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-26-15033",
+      "titulo": "Lei nº 15.033 de 26/11/2024",
+      "data": "2024-11-26",
+      "numero": "15033",
+      "urn": "urn:lex:br:federal:lei:2024-11-26;15033",
+      "ementa": "Autoriza transferência de capital, a título de contribuição, mediante celebração de convênios entre a União e as Associações de Proteção e Assistência aos Condenados (APACs), em atenção ao disposto no § 6º do art. 12 da Lei nº 4.320, de 17 de março de 1964."
+    },
+    {
+      "senadoId": "39851570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-21-15031",
+      "titulo": "Lei nº 15.031 de 21/11/2024",
+      "data": "2024-11-21",
+      "numero": "15031",
+      "urn": "urn:lex:br:federal:lei:2024-11-21;15031",
+      "ementa": "Denomina \"Rodovia Doutor Luciano Heitor Beiguelman\" o trecho da rodovia BR-153 entre os Municípios de Icém e Nova Granada, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "39851599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-21-15032",
+      "titulo": "Lei nº 15.032 de 21/11/2024",
+      "data": "2024-11-21",
+      "numero": "15032",
+      "urn": "urn:lex:br:federal:lei:2024-11-21;15032",
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para condicionar a transferência de recursos públicos a compromisso de adoção de medidas para proteção de crianças e de adolescentes contra abuso sexual."
+    },
+    {
+      "senadoId": "39838939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-18-15030",
+      "titulo": "Lei nº 15.030 de 18/11/2024",
+      "data": "2024-11-18",
+      "numero": "15030",
+      "urn": "urn:lex:br:federal:lei:2024-11-18;15030",
+      "ementa": "Denomina Rodovia Dom Luciano Pedro Mendes de Almeida trecho da BR-356 no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "39837781",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-18-15028",
+      "titulo": "Lei nº 15.028 de 18/11/2024",
+      "data": "2024-11-18",
+      "numero": "15028",
+      "urn": "urn:lex:br:federal:lei:2024-11-18;15028",
+      "ementa": "Denomina \"Rodovia Governador Benedito Valadares\" o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "39838481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-18-15027",
+      "titulo": "Lei nº 15.027 de 18/11/2024",
+      "data": "2024-11-18",
+      "numero": "15027",
+      "urn": "urn:lex:br:federal:lei:2024-11-18;15027",
+      "ementa": "Reconhece como patrimônio cultural material do Brasil o acervo jornalístico do Diario de Pernambuco."
+    },
+    {
+      "senadoId": "39838445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-18-15026",
+      "titulo": "Lei nº 15.026 de 18/11/2024",
+      "data": "2024-11-18",
+      "numero": "15026",
+      "urn": "urn:lex:br:federal:lei:2024-11-18;15026",
+      "ementa": "Dispõe sobre a aplicação das Leis nºs 4.950-A, de 22 de abril de 1966, 5.194, de 24 de dezembro de 1966, e 7.410, de 27 de novembro de 1985, aos diplomados em Geologia ou Engenharia Geológica."
+    },
+    {
+      "senadoId": "39838903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-18-15029",
+      "titulo": "Lei nº 15.029 de 18/11/2024",
+      "data": "2024-11-18",
+      "numero": "15029",
+      "urn": "urn:lex:br:federal:lei:2024-11-18;15029",
+      "ementa": "Denomina \"Rodovia Janaína Borges de Oliveira\" o trecho da rodovia BR-116 entre os bairros Ruy Coelho Gonçalves e Jardim Santa Rita, no Município de Guaíba, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "39826878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-13-15025",
+      "titulo": "Lei nº 15.025 de 13/11/2024",
+      "data": "2024-11-13",
+      "numero": "15025",
+      "urn": "urn:lex:br:federal:lei:2024-11-13;15025",
+      "ementa": "Abre crédito extraordinário em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de R$ 1.454.799.092,00 (um bilhão quatrocentos e cinquenta e quatro milhões setecentos e noventa e nove mil e noventa e dois reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39826831",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-13-15023",
+      "titulo": "Lei nº 15.023 de 13/11/2024",
+      "data": "2024-11-13",
+      "numero": "15023",
+      "urn": "urn:lex:br:federal:lei:2024-11-13;15023",
+      "ementa": "Abre crédito extraordinário em favor da Justiça do Trabalho e do Ministério Público da União, no valor de R$ 27.163.242,00 (vinte e sete milhões cento e sessenta e três mil duzentos e quarenta e dois reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39823043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-13-15022",
+      "titulo": "Lei nº 15.022 de 13/11/2024",
+      "data": "2024-11-13",
+      "numero": "15022",
+      "urn": "urn:lex:br:federal:lei:2024-11-13;15022",
+      "ementa": "Estabelece o Inventário Nacional de Substâncias Químicas e a avaliação e o controle de risco das substâncias químicas utilizadas, produzidas ou importadas, no território nacional, com o objetivo de minimizar os impactos adversos à saúde e ao meio ambiente; e dá outras providências."
+    },
+    {
+      "senadoId": "39826768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-13-15024",
+      "titulo": "Lei nº 15.024 de 13/11/2024",
+      "data": "2024-11-13",
+      "numero": "15024",
+      "urn": "urn:lex:br:federal:lei:2024-11-13;15024",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Agricultura e Pecuária, no valor de R$ 230.891.005,00 (duzentos e trinta milhões oitocentos e noventa e um mil e cinco reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39817564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15019",
+      "titulo": "Lei nº 15.019 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15019",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15019",
+      "ementa": "Inclui no calendário turístico oficial do País o Cerejeiras Festival, evento realizado no Município de Garça, Estado de São Paulo."
+    },
+    {
+      "senadoId": "39817590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15017",
+      "titulo": "Lei nº 15.017 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15017",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15017",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a publicização de dados e microdados coletados nos censos da educação básica e superior e nos respectivos exames e sistemas de avaliação."
+    },
+    {
+      "senadoId": "39817700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15020",
+      "titulo": "Lei nº 15.020 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15020",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15020",
+      "ementa": "Inscreve o nome de Darcy Ribeiro no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "39817808",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15016",
+      "titulo": "Lei nº 15.016 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15016",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15016",
+      "ementa": "Confere o título de Capital Nacional dos Rodeios Crioulos ao Município de Vacaria, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "39817772",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15015",
+      "titulo": "Lei nº 15.015 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15015",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15015",
+      "ementa": "Concede ao Município de Irineópolis, no Estado de Santa Catarina, o título de Capital Nacional do Trator."
+    },
+    {
+      "senadoId": "39817626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15018",
+      "titulo": "Lei nº 15.018 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15018",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15018",
+      "ementa": "Institui o Dia Nacional do Maracatu."
+    },
+    {
+      "senadoId": "39817736",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-12-15021",
+      "titulo": "Lei nº 15.021 de 12/11/2024",
+      "data": "2024-11-12",
+      "numero": "15021",
+      "urn": "urn:lex:br:federal:lei:2024-11-12;15021",
+      "ementa": "Dispõe sobre o controle de material genético animal e sobre a obtenção e o fornecimento de clones de animais domésticos destinados à produção de animais domésticos de interesse zootécnico e dá outras providências."
+    },
+    {
+      "senadoId": "39810191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-06-15014",
+      "titulo": "Lei nº 15.014 de 06/11/2024",
+      "data": "2024-11-06",
+      "numero": "15014",
+      "urn": "urn:lex:br:federal:lei:2024-11-06;15014",
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para prever a concessão de indenização de transporte ao Agente Comunitário de Saúde e ao Agente de Combate às Endemias como forma de custeio de locomoção."
+    },
+    {
+      "senadoId": "39807826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-04-15013",
+      "titulo": "Lei nº 15.013 de 04/11/2024",
+      "data": "2024-11-04",
+      "numero": "15013",
+      "urn": "urn:lex:br:federal:lei:2024-11-04;15013",
+      "ementa": "Institui o Dia Nacional do Artista Vidreiro."
+    },
+    {
+      "senadoId": "39807790",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-04-15012",
+      "titulo": "Lei nº 15.012 de 04/11/2024",
+      "data": "2024-11-04",
+      "numero": "15012",
+      "urn": "urn:lex:br:federal:lei:2024-11-04;15012",
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, para conferir publicidade a documentos referentes à regulação e à fiscalização dos serviços públicos de saneamento básico, bem como aos direitos e deveres dos usuários e prestadores, e para instituir como direito da população o acesso a relatórios periódicos sobre o nível dos reservatórios de água para abastecimento público e a outros dados relativos à segurança hídrica."
+    },
+    {
+      "senadoId": "39806434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-11-01-15011",
+      "titulo": "Lei nº 15.011 de 01/11/2024",
+      "data": "2024-11-01",
+      "numero": "15011",
+      "urn": "urn:lex:br:federal:lei:2024-11-01;15011",
+      "ementa": "Confere ao Município de Jaraguá do Sul, no Estado de Santa Catarina, o título de Capital Nacional dos Atiradores."
+    },
+    {
+      "senadoId": "39803040",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-30-15010",
+      "titulo": "Lei nº 15.010 de 30/10/2024",
+      "data": "2024-10-30",
+      "numero": "15010",
+      "urn": "urn:lex:br:federal:lei:2024-10-30;15010",
+      "ementa": "Abre crédito extraordinário em favor da Justiça Federal, da Defensoria Pública da União, do Ministério do Trabalho e Emprego e de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00 (dois bilhões trinta e seis milhões seiscentos e noventa e quatro mil e sete reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39799719",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-29-15009",
+      "titulo": "Lei nº 15.009 de 29/10/2024",
+      "data": "2024-10-29",
+      "numero": "15009",
+      "urn": "urn:lex:br:federal:lei:2024-10-29;15009",
+      "ementa": "Altera a Lei nº 13.733, de 16 de novembro de 2018, para instituir o Outubrinho Rosa, a ser realizado no mês de outubro."
+    },
+    {
+      "senadoId": "39778686",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-17-15007",
+      "titulo": "Lei nº 15.007 de 17/10/2024",
+      "data": "2024-10-17",
+      "numero": "15007",
+      "urn": "urn:lex:br:federal:lei:2024-10-17;15007",
+      "ementa": "Denomina \"Passarela Aureliano Henriques Brotto\" a passarela situada no Km 201,7 da BR-116, na Rodovia Presidente Dutra, no Município de Arujá, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "39778614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-17-15005",
+      "titulo": "Lei nº 15.005 de 17/10/2024",
+      "data": "2024-10-17",
+      "numero": "15005",
+      "urn": "urn:lex:br:federal:lei:2024-10-17;15005",
+      "ementa": "Reconhece o artesanato em capim dourado como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "39778650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-17-15006",
+      "titulo": "Lei nº 15.006 de 17/10/2024",
+      "data": "2024-10-17",
+      "numero": "15006",
+      "urn": "urn:lex:br:federal:lei:2024-10-17;15006",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para criar a Semana Nacional de Prevenção a Acidentes com Motociclistas e instituir o Dia Nacional do Motociclista."
+    },
+    {
+      "senadoId": "39778722",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-17-15008",
+      "titulo": "Lei nº 15.008 de 17/10/2024",
+      "data": "2024-10-17",
+      "numero": "15008",
+      "urn": "urn:lex:br:federal:lei:2024-10-17;15008",
+      "ementa": "Regulamenta o Rodeio Crioulo como atividade da cultura popular."
+    },
+    {
+      "senadoId": "39772992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-16-15004",
+      "titulo": "Lei nº 15.004 de 16/10/2024",
+      "data": "2024-10-16",
+      "numero": "15004",
+      "urn": "urn:lex:br:federal:lei:2024-10-16;15004",
+      "ementa": "Confere o título de Capital Nacional da Biodiversidade Marinha ao Município de Guarapari, no Estado do Espírito Santo."
+    },
+    {
+      "senadoId": "39772884",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-16-15001",
+      "titulo": "Lei nº 15.001 de 16/10/2024",
+      "data": "2024-10-16",
+      "numero": "15001",
+      "urn": "urn:lex:br:federal:lei:2024-10-16;15001",
+      "ementa": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 10.973, de 2 de dezembro de 2004, para estabelecer requisitos mínimos de transparência pública e controle social em matéria educacional."
+    },
+    {
+      "senadoId": "39772956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-16-15003",
+      "titulo": "Lei nº 15.003 de 16/10/2024",
+      "data": "2024-10-16",
+      "numero": "15003",
+      "urn": "urn:lex:br:federal:lei:2024-10-16;15003",
+      "ementa": "Inscreve o nome de André Pinto Rebouças no Livro de Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "39772920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-16-15002",
+      "titulo": "Lei nº 15.002 de 16/10/2024",
+      "data": "2024-10-16",
+      "numero": "15002",
+      "urn": "urn:lex:br:federal:lei:2024-10-16;15002",
+      "ementa": "Denomina \"Rodovia Alberto Dauaire\" o trecho da rodovia BR-356 entre as cidades de São João da Barra e Campos dos Goytacazes, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "39770332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-15-15000",
+      "titulo": "Lei nº 15.000 de 15/10/2024",
+      "data": "2024-10-15",
+      "numero": "15000",
+      "urn": "urn:lex:br:federal:lei:2024-10-15;15000",
+      "ementa": "Declara o educador Anísio Teixeira Patrono da Escola Pública Brasileira."
+    },
+    {
+      "senadoId": "39770260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-15-14998",
+      "titulo": "Lei nº 14.998 de 15/10/2024",
+      "data": "2024-10-15",
+      "numero": "14998",
+      "urn": "urn:lex:br:federal:lei:2024-10-15;14998",
+      "ementa": "Institui o Dia Nacional da Música Gospel."
+    },
+    {
+      "senadoId": "39770188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-15-14996",
+      "titulo": "Lei nº 14.996 de 15/10/2024",
+      "data": "2024-10-15",
+      "numero": "14996",
+      "urn": "urn:lex:br:federal:lei:2024-10-15;14996",
+      "ementa": "Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira."
+    },
+    {
+      "senadoId": "39770224",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-15-14997",
+      "titulo": "Lei nº 14.997 de 15/10/2024",
+      "data": "2024-10-15",
+      "numero": "14997",
+      "urn": "urn:lex:br:federal:lei:2024-10-15;14997",
+      "ementa": "Reconhece como manifestação da cultura nacional a Festa do Sairé, realizada no distrito de Alter do Chão, no Município de Santarém, no Estado do Pará."
+    },
+    {
+      "senadoId": "39770296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-15-14999",
+      "titulo": "Lei nº 14.999 de 15/10/2024",
+      "data": "2024-10-15",
+      "numero": "14999",
+      "urn": "urn:lex:br:federal:lei:2024-10-15;14999",
+      "ementa": "Inscreve o nome de Eduardo Henrique Accioly Campos no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "39754968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-10-14995",
+      "titulo": "Lei nº 14.995 de 10/10/2024",
+      "data": "2024-10-10",
+      "numero": "14995",
+      "urn": "urn:lex:br:federal:lei:2024-10-10;14995",
+      "ementa": "Institui o Programa Acredita no Primeiro Passo e o Programa de Mobilização de Capital Privado Externo e Proteção Cambial - Programa Eco Invest Brasil; altera a Lei nº 13.999, de 18 de maio de 2020, para instituir o Programa de Crédito e Financiamento de Dívidas de Microempreendedores Individuais e Microempresas - Procred 360; institui o Programa de Renegociação de Dívidas de Microempreendedores Individuais, Microempresas, Empresas de Pequeno Porte e Sociedades Cooperativas -Desenrola Pequenos Negócios; cria linha de crédito especial para financiar a aquisição de veículos destinados à renovação da frota utilizada na prestação de serviços de táxi; altera a Medida Provisória nº 2.196-3, de 24 de agosto de 2001, e as Leis nºs 7.827, de 27 de setembro de 1989, 10.735, de 11 de setembro de 2003, 12.087, de 11 de novembro de 2009, 13.340, de 28 de setembro de 2016, 13.606, de 9 de janeiro de 2018, 14.042, de 19 de agosto de 2020, 14.165, de 10 de junho de 2021, e 14.166, de 10 de junho de 2021; e dá outras providências."
+    },
+    {
+      "senadoId": "39748605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-09-14994",
+      "titulo": "Lei nº 14.994 de 09/10/2024",
+      "data": "2024-10-09",
+      "numero": "14994",
+      "urn": "urn:lex:br:federal:lei:2024-10-09;14994",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), o Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais), a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha) e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para tornar o feminicídio crime autônomo, agravar a sua pena e a de outros crimes praticados contra a mulher por razões da condição do sexo feminino, bem como para estabelecer outras medidas destinadas a prevenir e coibir a violência praticada contra a mulher."
+    },
+    {
+      "senadoId": "39738545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-08-14993",
+      "titulo": "Lei nº 14.993 de 08/10/2024",
+      "data": "2024-10-08",
+      "numero": "14993",
+      "urn": "urn:lex:br:federal:lei:2024-10-08;14993",
+      "ementa": "Dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de carbono; institui o Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV), o Programa Nacional de Diesel Verde (PNDV) e o Programa Nacional de Descarbonização do Produtor e Importador de Gás Natural e de Incentivo ao Biometano; altera as Leis nºs 9.478, de 6 de agosto de 1997, 9.847, de 26 de outubro de 1999, 8.723, de 28 de outubro de 1993, e 13.033, de 24 de setembro de 2014; e revoga dispositivo da Lei nº 10.438, de 26 de abril de 2002."
+    },
+    {
+      "senadoId": "39725816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-10-03-14992",
+      "titulo": "Lei nº 14.992 de 03/10/2024",
+      "data": "2024-10-03",
+      "numero": "14992",
+      "urn": "urn:lex:br:federal:lei:2024-10-03;14992",
+      "ementa": "Altera a Lei nº 13.667, de 17 de maio de 2018, para estabelecer medidas que favoreçam a inserção de pessoas com transtorno do espectro autista no mercado de trabalho."
+    },
+    {
+      "senadoId": "39715992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-27-14991",
+      "titulo": "Lei nº 14.991 de 27/09/2024",
+      "data": "2024-09-27",
+      "numero": "14991",
+      "urn": "urn:lex:br:federal:lei:2024-09-27;14991",
+      "ementa": "Reconhece os modos de produção dos instrumentos musicais de samba e as práticas a eles associadas como manifestações da cultura nacional."
+    },
+    {
+      "senadoId": "39716074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-27-14990",
+      "titulo": "Lei nº 14.990 de 27/09/2024",
+      "data": "2024-09-27",
+      "numero": "14990",
+      "urn": "urn:lex:br:federal:lei:2024-09-27;14990",
+      "ementa": "Institui o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC); e altera a Lei nº 14.948, de 2 de agosto de 2024."
+    },
+    {
+      "senadoId": "39712151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-25-14987",
+      "titulo": "Lei nº 14.987 de 25/09/2024",
+      "data": "2024-09-25",
+      "numero": "14987",
+      "urn": "urn:lex:br:federal:lei:2024-09-25;14987",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estender o direito ao atendimento psicossocial às crianças e aos adolescentes que tiverem qualquer dos pais ou responsáveis vitimado por grave violência ou preso em regime fechado."
+    },
+    {
+      "senadoId": "39712220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-25-14988",
+      "titulo": "Lei nº 14.988 de 25/09/2024",
+      "data": "2024-09-25",
+      "numero": "14988",
+      "urn": "urn:lex:br:federal:lei:2024-09-25;14988",
+      "ementa": "Institui a Semana Cultural Interescolar nos estabelecimentos de ensino fundamental e médio."
+    },
+    {
+      "senadoId": "39712297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-25-14986",
+      "titulo": "Lei nº 14.986 de 25/09/2024",
+      "data": "2024-09-25",
+      "numero": "14986",
+      "urn": "urn:lex:br:federal:lei:2024-09-25;14986",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir a obrigatoriedade de abordagens fundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares do ensino fundamental e médio; e institui a Semana de Valorização de Mulheres que Fizeram História no âmbito das escolas de educação básica do País."
+    },
+    {
+      "senadoId": "39712283",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-25-14989",
+      "titulo": "Lei nº 14.989 de 25/09/2024",
+      "data": "2024-09-25",
+      "numero": "14989",
+      "urn": "urn:lex:br:federal:lei:2024-09-25;14989",
+      "ementa": "Dispõe sobre medidas para o enfrentamento de emergência fitossanitária ou zoossanitária; autoriza o custeio de deslocamento de integrantes do Sistema Unificado de Atenção à Sanidade Agropecuária (Suasa) em operações da defesa agropecuária; e altera a Lei nº 8.745, de 9 de dezembro de 1993."
+    },
+    {
+      "senadoId": "39697520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-24-14984",
+      "titulo": "Lei nº 14.984 de 24/09/2024",
+      "data": "2024-09-24",
+      "numero": "14984",
+      "urn": "urn:lex:br:federal:lei:2024-09-24;14984",
+      "ementa": "Altera a Lei nº 11.597, de 29 de novembro de 2007, para possibilitar a organização do Livro dos Heróis e Heroínas da Pátria em subdivisões físicas, como volumes, seções ou tomos."
+    },
+    {
+      "senadoId": "39697568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-24-14985",
+      "titulo": "Lei nº 14.985 de 24/09/2024",
+      "data": "2024-09-24",
+      "numero": "14985",
+      "urn": "urn:lex:br:federal:lei:2024-09-24;14985",
+      "ementa": "Confere o título de Vale Nacional dos Dinossauros ao Município de Cruzeiro do Oeste, no Estado do Paraná."
+    },
+    {
+      "senadoId": "39686235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-20-14981",
+      "titulo": "Lei nº 14.981 de 20/09/2024",
+      "data": "2024-09-20",
+      "numero": "14981",
+      "urn": "urn:lex:br:federal:lei:2024-09-20;14981",
+      "ementa": "Dispõe sobre medidas excepcionais para a aquisição de bens e a contratação de obras e de serviços, inclusive de engenharia, destinados ao enfrentamento de impactos decorrentes de estado de calamidade pública; autoriza o Poder Executivo federal a conceder subvenção econômica a mutuários afetados com perdas materiais nas áreas atingidas pelos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do Decreto Legislativo nº 36, de 7 de maio de 2024; altera as Leis nºs 13.999, de 18 de maio de 2020, 14.042, de 19 de agosto de 2020, e 12.351, de 22 de dezembro de 2010; autoriza o Poder Executivo federal a conceder subvenção econômica para constituição de escritórios de projetos; estabelece normas para facilitação de acesso a crédito, em virtude dos efeitos negativos decorrentes de desastres naturais; revoga as Medidas Provisórias nºs 1.221, de 17 de maio de 2024, 1.226, de 29 de maio de 2024, e 1.245, de 18 de julho de 2024; e dá outras providências."
+    },
+    {
+      "senadoId": "39686418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-20-14983",
+      "titulo": "Lei nº 14.983 de 20/09/2024",
+      "data": "2024-09-20",
+      "numero": "14983",
+      "urn": "urn:lex:br:federal:lei:2024-09-20;14983",
+      "ementa": "Altera a Lei nº 12.777, de 28 de dezembro de 2012, para dispor sobre regras aplicáveis às vantagens pessoais nominalmente identificadas dos servidores ativos, inativos e pensionistas do Quadro de Pessoal da Câmara dos Deputados."
+    },
+    {
+      "senadoId": "39686159",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-20-14982",
+      "titulo": "Lei nº 14.982 de 20/09/2024",
+      "data": "2024-09-20",
+      "numero": "14982",
+      "urn": "urn:lex:br:federal:lei:2024-09-20;14982",
+      "ementa": "Dispõe sobre regras aplicáveis às vantagens pessoais nominalmente identificáveis dos servidores ativos e inativos e dos pensionistas do Quadro de Pessoal do Senado Federal."
+    },
+    {
+      "senadoId": "39644824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-18-14977",
+      "titulo": "Lei nº 14.977 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "14977",
+      "urn": "urn:lex:br:federal:lei:2024-09-18;14977",
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre a produção, por laboratórios farmacêuticos de natureza pública, de princípios ativos destinados ao tratamento de doenças determinadas socialmente."
+    },
+    {
+      "senadoId": "39644899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-18-14979",
+      "titulo": "Lei nº 14.979 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "14979",
+      "urn": "urn:lex:br:federal:lei:2024-09-18;14979",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a fim de tornar obrigatória, para a autoridade judiciária, a consulta aos cadastros estaduais, distrital e nacional de crianças e adolescentes em condições de serem adotados e de pessoas ou casais habilitados à adoção."
+    },
+    {
+      "senadoId": "39644648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-18-14976",
+      "titulo": "Lei nº 14.976 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "14976",
+      "urn": "urn:lex:br:federal:lei:2024-09-18;14976",
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), a fim de dispor sobre a competência dos juizados especiais cíveis para o processamento e o julgamento das causas previstas no inciso II do art. 275 da Lei nº 5.869, de 11 de janeiro de 1973."
+    },
+    {
+      "senadoId": "39644747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-18-14975",
+      "titulo": "Lei nº 14.975 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "14975",
+      "urn": "urn:lex:br:federal:lei:2024-09-18;14975",
+      "ementa": "Institui a Política Nacional de Incentivo à Cocoicultura de Qualidade."
+    },
+    {
+      "senadoId": "39644783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-18-14978",
+      "titulo": "Lei nº 14.978 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "14978",
+      "urn": "urn:lex:br:federal:lei:2024-09-18;14978",
+      "ementa": "Altera as Leis nºs 7.064, de 6 de dezembro de 1982, 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), 12.462, de 4 de agosto de 2011, 13.097, de 19 de janeiro de 2015, e 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para promover a modernização do turismo; dispõe sobre a transferência de empregados da Infraero; revoga o Decreto-Lei nº 1.439, de 30 de dezembro de 1975, e a Lei nº 6.513, de 20 de dezembro de 1977, e dispositivos das Leis nºs 12.833, de 20 de junho de 2013, e 12.974, de 15 de maio de 2014."
+    },
+    {
+      "senadoId": "39644935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-18-14980",
+      "titulo": "Lei nº 14.980 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "14980",
+      "urn": "urn:lex:br:federal:lei:2024-09-18;14980",
+      "ementa": "Institui o projeto Adote um Museu e o Dia Nacional do Museu, para incentivar ações de preservação e de valorização da memória histórica, artística e cultural."
+    },
+    {
+      "senadoId": "39625610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-16-14973",
+      "titulo": "Lei nº 14.973 de 16/09/2024",
+      "data": "2024-09-16",
+      "numero": "14973",
+      "urn": "urn:lex:br:federal:lei:2024-09-16;14973",
+      "ementa": "Estabelece regime de transição para a contribuição substitutiva prevista nos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011, e para o adicional sobre a Cofins-Importação previsto no § 21 do art. 8º da Lei nº 10.865, de 30 de abril de 2004; altera as Leis nºs 8.212, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, 10.522, de 19 de julho de 2002, 10.779, de 25 de novembro de 2003, 10.865, de 30 de abril de 2004, 12.546, de 14 de dezembro de 2011, e 13.988, de 14 de abril de 2020; e revoga dispositivos dos Decretos-Lei nºs 1.737, de 20 de dezembro de 1979, e 2.323, de 26 de fevereiro de 1987, e das Leis nºs 9.703, de 17 de novembro de 1998, e 11.343, de 23 de agosto de 2006, e a Lei nº 12.099, de 27 de novembro de 2009."
+    },
+    {
+      "senadoId": "39625646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-16-14974",
+      "titulo": "Lei nº 14.974 de 16/09/2024",
+      "data": "2024-09-16",
+      "numero": "14974",
+      "urn": "urn:lex:br:federal:lei:2024-09-16;14974",
+      "ementa": "Institui o Dia Nacional da Identidade Civil."
+    },
+    {
+      "senadoId": "39623837",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-13-14971",
+      "titulo": "Lei nº 14.971 de 13/09/2024",
+      "data": "2024-09-13",
+      "numero": "14971",
+      "urn": "urn:lex:br:federal:lei:2024-09-13;14971",
+      "ementa": "Institui o Dia Nacional do Guia de Turismo."
+    },
+    {
+      "senadoId": "39623873",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-13-14972",
+      "titulo": "Lei nº 14.972 de 13/09/2024",
+      "data": "2024-09-13",
+      "numero": "14972",
+      "urn": "urn:lex:br:federal:lei:2024-09-13;14972",
+      "ementa": "Reconhece como manifestação da cultura nacional o Círio de Nazaré, realizado na cidade de São Luís, no Estado do Maranhão."
+    },
+    {
+      "senadoId": "39623801",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-13-14970",
+      "titulo": "Lei nº 14.970 de 13/09/2024",
+      "data": "2024-09-13",
+      "numero": "14970",
+      "urn": "urn:lex:br:federal:lei:2024-09-13;14970",
+      "ementa": "Institui o Dia Nacional da Pastora Evangélica e do Pastor Evangélico."
+    },
+    {
+      "senadoId": "39623725",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-13-14969",
+      "titulo": "Lei nº 14.969 de 13/09/2024",
+      "data": "2024-09-13",
+      "numero": "14969",
+      "urn": "urn:lex:br:federal:lei:2024-09-13;14969",
+      "ementa": "Reconhece as expressões artísticas cristãs e os reflexos e as influências do cristianismo, além de seus aspectos religiosos, como manifestação cultural nacional."
+    },
+    {
+      "senadoId": "39600111",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-11-14968",
+      "titulo": "Lei nº 14.968 de 11/09/2024",
+      "data": "2024-09-11",
+      "numero": "14968",
+      "urn": "urn:lex:br:federal:lei:2024-09-11;14968",
+      "ementa": "Aperfeiçoa a política industrial para o setor de tecnologias da informação e comunicação e para o setor de semicondutores; adequa o prazo de concessão de incentivos e de estímulo à tecnologia nacional; cria o Programa Brasil Semicondutores (Brasil Semicon); e altera o Decreto-Lei nº 288, de 28 de fevereiro de 1967, e as Leis nºs 8.248, de 23 de outubro de 1991, 11.484, de 31 de maio de 2007, e 13.969, de 26 de dezembro de 2019."
+    },
+    {
+      "senadoId": "39581018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-09-14965",
+      "titulo": "Lei nº 14.965 de 09/09/2024",
+      "data": "2024-09-09",
+      "numero": "14965",
+      "urn": "urn:lex:br:federal:lei:2024-09-09;14965",
+      "ementa": "Dispõe sobre as normas gerais relativas a concursos públicos."
+    },
+    {
+      "senadoId": "39581054",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-09-14966",
+      "titulo": "Lei nº 14.966 de 09/09/2024",
+      "data": "2024-09-09",
+      "numero": "14966",
+      "urn": "urn:lex:br:federal:lei:2024-09-09;14966",
+      "ementa": "Institui o Dia Nacional do Agente de Segurança Socioeducativo."
+    },
+    {
+      "senadoId": "39581130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-09-14967",
+      "titulo": "Lei nº 14.967 de 09/09/2024",
+      "data": "2024-09-09",
+      "numero": "14967",
+      "urn": "urn:lex:br:federal:lei:2024-09-09;14967",
+      "ementa": "Institui o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras; altera a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a Lei nº 10.446, de 8 de maio de 2002, a Lei nº 10.637, de 30 de dezembro de 2002, a Lei nº 10.833, de 29 de dezembro de 2003, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); revoga a Lei nº 7.102, de 20 de junho de 1983, a Lei nº 8.863, de 28 de março de 1994, e dispositivos da Lei nº 11.718, de 20 de junho de 2008, da Lei nº 9.017, de 30 de março de 1995, e da Medida Provisória nº 2.184-23, de 24 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "39575430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-05-14963",
+      "titulo": "Lei nº 14.963 de 05/09/2024",
+      "data": "2024-09-05",
+      "numero": "14963",
+      "urn": "urn:lex:br:federal:lei:2024-09-05;14963",
+      "ementa": "Dispõe sobre a identificação de produtos alimentícios artesanais de origem vegetal; e dá outras providências."
+    },
+    {
+      "senadoId": "39575361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-05-14964",
+      "titulo": "Lei nº 14.964 de 05/09/2024",
+      "data": "2024-09-05",
+      "numero": "14964",
+      "urn": "urn:lex:br:federal:lei:2024-09-05;14964",
+      "ementa": "Institui o Dia Nacional do Médico Ultrassonografista."
+    },
+    {
+      "senadoId": "39575394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-05-14962",
+      "titulo": "Lei nº 14.962 de 05/09/2024",
+      "data": "2024-09-05",
+      "numero": "14962",
+      "urn": "urn:lex:br:federal:lei:2024-09-05;14962",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 12.179.438.240,00 (doze bilhões cento e setenta e nove milhões quatrocentos e trinta e oito mil duzentos e quarenta reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "39571851",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-04-14960",
+      "titulo": "Lei nº 14.960 de 04/09/2024",
+      "data": "2024-09-04",
+      "numero": "14960",
+      "urn": "urn:lex:br:federal:lei:2024-09-04;14960",
+      "ementa": "Reconhece o Festival Folclórico de Parintins e os Bois Garantido e Caprichoso como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "39571881",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-04-14961",
+      "titulo": "Lei nº 14.961 de 04/09/2024",
+      "data": "2024-09-04",
+      "numero": "14961",
+      "urn": "urn:lex:br:federal:lei:2024-09-04;14961",
+      "ementa": "Reconhece o Arraial do Pavulagem como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "39571795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-04-14959",
+      "titulo": "Lei nº 14.959 de 04/09/2024",
+      "data": "2024-09-04",
+      "numero": "14959",
+      "urn": "urn:lex:br:federal:lei:2024-09-04;14959",
+      "ementa": "Estabelece critérios mínimos para a outorga do título de Capital Nacional."
+    },
+    {
+      "senadoId": "39566692",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-03-14958",
+      "titulo": "Lei nº 14.958 de 03/09/2024",
+      "data": "2024-09-03",
+      "numero": "14958",
+      "urn": "urn:lex:br:federal:lei:2024-09-03;14958",
+      "ementa": "Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024."
+    },
+    {
+      "senadoId": "39566656",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-03-14957",
+      "titulo": "Lei nº 14.957 de 03/09/2024",
+      "data": "2024-09-03",
+      "numero": "14957",
+      "urn": "urn:lex:br:federal:lei:2024-09-03;14957",
+      "ementa": "Confere o título de Capital Nacional da Dança da Chula ao Município de Lagoa Vermelha, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "39566580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-03-14956",
+      "titulo": "Lei nº 14.956 de 03/09/2024",
+      "data": "2024-09-03",
+      "numero": "14956",
+      "urn": "urn:lex:br:federal:lei:2024-09-03;14956",
+      "ementa": "Confere o título de Capital Nacional da Cevada e do Malte ao Município de Guarapuava, no Estado do Paraná."
+    },
+    {
+      "senadoId": "39562014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-02-14954",
+      "titulo": "Lei nº 14.954 de 02/09/2024",
+      "data": "2024-09-02",
+      "numero": "14954",
+      "urn": "urn:lex:br:federal:lei:2024-09-02;14954",
+      "ementa": "Confere o título de Capital Nacional da Moda de Inverno ao Município de Farroupilha, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "39562090",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-02-14955",
+      "titulo": "Lei nº 14.955 de 02/09/2024",
+      "data": "2024-09-02",
+      "numero": "14955",
+      "urn": "urn:lex:br:federal:lei:2024-09-02;14955",
+      "ementa": "Confere o título de Capital Nacional das Startups à cidade de Florianópolis, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "39561982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-09-02-14953",
+      "titulo": "Lei nº 14.953 de 02/09/2024",
+      "data": "2024-09-02",
+      "numero": "14953",
+      "urn": "urn:lex:br:federal:lei:2024-09-02;14953",
+      "ementa": "Confere o título de Capital Nacional da Pós-Colheita de Grãos ao Município de Panambi, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "39443434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-08-06-14952",
+      "titulo": "Lei nº 14.952 de 06/08/2024",
+      "data": "2024-08-06",
+      "numero": "14952",
+      "urn": "urn:lex:br:federal:lei:2024-08-06;14952",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), a fim de estabelecer regime escolar especial para atendimento a educandos nas situações que especifica."
+    },
+    {
+      "senadoId": "39410175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-08-02-14950",
+      "titulo": "Lei nº 14.950 de 02/08/2024",
+      "data": "2024-08-02",
+      "numero": "14950",
+      "urn": "urn:lex:br:federal:lei:2024-08-02;14950",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre o direito da criança e do adolescente de visitação à mãe ou ao pai internados em instituição de saúde."
+    },
+    {
+      "senadoId": "39410191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-08-02-14949",
+      "titulo": "Lei nº 14.949 de 02/08/2024",
+      "data": "2024-08-02",
+      "numero": "14949",
+      "urn": "urn:lex:br:federal:lei:2024-08-02;14949",
+      "ementa": "Confere ao Munícipio de Santa Rosa de Lima, no Estado de Santa Catarina, o título de Capital Nacional da Meliponicultura."
+    },
+    {
+      "senadoId": "39410103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-08-02-14947",
+      "titulo": "Lei nº 14.947 de 02/08/2024",
+      "data": "2024-08-02",
+      "numero": "14947",
+      "urn": "urn:lex:br:federal:lei:2024-08-02;14947",
+      "ementa": "Dispõe sobre a criação do Fundo de Investimento em Infraestrutura Social (FIIS); e altera a Medida Provisória nº 2.156-5, de 24 de agosto de 2001, para autorizar os agentes operadores do Fundo de Desenvolvimento do Nordeste (FDNE) a renegociar os termos, os prazos e as demais condições financeiras das operações de crédito cujos riscos são suportados, parcial ou integralmente, pela União."
+    },
+    {
+      "senadoId": "39410139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-08-02-14948",
+      "titulo": "Lei nº 14.948 de 02/08/2024",
+      "data": "2024-08-02",
+      "numero": "14948",
+      "urn": "urn:lex:br:federal:lei:2024-08-02;14948",
+      "ementa": "Institui o marco legal do hidrogênio de baixa emissão de carbono; dispõe sobre a Política Nacional do Hidrogênio de Baixa Emissão de Carbono; institui incentivos para a indústria do hidrogênio de baixa emissão de carbono; institui o Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono (Rehidro); cria o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC); e altera as Leis nºs 9.427, de 26 de dezembro de 1996, e 9.478, de 6 de agosto de 1997."
+    },
+    {
+      "senadoId": "39410227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-08-02-14951",
+      "titulo": "Lei nº 14.951 de 02/08/2024",
+      "data": "2024-08-02",
+      "numero": "14951",
+      "urn": "urn:lex:br:federal:lei:2024-08-02;14951",
+      "ementa": "Dispõe sobre a coloração da órtese externa denominada bengala longa, para fins de identificação da condição de seu usuário."
+    },
+    {
+      "senadoId": "39388636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-31-14945",
+      "titulo": "Lei nº 14.945 de 31/07/2024",
+      "data": "2024-07-31",
+      "numero": "14945",
+      "urn": "urn:lex:br:federal:lei:2024-07-31;14945",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), a fim de definir diretrizes para o ensino médio, e as Leis nºs 14.818, de 16 de janeiro de 2024, 12.711, de 29 de agosto de 2012, 11.096, de 13 de janeiro de 2005, e 14.640, de 31 de julho de 2023."
+    },
+    {
+      "senadoId": "39388672",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-31-14946",
+      "titulo": "Lei nº 14.946 de 31/07/2024",
+      "data": "2024-07-31",
+      "numero": "14946",
+      "urn": "urn:lex:br:federal:lei:2024-07-31;14946",
+      "ementa": "Institui normas aplicáveis a atividades espaciais nacionais."
+    },
+    {
+      "senadoId": "39388528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-31-14942",
+      "titulo": "Lei nº 14.942 de 31/07/2024",
+      "data": "2024-07-31",
+      "numero": "14942",
+      "urn": "urn:lex:br:federal:lei:2024-07-31;14942",
+      "ementa": "Altera a Lei nº 14.448, de 9 de setembro de 2022, para prever o Projeto Banco Vermelho, ações de conscientização em lugares públicos e premiação de projetos no âmbito do Agosto Lilás, mês destinado à conscientização para o fim da violência contra a mulher."
+    },
+    {
+      "senadoId": "39388600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-31-14944",
+      "titulo": "Lei nº 14.944 de 31/07/2024",
+      "data": "2024-07-31",
+      "numero": "14944",
+      "urn": "urn:lex:br:federal:lei:2024-07-31;14944",
+      "ementa": "Institui a Política Nacional de Manejo Integrado do Fogo e altera as Leis nºs 7.735, de 22 de fevereiro de 1989, 12.651, de 25 de maio de 2012 (Código Florestal), e 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais)."
+    },
+    {
+      "senadoId": "39388564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-31-14943",
+      "titulo": "Lei nº 14.943 de 31/07/2024",
+      "data": "2024-07-31",
+      "numero": "14943",
+      "urn": "urn:lex:br:federal:lei:2024-07-31;14943",
+      "ementa": "Altera a Lei nº 12.865, de 9 de outubro de 2013, para estender ao farelo e ao óleo de milho o mesmo tratamento tributário concedido à soja relativamente à incidência da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins)."
+    },
+    {
+      "senadoId": "39385151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-30-14940",
+      "titulo": "Lei nº 14.940 de 30/07/2024",
+      "data": "2024-07-30",
+      "numero": "14940",
+      "urn": "urn:lex:br:federal:lei:2024-07-30;14940",
+      "ementa": "Institui o Dia Nacional do Funk."
+    },
+    {
+      "senadoId": "39385229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-30-14939",
+      "titulo": "Lei nº 14.939 de 30/07/2024",
+      "data": "2024-07-30",
+      "numero": "14939",
+      "urn": "urn:lex:br:federal:lei:2024-07-30;14939",
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para prever que o tribunal determine a correção do vício de não comprovação da ocorrência de feriado local pelo recorrente, ou desconsidere a omissão caso a informação conste do processo eletrônico."
+    },
+    {
+      "senadoId": "39385199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-30-14941",
+      "titulo": "Lei nº 14.941 de 30/07/2024",
+      "data": "2024-07-30",
+      "numero": "14941",
+      "urn": "urn:lex:br:federal:lei:2024-07-30;14941",
+      "ementa": "Cria o Conselho Curador do Fundo de Aperfeiçoamento da Defensoria Pública da União, referido no inciso XXI do caput do art. 4º da Lei Complementar nº 80, de 12 de janeiro de 1994 (Lei Orgânica da Defensoria Pública)."
+    },
+    {
+      "senadoId": "39383512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-29-14938",
+      "titulo": "Lei nº 14.938 de 29/07/2024",
+      "data": "2024-07-29",
+      "numero": "14938",
+      "urn": "urn:lex:br:federal:lei:2024-07-29;14938",
+      "ementa": "Institui o Dia Nacional da Lembrança do Holocausto."
+    },
+    {
+      "senadoId": "39379770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-26-14935",
+      "titulo": "Lei nº 14.935 de 26/07/2024",
+      "data": "2024-07-26",
+      "numero": "14935",
+      "urn": "urn:lex:br:federal:lei:2024-07-26;14935",
+      "ementa": "Institui a Política Nacional de Agricultura Urbana e Periurbana."
+    },
+    {
+      "senadoId": "39379842",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-26-14937",
+      "titulo": "Lei nº 14.937 de 26/07/2024",
+      "data": "2024-07-26",
+      "numero": "14937",
+      "urn": "urn:lex:br:federal:lei:2024-07-26;14937",
+      "ementa": "Institui a Letra de Crédito do Desenvolvimento (LCD); altera as Leis nºs 13.483, de 21 de setembro de 2017, e 11.076, de 30 de dezembro de 2004; e revoga dispositivos das Leis nºs 14.366, de 8 de junho de 2022, e 14.440, de 2 de setembro de 2022."
+    },
+    {
+      "senadoId": "39379806",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-26-14936",
+      "titulo": "Lei nº 14.936 de 26/07/2024",
+      "data": "2024-07-26",
+      "numero": "14936",
+      "urn": "urn:lex:br:federal:lei:2024-07-26;14936",
+      "ementa": "Institui o Dia Nacional de Prevenção ao Afogamento Infantil."
+    },
+    {
+      "senadoId": "39378968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-25-14934",
+      "titulo": "Lei nº 14.934 de 25/07/2024",
+      "data": "2024-07-25",
+      "numero": "14934",
+      "urn": "urn:lex:br:federal:lei:2024-07-25;14934",
+      "ementa": "Prorroga, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação, aprovado por meio da Lei nº 13.005, de 25 de junho de 2014."
+    },
+    {
+      "senadoId": "39378207",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-24-14933",
+      "titulo": "Lei nº 14.933 de 24/07/2024",
+      "data": "2024-07-24",
+      "numero": "14933",
+      "urn": "urn:lex:br:federal:lei:2024-07-24;14933",
+      "ementa": "Altera a Lei nº 11.438, de 29 de dezembro de 2006, para permitir que pessoas físicas sejam proponentes de projetos no âmbito da referida Lei."
+    },
+    {
+      "senadoId": "39377400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-23-14932",
+      "titulo": "Lei nº 14.932 de 23/07/2024",
+      "data": "2024-07-23",
+      "numero": "14932",
+      "urn": "urn:lex:br:federal:lei:2024-07-23;14932",
+      "ementa": "Acrescenta § 5º ao art. 29 da Lei nº 12.651, de 25 de maio de 2012 (Código Florestal), para autorizar a apresentação do Cadastro Ambiental Rural (CAR) para fins de apuração da área tributável de imóvel rural; e revoga o § 1º do art. 17-O da Lei nº 6.938, de 31 de agosto de 1981, para retirar o caráter obrigatório da utilização do Ato Declaratório Ambiental (ADA) para efeito de redução do valor a pagar do Imposto sobre a Propriedade Territorial Rural (ITR)."
+    },
+    {
+      "senadoId": "38747654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-22-14929",
+      "titulo": "Lei nº 14.929 de 22/07/2024",
+      "data": "2024-07-22",
+      "numero": "14929",
+      "urn": "urn:lex:br:federal:lei:2024-07-22;14929",
+      "ementa": "Confere o título de Capital Nacional do Artesanato Têxtil ao Município de Resende Costa, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "38747939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-22-14928",
+      "titulo": "Lei nº 14.928 de 22/07/2024",
+      "data": "2024-07-22",
+      "numero": "14928",
+      "urn": "urn:lex:br:federal:lei:2024-07-22;14928",
+      "ementa": "Denomina \"Viaduto Vicente Vitagliano\" o viaduto localizado no km 72,8 da rodovia BR-153, no Município de São José do Rio Preto, Estado de São Paulo."
+    },
+    {
+      "senadoId": "38748046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-22-14931",
+      "titulo": "Lei nº 14.931 de 22/07/2024",
+      "data": "2024-07-22",
+      "numero": "14931",
+      "urn": "urn:lex:br:federal:lei:2024-07-22;14931",
+      "ementa": "Denomina \"Passarela Bruno Santos Bacci\" a passarela de pedestres construída sobre a BR-381, Rodovia Fernão Dias, localizada no Município de Atibaia, Estado de São Paulo."
+    },
+    {
+      "senadoId": "38748010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-22-14930",
+      "titulo": "Lei nº 14.930 de 22/07/2024",
+      "data": "2024-07-22",
+      "numero": "14930",
+      "urn": "urn:lex:br:federal:lei:2024-07-22;14930",
+      "ementa": "Confere o título de Capital Nacional da Vaquejada ao Município de Lagarto, no Estado de Sergipe."
+    },
+    {
+      "senadoId": "38745926",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-18-14927",
+      "titulo": "Lei nº 14.927 de 18/07/2024",
+      "data": "2024-07-18",
+      "numero": "14927",
+      "urn": "urn:lex:br:federal:lei:2024-07-18;14927",
+      "ementa": "Institui o Dia Nacional de Conscientização sobre as Distrofias Musculares e dá outras providências."
+    },
+    {
+      "senadoId": "38741900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-17-14925",
+      "titulo": "Lei nº 14.925 de 17/07/2024",
+      "data": "2024-07-17",
+      "numero": "14925",
+      "urn": "urn:lex:br:federal:lei:2024-07-17;14925",
+      "ementa": "Dispõe sobre a prorrogação dos prazos de conclusão de cursos ou de programas para estudantes e pesquisadores da educação superior, em virtude de parto, de nascimento de filho, de adoção ou de obtenção de guarda judicial para fins de adoção; e altera a Lei nº 13.536, de 15 de dezembro de 2017, para disciplinar a prorrogação dos prazos de vigência das bolsas de estudo."
+    },
+    {
+      "senadoId": "38741948",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-17-14926",
+      "titulo": "Lei nº 14.926 de 17/07/2024",
+      "data": "2024-07-17",
+      "numero": "14926",
+      "urn": "urn:lex:br:federal:lei:2024-07-17;14926",
+      "ementa": "Altera a Lei nº 9.795, de 27 de abril de 1999, para assegurar atenção às mudanças do clima, à proteção da biodiversidade e aos riscos e vulnerabilidades a desastres socioambientais no âmbito da Política Nacional de Educação Ambiental."
+    },
+    {
+      "senadoId": "38735350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-12-14924",
+      "titulo": "Lei nº 14.924 de 12/07/2024",
+      "data": "2024-07-12",
+      "numero": "14924",
+      "urn": "urn:lex:br:federal:lei:2024-07-12;14924",
+      "ementa": "Dispõe sobre a profissão de técnico em nutrição e dietética; e altera a Lei nº 6.583, de 20 de outubro de 1978, que cria os Conselhos Federal e Regionais de Nutricionistas e regula o seu funcionamento."
+    },
+    {
+      "senadoId": "38730052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-11-14923",
+      "titulo": "Lei nº 14.923 de 11/07/2024",
+      "data": "2024-07-11",
+      "numero": "14923",
+      "urn": "urn:lex:br:federal:lei:2024-07-11;14923",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Justiça e Segurança Pública, no valor de R$ 30.157.034,00 (trinta milhões, cento e cinquenta e sete mil e trinta e quatro reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "38729992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-11-14922",
+      "titulo": "Lei nº 14.922 de 11/07/2024",
+      "data": "2024-07-11",
+      "numero": "14922",
+      "urn": "urn:lex:br:federal:lei:2024-07-11;14922",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Justiça e Segurança Pública, do Ministério do Meio Ambiente e Mudança do Clima, do Ministério do Desenvolvimento Agrário e Agricultura Familiar, do Ministério da Defesa, do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, do Ministério da Pesca e Aquicultura, do Ministério dos Direitos Humanos e da Cidadania e do Ministério dos Povos Indígenas, no valor de R$ 1.062.231.956,00 (um bilhão, sessenta e dois milhões, duzentos e trinta e um mil, novecentos e cinquenta e seis reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "38726126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-10-14921",
+      "titulo": "Lei nº 14.921 de 10/07/2024",
+      "data": "2024-07-10",
+      "numero": "14921",
+      "urn": "urn:lex:br:federal:lei:2024-07-10;14921",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer a idade máxima dos veículos destinados à formação de condutores."
+    },
+    {
+      "senadoId": "38698227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-05-14917",
+      "titulo": "Lei nº 14.917 de 05/07/2024",
+      "data": "2024-07-05",
+      "numero": "14917",
+      "urn": "urn:lex:br:federal:lei:2024-07-05;14917",
+      "ementa": "Dispõe sobre medidas emergenciais destinadas aos setores de turismo e de cultura do Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38698036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-05-14915",
+      "titulo": "Lei nº 14.915 de 05/07/2024",
+      "data": "2024-07-05",
+      "numero": "14915",
+      "urn": "urn:lex:br:federal:lei:2024-07-05;14915",
+      "ementa": "Institui o Dia Nacional de Conscientização sobre as Doenças Crônicas."
+    },
+    {
+      "senadoId": "38698067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-05-14916",
+      "titulo": "Lei nº 14.916 de 05/07/2024",
+      "data": "2024-07-05",
+      "numero": "14916",
+      "urn": "urn:lex:br:federal:lei:2024-07-05;14916",
+      "ementa": "Institui o Dia Nacional da Conscientização sobre a Dermatite Atópica."
+    },
+    {
+      "senadoId": "38698734",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-05-14919",
+      "titulo": "Lei nº 14.919 de 05/07/2024",
+      "data": "2024-07-05",
+      "numero": "14919",
+      "urn": "urn:lex:br:federal:lei:2024-07-05;14919",
+      "ementa": "Institui o Dia Nacional do Hematologista e do Hemoterapeuta."
+    },
+    {
+      "senadoId": "38698640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-05-14918",
+      "titulo": "Lei nº 14.918 de 05/07/2024",
+      "data": "2024-07-05",
+      "numero": "14918",
+      "urn": "urn:lex:br:federal:lei:2024-07-05;14918",
+      "ementa": "Denomina Perimetral Sérgio Lobato Machado o trecho rodoviário que liga a rodovia BR-277 à ponte internacional da integração sobre o rio Paraná, na fronteira entre o Brasil e o Paraguai, no Município de Foz do Iguaçu, no Estado do Paraná."
+    },
+    {
+      "senadoId": "38698852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-05-14920",
+      "titulo": "Lei nº 14.920 de 05/07/2024",
+      "data": "2024-07-05",
+      "numero": "14920",
+      "urn": "urn:lex:br:federal:lei:2024-07-05;14920",
+      "ementa": "Denomina \"Willy Alfredo Zumblick\" o túnel construído no Morro do Formigão, localizado entre o km 337,8 e o km 338,7 da Rodovia BR-101, no Município de Tubarão, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "38682055",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-03-14913",
+      "titulo": "Lei nº 14.913 de 03/07/2024",
+      "data": "2024-07-03",
+      "numero": "14913",
+      "urn": "urn:lex:br:federal:lei:2024-07-03;14913",
+      "ementa": "Altera a Lei nº 11.788, de 25 de setembro de 2008, que dispõe sobre o estágio de estudantes, para disciplinar o intercâmbio internacional."
+    },
+    {
+      "senadoId": "38680626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-03-14911",
+      "titulo": "Lei nº 14.911 de 03/07/2024",
+      "data": "2024-07-03",
+      "numero": "14911",
+      "urn": "urn:lex:br:federal:lei:2024-07-03;14911",
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para coibir a prática de intimidação sistemática (bullying) no esporte."
+    },
+    {
+      "senadoId": "38682485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-03-14914",
+      "titulo": "Lei nº 14.914 de 03/07/2024",
+      "data": "2024-07-03",
+      "numero": "14914",
+      "urn": "urn:lex:br:federal:lei:2024-07-03;14914",
+      "ementa": "Institui a Política Nacional de Assistência Estudantil (PNAES)."
+    },
+    {
+      "senadoId": "38682014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-03-14912",
+      "titulo": "Lei nº 14.912 de 03/07/2024",
+      "data": "2024-07-03",
+      "numero": "14912",
+      "urn": "urn:lex:br:federal:lei:2024-07-03;14912",
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para determinar a realização de campanhas permanentes sobre os riscos da automedicação."
+    },
+    {
+      "senadoId": "38674922",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-01-14907",
+      "titulo": "Lei nº 14.907 de 01/07/2024",
+      "data": "2024-07-01",
+      "numero": "14907",
+      "urn": "urn:lex:br:federal:lei:2024-07-01;14907",
+      "ementa": "Confere o título de Capital Nacional do Incentivo às Microempresas e Pequenas Empresas ao Município de Três Rios, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "38675060",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-01-14909",
+      "titulo": "Lei nº 14.909 de 01/07/2024",
+      "data": "2024-07-01",
+      "numero": "14909",
+      "urn": "urn:lex:br:federal:lei:2024-07-01;14909",
+      "ementa": "Institui o Dia do Rei Pelé."
+    },
+    {
+      "senadoId": "38674129",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-01-14906",
+      "titulo": "Lei nº 14.906 de 01/07/2024",
+      "data": "2024-07-01",
+      "numero": "14906",
+      "urn": "urn:lex:br:federal:lei:2024-07-01;14906",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 5ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "38674991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-01-14908",
+      "titulo": "Lei nº 14.908 de 01/07/2024",
+      "data": "2024-07-01",
+      "numero": "14908",
+      "urn": "urn:lex:br:federal:lei:2024-07-01;14908",
+      "ementa": "Institui o Dia Nacional do Policial Penal."
+    },
+    {
+      "senadoId": "38675129",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-07-01-14910",
+      "titulo": "Lei nº 14.910 de 01/07/2024",
+      "data": "2024-07-01",
+      "numero": "14910",
+      "urn": "urn:lex:br:federal:lei:2024-07-01;14910",
+      "ementa": "Declara o Município de Nova Friburgo, no Estado do Rio de Janeiro, como a \"Suíça Brasileira\"."
+    },
+    {
+      "senadoId": "38672088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-28-14905",
+      "titulo": "Lei nº 14.905 de 28/06/2024",
+      "data": "2024-06-28",
+      "numero": "14905",
+      "urn": "urn:lex:br:federal:lei:2024-06-28;14905",
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para dispor sobre atualização monetária e juros."
+    },
+    {
+      "senadoId": "38654015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-27-14902",
+      "titulo": "Lei nº 14.902 de 27/06/2024",
+      "data": "2024-06-27",
+      "numero": "14902",
+      "urn": "urn:lex:br:federal:lei:2024-06-27;14902",
+      "ementa": "Institui o Programa Mobilidade Verde e Inovação (Programa Mover); altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980; e revoga dispositivos da Lei nº 13.755, de 10 de dezembro de 2018."
+    },
+    {
+      "senadoId": "38654012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-27-14904",
+      "titulo": "Lei nº 14.904 de 27/06/2024",
+      "data": "2024-06-27",
+      "numero": "14904",
+      "urn": "urn:lex:br:federal:lei:2024-06-27;14904",
+      "ementa": "Estabelece diretrizes para a elaboração de planos de adaptação aÌ mudança do clima; altera a Lei nº 12.114, de 9 de dezembro de 2009; e dá outras providências."
+    },
+    {
+      "senadoId": "38654051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-27-14903",
+      "titulo": "Lei nº 14.903 de 27/06/2024",
+      "data": "2024-06-27",
+      "numero": "14903",
+      "urn": "urn:lex:br:federal:lei:2024-06-27;14903",
+      "ementa": "Estabelece o marco regulatório do fomento à cultura, no âmbito da administração pública da União, dos Estados, do Distrito Federal e dos Municípios."
+    },
+    {
+      "senadoId": "38647286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-25-14901",
+      "titulo": "Lei nº 14.901 de 25/06/2024",
+      "data": "2024-06-25",
+      "numero": "14901",
+      "urn": "urn:lex:br:federal:lei:2024-06-25;14901",
+      "ementa": "Altera a Lei nº 14.002, de 22 de maio de 2020, e a Lei nº 11.771, de 17 de setembro de 2008, para atualizar e aprimorar o regime jurídico a que se submete a Agência Brasileira de Promoção Internacional do Turismo (Embratur), e a Lei nº 12.462, de 4 de agosto de 2011, para incrementar o turismo no Brasil."
+    },
+    {
+      "senadoId": "38643415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-21-14900",
+      "titulo": "Lei nº 14.900 de 21/06/2024",
+      "data": "2024-06-21",
+      "numero": "14900",
+      "urn": "urn:lex:br:federal:lei:2024-06-21;14900",
+      "ementa": "Altera a Lei nº 14.555, de 25 de abril de 2023, para reconhecer as quadrilhas juninas como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "38629175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-17-14899",
+      "titulo": "Lei nº 14.899 de 17/06/2024",
+      "data": "2024-06-17",
+      "numero": "14899",
+      "urn": "urn:lex:br:federal:lei:2024-06-17;14899",
+      "ementa": "Dispõe sobre a elaboração e a implementação de plano de metas para o enfrentamento integrado da violência doméstica e familiar contra a mulher, da Rede Estadual de Enfrentamento da Violência contra a Mulher e da Rede de Atendimento à Mulher em Situação de Violência; e altera a Lei nº 13.675, de 11 de junho de 2018, para determinar que o Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp) armazene dados e informações para auxiliar nas políticas relacionadas com o enfrentamento da violência doméstica e familiar contra a mulher."
+    },
+    {
+      "senadoId": "38624838",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-13-14898",
+      "titulo": "Lei nº 14.898 de 13/06/2024",
+      "data": "2024-06-13",
+      "numero": "14898",
+      "urn": "urn:lex:br:federal:lei:2024-06-13;14898",
+      "ementa": "Institui diretrizes para a Tarifa Social de Água e Esgoto em âmbito nacional."
+    },
+    {
+      "senadoId": "38611737",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14892",
+      "titulo": "Lei nº 14.892 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14892",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14892",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Defensoria Pública da União e do Ministério Público da União, crédito especial no valor de R$ 1.895.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38611220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14888",
+      "titulo": "Lei nº 14.888 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14888",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14888",
+      "ementa": "Dispõe sobre a criação de cargos de provimento efetivo e de cargos em comissão no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 19ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "38611817",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14893",
+      "titulo": "Lei nº 14.893 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14893",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14893",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República e dos Ministérios da Fazenda e da Educação, crédito especial no valor de R$ 19.063.245,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38611602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14891",
+      "titulo": "Lei nº 14.891 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14891",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14891",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 256.770.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "38612037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14896",
+      "titulo": "Lei nº 14.896 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14896",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14896",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura e Pecuária, crédito suplementar no valor de R$ 182.039.027,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "38612286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14897",
+      "titulo": "Lei nº 14.897 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14897",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14897",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, da Justiça do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 426.220.771,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "38612059",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14895",
+      "titulo": "Lei nº 14.895 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14895",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14895",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 873.461.598,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "38611466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14887",
+      "titulo": "Lei nº 14.887 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14887",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14887",
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prioridade na assistência à mulher em situação de violência doméstica e familiar, e a Lei nº 13.239, de 30 de dezembro de 2015, para determinar que a mulher vítima de violência tenha atendimento prioritário para a cirurgia plástica reparadora entre os casos de mesma gravidade."
+    },
+    {
+      "senadoId": "38611531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14890",
+      "titulo": "Lei nº 14.890 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14890",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14890",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação, crédito especial no valor de R$ 7.377.849,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38611344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14889",
+      "titulo": "Lei nº 14.889 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14889",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14889",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito especial no valor de R$ 59.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "38611975",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-12-14894",
+      "titulo": "Lei nº 14.894 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "14894",
+      "urn": "urn:lex:br:federal:lei:2024-06-12;14894",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 94.835.105,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38610963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-11-14886",
+      "titulo": "Lei nº 14.886 de 11/06/2024",
+      "data": "2024-06-11",
+      "numero": "14886",
+      "urn": "urn:lex:br:federal:lei:2024-06-11;14886",
+      "ementa": "Institui o Programa Nacional de Vacinação em Escolas Públicas."
+    },
+    {
+      "senadoId": "38611014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-11-14884",
+      "titulo": "Lei nº 14.884 de 11/06/2024",
+      "data": "2024-06-11",
+      "numero": "14884",
+      "urn": "urn:lex:br:federal:lei:2024-06-11;14884",
+      "ementa": "Institui o Dia Nacional do Imigrante Grego."
+    },
+    {
+      "senadoId": "38610978",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-11-14883",
+      "titulo": "Lei nº 14.883 de 11/06/2024",
+      "data": "2024-06-11",
+      "numero": "14883",
+      "urn": "urn:lex:br:federal:lei:2024-06-11;14883",
+      "ementa": "Confere o título de Capital Nacional da Moda Íntima ao Município de Nova Friburgo, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "38611050",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-11-14885",
+      "titulo": "Lei nº 14.885 de 11/06/2024",
+      "data": "2024-06-11",
+      "numero": "14885",
+      "urn": "urn:lex:br:federal:lei:2024-06-11;14885",
+      "ementa": "Institui o Dia Nacional de Prevenção ao Acidente Vascular Cerebral (AVC)."
+    },
+    {
+      "senadoId": "38610927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-11-14882",
+      "titulo": "Lei nº 14.882 de 11/06/2024",
+      "data": "2024-06-11",
+      "numero": "14882",
+      "urn": "urn:lex:br:federal:lei:2024-06-11;14882",
+      "ementa": "Reconhece como manifestação da cultura nacional a Festa de São Vito, realizada no Município de São Paulo, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "38601088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-07-14881",
+      "titulo": "Lei nº 14.881 de 07/06/2024",
+      "data": "2024-06-07",
+      "numero": "14881",
+      "urn": "urn:lex:br:federal:lei:2024-06-07;14881",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Saúde, e da Integração e do Desenvolvimento Regional, crédito suplementar no valor de R$ 2.854.421.588,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "38589001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-04-14880",
+      "titulo": "Lei nº 14.880 de 04/06/2024",
+      "data": "2024-06-04",
+      "numero": "14880",
+      "urn": "urn:lex:br:federal:lei:2024-06-04;14880",
+      "ementa": "Altera a Lei nº 13.257, de 8 de março de 2016 (Marco Legal da Primeira Infância), para instituir a Política Nacional de Atendimento Educacional Especializado a Crianças de Zero a Três Anos (Atenção Precoce) e para determinar prioridade de atendimento em programas de visitas domiciliares a crianças da educação infantil apoiadas pela educação especial e a crianças da educação infantil com sinais de alerta para o desenvolvimento, nos termos que especifica."
+    },
+    {
+      "senadoId": "38588051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-04-14877",
+      "titulo": "Lei nº 14.877 de 04/06/2024",
+      "data": "2024-06-04",
+      "numero": "14877",
+      "urn": "urn:lex:br:federal:lei:2024-06-04;14877",
+      "ementa": "Cria os Selos Verdes Cacau Cabruca e Cacau Amazônia."
+    },
+    {
+      "senadoId": "38588140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-04-14878",
+      "titulo": "Lei nº 14.878 de 04/06/2024",
+      "data": "2024-06-04",
+      "numero": "14878",
+      "urn": "urn:lex:br:federal:lei:2024-06-04;14878",
+      "ementa": "Institui a Política Nacional de Cuidado Integral às Pessoas com Doença de Alzheimer e Outras Demências; e altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social)."
+    },
+    {
+      "senadoId": "38588813",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-06-04-14879",
+      "titulo": "Lei nº 14.879 de 04/06/2024",
+      "data": "2024-06-04",
+      "numero": "14879",
+      "urn": "urn:lex:br:federal:lei:2024-06-04;14879",
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer que a eleição de foro deve guardar pertinência com o domicílio das partes ou com o local da obrigação e que o ajuizamento de ação em juízo aleatório constitui prática abusiva, passível de declinação de competência de ofício."
+    },
+    {
+      "senadoId": "38567176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-31-14876",
+      "titulo": "Lei nº 14.876 de 31/05/2024",
+      "data": "2024-05-31",
+      "numero": "14876",
+      "urn": "urn:lex:br:federal:lei:2024-05-31;14876",
+      "ementa": "Altera a descrição do Código 20 do Anexo VIII da Lei nº 6.938, de 31 de agosto de 1981, acrescido pela Lei nº 10.165, de 27 de dezembro de 2000, para excluir a silvicultura do rol de atividades potencialmente poluidoras e utilizadoras de recursos ambientais."
+    },
+    {
+      "senadoId": "38567261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-31-14875",
+      "titulo": "Lei nº 14.875 de 31/05/2024",
+      "data": "2024-05-31",
+      "numero": "14875",
+      "urn": "urn:lex:br:federal:lei:2024-05-31;14875",
+      "ementa": "Cria as carreiras de Especialista em Indigenismo, de Técnico em Indigenismo e de Tecnologia da Informação; cria o Plano Especial de Cargos da Funai (PECFunai) e o quadro suplementar da Fundação Nacional dos Povos Indígenas (Funai); define o órgão supervisor e altera a remuneração do cargo de Analista-Técnico de Políticas Sociais; altera a remuneração das carreiras e do Plano Especial de Cargos da Agência Nacional de Mineração (PEC-ANM); altera a remuneração dos cargos das carreiras de Policial Federal e de Policial Rodoviário Federal; cria a Polícia Penal Federal e a carreira de Policial Penal Federal; altera a remuneração dos cargos de Especialista Federal em Assistência à Execução Penal e de Técnico Federal de Apoio à Execução Penal; altera as Leis nºs 11.907, de 2 de fevereiro de 2009, 12.702, de 7 de agosto de 2012, 12.094, de 19 de novembro de 2009, 11.046, de 27 de dezembro de 2004, 10.871, de 20 de maio de 2004, 13.575, de 26 de dezembro de 2017, 14.204, de 16 de setembro de 2021, 14.600, de 19 de junho de 2023, 10.887, de 18 de junho de 2004, 11.358, de 19 de outubro de 2006, 9.654, de 2 de junho de 1998, 8.691, de 28 de julho de 1993, 12.277, de 30 de junho de 2010, e 11.356, de 19 de outubro de 2006; e revoga a Lei nº 10.693, de 25 de junho de 2003, e a Medida Provisória nº 1.203, de 29 de dezembro de 2023, e dispositivos das Leis nºs 8.460, de 17 de setembro de 1992, 11.357, de 19 de outubro de 2006, 11.538, de 8 de novembro de 2007, 12.775, de 28 de dezembro de 2012, 13.324, de 29 de julho de 2016, 13.327, de 29 de julho de 2016, 13.371, de 14 de dezembro de 2016, e 14.673, de 14 de setembro de 2023."
+    },
+    {
+      "senadoId": "38550941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14868",
+      "titulo": "Lei nº 14.868 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14868",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14868",
+      "ementa": "Confere o título de Berço Imperial da Cerveja ao Município de Petrópolis, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "38551281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14874",
+      "titulo": "Lei nº 14.874 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14874",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14874",
+      "ementa": "Dispõe sobre a pesquisa com seres humanos e institui o Sistema Nacional de Ética em Pesquisa com Seres Humanos."
+    },
+    {
+      "senadoId": "38551065",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14871",
+      "titulo": "Lei nº 14.871 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14871",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14871",
+      "ementa": "Autoriza a concessão de quotas diferenciadas de depreciação acelerada para máquinas, equipamentos, aparelhos e instrumentos novos destinados ao ativo imobilizado e empregados em determinadas atividades econômicas."
+    },
+    {
+      "senadoId": "38551133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14870",
+      "titulo": "Lei nº 14.870 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14870",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14870",
+      "ementa": "Institui o Dia Nacional do Produtor de Leite."
+    },
+    {
+      "senadoId": "38551245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14873",
+      "titulo": "Lei nº 14.873 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14873",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14873",
+      "ementa": "Altera a Lei nº 9.430, de 27 de dezembro de 1996, para limitar a compensação tributária dos créditos decorrentes de decisões judiciais transitadas em julgado."
+    },
+    {
+      "senadoId": "38551097",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14869",
+      "titulo": "Lei nº 14.869 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14869",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14869",
+      "ementa": "Declara a cidade de Santa Gertrudes, no Estado de São Paulo, Capital Nacional da Cerâmica de Pisos e Revestimentos."
+    },
+    {
+      "senadoId": "38550917",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14865",
+      "titulo": "Lei nº 14.865 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14865",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14865",
+      "ementa": "Cria o Calendário Turístico Oficial do Brasil."
+    },
+    {
+      "senadoId": "38551029",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14867",
+      "titulo": "Lei nº 14.867 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14867",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14867",
+      "ementa": "Confere o título de Capital Nacional do Doce ao Município de Pelotas, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38550993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14866",
+      "titulo": "Lei nº 14.866 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14866",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14866",
+      "ementa": "Denomina \"Viaduto Alcides de Freitas Assunção\" viaduto localizado na Rodovia BR-153, no Município de São José do Rio Preto, Estado de São Paulo."
+    },
+    {
+      "senadoId": "38551169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-28-14872",
+      "titulo": "Lei nº 14.872 de 28/05/2024",
+      "data": "2024-05-28",
+      "numero": "14872",
+      "urn": "urn:lex:br:federal:lei:2024-05-28;14872",
+      "ementa": "Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dispor sobre o custeio de ações de recuperação em propriedades de agricultura familiar atingidas por desastres."
+    },
+    {
+      "senadoId": "38546173",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-27-14863",
+      "titulo": "Lei nº 14.863 de 27/05/2024",
+      "data": "2024-05-27",
+      "numero": "14863",
+      "urn": "urn:lex:br:federal:lei:2024-05-27;14863",
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar a acessibilidade nas campanhas sociais, preventivas e educativas."
+    },
+    {
+      "senadoId": "38546133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-27-14864",
+      "titulo": "Lei nº 14.864 de 27/05/2024",
+      "data": "2024-05-27",
+      "numero": "14864",
+      "urn": "urn:lex:br:federal:lei:2024-05-27;14864",
+      "ementa": "Denomina Campus Universitário Governador Luiz Henrique o campus da Universidade Federal de Santa Catarina situado no Município de Joinville, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "38546061",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-27-14860",
+      "titulo": "Lei nº 14.860 de 27/05/2024",
+      "data": "2024-05-27",
+      "numero": "14860",
+      "urn": "urn:lex:br:federal:lei:2024-05-27;14860",
+      "ementa": "Institui o Dia Nacional de Conscientização sobre a Esquizofrenia."
+    },
+    {
+      "senadoId": "38546037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-27-14861",
+      "titulo": "Lei nº 14.861 de 27/05/2024",
+      "data": "2024-05-27",
+      "numero": "14861",
+      "urn": "urn:lex:br:federal:lei:2024-05-27;14861",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para determinar que sejam disponibilizadas na internet as informações constantes do Registro Nacional de Carteiras de Habilitação (Renach) e do Registro Nacional de Veículos Automotores (Renavam) aos motoristas habilitados e aos proprietários de veículo, respectivamente."
+    },
+    {
+      "senadoId": "38546097",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-27-14862",
+      "titulo": "Lei nº 14.862 de 27/05/2024",
+      "data": "2024-05-27",
+      "numero": "14862",
+      "urn": "urn:lex:br:federal:lei:2024-05-27;14862",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para permitir que os professores da educação básica pública utilizem os veículos de transporte escolar dos Estados, do Distrito Federal e dos Municípios, nos termos que especifica; e revoga a Lei nº 10.709, de 31 de julho de 2003."
+    },
+    {
+      "senadoId": "38539018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-22-14859",
+      "titulo": "Lei nº 14.859 de 22/05/2024",
+      "data": "2024-05-22",
+      "numero": "14859",
+      "urn": "urn:lex:br:federal:lei:2024-05-22;14859",
+      "ementa": "Altera a Lei nº 14.148, de 3 de maio de 2021, para estabelecer alíquotas reduzidas no âmbito do Programa Emergencial de Retomada do Setor de Eventos - Perse; e revoga dispositivo da Medida Provisória nº 1.202, de 28 de dezembro de 2023."
+    },
+    {
+      "senadoId": "38526049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-21-14858",
+      "titulo": "Lei nº 14.858 de 21/05/2024",
+      "data": "2024-05-21",
+      "numero": "14858",
+      "urn": "urn:lex:br:federal:lei:2024-05-21;14858",
+      "ementa": "Altera a Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento, com o objetivo de instituir a obrigatoriedade de priorizar espaço e vaga para o transporte de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento."
+    },
+    {
+      "senadoId": "38526013",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-21-14857",
+      "titulo": "Lei nº 14.857 de 21/05/2024",
+      "data": "2024-05-21",
+      "numero": "14857",
+      "urn": "urn:lex:br:federal:lei:2024-05-21;14857",
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para determinar o sigilo do nome da ofendida nos processos em que se apuram crimes praticados no contexto de violência doméstica e familiar contra a mulher."
+    },
+    {
+      "senadoId": "38518285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-17-14856",
+      "titulo": "Lei nº 14.856 de 17/05/2024",
+      "data": "2024-05-17",
+      "numero": "14856",
+      "urn": "urn:lex:br:federal:lei:2024-05-17;14856",
+      "ementa": "Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de 2024."
+    },
+    {
+      "senadoId": "38505970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-16-14855",
+      "titulo": "Lei nº 14.855 de 16/05/2024",
+      "data": "2024-05-16",
+      "numero": "14855",
+      "urn": "urn:lex:br:federal:lei:2024-05-16;14855",
+      "ementa": "Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024."
+    },
+    {
+      "senadoId": "38471215",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-09-14854",
+      "titulo": "Lei nº 14.854 de 09/05/2024",
+      "data": "2024-05-09",
+      "numero": "14854",
+      "urn": "urn:lex:br:federal:lei:2024-05-09;14854",
+      "ementa": "Denomina \"Ponte Deputado Ernesto Gurgel Valente\" a ponte sobre o Rio Jaguaribe na Rodovia BR-304, ao lado da Ponte Juscelino Kubitschek, no Município de Aracati, Estado do Ceará."
+    },
+    {
+      "senadoId": "38471167",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-09-14853",
+      "titulo": "Lei nº 14.853 de 09/05/2024",
+      "data": "2024-05-09",
+      "numero": "14853",
+      "urn": "urn:lex:br:federal:lei:2024-05-09;14853",
+      "ementa": "Denomina \"Antônio Carlos Belchior\" o Terminal Marítimo de Passageiros do Porto de Fortaleza, no Estado do Ceará."
+    },
+    {
+      "senadoId": "38444890",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-03-14851",
+      "titulo": "Lei nº 14.851 de 03/05/2024",
+      "data": "2024-05-03",
+      "numero": "14851",
+      "urn": "urn:lex:br:federal:lei:2024-05-03;14851",
+      "ementa": "Dispõe sobre a obrigatoriedade de criação de mecanismos de levantamento e de divulgação da demanda por vagas no atendimento à educação infantil de crianças de 0 (zero) a 3 (três) anos de idade."
+    },
+    {
+      "senadoId": "38444921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-03-14852",
+      "titulo": "Lei nº 14.852 de 03/05/2024",
+      "data": "2024-05-03",
+      "numero": "14852",
+      "urn": "urn:lex:br:federal:lei:2024-05-03;14852",
+      "ementa": "Cria o marco legal para a indústria de jogos eletrônicos; e altera as Leis nºs 8.313, de 23 de dezembro de 1991, 8.685, de 20 de julho de 1993, e 9.279, de 14 de maio de 1996."
+    },
+    {
+      "senadoId": "38430638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-02-14849",
+      "titulo": "Lei nº 14.849 de 02/05/2024",
+      "data": "2024-05-02",
+      "numero": "14849",
+      "urn": "urn:lex:br:federal:lei:2024-05-02;14849",
+      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para exigir análise de mobilidade urbana nos estudos prévios de impacto de vizinhança."
+    },
+    {
+      "senadoId": "38430678",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-02-14850",
+      "titulo": "Lei nº 14.850 de 02/05/2024",
+      "data": "2024-05-02",
+      "numero": "14850",
+      "urn": "urn:lex:br:federal:lei:2024-05-02;14850",
+      "ementa": "Institui a Política Nacional de Qualidade do Ar."
+    },
+    {
+      "senadoId": "38414981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-05-01-14848",
+      "titulo": "Lei nº 14.848 de 01/05/2024",
+      "data": "2024-05-01",
+      "numero": "14848",
+      "urn": "urn:lex:br:federal:lei:2024-05-01;14848",
+      "ementa": "Altera os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física de que trata o art. 1º da Lei nº 11.482, de 31 de maio de 2007; e revoga a Medida Provisória nº 1.206, de 6 de fevereiro de 2024."
+    },
+    {
+      "senadoId": "38377648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-25-14847",
+      "titulo": "Lei nº 14.847 de 25/04/2024",
+      "data": "2024-04-25",
+      "numero": "14847",
+      "urn": "urn:lex:br:federal:lei:2024-04-25;14847",
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre o atendimento de mulheres vítimas de violência em ambiente privativo e individualizado nos serviços de saúde prestados no âmbito do Sistema Único de Saúde."
+    },
+    {
+      "senadoId": "38372843",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-24-14846",
+      "titulo": "Lei nº 14.846 de 24/04/2024",
+      "data": "2024-04-24",
+      "numero": "14846",
+      "urn": "urn:lex:br:federal:lei:2024-04-24;14846",
+      "ementa": "Acrescenta dispositivo à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para atribuir medida especial de proteção ao trabalho realizado em arquivos, em bibliotecas, em museus e em centros de documentação e memória."
+    },
+    {
+      "senadoId": "38372767",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-24-14845",
+      "titulo": "Lei nº 14.845 de 24/04/2024",
+      "data": "2024-04-24",
+      "numero": "14845",
+      "urn": "urn:lex:br:federal:lei:2024-04-24;14845",
+      "ementa": "Reconhece como manifestação da cultura nacional os blocos e as bandas de carnaval."
+    },
+    {
+      "senadoId": "38372731",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-24-14844",
+      "titulo": "Lei nº 14.844 de 24/04/2024",
+      "data": "2024-04-24",
+      "numero": "14844",
+      "urn": "urn:lex:br:federal:lei:2024-04-24;14844",
+      "ementa": "Institui a região turística Vale do Panema como Área Especial de Interesse Turístico, nos termos que especifica."
+    },
+    {
+      "senadoId": "38326096",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-11-14842",
+      "titulo": "Lei nº 14.842 de 11/04/2024",
+      "data": "2024-04-11",
+      "numero": "14842",
+      "urn": "urn:lex:br:federal:lei:2024-04-11;14842",
+      "ementa": "Dispõe sobre a atividade profissional de musicoterapeuta."
+    },
+    {
+      "senadoId": "38326115",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-11-14843",
+      "titulo": "Lei nº 14.843 de 11/04/2024",
+      "data": "2024-04-11",
+      "numero": "14843",
+      "urn": "urn:lex:br:federal:lei:2024-04-11;14843",
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a monitoração eletrônica do preso, prever a realização de exame criminológico para progressão de regime e restringir o benefício da saída temporária."
+    },
+    {
+      "senadoId": "38320803",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-10-14839",
+      "titulo": "Lei nº 14.839 de 10/04/2024",
+      "data": "2024-04-10",
+      "numero": "14839",
+      "urn": "urn:lex:br:federal:lei:2024-04-10;14839",
+      "ementa": "Inscreve o nome de Cesare Mansueto Giulio Lattes no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "38320735",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-10-14840",
+      "titulo": "Lei nº 14.840 de 10/04/2024",
+      "data": "2024-04-10",
+      "numero": "14840",
+      "urn": "urn:lex:br:federal:lei:2024-04-10;14840",
+      "ementa": "Institui o dia 28 de abril como o Dia Nacional da Conscientização sobre a Doença de Fabry."
+    },
+    {
+      "senadoId": "38320767",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-10-14838",
+      "titulo": "Lei nº 14.838 de 10/04/2024",
+      "data": "2024-04-10",
+      "numero": "14838",
+      "urn": "urn:lex:br:federal:lei:2024-04-10;14838",
+      "ementa": "Cria a Rota Turística do Caminho das Missões, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38320839",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-10-14841",
+      "titulo": "Lei nº 14.841 de 10/04/2024",
+      "data": "2024-04-10",
+      "numero": "14841",
+      "urn": "urn:lex:br:federal:lei:2024-04-10;14841",
+      "ementa": "Reconhece o Município de Cruzeiro, no Estado de São Paulo, como Capital da Revolução Constitucionalista de 1932."
+    },
+    {
+      "senadoId": "38309549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-08-14836",
+      "titulo": "Lei nº 14.836 de 08/04/2024",
+      "data": "2024-04-08",
+      "numero": "14836",
+      "urn": "urn:lex:br:federal:lei:2024-04-08;14836",
+      "ementa": "Altera a Lei nº 8.038, de 28 de maio de 1990, e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o resultado de julgamento em matéria penal ou processual penal em órgãos colegiados e sobre a concessão de habeas corpus de ofício."
+    },
+    {
+      "senadoId": "38309597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-08-14837",
+      "titulo": "Lei nº 14.837 de 08/04/2024",
+      "data": "2024-04-08",
+      "numero": "14837",
+      "urn": "urn:lex:br:federal:lei:2024-04-08;14837",
+      "ementa": "Altera a Lei nº 12.244, de 24 de maio de 2010, que \"dispõe sobre a universalização das bibliotecas nas instituições de ensino do País\", para modificar a definição de biblioteca escolar e criar o Sistema Nacional de Bibliotecas Escolares (SNBE)."
+    },
+    {
+      "senadoId": "38299983",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-04-14834",
+      "titulo": "Lei nº 14.834 de 04/04/2024",
+      "data": "2024-04-04",
+      "numero": "14834",
+      "urn": "urn:lex:br:federal:lei:2024-04-04;14834",
+      "ementa": "Institui o Dia Nacional da Mulher Sambista."
+    },
+    {
+      "senadoId": "38299941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-04-04-14835",
+      "titulo": "Lei nº 14.835 de 04/04/2024",
+      "data": "2024-04-04",
+      "numero": "14835",
+      "urn": "urn:lex:br:federal:lei:2024-04-04;14835",
+      "ementa": "Institui o marco regulatório do Sistema Nacional de Cultura (SNC), para garantia dos direitos culturais, organizado em regime de colaboração entre os entes federativos para gestão conjunta das políticas públicas de cultura."
+    },
+    {
+      "senadoId": "38286859",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-27-14833",
+      "titulo": "Lei nº 14.833 de 27/03/2024",
+      "data": "2024-03-27",
+      "numero": "14833",
+      "urn": "urn:lex:br:federal:lei:2024-03-27;14833",
+      "ementa": "Acrescenta parágrafo único ao art. 499 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para conferir ao réu a oportunidade de cumprir a tutela específica em caso de requerimento de sua conversão em perdas e danos."
+    },
+    {
+      "senadoId": "38286823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-27-14832",
+      "titulo": "Lei nº 14.832 de 27/03/2024",
+      "data": "2024-03-27",
+      "numero": "14832",
+      "urn": "urn:lex:br:federal:lei:2024-03-27;14832",
+      "ementa": "Acrescenta art. 15-B à Lei nº 10.356, de 27 de dezembro de 2001, para instituir o Adicional de Especialização e Qualificação aos servidores do quadro de pessoal da Secretaria do Tribunal de Contas da União."
+    },
+    {
+      "senadoId": "38286747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-27-14831",
+      "titulo": "Lei nº 14.831 de 27/03/2024",
+      "data": "2024-03-27",
+      "numero": "14831",
+      "urn": "urn:lex:br:federal:lei:2024-03-27;14831",
+      "ementa": "Institui o Certificado Empresa Promotora da Saúde Mental e estabelece os requisitos para a concessão da certificação."
+    },
+    {
+      "senadoId": "38286711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-27-14830",
+      "titulo": "Lei nº 14.830 de 27/03/2024",
+      "data": "2024-03-27",
+      "numero": "14830",
+      "urn": "urn:lex:br:federal:lei:2024-03-27;14830",
+      "ementa": "Institui o Dia Nacional da Agricultura Irrigada."
+    },
+    {
+      "senadoId": "38283770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-26-14829",
+      "titulo": "Lei nº 14.829 de 26/03/2024",
+      "data": "2024-03-26",
+      "numero": "14829",
+      "urn": "urn:lex:br:federal:lei:2024-03-26;14829",
+      "ementa": "Reconhece a Festa de Nossa Senhora Achiropita, realizada no Município de São Paulo, no Estado de São Paulo, como manifestação da cultura nacional."
+    },
+    {
+      "senadoId": "38269409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-20-14828",
+      "titulo": "Lei nº 14.828 de 20/03/2024",
+      "data": "2024-03-20",
+      "numero": "14828",
+      "urn": "urn:lex:br:federal:lei:2024-03-20;14828",
+      "ementa": "Altera a Lei nº 11.326, de 24 de julho de 2006 (Lei da Agricultura Familiar), para ampliar o âmbito do planejamento e da execução das ações da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais."
+    },
+    {
+      "senadoId": "38269445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-20-14825",
+      "titulo": "Lei nº 14.825 de 20/03/2024",
+      "data": "2024-03-20",
+      "numero": "14825",
+      "urn": "urn:lex:br:federal:lei:2024-03-20;14825",
+      "ementa": "Altera a Lei nº 13.097, de 19 de janeiro de 2015, para garantir a eficácia dos negócios jurídicos relativos a imóveis em cuja matrícula inexista averbação, mediante decisão judicial, de qualquer tipo de constrição judicial."
+    },
+    {
+      "senadoId": "38269347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-20-14826",
+      "titulo": "Lei nº 14.826 de 20/03/2024",
+      "data": "2024-03-20",
+      "numero": "14826",
+      "urn": "urn:lex:br:federal:lei:2024-03-20;14826",
+      "ementa": "Institui a parentalidade positiva e o direito ao brincar como estratégias intersetoriais de prevenção à violência contra crianças; e altera a Lei nº 14.344, de 24 de maio de 2022."
+    },
+    {
+      "senadoId": "38270359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-20-14827",
+      "titulo": "Lei nº 14.827 de 20/03/2024",
+      "data": "2024-03-20",
+      "numero": "14827",
+      "urn": "urn:lex:br:federal:lei:2024-03-20;14827",
+      "ementa": "Institui o Dia Nacional do Cirurgião Oncológico."
+    },
+    {
+      "senadoId": "38271299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-03-20-14824",
+      "titulo": "Lei nº 14.824 de 20/03/2024",
+      "data": "2024-03-20",
+      "numero": "14824",
+      "urn": "urn:lex:br:federal:lei:2024-03-20;14824",
+      "ementa": "Dispõe sobre a composição, o funcionamento e a competência do Conselho Superior da Justiça do Trabalho; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "38231098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-02-29-14823",
+      "titulo": "Lei nº 14.823 de 29/02/2024",
+      "data": "2024-02-29",
+      "numero": "14823",
+      "urn": "urn:lex:br:federal:lei:2024-02-29;14823",
+      "ementa": "Abre crédito extraordinário em favor dos Ministérios da Defesa, da Integração e do Desenvolvimento Regional e do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 360.900.000,00 (trezentos e sessenta milhões e novecentos mil reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "38179379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-22-14822",
+      "titulo": "Lei nº 14.822 de 22/01/2024",
+      "data": "2024-01-22",
+      "numero": "14822",
+      "urn": "urn:lex:br:federal:lei:2024-01-22;14822",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2024."
+    },
+    {
+      "senadoId": "38165533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-16-14820",
+      "titulo": "Lei nº 14.820 de 16/01/2024",
+      "data": "2024-01-16",
+      "numero": "14820",
+      "urn": "urn:lex:br:federal:lei:2024-01-16;14820",
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para estabelecer a revisão periódica dos valores de remuneração dos serviços prestados ao Sistema Único de Saúde (SUS), com garantia da qualidade e do equilíbrio econômico-financeiro."
+    },
+    {
+      "senadoId": "38165425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-16-14817",
+      "titulo": "Lei nº 14.817 de 16/01/2024",
+      "data": "2024-01-16",
+      "numero": "14817",
+      "urn": "urn:lex:br:federal:lei:2024-01-16;14817",
+      "ementa": "Estabelece diretrizes para a valorização dos profissionais da educação escolar básica pública."
+    },
+    {
+      "senadoId": "38165461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-16-14818",
+      "titulo": "Lei nº 14.818 de 16/01/2024",
+      "data": "2024-01-16",
+      "numero": "14818",
+      "urn": "urn:lex:br:federal:lei:2024-01-16;14818",
+      "ementa": "Institui incentivo financeiro-educacional, na modalidade de poupança, aos estudantes matriculados no ensino médio público; e altera a Lei nº 13.999, de 18 de maio de 2020, e a Lei nº 14.075, de 22 de outubro de 2020."
+    },
+    {
+      "senadoId": "38165389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-16-14816",
+      "titulo": "Lei nº 14.816 de 16/01/2024",
+      "data": "2024-01-16",
+      "numero": "14816",
+      "urn": "urn:lex:br:federal:lei:2024-01-16;14816",
+      "ementa": "Altera a Lei nº 14.600, de 19 de junho de 2023, para criar o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte."
+    },
+    {
+      "senadoId": "38165569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-16-14821",
+      "titulo": "Lei nº 14.821 de 16/01/2024",
+      "data": "2024-01-16",
+      "numero": "14821",
+      "urn": "urn:lex:br:federal:lei:2024-01-16;14821",
+      "ementa": "Institui a Política Nacional de Trabalho Digno e Cidadania para a População em Situação de Rua (PNTC PopRua)."
+    },
+    {
+      "senadoId": "38165497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-16-14819",
+      "titulo": "Lei nº 14.819 de 16/01/2024",
+      "data": "2024-01-16",
+      "numero": "14819",
+      "urn": "urn:lex:br:federal:lei:2024-01-16;14819",
+      "ementa": "Institui a Política Nacional de Atenção Psicossocial nas Comunidades Escolares."
+    },
+    {
+      "senadoId": "38160819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-15-14814",
+      "titulo": "Lei nº 14.814 de 15/01/2024",
+      "data": "2024-01-15",
+      "numero": "14814",
+      "urn": "urn:lex:br:federal:lei:2024-01-15;14814",
+      "ementa": "Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, que estabelece princípios gerais da Política Nacional do Cinema, para prorrogar o prazo de obrigatoriedade de exibição comercial de obras cinematográficas brasileiras."
+    },
+    {
+      "senadoId": "38160783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-15-14813",
+      "titulo": "Lei nº 14.813 de 15/01/2024",
+      "data": "2024-01-15",
+      "numero": "14813",
+      "urn": "urn:lex:br:federal:lei:2024-01-15;14813",
+      "ementa": "Altera a Lei nº 9.537, de 11 de dezembro de 1997, que dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional, para conferir segurança jurídica e estabilidade regulatória aos serviços de praticagem; e altera a Lei nº 10.233, de 5 de junho de 2001, que cria a Agência Nacional de Transportes Aquaviários (Antaq)."
+    },
+    {
+      "senadoId": "38160747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-15-14812",
+      "titulo": "Lei nº 14.812 de 15/01/2024",
+      "data": "2024-01-15",
+      "numero": "14812",
+      "urn": "urn:lex:br:federal:lei:2024-01-15;14812",
+      "ementa": "Altera o Decreto-Lei nº 236, de 28 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "38160918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-15-14815",
+      "titulo": "Lei nº 14.815 de 15/01/2024",
+      "data": "2024-01-15",
+      "numero": "14815",
+      "urn": "urn:lex:br:federal:lei:2024-01-15;14815",
+      "ementa": "Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, que estabelece princípios gerais da Política Nacional do Cinema, e a Lei nº 12.485, de 12 de setembro de 2011, que dispõe sobre a comunicação audiovisual de acesso condicionado, para prorrogar o prazo de obrigatoriedade de exibição comercial de obras cinematográficas brasileiras - a política de cotas de tela na TV paga -, e dá outras providências."
+    },
+    {
+      "senadoId": "38157320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-12-14809",
+      "titulo": "Lei nº 14.809 de 12/01/2024",
+      "data": "2024-01-12",
+      "numero": "14809",
+      "urn": "urn:lex:br:federal:lei:2024-01-12;14809",
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para estabelecer que os valores recebidos a título de auxílio financeiro temporário ou de indenização por danos sofridos em decorrência de rompimento e colapso de barragens não serão considerados renda para fins de elegibilidade a programas socioassistenciais."
+    },
+    {
+      "senadoId": "38157392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-12-14811",
+      "titulo": "Lei nº 14.811 de 12/01/2024",
+      "data": "2024-01-12",
+      "numero": "14811",
+      "urn": "urn:lex:br:federal:lei:2024-01-12;14811",
+      "ementa": "Institui medidas de proteção à criança e ao adolescente contra a violência nos estabelecimentos educacionais ou similares, prevê a Política Nacional de Prevenção e Combate ao Abuso e Exploração Sexual da Criança e do Adolescente e altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), e 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente)."
+    },
+    {
+      "senadoId": "38157356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-12-14810",
+      "titulo": "Lei nº 14.810 de 12/01/2024",
+      "data": "2024-01-12",
+      "numero": "14810",
+      "urn": "urn:lex:br:federal:lei:2024-01-12;14810",
+      "ementa": "Dispõe sobre a transformação de cargos efetivos em cargos em comissão e funções de confiança no quadro de pessoal do Ministério Público da União; e altera a Lei nº 13.316, de 20 julho de 2016."
+    },
+    {
+      "senadoId": "38156033",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-11-14807",
+      "titulo": "Lei nº 14.807 de 11/01/2024",
+      "data": "2024-01-11",
+      "numero": "14807",
+      "urn": "urn:lex:br:federal:lei:2024-01-11;14807",
+      "ementa": "Denomina \"Anel Viário Governador Maguito Vilela\" o anel viário do Município de Jataí, Estado de Goiás."
+    },
+    {
+      "senadoId": "38156003",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-11-14806",
+      "titulo": "Lei nº 14.806 de 11/01/2024",
+      "data": "2024-01-11",
+      "numero": "14806",
+      "urn": "urn:lex:br:federal:lei:2024-01-11;14806",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, para obrigar os laboratórios farmacêuticos a incluírem nos rótulos, nas bulas e nos materiais destinados a propaganda e publicidade de seus produtos alerta sobre a presença de substâncias cujo uso seja considerado doping."
+    },
+    {
+      "senadoId": "38155923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-11-14805",
+      "titulo": "Lei nº 14.805 de 11/01/2024",
+      "data": "2024-01-11",
+      "numero": "14805",
+      "urn": "urn:lex:br:federal:lei:2024-01-11;14805",
+      "ementa": "Inscreve o nome de Lauro Nina Sodré e Silva no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "38156063",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-11-14808",
+      "titulo": "Lei nº 14.808 de 11/01/2024",
+      "data": "2024-01-11",
+      "numero": "14808",
+      "urn": "urn:lex:br:federal:lei:2024-01-11;14808",
+      "ementa": "Confere ao Município de Torres, no Estado do Rio Grande do Sul, o título de Capital Nacional do Balonismo."
+    },
+    {
+      "senadoId": "38151017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-10-14804",
+      "titulo": "Lei nº 14.804 de 10/01/2024",
+      "data": "2024-01-10",
+      "numero": "14804",
+      "urn": "urn:lex:br:federal:lei:2024-01-10;14804",
+      "ementa": "Dispõe sobre a atuação do Tribunal de Contas da União (TCU) como membro do Conselho de Auditores da Organização das Nações Unidas (ONU)."
+    },
+    {
+      "senadoId": "38150981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-10-14803",
+      "titulo": "Lei nº 14.803 de 10/01/2024",
+      "data": "2024-01-10",
+      "numero": "14803",
+      "urn": "urn:lex:br:federal:lei:2024-01-10;14803",
+      "ementa": "Altera a Lei nº 11.053, de 29 de dezembro de 2004, para permitir a participantes e assistidos de plano de previdência complementar optarem pelo regime de tributação por ocasião da obtenção do benefício ou do primeiro resgate dos valores acumulados."
+    },
+    {
+      "senadoId": "38150943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-10-14802",
+      "titulo": "Lei nº 14.802 de 10/01/2024",
+      "data": "2024-01-10",
+      "numero": "14802",
+      "urn": "urn:lex:br:federal:lei:2024-01-10;14802",
+      "ementa": "Institui o Plano Plurianual da União para o período de 2024 a 2027."
+    },
+    {
+      "senadoId": "38147609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-09-14801",
+      "titulo": "Lei nº 14.801 de 09/01/2024",
+      "data": "2024-01-09",
+      "numero": "14801",
+      "urn": "urn:lex:br:federal:lei:2024-01-09;14801",
+      "ementa": "Dispõe sobre as debêntures de infraestrutura; altera as Leis nºs 9.481, de 13 de agosto de 1997, 11.478, de 29 de maio de 2007, e 12.431, de 24 de junho de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "38147022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-08-14800",
+      "titulo": "Lei nº 14.800 de 08/01/2024",
+      "data": "2024-01-08",
+      "numero": "14800",
+      "urn": "urn:lex:br:federal:lei:2024-01-08;14800",
+      "ementa": "Inscreve o nome de Abdias do Nascimento no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "38143878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14792",
+      "titulo": "Lei nº 14.792 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14792",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14792",
+      "ementa": "Institui o Dia Nacional da Saúde Única."
+    },
+    {
+      "senadoId": "38143914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14793",
+      "titulo": "Lei nº 14.793 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14793",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14793",
+      "ementa": "Inscreve o nome de Luiz Gonzaga do Nascimento no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "38144022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14796",
+      "titulo": "Lei nº 14.796 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14796",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14796",
+      "ementa": "Inscreve o nome de Dorina de Gouvêa Nowill no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "38144058",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14797",
+      "titulo": "Lei nº 14.797 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14797",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14797",
+      "ementa": "Institui o Dia Nacional de Combate à Tortura."
+    },
+    {
+      "senadoId": "38143950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14794",
+      "titulo": "Lei nº 14.794 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14794",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14794",
+      "ementa": "Institui o ano de 2024 como Ano Nacional Fernando Sabino."
+    },
+    {
+      "senadoId": "38144130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14799",
+      "titulo": "Lei nº 14.799 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14799",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14799",
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para denominá-la Lei Ruth Brilhante."
+    },
+    {
+      "senadoId": "38144094",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14798",
+      "titulo": "Lei nº 14.798 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14798",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14798",
+      "ementa": "Institui o Dia Nacional da Educação Legislativa."
+    },
+    {
+      "senadoId": "38143986",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2024-01-05-14795",
+      "titulo": "Lei nº 14.795 de 05/01/2024",
+      "data": "2024-01-05",
+      "numero": "14795",
+      "urn": "urn:lex:br:federal:lei:2024-01-05;14795",
+      "ementa": "Inscreve os Lanceiros Negros no Livro dos Heróis e Heroínas da Pátria."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-05-15428",
+  "titulo": "Lei nº 15.428 de 05/06/2026",
+  "data": "2026-06-05",
+  "fonte": "https://normas.leg.br/api/public/binario/6cb17bc8-ac9e-4311-a20a-2c925a8566d7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-05;15428",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-05%3B15428&tipo_documento=maior-detalhe",
+  "sha256_dados": "4c663cc55b0e6ecf98a0eb4a4ccbdb794eec28d10fdbf08a09fd2f312ef301a5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:16.346Z",
+  "sha256_fonte": "aa79727e2cda218c03e4175a79775276f00a085f657b53b90dab66066ea00900",
+  "sha256_markdown": "e97423c68a62dc65a054be4bb404795cd512e674e26ae6fcb5aa31c7dd9b2b0e"
+}

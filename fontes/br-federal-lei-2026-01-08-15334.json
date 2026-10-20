@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-01-08-15334",
+  "titulo": "Lei nº 15.334 de 08/01/2026",
+  "data": "2026-01-08",
+  "fonte": "https://normas.leg.br/api/public/binario/61166238-b56c-4a09-a0c4-b14d653395c3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-01-08;15334",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-01-08%3B15334&tipo_documento=maior-detalhe",
+  "sha256_dados": "ab26f416819976abccc2287650a2b637bc127e5c7957fe320199892fcddef394",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:16.938Z",
+  "sha256_fonte": "5ca38316c162411760f7eeae71e3f3c1b2732f923f9ea5914ad69926b5038089",
+  "sha256_markdown": "6aa2a0640440720440e7e2a7a557574c7908c965c3fbb5a82a46df1e34585586"
+}

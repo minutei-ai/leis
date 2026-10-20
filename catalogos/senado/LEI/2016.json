@@ -1,0 +1,1719 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2016",
+  "tipo": "LEI",
+  "ano": 2016,
+  "coletado_em": "2026-10-20T22:56:32.756Z",
+  "normas": [
+    {
+      "senadoId": "602637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-29-13413",
+      "titulo": "Lei nº 13.413 de 29/12/2016",
+      "data": "2016-12-29",
+      "numero": "13413",
+      "urn": "urn:lex:br:federal:lei:2016-12-29;13413",
+      "ementa": "Altera a Lei nº 5.700, de 1º de setembro de 1971, que \"dispõe sobre a forma e a apresentação dos Símbolos Nacionais, e dá outras providências\", para determinar que o Hino Nacional seja executado na abertura das competições esportivas nacionais que especifica."
+    },
+    {
+      "senadoId": "602636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-29-13412",
+      "titulo": "Lei nº 13.412 de 29/12/2016",
+      "data": "2016-12-29",
+      "numero": "13412",
+      "urn": "urn:lex:br:federal:lei:2016-12-29;13412",
+      "ementa": "Dispõe sobre a remuneração dos cargos de Natureza Especial de Defensor Público-Geral Federal e de Subdefensor Público-Geral Federal e sobre o subsídio dos membros da Defensoria Pública da União; e altera o Anexo I da Lei nº 11.526, de 4 de outubro de 2007."
+    },
+    {
+      "senadoId": "602635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-28-13411",
+      "titulo": "Lei nº 13.411 de 28/12/2016",
+      "data": "2016-12-28",
+      "numero": "13411",
+      "urn": "urn:lex:br:federal:lei:2016-12-28;13411",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos, e dá outras providências, e a Lei nº 9.782, de 26 de janeiro de 1999, que define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária, e dá outras providências, para dar transparência e previsibilidade ao processo de concessão e renovação de registro de medicamento e de alteração pós-registro."
+    },
+    {
+      "senadoId": "602634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-28-13410",
+      "titulo": "Lei nº 13.410 de 28/12/2016",
+      "data": "2016-12-28",
+      "numero": "13410",
+      "urn": "urn:lex:br:federal:lei:2016-12-28;13410",
+      "ementa": "Altera a Lei nº 11.903, de 14 de janeiro de 2009, para dispor sobre o Sistema Nacional de Controle de Medicamentos."
+    },
+    {
+      "senadoId": "602633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-28-13409",
+      "titulo": "Lei nº 13.409 de 28/12/2016",
+      "data": "2016-12-28",
+      "numero": "13409",
+      "urn": "urn:lex:br:federal:lei:2016-12-28;13409",
+      "ementa": "Altera a Lei nº 12.711, de 29 de agosto de 2012, para dispor sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio e superior das instituições federais de ensino."
+    },
+    {
+      "senadoId": "17665043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-26-13407",
+      "titulo": "Lei nº 13.407 de 26/12/2016",
+      "data": "2016-12-26",
+      "numero": "13407",
+      "urn": "urn:lex:br:federal:lei:2016-12-26;13407",
+      "ementa": "Institui o Dia Nacional do Psicólogo."
+    },
+    {
+      "senadoId": "602631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-26-13406",
+      "titulo": "Lei nº 13.406 de 26/12/2016",
+      "data": "2016-12-26",
+      "numero": "13406",
+      "urn": "urn:lex:br:federal:lei:2016-12-26;13406",
+      "ementa": "Altera os §§ 3º e 4º do art. 24 da Lei nº 12.587, de 3 de janeiro de 2012, para estender o prazo exigido para a elaboração do Plano de Mobilidade Urbana e para sua compatibilização com o plano diretor municipal."
+    },
+    {
+      "senadoId": "602632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-26-13408",
+      "titulo": "Lei nº 13.408 de 26/12/2016",
+      "data": "2016-12-26",
+      "numero": "13408",
+      "urn": "urn:lex:br:federal:lei:2016-12-26;13408",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2017 e dá outras providências."
+    },
+    {
+      "senadoId": "602630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-26-13405",
+      "titulo": "Lei nº 13.405 de 26/12/2016",
+      "data": "2016-12-26",
+      "numero": "13405",
+      "urn": "urn:lex:br:federal:lei:2016-12-26;13405",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor de R$ 151.975.117,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-22-13404",
+      "titulo": "Lei nº 13.404 de 22/12/2016",
+      "data": "2016-12-22",
+      "numero": "13404",
+      "urn": "urn:lex:br:federal:lei:2016-12-22;13404",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda, do Desenvolvimento, Indústria e Comércio Exterior, do Planejamento, Orçamento e Gestão e da Defesa, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 7.746.286.789,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13400",
+      "titulo": "Lei nº 13.400 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13400",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13400",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, do Supremo Tribunal Federal, das Justiças Federal e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 81.082.249,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13401",
+      "titulo": "Lei nº 13.401 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13401",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13401",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito especial no valor de R$ 95.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "602622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13397",
+      "titulo": "Lei nº 13.397 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13397",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13397",
+      "ementa": "Altera a Lei nº 13.249, de 13 de janeiro de 2016, que institui o Plano Plurianual da União para o período de 2016 a 2019."
+    },
+    {
+      "senadoId": "602628",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13403",
+      "titulo": "Lei nº 13.403 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13403",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13403",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 31.768.764,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13396",
+      "titulo": "Lei nº 13.396 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13396",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13396",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 5.243.585,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13402",
+      "titulo": "Lei nº 13.402 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13402",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13402",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Educação, crédito suplementar no valor de R$ 461.608.030,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13395",
+      "titulo": "Lei nº 13.395 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13395",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13395",
+      "ementa": "Denomina \"Rodovia Ignez Cola\" o trecho da rodovia BR-393 compreendido entre a cidade de Cachoeiro do Itapemirim, no Estado do Espírito Santo, e o contorno da cidade de Volta Redonda, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "602623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13398",
+      "titulo": "Lei nº 13.398 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13398",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13398",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 300.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-21-13399",
+      "titulo": "Lei nº 13.399 de 21/12/2016",
+      "data": "2016-12-21",
+      "numero": "13399",
+      "urn": "urn:lex:br:federal:lei:2016-12-21;13399",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Trabalho e Previdência Social, do Desenvolvimento Agrário e do Turismo, crédito suplementar no valor de R$ 810.015.821,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13372",
+      "titulo": "Lei nº 13.372 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13372",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13372",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 1.700.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13373",
+      "titulo": "Lei nº 13.373 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13373",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13373",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 1.940.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13381",
+      "titulo": "Lei nº 13.381 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13381",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13381",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, crédito suplementar no valor de R$ 20.772.513,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13384",
+      "titulo": "Lei nº 13.384 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13384",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13384",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor dos Ministérios do Trabalho e Previdência Social e do Desenvolvimento Social e Combate à Fome, crédito suplementar no valor de R$ 18.401.433.101,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13376",
+      "titulo": "Lei nº 13.376 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13376",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13376",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 5.253.732,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "602613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13388",
+      "titulo": "Lei nº 13.388 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13388",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13388",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Educação, da Justiça, do Esporte e do Desenvolvimento Social e Combate à Fome, crédito especial no valor de R$ 3.872.856,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13374",
+      "titulo": "Lei nº 13.374 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13374",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13374",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República e dos Ministérios do Esporte e do Turismo, crédito suplementar no valor de R$ 73.500.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13389",
+      "titulo": "Lei nº 13.389 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13389",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13389",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito suplementar no valor de R$ 39.781.328,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13377",
+      "titulo": "Lei nº 13.377 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13377",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13377",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 893.792.451,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13378",
+      "titulo": "Lei nº 13.378 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13378",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13378",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério de Minas e Energia, crédito suplementar no valor de R$ 701.524.877,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13375",
+      "titulo": "Lei nº 13.375 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13375",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13375",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 471.711.588,00 para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13379",
+      "titulo": "Lei nº 13.379 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13379",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13379",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Cidades, crédito suplementar no valor de R$ 100.316.360,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13386",
+      "titulo": "Lei nº 13.386 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13386",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13386",
+      "ementa": "Abre ao Orçamento de Investimento para 2016, em favor de empresas estatais, crédito especial no valor de R$ 845.573.216,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13380",
+      "titulo": "Lei nº 13.380 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13380",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13380",
+      "ementa": "Abre ao Orçamento de Investimento para 2016, em favor de diversas empresas estatais, crédito suplementar no valor total de R$ 4.618.940.446,00 e reduz o Orçamento de Investimento de diversas empresas no valor de R$ 27.048.365.674,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13391",
+      "titulo": "Lei nº 13.391 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13391",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13391",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 1.844.828.432,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13383",
+      "titulo": "Lei nº 13.383 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13383",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13383",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência, Tecnologia e Inovação, crédito suplementar no valor de R$ 27.934.749,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13385",
+      "titulo": "Lei nº 13.385 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13385",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13385",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito suplementar no valor de R$ 2.342.113.924,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13390",
+      "titulo": "Lei nº 13.390 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13390",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13390",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 189.100.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13394",
+      "titulo": "Lei nº 13.394 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13394",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13394",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Cultura, crédito suplementar no valor de R$ 64.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13387",
+      "titulo": "Lei nº 13.387 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13387",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13387",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 2.200.033.393,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13392",
+      "titulo": "Lei nº 13.392 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13392",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13392",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Justiça, das Relações Exteriores, da Saúde, da Integração Nacional, do Desenvolvimento Social e Combate à Fome e das Cidades, crédito suplementar no valor de R$ 10.112.528,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13382",
+      "titulo": "Lei nº 13.382 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13382",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13382",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios das Relações Exteriores e das Mulheres, da Igualdade Racial, da Juventude e dos Direitos Humanos, da Advocacia-Geral da União e da Controladoria-Geral da União, crédito suplementar no valor de R$ 82.218.503,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-20-13393",
+      "titulo": "Lei nº 13.393 de 20/12/2016",
+      "data": "2016-12-20",
+      "numero": "13393",
+      "urn": "urn:lex:br:federal:lei:2016-12-20;13393",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Fazenda e do Planejamento, Orçamento e Gestão e de Encargos Financeiros da União, crédito especial no valor de R$ 399.755.495,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-14-13371",
+      "titulo": "Lei nº 13.371 de 14/12/2016",
+      "data": "2016-12-14",
+      "numero": "13371",
+      "urn": "urn:lex:br:federal:lei:2016-12-14;13371",
+      "ementa": "Altera a remuneração de servidores públicos; estabelece opção por novas regras de incorporação de gratificação de desempenho às aposentadorias e pensões; e dá outras providências."
+    },
+    {
+      "senadoId": "602595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-12-13370",
+      "titulo": "Lei nº 13.370 de 12/12/2016",
+      "data": "2016-12-12",
+      "numero": "13370",
+      "urn": "urn:lex:br:federal:lei:2016-12-12;13370",
+      "ementa": "Altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990, para estender o direito a horário especial ao servidor público federal que tenha cônjuge, filho ou dependente com deficiência de qualquer natureza e para revogar a exigência de compensação de horário."
+    },
+    {
+      "senadoId": "602594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-12-13369",
+      "titulo": "Lei nº 13.369 de 12/12/2016",
+      "data": "2016-12-12",
+      "numero": "13369",
+      "urn": "urn:lex:br:federal:lei:2016-12-12;13369",
+      "ementa": "Dispõe sobre a garantia do exercício da profissão de designer de interiores e ambientes e dá outras providências."
+    },
+    {
+      "senadoId": "602592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-05-13367",
+      "titulo": "Lei nº 13.367 de 05/12/2016",
+      "data": "2016-12-05",
+      "numero": "13367",
+      "urn": "urn:lex:br:federal:lei:2016-12-05;13367",
+      "ementa": "Altera a Lei nº 1.579, de 18 de março de 1952, que dispõe sobre as Comissões Parlamentares de Inquérito."
+    },
+    {
+      "senadoId": "602593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-05-13368",
+      "titulo": "Lei nº 13.368 de 05/12/2016",
+      "data": "2016-12-05",
+      "numero": "13368",
+      "urn": "urn:lex:br:federal:lei:2016-12-05;13368",
+      "ementa": "Autoriza o Poder Executivo a doar, sem encargos, à Sociedade Japonesa de Santos, no Estado de São Paulo, o imóvel que menciona."
+    },
+    {
+      "senadoId": "602591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-12-01-13366",
+      "titulo": "Lei nº 13.366 de 01/12/2016",
+      "data": "2016-12-01",
+      "numero": "13366",
+      "urn": "urn:lex:br:federal:lei:2016-12-01;13366",
+      "ementa": "Altera as Leis nºs 10.260, de 12 de julho de 2001, que \"dispõe sobre o Fundo de Financiamento ao estudante do Ensino Superior e dá outras providências\", para atribuir às instituições de ensino responsabilidade parcial pela remuneração dos agentes operadores do Fundo, e 9.394, de 20 de dezembro de 1996, que \"estabelece as diretrizes e bases da educação nacional\", para vedar a concessão de tutela antecipada que tenha por objeto a autorização para o funcionamento de curso de graduação por instituição de educação superior."
+    },
+    {
+      "senadoId": "602590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-29-13365",
+      "titulo": "Lei nº 13.365 de 29/11/2016",
+      "data": "2016-11-29",
+      "numero": "13365",
+      "urn": "urn:lex:br:federal:lei:2016-11-29;13365",
+      "ementa": "Altera a Lei nº 12.351, de 22 de dezembro de 2010, para facultar à Petrobras o direito de preferência para atuar como operador e possuir participação mínima de 30% (trinta por cento) nos consórcios formados para exploração de blocos licitados no regime de partilha de produção."
+    },
+    {
+      "senadoId": "602589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-29-13364",
+      "titulo": "Lei nº 13.364 de 29/11/2016",
+      "data": "2016-11-29",
+      "numero": "13364",
+      "urn": "urn:lex:br:federal:lei:2016-11-29;13364",
+      "ementa": "Reconhece o rodeio, a vaquejada e o laço, bem como as respectivas expressões artísticas e esportivas, como manifestações culturais nacionais; eleva essas atividades à condição de bens de natureza imaterial integrantes do patrimônio cultural brasileiro; e dispõe sobre as modalidades esportivas equestres tradicionais e sobre a proteção ao bem-estar animal."
+    },
+    {
+      "senadoId": "602588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-25-13363",
+      "titulo": "Lei nº 13.363 de 25/11/2016",
+      "data": "2016-11-25",
+      "numero": "13363",
+      "urn": "urn:lex:br:federal:lei:2016-11-25;13363",
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, e a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estipular direitos e garantias para a advogada gestante, lactante, adotante ou que der à luz e para o advogado que se tornar pai."
+    },
+    {
+      "senadoId": "602586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-23-13361",
+      "titulo": "Lei nº 13.361 de 23/11/2016",
+      "data": "2016-11-23",
+      "numero": "13361",
+      "urn": "urn:lex:br:federal:lei:2016-11-23;13361",
+      "ementa": "Altera a Lei nº 11.473, de 10 de maio de 2007, que dispõe sobre a cooperação federativa no âmbito da segurança pública."
+    },
+    {
+      "senadoId": "602587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-23-13362",
+      "titulo": "Lei nº 13.362 de 23/11/2016",
+      "data": "2016-11-23",
+      "numero": "13362",
+      "urn": "urn:lex:br:federal:lei:2016-11-23;13362",
+      "ementa": "Altera a Lei nº 11.664, de 29 de abril de 2008, que \"dispõe sobre a efetivação de ações de saúde que assegurem a prevenção, a detecção, o tratamento e o seguimento dos cânceres do colo uterino e de mama, no âmbito do Sistema Único de Saúde - SUS\", para assegurar o atendimento às mulheres com deficiência."
+    },
+    {
+      "senadoId": "602584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-17-13359",
+      "titulo": "Lei nº 13.359 de 17/11/2016",
+      "data": "2016-11-17",
+      "numero": "13359",
+      "urn": "urn:lex:br:federal:lei:2016-11-17;13359",
+      "ementa": "Institui o Dia Nacional do Patrono da Construção Civil e dos Profissionais da Engenharia Civil."
+    },
+    {
+      "senadoId": "602585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-17-13360",
+      "titulo": "Lei nº 13.360 de 17/11/2016",
+      "data": "2016-11-17",
+      "numero": "13360",
+      "urn": "urn:lex:br:federal:lei:2016-11-17;13360",
+      "ementa": "Altera a Lei nº 5.655, de 20 de maio de 1971, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 9.648, de 27 de maio de 1998, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.783, de 11 de janeiro de 2013, a Lei nº 9.074, de 7 de julho de 1995, a Lei nº 7.990, de 28 de dezembro de 1989, a Lei nº 9.491, de 9 de setembro de 1997, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.848, de 15 de março de 2004, a Lei nº 11.488, de 15 de junho de 2007, a Lei nº 12.767, de 27 de dezembro de 2012, a Lei nº 13.334, de 13 de setembro de 2016, a Lei nº 13.169, de 6 de outubro de 2015, a Lei nº 11.909, de 4 de março de 2009, e a Lei nº 13.203, de 8 de dezembro de 2015; e dá outras providências."
+    },
+    {
+      "senadoId": "602583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-07-13358",
+      "titulo": "Lei nº 13.358 de 07/11/2016",
+      "data": "2016-11-07",
+      "numero": "13358",
+      "urn": "urn:lex:br:federal:lei:2016-11-07;13358",
+      "ementa": "Dispõe sobre a instituição do Biênio da Matemática 2017-2018 Gomes de Sousa."
+    },
+    {
+      "senadoId": "602582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-07-13357",
+      "titulo": "Lei nº 13.357 de 07/11/2016",
+      "data": "2016-11-07",
+      "numero": "13357",
+      "urn": "urn:lex:br:federal:lei:2016-11-07;13357",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda e do Desenvolvimento, Indústria e Comércio Exterior, crédito suplementar no valor de R$ 4.855.433,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-07-13355",
+      "titulo": "Lei nº 13.355 de 07/11/2016",
+      "data": "2016-11-07",
+      "numero": "13355",
+      "urn": "urn:lex:br:federal:lei:2016-11-07;13355",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de diversos órgãos do Poder Judiciário, crédito suplementar no valor de R$ 187.864.849,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-07-13356",
+      "titulo": "Lei nº 13.356 de 07/11/2016",
+      "data": "2016-11-07",
+      "numero": "13356",
+      "urn": "urn:lex:br:federal:lei:2016-11-07;13356",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Saúde, do Trabalho e Previdência Social e das Mulheres, da Igualdade Racial, da Juventude e dos Direitos Humanos, crédito suplementar no valor de R$ 58.958.100,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-07-13354",
+      "titulo": "Lei nº 13.354 de 07/11/2016",
+      "data": "2016-11-07",
+      "numero": "13354",
+      "urn": "urn:lex:br:federal:lei:2016-11-07;13354",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios dos Transportes, Portos e Aviação Civil e da Defesa, crédito especial no valor de R$ 2.100.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-11-03-13353",
+      "titulo": "Lei nº 13.353 de 03/11/2016",
+      "data": "2016-11-03",
+      "numero": "13353",
+      "urn": "urn:lex:br:federal:lei:2016-11-03;13353",
+      "ementa": "Altera a Lei Complementar nº 70, de 30 de dezembro de 1991, as Leis nºs 9.532, de 10 de dezembro de 1997, e 8.894, de 21 de junho de 1994, e a Medida Provisória nº 2.158-35, de 24 de agosto de 2001, para conceder isenções tributárias à Academia Brasileira de Letras, à Associação Brasileira de Imprensa e ao Instituto Histórico e Geográfico Brasileiro; concede remissão e anistia de débitos fiscais dessas instituições; e dá outras providências."
+    },
+    {
+      "senadoId": "602577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-27-13352",
+      "titulo": "Lei nº 13.352 de 27/10/2016",
+      "data": "2016-10-27",
+      "numero": "13352",
+      "urn": "urn:lex:br:federal:lei:2016-10-27;13352",
+      "ementa": "Altera a Lei nº 12.592, de 18 de janeiro 2012, para dispor sobre o contrato de parceria entre os profissionais que exercem as atividades de Cabeleireiro, Barbeiro, Esteticista, Manicure, Pedicure, Depilador e Maquiador e pessoas jurídicas registradas como salão de beleza."
+    },
+    {
+      "senadoId": "602576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-25-13351",
+      "titulo": "Lei nº 13.351 de 25/10/2016",
+      "data": "2016-10-25",
+      "numero": "13351",
+      "urn": "urn:lex:br:federal:lei:2016-10-25;13351",
+      "ementa": "Dispõe sobre a prestação de apoio financeiro pela União ao Estado do Rio de Janeiro para auxiliar nas despesas com Segurança Pública do Estado do Rio de Janeiro decorrentes dos Jogos Olímpicos e Paraolímpicos - Rio 2016."
+    },
+    {
+      "senadoId": "602575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-20-13350",
+      "titulo": "Lei nº 13.350 de 20/10/2016",
+      "data": "2016-10-20",
+      "numero": "13350",
+      "urn": "urn:lex:br:federal:lei:2016-10-20;13350",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 3.000.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-18-13349",
+      "titulo": "Lei nº 13.349 de 18/10/2016",
+      "data": "2016-10-18",
+      "numero": "13349",
+      "urn": "urn:lex:br:federal:lei:2016-10-18;13349",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Educação e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 1.103.400.627,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-10-13348",
+      "titulo": "Lei nº 13.348 de 10/10/2016",
+      "data": "2016-10-10",
+      "numero": "13348",
+      "urn": "urn:lex:br:federal:lei:2016-10-10;13348",
+      "ementa": "Altera as Leis nºs 12.722, de 3 de outubro de 2012, que dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta de educação infantil, para incluir as crianças beneficiárias do Benefício de Prestação Continuada - BPC e as crianças com deficiência e estabelecer novas regras de repasse do apoio financeiro, e 11.494, de 20 de junho de 2007, que \"Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, de que trata o art. 60 do Ato das Disposições Constitucionais Transitórias; e 10.195, de 14 de fevereiro de 2001; revoga dispositivos das Leis nºs 9.424, de 24 de dezembro de 1996, 10.880, de 9 de junho de 2004, e 10.845, de 5 de março de 2004; e dá outras providências\"."
+    },
+    {
+      "senadoId": "602572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-10-13347",
+      "titulo": "Lei nº 13.347 de 10/10/2016",
+      "data": "2016-10-10",
+      "numero": "13347",
+      "urn": "urn:lex:br:federal:lei:2016-10-10;13347",
+      "ementa": "Limita o reajuste das receitas patrimoniais decorrentes da atualização da planta de valores, para efeito do cálculo do valor do domínio pleno do terreno a que se refere o § 1º do art. 1º do Decreto-Lei nº 2.398, de 21 de dezembro de 1987, e dá outras providências."
+    },
+    {
+      "senadoId": "602570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-10-13345",
+      "titulo": "Lei nº 13.345 de 10/10/2016",
+      "data": "2016-10-10",
+      "numero": "13345",
+      "urn": "urn:lex:br:federal:lei:2016-10-10;13345",
+      "ementa": "Altera a Lei nº 10.683, de 28 de maio de 2003, cria as Secretarias Especiais dos Direitos da Pessoa com Deficiência e de Promoção e Defesa dos Direitos da Pessoa Idosa, e dá outras providências."
+    },
+    {
+      "senadoId": "602571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-10-13346",
+      "titulo": "Lei nº 13.346 de 10/10/2016",
+      "data": "2016-10-10",
+      "numero": "13346",
+      "urn": "urn:lex:br:federal:lei:2016-10-10;13346",
+      "ementa": "Dispõe sobre a extinção de cargos em comissão do Grupo-Direção e Assessoramento Superiores e a criação de funções de confiança denominadas Funções Comissionadas do Poder Executivo."
+    },
+    {
+      "senadoId": "602569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-06-13344",
+      "titulo": "Lei nº 13.344 de 06/10/2016",
+      "data": "2016-10-06",
+      "numero": "13344",
+      "urn": "urn:lex:br:federal:lei:2016-10-06;13344",
+      "ementa": "Dispõe sobre prevenção e repressão ao tráfico interno e internacional de pessoas e sobre medidas de atenção às vítimas; altera a Lei nº 6.815, de 19 de agosto de 1980, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); e revoga dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)."
+    },
+    {
+      "senadoId": "602568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-05-13343",
+      "titulo": "Lei nº 13.343 de 05/10/2016",
+      "data": "2016-10-05",
+      "numero": "13343",
+      "urn": "urn:lex:br:federal:lei:2016-10-05;13343",
+      "ementa": "Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 2.900.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "602567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-10-03-13342",
+      "titulo": "Lei nº 13.342 de 03/10/2016",
+      "data": "2016-10-03",
+      "numero": "13342",
+      "urn": "urn:lex:br:federal:lei:2016-10-03;13342",
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre a formação profissional e sobre benefícios trabalhistas e previdenciários dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, e a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre a prioridade de atendimento desses agentes no Programa Minha Casa, Minha Vida (PMCMV)."
+    },
+    {
+      "senadoId": "602566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-29-13341",
+      "titulo": "Lei nº 13.341 de 29/09/2016",
+      "data": "2016-09-29",
+      "numero": "13341",
+      "urn": "urn:lex:br:federal:lei:2016-09-29;13341",
+      "ementa": "Altera as Leis nºs 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e 11.890, de 24 de dezembro de 2008, e revoga a Medida Provisória nº 717, de 16 de março de 2016."
+    },
+    {
+      "senadoId": "602565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-28-13340",
+      "titulo": "Lei nº 13.340 de 28/09/2016",
+      "data": "2016-09-28",
+      "numero": "13340",
+      "urn": "urn:lex:br:federal:lei:2016-09-28;13340",
+      "ementa": "Autoriza a liquidação e a renegociação de dívidas de crédito rural; altera a Lei nº 10.177, de 12 de janeiro de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "602564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-20-13339",
+      "titulo": "Lei nº 13.339 de 20/09/2016",
+      "data": "2016-09-20",
+      "numero": "13339",
+      "urn": "urn:lex:br:federal:lei:2016-09-20;13339",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça Eleitoral, no valor de R$ 150.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "602563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-19-13338",
+      "titulo": "Lei nº 13.338 de 19/09/2016",
+      "data": "2016-09-19",
+      "numero": "13338",
+      "urn": "urn:lex:br:federal:lei:2016-09-19;13338",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União e do Ministério do Desenvolvimento Agrário, crédito suplementar no valor de R$ 2.457.162.512,00, para reforço das dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-14-13337",
+      "titulo": "Lei nº 13.337 de 14/09/2016",
+      "data": "2016-09-14",
+      "numero": "13337",
+      "urn": "urn:lex:br:federal:lei:2016-09-14;13337",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 10.560.436,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-14-13335",
+      "titulo": "Lei nº 13.335 de 14/09/2016",
+      "data": "2016-09-14",
+      "numero": "13335",
+      "urn": "urn:lex:br:federal:lei:2016-09-14;13335",
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para dispor sobre a extensão dos prazos de inscrição no Cadastro Ambiental Rural e adesão ao Programa de Regularização Ambiental."
+    },
+    {
+      "senadoId": "602561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-14-13336",
+      "titulo": "Lei nº 13.336 de 14/09/2016",
+      "data": "2016-09-14",
+      "numero": "13336",
+      "urn": "urn:lex:br:federal:lei:2016-09-14;13336",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça do Trabalho e de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 28.069.799,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "602559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-13-13334",
+      "titulo": "Lei nº 13.334 de 13/09/2016",
+      "data": "2016-09-13",
+      "numero": "13334",
+      "urn": "urn:lex:br:federal:lei:2016-09-13;13334",
+      "ementa": "Cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, de 28 de maio de 2003, e dá outras providências."
+    },
+    {
+      "senadoId": "602558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-12-13333",
+      "titulo": "Lei nº 13.333 de 12/09/2016",
+      "data": "2016-09-12",
+      "numero": "13333",
+      "urn": "urn:lex:br:federal:lei:2016-09-12;13333",
+      "ementa": "Prorroga o prazo de dispensa de que trata o art. 16 da Lei no 12.871, de 22 de outubro de 2013."
+    },
+    {
+      "senadoId": "602556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-01-13331",
+      "titulo": "Lei nº 13.331 de 01/09/2016",
+      "data": "2016-09-01",
+      "numero": "13331",
+      "urn": "urn:lex:br:federal:lei:2016-09-01;13331",
+      "ementa": "Altera a Lei nº 11.076, de 30 de dezembro de 2004, que dispõe sobre o Certificado de Depósito Agropecuário-CDA, o Warrant Agropecuário-WA, o Certificado de Direitos Creditórios do Agronegócio-CDCA, a Letra de Crédito do Agronegócio-LCA e o Certificado de Recebíveis do Agronegócio- CRA, e dá outras providências."
+    },
+    {
+      "senadoId": "602557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-09-01-13332",
+      "titulo": "Lei nº 13.332 de 01/09/2016",
+      "data": "2016-09-01",
+      "numero": "13332",
+      "urn": "urn:lex:br:federal:lei:2016-09-01;13332",
+      "ementa": "Altera a Lei nº 13.255, de 14 de janeiro de 2016, que estima a receita e fixa a despesa da União para o exercício financeiro de 2016."
+    },
+    {
+      "senadoId": "602555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-08-02-13330",
+      "titulo": "Lei nº 13.330 de 02/08/2016",
+      "data": "2016-08-02",
+      "numero": "13330",
+      "urn": "urn:lex:br:federal:lei:2016-08-02;13330",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar, de forma mais gravosa, os crimes de furto e de receptação de semovente domesticável de produção, ainda que abatido ou dividido em partes."
+    },
+    {
+      "senadoId": "602554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-08-01-13329",
+      "titulo": "Lei nº 13.329 de 01/08/2016",
+      "data": "2016-08-01",
+      "numero": "13329",
+      "urn": "urn:lex:br:federal:lei:2016-08-01;13329",
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, para criar o Regime Especial de Incentivos para o Desenvolvimento do Saneamento Básico - REISB, com o objetivo de estimular a pessoa jurídica prestadora de serviços públicos de saneamento básico a aumentar seu volume de investimentos, por meio da concessão de créditos relativos à contribuição para o Programa de Integração Social - PIS e para o Programa de Formação do Patrimônio do Servidor Público - PASEP e à Contribuição para Financiamento da Seguridade Social - COFINS."
+    },
+    {
+      "senadoId": "602552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-29-13327",
+      "titulo": "Lei nº 13.327 de 29/07/2016",
+      "data": "2016-07-29",
+      "numero": "13327",
+      "urn": "urn:lex:br:federal:lei:2016-07-29;13327",
+      "ementa": "Altera a remuneração de servidores públicos; estabelece opção por novas regras de incorporação de gratificação de desempenho a aposentadorias e pensões; altera os requisitos de acesso a cargos públicos; reestrutura cargos e carreiras; dispõe sobre honorários advocatícios de sucumbência das causas em que forem parte a União, suas autarquias e fundações; e dá outras providências."
+    },
+    {
+      "senadoId": "602551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-29-13326",
+      "titulo": "Lei nº 13.326 de 29/07/2016",
+      "data": "2016-07-29",
+      "numero": "13326",
+      "urn": "urn:lex:br:federal:lei:2016-07-29;13326",
+      "ementa": "Altera a remuneração de servidores públicos; dispõe sobre gratificações de qualificação e de desempenho; estabelece regras de incorporação de gratificação de desempenho a aposentadorias e pensões; dispõe sobre a criação das carreiras do Conselho Administrativo de Defesa Econômica (Cade) e sobre a remuneração dos ocupantes dos cargos que integram as carreiras das agências reguladoras, de que tratam a Lei nº 10.871, de 20 de maio de 2004, e a Lei nº 10.768, de 19 de novembro de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "602550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-29-13325",
+      "titulo": "Lei nº 13.325 de 29/07/2016",
+      "data": "2016-07-29",
+      "numero": "13325",
+      "urn": "urn:lex:br:federal:lei:2016-07-29;13325",
+      "ementa": "Altera a remuneração, as regras de promoção, as regras de incorporação de gratificação de desempenho a aposentadorias e pensões de servidores públicos da área da educação, e dá outras providências."
+    },
+    {
+      "senadoId": "602549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-29-13324",
+      "titulo": "Lei nº 13.324 de 29/07/2016",
+      "data": "2016-07-29",
+      "numero": "13324",
+      "urn": "urn:lex:br:federal:lei:2016-07-29;13324",
+      "ementa": "Altera a remuneração de servidores e empregados públicos; dispõe sobre gratificações de qualificação e de desempenho; estabelece regras para incorporação de gratificações às aposentadorias e pensões; e dá outras providências."
+    },
+    {
+      "senadoId": "602553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-29-13328",
+      "titulo": "Lei nº 13.328 de 29/07/2016",
+      "data": "2016-07-29",
+      "numero": "13328",
+      "urn": "urn:lex:br:federal:lei:2016-07-29;13328",
+      "ementa": "Cria, transforma e extingue cargos e funções; reestrutura cargos e carreiras; altera a remuneração de servidores; altera a remuneração de militares de ex-Territórios Federais; altera disposições sobre gratificações de desempenho; dispõe sobre a incidência de contribuição previdenciária facultativa sobre parcelas remuneratórias; e modifica regras sobre requisição e cessão de servidores."
+    },
+    {
+      "senadoId": "602548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-28-13323",
+      "titulo": "Lei nº 13.323 de 28/07/2016",
+      "data": "2016-07-28",
+      "numero": "13323",
+      "urn": "urn:lex:br:federal:lei:2016-07-28;13323",
+      "ementa": "Reajusta a remuneração dos servidores integrantes do Quadro de Pessoal da Câmara dos Deputados."
+    },
+    {
+      "senadoId": "602547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-28-13322",
+      "titulo": "Lei nº 13.322 de 28/07/2016",
+      "data": "2016-07-28",
+      "numero": "13322",
+      "urn": "urn:lex:br:federal:lei:2016-07-28;13322",
+      "ementa": "Altera as Leis nºs 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, para dispor sobre o controle de dopagem, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paralímpicos de 2016, 10.973, de 2 de dezembro de 2004, e 8.010, de 29 de março de 1990; e dá outras providências."
+    },
+    {
+      "senadoId": "602546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-27-13321",
+      "titulo": "Lei nº 13.321 de 27/07/2016",
+      "data": "2016-07-27",
+      "numero": "13321",
+      "urn": "urn:lex:br:federal:lei:2016-07-27;13321",
+      "ementa": "Altera o soldo e o escalonamento vertical dos militares das Forças Armadas, constantes da Lei nº 11.784, de 22 de setembro de 2008."
+    },
+    {
+      "senadoId": "602545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-27-13320",
+      "titulo": "Lei nº 13.320 de 27/07/2016",
+      "data": "2016-07-27",
+      "numero": "13320",
+      "urn": "urn:lex:br:federal:lei:2016-07-27;13320",
+      "ementa": "Altera os Anexos III, IV, V e VI da Lei nº 10.356, de 27 de dezembro de 2001, que dispõe sobre o quadro de pessoal e o plano de carreira do Tribunal de Contas da União."
+    },
+    {
+      "senadoId": "602544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-25-13319",
+      "titulo": "Lei nº 13.319 de 25/07/2016",
+      "data": "2016-07-25",
+      "numero": "13319",
+      "urn": "urn:lex:br:federal:lei:2016-07-25;13319",
+      "ementa": "Extingue o Adicional de Tarifa Aeroportuária; amplia o limite de participação do investimento estrangeiro na aviação civil; altera a Lei nº 5.862, de 12 de dezembro de 1972, a Lei nº 7.565, de 19 de dezembro de 1986, e a Lei nº 12.462, de 4 de agosto de 2011; e revoga a Lei nº 7.920, de 7 de dezembro de 1989, a Lei nº 8.399, de 7 de janeiro de 1992, e dispositivos da Lei nº 7.565, de 19 de dezembro de 1986, e da Lei nº 12.462, de 4 de agosto de 2011."
+    },
+    {
+      "senadoId": "602541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-20-13316",
+      "titulo": "Lei nº 13.316 de 20/07/2016",
+      "data": "2016-07-20",
+      "numero": "13316",
+      "urn": "urn:lex:br:federal:lei:2016-07-20;13316",
+      "ementa": "Dispõe sobre as carreiras dos servidores do Ministério Público da União e as carreiras dos servidores do Conselho Nacional do Ministério Público; fixa valores de sua remuneração; e revoga a Lei nº 11.415, de 15 de dezembro de 2006."
+    },
+    {
+      "senadoId": "602542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-20-13317",
+      "titulo": "Lei nº 13.317 de 20/07/2016",
+      "data": "2016-07-20",
+      "numero": "13317",
+      "urn": "urn:lex:br:federal:lei:2016-07-20;13317",
+      "ementa": "Altera dispositivos da Lei nº 11.416, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União, e dá outras providências."
+    },
+    {
+      "senadoId": "602543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-20-13318",
+      "titulo": "Lei nº 13.318 de 20/07/2016",
+      "data": "2016-07-20",
+      "numero": "13318",
+      "urn": "urn:lex:br:federal:lei:2016-07-20;13318",
+      "ementa": "Confere o título de Capital Nacional dos Botos (Golfinhos) Pescadores à cidade de Laguna, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "602540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-20-13315",
+      "titulo": "Lei nº 13.315 de 20/07/2016",
+      "data": "2016-07-20",
+      "numero": "13315",
+      "urn": "urn:lex:br:federal:lei:2016-07-20;13315",
+      "ementa": "Altera as Leis nºs 12.249, de 11 de junho de 2010, 9.779, de 19 de janeiro de 1999, e 9.481, de 13 de agosto de 1997, para dispor sobre a incidência do imposto de renda retido na fonte sobre remessas ao exterior de valores destinados à cobertura de gastos pessoais, à promoção de produtos, serviços e destinos turísticos brasileiros e de rendimentos provenientes de aposentadoria e pensão."
+    },
+    {
+      "senadoId": "602539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-19-13314",
+      "titulo": "Lei nº 13.314 de 19/07/2016",
+      "data": "2016-07-19",
+      "numero": "13314",
+      "urn": "urn:lex:br:federal:lei:2016-07-19;13314",
+      "ementa": "Confere à cidade de Joinville, no Estado de Santa Catarina, o título de Capital Nacional da Dança."
+    },
+    {
+      "senadoId": "602538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-14-13313",
+      "titulo": "Lei nº 13.313 de 14/07/2016",
+      "data": "2016-07-14",
+      "numero": "13313",
+      "urn": "urn:lex:br:federal:lei:2016-07-14;13313",
+      "ementa": "Altera as Leis nºs 10.820, de 17 de dezembro de 2003, que dispõe sobre a autorização para desconto de prestações em folha de pagamento; 12.712, de 30 de agosto de 2012; 8.374, de 30 de dezembro de 1991, que dispõe sobre o Seguro Obrigatório de Danos Pessoais causados por embarcações ou por sua carga; e 13.259, de 16 de março de 2016, para dispor sobre a dação em pagamento de bens imóveis como forma de extinção do crédito tributário inscrito em dívida ativa da União."
+    },
+    {
+      "senadoId": "602537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-12-13312",
+      "titulo": "Lei nº 13.312 de 12/07/2016",
+      "data": "2016-07-12",
+      "numero": "13312",
+      "urn": "urn:lex:br:federal:lei:2016-07-12;13312",
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, para tornar obrigatória a medição individualizada do consumo hídrico nas novas edificações condominiais."
+    },
+    {
+      "senadoId": "602536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-11-13311",
+      "titulo": "Lei nº 13.311 de 11/07/2016",
+      "data": "2016-07-11",
+      "numero": "13311",
+      "urn": "urn:lex:br:federal:lei:2016-07-11;13311",
+      "ementa": "Institui, nos termos do caput do art. 182 da Constituição Federal, normas gerais para a ocupação e utilização de área pública urbana por equipamentos urbanos do tipo quiosque, trailer, feira e banca de venda de jornais e de revistas."
+    },
+    {
+      "senadoId": "602535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-07-13310",
+      "titulo": "Lei nº 13.310 de 07/07/2016",
+      "data": "2016-07-07",
+      "numero": "13310",
+      "urn": "urn:lex:br:federal:lei:2016-07-07;13310",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Defesa e do Desenvolvimento Social e Combate à Fome, no valor de R$ 420.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-06-13307",
+      "titulo": "Lei nº 13.307 de 06/07/2016",
+      "data": "2016-07-06",
+      "numero": "13307",
+      "urn": "urn:lex:br:federal:lei:2016-07-06;13307",
+      "ementa": "Dispõe sobre a forma de divulgação das atividades, bens ou serviços resultantes de projetos esportivos, paraesportivos e culturais e de produções audiovisuais e artísticas financiados com recursos públicos federais."
+    },
+    {
+      "senadoId": "602534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-06-13309",
+      "titulo": "Lei nº 13.309 de 06/07/2016",
+      "data": "2016-07-06",
+      "numero": "13309",
+      "urn": "urn:lex:br:federal:lei:2016-07-06;13309",
+      "ementa": "Institui o Dia Nacional de Doação de Cordão Umbilical."
+    },
+    {
+      "senadoId": "602533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-06-13308",
+      "titulo": "Lei nº 13.308 de 06/07/2016",
+      "data": "2016-07-06",
+      "numero": "13308",
+      "urn": "urn:lex:br:federal:lei:2016-07-06;13308",
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, determinando a manutenção preventiva das redes de drenagem pluvial."
+    },
+    {
+      "senadoId": "602531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-04-13306",
+      "titulo": "Lei nº 13.306 de 04/07/2016",
+      "data": "2016-07-04",
+      "numero": "13306",
+      "urn": "urn:lex:br:federal:lei:2016-07-04;13306",
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, a fim de fixar em cinco anos a idade máxima para o atendimento na educação infantil."
+    },
+    {
+      "senadoId": "602529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-04-13304",
+      "titulo": "Lei nº 13.304 de 04/07/2016",
+      "data": "2016-07-04",
+      "numero": "13304",
+      "urn": "urn:lex:br:federal:lei:2016-07-04;13304",
+      "ementa": "Denomina \"Ferrovia Engenheiro Vasco Azevedo Neto\" o trecho ferroviário compreendido entre os Municípios de Ilhéus, no Estado da Bahia - BA, e Figueirópolis, no Estado do Tocantins - TO."
+    },
+    {
+      "senadoId": "602530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-07-04-13305",
+      "titulo": "Lei nº 13.305 de 04/07/2016",
+      "data": "2016-07-04",
+      "numero": "13305",
+      "urn": "urn:lex:br:federal:lei:2016-07-04;13305",
+      "ementa": "Acrescenta art. 19-A ao Decreto-Lei nº 986, de 21 de outubro de 1969, que \"institui normas básicas sobre alimentos\", para dispor sobre a rotulagem de alimentos que contenham lactose."
+    },
+    {
+      "senadoId": "602528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-30-13303",
+      "titulo": "Lei nº 13.303 de 30/06/2016",
+      "data": "2016-06-30",
+      "numero": "13303",
+      "urn": "urn:lex:br:federal:lei:2016-06-30;13303",
+      "ementa": "Dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios."
+    },
+    {
+      "senadoId": "602527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-27-13302",
+      "titulo": "Lei nº 13.302 de 27/06/2016",
+      "data": "2016-06-27",
+      "numero": "13302",
+      "urn": "urn:lex:br:federal:lei:2016-06-27;13302",
+      "ementa": "Reajusta a remuneração dos servidores do Senado Federal e disciplina o pagamento de parcelas remuneratórias devidas a esses servidores."
+    },
+    {
+      "senadoId": "602526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-27-13301",
+      "titulo": "Lei nº 13.301 de 27/06/2016",
+      "data": "2016-06-27",
+      "numero": "13301",
+      "urn": "urn:lex:br:federal:lei:2016-06-27;13301",
+      "ementa": "Dispõe sobre a adoção de medidas de vigilância em saúde quando verificada situação de iminente perigo à saúde pública pela presença do mosquito transmissor do vírus da dengue, do vírus chikungunya e do vírus da zika; e altera a Lei nº 6.437, de 20 de agosto de 1977."
+    },
+    {
+      "senadoId": "602525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-23-13300",
+      "titulo": "Lei nº 13.300 de 23/06/2016",
+      "data": "2016-06-23",
+      "numero": "13300",
+      "urn": "urn:lex:br:federal:lei:2016-06-23;13300",
+      "ementa": "Disciplina o processo e o julgamento dos mandados de injunção individual e coletivo e dá outras providências."
+    },
+    {
+      "senadoId": "602524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-21-13299",
+      "titulo": "Lei nº 13.299 de 21/06/2016",
+      "data": "2016-06-21",
+      "numero": "13299",
+      "urn": "urn:lex:br:federal:lei:2016-06-21;13299",
+      "ementa": "Altera a Lei nº 9.074, de 7 de julho de 1995, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, e a Lei nº 13.182, de 3 de novembro de 2015; e dá outras providências."
+    },
+    {
+      "senadoId": "602523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-20-13298",
+      "titulo": "Lei nº 13.298 de 20/06/2016",
+      "data": "2016-06-20",
+      "numero": "13298",
+      "urn": "urn:lex:br:federal:lei:2016-06-20;13298",
+      "ementa": "Estabelece a reincorporação pela União dos trechos de rodovias federais transferidos aos Estados e ao Distrito Federal por força da Medida Provisória nº 82, de 7 de dezembro de 2002."
+    },
+    {
+      "senadoId": "602521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-16-13296",
+      "titulo": "Lei nº 13.296 de 16/06/2016",
+      "data": "2016-06-16",
+      "numero": "13296",
+      "urn": "urn:lex:br:federal:lei:2016-06-16;13296",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Social e Agrário, no valor de R$ 316.230.970,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "602522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-16-13297",
+      "titulo": "Lei nº 13.297 de 16/06/2016",
+      "data": "2016-06-16",
+      "numero": "13297",
+      "urn": "urn:lex:br:federal:lei:2016-06-16;13297",
+      "ementa": "Altera o art. 1º da Lei nº 9.608, de 18 de fevereiro de 1998, para incluir a assistência à pessoa como objetivo de atividade não remunerada reconhecida como serviço voluntário."
+    },
+    {
+      "senadoId": "602520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-14-13295",
+      "titulo": "Lei nº 13.295 de 14/06/2016",
+      "data": "2016-06-14",
+      "numero": "13295",
+      "urn": "urn:lex:br:federal:lei:2016-06-14;13295",
+      "ementa": "Altera a Lei nº 12.096, de 24 de novembro de 2009, a Lei nº 12.844, de 19 de julho de 2013, a Lei nº 12.651, de 25 de maio de 2012, e a Lei nº 10.177, de 12 de janeiro de 2001."
+    },
+    {
+      "senadoId": "602519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-06-13294",
+      "titulo": "Lei nº 13.294 de 06/06/2016",
+      "data": "2016-06-06",
+      "numero": "13294",
+      "urn": "urn:lex:br:federal:lei:2016-06-06;13294",
+      "ementa": "Dispõe sobre o prazo para emissão de recibo de quitação integral de débitos de qualquer natureza pelas instituições integrantes do Sistema Financeiro Nacional, nos termos da Lei nº 4.595, de 31 de dezembro de 1964."
+    },
+    {
+      "senadoId": "602518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-06-01-13293",
+      "titulo": "Lei nº 13.293 de 01/06/2016",
+      "data": "2016-06-01",
+      "numero": "13293",
+      "urn": "urn:lex:br:federal:lei:2016-06-01;13293",
+      "ementa": "Altera a Lei nº 12.505, de 11 de outubro de 2011, que \"concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, de Goiás, do Maranhão, de Minas Gerais, da Paraíba, do Piauí, do Rio de Janeiro, de Rondônia, de Sergipe, da Bahia, do Ceará, de Mato Grosso, de Pernambuco, do Rio Grande do Norte, de Roraima, de Santa Catarina, do Tocantins e do Distrito Federal punidos por participar de movimentos reivindicatórios\", para acrescentar os Estados do Amazonas, do Pará, do Acre, do Mato Grosso do Sul e do Paraná"
+    },
+    {
+      "senadoId": "602517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-31-13292",
+      "titulo": "Lei nº 13.292 de 31/05/2016",
+      "data": "2016-05-31",
+      "numero": "13292",
+      "urn": "urn:lex:br:federal:lei:2016-05-31;13292",
+      "ementa": "Altera a Lei nº 6.704, de 26 de outubro de 1979, para dispor sobre o Seguro de Crédito à Exportação, as Leis nºs 9.818, de 23 de agosto de 1999, e 11.281, de 20 de fevereiro de 2006, para dispor sobre o Fundo de Garantia à Exportação, a Lei nº 12.712, de 30 de agosto de 2012, para dispor sobre a utilização de imóveis da União para integralização de fundo garantidor e sobre a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. (ABGF), o Decreto-Lei nº 857, de 11 de setembro de 1969, para dispor sobre moeda de pagamento de obrigações exequíveis no Brasil, e a Lei nº 13.240, de 30 de dezembro de 2015, para dispor sobre a utilização de imóveis da União para integralização de fundo garantidor; e dispõe sobre a concessão pela União de seguro de investimento no exterior contra riscos políticos e extraordinários."
+    },
+    {
+      "senadoId": "602516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-25-13291",
+      "titulo": "Lei nº 13.291 de 25/05/2016",
+      "data": "2016-05-25",
+      "numero": "13291",
+      "urn": "urn:lex:br:federal:lei:2016-05-25;13291",
+      "ementa": "Altera os dispositivos que menciona da Lei nº 13.242, de 30 de dezembro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2016."
+    },
+    {
+      "senadoId": "602515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-23-13290",
+      "titulo": "Lei nº 13.290 de 23/05/2016",
+      "data": "2016-05-23",
+      "numero": "13290",
+      "urn": "urn:lex:br:federal:lei:2016-05-23;13290",
+      "ementa": "Torna obrigatório o uso, nas rodovias, de farol baixo aceso durante o dia e dá outras providências."
+    },
+    {
+      "senadoId": "602514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-20-13289",
+      "titulo": "Lei nº 13.289 de 20/05/2016",
+      "data": "2016-05-20",
+      "numero": "13289",
+      "urn": "urn:lex:br:federal:lei:2016-05-20;13289",
+      "ementa": "Dispõe sobre o Selo Empresa Solidária com a Vida e dá outras providências."
+    },
+    {
+      "senadoId": "602513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-16-13288",
+      "titulo": "Lei nº 13.288 de 16/05/2016",
+      "data": "2016-05-16",
+      "numero": "13288",
+      "urn": "urn:lex:br:federal:lei:2016-05-16;13288",
+      "ementa": "Dispõe sobre os contratos de integração, obrigações e responsabilidades nas relações contratuais entre produtores integrados e integradores, e dá outras providências."
+    },
+    {
+      "senadoId": "602512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-11-13287",
+      "titulo": "Lei nº 13.287 de 11/05/2016",
+      "data": "2016-05-11",
+      "numero": "13287",
+      "urn": "urn:lex:br:federal:lei:2016-05-11;13287",
+      "ementa": "Acrescenta dispositivo à Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para proibir o trabalho da gestante ou lactante em atividades, operações ou locais insalubres"
+    },
+    {
+      "senadoId": "602509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-10-13284",
+      "titulo": "Lei nº 13.284 de 10/05/2016",
+      "data": "2016-05-10",
+      "numero": "13284",
+      "urn": "urn:lex:br:federal:lei:2016-05-10;13284",
+      "ementa": "Dispõe sobre as medidas relativas aos Jogos Olímpicos e Paraolímpicos de 2016 e aos eventos relacionados, que serão realizados no Brasil; e altera a Lei nº 12.035, de 1º de outubro de 2009, que \"institui o Ato Olímpico, no âmbito da administração pública federal\", e a Lei nº 12.780, de 9 de janeiro de 2013, que \"dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016\"."
+    },
+    {
+      "senadoId": "602511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-10-13286",
+      "titulo": "Lei nº 13.286 de 10/05/2016",
+      "data": "2016-05-10",
+      "numero": "13286",
+      "urn": "urn:lex:br:federal:lei:2016-05-10;13286",
+      "ementa": "Dispõe sobre a responsabilidade civil de notários e registradores, alterando o art. 22 da Lei nº 8.935, de 18 de novembro de 1994."
+    },
+    {
+      "senadoId": "602510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-10-13285",
+      "titulo": "Lei nº 13.285 de 10/05/2016",
+      "data": "2016-05-10",
+      "numero": "13285",
+      "urn": "urn:lex:br:federal:lei:2016-05-10;13285",
+      "ementa": "Acrescenta o art. 394-A ao Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal."
+    },
+    {
+      "senadoId": "602508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-04-13283",
+      "titulo": "Lei nº 13.283 de 04/05/2016",
+      "data": "2016-05-04",
+      "numero": "13283",
+      "urn": "urn:lex:br:federal:lei:2016-05-04;13283",
+      "ementa": "Dispõe sobre a criação de uma vara federal no Estado do Rio Grande do Sul e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "602506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-04-13281",
+      "titulo": "Lei nº 13.281 de 04/05/2016",
+      "data": "2016-05-04",
+      "numero": "13281",
+      "urn": "urn:lex:br:federal:lei:2016-05-04;13281",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e a Lei nº 13.146, de 6 de julho de 2015."
+    },
+    {
+      "senadoId": "602507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-04-13282",
+      "titulo": "Lei nº 13.282 de 04/05/2016",
+      "data": "2016-05-04",
+      "numero": "13282",
+      "urn": "urn:lex:br:federal:lei:2016-05-04;13282",
+      "ementa": "Dispõe sobre a criação de duas varas federais no Estado do Rio Grande do Sul e sobre a criação de cargos de juízes, cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "602504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-03-13279",
+      "titulo": "Lei nº 13.279 de 03/05/2016",
+      "data": "2016-05-03",
+      "numero": "13279",
+      "urn": "urn:lex:br:federal:lei:2016-05-03;13279",
+      "ementa": "Institui o dia 3 de março como o Dia Nacional da Igreja O Brasil Para Cristo."
+    },
+    {
+      "senadoId": "602505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-03-13280",
+      "titulo": "Lei nº 13.280 de 03/05/2016",
+      "data": "2016-05-03",
+      "numero": "13280",
+      "urn": "urn:lex:br:federal:lei:2016-05-03;13280",
+      "ementa": "Altera a Lei nº 9.991, de 24 de julho de 2000, para disciplinar a aplicação dos recursos destinados a programas de eficiência energética."
+    },
+    {
+      "senadoId": "602503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-05-02-13278",
+      "titulo": "Lei nº 13.278 de 02/05/2016",
+      "data": "2016-05-02",
+      "numero": "13278",
+      "urn": "urn:lex:br:federal:lei:2016-05-02;13278",
+      "ementa": "Altera o § 6º do art. 26 da Lei nº 9.394, de 20 de dezembro de 1996, que fixa as diretrizes e bases da educação nacional, referente ao ensino da arte."
+    },
+    {
+      "senadoId": "602502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-29-13277",
+      "titulo": "Lei nº 13.277 de 29/04/2016",
+      "data": "2016-04-29",
+      "numero": "13277",
+      "urn": "urn:lex:br:federal:lei:2016-04-29;13277",
+      "ementa": "Institui o dia 7 de abril como o Dia Nacional de Combate ao Bullying e à Violência na Escola."
+    },
+    {
+      "senadoId": "602501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-29-13276",
+      "titulo": "Lei nº 13.276 de 29/04/2016",
+      "data": "2016-04-29",
+      "numero": "13276",
+      "urn": "urn:lex:br:federal:lei:2016-04-29;13276",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Saúde, do Trabalho e Emprego e das Cidades e de Encargos Financeiros da União, no valor de R$ 37.579.334.525,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-27-13275",
+      "titulo": "Lei nº 13.275 de 27/04/2016",
+      "data": "2016-04-27",
+      "numero": "13275",
+      "urn": "urn:lex:br:federal:lei:2016-04-27;13275",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Saúde, da Cultura, do Esporte, da Defesa, da Integração Nacional e do Turismo; das Secretarias de Aviação Civil e de Portos da Presidência da República; e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.318.639.330,00 (um bilhão, trezentos e dezoito milhões, seiscentos e trinta e nove mil, trezentos e trinta reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "602499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-26-13274",
+      "titulo": "Lei nº 13.274 de 26/04/2016",
+      "data": "2016-04-26",
+      "numero": "13274",
+      "urn": "urn:lex:br:federal:lei:2016-04-26;13274",
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre operações de financiamento habitacional com desconto ao beneficiário concedido pelo Fundo de Garantia do Tempo de Serviço - FGTS para aquisição de imóveis no âmbito do Programa Minha Casa, Minha Vida - PMCMV construídos com recursos do Fundo de Arrendamento Residencial - FAR."
+    },
+    {
+      "senadoId": "602498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-15-13273",
+      "titulo": "Lei nº 13.273 de 15/04/2016",
+      "data": "2016-04-15",
+      "numero": "13273",
+      "urn": "urn:lex:br:federal:lei:2016-04-15;13273",
+      "ementa": "Altera os limites do Parque Nacional de São Joaquim, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "602497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-15-13272",
+      "titulo": "Lei nº 13.272 de 15/04/2016",
+      "data": "2016-04-15",
+      "numero": "13272",
+      "urn": "urn:lex:br:federal:lei:2016-04-15;13272",
+      "ementa": "Institui o ano de 2016 como o Ano do Empoderamento da Mulher na Política e no Esporte."
+    },
+    {
+      "senadoId": "602496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-15-13271",
+      "titulo": "Lei nº 13.271 de 15/04/2016",
+      "data": "2016-04-15",
+      "numero": "13271",
+      "urn": "urn:lex:br:federal:lei:2016-04-15;13271",
+      "ementa": "Dispõe sobre a proibição de revista íntima de funcionárias nos locais de trabalho e trata da revista íntima em ambientes prisionais."
+    },
+    {
+      "senadoId": "602494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-13-13269",
+      "titulo": "Lei nº 13.269 de 13/04/2016",
+      "data": "2016-04-13",
+      "numero": "13269",
+      "urn": "urn:lex:br:federal:lei:2016-04-13;13269",
+      "ementa": "Autoriza o uso da fosfoetanolamina sintética por pacientes diagnosticados com neoplasia maligna."
+    },
+    {
+      "senadoId": "602495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-13-13270",
+      "titulo": "Lei nº 13.270 de 13/04/2016",
+      "data": "2016-04-13",
+      "numero": "13270",
+      "urn": "urn:lex:br:federal:lei:2016-04-13;13270",
+      "ementa": "Altera o art. 6º da Lei nº 12.842, de 10 de julho de 2013, que dispõe sobre o exercício da Medicina."
+    },
+    {
+      "senadoId": "602493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-12-13268",
+      "titulo": "Lei nº 13.268 de 12/04/2016",
+      "data": "2016-04-12",
+      "numero": "13268",
+      "urn": "urn:lex:br:federal:lei:2016-04-12;13268",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça, da Cultura, da Defesa, da Integração Nacional e do Turismo e de Encargos Financeiros da União, no valor de R$ 1.472.650.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "602492",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-06-13267",
+      "titulo": "Lei nº 13.267 de 06/04/2016",
+      "data": "2016-04-06",
+      "numero": "13267",
+      "urn": "urn:lex:br:federal:lei:2016-04-06;13267",
+      "ementa": "Disciplina a criação e a organização das associações denominadas empresas juniores, com funcionamento perante instituições de ensino superior."
+    },
+    {
+      "senadoId": "602491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-05-13266",
+      "titulo": "Lei nº 13.266 de 05/04/2016",
+      "data": "2016-04-05",
+      "numero": "13266",
+      "urn": "urn:lex:br:federal:lei:2016-04-05;13266",
+      "ementa": "Extingue e transforma cargos públicos; altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e a Lei nº 11.457, de 16 de março de 2007; e revoga dispositivos da Lei nº 10.683, de 28 de maio de 2003."
+    },
+    {
+      "senadoId": "602490",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-01-13265",
+      "titulo": "Lei nº 13.265 de 01/04/2016",
+      "data": "2016-04-01",
+      "numero": "13265",
+      "urn": "urn:lex:br:federal:lei:2016-04-01;13265",
+      "ementa": "Altera as Leis nºs 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016; e 10.451, de 10 de maio de 2002, para prorrogar a isenção de tributos incidentes sobre a importação de equipamentos e materiais esportivos."
+    },
+    {
+      "senadoId": "602489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-04-01-13264",
+      "titulo": "Lei nº 13.264 de 01/04/2016",
+      "data": "2016-04-01",
+      "numero": "13264",
+      "urn": "urn:lex:br:federal:lei:2016-04-01;13264",
+      "ementa": "Dispõe sobre a transformação de cargos vagos no Quadro Permanente da Justiça do Distrito Federal e dos Territórios; e altera a Lei nº 11.697, de 13 de junho de 2008."
+    },
+    {
+      "senadoId": "602488",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-23-13263",
+      "titulo": "Lei nº 13.263 de 23/03/2016",
+      "data": "2016-03-23",
+      "numero": "13263",
+      "urn": "urn:lex:br:federal:lei:2016-03-23;13263",
+      "ementa": "Altera a Lei nº 13.033, de 24 de setembro de 2014, para dispor sobre os percentuais de adição de biodiesel ao óleo diesel comercializado no território nacional."
+    },
+    {
+      "senadoId": "602487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-22-13262",
+      "titulo": "Lei nº 13.262 de 22/03/2016",
+      "data": "2016-03-22",
+      "numero": "13262",
+      "urn": "urn:lex:br:federal:lei:2016-03-22;13262",
+      "ementa": "Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e adquirirem participação nos termos e condições previstos no art. 2º da Lei nº 11.908, de 3 de março de 2009; reabre o prazo previsto no art. 9º da Lei nº 13.155, de 4 de agosto de 2015; altera a data da exigibilidade do disposto no inciso II do § 1º e no § 3º do art. 10 da Lei nº 10.671, de 15 de maio de 2003; e dá outras providências."
+    },
+    {
+      "senadoId": "602486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-22-13261",
+      "titulo": "Lei nº 13.261 de 22/03/2016",
+      "data": "2016-03-22",
+      "numero": "13261",
+      "urn": "urn:lex:br:federal:lei:2016-03-22;13261",
+      "ementa": "Dispõe sobre a normatização, a fiscalização e a comercialização de planos de assistência funerária."
+    },
+    {
+      "senadoId": "602485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-16-13260",
+      "titulo": "Lei nº 13.260 de 16/03/2016",
+      "data": "2016-03-16",
+      "numero": "13260",
+      "urn": "urn:lex:br:federal:lei:2016-03-16;13260",
+      "ementa": "Regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal, disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o conceito de organização terrorista; e altera as Leis nºs 7.960, de 21 de dezembro de 1989, e 12.850, de 2 de agosto de 2013."
+    },
+    {
+      "senadoId": "602484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-16-13259",
+      "titulo": "Lei nº 13.259 de 16/03/2016",
+      "data": "2016-03-16",
+      "numero": "13259",
+      "urn": "urn:lex:br:federal:lei:2016-03-16;13259",
+      "ementa": "Altera as Leis nºs 8.981, de 20 de janeiro de 1995, para dispor acerca da incidência de imposto sobre a renda na hipótese de ganho de capital em decorrência da alienação de bens e direitos de qualquer natureza, e 12.973, de 13 de maio de 2014, para possibilitar opção de tributação de empresas coligadas no exterior na forma de empresas controladas; e regulamenta o inciso XI do art. 156 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional."
+    },
+    {
+      "senadoId": "602482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-08-13257",
+      "titulo": "Lei nº 13.257 de 08/03/2016",
+      "data": "2016-03-08",
+      "numero": "13257",
+      "urn": "urn:lex:br:federal:lei:2016-03-08;13257",
+      "ementa": "Dispõe sobre as políticas públicas para a primeira infância e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 11.770, de 9 de setembro de 2008, e a Lei nº 12.662, de 5 de junho de 2012."
+    },
+    {
+      "senadoId": "602483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-03-08-13258",
+      "titulo": "Lei nº 13.258 de 08/03/2016",
+      "data": "2016-03-08",
+      "numero": "13258",
+      "urn": "urn:lex:br:federal:lei:2016-03-08;13258",
+      "ementa": "Altera o inciso XX do art. 19 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a expedição da permissão internacional para conduzir veículo."
+    },
+    {
+      "senadoId": "602481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-02-04-13256",
+      "titulo": "Lei nº 13.256 de 04/02/2016",
+      "data": "2016-02-04",
+      "numero": "13256",
+      "urn": "urn:lex:br:federal:lei:2016-02-04;13256",
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para disciplinar o processo e o julgamento do recurso extraordinário e do recurso especial, e dá outras providências."
+    },
+    {
+      "senadoId": "602480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-14-13255",
+      "titulo": "Lei nº 13.255 de 14/01/2016",
+      "data": "2016-01-14",
+      "numero": "13255",
+      "urn": "urn:lex:br:federal:lei:2016-01-14;13255",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2016."
+    },
+    {
+      "senadoId": "602478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-13-13253",
+      "titulo": "Lei nº 13.253 de 13/01/2016",
+      "data": "2016-01-13",
+      "numero": "13253",
+      "urn": "urn:lex:br:federal:lei:2016-01-13;13253",
+      "ementa": "Dispõe sobre a criação de uma vara federal no Estado do Paraná e sobre a criação de cargos de juízes, cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "602479",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-13-13254",
+      "titulo": "Lei nº 13.254 de 13/01/2016",
+      "data": "2016-01-13",
+      "numero": "13254",
+      "urn": "urn:lex:br:federal:lei:2016-01-13;13254",
+      "ementa": "Dispõe sobre o Regime Especial de Regularização Cambial e Tributária (RERCT) de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País."
+    },
+    {
+      "senadoId": "602477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-13-13252",
+      "titulo": "Lei nº 13.252 de 13/01/2016",
+      "data": "2016-01-13",
+      "numero": "13252",
+      "urn": "urn:lex:br:federal:lei:2016-01-13;13252",
+      "ementa": "Dispõe sobre a criação de duas varas federais no Estado do Tocantins e sobre a criação de cargos de juízes, cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "602474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-13-13249",
+      "titulo": "Lei nº 13.249 de 13/01/2016",
+      "data": "2016-01-13",
+      "numero": "13249",
+      "urn": "urn:lex:br:federal:lei:2016-01-13;13249",
+      "ementa": "Institui o Plano Plurianual da União para o período de 2016 a 2019."
+    },
+    {
+      "senadoId": "602476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-13-13251",
+      "titulo": "Lei nº 13.251 de 13/01/2016",
+      "data": "2016-01-13",
+      "numero": "13251",
+      "urn": "urn:lex:br:federal:lei:2016-01-13;13251",
+      "ementa": "Dispõe sobre a criação de uma vara federal no Estado de Mato Grosso e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "602475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-13-13250",
+      "titulo": "Lei nº 13.250 de 13/01/2016",
+      "data": "2016-01-13",
+      "numero": "13250",
+      "urn": "urn:lex:br:federal:lei:2016-01-13;13250",
+      "ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "602473",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-12-13248",
+      "titulo": "Lei nº 13.248 de 12/01/2016",
+      "data": "2016-01-12",
+      "numero": "13248",
+      "urn": "urn:lex:br:federal:lei:2016-01-12;13248",
+      "ementa": "Institui o dia 18 de junho como Dia do Tambor de Crioula."
+    },
+    {
+      "senadoId": "602471",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-12-13246",
+      "titulo": "Lei nº 13.246 de 12/01/2016",
+      "data": "2016-01-12",
+      "numero": "13246",
+      "urn": "urn:lex:br:federal:lei:2016-01-12;13246",
+      "ementa": "Institui o dia 31 de outubro como Dia Nacional da Proclamação do Evangelho e dá outras providências."
+    },
+    {
+      "senadoId": "602470",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-12-13245",
+      "titulo": "Lei nº 13.245 de 12/01/2016",
+      "data": "2016-01-12",
+      "numero": "13245",
+      "urn": "urn:lex:br:federal:lei:2016-01-12;13245",
+      "ementa": "Altera o art. 7º da Lei nº 8.906, de 4 de julho de 1994 (Estatuto da Ordem dos Advogados do Brasil)."
+    },
+    {
+      "senadoId": "602472",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-12-13247",
+      "titulo": "Lei nº 13.247 de 12/01/2016",
+      "data": "2016-01-12",
+      "numero": "13247",
+      "urn": "urn:lex:br:federal:lei:2016-01-12;13247",
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994 - Estatuto da Advocacia."
+    },
+    {
+      "senadoId": "602469",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-12-13244",
+      "titulo": "Lei nº 13.244 de 12/01/2016",
+      "data": "2016-01-12",
+      "numero": "13244",
+      "urn": "urn:lex:br:federal:lei:2016-01-12;13244",
+      "ementa": "Confere ao Município de Caçapava, Estado de São Paulo, o título de Capital Nacional do Antigomobilismo."
+    },
+    {
+      "senadoId": "602468",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2016-01-11-13243",
+      "titulo": "Lei nº 13.243 de 11/01/2016",
+      "data": "2016-01-11",
+      "numero": "13243",
+      "urn": "urn:lex:br:federal:lei:2016-01-11;13243",
+      "ementa": "Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação e altera a Lei nº 10.973, de 2 de dezembro de 2004, a Lei nº 6.815, de 19 de agosto de 1980, a Lei nº 8.666, de 21 de junho de 1993, a Lei nº 12.462, de 4 de agosto de 2011, a Lei nº 8.745, de 9 de dezembro de 1993, a Lei nº 8.958, de 20 de dezembro de 1994, a Lei nº 8.010, de 29 de março de 1990, a Lei nº 8.032, de 12 de abril de 1990, e a Lei nº 12.772, de 28 de dezembro de 2012, nos termos da Emenda Constitucional nº 85, de 26 de fevereiro de 2015."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-08-04-15483",
+  "titulo": "Lei nº 15.483 de 04/08/2026",
+  "data": "2026-08-04",
+  "fonte": "https://normas.leg.br/api/public/binario/2f6153a7-3086-4853-a38d-2c9125ebae11/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-08-04;15483",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-08-04%3B15483&tipo_documento=maior-detalhe",
+  "sha256_dados": "34b8b51d864c584d244a29fd40cc0fdc41fc6261436b3ac4f1dab0ccc376db43",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:06.140Z",
+  "sha256_fonte": "b16312244f1fcae12570492346f89899cb865e7599eb65426bac7af344521c63",
+  "sha256_markdown": "da28f764b56b771308dad331f94a23605a9860db4d343d878772e4d6dae005f2"
+}

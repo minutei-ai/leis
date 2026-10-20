@@ -1,0 +1,2029 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2018",
+  "tipo": "LEI",
+  "ano": 2018,
+  "coletado_em": "2026-10-20T22:56:29.323Z",
+  "normas": [
+    {
+      "senadoId": "30762794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-27-13788",
+      "titulo": "Lei nº 13.788 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "13788",
+      "urn": "urn:lex:br:federal:lei:2018-12-27;13788",
+      "ementa": "Altera a Lei nº 11.798, de 29 de outubro de 2008, para dispor sobre a composição do Conselho da Justiça Federal."
+    },
+    {
+      "senadoId": "30762824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-27-13786",
+      "titulo": "Lei nº 13.786 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "13786",
+      "urn": "urn:lex:br:federal:lei:2018-12-27;13786",
+      "ementa": "Altera as Leis nos 4.591, de 16 de dezembro de 1964, e 6.766, de 19 de dezembro de 1979, para disciplinar a resolução do contrato por inadimplemento do adquirente de unidade imobiliária em incorporação imobiliária e em parcelamento de solo urbano."
+    },
+    {
+      "senadoId": "30762698",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-27-13784",
+      "titulo": "Lei nº 13.784 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "13784",
+      "urn": "urn:lex:br:federal:lei:2018-12-27;13784",
+      "ementa": "Altera a Lei nº 10.457, de 14 de maio de 2002, substituindo a expressão “Dia do Bacharel em Turismo” por “Dia Nacional do Turismólogo e dos Profissionais do Turismo”."
+    },
+    {
+      "senadoId": "30763714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-27-13787",
+      "titulo": "Lei nº 13.787 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "13787",
+      "urn": "urn:lex:br:federal:lei:2018-12-27;13787",
+      "ementa": "Dispõe sobre a digitalização e a utilização de sistemas informatizados para a guarda, o armazenamento e o manuseio de prontuário de paciente."
+    },
+    {
+      "senadoId": "30762746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-27-13785",
+      "titulo": "Lei nº 13.785 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "13785",
+      "urn": "urn:lex:br:federal:lei:2018-12-27;13785",
+      "ementa": "Determina o registro de veículo pelo guia de turismo que for adquirente de veículo ou que utilizar veículo próprio, de cônjuge ou de dependente, no desempenho de suas atividades profissionais e estabelece regras a serem observadas pelo guia-motorista na execução dos serviços de transporte turístico."
+    },
+    {
+      "senadoId": "30760644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-26-13783",
+      "titulo": "Lei nº 13.783 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "13783",
+      "urn": "urn:lex:br:federal:lei:2018-12-26;13783",
+      "ementa": "Altera a Lei nº 13.587, de 2 de janeiro de 2018."
+    },
+    {
+      "senadoId": "30760611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-26-13782",
+      "titulo": "Lei nº 13.782 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "13782",
+      "urn": "urn:lex:br:federal:lei:2018-12-26;13782",
+      "ementa": "Altera a Lei nº 13.473, de 8 de agosto de 2017, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2018."
+    },
+    {
+      "senadoId": "30761379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-26-13781",
+      "titulo": "Lei nº 13.781 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "13781",
+      "urn": "urn:lex:br:federal:lei:2018-12-26;13781",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Fazenda e das Relações Exteriores, crédito especial no valor de R$ 44.289.727,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30761251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-26-13779",
+      "titulo": "Lei nº 13.779 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "13779",
+      "urn": "urn:lex:br:federal:lei:2018-12-26;13779",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, crédito especial no valor de R$ 6.431.200,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30760558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-26-13778",
+      "titulo": "Lei nº 13.778 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "13778",
+      "urn": "urn:lex:br:federal:lei:2018-12-26;13778",
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço (FGTS), para possibilitar a aplicação de recursos em operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "senadoId": "30761312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-26-13780",
+      "titulo": "Lei nº 13.780 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "13780",
+      "urn": "urn:lex:br:federal:lei:2018-12-26;13780",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal, crédito especial no valor de R$ 26.342.043,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30757244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-20-13777",
+      "titulo": "Lei nº 13.777 de 20/12/2018",
+      "data": "2018-12-20",
+      "numero": "13777",
+      "urn": "urn:lex:br:federal:lei:2018-12-20;13777",
+      "ementa": "Altera as Leis nºs 10.406, de 10 de janeiro de 2002 (Código Civil), e 6.015, de 31 de dezembro de 1973 (Lei dos Registros Públicos), para dispor sobre o regime jurídico da multipropriedade e seu registro."
+    },
+    {
+      "senadoId": "30757166",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-20-13775",
+      "titulo": "Lei nº 13.775 de 20/12/2018",
+      "data": "2018-12-20",
+      "numero": "13775",
+      "urn": "urn:lex:br:federal:lei:2018-12-20;13775",
+      "ementa": "Dispõe sobre a emissão de duplicata sob a forma escritural; altera a Lei nº 9.492, de 10 de setembro de 1997; e dá outras providências."
+    },
+    {
+      "senadoId": "30757214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-20-13776",
+      "titulo": "Lei nº 13.776 de 20/12/2018",
+      "data": "2018-12-20",
+      "numero": "13776",
+      "urn": "urn:lex:br:federal:lei:2018-12-20;13776",
+      "ementa": "Institui a Semana Nacional da Agricultura Familiar."
+    },
+    {
+      "senadoId": "30753482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-19-13770",
+      "titulo": "Lei nº 13.770 de 19/12/2018",
+      "data": "2018-12-19",
+      "numero": "13770",
+      "urn": "urn:lex:br:federal:lei:2018-12-19;13770",
+      "ementa": "Altera as Leis nºs 9.656, de 3 de junho de 1998, e 9.797, de 6 de maio de 1999, para dispor sobre a cirurgia plástica reconstrutiva da mama em casos de mutilação decorrente de tratamento de câncer."
+    },
+    {
+      "senadoId": "30753602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-19-13772",
+      "titulo": "Lei nº 13.772 de 19/12/2018",
+      "data": "2018-12-19",
+      "numero": "13772",
+      "urn": "urn:lex:br:federal:lei:2018-12-19;13772",
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para reconhecer que a violação da intimidade da mulher configura violência doméstica e familiar e para criminalizar o registro não autorizado de conteúdo com cena de nudez ou ato sexual ou libidinoso de caráter íntimo e privado."
+    },
+    {
+      "senadoId": "30753662",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-19-13774",
+      "titulo": "Lei nº 13.774 de 19/12/2018",
+      "data": "2018-12-19",
+      "numero": "13774",
+      "urn": "urn:lex:br:federal:lei:2018-12-19;13774",
+      "ementa": "Altera a Lei nº 8.457, de 4 de setembro de 1992, que “Organiza a Justiça Militar da União e regula o funcionamento de seus Serviços Auxiliares”."
+    },
+    {
+      "senadoId": "30753512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-19-13771",
+      "titulo": "Lei nº 13.771 de 19/12/2018",
+      "data": "2018-12-19",
+      "numero": "13771",
+      "urn": "urn:lex:br:federal:lei:2018-12-19;13771",
+      "ementa": "Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)."
+    },
+    {
+      "senadoId": "30753434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-19-13769",
+      "titulo": "Lei nº 13.769 de 19/12/2018",
+      "data": "2018-12-19",
+      "numero": "13769",
+      "urn": "urn:lex:br:federal:lei:2018-12-19;13769",
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), as Leis nos 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para estabelecer a substituição da prisão preventiva por prisão domiciliar da mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência e para disciplinar o regime de cumprimento de pena privativa de liberdade de condenadas na mesma situação."
+    },
+    {
+      "senadoId": "30753632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-19-13773",
+      "titulo": "Lei nº 13.773 de 19/12/2018",
+      "data": "2018-12-19",
+      "numero": "13773",
+      "urn": "urn:lex:br:federal:lei:2018-12-19;13773",
+      "ementa": "Confere ao Município de Salinas, no Estado de Minas Gerais, o título de Capital Nacional da Cachaça."
+    },
+    {
+      "senadoId": "30750306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-18-13767",
+      "titulo": "Lei nº 13.767 de 18/12/2018",
+      "data": "2018-12-18",
+      "numero": "13767",
+      "urn": "urn:lex:br:federal:lei:2018-12-18;13767",
+      "ementa": "Altera o art. 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a fim de permitir a ausência ao serviço para realização de exame preventivo de câncer."
+    },
+    {
+      "senadoId": "30750221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-18-13768",
+      "titulo": "Lei nº 13.768 de 18/12/2018",
+      "data": "2018-12-18",
+      "numero": "13768",
+      "urn": "urn:lex:br:federal:lei:2018-12-18;13768",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República, dos Ministérios das Relações Exteriores e da Integração Nacional, de Encargos Financeiros da União, de Transferências aos Estados, ao Distrito Federal e aos Municípios e de Operações de Oficiais de Crédito, crédito suplementar no valor de R$ 2.496.271.900,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30754299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-18-13766",
+      "titulo": "Lei nº 13.766 de 18/12/2018",
+      "data": "2018-12-18",
+      "numero": "13766",
+      "urn": "urn:lex:br:federal:lei:2018-12-18;13766",
+      "ementa": "Inscreve o nome de Juscelino Kubitschek de Oliveira no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "30746526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13761",
+      "titulo": "Lei nº 13.761 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13761",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13761",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios das Relações Exteriores, do Trabalho, do Desenvolvimento Social, da Saúde e da Ciência, Tecnologia, Inovações e Comunicações, crédito suplementar no valor de R$ 519.962.462,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30746436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13758",
+      "titulo": "Lei nº 13.758 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13758",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13758",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal e da Justiça Eleitoral, crédito suplementar no valor de R$ 4.152.020,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30746571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13765",
+      "titulo": "Lei nº 13.765 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13765",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13765",
+      "ementa": "Abre ao Orçamento de Investimento para 2018, em favor da Empresa Gerencial de Projetos Navais - Emgepron, crédito especial no valor de R$ 100.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30746496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13764",
+      "titulo": "Lei nº 13.764 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13764",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13764",
+      "ementa": "Abre ao Orçamento de Investimento para 2018, em favor de empresas estatais, crédito suplementar no valor de R$ 240.886.642,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30746406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13763",
+      "titulo": "Lei nº 13.763 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13763",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13763",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Justiça e Segurança Pública, da Educação, do Trabalho, da Saúde, do Esporte e da Integração Nacional, crédito especial no valor de R$ 3.167.065,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30746601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13762",
+      "titulo": "Lei nº 13.762 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13762",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13762",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Companhia Docas do Ceará, da Companhia Docas do Espírito Santo, da Companhia das Docas do Estado da Bahia, da Companhia Docas do Estado de São Paulo, da Companhia Docas do Pará, da Companhia Docas do Rio de Janeiro e da Companhia Docas do Rio Grande do Norte, crédito suplementar no valor de R$ 63.352.880,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30746358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13757",
+      "titulo": "Lei nº 13.757 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13757",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13757",
+      "ementa": "Abre ao Orçamento de Investimento para 2018, em favor de empresas estatais, crédito especial no valor de R$ 2.392.389,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30746466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13759",
+      "titulo": "Lei nº 13.759 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13759",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13759",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de Furnas - Centrais Elétricas S.A., da Petrobras Gás S.A., da Eólica Mangue Seco 2 - Geradora e Comercializadora de Energia Elétrica S.A. e da Transportadora Associada de Gás S.A., crédito especial no valor de R$ 33.425.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30746668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-17-13760",
+      "titulo": "Lei nº 13.760 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "13760",
+      "urn": "urn:lex:br:federal:lei:2018-12-17;13760",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 3.450.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30740553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-12-13756",
+      "titulo": "Lei nº 13.756 de 12/12/2018",
+      "data": "2018-12-12",
+      "numero": "13756",
+      "urn": "urn:lex:br:federal:lei:2018-12-12;13756",
+      "ementa": "Dispõe sobre o Fundo Nacional de Segurança Pública (FNSP), sobre a destinação do produto da arrecadação das loterias e sobre a promoção comercial e a modalidade lotérica denominada apostas de quota fixa; altera as Leis nºs 8.212, de 24 de julho de 1991, 9.615, de 24 março de 1998, 10.891, de 9 de julho de 2004, 11.473, de 10 de maio de 2007, e 13.675, de 11 de junho de 2018; e revoga dispositivos das Leis nºs 6.168, de 9 de dezembro de 1974, 6.717, de 12 de novembro de 1979, 8.313, de 23 de dezembro de 1991, 9.649, de 27 de maio de 1998, 10.260, de 12 de julho de 2001, 11.345, de 14 de setembro de 2006, e 13.155, de 4 de agosto de 2015, da Lei Complementar nº 79, de 7 de janeiro de 1994, e dos Decretos-Leis nºs 204, de 27 de fevereiro de 1967, e 594, de 27 de maio de 1969, as Leis nºs 6.905, de 11 de maio de 1981, 9.092, de 12 de setembro de 1995, 9.999, de 30 de agosto de 2000, 10.201, de 14 de fevereiro de 2001, e 10.746, de 10 de outubro de 2003, e os Decretos-Leis nºs 1.405, de 20 de junho de 1975, e 1.923, de 20 de janeiro de 1982."
+    },
+    {
+      "senadoId": "30735019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-10-13754",
+      "titulo": "Lei nº 13.754 de 10/12/2018",
+      "data": "2018-12-10",
+      "numero": "13754",
+      "urn": "urn:lex:br:federal:lei:2018-12-10;13754",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União e de Operações Oficias de Crédito, crédito suplementar no valor de R$ 5.491.038.744,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30734943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-12-10-13755",
+      "titulo": "Lei nº 13.755 de 10/12/2018",
+      "data": "2018-12-10",
+      "numero": "13755",
+      "urn": "urn:lex:br:federal:lei:2018-12-10;13755",
+      "ementa": "Estabelece requisitos obrigatórios para a comercialização de veículos no Brasil; institui o Programa Rota 2030 - Mobilidade e Logística; dispõe sobre o regime tributário de autopeças não produzidas; e altera as Leis nos 9.440, de 14 de março de 1997, 12.546, de 14 de dezembro de 2011, 10.865, de 30 de abril de 2004, 9.826, de 23 de agosto de 1999, 10.637, de 30 de dezembro de 2002, 8.383, de 30 de dezembro de 1991, e 8.989, de 24 de fevereiro de 1995, e o Decreto-Lei nº 288, de 28 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "30715532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-26-13753",
+      "titulo": "Lei nº 13.753 de 26/11/2018",
+      "data": "2018-11-26",
+      "numero": "13753",
+      "urn": "urn:lex:br:federal:lei:2018-11-26;13753",
+      "ementa": "Dispõe sobre o subsídio do Procurador-Geral da República."
+    },
+    {
+      "senadoId": "30715935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-26-13752",
+      "titulo": "Lei nº 13.752 de 26/11/2018",
+      "data": "2018-11-26",
+      "numero": "13752",
+      "urn": "urn:lex:br:federal:lei:2018-11-26;13752",
+      "ementa": "Dispõe sobre o subsídio dos Ministros do Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "30714538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-23-13750",
+      "titulo": "Lei nº 13.750 de 23/11/2018",
+      "data": "2018-11-23",
+      "numero": "13750",
+      "urn": "urn:lex:br:federal:lei:2018-11-23;13750",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal, crédito suplementar no valor de R$ 65.583.083,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30714496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-23-13751",
+      "titulo": "Lei nº 13.751 de 23/11/2018",
+      "data": "2018-11-23",
+      "numero": "13751",
+      "urn": "urn:lex:br:federal:lei:2018-11-23;13751",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Justiça e Segurança Pública, da Defesa, da Cultura e dos Direitos Humanos, crédito suplementar no valor de R$ 334.500.000,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30711409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13743",
+      "titulo": "Lei nº 13.743 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13743",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13743",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, de Transferências aos Estados, ao Distrito Federal e aos Municípios e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 9.865.600.063,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30711649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13741",
+      "titulo": "Lei nº 13.741 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13741",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13741",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Presidência da República, dos Ministérios da Justiça e Segurança Pública, da Defesa, das Relações Exteriores, da Fazenda, do Trabalho, da Indústria, Comércio Exterior e Serviços e da Transparência e Controladoria-Geral da União e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 390.001.903,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30710900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13749",
+      "titulo": "Lei nº 13.749 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13749",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13749",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Defesa, da Fazenda, da Educação, do Desenvolvimento Social, da Indústria, Comércio Exterior e Serviços, da Ciência, Tecnologia, Inovações e Comunicações, do Meio Ambiente, da Integração Nacional e das Cidades, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito especial no valor de R$ 1.520.050.360,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13735",
+      "titulo": "Lei nº 13.735 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13735",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13735",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Relações Exteriores, crédito especial no valor de R$ 792.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "30711199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13742",
+      "titulo": "Lei nº 13.742 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13742",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13742",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e da Integração Nacional, crédito especial no valor de R$ 32.255.385,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13746",
+      "titulo": "Lei nº 13.746 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13746",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13746",
+      "ementa": "Abre ao Orçamento de Investimento para 2018, em favor da Empresa Brasileira de Infraestrutura Aeroportuária - Infraero, crédito suplementar no valor de R$ 50.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13738",
+      "titulo": "Lei nº 13.738 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13738",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13738",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito especial no valor de R$ 19.880.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13739",
+      "titulo": "Lei nº 13.739 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13739",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13739",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Presidência da República e do Ministério da Justiça e Segurança Pública, crédito especial no valor de R$ 10.338.400,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13748",
+      "titulo": "Lei nº 13.748 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13748",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13748",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Educação, da Justiça e Segurança Pública, da Saúde, da Cultura, do Turismo e do Desenvolvimento Social, crédito suplementar no valor de R$ 15.773.766,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30711349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13745",
+      "titulo": "Lei nº 13.745 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13745",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13745",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, da Justiça Eleitoral e da Justiça do Trabalho, crédito especial no valor de R$ 52.857.359,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13736",
+      "titulo": "Lei nº 13.736 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13736",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13736",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 266.789.743,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30711259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13740",
+      "titulo": "Lei nº 13.740 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13740",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13740",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios do Planejamento, Desenvolvimento e Gestão e das Cidades, crédito suplementar no valor de R$ 180.686.295,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30711229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13737",
+      "titulo": "Lei nº 13.737 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13737",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13737",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça e Segurança Pública, crédito especial no valor de R$ 40.867.610,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30711109",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13744",
+      "titulo": "Lei nº 13.744 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13744",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13744",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública e da Fazenda, crédito especial no valor de R$ 372.155.920,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "30711139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13747",
+      "titulo": "Lei nº 13.747 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13747",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13747",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Defesa, crédito especial no valor de R$ 140.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "30710930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-22-13734",
+      "titulo": "Lei nº 13.734 de 22/11/2018",
+      "data": "2018-11-22",
+      "numero": "13734",
+      "urn": "urn:lex:br:federal:lei:2018-11-22;13734",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios dos Transportes, Portos e Aviação Civil e da Integração Nacional, crédito especial no valor de R$ 42.508.607,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30705110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-16-13733",
+      "titulo": "Lei nº 13.733 de 16/11/2018",
+      "data": "2018-11-16",
+      "numero": "13733",
+      "urn": "urn:lex:br:federal:lei:2018-11-16;13733",
+      "ementa": "Dispõe sobre atividades da campanha Outubro Rosa."
+    },
+    {
+      "senadoId": "30697351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-08-13729",
+      "titulo": "Lei nº 13.729 de 08/11/2018",
+      "data": "2018-11-08",
+      "numero": "13729",
+      "urn": "urn:lex:br:federal:lei:2018-11-08;13729",
+      "ementa": "Altera a Lei nº 13.340, de 28 de setembro de 2016, para conceder rebate para liquidação de operações de crédito rural do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e dá outras providências."
+    },
+    {
+      "senadoId": "30697171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-08-13730",
+      "titulo": "Lei nº 13.730 de 08/11/2018",
+      "data": "2018-11-08",
+      "numero": "13730",
+      "urn": "urn:lex:br:federal:lei:2018-11-08;13730",
+      "ementa": "Altera o art. 14 da Lei nº 6.259, de 30 de outubro de 1975, para considerar infração sanitária a inobservância das obrigações nela estabelecidas."
+    },
+    {
+      "senadoId": "30697249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-08-13732",
+      "titulo": "Lei nº 13.732 de 08/11/2018",
+      "data": "2018-11-08",
+      "numero": "13732",
+      "urn": "urn:lex:br:federal:lei:2018-11-08;13732",
+      "ementa": "Altera a Lei nº 5.991, de 17 de dezembro de 1973, que dispõe sobre o Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, para definir que a receita tem validade em todo o território nacional, independentemente da unidade federada em que tenha sido emitida."
+    },
+    {
+      "senadoId": "30697123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-11-08-13731",
+      "titulo": "Lei nº 13.731 de 08/11/2018",
+      "data": "2018-11-08",
+      "numero": "13731",
+      "urn": "urn:lex:br:federal:lei:2018-11-08;13731",
+      "ementa": "Dispõe sobre mecanismos de financiamento para a arborização urbana e a recuperação de áreas degradadas."
+    },
+    {
+      "senadoId": "30691046",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-31-13728",
+      "titulo": "Lei nº 13.728 de 31/10/2018",
+      "data": "2018-10-31",
+      "numero": "13728",
+      "urn": "urn:lex:br:federal:lei:2018-10-31;13728",
+      "ementa": "Altera a Lei nº 9.099, de 26 de setembro de 1995, para estabelecer que, na contagem de prazo para a prática de qualquer ato processual, inclusive para a interposição de recursos, serão computados somente os dias úteis."
+    },
+    {
+      "senadoId": "30241407",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-19-13727",
+      "titulo": "Lei nº 13.727 de 19/10/2018",
+      "data": "2018-10-19",
+      "numero": "13727",
+      "urn": "urn:lex:br:federal:lei:2018-10-19;13727",
+      "ementa": "Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores (DAS)."
+    },
+    {
+      "senadoId": "30229942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-08-13726",
+      "titulo": "Lei nº 13.726 de 08/10/2018",
+      "data": "2018-10-08",
+      "numero": "13726",
+      "urn": "urn:lex:br:federal:lei:2018-10-08;13726",
+      "ementa": "Racionaliza atos e procedimentos administrativos dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios e institui o Selo de Desburocratização e Simplificação."
+    },
+    {
+      "senadoId": "30228750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-04-13722",
+      "titulo": "Lei nº 13.722 de 04/10/2018",
+      "data": "2018-10-04",
+      "numero": "13722",
+      "urn": "urn:lex:br:federal:lei:2018-10-04;13722",
+      "ementa": "Torna obrigatória a capacitação em noções básicas de primeiros socorros de professores e funcionários de estabelecimentos de ensino públicos e privados de educação básica e de estabelecimentos de recreação infantil."
+    },
+    {
+      "senadoId": "30228651",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-04-13724",
+      "titulo": "Lei nº 13.724 de 04/10/2018",
+      "data": "2018-10-04",
+      "numero": "13724",
+      "urn": "urn:lex:br:federal:lei:2018-10-04;13724",
+      "ementa": "Institui o Programa Bicicleta Brasil (PBB) para incentivar o uso da bicicleta visando à melhoria das condições de mobilidade urbana."
+    },
+    {
+      "senadoId": "30228575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-04-13723",
+      "titulo": "Lei nº 13.723 de 04/10/2018",
+      "data": "2018-10-04",
+      "numero": "13723",
+      "urn": "urn:lex:br:federal:lei:2018-10-04;13723",
+      "ementa": "Dispõe sobre a concessão de subvenção econômica à comercialização de óleo diesel e altera a Lei nº 9.478, de 6 de agosto de 1997."
+    },
+    {
+      "senadoId": "30228709",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-04-13725",
+      "titulo": "Lei nº 13.725 de 04/10/2018",
+      "data": "2018-10-04",
+      "numero": "13725",
+      "urn": "urn:lex:br:federal:lei:2018-10-04;13725",
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, que \"dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB)\", e revoga dispositivo da Lei nº 5.584, de 26 de junho de 1970, que \"dispõe sobre normas de Direito Processual do Trabalho, altera dispositivos da Consolidação das Leis do Trabalho, disciplina a concessão e prestação de assistência judiciária na Justiça do Trabalho, e dá outras providências\"."
+    },
+    {
+      "senadoId": "30227795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-10-02-13721",
+      "titulo": "Lei nº 13.721 de 02/10/2018",
+      "data": "2018-10-02",
+      "numero": "13721",
+      "urn": "urn:lex:br:federal:lei:2018-10-02;13721",
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer que será dada prioridade à realização do exame de corpo de delito quando se tratar de crime que envolva violência doméstica e familiar contra mulher ou violência contra criança, adolescente, idoso ou pessoa com deficiência."
+    },
+    {
+      "senadoId": "30191415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-09-27-13720",
+      "titulo": "Lei nº 13.720 de 27/09/2018",
+      "data": "2018-09-27",
+      "numero": "13720",
+      "urn": "urn:lex:br:federal:lei:2018-09-27;13720",
+      "ementa": "Autoriza o Poder Executivo a doar 25 (vinte e cinco) Viaturas Blindadas de Combate - Carros de Combate (VBCCC) M41 para a República Oriental do Uruguai."
+    },
+    {
+      "senadoId": "27482449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-09-25-13719",
+      "titulo": "Lei nº 13.719 de 25/09/2018",
+      "data": "2018-09-25",
+      "numero": "13719",
+      "urn": "urn:lex:br:federal:lei:2018-09-25;13719",
+      "ementa": "Determina a inscrição do nome de Miguel Arraes de Alencar no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "27481078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-09-24-13718",
+      "titulo": "Lei nº 13.718 de 24/09/2018",
+      "data": "2018-09-24",
+      "numero": "13718",
+      "urn": "urn:lex:br:federal:lei:2018-09-24;13718",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar os crimes de importunação sexual e de divulgação de cena de estupro, tornar pública incondicionada a natureza da ação penal dos crimes contra a liberdade sexual e dos crimes sexuais contra vulnerável, estabelecer causas de aumento de pena para esses crimes e definir como causas de aumento de pena o estupro coletivo e o estupro corretivo; e revoga dispositivo do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais)."
+    },
+    {
+      "senadoId": "27481236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-09-24-13715",
+      "titulo": "Lei nº 13.715 de 24/09/2018",
+      "data": "2018-09-24",
+      "numero": "13715",
+      "urn": "urn:lex:br:federal:lei:2018-09-24;13715",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para dispor sobre hipóteses de perda do poder familiar pelo autor de determinados crimes contra outrem igualmente titular do mesmo poder familiar ou contra filho, filha ou outro descendente."
+    },
+    {
+      "senadoId": "27482588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-09-24-13716",
+      "titulo": "Lei nº 13.716 de 24/09/2018",
+      "data": "2018-09-24",
+      "numero": "13716",
+      "urn": "urn:lex:br:federal:lei:2018-09-24;13716",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para assegurar atendimento educacional ao aluno da educação básica internado para tratamento de saúde em regime hospitalar ou domiciliar por tempo prolongado."
+    },
+    {
+      "senadoId": "27481126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-09-24-13717",
+      "titulo": "Lei nº 13.717 de 24/09/2018",
+      "data": "2018-09-24",
+      "numero": "13717",
+      "urn": "urn:lex:br:federal:lei:2018-09-24;13717",
+      "ementa": "Altera a Lei nº 13.109, de 25 de março de 2015, para modificar o prazo da licença-paternidade do militar, no âmbito das Forças Armadas."
+    },
+    {
+      "senadoId": "27462798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-24-13712",
+      "titulo": "Lei nº 13.712 de 24/08/2018",
+      "data": "2018-08-24",
+      "numero": "13712",
+      "urn": "urn:lex:br:federal:lei:2018-08-24;13712",
+      "ementa": "Institui indenização ao integrante da carreira de Policial Rodoviário Federal."
+    },
+    {
+      "senadoId": "27462738",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-24-13711",
+      "titulo": "Lei nº 13.711 de 24/08/2018",
+      "data": "2018-08-24",
+      "numero": "13711",
+      "urn": "urn:lex:br:federal:lei:2018-08-24;13711",
+      "ementa": "Altera a Lei nº 13.103, de 2 de março de 2015, para prever isenção, em todo o território nacional, da cobrança de pedágio sobre eixos suspensos de veículos de transporte de cargas que circularem vazios nas vias terrestres federais, estaduais, distritais e municipais."
+    },
+    {
+      "senadoId": "27462768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-24-13714",
+      "titulo": "Lei nº 13.714 de 24/08/2018",
+      "data": "2018-08-24",
+      "numero": "13714",
+      "urn": "urn:lex:br:federal:lei:2018-08-24;13714",
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre a responsabilidade de normatizar e padronizar a identidade visual do Sistema Único de Assistência Social (Suas) e para assegurar o acesso das famílias e indivíduos em situações de vulnerabilidade ou risco social e pessoal à atenção integral à saúde."
+    },
+    {
+      "senadoId": "27462678",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-24-13710",
+      "titulo": "Lei nº 13.710 de 24/08/2018",
+      "data": "2018-08-24",
+      "numero": "13710",
+      "urn": "urn:lex:br:federal:lei:2018-08-24;13710",
+      "ementa": "Institui a Política Nacional de Incentivo à Produção de Cacau de Qualidade."
+    },
+    {
+      "senadoId": "27462708",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-24-13713",
+      "titulo": "Lei nº 13.713 de 24/08/2018",
+      "data": "2018-08-24",
+      "numero": "13713",
+      "urn": "urn:lex:br:federal:lei:2018-08-24;13713",
+      "ementa": "Altera a Lei nº 8.029, de 12 de abril de 1990, para prever a contratação direta pela Companhia Nacional de Abastecimento (Conab) de cooperativas e associações de transportadores autônomos de cargas de, no mínimo, 30% (trinta por cento) da demanda anual de frete da Companhia."
+    },
+    {
+      "senadoId": "27457276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-14-13708",
+      "titulo": "Lei nº 13.708 de 14/08/2018",
+      "data": "2018-08-14",
+      "numero": "13708",
+      "urn": "urn:lex:br:federal:lei:2018-08-14;13708",
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para modificar normas que regulam o exercício profissional dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias."
+    },
+    {
+      "senadoId": "27457334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-14-13709",
+      "titulo": "Lei nº 13.709 de 14/08/2018",
+      "data": "2018-08-14",
+      "numero": "13709",
+      "urn": "urn:lex:br:federal:lei:2018-08-14;13709",
+      "ementa": "Lei Geral de Proteção de Dados Pessoais (LGPD)."
+    },
+    {
+      "senadoId": "27457218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-14-13707",
+      "titulo": "Lei nº 13.707 de 14/08/2018",
+      "data": "2018-08-14",
+      "numero": "13707",
+      "urn": "urn:lex:br:federal:lei:2018-08-14;13707",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2019 e dá outras providências."
+    },
+    {
+      "senadoId": "27456243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-13-13706",
+      "titulo": "Lei nº 13.706 de 13/08/2018",
+      "data": "2018-08-13",
+      "numero": "13706",
+      "urn": "urn:lex:br:federal:lei:2018-08-13;13706",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 15.475.091,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "27456195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-13-13705",
+      "titulo": "Lei nº 13.705 de 13/08/2018",
+      "data": "2018-08-13",
+      "numero": "13705",
+      "urn": "urn:lex:br:federal:lei:2018-08-13;13705",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho, e do Ministério Público da União, crédito especial no valor de R$ 92.216.527,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "27452476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-08-13703",
+      "titulo": "Lei nº 13.703 de 08/08/2018",
+      "data": "2018-08-08",
+      "numero": "13703",
+      "urn": "urn:lex:br:federal:lei:2018-08-08;13703",
+      "ementa": "Institui a Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas."
+    },
+    {
+      "senadoId": "27452381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-08-13704",
+      "titulo": "Lei nº 13.704 de 08/08/2018",
+      "data": "2018-08-08",
+      "numero": "13704",
+      "urn": "urn:lex:br:federal:lei:2018-08-08;13704",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Cultura, do Ministério do Desenvolvimento Social e do Ministério da Ciência, Tecnologia, Inovações e Comunicações."
+    },
+    {
+      "senadoId": "27445655",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-06-13702",
+      "titulo": "Lei nº 13.702 de 06/08/2018",
+      "data": "2018-08-06",
+      "numero": "13702",
+      "urn": "urn:lex:br:federal:lei:2018-08-06;13702",
+      "ementa": "Altera a Lei nº 12.787, de 11 de janeiro de 2013, que dispõe sobre a política nacional de irrigação, para estabelecer exceção à sanção de retomada da unidade parcelar em projetos públicos de irrigação, caso o imóvel esteja hipotecado em favor de instituições financeiras oficiais que tenham prestado assistência creditícia ao agricultor irrigante, e as Leis nºs 12.873, de 24 de outubro de 2013, 6.088, de 16 de julho de 1974, e 13.502, de 1º de novembro de 2017."
+    },
+    {
+      "senadoId": "27445746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-06-13701",
+      "titulo": "Lei nº 13.701 de 06/08/2018",
+      "data": "2018-08-06",
+      "numero": "13701",
+      "urn": "urn:lex:br:federal:lei:2018-08-06;13701",
+      "ementa": "Cria o cargo de natureza especial de Interventor Federal no Estado do Rio de Janeiro, cargos em comissão do Grupo Direção e Assessoramento Superiores (DAS) e Funções Comissionadas do Poder Executivo (FCPE) destinados a compor o Gabinete de Intervenção Federal no Estado do Rio de Janeiro; e dispõe sobre o pagamento da gratificação de representação de que trata a Medida Provisória nº 2.215-10, de 31 de agosto de 2001."
+    },
+    {
+      "senadoId": "27445346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-02-13700",
+      "titulo": "Lei nº 13.700 de 02/08/2018",
+      "data": "2018-08-02",
+      "numero": "13700",
+      "urn": "urn:lex:br:federal:lei:2018-08-02;13700",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República, no valor de R$ 1.200.000.000,00 (um bilhão e duzentos milhões de reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "27445276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-02-13699",
+      "titulo": "Lei nº 13.699 de 02/08/2018",
+      "data": "2018-08-02",
+      "numero": "13699",
+      "urn": "urn:lex:br:federal:lei:2018-08-02;13699",
+      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para instituir diretriz de política urbana que visa a garantir condições condignas de acessibilidade, utilização e conforto nas dependências internas das edificações urbanas, inclusive nas destinadas à moradia e ao serviço dos trabalhadores domésticos."
+    },
+    {
+      "senadoId": "27444666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-08-01-13698",
+      "titulo": "Lei nº 13.698 de 01/08/2018",
+      "data": "2018-08-01",
+      "numero": "13698",
+      "urn": "urn:lex:br:federal:lei:2018-08-01;13698",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Saúde, da Integração Nacional e do Desenvolvimento Social, crédito suplementar no valor de R$ 892.695.079,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "27443138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-26-13697",
+      "titulo": "Lei nº 13.697 de 26/07/2018",
+      "data": "2018-07-26",
+      "numero": "13697",
+      "urn": "urn:lex:br:federal:lei:2018-07-26;13697",
+      "ementa": "Inscreve os nomes de Maria Quitéria de Jesus Medeiros, Sóror Joana Angélica de Jesus, Maria Felipa de Oliveira e João Francisco de Oliveira (João das Botas) no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "27440363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-12-13695",
+      "titulo": "Lei nº 13.695 de 12/07/2018",
+      "data": "2018-07-12",
+      "numero": "13695",
+      "urn": "urn:lex:br:federal:lei:2018-07-12;13695",
+      "ementa": "Regulamenta a profissão de corretor de moda."
+    },
+    {
+      "senadoId": "27440404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-12-13696",
+      "titulo": "Lei nº 13.696 de 12/07/2018",
+      "data": "2018-07-12",
+      "numero": "13696",
+      "urn": "urn:lex:br:federal:lei:2018-07-12;13696",
+      "ementa": "Institui a Política Nacional de Leitura e Escrita."
+    },
+    {
+      "senadoId": "27435393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-10-13693",
+      "titulo": "Lei nº 13.693 de 10/07/2018",
+      "data": "2018-07-10",
+      "numero": "13693",
+      "urn": "urn:lex:br:federal:lei:2018-07-10;13693",
+      "ementa": "Institui o Dia Nacional da Informação, Capacitação e Pesquisa sobre Doenças Raras e a Semana Nacional da Informação, Capacitação e Pesquisa sobre Doenças Raras."
+    },
+    {
+      "senadoId": "27435338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-10-13692",
+      "titulo": "Lei nº 13.692 de 10/07/2018",
+      "data": "2018-07-10",
+      "numero": "13692",
+      "urn": "urn:lex:br:federal:lei:2018-07-10;13692",
+      "ementa": "Institui o Dia Nacional do Leiloeiro."
+    },
+    {
+      "senadoId": "27435265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-10-13691",
+      "titulo": "Lei nº 13.691 de 10/07/2018",
+      "data": "2018-07-10",
+      "numero": "13691",
+      "urn": "urn:lex:br:federal:lei:2018-07-10;13691",
+      "ementa": "Dispõe sobre o exercício da profissão de físico e dá outras providências."
+    },
+    {
+      "senadoId": "27435189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-10-13690",
+      "titulo": "Lei nº 13.690 de 10/07/2018",
+      "data": "2018-07-10",
+      "numero": "13690",
+      "urn": "urn:lex:br:federal:lei:2018-07-10;13690",
+      "ementa": "Altera a Lei nº 13.502, de 1º de novembro de 2017, que dispõe sobre a organização básica da Presidência da República e dos Ministérios, para criar o Ministério da Segurança Pública, e as Leis nos 11.134, de 15 de julho de 2005, e 9.264, de 7 de fevereiro de 1996; e revoga dispositivos da Lei nº 11.483, de 31 de maio de 2007."
+    },
+    {
+      "senadoId": "27435423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-10-13694",
+      "titulo": "Lei nº 13.694 de 10/07/2018",
+      "data": "2018-07-10",
+      "numero": "13694",
+      "urn": "urn:lex:br:federal:lei:2018-07-10;13694",
+      "ementa": "Denomina Rodovia Governador Ronaldo Cunha Lima o trecho da BR-104 localizado no Estado da Paraíba."
+    },
+    {
+      "senadoId": "27431834",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-05-13689",
+      "titulo": "Lei nº 13.689 de 05/07/2018",
+      "data": "2018-07-05",
+      "numero": "13689",
+      "urn": "urn:lex:br:federal:lei:2018-07-05;13689",
+      "ementa": "Inclui no Anexo da Lei nº 5.917, de 10 de setembro de 1973, que dispõe sobre o Plano Nacional de Viação, o trecho rodoviário que especifica."
+    },
+    {
+      "senadoId": "27419795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-03-13688",
+      "titulo": "Lei nº 13.688 de 03/07/2018",
+      "data": "2018-07-03",
+      "numero": "13688",
+      "urn": "urn:lex:br:federal:lei:2018-07-03;13688",
+      "ementa": "Institui o Diário Eletrônico da Ordem dos Advogados do Brasil e altera a Lei nº 8.906, de 4 de julho de 1994 (Estatuto da OAB), para dispor sobre a publicação de atos, notificações e decisões no Diário Eletrônico da Ordem dos Advogados do Brasil."
+    },
+    {
+      "senadoId": "27417956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-07-02-13687",
+      "titulo": "Lei nº 13.687 de 02/07/2018",
+      "data": "2018-07-02",
+      "numero": "13687",
+      "urn": "urn:lex:br:federal:lei:2018-07-02;13687",
+      "ementa": "Institui o Dia Nacional do Interactiano."
+    },
+    {
+      "senadoId": "27413035",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-26-13686",
+      "titulo": "Lei nº 13.686 de 26/06/2018",
+      "data": "2018-06-26",
+      "numero": "13686",
+      "urn": "urn:lex:br:federal:lei:2018-06-26;13686",
+      "ementa": "Institui o Dia Nacional da Imigração Chinesa."
+    },
+    {
+      "senadoId": "27410223",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-25-13685",
+      "titulo": "Lei nº 13.685 de 25/06/2018",
+      "data": "2018-06-25",
+      "numero": "13685",
+      "urn": "urn:lex:br:federal:lei:2018-06-25;13685",
+      "ementa": "Altera a Lei nº 12.732, de 22 de novembro de 2012, para estabelecer a notificação compulsória de agravos e eventos em saúde relacionados às neoplasias, e a Lei nº 12.662, de 5 de junho de 2012, para estabelecer a notificação compulsória de malformações congênitas."
+    },
+    {
+      "senadoId": "27409248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-21-13684",
+      "titulo": "Lei nº 13.684 de 21/06/2018",
+      "data": "2018-06-21",
+      "numero": "13684",
+      "urn": "urn:lex:br:federal:lei:2018-06-21;13684",
+      "ementa": "Dispõe sobre medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária; e dá outras providências."
+    },
+    {
+      "senadoId": "27405071",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-19-13683",
+      "titulo": "Lei nº 13.683 de 19/06/2018",
+      "data": "2018-06-19",
+      "numero": "13683",
+      "urn": "urn:lex:br:federal:lei:2018-06-19;13683",
+      "ementa": "Altera as Leis nºs 13.089, de 12 de janeiro de 2015 (Estatuto da Metrópole), e 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana."
+    },
+    {
+      "senadoId": "27404995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-19-13682",
+      "titulo": "Lei nº 13.682 de 19/06/2018",
+      "data": "2018-06-19",
+      "numero": "13682",
+      "urn": "urn:lex:br:federal:lei:2018-06-19;13682",
+      "ementa": "Altera as Leis nºs 10.177, de 12 de janeiro de 2001, 7.827, de 27 de setembro de 1989, 8.167, de 16 de janeiro de 1991, e 10.260, de 12 de julho de 2001, as Medidas Provisórias nºs 2.156-5, de 24 de agosto de 2001, e 2.157- 5, de 24 de agosto de 2001, e a Lei Complementar nº 129, de 8 de janeiro de 2009, para modificar a metodologia de cálculo dos encargos financeiros incidentes sobre as operações de crédito não rural com recursos de Fundos Constitucionais de Financiamento e a sistemática de remuneração dos respectivos bancos administradores; e revoga dispositivos da Lei nº 9.126, de 10 de novembro de 1995, e da Medida Provisória nº 2.199-14, de 24 de agosto de 2001."
+    },
+    {
+      "senadoId": "27403255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-18-13681",
+      "titulo": "Lei nº 13.681 de 18/06/2018",
+      "data": "2018-06-18",
+      "numero": "13681",
+      "urn": "urn:lex:br:federal:lei:2018-06-18;13681",
+      "ementa": "Disciplina o disposto nas Emendas Constitucionais nos 60, de 11 de novembro de 2009, 79, de 27 de maio de 2014, e 98, de 6 de dezembro de 2017; dispõe sobre as tabelas de salários, vencimentos, soldos e demais vantagens aplicáveis aos servidores civis, aos militares e aos empregados dos ex-Territórios Federais, integrantes do quadro em extinção de que trata o art. 89 do Ato das Disposições Constitucionais Transitórias e o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998; e dá outras providências."
+    },
+    {
+      "senadoId": "27402315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-14-13680",
+      "titulo": "Lei nº 13.680 de 14/06/2018",
+      "data": "2018-06-14",
+      "numero": "13680",
+      "urn": "urn:lex:br:federal:lei:2018-06-14;13680",
+      "ementa": "Altera a Lei nº 1.283, de 18 de dezembro de 1950, para dispor sobre o processo de fiscalização de produtos alimentícios de origem animal produzidos de forma artesanal."
+    },
+    {
+      "senadoId": "27402363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-14-13679",
+      "titulo": "Lei nº 13.679 de 14/06/2018",
+      "data": "2018-06-14",
+      "numero": "13679",
+      "urn": "urn:lex:br:federal:lei:2018-06-14;13679",
+      "ementa": "Altera as Leis nºs 12.304, de 2 de agosto de 2010, e 12.351, de 22 de dezembro de 2010; e dispõe sobre a política de comercialização de petróleo, de gás natural e de outros hidrocarbonetos."
+    },
+    {
+      "senadoId": "27400795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-13-13677",
+      "titulo": "Lei nº 13.677 de 13/06/2018",
+      "data": "2018-06-13",
+      "numero": "13677",
+      "urn": "urn:lex:br:federal:lei:2018-06-13;13677",
+      "ementa": "Altera a Lei Complementar nº 26, de 11 de setembro de 1975, para dispor sobre a possibilidade de movimentação da conta do Programa de Integração Social (PIS) e do Programa de Formação do Patrimônio do Servidor Público (Pasep)."
+    },
+    {
+      "senadoId": "27400843",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-13-13678",
+      "titulo": "Lei nº 13.678 de 13/06/2018",
+      "data": "2018-06-13",
+      "numero": "13678",
+      "urn": "urn:lex:br:federal:lei:2018-06-13;13678",
+      "ementa": "Confere ao Município de Nova Veneza, no Estado de Santa Catarina, o título de Capital Nacional da Gastronomia Típica Italiana."
+    },
+    {
+      "senadoId": "27394879",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-11-13676",
+      "titulo": "Lei nº 13.676 de 11/06/2018",
+      "data": "2018-06-11",
+      "numero": "13676",
+      "urn": "urn:lex:br:federal:lei:2018-06-11;13676",
+      "ementa": "Altera a Lei nº 12.016, de 7 de agosto de 2009, para permitir a defesa oral do pedido de liminar na sessão de julgamento do mandado de segurança."
+    },
+    {
+      "senadoId": "27395040",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-11-13674",
+      "titulo": "Lei nº 13.674 de 11/06/2018",
+      "data": "2018-06-11",
+      "numero": "13674",
+      "urn": "urn:lex:br:federal:lei:2018-06-11;13674",
+      "ementa": "Altera as Leis nºs 8.248, de 23 de outubro de 1991, e 8.387, de 30 de dezembro de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "27394952",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-11-13675",
+      "titulo": "Lei nº 13.675 de 11/06/2018",
+      "data": "2018-06-11",
+      "numero": "13675",
+      "urn": "urn:lex:br:federal:lei:2018-06-11;13675",
+      "ementa": "Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a Lei Complementar nº 79, de 7 de janeiro de 1994, a Lei nº 10.201, de 14 de fevereiro de 2001, e a Lei nº 11.530, de 24 de outubro de 2007; e revoga dispositivos da Lei nº 12.681, de 4 de julho de 2012."
+    },
+    {
+      "senadoId": "26923391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-05-13671",
+      "titulo": "Lei nº 13.671 de 05/06/2018",
+      "data": "2018-06-05",
+      "numero": "13671",
+      "urn": "urn:lex:br:federal:lei:2018-06-05;13671",
+      "ementa": "Altera o Anexo V à Lei nº 13.587, de 2 de janeiro de 2018, que estima a receita e fixa a despesa da União para o exercício financeiro de 2018."
+    },
+    {
+      "senadoId": "26923315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-05-13672",
+      "titulo": "Lei nº 13.672 de 05/06/2018",
+      "data": "2018-06-05",
+      "numero": "13672",
+      "urn": "urn:lex:br:federal:lei:2018-06-05;13672",
+      "ementa": "Altera a Lei nº 13.473, de 8 de agosto de 2017, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2018."
+    },
+    {
+      "senadoId": "26923421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-06-05-13673",
+      "titulo": "Lei nº 13.673 de 05/06/2018",
+      "data": "2018-06-05",
+      "numero": "13673",
+      "urn": "urn:lex:br:federal:lei:2018-06-05;13673",
+      "ementa": "Altera as Leis nºs 8.987, de 13 de fevereiro de 1995, 9.427, de 26 de dezembro de 1996, e 9.472, de 16 de julho de 1997, para tornar obrigatória a divulgação de tabela com a evolução do valor da tarifa e do preço praticados pelas concessionárias e prestadoras de serviços públicos."
+    },
+    {
+      "senadoId": "26918796",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-30-13670",
+      "titulo": "Lei nº 13.670 de 30/05/2018",
+      "data": "2018-05-30",
+      "numero": "13670",
+      "urn": "urn:lex:br:federal:lei:2018-05-30;13670",
+      "ementa": "Altera as Leis nºs 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta, 8.212, de 24 de julho de 1991, 8.218, de 29 de agosto de 1991, 9.430, de 27 de dezembro de 1996, 10.833, de 29 de dezembro de 2003, 10.865, de 30 de abril de 2004, e 11.457, de 16 de março de 2007, e o Decreto-Lei nº 1.593, de 21 de dezembro de 1977."
+    },
+    {
+      "senadoId": "26917733",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-30-13669",
+      "titulo": "Lei nº 13.669 de 30/05/2018",
+      "data": "2018-05-30",
+      "numero": "13669",
+      "urn": "urn:lex:br:federal:lei:2018-05-30;13669",
+      "ementa": "Autoriza a União a doar recursos ao Estado da Palestina para a restauração da Basílica da Natividade."
+    },
+    {
+      "senadoId": "26914695",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-28-13668",
+      "titulo": "Lei nº 13.668 de 28/05/2018",
+      "data": "2018-05-28",
+      "numero": "13668",
+      "urn": "urn:lex:br:federal:lei:2018-05-28;13668",
+      "ementa": "Altera as Leis nºs 11.516, de 28 de agosto de 2007, 7.957, de 20 de dezembro de 1989, e 9.985, de 18 de julho de 2000, para dispor sobre a destinação e a aplicação dos recursos de compensação ambiental e sobre a contratação de pessoal por tempo determinado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e pelo Instituto Chico Mendes de Conservação da Biodiversidade (Instituto Chico Mendes)."
+    },
+    {
+      "senadoId": "26905995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-17-13667",
+      "titulo": "Lei nº 13.667 de 17/05/2018",
+      "data": "2018-05-17",
+      "numero": "13667",
+      "urn": "urn:lex:br:federal:lei:2018-05-17;13667",
+      "ementa": "Dispõe sobre o Sistema Nacional de Emprego (Sine), criado pelo Decreto nº 76.403, de 8 de outubro de 1975."
+    },
+    {
+      "senadoId": "26903635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-16-13666",
+      "titulo": "Lei nº 13.666 de 16/05/2018",
+      "data": "2018-05-16",
+      "numero": "13666",
+      "urn": "urn:lex:br:federal:lei:2018-05-16;13666",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir o tema transversal da educação alimentar e nutricional no currículo escolar."
+    },
+    {
+      "senadoId": "26901475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-15-13665",
+      "titulo": "Lei nº 13.665 de 15/05/2018",
+      "data": "2018-05-15",
+      "numero": "13665",
+      "urn": "urn:lex:br:federal:lei:2018-05-15;13665",
+      "ementa": "Autoriza o Poder Executivo a desapropriar, em favor da União, o imóvel que especifica, cujo domínio direto pertence ao Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "26900615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-14-13664",
+      "titulo": "Lei nº 13.664 de 14/05/2018",
+      "data": "2018-05-14",
+      "numero": "13664",
+      "urn": "urn:lex:br:federal:lei:2018-05-14;13664",
+      "ementa": "Institui o Dia da Amizade Brasil-Argentina. "
+    },
+    {
+      "senadoId": "26900663",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-14-13663",
+      "titulo": "Lei nº 13.663 de 14/05/2018",
+      "data": "2018-05-14",
+      "numero": "13663",
+      "urn": "urn:lex:br:federal:lei:2018-05-14;13663",
+      "ementa": "Altera o art. 12 da Lei nº 9.394, de 20 de dezembro de 1996, para incluir a promoção de medidas de conscientização, de prevenção e de combate a todos os tipos de violência e a promoção da cultura de paz entre as incumbências dos estabelecimentos de ensino."
+    },
+    {
+      "senadoId": "26890908",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-08-13660",
+      "titulo": "Lei nº 13.660 de 08/05/2018",
+      "data": "2018-05-08",
+      "numero": "13660",
+      "urn": "urn:lex:br:federal:lei:2018-05-08;13660",
+      "ementa": "Altera o § 2º do art. 819 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre o pagamento dos honorários de intérprete judicial."
+    },
+    {
+      "senadoId": "26890863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-08-13661",
+      "titulo": "Lei nº 13.661 de 08/05/2018",
+      "data": "2018-05-08",
+      "numero": "13661",
+      "urn": "urn:lex:br:federal:lei:2018-05-08;13661",
+      "ementa": "Altera a Lei nº 8.001, de 13 de março de 1990, para definir as parcelas pertencentes aos Estados e aos Municípios do produto da Compensação Financeira pela Utilização de Recursos Hídricos (CFURH)."
+    },
+    {
+      "senadoId": "26890815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-08-13662",
+      "titulo": "Lei nº 13.662 de 08/05/2018",
+      "data": "2018-05-08",
+      "numero": "13662",
+      "urn": "urn:lex:br:federal:lei:2018-05-08;13662",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal e de Encargos Financeiros da União, crédito suplementar no valor de R$ 3.037.915.967,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26888609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-07-13657",
+      "titulo": "Lei nº 13.657 de 07/05/2018",
+      "data": "2018-05-07",
+      "numero": "13657",
+      "urn": "urn:lex:br:federal:lei:2018-05-07;13657",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências aos Estados, ao Distrito Federal e aos Municípios, crédito suplementar no valor de R$ 4.495.852.322,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26889006",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-07-13659",
+      "titulo": "Lei nº 13.659 de 07/05/2018",
+      "data": "2018-05-07",
+      "numero": "13659",
+      "urn": "urn:lex:br:federal:lei:2018-05-07;13659",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 1.164.674.954,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "26889036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-05-07-13658",
+      "titulo": "Lei nº 13.658 de 07/05/2018",
+      "data": "2018-05-07",
+      "numero": "13658",
+      "urn": "urn:lex:br:federal:lei:2018-05-07;13658",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal, crédito especial no valor de R$ 439.522.433,00, para os fins que especifica. "
+    },
+    {
+      "senadoId": "26885815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-30-13656",
+      "titulo": "Lei nº 13.656 de 30/04/2018",
+      "data": "2018-04-30",
+      "numero": "13656",
+      "urn": "urn:lex:br:federal:lei:2018-04-30;13656",
+      "ementa": "Isenta os candidatos que especifica do pagamento de taxa de inscrição em concursos para provimento de cargo efetivo ou emprego permanente em órgãos ou entidades da administração pública direta e indireta da União."
+    },
+    {
+      "senadoId": "26582350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-25-13655",
+      "titulo": "Lei nº 13.655 de 25/04/2018",
+      "data": "2018-04-25",
+      "numero": "13655",
+      "urn": "urn:lex:br:federal:lei:2018-04-25;13655",
+      "ementa": "Inclui no Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), disposições sobre segurança jurídica e eficiência na criação e na aplicação do direito público."
+    },
+    {
+      "senadoId": "26579387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-23-13654",
+      "titulo": "Lei nº 13.654 de 23/04/2018",
+      "data": "2018-04-23",
+      "numero": "13654",
+      "urn": "urn:lex:br:federal:lei:2018-04-23;13654",
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 dezembro de 1940 (Código Penal), para dispor sobre os crimes de furto qualificado e de roubo quando envolvam explosivos e do crime de roubo praticado com emprego de arma de fogo ou do qual resulte lesão corporal grave; e altera a Lei nº 7.102, de 20 de junho de 1983, para obrigar instituições que disponibilizem caixas eletrônicos a instalar equipamentos que inutilizem cédulas de moeda corrente."
+    },
+    {
+      "senadoId": "26542275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-18-13653",
+      "titulo": "Lei nº 13.653 de 18/04/2018",
+      "data": "2018-04-18",
+      "numero": "13653",
+      "urn": "urn:lex:br:federal:lei:2018-04-18;13653",
+      "ementa": "Dispõe sobre a regulamentação da profissão de arqueólogo e dá outras providências."
+    },
+    {
+      "senadoId": "26538735",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-13-13652",
+      "titulo": "Lei nº 13.652 de 13/04/2018",
+      "data": "2018-04-13",
+      "numero": "13652",
+      "urn": "urn:lex:br:federal:lei:2018-04-13;13652",
+      "ementa": "Institui o Dia Nacional de Conscientização sobre o Autismo."
+    },
+    {
+      "senadoId": "26535657",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-11-13651",
+      "titulo": "Lei nº 13.651 de 11/04/2018",
+      "data": "2018-04-11",
+      "numero": "13651",
+      "urn": "urn:lex:br:federal:lei:2018-04-11;13651",
+      "ementa": "Cria a Universidade Federal do Delta do Parnaíba (UFDPar), por desmembramento da Universidade Federal do Piauí (UFPI), e cria a Universidade Federal do Agreste de Pernambuco (Ufape), por desmembramento da Universidade Federal Rural de Pernambuco (UFRPE)."
+    },
+    {
+      "senadoId": "26536053",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-11-13650",
+      "titulo": "Lei nº 13.650 de 11/04/2018",
+      "data": "2018-04-11",
+      "numero": "13650",
+      "urn": "urn:lex:br:federal:lei:2018-04-11;13650",
+      "ementa": "Dispõe sobre a certificação das entidades beneficentes de assistência social, na área de saúde, de que trata o art. 4º da Lei nº 12.101, de 27 de novembro de 2009; e altera as Leis nºs 12.101, de 27 de novembro de 2009, e 8.429, de 2 de junho de 1992."
+    },
+    {
+      "senadoId": "26535800",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-11-13649",
+      "titulo": "Lei nº 13.649 de 11/04/2018",
+      "data": "2018-04-11",
+      "numero": "13649",
+      "urn": "urn:lex:br:federal:lei:2018-04-11;13649",
+      "ementa": "Dispõe sobre o Serviço de Retransmissão de Rádio (RTR) na Amazônia Legal."
+    },
+    {
+      "senadoId": "26535714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-11-13648",
+      "titulo": "Lei nº 13.648 de 11/04/2018",
+      "data": "2018-04-11",
+      "numero": "13648",
+      "urn": "urn:lex:br:federal:lei:2018-04-11;13648",
+      "ementa": "Dispõe sobre a produção de polpa e suco de frutas artesanais em estabelecimento familiar rural e altera a Lei nº 8.918, de 14 de julho de 1994."
+    },
+    {
+      "senadoId": "26526523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-09-13646",
+      "titulo": "Lei nº 13.646 de 09/04/2018",
+      "data": "2018-04-09",
+      "numero": "13646",
+      "urn": "urn:lex:br:federal:lei:2018-04-09;13646",
+      "ementa": "Institui o Ano de Valorização e Defesa dos Direitos Humanos da Pessoa Idosa, em alusão à Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos. "
+    },
+    {
+      "senadoId": "26526475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-09-13647",
+      "titulo": "Lei nº 13.647 de 09/04/2018",
+      "data": "2018-04-09",
+      "numero": "13647",
+      "urn": "urn:lex:br:federal:lei:2018-04-09;13647",
+      "ementa": "Estabelece a obrigatoriedade da instalação de equipamentos para evitar o desperdício de água em banheiros destinados ao público. "
+    },
+    {
+      "senadoId": "26522823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-04-13645",
+      "titulo": "Lei nº 13.645 de 04/04/2018",
+      "data": "2018-04-04",
+      "numero": "13645",
+      "urn": "urn:lex:br:federal:lei:2018-04-04;13645",
+      "ementa": "Institui o Dia Nacional do Desafio."
+    },
+    {
+      "senadoId": "26522775",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-04-13644",
+      "titulo": "Lei nº 13.644 de 04/04/2018",
+      "data": "2018-04-04",
+      "numero": "13644",
+      "urn": "urn:lex:br:federal:lei:2018-04-04;13644",
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre o horário de retransmissão obrigatória do programa oficial dos Poderes da República pelas emissoras de radiodifusão sonora."
+    },
+    {
+      "senadoId": "26520843",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-03-13643",
+      "titulo": "Lei nº 13.643 de 03/04/2018",
+      "data": "2018-04-03",
+      "numero": "13643",
+      "urn": "urn:lex:br:federal:lei:2018-04-03;13643",
+      "ementa": "Regulamenta as profissões de Esteticista, que compreende o Esteticista e Cosmetólogo, e de Técnico em Estética."
+    },
+    {
+      "senadoId": "26520921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-03-13641",
+      "titulo": "Lei nº 13.641 de 03/04/2018",
+      "data": "2018-04-03",
+      "numero": "13641",
+      "urn": "urn:lex:br:federal:lei:2018-04-03;13641",
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para tipificar o crime de descumprimento de medidas protetivas de urgência."
+    },
+    {
+      "senadoId": "26520891",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-04-03-13642",
+      "titulo": "Lei nº 13.642 de 03/04/2018",
+      "data": "2018-04-03",
+      "numero": "13642",
+      "urn": "urn:lex:br:federal:lei:2018-04-03;13642",
+      "ementa": "Altera a Lei nº 10.446, de 8 de maio de 2002, para acrescentar atribuição à Polícia Federal no que concerne à investigação de crimes praticados por meio da rede mundial de computadores que difundam conteúdo misógino, definidos como aqueles que propagam o ódio ou a aversão às mulheres."
+    },
+    {
+      "senadoId": "26382128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-26-13639",
+      "titulo": "Lei nº 13.639 de 26/03/2018",
+      "data": "2018-03-26",
+      "numero": "13639",
+      "urn": "urn:lex:br:federal:lei:2018-03-26;13639",
+      "ementa": "Cria o Conselho Federal dos Técnicos Industriais, o Conselho Federal dos Técnicos Agrícolas, os Conselhos Regionais dos Técnicos Industriais e os Conselhos Regionais dos Técnicos Agrícolas."
+    },
+    {
+      "senadoId": "26382098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-26-13640",
+      "titulo": "Lei nº 13.640 de 26/03/2018",
+      "data": "2018-03-26",
+      "numero": "13640",
+      "urn": "urn:lex:br:federal:lei:2018-03-26;13640",
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, para regulamentar o transporte remunerado privado individual de passageiros."
+    },
+    {
+      "senadoId": "26380296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-22-13638",
+      "titulo": "Lei nº 13.638 de 22/03/2018",
+      "data": "2018-03-22",
+      "numero": "13638",
+      "urn": "urn:lex:br:federal:lei:2018-03-22;13638",
+      "ementa": "Altera a Lei nº 8.686, de 20 de julho de 1993, para estabelecer novo valor para a pensão especial devida à pessoa com a deficiência física conhecida como Síndrome da Talidomida, instituída pela Lei nº 7.070, de 20 de dezembro de 1982."
+    },
+    {
+      "senadoId": "26376870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-20-13635",
+      "titulo": "Lei nº 13.635 de 20/03/2018",
+      "data": "2018-03-20",
+      "numero": "13635",
+      "urn": "urn:lex:br:federal:lei:2018-03-20;13635",
+      "ementa": "Cria a Universidade Federal de Jataí, por desmembramento da Universidade Federal de Goiás."
+    },
+    {
+      "senadoId": "26376958",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-20-13637",
+      "titulo": "Lei nº 13.637 de 20/03/2018",
+      "data": "2018-03-20",
+      "numero": "13637",
+      "urn": "urn:lex:br:federal:lei:2018-03-20;13637",
+      "ementa": "Cria a Universidade Federal de Rondonópolis, por desmembramento de campus da Universidade Federal de Mato Grosso."
+    },
+    {
+      "senadoId": "26376900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-20-13636",
+      "titulo": "Lei nº 13.636 de 20/03/2018",
+      "data": "2018-03-20",
+      "numero": "13636",
+      "urn": "urn:lex:br:federal:lei:2018-03-20;13636",
+      "ementa": "Dispõe sobre o Programa Nacional de Microcrédito Produtivo Orientado (PNMPO); e revoga dispositivos das Leis nºs 11.110, de 25 de abril de 2005, e 10.735, de 11 de setembro de 2003."
+    },
+    {
+      "senadoId": "26376822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-20-13634",
+      "titulo": "Lei nº 13.634 de 20/03/2018",
+      "data": "2018-03-20",
+      "numero": "13634",
+      "urn": "urn:lex:br:federal:lei:2018-03-20;13634",
+      "ementa": "Cria a Universidade Federal de Catalão, por desmembramento da Universidade Federal de Goiás."
+    },
+    {
+      "senadoId": "26371825",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-12-13633",
+      "titulo": "Lei nº 13.633 de 12/03/2018",
+      "data": "2018-03-12",
+      "numero": "13633",
+      "urn": "urn:lex:br:federal:lei:2018-03-12;13633",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Saúde e do Desenvolvimento Social, crédito especial no valor de R$ 2.000.000.000,00, para os fins que especifica. "
+    },
+    {
+      "senadoId": "26366876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-06-13632",
+      "titulo": "Lei nº 13.632 de 06/03/2018",
+      "data": "2018-03-06",
+      "numero": "13632",
+      "urn": "urn:lex:br:federal:lei:2018-03-06;13632",
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre educação e aprendizagem ao longo da vida."
+    },
+    {
+      "senadoId": "26363091",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-03-01-13631",
+      "titulo": "Lei nº 13.631 de 01/03/2018",
+      "data": "2018-03-01",
+      "numero": "13631",
+      "urn": "urn:lex:br:federal:lei:2018-03-01;13631",
+      "ementa": "Dispõe sobre a contratação, o aditamento, a repactuação e a renegociação de operações de crédito, a concessão de garantia pela União e a contratação com a União realizadas com fundamento nas Leis Complementares nºs 156, de 28 de dezembro de 2016, e 159, de 19 de maio de 2017, e sobre a realização de termos aditivos a contratos de refinanciamento celebrados com a União com fundamento na Lei Complementar nº 148, de 25 de novembro de 2014."
+    },
+    {
+      "senadoId": "26362338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-02-28-13630",
+      "titulo": "Lei nº 13.630 de 28/02/2018",
+      "data": "2018-02-28",
+      "numero": "13630",
+      "urn": "urn:lex:br:federal:lei:2018-02-28;13630",
+      "ementa": "Altera a Lei nº 13.606, de 9 de janeiro de 2018, para prorrogar o prazo de adesão ao Programa de Regularização Tributária Rural (PRR) para 30 de abril de 2018."
+    },
+    {
+      "senadoId": "26345535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-16-13624",
+      "titulo": "Lei nº 13.624 de 16/01/2018",
+      "data": "2018-01-16",
+      "numero": "13624",
+      "urn": "urn:lex:br:federal:lei:2018-01-16;13624",
+      "ementa": "Denomina Ferrovia Doutor José Pacheco Dantas o trecho ferroviário da Companhia Brasileira de Trens Urbanos - CBTU, entre as cidades de Natal e Ceará-Mirim, Estado do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "26345613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-16-13626",
+      "titulo": "Lei nº 13.626 de 16/01/2018",
+      "data": "2018-01-16",
+      "numero": "13626",
+      "urn": "urn:lex:br:federal:lei:2018-01-16;13626",
+      "ementa": "Institui o Dia Nacional da Eubiose."
+    },
+    {
+      "senadoId": "26345643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-16-13627",
+      "titulo": "Lei nº 13.627 de 16/01/2018",
+      "data": "2018-01-16",
+      "numero": "13627",
+      "urn": "urn:lex:br:federal:lei:2018-01-16;13627",
+      "ementa": "Institui a data de 15 de dezembro como o Dia Nacional do Arquiteto e Urbanista."
+    },
+    {
+      "senadoId": "26345673",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-16-13628",
+      "titulo": "Lei nº 13.628 de 16/01/2018",
+      "data": "2018-01-16",
+      "numero": "13628",
+      "urn": "urn:lex:br:federal:lei:2018-01-16;13628",
+      "ementa": "Inscreve no Livro dos Heróis da Pátria o nome de Luís Gonzaga Pinto da Gama - Luiz Gama."
+    },
+    {
+      "senadoId": "26345703",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-16-13629",
+      "titulo": "Lei nº 13.629 de 16/01/2018",
+      "data": "2018-01-16",
+      "numero": "13629",
+      "urn": "urn:lex:br:federal:lei:2018-01-16;13629",
+      "ementa": "Declara o advogado Luiz Gama Patrono da Abolição da Escravidão do Brasil."
+    },
+    {
+      "senadoId": "26345583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-16-13625",
+      "titulo": "Lei nº 13.625 de 16/01/2018",
+      "data": "2018-01-16",
+      "numero": "13625",
+      "urn": "urn:lex:br:federal:lei:2018-01-16;13625",
+      "ementa": "Denomina Elevado Casemiro Vitório Colombo o elevado da rodovia BR-282, com acesso pela Avenida Rio Ponte Grande, no Município de Lages, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "26343893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-15-13619",
+      "titulo": "Lei nº 13.619 de 15/01/2018",
+      "data": "2018-01-15",
+      "numero": "13619",
+      "urn": "urn:lex:br:federal:lei:2018-01-15;13619",
+      "ementa": "Denomina Rodovia Antônio Carlos Marani o trecho da BR-265 entre a cidade de Lavras, Estado de Minas Gerais, e o entroncamento com a BR-381 (Rodovia Fernão Dias)."
+    },
+    {
+      "senadoId": "26343923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-15-13618",
+      "titulo": "Lei nº 13.618 de 15/01/2018",
+      "data": "2018-01-15",
+      "numero": "13618",
+      "urn": "urn:lex:br:federal:lei:2018-01-15;13618",
+      "ementa": "Denomina Prefeito Dilney Chaves Cabral o viaduto duplo de acesso aos bairros São João e Morrotes localizado no Km 336,35 da BR-101, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "26343863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-15-13620",
+      "titulo": "Lei nº 13.620 de 15/01/2018",
+      "data": "2018-01-15",
+      "numero": "13620",
+      "urn": "urn:lex:br:federal:lei:2018-01-15;13620",
+      "ementa": "Institui o dia 27 de novembro como Dia Nacional de Educação a Distância."
+    },
+    {
+      "senadoId": "26343755",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-15-13623",
+      "titulo": "Lei nº 13.623 de 15/01/2018",
+      "data": "2018-01-15",
+      "numero": "13623",
+      "urn": "urn:lex:br:federal:lei:2018-01-15;13623",
+      "ementa": "Inscreve o nome de Joaquim Francisco da Costa - Irmão Joaquim do Livramento no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "26343803",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-15-13622",
+      "titulo": "Lei nº 13.622 de 15/01/2018",
+      "data": "2018-01-15",
+      "numero": "13622",
+      "urn": "urn:lex:br:federal:lei:2018-01-15;13622",
+      "ementa": "Inscreve o nome de Euclides Rodrigues Pimenta da Cunha no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "26343833",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-15-13621",
+      "titulo": "Lei nº 13.621 de 15/01/2018",
+      "data": "2018-01-15",
+      "numero": "13621",
+      "urn": "urn:lex:br:federal:lei:2018-01-15;13621",
+      "ementa": "Institui o dia 23 de abril como o Dia Nacional do Escotismo."
+    },
+    {
+      "senadoId": "26343198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-11-13615",
+      "titulo": "Lei nº 13.615 de 11/01/2018",
+      "data": "2018-01-11",
+      "numero": "13615",
+      "urn": "urn:lex:br:federal:lei:2018-01-11;13615",
+      "ementa": "Declara o estadista José Bonifácio de Andrada e Silva Patrono da Independência do Brasil."
+    },
+    {
+      "senadoId": "26343106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-11-13616",
+      "titulo": "Lei nº 13.616 de 11/01/2018",
+      "data": "2018-01-11",
+      "numero": "13616",
+      "urn": "urn:lex:br:federal:lei:2018-01-11;13616",
+      "ementa": "Denomina Ponte Lupicínio Rodrigues a ponte sobre o rio Gravataí, construída na rodovia BR-448, no Município de Porto Alegre, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "26343168",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-11-13617",
+      "titulo": "Lei nº 13.617 de 11/01/2018",
+      "data": "2018-01-11",
+      "numero": "13617",
+      "urn": "urn:lex:br:federal:lei:2018-01-11;13617",
+      "ementa": "Institui no calendário oficial brasileiro o dia 26 de junho como a Data do Reconhecimento do Município de Santa Teresa, no Estado do Espírito Santo, como Pioneiro da Imigração Italiana no Brasil."
+    },
+    {
+      "senadoId": "26343228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-11-13614",
+      "titulo": "Lei nº 13.614 de 11/01/2018",
+      "data": "2018-01-11",
+      "numero": "13614",
+      "urn": "urn:lex:br:federal:lei:2018-01-11;13614",
+      "ementa": "Cria o Plano Nacional de Redução de Mortes e Lesões no Trânsito (Pnatrans) e acrescenta dispositivo à Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre regime de metas de redução de índice de mortos no trânsito por grupos de habitantes e de índice de mortos no trânsito por grupos de veículos."
+    },
+    {
+      "senadoId": "26342045",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-10-13611",
+      "titulo": "Lei nº 13.611 de 10/01/2018",
+      "data": "2018-01-10",
+      "numero": "13611",
+      "urn": "urn:lex:br:federal:lei:2018-01-10;13611",
+      "ementa": "Institui o Dia Nacional do Exportador."
+    },
+    {
+      "senadoId": "26342906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-10-13609",
+      "titulo": "Lei nº 13.609 de 10/01/2018",
+      "data": "2018-01-10",
+      "numero": "13609",
+      "urn": "urn:lex:br:federal:lei:2018-01-10;13609",
+      "ementa": "Altera a Lei nº 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional e as atividades relativas ao monopólio do petróleo."
+    },
+    {
+      "senadoId": "26341985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-10-13608",
+      "titulo": "Lei nº 13.608 de 10/01/2018",
+      "data": "2018-01-10",
+      "numero": "13608",
+      "urn": "urn:lex:br:federal:lei:2018-01-10;13608",
+      "ementa": "Dispõe sobre o serviço telefônico de recebimento de denúncias e sobre recompensa por informações que auxiliem nas investigações policiais; e altera o art. 4º da Lei nº 10.201, de 14 de fevereiro de 2001, para prover recursos do Fundo Nacional de Segurança Pública para esses fins."
+    },
+    {
+      "senadoId": "26342075",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-10-13610",
+      "titulo": "Lei nº 13.610 de 10/01/2018",
+      "data": "2018-01-10",
+      "numero": "13610",
+      "urn": "urn:lex:br:federal:lei:2018-01-10;13610",
+      "ementa": "Confere ao Município de Limeira, no Estado de São Paulo, o título de Capital Nacional da Joia Folheada."
+    },
+    {
+      "senadoId": "26341937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-10-13612",
+      "titulo": "Lei nº 13.612 de 10/01/2018",
+      "data": "2018-01-10",
+      "numero": "13612",
+      "urn": "urn:lex:br:federal:lei:2018-01-10;13612",
+      "ementa": "Denomina Rodovia Frei Jorge o trecho da rodovia BR-251 localizado no perímetro urbano da cidade de Unaí, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "26342015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-10-13613",
+      "titulo": "Lei nº 13.613 de 10/01/2018",
+      "data": "2018-01-10",
+      "numero": "13613",
+      "urn": "urn:lex:br:federal:lei:2018-01-10;13613",
+      "ementa": "Inscreve no Livro dos Heróis da Pátria o nome de Martim Soares Moreno."
+    },
+    {
+      "senadoId": "26339657",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13604",
+      "titulo": "Lei nº 13.604 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13604",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13604",
+      "ementa": "Altera a Lei nº 12.681, de 4 de julho de 2012, que institui o Sistema Nacional de Informações de Segurança Pública, Prisionais e sobre Drogas - SINESP, tornando obrigatória a publicação da taxa de elucidação de crimes de forma padronizada."
+    },
+    {
+      "senadoId": "26339863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13603",
+      "titulo": "Lei nº 13.603 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13603",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13603",
+      "ementa": "Altera a Lei nº 9.099, de 26 de setembro de 1995, para incluir a simplicidade como critério orientador do processo perante os Juizados Especiais Criminais."
+    },
+    {
+      "senadoId": "26339687",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13605",
+      "titulo": "Lei nº 13.605 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13605",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13605",
+      "ementa": "Inclui o Dia Internacional do Direito à Verdade no calendário nacional de datas comemorativas."
+    },
+    {
+      "senadoId": "26339747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13602",
+      "titulo": "Lei nº 13.602 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13602",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13602",
+      "ementa": "Altera a Lei nº 13.473, de 8 de agosto de 2017, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2018."
+    },
+    {
+      "senadoId": "26339581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13601",
+      "titulo": "Lei nº 13.601 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13601",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13601",
+      "ementa": "Regulamenta o exercício da profissão de Técnico em Biblioteconomia."
+    },
+    {
+      "senadoId": "26339805",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13606",
+      "titulo": "Lei nº 13.606 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13606",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13606",
+      "ementa": "Institui o Programa de Regularização Tributária Rural (PRR) na Secretaria da Receita Federal do Brasil e na Procuradoria-Geral da Fazenda Nacional; altera as Leis nº s 8.212, de 24 de julho de 1991, 8.870, de 15 de abril de 1994, 9.528, de 10 de dezembro de 1997, 13.340, de 28 de setembro de 2016, 10.522, de 19 de julho de 2002, 9.456, de 25 de abril de 1997, 13.001, de 20 de junho de 2014, 8.427, de 27 de maio de 1992, e 11.076, de 30 de dezembro de 2004, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); e dá outras providências."
+    },
+    {
+      "senadoId": "26339717",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-09-13607",
+      "titulo": "Lei nº 13.607 de 09/01/2018",
+      "data": "2018-01-09",
+      "numero": "13607",
+      "urn": "urn:lex:br:federal:lei:2018-01-09;13607",
+      "ementa": "Denomina Viaduto Astésia de Moraes Batista o viaduto construído no km 488 da Rodovia Régis Bittencourt, no Município de Cajati, Estado de São Paulo."
+    },
+    {
+      "senadoId": "26339127",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-08-13599",
+      "titulo": "Lei nº 13.599 de 08/01/2018",
+      "data": "2018-01-08",
+      "numero": "13599",
+      "urn": "urn:lex:br:federal:lei:2018-01-08;13599",
+      "ementa": "Inscreve o nome de José Feliciano Fernandes Pinheiro, Visconde de São Leopoldo, no Livro dos Heróis da Pátria."
+    },
+    {
+      "senadoId": "26339067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-08-13597",
+      "titulo": "Lei nº 13.597 de 08/01/2018",
+      "data": "2018-01-08",
+      "numero": "13597",
+      "urn": "urn:lex:br:federal:lei:2018-01-08;13597",
+      "ementa": "Denomina o trecho da BR-158, entre a cidade de Santa Maria e a cidade de Rosário do Sul, no Estado do Rio Grande do Sul, como Rodovia Dr. Mário Ortiz de Vasconcellos."
+    },
+    {
+      "senadoId": "26339019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-08-13596",
+      "titulo": "Lei nº 13.596 de 08/01/2018",
+      "data": "2018-01-08",
+      "numero": "13596",
+      "urn": "urn:lex:br:federal:lei:2018-01-08;13596",
+      "ementa": "Institui o \"Dia Nacional do Zootecnista\"."
+    },
+    {
+      "senadoId": "26339157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-08-13600",
+      "titulo": "Lei nº 13.600 de 08/01/2018",
+      "data": "2018-01-08",
+      "numero": "13600",
+      "urn": "urn:lex:br:federal:lei:2018-01-08;13600",
+      "ementa": "Denomina Viaduto Pioneiro Manoel Revaldaves da Silva o viaduto construído no km 172,5 da rodovia BR-376 entre as avenidas Colombo e Sabiá, na cidade de Maringá, Estado do Paraná."
+    },
+    {
+      "senadoId": "26339097",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-08-13598",
+      "titulo": "Lei nº 13.598 de 08/01/2018",
+      "data": "2018-01-08",
+      "numero": "13598",
+      "urn": "urn:lex:br:federal:lei:2018-01-08;13598",
+      "ementa": "Determina a inscrição do nome de João Pedro Teixeira no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+      "senadoId": "26338544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-05-13594",
+      "titulo": "Lei nº 13.594 de 05/01/2018",
+      "data": "2018-01-05",
+      "numero": "13594",
+      "urn": "urn:lex:br:federal:lei:2018-01-05;13594",
+      "ementa": "Prorroga o prazo para a utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine), instituído pela Lei nº 12.599, de 23 de março de 2012, bem como dos benefícios fiscais previstos nos arts. 1º e 1º-A da Lei nº 8.685, de 20 de julho de 1993, e no art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001; e altera a Lei nº 8.685, de 20 de julho de 1993, e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001."
+    },
+    {
+      "senadoId": "26338001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-05-13595",
+      "titulo": "Lei nº 13.595 de 05/01/2018",
+      "data": "2018-01-05",
+      "numero": "13595",
+      "urn": "urn:lex:br:federal:lei:2018-01-05;13595",
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre a reformulação das atribuições, a jornada e as condições de trabalho, o grau de formação profissional, os cursos de formação técnica e continuada e a indenização de transporte dos profissionais Agentes Comunitários de Saúde e Agentes de Combate às Endemias."
+    },
+    {
+      "senadoId": "26337524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-04-13589",
+      "titulo": "Lei nº 13.589 de 04/01/2018",
+      "data": "2018-01-04",
+      "numero": "13589",
+      "urn": "urn:lex:br:federal:lei:2018-01-04;13589",
+      "ementa": "Dispõe sobre a manutenção de instalações e equipamentos de sistemas de climatização de ambientes."
+    },
+    {
+      "senadoId": "26336691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-04-13590",
+      "titulo": "Lei nº 13.590 de 04/01/2018",
+      "data": "2018-01-04",
+      "numero": "13590",
+      "urn": "urn:lex:br:federal:lei:2018-01-04;13590",
+      "ementa": "Autoriza o Fundo de Garantia do Tempo de Serviço (FGTS) a adquirir da Caixa Econômica Federal instrumento de dívida para enquadramento no nível 1 do Patrimônio de Referência; acrescenta inciso XIV ao art. 5º da Lei nº 8.036, de 11 de maio de 1990, para atribuir ao Conselho Curador do FGTS competência para autorizar e definir as condições financeiras e contratuais a serem observadas na aplicação de recursos do FGTS em instrumentos de dívida emitidos pela Caixa Econômica Federal; e altera o § 5º do art. 3º da Lei nº 11.977, de 7 de julho de 2009, para atribuir à Caixa Econômica Federal a corresponsabilidade pela execução do trabalho técnico e social pós-ocupação dos empreendimentos implantados no âmbito do Programa Minha Casa, Minha Vida (PMCMV)."
+    },
+    {
+      "senadoId": "26336601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-04-13592",
+      "titulo": "Lei nº 13.592 de 04/01/2018",
+      "data": "2018-01-04",
+      "numero": "13592",
+      "urn": "urn:lex:br:federal:lei:2018-01-04;13592",
+      "ementa": "Denomina Israel Guedes Ferreira o edifício da Agência Central do INSS no Município de Alagoa Grande, no Estado da Paraíba."
+    },
+    {
+      "senadoId": "26336553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-04-13593",
+      "titulo": "Lei nº 13.593 de 04/01/2018",
+      "data": "2018-01-04",
+      "numero": "13593",
+      "urn": "urn:lex:br:federal:lei:2018-01-04;13593",
+      "ementa": "Denomina Aeroporto Internacional de Cruzeiro do Sul/AC - Marmud Cameli o aeroporto localizado na cidade de Cruzeiro do Sul, Estado do Acre."
+    },
+    {
+      "senadoId": "26336661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-04-13591",
+      "titulo": "Lei nº 13.591 de 04/01/2018",
+      "data": "2018-01-04",
+      "numero": "13591",
+      "urn": "urn:lex:br:federal:lei:2018-01-04;13591",
+      "ementa": "Denomina Rodovia Prefeito Genésio Pasinato o trecho da BR-163 compreendido entre os Municípios de São Miguel do Oeste e Dionísio Cerqueira, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "26336381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-03-13588",
+      "titulo": "Lei nº 13.588 de 03/01/2018",
+      "data": "2018-01-03",
+      "numero": "13588",
+      "urn": "urn:lex:br:federal:lei:2018-01-03;13588",
+      "ementa": "Altera a Lei nº 13.249, de 13 de janeiro de 2016, que institui o Plano Plurianual da União para o período de 2016 a 2019."
+    },
+    {
+      "senadoId": "26335197",
+      "tipo": "LEI",
+      "id": "br-federal-lei-2018-01-02-13587",
+      "titulo": "Lei nº 13.587 de 02/01/2018",
+      "data": "2018-01-02",
+      "numero": "13587",
+      "urn": "urn:lex:br:federal:lei:2018-01-02;13587",
+      "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2018."
+    }
+  ],
+  "pendencias": []
+}

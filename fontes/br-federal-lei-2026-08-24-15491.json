@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-08-24-15491",
+  "titulo": "Lei nº 15.491 de 24/08/2026",
+  "data": "2026-08-24",
+  "fonte": "https://normas.leg.br/api/public/binario/2fb75e94-fa11-458b-9505-500c438021a3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-08-24;15491",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-08-24%3B15491&tipo_documento=maior-detalhe",
+  "sha256_dados": "74ee83eac0163ede11f1712844980bfdddfdf1a587b2bade1b8b044a6a65b385",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:55.518Z",
+  "sha256_fonte": "b4022560cc35dd5ecf438155ec3c062053d06fc0435cf3c2c4e942333c13c76c",
+  "sha256_markdown": "0f67a223033dd61ebd781eb1d5d63677d3649c3d4d2ded80b5d784851b0ec3a6"
+}

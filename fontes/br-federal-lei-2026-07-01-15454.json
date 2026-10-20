@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-07-01-15454",
+  "titulo": "Lei nº 15.454 de 01/07/2026",
+  "data": "2026-07-01",
+  "fonte": "https://normas.leg.br/api/public/binario/3b1d8f0e-48ee-4544-9dc3-7f646ff8432c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-07-01;15454",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-07-01%3B15454&tipo_documento=maior-detalhe",
+  "sha256_dados": "ac1a7e20166181f9e1c93a4abade0ea6851485b8bf9af3e26a7c342621ff5b94",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:45.169Z",
+  "sha256_fonte": "81c3f4276edc46521a4723f2a9b1696335eb9d7e0eb58db131e931fcad0a87e8",
+  "sha256_markdown": "bf7327b80d62f808b9cafbd03b4506e4bf7d789b5df8d6e0adf60cdc0be66fe9"
+}

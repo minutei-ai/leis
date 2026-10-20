@@ -1,0 +1,1279 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1986",
+  "tipo": "LEI",
+  "ano": 1986,
+  "coletado_em": "2026-10-20T22:57:56.562Z",
+  "normas": [
+    {
+      "senadoId": "549457",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-24-7581",
+      "titulo": "Lei nº 7.581 de 24/12/1986",
+      "data": "1986-12-24",
+      "numero": "7581",
+      "urn": "urn:lex:br:federal:lei:1986-12-24;7581",
+      "ementa": "Altera o Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de   setembro de 1973, modificando o traçado da BR-080."
+    },
+    {
+      "senadoId": "549448",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7572",
+      "titulo": "Lei nº 7.572 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7572",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7572",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação o crédito especial até o limite de Cz$ 7.374.020,00 (sete milhões, trezentos e setenta e quatro mil e vinte cruzados), para o fim que especifica."
+    },
+    {
+      "senadoId": "549455",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7579",
+      "titulo": "Lei nº 7.579 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7579",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7579",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça Federal de Primeira Instância o crédito especial de Cz$ 3.800.000,00 (três milhões e oitocentos mil cruzados), para o fim que especifica."
+    },
+    {
+      "senadoId": "549446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7570",
+      "titulo": "Lei nº 7.570 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7570",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7570",
+      "ementa": "Estende os benefícios previstos no inciso II do art. 50 da Lei nº 6.880, de   9 de dezembro de 1980, aos militares que menciona."
+    },
+    {
+      "senadoId": "549454",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7578",
+      "titulo": "Lei nº 7.578 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7578",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7578",
+      "ementa": "Dispõe sobre a liquidação de débitos previdenciários de Órgãos e   entidades da Administração Pública Federal, Estadual e Municipal e suas   respectivas fundações."
+    },
+    {
+      "senadoId": "549447",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7571",
+      "titulo": "Lei nº 7.571 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7571",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7571",
+      "ementa": "Estende aos equipamentos importados para uso do Ministéio do Exército a   isenção de pagamento de armazenagem prevista no artigo 12 de Decreto-Lei nº   8.439, de 24 de dezembro de 1945."
+    },
+    {
+      "senadoId": "549452",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7576",
+      "titulo": "Lei nº 7.576 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7576",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7576",
+      "ementa": "Altera dispositivos da Lei nº 6.265, de 19 de novembro de 1975, que dispõe sobre o Ensino no Exército."
+    },
+    {
+      "senadoId": "549449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7573",
+      "titulo": "Lei nº 7.573 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7573",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7573",
+      "ementa": "Dispõe sobre o Ensino Profissional Marítimo."
+    },
+    {
+      "senadoId": "549456",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7580",
+      "titulo": "Lei nº 7.580 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7580",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7580",
+      "ementa": "Dá nova redação no art. 110 da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares."
+    },
+    {
+      "senadoId": "549451",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7575",
+      "titulo": "Lei nº 7.575 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7575",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7575",
+      "ementa": "Acrescenta parágrafo 6º e 7º ao artigo 3º do Decreto-Lei nº 2.258, de 4 de   março de 1985."
+    },
+    {
+      "senadoId": "549453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7577",
+      "titulo": "Lei nº 7.577 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7577",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7577",
+      "ementa": "Dispõe sobre a liquidação de débitos previdenciários de entidades   filantrópicas de fins não-lucrativos."
+    },
+    {
+      "senadoId": "549450",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-23-7574",
+      "titulo": "Lei nº 7.574 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "7574",
+      "urn": "urn:lex:br:federal:lei:1986-12-23;7574",
+      "ementa": "Reorganiza os Quadros de Oficiais Auxiliares da Marinha."
+    },
+    {
+      "senadoId": "549444",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-22-7568",
+      "titulo": "Lei nº 7.568 de 22/12/1986",
+      "data": "1986-12-22",
+      "numero": "7568",
+      "urn": "urn:lex:br:federal:lei:1986-12-22;7568",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Ciência e Tecnologia, em favor do Instituto de Pesquisas Espaciais, o crédito especial de Cz$ 9.307.000,00 (nove milhões trezentos e sete mil cruzados), para o fim que especifica."
+    },
+    {
+      "senadoId": "549445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-22-7569",
+      "titulo": "Lei nº 7.569 de 22/12/1986",
+      "data": "1986-12-22",
+      "numero": "7569",
+      "urn": "urn:lex:br:federal:lei:1986-12-22;7569",
+      "ementa": "Dispõe sobre a transformação de encargos de representação de gabinete na   Secretaria do Tribunal Federal de Recursos e dá outras   providências."
+    },
+    {
+      "senadoId": "549441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7565",
+      "titulo": "Lei nº 7.565 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7565",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7565",
+      "ementa": "Dispõe sobre o Código Brasileiro de Aeronáutica."
+    },
+    {
+      "senadoId": "549439",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7563",
+      "titulo": "Lei nº 7.563 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7563",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7563",
+      "ementa": "Institui o PRÓ-FRUTI - Programa Nacional de Arborização Urbana com Árvores   Frutíferas e determina outras providências."
+    },
+    {
+      "senadoId": "549433",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7557",
+      "titulo": "Lei nº 7.557 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7557",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7557",
+      "ementa": "Dispõe sobre a criação, transformação e trasposição de cargos nos Quadros   Permanentes das Secretarias do Superior Tribunal Militar e das Auditorias da   Justiça Militar e dá outras providências."
+    },
+    {
+      "senadoId": "549434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7558",
+      "titulo": "Lei nº 7.558 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7558",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7558",
+      "ementa": "Concede pensão especial a Maria Odila do Amaral Trindade e dá outras   providências."
+    },
+    {
+      "senadoId": "549440",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7564",
+      "titulo": "Lei nº 7.564 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7564",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7564",
+      "ementa": "Autoriza a admissão, pela Caixa Econômica Federal, dos empregados da   Associação de Poupança e Empréstimo de Alagoas - APEAL, Associação de Poupança e   Emprésimo de Pernambuco - APEPE, Associação de Poupança e Empréstimo do Rio   Grande do Norte - APERN e Caixa Forte - APE, do Piauí, e transformadas em   Sociedade de Crédito Imobiliário pelo Banco Central, e dá outras   providências."
+    },
+    {
+      "senadoId": "549436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7560",
+      "titulo": "Lei nº 7.560 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7560",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7560",
+      "ementa": "Cria o Fundo de Prevenção, Recuperação e de Combate às Drogas de Abuso, dispõe sobre os bens apreendidos a adquiridos com produtos de tráfico ilícito de drogas ou atividades correlatas, e dá outras providências."
+    },
+    {
+      "senadoId": "549432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7556",
+      "titulo": "Lei nº 7.556 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7556",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7556",
+      "ementa": "Cria cargos de Secretário de Turma e de Diretor de Serviço na Secretaria do   Tribunal Regional do Trabalho da 4ª Região."
+    },
+    {
+      "senadoId": "549442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7566",
+      "titulo": "Lei nº 7.566 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7566",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7566",
+      "ementa": "Autoriza a criação do Fundo para Desenvolvimento Integrado do Vale do Rio   Doce."
+    },
+    {
+      "senadoId": "549438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7562",
+      "titulo": "Lei nº 7.562 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7562",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7562",
+      "ementa": "Inclui a Categoria Funcional de Inspetor de Segurança Judiciária no Grupo-Atividades de Apoio Judiciário do Quadro Permanente da Secretaria do Tribunal Federal de Recursos, fixa os respectivos valores do vencimeto e dá outras providências."
+    },
+    {
+      "senadoId": "549435",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7559",
+      "titulo": "Lei nº 7.559 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7559",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7559",
+      "ementa": "Concede pensão especial a CLEONICE DOS SANTOS AZEVEDO e dá outras   providências."
+    },
+    {
+      "senadoId": "549437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7561",
+      "titulo": "Lei nº 7.561 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7561",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7561",
+      "ementa": "Concede pensão especial a NISE MAGALHÃES DA SILVEIRA."
+    },
+    {
+      "senadoId": "549443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-19-7567",
+      "titulo": "Lei nº 7.567 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "7567",
+      "urn": "urn:lex:br:federal:lei:1986-12-19;7567",
+      "ementa": "Dispõe sobre os orgãos de administração do Ministério Público do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "549431",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-18-7555",
+      "titulo": "Lei nº 7.555 de 18/12/1986",
+      "data": "1986-12-18",
+      "numero": "7555",
+      "urn": "urn:lex:br:federal:lei:1986-12-18;7555",
+      "ementa": "Autoriza o Poder Executivo a intituir a Fundação de Ensino Superior de São   João Del Rei e dá outras providências."
+    },
+    {
+      "senadoId": "549430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-16-7554",
+      "titulo": "Lei nº 7.554 de 16/12/1986",
+      "data": "1986-12-16",
+      "numero": "7554",
+      "urn": "urn:lex:br:federal:lei:1986-12-16;7554",
+      "ementa": "Dispõe sobre os incentivos da produção de aço, nas condições que estabelece."
+    },
+    {
+      "senadoId": "549429",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-15-7553",
+      "titulo": "Lei nº 7.553 de 15/12/1986",
+      "data": "1986-12-15",
+      "numero": "7553",
+      "urn": "urn:lex:br:federal:lei:1986-12-15;7553",
+      "ementa": "Introduz alterações na Lei nº 5.701, de 9 de setembro de 1971, que dispõe sobre o magistério do Exército."
+    },
+    {
+      "senadoId": "549428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-15-7552",
+      "titulo": "Lei nº 7.552 de 15/12/1986",
+      "data": "1986-12-15",
+      "numero": "7552",
+      "urn": "urn:lex:br:federal:lei:1986-12-15;7552",
+      "ementa": "Dispõe sobre o valor da remuneração dos Juízes do Tribunal   Marítimo."
+    },
+    {
+      "senadoId": "549427",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-12-7551",
+      "titulo": "Lei nº 7.551 de 12/12/1986",
+      "data": "1986-12-12",
+      "numero": "7551",
+      "urn": "urn:lex:br:federal:lei:1986-12-12;7551",
+      "ementa": "Revoga o Decreto-Lei nº 1.541, de 14 de abril de 1977 (Lei das Sublegendas)."
+    },
+    {
+      "senadoId": "549426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-11-7550",
+      "titulo": "Lei nº 7.550 de 11/12/1986",
+      "data": "1986-12-11",
+      "numero": "7550",
+      "urn": "urn:lex:br:federal:lei:1986-12-11;7550",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Aeronáutica o crédito especial, até o limite de Cz$ 1.050.000,00 (um milhão e cinquenta mil cruzados), para o fim que especifica."
+    },
+    {
+      "senadoId": "549425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-11-7549",
+      "titulo": "Lei nº 7.549 de 11/12/1986",
+      "data": "1986-12-11",
+      "numero": "7549",
+      "urn": "urn:lex:br:federal:lei:1986-12-11;7549",
+      "ementa": "Dispõe sobre o ensino no Ministério da Aeronáutica."
+    },
+    {
+      "senadoId": "549424",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-05-7548",
+      "titulo": "Lei nº 7.548 de 05/12/1986",
+      "data": "1986-12-05",
+      "numero": "7548",
+      "urn": "urn:lex:br:federal:lei:1986-12-05;7548",
+      "ementa": "Dispõe sobre a aplicação do dispositivo no Decreto-Lei nº 2.251, de 26 de   fevereiro de 1985, aos servidores policiais dos Territórios   Federais."
+    },
+    {
+      "senadoId": "549421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-03-7545",
+      "titulo": "Lei nº 7.545 de 03/12/1986",
+      "data": "1986-12-03",
+      "numero": "7545",
+      "urn": "urn:lex:br:federal:lei:1986-12-03;7545",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos para o triênio 1987/1989."
+    },
+    {
+      "senadoId": "549423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-03-7547",
+      "titulo": "Lei nº 7.547 de 03/12/1986",
+      "data": "1986-12-03",
+      "numero": "7547",
+      "urn": "urn:lex:br:federal:lei:1986-12-03;7547",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos do Distrito Federal para o   triênio 1987/1989."
+    },
+    {
+      "senadoId": "549420",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-03-7544",
+      "titulo": "Lei nº 7.544 de 03/12/1986",
+      "data": "1986-12-03",
+      "numero": "7544",
+      "urn": "urn:lex:br:federal:lei:1986-12-03;7544",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1987."
+    },
+    {
+      "senadoId": "549422",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-12-03-7546",
+      "titulo": "Lei nº 7.546 de 03/12/1986",
+      "data": "1986-12-03",
+      "numero": "7546",
+      "urn": "urn:lex:br:federal:lei:1986-12-03;7546",
+      "ementa": "Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício   Financeiro de 1987."
+    },
+    {
+      "senadoId": "549419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-10-02-7543",
+      "titulo": "Lei nº 7.543 de 02/10/1986",
+      "data": "1986-10-02",
+      "numero": "7543",
+      "urn": "urn:lex:br:federal:lei:1986-10-02;7543",
+      "ementa": "Altera a redação do parágrafo 3º do Art. 543 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, estendendo a estabilidade ao emprego associado investido em cargo de direção de Associação Profissional."
+    },
+    {
+      "senadoId": "549416",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-26-7540",
+      "titulo": "Lei nº 7.540 de 26/09/1986",
+      "data": "1986-09-26",
+      "numero": "7540",
+      "urn": "urn:lex:br:federal:lei:1986-09-26;7540",
+      "ementa": "Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades   de Apoio Judiciário do Quadro Permanente das Secretarias das Seções Judiciárias   da Justiça Federal de Primeira Instância, e dá outras   providências."
+    },
+    {
+      "senadoId": "549417",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-26-7541",
+      "titulo": "Lei nº 7.541 de 26/09/1986",
+      "data": "1986-09-26",
+      "numero": "7541",
+      "urn": "urn:lex:br:federal:lei:1986-09-26;7541",
+      "ementa": "Reajusta a pensão especial concedida pela Lei nº 4.093, de 14 de julho de   1962, à Sra. Geni Silva Vivacqua, viúva do ex-Senador Attílio   Vivacqua."
+    },
+    {
+      "senadoId": "549415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-26-7539",
+      "titulo": "Lei nº 7.539 de 26/09/1986",
+      "data": "1986-09-26",
+      "numero": "7539",
+      "urn": "urn:lex:br:federal:lei:1986-09-26;7539",
+      "ementa": "Dispõe sobre a estrutura de Categorias Funcionais do Grupo-Atividades de   Apoio Judiciário do Quadro Permanente das Secretarias das Seções Judiciárias da   Justiça Federal de Primeira Instância, e dá outras providências."
+    },
+    {
+      "senadoId": "549418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-26-7542",
+      "titulo": "Lei nº 7.542 de 26/09/1986",
+      "data": "1986-09-26",
+      "numero": "7542",
+      "urn": "urn:lex:br:federal:lei:1986-09-26;7542",
+      "ementa": "Dispõe sobre a pesquisa, exploração, remoção e demolição de coisas ou bens afundados, submersos, encalhados e perdidos em águas sob jurisdição nacional, em terreno de marinha e seus acrescidos e em terrenos marginais, em decorrência de sinistro, alijamento ou fortuna do mar, e dá outras providências."
+    },
+    {
+      "senadoId": "549414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-24-7538",
+      "titulo": "Lei nº 7.538 de 24/09/1986",
+      "data": "1986-09-24",
+      "numero": "7538",
+      "urn": "urn:lex:br:federal:lei:1986-09-24;7538",
+      "ementa": "Suspende a execução de setença em ações de despejo e dá outras providências."
+    },
+    {
+      "senadoId": "549413",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-16-7537",
+      "titulo": "Lei nº 7.537 de 16/09/1986",
+      "data": "1986-09-16",
+      "numero": "7537",
+      "urn": "urn:lex:br:federal:lei:1986-09-16;7537",
+      "ementa": "Considera Patrimônio Histórico Nacional a cidade de Cametá, no Estado do   Pará."
+    },
+    {
+      "senadoId": "549412",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-15-7536",
+      "titulo": "Lei nº 7.536 de 15/09/1986",
+      "data": "1986-09-15",
+      "numero": "7536",
+      "urn": "urn:lex:br:federal:lei:1986-09-15;7536",
+      "ementa": "Aplica ao Procurador-Geral da República e ao Consultor-Geral da República as disposições da Lei nº 7.374, de 30 de setembro de 1985."
+    },
+    {
+      "senadoId": "549411",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-09-7535",
+      "titulo": "Lei nº 7.535 de 09/09/1986",
+      "data": "1986-09-09",
+      "numero": "7535",
+      "urn": "urn:lex:br:federal:lei:1986-09-09;7535",
+      "ementa": "Cria cargos no Quadro Permanente de Pessoal da Secretaria do Tribunal   Regional do Trabalho da 13º Região, a que se refere a Lei nº 7.324, de 18 de   junho de 1985, e dá outras providências."
+    },
+    {
+      "senadoId": "549410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-02-7534",
+      "titulo": "Lei nº 7.534 de 02/09/1986",
+      "data": "1986-09-02",
+      "numero": "7534",
+      "urn": "urn:lex:br:federal:lei:1986-09-02;7534",
+      "ementa": "Denomina \"Aeroporto Internacional Tancredo Neves\" o Aeroporto   Internacional de Confins, em Confins, no município de Lagoa Santa, Estado de   Minas Gerais."
+    },
+    {
+      "senadoId": "549409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-02-7533",
+      "titulo": "Lei nº 7.533 de 02/09/1986",
+      "data": "1986-09-02",
+      "numero": "7533",
+      "urn": "urn:lex:br:federal:lei:1986-09-02;7533",
+      "ementa": "Autoriza o Governo do Distrito Federal a constituir uma Fundação com a   finalidade de amparar o trabalhador preso, e dá outras   providências."
+    },
+    {
+      "senadoId": "549408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-09-01-7532",
+      "titulo": "Lei nº 7.532 de 01/09/1986",
+      "data": "1986-09-01",
+      "numero": "7532",
+      "urn": "urn:lex:br:federal:lei:1986-09-01;7532",
+      "ementa": "Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a   vender o imóvel urbano que menciona, de sua propriedade."
+    },
+    {
+      "senadoId": "549406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-08-29-7530",
+      "titulo": "Lei nº 7.530 de 29/08/1986",
+      "data": "1986-08-29",
+      "numero": "7530",
+      "urn": "urn:lex:br:federal:lei:1986-08-29;7530",
+      "ementa": "Autoriza o Poder Executivo a instituir a Fundação Universidade Federal do   Amapá."
+    },
+    {
+      "senadoId": "549407",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-08-29-7531",
+      "titulo": "Lei nº 7.531 de 29/08/1986",
+      "data": "1986-08-29",
+      "numero": "7531",
+      "urn": "urn:lex:br:federal:lei:1986-08-29;7531",
+      "ementa": "Altera o valor do vencimento de cargos que especifica, e dá outras   providências."
+    },
+    {
+      "senadoId": "549404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-08-26-7528",
+      "titulo": "Lei nº 7.528 de 26/08/1986",
+      "data": "1986-08-26",
+      "numero": "7528",
+      "urn": "urn:lex:br:federal:lei:1986-08-26;7528",
+      "ementa": "Altera dispositivos da Lei nº 6.333, de 18 de maio de 1976, que dispõe   sobre a Organização Básica do Corpo de Bombeiros do Distrito Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "549405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-08-26-7529",
+      "titulo": "Lei nº 7.529 de 26/08/1986",
+      "data": "1986-08-26",
+      "numero": "7529",
+      "urn": "urn:lex:br:federal:lei:1986-08-26;7529",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Justiça o crédito especial até o limite de CZ$ 47.558.000,00 (Quarenta e sete milhões, quinhentos e cinqüenta e oito mil cruzados), para o fim que especifica."
+    },
+    {
+      "senadoId": "549403",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-08-18-7527",
+      "titulo": "Lei nº 7.527 de 18/08/1986",
+      "data": "1986-08-18",
+      "numero": "7527",
+      "urn": "urn:lex:br:federal:lei:1986-08-18;7527",
+      "ementa": "Dispõe sobre a criação de cargos nos Ofícios Judiciais da Justiça do   Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "549402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-22-7526",
+      "titulo": "Lei nº 7.526 de 22/07/1986",
+      "data": "1986-07-22",
+      "numero": "7526",
+      "urn": "urn:lex:br:federal:lei:1986-07-22;7526",
+      "ementa": "Torna insubsistente a nulidade de atos praticados sem a apresentação dos   Certificados de Regularidade de Situação e de Quitação com a Previdência   Social."
+    },
+    {
+      "senadoId": "549401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-22-7525",
+      "titulo": "Lei nº 7.525 de 22/07/1986",
+      "data": "1986-07-22",
+      "numero": "7525",
+      "urn": "urn:lex:br:federal:lei:1986-07-22;7525",
+      "ementa": "Estabelece normas complementares para a execução do disposto no art. 27 da Lei nº 2.004, de 3 de outubro de 1953, com a redação da Lei nº 7.453, de 27 de dezembro de 1985, e dá outras providências."
+    },
+    {
+      "senadoId": "549400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-17-7524",
+      "titulo": "Lei nº 7.524 de 17/07/1986",
+      "data": "1986-07-17",
+      "numero": "7524",
+      "urn": "urn:lex:br:federal:lei:1986-07-17;7524",
+      "ementa": "Dispõe sobre a manifestação, por militar inativo, de pensamento e opinião   políticos ou filosóficos."
+    },
+    {
+      "senadoId": "549398",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-17-7522",
+      "titulo": "Lei nº 7.522 de 17/07/1986",
+      "data": "1986-07-17",
+      "numero": "7522",
+      "urn": "urn:lex:br:federal:lei:1986-07-17;7522",
+      "ementa": "Cria Juntas de Conciliação e Julgamento no Estado de Rondônia, e dá outras providências."
+    },
+    {
+      "senadoId": "549399",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-17-7523",
+      "titulo": "Lei nº 7.523 de 17/07/1986",
+      "data": "1986-07-17",
+      "numero": "7523",
+      "urn": "urn:lex:br:federal:lei:1986-07-17;7523",
+      "ementa": "Cria a 14º Região da Justiça do Trabalho e o respectivo Tribunal Regional do Trabalho, institui a correspondente Procuradoria Regional do Ministério Público da União junto à Justiça do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "549396",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-15-7520",
+      "titulo": "Lei nº 7.520 de 15/07/1986",
+      "data": "1986-07-15",
+      "numero": "7520",
+      "urn": "urn:lex:br:federal:lei:1986-07-15;7520",
+      "ementa": "Cria a 15º Região da Justiça do Trabalho, institui a correspondente Procuradoria Regional do Ministério Público da União junto à Justiça do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "549397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-15-7521",
+      "titulo": "Lei nº 7.521 de 15/07/1986",
+      "data": "1986-07-15",
+      "numero": "7521",
+      "urn": "urn:lex:br:federal:lei:1986-07-15;7521",
+      "ementa": "Autoriza o Poder Executivo a criar, em Campinas, Estado de São Paulo uma Vara de Justiça Federal."
+    },
+    {
+      "senadoId": "549395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-14-7519",
+      "titulo": "Lei nº 7.519 de 14/07/1986",
+      "data": "1986-07-14",
+      "numero": "7519",
+      "urn": "urn:lex:br:federal:lei:1986-07-14;7519",
+      "ementa": "Dispõe, no âmbito do Distrito Federal, sobre microempresa, isenções do   Imposto sobre a Circulação de Mercadorias e do Imposto sobre Serviços de   Qualquer Natureza, e dá outras providências."
+    },
+    {
+      "senadoId": "549393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-14-7517",
+      "titulo": "Lei nº 7.517 de 14/07/1986",
+      "data": "1986-07-14",
+      "numero": "7517",
+      "urn": "urn:lex:br:federal:lei:1986-07-14;7517",
+      "ementa": "Cria cargos na Justiça do Trabalho."
+    },
+    {
+      "senadoId": "549394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-14-7518",
+      "titulo": "Lei nº 7.518 de 14/07/1986",
+      "data": "1986-07-14",
+      "numero": "7518",
+      "urn": "urn:lex:br:federal:lei:1986-07-14;7518",
+      "ementa": "Autoriza o Poder Executivo a criar a Escola Técnica Federal do Território   Federal de Roraima."
+    },
+    {
+      "senadoId": "549392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-11-7516",
+      "titulo": "Lei nº 7.516 de 11/07/1986",
+      "data": "1986-07-11",
+      "numero": "7516",
+      "urn": "urn:lex:br:federal:lei:1986-07-11;7516",
+      "ementa": "Revoga o Decreto-Lei n° 251, de 28 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "549391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-10-7515",
+      "titulo": "Lei nº 7.515 de 10/07/1986",
+      "data": "1986-07-10",
+      "numero": "7515",
+      "urn": "urn:lex:br:federal:lei:1986-07-10;7515",
+      "ementa": "Estabelece prazo para prescrição do direito de ação contra atos relativos   a concursos para provimento de cargos e empregos na Administração Direta do   Distrito Federal e nas suas Autarquias."
+    },
+    {
+      "senadoId": "549390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-09-7514",
+      "titulo": "Lei nº 7.514 de 09/07/1986",
+      "data": "1986-07-09",
+      "numero": "7514",
+      "urn": "urn:lex:br:federal:lei:1986-07-09;7514",
+      "ementa": "Assegura aos partidos políticos e candidatos o direito de usar os números   a eles atribuídos na eleição anterior e dá outras providências."
+    },
+    {
+      "senadoId": "549389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-09-7513",
+      "titulo": "Lei nº 7.513 de 09/07/1986",
+      "data": "1986-07-09",
+      "numero": "7513",
+      "urn": "urn:lex:br:federal:lei:1986-07-09;7513",
+      "ementa": "Modifica o art. 649 da Lei nº 5.869, de 11 de janeiro de 1973, acrescentando dispositivo que torna impenhorável o imóvel rural até um módulo."
+    },
+    {
+      "senadoId": "549388",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-07-7512",
+      "titulo": "Lei nº 7.512 de 07/07/1986",
+      "data": "1986-07-07",
+      "numero": "7512",
+      "urn": "urn:lex:br:federal:lei:1986-07-07;7512",
+      "ementa": "Institui o Programa Nacional do Milho - PROMILHO e determina outras   providências."
+    },
+    {
+      "senadoId": "549387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-07-7511",
+      "titulo": "Lei nº 7.511 de 07/07/1986",
+      "data": "1986-07-07",
+      "numero": "7511",
+      "urn": "urn:lex:br:federal:lei:1986-07-07;7511",
+      "ementa": "Altera dispositivos da Lei nº 4.771, de 15 de setembro de 1965, que institui o novo Código Florestal."
+    },
+    {
+      "senadoId": "549385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-04-7509",
+      "titulo": "Lei nº 7.509 de 04/07/1986",
+      "data": "1986-07-04",
+      "numero": "7509",
+      "urn": "urn:lex:br:federal:lei:1986-07-04;7509",
+      "ementa": "Disciplina o Transporte de madeira em toros, por via   fluvial."
+    },
+    {
+      "senadoId": "549386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-04-7510",
+      "titulo": "Lei nº 7.510 de 04/07/1986",
+      "data": "1986-07-04",
+      "numero": "7510",
+      "urn": "urn:lex:br:federal:lei:1986-07-04;7510",
+      "ementa": "Dá nova redação a dispositivos da Lei nº 1.060, de 5 de fevereiro de 1950, com as alterações posteriores, que estabelece normas para a concessão de assistência judiciária aos necessitados."
+    },
+    {
+      "senadoId": "549384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-04-7508",
+      "titulo": "Lei nº 7.508 de 04/07/1986",
+      "data": "1986-07-04",
+      "numero": "7508",
+      "urn": "urn:lex:br:federal:lei:1986-07-04;7508",
+      "ementa": "Institui normas para a propaganda eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "549382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-03-7506",
+      "titulo": "Lei nº 7.506 de 03/07/1986",
+      "data": "1986-07-03",
+      "numero": "7506",
+      "urn": "urn:lex:br:federal:lei:1986-07-03;7506",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério das Minas e Energia o   crédito especial até o limite de Cz$ 16.608.000.000,00 (dezesseis bilhões,   seiscentos e oito milhões de cruzeiros), para o fim que especifica"
+    },
+    {
+      "senadoId": "549383",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-03-7507",
+      "titulo": "Lei nº 7.507 de 03/07/1986",
+      "data": "1986-07-03",
+      "numero": "7507",
+      "urn": "urn:lex:br:federal:lei:1986-07-03;7507",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação o crédito   especial até o limite de Cz$ 40.777.106,00 (Quarenta milhões, setecentos e   setenta e sete mil, cento e seis cruzados), para o fim que   especifica."
+    },
+    {
+      "senadoId": "549381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-02-7505",
+      "titulo": "Lei nº 7.505 de 02/07/1986",
+      "data": "1986-07-02",
+      "numero": "7505",
+      "urn": "urn:lex:br:federal:lei:1986-07-02;7505",
+      "ementa": "Dispõe sobre benefícios fiscais na área do imposto de renda concedidos a   operações de caráter cultural ou artístico."
+    },
+    {
+      "senadoId": "549379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-02-7503",
+      "titulo": "Lei nº 7.503 de 02/07/1986",
+      "data": "1986-07-02",
+      "numero": "7503",
+      "urn": "urn:lex:br:federal:lei:1986-07-02;7503",
+      "ementa": "Altera dispositivos da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe   sobre o Estatuto dos Militares."
+    },
+    {
+      "senadoId": "549380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-02-7504",
+      "titulo": "Lei nº 7.504 de 02/07/1986",
+      "data": "1986-07-02",
+      "numero": "7504",
+      "urn": "urn:lex:br:federal:lei:1986-07-02;7504",
+      "ementa": "Dá nova redação ao art 3º da Lei nº 4.084, de 30 de junho de 1962, que dispõe sobre a profissão de Bibliotecário, e dá outras providências."
+    },
+    {
+      "senadoId": "549378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-07-02-7502",
+      "titulo": "Lei nº 7.502 de 02/07/1986",
+      "data": "1986-07-02",
+      "numero": "7502",
+      "urn": "urn:lex:br:federal:lei:1986-07-02;7502",
+      "ementa": "Autoriza o Poder Executivo a instituir Programa de Apoio à Produção   Nacional do Leite e dá outras providências."
+    },
+    {
+      "senadoId": "549377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-27-7501",
+      "titulo": "Lei nº 7.501 de 27/06/1986",
+      "data": "1986-06-27",
+      "numero": "7501",
+      "urn": "urn:lex:br:federal:lei:1986-06-27;7501",
+      "ementa": "Institui o regime jurídico dos funcionários do Serviço Exterior e dá outras providências."
+    },
+    {
+      "senadoId": "549376",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-25-7500",
+      "titulo": "Lei nº 7.500 de 25/06/1986",
+      "data": "1986-06-25",
+      "numero": "7500",
+      "urn": "urn:lex:br:federal:lei:1986-06-25;7500",
+      "ementa": "Altera o art 5º da Lei nº 7.416, de 10 de dezembro de 1985, que concede   isenção do Imposto sobre Produtos Industrializados - IPI na aquisição de   automóveis de passageiros e dá outras providências."
+    },
+    {
+      "senadoId": "549374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-25-7498",
+      "titulo": "Lei nº 7.498 de 25/06/1986",
+      "data": "1986-06-25",
+      "numero": "7498",
+      "urn": "urn:lex:br:federal:lei:1986-06-25;7498",
+      "ementa": "Dispõe sobre a regulamentação do exercício da enfermagem e dá outras providências."
+    },
+    {
+      "senadoId": "549375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-25-7499",
+      "titulo": "Lei nº 7.499 de 25/06/1986",
+      "data": "1986-06-25",
+      "numero": "7499",
+      "urn": "urn:lex:br:federal:lei:1986-06-25;7499",
+      "ementa": "Aprova as diretrizes do Primeiro Plano de Desenvolvimento do Nordeste da   Nova República."
+    },
+    {
+      "senadoId": "549373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-24-7497",
+      "titulo": "Lei nº 7.497 de 24/06/1986",
+      "data": "1986-06-24",
+      "numero": "7497",
+      "urn": "urn:lex:br:federal:lei:1986-06-24;7497",
+      "ementa": "Fixa os valores de retribuição da Categoria Funcional de Biomédico e dá   outras providências."
+    },
+    {
+      "senadoId": "549372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-23-7496",
+      "titulo": "Lei nº 7.496 de 23/06/1986",
+      "data": "1986-06-23",
+      "numero": "7496",
+      "urn": "urn:lex:br:federal:lei:1986-06-23;7496",
+      "ementa": "Fixa os efetivos do Corpo de Bombeiros do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "549371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-20-7495",
+      "titulo": "Lei nº 7.495 de 20/06/1986",
+      "data": "1986-06-20",
+      "numero": "7495",
+      "urn": "urn:lex:br:federal:lei:1986-06-20;7495",
+      "ementa": "Autoriza a reversão ao Município de Porto Lucena, Estado do Rio Grande do   Sul, do Imóvel que menciona."
+    },
+    {
+      "senadoId": "549370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-17-7494",
+      "titulo": "Lei nº 7.494 de 17/06/1986",
+      "data": "1986-06-17",
+      "numero": "7494",
+      "urn": "urn:lex:br:federal:lei:1986-06-17;7494",
+      "ementa": "Dispõe sobre a competência da Justiça do Trabalho para conciliar e julgar dissídios oriundos das relações de trabalho entre trabalhadores avulsos e seus tomadores de serviços."
+    },
+    {
+      "senadoId": "549369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-17-7493",
+      "titulo": "Lei nº 7.493 de 17/06/1986",
+      "data": "1986-06-17",
+      "numero": "7493",
+      "urn": "urn:lex:br:federal:lei:1986-06-17;7493",
+      "ementa": "Estabele normas para a realização de eleições em 1986 e dá outras providências."
+    },
+    {
+      "senadoId": "549368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-16-7492",
+      "titulo": "Lei nº 7.492 de 16/06/1986",
+      "data": "1986-06-16",
+      "numero": "7492",
+      "urn": "urn:lex:br:federal:lei:1986-06-16;7492",
+      "ementa": "Define os crimes contra o sistema financeiro nacional e dá outras providências."
+    },
+    {
+      "senadoId": "549367",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-13-7491",
+      "titulo": "Lei nº 7.491 de 13/06/1986",
+      "data": "1986-06-13",
+      "numero": "7491",
+      "urn": "urn:lex:br:federal:lei:1986-06-13;7491",
+      "ementa": "Fixa o efetivo da Polícia Militar do Distrito Federal, altera dispositivo da Lei nº 6.450, de 14 de outubro de 1977, e dá outras providências."
+    },
+    {
+      "senadoId": "549366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-12-7490",
+      "titulo": "Lei nº 7.490 de 12/06/1986",
+      "data": "1986-06-12",
+      "numero": "7490",
+      "urn": "urn:lex:br:federal:lei:1986-06-12;7490",
+      "ementa": "Proclama o Tenente-Brigadeiro-do-Ar Nelson Freire Lavenére-Wanderley   patrono do Correio Aéreo Nacional."
+    },
+    {
+      "senadoId": "549364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-11-7488",
+      "titulo": "Lei nº 7.488 de 11/06/1986",
+      "data": "1986-06-11",
+      "numero": "7488",
+      "urn": "urn:lex:br:federal:lei:1986-06-11;7488",
+      "ementa": "Institui o \"Dia Nacional de Combate ao Fumo\"."
+    },
+    {
+      "senadoId": "549365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-11-7489",
+      "titulo": "Lei nº 7.489 de 11/06/1986",
+      "data": "1986-06-11",
+      "numero": "7489",
+      "urn": "urn:lex:br:federal:lei:1986-06-11;7489",
+      "ementa": "Erige em monumento nacional a Cidade de São Cristóvão, no Estado de   Sergipe."
+    },
+    {
+      "senadoId": "549363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-10-7487",
+      "titulo": "Lei nº 7.487 de 10/06/1986",
+      "data": "1986-06-10",
+      "numero": "7487",
+      "urn": "urn:lex:br:federal:lei:1986-06-10;7487",
+      "ementa": "Dá nova redação ao art. 14 do Decreto-Lei nº 538, de 7 de julho de 1938, que organiza o Conselho Nacional do Petróleo, define suas atribuiições e dá outras providências."
+    },
+    {
+      "senadoId": "549360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-06-7484",
+      "titulo": "Lei nº 7.484 de 06/06/1986",
+      "data": "1986-06-06",
+      "numero": "7484",
+      "urn": "urn:lex:br:federal:lei:1986-06-06;7484",
+      "ementa": "Autoriza o Instituto do Açúcar e do Álcool - IAA a alienar bens de sua   propriedade, localizados nos Estados de Minas Gerais, São Paulo, Bahia, Alagoas,   Pernambuco e Paraíba, e dá outras providências."
+    },
+    {
+      "senadoId": "549361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-06-7485",
+      "titulo": "Lei nº 7.485 de 06/06/1986",
+      "data": "1986-06-06",
+      "numero": "7485",
+      "urn": "urn:lex:br:federal:lei:1986-06-06;7485",
+      "ementa": "Isenta de contribuição o aposentado e pensionista do Sistema Nacional de   Previdência e Assistência Social - SINPAS."
+    },
+    {
+      "senadoId": "549362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-06-7486",
+      "titulo": "Lei nº 7.486 de 06/06/1986",
+      "data": "1986-06-06",
+      "numero": "7486",
+      "urn": "urn:lex:br:federal:lei:1986-06-06;7486",
+      "ementa": "Aprova as diretrizes do Primeiro Plano Nacional de Desenvolvimento (PND)   da Nova República, para o período de 1986 a 1989, e dá outras   providências."
+    },
+    {
+      "senadoId": "549357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-04-7481",
+      "titulo": "Lei nº 7.481 de 04/06/1986",
+      "data": "1986-06-04",
+      "numero": "7481",
+      "urn": "urn:lex:br:federal:lei:1986-06-04;7481",
+      "ementa": "Reajusta a pensão especial mensal concedida à Jandira Carvalho de Oliveira   Café, viúva do ex-Presidente da República João Café Filho."
+    },
+    {
+      "senadoId": "549359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-04-7483",
+      "titulo": "Lei nº 7.483 de 04/06/1986",
+      "data": "1986-06-04",
+      "numero": "7483",
+      "urn": "urn:lex:br:federal:lei:1986-06-04;7483",
+      "ementa": "Estende aos servidores da Justiça do Trabalho as disposições do art. 3º, e seu parágrafo único, da Lei nº 7.299, de 14 de março de 1985."
+    },
+    {
+      "senadoId": "549358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-04-7482",
+      "titulo": "Lei nº 7.482 de 04/06/1986",
+      "data": "1986-06-04",
+      "numero": "7482",
+      "urn": "urn:lex:br:federal:lei:1986-06-04;7482",
+      "ementa": "Dispõe sobre o resgate de quotas dos Fundos Fiscais, criados pelo Decreto-lei nº 157, de 10 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "549356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-04-7480",
+      "titulo": "Lei nº 7.480 de 04/06/1986",
+      "data": "1986-06-04",
+      "numero": "7480",
+      "urn": "urn:lex:br:federal:lei:1986-06-04;7480",
+      "ementa": "Autoriza o Distrito Federal a abrir crédito especial de Cr$ 35.291.000,00 e altera o orçamento para o exercício de 1986."
+    },
+    {
+      "senadoId": "549354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-02-7478",
+      "titulo": "Lei nº 7.478 de 02/06/1986",
+      "data": "1986-06-02",
+      "numero": "7478",
+      "urn": "urn:lex:br:federal:lei:1986-06-02;7478",
+      "ementa": "Dispõe sobre a transmissão do programa oficial referido na alínea \"e\" do   art. 38 da Lei nº 4.117, de 27 de agosto de 1962 - Código Brasileiro de   Telecomunicações."
+    },
+    {
+      "senadoId": "549355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-06-02-7479",
+      "titulo": "Lei nº 7.479 de 02/06/1986",
+      "data": "1986-06-02",
+      "numero": "7479",
+      "urn": "urn:lex:br:federal:lei:1986-06-02;7479",
+      "ementa": "Aprova o Estatuto dos Bombeiros-Militares do Corpo de Bombeiros do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-05-19-7477",
+      "titulo": "Lei nº 7.477 de 19/05/1986",
+      "data": "1986-05-19",
+      "numero": "7477",
+      "urn": "urn:lex:br:federal:lei:1986-05-19;7477",
+      "ementa": "Autoriza a permuta dos terrenos que menciona, situados no Município de Foz   do Iguaçu, Estado do Paraná."
+    },
+    {
+      "senadoId": "549352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-05-15-7476",
+      "titulo": "Lei nº 7.476 de 15/05/1986",
+      "data": "1986-05-15",
+      "numero": "7476",
+      "urn": "urn:lex:br:federal:lei:1986-05-15;7476",
+      "ementa": "Dá nova redação ao artigo 242 da Lei n° 4.737, de 15 de julho de 1965, que \"institui o Código Eleitoral.\""
+    },
+    {
+      "senadoId": "549351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-05-13-7475",
+      "titulo": "Lei nº 7.475 de 13/05/1986",
+      "data": "1986-05-13",
+      "numero": "7475",
+      "urn": "urn:lex:br:federal:lei:1986-05-13;7475",
+      "ementa": "Altera a Lei n° 7.289, de 18 de dezembro de 1984, que dispõe sobre o Estatuto dos Policiais-Militares da Polícia Militar do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-05-08-7474",
+      "titulo": "Lei nº 7.474 de 08/05/1986",
+      "data": "1986-05-08",
+      "numero": "7474",
+      "urn": "urn:lex:br:federal:lei:1986-05-08;7474",
+      "ementa": "Dispõe sobre medidas de segurança aos ex-Presidentes da República, e dá outras providências."
+    },
+    {
+      "senadoId": "549349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-05-06-7473",
+      "titulo": "Lei nº 7.473 de 06/05/1986",
+      "data": "1986-05-06",
+      "numero": "7473",
+      "urn": "urn:lex:br:federal:lei:1986-05-06;7473",
+      "ementa": "Autoriza a reversão, ao Estado de Mato Grosso, do terreno que   menciona."
+    },
+    {
+      "senadoId": "549348",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-05-02-7472",
+      "titulo": "Lei nº 7.472 de 02/05/1986",
+      "data": "1986-05-02",
+      "numero": "7472",
+      "urn": "urn:lex:br:federal:lei:1986-05-02;7472",
+      "ementa": "Autoriza a reversão ao Estado de Mato Grosso do Terreno que   menciona."
+    },
+    {
+      "senadoId": "549347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-30-7471",
+      "titulo": "Lei nº 7.471 de 30/04/1986",
+      "data": "1986-04-30",
+      "numero": "7471",
+      "urn": "urn:lex:br:federal:lei:1986-04-30;7471",
+      "ementa": "Cria Juntas de Conciliação e Julgamento nas Regiões da Justiça do Trabalho, define áreas de jurisdição, e dá outras providências."
+    },
+    {
+      "senadoId": "549346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-29-7470",
+      "titulo": "Lei nº 7.470 de 29/04/1986",
+      "data": "1986-04-29",
+      "numero": "7470",
+      "urn": "urn:lex:br:federal:lei:1986-04-29;7470",
+      "ementa": "Outorga ao Presidente Getúlio Vargas o título de \"Patrono dos   Trabalhadores do Brasil\"."
+    },
+    {
+      "senadoId": "549345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-29-7469",
+      "titulo": "Lei nº 7.469 de 29/04/1986",
+      "data": "1986-04-29",
+      "numero": "7469",
+      "urn": "urn:lex:br:federal:lei:1986-04-29;7469",
+      "ementa": "Autoriza a doação, ao Clube dos Previdenciários de Brasília, de terreno do   Instituto de Administração Financeira da Previdência e Assistência Social -   IAPAS."
+    },
+    {
+      "senadoId": "549344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-28-7468",
+      "titulo": "Lei nº 7.468 de 28/04/1986",
+      "data": "1986-04-28",
+      "numero": "7468",
+      "urn": "urn:lex:br:federal:lei:1986-04-28;7468",
+      "ementa": "Dispõe sobre a realização de campanha educativa pelo rádio e televisão   sobre os efeitos nocivos do uso de entorpecentes."
+    },
+    {
+      "senadoId": "549343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-25-7467",
+      "titulo": "Lei nº 7.467 de 25/04/1986",
+      "data": "1986-04-25",
+      "numero": "7467",
+      "urn": "urn:lex:br:federal:lei:1986-04-25;7467",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao subanexo Encargos Gerais da União, o crédito especial de Cr$ 6.000.000,00 (seis milhões de cruzados), para o fim que especifica."
+    },
+    {
+      "senadoId": "549342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-23-7466",
+      "titulo": "Lei nº 7.466 de 23/04/1986",
+      "data": "1986-04-23",
+      "numero": "7466",
+      "urn": "urn:lex:br:federal:lei:1986-04-23;7466",
+      "ementa": "Dispõe sobre a comemoração do feriado de 1º de Maio - Dia do   Trabalho."
+    },
+    {
+      "senadoId": "549341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-21-7465",
+      "titulo": "Lei nº 7.465 de 21/04/1986",
+      "data": "1986-04-21",
+      "numero": "7465",
+      "urn": "urn:lex:br:federal:lei:1986-04-21;7465",
+      "ementa": "Inclui o nome do cidadão Tancredo de Almeida Neves na galeria dos que   foram ungidos pela Nação brasileira para a Suprema Magistratura."
+    },
+    {
+      "senadoId": "549340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-18-7464",
+      "titulo": "Lei nº 7.464 de 18/04/1986",
+      "data": "1986-04-18",
+      "numero": "7464",
+      "urn": "urn:lex:br:federal:lei:1986-04-18;7464",
+      "ementa": "Altera o artigo 1º da Lei n° 5.589, de 3 de julho de 1970, a fim de permitir a autenticação, mediante chancela mecânica, dos documentos firmados pela instituições financeiras."
+    },
+    {
+      "senadoId": "549339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-17-7463",
+      "titulo": "Lei nº 7.463 de 17/04/1986",
+      "data": "1986-04-17",
+      "numero": "7463",
+      "urn": "urn:lex:br:federal:lei:1986-04-17;7463",
+      "ementa": "Dispõe sobre o I Plano Nacional de Informática e Automação - PLANIN."
+    },
+    {
+      "senadoId": "549338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-17-7462",
+      "titulo": "Lei nº 7.462 de 17/04/1986",
+      "data": "1986-04-17",
+      "numero": "7462",
+      "urn": "urn:lex:br:federal:lei:1986-04-17;7462",
+      "ementa": "Autoriza a doação, ao Clube dos Previdenciários de Pernambuco, de terreno   do Instituto de Administração Financeira da Previdência e Assistência Social -   IAPAS."
+    },
+    {
+      "senadoId": "549337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-16-7461",
+      "titulo": "Lei nº 7.461 de 16/04/1986",
+      "data": "1986-04-16",
+      "numero": "7461",
+      "urn": "urn:lex:br:federal:lei:1986-04-16;7461",
+      "ementa": "Reajusta a pensão especial concedida pela Lei nº 4.774, de 15 de setembro   de 1965, a Paulo Soares, e dá outras providências."
+    },
+    {
+      "senadoId": "549336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-15-7460",
+      "titulo": "Lei nº 7.460 de 15/04/1986",
+      "data": "1986-04-15",
+      "numero": "7460",
+      "urn": "urn:lex:br:federal:lei:1986-04-15;7460",
+      "ementa": "Dispõe sobre a estruturação das Categorias Funcionais do Grupo-Atividades   de Apoio Judiciário dos Quadros Permanentes das Secretarias do Superior Tribunal   Militar e das Auditorias da Justiça Militar e dá outras   providências."
+    },
+    {
+      "senadoId": "549335",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-11-7459",
+      "titulo": "Lei nº 7.459 de 11/04/1986",
+      "data": "1986-04-11",
+      "numero": "7459",
+      "urn": "urn:lex:br:federal:lei:1986-04-11;7459",
+      "ementa": "Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades   de Apoio Judiciário do Quadro das Secretarias do Tribunal Federal de Recursos e   do Conselho da Justiça Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-09-7458",
+      "titulo": "Lei nº 7.458 de 09/04/1986",
+      "data": "1986-04-09",
+      "numero": "7458",
+      "urn": "urn:lex:br:federal:lei:1986-04-09;7458",
+      "ementa": "Autoriza o Poder Executivo a instituir a Fundação Universidade das Missões, com sede em Santo Ângelo - RS."
+    },
+    {
+      "senadoId": "549333",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-09-7457",
+      "titulo": "Lei nº 7.457 de 09/04/1986",
+      "data": "1986-04-09",
+      "numero": "7457",
+      "urn": "urn:lex:br:federal:lei:1986-04-09;7457",
+      "ementa": "Altera os arts. 1º, 2º, 3º, 4º, 10, 11 da Lei nº 6.450, de 14 de outubro de 1977, que dispõe sobre a Organização Básica da Polícia Militar do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-04-01-7456",
+      "titulo": "Lei nº 7.456 de 01/04/1986",
+      "data": "1986-04-01",
+      "numero": "7456",
+      "urn": "urn:lex:br:federal:lei:1986-04-01;7456",
+      "ementa": "Cria órgãos na estrutura básica da administração do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549331",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1986-03-31-7455",
+      "titulo": "Lei nº 7.455 de 31/03/1986",
+      "data": "1986-03-31",
+      "numero": "7455",
+      "urn": "urn:lex:br:federal:lei:1986-03-31;7455",
+      "ementa": "Estende aos integrantes da categoria funcional de Agente de Trânsito da   Tabela de Pessoal do Departamento de Trânsito do Distrito Federal, as   gratificações instituídas pelos Decretos-leis n°s 1.727, de 10 de dezembro de 1979   e 2.126, de 19 de junho 1984, alterado pelo Decreto-lei n° 2.239, de 28 de janeiro   de 1985, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

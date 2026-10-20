@@ -1,0 +1,659 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1987",
+  "tipo": "LEI",
+  "ano": 1987,
+  "coletado_em": "2026-10-20T22:57:55.420Z",
+  "normas": [
+    {
+      "senadoId": "549522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-18-7646",
+      "titulo": "Lei nº 7.646 de 18/12/1987",
+      "data": "1987-12-18",
+      "numero": "7646",
+      "urn": "urn:lex:br:federal:lei:1987-12-18;7646",
+      "ementa": "Dispõe quanto à proteção da propriedade intelectual sobre programas de computador e sua comercialização no País e dá outras providências."
+    },
+    {
+      "senadoId": "549518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-18-7642",
+      "titulo": "Lei nº 7.642 de 18/12/1987",
+      "data": "1987-12-18",
+      "numero": "7642",
+      "urn": "urn:lex:br:federal:lei:1987-12-18;7642",
+      "ementa": "Dispõe sobre a Procuradoria Especial da Marinha - PEM, e dá outras   providências."
+    },
+    {
+      "senadoId": "549520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-18-7644",
+      "titulo": "Lei nº 7.644 de 18/12/1987",
+      "data": "1987-12-18",
+      "numero": "7644",
+      "urn": "urn:lex:br:federal:lei:1987-12-18;7644",
+      "ementa": "Dispõe sobre a regulamentação da atividade de mãe social, e dá outras providências."
+    },
+    {
+      "senadoId": "549519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-18-7643",
+      "titulo": "Lei nº 7.643 de 18/12/1987",
+      "data": "1987-12-18",
+      "numero": "7643",
+      "urn": "urn:lex:br:federal:lei:1987-12-18;7643",
+      "ementa": "Proíbe a pesca de cetáceo nas águas jurisdicionais brasileiras, e dá   outras providências."
+    },
+    {
+      "senadoId": "549521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-18-7645",
+      "titulo": "Lei nº 7.645 de 18/12/1987",
+      "data": "1987-12-18",
+      "numero": "7645",
+      "urn": "urn:lex:br:federal:lei:1987-12-18;7645",
+      "ementa": "Dispõe sobre a criação e extinção de cargos nos Quadros Permanentes das   Secretarias do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais,   e dá outras providências."
+    },
+    {
+      "senadoId": "549513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-17-7637",
+      "titulo": "Lei nº 7.637 de 17/12/1987",
+      "data": "1987-12-17",
+      "numero": "7637",
+      "urn": "urn:lex:br:federal:lei:1987-12-17;7637",
+      "ementa": "Dispõe sobre a liquidação de débitos previdenciários de entidades   esportivas e recreativas."
+    },
+    {
+      "senadoId": "549512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-17-7636",
+      "titulo": "Lei nº 7.636 de 17/12/1987",
+      "data": "1987-12-17",
+      "numero": "7636",
+      "urn": "urn:lex:br:federal:lei:1987-12-17;7636",
+      "ementa": "Dispõe sobre a liquidação de débitos previdenciários de sindicatos e dá   outras providências."
+    },
+    {
+      "senadoId": "549514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-17-7638",
+      "titulo": "Lei nº 7.638 de 17/12/1987",
+      "data": "1987-12-17",
+      "numero": "7638",
+      "urn": "urn:lex:br:federal:lei:1987-12-17;7638",
+      "ementa": "Cria cargos na Procuradoria Regional do Trabalho da 15ª Região, em   Campinas, São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "549517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-17-7641",
+      "titulo": "Lei nº 7.641 de 17/12/1987",
+      "data": "1987-12-17",
+      "numero": "7641",
+      "urn": "urn:lex:br:federal:lei:1987-12-17;7641",
+      "ementa": "Introduz alterações no Código Tributário do Distrito Federal, instituido pelo Decreto-lei nº 82, de 26 de dezembro de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "549515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-17-7639",
+      "titulo": "Lei nº 7.639 de 17/12/1987",
+      "data": "1987-12-17",
+      "numero": "7639",
+      "urn": "urn:lex:br:federal:lei:1987-12-17;7639",
+      "ementa": "Autoriza a criação de municípios no Território Federal do Amapá, e dá outras providências."
+    },
+    {
+      "senadoId": "549516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-17-7640",
+      "titulo": "Lei nº 7.640 de 17/12/1987",
+      "data": "1987-12-17",
+      "numero": "7640",
+      "urn": "urn:lex:br:federal:lei:1987-12-17;7640",
+      "ementa": "Altera a base de Cálculo de Taxa de Limpeza Pública, instituída pela Lei   nº 6.945, de 14 de setembro de 1981."
+    },
+    {
+      "senadoId": "549511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-14-7635",
+      "titulo": "Lei nº 7.635 de 14/12/1987",
+      "data": "1987-12-14",
+      "numero": "7635",
+      "urn": "urn:lex:br:federal:lei:1987-12-14;7635",
+      "ementa": "Regulamenta a transferência de recursos do Imposto sobre Transportes - IST, e dá outras providências."
+    },
+    {
+      "senadoId": "549510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-03-7634",
+      "titulo": "Lei nº 7.634 de 03/12/1987",
+      "data": "1987-12-03",
+      "numero": "7634",
+      "urn": "urn:lex:br:federal:lei:1987-12-03;7634",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos suplementares até o limite de Cz$ 105.000.000.000,00 (cento e cinco bilhões de cruzados) e dá outras providências."
+    },
+    {
+      "senadoId": "549509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-03-7633",
+      "titulo": "Lei nº 7.633 de 03/12/1987",
+      "data": "1987-12-03",
+      "numero": "7633",
+      "urn": "urn:lex:br:federal:lei:1987-12-03;7633",
+      "ementa": "Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício Financeiro de 1988."
+    },
+    {
+      "senadoId": "549508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-12-03-7632",
+      "titulo": "Lei nº 7.632 de 03/12/1987",
+      "data": "1987-12-03",
+      "numero": "7632",
+      "urn": "urn:lex:br:federal:lei:1987-12-03;7632",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1988."
+    },
+    {
+      "senadoId": "549507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-17-7631",
+      "titulo": "Lei nº 7.631 de 17/11/1987",
+      "data": "1987-11-17",
+      "numero": "7631",
+      "urn": "urn:lex:br:federal:lei:1987-11-17;7631",
+      "ementa": "Dispõe sobre a reestruturação da Justiça Federal de Primeira Instância e   dá outras providências."
+    },
+    {
+      "senadoId": "549506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-13-7630",
+      "titulo": "Lei nº 7.630 de 13/11/1987",
+      "data": "1987-11-13",
+      "numero": "7630",
+      "urn": "urn:lex:br:federal:lei:1987-11-13;7630",
+      "ementa": "Altera o art. 4º da Lei nº 7.562, de 19 de dezembro de 1986, que inclui a   Categoria Funcional de Inspetor de Segurança Judiciária no Grupo-Atividades de   Apoio Judiciário do Quadro Permanente da Secretaria do Tribunal Federal de   Recursos e dá outras providências."
+    },
+    {
+      "senadoId": "549505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-13-7629",
+      "titulo": "Lei nº 7.629 de 13/11/1987",
+      "data": "1987-11-13",
+      "numero": "7629",
+      "urn": "urn:lex:br:federal:lei:1987-11-13;7629",
+      "ementa": "Altera o Decreto-Lei nº 1.370, de 9 de dezembro de 1974, que dispõe sobre a tributação dos rendimentos auferidos por garimpeiros matriculados e dá outras providências."
+    },
+    {
+      "senadoId": "549504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-13-7628",
+      "titulo": "Lei nº 7.628 de 13/11/1987",
+      "data": "1987-11-13",
+      "numero": "7628",
+      "urn": "urn:lex:br:federal:lei:1987-11-13;7628",
+      "ementa": "Dispõe sobre os preços mínimos da uva."
+    },
+    {
+      "senadoId": "549501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-10-7625",
+      "titulo": "Lei nº 7.625 de 10/11/1987",
+      "data": "1987-11-10",
+      "numero": "7625",
+      "urn": "urn:lex:br:federal:lei:1987-11-10;7625",
+      "ementa": "Dispõe sobre o aproveitamento dos servidores da Empresa de Engenharia   e Construção de Obras Especiais S.A. - ECEX no Departamento Nacional de   Estradas de Rodagem - DNER."
+    },
+    {
+      "senadoId": "549502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-10-7626",
+      "titulo": "Lei nº 7.626 de 10/11/1987",
+      "data": "1987-11-10",
+      "numero": "7626",
+      "urn": "urn:lex:br:federal:lei:1987-11-10;7626",
+      "ementa": "Fixa os valores de retribuição da Categoria Funcional de Fonoaudiólogo e   dá outras providências."
+    },
+    {
+      "senadoId": "549503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-10-7627",
+      "titulo": "Lei nº 7.627 de 10/11/1987",
+      "data": "1987-11-10",
+      "numero": "7627",
+      "urn": "urn:lex:br:federal:lei:1987-11-10;7627",
+      "ementa": "Dispõe sobre a eliminação de autos findos nos órgãos da Justiça do   Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "549500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-11-05-7624",
+      "titulo": "Lei nº 7.624 de 05/11/1987",
+      "data": "1987-11-05",
+      "numero": "7624",
+      "urn": "urn:lex:br:federal:lei:1987-11-05;7624",
+      "ementa": "Autoriza a instituição de fundações e dá outras   providências."
+    },
+    {
+      "senadoId": "549497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-10-09-7621",
+      "titulo": "Lei nº 7.621 de 09/10/1987",
+      "data": "1987-10-09",
+      "numero": "7621",
+      "urn": "urn:lex:br:federal:lei:1987-10-09;7621",
+      "ementa": "Dispõe sobre a liquidação de débitos previdenciários de instituições   educacionais e culturais."
+    },
+    {
+      "senadoId": "549499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-10-09-7623",
+      "titulo": "Lei nº 7.623 de 09/10/1987",
+      "data": "1987-10-09",
+      "numero": "7623",
+      "urn": "urn:lex:br:federal:lei:1987-10-09;7623",
+      "ementa": "Fixa os valores de retribuição do Grupo-Atividades de Fiscalização de   Combustíveis e dá outras providências."
+    },
+    {
+      "senadoId": "549498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-10-09-7622",
+      "titulo": "Lei nº 7.622 de 09/10/1987",
+      "data": "1987-10-09",
+      "numero": "7622",
+      "urn": "urn:lex:br:federal:lei:1987-10-09;7622",
+      "ementa": "Reorganiza o Corpo Auxiliar Feminino da Reserva da Marinha - CAFRM."
+    },
+    {
+      "senadoId": "549496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-09-30-7620",
+      "titulo": "Lei nº 7.620 de 30/09/1987",
+      "data": "1987-09-30",
+      "numero": "7620",
+      "urn": "urn:lex:br:federal:lei:1987-09-30;7620",
+      "ementa": "Concede pensão especial a Maria Barbosa da Silva, e dá   outras providências."
+    },
+    {
+      "senadoId": "549494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-09-30-7618",
+      "titulo": "Lei nº 7.618 de 30/09/1987",
+      "data": "1987-09-30",
+      "numero": "7618",
+      "urn": "urn:lex:br:federal:lei:1987-09-30;7618",
+      "ementa": "Acrescenta e altera dispositivos da Lei nº 7.301, de 29 de março de 1985,   que reorganiza os Quadros Complementares de Oficiais da Marinha."
+    },
+    {
+      "senadoId": "549495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-09-30-7619",
+      "titulo": "Lei nº 7.619 de 30/09/1987",
+      "data": "1987-09-30",
+      "numero": "7619",
+      "urn": "urn:lex:br:federal:lei:1987-09-30;7619",
+      "ementa": "Altera dispositivos da Lei nº 7.418, de 16 de dezembro de 1985,   que institui o vale-transporte."
+    },
+    {
+      "senadoId": "549493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-09-08-7617",
+      "titulo": "Lei nº 7.617 de 08/09/1987",
+      "data": "1987-09-08",
+      "numero": "7617",
+      "urn": "urn:lex:br:federal:lei:1987-09-08;7617",
+      "ementa": "Altera a composição do Tribunal Regional do Trabalho da 1ª Região e dá   outras providências."
+    },
+    {
+      "senadoId": "549492",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-09-04-7616",
+      "titulo": "Lei nº 7.616 de 04/09/1987",
+      "data": "1987-09-04",
+      "numero": "7616",
+      "urn": "urn:lex:br:federal:lei:1987-09-04;7616",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos adicionais até o limite de CZ$ 319.562.900.000,00 e dá outras providências."
+    },
+    {
+      "senadoId": "549491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-08-14-7615",
+      "titulo": "Lei nº 7.615 de 14/08/1987",
+      "data": "1987-08-14",
+      "numero": "7615",
+      "urn": "urn:lex:br:federal:lei:1987-08-14;7615",
+      "ementa": "Concede imunidade tributária às instituições que menciona, torna   impenhoráveis os seus bens e dá outras providências."
+    },
+    {
+      "senadoId": "549490",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-07-14-7614",
+      "titulo": "Lei nº 7.614 de 14/07/1987",
+      "data": "1987-07-14",
+      "numero": "7614",
+      "urn": "urn:lex:br:federal:lei:1987-07-14;7614",
+      "ementa": "Autoriza a realização, em caráter extraordinário, de operações de crédito à conta e risco do Tesouro Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "549489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-07-13-7613",
+      "titulo": "Lei nº 7.613 de 13/07/1987",
+      "data": "1987-07-13",
+      "numero": "7613",
+      "urn": "urn:lex:br:federal:lei:1987-07-13;7613",
+      "ementa": "Concede isenção do Imposto sobre Produtos Industrializados - IPI na   aquisição de automóveis de passageiros e dá outras providências."
+    },
+    {
+      "senadoId": "549488",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-07-09-7612",
+      "titulo": "Lei nº 7.612 de 09/07/1987",
+      "data": "1987-07-09",
+      "numero": "7612",
+      "urn": "urn:lex:br:federal:lei:1987-07-09;7612",
+      "ementa": "Dispõe sobre a suspensão dos processos de despejo e dá outras   providências."
+    },
+    {
+      "senadoId": "549487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-07-08-7611",
+      "titulo": "Lei nº 7.611 de 08/07/1987",
+      "data": "1987-07-08",
+      "numero": "7611",
+      "urn": "urn:lex:br:federal:lei:1987-07-08;7611",
+      "ementa": "Altera os arts. 1º, 3º (Vetado) do Decreto-Lei nº 1.940, de 25 de maio de   1982, que institui contribuição social, cria o Fundo de Investimento Social -   FINSOCIAL e dá outras providências."
+    },
+    {
+      "senadoId": "549486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-07-07-7610",
+      "titulo": "Lei nº 7.610 de 07/07/1987",
+      "data": "1987-07-07",
+      "numero": "7610",
+      "urn": "urn:lex:br:federal:lei:1987-07-07;7610",
+      "ementa": "Altera o valor do vencimento do cargo que especifica e dá outras   providências."
+    },
+    {
+      "senadoId": "549485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-07-06-7609",
+      "titulo": "Lei nº 7.609 de 06/07/1987",
+      "data": "1987-07-06",
+      "numero": "7609",
+      "urn": "urn:lex:br:federal:lei:1987-07-06;7609",
+      "ementa": "Acrescenta dispositivo à Lei nº 5.619, de 3 de novembro de 1970, que dispõe   sobre vencimentos, indenizações, proventos e outros direitos da Polícia Militar   do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-06-30-7608",
+      "titulo": "Lei nº 7.608 de 30/06/1987",
+      "data": "1987-06-30",
+      "numero": "7608",
+      "urn": "urn:lex:br:federal:lei:1987-06-30;7608",
+      "ementa": "Dispõe sobre a administração do Território Federal de Fernando de Noronha   e dá outras providências."
+    },
+    {
+      "senadoId": "549483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-28-7607",
+      "titulo": "Lei nº 7.607 de 28/05/1987",
+      "data": "1987-05-28",
+      "numero": "7607",
+      "urn": "urn:lex:br:federal:lei:1987-05-28;7607",
+      "ementa": "Faculta às Comissões Executivas Nacionais dos Partidos Políticos decidir sobre a realização de convenções e dá outras providências."
+    },
+    {
+      "senadoId": "549481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-28-7605",
+      "titulo": "Lei nº 7.605 de 28/05/1987",
+      "data": "1987-05-28",
+      "numero": "7605",
+      "urn": "urn:lex:br:federal:lei:1987-05-28;7605",
+      "ementa": "Dispõe sobre a transferência e movimentação dos servidores da   Administração Federal direta e das autarquias federais."
+    },
+    {
+      "senadoId": "549482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-28-7606",
+      "titulo": "Lei nº 7.606 de 28/05/1987",
+      "data": "1987-05-28",
+      "numero": "7606",
+      "urn": "urn:lex:br:federal:lei:1987-05-28;7606",
+      "ementa": "Autoriza o Poder Executivo a adquirir imóvel, nas condições que   especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "549480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-26-7604",
+      "titulo": "Lei nº 7.604 de 26/05/1987",
+      "data": "1987-05-26",
+      "numero": "7604",
+      "urn": "urn:lex:br:federal:lei:1987-05-26;7604",
+      "ementa": "Dispõe sobre a atualização de benefícios da Previdência Social, e   dá outras providências."
+    },
+    {
+      "senadoId": "549479",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-20-7603",
+      "titulo": "Lei nº 7.603 de 20/05/1987",
+      "data": "1987-05-20",
+      "numero": "7603",
+      "urn": "urn:lex:br:federal:lei:1987-05-20;7603",
+      "ementa": "Dispõe sobre o aproveitamento de funcionários, em cargos da Carreira   Policial Civil do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-19-7602",
+      "titulo": "Lei nº 7.602 de 19/05/1987",
+      "data": "1987-05-19",
+      "numero": "7602",
+      "urn": "urn:lex:br:federal:lei:1987-05-19;7602",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos adicionais até o limite de Cz$ 380.393.034.000,00, e dá outras providências."
+    },
+    {
+      "senadoId": "549477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-15-7601",
+      "titulo": "Lei nº 7.601 de 15/05/1987",
+      "data": "1987-05-15",
+      "numero": "7601",
+      "urn": "urn:lex:br:federal:lei:1987-05-15;7601",
+      "ementa": "Altera a redação do art. 4º da Lei nº 6.932, de 7 de julho de 1981, que   dispõe sobre as atividades do médico residente, e dá outras   providências."
+    },
+    {
+      "senadoId": "549475",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-15-7599",
+      "titulo": "Lei nº 7.599 de 15/05/1987",
+      "data": "1987-05-15",
+      "numero": "7599",
+      "urn": "urn:lex:br:federal:lei:1987-05-15;7599",
+      "ementa": "Altera dispositivo da Lei nº 7.194, de 11 de junho de 1984, que autoriza a   inclusão de recurso da União, e dá outras providências."
+    },
+    {
+      "senadoId": "549476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-15-7600",
+      "titulo": "Lei nº 7.600 de 15/05/1987",
+      "data": "1987-05-15",
+      "numero": "7600",
+      "urn": "urn:lex:br:federal:lei:1987-05-15;7600",
+      "ementa": "Dispõe sobre gratificação a ser concedida a engenheiros agrônomos, e dá   outras providências."
+    },
+    {
+      "senadoId": "549474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-05-11-7598",
+      "titulo": "Lei nº 7.598 de 11/05/1987",
+      "data": "1987-05-11",
+      "numero": "7598",
+      "urn": "urn:lex:br:federal:lei:1987-05-11;7598",
+      "ementa": "Dispõe sobre o reingresso de servidores no Quadro de Pessoal do Distrito   Federal de que trata a Lei nº 5.920, de 19 de setembro de 1973, e dá outras   providências."
+    },
+    {
+      "senadoId": "549473",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-04-14-7597",
+      "titulo": "Lei nº 7.597 de 14/04/1987",
+      "data": "1987-04-14",
+      "numero": "7597",
+      "urn": "urn:lex:br:federal:lei:1987-04-14;7597",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 1.801, de 18 de agosto de 1980, que \"dispõe sobre o Adicional ao Frete para Renovação da Marinha Mercante, bem como sobre o Fundo da Marinha Mercante\"."
+    },
+    {
+      "senadoId": "549472",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-04-10-7596",
+      "titulo": "Lei nº 7.596 de 10/04/1987",
+      "data": "1987-04-10",
+      "numero": "7596",
+      "urn": "urn:lex:br:federal:lei:1987-04-10;7596",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 200, de 25 de fevereiro de 1967, modificado pelo Decreto-Lei nº 900, de 29 de setembro de 1969, e pelo Decreto-Lei nº 2.299, de 21 de novembro de 1986, e dá outras providências."
+    },
+    {
+      "senadoId": "549471",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-04-08-7595",
+      "titulo": "Lei nº 7.595 de 08/04/1987",
+      "data": "1987-04-08",
+      "numero": "7595",
+      "urn": "urn:lex:br:federal:lei:1987-04-08;7595",
+      "ementa": "Dispõe sobre a reestruturação da Justiça Federal de Primeira Instância e dá outras providências."
+    },
+    {
+      "senadoId": "549470",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-04-08-7594",
+      "titulo": "Lei nº 7.594 de 08/04/1987",
+      "data": "1987-04-08",
+      "numero": "7594",
+      "urn": "urn:lex:br:federal:lei:1987-04-08;7594",
+      "ementa": "Altera dispositivo da Lei nº 5.787, de 27 de junho de 1972, que dispõe   sobre a remuneração de militares inativos convocados ou designados para o   serviço ativo ou exercício de cargo ou função nas Forças Armadas."
+    },
+    {
+      "senadoId": "549469",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-04-03-7593",
+      "titulo": "Lei nº 7.593 de 03/04/1987",
+      "data": "1987-04-03",
+      "numero": "7593",
+      "urn": "urn:lex:br:federal:lei:1987-04-03;7593",
+      "ementa": "Altera o Anexo II da Lei nº 7.324, de 18 de junho de 1985, que \"cria a 13ª   Região da Justiça do Trabalho e o respectivo Tribunal Regional do Trabalho,   institui a correspondente Procuradoria Regional do Ministério Público da União   junto à Justiça do Trabalho e dá outras providências\"."
+    },
+    {
+      "senadoId": "549468",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-04-01-7592",
+      "titulo": "Lei nº 7.592 de 01/04/1987",
+      "data": "1987-04-01",
+      "numero": "7592",
+      "urn": "urn:lex:br:federal:lei:1987-04-01;7592",
+      "ementa": "Dispõe sobre a criação de cargos na Categoria Funcional de Técnico de   Controle Externo do Grupo-Atividades de Controle Externo do Quadro Permanente da   Secretaria Geral do Tribunal de Contas da União, e dá outras   providências."
+    },
+    {
+      "senadoId": "549466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-03-29-7590",
+      "titulo": "Lei nº 7.590 de 29/03/1987",
+      "data": "1987-03-29",
+      "numero": "7590",
+      "urn": "urn:lex:br:federal:lei:1987-03-29;7590",
+      "ementa": "Dá nova redação a dispositivo da Lei nº 7.435, de 19 de dezembro de 1985."
+    },
+    {
+      "senadoId": "549467",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-03-29-7591",
+      "titulo": "Lei nº 7.591 de 29/03/1987",
+      "data": "1987-03-29",
+      "numero": "7591",
+      "urn": "urn:lex:br:federal:lei:1987-03-29;7591",
+      "ementa": "Altera os artigos 62, 63 e 64 da Lei nº 5.619, de 3 de novembro de 1970 - que dispõe sobre vencimentos, indenizações, proventos e outros direitos da Polícia Militar do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-03-18-7589",
+      "titulo": "Lei nº 7.589 de 18/03/1987",
+      "data": "1987-03-18",
+      "numero": "7589",
+      "urn": "urn:lex:br:federal:lei:1987-03-18;7589",
+      "ementa": "Aprova a participação acionária da \"Centrais Elétricas de Roraima S.A.\" no capital social do Banco de Roraima S.A."
+    },
+    {
+      "senadoId": "549464",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-12-7588",
+      "titulo": "Lei nº 7.588 de 12/01/1987",
+      "data": "1987-01-12",
+      "numero": "7588",
+      "urn": "urn:lex:br:federal:lei:1987-01-12;7588",
+      "ementa": "Cria cargos, em comissão, de Assessor Legislativo, no Quadro Permanente de   Pessoal da Câmara dos Deputados, e dá outras providências."
+    },
+    {
+      "senadoId": "549463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-08-7587",
+      "titulo": "Lei nº 7.587 de 08/01/1987",
+      "data": "1987-01-08",
+      "numero": "7587",
+      "urn": "urn:lex:br:federal:lei:1987-01-08;7587",
+      "ementa": "Autoriza o Poder Executivo a instituir a \"Fundação Universidade Federal   do Norte de Minas\" e dá outras providências."
+    },
+    {
+      "senadoId": "549462",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-06-7586",
+      "titulo": "Lei nº 7.586 de 06/01/1987",
+      "data": "1987-01-06",
+      "numero": "7586",
+      "urn": "urn:lex:br:federal:lei:1987-01-06;7586",
+      "ementa": "Altera a Lei nº 7.087, de 29 de dezembro de 1982, que dispõe sobre o Instituto de Previdência dos Congressistas - IPC."
+    },
+    {
+      "senadoId": "549458",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-06-7582",
+      "titulo": "Lei nº 7.582 de 06/01/1987",
+      "data": "1987-01-06",
+      "numero": "7582",
+      "urn": "urn:lex:br:federal:lei:1987-01-06;7582",
+      "ementa": "Cria cargos em comissão e de provimento efetivo no Quadro Permanente da   Secretaria do Tribunal Regional do Trabalho da Nona Região e dá outras   providências."
+    },
+    {
+      "senadoId": "549460",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-06-7584",
+      "titulo": "Lei nº 7.584 de 06/01/1987",
+      "data": "1987-01-06",
+      "numero": "7584",
+      "urn": "urn:lex:br:federal:lei:1987-01-06;7584",
+      "ementa": "Acrescenta parágrafo ao artigo 33 da Lei n° 5.197, de   3 de janeiro de 1967, que dispõe sobre a proteção à fauna e dá outras   providências."
+    },
+    {
+      "senadoId": "549459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-06-7583",
+      "titulo": "Lei nº 7.583 de 06/01/1987",
+      "data": "1987-01-06",
+      "numero": "7583",
+      "urn": "urn:lex:br:federal:lei:1987-01-06;7583",
+      "ementa": "Dispõe sobre a reestruturação dos serviços da Justiça Federal de Primeira   Instância e dá outras providências."
+    },
+    {
+      "senadoId": "549461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1987-01-06-7585",
+      "titulo": "Lei nº 7.585 de 06/01/1987",
+      "data": "1987-01-06",
+      "numero": "7585",
+      "urn": "urn:lex:br:federal:lei:1987-01-06;7585",
+      "ementa": "Dá nova denominação ao aeroporto internacional de Campinas."
+    }
+  ],
+  "pendencias": []
+}

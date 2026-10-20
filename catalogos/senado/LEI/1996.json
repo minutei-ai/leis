@@ -1,0 +1,1779 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1996",
+  "tipo": "LEI",
+  "ano": 1996,
+  "coletado_em": "2026-10-20T22:57:00.003Z",
+  "normas": [
+    {
+      "senadoId": "551306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-27-9430",
+      "titulo": "Lei nº 9.430 de 27/12/1996",
+      "data": "1996-12-27",
+      "numero": "9430",
+      "urn": "urn:lex:br:federal:lei:1996-12-27;9430",
+      "ementa": "Dispõe sobre a legislação tributária federal, as contribuições para a seguridade social, o processo administrativo de consulta e dá outras providências."
+    },
+    {
+      "senadoId": "551303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-26-9427",
+      "titulo": "Lei nº 9.427 de 26/12/1996",
+      "data": "1996-12-26",
+      "numero": "9427",
+      "urn": "urn:lex:br:federal:lei:1996-12-26;9427",
+      "ementa": "Institui a Agência Nacional de Energia Elétrica - ANEEL, disciplina o regime das concessões de serviços públicos de energia elétrica e dá outras providências."
+    },
+    {
+      "senadoId": "551304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-26-9428",
+      "titulo": "Lei nº 9.428 de 26/12/1996",
+      "data": "1996-12-26",
+      "numero": "9428",
+      "urn": "urn:lex:br:federal:lei:1996-12-26;9428",
+      "ementa": "Autoriza o Poder Executivo ao Orçamento Fiscal da União, em favor do Ministério do Planejamento e Orçamento, crédito suplementar no valor de R$ 36.451.707,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-26-9429",
+      "titulo": "Lei nº 9.429 de 26/12/1996",
+      "data": "1996-12-26",
+      "numero": "9429",
+      "urn": "urn:lex:br:federal:lei:1996-12-26;9429",
+      "ementa": "Dispõe sobre prorrogação de prazo para renovação de certificado de Entidades de Fins Filantrópicos e de recadastramento junto ao Conselho Nacional de Assistência Social - CNAS e anulação de atos emanados do Instituto Nacional do Seguro Social - INSS contra instituições que gozavam de isenção da contribuição socia, pela não apresentação do pedido de renovação do certificado em tempo hábil."
+    },
+    {
+      "senadoId": "551295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9419",
+      "titulo": "Lei nº 9.419 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9419",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9419",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito adicional até o limite de R$ 9.572.310,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9422",
+      "titulo": "Lei nº 9.422 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9422",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9422",
+      "ementa": "Dispõe sobre a concessão de pensão especial aos depedentes que especifica e dá outras providências."
+    },
+    {
+      "senadoId": "551296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9420",
+      "titulo": "Lei nº 9.420 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9420",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9420",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Fazenda, do Ministério da Indústria, do Comércio e do Turismo e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 110.820.935,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9424",
+      "titulo": "Lei nº 9.424 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9424",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9424",
+      "ementa": "Dispõe sobre o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, na forma prevista no art. 60, § 7º, do Ato das Disposições Constitucionais Transitórias, e dá outras providências."
+    },
+    {
+      "senadoId": "551294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9418",
+      "titulo": "Lei nº 9.418 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9418",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9418",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Educação e do Desporto, crédito suplementar no valor de R$ 26.786.898,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9417",
+      "titulo": "Lei nº 9.417 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9417",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9417",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 182.286.342,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9425",
+      "titulo": "Lei nº 9.425 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9425",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9425",
+      "ementa": "Dispõe sobre a concessão de pensão especial às vítimas do acidente nuclear ocorrido em Goiânia, Goiás."
+    },
+    {
+      "senadoId": "551297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9421",
+      "titulo": "Lei nº 9.421 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9421",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9421",
+      "ementa": "Cria as carreiras dos servidores do Poder Judiciário, fixa os valores de sua remuneração e dá outras providências."
+    },
+    {
+      "senadoId": "551302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9426",
+      "titulo": "Lei nº 9.426 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9426",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9426",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal - Parte Especial."
+    },
+    {
+      "senadoId": "551292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9416",
+      "titulo": "Lei nº 9.416 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9416",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9416",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito especial até o limite de R$ 56.497.418,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-24-9423",
+      "titulo": "Lei nº 9.423 de 24/12/1996",
+      "data": "1996-12-24",
+      "numero": "9423",
+      "urn": "urn:lex:br:federal:lei:1996-12-24;9423",
+      "ementa": "Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS, a participar do capital social de empresa privada com sede no exterior, e dá outras providências."
+    },
+    {
+      "senadoId": "551288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-23-9412",
+      "titulo": "Lei nº 9.412 de 23/12/1996",
+      "data": "1996-12-23",
+      "numero": "9412",
+      "urn": "urn:lex:br:federal:lei:1996-12-23;9412",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto, crédito suplementar no valor de R$ 1.600.574,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551290",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-23-9414",
+      "titulo": "Lei nº 9.414 de 23/12/1996",
+      "data": "1996-12-23",
+      "numero": "9414",
+      "urn": "urn:lex:br:federal:lei:1996-12-23;9414",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamento Fiscal e da Seguridade Social da União, em favor do Ministério da Educação e do Desporto, crédito suplementar no valor de R$ 323.791.632,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-23-9415",
+      "titulo": "Lei nº 9.415 de 23/12/1996",
+      "data": "1996-12-23",
+      "numero": "9415",
+      "urn": "urn:lex:br:federal:lei:1996-12-23;9415",
+      "ementa": "Dá nova redação ao inciso III do art. 82 da Lei nº. 5.869, de 11 de janeiro de 1973 - Código de Processo Civil."
+    },
+    {
+      "senadoId": "551289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-23-9413",
+      "titulo": "Lei nº 9.413 de 23/12/1996",
+      "data": "1996-12-23",
+      "numero": "9413",
+      "urn": "urn:lex:br:federal:lei:1996-12-23;9413",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal e da Seguridade da União, em favor de diversos órgãos do Poder Judiciário, crédito suplementar no valor global de R$ 25.327.977,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9397",
+      "titulo": "Lei nº 9.397 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9397",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9397",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto, crédito especial, até o limite de R$ 21.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9405",
+      "titulo": "Lei nº 9.405 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9405",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9405",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$ 10.867.587,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9409",
+      "titulo": "Lei nº 9.409 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9409",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9409",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Planejamento e Orçamento, crédito suplementar no valor de R$ 452.311.328,00, e crédito especial até o limite de R$ 390.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9410",
+      "titulo": "Lei nº 9.410 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9410",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9410",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Planejamento e Orçamento e do Ministério da Indústria e do Comércio e do Turismo, crédito especial até o limite de R$ 4.900.695,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9408",
+      "titulo": "Lei nº 9.408 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9408",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9408",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia e do Ministério dos Transportes, crédito especial até o limite de R$ 1.705.832,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9403",
+      "titulo": "Lei nº 9.403 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9403",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9403",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, crédito suplementar no valor de R$ 32.721.621,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9400",
+      "titulo": "Lei nº 9.400 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9400",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9400",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Braspetro Oil Service Company BRASOIL, crédito especial no valor de R$ 330.084.259,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551287",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9411",
+      "titulo": "Lei nº 9.411 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9411",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9411",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Trabalho, crédito suplementar no valor de R$ 13.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9402",
+      "titulo": "Lei nº 9.402 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9402",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9402",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Exército, crédito suplementar no valor de R$ 33.170.201,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9401",
+      "titulo": "Lei nº 9.401 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9401",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9401",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Supremo Tribunal Federal, crédito suplementar no valor de R$ 2.400.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9396",
+      "titulo": "Lei nº 9.396 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9396",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9396",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Planejamento e Orçamento, crédito especial, até o limite de R$ 26.109.250,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551271",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9395",
+      "titulo": "Lei nº 9.395 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9395",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9395",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Supremo Tribunal Federal, crédito suplementar no valor de R$ 32.700.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9399",
+      "titulo": "Lei nº 9.399 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9399",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9399",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Cultura, crédito suplementar no valor de R$ 418.323,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9406",
+      "titulo": "Lei nº 9.406 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9406",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9406",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial até o limite de R$ 1.306.252,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551283",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9407",
+      "titulo": "Lei nº 9.407 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9407",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9407",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito especial até o limite de R$2.177.578,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9394",
+      "titulo": "Lei nº 9.394 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9394",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9394",
+      "ementa": "Estabelece as diretrizes e bases da educação nacional."
+    },
+    {
+      "senadoId": "551274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9398",
+      "titulo": "Lei nº 9.398 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9398",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9398",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Caixa Econômica Federal, crédito suplementar até o limite de R$ 1.016.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-20-9404",
+      "titulo": "Lei nº 9.404 de 20/12/1996",
+      "data": "1996-12-20",
+      "numero": "9404",
+      "urn": "urn:lex:br:federal:lei:1996-12-20;9404",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Exército, crédito suplementar no valor de R$ 1.691.275,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "551268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9392",
+      "titulo": "Lei nº 9.392 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9392",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9392",
+      "ementa": "Disciplina a remuneração e demais vantagens devidas a funcionários das carreiras do Serviço Exterior, casados entre si, servindo juntos no exterior."
+    },
+    {
+      "senadoId": "551265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9389",
+      "titulo": "Lei nº 9.389 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9389",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9389",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do Ministério da Cultura e do Gabinete do Ministro Extraordinário dos Esportes, crédito suplementar no valor de R$ 1.755.045,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9387",
+      "titulo": "Lei nº 9.387 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9387",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9387",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor da Justiça do Trabalho e da Justiça do Distrito Federal e dos Territórios, crédito suplementar no valor de R$ 6.130.074,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9388",
+      "titulo": "Lei nº 9.388 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9388",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9388",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Gabinete do Ministro Extraordinário dos Esportes, crédito suplementar no valor de R$ 11.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9393",
+      "titulo": "Lei nº 9.393 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9393",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9393",
+      "ementa": "Dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, sobre pagamento da dívida representada por Títulos da Dívida Agrária e dá outras providências."
+    },
+    {
+      "senadoId": "551267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9391",
+      "titulo": "Lei nº 9.391 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9391",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9391",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito suplementar no valor de R$76.168.631,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-19-9390",
+      "titulo": "Lei nº 9.390 de 19/12/1996",
+      "data": "1996-12-19",
+      "numero": "9390",
+      "urn": "urn:lex:br:federal:lei:1996-12-19;9390",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito especial até o limite de R$ 5.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-18-9386",
+      "titulo": "Lei nº 9.386 de 18/12/1996",
+      "data": "1996-12-18",
+      "numero": "9386",
+      "urn": "urn:lex:br:federal:lei:1996-12-18;9386",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, crédito especial até o limite de R$ 10.610.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-18-9382",
+      "titulo": "Lei nº 9.382 de 18/12/1996",
+      "data": "1996-12-18",
+      "numero": "9382",
+      "urn": "urn:lex:br:federal:lei:1996-12-18;9382",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do Tribunal de Contas da União, Senado Federal e Ministério Público da União, crédito suplementar no valor global de R$ 7.585.850,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-18-9384",
+      "titulo": "Lei nº 9.384 de 18/12/1996",
+      "data": "1996-12-18",
+      "numero": "9384",
+      "urn": "urn:lex:br:federal:lei:1996-12-18;9384",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Finanaceiros da União - recursos sob supervisão do Ministério da Fazenda, crédito especial até o limite de R$ 13.596.639,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-18-9383",
+      "titulo": "Lei nº 9.383 de 18/12/1996",
+      "data": "1996-12-18",
+      "numero": "9383",
+      "urn": "urn:lex:br:federal:lei:1996-12-18;9383",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto (MEC), crédito suplementar no valor de R$ 21.115.012,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-18-9385",
+      "titulo": "Lei nº 9.385 de 18/12/1996",
+      "data": "1996-12-18",
+      "numero": "9385",
+      "urn": "urn:lex:br:federal:lei:1996-12-18;9385",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social, crédito especial até o limite de R$ 353.753,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-18-9381",
+      "titulo": "Lei nº 9.381 de 18/12/1996",
+      "data": "1996-12-18",
+      "numero": "9381",
+      "urn": "urn:lex:br:federal:lei:1996-12-18;9381",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do Ministério da Justiça, crédito suplementar no valor de R$ 50.098.030,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9373",
+      "titulo": "Lei nº 9.373 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9373",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9373",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Cultura, crédito suplementar no valor de R$ 332.514,00, para fins que especifica."
+    },
+    {
+      "senadoId": "551254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9378",
+      "titulo": "Lei nº 9.378 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9378",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9378",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor da Câmara dos Deputados, crédito suplementar no valor de R$ 1.723.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9369",
+      "titulo": "Lei nº 9.369 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9369",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9369",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito suplementar no valor de R$ 6.749.019,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9376",
+      "titulo": "Lei nº 9.376 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9376",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9376",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Educação e do Desporto, crédito especial até o limite de R$ 785.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9370",
+      "titulo": "Lei nº 9.370 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9370",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9370",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 1.030.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9377",
+      "titulo": "Lei nº 9.377 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9377",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9377",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Fazenda e de Transferências a Estados, Distrito Federal e Municipios - Governo do Distrito Federal - Recursos sob Supervisão do Ministério da Fazenda, crédito especial até o limite de R$ 3.359.048,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9368",
+      "titulo": "Lei nº 9.368 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9368",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9368",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Presidência da República, crédito suplementar no valor de R$ 56.298,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9379",
+      "titulo": "Lei nº 9.379 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9379",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9379",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto, crédito especial até o limite de R$ 1.646,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9371",
+      "titulo": "Lei nº 9.371 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9371",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9371",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Câmara dos Deputados, crédito suplementar no valor de R$ 2.265.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9374",
+      "titulo": "Lei nº 9.374 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9374",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9374",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, crédito suplementar no valor de R$ 126.595,414,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9372",
+      "titulo": "Lei nº 9.372 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9372",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9372",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito suplementar no valor de R$ 4.235.855,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9380",
+      "titulo": "Lei nº 9.380 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9380",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9380",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Finanaceiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar no valor de R$ 101.544,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-17-9375",
+      "titulo": "Lei nº 9.375 de 17/12/1996",
+      "data": "1996-12-17",
+      "numero": "9375",
+      "urn": "urn:lex:br:federal:lei:1996-12-17;9375",
+      "ementa": "Autoriza o Poder Executivo ao abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto, crédito suplementar no valor de R$ 214.690.947,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551241",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-16-9365",
+      "titulo": "Lei nº 9.365 de 16/12/1996",
+      "data": "1996-12-16",
+      "numero": "9365",
+      "urn": "urn:lex:br:federal:lei:1996-12-16;9365",
+      "ementa": "Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a renumeração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo de Marinha Mercante, e dá outras providências."
+    },
+    {
+      "senadoId": "551240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-16-9364",
+      "titulo": "Lei nº 9.364 de 16/12/1996",
+      "data": "1996-12-16",
+      "numero": "9364",
+      "urn": "urn:lex:br:federal:lei:1996-12-16;9364",
+      "ementa": "Dispõe sobre o pagamento com sub-rogação, pela União, de dívidas da Rede Ferroviária Federal S.A. RFFSA, junto ao Instituto Nacional do Seguro Social - INSS e à Fundação Rede Ferroviária de Seguridade Social REFER, e dá outras providências."
+    },
+    {
+      "senadoId": "551243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-16-9367",
+      "titulo": "Lei nº 9.367 de 16/12/1996",
+      "data": "1996-12-16",
+      "numero": "9367",
+      "urn": "urn:lex:br:federal:lei:1996-12-16;9367",
+      "ementa": "Fixa critérios para a progressiva unificação das tabelas de vencimentos dos servidores, altera o Anexo II da Lei n. 8.237, de 30 de setembro de 1991, para implementação da isonomia a que se refere o § 1º do art. 39 da Constituição, e dá outras providências."
+    },
+    {
+      "senadoId": "551242",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-16-9366",
+      "titulo": "Lei nº 9.366 de 16/12/1996",
+      "data": "1996-12-16",
+      "numero": "9366",
+      "urn": "urn:lex:br:federal:lei:1996-12-16;9366",
+      "ementa": "Dispõe sobre os quadros de cargos do Grupo-Direção e Assessoramento Superiores - DAS da Advocacia-Geral da União, do Ministério da Fazenda, e dá outras providências."
+    },
+    {
+      "senadoId": "551237",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-13-9361",
+      "titulo": "Lei nº 9.361 de 13/12/1996",
+      "data": "1996-12-13",
+      "numero": "9361",
+      "urn": "urn:lex:br:federal:lei:1996-12-13;9361",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Instituto Nacional de Colonização e Reforma Agrária, crédito extraordinário até o limite de R$ 800.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-13-9360",
+      "titulo": "Lei nº 9.360 de 13/12/1996",
+      "data": "1996-12-13",
+      "numero": "9360",
+      "urn": "urn:lex:br:federal:lei:1996-12-13;9360",
+      "ementa": "Dá nova redação ao parágrafo único do art.1º da Lei n. 8995, de 24 de fevereiro de 1995, que autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos - CBTU, a transferir à Companhia Fluminense de Trens Urbanos FLUMITRENS, recursos para pagamento de pessoal."
+    },
+    {
+      "senadoId": "551239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-13-9363",
+      "titulo": "Lei nº 9.363 de 13/12/1996",
+      "data": "1996-12-13",
+      "numero": "9363",
+      "urn": "urn:lex:br:federal:lei:1996-12-13;9363",
+      "ementa": "Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "551238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-13-9362",
+      "titulo": "Lei nº 9.362 de 13/12/1996",
+      "data": "1996-12-13",
+      "numero": "9362",
+      "urn": "urn:lex:br:federal:lei:1996-12-13;9362",
+      "ementa": "Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro"
+    },
+    {
+      "senadoId": "551224",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9348",
+      "titulo": "Lei nº 9.348 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9348",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9348",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais, crédito especial até o limite de R$ 24.257.182,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9344",
+      "titulo": "Lei nº 9.344 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9344",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9344",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Gabinete do Ministro Extraordinário dos Esportes, crédito suplementar no valor de R$ 1.147.191,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551213",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9337",
+      "titulo": "Lei nº 9.337 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9337",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9337",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito especial até o limite de R$ 992.550.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9353",
+      "titulo": "Lei nº 9.353 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9353",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9353",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do Estado-Maior das Forças Armadas e do Ministério da Marinha, crédito suplementar no valor total de R$ 19.715.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9359",
+      "titulo": "Lei nº 9.359 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9359",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9359",
+      "ementa": "Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral."
+    },
+    {
+      "senadoId": "551215",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9339",
+      "titulo": "Lei nº 9.339 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9339",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9339",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério de Minas e Energia, crédito suplementar no valor de R$ 18.050.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9345",
+      "titulo": "Lei nº 9.345 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9345",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9345",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Presidência da República, crédito especial até o limite de R$ 177.284.807,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551223",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9347",
+      "titulo": "Lei nº 9.347 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9347",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9347",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério das Comunicações, crédito suplementar no valor de R$ 89.394,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551217",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9341",
+      "titulo": "Lei nº 9.341 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9341",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9341",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Aeronáutica, crédito suplementar no valor de R$ 228.021.403,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551233",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9357",
+      "titulo": "Lei nº 9.357 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9357",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9357",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do Ministério da Cultura, crédito suplementar no valor de R$ 1.892.114,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9358",
+      "titulo": "Lei nº 9.358 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9358",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9358",
+      "ementa": "Dispõe sobre a absorção, pela União, dos custos excedentes decorrentes da construção e operação de usinas nucleoelétricas pela empresa Furnas - Centrais Elétricas - S.A."
+    },
+    {
+      "senadoId": "551232",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9356",
+      "titulo": "Lei nº 9.356 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9356",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9356",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Cultura, crédito suplementar no valor de R$ 39.228,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551225",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9349",
+      "titulo": "Lei nº 9.349 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9349",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9349",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Aeronáutica, crédito suplementar no valor de R$ 169.901,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9355",
+      "titulo": "Lei nº 9.355 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9355",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9355",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor dos Ministérios do Exército e da Marinha, crédito suplementar no valor global de R$ 13.855.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551230",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9354",
+      "titulo": "Lei nº 9.354 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9354",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9354",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor da Presidência da República e do Ministério das Relações Exteriores, crédito suplementar no valor global de R$ 31.176.151,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9343",
+      "titulo": "Lei nº 9.343 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9343",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9343",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Companhia Docas do Rio de Janeiro, crédito suplementar, para os fins que especifica."
+    },
+    {
+      "senadoId": "551216",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9340",
+      "titulo": "Lei nº 9.340 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9340",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9340",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamento da União, em favor da Câmara dos Deputados, crédito suplementar no valor de R$ 26.506.364,00, para fins que especifica."
+    },
+    {
+      "senadoId": "551227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9351",
+      "titulo": "Lei nº 9.351 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9351",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9351",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais, crédito suplementar no valor de R$ 586.729.932,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9338",
+      "titulo": "Lei nº 9.338 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9338",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9338",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União em de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar no valor de R$ 936.501.633,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551222",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9346",
+      "titulo": "Lei nº 9.346 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9346",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9346",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 6.570.532,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9342",
+      "titulo": "Lei nº 9.342 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9342",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9342",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamenrto Fiscal da União, em favor do Estado-Maior das Forças Armadas, crédito suplementar no valor de R$ 50.715.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9352",
+      "titulo": "Lei nº 9.352 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9352",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9352",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Estado-Maior das Forças Armadas e do Ministério da Marinha, crédito suplementar no valor global de R$ 23.073.685,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "551226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-12-9350",
+      "titulo": "Lei nº 9.350 de 12/12/1996",
+      "data": "1996-12-12",
+      "numero": "9350",
+      "urn": "urn:lex:br:federal:lei:1996-12-12;9350",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Estado-Maior das Forças Armadas, crédito especial até o limite de R$ 2.495.087,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551212",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-11-9336",
+      "titulo": "Lei nº 9.336 de 11/12/1996",
+      "data": "1996-12-11",
+      "numero": "9336",
+      "urn": "urn:lex:br:federal:lei:1996-12-11;9336",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito suplementar no valor de R$ 85.746.633,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551207",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9331",
+      "titulo": "Lei nº 9.331 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9331",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9331",
+      "ementa": "Autoriza o Poder Executivo a contratar com Itaipu, pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, no valor correspondente a até US$ 140.000.000,00, (cento e quarenta milhões de dólares dos Estados Unidos da América)."
+    },
+    {
+      "senadoId": "551210",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9334",
+      "titulo": "Lei nº 9.334 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9334",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9334",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Aeronáutica, crédito especial até o limite de R$ 46.880.410,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551208",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9332",
+      "titulo": "Lei nº 9.332 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9332",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9332",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento de Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social, crédito suplementar no valor de R$ 251.465,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551204",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9328",
+      "titulo": "Lei nº 9.328 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9328",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9328",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos dos poderes Legislativo, Judiciário e Executivo, crédito suplementar no valor de R$ 1.573.765.892,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9335",
+      "titulo": "Lei nº 9.335 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9335",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9335",
+      "ementa": "Altera a Lei nº 9.093, de 12 de setembro de 1995, que dispõe sobre feriados."
+    },
+    {
+      "senadoId": "551205",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9329",
+      "titulo": "Lei nº 9.329 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9329",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9329",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas estatais, crédito suplementar até o limite R$ 2.199.864.176,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9330",
+      "titulo": "Lei nº 9.330 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9330",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9330",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Aeronáutica, crédito especial até o limite de R$ 4.434.640,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-10-9333",
+      "titulo": "Lei nº 9.333 de 10/12/1996",
+      "data": "1996-12-10",
+      "numero": "9333",
+      "urn": "urn:lex:br:federal:lei:1996-12-10;9333",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal da Seguridade Social da União, em favor do Ministério da Educação e do Desporto, crédito suplementar no valor de R$ 101.133.693,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551202",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-09-9326",
+      "titulo": "Lei nº 9.326 de 09/12/1996",
+      "data": "1996-12-09",
+      "numero": "9326",
+      "urn": "urn:lex:br:federal:lei:1996-12-09;9326",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Aeronáutica, o crédito suplementar no valor de R$ 11.750.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-09-9324",
+      "titulo": "Lei nº 9.324 de 09/12/1996",
+      "data": "1996-12-09",
+      "numero": "9324",
+      "urn": "urn:lex:br:federal:lei:1996-12-09;9324",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério Público da União, crédito suplementar no valor de R$ 500.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551203",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-09-9327",
+      "titulo": "Lei nº 9.327 de 09/12/1996",
+      "data": "1996-12-09",
+      "numero": "9327",
+      "urn": "urn:lex:br:federal:lei:1996-12-09;9327",
+      "ementa": "Dispõe sobre a condução de veículo oficial."
+    },
+    {
+      "senadoId": "551201",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-09-9325",
+      "titulo": "Lei nº 9.325 de 09/12/1996",
+      "data": "1996-12-09",
+      "numero": "9325",
+      "urn": "urn:lex:br:federal:lei:1996-12-09;9325",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério de Minas e Energia, crédito suplementar no valor de R$ 517.002,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551196",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9320",
+      "titulo": "Lei nº 9.320 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9320",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9320",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 19.100.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9322",
+      "titulo": "Lei nº 9.322 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9322",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9322",
+      "ementa": "Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador (FAT)."
+    },
+    {
+      "senadoId": "551197",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9321",
+      "titulo": "Lei nº 9.321 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9321",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9321",
+      "ementa": "Dispensa a comprovação de regularidade do recolhimento Imposto sobre a Propriedade Territorial Rural (ITR) para fins de financiamento ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e dá outras providências."
+    },
+    {
+      "senadoId": "551194",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9318",
+      "titulo": "Lei nº 9.318 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9318",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9318",
+      "ementa": "Altera a alínea h do inciso II do art. 61 do Código Penal."
+    },
+    {
+      "senadoId": "551193",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9317",
+      "titulo": "Lei nº 9.317 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9317",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9317",
+      "ementa": "Dispõe sobre o regime tributário das microempresas e das empresas de pequeno porte, institui o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (SIMPLES), e dá outras providências."
+    },
+    {
+      "senadoId": "551195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9319",
+      "titulo": "Lei nº 9.319 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9319",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9319",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Justiça do Trabalho, crédito suplementar no valor de R$ 25.760.125,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-12-05-9323",
+      "titulo": "Lei nº 9.323 de 05/12/1996",
+      "data": "1996-12-05",
+      "numero": "9323",
+      "urn": "urn:lex:br:federal:lei:1996-12-05;9323",
+      "ementa": "Altera o limite de dedução de que trata o § 2º do art. 1º da Lei nº 8.685, de 20 de julho de 1993, que cria mecanismos de fomento à atividade audiovisual, e dá outras providências."
+    },
+    {
+      "senadoId": "551192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-11-22-9316",
+      "titulo": "Lei nº 9.316 de 22/11/1996",
+      "data": "1996-11-22",
+      "numero": "9316",
+      "urn": "urn:lex:br:federal:lei:1996-11-22;9316",
+      "ementa": "Altera a legislação do imposto de renda e da contribuição social sobre o lucro liquido."
+    },
+    {
+      "senadoId": "551191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-11-20-9315",
+      "titulo": "Lei nº 9.315 de 20/11/1996",
+      "data": "1996-11-20",
+      "numero": "9315",
+      "urn": "urn:lex:br:federal:lei:1996-11-20;9315",
+      "ementa": "Inscreve o nome de Zumbi dos Palmares no \"Livro dos Heróis da Pátria\"."
+    },
+    {
+      "senadoId": "551190",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-11-14-9314",
+      "titulo": "Lei nº 9.314 de 14/11/1996",
+      "data": "1996-11-14",
+      "numero": "9314",
+      "urn": "urn:lex:br:federal:lei:1996-11-14;9314",
+      "ementa": "Altera dispositivos do Decreto-lei n° 227, de 28 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "551189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-11-13-9313",
+      "titulo": "Lei nº 9.313 de 13/11/1996",
+      "data": "1996-11-13",
+      "numero": "9313",
+      "urn": "urn:lex:br:federal:lei:1996-11-13;9313",
+      "ementa": "Dispõe sobre a distribuição gratuita de medicamentos aos portadores do HIV e doentes de AIDS."
+    },
+    {
+      "senadoId": "551188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-11-05-9312",
+      "titulo": "Lei nº 9.312 de 05/11/1996",
+      "data": "1996-11-05",
+      "numero": "9312",
+      "urn": "urn:lex:br:federal:lei:1996-11-05;9312",
+      "ementa": "Altera o art. 5° da Lei n° 8.313, de 23 de dezembro de 1991, que \"restabelece princípios da Lei n° 7.505, de 2 de julho de 1986, institui o Programa Nacional de Apoio à Cultura - PRONAC e dá outras providências\"."
+    },
+    {
+      "senadoId": "551187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-10-24-9311",
+      "titulo": "Lei nº 9.311 de 24/10/1996",
+      "data": "1996-10-24",
+      "numero": "9311",
+      "urn": "urn:lex:br:federal:lei:1996-10-24;9311",
+      "ementa": "Institui a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF), e dá outras providências."
+    },
+    {
+      "senadoId": "551186",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-10-16-9310",
+      "titulo": "Lei nº 9.310 de 16/10/1996",
+      "data": "1996-10-16",
+      "numero": "9310",
+      "urn": "urn:lex:br:federal:lei:1996-10-16;9310",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de transferências a Estados, Distrito Federal e Municípios - Recursos sob   Supervisão do Ministério da Fazenda, crédito especial até o limite de R$   3.600.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-10-02-9309",
+      "titulo": "Lei nº 9.309 de 02/10/1996",
+      "data": "1996-10-02",
+      "numero": "9309",
+      "urn": "urn:lex:br:federal:lei:1996-10-02;9309",
+      "ementa": "Revoga a Lei n° 7.700, de 21 de dezembro de 1988, que cria o Adicional de   Tarifa Portuária - ATP, e dá outras providências."
+    },
+    {
+      "senadoId": "551184",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-10-01-9308",
+      "titulo": "Lei nº 9.308 de 01/10/1996",
+      "data": "1996-10-01",
+      "numero": "9308",
+      "urn": "urn:lex:br:federal:lei:1996-10-01;9308",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito   especial até o limite de R$ 19.980.732,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551183",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-09-23-9307",
+      "titulo": "Lei nº 9.307 de 23/09/1996",
+      "data": "1996-09-23",
+      "numero": "9307",
+      "urn": "urn:lex:br:federal:lei:1996-09-23;9307",
+      "ementa": "Dispõe sobre a arbitragem."
+    },
+    {
+      "senadoId": "551182",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-09-17-9306",
+      "titulo": "Lei nº 9.306 de 17/09/1996",
+      "data": "1996-09-17",
+      "numero": "9306",
+      "urn": "urn:lex:br:federal:lei:1996-09-17;9306",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Câmara dos Deputados, crédito suplementar no valor de R$8.000.000,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "551181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-09-12-9305",
+      "titulo": "Lei nº 9.305 de 12/09/1996",
+      "data": "1996-09-12",
+      "numero": "9305",
+      "urn": "urn:lex:br:federal:lei:1996-09-12;9305",
+      "ementa": "Concede, a título de indenização decorrente de responsabilidade civil da   União, pensão especial aos dependentes de José Ivanildo Sampaio de Souza."
+    },
+    {
+      "senadoId": "551180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-09-06-9304",
+      "titulo": "Lei nº 9.304 de 06/09/1996",
+      "data": "1996-09-06",
+      "numero": "9304",
+      "urn": "urn:lex:br:federal:lei:1996-09-06;9304",
+      "ementa": "Autoriza a reversão ao Município de São Pedro dos Ferros, Estado de Minas   Gerais, do terreno que menciona."
+    },
+    {
+      "senadoId": "551179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-09-05-9303",
+      "titulo": "Lei nº 9.303 de 05/09/1996",
+      "data": "1996-09-05",
+      "numero": "9303",
+      "urn": "urn:lex:br:federal:lei:1996-09-05;9303",
+      "ementa": "Altera a redação do art. 8° da Lei n° 9.034, de 3 de maio de 1995, que   \"dispõe sobre a utilização de meios operacionais para a prevenção e repressão de   ações praticadas por organizações criminosas\"."
+    },
+    {
+      "senadoId": "551178",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-09-04-9302",
+      "titulo": "Lei nº 9.302 de 04/09/1996",
+      "data": "1996-09-04",
+      "numero": "9302",
+      "urn": "urn:lex:br:federal:lei:1996-09-04;9302",
+      "ementa": "Autoriza o Banco Central do Brasil, autarquia vinculada ao Ministério da   Fazenda, a doar o imóvel que menciona, no Município do Rio de Janeiro, Estado do   Rio de Janeiro."
+    },
+    {
+      "senadoId": "551176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-08-29-9300",
+      "titulo": "Lei nº 9.300 de 29/08/1996",
+      "data": "1996-08-29",
+      "numero": "9300",
+      "urn": "urn:lex:br:federal:lei:1996-08-29;9300",
+      "ementa": "Acrescenta parágrafo ao art. 9° da Lei n° 5.889, de 8 de junho de 1973, que estatui normas reguladoras do trabalho rural e dá outras providências."
+    },
+    {
+      "senadoId": "551177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-08-29-9301",
+      "titulo": "Lei nº 9.301 de 29/08/1996",
+      "data": "1996-08-29",
+      "numero": "9301",
+      "urn": "urn:lex:br:federal:lei:1996-08-29;9301",
+      "ementa": "Revoga o art. 75 da Lei n° 9.100, de 29 de setembro de 1995, que estabelece normas para a realização das eleições municipais de 3 de outubro de 1996, e dá outras providências."
+    },
+    {
+      "senadoId": "551175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-08-07-9299",
+      "titulo": "Lei nº 9.299 de 07/08/1996",
+      "data": "1996-08-07",
+      "numero": "9299",
+      "urn": "urn:lex:br:federal:lei:1996-08-07;9299",
+      "ementa": "Altera dispositivos dos Decretos-leis n°s 1.001 e 1.002, de 21 de outubro de 1969, Códigos Penal Militar e de Processo Penal Militar, respectivamente."
+    },
+    {
+      "senadoId": "551174",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-08-01-9298",
+      "titulo": "Lei nº 9.298 de 01/08/1996",
+      "data": "1996-08-01",
+      "numero": "9298",
+      "urn": "urn:lex:br:federal:lei:1996-08-01;9298",
+      "ementa": "Altera a redação do § 1° do art. 52 da Lei n° 8.078, de 11 de setembro de 1990, que \"dispõe sobre a proteção do consumidor e dá outras providências\"."
+    },
+    {
+      "senadoId": "551173",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-25-9297",
+      "titulo": "Lei nº 9.297 de 25/07/1996",
+      "data": "1996-07-25",
+      "numero": "9297",
+      "urn": "urn:lex:br:federal:lei:1996-07-25;9297",
+      "ementa": "Da nova redação a dispositivos da Lei n° 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares."
+    },
+    {
+      "senadoId": "551172",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-24-9296",
+      "titulo": "Lei nº 9.296 de 24/07/1996",
+      "data": "1996-07-24",
+      "numero": "9296",
+      "urn": "urn:lex:br:federal:lei:1996-07-24;9296",
+      "ementa": "Regulamenta o inciso XII, parte final, do art. 5° da Constituição Federal."
+    },
+    {
+      "senadoId": "551171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-19-9295",
+      "titulo": "Lei nº 9.295 de 19/07/1996",
+      "data": "1996-07-19",
+      "numero": "9295",
+      "urn": "urn:lex:br:federal:lei:1996-07-19;9295",
+      "ementa": "Dispõe sobre os serviços de telecomunicações e sua organização, sobre o órgão regulador e dá outras providências."
+    },
+    {
+      "senadoId": "551169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-15-9293",
+      "titulo": "Lei nº 9.293 de 15/07/1996",
+      "data": "1996-07-15",
+      "numero": "9293",
+      "urn": "urn:lex:br:federal:lei:1996-07-15;9293",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração da lei orçamentária para o exercício de 1997 e dá outras providências."
+    },
+    {
+      "senadoId": "551170",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-15-9294",
+      "titulo": "Lei nº 9.294 de 15/07/1996",
+      "data": "1996-07-15",
+      "numero": "9294",
+      "urn": "urn:lex:br:federal:lei:1996-07-15;9294",
+      "ementa": "Dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal."
+    },
+    {
+      "senadoId": "551168",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-12-9292",
+      "titulo": "Lei nº 9.292 de 12/07/1996",
+      "data": "1996-07-12",
+      "numero": "9292",
+      "urn": "urn:lex:br:federal:lei:1996-07-12;9292",
+      "ementa": "Dispõe sobre a remuneração dos membros dos conselhos de administração e fiscal das entidades que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "551167",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-11-9291",
+      "titulo": "Lei nº 9.291 de 11/07/1996",
+      "data": "1996-07-11",
+      "numero": "9291",
+      "urn": "urn:lex:br:federal:lei:1996-07-11;9291",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Justiça Eleitoral, crédito suplementar no valor de R$ 150.226.929,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551166",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-08-9290",
+      "titulo": "Lei nº 9.290 de 08/07/1996",
+      "data": "1996-07-08",
+      "numero": "9290",
+      "urn": "urn:lex:br:federal:lei:1996-07-08;9290",
+      "ementa": "Modifica o valor da pensão especial de que trata o art. 1° da Lei n° 7.099, de 13 de junho de 1983, e dá outras providências."
+    },
+    {
+      "senadoId": "551165",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-04-9289",
+      "titulo": "Lei nº 9.289 de 04/07/1996",
+      "data": "1996-07-04",
+      "numero": "9289",
+      "urn": "urn:lex:br:federal:lei:1996-07-04;9289",
+      "ementa": "Dispõe sobre as custas devidas a União, na Justiça Federal de primeiro e segundo graus e dá outras providências."
+    },
+    {
+      "senadoId": "551164",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-07-01-9288",
+      "titulo": "Lei nº 9.288 de 01/07/1996",
+      "data": "1996-07-01",
+      "numero": "9288",
+      "urn": "urn:lex:br:federal:lei:1996-07-01;9288",
+      "ementa": "Altera dispositivos da Lei nº 8.436, de 25 de junho de 1992, que institucionaliza o Programa de Crédito Educativo para estudantes carentes."
+    },
+    {
+      "senadoId": "551163",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-27-9287",
+      "titulo": "Lei nº 9.287 de 27/06/1996",
+      "data": "1996-06-27",
+      "numero": "9287",
+      "urn": "urn:lex:br:federal:lei:1996-06-27;9287",
+      "ementa": "Autoriza ao Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor de diversos Órgãos do Poder Executivo, crédito suplementar no valor de R$ 1.662.450.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551162",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-19-9286",
+      "titulo": "Lei nº 9.286 de 19/06/1996",
+      "data": "1996-06-19",
+      "numero": "9286",
+      "urn": "urn:lex:br:federal:lei:1996-06-19;9286",
+      "ementa": "Acrescenta parágrafo ao art. 2° da Lei n° 9.114, de 17 de outubro de 1995, que dispõe sobre a transferência de Oficiais entre os diversos Corpos e Quadros de Oficiais da Marinha e dá outras providências."
+    },
+    {
+      "senadoId": "551160",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-13-9284",
+      "titulo": "Lei nº 9.284 de 13/06/1996",
+      "data": "1996-06-13",
+      "numero": "9284",
+      "urn": "urn:lex:br:federal:lei:1996-06-13;9284",
+      "ementa": "Concede pensão especial a Mariana Olimpio Granja, filha menor de Deise Lima Olimpio Granja."
+    },
+    {
+      "senadoId": "551159",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-13-9283",
+      "titulo": "Lei nº 9.283 de 13/06/1996",
+      "data": "1996-06-13",
+      "numero": "9283",
+      "urn": "urn:lex:br:federal:lei:1996-06-13;9283",
+      "ementa": "Altera a Lei n° 8.457, de 4 de setembro de 1992."
+    },
+    {
+      "senadoId": "551161",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-13-9285",
+      "titulo": "Lei nº 9.285 de 13/06/1996",
+      "data": "1996-06-13",
+      "numero": "9285",
+      "urn": "urn:lex:br:federal:lei:1996-06-13;9285",
+      "ementa": "Concede pensão especial a Helena Santos Cabral, viúva de João da Silva Ribeiro."
+    },
+    {
+      "senadoId": "551158",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-13-9282",
+      "titulo": "Lei nº 9.282 de 13/06/1996",
+      "data": "1996-06-13",
+      "numero": "9282",
+      "urn": "urn:lex:br:federal:lei:1996-06-13;9282",
+      "ementa": "Reajusta a pensão especial concedida pela Lei nº 3.233, de 29 de julho de 1957, a Rosália Maria de Almeida da Conceição, viúva do ex-servidor federal Vital da Conceição."
+    },
+    {
+      "senadoId": "551157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-06-04-9281",
+      "titulo": "Lei nº 9.281 de 04/06/1996",
+      "data": "1996-06-04",
+      "numero": "9281",
+      "urn": "urn:lex:br:federal:lei:1996-06-04;9281",
+      "ementa": "Revoga os parágrafos únicos dos arts. 213 e 214 do Decreto-lei n° 2.848, de 7 de dezembro de 1940 - Código Penal."
+    },
+    {
+      "senadoId": "551156",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-30-9280",
+      "titulo": "Lei nº 9.280 de 30/05/1996",
+      "data": "1996-05-30",
+      "numero": "9280",
+      "urn": "urn:lex:br:federal:lei:1996-05-30;9280",
+      "ementa": "Acrescenta um § 2º ao art. 1.031 do Código de Processo Civil, transformando o atual parágrafo único em § 1º."
+    },
+    {
+      "senadoId": "551155",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-14-9279",
+      "titulo": "Lei nº 9.279 de 14/05/1996",
+      "data": "1996-05-14",
+      "numero": "9279",
+      "urn": "urn:lex:br:federal:lei:1996-05-14;9279",
+      "ementa": "Regula direitos e obrigações relativos à propriedade industrial."
+    },
+    {
+      "senadoId": "551153",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-10-9277",
+      "titulo": "Lei nº 9.277 de 10/05/1996",
+      "data": "1996-05-10",
+      "numero": "9277",
+      "urn": "urn:lex:br:federal:lei:1996-05-10;9277",
+      "ementa": "Autoriza a União a delegar aos municípios, estados da Federação e ao Distrito Federal a administração e exploração de rodovias e portos federais."
+    },
+    {
+      "senadoId": "551154",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-10-9278",
+      "titulo": "Lei nº 9.278 de 10/05/1996",
+      "data": "1996-05-10",
+      "numero": "9278",
+      "urn": "urn:lex:br:federal:lei:1996-05-10;9278",
+      "ementa": "Regula o § 3° do art. 226 da Constituição Federal."
+    },
+    {
+      "senadoId": "551152",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-09-9276",
+      "titulo": "Lei nº 9.276 de 09/05/1996",
+      "data": "1996-05-09",
+      "numero": "9276",
+      "urn": "urn:lex:br:federal:lei:1996-05-09;9276",
+      "ementa": "Dispõe sobre o Plano Plurianual para o período de 1996/1999 e dá outras providências."
+    },
+    {
+      "senadoId": "551151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-09-9275",
+      "titulo": "Lei nº 9.275 de 09/05/1996",
+      "data": "1996-05-09",
+      "numero": "9275",
+      "urn": "urn:lex:br:federal:lei:1996-05-09;9275",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1996."
+    },
+    {
+      "senadoId": "551150",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-07-9274",
+      "titulo": "Lei nº 9.274 de 07/05/1996",
+      "data": "1996-05-07",
+      "numero": "9274",
+      "urn": "urn:lex:br:federal:lei:1996-05-07;9274",
+      "ementa": "Dispõe sobre anistia relativamente às eleições de 3 de outubro e de 15 de novembro dos anos de 1992 e 1994."
+    },
+    {
+      "senadoId": "551149",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-03-9273",
+      "titulo": "Lei nº 9.273 de 03/05/1996",
+      "data": "1996-05-03",
+      "numero": "9273",
+      "urn": "urn:lex:br:federal:lei:1996-05-03;9273",
+      "ementa": "Torna obrigatória a inclusão de dispositivo de segurança que impeça a reutilização das seringas descartáveis."
+    },
+    {
+      "senadoId": "551148",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-05-03-9272",
+      "titulo": "Lei nº 9.272 de 03/05/1996",
+      "data": "1996-05-03",
+      "numero": "9272",
+      "urn": "urn:lex:br:federal:lei:1996-05-03;9272",
+      "ementa": "Acrescenta incisos ao art. 30 da Lei nº 8.171, de 17 de janeiro de 1991, que dispõe sobre a política agrícola."
+    },
+    {
+      "senadoId": "551147",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-04-17-9271",
+      "titulo": "Lei nº 9.271 de 17/04/1996",
+      "data": "1996-04-17",
+      "numero": "9271",
+      "urn": "urn:lex:br:federal:lei:1996-04-17;9271",
+      "ementa": "Altera os arts. 366, 367, 368, 369 e 370 do Decreto-lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal."
+    },
+    {
+      "senadoId": "551146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-04-17-9270",
+      "titulo": "Lei nº 9.270 de 17/04/1996",
+      "data": "1996-04-17",
+      "numero": "9270",
+      "urn": "urn:lex:br:federal:lei:1996-04-17;9270",
+      "ementa": "Acrescenta inciso ao art. 659 da Consolidação das Leis do Trabalho."
+    },
+    {
+      "senadoId": "551145",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-04-02-9269",
+      "titulo": "Lei nº 9.269 de 02/04/1996",
+      "data": "1996-04-02",
+      "numero": "9269",
+      "urn": "urn:lex:br:federal:lei:1996-04-02;9269",
+      "ementa": "Dá nova redação ao § 4º do art. 159 do Código Penal."
+    },
+    {
+      "senadoId": "551144",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-04-01-9268",
+      "titulo": "Lei nº 9.268 de 01/04/1996",
+      "data": "1996-04-01",
+      "numero": "9268",
+      "urn": "urn:lex:br:federal:lei:1996-04-01;9268",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal - Parte Geral."
+    },
+    {
+      "senadoId": "551143",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-03-25-9267",
+      "titulo": "Lei nº 9.267 de 25/03/1996",
+      "data": "1996-03-25",
+      "numero": "9267",
+      "urn": "urn:lex:br:federal:lei:1996-03-25;9267",
+      "ementa": "Altera a redação do § 4º do art. 24 da Lei nº 4.591, de 16 de dezembro de 1964, que dispõe sobre o condomínio em edificações e as incorporações imobiliárias."
+    },
+    {
+      "senadoId": "551142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-03-15-9266",
+      "titulo": "Lei nº 9.266 de 15/03/1996",
+      "data": "1996-03-15",
+      "numero": "9266",
+      "urn": "urn:lex:br:federal:lei:1996-03-15;9266",
+      "ementa": "Reorganiza as classes da Carreira Policial Federal, fixa a remuneração dos cargos que as integram e dá outras providências."
+    },
+    {
+      "senadoId": "551141",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-02-12-9265",
+      "titulo": "Lei nº 9.265 de 12/02/1996",
+      "data": "1996-02-12",
+      "numero": "9265",
+      "urn": "urn:lex:br:federal:lei:1996-02-12;9265",
+      "ementa": "Regulamenta o inciso LXXVII do art. 5º da Constituição, dispondo sobre a gratuidade dos atos necessários ao exercício da cidadania."
+    },
+    {
+      "senadoId": "551140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-02-07-9264",
+      "titulo": "Lei nº 9.264 de 07/02/1996",
+      "data": "1996-02-07",
+      "numero": "9264",
+      "urn": "urn:lex:br:federal:lei:1996-02-07;9264",
+      "ementa": "Dispõe sobre o desmembramento e a reorganização da Carreira Policial Civil do Distrito Federal, fixa remuneração de seus cargos e dá outras providências."
+    },
+    {
+      "senadoId": "551139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-12-9263",
+      "titulo": "Lei nº 9.263 de 12/01/1996",
+      "data": "1996-01-12",
+      "numero": "9263",
+      "urn": "urn:lex:br:federal:lei:1996-01-12;9263",
+      "ementa": "Regula o § 7º do art. 226 da Constituição Federal, que trata do planejamento familiar, estabelece penalidades e dá outras providências."
+    },
+    {
+      "senadoId": "551138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-12-9262",
+      "titulo": "Lei nº 9.262 de 12/01/1996",
+      "data": "1996-01-12",
+      "numero": "9262",
+      "urn": "urn:lex:br:federal:lei:1996-01-12;9262",
+      "ementa": "Dispõe sobre a administração da Área de Proteção Ambiental (APA) da Bacia do Rio São Bartolomeu, localizada no Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "551137",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-10-9261",
+      "titulo": "Lei nº 9.261 de 10/01/1996",
+      "data": "1996-01-10",
+      "numero": "9261",
+      "urn": "urn:lex:br:federal:lei:1996-01-10;9261",
+      "ementa": "Altera a redação dos incisos I e II do art. 2º, o caput do art. 3º, o inciso VI do art. 4º e o parágrafo único do art. 6º da Lei nº 7.377, de 30 de setembro de 1985."
+    },
+    {
+      "senadoId": "551136",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-10-9260",
+      "titulo": "Lei nº 9.260 de 10/01/1996",
+      "data": "1996-01-10",
+      "numero": "9260",
+      "urn": "urn:lex:br:federal:lei:1996-01-10;9260",
+      "ementa": "Concede pensão especial a Ayres Câmara Cunha."
+    },
+    {
+      "senadoId": "551133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-09-9257",
+      "titulo": "Lei nº 9.257 de 09/01/1996",
+      "data": "1996-01-09",
+      "numero": "9257",
+      "urn": "urn:lex:br:federal:lei:1996-01-09;9257",
+      "ementa": "Dispõe sobre o Conselho Nacional de Ciência e Tecnologia."
+    },
+    {
+      "senadoId": "551134",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-09-9258",
+      "titulo": "Lei nº 9.258 de 09/01/1996",
+      "data": "1996-01-09",
+      "numero": "9258",
+      "urn": "urn:lex:br:federal:lei:1996-01-09;9258",
+      "ementa": "Autoriza a reversão ao Município de Mamboré, Estado do Paraná, dos imóveis que menciona."
+    },
+    {
+      "senadoId": "551135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-09-9259",
+      "titulo": "Lei nº 9.259 de 09/01/1996",
+      "data": "1996-01-09",
+      "numero": "9259",
+      "urn": "urn:lex:br:federal:lei:1996-01-09;9259",
+      "ementa": "Acrescenta parágrafo único ao art. 10, dispõe sobre a aplicação dos arts. 49, 56, incisos III e IV, e 57, inciso III, da Lei nº 9.096 de 19 de setembro de 1995, e dá nova redação ao § 1º do art. 1º da Lei nº 1.533, de 31 de dezembro de 1951."
+    },
+    {
+      "senadoId": "551132",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-09-9256",
+      "titulo": "Lei nº 9.256 de 09/01/1996",
+      "data": "1996-01-09",
+      "numero": "9256",
+      "urn": "urn:lex:br:federal:lei:1996-01-09;9256",
+      "ementa": "Altera o\"caput do art. 53 e o § 3º do art. 63 da Lei nº 8.245, de 18 de outubro de 1991, que dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes."
+    },
+    {
+      "senadoId": "551130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-03-9254",
+      "titulo": "Lei nº 9.254 de 03/01/1996",
+      "data": "1996-01-03",
+      "numero": "9254",
+      "urn": "urn:lex:br:federal:lei:1996-01-03;9254",
+      "ementa": "Altera a redação do art. 12 da Lei nº 7.520, de 15 de julho de 1986."
+    },
+    {
+      "senadoId": "551131",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1996-01-03-9255",
+      "titulo": "Lei nº 9.255 de 03/01/1996",
+      "data": "1996-01-03",
+      "numero": "9255",
+      "urn": "urn:lex:br:federal:lei:1996-01-03;9255",
+      "ementa": "Autoriza o Poder Executivo a conceder pensão especial a Lúcia de Oliveira Menezes, tetraneta de Joaquim José da Silva Xavier, o Tiradentes."
+    }
+  ],
+  "pendencias": []
+}

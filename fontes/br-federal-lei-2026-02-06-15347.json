@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-02-06-15347",
+  "titulo": "Lei nº 15.347 de 06/02/2026",
+  "data": "2026-02-06",
+  "fonte": "https://normas.leg.br/api/public/binario/36f7eb18-a15f-4e37-b6e5-fd65901a9fd0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-02-06;15347",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-02-06%3B15347&tipo_documento=maior-detalhe",
+  "sha256_dados": "c0e789aa9788fc6bed570b2decaebf10f6f25dad484f2940c9a0cefbb539945a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:00:01.191Z",
+  "sha256_fonte": "60bbb7a31160340bc3e3d53eb4bd76e7d05fe67146d28dc6fb2f03472c3d0438",
+  "sha256_markdown": "c4fd8ec44d04af8a25cd06b3d774e5f077d1bcbcbfb6bfff27bb9cca49088d42"
+}

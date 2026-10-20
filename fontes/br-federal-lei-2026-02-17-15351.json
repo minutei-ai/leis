@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-02-17-15351",
+  "titulo": "Lei nº 15.351 de 17/02/2026",
+  "data": "2026-02-17",
+  "fonte": "https://normas.leg.br/api/public/binario/e0723103-8ad9-4dcb-b7fd-437240ab9207/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-02-17;15351",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-02-17%3B15351&tipo_documento=maior-detalhe",
+  "sha256_dados": "c1eaf17ec72ca1b7fdc0097694aaf397a49128364a972b8161fbf3d0ac752353",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:57.274Z",
+  "sha256_fonte": "1198f0a64a7c5312327c5d37fab774b7b4df849426138887d5d3b3c733a7c85c",
+  "sha256_markdown": "0f94cad63ecd82f7314aa56d5044b82ed96ee537efe78015be96bfe3c68a78a1"
+}

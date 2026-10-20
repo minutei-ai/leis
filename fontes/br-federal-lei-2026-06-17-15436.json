@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-17-15436",
+  "titulo": "Lei nº 15.436 de 17/06/2026",
+  "data": "2026-06-17",
+  "fonte": "https://normas.leg.br/api/public/binario/7e6eb46a-7746-4a79-88cc-d9b8ef8e75bc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-17;15436",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-17%3B15436&tipo_documento=maior-detalhe",
+  "sha256_dados": "3598b1dc2871ab0a99e21ed3b7761d6bff903c3189536f0d2b1cbb54dfe510c1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:08.615Z",
+  "sha256_fonte": "08f4be037b8157471c4b27a85cdb7ba6c0b080c700febaddc85698e6f5fbea4f",
+  "sha256_markdown": "4cf24b7a6a5eb3374ca793cc19b633f4bb04d45143c63615fe72baf8de94db0e"
+}

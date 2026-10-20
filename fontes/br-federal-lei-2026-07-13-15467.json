@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-07-13-15467",
+  "titulo": "Lei nº 15.467 de 13/07/2026",
+  "data": "2026-07-13",
+  "fonte": "https://normas.leg.br/api/public/binario/3ebba325-f0da-4a34-9271-2d40bb108780/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-07-13;15467",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-07-13%3B15467&tipo_documento=maior-detalhe",
+  "sha256_dados": "ca5d8ccd2794f0955e18893cfb319accc896a0758f71105da2ca23ef25f35b7c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:26.920Z",
+  "sha256_fonte": "cf3287a654a529664f0b66da4133295c1aa1003bc80e12520ea54c9fe05c40af",
+  "sha256_markdown": "e2878456fb5f486a8dabc0b7cdfc9d3fa4c99655fdaebb8170ab32679f0191e2"
+}

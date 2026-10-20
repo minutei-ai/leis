@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-05-21-15413",
+  "titulo": "Lei nº 15.413 de 21/05/2026",
+  "data": "2026-05-21",
+  "fonte": "https://normas.leg.br/api/public/binario/a8f68619-f019-4857-8374-e35e009514f6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-05-21;15413",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-05-21%3B15413&tipo_documento=maior-detalhe",
+  "sha256_dados": "bbf018fa18c65d94f3de718b3cb7661560867096a70acf291f347e5330e2b9a1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:58:37.231Z",
+  "sha256_fonte": "39e913e45f55989b3f3da72dd209ae03b54d3708db849c9d545305e917bcf9c0",
+  "sha256_markdown": "0c718453891f152754b12e0760a75acc03d8674f82f2ce5171b89f9f2287ac09"
+}

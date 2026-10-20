@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-03-26-15364",
+  "titulo": "Lei nº 15.364 de 26/03/2026",
+  "data": "2026-03-26",
+  "fonte": "https://normas.leg.br/api/public/binario/c90f410c-8381-40d8-b27b-6006c3c78521/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-03-26;15364",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-03-26%3B15364&tipo_documento=maior-detalhe",
+  "sha256_dados": "558e8d25ab238d0d851757ed8436c44dbc7003ebdfc9ce09e9e1f943c2f87aab",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:41.841Z",
+  "sha256_fonte": "5bf4b3550cbfe5efc0b542d55294349ed4d1b7acfe5dd6211950f9d5ae1949d0",
+  "sha256_markdown": "f95964077911735c71a1f4d1625472f6b4f19968aad7388b9e47734be3fc7f14"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-09-21-15509",
+  "titulo": "Lei nº 15.509 de 21/09/2026",
+  "data": "2026-09-21",
+  "fonte": "https://normas.leg.br/api/public/binario/12a9e5c4-c0b9-4c3f-aa10-886d4cb302ca/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-09-21;15509",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-09-21%3B15509&tipo_documento=maior-detalhe",
+  "sha256_dados": "25c3a21fc445d0500175939b4c23f6326dad28e927bc8fc5cc0b9bde050011c9",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:56:29.955Z",
+  "sha256_fonte": "996f73c1c832e5d875ef8b6f8a031ac93829eaa43a8b8284c90a1f5ff1d5bce0",
+  "sha256_markdown": "7897d50d4caf27f5fb5d61f268f34818ea3d7dbd35cf12ca7d4adebb3f0ffdee"
+}

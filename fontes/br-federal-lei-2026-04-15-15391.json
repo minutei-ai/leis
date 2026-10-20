@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-04-15-15391",
+  "titulo": "Lei nº 15.391 de 15/04/2026",
+  "data": "2026-04-15",
+  "fonte": "https://normas.leg.br/api/public/binario/6205c1fc-31b1-4ea7-b420-3352240acf7a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-04-15;15391",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-04-15%3B15391&tipo_documento=maior-detalhe",
+  "sha256_dados": "485b09056c42f1769ee37fab7d8adc24370434a69f24a2f985914e3bd8fe0f1b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:05.160Z",
+  "sha256_fonte": "f34fec471d2b4167f7cad30dc676a28836fbe56dd9945102793af66790c3bf65",
+  "sha256_markdown": "91eab14c25dd82102edc12cb109a6b926120f51d7725430cfaa4be3eb64e520f"
+}

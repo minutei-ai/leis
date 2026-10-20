@@ -1,0 +1,2769 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1957",
+  "tipo": "LEI",
+  "ano": 1957,
+  "coletado_em": "2026-10-20T23:02:00.302Z",
+  "normas": [
+    {
+      "senadoId": "545167",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3364",
+      "titulo": "Lei nº 3.364 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3364",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3364",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, crédito especial destinado a auxiliar as obras do Sanatório Evangélico de Belo Horizonte, em Minas Gerais, e do Sanatório General Severiano da Fonseca, em Maceió, Alagoas."
+    },
+    {
+      "senadoId": "545164",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3361",
+      "titulo": "Lei nº 3.361 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3361",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3361",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Agricultura, o crédito especial de Cr$ 500.000.00 à Prefeitura Municipal de Lapa, no Estado do Paraná."
+    },
+    {
+      "senadoId": "545163",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3360",
+      "titulo": "Lei nº 3.360 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3360",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3360",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Distrito Federal - Tribunal de Justiça, o crédito especial de Cr$ 2.500.000,00 para atender a despesas com o pagamento de substituições de magistrados e funcionários de sua secretaria."
+    },
+    {
+      "senadoId": "545168",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3365",
+      "titulo": "Lei nº 3.365 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3365",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3365",
+      "ementa": "Estabelece norma para pagamento aos servidores dos \"Acordos\" equiparados   aos extranumerários da União."
+    },
+    {
+      "senadoId": "545166",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3363",
+      "titulo": "Lei nº 3.363 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3363",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3363",
+      "ementa": "Autoriza a Estrada de Ferro Santos a Jundiaí ou Rede Ferroviária Nacional a subscrever capital social da Companhia Siderúrgica Paulista (COSIPA) e dá outras providências."
+    },
+    {
+      "senadoId": "545165",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3362",
+      "titulo": "Lei nº 3.362 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3362",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3362",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 2.000.000,00 para atender às despesas com a comeração do I centenário da elevação de Marquês de Valença, no Estado do Rio de Janeiro, à categoria de cidade."
+    },
+    {
+      "senadoId": "545172",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3367",
+      "titulo": "Lei nº 3.367 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3367",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3367",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais a Amélia de Carvalho Cunha, filha do ex-professor Felisberto de Carvalho."
+    },
+    {
+      "senadoId": "545170",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-26-3366",
+      "titulo": "Lei nº 3.366 de 26/12/1957",
+      "data": "1957-12-26",
+      "numero": "3366",
+      "urn": "urn:lex:br:federal:lei:1957-12-26;3366",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Delmira de Faria Fonseca, viúva de Benedito Garibaldi da Fonseca, ex-funcionário do Ministério da Viação e Obras Públicas."
+    },
+    {
+      "senadoId": "545160",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-22-3357",
+      "titulo": "Lei nº 3.357 de 22/12/1957",
+      "data": "1957-12-22",
+      "numero": "3357",
+      "urn": "urn:lex:br:federal:lei:1957-12-22;3357",
+      "ementa": "Cria o Museu da Abolição, com sede na cidade do Recife, capital do Estado   de Pernambuco."
+    },
+    {
+      "senadoId": "545158",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-22-3355",
+      "titulo": "Lei nº 3.355 de 22/12/1957",
+      "data": "1957-12-22",
+      "numero": "3355",
+      "urn": "urn:lex:br:federal:lei:1957-12-22;3355",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Thereza Cardoso, filha   maior e solteira do falecido operário de 1º classe do Arsenal de Guerra do Rio   de Janeiro, João Theóphilo Cardoso."
+    },
+    {
+      "senadoId": "545162",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-22-3359",
+      "titulo": "Lei nº 3.359 de 22/12/1957",
+      "data": "1957-12-22",
+      "numero": "3359",
+      "urn": "urn:lex:br:federal:lei:1957-12-22;3359",
+      "ementa": "Dispõe sobre as condições para admissão de nacionais e estrangeiros ao exercício de atividade renumerada no País e sobre a abolição do registro policial de estrangeiros."
+    },
+    {
+      "senadoId": "545159",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-22-3356",
+      "titulo": "Lei nº 3.356 de 22/12/1957",
+      "data": "1957-12-22",
+      "numero": "3356",
+      "urn": "urn:lex:br:federal:lei:1957-12-22;3356",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 4.000.000,00 para obras nos Ginásio de Santo Ângelo, Ginásio N. S. da Luz, Ginásio Salesiano de N. S. da Vitória e Ginásio do Estado, nos Estados do Rio Grande do Sul, Paraíba, Espírito Santo e São Paulo."
+    },
+    {
+      "senadoId": "545161",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-22-3358",
+      "titulo": "Lei nº 3.358 de 22/12/1957",
+      "data": "1957-12-22",
+      "numero": "3358",
+      "urn": "urn:lex:br:federal:lei:1957-12-22;3358",
+      "ementa": "Concede o auxílio de Cr$ 5.000.000,00 à Prefeitura Municipal de Santa   Maria, no Estado do Rio Grande do Sul, para comemoração do centenário da   instalação do Município."
+    },
+    {
+      "senadoId": "545157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-20-3354",
+      "titulo": "Lei nº 3.354 de 20/12/1957",
+      "data": "1957-12-20",
+      "numero": "3354",
+      "urn": "urn:lex:br:federal:lei:1957-12-20;3354",
+      "ementa": "Altera a redação do art. 1º da Lei n° 3.076, de 22 de dezembro de 1956, que define a aplicação do art. 9º da Lei n° 1.765, de 18 de dezembro de 1950, e do art. 4º da Lei número 2.412, de 1 de fevereiro de 1955."
+    },
+    {
+      "senadoId": "545156",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-20-3353",
+      "titulo": "Lei nº 3.353 de 20/12/1957",
+      "data": "1957-12-20",
+      "numero": "3353",
+      "urn": "urn:lex:br:federal:lei:1957-12-20;3353",
+      "ementa": "Prorroga a vigência da Lei n° 1.886, de 11 de junho de 1953, que aprova o Plano do Carvão Nacional, e dispõe sobre sua execução, e dá outras providências."
+    },
+    {
+      "senadoId": "545153",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-18-3351",
+      "titulo": "Lei nº 3.351 de 18/12/1957",
+      "data": "1957-12-18",
+      "numero": "3351",
+      "urn": "urn:lex:br:federal:lei:1957-12-18;3351",
+      "ementa": "Altera a Lei n° 2.429, de 16 de fevereiro de 1955, que fixa o número de   Oficiais Generais de Exército."
+    },
+    {
+      "senadoId": "545154",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-18-3352",
+      "titulo": "Lei nº 3.352 de 18/12/1957",
+      "data": "1957-12-18",
+      "numero": "3352",
+      "urn": "urn:lex:br:federal:lei:1957-12-18;3352",
+      "ementa": "Altera disposições do Decreto-Lei n° 2.865, de 12 de dezembro de 1940, que dispõe sobre organização e funcionamento do Instituto de Previdência e Assistência dos Servidores do Estado."
+    },
+    {
+      "senadoId": "545151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-18-3350",
+      "titulo": "Lei nº 3.350 de 18/12/1957",
+      "data": "1957-12-18",
+      "numero": "3350",
+      "urn": "urn:lex:br:federal:lei:1957-12-18;3350",
+      "ementa": "Altera a carreira de datiloscopista do Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências."
+    },
+    {
+      "senadoId": "545150",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-18-3349",
+      "titulo": "Lei nº 3.349 de 18/12/1957",
+      "data": "1957-12-18",
+      "numero": "3349",
+      "urn": "urn:lex:br:federal:lei:1957-12-18;3349",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais a Eunice Medeiros Cela,   víúva do pintor brasileiro Raymundo Brandão Cela."
+    },
+    {
+      "senadoId": "545144",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-17-3345",
+      "titulo": "Lei nº 3.345 de 17/12/1957",
+      "data": "1957-12-17",
+      "numero": "3345",
+      "urn": "urn:lex:br:federal:lei:1957-12-17;3345",
+      "ementa": "Considera equivalentes aos cursos de comandante de pelotão, de seção ou de aperfeiçoamento das Escolas de Sargentos das Armas, do Exército, para os efeitos do § 1º, do art. 51, da Lei n° 2.370, de 9 de dezembro de 1954, os cursos de aperfeiçoamento, técnico profissional e das Escolas Profissionais da Marinha de Guerra."
+    },
+    {
+      "senadoId": "545148",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-17-3348",
+      "titulo": "Lei nº 3.348 de 17/12/1957",
+      "data": "1957-12-17",
+      "numero": "3348",
+      "urn": "urn:lex:br:federal:lei:1957-12-17;3348",
+      "ementa": "Concede os auxílios de Cr$ 2.000.000,00 e Cr$ 2.000.000,00 à Faculdade de Filosofia da cidade de Pelotas, no Estado do Rio Grande do Sul, e à Faculdade de Filosofia do Ceará."
+    },
+    {
+      "senadoId": "545146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-17-3347",
+      "titulo": "Lei nº 3.347 de 17/12/1957",
+      "data": "1957-12-17",
+      "numero": "3347",
+      "urn": "urn:lex:br:federal:lei:1957-12-17;3347",
+      "ementa": "Autoriza Poder Executivo a doar imóvel à Associação dos Ex-Combatentes do Brasil, seção do Distrito Federal."
+    },
+    {
+      "senadoId": "545145",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-17-3346",
+      "titulo": "Lei nº 3.346 de 17/12/1957",
+      "data": "1957-12-17",
+      "numero": "3346",
+      "urn": "urn:lex:br:federal:lei:1957-12-17;3346",
+      "ementa": "Acrescenta item ao art. 9º do Decreto-lei nº 6.259, de 10 de fevereiro de 1944, que dispõe sobre o serviço de loterias e dá outras providências."
+    },
+    {
+      "senadoId": "545140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3341",
+      "titulo": "Lei nº 3.341 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3341",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3341",
+      "ementa": "Concede isenção de direitos aduaneiros, impôsto de consumo e taxas alfandegárias para material a ser importado da Alemanha Ocidental, destinado à Basílica de Nossa Senhora de Ubá, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "545142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3343",
+      "titulo": "Lei nº 3.343 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3343",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3343",
+      "ementa": "Cria cargos no Quadro do Pessoal da Justiça do Trabalho da 2º Região, e dá outras providências."
+    },
+    {
+      "senadoId": "545141",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3342",
+      "titulo": "Lei nº 3.342 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3342",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3342",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Carporina Barroso de Araújo Corrêa, viúva do Oficial Aduaneiro da Guarda-moria da Alfândega, Ismael Pinto de Araújo Corrêa."
+    },
+    {
+      "senadoId": "545139",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3340",
+      "titulo": "Lei nº 3.340 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3340",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3340",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais a Zima Reis e Silva,   viúva do tenor Reis e Silva."
+    },
+    {
+      "senadoId": "545143",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3344",
+      "titulo": "Lei nº 3.344 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3344",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3344",
+      "ementa": "Prorroga o prazo de vigência da Lei n° 1.522, de 26 de dezembro de 1951, com as alterações que lhe foram introduzidas pela Lei n° 3.084, de 29 de dezembro de 1956."
+    },
+    {
+      "senadoId": "545137",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3338",
+      "titulo": "Lei nº 3.338 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3338",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3338",
+      "ementa": "Altera disposições das Leis n° 2.550, de 25 de julho de 1955, e 2.982, de 30 de novembro de 1956, e dá outras providências."
+    },
+    {
+      "senadoId": "545138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-14-3339",
+      "titulo": "Lei nº 3.339 de 14/12/1957",
+      "data": "1957-12-14",
+      "numero": "3339",
+      "urn": "urn:lex:br:federal:lei:1957-12-14;3339",
+      "ementa": "Denomina Refinaria Landulpho Alves a Refinaria de Mataripe, no Estado da Bahia."
+    },
+    {
+      "senadoId": "545136",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-12-3337",
+      "titulo": "Lei nº 3.337 de 12/12/1957",
+      "data": "1957-12-12",
+      "numero": "3337",
+      "urn": "urn:lex:br:federal:lei:1957-12-12;3337",
+      "ementa": "Dispõe sobre a emissão de letras e obrigações do Tesouro Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "545134",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-10-3335",
+      "titulo": "Lei nº 3.335 de 10/12/1957",
+      "data": "1957-12-10",
+      "numero": "3335",
+      "urn": "urn:lex:br:federal:lei:1957-12-10;3335",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Supremo Tribunal Federal, o crédito especial de Cr$ 93.000,00 para atender ao pagamento de diferença de gratificação adicional e abono de emergência a funcionários da Secretaria daquele Tribunal."
+    },
+    {
+      "senadoId": "545133",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-10-3334",
+      "titulo": "Lei nº 3.334 de 10/12/1957",
+      "data": "1957-12-10",
+      "numero": "3334",
+      "urn": "urn:lex:br:federal:lei:1957-12-10;3334",
+      "ementa": "Dispõe sobre o quadro dos servidores auxiliares do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "545135",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-10-3336",
+      "titulo": "Lei nº 3.336 de 10/12/1957",
+      "data": "1957-12-10",
+      "numero": "3336",
+      "urn": "urn:lex:br:federal:lei:1957-12-10;3336",
+      "ementa": "Prorroga até 31 de dezembro de 1958 a Lei n° 1.300, de 28 de novembro de   1950, com as alterações mantidas na Lei n° 3.085, de 29 de dezembro de 1956, e dá   outras providências."
+    },
+    {
+      "senadoId": "545132",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-06-3333",
+      "titulo": "Lei nº 3.333 de 06/12/1957",
+      "data": "1957-12-06",
+      "numero": "3333",
+      "urn": "urn:lex:br:federal:lei:1957-12-06;3333",
+      "ementa": "Cria, no Ministério da Educação e Cultura, o Quadro Especial do Instituto de Belas Artes do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "545127",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-05-3328",
+      "titulo": "Lei nº 3.328 de 05/12/1957",
+      "data": "1957-12-05",
+      "numero": "3328",
+      "urn": "urn:lex:br:federal:lei:1957-12-05;3328",
+      "ementa": "Altera o limite estipulado o art. 1º, in fine , da Lei n° 2.181, de 5 de fevereiro de 1954, e dá outras providências."
+    },
+    {
+      "senadoId": "545131",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-05-3332",
+      "titulo": "Lei nº 3.332 de 05/12/1957",
+      "data": "1957-12-05",
+      "numero": "3332",
+      "urn": "urn:lex:br:federal:lei:1957-12-05;3332",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 158.000.000,00, para atender às despesas com a instalação e funcionamento da Comissão Nacional de Energia Nuclear."
+    },
+    {
+      "senadoId": "545129",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-05-3330",
+      "titulo": "Lei nº 3.330 de 05/12/1957",
+      "data": "1957-12-05",
+      "numero": "3330",
+      "urn": "urn:lex:br:federal:lei:1957-12-05;3330",
+      "ementa": "Dispõe sobre o recolhimento pelas empresas de navegação aérea comercial,   das contribuições de previdência social em atraso."
+    },
+    {
+      "senadoId": "545128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-05-3329",
+      "titulo": "Lei nº 3.329 de 05/12/1957",
+      "data": "1957-12-05",
+      "numero": "3329",
+      "urn": "urn:lex:br:federal:lei:1957-12-05;3329",
+      "ementa": "Concede pensões especiais de Cr$ 3.000,000 mensais a Eva Alves de ;Goes, viúva de Augusto de Araújo Goes, e Alpheu Ribeiro Aboim, veterano da Campanha de Canudos."
+    },
+    {
+      "senadoId": "545130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-05-3331",
+      "titulo": "Lei nº 3.331 de 05/12/1957",
+      "data": "1957-12-05",
+      "numero": "3331",
+      "urn": "urn:lex:br:federal:lei:1957-12-05;3331",
+      "ementa": "Abre ao Poder Judiciário - Justiça Militar, Superior Tribunal Militar, o crédito especial de Cr$ 5.000.000,00 para atender às despesas com as solenidades comemorativas do sesquicentenário de criação daquele Tribunal."
+    },
+    {
+      "senadoId": "545126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-03-3327-a",
+      "titulo": "Lei nº 3.327-A de 03/12/1957",
+      "data": "1957-12-03",
+      "numero": "3327-a",
+      "urn": "urn:lex:br:federal:lei:1957-12-03;3327-a",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1958."
+    },
+    {
+      "senadoId": "545122",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-02-3325",
+      "titulo": "Lei nº 3.325 de 02/12/1957",
+      "data": "1957-12-02",
+      "numero": "3325",
+      "urn": "urn:lex:br:federal:lei:1957-12-02;3325",
+      "ementa": "Concede isenção de direitos aduaneiros, inclusive adicional de 10%, impôsto de consumo e mais taxas alfandegárias para material importado pela Companhia Telefônica da Borda do Campo, com sede em Santo André, Estado de São Paulo."
+    },
+    {
+      "senadoId": "545125",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-02-3327",
+      "titulo": "Lei nº 3.327 de 02/12/1957",
+      "data": "1957-12-02",
+      "numero": "3327",
+      "urn": "urn:lex:br:federal:lei:1957-12-02;3327",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 30.000.000,00, destinado à complementação   das obras da construção, onde serão localizados o Depósito de Presos e o   Instituto Felix Pacheco."
+    },
+    {
+      "senadoId": "545124",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-12-02-3326",
+      "titulo": "Lei nº 3.326 de 02/12/1957",
+      "data": "1957-12-02",
+      "numero": "3326",
+      "urn": "urn:lex:br:federal:lei:1957-12-02;3326",
+      "ementa": "Abre o crédito suplementar de Cr$ 4.000.000,00 ao Orçamento da União, para   o exercício de 1957, Anexo 2 - Poder Legislativo, Câmara dos   Deputados."
+    },
+    {
+      "senadoId": "545121",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-27-3324",
+      "titulo": "Lei nº 3.324 de 27/11/1957",
+      "data": "1957-11-27",
+      "numero": "3324",
+      "urn": "urn:lex:br:federal:lei:1957-11-27;3324",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,000 mensais ao advogado Wenceslau Barcelos."
+    },
+    {
+      "senadoId": "545120",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-27-3323",
+      "titulo": "Lei nº 3.323 de 27/11/1957",
+      "data": "1957-11-27",
+      "numero": "3323",
+      "urn": "urn:lex:br:federal:lei:1957-11-27;3323",
+      "ementa": "Assegura por três exercícios a validade da Lei n° 2.494, de 26 de maio de 1955, e dá outras providências."
+    },
+    {
+      "senadoId": "545119",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-26-3322",
+      "titulo": "Lei nº 3.322 de 26/11/1957",
+      "data": "1957-11-26",
+      "numero": "3322",
+      "urn": "urn:lex:br:federal:lei:1957-11-26;3322",
+      "ementa": "Estabelece em novos moldes a aposentadoria ordinária, dispõe sobre a aposentadoria por invalidez dos trabalhadores vinculados ao Instituto de Aposentadoria e Pensões dos Bancários e dá outras providências."
+    },
+    {
+      "senadoId": "545118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-25-3321",
+      "titulo": "Lei nº 3.321 de 25/11/1957",
+      "data": "1957-11-25",
+      "numero": "3321",
+      "urn": "urn:lex:br:federal:lei:1957-11-25;3321",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 10.000.000,00 para o combate às geadas na região   cafeeira do Estado do Paraná."
+    },
+    {
+      "senadoId": "545117",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-25-3320",
+      "titulo": "Lei nº 3.320 de 25/11/1957",
+      "data": "1957-11-25",
+      "numero": "3320",
+      "urn": "urn:lex:br:federal:lei:1957-11-25;3320",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 800.000,00 como auxílio ao IX Congresso Brasileiro de Gastrenterologia."
+    },
+    {
+      "senadoId": "545116",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-18-3319",
+      "titulo": "Lei nº 3.319 de 18/11/1957",
+      "data": "1957-11-18",
+      "numero": "3319",
+      "urn": "urn:lex:br:federal:lei:1957-11-18;3319",
+      "ementa": "Revigora pelo prazo de dois anos o crédito especial de Cr$ 150.000.000,00, autorizado pela Lei n° 2.326, de 20 de setembro de 1954, para ocorrer às despesas com o pagamento das importâncias devidas aos veteranos da Guerra do Paraguai e Campanha do Uruguai, suas viúvas e filhas."
+    },
+    {
+      "senadoId": "545108",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-18-3314",
+      "titulo": "Lei nº 3.314 de 18/11/1957",
+      "data": "1957-11-18",
+      "numero": "3314",
+      "urn": "urn:lex:br:federal:lei:1957-11-18;3314",
+      "ementa": "Concede a inclusão da Faculdade de Farmácia e Odontologia de Ribeirão Prêto entre os estabelecimentos subvencionados pelo Govêrno Federal."
+    },
+    {
+      "senadoId": "545112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-18-3317",
+      "titulo": "Lei nº 3.317 de 18/11/1957",
+      "data": "1957-11-18",
+      "numero": "3317",
+      "urn": "urn:lex:br:federal:lei:1957-11-18;3317",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 30.000.000,00 para o custeio de obras no   sistema ferroviário federal no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "545114",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-18-3318",
+      "titulo": "Lei nº 3.318 de 18/11/1957",
+      "data": "1957-11-18",
+      "numero": "3318",
+      "urn": "urn:lex:br:federal:lei:1957-11-18;3318",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do   Trabalho da 8ª Região - o crédito especial de Cr$ 48.000,00 para atender ao   pagamento dos aluguéis de imóvel, nos exercícios de 1955 e 1956."
+    },
+    {
+      "senadoId": "545109",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-18-3315",
+      "titulo": "Lei nº 3.315 de 18/11/1957",
+      "data": "1957-11-18",
+      "numero": "3315",
+      "urn": "urn:lex:br:federal:lei:1957-11-18;3315",
+      "ementa": "Estabelece a gratificação do presidente, do secretário-geral e mais   membros do Conselho Penitenciário do Distrito Federal."
+    },
+    {
+      "senadoId": "545110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-18-3316",
+      "titulo": "Lei nº 3.316 de 18/11/1957",
+      "data": "1957-11-18",
+      "numero": "3316",
+      "urn": "urn:lex:br:federal:lei:1957-11-18;3316",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Aldina Cordeiro Côrtes, viúva do jornalista e historiador José Saboia Côrtes."
+    },
+    {
+      "senadoId": "545106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-14-3313",
+      "titulo": "Lei nº 3.313 de 14/11/1957",
+      "data": "1957-11-14",
+      "numero": "3313",
+      "urn": "urn:lex:br:federal:lei:1957-11-14;3313",
+      "ementa": "Assegura aos servidores do Departamento Federal de   Segurança Pública, com exercício de atividade estritamente policial, prisão   especial, aposentadoria aos 25 anos de serviço e promoção                         post-mortem."
+    },
+    {
+      "senadoId": "545104",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3312",
+      "titulo": "Lei nº 3.312 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3312",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3312",
+      "ementa": "Autoriza o Poder Executivo a afetuar empréstimos para construção de pequenos açudes na área do Polígono das Secas, e revoga as Leis nºs. 614, de 2 de fevereiro de 1949, e 1255, de 4 de dezembro de 1950."
+    },
+    {
+      "senadoId": "545102",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3311",
+      "titulo": "Lei nº 3.311 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3311",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3311",
+      "ementa": "Promove a emissão de selos comemorativos."
+    },
+    {
+      "senadoId": "545097",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3308",
+      "titulo": "Lei nº 3.308 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3308",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3308",
+      "ementa": "Autoriza a emissão de selos postais comemorativos do I centenário de nascimento do escritor e jornalista José Veríssimo Dias de Matos."
+    },
+    {
+      "senadoId": "545098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3309",
+      "titulo": "Lei nº 3.309 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3309",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3309",
+      "ementa": "Concede a pensão especial de Cr$ 5.676,70 mensais a Luiza Hollanda de Oliveira, viúva de Francisco Cypriano de Oliveira, herói da revolução acreana."
+    },
+    {
+      "senadoId": "545095",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3307",
+      "titulo": "Lei nº 3.307 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3307",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3307",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Stela de Oliveira Cruls, filha solteira de Dr. Luiz Cruls."
+    },
+    {
+      "senadoId": "545100",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3310",
+      "titulo": "Lei nº 3.310 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3310",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3310",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 2.000.000,00, para auxiliar o Museu de Arte Moderna, de São Paulo, na realização do programa da IV Bienal de São Paulo."
+    },
+    {
+      "senadoId": "545094",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-11-3306",
+      "titulo": "Lei nº 3.306 de 11/11/1957",
+      "data": "1957-11-11",
+      "numero": "3306",
+      "urn": "urn:lex:br:federal:lei:1957-11-11;3306",
+      "ementa": "Prorroga até o encerramento do exercício de 1959 - 2 exercícios - o prazo de vigência do crédito especial de Cr$ 50.000.000,00, de que trata a Lei n° 2.634, de 26 de outubro de 1955."
+    },
+    {
+      "senadoId": "545092",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-05-3304",
+      "titulo": "Lei nº 3.304 de 05/11/1957",
+      "data": "1957-11-05",
+      "numero": "3304",
+      "urn": "urn:lex:br:federal:lei:1957-11-05;3304",
+      "ementa": "Dispõe sobre o pagamento de cooperações financeiras não inscritas em   \"restos a pagar\" ou satisfeitas por \"exercícios findos\" a instituições de   assistência social, hospitalar, cultural, educacional e rural."
+    },
+    {
+      "senadoId": "545093",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-05-3305",
+      "titulo": "Lei nº 3.305 de 05/11/1957",
+      "data": "1957-11-05",
+      "numero": "3305",
+      "urn": "urn:lex:br:federal:lei:1957-11-05;3305",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da   Educação e Cultura, os créditos especiais de Cr$ 10.000.000,00 e Cr$ 2.000.000,00 como auxílios à Associação Cristã de Moços do Rio de Janeiro e à Associação Cristã de Moços ;de Pôrto Alegre, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "545088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-04-3302",
+      "titulo": "Lei nº 3.302 de 04/11/1957",
+      "data": "1957-11-04",
+      "numero": "3302",
+      "urn": "urn:lex:br:federal:lei:1957-11-04;3302",
+      "ementa": "Cria uma taxa especial de propaganda do café no exterior."
+    },
+    {
+      "senadoId": "545090",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-11-04-3303",
+      "titulo": "Lei nº 3.303 de 04/11/1957",
+      "data": "1957-11-04",
+      "numero": "3303",
+      "urn": "urn:lex:br:federal:lei:1957-11-04;3303",
+      "ementa": "Retifica, sem alteração de despesa, a Lei n° 2665, de 6 de dezembro de   1955."
+    },
+    {
+      "senadoId": "545081",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3296",
+      "titulo": "Lei nº 3.296 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3296",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3296",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 2.000.000,00 para auxiliar a realização da II Exposição Agro-Avícola-Industrial no Município de Canoinhas, Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "545084",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3299",
+      "titulo": "Lei nº 3.299 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3299",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3299",
+      "ementa": "Declara de utilidade pública, para fins de desapropriação, as cotas da Sociedade Serviço Marítimo Sul Brasil Ltda., e dá outras providências."
+    },
+    {
+      "senadoId": "545082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3297",
+      "titulo": "Lei nº 3.297 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3297",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3297",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder   Judiciário - Tribunal Federal de Recursos - o crédito suplementar de Cr$ 283.000.000,00 em refôrço da Verba - 1.0.00 - Custeio, Consignação 1.6.00 - ;Encargos Diversos, Subconsignação 1.6.06 -  ;Sentenças Judiciárias, 5.02 - Tribunal Federal de Recursos, no exercício de 1957."
+    },
+    {
+      "senadoId": "545086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3301",
+      "titulo": "Lei nº 3.301 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3301",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3301",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 5.000.000,00 para ocorrer às despesas da realização do VII Congresso Nacional de Jornalistas."
+    },
+    {
+      "senadoId": "545083",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3298",
+      "titulo": "Lei nº 3.298 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3298",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3298",
+      "ementa": "Cria cargos de Professor Catedrático no Quadro Permanente do Ministério da Educação e Cultura, e dá outras providências."
+    },
+    {
+      "senadoId": "545085",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3300",
+      "titulo": "Lei nº 3.300 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3300",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3300",
+      "ementa": "Cria cargos no Quadro do Pessoal da Justiça do Trabalho da 8ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "545080",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-30-3295",
+      "titulo": "Lei nº 3.295 de 30/10/1957",
+      "data": "1957-10-30",
+      "numero": "3295",
+      "urn": "urn:lex:br:federal:lei:1957-10-30;3295",
+      "ementa": "Cria a Fundação de Assistência aos Garimpeiros, e dá outras providências."
+    },
+    {
+      "senadoId": "545077",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-29-3293",
+      "titulo": "Lei nº 3.293 de 29/10/1957",
+      "data": "1957-10-29",
+      "numero": "3293",
+      "urn": "urn:lex:br:federal:lei:1957-10-29;3293",
+      "ementa": "Modifica o art. 91 e revoga os arts. 92 e 93 da Lei Orgânica do Ensino   Secundário (Decreto-Lei n° 4.244, de 9 de abril de 1942)."
+    },
+    {
+      "senadoId": "545079",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-29-3294",
+      "titulo": "Lei nº 3.294 de 29/10/1957",
+      "data": "1957-10-29",
+      "numero": "3294",
+      "urn": "urn:lex:br:federal:lei:1957-10-29;3294",
+      "ementa": "Concede à Prefeitura Municipal de Passo Fundo, no Estado do Rio Grande do Sul, o auxílio de Cr$ 5.000.000,00 para realização da VII Festa Nacional do Trigo e da Exposição Agro-Pecuária e Industrial."
+    },
+    {
+      "senadoId": "545076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-23-3292",
+      "titulo": "Lei nº 3.292 de 23/10/1957",
+      "data": "1957-10-23",
+      "numero": "3292",
+      "urn": "urn:lex:br:federal:lei:1957-10-23;3292",
+      "ementa": "Estende a jurisdição das Juntas de Conciliação e Julgamento do Distrito Federal aos Municípios de Duque de Caxias, São João de Meriti, Nilópolis e Nova Iguaçu, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "545075",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-23-3291",
+      "titulo": "Lei nº 3.291 de 23/10/1957",
+      "data": "1957-10-23",
+      "numero": "3291",
+      "urn": "urn:lex:br:federal:lei:1957-10-23;3291",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, crédito especial de Cr$ 6.000.000,00 destinado a socorrer as vítimas das inundações verificadas nos Municípios de Petrolina, Estado de Pernambuco, e Casa Nova, Estado da Bahia."
+    },
+    {
+      "senadoId": "545073",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-23-3290",
+      "titulo": "Lei nº 3.290 de 23/10/1957",
+      "data": "1957-10-23",
+      "numero": "3290",
+      "urn": "urn:lex:br:federal:lei:1957-10-23;3290",
+      "ementa": "Modifica o art. 5º da Lei nº 1.521, de 26 de dezembro de 1951, que altera dispositivos da legislação vigente sobre crimes contra a economia popular."
+    },
+    {
+      "senadoId": "545072",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-22-3289",
+      "titulo": "Lei nº 3.289 de 22/10/1957",
+      "data": "1957-10-22",
+      "numero": "3289",
+      "urn": "urn:lex:br:federal:lei:1957-10-22;3289",
+      "ementa": "Estende aos suboficiais da Marinha de Guerra e da antiga Aviação Naval os benefícios da Lei n° 1.037, de 31 de dezembro de 1949 (Dispõe sobre a promoção de subtenentes do Exército)."
+    },
+    {
+      "senadoId": "545069",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-20-3287",
+      "titulo": "Lei nº 3.287 de 20/10/1957",
+      "data": "1957-10-20",
+      "numero": "3287",
+      "urn": "urn:lex:br:federal:lei:1957-10-20;3287",
+      "ementa": "Inclui no Orçamento Geral da União, durante quatro exercícios consecutivos, a importância anual de Cr$ 80.000.000,00 para conclusão da ligação ferroviária do Pôrto de Campinho a Contendas, no Estado da Bahia."
+    },
+    {
+      "senadoId": "545071",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-20-3288",
+      "titulo": "Lei nº 3.288 de 20/10/1957",
+      "data": "1957-10-20",
+      "numero": "3288",
+      "urn": "urn:lex:br:federal:lei:1957-10-20;3288",
+      "ementa": "Abre ao Ministério da Justiça e Negócios Interiores, Poder Judiciário - Tribunal de Justiça do Distrito Federal, o crédito especial de Cr$ 139.516,60 para atender ao pagamento devido ao Ministro aposentado Antônio Pereira Braga."
+    },
+    {
+      "senadoId": "545067",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-19-3286",
+      "titulo": "Lei nº 3.286 de 19/10/1957",
+      "data": "1957-10-19",
+      "numero": "3286",
+      "urn": "urn:lex:br:federal:lei:1957-10-19;3286",
+      "ementa": "Determina a construção da primeira etapa do pôrto de alto calado da baía de Maraú, no local denominado Campinho, no Estado da Bahia."
+    },
+    {
+      "senadoId": "545065",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-17-3285",
+      "titulo": "Lei nº 3.285 de 17/10/1957",
+      "data": "1957-10-17",
+      "numero": "3285",
+      "urn": "urn:lex:br:federal:lei:1957-10-17;3285",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 30.000.000,00 destinado a atender despesas com a aquisição da maquinaria da Companhia Nacional Forjagem de Aço Brasileiro - CONFAB."
+    },
+    {
+      "senadoId": "545063",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-14-3284",
+      "titulo": "Lei nº 3.284 de 14/10/1957",
+      "data": "1957-10-14",
+      "numero": "3284",
+      "urn": "urn:lex:br:federal:lei:1957-10-14;3284",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 400.000.00000, para a construção de uma refinaria de petróleo   na cidade de Corumbá, no Estado de Mato Grosso."
+    },
+    {
+      "senadoId": "545062",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-14-3283",
+      "titulo": "Lei nº 3.283 de 14/10/1957",
+      "data": "1957-10-14",
+      "numero": "3283",
+      "urn": "urn:lex:br:federal:lei:1957-10-14;3283",
+      "ementa": "Cria na Polícia Militar do Distrito Federal o Quadro de Subtenentes, aumenta o efetivo ;do de motoristas e dá outras providências."
+    },
+    {
+      "senadoId": "545061",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-10-3282",
+      "titulo": "Lei nº 3.282 de 10/10/1957",
+      "data": "1957-10-10",
+      "numero": "3282",
+      "urn": "urn:lex:br:federal:lei:1957-10-10;3282",
+      "ementa": "Concede amparo do Estado aos conscritos (recrutas) acidentados, ou invalidados, no interior dos estabelecimentos militares ou durante o deslocamento a que estejam sujeitos por fôrça de convocação para prestação do serviço militar."
+    },
+    {
+      "senadoId": "545058",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-07-3279",
+      "titulo": "Lei nº 3.279 de 07/10/1957",
+      "data": "1957-10-07",
+      "numero": "3279",
+      "urn": "urn:lex:br:federal:lei:1957-10-07;3279",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 10.000.000,00 para auxiliar a Sociedade Ordem Servos de Maria - Província do Brasil, na conclusão de suas obras de assistência e educação no Território do Acre e nos Estados de Santa Catarina e São Paulo."
+    },
+    {
+      "senadoId": "545057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-07-3278",
+      "titulo": "Lei nº 3.278 de 07/10/1957",
+      "data": "1957-10-07",
+      "numero": "3278",
+      "urn": "urn:lex:br:federal:lei:1957-10-07;3278",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 67.800.000,00 para pagamento de dotações destinadas a   estabelecimentos de ensino superior."
+    },
+    {
+      "senadoId": "545059",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-07-3280",
+      "titulo": "Lei nº 3.280 de 07/10/1957",
+      "data": "1957-10-07",
+      "numero": "3280",
+      "urn": "urn:lex:br:federal:lei:1957-10-07;3280",
+      "ementa": "Concede isenção de direitos aduaneiros, inclusive adicional de 10%, impôsto de consumo e mais taxas alfandegárias para materiais importados pela Telefônica Jundiaí S/A."
+    },
+    {
+      "senadoId": "545060",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-07-3281",
+      "titulo": "Lei nº 3.281 de 07/10/1957",
+      "data": "1957-10-07",
+      "numero": "3281",
+      "urn": "urn:lex:br:federal:lei:1957-10-07;3281",
+      "ementa": "Dispõe sôbre a administração dos Postos Agropecuários."
+    },
+    {
+      "senadoId": "545056",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-07-3277",
+      "titulo": "Lei nº 3.277 de 07/10/1957",
+      "data": "1957-10-07",
+      "numero": "3277",
+      "urn": "urn:lex:br:federal:lei:1957-10-07;3277",
+      "ementa": "Concede o auxílio de Cr$ 3.000.000,00 pela realização das festas   comemorativas do I Centenário da elevação de Rio Claro, no Estado de São Paulo,   à categoria de cidade."
+    },
+    {
+      "senadoId": "545055",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-05-3276",
+      "titulo": "Lei nº 3.276 de 05/10/1957",
+      "data": "1957-10-05",
+      "numero": "3276",
+      "urn": "urn:lex:br:federal:lei:1957-10-05;3276",
+      "ementa": "Dispõe sobre créditos orçamentários destinados à defesa contra as sêcas do   Nordeste, regula a forma de pagamento de prêmios pela construção de açudes em   cooperação, e dá outras providências."
+    },
+    {
+      "senadoId": "545053",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-04-3275",
+      "titulo": "Lei nº 3.275 de 04/10/1957",
+      "data": "1957-10-04",
+      "numero": "3275",
+      "urn": "urn:lex:br:federal:lei:1957-10-04;3275",
+      "ementa": "Unifica o período de carência do seguro-morte nos Institutos e Caixas de Aposentadoria e Pensões."
+    },
+    {
+      "senadoId": "545051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-02-3274",
+      "titulo": "Lei nº 3.274 de 02/10/1957",
+      "data": "1957-10-02",
+      "numero": "3274",
+      "urn": "urn:lex:br:federal:lei:1957-10-02;3274",
+      "ementa": "Dispõe sôbre Normas Gerais do Regime Penitenciário, em conformidade do que estatui o art. 5º, nº XV, letra \"b\", da Constituição Federal, e amplia as atribuições da Inspetoria Geral Penitenciária."
+    },
+    {
+      "senadoId": "545050",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-10-01-3273",
+      "titulo": "Lei nº 3.273 de 01/10/1957",
+      "data": "1957-10-01",
+      "numero": "3273",
+      "urn": "urn:lex:br:federal:lei:1957-10-01;3273",
+      "ementa": "Fixa a data da mudança da Capital Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "545047",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-30-3270",
+      "titulo": "Lei nº 3.270 de 30/09/1957",
+      "data": "1957-09-30",
+      "numero": "3270",
+      "urn": "urn:lex:br:federal:lei:1957-09-30;3270",
+      "ementa": "Fixa em seis (6) o número de horas de trabalho diário dos cabineiros de   elevador e dá outras providências."
+    },
+    {
+      "senadoId": "545044",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-30-3268",
+      "titulo": "Lei nº 3.268 de 30/09/1957",
+      "data": "1957-09-30",
+      "numero": "3268",
+      "urn": "urn:lex:br:federal:lei:1957-09-30;3268",
+      "ementa": "Dispõe sobre os Conselhos de Medicina, e dá outras providências."
+    },
+    {
+      "senadoId": "545045",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-30-3269",
+      "titulo": "Lei nº 3.269 de 30/09/1957",
+      "data": "1957-09-30",
+      "numero": "3269",
+      "urn": "urn:lex:br:federal:lei:1957-09-30;3269",
+      "ementa": "Retifica a Lei n° 2.996, de 10 de dezembro de 1956, que estima a Receita e   fixa a Despesa da União para o exercício de 1957."
+    },
+    {
+      "senadoId": "545048",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-30-3271",
+      "titulo": "Lei nº 3.271 de 30/09/1957",
+      "data": "1957-09-30",
+      "numero": "3271",
+      "urn": "urn:lex:br:federal:lei:1957-09-30;3271",
+      "ementa": "Federaliza a Escola de Medicina e Cirurgia do Rio de Janeiro, e dá outras providências."
+    },
+    {
+      "senadoId": "545049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-30-3272",
+      "titulo": "Lei nº 3.272 de 30/09/1957",
+      "data": "1957-09-30",
+      "numero": "3272",
+      "urn": "urn:lex:br:federal:lei:1957-09-30;3272",
+      "ementa": "Altera o art. 9º da Lei n° 970, de 16 de dezembro de 1949, que dispõe sobre as atribuições, organização e funcionamento do Conselho Nacional de Economia."
+    },
+    {
+      "senadoId": "545043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-25-3267",
+      "titulo": "Lei nº 3.267 de 25/09/1957",
+      "data": "1957-09-25",
+      "numero": "3267",
+      "urn": "urn:lex:br:federal:lei:1957-09-25;3267",
+      "ementa": "Estende  os benefícios da Lei número 1.782, de 24 de dezembro de 1952, aos   subtenentes e sargentos que, nessas graduações, participaram da campanha da   Itália com a F.E.B. e se encontram habilitados com o curso de comandante de   pelotão, seção ou equivalente, e dá outras providências."
+    },
+    {
+      "senadoId": "545042",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-25-3266",
+      "titulo": "Lei nº 3.266 de 25/09/1957",
+      "data": "1957-09-25",
+      "numero": "3266",
+      "urn": "urn:lex:br:federal:lei:1957-09-25;3266",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Estado do Espírito Santo - o crédito especial de Cr$ 175.000,00 para atender ao pagamento de gratificação adicional por tempo de serviço aos servidores da Secretaria daquêle Tribunal, no exercício de 1956."
+    },
+    {
+      "senadoId": "545041",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-22-3265",
+      "titulo": "Lei nº 3.265 de 22/09/1957",
+      "data": "1957-09-22",
+      "numero": "3265",
+      "urn": "urn:lex:br:federal:lei:1957-09-22;3265",
+      "ementa": "Modifica disposições da Consolidação das Leis do Trabalho."
+    },
+    {
+      "senadoId": "545040",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-19-3264",
+      "titulo": "Lei nº 3.264 de 19/09/1957",
+      "data": "1957-09-19",
+      "numero": "3264",
+      "urn": "urn:lex:br:federal:lei:1957-09-19;3264",
+      "ementa": "Retifica, sem ônus, a Lei n° 3.032, de 19 de dezembro de 1956, que autoriza   a abertura de créditos especiais a diversos órgãos do Poder   Executivo."
+    },
+    {
+      "senadoId": "545039",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-17-3263",
+      "titulo": "Lei nº 3.263 de 17/09/1957",
+      "data": "1957-09-17",
+      "numero": "3263",
+      "urn": "urn:lex:br:federal:lei:1957-09-17;3263",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 1.367.198,00, destinado a regularizar as despesas com a participação do Brasil na XI Reunião das Altas Partes Contratantes do Acôrdo Geral sôbre Tarifas e Comércio, em Genebra, Suíça."
+    },
+    {
+      "senadoId": "545038",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-16-3262",
+      "titulo": "Lei nº 3.262 de 16/09/1957",
+      "data": "1957-09-16",
+      "numero": "3262",
+      "urn": "urn:lex:br:federal:lei:1957-09-16;3262",
+      "ementa": "Dispensa do recolhimento dos Depósitos Compulsórios, Depósitos de Garantia   e Certificado de Equipamento, os contribuintes que tenham processos de   lançamento pendentes de decisão."
+    },
+    {
+      "senadoId": "545037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-11-3261",
+      "titulo": "Lei nº 3.261 de 11/09/1957",
+      "data": "1957-09-11",
+      "numero": "3261",
+      "urn": "urn:lex:br:federal:lei:1957-09-11;3261",
+      "ementa": "Abre o crédito especial de Cr$ 1.000.000,00 à Liga Brasileira Contra a Epilépsia."
+    },
+    {
+      "senadoId": "545036",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-11-3260",
+      "titulo": "Lei nº 3.260 de 11/09/1957",
+      "data": "1957-09-11",
+      "numero": "3260",
+      "urn": "urn:lex:br:federal:lei:1957-09-11;3260",
+      "ementa": "Autoriza o Poder Executivo a mandar estudar, projetar, orçar e construir as obras de melhoramento e equipar os portos de Itacoatiara no rio Amazonas e São Paulo de Olivença e Fonte Boa, no rio Solimões, no Estado do Amazonas."
+    },
+    {
+      "senadoId": "545035",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-06-3259",
+      "titulo": "Lei nº 3.259 de 06/09/1957",
+      "data": "1957-09-06",
+      "numero": "3259",
+      "urn": "urn:lex:br:federal:lei:1957-09-06;3259",
+      "ementa": "Concede isenção de direitos aduaneiros de importação para a penicilina   injetável, importada até 31 de dezembro de 1947."
+    },
+    {
+      "senadoId": "545034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-05-3258",
+      "titulo": "Lei nº 3.258 de 05/09/1957",
+      "data": "1957-09-05",
+      "numero": "3258",
+      "urn": "urn:lex:br:federal:lei:1957-09-05;3258",
+      "ementa": "Concede isenção de direitos de importação, taxas aduaneiras e de impôsto   de consumo para a maquinaria e mais equipamentos destinados à instalação da   Usina Termoelétrica de Fôrça e Luz do Pará S.A."
+    },
+    {
+      "senadoId": "545033",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-02-3257",
+      "titulo": "Lei nº 3.257 de 02/09/1957",
+      "data": "1957-09-02",
+      "numero": "3257",
+      "urn": "urn:lex:br:federal:lei:1957-09-02;3257",
+      "ementa": "Modifica o artigo 27 e seus parágrafos da Lei n° 2.004, de 3 de outubro de 1953 (dispõe sobre a política nacional do petróleo e define as atribuições do Conselho Nacional do Petróleo, institui a Sociedade por ações Petróleo Brasileiro Sociedade Anônima e dá outras providências."
+    },
+    {
+      "senadoId": "545030",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-02-3254",
+      "titulo": "Lei nº 3.254 de 02/09/1957",
+      "data": "1957-09-02",
+      "numero": "3254",
+      "urn": "urn:lex:br:federal:lei:1957-09-02;3254",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 17.242.933,60, destinado a atender ao pagamento de salários e à indenização devidos aos antigos servidores transferidos da Southern Brazil Lumber and Colonization Company para aquele Ministério."
+    },
+    {
+      "senadoId": "545032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-02-3256",
+      "titulo": "Lei nº 3.256 de 02/09/1957",
+      "data": "1957-09-02",
+      "numero": "3256",
+      "urn": "urn:lex:br:federal:lei:1957-09-02;3256",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 20.437,10, para atender ao pagamento de indenização devida aos herdeiros de José Silvino Soares, ex-servidor da Estrada de Ferro Dona Teresa Cristina."
+    },
+    {
+      "senadoId": "545031",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-09-02-3255",
+      "titulo": "Lei nº 3.255 de 02/09/1957",
+      "data": "1957-09-02",
+      "numero": "3255",
+      "urn": "urn:lex:br:federal:lei:1957-09-02;3255",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 500.000,00 para auxiliar a realização do I Congresso de Jornalistas Sul Rio-Grandenses."
+    },
+    {
+      "senadoId": "545028",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-27-3252",
+      "titulo": "Lei nº 3.252 de 27/08/1957",
+      "data": "1957-08-27",
+      "numero": "3252",
+      "urn": "urn:lex:br:federal:lei:1957-08-27;3252",
+      "ementa": "Regulamenta o exercício da profissão de Assistente Social."
+    },
+    {
+      "senadoId": "545029",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-27-3253",
+      "titulo": "Lei nº 3.253 de 27/08/1957",
+      "data": "1957-08-27",
+      "numero": "3253",
+      "urn": "urn:lex:br:federal:lei:1957-08-27;3253",
+      "ementa": "Cria cédulas de crédito rural, e dá outras providências."
+    },
+    {
+      "senadoId": "545027",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-26-3251",
+      "titulo": "Lei nº 3.251 de 26/08/1957",
+      "data": "1957-08-26",
+      "numero": "3251",
+      "urn": "urn:lex:br:federal:lei:1957-08-26;3251",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 2.500.000,00 como auxílio à União dos Escoteiros do Brasil pela realização do Ajuri Nacional Escoteiro e da IV Conferência Escoteira Interamericana e para participação dos Escoteiros Brasileiros no IX Jamboree Mundial de Escoteiros."
+    },
+    {
+      "senadoId": "545025",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-22-3249",
+      "titulo": "Lei nº 3.249 de 22/08/1957",
+      "data": "1957-08-22",
+      "numero": "3249",
+      "urn": "urn:lex:br:federal:lei:1957-08-22;3249",
+      "ementa": "Retifica, sem ônus, a Lei n° 2.135, de 1953, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 1954."
+    },
+    {
+      "senadoId": "545026",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-22-3250",
+      "titulo": "Lei nº 3.250 de 22/08/1957",
+      "data": "1957-08-22",
+      "numero": "3250",
+      "urn": "urn:lex:br:federal:lei:1957-08-22;3250",
+      "ementa": "Altera dispositivos da Lei n° 1.295, de 27 de dezembro de 1950, que estabelece normas para o registro de diplomas expedidos pelos estabelecimentos de ensino."
+    },
+    {
+      "senadoId": "545023",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-20-3247",
+      "titulo": "Lei nº 3.247 de 20/08/1957",
+      "data": "1957-08-20",
+      "numero": "3247",
+      "urn": "urn:lex:br:federal:lei:1957-08-20;3247",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 612.000,00 para atender às despesas de   gratificação ao pessoal da Comissão Técnica de Rádio."
+    },
+    {
+      "senadoId": "545024",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-20-3248",
+      "titulo": "Lei nº 3.248 de 20/08/1957",
+      "data": "1957-08-20",
+      "numero": "3248",
+      "urn": "urn:lex:br:federal:lei:1957-08-20;3248",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do   Trabalho da 7ª Região - o crédito especial de Cr$ 21.522,40, para atender ao   pagamento de diferença de vencimentos a Juízes daquele Tribunal e das Juntas de   Conciliação e Julgamento de Fortaleza, São Luís e Teresina, no exercício de   1955."
+    },
+    {
+      "senadoId": "545022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-19-3246",
+      "titulo": "Lei nº 3.246 de 19/08/1957",
+      "data": "1957-08-19",
+      "numero": "3246",
+      "urn": "urn:lex:br:federal:lei:1957-08-19;3246",
+      "ementa": "Retifica, sem ônus, a Lei n° 2.368, de 9 de dezembro de 1954, que estima a   Receita e fixa a Despesa da União para o exercício financeiro de   1955."
+    },
+    {
+      "senadoId": "545021",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-19-3245",
+      "titulo": "Lei nº 3.245 de 19/08/1957",
+      "data": "1957-08-19",
+      "numero": "3245",
+      "urn": "urn:lex:br:federal:lei:1957-08-19;3245",
+      "ementa": "Altera disposições do Decreto-Lei n° 7.036, de 10 de novembro de 1944 - ;(   Reforma da Lei de Acidentes do Trabalho )."
+    },
+    {
+      "senadoId": "545020",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-14-3244",
+      "titulo": "Lei nº 3.244 de 14/08/1957",
+      "data": "1957-08-14",
+      "numero": "3244",
+      "urn": "urn:lex:br:federal:lei:1957-08-14;3244",
+      "ementa": "Dispõe sôbre a Reforma da Tarifa das Alfândegas, e dá outras providências."
+    },
+    {
+      "senadoId": "545018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-13-3242",
+      "titulo": "Lei nº 3.242 de 13/08/1957",
+      "data": "1957-08-13",
+      "numero": "3242",
+      "urn": "urn:lex:br:federal:lei:1957-08-13;3242",
+      "ementa": "Reorganiza as Secretarias do Ministério Público da União junto à Justiça   do Trabalho, cria o respectivo Quadro do Pessoal e dá outras providências."
+    },
+    {
+      "senadoId": "545019",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-13-3243",
+      "titulo": "Lei nº 3.243 de 13/08/1957",
+      "data": "1957-08-13",
+      "numero": "3243",
+      "urn": "urn:lex:br:federal:lei:1957-08-13;3243",
+      "ementa": "Institui o Fundo de Assistência à Maternidade, e dá outras providências."
+    },
+    {
+      "senadoId": "545016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-05-3240",
+      "titulo": "Lei nº 3.240 de 05/08/1957",
+      "data": "1957-08-05",
+      "numero": "3240",
+      "urn": "urn:lex:br:federal:lei:1957-08-05;3240",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, os créditos   especiais de Cr$ 10.000.000,00 e Cr$ 2.000.000,00, para auxiliar as obras do   Centro Maternal da Santa Casa de Misericórdia de Maceió, no Estado de Alagoas, e   da Santa Casa de Campos, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "545017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-05-3241",
+      "titulo": "Lei nº 3.241 de 05/08/1957",
+      "data": "1957-08-05",
+      "numero": "3241",
+      "urn": "urn:lex:br:federal:lei:1957-08-05;3241",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Tribunal Regional do Trabalho, 1ª Região - o crédito especial de Cr$ 33.154,10, para atender ao pagamento de gratificações por prestação de serviços extraordinários."
+    },
+    {
+      "senadoId": "545015",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-05-3239",
+      "titulo": "Lei nº 3.239 de 05/08/1957",
+      "data": "1957-08-05",
+      "numero": "3239",
+      "urn": "urn:lex:br:federal:lei:1957-08-05;3239",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 300.000,00, para auxiliar a realização do I Congresso   de Odontopediatria."
+    },
+    {
+      "senadoId": "545012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-01-3236",
+      "titulo": "Lei nº 3.236 de 01/08/1957",
+      "data": "1957-08-01",
+      "numero": "3236",
+      "urn": "urn:lex:br:federal:lei:1957-08-01;3236",
+      "ementa": "Concede isenção de direitos alfandegários, impôsto de consumo e mais taxas para uma estátua de bronze representando São Francisco, duas imagens de madeira e alfaias religiosas doadas pelo Prefeito de Milão e pela Sociedade Missionária de Milão, na Itália, ao Santuário de São Francisco, da cidade de Juazeiro do Norte, no Estado do Ceará."
+    },
+    {
+      "senadoId": "545014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-01-3238",
+      "titulo": "Lei nº 3.238 de 01/08/1957",
+      "data": "1957-08-01",
+      "numero": "3238",
+      "urn": "urn:lex:br:federal:lei:1957-08-01;3238",
+      "ementa": "Altera disposições da Lei de Introdução ao Código Civil."
+    },
+    {
+      "senadoId": "545013",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-08-01-3237",
+      "titulo": "Lei nº 3.237 de 01/08/1957",
+      "data": "1957-08-01",
+      "numero": "3237",
+      "urn": "urn:lex:br:federal:lei:1957-08-01;3237",
+      "ementa": "Concede a pensão especial de Cr$ 2.000,00 mensais a Alexandrina Almeida Antunes e Florentina Almeida Antunes, filhas da funcionária dos Correios e Telégrafos, já falecida, Maria Arcelina de Almeida."
+    },
+    {
+      "senadoId": "545010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3234",
+      "titulo": "Lei nº 3.234 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3234",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3234",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 3.600.000,00, destinado ao pagamento de professôres civis dos Colégios Militares."
+    },
+    {
+      "senadoId": "545009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3233",
+      "titulo": "Lei nº 3.233 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3233",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3233",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Rosália Maria de Almeida da Conceição, viúva de Vital da Conceição, ex-servidor federal."
+    },
+    {
+      "senadoId": "545008",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3232",
+      "titulo": "Lei nº 3.232 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3232",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3232",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 4.680.000,00, para ocorrer a despesas com o pagamento devido ao pessoal admitido por conta da verba de obras, e dá outras providências."
+    },
+    {
+      "senadoId": "545011",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3235",
+      "titulo": "Lei nº 3.235 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3235",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3235",
+      "ementa": "Determina computar, para efeitos de disponibilidade e aposentadoria, o tempo de serviço prestado por servidores do Ministério da Marinha à Cia. Mecânica e Importadora de São Paulo S.A."
+    },
+    {
+      "senadoId": "545006",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3231",
+      "titulo": "Lei nº 3.231 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3231",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3231",
+      "ementa": "Concede o auxílio de Cr$ 400.000,00 à Associação das Enfermeiras Obstetras do Brasil, para custear as despesas com o comparecimento da delegação brasileira ao XI Congresso Internacional de Parteiras, em Estocolmo, Suécia."
+    },
+    {
+      "senadoId": "545004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3230",
+      "titulo": "Lei nº 3.230 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3230",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3230",
+      "ementa": "Dispõe sobre o pagamento de contribuições aos Institutos e Caixas de Aposentadoria por parte dos portadores do mal de Hansen."
+    },
+    {
+      "senadoId": "545002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-29-3229",
+      "titulo": "Lei nº 3.229 de 29/07/1957",
+      "data": "1957-07-29",
+      "numero": "3229",
+      "urn": "urn:lex:br:federal:lei:1957-07-29;3229",
+      "ementa": "Altera, sem ônus, a Lei n° 2.996, de 10 de dezembro de 1956, que estima a Receita e fixa a Despesa da União para o exercício de 1957."
+    },
+    {
+      "senadoId": "545000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-28-3228",
+      "titulo": "Lei nº 3.228 de 28/07/1957",
+      "data": "1957-07-28",
+      "numero": "3228",
+      "urn": "urn:lex:br:federal:lei:1957-07-28;3228",
+      "ementa": "Cria no município de Diamantina, Estado de Minas Gerais, uma Estação de Enologia."
+    },
+    {
+      "senadoId": "544998",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-27-3227",
+      "titulo": "Lei nº 3.227 de 27/07/1957",
+      "data": "1957-07-27",
+      "numero": "3227",
+      "urn": "urn:lex:br:federal:lei:1957-07-27;3227",
+      "ementa": "Prorroga, até 15 de agôsto de 1957, a vigência do regime de licença a que   está subordinado o intercâmbio comercial com o exterior."
+    },
+    {
+      "senadoId": "544997",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-27-3226",
+      "titulo": "Lei nº 3.226 de 27/07/1957",
+      "data": "1957-07-27",
+      "numero": "3226",
+      "urn": "urn:lex:br:federal:lei:1957-07-27;3226",
+      "ementa": "Dispõe sobre a constituição da Usina Termoelétrica de Figueira S.A.   (UTELFA), em Curiuva, Estado do Paraná."
+    },
+    {
+      "senadoId": "544996",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-24-3225",
+      "titulo": "Lei nº 3.225 de 24/07/1957",
+      "data": "1957-07-24",
+      "numero": "3225",
+      "urn": "urn:lex:br:federal:lei:1957-07-24;3225",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 100.000.000,00 para financiar operações da Carteira Hipotecária   e Imobiliária do Clube Militar."
+    },
+    {
+      "senadoId": "544994",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-24-3223",
+      "titulo": "Lei nº 3.223 de 24/07/1957",
+      "data": "1957-07-24",
+      "numero": "3223",
+      "urn": "urn:lex:br:federal:lei:1957-07-24;3223",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial até Cr$ 15.000.000,00 para socorro às vítimas do ciclone ocorrido no   Município de Passa Quatro no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "544995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-24-3224",
+      "titulo": "Lei nº 3.224 de 24/07/1957",
+      "data": "1957-07-24",
+      "numero": "3224",
+      "urn": "urn:lex:br:federal:lei:1957-07-24;3224",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, os créditos especiais de Cr$ 4.000.000,00 e Cr$ 2.000.000,00 para auxiliar a realização das Exposições Industriais e Viti-vinícolas de Jundiaí e São Roque, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "544993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-21-3222",
+      "titulo": "Lei nº 3.222 de 21/07/1957",
+      "data": "1957-07-21",
+      "numero": "3222",
+      "urn": "urn:lex:br:federal:lei:1957-07-21;3222",
+      "ementa": "Extingue o Quadro Auxiliar de Administração do Exército e o de Topógrafos do Serviço Geográfico do Exército; dispõe sobre a formação do Quadro de Oficiais de Administração e do Quadro de Oficiais Especialistas, e dá outras providências."
+    },
+    {
+      "senadoId": "544976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3210",
+      "titulo": "Lei nº 3.210 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3210",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3210",
+      "ementa": "Reconhece como de utilidade pública a Sociedade Corpo de Bombeiros Voluntários de Joinville, com sede e fôro no cidade de Joinville, no Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "544988",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3217",
+      "titulo": "Lei nº 3.217 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3217",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3217",
+      "ementa": "Acrescenta um parágrafo ao artigo 4º, da Lei n° 2.189, de 3 de março de   1954, que reorganiza os cursos do Departamento Nacional da Criança (C.D.N.Cr.),   e dá outras providências."
+    },
+    {
+      "senadoId": "544990",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3219",
+      "titulo": "Lei nº 3.219 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3219",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3219",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 150.000.000,00 para aquisição de materiais   atômicos."
+    },
+    {
+      "senadoId": "544985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3215",
+      "titulo": "Lei nº 3.215 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3215",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3215",
+      "ementa": "Cria a Escola Agrícola de Passo Fundo e a Escola de Iniciação Agrícola de Frederico Westphalen, no Estado do Rio Grande do Sul, e dá outras providências."
+    },
+    {
+      "senadoId": "544974",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3208",
+      "titulo": "Lei nº 3.208 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3208",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3208",
+      "ementa": "Concede o auxílio de Cr$ 2.000.000,00 à Prefeitura Municipal de São João de Muqui, no Estado do Espírito Santo, para reparação de danos causados por enchentes."
+    },
+    {
+      "senadoId": "544992",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3221",
+      "titulo": "Lei nº 3.221 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3221",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3221",
+      "ementa": "Corrige designação de dotação da Lei Orçamentária da União para o   exercício financeiro de 1953."
+    },
+    {
+      "senadoId": "544977",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3211",
+      "titulo": "Lei nº 3.211 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3211",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3211",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral de Goiás - o crédito especial de Cr$ 138.912,60, para ocorrer ao pagamento de gratificações adicionais, por tempo de serviço, aos servidores do Quadro de Pessoal da Secretaria do mesmo Tribunal."
+    },
+    {
+      "senadoId": "544991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3220",
+      "titulo": "Lei nº 3.220 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3220",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3220",
+      "ementa": "Dispõe sobre o pagamento das prestações de benefícios, em caso de falecimento de segurado ou seu beneficiário, pelos Institutos e Caixas de Aposentadoria e Pensões."
+    },
+    {
+      "senadoId": "544982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3213",
+      "titulo": "Lei nº 3.213 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3213",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3213",
+      "ementa": "Concede isenção de direitos de importação para as mercadorias doadas pela Church World Services (C.W.S.) dos Estados Unidos da América do Norte, à Confederação Evangélica do Brasil."
+    },
+    {
+      "senadoId": "544987",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3216",
+      "titulo": "Lei nº 3.216 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3216",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3216",
+      "ementa": "Autoriza o Poder Executivo a doar o terreno situado no pátio da Estação, à esquerda da linha férrea, à Prefeitura Municipal de Pouso Alegre, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "544989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3218",
+      "titulo": "Lei nº 3.218 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3218",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3218",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 13.000.000,00, para atender às despesas decorrentes da visita ao Brasil do Presidente da República Portuguesa."
+    },
+    {
+      "senadoId": "544979",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3212",
+      "titulo": "Lei nº 3.212 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3212",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3212",
+      "ementa": "Denomina Penitenciária Lemos Brito a atual Penitenciária Central do   Distrito Federal."
+    },
+    {
+      "senadoId": "544984",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3214",
+      "titulo": "Lei nº 3.214 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3214",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3214",
+      "ementa": "Cria cargos no quadro do pessoal da Justiça do Trabalho da 6ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "544975",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-19-3209",
+      "titulo": "Lei nº 3.209 de 19/07/1957",
+      "data": "1957-07-19",
+      "numero": "3209",
+      "urn": "urn:lex:br:federal:lei:1957-07-19;3209",
+      "ementa": "Concede isenção de direitos de importação, imposto de consumo, taxas   aduaneiras e a de previdência social para mercadorias doadas ao Instituto   Nacional de Imigração e Colonização."
+    },
+    {
+      "senadoId": "544971",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-18-3206",
+      "titulo": "Lei nº 3.206 de 18/07/1957",
+      "data": "1957-07-18",
+      "numero": "3206",
+      "urn": "urn:lex:br:federal:lei:1957-07-18;3206",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Sofia Berenice da   Silva Masson, viúva de Álvaro Sayão Masson."
+    },
+    {
+      "senadoId": "544972",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-18-3207",
+      "titulo": "Lei nº 3.207 de 18/07/1957",
+      "data": "1957-07-18",
+      "numero": "3207",
+      "urn": "urn:lex:br:federal:lei:1957-07-18;3207",
+      "ementa": "Regulamenta as atividades dos empregados vendedores, viajantes ou   pracistas."
+    },
+    {
+      "senadoId": "544970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-15-3205",
+      "titulo": "Lei nº 3.205 de 15/07/1957",
+      "data": "1957-07-15",
+      "numero": "3205",
+      "urn": "urn:lex:br:federal:lei:1957-07-15;3205",
+      "ementa": "Altera o art. 1º da Lei n° 403, de 24 de setembro de 1948, que reestrutura   os cargos de tesoureiro e ajudante de tesoureiro do Serviço Público Federal."
+    },
+    {
+      "senadoId": "544969",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-10-3204",
+      "titulo": "Lei nº 3.204 de 10/07/1957",
+      "data": "1957-07-10",
+      "numero": "3204",
+      "urn": "urn:lex:br:federal:lei:1957-07-10;3204",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito especial de Cr$ 40.790,00, para pagamento de indenização ao capitão intendente do Exército Austerlitz Brito Mendes."
+    },
+    {
+      "senadoId": "544967",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-10-3202",
+      "titulo": "Lei nº 3.202 de 10/07/1957",
+      "data": "1957-07-10",
+      "numero": "3202",
+      "urn": "urn:lex:br:federal:lei:1957-07-10;3202",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 2.000.000,00, para atender às despesas com a realização da V Conferência Rural Brasileira."
+    },
+    {
+      "senadoId": "544968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-10-3203",
+      "titulo": "Lei nº 3.203 de 10/07/1957",
+      "data": "1957-07-10",
+      "numero": "3203",
+      "urn": "urn:lex:br:federal:lei:1957-07-10;3203",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 193.906,30, destinado a atender às despesas com ereção de um   Pantheon em Maceió, Estado de Alagoas."
+    },
+    {
+      "senadoId": "544964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-08-3199",
+      "titulo": "Lei nº 3.199 de 08/07/1957",
+      "data": "1957-07-08",
+      "numero": "3199",
+      "urn": "urn:lex:br:federal:lei:1957-07-08;3199",
+      "ementa": "Concede a Maria de Figueiredo da Costa a pensão especial de Cr$ 3.000,00 mensais."
+    },
+    {
+      "senadoId": "544966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-08-3201",
+      "titulo": "Lei nº 3.201 de 08/07/1957",
+      "data": "1957-07-08",
+      "numero": "3201",
+      "urn": "urn:lex:br:federal:lei:1957-07-08;3201",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura o crédito especial de Cr$ 250.000,00, destinado a recompensar os trabalhos realizados por Oscar Salvador Cordeiro, no Lobato, Estado da Bahia.."
+    },
+    {
+      "senadoId": "544965",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-08-3200",
+      "titulo": "Lei nº 3.200 de 08/07/1957",
+      "data": "1957-07-08",
+      "numero": "3200",
+      "urn": "urn:lex:br:federal:lei:1957-07-08;3200",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito especial de Cr$ 1.680.000,00, destinado ao pagamento de aluguéis devidos ao Clube de Engenharia."
+    },
+    {
+      "senadoId": "544960",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-06-3197",
+      "titulo": "Lei nº 3.197 de 06/07/1957",
+      "data": "1957-07-06",
+      "numero": "3197",
+      "urn": "urn:lex:br:federal:lei:1957-07-06;3197",
+      "ementa": "Concede isenção de todos os impostos e taxas para o material doado à   Missão Presbiteriana do Norte do Brasil."
+    },
+    {
+      "senadoId": "544958",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-06-3196",
+      "titulo": "Lei nº 3.196 de 06/07/1957",
+      "data": "1957-07-06",
+      "numero": "3196",
+      "urn": "urn:lex:br:federal:lei:1957-07-06;3196",
+      "ementa": "Autoriza o Poder Executivo a encampar e incorporar ao patrimônio da   Estrada de Ferro Leopoldina a Estrada de Ferro Itapemirim, de propriedade do   Estado do Espírito Santo."
+    },
+    {
+      "senadoId": "544962",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-06-3198",
+      "titulo": "Lei nº 3.198 de 06/07/1957",
+      "data": "1957-07-06",
+      "numero": "3198",
+      "urn": "urn:lex:br:federal:lei:1957-07-06;3198",
+      "ementa": "Denomina Instituto Nacional de Educação de Surdos o atual Instituto Nacional de Surdos-Mudos."
+    },
+    {
+      "senadoId": "544954",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-04-3192",
+      "titulo": "Lei nº 3.192 de 04/07/1957",
+      "data": "1957-07-04",
+      "numero": "3192",
+      "urn": "urn:lex:br:federal:lei:1957-07-04;3192",
+      "ementa": "Modifica disposições da Lei n° 818, de 18 de setembro de 1949, que regula a aquisição, a perda e a reaquisição da nacionalidade e a perda dos direitos políticos."
+    },
+    {
+      "senadoId": "544956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-04-3194",
+      "titulo": "Lei nº 3.194 de 04/07/1957",
+      "data": "1957-07-04",
+      "numero": "3194",
+      "urn": "urn:lex:br:federal:lei:1957-07-04;3194",
+      "ementa": "Altera o dispositivo no parágrafo único do art. 1º do Decreto-Lei n° 8.104, de 18 de outubro de 1945, que doa à Fundação Brasil Central patentes de invenção, marcas de fábricas, modelos de utilidade, desenhos ou modelos industriais e de comércio, títulos de estabelecimentos, insígnias e frases de propaganda incorporadas ao Patrimônio Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "544955",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-04-3193",
+      "titulo": "Lei nº 3.193 de 04/07/1957",
+      "data": "1957-07-04",
+      "numero": "3193",
+      "urn": "urn:lex:br:federal:lei:1957-07-04;3193",
+      "ementa": "Dispõe sobre a aplicação do art. 31, V, letra b, da Constituição   Federal, que isenta de imposto templos de qualquer culto, bens e serviços de   partidos políticos, instituições de educação e de assistência social."
+    },
+    {
+      "senadoId": "544957",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-04-3195",
+      "titulo": "Lei nº 3.195 de 04/07/1957",
+      "data": "1957-07-04",
+      "numero": "3195",
+      "urn": "urn:lex:br:federal:lei:1957-07-04;3195",
+      "ementa": "Concede isenção de direitos de importação, de consumo e de taxas aduaneiras, inclusive a de previdência social, para o material hospitalar importado pelo Instituto das Pequenas Missionárias de Maria Imaculada, destinado ao Sanatório Marques Lisboa, situado no Morro das Pedras, na cidade de Belo Horizonte, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "544949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-02-3189",
+      "titulo": "Lei nº 3.189 de 02/07/1957",
+      "data": "1957-07-02",
+      "numero": "3189",
+      "urn": "urn:lex:br:federal:lei:1957-07-02;3189",
+      "ementa": "Permite a admissão de pessoas jurídicas nas Cooperativas de Transportes de   Passageiros e de Cargas."
+    },
+    {
+      "senadoId": "544951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-02-3190",
+      "titulo": "Lei nº 3.190 de 02/07/1957",
+      "data": "1957-07-02",
+      "numero": "3190",
+      "urn": "urn:lex:br:federal:lei:1957-07-02;3190",
+      "ementa": "Concede isenção de direitos de importação, imposto de consumo e taxas aduaneiras para um busto do falecido Presidente Getúlio Vargas, a ser erigido em praça pública no município de Santa Vitória do Palmar, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544953",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-02-3191",
+      "titulo": "Lei nº 3.191 de 02/07/1957",
+      "data": "1957-07-02",
+      "numero": "3191",
+      "urn": "urn:lex:br:federal:lei:1957-07-02;3191",
+      "ementa": "Cria a Universidade do Pará e dá outras providências."
+    },
+    {
+      "senadoId": "544947",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-07-02-3188",
+      "titulo": "Lei nº 3.188 de 02/07/1957",
+      "data": "1957-07-02",
+      "numero": "3188",
+      "urn": "urn:lex:br:federal:lei:1957-07-02;3188",
+      "ementa": "Cria o Museu Nacional de Imigração e Colonização na cidade de Joinville,   Estado de Santa Catarina, e dá outras providências."
+    },
+    {
+      "senadoId": "544945",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-28-3187",
+      "titulo": "Lei nº 3.187 de 28/06/1957",
+      "data": "1957-06-28",
+      "numero": "3187",
+      "urn": "urn:lex:br:federal:lei:1957-06-28;3187",
+      "ementa": "Prorroga, até 31 de julho de 1957, a vigência do regime de licença a que está subordinado o intercâmbio comercial com o exterior."
+    },
+    {
+      "senadoId": "544941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-24-3184",
+      "titulo": "Lei nº 3.184 de 24/06/1957",
+      "data": "1957-06-24",
+      "numero": "3184",
+      "urn": "urn:lex:br:federal:lei:1957-06-24;3184",
+      "ementa": "Concede dotação federal para a comemoração do 250º aniversário da fundação de Ouro Preto, e dá outras providências."
+    },
+    {
+      "senadoId": "544944",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-24-3186",
+      "titulo": "Lei nº 3.186 de 24/06/1957",
+      "data": "1957-06-24",
+      "numero": "3186",
+      "urn": "urn:lex:br:federal:lei:1957-06-24;3186",
+      "ementa": "Revoga o Decreto-Lei n° 8.951, de 28 de janeiro de 1946 ( dispõe sobre o depósito judicial e dá outras providências) e revigora o art. 945 do Código de Processo Civil."
+    },
+    {
+      "senadoId": "544943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-24-3185",
+      "titulo": "Lei nº 3.185 de 24/06/1957",
+      "data": "1957-06-24",
+      "numero": "3185",
+      "urn": "urn:lex:br:federal:lei:1957-06-24;3185",
+      "ementa": "Revoga o art. 15 e seus parágrafos da Lei n° 2.237, de 19 de junho de 1954,   que dispõe sobre financiamentos destinados à colonização nacional, e dá outras   providências."
+    },
+    {
+      "senadoId": "544940",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-24-3183",
+      "titulo": "Lei nº 3.183 de 24/06/1957",
+      "data": "1957-06-24",
+      "numero": "3183",
+      "urn": "urn:lex:br:federal:lei:1957-06-24;3183",
+      "ementa": "Concede a pensão especial de Cr$ 4.616,00 mensais a Eurico dos Santos   Jacome, filho inválido do Alferes, Eloy Martins dos Santos Jacome, herói da   guerra do Paraguai."
+    },
+    {
+      "senadoId": "544939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-24-3182",
+      "titulo": "Lei nº 3.182 de 24/06/1957",
+      "data": "1957-06-24",
+      "numero": "3182",
+      "urn": "urn:lex:br:federal:lei:1957-06-24;3182",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 5.000.000,00, para auxiliar o Município de Macapá nas comemorações do 1º centenário da cidade de Macapá, capital do Território Federal do Amapá."
+    },
+    {
+      "senadoId": "544937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3180",
+      "titulo": "Lei nº 3.180 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3180",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3180",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, os créditos especiais de Cr$ 5.000.000,00 e Cr$ 10.000.000,00, para contribuição da União às comemorações do I centenário da fundação do Município de Caruaru, no Estado de Pernambuco, e do I centenário da Cidade de Petrópolis, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "544936",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3179",
+      "titulo": "Lei nº 3.179 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3179",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3179",
+      "ementa": "Autoriza o Poder Executivo a promover a incorporação da Estrada de Ferro   Maricá e da Estrada de Ferro Teresópolis à Estrada de Ferro   Leopoldina."
+    },
+    {
+      "senadoId": "544933",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3176",
+      "titulo": "Lei nº 3.176 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3176",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3176",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, do crédito especial de Cr$ 655.882,40, destinado ao pagamento de custas devidas pela União nos executivos fiscais propostos na 2ª Vara da Fazenda Pública, contra a Stahlunion Ltda, para cobrança de imposto de renda em atraso."
+    },
+    {
+      "senadoId": "544931",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3174",
+      "titulo": "Lei nº 3.174 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3174",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3174",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Carminha Paes de   Abreu, viúva do jornalista Raimundo Vilela de Abreu."
+    },
+    {
+      "senadoId": "544938",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3181",
+      "titulo": "Lei nº 3.181 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3181",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3181",
+      "ementa": "Estende aos governadores ou interventores de Estados e Territórios, ao   prefeito do Distrito Federal, seus respectivos secretários, aos prefeitos   municipais, vereadores e chefes de Polícia o direito à prisão especial previsto   no Código de Processo Penal."
+    },
+    {
+      "senadoId": "544934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3177",
+      "titulo": "Lei nº 3.177 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3177",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3177",
+      "ementa": "Estende as regalias conferidas pelo Decreto-Lei n° 6.936, de 6 de outubro   de 1944."
+    },
+    {
+      "senadoId": "544935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3178",
+      "titulo": "Lei nº 3.178 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3178",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3178",
+      "ementa": "Doa área de terreno à Prefeitura Municipal de Recife, no Estado de   Pernambuco, para execução do Plano da Cidade."
+    },
+    {
+      "senadoId": "544932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-11-3175",
+      "titulo": "Lei nº 3.175 de 11/06/1957",
+      "data": "1957-06-11",
+      "numero": "3175",
+      "urn": "urn:lex:br:federal:lei:1957-06-11;3175",
+      "ementa": "Autoriza o Poder Executivo a emitir pelo Ministério da Viação e Obras Públicas - Departamento dos Correios e Telégrafos - uma série de selos postais comemorativos do transcurso do centenário da fundação da cidade de Brusque, Estado da Santa Catarina."
+    },
+    {
+      "senadoId": "544926",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-06-3169",
+      "titulo": "Lei nº 3.169 de 06/06/1957",
+      "data": "1957-06-06",
+      "numero": "3169",
+      "urn": "urn:lex:br:federal:lei:1957-06-06;3169",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 88.000,00, destinado à aquisição de passagens para a   viúva e a filha de Eurico Martignoni."
+    },
+    {
+      "senadoId": "544928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-06-3171",
+      "titulo": "Lei nº 3.171 de 06/06/1957",
+      "data": "1957-06-06",
+      "numero": "3171",
+      "urn": "urn:lex:br:federal:lei:1957-06-06;3171",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 1.200.000,00, para auxiliar o desenvolvimento das obras educativas e assistenciais da Província Franciscana de Santo Antônio, sediada no Estado de Pernambuco, ao ensejo do Transcurso de seu terceiro centenário e da realização do certame histórico-cultural."
+    },
+    {
+      "senadoId": "544924",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-06-3168",
+      "titulo": "Lei nº 3.168 de 06/06/1957",
+      "data": "1957-06-06",
+      "numero": "3168",
+      "urn": "urn:lex:br:federal:lei:1957-06-06;3168",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, os créditos especiais de Cr$ 1.500.000,00 e de Cr$ 1.500.000,00, para atender ao pagamento dos auxílios concedidos a Policlínica Geral do Rio de Janeiro pela Lei n° 2.119, de 27 de novembro de 1953, e ao Hospital do Pronto Socorro da cidade de João Pessoa, no Estado da Paraíba."
+    },
+    {
+      "senadoId": "544929",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-06-3172",
+      "titulo": "Lei nº 3.172 de 06/06/1957",
+      "data": "1957-06-06",
+      "numero": "3172",
+      "urn": "urn:lex:br:federal:lei:1957-06-06;3172",
+      "ementa": "Concede a pensão especial de Cr$ 1.300,00 mensais à Maria das Dores   França, viúva do cabo fuzileiro naval José Luiz de França."
+    },
+    {
+      "senadoId": "544930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-06-3173",
+      "titulo": "Lei nº 3.173 de 06/06/1957",
+      "data": "1957-06-06",
+      "numero": "3173",
+      "urn": "urn:lex:br:federal:lei:1957-06-06;3173",
+      "ementa": "Cria uma zona franca na cidade de Manaus, capital do Estado do Amazonas, e dá outras providências."
+    },
+    {
+      "senadoId": "544927",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-06-3170",
+      "titulo": "Lei nº 3.170 de 06/06/1957",
+      "data": "1957-06-06",
+      "numero": "3170",
+      "urn": "urn:lex:br:federal:lei:1957-06-06;3170",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 1.000.000,00 para auxiliar os festejos comemorativos do I Centenário da cidade de Franca no Estado de São Paulo."
+    },
+    {
+      "senadoId": "544923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-03-3167",
+      "titulo": "Lei nº 3.167 de 03/06/1957",
+      "data": "1957-06-03",
+      "numero": "3167",
+      "urn": "urn:lex:br:federal:lei:1957-06-03;3167",
+      "ementa": "Modifica o artigo 1.289, Código Civil."
+    },
+    {
+      "senadoId": "573394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3161",
+      "titulo": "Lei nº 3.161 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3161",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3161",
+      "ementa": "Cria a Comissão de Desenvolvimento do Planalto de Ibiapaba, no Estado do   Ceará, subordinada ao Ministério da Agricultura."
+    },
+    {
+      "senadoId": "544919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3163",
+      "titulo": "Lei nº 3.163 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3163",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3163",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 10.000.000,00 para socorrer as vítimas da tromba dágua ocorrido   na cidade de Monte Alegre, Estado do Pará."
+    },
+    {
+      "senadoId": "573396",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3162",
+      "titulo": "Lei nº 3.162 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3162",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3162",
+      "ementa": "Considera de utilidade pública a Sociedade Pestalozzi do Brasil e autoriza o Governo Federal a desapropriar imóvel para ser doada àquela instituição."
+    },
+    {
+      "senadoId": "544920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3164",
+      "titulo": "Lei nº 3.164 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3164",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3164",
+      "ementa": "Provê quanto ao disposto no parágrafo 31, 2ª parte, do art. 141, da Constituição Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "544922",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3166",
+      "titulo": "Lei nº 3.166 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3166",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3166",
+      "ementa": "Abre ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$   400.000.000,00 para pavimentação dos trechos da BR-56 e da BR-14, integrantes da   ligação rodoviária Santos-Brasília."
+    },
+    {
+      "senadoId": "544921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3165",
+      "titulo": "Lei nº 3.165 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3165",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3165",
+      "ementa": "Modifica o art. 278 do Decreto-lei n° 5.452, de 1 de maio de 1943 (Consolidação das Leis do Trabalho)."
+    },
+    {
+      "senadoId": "573392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-06-01-3160",
+      "titulo": "Lei nº 3.160 de 01/06/1957",
+      "data": "1957-06-01",
+      "numero": "3160",
+      "urn": "urn:lex:br:federal:lei:1957-06-01;3160",
+      "ementa": "Inclui no Serviço de Saúde do Exército, no pôsto de 2º tenente, as enfermeiras que integraram a Fôrça Expedicionária Brasileira, durante as operações de guerra na Itália."
+    },
+    {
+      "senadoId": "573391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-30-3159",
+      "titulo": "Lei nº 3.159 de 30/05/1957",
+      "data": "1957-05-30",
+      "numero": "3159",
+      "urn": "urn:lex:br:federal:lei:1957-05-30;3159",
+      "ementa": "Concede isenção de impostos e taxas alfandegárias para um órgão duplo, destinado ao Colégio Salesiano Santa Rosa, de Niterói, Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "573389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-30-3158",
+      "titulo": "Lei nº 3.158 de 30/05/1957",
+      "data": "1957-05-30",
+      "numero": "3158",
+      "urn": "urn:lex:br:federal:lei:1957-05-30;3158",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 15.585.821,90, destinado a complementar   pagamento de transporte de malas postais por via aérea."
+    },
+    {
+      "senadoId": "573388",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-25-3157",
+      "titulo": "Lei nº 3.157 de 25/05/1957",
+      "data": "1957-05-25",
+      "numero": "3157",
+      "urn": "urn:lex:br:federal:lei:1957-05-25;3157",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais ao jornalista e educador   brasileiro Jacy do Rêgo Barros."
+    },
+    {
+      "senadoId": "573387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3156",
+      "titulo": "Lei nº 3.156 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3156",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3156",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais à Beatriz Ferreira Lucas e Arminda Ferreira Lucas, irmãs solteiras do ex-maquinista do Lóide Brasileiro, Alvaro Ferreira Lucas."
+    },
+    {
+      "senadoId": "573386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3155",
+      "titulo": "Lei nº 3.155 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3155",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3155",
+      "ementa": "Concede isenção de direitos de importação, imposto de consumo e mais taxas   aduaneiras para os materiais e mercadorias importados pela Cia. de Eletricidade   do Alto Rio Grande."
+    },
+    {
+      "senadoId": "573383",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3152",
+      "titulo": "Lei nº 3.152 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3152",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3152",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 20.000.000,00 para custear a construção do   Colégio Experimental Paraguai-Brasil."
+    },
+    {
+      "senadoId": "573381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3150",
+      "titulo": "Lei nº 3.150 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3150",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3150",
+      "ementa": "Isenta de direitos de importação, imposto de consumo e taxas aduaneiras objetos religiosos trazidos da França por Monsenhor Paul Vincent, diretor da peregrinação dos franceses ao XXXVI Congresso Eucarístico Internacional."
+    },
+    {
+      "senadoId": "573384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3153",
+      "titulo": "Lei nº 3.153 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3153",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3153",
+      "ementa": "Concede isenção de direitos de importação, imposto de consumo, taxas aduaneiras e a de ;previdência social para 1.250 caixas de papelão contendo leite em pó, enviadas pela War Relief Services e destinadas à Mitra de Porto Alegre, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "573382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3151",
+      "titulo": "Lei nº 3.151 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3151",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3151",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial ;de ;Cr$ 10.700.000,00 para pagamento de aluguéis correspondentes à ocupação da Casa da Itália pela Faculdade Nacional de Filosofia da Universidade do Brasil."
+    },
+    {
+      "senadoId": "573385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-24-3154",
+      "titulo": "Lei nº 3.154 de 24/05/1957",
+      "data": "1957-05-24",
+      "numero": "3154",
+      "urn": "urn:lex:br:federal:lei:1957-05-24;3154",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 250.000,00 para ocorrer as despesas com o pagamento de trabalhos extraordinários executados pelos funcionários do Serviço de Importação Aérea da Alfândega do Rio de Janeiro."
+    },
+    {
+      "senadoId": "573377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-21-3147",
+      "titulo": "Lei nº 3.147 de 21/05/1957",
+      "data": "1957-05-21",
+      "numero": "3147",
+      "urn": "urn:lex:br:federal:lei:1957-05-21;3147",
+      "ementa": "Concede isenção de direitos, imposto e taxas aduaneiras para mercadorias doadas pela Church World Service (C.W.S.) dos Estados Unidos da América do Norte à Confederação Evangélica do Brasil."
+    },
+    {
+      "senadoId": "573378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-21-3148",
+      "titulo": "Lei nº 3.148 de 21/05/1957",
+      "data": "1957-05-21",
+      "numero": "3148",
+      "urn": "urn:lex:br:federal:lei:1957-05-21;3148",
+      "ementa": "Concede isenção de direitos, imposto de consumo e taxas aduaneiras para as   mercadorias doadas pela War Relief Service (N.C.W.C.) dos Estados Unidos da   América do Norte à Conferência Nacional dos Bispos do Brasil."
+    },
+    {
+      "senadoId": "573376",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-21-3146",
+      "titulo": "Lei nº 3.146 de 21/05/1957",
+      "data": "1957-05-21",
+      "numero": "3146",
+      "urn": "urn:lex:br:federal:lei:1957-05-21;3146",
+      "ementa": "Reorganiza a Auditoria da Polícia Militar e do Corpo de Bombeiros do Distrito Federal."
+    },
+    {
+      "senadoId": "573375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-21-3145",
+      "titulo": "Lei nº 3.145 de 21/05/1957",
+      "data": "1957-05-21",
+      "numero": "3145",
+      "urn": "urn:lex:br:federal:lei:1957-05-21;3145",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 90.000.000,00, destinado a atender as   despesas com a construção da ponte sobre o rio Grande."
+    },
+    {
+      "senadoId": "573379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-21-3149",
+      "titulo": "Lei nº 3.149 de 21/05/1957",
+      "data": "1957-05-21",
+      "numero": "3149",
+      "urn": "urn:lex:br:federal:lei:1957-05-21;3149",
+      "ementa": "Dispõe sobre a organização do Serviço de Assistência e Seguro Social dos Economiários, e dá outras providências."
+    },
+    {
+      "senadoId": "573374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-20-3144",
+      "titulo": "Lei nº 3.144 de 20/05/1957",
+      "data": "1957-05-20",
+      "numero": "3144",
+      "urn": "urn:lex:br:federal:lei:1957-05-20;3144",
+      "ementa": "Determina seja ministrado o Curso Superior de Agrimensura em todo o País, em estabelecimentos de ensino superior, oficiais, equiparados ou reconhecidos, e dá outras providências."
+    },
+    {
+      "senadoId": "573369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-20-3141",
+      "titulo": "Lei nº 3.141 de 20/05/1957",
+      "data": "1957-05-20",
+      "numero": "3141",
+      "urn": "urn:lex:br:federal:lei:1957-05-20;3141",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - o crédito especial de Cr$ 215.752,50 para atender as despesas com o pagamento de diferenças de vencimentos, gratificações adicionais por tempo de serviço, gratificações de representação e sustituições dos juízes, suplentes e vogais do Tribunal do Trabalho da 4ª Região."
+    },
+    {
+      "senadoId": "573371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-20-3142",
+      "titulo": "Lei nº 3.142 de 20/05/1957",
+      "data": "1957-05-20",
+      "numero": "3142",
+      "urn": "urn:lex:br:federal:lei:1957-05-20;3142",
+      "ementa": "Concede isenção de direitos de importação e mais taxas aduaneiras para um   transmissor completo de radiodifusão em ondas curtas importado pela S.A. Rádio   Tupi."
+    },
+    {
+      "senadoId": "573367",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-20-3140",
+      "titulo": "Lei nº 3.140 de 20/05/1957",
+      "data": "1957-05-20",
+      "numero": "3140",
+      "urn": "urn:lex:br:federal:lei:1957-05-20;3140",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 1.000.000,00 para auxiliar o Instituto do Cacau da Bahia na conclusão da Escola de Capatazes da Estação Experimental de Uruçuca."
+    },
+    {
+      "senadoId": "573372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-20-3143",
+      "titulo": "Lei nº 3.143 de 20/05/1957",
+      "data": "1957-05-20",
+      "numero": "3143",
+      "urn": "urn:lex:br:federal:lei:1957-05-20;3143",
+      "ementa": "Concede isenção de direitos de importação, imposto de consumo e mais taxas   aduaneiras para os materiais importados pela Companhia de Eletricidade do Alto   Rio Doce e dá outras providências."
+    },
+    {
+      "senadoId": "573365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-17-3139",
+      "titulo": "Lei nº 3.139 de 17/05/1957",
+      "data": "1957-05-17",
+      "numero": "3139",
+      "urn": "urn:lex:br:federal:lei:1957-05-17;3139",
+      "ementa": "Denomina Aeroporto Carlos Ruhl o Aeroporto de Cruz Alta, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "573363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-17-3138",
+      "titulo": "Lei nº 3.138 de 17/05/1957",
+      "data": "1957-05-17",
+      "numero": "3138",
+      "urn": "urn:lex:br:federal:lei:1957-05-17;3138",
+      "ementa": "Modifica o art. 1º da Lei n° 2.576, de 17 de agosto de 1955 ( dispõe sobre as inspeções de saúde dos servidores civis do Ministério da Aeronáutica, e dá outras providências."
+    },
+    {
+      "senadoId": "573361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-13-3136",
+      "titulo": "Lei nº 3.136 de 13/05/1957",
+      "data": "1957-05-13",
+      "numero": "3136",
+      "urn": "urn:lex:br:federal:lei:1957-05-13;3136",
+      "ementa": "Concede isenção de todos os direitos de importação para um carrilhão de quatro sinos de bronze e a respectiva armação doados à Prelazia da Foz do Iguaçu, no Estado do Paraná."
+    },
+    {
+      "senadoId": "573360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-13-3135",
+      "titulo": "Lei nº 3.135 de 13/05/1957",
+      "data": "1957-05-13",
+      "numero": "3135",
+      "urn": "urn:lex:br:federal:lei:1957-05-13;3135",
+      "ementa": "Concede isenção de impostos, taxas, direitos aduaneiros e imposto de consumo para um carrilhão com dez sinos de aço sonoro e respectiva instalação elétrica, importado da Alemanha, destinado à Catedral Metropolitana de Porto Alegre, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "573359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-13-3134",
+      "titulo": "Lei nº 3.134 de 13/05/1957",
+      "data": "1957-05-13",
+      "numero": "3134",
+      "urn": "urn:lex:br:federal:lei:1957-05-13;3134",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 500.000,00 para auxílio ao Educandário Nossa Senhora   do Rosário, da cidade de Cornélio Procópio, no Estado do Paraná."
+    },
+    {
+      "senadoId": "573362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-13-3137",
+      "titulo": "Lei nº 3.137 de 13/05/1957",
+      "data": "1957-05-13",
+      "numero": "3137",
+      "urn": "urn:lex:br:federal:lei:1957-05-13;3137",
+      "ementa": "Denomina Instituto Brasileiro do Sal o Instituto Nacional do Sal, dando-lhe nova organização."
+    },
+    {
+      "senadoId": "573358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-08-3133",
+      "titulo": "Lei nº 3.133 de 08/05/1957",
+      "data": "1957-05-08",
+      "numero": "3133",
+      "urn": "urn:lex:br:federal:lei:1957-05-08;3133",
+      "ementa": "Atualiza o instituto da adoção prescrita no Código Civil."
+    },
+    {
+      "senadoId": "573356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-08-3131",
+      "titulo": "Lei nº 3.131 de 08/05/1957",
+      "data": "1957-05-08",
+      "numero": "3131",
+      "urn": "urn:lex:br:federal:lei:1957-05-08;3131",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - o crédito especial de Cr$ 1.029.910,00 para atender às despesas de exercícios findos realizadas pelo Tribunal Regional do Trabalho da 2ª Região."
+    },
+    {
+      "senadoId": "573357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-08-3132",
+      "titulo": "Lei nº 3.132 de 08/05/1957",
+      "data": "1957-05-08",
+      "numero": "3132",
+      "urn": "urn:lex:br:federal:lei:1957-05-08;3132",
+      "ementa": "Dispõe sobre a pensão de montepio civil dos funcionários públicos federais."
+    },
+    {
+      "senadoId": "573355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-05-03-3130",
+      "titulo": "Lei nº 3.130 de 03/05/1957",
+      "data": "1957-05-03",
+      "numero": "3130",
+      "urn": "urn:lex:br:federal:lei:1957-05-03;3130",
+      "ementa": "Concede pensão mensal às viúvas dos fundadores da Universidade do Paraná e   dá outras providências."
+    },
+    {
+      "senadoId": "573351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-18-3127",
+      "titulo": "Lei nº 3.127 de 18/04/1957",
+      "data": "1957-04-18",
+      "numero": "3127",
+      "urn": "urn:lex:br:federal:lei:1957-04-18;3127",
+      "ementa": "Concede isenção de direitos alfandegários, imposto de consumo e mais taxas para importação de equipamento completo, destinado à instalação de Indústria Brasileira de Regeneração de Óleos Sociedades Anônima (IBROL)."
+    },
+    {
+      "senadoId": "573350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-18-3126",
+      "titulo": "Lei nº 3.126 de 18/04/1957",
+      "data": "1957-04-18",
+      "numero": "3126",
+      "urn": "urn:lex:br:federal:lei:1957-04-18;3126",
+      "ementa": "Concede dilatação do prazo legal para a fruição de direitos autorais."
+    },
+    {
+      "senadoId": "573349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-18-3125",
+      "titulo": "Lei nº 3.125 de 18/04/1957",
+      "data": "1957-04-18",
+      "numero": "3125",
+      "urn": "urn:lex:br:federal:lei:1957-04-18;3125",
+      "ementa": "Concede o auxílio especial de Cr$ 20.000.000,00 às Províncias Maristas   Brasileiras, para ampliação de sua rede de estabelecimentos educacionais, e dá   outras providências."
+    },
+    {
+      "senadoId": "573352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-18-3128",
+      "titulo": "Lei nº 3.128 de 18/04/1957",
+      "data": "1957-04-18",
+      "numero": "3128",
+      "urn": "urn:lex:br:federal:lei:1957-04-18;3128",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 3.000.000,00 para auxiliar a conclusão das obras da cripta do Monumento Nacional ao Imigrante e a instalação do respectivo Museu da Imigração."
+    },
+    {
+      "senadoId": "573354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-18-3129",
+      "titulo": "Lei nº 3.129 de 18/04/1957",
+      "data": "1957-04-18",
+      "numero": "3129",
+      "urn": "urn:lex:br:federal:lei:1957-04-18;3129",
+      "ementa": "Concede isenção de tributos, inclusive imposto de consumo, para importação   de três imagens doadas pela Casa Maior das Salesianas de Roma, e destinadas ao   Colégio N.S. Auxiliadora, de Petrolina, no Estado de Pernambuco, e aos Colégios   Salesianos de Baturité e Fortaleza, no Estado do Ceará."
+    },
+    {
+      "senadoId": "573345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-16-3121",
+      "titulo": "Lei nº 3.121 de 16/04/1957",
+      "data": "1957-04-16",
+      "numero": "3121",
+      "urn": "urn:lex:br:federal:lei:1957-04-16;3121",
+      "ementa": "Concede isenção de direitos aduaneiros inclusive adicional de 10%, imposto de consumo e mais taxas alfandegárias para materiais importados pela Cia. Telefônica de Campo Grande, no Estado de Mato Grosso."
+    },
+    {
+      "senadoId": "573346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-16-3122",
+      "titulo": "Lei nº 3.122 de 16/04/1957",
+      "data": "1957-04-16",
+      "numero": "3122",
+      "urn": "urn:lex:br:federal:lei:1957-04-16;3122",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 10.000.000,00, destinado à reconstrução da Escola de Artes e   Ofícios Hugo Taylor, de Santa Maria, no ;Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "573347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-16-3123",
+      "titulo": "Lei nº 3.123 de 16/04/1957",
+      "data": "1957-04-16",
+      "numero": "3123",
+      "urn": "urn:lex:br:federal:lei:1957-04-16;3123",
+      "ementa": "Modifica disposições da Lei n° 1.580, de 20 de março de 1952."
+    },
+    {
+      "senadoId": "573348",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-16-3124",
+      "titulo": "Lei nº 3.124 de 16/04/1957",
+      "data": "1957-04-16",
+      "numero": "3124",
+      "urn": "urn:lex:br:federal:lei:1957-04-16;3124",
+      "ementa": "Concede isenção de impostos à Fundação Brasileira de Teatro."
+    },
+    {
+      "senadoId": "573344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-04-16-3120",
+      "titulo": "Lei nº 3.120 de 16/04/1957",
+      "data": "1957-04-16",
+      "numero": "3120",
+      "urn": "urn:lex:br:federal:lei:1957-04-16;3120",
+      "ementa": "Autoriza o Poder Executivo a doar ao Patronato Santa Catarina Labouré, de   Piripiri, Piauí, os terrenos e edifícios que, na mesma localidade, serviram às   instalações da Comissão do Departamento Nacional de Obras Contra as   Secas."
+    },
+    {
+      "senadoId": "573343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-31-3119",
+      "titulo": "Lei nº 3.119 de 31/03/1957",
+      "data": "1957-03-31",
+      "numero": "3119",
+      "urn": "urn:lex:br:federal:lei:1957-03-31;3119",
+      "ementa": "Autoriza a União a constituir uma sociedade por ações, que se denominará Sociedade Termoelétrica de Capivari (Sotelca), e dá outras providências."
+    },
+    {
+      "senadoId": "573340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-25-3116",
+      "titulo": "Lei nº 3.116 de 25/03/1957",
+      "data": "1957-03-25",
+      "numero": "3116",
+      "urn": "urn:lex:br:federal:lei:1957-03-25;3116",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o crédito especial de Cr$ 1.000.000,00, destinado à aquisição de todo o acervo artístico deixado pelo Professor Augusto Giorgio Girardet."
+    },
+    {
+      "senadoId": "573342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-25-3118",
+      "titulo": "Lei nº 3.118 de 25/03/1957",
+      "data": "1957-03-25",
+      "numero": "3118",
+      "urn": "urn:lex:br:federal:lei:1957-03-25;3118",
+      "ementa": "Releva a prescrição em que incorreu o direito à reforma, por incapacidade física, do ex-soldado José Luiz Filho."
+    },
+    {
+      "senadoId": "573341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-25-3117",
+      "titulo": "Lei nº 3.117 de 25/03/1957",
+      "data": "1957-03-25",
+      "numero": "3117",
+      "urn": "urn:lex:br:federal:lei:1957-03-25;3117",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito especial de Cr$ 500.000,00, para auxiliar a realização do 13º Congresso de Higiene, em Fortaleza, capital do Estado do Ceará."
+    },
+    {
+      "senadoId": "573339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-16-3115",
+      "titulo": "Lei nº 3.115 de 16/03/1957",
+      "data": "1957-03-16",
+      "numero": "3115",
+      "urn": "urn:lex:br:federal:lei:1957-03-16;3115",
+      "ementa": "Determina a transformação das empresas ferroviárias da União em sociedade por ações, autoriza a constituição da Rede Ferroviária S.A., e dá outras providências."
+    },
+    {
+      "senadoId": "573336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-15-3112",
+      "titulo": "Lei nº 3.112 de 15/03/1957",
+      "data": "1957-03-15",
+      "numero": "3112",
+      "urn": "urn:lex:br:federal:lei:1957-03-15;3112",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais à Celsina de Azevedo   Soares, única descendente do ex-tenente da Guarda Nacional Celso Salatiel de   Azevedo Soares."
+    },
+    {
+      "senadoId": "573337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-15-3113",
+      "titulo": "Lei nº 3.113 de 15/03/1957",
+      "data": "1957-03-15",
+      "numero": "3113",
+      "urn": "urn:lex:br:federal:lei:1957-03-15;3113",
+      "ementa": "Dispõe sobre a denominação de estabelecimentos bancários."
+    },
+    {
+      "senadoId": "573338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-15-3114",
+      "titulo": "Lei nº 3.114 de 15/03/1957",
+      "data": "1957-03-15",
+      "numero": "3114",
+      "urn": "urn:lex:br:federal:lei:1957-03-15;3114",
+      "ementa": "Isenta de direitos de importação, imposto de consumo e taxas aduaneiras, remédios e objetos vindos dos Estados Unidos da América do Norte e destinados à distribuição pelas Missões dos Padres Redentoristas às populações necessitadas dos Estados do Amazonas, Pará, Mato Grosso e Paraná."
+    },
+    {
+      "senadoId": "573332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-10-3109",
+      "titulo": "Lei nº 3.109 de 10/03/1957",
+      "data": "1957-03-10",
+      "numero": "3109",
+      "urn": "urn:lex:br:federal:lei:1957-03-10;3109",
+      "ementa": "Eleva para Cr$ 1.000.000,00 o limite de Cr$   100.000,00 estabelecido no art. 3º, alínea g                 do Decreto-Lei n° 3.198, de 14 de abril de 1941 (reorganiza a   Administração do Porto do Rio de Janeiro e dá outras providências)."
+    },
+    {
+      "senadoId": "573331",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-10-3108",
+      "titulo": "Lei nº 3.108 de 10/03/1957",
+      "data": "1957-03-10",
+      "numero": "3108",
+      "urn": "urn:lex:br:federal:lei:1957-03-10;3108",
+      "ementa": "Altera o parágrafo único do art. 1º do Decreto-Lei n° 6.460, de 2 de maio de 1944 (Regula a construção e a exploração de instalações portuárias rudimentares)."
+    },
+    {
+      "senadoId": "573335",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-10-3111",
+      "titulo": "Lei nº 3.111 de 10/03/1957",
+      "data": "1957-03-10",
+      "numero": "3111",
+      "urn": "urn:lex:br:federal:lei:1957-03-10;3111",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais a Francisca Ruy Barbosa Airosa, viúva de Raul Antônio Airosa e filha do Conselheiro Ruy Barbosa."
+    },
+    {
+      "senadoId": "573333",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-10-3110",
+      "titulo": "Lei nº 3.110 de 10/03/1957",
+      "data": "1957-03-10",
+      "numero": "3110",
+      "urn": "urn:lex:br:federal:lei:1957-03-10;3110",
+      "ementa": "Concede as pensões especiais de Cr$ 3.000,00 e Cr$ 3.000,00 mensais a   Boreal Pimpão de Sá Nunes e Aurora Dias Fernandes, viúva do escritor Carlos Dias   Fernandes."
+    },
+    {
+      "senadoId": "573329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-02-3106",
+      "titulo": "Lei nº 3.106 de 02/03/1957",
+      "data": "1957-03-02",
+      "numero": "3106",
+      "urn": "urn:lex:br:federal:lei:1957-03-02;3106",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 500.000,00, destinado a premiar os jangadeiros cearenses Jerônimo André de Souza, Raimundo Correia de Lima, Manoel Pereira da Silva, Manoel Lopes Martins e João Batista Pereira, ou seus herdeiros."
+    },
+    {
+      "senadoId": "573328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-02-3105",
+      "titulo": "Lei nº 3.105 de 02/03/1957",
+      "data": "1957-03-02",
+      "numero": "3105",
+      "urn": "urn:lex:br:federal:lei:1957-03-02;3105",
+      "ementa": "Concede isenção de direitos de importação, imposto de consumo e taxas aduaneiras para objetos religiosos provenientes de Nazareth, Palestina, como doação ao XXXVI Congresso Eucarístico Internacional."
+    },
+    {
+      "senadoId": "573330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-02-3107",
+      "titulo": "Lei nº 3.107 de 02/03/1957",
+      "data": "1957-03-02",
+      "numero": "3107",
+      "urn": "urn:lex:br:federal:lei:1957-03-02;3107",
+      "ementa": "Concede isenção de direitos, imposto de consumo e taxas aduaneiras para   a ;importação de um trator Ford com vários pertences e uma camioneta Willys,   destinados à Associação Evangélica de Catequese dos Índios, com sede em São   Paulo, capital do Estado do mesmo nome."
+    },
+    {
+      "senadoId": "573327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-03-01-3104",
+      "titulo": "Lei nº 3.104 de 01/03/1957",
+      "data": "1957-03-01",
+      "numero": "3104",
+      "urn": "urn:lex:br:federal:lei:1957-03-01;3104",
+      "ementa": "Acrescenta dois itens ao art. 2º da Lei n° 1.821, de 12 de março de 1953,   que dispõe sobre o regime de equivalência entre diversos cursos de grau médio   para efeito de matrícula no ciclo colegial e nos cursos   superiores."
+    },
+    {
+      "senadoId": "573323",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-02-24-3101",
+      "titulo": "Lei nº 3.101 de 24/02/1957",
+      "data": "1957-02-24",
+      "numero": "3101",
+      "urn": "urn:lex:br:federal:lei:1957-02-24;3101",
+      "ementa": "Cria cargos no Quadro do Pessoal da Justiça do Trabalho da 2ª   Região."
+    },
+    {
+      "senadoId": "573321",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-02-24-3099",
+      "titulo": "Lei nº 3.099 de 24/02/1957",
+      "data": "1957-02-24",
+      "numero": "3099",
+      "urn": "urn:lex:br:federal:lei:1957-02-24;3099",
+      "ementa": "Determina as condições para o funcionamento de estabelecimento de   informações reservadas ou confidenciais, comerciais ou   particulares."
+    },
+    {
+      "senadoId": "573326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-02-24-3103",
+      "titulo": "Lei nº 3.103 de 24/02/1957",
+      "data": "1957-02-24",
+      "numero": "3103",
+      "urn": "urn:lex:br:federal:lei:1957-02-24;3103",
+      "ementa": "Concede isenção de todos os direitos de importação, impostos e taxas para um carrilhão de quatro sinos, doado à Prelazia de Foz do Iguaçu, no Estado do Paraná, pelo Revmo. Padre Bernardo Schulte Oversohl, de Essen, Alemanha."
+    },
+    {
+      "senadoId": "573325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-02-24-3102",
+      "titulo": "Lei nº 3.102 de 24/02/1957",
+      "data": "1957-02-24",
+      "numero": "3102",
+      "urn": "urn:lex:br:federal:lei:1957-02-24;3102",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 1.965.747,20, destinado a atender ao pagamento dos   débitos contraídos pela 1ª Inspetoria Regional do Serviço de Proteção aos   Índios."
+    },
+    {
+      "senadoId": "573320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-02-24-3098",
+      "titulo": "Lei nº 3.098 de 24/02/1957",
+      "data": "1957-02-24",
+      "numero": "3098",
+      "urn": "urn:lex:br:federal:lei:1957-02-24;3098",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de Cr$ 1.000.000,00   para ereção de um monumento a Anita Garibaldi, na cidade de Laguna, Estado de   Santa Catarina."
+    },
+    {
+      "senadoId": "573322",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-02-24-3100",
+      "titulo": "Lei nº 3.100 de 24/02/1957",
+      "data": "1957-02-24",
+      "numero": "3100",
+      "urn": "urn:lex:br:federal:lei:1957-02-24;3100",
+      "ementa": "Reverte em favor de Marieta Galvão Miranda Corrêa a pensão de que era   beneficiária sua falecida irmã Alice Arroxelas Galvão."
+    },
+    {
+      "senadoId": "573319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-01-31-3097",
+      "titulo": "Lei nº 3.097 de 31/01/1957",
+      "data": "1957-01-31",
+      "numero": "3097",
+      "urn": "urn:lex:br:federal:lei:1957-01-31;3097",
+      "ementa": "Dispõe sobre as anuidades devidas aos Conselhos de Engenharia e   Arquitetura pelos profissionais e firmas que lhes estejam jurisdicionados."
+    },
+    {
+      "senadoId": "573316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-01-30-3094",
+      "titulo": "Lei nº 3.094 de 30/01/1957",
+      "data": "1957-01-30",
+      "numero": "3094",
+      "urn": "urn:lex:br:federal:lei:1957-01-30;3094",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 65.000.000,00, para auxiliar as contruções e   ampliações dos Institutos de Educação de Pernambuco, Porto Alegre, Maceió, Rio   Grande do Norte, Picos, Belo Horizonte, Bahia, Aracaju e São Paulo e do Colégio   Estadual do Paraná e da Escola Normal Pedro II, em Vitória."
+    },
+    {
+      "senadoId": "573317",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-01-30-3095",
+      "titulo": "Lei nº 3.095 de 30/01/1957",
+      "data": "1957-01-30",
+      "numero": "3095",
+      "urn": "urn:lex:br:federal:lei:1957-01-30;3095",
+      "ementa": "Concede ao Instituto de Física Teórica de São Paulo a subvenção anual de   Cr$ 3.000.000,00."
+    },
+    {
+      "senadoId": "573318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-01-30-3096",
+      "titulo": "Lei nº 3.096 de 30/01/1957",
+      "data": "1957-01-30",
+      "numero": "3096",
+      "urn": "urn:lex:br:federal:lei:1957-01-30;3096",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   os créditos especiais, respectivamente de Cr$ 5.000.000,00, Cr$ 5.000.000,00,   Cr$ 2.000.000,00, Cr$ 1.000.000,00, Cr$ 5.000.000,00, Cr$ 1.500.000,00, Cr$   2.000.000,00 e Cr$ 5.000.000,00, para auxiliar as Prefeituras Municipais de   Ribeirão Preto, Lorena, Caraguatatuba e São Carlos, no Estado de São Paulo,   Montes Claros e Formiga, no estado de Minas Gerais, Borba, no Estado do Amazonas   e Anápolis, no Estado de Goiás."
+    },
+    {
+      "senadoId": "573315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1957-01-02-3093",
+      "titulo": "Lei nº 3.093 de 02/01/1957",
+      "data": "1957-01-02",
+      "numero": "3093",
+      "urn": "urn:lex:br:federal:lei:1957-01-02;3093",
+      "ementa": "Cria o Quadro Especial (Universidade do Rio Grande do Sul) do Ministério   da Educação e Cultura, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

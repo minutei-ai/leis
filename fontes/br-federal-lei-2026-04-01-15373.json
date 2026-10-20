@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-04-01-15373",
+  "titulo": "Lei nº 15.373 de 01/04/2026",
+  "data": "2026-04-01",
+  "fonte": "https://normas.leg.br/api/public/binario/43d5a985-28bc-4c34-8e9b-36971ea24b91/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-04-01;15373",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-04-01%3B15373&tipo_documento=maior-detalhe",
+  "sha256_dados": "61eddf38aa18b1ceb425a075a198bcbff69deddf433ac0bd6a26494ced69b2e3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:28.740Z",
+  "sha256_fonte": "cebf7f75f7a7d22fac530120cdfba33b008154cddb86d3d8ca372e03b6965710",
+  "sha256_markdown": "c3f9352b258e07cd9f4ef4e465a95015430a2af965a7913f4f335a49e5a4ab59"
+}

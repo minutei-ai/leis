@@ -1,0 +1,2259 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1993",
+  "tipo": "LEI",
+  "ano": 1993,
+  "coletado_em": "2026-10-20T22:57:04.455Z",
+  "normas": [
+    {
+      "senadoId": "550714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-27-8838",
+      "titulo": "Lei nº 8.838 de 27/12/1993",
+      "data": "1993-12-27",
+      "numero": "8838",
+      "urn": "urn:lex:br:federal:lei:1993-12-27;8838",
+      "ementa": "Autoriza o Poder Executivo a abrir, em favor do Ministério da Indústria,   do Comércio e do Turismo, crédito suplementar no valor de Cr$ 295.465.628,00,   para fins que especifica."
+    },
+    {
+      "senadoId": "550717",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-27-8841",
+      "titulo": "Lei nº 8.841 de 27/12/1993",
+      "data": "1993-12-27",
+      "numero": "8841",
+      "urn": "urn:lex:br:federal:lei:1993-12-27;8841",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Agricultura, do Abastecimento e da Reforma Agrária, créditos   adicionais até o limite de Cr$ 4.073.052.263,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550715",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-27-8839",
+      "titulo": "Lei nº 8.839 de 27/12/1993",
+      "data": "1993-12-27",
+      "numero": "8839",
+      "urn": "urn:lex:br:federal:lei:1993-12-27;8839",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor da   Justiça Federal, da Justiça Militar, da Justiça Eleitoral e da Justiça do   Trabalho, créditos adicionais até o limite de Cr$ 2.064.196.142,00, para fins   que especifica."
+    },
+    {
+      "senadoId": "550716",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-27-8840",
+      "titulo": "Lei nº 8.840 de 27/12/1993",
+      "data": "1993-12-27",
+      "numero": "8840",
+      "urn": "urn:lex:br:federal:lei:1993-12-27;8840",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, créditos   adicionais até o limite de Cr$ 3.829.717.756,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550706",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8830",
+      "titulo": "Lei nº 8.830 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8830",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8830",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito   especial até o limite de Cr$ 28.000.000,00, (vinte e oito milhões de cruzeiros   reais), para os fins que especifica."
+    },
+    {
+      "senadoId": "550711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8835",
+      "titulo": "Lei nº 8.835 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8835",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8835",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Educação e do Desporto, crédito suplementar no valor de Cr$   16.086.887.174,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550712",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8836",
+      "titulo": "Lei nº 8.836 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8836",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8836",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Educação e do Desporto, crédito adicional até o limite de Cr$   11.210.319,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550707",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8831",
+      "titulo": "Lei nº 8.831 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8831",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8831",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social, crédito suplementar de Cr$ 8.868.928.757,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550709",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8833",
+      "titulo": "Lei nº 8.833 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8833",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8833",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento de Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito suplementar no   valor de Cr$ 115.190.597.716.,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550710",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8834",
+      "titulo": "Lei nº 8.834 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8834",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8834",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Educação e do Desporto, crédito adicional até o limite de Cr$   84.092.394.231,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550708",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8832",
+      "titulo": "Lei nº 8.832 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8832",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8832",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério dos Transportes, crédito suplementar no valor de Cr$ 2.227.500,00,   e crédito especial até o limite de Cr$ 461.691.450,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550713",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-23-8837",
+      "titulo": "Lei nº 8.837 de 23/12/1993",
+      "data": "1993-12-23",
+      "numero": "8837",
+      "urn": "urn:lex:br:federal:lei:1993-12-23;8837",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Integração Regional, crédito suplementar no valor de Cr$   6.689.938.335,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8823",
+      "titulo": "Lei nº 8.823 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8823",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8823",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito suplementar no   valor de Cr$ 11.203.392.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550692",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8816",
+      "titulo": "Lei nº 8.816 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8816",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8816",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Meio Ambiente, crédito especial até o limite de Cr$   450.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550701",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8825",
+      "titulo": "Lei nº 8.825 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8825",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8825",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Educação e do Desporto, crédito especial de Cr$   1.406.916.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550698",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8822",
+      "titulo": "Lei nº 8.822 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8822",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8822",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos União, em favor do   Ministério da Educação e do Desporto, crédito suplementar no valor de Cr$   256.304.868,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8815",
+      "titulo": "Lei nº 8.815 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8815",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8815",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 396.421.190.910,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "550676",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8800",
+      "titulo": "Lei nº 8.800 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8800",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8800",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Saúde - Fundo Nacional de Saúde, crédito   especial até o limite de Cr$ 60.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550687",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8811",
+      "titulo": "Lei nº 8.811 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8811",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8811",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito suplementar no   valor de Cr$ 663.270.003,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550695",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8819",
+      "titulo": "Lei nº 8.819 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8819",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8819",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Cultura, crédito suplementar no valor de Cr$ 43.908.290,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8805",
+      "titulo": "Lei nº 8.805 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8805",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8805",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Trabalho, crédito suplementar no valor de Cr$   26.892.609.737,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550693",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8817",
+      "titulo": "Lei nº 8.817 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8817",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8817",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Educação e do Desporto, crédito especial até o limite de Cr$   86.904.649,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550703",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8827",
+      "titulo": "Lei nº 8.827 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8827",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8827",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor de   diversos órgãos, crédito adicionais até o limite de Cr$ 29.492.798.718,00, com   recursos provenientes de títulos emitidos no âmbito do Programa Nacional de   Desestatização, para os fins que especifica."
+    },
+    {
+      "senadoId": "550704",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8828",
+      "titulo": "Lei nº 8.828 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8828",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8828",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, créditos adicionais até o limite de Cr$ 93.662.830.173,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "550700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8824",
+      "titulo": "Lei nº 8.824 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8824",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8824",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Fazenda, crédito especial até o limite de Cr$   3.834.304.458,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550694",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8818",
+      "titulo": "Lei nº 8.818 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8818",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8818",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Indústria e do Comércio e do Turismo, crédito suplementar no valor   de Cr$ 10.178.559.756,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550683",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8807",
+      "titulo": "Lei nº 8.807 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8807",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8807",
+      "ementa": "Autoriza o Poder Executivo a abrir aos orçamentos da União, em favor da   Presidência da República, Ministério das Relações Exteriores e Encargos   Previdenciários da União, crédito suplementar no valor de Cr$ 450.364.937,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550690",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8814",
+      "titulo": "Lei nº 8.814 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8814",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8814",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor de   diversos Órgãos, crédito suplementar no valor de Cr$ 1.026.300.000,00, com   recursos provenientes de títulos emitidos no âmbito do Programa Nacional de   Desestatização, para os fins que especifica."
+    },
+    {
+      "senadoId": "550685",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8809",
+      "titulo": "Lei nº 8.809 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8809",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8809",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça e do Senado Federal, crédito suplementar no valor de   Cr$ 555.690.449,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550689",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8813",
+      "titulo": "Lei nº 8.813 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8813",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8813",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   dos Ministérios da Ciência e Tecnologia, da Cultura e do Meio Ambiente, crédito   adicional até o limite de Cr$ 1.192.026.288,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550688",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8812",
+      "titulo": "Lei nº 8.812 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8812",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8812",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, crédito suplementar de Cr$ 11.985.651,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "550697",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8821",
+      "titulo": "Lei nº 8.821 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8821",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8821",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 55.104.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550705",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8829",
+      "titulo": "Lei nº 8.829 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8829",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8829",
+      "ementa": "Cria, no Serviço Exterior Brasileiro, as Carreiras de Oficial de Chancelaria e de Assistente de Chancelaria, e dá outras providências."
+    },
+    {
+      "senadoId": "550677",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8801",
+      "titulo": "Lei nº 8.801 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8801",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8801",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Presidência da República e do Ministério das Relações Exteriores, crédito   suplementar no valor de Cr$ 46.669,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550682",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8806",
+      "titulo": "Lei nº 8.806 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8806",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8806",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério de Minas e Energia, crédito suplementar no valor de Cr$   1.216.455.894,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550675",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8799",
+      "titulo": "Lei nº 8.799 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8799",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8799",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da União, em favor do   Ministério da Fazenda, crédito suplementar no valor de Cr$ 105.169.661,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "550702",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8826",
+      "titulo": "Lei nº 8.826 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8826",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8826",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito   suplementar de Cr$ 110.208.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550696",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8820",
+      "titulo": "Lei nº 8.820 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8820",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8820",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Trabalho, crédito suplementar no valor de Cr$   611.452.849.308,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550679",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8803",
+      "titulo": "Lei nº 8.803 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8803",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8803",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Previdência Social, crédito suplementar no   valor de Cr$ 9.863.228.550,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550680",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8804",
+      "titulo": "Lei nº 8.804 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8804",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8804",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Fazenda, crédito especial até o limite de Cr$ 8.000.000.000,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550678",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8802",
+      "titulo": "Lei nº 8.802 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8802",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8802",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, crédito especial até o limite de Cr$ 915.750,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "550684",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8808",
+      "titulo": "Lei nº 8.808 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8808",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8808",
+      "ementa": "Autoriza o Poder Executivo a abrir aos orçamentos da União, em favor de   diversos órgãos, crédito suplementar no valor de Cr$ 533.052.000,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "550686",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-22-8810",
+      "titulo": "Lei nº 8.810 de 22/12/1993",
+      "data": "1993-12-22",
+      "numero": "8810",
+      "urn": "urn:lex:br:federal:lei:1993-12-22;8810",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério dos Transportes, crédito suplementar no valor de Cr$   20.703.996.224,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550653",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8777",
+      "titulo": "Lei nº 8.777 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8777",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8777",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Educação e do Desporto, crédito suplementar no valor de Cr$   1.964.074.943,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550652",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8776",
+      "titulo": "Lei nº 8.776 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8776",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8776",
+      "ementa": "Altera dispositivo da Lei nº 8.447, de 21 de julho de 1992."
+    },
+    {
+      "senadoId": "550650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8774",
+      "titulo": "Lei nº 8.774 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8774",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8774",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União crédito suplementar no valor de Cr$ 9.711.880,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8790",
+      "titulo": "Lei nº 8.790 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8790",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8790",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Fazenda, crédito suplementar no valor de Cr$ 3.292.282.000,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550655",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8779",
+      "titulo": "Lei nº 8.779 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8779",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8779",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 15.781.036.870,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550671",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8795",
+      "titulo": "Lei nº 8.795 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8795",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8795",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Bem Estar Social, crédito suplementar no valor   de Cr$ 40.818.424,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8785",
+      "titulo": "Lei nº 8.785 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8785",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8785",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor de Encargos Previdenciários da União, crédito suplementar no   valor de Cr$ 1.410.938.000,00, par os fins que especifica."
+    },
+    {
+      "senadoId": "550641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8765",
+      "titulo": "Lei nº 8.765 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8765",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8765",
+      "ementa": "Altera o art. 43 da Lei nº 8.447, de 21 de julho de 1992, no exercício   financeiro de 1993, que dispõe sobre a receita decorrente da emissão de títulos   da dívida pública federal, pelo Tesouro Nacional e dá outras   providências."
+    },
+    {
+      "senadoId": "550662",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8786",
+      "titulo": "Lei nº 8.786 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8786",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8786",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor de diversos Órgãos, crédito suplementar no valor de   Cr$ 2.246.396.000,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8770",
+      "titulo": "Lei nº 8.770 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8770",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8770",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Presidência da República, crédito suplementar no valor de Cr$ 1.423.021,00   para fins que especifica."
+    },
+    {
+      "senadoId": "550657",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8781",
+      "titulo": "Lei nº 8.781 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8781",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8781",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor da   Justiça Eleitoral, crédito suplementar no valor de Cr$ 11.775.000,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "550672",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8796",
+      "titulo": "Lei nº 8.796 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8796",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8796",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Bem-Estar Social, crédito especial até o limite   de Cr$ 80.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550660",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8784",
+      "titulo": "Lei nº 8.784 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8784",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8784",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade da União, em   favor do Ministério da Saúde - Fundo Nacional de Saúde, crédito suplementar no   valor de Cr$ 12.433.000.000,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550658",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8782",
+      "titulo": "Lei nº 8.782 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8782",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8782",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   dos Ministérios da Ciência e Tecnologia, da Cultura e do Meio Ambiente, crédito   adicional até o limite de Cr$ 1.276.923.913,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550674",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8798",
+      "titulo": "Lei nº 8.798 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8798",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8798",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Presidência da República, Ministério das Relações Exteriores e Ministério da   Justiça, crédito suplementar no valor de Cr$ 27.283.232.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550647",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8771",
+      "titulo": "Lei nº 8.771 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8771",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8771",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Indústria, do Comércio e do Turismo, crédito suplementar no   valor de Cr$ 130.000.000,00, para reforço de dotações consignadas no vigente   orçamento."
+    },
+    {
+      "senadoId": "550642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8766",
+      "titulo": "Lei nº 8.766 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8766",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8766",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, crédito especial até o limite de Cr$ 600.000,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "550664",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8788",
+      "titulo": "Lei nº 8.788 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8788",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8788",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Saúde - Fundo Nacional de Saúde, crédito   suplementar no valor de Cr$ 2.478.906869,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550659",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8783",
+      "titulo": "Lei nº 8.783 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8783",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8783",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Trabalho, crédito suplementar no valor de Cr$ 48.827.078,00,   para fins que especifica."
+    },
+    {
+      "senadoId": "550669",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8793",
+      "titulo": "Lei nº 8.793 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8793",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8793",
+      "ementa": "Autoriza o Poder Executivo a abrir aos orçamentos da União, em favor do   Ministério da Fazenda e de Encargos Previdenciários da União, créditos   adicionais até o limite de Cr$ 147.691.594,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8767",
+      "titulo": "Lei nº 8.767 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8767",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8767",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, crédito suplementar no valor de Cr$ 394.208.248,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550667",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8791",
+      "titulo": "Lei nº 8.791 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8791",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8791",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério dos Transportes, crédito suplementar no valor de Cr$   1.103.264.880,00 e crédito especial de Cr$ 32.711.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550673",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8797",
+      "titulo": "Lei nº 8.797 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8797",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8797",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 2.520.545.398,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550670",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8794",
+      "titulo": "Lei nº 8.794 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8794",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8794",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Bem-Estar Social, crédito especial até o limite   de Cr$ 218.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8772",
+      "titulo": "Lei nº 8.772 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8772",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8772",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de diversos órgãos, crédito suplementar no valor de Cr$ 534.894.166,00, para   fins que especifica."
+    },
+    {
+      "senadoId": "550668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8792",
+      "titulo": "Lei nº 8.792 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8792",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8792",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Bem-Estar Social, crédito suplementar no valor   de CR$ 81.333.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8773",
+      "titulo": "Lei nº 8.773 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8773",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8773",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Indústria, do Comércio e do Turismo, crédito suplementar no valor   de Cr$ 816.524.302,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550651",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8775",
+      "titulo": "Lei nº 8.775 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8775",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8775",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito suplementar no   valor de Cr$ 38.358.163,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550656",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8780",
+      "titulo": "Lei nº 8.780 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8780",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8780",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 734.852.923.00, para fins que   especifica."
+    },
+    {
+      "senadoId": "550665",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8789",
+      "titulo": "Lei nº 8.789 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8789",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8789",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Educação e do Desporto, crédito suplementar no valor de Cr$   10.462.954,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8768",
+      "titulo": "Lei nº 8.768 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8768",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8768",
+      "ementa": "Autoriza o Poder Executiva a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 1.977.938.745,00 para os fins que   especifica."
+    },
+    {
+      "senadoId": "550645",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8769",
+      "titulo": "Lei nº 8.769 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8769",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8769",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, crédito especial até o limite de Cr$ 20.248.090,00,   para fins que especifica."
+    },
+    {
+      "senadoId": "550663",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8787",
+      "titulo": "Lei nº 8.787 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8787",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8787",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Cultura, crédito suplementar no valor de Cr$ 11.749.523,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-21-8778",
+      "titulo": "Lei nº 8.778 de 21/12/1993",
+      "data": "1993-12-21",
+      "numero": "8778",
+      "urn": "urn:lex:br:federal:lei:1993-12-21;8778",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor do   Ministério da Agricultura, do Abastecimento e da Reforma Agrária, crédito   suplementar no valor de Cr$ 75.988.089,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-20-8764",
+      "titulo": "Lei nº 8.764 de 20/12/1993",
+      "data": "1993-12-20",
+      "numero": "8764",
+      "urn": "urn:lex:br:federal:lei:1993-12-20;8764",
+      "ementa": "Cria a Secretaria Nacional de Entorpecentes e dá outras providências."
+    },
+    {
+      "senadoId": "550639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-14-8763",
+      "titulo": "Lei nº 8.763 de 14/12/1993",
+      "data": "1993-12-14",
+      "numero": "8763",
+      "urn": "urn:lex:br:federal:lei:1993-12-14;8763",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Cultura, crédito especial até o limite de Cr$ 9.800.000,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "550635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-14-8759",
+      "titulo": "Lei nº 8.759 de 14/12/1993",
+      "data": "1993-12-14",
+      "numero": "8759",
+      "urn": "urn:lex:br:federal:lei:1993-12-14;8759",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor da   Justiça Militar e da Justiça do Trabalho, créditos adicionais até o limite de   Cr$ 82.673.708,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-14-8760",
+      "titulo": "Lei nº 8.760 de 14/12/1993",
+      "data": "1993-12-14",
+      "numero": "8760",
+      "urn": "urn:lex:br:federal:lei:1993-12-14;8760",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Transferências a Estados, Distrito Federal e Municípios, crédito especial até   o limite de Cr$ 2.475.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-14-8762",
+      "titulo": "Lei nº 8.762 de 14/12/1993",
+      "data": "1993-12-14",
+      "numero": "8762",
+      "urn": "urn:lex:br:federal:lei:1993-12-14;8762",
+      "ementa": "Dispõe sobre a alienação de imóveis de propriedade da União, sob a   jurisdição do Ministério da Marinha."
+    },
+    {
+      "senadoId": "550637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-14-8761",
+      "titulo": "Lei nº 8.761 de 14/12/1993",
+      "data": "1993-12-14",
+      "numero": "8761",
+      "urn": "urn:lex:br:federal:lei:1993-12-14;8761",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, crédito   adicional até o limite de Cr$ 685.027.363,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8751",
+      "titulo": "Lei nº 8.751 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8751",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8751",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, créditos adicionais até o limite de Cr$   1.150.000.000,00 com recursos provenientes de títulos emitidos no âmbito do   Programa Nacional de Desestatização, para os fins que especifica."
+    },
+    {
+      "senadoId": "550632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8756",
+      "titulo": "Lei nº 8.756 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8756",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8756",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamrnto Fiscal da União, em favor   do Ministério da Ciência e Tecnologia, crédito suplementar no valor de Cr$   22.892.235,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8755",
+      "titulo": "Lei nº 8.755 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8755",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8755",
+      "ementa": "Autoriza Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do   Ministério da Justiça, crédito suplementar no valor de Cr$ 12.922.983,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "550634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8758",
+      "titulo": "Lei nº 8.758 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8758",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8758",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Presidência da República, crédito especial até o limite de Cr$ 47.952.671,00,   para fins que especifica."
+    },
+    {
+      "senadoId": "550630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8754",
+      "titulo": "Lei nº 8.754 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8754",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8754",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito especial até o   limite de CR$ 120.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550628",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8752",
+      "titulo": "Lei nº 8.752 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8752",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8752",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito especial até o   limite de Cr$ 20.323.962.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8757",
+      "titulo": "Lei nº 8.757 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8757",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8757",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   dos Minsitérios da Aeronáutica, do Exército e da Marinha, créditos adicionais   até o limite de Cr$ 8.392.267.524,00, para fins que especifica."
+    },
+    {
+      "senadoId": "550629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8753",
+      "titulo": "Lei nº 8.753 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8753",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8753",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Senado Federal, crédito especial até o limite de Cr$ 4.000.000,00, para fins   que especifica."
+    },
+    {
+      "senadoId": "550626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-13-8750",
+      "titulo": "Lei nº 8.750 de 13/12/1993",
+      "data": "1993-12-13",
+      "numero": "8750",
+      "urn": "urn:lex:br:federal:lei:1993-12-13;8750",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e de Seguridade   Social crédito adicional no valor de Cr$ 1.528.053.219.782,00 para fins que   especifica."
+    },
+    {
+      "senadoId": "550625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-10-8749",
+      "titulo": "Lei nº 8.749 de 10/12/1993",
+      "data": "1993-12-10",
+      "numero": "8749",
+      "urn": "urn:lex:br:federal:lei:1993-12-10;8749",
+      "ementa": "Dispõe sobre recursos não reclamados correspondentes a aplicação em fundos   de curto prazo ao portador, e dá outras providências."
+    },
+    {
+      "senadoId": "550623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-09-8747",
+      "titulo": "Lei nº 8.747 de 09/12/1993",
+      "data": "1993-12-09",
+      "numero": "8747",
+      "urn": "urn:lex:br:federal:lei:1993-12-09;8747",
+      "ementa": "Dá nova redação ao art. 4º da Lei nº 8.170, de 17 de janeiro de   1991."
+    },
+    {
+      "senadoId": "550619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-09-8743",
+      "titulo": "Lei nº 8.743 de 09/12/1993",
+      "data": "1993-12-09",
+      "numero": "8743",
+      "urn": "urn:lex:br:federal:lei:1993-12-09;8743",
+      "ementa": "Inclui a categoria funcional de Agente de Portaria no Anexo X da Lei n.   7995, de 9 de janeiro de 1990."
+    },
+    {
+      "senadoId": "550621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-09-8745",
+      "titulo": "Lei nº 8.745 de 09/12/1993",
+      "data": "1993-12-09",
+      "numero": "8745",
+      "urn": "urn:lex:br:federal:lei:1993-12-09;8745",
+      "ementa": "Dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de exepcional interesse público, nos termos do inciso IX do Art. 37 da Constituição Federal, e dá outra providências."
+    },
+    {
+      "senadoId": "550620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-09-8744",
+      "titulo": "Lei nº 8.744 de 09/12/1993",
+      "data": "1993-12-09",
+      "numero": "8744",
+      "urn": "urn:lex:br:federal:lei:1993-12-09;8744",
+      "ementa": "Anistia débito dos eleitores que deixaram de votar no plebiscito de 21 de   abril de 1993."
+    },
+    {
+      "senadoId": "550624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-09-8748",
+      "titulo": "Lei nº 8.748 de 09/12/1993",
+      "data": "1993-12-09",
+      "numero": "8748",
+      "urn": "urn:lex:br:federal:lei:1993-12-09;8748",
+      "ementa": "Altera a legislação reguladora do processo administrativo de determinação e exigência de créditos tributários da União e dá outras providências."
+    },
+    {
+      "senadoId": "550622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-09-8746",
+      "titulo": "Lei nº 8.746 de 09/12/1993",
+      "data": "1993-12-09",
+      "numero": "8746",
+      "urn": "urn:lex:br:federal:lei:1993-12-09;8746",
+      "ementa": "Cria, mediante transformação, o Ministério do Meio Ambiente e da Amazônia   Legal, altera a redação de dispositivos da Lei nº. 8.490, de 19 de novembro de   1992, e dá outras providências."
+    },
+    {
+      "senadoId": "550618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-07-8742",
+      "titulo": "Lei nº 8.742 de 07/12/1993",
+      "data": "1993-12-07",
+      "numero": "8742",
+      "urn": "urn:lex:br:federal:lei:1993-12-07;8742",
+      "ementa": "Dispõe sobre a organização da Assistência Social e dá outras providências."
+    },
+    {
+      "senadoId": "550616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-03-8740",
+      "titulo": "Lei nº 8.740 de 03/12/1993",
+      "data": "1993-12-03",
+      "numero": "8740",
+      "urn": "urn:lex:br:federal:lei:1993-12-03;8740",
+      "ementa": "Autoriza a doação do imóvel que menciona."
+    },
+    {
+      "senadoId": "550617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-03-8741",
+      "titulo": "Lei nº 8.741 de 03/12/1993",
+      "data": "1993-12-03",
+      "numero": "8741",
+      "urn": "urn:lex:br:federal:lei:1993-12-03;8741",
+      "ementa": "Dispõe sobre a composição e a estrutura do Conselho   Nacional de Informática e Automação - CONIN, e dá outras providências."
+    },
+    {
+      "senadoId": "550615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-02-8739",
+      "titulo": "Lei nº 8.739 de 02/12/1993",
+      "data": "1993-12-02",
+      "numero": "8739",
+      "urn": "urn:lex:br:federal:lei:1993-12-02;8739",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos da União, em favor de   diversos órgãos, crédito suplementar no valor de Cr$ 36.257.411.000,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "550614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-01-8738",
+      "titulo": "Lei nº 8.738 de 01/12/1993",
+      "data": "1993-12-01",
+      "numero": "8738",
+      "urn": "urn:lex:br:federal:lei:1993-12-01;8738",
+      "ementa": "Autoriza o Poder Executivo a abir ao Orçamento Fiscal da União, em favor   do Ministério da Cultura, crédito adicional até o limite de Cr$   1.686.008.204,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-12-01-8737",
+      "titulo": "Lei nº 8.737 de 01/12/1993",
+      "data": "1993-12-01",
+      "numero": "8737",
+      "urn": "urn:lex:br:federal:lei:1993-12-01;8737",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da   Fazenda, crédito especial até o limite de Cr$ 614.221.728,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-29-8736",
+      "titulo": "Lei nº 8.736 de 29/11/1993",
+      "data": "1993-11-29",
+      "numero": "8736",
+      "urn": "urn:lex:br:federal:lei:1993-11-29;8736",
+      "ementa": "Altera o art. 2º da Lei nº 8.352, de 28 de dezembro de 1991, com a redação dada pela Lei nº 8.458, de 11 de setembro de 1992, que dispõe sobre as disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT e dá outras providências, autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde - Fundo Nacional de Saúde, crédito extraordinário no valor de Cr$ 35.000.000.000,00 (trinta e cinco bilhões de cruzeiros reais)."
+    },
+    {
+      "senadoId": "550610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-25-8734",
+      "titulo": "Lei nº 8.734 de 25/11/1993",
+      "data": "1993-11-25",
+      "numero": "8734",
+      "urn": "urn:lex:br:federal:lei:1993-11-25;8734",
+      "ementa": "Acrescenta parágrafo ao art. 3º e revoga o art. 4º da Lei nº 6.994, de 25   de maio de 1982."
+    },
+    {
+      "senadoId": "550611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-25-8735",
+      "titulo": "Lei nº 8.735 de 25/11/1993",
+      "data": "1993-11-25",
+      "numero": "8735",
+      "urn": "urn:lex:br:federal:lei:1993-11-25;8735",
+      "ementa": "Define condições para aquisição e remoção de alimentos básicos destinados   à população flagelada pela seca, e autoriza o Poder Executivo a abrir ao   Orçamento da Seguridade Social da União, em favor do Ministério da Integração   Regional e do Ministério do Exército, crédito extraordinário no valor de CR$   5.470.000.000,00"
+    },
+    {
+      "senadoId": "550609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-25-8733",
+      "titulo": "Lei nº 8.733 de 25/11/1993",
+      "data": "1993-11-25",
+      "numero": "8733",
+      "urn": "urn:lex:br:federal:lei:1993-11-25;8733",
+      "ementa": "Dá a denominação de Presidente Juscelino Kubitschek de Oliveira   à Rodovia BR-364."
+    },
+    {
+      "senadoId": "550608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-22-8732",
+      "titulo": "Lei nº 8.732 de 22/11/1993",
+      "data": "1993-11-22",
+      "numero": "8732",
+      "urn": "urn:lex:br:federal:lei:1993-11-22;8732",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social crédito suplementar no valor de Cr$1.034.163.124.232,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "550607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-16-8731",
+      "titulo": "Lei nº 8.731 de 16/11/1993",
+      "data": "1993-11-16",
+      "numero": "8731",
+      "urn": "urn:lex:br:federal:lei:1993-11-16;8731",
+      "ementa": "Transforma as Escolas Agrotécnicas Federais em autarquias e dá outras   providências."
+    },
+    {
+      "senadoId": "550605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-10-8729",
+      "titulo": "Lei nº 8.729 de 10/11/1993",
+      "data": "1993-11-10",
+      "numero": "8729",
+      "urn": "urn:lex:br:federal:lei:1993-11-10;8729",
+      "ementa": "Autoriza o Banco Central do Brasil a doar à União, para uso da Justiça   Federal de Primeira Instância/Seção Judiciária de São Paulo, o imóvel que   menciona."
+    },
+    {
+      "senadoId": "550604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-10-8728",
+      "titulo": "Lei nº 8.728 de 10/11/1993",
+      "data": "1993-11-10",
+      "numero": "8728",
+      "urn": "urn:lex:br:federal:lei:1993-11-10;8728",
+      "ementa": "Dispõe sobre a transformação de cargos no Quadro Permanente de Pessoal da   Secretaria do Tribunal Regional do Trabalho da 1ª Região, e dá outras   providências."
+    },
+    {
+      "senadoId": "550606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-10-8730",
+      "titulo": "Lei nº 8.730 de 10/11/1993",
+      "data": "1993-11-10",
+      "numero": "8730",
+      "urn": "urn:lex:br:federal:lei:1993-11-10;8730",
+      "ementa": "Estabelece a obrigatoriedade da declaração de bens e rendas para o exercício de cargos, empregos e funções nos Poderes Executivo, Legislativo e Judiciário, e dá outras providências."
+    },
+    {
+      "senadoId": "550602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-05-8726",
+      "titulo": "Lei nº 8.726 de 05/11/1993",
+      "data": "1993-11-05",
+      "numero": "8726",
+      "urn": "urn:lex:br:federal:lei:1993-11-05;8726",
+      "ementa": "Dá nova redação ao inciso III do art. 131 da Consolidação das Leis do Trabalho   - CLT."
+    },
+    {
+      "senadoId": "550601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-05-8725",
+      "titulo": "Lei nº 8.725 de 05/11/1993",
+      "data": "1993-11-05",
+      "numero": "8725",
+      "urn": "urn:lex:br:federal:lei:1993-11-05;8725",
+      "ementa": "Dá nova redação ao caput do art. 4º da Lei nº 6.932, de 7 de julho de   1981, alterado pela Lei nº 8.138, de 28 de dezembro de 1990."
+    },
+    {
+      "senadoId": "550603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-11-05-8727",
+      "titulo": "Lei nº 8.727 de 05/11/1993",
+      "data": "1993-11-05",
+      "numero": "8727",
+      "urn": "urn:lex:br:federal:lei:1993-11-05;8727",
+      "ementa": "Estabelece diretrizes para a consolidação e o reescalonamento, pela União, de dívidas internas das administrações direta e indireta dos Estados, do Distrito Federal e dos Municípios, e dá outras providências."
+    },
+    {
+      "senadoId": "550599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-28-8723",
+      "titulo": "Lei nº 8.723 de 28/10/1993",
+      "data": "1993-10-28",
+      "numero": "8723",
+      "urn": "urn:lex:br:federal:lei:1993-10-28;8723",
+      "ementa": "Dispõe sobre a redução de emissão de poluentes por veículos automotores e dá outras providências."
+    },
+    {
+      "senadoId": "550600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-28-8724",
+      "titulo": "Lei nº 8.724 de 28/10/1993",
+      "data": "1993-10-28",
+      "numero": "8724",
+      "urn": "urn:lex:br:federal:lei:1993-10-28;8724",
+      "ementa": "Altera a Lei nº 8.631, de 4 de março de 1993, estabelecendo novos   procedimentos nas compensações de CRC das concessionárias de serviços públicos   de eletricidade."
+    },
+    {
+      "senadoId": "550598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-27-8722",
+      "titulo": "Lei nº 8.722 de 27/10/1993",
+      "data": "1993-10-27",
+      "numero": "8722",
+      "urn": "urn:lex:br:federal:lei:1993-10-27;8722",
+      "ementa": "Torna obrigatória a baixa de veículos vendidos como sucata e dá outras providências   ."
+    },
+    {
+      "senadoId": "550597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-27-8721",
+      "titulo": "Lei nº 8.721 de 27/10/1993",
+      "data": "1993-10-27",
+      "numero": "8721",
+      "urn": "urn:lex:br:federal:lei:1993-10-27;8721",
+      "ementa": "Dispõe sobre a reestruturação das Procuradorias Regionais da República e   dá outras providências."
+    },
+    {
+      "senadoId": "550595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-19-8719",
+      "titulo": "Lei nº 8.719 de 19/10/1993",
+      "data": "1993-10-19",
+      "numero": "8719",
+      "urn": "urn:lex:br:federal:lei:1993-10-19;8719",
+      "ementa": "Extingue a 1ª Auditoria de Aeronáutica da 1ª Circunscrição Judiciária   Militar e a 3ª Auditoria da 2ª Circunscrição Judiciária Militar; extingue cargo   na carreira da Magistratura e dá outras providências."
+    },
+    {
+      "senadoId": "550596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-19-8720",
+      "titulo": "Lei nº 8.720 de 19/10/1993",
+      "data": "1993-10-19",
+      "numero": "8720",
+      "urn": "urn:lex:br:federal:lei:1993-10-19;8720",
+      "ementa": "Cria cargos no Quadro Permanente de Pessoal da Secretaria do Tribunal   Regional do Trabalho da Décima Quinta Região e dá outras providências."
+    },
+    {
+      "senadoId": "550593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-14-8717",
+      "titulo": "Lei nº 8.717 de 14/10/1993",
+      "data": "1993-10-14",
+      "numero": "8717",
+      "urn": "urn:lex:br:federal:lei:1993-10-14;8717",
+      "ementa": "Dá nova redação ao art. 81 da Lei nº 8.237, de 30 de setembro de   1991."
+    },
+    {
+      "senadoId": "550594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-14-8718",
+      "titulo": "Lei nº 8.718 de 14/10/1993",
+      "data": "1993-10-14",
+      "numero": "8718",
+      "urn": "urn:lex:br:federal:lei:1993-10-14;8718",
+      "ementa": "Altera o art. 294 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de   Processo Civil."
+    },
+    {
+      "senadoId": "550592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-11-8716",
+      "titulo": "Lei nº 8.716 de 11/10/1993",
+      "data": "1993-10-11",
+      "numero": "8716",
+      "urn": "urn:lex:br:federal:lei:1993-10-11;8716",
+      "ementa": "Dispõe sobre a garantia do salário mínimo e dá outras   providências."
+    },
+    {
+      "senadoId": "550591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-06-8715",
+      "titulo": "Lei nº 8.715 de 06/10/1993",
+      "data": "1993-10-06",
+      "numero": "8715",
+      "urn": "urn:lex:br:federal:lei:1993-10-06;8715",
+      "ementa": "Cria Superintendências Regionais da Polícia Federal nos Estados do   Tocantins, Roraima e Amapá, e correspondentes cargos em comissão e funções de   confiança."
+    },
+    {
+      "senadoId": "550590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-10-06-8714",
+      "titulo": "Lei nº 8.714 de 06/10/1993",
+      "data": "1993-10-06",
+      "numero": "8714",
+      "urn": "urn:lex:br:federal:lei:1993-10-06;8714",
+      "ementa": "Concede pensão especial a Sebastião Bernardes de Souza Prata e dá outras   providências."
+    },
+    {
+      "senadoId": "550589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-30-8713",
+      "titulo": "Lei nº 8.713 de 30/09/1993",
+      "data": "1993-09-30",
+      "numero": "8713",
+      "urn": "urn:lex:br:federal:lei:1993-09-30;8713",
+      "ementa": "Estabelece normas para as eleições de 3 de outubro de 1994."
+    },
+    {
+      "senadoId": "550587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-28-8711",
+      "titulo": "Lei nº 8.711 de 28/09/1993",
+      "data": "1993-09-28",
+      "numero": "8711",
+      "urn": "urn:lex:br:federal:lei:1993-09-28;8711",
+      "ementa": "Dispõe sobre a transformação da Escola Técnica Federal da Bahia em Centro   Federal de Educação Tecnológica e dá outras providências."
+    },
+    {
+      "senadoId": "550588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-28-8712",
+      "titulo": "Lei nº 8.712 de 28/09/1993",
+      "data": "1993-09-28",
+      "numero": "8712",
+      "urn": "urn:lex:br:federal:lei:1993-09-28;8712",
+      "ementa": "Altera dispositivos da Lei nº 8.447, de 21 de julho de 1992, e dá outras   providências."
+    },
+    {
+      "senadoId": "550586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-24-8710",
+      "titulo": "Lei nº 8.710 de 24/09/1993",
+      "data": "1993-09-24",
+      "numero": "8710",
+      "urn": "urn:lex:br:federal:lei:1993-09-24;8710",
+      "ementa": "Altera dispositivos da Lei nº 5869, de 11 de janeiro de 1973 - Código de   Processo Civil."
+    },
+    {
+      "senadoId": "550585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-23-8709",
+      "titulo": "Lei nº 8.709 de 23/09/1993",
+      "data": "1993-09-23",
+      "numero": "8709",
+      "urn": "urn:lex:br:federal:lei:1993-09-23;8709",
+      "ementa": "Dispõe sobre operações de crédito externo contratadas pelo extinto Banco   Nacional da Habitação."
+    },
+    {
+      "senadoId": "550583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-20-8707",
+      "titulo": "Lei nº 8.707 de 20/09/1993",
+      "data": "1993-09-20",
+      "numero": "8707",
+      "urn": "urn:lex:br:federal:lei:1993-09-20;8707",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar no valor de Cr$ 700.000.000.000,00, para os fins   que especifica."
+    },
+    {
+      "senadoId": "550584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-20-8708",
+      "titulo": "Lei nº 8.708 de 20/09/1993",
+      "data": "1993-09-20",
+      "numero": "8708",
+      "urn": "urn:lex:br:federal:lei:1993-09-20;8708",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, créditos adicionais até o limite de Cr$ 240.230.746.043,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "550582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-14-8706",
+      "titulo": "Lei nº 8.706 de 14/09/1993",
+      "data": "1993-09-14",
+      "numero": "8706",
+      "urn": "urn:lex:br:federal:lei:1993-09-14;8706",
+      "ementa": "Dispõe sobre a criação do Serviço Social do Transporte - SEST e do Serviço Nacional de Aprendizagem do Transporte - SENAT."
+    },
+    {
+      "senadoId": "550580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-09-8704",
+      "titulo": "Lei nº 8.704 de 09/09/1993",
+      "data": "1993-09-09",
+      "numero": "8704",
+      "urn": "urn:lex:br:federal:lei:1993-09-09;8704",
+      "ementa": "Dispõe sobre a abertura de Crédito Extraordinário ao Orçamento Fiscal da   União para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "550581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-09-8705",
+      "titulo": "Lei nº 8.705 de 09/09/1993",
+      "data": "1993-09-09",
+      "numero": "8705",
+      "urn": "urn:lex:br:federal:lei:1993-09-09;8705",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União crédito   especial até o limite de Cr$ 800.000.000,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "550579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-06-8703",
+      "titulo": "Lei nº 8.703 de 06/09/1993",
+      "data": "1993-09-06",
+      "numero": "8703",
+      "urn": "urn:lex:br:federal:lei:1993-09-06;8703",
+      "ementa": "Acrescenta parágrafo único ao art. 57 da Lei nº 8078, de 11 de setembro de   1990, que dispõe sobre a proteção do consumidor, e revoga o art. 3º da Lei nº   8656, de 21 de maio de 1993."
+    },
+    {
+      "senadoId": "550578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-01-8702",
+      "titulo": "Lei nº 8.702 de 01/09/1993",
+      "data": "1993-09-01",
+      "numero": "8702",
+      "urn": "urn:lex:br:federal:lei:1993-09-01;8702",
+      "ementa": "Cria cargos de Patrulheiro Rodoviário Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "550577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-09-01-8701",
+      "titulo": "Lei nº 8.701 de 01/09/1993",
+      "data": "1993-09-01",
+      "numero": "8701",
+      "urn": "urn:lex:br:federal:lei:1993-09-01;8701",
+      "ementa": "Acrescenta parágrafo ao art. 370 do Código de Processo   Penal."
+    },
+    {
+      "senadoId": "550575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-27-8699",
+      "titulo": "Lei nº 8.699 de 27/08/1993",
+      "data": "1993-08-27",
+      "numero": "8699",
+      "urn": "urn:lex:br:federal:lei:1993-08-27;8699",
+      "ementa": "Acrescenta parágrafo ao art. 24 do Decreto-Lei nº 3689, de 3 de outubro de   1941 - Código de Processo Penal."
+    },
+    {
+      "senadoId": "550573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-27-8697",
+      "titulo": "Lei nº 8.697 de 27/08/1993",
+      "data": "1993-08-27",
+      "numero": "8697",
+      "urn": "urn:lex:br:federal:lei:1993-08-27;8697",
+      "ementa": "Altera a moeda nacional, estabelecendo a denominação   \"Cruzeiro Real\" para a unidade do sistema monetário brasileiro."
+    },
+    {
+      "senadoId": "550574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-27-8698",
+      "titulo": "Lei nº 8.698 de 27/08/1993",
+      "data": "1993-08-27",
+      "numero": "8698",
+      "urn": "urn:lex:br:federal:lei:1993-08-27;8698",
+      "ementa": "Altera dispositivo da Lei nº 8694, de 12 de agosto de   1993."
+    },
+    {
+      "senadoId": "550576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-27-8700",
+      "titulo": "Lei nº 8.700 de 27/08/1993",
+      "data": "1993-08-27",
+      "numero": "8700",
+      "urn": "urn:lex:br:federal:lei:1993-08-27;8700",
+      "ementa": "Dispõe sobre a política nacional de salários."
+    },
+    {
+      "senadoId": "550572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-26-8696",
+      "titulo": "Lei nº 8.696 de 26/08/1993",
+      "data": "1993-08-26",
+      "numero": "8696",
+      "urn": "urn:lex:br:federal:lei:1993-08-26;8696",
+      "ementa": "Dispõe sobre a redução de multa pela antecipação do pagamento de tributo lançado, e dá nova redação ao art. 30 da Lei n° 8.177, de 1º de março de 1991."
+    },
+    {
+      "senadoId": "550571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-20-8695",
+      "titulo": "Lei nº 8.695 de 20/08/1993",
+      "data": "1993-08-20",
+      "numero": "8695",
+      "urn": "urn:lex:br:federal:lei:1993-08-20;8695",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência Social, crédito especial até o   limite de Cr$ 424.215.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-12-8694",
+      "titulo": "Lei nº 8.694 de 12/08/1993",
+      "data": "1993-08-12",
+      "numero": "8694",
+      "urn": "urn:lex:br:federal:lei:1993-08-12;8694",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da lei orçamentária anual de 1994 e dá outras providências."
+    },
+    {
+      "senadoId": "550569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-08-03-8693",
+      "titulo": "Lei nº 8.693 de 03/08/1993",
+      "data": "1993-08-03",
+      "numero": "8693",
+      "urn": "urn:lex:br:federal:lei:1993-08-03;8693",
+      "ementa": "Dispõe sobre a descentralização dos serviços de transporte ferroviário coletivo de passageiros, urbanos e suburbano, da União para os Estados e Municípios, e dá outras providências."
+    },
+    {
+      "senadoId": "550568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-28-8692",
+      "titulo": "Lei nº 8.692 de 28/07/1993",
+      "data": "1993-07-28",
+      "numero": "8692",
+      "urn": "urn:lex:br:federal:lei:1993-07-28;8692",
+      "ementa": "Define planos de reajustamento dos encargos mensais e dos saldos devedores nos contratos de financiamentos habitacionais no âmbito do Sistema Financeiro da Habitação e dá outras providências."
+    },
+    {
+      "senadoId": "550567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-28-8691",
+      "titulo": "Lei nº 8.691 de 28/07/1993",
+      "data": "1993-07-28",
+      "numero": "8691",
+      "urn": "urn:lex:br:federal:lei:1993-07-28;8691",
+      "ementa": "Dispõe sobre o Plano de Carreiras para a área de Ciência e Tecnologia da Administração Federal Direta, das Autarquias e das Fundações Federais e dá outras providências."
+    },
+    {
+      "senadoId": "550565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-27-8689",
+      "titulo": "Lei nº 8.689 de 27/07/1993",
+      "data": "1993-07-27",
+      "numero": "8689",
+      "urn": "urn:lex:br:federal:lei:1993-07-27;8689",
+      "ementa": "Dispõe sobre a extinção do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS, e dá outras providências."
+    },
+    {
+      "senadoId": "550566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-27-8690",
+      "titulo": "Lei nº 8.690 de 27/07/1993",
+      "data": "1993-07-27",
+      "numero": "8690",
+      "urn": "urn:lex:br:federal:lei:1993-07-27;8690",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da União crédito   suplementar no valor de Cr$756.722.800.000.000,00 para os fins que especifica."
+    },
+    {
+      "senadoId": "550564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-21-8688",
+      "titulo": "Lei nº 8.688 de 21/07/1993",
+      "data": "1993-07-21",
+      "numero": "8688",
+      "urn": "urn:lex:br:federal:lei:1993-07-21;8688",
+      "ementa": "Dispõe sobre as alíquotas de contribuição para o Plano de Seguridade do   servidor público civil dos Poderes da União, das autarquias e das fundações   públicas, e dá outras providências."
+    },
+    {
+      "senadoId": "550561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-20-8685",
+      "titulo": "Lei nº 8.685 de 20/07/1993",
+      "data": "1993-07-20",
+      "numero": "8685",
+      "urn": "urn:lex:br:federal:lei:1993-07-20;8685",
+      "ementa": "Cria mecanismos de fomento à atividade audiovisual e dá outras providências."
+    },
+    {
+      "senadoId": "550562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-20-8686",
+      "titulo": "Lei nº 8.686 de 20/07/1993",
+      "data": "1993-07-20",
+      "numero": "8686",
+      "urn": "urn:lex:br:federal:lei:1993-07-20;8686",
+      "ementa": "Dispõe sobre o reajustamento da pensão especial aos deficientes físicos portadores da Síndrome de Talidomida, instituída pela Lei nº 7.070, de 20 de dezembro de 1982."
+    },
+    {
+      "senadoId": "550563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-20-8687",
+      "titulo": "Lei nº 8.687 de 20/07/1993",
+      "data": "1993-07-20",
+      "numero": "8687",
+      "urn": "urn:lex:br:federal:lei:1993-07-20;8687",
+      "ementa": "Retira da incidência do Imposto de Renda benefícios percebidos por   deficientes mentais."
+    },
+    {
+      "senadoId": "550560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-16-8684",
+      "titulo": "Lei nº 8.684 de 16/07/1993",
+      "data": "1993-07-16",
+      "numero": "8684",
+      "urn": "urn:lex:br:federal:lei:1993-07-16;8684",
+      "ementa": "Concede pensão especial a Orlandino Barbosa Feitosa e dá outras   providências."
+    },
+    {
+      "senadoId": "550559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-15-8683",
+      "titulo": "Lei nº 8.683 de 15/07/1993",
+      "data": "1993-07-15",
+      "numero": "8683",
+      "urn": "urn:lex:br:federal:lei:1993-07-15;8683",
+      "ementa": "Dá nova redação ao art. 206 do Decreto-Lei n° 2.848, de 7 de dezembro   de 1940 -Código Penal."
+    },
+    {
+      "senadoId": "550558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-14-8682",
+      "titulo": "Lei nº 8.682 de 14/07/1993",
+      "data": "1993-07-14",
+      "numero": "8682",
+      "urn": "urn:lex:br:federal:lei:1993-07-14;8682",
+      "ementa": "Dispõe sobre a remuneração de cargos de provimento em comissão da   Advocacia-Geral da União, revigora a Lei nº 8.200, de 28 de junho de 1991,   oferecendo nova redação ao inciso I, do seu art. 3º, e dá outras providências."
+    },
+    {
+      "senadoId": "550552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-13-8676",
+      "titulo": "Lei nº 8.676 de 13/07/1993",
+      "data": "1993-07-13",
+      "numero": "8676",
+      "urn": "urn:lex:br:federal:lei:1993-07-13;8676",
+      "ementa": "Dispõe sobre a política de remuneração dos servidores públicos civis e militares da Administração Federal direta, autárquica e fundacional e dá outras providências."
+    },
+    {
+      "senadoId": "550553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-13-8677",
+      "titulo": "Lei nº 8.677 de 13/07/1993",
+      "data": "1993-07-13",
+      "numero": "8677",
+      "urn": "urn:lex:br:federal:lei:1993-07-13;8677",
+      "ementa": "Dispõe sobre o Fundo de Desenvolvimento Social, e dá outras providências."
+    },
+    {
+      "senadoId": "550557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-13-8681",
+      "titulo": "Lei nº 8.681 de 13/07/1993",
+      "data": "1993-07-13",
+      "numero": "8681",
+      "urn": "urn:lex:br:federal:lei:1993-07-13;8681",
+      "ementa": "Dá nova redação ao art. 30 da Lei nº 8.177, de 1º de março de   1991."
+    },
+    {
+      "senadoId": "550554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-13-8678",
+      "titulo": "Lei nº 8.678 de 13/07/1993",
+      "data": "1993-07-13",
+      "numero": "8678",
+      "urn": "urn:lex:br:federal:lei:1993-07-13;8678",
+      "ementa": "Dispõe sobre a concessão de benefício no pagamento da modalidade de saque   do Fundo de Garantia do Tempo de Serviço - FGTS, prevista no art. 20, inciso   VIII, da Lei nº 8.036, de 11 de maio de 1990, e dá outras   providências."
+    },
+    {
+      "senadoId": "550556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-13-8680",
+      "titulo": "Lei nº 8.680 de 13/07/1993",
+      "data": "1993-07-13",
+      "numero": "8680",
+      "urn": "urn:lex:br:federal:lei:1993-07-13;8680",
+      "ementa": "Institui a Semana Nacional do Jovem e dá outras   providências."
+    },
+    {
+      "senadoId": "550555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-13-8679",
+      "titulo": "Lei nº 8.679 de 13/07/1993",
+      "data": "1993-07-13",
+      "numero": "8679",
+      "urn": "urn:lex:br:federal:lei:1993-07-13;8679",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Cultura, crédito adicional até o limite de Cr$   817.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-07-8675",
+      "titulo": "Lei nº 8.675 de 07/07/1993",
+      "data": "1993-07-07",
+      "numero": "8675",
+      "urn": "urn:lex:br:federal:lei:1993-07-07;8675",
+      "ementa": "Dispõe sobre a transferência temporária e simbólica da sede do Governo   Federal para a cidade de Salvador, Estado da Bahia."
+    },
+    {
+      "senadoId": "550547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-06-8671",
+      "titulo": "Lei nº 8.671 de 06/07/1993",
+      "data": "1993-07-06",
+      "numero": "8671",
+      "urn": "urn:lex:br:federal:lei:1993-07-06;8671",
+      "ementa": "Cria cargos de Procurador do Trabalho de 2ª Categoria e dá outras   providências."
+    },
+    {
+      "senadoId": "550550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-06-8674",
+      "titulo": "Lei nº 8.674 de 06/07/1993",
+      "data": "1993-07-06",
+      "numero": "8674",
+      "urn": "urn:lex:br:federal:lei:1993-07-06;8674",
+      "ementa": "Altera o Anexo I do Decreto-Lei nº 2.266, de 12 de março de 1985, e dá outras providências."
+    },
+    {
+      "senadoId": "550549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-06-8673",
+      "titulo": "Lei nº 8.673 de 06/07/1993",
+      "data": "1993-07-06",
+      "numero": "8673",
+      "urn": "urn:lex:br:federal:lei:1993-07-06;8673",
+      "ementa": "Restabelece o incentivo fiscal que menciona e dá outras   providências."
+    },
+    {
+      "senadoId": "550548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-07-06-8672",
+      "titulo": "Lei nº 8.672 de 06/07/1993",
+      "data": "1993-07-06",
+      "numero": "8672",
+      "urn": "urn:lex:br:federal:lei:1993-07-06;8672",
+      "ementa": "Institui normas gerais sobre desportos e dá outras providências."
+    },
+    {
+      "senadoId": "550546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-30-8670",
+      "titulo": "Lei nº 8.670 de 30/06/1993",
+      "data": "1993-06-30",
+      "numero": "8670",
+      "urn": "urn:lex:br:federal:lei:1993-06-30;8670",
+      "ementa": "Dispõe sobre a criação de Escolas Técnicas e Agrotécnicas Federais e dá outras providências."
+    },
+    {
+      "senadoId": "550545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-30-8669",
+      "titulo": "Lei nº 8.669 de 30/06/1993",
+      "data": "1993-06-30",
+      "numero": "8669",
+      "urn": "urn:lex:br:federal:lei:1993-06-30;8669",
+      "ementa": "Dá nova redação ao art. 1º da Lei nº 8.561, de 29 de dezembro de 1992, que \"prorroga o termo final do prazo previsto no art. 3º da Lei nº 8.352, de 28 de dezembro de 1991 e dá outras providências\"."
+    },
+    {
+      "senadoId": "550544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-25-8668",
+      "titulo": "Lei nº 8.668 de 25/06/1993",
+      "data": "1993-06-25",
+      "numero": "8668",
+      "urn": "urn:lex:br:federal:lei:1993-06-25;8668",
+      "ementa": "Dispõe sobre a constituição e o regime tributário dos Fundos de Investimento Imobiliário e dos Fundos de Investimento nas Cadeias Produtivas Agroindustriais (Fiagro); e dá outras providências."
+    },
+    {
+      "senadoId": "550543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-24-8667",
+      "titulo": "Lei nº 8.667 de 24/06/1993",
+      "data": "1993-06-24",
+      "numero": "8667",
+      "urn": "urn:lex:br:federal:lei:1993-06-24;8667",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Bem-Estar Social, crédito suplementar no valor   de Cr$ 1.200.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "550542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-21-8666",
+      "titulo": "Lei nº 8.666 de 21/06/1993",
+      "data": "1993-06-21",
+      "numero": "8666",
+      "urn": "urn:lex:br:federal:lei:1993-06-21;8666",
+      "ementa": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+    },
+    {
+      "senadoId": "550541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-18-8665",
+      "titulo": "Lei nº 8.665 de 18/06/1993",
+      "data": "1993-06-18",
+      "numero": "8665",
+      "urn": "urn:lex:br:federal:lei:1993-06-18;8665",
+      "ementa": "Cancela débitos para com a Superintendência do Desenvolvimento da Pesca -   SUDEPE, e dá outras providências."
+    },
+    {
+      "senadoId": "550539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-14-8663",
+      "titulo": "Lei nº 8.663 de 14/06/1993",
+      "data": "1993-06-14",
+      "numero": "8663",
+      "urn": "urn:lex:br:federal:lei:1993-06-14;8663",
+      "ementa": "Revoga o Decreto-Lei nº 869, de 12 de dezembro de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "550540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-14-8664",
+      "titulo": "Lei nº 8.664 de 14/06/1993",
+      "data": "1993-06-14",
+      "numero": "8664",
+      "urn": "urn:lex:br:federal:lei:1993-06-14;8664",
+      "ementa": "Reajusta o valor da pensão especial concedida a Justiniana Fleury Passos e   revertida a Maria Nilza Fleury Passos, filha do ex-Deputado Edson Junqueira   Passos."
+    },
+    {
+      "senadoId": "550538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-07-8662",
+      "titulo": "Lei nº 8.662 de 07/06/1993",
+      "data": "1993-06-07",
+      "numero": "8662",
+      "urn": "urn:lex:br:federal:lei:1993-06-07;8662",
+      "ementa": "Dispõe sobre a profissão de Assistente Social e dá outras providências"
+    },
+    {
+      "senadoId": "550537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-06-02-8661",
+      "titulo": "Lei nº 8.661 de 02/06/1993",
+      "data": "1993-06-02",
+      "numero": "8661",
+      "urn": "urn:lex:br:federal:lei:1993-06-02;8661",
+      "ementa": "Dispõe sobre os incentivos fiscais para a capacitação tecnológica   da indústria e da agropecuária e dá outras providências."
+    },
+    {
+      "senadoId": "550536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-28-8660",
+      "titulo": "Lei nº 8.660 de 28/05/1993",
+      "data": "1993-05-28",
+      "numero": "8660",
+      "urn": "urn:lex:br:federal:lei:1993-05-28;8660",
+      "ementa": "Estabelece novos critérios para a fixação da Taxa Referencial - TR,   extingue a Taxa Referencial Diária - TRD e dá outras providências."
+    },
+    {
+      "senadoId": "550535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-27-8659",
+      "titulo": "Lei nº 8.659 de 27/05/1993",
+      "data": "1993-05-27",
+      "numero": "8659",
+      "urn": "urn:lex:br:federal:lei:1993-05-27;8659",
+      "ementa": "Concede antecipação de reajuste de vencimentos e de soldos aos servidores   civis e militares do Poder Executivo."
+    },
+    {
+      "senadoId": "550534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-26-8658",
+      "titulo": "Lei nº 8.658 de 26/05/1993",
+      "data": "1993-05-26",
+      "numero": "8658",
+      "urn": "urn:lex:br:federal:lei:1993-05-26;8658",
+      "ementa": "Dispõe sobre aplicação, nos Tribunais de Justiça e nos Tribunais Regionais   Federais, das normas da Lei nº 8.038, de 28 de maio de 1990, sobre ações penais   originárias."
+    },
+    {
+      "senadoId": "550531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-21-8655",
+      "titulo": "Lei nº 8.655 de 21/05/1993",
+      "data": "1993-05-21",
+      "numero": "8655",
+      "urn": "urn:lex:br:federal:lei:1993-05-21;8655",
+      "ementa": "Autoriza a transformação de cargos vagos no âmbito das Instituições   Federais de Ensino, abrangidas pela Lei nº 7.596, de 10 de abril de 1987."
+    },
+    {
+      "senadoId": "550532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-21-8656",
+      "titulo": "Lei nº 8.656 de 21/05/1993",
+      "data": "1993-05-21",
+      "numero": "8656",
+      "urn": "urn:lex:br:federal:lei:1993-05-21;8656",
+      "ementa": "Altera dispositivo da Lei nº 8.078, de 11 de setembro de 1990, que \"dispõe sobre a proteção do consumidor e dá outras providências\"."
+    },
+    {
+      "senadoId": "550533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-21-8657",
+      "titulo": "Lei nº 8.657 de 21/05/1993",
+      "data": "1993-05-21",
+      "numero": "8657",
+      "urn": "urn:lex:br:federal:lei:1993-05-21;8657",
+      "ementa": "Acrescenta parágrafos ao art. 27 da Lei nº 6.662, de 25 de junho de 1979,   que dispõe sobre a Política Nacional de Irrigação, e dá outras   providências."
+    },
+    {
+      "senadoId": "550530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-10-8654",
+      "titulo": "Lei nº 8.654 de 10/05/1993",
+      "data": "1993-05-10",
+      "numero": "8654",
+      "urn": "urn:lex:br:federal:lei:1993-05-10;8654",
+      "ementa": "Cria cargos em comissão na Secretaria do Tribunal Regional do Trabalho da   10ª Região, com sede em Brasília (DF), e dá outras providências."
+    },
+    {
+      "senadoId": "550529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-05-10-8653",
+      "titulo": "Lei nº 8.653 de 10/05/1993",
+      "data": "1993-05-10",
+      "numero": "8653",
+      "urn": "urn:lex:br:federal:lei:1993-05-10;8653",
+      "ementa": "Dispõe sobre o transporte de presos e dá outras   providências."
+    },
+    {
+      "senadoId": "550528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-29-8652",
+      "titulo": "Lei nº 8.652 de 29/04/1993",
+      "data": "1993-04-29",
+      "numero": "8652",
+      "urn": "urn:lex:br:federal:lei:1993-04-29;8652",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1993."
+    },
+    {
+      "senadoId": "550527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-28-8651",
+      "titulo": "Lei nº 8.651 de 28/04/1993",
+      "data": "1993-04-28",
+      "numero": "8651",
+      "urn": "urn:lex:br:federal:lei:1993-04-28;8651",
+      "ementa": "Dispõe sobre a abertura de crédito extraordinário ao Orçamento da União   para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "550526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-22-8650",
+      "titulo": "Lei nº 8.650 de 22/04/1993",
+      "data": "1993-04-22",
+      "numero": "8650",
+      "urn": "urn:lex:br:federal:lei:1993-04-22;8650",
+      "ementa": "Dispõe sobre as relações de trabalho do Treinador Profissional de Futebol   e dá outras providências."
+    },
+    {
+      "senadoId": "550524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-20-8648",
+      "titulo": "Lei nº 8.648 de 20/04/1993",
+      "data": "1993-04-20",
+      "numero": "8648",
+      "urn": "urn:lex:br:federal:lei:1993-04-20;8648",
+      "ementa": "Acrescenta parágrafo único ao art. 399 da Lei nº 3.071, de 1º de janeiro   de 1916 - Código Civil."
+    },
+    {
+      "senadoId": "550525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-20-8649",
+      "titulo": "Lei nº 8.649 de 20/04/1993",
+      "data": "1993-04-20",
+      "numero": "8649",
+      "urn": "urn:lex:br:federal:lei:1993-04-20;8649",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS,   autarquia vinculada ao Ministério da Agricultura, do Abastecimento e da Reforma   Agrária, a doar o imóvel que menciona, situado no Município de Icó, no Estado do   Ceará."
+    },
+    {
+      "senadoId": "550523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-13-8647",
+      "titulo": "Lei nº 8.647 de 13/04/1993",
+      "data": "1993-04-13",
+      "numero": "8647",
+      "urn": "urn:lex:br:federal:lei:1993-04-13;8647",
+      "ementa": "Dispõe sobre a vinculação do servidor público civil ocupante de cargo em   comissão sem vínculo efetivo com a Administração Pública Federal, ao Regime   Geral da Previdência Social e dá Previdência Social e dá outras providências."
+    },
+    {
+      "senadoId": "550522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-07-8646",
+      "titulo": "Lei nº 8.646 de 07/04/1993",
+      "data": "1993-04-07",
+      "numero": "8646",
+      "urn": "urn:lex:br:federal:lei:1993-04-07;8646",
+      "ementa": "Dispõe sobre a organização e o funcionamento do Conselho Monetário   Nacional."
+    },
+    {
+      "senadoId": "550521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-04-02-8645",
+      "titulo": "Lei nº 8.645 de 02/04/1993",
+      "data": "1993-04-02",
+      "numero": "8645",
+      "urn": "urn:lex:br:federal:lei:1993-04-02;8645",
+      "ementa": "Dispõe sobre antecipação de reajuste de vencimentos e de soldos dos   servidores civis e militares do Poder Executivo."
+    },
+    {
+      "senadoId": "550519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8643",
+      "titulo": "Lei nº 8.643 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8643",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8643",
+      "ementa": "Prorroga os prazos previstos no art. 1º da Lei nº 8.191, de 11 de junho de   1991, e no art. 46 da Lei nº 8.383, de 30 de dezembro de 1991, que instituem   isenção do Imposto sobre Produtos Industrializados - IPI e depreciação acelerada   para máquinas e equipamentos, respectivamente, e dá outras providências."
+    },
+    {
+      "senadoId": "550518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8642",
+      "titulo": "Lei nº 8.642 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8642",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8642",
+      "ementa": "Dispõe sobre a instituição do Programa Nacional de Atenção Integral à   Criança e ao Adolescente - PRONAICA e dá outras providências."
+    },
+    {
+      "senadoId": "550516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8640",
+      "titulo": "Lei nº 8.640 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8640",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8640",
+      "ementa": "Altera a redação do art. 40 da Lei nº 7.244, de 7 de novembro de   1984."
+    },
+    {
+      "senadoId": "550520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8644",
+      "titulo": "Lei nº 8.644 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8644",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8644",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da União crédito extraordinário para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "550517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8641",
+      "titulo": "Lei nº 8.641 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8641",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8641",
+      "ementa": "Estabelece normas de contribuição ao INSS dos clubes de futebol,   parcelamento dos débitos e dá outras providências."
+    },
+    {
+      "senadoId": "550513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8637",
+      "titulo": "Lei nº 8.637 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8637",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8637",
+      "ementa": "Dá nova redação ao art. 132 da Lei nº 5869, de 11 de janeiro de 1973 -   Código de Processo Civil."
+    },
+    {
+      "senadoId": "550515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8639",
+      "titulo": "Lei nº 8.639 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8639",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8639",
+      "ementa": "Disciplina o uso de caracteres nas publicações obrigatórias."
+    },
+    {
+      "senadoId": "550514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-31-8638",
+      "titulo": "Lei nº 8.638 de 31/03/1993",
+      "data": "1993-03-31",
+      "numero": "8638",
+      "urn": "urn:lex:br:federal:lei:1993-03-31;8638",
+      "ementa": "Acrescenta dispositivos à Consolidação das Leis do Trabalho, aprovada pelo   Decreto-lei nº 5452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "550511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-16-8635",
+      "titulo": "Lei nº 8.635 de 16/03/1993",
+      "data": "1993-03-16",
+      "numero": "8635",
+      "urn": "urn:lex:br:federal:lei:1993-03-16;8635",
+      "ementa": "Dá nova redação ao art. 184 do Código Penal."
+    },
+    {
+      "senadoId": "550512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-16-8636",
+      "titulo": "Lei nº 8.636 de 16/03/1993",
+      "data": "1993-03-16",
+      "numero": "8636",
+      "urn": "urn:lex:br:federal:lei:1993-03-16;8636",
+      "ementa": "Cria cargos em comissão na Secretaria do Tribunal Regional do Trabalho da 2ª   Região, com sede em São Paulo - SP, e dá outras   providências."
+    },
+    {
+      "senadoId": "550509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-12-8633",
+      "titulo": "Lei nº 8.633 de 12/03/1993",
+      "data": "1993-03-12",
+      "numero": "8633",
+      "urn": "urn:lex:br:federal:lei:1993-03-12;8633",
+      "ementa": "Cria cargos na Carreira Policial Federal."
+    },
+    {
+      "senadoId": "550510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-12-8634",
+      "titulo": "Lei nº 8.634 de 12/03/1993",
+      "data": "1993-03-12",
+      "numero": "8634",
+      "urn": "urn:lex:br:federal:lei:1993-03-12;8634",
+      "ementa": "Dispõe sobre o remanejamento de cargos criados pela Lei nº 7.178, de 19 de   dezembro de 1983, para o Quadro de Pessoal Permanente da Secretaria do Conselho   da Justiça Federal."
+    },
+    {
+      "senadoId": "550507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-04-8631",
+      "titulo": "Lei nº 8.631 de 04/03/1993",
+      "data": "1993-03-04",
+      "numero": "8631",
+      "urn": "urn:lex:br:federal:lei:1993-03-04;8631",
+      "ementa": "Dispõe sobre a fixação dos níveis das tarifas para o serviço público de energia elétrica, extingue o regime de remuneração garantida e dá outras providências."
+    },
+    {
+      "senadoId": "550508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-03-04-8632",
+      "titulo": "Lei nº 8.632 de 04/03/1993",
+      "data": "1993-03-04",
+      "numero": "8632",
+      "urn": "urn:lex:br:federal:lei:1993-03-04;8632",
+      "ementa": "Concede anistia a dirigentes ou representantes sindicais punidos por   motivação política."
+    },
+    {
+      "senadoId": "550505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-25-8629",
+      "titulo": "Lei nº 8.629 de 25/02/1993",
+      "data": "1993-02-25",
+      "numero": "8629",
+      "urn": "urn:lex:br:federal:lei:1993-02-25;8629",
+      "ementa": "Dispõe sobre a regulamentação dos dispositivos constitucionais relativos à reforma agrária, previstos no Capítulo III, Título VII, da Constituição Federal."
+    },
+    {
+      "senadoId": "550506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-25-8630",
+      "titulo": "Lei nº 8.630 de 25/02/1993",
+      "data": "1993-02-25",
+      "numero": "8630",
+      "urn": "urn:lex:br:federal:lei:1993-02-25;8630",
+      "ementa": "Dispõe sobre o regime jurídico da exploração dos portos organizados e das instalações portuárias e dá outras providências."
+    },
+    {
+      "senadoId": "550504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-19-8628",
+      "titulo": "Lei nº 8.628 de 19/02/1993",
+      "data": "1993-02-19",
+      "numero": "8628",
+      "urn": "urn:lex:br:federal:lei:1993-02-19;8628",
+      "ementa": "Dispõe sobre a regulamentação da Carreira de Apoio Técnico-Administrativo   do Ministério Público da União - MPU e dá outras providências."
+    },
+    {
+      "senadoId": "550503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-19-8627",
+      "titulo": "Lei nº 8.627 de 19/02/1993",
+      "data": "1993-02-19",
+      "numero": "8627",
+      "urn": "urn:lex:br:federal:lei:1993-02-19;8627",
+      "ementa": "Especifica os critérios para reposicionamento de servidores públicos federais civis e militares e dá outras providências."
+    },
+    {
+      "senadoId": "550502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-17-8626",
+      "titulo": "Lei nº 8.626 de 17/02/1993",
+      "data": "1993-02-17",
+      "numero": "8626",
+      "urn": "urn:lex:br:federal:lei:1993-02-17;8626",
+      "ementa": "Dispõe sobre a criação do Quadro de Pessoal da Fundação Universidade   Federal do Amapá, e dá outras providências."
+    },
+    {
+      "senadoId": "550501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-12-8625",
+      "titulo": "Lei nº 8.625 de 12/02/1993",
+      "data": "1993-02-12",
+      "numero": "8625",
+      "urn": "urn:lex:br:federal:lei:1993-02-12;8625",
+      "ementa": "Institui a Lei Orgânica Nacional do Ministério Público, dispõe sobre normas gerais para a organização do Ministério Público dos Estados e dá outras providências."
+    },
+    {
+      "senadoId": "550500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-02-04-8624",
+      "titulo": "Lei nº 8.624 de 04/02/1993",
+      "data": "1993-02-04",
+      "numero": "8624",
+      "urn": "urn:lex:br:federal:lei:1993-02-04;8624",
+      "ementa": "Dispõe sobre o plebiscito que definirá a forma e o sistema de governo e regulamenta o art. 2º do Ato das Disposições Constitucionais Transitórias, alterado pela Emenda Constitucional nº 2."
+    },
+    {
+      "senadoId": "550499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-28-8623",
+      "titulo": "Lei nº 8.623 de 28/01/1993",
+      "data": "1993-01-28",
+      "numero": "8623",
+      "urn": "urn:lex:br:federal:lei:1993-01-28;8623",
+      "ementa": "Dispõe sobre a profissão de Guia de Turismo e dá outras   providências."
+    },
+    {
+      "senadoId": "550498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-19-8622",
+      "titulo": "Lei nº 8.622 de 19/01/1993",
+      "data": "1993-01-19",
+      "numero": "8622",
+      "urn": "urn:lex:br:federal:lei:1993-01-19;8622",
+      "ementa": "Dispõe sobre a revisão geral da remuneração dos servidores públicos civis e militares do Poder Executivo Federal e dá outras providências."
+    },
+    {
+      "senadoId": "550497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-08-8621",
+      "titulo": "Lei nº 8.621 de 08/01/1993",
+      "data": "1993-01-08",
+      "numero": "8621",
+      "urn": "urn:lex:br:federal:lei:1993-01-08;8621",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do   Trabalho da 12ª Região, com sede em Florianópolis - SC, e dá outras   providências."
+    },
+    {
+      "senadoId": "550495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-05-8619",
+      "titulo": "Lei nº 8.619 de 05/01/1993",
+      "data": "1993-01-05",
+      "numero": "8619",
+      "urn": "urn:lex:br:federal:lei:1993-01-05;8619",
+      "ementa": "Altera dispositivos das Leis nºs 8.212 e 8.213, de 24 de julho de   1991."
+    },
+    {
+      "senadoId": "550496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-05-8620",
+      "titulo": "Lei nº 8.620 de 05/01/1993",
+      "data": "1993-01-05",
+      "numero": "8620",
+      "urn": "urn:lex:br:federal:lei:1993-01-05;8620",
+      "ementa": "Altera as Leis nºs 8.212 e 8.213, de 24 de julho de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "550494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-04-8618",
+      "titulo": "Lei nº 8.618 de 04/01/1993",
+      "data": "1993-01-04",
+      "numero": "8618",
+      "urn": "urn:lex:br:federal:lei:1993-01-04;8618",
+      "ementa": "Cria cargos nos Quadros de Pessoal das Instituições de Ensino Superior que   menciona e dá outras providências."
+    },
+    {
+      "senadoId": "550493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1993-01-04-8617",
+      "titulo": "Lei nº 8.617 de 04/01/1993",
+      "data": "1993-01-04",
+      "numero": "8617",
+      "urn": "urn:lex:br:federal:lei:1993-01-04;8617",
+      "ementa": "Dispõe sobre o mar territorial, a zona contígua, a zona econômica   exclusiva e a plataforma continental brasileiros, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

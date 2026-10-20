@@ -1,0 +1,4039 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1948",
+  "tipo": "LEI",
+  "ano": 1948,
+  "coletado_em": "2026-10-20T23:03:35.808Z",
+  "normas": [
+    {
+      "senadoId": "542129",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-28-601",
+      "titulo": "Lei nº 601 de 28/12/1948",
+      "data": "1948-12-28",
+      "numero": "601",
+      "urn": "urn:lex:br:federal:lei:1948-12-28;601",
+      "ementa": "Estabelece normas de contabilidade para os Ministérios da Guerra, Marinha,   Aeronáutica e Estado Maior Geral e dá outras providências."
+    },
+    {
+      "senadoId": "542131",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-28-602",
+      "titulo": "Lei nº 602 de 28/12/1948",
+      "data": "1948-12-28",
+      "numero": "602",
+      "urn": "urn:lex:br:federal:lei:1948-12-28;602",
+      "ementa": "Dispõe sôbre o julgamento da aptidão para o aficialato dos alunos do Curso   Prévio e do 1º e 2º anos do Curso Superior da Escola Naval."
+    },
+    {
+      "senadoId": "542125",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-26-599-a",
+      "titulo": "Lei nº 599-A de 26/12/1948",
+      "data": "1948-12-26",
+      "numero": "599-a",
+      "urn": "urn:lex:br:federal:lei:1948-12-26;599-a",
+      "ementa": "Dá nova redação aos artigos 22, 23, 44, 95 e 112, do Decreto-lei nº 7.036,   de 10 de novembro de 1944."
+    },
+    {
+      "senadoId": "542122",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-598",
+      "titulo": "Lei nº 598 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "598",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;598",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento de gratificação de   magistério a Manuel Joaquim Cavalcanti de Albuquerque."
+    },
+    {
+      "senadoId": "542120",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-596",
+      "titulo": "Lei nº 596 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "596",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;596",
+      "ementa": "Autoriza a abertura de crédito especial para atender às despesas   decorrentes da visita do Presidente da República Oriental do Uruguai ao Brasil e   do Presidente da Bolívia a Corumbá."
+    },
+    {
+      "senadoId": "542124",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-599",
+      "titulo": "Lei nº 599 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "599",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;599",
+      "ementa": "Altera a discriminação do crédito especial a que se refere a Lei nº 292,   de 22 de junho de 1948."
+    },
+    {
+      "senadoId": "542127",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-600-a",
+      "titulo": "Lei nº 600-A de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "600-a",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;600-a",
+      "ementa": "Altera a organização do Estado Maior Geral e dá nova redação ao   Decreto-lei nº 9.520, de 25 de julho de 1946."
+    },
+    {
+      "senadoId": "542126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-600",
+      "titulo": "Lei nº 600 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "600",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;600",
+      "ementa": "Abre crédito especial para construção de mais um pavimento no Palácio   Tiradentes e para a aquisição dos respectivos móveis."
+    },
+    {
+      "senadoId": "542117",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-593",
+      "titulo": "Lei nº 593 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "593",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;593",
+      "ementa": "Restaura a aposentadoria para os ferroviários aos trinta e cinco anos de serviço e dá outras providências."
+    },
+    {
+      "senadoId": "542119",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-595",
+      "titulo": "Lei nº 595 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "595",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;595",
+      "ementa": "Autoriza a abertura de crédito especial para a encampação dos serviços de   luz, energia elétrica e água, explorados pela Companhia Indústria e Viação de   Pirapora."
+    },
+    {
+      "senadoId": "542121",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-597",
+      "titulo": "Lei nº 597 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "597",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;597",
+      "ementa": "Concede auxílio à Santa Casa de Misericórdia de Uberlândia, no Estado de   Minas Gerais."
+    },
+    {
+      "senadoId": "542118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-24-594",
+      "titulo": "Lei nº 594 de 24/12/1948",
+      "data": "1948-12-24",
+      "numero": "594",
+      "urn": "urn:lex:br:federal:lei:1948-12-24;594",
+      "ementa": "Concede favores às fábricas que se instalarem para exploração da fibra do   coco, com o aproveitamento de matéria prima nacional."
+    },
+    {
+      "senadoId": "542112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-590",
+      "titulo": "Lei nº 590 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "590",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;590",
+      "ementa": "Abre ao Poder Judiciário crédito especial para ocorrer a despesas   realizadas pelo Superior Tribunal Militar."
+    },
+    {
+      "senadoId": "542106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-586",
+      "titulo": "Lei nº 586 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "586",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;586",
+      "ementa": "Desapropria terras no Estado do Rio Grande do Sul para a cultura   mecanizada do trigo."
+    },
+    {
+      "senadoId": "542115",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-592-a",
+      "titulo": "Lei nº 592-A de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "592-a",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;592-a",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao   Instituto de Pesquisas Tecnológicas do Estado de São Paulo."
+    },
+    {
+      "senadoId": "542114",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-592",
+      "titulo": "Lei nº 592 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "592",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;592",
+      "ementa": "Transforma a atual Imprensa Nacional em Departamento de Imprensa Nacional."
+    },
+    {
+      "senadoId": "542109",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-588",
+      "titulo": "Lei nº 588 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "588",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;588",
+      "ementa": "Autoriza a abertura de crédito especial para a conclusão da ligação   rodoviária Riacho Seco - Petrolândia."
+    },
+    {
+      "senadoId": "542103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-585",
+      "titulo": "Lei nº 585 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "585",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;585",
+      "ementa": "Aprova o plano para emprego da Consignação IX - Disponibilidade - S/c   13-17 da Verba 4 - do Orçamento do Ministério da Guerra, para o corrente   exercício."
+    },
+    {
+      "senadoId": "542111",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-589",
+      "titulo": "Lei nº 589 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "589",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;589",
+      "ementa": "Concede isenção de direitos de importação para material destinado às   sociedades comerciais que especifica."
+    },
+    {
+      "senadoId": "542108",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-587",
+      "titulo": "Lei nº 587 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "587",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;587",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para ocorrer as despesas que menciona."
+    },
+    {
+      "senadoId": "542113",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-591",
+      "titulo": "Lei nº 591 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "591",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;591",
+      "ementa": "Concede isenção de direitos de importação para material destinado aos   Governos dos Estados do Maranhão, Bahia, Rio Grande do Sul, São Paulo e Rio de   Janeiro."
+    },
+    {
+      "senadoId": "542100",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-23-584",
+      "titulo": "Lei nº 584 de 23/12/1948",
+      "data": "1948-12-23",
+      "numero": "584",
+      "urn": "urn:lex:br:federal:lei:1948-12-23;584",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   suplementar de Cr$ 704.800,00 , para o Instituto Osvaldo Cruz."
+    },
+    {
+      "senadoId": "542093",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-581",
+      "titulo": "Lei nº 581 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "581",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;581",
+      "ementa": "Autoriza o Poder Executivo a conceder pensão especial a Belmira Botelho de   Arruda Medeiros, viúva de Antônio Medeiros."
+    },
+    {
+      "senadoId": "542078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-574",
+      "titulo": "Lei nº 574 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "574",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;574",
+      "ementa": "Concede isenção de direitos de importação para material destinado à   Estrada de Ferro Sorocabana."
+    },
+    {
+      "senadoId": "542098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-583",
+      "titulo": "Lei nº 583 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "583",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;583",
+      "ementa": "Concede auxílio para despesas dos três delegados da Cruz Vermelha   Brasileira à XVII Conferência Internacional da Cruz Vermelha a realizar-se em   Estocolmo."
+    },
+    {
+      "senadoId": "542070",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-570",
+      "titulo": "Lei nº 570 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "570",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;570",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 9.295, de 27 de maio de 1946, que criou o Conselho Federal de Contabilidade e da outras providências."
+    },
+    {
+      "senadoId": "542082",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-576",
+      "titulo": "Lei nº 576 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "576",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;576",
+      "ementa": "Concede isenção de direitos de importação para material destinado à   Estrada de Ferro Sorocabana."
+    },
+    {
+      "senadoId": "542096",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-582",
+      "titulo": "Lei nº 582 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "582",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;582",
+      "ementa": "Autoriza o Poder Executivo a mandar reverter ao Governo do Estado de   Pernambuco, independente de indenização, as terras e benfeitorais da Estação   Experimental de Vila Bela."
+    },
+    {
+      "senadoId": "542090",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-580",
+      "titulo": "Lei nº 580 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "580",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;580",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para pagamento de gratificação de magistério a Waldemar Ramos   Lage."
+    },
+    {
+      "senadoId": "542072",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-571",
+      "titulo": "Lei nº 571 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "571",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;571",
+      "ementa": "Autoriza a abertura de crédito suplementar para ocorrer à despesa com o   pessoal permanente do Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "542080",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-575",
+      "titulo": "Lei nº 575 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "575",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;575",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao   Instituto Butantan, do Estado de São Paulo."
+    },
+    {
+      "senadoId": "542084",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-577",
+      "titulo": "Lei nº 577 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "577",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;577",
+      "ementa": "Concede auxílios a Congressos Eucarísticos."
+    },
+    {
+      "senadoId": "542086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-578",
+      "titulo": "Lei nº 578 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "578",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;578",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento da contribuição   adicional do Brasil, para a Repartição Sanitária Panamericana."
+    },
+    {
+      "senadoId": "542074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-572",
+      "titulo": "Lei nº 572 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "572",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;572",
+      "ementa": "Concede isenção de direitos de importação para material destinado à   Repartição de Águas e Esgotos do Estado de São Paulo."
+    },
+    {
+      "senadoId": "542076",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-573",
+      "titulo": "Lei nº 573 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "573",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;573",
+      "ementa": "Concede isenção de direitos de importação para duas máquinas destinadas à   firma \" Produtos Químicos Elekeiroz Sociedade Anônima\"."
+    },
+    {
+      "senadoId": "542088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-22-579",
+      "titulo": "Lei nº 579 de 22/12/1948",
+      "data": "1948-12-22",
+      "numero": "579",
+      "urn": "urn:lex:br:federal:lei:1948-12-22;579",
+      "ementa": "Concede auxílio extraordinário à Fundação Casa do Estudante do Brasil."
+    },
+    {
+      "senadoId": "542068",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-21-569",
+      "titulo": "Lei nº 569 de 21/12/1948",
+      "data": "1948-12-21",
+      "numero": "569",
+      "urn": "urn:lex:br:federal:lei:1948-12-21;569",
+      "ementa": "Estabelece medidas de defesa sanitária animal e dá outras providências."
+    },
+    {
+      "senadoId": "542061",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-21-566",
+      "titulo": "Lei nº 566 de 21/12/1948",
+      "data": "1948-12-21",
+      "numero": "566",
+      "urn": "urn:lex:br:federal:lei:1948-12-21;566",
+      "ementa": "Concede preferência nas aquisições de material para as repartições   públicas e autarquias, aos produtos da marca Trevo, de propriedade da Liga de   Proteção aos Cegos no Brasil."
+    },
+    {
+      "senadoId": "542064",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-21-567",
+      "titulo": "Lei nº 567 de 21/12/1948",
+      "data": "1948-12-21",
+      "numero": "567",
+      "urn": "urn:lex:br:federal:lei:1948-12-21;567",
+      "ementa": "Autoriza a abertura de crédito especial para atender a despesas com a construção do ramal ferroviário Lima Duarte - Bom Jardim."
+    },
+    {
+      "senadoId": "542066",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-21-568",
+      "titulo": "Lei nº 568 de 21/12/1948",
+      "data": "1948-12-21",
+      "numero": "568",
+      "urn": "urn:lex:br:federal:lei:1948-12-21;568",
+      "ementa": "Autoriza a abertura do crédito suplementar para pagamento de aluguel de   prédio ocupado pela Agência Nacional."
+    },
+    {
+      "senadoId": "542059",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-20-565",
+      "titulo": "Lei nº 565 de 20/12/1948",
+      "data": "1948-12-20",
+      "numero": "565",
+      "urn": "urn:lex:br:federal:lei:1948-12-20;565",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras, inclusive de   imposto de consumo, para 2 caixas com aparelhos físicos de matéria plástica,   destinadas ao Instituto de Eletrotécnica do Estado de São Paulo."
+    },
+    {
+      "senadoId": "542057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-20-564",
+      "titulo": "Lei nº 564 de 20/12/1948",
+      "data": "1948-12-20",
+      "numero": "564",
+      "urn": "urn:lex:br:federal:lei:1948-12-20;564",
+      "ementa": "Autoriza a abertura, pelo Ministério da Marinha, de crédito especial para   pagamento a ser efetuado à Companhia Nacional de Navegação Costeira - Patrimônio   Nacional."
+    },
+    {
+      "senadoId": "542018",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-548",
+      "titulo": "Lei nº 548 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "548",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;548",
+      "ementa": "Incorpora ao Instituto de Previdência e Assistência dos Servidores do   Estado o Montepio Operário dos Arsenais da Marinha e Diretoria de Armamento, do   Ministério da Marinha."
+    },
+    {
+      "senadoId": "542024",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-551",
+      "titulo": "Lei nº 551 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "551",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;551",
+      "ementa": "Concede isenção de direitos e taxas aduaneiras para materiais importados   pela Estrada de Ferro Sorocabana."
+    },
+    {
+      "senadoId": "542016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-547",
+      "titulo": "Lei nº 547 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "547",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;547",
+      "ementa": "Abre ao Congresso Nacional, o crédito suplementar de Cr$ 3.723.502,50,   para reforço da verba pessoal e despesas com o funcionamento da Comissão mista   de Leis Complementares."
+    },
+    {
+      "senadoId": "542039",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-557",
+      "titulo": "Lei nº 557 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "557",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;557",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao   Instituto de Pesquisas Tecnológicas do Estado de São Paulo."
+    },
+    {
+      "senadoId": "542054",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-563",
+      "titulo": "Lei nº 563 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "563",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;563",
+      "ementa": "Proibe a funcionários federal, autárquico e de sociedades de economia   mista, fazerem parte de mais de uma comissão, com direito a   remuneração."
+    },
+    {
+      "senadoId": "542034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-555",
+      "titulo": "Lei nº 555 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "555",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;555",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao   Hospital Santa Margarida, de Pato Branco, Estado do Paraná."
+    },
+    {
+      "senadoId": "542041",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-558",
+      "titulo": "Lei nº 558 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "558",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;558",
+      "ementa": "Concede isenção de direitos de importação para material adquirido pelas   companhias de aviação que especifica."
+    },
+    {
+      "senadoId": "542022",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-550",
+      "titulo": "Lei nº 550 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "550",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;550",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 62.877,40 , para atender a pagamento de gratificação de   magistério."
+    },
+    {
+      "senadoId": "542052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-562-a",
+      "titulo": "Lei nº 562-A de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "562-a",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;562-a",
+      "ementa": "Abre o crédito especial de Cr$ 200.000,00 como auxílio ao Instituto   Geográfico e Histórico da Bahia, para realização do Primeiro Congresso de   História da Bahia."
+    },
+    {
+      "senadoId": "542049",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-561",
+      "titulo": "Lei nº 561 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "561",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;561",
+      "ementa": "Faz doação de terras para ser criado estabelecimento de ensino   rural."
+    },
+    {
+      "senadoId": "542028",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-552",
+      "titulo": "Lei nº 552 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "552",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;552",
+      "ementa": "Concede isenção de direitos de importação para os animais reprodutores   destinados a exposições - feiras realizadas em localidades do Estado do Rio   Grande do Sul."
+    },
+    {
+      "senadoId": "542051",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-562",
+      "titulo": "Lei nº 562 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "562",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;562",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 4.233.740,20 , para liquidação das dívidas   do Território Federal de Guaporé."
+    },
+    {
+      "senadoId": "542055",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-563-a",
+      "titulo": "Lei nº 563-A de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "563-a",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;563-a",
+      "ementa": "Conta tempo de serviço público, para efeito de   aposentadoria."
+    },
+    {
+      "senadoId": "542047",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-560",
+      "titulo": "Lei nº 560 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "560",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;560",
+      "ementa": "Autoriza o Poder Executivo a isentar do direito de importação e taxas   aduaneiras os materiais importados pelos Estados de São Paulo e   Bahia."
+    },
+    {
+      "senadoId": "542020",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-549",
+      "titulo": "Lei nº 549 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "549",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;549",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento de gratificação de   magistério a Francisco Alípio Bruno Lôbo."
+    },
+    {
+      "senadoId": "542044",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-559",
+      "titulo": "Lei nº 559 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "559",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;559",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao   Instituto de Pesquisas Tecnológicas do Estado de São Paulo."
+    },
+    {
+      "senadoId": "542032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-554",
+      "titulo": "Lei nº 554 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "554",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;554",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao   Instituto Tecnológico do Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "542037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-556",
+      "titulo": "Lei nº 556 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "556",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;556",
+      "ementa": "Concede isenção de direitos de importação para material destinado à   Estrada de Ferro Sorocabana."
+    },
+    {
+      "senadoId": "542030",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-18-553",
+      "titulo": "Lei nº 553 de 18/12/1948",
+      "data": "1948-12-18",
+      "numero": "553",
+      "urn": "urn:lex:br:federal:lei:1948-12-18;553",
+      "ementa": "Concede isenção de direitos de importação para material destinado à Santa   Casa da Misericórdia do Rio de Janeiro."
+    },
+    {
+      "senadoId": "542010",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-16-544",
+      "titulo": "Lei nº 544 de 16/12/1948",
+      "data": "1948-12-16",
+      "numero": "544",
+      "urn": "urn:lex:br:federal:lei:1948-12-16;544",
+      "ementa": "Concede isenção de direitos para batatas em semente, importada pelo   Instituto Agronômico de Campinas."
+    },
+    {
+      "senadoId": "542014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-16-546",
+      "titulo": "Lei nº 546 de 16/12/1948",
+      "data": "1948-12-16",
+      "numero": "546",
+      "urn": "urn:lex:br:federal:lei:1948-12-16;546",
+      "ementa": "Abre ao Poder Judiciário crédito suplementar para pagamento de   gratificação de representação aos Membros do Tribunal Regional Eleitoral do   Estado do Amazonas."
+    },
+    {
+      "senadoId": "542003",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-15-540",
+      "titulo": "Lei nº 540 de 15/12/1948",
+      "data": "1948-12-15",
+      "numero": "540",
+      "urn": "urn:lex:br:federal:lei:1948-12-15;540",
+      "ementa": "Concede isenção de direitos de importação para maquinária destinada ao   Governo do Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "542008",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-15-543",
+      "titulo": "Lei nº 543 de 15/12/1948",
+      "data": "1948-12-15",
+      "numero": "543",
+      "urn": "urn:lex:br:federal:lei:1948-12-15;543",
+      "ementa": "Dispõe sôbre o quadro da Secretaria do Supremo Tribunal   Federal."
+    },
+    {
+      "senadoId": "542001",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-15-539",
+      "titulo": "Lei nº 539 de 15/12/1948",
+      "data": "1948-12-15",
+      "numero": "539",
+      "urn": "urn:lex:br:federal:lei:1948-12-15;539",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para a construção de um leprosário e de um preventório para filhos de   Lázaros em Porto Velho, no Terrirório de Guaporé."
+    },
+    {
+      "senadoId": "542006",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-15-542",
+      "titulo": "Lei nº 542 de 15/12/1948",
+      "data": "1948-12-15",
+      "numero": "542",
+      "urn": "urn:lex:br:federal:lei:1948-12-15;542",
+      "ementa": "Estende os novos valores dos padrões de vencimentos fixados pela Lei nº   488, de 15 de novembro de 1948, aos servidores que menciona."
+    },
+    {
+      "senadoId": "541999",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-15-538",
+      "titulo": "Lei nº 538 de 15/12/1948",
+      "data": "1948-12-15",
+      "numero": "538",
+      "urn": "urn:lex:br:federal:lei:1948-12-15;538",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura de crédito especial   para a instalação de uma usina hidro-elétrica na Colônia Agrícola do   Maranhão."
+    },
+    {
+      "senadoId": "542005",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-15-541",
+      "titulo": "Lei nº 541 de 15/12/1948",
+      "data": "1948-12-15",
+      "numero": "541",
+      "urn": "urn:lex:br:federal:lei:1948-12-15;541",
+      "ementa": "Cria a Comissão do Vale do São Francisco, e dá outras providências."
+    },
+    {
+      "senadoId": "541997",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-14-537",
+      "titulo": "Lei nº 537 de 14/12/1948",
+      "data": "1948-12-14",
+      "numero": "537",
+      "urn": "urn:lex:br:federal:lei:1948-12-14;537",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o execício financeiro de 1949."
+    },
+    {
+      "senadoId": "541993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-14-535",
+      "titulo": "Lei nº 535 de 14/12/1948",
+      "data": "1948-12-14",
+      "numero": "535",
+      "urn": "urn:lex:br:federal:lei:1948-12-14;535",
+      "ementa": "Modifica a redação do art. 26 da Lei nº 209, de 2 de janeiro de   1948."
+    },
+    {
+      "senadoId": "541995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-14-536",
+      "titulo": "Lei nº 536 de 14/12/1948",
+      "data": "1948-12-14",
+      "numero": "536",
+      "urn": "urn:lex:br:federal:lei:1948-12-14;536",
+      "ementa": "Revoga dispositivos do Decreto-lei nº 7.961, de 18 de setembro de 1945."
+    },
+    {
+      "senadoId": "541985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-13-532",
+      "titulo": "Lei nº 532 de 13/12/1948",
+      "data": "1948-12-13",
+      "numero": "532",
+      "urn": "urn:lex:br:federal:lei:1948-12-13;532",
+      "ementa": "Concede pensão especial a Dona Donatila de França Lins."
+    },
+    {
+      "senadoId": "541991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-13-534",
+      "titulo": "Lei nº 534 de 13/12/1948",
+      "data": "1948-12-13",
+      "numero": "534",
+      "urn": "urn:lex:br:federal:lei:1948-12-13;534",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, do crédito especial   de Cr$ 2.102.529,20, para constituição de parte do capital da Caixa de Crédito   da Pesca."
+    },
+    {
+      "senadoId": "541988",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-13-533",
+      "titulo": "Lei nº 533 de 13/12/1948",
+      "data": "1948-12-13",
+      "numero": "533",
+      "urn": "urn:lex:br:federal:lei:1948-12-13;533",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para pagamento de gratificações de magistério."
+    },
+    {
+      "senadoId": "541983",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-11-531",
+      "titulo": "Lei nº 531 de 11/12/1948",
+      "data": "1948-12-11",
+      "numero": "531",
+      "urn": "urn:lex:br:federal:lei:1948-12-11;531",
+      "ementa": "Autoriza a concessão de auxílio à Associação Paulista de Combate ao   Câncer."
+    },
+    {
+      "senadoId": "541981",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-11-530",
+      "titulo": "Lei nº 530 de 11/12/1948",
+      "data": "1948-12-11",
+      "numero": "530",
+      "urn": "urn:lex:br:federal:lei:1948-12-11;530",
+      "ementa": "Autoriza a abertura de crédito especial destinado ao financiamento dos   excedentes do consumo nacional de borracha."
+    },
+    {
+      "senadoId": "541978",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-09-529",
+      "titulo": "Lei nº 529 de 09/12/1948",
+      "data": "1948-12-09",
+      "numero": "529",
+      "urn": "urn:lex:br:federal:lei:1948-12-09;529",
+      "ementa": "Dispõe sobre a aposentadoria dos membros do Ministério Público com os   requisitos do art. 30 ns. I e II, do Ato das Disposições Transitórias da   Constituição ."
+    },
+    {
+      "senadoId": "541976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-08-528",
+      "titulo": "Lei nº 528 de 08/12/1948",
+      "data": "1948-12-08",
+      "numero": "528",
+      "urn": "urn:lex:br:federal:lei:1948-12-08;528",
+      "ementa": "Autoriza o Poder executivo a criar um hospital-Sanatório para   tuberculosos, na cidade de Carpina, Estado de Pernambuco, e a ampliar o Hospital   Osvaldo Cruz, do Recife, no mesmo Estado e dá outras providências."
+    },
+    {
+      "senadoId": "541973",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-08-526",
+      "titulo": "Lei nº 526 de 08/12/1948",
+      "data": "1948-12-08",
+      "numero": "526",
+      "urn": "urn:lex:br:federal:lei:1948-12-08;526",
+      "ementa": "Concede à Companhia Paulista de Estradas de Ferro isenção de direitos de   importação e taxas aduaneiras para material que especifica."
+    },
+    {
+      "senadoId": "541974",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-08-527",
+      "titulo": "Lei nº 527 de 08/12/1948",
+      "data": "1948-12-08",
+      "numero": "527",
+      "urn": "urn:lex:br:federal:lei:1948-12-08;527",
+      "ementa": "Concede isenção de direitos e demais taxas aduaneiras para material   importado pelo Governo do Estado de Pernambuco."
+    },
+    {
+      "senadoId": "541971",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-07-525-a",
+      "titulo": "Lei nº 525-A de 07/12/1948",
+      "data": "1948-12-07",
+      "numero": "525-a",
+      "urn": "urn:lex:br:federal:lei:1948-12-07;525-a",
+      "ementa": "Dispõe sobre funcionários interinos e extra-numerários a que se refere o art. 23 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "541970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-02-525",
+      "titulo": "Lei nº 525 de 02/12/1948",
+      "data": "1948-12-02",
+      "numero": "525",
+      "urn": "urn:lex:br:federal:lei:1948-12-02;525",
+      "ementa": "Abre ao Poder Judiciário, crédito suplementar para pagamento de   representação a membros do Tribunal Regional Eleitoral do Estado do   Ceará."
+    },
+    {
+      "senadoId": "541966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-02-523",
+      "titulo": "Lei nº 523 de 02/12/1948",
+      "data": "1948-12-02",
+      "numero": "523",
+      "urn": "urn:lex:br:federal:lei:1948-12-02;523",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 60.000,00, para despesas de alimentação de alunos da Escola   Industrial de Florianópolis."
+    },
+    {
+      "senadoId": "541968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-02-524",
+      "titulo": "Lei nº 524 de 02/12/1948",
+      "data": "1948-12-02",
+      "numero": "524",
+      "urn": "urn:lex:br:federal:lei:1948-12-02;524",
+      "ementa": "Abre ao Poder Judiciário, crédito especial para pagamento de gratificação   de representação a juízes do Tribunal Regional Eleitoral de   Alagoas."
+    },
+    {
+      "senadoId": "541959",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-01-520",
+      "titulo": "Lei nº 520 de 01/12/1948",
+      "data": "1948-12-01",
+      "numero": "520",
+      "urn": "urn:lex:br:federal:lei:1948-12-01;520",
+      "ementa": "Concede isenção de direitos de importação para material destinado ao Instituto Roentgenologia do Câncer, com sede em Belo Horizonte, Minas Gerais."
+    },
+    {
+      "senadoId": "541961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-01-521",
+      "titulo": "Lei nº 521 de 01/12/1948",
+      "data": "1948-12-01",
+      "numero": "521",
+      "urn": "urn:lex:br:federal:lei:1948-12-01;521",
+      "ementa": "Autoriza a abertura de crédito especial, ao Ministério da Agricultura,   para pagamento de material adquirido à United States Commercial   Company."
+    },
+    {
+      "senadoId": "541963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-01-522",
+      "titulo": "Lei nº 522 de 01/12/1948",
+      "data": "1948-12-01",
+      "numero": "522",
+      "urn": "urn:lex:br:federal:lei:1948-12-01;522",
+      "ementa": "Concede auxílio especial à Academia Nacional de Medicina, do Distrito   Federal."
+    },
+    {
+      "senadoId": "541957",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-12-01-519",
+      "titulo": "Lei nº 519 de 01/12/1948",
+      "data": "1948-12-01",
+      "numero": "519",
+      "urn": "urn:lex:br:federal:lei:1948-12-01;519",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para despesas com o combate à broca do café."
+    },
+    {
+      "senadoId": "541953",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-30-517",
+      "titulo": "Lei nº 517 de 30/11/1948",
+      "data": "1948-11-30",
+      "numero": "517",
+      "urn": "urn:lex:br:federal:lei:1948-11-30;517",
+      "ementa": "Concede isenção de direitos de importação para material destinado à   Indústria Mineira de Moagem Limitada, de Belo Horizonte, Estado de Minas   Gerais."
+    },
+    {
+      "senadoId": "541951",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-30-516",
+      "titulo": "Lei nº 516 de 30/11/1948",
+      "data": "1948-11-30",
+      "numero": "516",
+      "urn": "urn:lex:br:federal:lei:1948-11-30;516",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, do   crédito especial de Cr$ 19.800,00, para pagamento de gratificação adicional ao   Ministro do Supremo Tribunal Federal Álvaro Moutinho Ribeiro da   Costa."
+    },
+    {
+      "senadoId": "541955",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-30-518",
+      "titulo": "Lei nº 518 de 30/11/1948",
+      "data": "1948-11-30",
+      "numero": "518",
+      "urn": "urn:lex:br:federal:lei:1948-11-30;518",
+      "ementa": "Concede isenção de direitos de importação para material destinado aos Padres Capuchinhos do Rio de Janeiro."
+    },
+    {
+      "senadoId": "541941",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-512",
+      "titulo": "Lei nº 512 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "512",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;512",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde de um crédito   especial de Cr$ 300.000,00, para custeamento das despesas com o IV congresso   Nacional de Tuberculose."
+    },
+    {
+      "senadoId": "541949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-515",
+      "titulo": "Lei nº 515 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "515",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;515",
+      "ementa": "Incorpora à \"Campanha Nacional contra o Câncer\" o \"Núcleo de Combate ao   Câncer\", da Santa Casa de Misericórdia de Maceió, e \"Liga Paranaense de Combate   ao Câncer\", de Curitiba, e dá outras providências."
+    },
+    {
+      "senadoId": "541922",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-503",
+      "titulo": "Lei nº 503 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "503",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;503",
+      "ementa": "Autoriza a abertura, pelo Ministério da agricultura, de crédito especial   para pagamento de gratificação de magistério ao Professor Ceslau Maria Biezanko."
+    },
+    {
+      "senadoId": "541916",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-500",
+      "titulo": "Lei nº 500 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "500",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;500",
+      "ementa": "Dispõe sôbre a classificação dos funcionários civis e militares que   reverterem a atividade em virtude da lei nº 171 de 1947."
+    },
+    {
+      "senadoId": "541946",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-514",
+      "titulo": "Lei nº 514 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "514",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;514",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 24.506,60, para pagamento de diferença de gratificação de   magistério a Felipe dos Santos Reis."
+    },
+    {
+      "senadoId": "541928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-506",
+      "titulo": "Lei nº 506 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "506",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;506",
+      "ementa": "Concede isenção de direitos de importação para carvão destinado à Viação   Férrea do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "541932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-508",
+      "titulo": "Lei nº 508 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "508",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;508",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 65.214,30, para atender ao pagamento de gratificação de   magistério a Floriano Peixoto Bittencourt."
+    },
+    {
+      "senadoId": "541938",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-511",
+      "titulo": "Lei nº 511 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "511",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;511",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial para pagamento de diferença da gratificação de magistério ao Professor   João Lambert Ribeiro."
+    },
+    {
+      "senadoId": "541924",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-504",
+      "titulo": "Lei nº 504 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "504",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;504",
+      "ementa": "Abre ao Congresso Nacional crédito suplementar para pagamento de   vencimentos."
+    },
+    {
+      "senadoId": "541920",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-502",
+      "titulo": "Lei nº 502 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "502",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;502",
+      "ementa": "Autoriza o Ministério da Agricultura a substituir os locais para a   instalação de postos agro-pecuários em 1948, no Estado da Paraíba."
+    },
+    {
+      "senadoId": "541930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-507",
+      "titulo": "Lei nº 507 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "507",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;507",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras, para materiais destinados à Empresa Transportes Aéreos Nacional Limitada."
+    },
+    {
+      "senadoId": "541943",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-513",
+      "titulo": "Lei nº 513 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "513",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;513",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento de gratificação de   magistério a Haydéa Hor-Meyll."
+    },
+    {
+      "senadoId": "541918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-501",
+      "titulo": "Lei nº 501 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "501",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;501",
+      "ementa": "Considera de utilidade pública a Casa de Nossa Senhora da Paz, do Rio de   Janeiro."
+    },
+    {
+      "senadoId": "541926",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-505",
+      "titulo": "Lei nº 505 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "505",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;505",
+      "ementa": "Concede isenção de direitos de importação para material adquirido pelo   Estado de São Paulo."
+    },
+    {
+      "senadoId": "541934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-509",
+      "titulo": "Lei nº 509 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "509",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;509",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento de gratificação de magistério a João de Lamare São Paulo."
+    },
+    {
+      "senadoId": "541936",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-29-510",
+      "titulo": "Lei nº 510 de 29/11/1948",
+      "data": "1948-11-29",
+      "numero": "510",
+      "urn": "urn:lex:br:federal:lei:1948-11-29;510",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento de diferença de   gratificação a Antonio Ferreira."
+    },
+    {
+      "senadoId": "541910",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-28-497",
+      "titulo": "Lei nº 497 de 28/11/1948",
+      "data": "1948-11-28",
+      "numero": "497",
+      "urn": "urn:lex:br:federal:lei:1948-11-28;497",
+      "ementa": "Institui na Força Aérea Brasileira a medalha de \"Companha no Atlântico   Sul\" e dá outras providências."
+    },
+    {
+      "senadoId": "541912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-28-498",
+      "titulo": "Lei nº 498 de 28/11/1948",
+      "data": "1948-11-28",
+      "numero": "498",
+      "urn": "urn:lex:br:federal:lei:1948-11-28;498",
+      "ementa": "Reajusta as tarifas postais e telegráficas e dá outras providências."
+    },
+    {
+      "senadoId": "541914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-28-499",
+      "titulo": "Lei nº 499 de 28/11/1948",
+      "data": "1948-11-28",
+      "numero": "499",
+      "urn": "urn:lex:br:federal:lei:1948-11-28;499",
+      "ementa": "Fixa os vencimentos da Magistratura e do Ministério Público da União."
+    },
+    {
+      "senadoId": "541908",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-26-496",
+      "titulo": "Lei nº 496 de 26/11/1948",
+      "data": "1948-11-26",
+      "numero": "496",
+      "urn": "urn:lex:br:federal:lei:1948-11-26;496",
+      "ementa": "Concede isenção de direitos de importação para material destinado às   religiosas \"Filhas de Jesus\", do Distrito Federal. ."
+    },
+    {
+      "senadoId": "541905",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-26-495",
+      "titulo": "Lei nº 495 de 26/11/1948",
+      "data": "1948-11-26",
+      "numero": "495",
+      "urn": "urn:lex:br:federal:lei:1948-11-26;495",
+      "ementa": "Estende aos militares reformados os benefícios do Decreto-lei nº 9.513, de   25 de julho de 1946."
+    },
+    {
+      "senadoId": "541903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-26-494",
+      "titulo": "Lei nº 494 de 26/11/1948",
+      "data": "1948-11-26",
+      "numero": "494",
+      "urn": "urn:lex:br:federal:lei:1948-11-26;494",
+      "ementa": "Altera a Lei do Impôsto de Consumo."
+    },
+    {
+      "senadoId": "541898",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-19-492",
+      "titulo": "Lei nº 492 de 19/11/1948",
+      "data": "1948-11-19",
+      "numero": "492",
+      "urn": "urn:lex:br:federal:lei:1948-11-19;492",
+      "ementa": "Extingue a taxa especial criada pelo Decreto-lei nº 5.582, de 17 de junho   de1943, sobre o algodão destinado à exportação ou ao consumo   interno."
+    },
+    {
+      "senadoId": "541896",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-19-491",
+      "titulo": "Lei nº 491 de 19/11/1948",
+      "data": "1948-11-19",
+      "numero": "491",
+      "urn": "urn:lex:br:federal:lei:1948-11-19;491",
+      "ementa": "Concede isenção de direitos de importação para objetos importados pela   \"Fundação Álvares Penteado\", de São Paulo."
+    },
+    {
+      "senadoId": "541901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-19-493",
+      "titulo": "Lei nº 493 de 19/11/1948",
+      "data": "1948-11-19",
+      "numero": "493",
+      "urn": "urn:lex:br:federal:lei:1948-11-19;493",
+      "ementa": "Autoriza a abertura, ao Ministério da Agricultura, de crédito especial   para ocorrer a despesas com a realização de uma conferência sobre o combate à   febre aftosa."
+    },
+    {
+      "senadoId": "541894",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-18-490",
+      "titulo": "Lei nº 490 de 18/11/1948",
+      "data": "1948-11-18",
+      "numero": "490",
+      "urn": "urn:lex:br:federal:lei:1948-11-18;490",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, de   crédito especial destinado à aquisição de trilhos para a Viação Férrea Federal   Leste Brasileiro e Rêde Viação Paraná-Santa Catarina."
+    },
+    {
+      "senadoId": "541891",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-18-489",
+      "titulo": "Lei nº 489 de 18/11/1948",
+      "data": "1948-11-18",
+      "numero": "489",
+      "urn": "urn:lex:br:federal:lei:1948-11-18;489",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de   Cr$ 8.000.000,00, para atender as despesas da construção de duas rodovias entre   Alcindo Guanabara e Teresópolis e os trechos que ligam   Niterói-Friburgo."
+    },
+    {
+      "senadoId": "542012",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-16-545",
+      "titulo": "Lei nº 545 de 16/11/1948",
+      "data": "1948-11-16",
+      "numero": "545",
+      "urn": "urn:lex:br:federal:lei:1948-11-16;545",
+      "ementa": "Concede isenções de direitos de importação e taxas aduaneiras para o   material abaixo discriminado, que se destina a serviços de utilidade pública das   Prefeituras de São Sepé, São Gabriel, S. Luiz, Quaraí e Distrito   Federal."
+    },
+    {
+      "senadoId": "541888",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-15-488",
+      "titulo": "Lei nº 488 de 15/11/1948",
+      "data": "1948-11-15",
+      "numero": "488",
+      "urn": "urn:lex:br:federal:lei:1948-11-15;488",
+      "ementa": "Dispõe sôbre pagamento de vencimento, remuneração ou salário do pessoal civil e militar da União."
+    },
+    {
+      "senadoId": "541886",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-15-487",
+      "titulo": "Lei nº 487 de 15/11/1948",
+      "data": "1948-11-15",
+      "numero": "487",
+      "urn": "urn:lex:br:federal:lei:1948-11-15;487",
+      "ementa": "Autoriza o Tesouro Nacional a garantir o empréstimo a ser contraído pela   Brazilian Traction Light &amp; Power Co. Ltd., de Toronto, Canadá, no Banco   Internacional de Reconstrução e Desenvolvimento."
+    },
+    {
+      "senadoId": "541884",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-14-486",
+      "titulo": "Lei nº 486 de 14/11/1948",
+      "data": "1948-11-14",
+      "numero": "486",
+      "urn": "urn:lex:br:federal:lei:1948-11-14;486",
+      "ementa": "Cria os Quadros das Secretarias do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais, e dá outras providências."
+    },
+    {
+      "senadoId": "541882",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-13-485",
+      "titulo": "Lei nº 485 de 13/11/1948",
+      "data": "1948-11-13",
+      "numero": "485",
+      "urn": "urn:lex:br:federal:lei:1948-11-13;485",
+      "ementa": "Concede auxílio de Cr$ 200.000,00 ao Instituto Geográfico e Histórico do   Amazonas."
+    },
+    {
+      "senadoId": "541880",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-13-484",
+      "titulo": "Lei nº 484 de 13/11/1948",
+      "data": "1948-11-13",
+      "numero": "484",
+      "urn": "urn:lex:br:federal:lei:1948-11-13;484",
+      "ementa": "Dispõe sôbre a difusão da Vacina B.C.G."
+    },
+    {
+      "senadoId": "541876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-12-482",
+      "titulo": "Lei nº 482 de 12/11/1948",
+      "data": "1948-11-12",
+      "numero": "482",
+      "urn": "urn:lex:br:federal:lei:1948-11-12;482",
+      "ementa": "Autoriza o Ministério da Fazenda, a contratar com a Banco do Brasil S.A. o   financiamento agrícola de entre-safras"
+    },
+    {
+      "senadoId": "541878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-12-483",
+      "titulo": "Lei nº 483 de 12/11/1948",
+      "data": "1948-11-12",
+      "numero": "483",
+      "urn": "urn:lex:br:federal:lei:1948-11-12;483",
+      "ementa": "Estabelece medidas para o combate ao gafanhoto migratório e dá outras   providências."
+    },
+    {
+      "senadoId": "541874",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-12-481",
+      "titulo": "Lei nº 481 de 12/11/1948",
+      "data": "1948-11-12",
+      "numero": "481",
+      "urn": "urn:lex:br:federal:lei:1948-11-12;481",
+      "ementa": "Abre, pelo Ministério da Fazenda, créditos especiais para pagamento à   Viação Férrea Rio Grande do Sul, à Rede Mineira de Viação e à Great Western of   Brazil Ry, Co. Ltda."
+    },
+    {
+      "senadoId": "541870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-11-479",
+      "titulo": "Lei nº 479 de 11/11/1948",
+      "data": "1948-11-11",
+      "numero": "479",
+      "urn": "urn:lex:br:federal:lei:1948-11-11;479",
+      "ementa": "Abre, ao Poder Judiciário, o crédito especial de Cr$ 27.200,00, para   pagamento a membros do Tribunal Regional Eleitoral de São Paulo, em   1947."
+    },
+    {
+      "senadoId": "541872",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-11-480",
+      "titulo": "Lei nº 480 de 11/11/1948",
+      "data": "1948-11-11",
+      "numero": "480",
+      "urn": "urn:lex:br:federal:lei:1948-11-11;480",
+      "ementa": "Estende à Companhia Nacional de Navegação Costeira o regime de isenção fiscal de que goza o Lloyd Brasileiro."
+    },
+    {
+      "senadoId": "541867",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-10-478",
+      "titulo": "Lei nº 478 de 10/11/1948",
+      "data": "1948-11-10",
+      "numero": "478",
+      "urn": "urn:lex:br:federal:lei:1948-11-10;478",
+      "ementa": "Abre, ao Poder Judiciário o crédito suplementar de Cr$ 193.200,00 para   ocorrer ao pagamento de gratificação de representação, de aquisição de móveis e   aluguel de casa pelo Tribunal Regional Eleitoral de Santa   Catarina."
+    },
+    {
+      "senadoId": "541865",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-09-477",
+      "titulo": "Lei nº 477 de 09/11/1948",
+      "data": "1948-11-09",
+      "numero": "477",
+      "urn": "urn:lex:br:federal:lei:1948-11-09;477",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 7.000.000,00 para atender as despesas com a manutenção   das Plantações de Fordlândia e Belterra."
+    },
+    {
+      "senadoId": "541863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-08-476",
+      "titulo": "Lei nº 476 de 08/11/1948",
+      "data": "1948-11-08",
+      "numero": "476",
+      "urn": "urn:lex:br:federal:lei:1948-11-08;476",
+      "ementa": "Revigora, por sessenta dias, o Decreto nº 9.297, de 1946, que estendeu aos   oficiais do Corpo de Bombeiros as vantagens de promoção ao posto imediatamente   superior."
+    },
+    {
+      "senadoId": "541859",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-08-474",
+      "titulo": "Lei nº 474 de 08/11/1948",
+      "data": "1948-11-08",
+      "numero": "474",
+      "urn": "urn:lex:br:federal:lei:1948-11-08;474",
+      "ementa": "Dispõe sôbre o custeio das despesas de fiscalização das entidades   autárquicas federais, as quais exploram serviços industriais."
+    },
+    {
+      "senadoId": "541861",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-08-475",
+      "titulo": "Lei nº 475 de 08/11/1948",
+      "data": "1948-11-08",
+      "numero": "475",
+      "urn": "urn:lex:br:federal:lei:1948-11-08;475",
+      "ementa": "Revoga os Decretos-leis números 9.523 e 9.564, ambos de 1946, que   respectivamente, regula a liquidação do câmbio destinado ao pagamento de   importações e exportações e estabelece multas para as liquidações fora de   prazo."
+    },
+    {
+      "senadoId": "541857",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-06-473-a",
+      "titulo": "Lei nº 473-A de 06/11/1948",
+      "data": "1948-11-06",
+      "numero": "473-a",
+      "urn": "urn:lex:br:federal:lei:1948-11-06;473-a",
+      "ementa": "Abre, ao Poder Judiciário, crédito suplementar de Cr$ 46.800,00 para   ocorrer ao pagamento de gratificações de representação aos Membros do Tribunal   Regional Eleitoral do Estado da Paraíba."
+    },
+    {
+      "senadoId": "541848",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-05-469",
+      "titulo": "Lei nº 469 de 05/11/1948",
+      "data": "1948-11-05",
+      "numero": "469",
+      "urn": "urn:lex:br:federal:lei:1948-11-05;469",
+      "ementa": "Dá exequibilidade ao Decreto-lei nº 7.928, 3 de setembro de   1945."
+    },
+    {
+      "senadoId": "541850",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-05-470",
+      "titulo": "Lei nº 470 de 05/11/1948",
+      "data": "1948-11-05",
+      "numero": "470",
+      "urn": "urn:lex:br:federal:lei:1948-11-05;470",
+      "ementa": "Concede subvenção à Estrada de Ferro Noroeste do Brasil e autoriza a   abertura do crédito necessário."
+    },
+    {
+      "senadoId": "541854",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-05-472",
+      "titulo": "Lei nº 472 de 05/11/1948",
+      "data": "1948-11-05",
+      "numero": "472",
+      "urn": "urn:lex:br:federal:lei:1948-11-05;472",
+      "ementa": "Abre ao Poder Judiciário o crédito especial de Cr$ 35.200,00 para   pagamento de gratificação aos membros do Tribunal Regional Eleitoral do   Pará."
+    },
+    {
+      "senadoId": "541856",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-05-473",
+      "titulo": "Lei nº 473 de 05/11/1948",
+      "data": "1948-11-05",
+      "numero": "473",
+      "urn": "urn:lex:br:federal:lei:1948-11-05;473",
+      "ementa": "Abre, ao Congresso Nacional, o crédito de Cr$ 2.057.895,10, para pagamento   de despesas com reformas e ampliações do Palácio Tiradentes e estudos de   adaptação do Palácio Monroe."
+    },
+    {
+      "senadoId": "541852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-05-471",
+      "titulo": "Lei nº 471 de 05/11/1948",
+      "data": "1948-11-05",
+      "numero": "471",
+      "urn": "urn:lex:br:federal:lei:1948-11-05;471",
+      "ementa": "Abre, ao Poder Judiciário, o crédito suplementar de Cr$ 33.200,00, para   pagamento de gratificação de representação a Membros do Tribunal Regional   Eleitoral do Estado de Sergipe."
+    },
+    {
+      "senadoId": "541842",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-04-466",
+      "titulo": "Lei nº 466 de 04/11/1948",
+      "data": "1948-11-04",
+      "numero": "466",
+      "urn": "urn:lex:br:federal:lei:1948-11-04;466",
+      "ementa": "Autoriza a abertura ao Congresso Nacional do crédito especial de Cr$   3.625,00."
+    },
+    {
+      "senadoId": "541838",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-04-464",
+      "titulo": "Lei nº 464 de 04/11/1948",
+      "data": "1948-11-04",
+      "numero": "464",
+      "urn": "urn:lex:br:federal:lei:1948-11-04;464",
+      "ementa": "Autoriza a abertura, pelo Ministério do Trabalho, Indústria e Comércio, do   crédito especial de Cr$ 1.365.734,70, para atender a despesas decorrentes da   desapropriação, por utilidade pública, do imóvel denominado Xarqueada de Tupanã,   situtado na cidade de Belém, Estado do Pará."
+    },
+    {
+      "senadoId": "541840",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-04-465",
+      "titulo": "Lei nº 465 de 04/11/1948",
+      "data": "1948-11-04",
+      "numero": "465",
+      "urn": "urn:lex:br:federal:lei:1948-11-04;465",
+      "ementa": "Manda erigir na Capital da República monumento ao ex-Presidente da   República, Conselheiro Francisco de Paula Rodrigues Alves e dá outras   providências."
+    },
+    {
+      "senadoId": "541844",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-04-467",
+      "titulo": "Lei nº 467 de 04/11/1948",
+      "data": "1948-11-04",
+      "numero": "467",
+      "urn": "urn:lex:br:federal:lei:1948-11-04;467",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, do crédito suplementar de   Cr$ 600.000,00 à verba que especifica."
+    },
+    {
+      "senadoId": "541846",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-04-468",
+      "titulo": "Lei nº 468 de 04/11/1948",
+      "data": "1948-11-04",
+      "numero": "468",
+      "urn": "urn:lex:br:federal:lei:1948-11-04;468",
+      "ementa": "Abre ao Poder Judiciário, o crédito suplementar de Cr$ 15.400,00, para   ocorrer ao pagamento de aluguel do prédio onde funciona o Tribunal Regional   Eleitoral de Sergipe."
+    },
+    {
+      "senadoId": "541836",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-11-03-463",
+      "titulo": "Lei nº 463 de 03/11/1948",
+      "data": "1948-11-03",
+      "numero": "463",
+      "urn": "urn:lex:br:federal:lei:1948-11-03;463",
+      "ementa": "Retifica e altera a Lei nº 162, de 2 de dezembro de 1947."
+    },
+    {
+      "senadoId": "541833",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-30-462",
+      "titulo": "Lei nº 462 de 30/10/1948",
+      "data": "1948-10-30",
+      "numero": "462",
+      "urn": "urn:lex:br:federal:lei:1948-10-30;462",
+      "ementa": "Autoriza a abertura de crédito especial de Cr$ 40.000.000,00 para   financiamento do excedente do consumo nacional da borracha."
+    },
+    {
+      "senadoId": "541827",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-29-459",
+      "titulo": "Lei nº 459 de 29/10/1948",
+      "data": "1948-10-29",
+      "numero": "459",
+      "urn": "urn:lex:br:federal:lei:1948-10-29;459",
+      "ementa": "Autoriza a abertura, pelo Ministério da Guerra, crédito especial para as   despesas com a confecção de medalhas."
+    },
+    {
+      "senadoId": "541831",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-29-461",
+      "titulo": "Lei nº 461 de 29/10/1948",
+      "data": "1948-10-29",
+      "numero": "461",
+      "urn": "urn:lex:br:federal:lei:1948-10-29;461",
+      "ementa": "Dispõe sôbre a inclusão, em caráter permamente, no Almanaque da Marinha e   no Boletim Mensal, do nome de Joaquim Marques Lisboa, no posto de   Almirante."
+    },
+    {
+      "senadoId": "541824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-29-457",
+      "titulo": "Lei nº 457 de 29/10/1948",
+      "data": "1948-10-29",
+      "numero": "457",
+      "urn": "urn:lex:br:federal:lei:1948-10-29;457",
+      "ementa": "Dispõe sôbre a forma de pagamento dos débitos civis e comerciais de   criadores e reprodutores de gado bovino."
+    },
+    {
+      "senadoId": "541826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-29-458",
+      "titulo": "Lei nº 458 de 29/10/1948",
+      "data": "1948-10-29",
+      "numero": "458",
+      "urn": "urn:lex:br:federal:lei:1948-10-29;458",
+      "ementa": "Dispõe sôbre extensão de vantagens do montepio militar."
+    },
+    {
+      "senadoId": "541829",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-29-460",
+      "titulo": "Lei nº 460 de 29/10/1948",
+      "data": "1948-10-29",
+      "numero": "460",
+      "urn": "urn:lex:br:federal:lei:1948-10-29;460",
+      "ementa": "Autoriza inscrição de novas salinas no Instituto Nacional do   Sal."
+    },
+    {
+      "senadoId": "541822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-28-456",
+      "titulo": "Lei nº 456 de 28/10/1948",
+      "data": "1948-10-28",
+      "numero": "456",
+      "urn": "urn:lex:br:federal:lei:1948-10-28;456",
+      "ementa": "Declara feriado nacional o dia 29 de outubro de 1948."
+    },
+    {
+      "senadoId": "541818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-27-454",
+      "titulo": "Lei nº 454 de 27/10/1948",
+      "data": "1948-10-27",
+      "numero": "454",
+      "urn": "urn:lex:br:federal:lei:1948-10-27;454",
+      "ementa": "Autoriza o Poder Executivo a doar, por intermédio do Ministério da Agricultura, à Sociedade Miguel Couto dos Amigos do Estudante, sediada em Campo Grande, Estado de Mato Grosso, uma área de 40 hectares."
+    },
+    {
+      "senadoId": "541820",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-27-455",
+      "titulo": "Lei nº 455 de 27/10/1948",
+      "data": "1948-10-27",
+      "numero": "455",
+      "urn": "urn:lex:br:federal:lei:1948-10-27;455",
+      "ementa": "Dispõe sobre percentagens devidas aos servidores das Coletorias Federais   pela arrecadação de rendas das entidades autárquicas."
+    },
+    {
+      "senadoId": "541816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-25-453",
+      "titulo": "Lei nº 453 de 25/10/1948",
+      "data": "1948-10-25",
+      "numero": "453",
+      "urn": "urn:lex:br:federal:lei:1948-10-25;453",
+      "ementa": "Autoriza a abertura, pelo Ministério do Trabalho, Indústria e Comércio, de   um crédito especial de Cr$ 3.000.000,00 para pagameto de despesas com a   manutenção de hospedarias a cargo do Departamento Nacional de Imigração, em Rio   Branco, Manaus, Belém, Fortaleza e Natal."
+    },
+    {
+      "senadoId": "541814",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-23-452",
+      "titulo": "Lei nº 452 de 23/10/1948",
+      "data": "1948-10-23",
+      "numero": "452",
+      "urn": "urn:lex:br:federal:lei:1948-10-23;452",
+      "ementa": "Autoriza o Poder Executivo a doar à Congregação dos Salesianos uma área do   terreno pertencente à Escola Agro-Técnica de Barbacena, em Minas   Gerais."
+    },
+    {
+      "senadoId": "541805",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-448",
+      "titulo": "Lei nº 448 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "448",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;448",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito   suplementar para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541796",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-444",
+      "titulo": "Lei nº 444 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "444",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;444",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541802",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-447",
+      "titulo": "Lei nº 447 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "447",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;447",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para ocorrer as despesas com a construção da Cidade   Universitária."
+    },
+    {
+      "senadoId": "541798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-445",
+      "titulo": "Lei nº 445 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "445",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;445",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541800",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-446",
+      "titulo": "Lei nº 446 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "446",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;446",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para atender ao pagamento com a impressão dos Anais do VI Congresso   Brasileiro de Higiene."
+    },
+    {
+      "senadoId": "541808",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-449",
+      "titulo": "Lei nº 449 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "449",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;449",
+      "ementa": "Autoriza a abertura, pelo Poder Judiciário, de crédito especial para   pagamento de gratificações a membros do Tribunal Regional Eleitoral do Rio   Grande do Norte."
+    },
+    {
+      "senadoId": "541810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-450",
+      "titulo": "Lei nº 450 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "450",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;450",
+      "ementa": "Autoriza a abertura, ao Poder Judiciário, de crédito suplementar para   pagamento de gratificação de representação."
+    },
+    {
+      "senadoId": "541812",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-20-451",
+      "titulo": "Lei nº 451 de 20/10/1948",
+      "data": "1948-10-20",
+      "numero": "451",
+      "urn": "urn:lex:br:federal:lei:1948-10-20;451",
+      "ementa": "Autoriza a abertura, ao Poder Judiciário, de crédito suplementar para   pagamento de gratificação de representação."
+    },
+    {
+      "senadoId": "541794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-19-443",
+      "titulo": "Lei nº 443 de 19/10/1948",
+      "data": "1948-10-19",
+      "numero": "443",
+      "urn": "urn:lex:br:federal:lei:1948-10-19;443",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito   suplementar para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541788",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-19-440",
+      "titulo": "Lei nº 440 de 19/10/1948",
+      "data": "1948-10-19",
+      "numero": "440",
+      "urn": "urn:lex:br:federal:lei:1948-10-19;440",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541790",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-19-441",
+      "titulo": "Lei nº 441 de 19/10/1948",
+      "data": "1948-10-19",
+      "numero": "441",
+      "urn": "urn:lex:br:federal:lei:1948-10-19;441",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541792",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-19-442",
+      "titulo": "Lei nº 442 de 19/10/1948",
+      "data": "1948-10-19",
+      "numero": "442",
+      "urn": "urn:lex:br:federal:lei:1948-10-19;442",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541784",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-18-438",
+      "titulo": "Lei nº 438 de 18/10/1948",
+      "data": "1948-10-18",
+      "numero": "438",
+      "urn": "urn:lex:br:federal:lei:1948-10-18;438",
+      "ementa": "Torna reservistas os pilôtos civis."
+    },
+    {
+      "senadoId": "541786",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-18-439",
+      "titulo": "Lei nº 439 de 18/10/1948",
+      "data": "1948-10-18",
+      "numero": "439",
+      "urn": "urn:lex:br:federal:lei:1948-10-18;439",
+      "ementa": "Concede certificado de reservistas de 2ª categoria aos alunos da 1º e 2ª   séries do Curso Científico do Colégio Militar, quando desligados, e completarem   18 anos de idade."
+    },
+    {
+      "senadoId": "541781",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-16-437",
+      "titulo": "Lei nº 437 de 16/10/1948",
+      "data": "1948-10-16",
+      "numero": "437",
+      "urn": "urn:lex:br:federal:lei:1948-10-16;437",
+      "ementa": "Altera a redação dos arts. 1º e 2º e revoga o art. 7º do Decreto-lei nº   9.825, de 10 de setembro de 1946."
+    },
+    {
+      "senadoId": "541782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-16-437-a",
+      "titulo": "Lei nº 437-A de 16/10/1948",
+      "data": "1948-10-16",
+      "numero": "437-a",
+      "urn": "urn:lex:br:federal:lei:1948-10-16;437-a",
+      "ementa": "Dispõe sôbre o pagamento de diferença de vencimentos aos professores civis   vitalícios, com honras militares, dos estabelecimentos de ensino do   Exército."
+    },
+    {
+      "senadoId": "541779",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-15-436",
+      "titulo": "Lei nº 436 de 15/10/1948",
+      "data": "1948-10-15",
+      "numero": "436",
+      "urn": "urn:lex:br:federal:lei:1948-10-15;436",
+      "ementa": "Autoriza a abertura, pelo Poder Judiciário, de crédito suplementar para   pagamento de despesas realizadas pelo Tribunal Regional Eleitoral do Rio Grande   do Norte."
+    },
+    {
+      "senadoId": "541777",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-14-435",
+      "titulo": "Lei nº 435 de 14/10/1948",
+      "data": "1948-10-14",
+      "numero": "435",
+      "urn": "urn:lex:br:federal:lei:1948-10-14;435",
+      "ementa": "Eleva à categoria de Agência, a Capatazia da Capitania Fluvial dos Portos   do Rio Paraná, em Presidente Epitácio."
+    },
+    {
+      "senadoId": "541773",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-14-433",
+      "titulo": "Lei nº 433 de 14/10/1948",
+      "data": "1948-10-14",
+      "numero": "433",
+      "urn": "urn:lex:br:federal:lei:1948-10-14;433",
+      "ementa": "Autoriza a alienação de imóveis que menciona à Prefeitura do Distrito   Federal."
+    },
+    {
+      "senadoId": "541775",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-14-434",
+      "titulo": "Lei nº 434 de 14/10/1948",
+      "data": "1948-10-14",
+      "numero": "434",
+      "urn": "urn:lex:br:federal:lei:1948-10-14;434",
+      "ementa": "Cria no Q.S. do Ministério da Guerra, um cargo isolado de Professor   Catedrático."
+    },
+    {
+      "senadoId": "541765",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-12-429",
+      "titulo": "Lei nº 429 de 12/10/1948",
+      "data": "1948-10-12",
+      "numero": "429",
+      "urn": "urn:lex:br:federal:lei:1948-10-12;429",
+      "ementa": "Aprova o plano de aplicação dos recursos orçamentários atribuídos ao   Conselho Nacional do Petróleo, no exercício de 1948."
+    },
+    {
+      "senadoId": "541768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-12-431",
+      "titulo": "Lei nº 431 de 12/10/1948",
+      "data": "1948-10-12",
+      "numero": "431",
+      "urn": "urn:lex:br:federal:lei:1948-10-12;431",
+      "ementa": "Autoriza a abertura, pelo Ministério da Guerra, de crédito especial para   despesas com a conclusão da Carta Geográfica do Estado de Mato   Grosso"
+    },
+    {
+      "senadoId": "541770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-12-432",
+      "titulo": "Lei nº 432 de 12/10/1948",
+      "data": "1948-10-12",
+      "numero": "432",
+      "urn": "urn:lex:br:federal:lei:1948-10-12;432",
+      "ementa": "Autoriza a abertura, pelo Ministério da Guerra , de crédito especial para   pagamento de indenizações."
+    },
+    {
+      "senadoId": "541767",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-12-430",
+      "titulo": "Lei nº 430 de 12/10/1948",
+      "data": "1948-10-12",
+      "numero": "430",
+      "urn": "urn:lex:br:federal:lei:1948-10-12;430",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para intensificação da campanha contra a mosca do fruto."
+    },
+    {
+      "senadoId": "541759",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-11-427",
+      "titulo": "Lei nº 427 de 11/10/1948",
+      "data": "1948-10-11",
+      "numero": "427",
+      "urn": "urn:lex:br:federal:lei:1948-10-11;427",
+      "ementa": "Equipara o Corpo de Bombeiros do Distrito Federal às policias militares e   estabelece o foro a que ficarão sujeitos seus componentes."
+    },
+    {
+      "senadoId": "541762",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-11-428",
+      "titulo": "Lei nº 428 de 11/10/1948",
+      "data": "1948-10-11",
+      "numero": "428",
+      "urn": "urn:lex:br:federal:lei:1948-10-11;428",
+      "ementa": "Autoriza a abertura, pelo Ministério das Relações Exteriores, de crédito   especial para pagamento de despesas realizadas durante a visita do Governador   Geral do Canadá ao Brasil."
+    },
+    {
+      "senadoId": "541756",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-07-426",
+      "titulo": "Lei nº 426 de 07/10/1948",
+      "data": "1948-10-07",
+      "numero": "426",
+      "urn": "urn:lex:br:federal:lei:1948-10-07;426",
+      "ementa": "Cria nas Faculdades Federais de Medicina a cadeira de Tisiologia e dá   outras providências."
+    },
+    {
+      "senadoId": "541744",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-07-421",
+      "titulo": "Lei nº 421 de 07/10/1948",
+      "data": "1948-10-07",
+      "numero": "421",
+      "urn": "urn:lex:br:federal:lei:1948-10-07;421",
+      "ementa": "Assegura direito à percepção de vencimentos e vantagens a militares da   reserva renumerada ou reformados."
+    },
+    {
+      "senadoId": "541750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-07-424",
+      "titulo": "Lei nº 424 de 07/10/1948",
+      "data": "1948-10-07",
+      "numero": "424",
+      "urn": "urn:lex:br:federal:lei:1948-10-07;424",
+      "ementa": "Dispensa consignação nominal para a Santa Casa de Misericórdia de São   Paulo gozar de isenção de direitos de importação."
+    },
+    {
+      "senadoId": "541746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-07-422",
+      "titulo": "Lei nº 422 de 07/10/1948",
+      "data": "1948-10-07",
+      "numero": "422",
+      "urn": "urn:lex:br:federal:lei:1948-10-07;422",
+      "ementa": "Concede a Luiz Soares a pensão de Cr$ 1.000,00, e dá outras   providências."
+    },
+    {
+      "senadoId": "541748",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-07-423",
+      "titulo": "Lei nº 423 de 07/10/1948",
+      "data": "1948-10-07",
+      "numero": "423",
+      "urn": "urn:lex:br:federal:lei:1948-10-07;423",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541753",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-07-425",
+      "titulo": "Lei nº 425 de 07/10/1948",
+      "data": "1948-10-07",
+      "numero": "425",
+      "urn": "urn:lex:br:federal:lei:1948-10-07;425",
+      "ementa": "Autoriza a Abertura, pelo Ministério das Relações Exteriores, do crédito   especial de Cr$ 1.933.913,00, para atender as depesas com a Delegação Brasileira   à Conferência de Comércio e Emprego, reunida em Havana."
+    },
+    {
+      "senadoId": "541735",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-03-417",
+      "titulo": "Lei nº 417 de 03/10/1948",
+      "data": "1948-10-03",
+      "numero": "417",
+      "urn": "urn:lex:br:federal:lei:1948-10-03;417",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   pagamento de juros de apólices da Dívida Pública Interna."
+    },
+    {
+      "senadoId": "541737",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-03-418",
+      "titulo": "Lei nº 418 de 03/10/1948",
+      "data": "1948-10-03",
+      "numero": "418",
+      "urn": "urn:lex:br:federal:lei:1948-10-03;418",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento da publicação dos \"Anais da IV Conferência Regional de   Tuberculose\"."
+    },
+    {
+      "senadoId": "541742",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-03-420",
+      "titulo": "Lei nº 420 de 03/10/1948",
+      "data": "1948-10-03",
+      "numero": "420",
+      "urn": "urn:lex:br:federal:lei:1948-10-03;420",
+      "ementa": "Concede auxílio especial ao Instituto Histórico e Geográfico de Santa   Catarina, para realização do Congresso Comemorativo do Bicentenário da   Colonização Açoriana."
+    },
+    {
+      "senadoId": "541740",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-03-419",
+      "titulo": "Lei nº 419 de 03/10/1948",
+      "data": "1948-10-03",
+      "numero": "419",
+      "urn": "urn:lex:br:federal:lei:1948-10-03;419",
+      "ementa": "Isenta de toda tributação os animais importados para reprodução e melhoria da pecuária nacional, adquiridos em país estrangeiro, por compra direta de criador brasileiro, ou que se consignem às nossas exposições-feiras."
+    },
+    {
+      "senadoId": "541726",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-02-412",
+      "titulo": "Lei nº 412 de 02/10/1948",
+      "data": "1948-10-02",
+      "numero": "412",
+      "urn": "urn:lex:br:federal:lei:1948-10-02;412",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras, inclusive   imposto de consumo, para material destinado ao Instituto de Pesquisas   Tecnológicas do Estado de São Paulo."
+    },
+    {
+      "senadoId": "541731",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-02-415",
+      "titulo": "Lei nº 415 de 02/10/1948",
+      "data": "1948-10-02",
+      "numero": "415",
+      "urn": "urn:lex:br:federal:lei:1948-10-02;415",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras para material   destinado ao Serviço de Rádio Patrulha do Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "541728",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-02-413",
+      "titulo": "Lei nº 413 de 02/10/1948",
+      "data": "1948-10-02",
+      "numero": "413",
+      "urn": "urn:lex:br:federal:lei:1948-10-02;413",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras, inclusive   imposto de consumo, para material destinado ao Instituto de Pesquisas   Tecnológicas do Estado de São Paulo."
+    },
+    {
+      "senadoId": "541733",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-02-416",
+      "titulo": "Lei nº 416 de 02/10/1948",
+      "data": "1948-10-02",
+      "numero": "416",
+      "urn": "urn:lex:br:federal:lei:1948-10-02;416",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras, inclusive   imposto de consumo, para material adquirido para o Estado de São   Paulo."
+    },
+    {
+      "senadoId": "541730",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-10-02-414",
+      "titulo": "Lei nº 414 de 02/10/1948",
+      "data": "1948-10-02",
+      "numero": "414",
+      "urn": "urn:lex:br:federal:lei:1948-10-02;414",
+      "ementa": "Autoriza o Poder Executivo a conceder isenção de direitos de importação e   taxas aduaneiras para uma caixa contendo rádio e acessórios, destinados ao   Instituto Arnaldo Vieira de Carvalho, de São Paulo."
+    },
+    {
+      "senadoId": "541724",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-29-411",
+      "titulo": "Lei nº 411 de 29/09/1948",
+      "data": "1948-09-29",
+      "numero": "411",
+      "urn": "urn:lex:br:federal:lei:1948-09-29;411",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras a entidades   que especifica."
+    },
+    {
+      "senadoId": "541722",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-25-410",
+      "titulo": "Lei nº 410 de 25/09/1948",
+      "data": "1948-09-25",
+      "numero": "410",
+      "urn": "urn:lex:br:federal:lei:1948-09-25;410",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial, para indenização de despesas ao Dr. Mario Kroeff."
+    },
+    {
+      "senadoId": "541719",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-25-409",
+      "titulo": "Lei nº 409 de 25/09/1948",
+      "data": "1948-09-25",
+      "numero": "409",
+      "urn": "urn:lex:br:federal:lei:1948-09-25;409",
+      "ementa": "Cria os quadros do pessoal da Justiça do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "541715",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-24-407",
+      "titulo": "Lei nº 407 de 24/09/1948",
+      "data": "1948-09-24",
+      "numero": "407",
+      "urn": "urn:lex:br:federal:lei:1948-09-24;407",
+      "ementa": "Autoriza a abrir, pelo Ministério da Agricultura, o crédito especial de   Cr$ 2.967,70, para pagamento ao Professor João Cândido Ferreira   Filho."
+    },
+    {
+      "senadoId": "541709",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-24-404",
+      "titulo": "Lei nº 404 de 24/09/1948",
+      "data": "1948-09-24",
+      "numero": "404",
+      "urn": "urn:lex:br:federal:lei:1948-09-24;404",
+      "ementa": "Concede favores a companhias, empresas e cooperativas que se organizarem para a mecanização da lavoura."
+    },
+    {
+      "senadoId": "541707",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-24-403",
+      "titulo": "Lei nº 403 de 24/09/1948",
+      "data": "1948-09-24",
+      "numero": "403",
+      "urn": "urn:lex:br:federal:lei:1948-09-24;403",
+      "ementa": "Reestrutura os cargos de Tesoureiro do Serviço Público Federal e dá outras providências."
+    },
+    {
+      "senadoId": "541717",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-24-408",
+      "titulo": "Lei nº 408 de 24/09/1948",
+      "data": "1948-09-24",
+      "numero": "408",
+      "urn": "urn:lex:br:federal:lei:1948-09-24;408",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento de materiais   destinados à Estrada de Ferro Santos-Jundiaí."
+    },
+    {
+      "senadoId": "541711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-24-405",
+      "titulo": "Lei nº 405 de 24/09/1948",
+      "data": "1948-09-24",
+      "numero": "405",
+      "urn": "urn:lex:br:federal:lei:1948-09-24;405",
+      "ementa": "Extingue a Comissão Nacional Gasogênio."
+    },
+    {
+      "senadoId": "541713",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-24-406",
+      "titulo": "Lei nº 406 de 24/09/1948",
+      "data": "1948-09-24",
+      "numero": "406",
+      "urn": "urn:lex:br:federal:lei:1948-09-24;406",
+      "ementa": "Dispõe sôbre a escrituração fiscal de importação de papel."
+    },
+    {
+      "senadoId": "541702",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-23-401",
+      "titulo": "Lei nº 401 de 23/09/1948",
+      "data": "1948-09-23",
+      "numero": "401",
+      "urn": "urn:lex:br:federal:lei:1948-09-23;401",
+      "ementa": "Dispõe sobre a contagem de tempo de serviço prestado por oficiais praças   ou funcionários públicos à Expedição Roncador-Xingú."
+    },
+    {
+      "senadoId": "541704",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-23-402",
+      "titulo": "Lei nº 402 de 23/09/1948",
+      "data": "1948-09-23",
+      "numero": "402",
+      "urn": "urn:lex:br:federal:lei:1948-09-23;402",
+      "ementa": "Autoriza a abertura de crédito especial para o desenvolvimento econômico   da região do São Francisco."
+    },
+    {
+      "senadoId": "541699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-22-400",
+      "titulo": "Lei nº 400 de 22/09/1948",
+      "data": "1948-09-22",
+      "numero": "400",
+      "urn": "urn:lex:br:federal:lei:1948-09-22;400",
+      "ementa": "Autoriza a abertura, ao Congresso Nacional, de crédito suplementar para   ocorrer a despesas com subsídio, ajuda de custo, pessoal e   material."
+    },
+    {
+      "senadoId": "541691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-22-396",
+      "titulo": "Lei nº 396 de 22/09/1948",
+      "data": "1948-09-22",
+      "numero": "396",
+      "urn": "urn:lex:br:federal:lei:1948-09-22;396",
+      "ementa": "Torna extensivo aos oficiais dos serviços da Aeronáutica dispositivo da   lei de inatividade dos militares do Exército."
+    },
+    {
+      "senadoId": "541697",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-22-399",
+      "titulo": "Lei nº 399 de 22/09/1948",
+      "data": "1948-09-22",
+      "numero": "399",
+      "urn": "urn:lex:br:federal:lei:1948-09-22;399",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras para uma   imagem destinada ao Ginásio da Imaculada Conceição."
+    },
+    {
+      "senadoId": "541688",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-22-395",
+      "titulo": "Lei nº 395 de 22/09/1948",
+      "data": "1948-09-22",
+      "numero": "395",
+      "urn": "urn:lex:br:federal:lei:1948-09-22;395",
+      "ementa": "Autoriza, a abertura, ao Poder Judiciário, de crédito especial para   pagamento de gratificação de representação."
+    },
+    {
+      "senadoId": "541695",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-22-398",
+      "titulo": "Lei nº 398 de 22/09/1948",
+      "data": "1948-09-22",
+      "numero": "398",
+      "urn": "urn:lex:br:federal:lei:1948-09-22;398",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito   suplementar para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541693",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-22-397",
+      "titulo": "Lei nº 397 de 22/09/1948",
+      "data": "1948-09-22",
+      "numero": "397",
+      "urn": "urn:lex:br:federal:lei:1948-09-22;397",
+      "ementa": "Autoriza a abertura, pelo Ministério das Relações Exteriores, de crédito   especial para pagamento de despesas de pessoal, Material e Serviços e   Encargos."
+    },
+    {
+      "senadoId": "541681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-21-392",
+      "titulo": "Lei nº 392 de 21/09/1948",
+      "data": "1948-09-21",
+      "numero": "392",
+      "urn": "urn:lex:br:federal:lei:1948-09-21;392",
+      "ementa": "Autoriza a abertura pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 25.103,20, para pagamento de gratificação de   magistério."
+    },
+    {
+      "senadoId": "541683",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-21-393",
+      "titulo": "Lei nº 393 de 21/09/1948",
+      "data": "1948-09-21",
+      "numero": "393",
+      "urn": "urn:lex:br:federal:lei:1948-09-21;393",
+      "ementa": "Abre ao Poder Judiciário o crédito suplementar de Cr$ 780.000,00, para   pagamento de substituições na justiça do Trabalho ."
+    },
+    {
+      "senadoId": "541686",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-21-394",
+      "titulo": "Lei nº 394 de 21/09/1948",
+      "data": "1948-09-21",
+      "numero": "394",
+      "urn": "urn:lex:br:federal:lei:1948-09-21;394",
+      "ementa": "Isenta de Impostos de importação e demais taxas aduaneiras os produtos   anti-maláricos ."
+    },
+    {
+      "senadoId": "541676",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-20-390",
+      "titulo": "Lei nº 390 de 20/09/1948",
+      "data": "1948-09-20",
+      "numero": "390",
+      "urn": "urn:lex:br:federal:lei:1948-09-20;390",
+      "ementa": "Concede isenção de direitos de importação e demais taxas aduaneiras, para   lança-chamas encomendadas pela Secretaria da Agricultura, do Estado do Rio   Grande do Sul."
+    },
+    {
+      "senadoId": "541679",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-20-391",
+      "titulo": "Lei nº 391 de 20/09/1948",
+      "data": "1948-09-20",
+      "numero": "391",
+      "urn": "urn:lex:br:federal:lei:1948-09-20;391",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   pagamento de auxílio ao Touring Club do Brasil."
+    },
+    {
+      "senadoId": "541674",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-20-389",
+      "titulo": "Lei nº 389 de 20/09/1948",
+      "data": "1948-09-20",
+      "numero": "389",
+      "urn": "urn:lex:br:federal:lei:1948-09-20;389",
+      "ementa": "Concede direitos de importação e demais taxas aduaneiras para aeronaves   adquiridas pela \"S.A. Empresa de Viação Aérea Rio Grandense\"."
+    },
+    {
+      "senadoId": "541672",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-18-388",
+      "titulo": "Lei nº 388 de 18/09/1948",
+      "data": "1948-09-18",
+      "numero": "388",
+      "urn": "urn:lex:br:federal:lei:1948-09-18;388",
+      "ementa": "Dispõe sôbre a promoção dos Capitães dos Quadros dos Serviços das Forças Armadas."
+    },
+    {
+      "senadoId": "541663",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-17-384",
+      "titulo": "Lei nº 384 de 17/09/1948",
+      "data": "1948-09-17",
+      "numero": "384",
+      "urn": "urn:lex:br:federal:lei:1948-09-17;384",
+      "ementa": "Mantém, na cidade de Botucatu, no Estado de São Paulo, a Diretoria   Regional dos Correios e Telégrafos, e dá outras providências."
+    },
+    {
+      "senadoId": "541665",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-17-385",
+      "titulo": "Lei nº 385 de 17/09/1948",
+      "data": "1948-09-17",
+      "numero": "385",
+      "urn": "urn:lex:br:federal:lei:1948-09-17;385",
+      "ementa": "Retifica o Decreto-lei nº 9.548, de 5 de agosto de 1946, que alterou, com   redução de despesa, os Quadros Permanente e Suplementar do Ministério da   Marinha."
+    },
+    {
+      "senadoId": "541670",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-17-387",
+      "titulo": "Lei nº 387 de 17/09/1948",
+      "data": "1948-09-17",
+      "numero": "387",
+      "urn": "urn:lex:br:federal:lei:1948-09-17;387",
+      "ementa": "Autoriza a abertura, ao Poder Judiciário, de crédito especial para   pagamento de aluguel de prédio onde funciona o Tribunal Regional eleitoral de   Sergipe."
+    },
+    {
+      "senadoId": "541667",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-17-386",
+      "titulo": "Lei nº 386 de 17/09/1948",
+      "data": "1948-09-17",
+      "numero": "386",
+      "urn": "urn:lex:br:federal:lei:1948-09-17;386",
+      "ementa": "Autoriza a abertura, pelo Ministério da Marinha, de crédito especial para pagamento à   Construtora Melo Cunha S. A."
+    },
+    {
+      "senadoId": "541661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-16-383",
+      "titulo": "Lei nº 383 de 16/09/1948",
+      "data": "1948-09-16",
+      "numero": "383",
+      "urn": "urn:lex:br:federal:lei:1948-09-16;383",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de   crédito especial para pagamento de gratificação."
+    },
+    {
+      "senadoId": "541659",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-16-382",
+      "titulo": "Lei nº 382 de 16/09/1948",
+      "data": "1948-09-16",
+      "numero": "382",
+      "urn": "urn:lex:br:federal:lei:1948-09-16;382",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541656",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-14-381",
+      "titulo": "Lei nº 381 de 14/09/1948",
+      "data": "1948-09-14",
+      "numero": "381",
+      "urn": "urn:lex:br:federal:lei:1948-09-14;381",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, do crédito especial para pagamento de gratificações de magistério."
+    },
+    {
+      "senadoId": "541654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-380",
+      "titulo": "Lei nº 380 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "380",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;380",
+      "ementa": "Concede penção especial aos veteranos da Revolução Acreana."
+    },
+    {
+      "senadoId": "541652",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-379",
+      "titulo": "Lei nº 379 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "379",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;379",
+      "ementa": "Autoriza a abertura de créditos para o cumprimento do disposto no artigo   33 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "541635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-371",
+      "titulo": "Lei nº 371 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "371",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;371",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial de Cr$ 10.600,00 para atender a pagamento de gratificação de magistério   a Vicente Grassani."
+    },
+    {
+      "senadoId": "541648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-377",
+      "titulo": "Lei nº 377 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "377",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;377",
+      "ementa": "Autoriza a abertura, pelo Poder Judiciário, do crédito especial de Cr$   139.300,00, para ocorrer ao pagamento de despesas de pessoal e aluguel de casa,   em 1947."
+    },
+    {
+      "senadoId": "541633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-370",
+      "titulo": "Lei nº 370 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "370",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;370",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 7.200,00, para atender a pagamento de gratificação de   magistério, do professor Djalma da Fonseca Neiva."
+    },
+    {
+      "senadoId": "541639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-373",
+      "titulo": "Lei nº 373 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "373",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;373",
+      "ementa": "Autoriza a abertura pelo Ministério da Justiça e Negócios Interiores, do   crédito especial de Cr$ 1.000.000,00 para pagamento de salários do pessoal   extranumerário contestado do Território do Acre."
+    },
+    {
+      "senadoId": "541643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-375",
+      "titulo": "Lei nº 375 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "375",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;375",
+      "ementa": "Abre, pelo Ministério da Fazenda, o crédito especial de Cr$ 33.817,20,   para ocorrer a pagamento de diferença de proventos de aposentadoria de contínuo,   aposentado da Secretaria da Câmara dos Deputados."
+    },
+    {
+      "senadoId": "541650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-378",
+      "titulo": "Lei nº 378 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "378",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;378",
+      "ementa": "Extingue e cria funções gratificadas, no Departamento Nacional de Portos,   Rios e Canais."
+    },
+    {
+      "senadoId": "541641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-374",
+      "titulo": "Lei nº 374 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "374",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;374",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, do   crédito especial de Cr$ 88.800,00, para pagamento de vencimentos atrasados a   ex-servidores do extinto Território Federal de Ponta Porã."
+    },
+    {
+      "senadoId": "541637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-372",
+      "titulo": "Lei nº 372 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "372",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;372",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 12.798,40, para o fim que especifica."
+    },
+    {
+      "senadoId": "541646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-10-376",
+      "titulo": "Lei nº 376 de 10/09/1948",
+      "data": "1948-09-10",
+      "numero": "376",
+      "urn": "urn:lex:br:federal:lei:1948-09-10;376",
+      "ementa": "Autoriza a abertura, de crédito especial para pagamento de juros de   apólices da Dívida pública."
+    },
+    {
+      "senadoId": "541625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-09-367",
+      "titulo": "Lei nº 367 de 09/09/1948",
+      "data": "1948-09-09",
+      "numero": "367",
+      "urn": "urn:lex:br:federal:lei:1948-09-09;367",
+      "ementa": "Autoriza as abertura, pelo Ministério da Aeronáutica, do crédito especial de Cr$ 1.000.000,00 (um   milhão de cruzeiros), para despesas com a instalação e realização da Reunião   Regional da Navegação Aérea do Atlântico Sul."
+    },
+    {
+      "senadoId": "541627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-09-368",
+      "titulo": "Lei nº 368 de 09/09/1948",
+      "data": "1948-09-09",
+      "numero": "368",
+      "urn": "urn:lex:br:federal:lei:1948-09-09;368",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 600.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "541630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-09-369",
+      "titulo": "Lei nº 369 de 09/09/1948",
+      "data": "1948-09-09",
+      "numero": "369",
+      "urn": "urn:lex:br:federal:lei:1948-09-09;369",
+      "ementa": "Autoriza a abertura pelo Ministério da Justiça e Negócios Interiores, do crédito especial de Cr$ 25.000,00   (vinte e cinco mil cruzeiros), para despesas com realização da 3ª Conferência   Penitenciária Brasileira."
+    },
+    {
+      "senadoId": "541623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-09-366",
+      "titulo": "Lei nº 366 de 09/09/1948",
+      "data": "1948-09-09",
+      "numero": "366",
+      "urn": "urn:lex:br:federal:lei:1948-09-09;366",
+      "ementa": "Autoriza a abertura, pelo Ministério da Aeronáutica, do crédito especial   de Cr$ 6.000.000,00, para pagamento de despesas em 1947, com   pessoal."
+    },
+    {
+      "senadoId": "541631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-09-369-a",
+      "titulo": "Lei nº 369-A de 09/09/1948",
+      "data": "1948-09-09",
+      "numero": "369-a",
+      "urn": "urn:lex:br:federal:lei:1948-09-09;369-a",
+      "ementa": "Aplica ao Decreto-lei nº 8.922, de 26 de janeiro de 1946, aos atuais   instrutores das disciplinas dos ensinos fundamental e complementar das Escolas   de Aeronáutica e Naval ."
+    },
+    {
+      "senadoId": "541619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-08-364",
+      "titulo": "Lei nº 364 de 08/09/1948",
+      "data": "1948-09-08",
+      "numero": "364",
+      "urn": "urn:lex:br:federal:lei:1948-09-08;364",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, de   crédito especial para pagamento de gratificação."
+    },
+    {
+      "senadoId": "541617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-08-363",
+      "titulo": "Lei nº 363 de 08/09/1948",
+      "data": "1948-09-08",
+      "numero": "363",
+      "urn": "urn:lex:br:federal:lei:1948-09-08;363",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para atender às despesas decorrentes do socorro prestado à população de   Trinidad, na Bolívia."
+    },
+    {
+      "senadoId": "541621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-08-365",
+      "titulo": "Lei nº 365 de 08/09/1948",
+      "data": "1948-09-08",
+      "numero": "365",
+      "urn": "urn:lex:br:federal:lei:1948-09-08;365",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   pagamento de dívidas relacionadas."
+    },
+    {
+      "senadoId": "541615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-08-362",
+      "titulo": "Lei nº 362 de 08/09/1948",
+      "data": "1948-09-08",
+      "numero": "362",
+      "urn": "urn:lex:br:federal:lei:1948-09-08;362",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para atender às despesas com o combate ao gafanhoto, no sul do   país."
+    },
+    {
+      "senadoId": "541613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-02-361",
+      "titulo": "Lei nº 361 de 02/09/1948",
+      "data": "1948-09-02",
+      "numero": "361",
+      "urn": "urn:lex:br:federal:lei:1948-09-02;361",
+      "ementa": "Autoriza a doação ao Município de Tupanciretã, do Estado do Rio Grande do   Sul, de duas faixas de terrenos, de propriedade da Viação Férrea do Rio Grande   do Sul."
+    },
+    {
+      "senadoId": "541611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-01-360",
+      "titulo": "Lei nº 360 de 01/09/1948",
+      "data": "1948-09-01",
+      "numero": "360",
+      "urn": "urn:lex:br:federal:lei:1948-09-01;360",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-09-01-359",
+      "titulo": "Lei nº 359 de 01/09/1948",
+      "data": "1948-09-01",
+      "numero": "359",
+      "urn": "urn:lex:br:federal:lei:1948-09-01;359",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   pagamento à Caixa Econômica Federal do Paraná."
+    },
+    {
+      "senadoId": "541605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-31-358",
+      "titulo": "Lei nº 358 de 31/08/1948",
+      "data": "1948-08-31",
+      "numero": "358",
+      "urn": "urn:lex:br:federal:lei:1948-08-31;358",
+      "ementa": "Autoriza o Poder Executivo a abrir, à Presidência da República crédito   especial para aquisição de insígnias da Ordem Nacional do Mérito."
+    },
+    {
+      "senadoId": "541603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-31-357",
+      "titulo": "Lei nº 357 de 31/08/1948",
+      "data": "1948-08-31",
+      "numero": "357",
+      "urn": "urn:lex:br:federal:lei:1948-08-31;357",
+      "ementa": "Autoriza a abertura pelo Ministério da Justiça e Negócios Interiores, de   crédito especial para comprar munição destinada à Polícia Militar do Distrito   Federal."
+    },
+    {
+      "senadoId": "541601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-30-356",
+      "titulo": "Lei nº 356 de 30/08/1948",
+      "data": "1948-08-30",
+      "numero": "356",
+      "urn": "urn:lex:br:federal:lei:1948-08-30;356",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-30-355",
+      "titulo": "Lei nº 355 de 30/08/1948",
+      "data": "1948-08-30",
+      "numero": "355",
+      "urn": "urn:lex:br:federal:lei:1948-08-30;355",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para pagamento de gratificação de magistério e de salário-família, devidos no   exercício de 1947."
+    },
+    {
+      "senadoId": "541595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-28-353",
+      "titulo": "Lei nº 353 de 28/08/1948",
+      "data": "1948-08-28",
+      "numero": "353",
+      "urn": "urn:lex:br:federal:lei:1948-08-28;353",
+      "ementa": "Abre, pelo Ministério da Guerra, crédito especial para atender às despesas   de contratos com técnicos selecionados."
+    },
+    {
+      "senadoId": "541597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-28-354",
+      "titulo": "Lei nº 354 de 28/08/1948",
+      "data": "1948-08-28",
+      "numero": "354",
+      "urn": "urn:lex:br:federal:lei:1948-08-28;354",
+      "ementa": "Substitui as tabelas anexas ao Decreto-lei número 9.548, de 5 de agosto de 1946, que reestruturou os Quadros Permanente e Suplementar do Ministério da Marinha."
+    },
+    {
+      "senadoId": "541593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-27-352",
+      "titulo": "Lei nº 352 de 27/08/1948",
+      "data": "1948-08-27",
+      "numero": "352",
+      "urn": "urn:lex:br:federal:lei:1948-08-27;352",
+      "ementa": "Dispõe sôbre as comemorações das batalhas dos Guararapes e dá outras   providências."
+    },
+    {
+      "senadoId": "541588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-27-350",
+      "titulo": "Lei nº 350 de 27/08/1948",
+      "data": "1948-08-27",
+      "numero": "350",
+      "urn": "urn:lex:br:federal:lei:1948-08-27;350",
+      "ementa": "Concede isenção da taxa criada pelo Decreto-lei nº 8.311, de 6 de dezembro   de 1945, para o arroz adquirido pelos Governos dos Estados Unidos da América e   da Inglaterra, como excesso exportável da produção brasileira."
+    },
+    {
+      "senadoId": "541590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-27-351",
+      "titulo": "Lei nº 351 de 27/08/1948",
+      "data": "1948-08-27",
+      "numero": "351",
+      "urn": "urn:lex:br:federal:lei:1948-08-27;351",
+      "ementa": "Altera os artigos 1º e 2º do Decreto-lei nº 9.763, de 6 de setembro de   1946."
+    },
+    {
+      "senadoId": "541577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-26-346",
+      "titulo": "Lei nº 346 de 26/08/1948",
+      "data": "1948-08-26",
+      "numero": "346",
+      "urn": "urn:lex:br:federal:lei:1948-08-26;346",
+      "ementa": "Cria funções gratificadas no quadro Permanente do Ministério da Justiça e   Negócios Interiores e dá outras providências."
+    },
+    {
+      "senadoId": "541584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-26-349",
+      "titulo": "Lei nº 349 de 26/08/1948",
+      "data": "1948-08-26",
+      "numero": "349",
+      "urn": "urn:lex:br:federal:lei:1948-08-26;349",
+      "ementa": "Extingue a Agência da Capitania dos Portos do Distrito Federal e Estado do   Rio de Janeiro."
+    },
+    {
+      "senadoId": "541580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-26-347",
+      "titulo": "Lei nº 347 de 26/08/1948",
+      "data": "1948-08-26",
+      "numero": "347",
+      "urn": "urn:lex:br:federal:lei:1948-08-26;347",
+      "ementa": "Autoriza a abertura, pelo Ministério das Relações Exteriores, de crédito especial para pagamento de diferença de vencimentos a funcionários do mesmo Ministério."
+    },
+    {
+      "senadoId": "541582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-26-348",
+      "titulo": "Lei nº 348 de 26/08/1948",
+      "data": "1948-08-26",
+      "numero": "348",
+      "urn": "urn:lex:br:federal:lei:1948-08-26;348",
+      "ementa": "Revoga o Decreto-lei nº 9.176, de 15 de abril de 1946."
+    },
+    {
+      "senadoId": "541565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-25-341",
+      "titulo": "Lei nº 341 de 25/08/1948",
+      "data": "1948-08-25",
+      "numero": "341",
+      "urn": "urn:lex:br:federal:lei:1948-08-25;341",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, do crédito   especial de Cr$ 200.000,00 para auxílio à comemoração do 3º Centenário da cidade   de Paranaguá, no estado do Paraná."
+    },
+    {
+      "senadoId": "541573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-25-344",
+      "titulo": "Lei nº 344 de 25/08/1948",
+      "data": "1948-08-25",
+      "numero": "344",
+      "urn": "urn:lex:br:federal:lei:1948-08-25;344",
+      "ementa": "Abre ao Poder Judiciário crédito especial para pagamento de vencimentos do   Tribunal Regional Eleitoral do Ceará."
+    },
+    {
+      "senadoId": "541571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-25-343",
+      "titulo": "Lei nº 343 de 25/08/1948",
+      "data": "1948-08-25",
+      "numero": "343",
+      "urn": "urn:lex:br:federal:lei:1948-08-25;343",
+      "ementa": "Isenta de impostos um órgão italiano, destinado ao Colégio Santa   Marcelina, na Capital de São Paulo."
+    },
+    {
+      "senadoId": "541575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-25-345",
+      "titulo": "Lei nº 345 de 25/08/1948",
+      "data": "1948-08-25",
+      "numero": "345",
+      "urn": "urn:lex:br:federal:lei:1948-08-25;345",
+      "ementa": "Autoriza a abertura, pelo Ministério da Marinha, de crédito especial para   pagamento de despesas de Pessoal e Material, relativas a 1947."
+    },
+    {
+      "senadoId": "541569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-25-342",
+      "titulo": "Lei nº 342 de 25/08/1948",
+      "data": "1948-08-25",
+      "numero": "342",
+      "urn": "urn:lex:br:federal:lei:1948-08-25;342",
+      "ementa": "Autoriza a abertura, pelo Congresso Nacional - Senado Federal - de crédito   especial para pagamento de despesas relativas ao ano de 1947."
+    },
+    {
+      "senadoId": "541562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-20-340",
+      "titulo": "Lei nº 340 de 20/08/1948",
+      "data": "1948-08-20",
+      "numero": "340",
+      "urn": "urn:lex:br:federal:lei:1948-08-20;340",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, do crédito especial   para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-19-338",
+      "titulo": "Lei nº 338 de 19/08/1948",
+      "data": "1948-08-19",
+      "numero": "338",
+      "urn": "urn:lex:br:federal:lei:1948-08-19;338",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de gratificação de magistério a Francisco Eduardo Acioli   Rabelo."
+    },
+    {
+      "senadoId": "541560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-19-339",
+      "titulo": "Lei nº 339 de 19/08/1948",
+      "data": "1948-08-19",
+      "numero": "339",
+      "urn": "urn:lex:br:federal:lei:1948-08-19;339",
+      "ementa": "Autoriza a abertura, pelo Ministério da Guerra, de crédito especial para   atender a despesas com a lei do serviço militar, efetuadas em   1947."
+    },
+    {
+      "senadoId": "541554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-17-336",
+      "titulo": "Lei nº 336 de 17/08/1948",
+      "data": "1948-08-17",
+      "numero": "336",
+      "urn": "urn:lex:br:federal:lei:1948-08-17;336",
+      "ementa": "Abre, ao Congresso Nacional, o crédito suplementar de Cr$ 5.745.600,00,   para ocorrer ao pagamento de subsídios e substituições."
+    },
+    {
+      "senadoId": "541556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-17-337",
+      "titulo": "Lei nº 337 de 17/08/1948",
+      "data": "1948-08-17",
+      "numero": "337",
+      "urn": "urn:lex:br:federal:lei:1948-08-17;337",
+      "ementa": "Isento de direitos de importação e demais taxas aduaneiras três imagens de   santos."
+    },
+    {
+      "senadoId": "541541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-329",
+      "titulo": "Lei nº 329 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "329",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;329",
+      "ementa": "Dispõe sôbre gratificação de magistério."
+    },
+    {
+      "senadoId": "541552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-335",
+      "titulo": "Lei nº 335 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "335",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;335",
+      "ementa": "Concede isenção de direitos de importação e demais taxas aduaneiras para   cinco mil sacas de farinha de trigo, adquiridas pelo Departamento de Lepra, do   Estado de São Paulo."
+    },
+    {
+      "senadoId": "541539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-328",
+      "titulo": "Lei nº 328 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "328",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;328",
+      "ementa": "Autoriza a abertura, pelo Ministério das Relações Exteriores, de crédito especial para pagamento de contribuições ao Conselho Internacional do Trigo."
+    },
+    {
+      "senadoId": "541535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-326",
+      "titulo": "Lei nº 326 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "326",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;326",
+      "ementa": "Autoriza o Poder executivo a dar execução ao Plano de ligação   ferro-rodo-fluvial entre as cidades de Anápolis, em Goiás, e Belém, no   Pará."
+    },
+    {
+      "senadoId": "541537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-327",
+      "titulo": "Lei nº 327 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "327",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;327",
+      "ementa": "Autoriza a construção de estação de passageiros do aeroporto de   Recife."
+    },
+    {
+      "senadoId": "541547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-332",
+      "titulo": "Lei nº 332 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "332",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;332",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de   crédito suplementar à verba que especifica."
+    },
+    {
+      "senadoId": "541543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-330",
+      "titulo": "Lei nº 330 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "330",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;330",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de despesas de pessoal em 1947."
+    },
+    {
+      "senadoId": "541549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-333",
+      "titulo": "Lei nº 333 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "333",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;333",
+      "ementa": "Autoriza a abertura, pelo Ministério do Trabalho, Indústria e Comércio, de   crédito especial para ocorrer a despesas com o pagamento do abono   família."
+    },
+    {
+      "senadoId": "541551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-334",
+      "titulo": "Lei nº 334 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "334",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;334",
+      "ementa": "Concede isenção de direitos de importação e demais taxas aduaneiras,   inclusive impôsto de consumo, para material adquirido para o Estado de São   Paulo."
+    },
+    {
+      "senadoId": "541545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-13-331",
+      "titulo": "Lei nº 331 de 13/08/1948",
+      "data": "1948-08-13",
+      "numero": "331",
+      "urn": "urn:lex:br:federal:lei:1948-08-13;331",
+      "ementa": "Releva a prescrição em que incorreu o direito de João Pinto de Almeida,   ex-praça do Corpo de Bombeiros do Distrito Federal."
+    },
+    {
+      "senadoId": "541531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-11-324",
+      "titulo": "Lei nº 324 de 11/08/1948",
+      "data": "1948-08-11",
+      "numero": "324",
+      "urn": "urn:lex:br:federal:lei:1948-08-11;324",
+      "ementa": "Organiza o quadro da Secretaria e Serviços Auxiliares do Superior Tribunal Militar e dá outras providências."
+    },
+    {
+      "senadoId": "541533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-11-325",
+      "titulo": "Lei nº 325 de 11/08/1948",
+      "data": "1948-08-11",
+      "numero": "325",
+      "urn": "urn:lex:br:federal:lei:1948-08-11;325",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de crédito especial para pagamento de gratificação a pessoal da Imprensa Nacional."
+    },
+    {
+      "senadoId": "541529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-11-323",
+      "titulo": "Lei nº 323 de 11/08/1948",
+      "data": "1948-08-11",
+      "numero": "323",
+      "urn": "urn:lex:br:federal:lei:1948-08-11;323",
+      "ementa": "Acrescenta um parágrafo ao artigo 5º do Decreto-lei nº 8.818, de 1946."
+    },
+    {
+      "senadoId": "541527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-09-322",
+      "titulo": "Lei nº 322 de 09/08/1948",
+      "data": "1948-08-09",
+      "numero": "322",
+      "urn": "urn:lex:br:federal:lei:1948-08-09;322",
+      "ementa": "Releva de prescrição a dívida passiva da União para com Augusto Sérgio   Botelho e dá outras providências."
+    },
+    {
+      "senadoId": "541522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-09-320",
+      "titulo": "Lei nº 320 de 09/08/1948",
+      "data": "1948-08-09",
+      "numero": "320",
+      "urn": "urn:lex:br:federal:lei:1948-08-09;320",
+      "ementa": "Dispõe sôbre gratificação de magistério."
+    },
+    {
+      "senadoId": "541524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-09-321",
+      "titulo": "Lei nº 321 de 09/08/1948",
+      "data": "1948-08-09",
+      "numero": "321",
+      "urn": "urn:lex:br:federal:lei:1948-08-09;321",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para contribuição do Governo à representação do Brasil na Olimpíada de   Londres."
+    },
+    {
+      "senadoId": "541520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-06-319",
+      "titulo": "Lei nº 319 de 06/08/1948",
+      "data": "1948-08-06",
+      "numero": "319",
+      "urn": "urn:lex:br:federal:lei:1948-08-06;319",
+      "ementa": "Altera o Decreto-Lei nº 9.869, de 1946, que determinou a encampação da The   São Paulo Railway Company Limited."
+    },
+    {
+      "senadoId": "541518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-06-318",
+      "titulo": "Lei nº 318 de 06/08/1948",
+      "data": "1948-08-06",
+      "numero": "318",
+      "urn": "urn:lex:br:federal:lei:1948-08-06;318",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento de diferença de gratificação de magistério ao professor   catedrático Clovis do Rêgo Monteiro."
+    },
+    {
+      "senadoId": "541516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-08-06-317",
+      "titulo": "Lei nº 317 de 06/08/1948",
+      "data": "1948-08-06",
+      "numero": "317",
+      "urn": "urn:lex:br:federal:lei:1948-08-06;317",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de   crédito especial para pagamento a ex-servidores do extinto Território Federal de   Iguaçú."
+    },
+    {
+      "senadoId": "541509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-31-314",
+      "titulo": "Lei nº 314 de 31/07/1948",
+      "data": "1948-07-31",
+      "numero": "314",
+      "urn": "urn:lex:br:federal:lei:1948-07-31;314",
+      "ementa": "Autoriza a promover, pelos meios regulares, a encampação da Estrada de   Ferro de Ilhéus a Conquista, no Estado da Bahia, explorada mediante concessão   por \"The State Bahia South Western Railway Co.\"."
+    },
+    {
+      "senadoId": "541513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-31-316",
+      "titulo": "Lei nº 316 de 31/07/1948",
+      "data": "1948-07-31",
+      "numero": "316",
+      "urn": "urn:lex:br:federal:lei:1948-07-31;316",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, de   crédito especial destinado ao desenvolvimento econômico dos Estados do Maranhão,   Piauí, Ceará, Rio Grande do Norte, Paraíba, Sergipe, Alagoas, Espírito Santo,   Goiás e Mato Grosso."
+    },
+    {
+      "senadoId": "541511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-31-315",
+      "titulo": "Lei nº 315 de 31/07/1948",
+      "data": "1948-07-31",
+      "numero": "315",
+      "urn": "urn:lex:br:federal:lei:1948-07-31;315",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de   crédito especial para atender a despesas relativas ao exercício de   1947."
+    },
+    {
+      "senadoId": "541506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-30-313",
+      "titulo": "Lei nº 313 de 30/07/1948",
+      "data": "1948-07-30",
+      "numero": "313",
+      "urn": "urn:lex:br:federal:lei:1948-07-30;313",
+      "ementa": "Autoriza o Poder Executivo a Aplicar, provisóriamente, o Acôrdo Geral sôbre Tarifas Aduaneiras e Comércio; reajusta a Tarifa das Alfândegas, e dá outras providências."
+    },
+    {
+      "senadoId": "541504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-27-312",
+      "titulo": "Lei nº 312 de 27/07/1948",
+      "data": "1948-07-27",
+      "numero": "312",
+      "urn": "urn:lex:br:federal:lei:1948-07-27;312",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, de   crédito especial para completar o pagamento de locomotivas elétricas, destinadas   à Viação Férrea Federal Leste Brasileiro."
+    },
+    {
+      "senadoId": "541502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-26-311",
+      "titulo": "Lei nº 311 de 26/07/1948",
+      "data": "1948-07-26",
+      "numero": "311",
+      "urn": "urn:lex:br:federal:lei:1948-07-26;311",
+      "ementa": "Concede auxílio à Sociedade de Beneficência Corumbaense, sediada em   Corumbá, Estado de Mato Grosso."
+    },
+    {
+      "senadoId": "541500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-26-310",
+      "titulo": "Lei nº 310 de 26/07/1948",
+      "data": "1948-07-26",
+      "numero": "310",
+      "urn": "urn:lex:br:federal:lei:1948-07-26;310",
+      "ementa": "Suprime função gratificada no Quadro Permanente do Ministério da   Agricultura."
+    },
+    {
+      "senadoId": "541495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-25-308",
+      "titulo": "Lei nº 308 de 25/07/1948",
+      "data": "1948-07-25",
+      "numero": "308",
+      "urn": "urn:lex:br:federal:lei:1948-07-25;308",
+      "ementa": "Abre, pelo Ministério da Justiça e Negócios Interiores, crédito especial   para pagamento de diferença de estipêndios a ex-servidores da Imprensa   Nacional."
+    },
+    {
+      "senadoId": "541497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-25-309",
+      "titulo": "Lei nº 309 de 25/07/1948",
+      "data": "1948-07-25",
+      "numero": "309",
+      "urn": "urn:lex:br:federal:lei:1948-07-25;309",
+      "ementa": "Concede auxílio à Federação das Sociedades de Assistência aos Lázaros e   Defesa Contra a Lepra."
+    },
+    {
+      "senadoId": "541493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-24-307",
+      "titulo": "Lei nº 307 de 24/07/1948",
+      "data": "1948-07-24",
+      "numero": "307",
+      "urn": "urn:lex:br:federal:lei:1948-07-24;307",
+      "ementa": "Concede isenção de direitos de importação e demais taxas aduaneiras para   material e objetos usados destinados às Missões Amazônicas, dirigidas pelos   Padres Redentoristas."
+    },
+    {
+      "senadoId": "541491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-24-306",
+      "titulo": "Lei nº 306 de 24/07/1948",
+      "data": "1948-07-24",
+      "numero": "306",
+      "urn": "urn:lex:br:federal:lei:1948-07-24;306",
+      "ementa": "Autoriza a abertura de crédito especial para atender a pagamento de   gratificação de magistério ao Professor Catedrático João de Saboia   Barbosa."
+    },
+    {
+      "senadoId": "541489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-18-305",
+      "titulo": "Lei nº 305 de 18/07/1948",
+      "data": "1948-07-18",
+      "numero": "305",
+      "urn": "urn:lex:br:federal:lei:1948-07-18;305",
+      "ementa": "Regula a aplicação do art. 15, § 4º da Constituição Federal."
+    },
+    {
+      "senadoId": "541487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-18-304",
+      "titulo": "Lei nº 304 de 18/07/1948",
+      "data": "1948-07-18",
+      "numero": "304",
+      "urn": "urn:lex:br:federal:lei:1948-07-18;304",
+      "ementa": "Torna sem efeito a desapropriação de que trata o Decreto-lei nº 8.796, de 23 de janeiro de 1946."
+    },
+    {
+      "senadoId": "541484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-16-303",
+      "titulo": "Lei nº 303 de 16/07/1948",
+      "data": "1948-07-16",
+      "numero": "303",
+      "urn": "urn:lex:br:federal:lei:1948-07-16;303",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para auxílio à Faculdade de Medicina de Porto Alegre."
+    },
+    {
+      "senadoId": "541482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-13-302",
+      "titulo": "Lei nº 302 de 13/07/1948",
+      "data": "1948-07-13",
+      "numero": "302",
+      "urn": "urn:lex:br:federal:lei:1948-07-13;302",
+      "ementa": "Estabelece normas para execução do 2º § do artigo 15 da Constituição Federal, na parte referente à tributação de lubrificantes e combustíveis líquidos."
+    },
+    {
+      "senadoId": "541480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-13-301",
+      "titulo": "Lei nº 301 de 13/07/1948",
+      "data": "1948-07-13",
+      "numero": "301",
+      "urn": "urn:lex:br:federal:lei:1948-07-13;301",
+      "ementa": "Dispõe sôbre matrícula nas escolas primárias para os filhos de artistas de circo."
+    },
+    {
+      "senadoId": "541478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-12-300",
+      "titulo": "Lei nº 300 de 12/07/1948",
+      "data": "1948-07-12",
+      "numero": "300",
+      "urn": "urn:lex:br:federal:lei:1948-07-12;300",
+      "ementa": "Doa terreno ao Paulistano Esporte Clube da cidade de Campina Grande, do   Estado da Paraíba."
+    },
+    {
+      "senadoId": "541476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-05-299",
+      "titulo": "Lei nº 299 de 05/07/1948",
+      "data": "1948-07-05",
+      "numero": "299",
+      "urn": "urn:lex:br:federal:lei:1948-07-05;299",
+      "ementa": "Dá nova redação à letra \"e \" das isenções constantes da alínea I,   aparelhos, máquinas e artefatos de metal, Tabela A, do Decreto-lei nº 7.404 de   1945."
+    },
+    {
+      "senadoId": "541472",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-05-297",
+      "titulo": "Lei nº 297 de 05/07/1948",
+      "data": "1948-07-05",
+      "numero": "297",
+      "urn": "urn:lex:br:federal:lei:1948-07-05;297",
+      "ementa": "Autoriza a reconstrução de açudes particulares destruídos ou danificados   em consequência das enchentes de cursos dágua do Nordeste."
+    },
+    {
+      "senadoId": "541474",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-07-05-298",
+      "titulo": "Lei nº 298 de 05/07/1948",
+      "data": "1948-07-05",
+      "numero": "298",
+      "urn": "urn:lex:br:federal:lei:1948-07-05;298",
+      "ementa": "Concede isenção de direitos de importação e demais taxas aduaneiras para   material importado pela Companhia Nacional de Navegação - Organização Henrique   Lage."
+    },
+    {
+      "senadoId": "541470",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-30-296",
+      "titulo": "Lei nº 296 de 30/06/1948",
+      "data": "1948-06-30",
+      "numero": "296",
+      "urn": "urn:lex:br:federal:lei:1948-06-30;296",
+      "ementa": "Cria uma coletoria federal no Município de Ingá, Estado da Paraiba, e dá   outras providências."
+    },
+    {
+      "senadoId": "541468",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-29-295",
+      "titulo": "Lei nº 295 de 29/06/1948",
+      "data": "1948-06-29",
+      "numero": "295",
+      "urn": "urn:lex:br:federal:lei:1948-06-29;295",
+      "ementa": "Estende aos civis integrantes da Comissão Demarcadora de Limites, as   vantagens do Artigo 23 do Ato das Disposições Constitucionais   Transitóriais."
+    },
+    {
+      "senadoId": "541466",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-29-294",
+      "titulo": "Lei nº 294 de 29/06/1948",
+      "data": "1948-06-29",
+      "numero": "294",
+      "urn": "urn:lex:br:federal:lei:1948-06-29;294",
+      "ementa": "Autoriza a abertura de crédito especial para pagamento aos construtores da   estrada de ferro Corumbá Santa Cruz de La Sierra."
+    },
+    {
+      "senadoId": "541465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-26-293",
+      "titulo": "Lei nº 293 de 26/06/1948",
+      "data": "1948-06-26",
+      "numero": "293",
+      "urn": "urn:lex:br:federal:lei:1948-06-26;293",
+      "ementa": "Dispõe sôbre antiguidades de promoção de oficiais da Fôrça Aérea   Brasileira."
+    },
+    {
+      "senadoId": "541463",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-22-292",
+      "titulo": "Lei nº 292 de 22/06/1948",
+      "data": "1948-06-22",
+      "numero": "292",
+      "urn": "urn:lex:br:federal:lei:1948-06-22;292",
+      "ementa": "Autoriza a abertura pelo Ministério das Relações Exteriores, de crédito especial para ocorrer às despesas com a imigração intensiva."
+    },
+    {
+      "senadoId": "541461",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-22-291",
+      "titulo": "Lei nº 291 de 22/06/1948",
+      "data": "1948-06-22",
+      "numero": "291",
+      "urn": "urn:lex:br:federal:lei:1948-06-22;291",
+      "ementa": "Dispõe sôbre a abertura de contas bancárias de súditos do   Eixo."
+    },
+    {
+      "senadoId": "541459",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-15-290",
+      "titulo": "Lei nº 290 de 15/06/1948",
+      "data": "1948-06-15",
+      "numero": "290",
+      "urn": "urn:lex:br:federal:lei:1948-06-15;290",
+      "ementa": "Transfere ao patrimônio do Estado de Santa Catarina, por doação, 6.444   ações da Empresa Sul Brasileira de Eletricidade S.A., do valor nominal de Cr$   1.000,00 cada uma."
+    },
+    {
+      "senadoId": "541457",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-10-289",
+      "titulo": "Lei nº 289 de 10/06/1948",
+      "data": "1948-06-10",
+      "numero": "289",
+      "urn": "urn:lex:br:federal:lei:1948-06-10;289",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, crédito especial para custear   as despesas de viagem e tratamentos, nos Estados Unidos da América do Norte, do   Professor João Bruno Alípio Lôbo."
+    },
+    {
+      "senadoId": "541455",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-08-288",
+      "titulo": "Lei nº 288 de 08/06/1948",
+      "data": "1948-06-08",
+      "numero": "288",
+      "urn": "urn:lex:br:federal:lei:1948-06-08;288",
+      "ementa": "Concede vantagens a militares e civis que participaram de operações de guerra."
+    },
+    {
+      "senadoId": "541453",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-08-287",
+      "titulo": "Lei nº 287 de 08/06/1948",
+      "data": "1948-06-08",
+      "numero": "287",
+      "urn": "urn:lex:br:federal:lei:1948-06-08;287",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negocios Interiores, de   crédito especial para atender a despesas de pessoal do Corpo de Bombeiros do   Distrito Federal."
+    },
+    {
+      "senadoId": "541451",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-05-286",
+      "titulo": "Lei nº 286 de 05/06/1948",
+      "data": "1948-06-05",
+      "numero": "286",
+      "urn": "urn:lex:br:federal:lei:1948-06-05;286",
+      "ementa": "Concede as honras do pôsto de Contra-Almirante ao Capitão do Mar e Guerra   Álvaro Alberto da Mota e Silva."
+    },
+    {
+      "senadoId": "541449",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-06-05-285",
+      "titulo": "Lei nº 285 de 05/06/1948",
+      "data": "1948-06-05",
+      "numero": "285",
+      "urn": "urn:lex:br:federal:lei:1948-06-05;285",
+      "ementa": "Modifica a redação do art, 1º do Decreto nº 5.481, de 25 de Junho de 1928, e revoga o Decreto-lei nº 5.234, de 8 de Fevereiro de 1943."
+    },
+    {
+      "senadoId": "541446",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-27-284",
+      "titulo": "Lei nº 284 de 27/05/1948",
+      "data": "1948-05-27",
+      "numero": "284",
+      "urn": "urn:lex:br:federal:lei:1948-05-27;284",
+      "ementa": "Autoriza a abertura do crédito especial de Cr$ 50.469.500,00, para   aquisição de unidades destinadas ao Serviço de Navegação da Bacia do   Prata."
+    },
+    {
+      "senadoId": "541437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-24-281",
+      "titulo": "Lei nº 281 de 24/05/1948",
+      "data": "1948-05-24",
+      "numero": "281",
+      "urn": "urn:lex:br:federal:lei:1948-05-24;281",
+      "ementa": "Isenta de taxas telegráficas e postais a correpondência do Decano do Corpo   Diplomático."
+    },
+    {
+      "senadoId": "541441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-24-282",
+      "titulo": "Lei nº 282 de 24/05/1948",
+      "data": "1948-05-24",
+      "numero": "282",
+      "urn": "urn:lex:br:federal:lei:1948-05-24;282",
+      "ementa": "Reorganiza o Departamento Nacional da Criança, do Ministério da Educação e   Saúde."
+    },
+    {
+      "senadoId": "541434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-24-280",
+      "titulo": "Lei nº 280 de 24/05/1948",
+      "data": "1948-05-24",
+      "numero": "280",
+      "urn": "urn:lex:br:federal:lei:1948-05-24;280",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, crédito   especial para atender ao primeiro e segundo pagamentos dos atos firmados entre o   governo do Brasil e dos Estados Unidos da América do Norte, relativos à   aquisição de bens exedentes de guerra."
+    },
+    {
+      "senadoId": "541443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-24-283",
+      "titulo": "Lei nº 283 de 24/05/1948",
+      "data": "1948-05-24",
+      "numero": "283",
+      "urn": "urn:lex:br:federal:lei:1948-05-24;283",
+      "ementa": "Assegura licença especial aos funcionários públicos, civis e militares ."
+    },
+    {
+      "senadoId": "541430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-15-278",
+      "titulo": "Lei nº 278 de 15/05/1948",
+      "data": "1948-05-15",
+      "numero": "278",
+      "urn": "urn:lex:br:federal:lei:1948-05-15;278",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Educação e Saúde,   crédito especial para atender às despesas feitas pela Comissão Organizadora da   Primeira Conferência Panamericana de Criminologia."
+    },
+    {
+      "senadoId": "541432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-15-279",
+      "titulo": "Lei nº 279 de 15/05/1948",
+      "data": "1948-05-15",
+      "numero": "279",
+      "urn": "urn:lex:br:federal:lei:1948-05-15;279",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário, crédito especial   para pagamento de gratificações de representação."
+    },
+    {
+      "senadoId": "541428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-08-277",
+      "titulo": "Lei nº 277 de 08/05/1948",
+      "data": "1948-05-08",
+      "numero": "277",
+      "urn": "urn:lex:br:federal:lei:1948-05-08;277",
+      "ementa": "Concede auxílio à Cruz Vermelha Brasileira."
+    },
+    {
+      "senadoId": "541426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-05-05-276",
+      "titulo": "Lei nº 276 de 05/05/1948",
+      "data": "1948-05-05",
+      "numero": "276",
+      "urn": "urn:lex:br:federal:lei:1948-05-05;276",
+      "ementa": "Modifica a redação do Decreto-lei nº 8.554, de 4 de Janeiro de 1946."
+    },
+    {
+      "senadoId": "541422",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-22-274",
+      "titulo": "Lei nº 274 de 22/04/1948",
+      "data": "1948-04-22",
+      "numero": "274",
+      "urn": "urn:lex:br:federal:lei:1948-04-22;274",
+      "ementa": "Cria cargo isolado, de provimento efetivo, no Quadro Permanete do   Ministério da Marinha."
+    },
+    {
+      "senadoId": "541424",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-22-275",
+      "titulo": "Lei nº 275 de 22/04/1948",
+      "data": "1948-04-22",
+      "numero": "275",
+      "urn": "urn:lex:br:federal:lei:1948-04-22;275",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde,   crédito especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541420",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-20-273",
+      "titulo": "Lei nº 273 de 20/04/1948",
+      "data": "1948-04-20",
+      "numero": "273",
+      "urn": "urn:lex:br:federal:lei:1948-04-20;273",
+      "ementa": "Dá nova redação ao parágrafo único do artigo 2º, da Lei número 140, de 18 de   Novembro de 1947."
+    },
+    {
+      "senadoId": "541414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-10-270",
+      "titulo": "Lei nº 270 de 10/04/1948",
+      "data": "1948-04-10",
+      "numero": "270",
+      "urn": "urn:lex:br:federal:lei:1948-04-10;270",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras para   reprodutores bovinos e lanígeros."
+    },
+    {
+      "senadoId": "541416",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-10-271",
+      "titulo": "Lei nº 271 de 10/04/1948",
+      "data": "1948-04-10",
+      "numero": "271",
+      "urn": "urn:lex:br:federal:lei:1948-04-10;271",
+      "ementa": "Assegura a funcionários e extranumerários contagem de tempo de serviço   prestado à Divisão de Organização Sanitária e Fundação Rockfeller."
+    },
+    {
+      "senadoId": "541418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-10-272",
+      "titulo": "Lei nº 272 de 10/04/1948",
+      "data": "1948-04-10",
+      "numero": "272",
+      "urn": "urn:lex:br:federal:lei:1948-04-10;272",
+      "ementa": "Dispõe sôbre a aplicação de cotas no aparelhamento de redes ferroviárias."
+    },
+    {
+      "senadoId": "541412",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-04-09-269",
+      "titulo": "Lei nº 269 de 09/04/1948",
+      "data": "1948-04-09",
+      "numero": "269",
+      "urn": "urn:lex:br:federal:lei:1948-04-09;269",
+      "ementa": "Dispõe sôbre representante do Ministério Público nos Conselhos   Penitenciários dos Territórios."
+    },
+    {
+      "senadoId": "541410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-28-268",
+      "titulo": "Lei nº 268 de 28/02/1948",
+      "data": "1948-02-28",
+      "numero": "268",
+      "urn": "urn:lex:br:federal:lei:1948-02-28;268",
+      "ementa": "Estabelece o horário de trabalho do pessoal da Guarda Civil do D.F.S.P. e   dá outras providências."
+    },
+    {
+      "senadoId": "541408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-28-267",
+      "titulo": "Lei nº 267 de 28/02/1948",
+      "data": "1948-02-28",
+      "numero": "267",
+      "urn": "urn:lex:br:federal:lei:1948-02-28;267",
+      "ementa": "Eleva para 40 lugares o quadro de despachantes aduaneiros da Estação   Aduaneira de Importação Aérea em São Paulo."
+    },
+    {
+      "senadoId": "541403",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-26-265",
+      "titulo": "Lei nº 265 de 26/02/1948",
+      "data": "1948-02-26",
+      "numero": "265",
+      "urn": "urn:lex:br:federal:lei:1948-02-26;265",
+      "ementa": "Modifica a redação dos artigos 5º e 6º do Decreto-lei nº 6.674, de 11 de   Julho de 1944."
+    },
+    {
+      "senadoId": "541406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-26-266",
+      "titulo": "Lei nº 266 de 26/02/1948",
+      "data": "1948-02-26",
+      "numero": "266",
+      "urn": "urn:lex:br:federal:lei:1948-02-26;266",
+      "ementa": "Autoriza o financiamento do saldo da safra de cêra de carnaúba de   1946-1947 e da safra de 1947-1948."
+    },
+    {
+      "senadoId": "541400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-25-264",
+      "titulo": "Lei nº 264 de 25/02/1948",
+      "data": "1948-02-25",
+      "numero": "264",
+      "urn": "urn:lex:br:federal:lei:1948-02-25;264",
+      "ementa": "Dispõe sôbre os padrões de vencimentos dos cargos que integram o quadro da Secretaria do Supremo Tribunal Federal."
+    },
+    {
+      "senadoId": "541387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-23-259",
+      "titulo": "Lei nº 259 de 23/02/1948",
+      "data": "1948-02-23",
+      "numero": "259",
+      "urn": "urn:lex:br:federal:lei:1948-02-23;259",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de   crédito especial para atender ao pagamento de despesas com a internação de   menores."
+    },
+    {
+      "senadoId": "541395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-23-262",
+      "titulo": "Lei nº 262 de 23/02/1948",
+      "data": "1948-02-23",
+      "numero": "262",
+      "urn": "urn:lex:br:federal:lei:1948-02-23;262",
+      "ementa": "Subordina ao regime de licença prévia o intercâmbio de importação e exportação com o exterior."
+    },
+    {
+      "senadoId": "541393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-23-261",
+      "titulo": "Lei nº 261 de 23/02/1948",
+      "data": "1948-02-23",
+      "numero": "261",
+      "urn": "urn:lex:br:federal:lei:1948-02-23;261",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   atender a despesa da extinta Organização Henrique Lage - Patrimônio   Nacional."
+    },
+    {
+      "senadoId": "541389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-23-260",
+      "titulo": "Lei nº 260 de 23/02/1948",
+      "data": "1948-02-23",
+      "numero": "260",
+      "urn": "urn:lex:br:federal:lei:1948-02-23;260",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, de   crédito especial para pagamento de gratificações."
+    },
+    {
+      "senadoId": "541397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-23-263",
+      "titulo": "Lei nº 263 de 23/02/1948",
+      "data": "1948-02-23",
+      "numero": "263",
+      "urn": "urn:lex:br:federal:lei:1948-02-23;263",
+      "ementa": "Modifica a competência de Tribunal de Júri e dá outras providências."
+    },
+    {
+      "senadoId": "541386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-23-258",
+      "titulo": "Lei nº 258 de 23/02/1948",
+      "data": "1948-02-23",
+      "numero": "258",
+      "urn": "urn:lex:br:federal:lei:1948-02-23;258",
+      "ementa": "Autoriza a abertura, pelo Ministério das Relações Exteriores, de crédito   especial para atender às despesas decorrentes da Conferência Interamericana para   a manutenção da Paz e da Segurança do Continente."
+    },
+    {
+      "senadoId": "541385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-19-257",
+      "titulo": "Lei nº 257 de 19/02/1948",
+      "data": "1948-02-19",
+      "numero": "257",
+      "urn": "urn:lex:br:federal:lei:1948-02-19;257",
+      "ementa": "Isenta de direitos o material importado pela S.A. Empresa de Viação Aérea   Rio Grandense, VARIG."
+    },
+    {
+      "senadoId": "541382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-19-254",
+      "titulo": "Lei nº 254 de 19/02/1948",
+      "data": "1948-02-19",
+      "numero": "254",
+      "urn": "urn:lex:br:federal:lei:1948-02-19;254",
+      "ementa": "Transfere para o Quadro permanente do Ministério da Fazenda o Cargo de   Tesoureiro do Quadro Permanente do Ministério do Trabalho, Indústria e   Comércio."
+    },
+    {
+      "senadoId": "541383",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-19-255",
+      "titulo": "Lei nº 255 de 19/02/1948",
+      "data": "1948-02-19",
+      "numero": "255",
+      "urn": "urn:lex:br:federal:lei:1948-02-19;255",
+      "ementa": "Autoriza a abertura, ao Ministério da Guerra, de crédito especial   destinado à construção e à instalação da maquinária já adquirida ao Governo dos   Estados Unidos para fabricação de munições."
+    },
+    {
+      "senadoId": "541384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-19-256",
+      "titulo": "Lei nº 256 de 19/02/1948",
+      "data": "1948-02-19",
+      "numero": "256",
+      "urn": "urn:lex:br:federal:lei:1948-02-19;256",
+      "ementa": "Autoriza a abertura, pelo Ministério da Guerrra, de crédito especial para   atender às despesas com a organização e realização do III Pentatlon Militar   Moderno Sul Americano."
+    },
+    {
+      "senadoId": "541381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-18-253",
+      "titulo": "Lei nº 253 de 18/02/1948",
+      "data": "1948-02-18",
+      "numero": "253",
+      "urn": "urn:lex:br:federal:lei:1948-02-18;253",
+      "ementa": "Abre ao Ministério da Fazenda crédito especial para indenização do acervo   da Companhia Indústrias Brasileiras de Papel, Empresa de Armazéns Frigoríficos e   Southern Brasil Lumber and Colonization Company, e autoriza a alienação dessas   Emprêsas."
+    },
+    {
+      "senadoId": "541380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-18-252",
+      "titulo": "Lei nº 252 de 18/02/1948",
+      "data": "1948-02-18",
+      "numero": "252",
+      "urn": "urn:lex:br:federal:lei:1948-02-18;252",
+      "ementa": "Autoriza a abertura, ao Ministério da Educação e Saúde, de crédito   especial para auxílio à União Nacional dos Estudantes."
+    },
+    {
+      "senadoId": "541377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-249",
+      "titulo": "Lei nº 249 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "249",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;249",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para pagamento de gratificação a José Augusto de Farias."
+    },
+    {
+      "senadoId": "541373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-247",
+      "titulo": "Lei nº 247 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "247",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;247",
+      "ementa": "Autoriza o aumento de capital da Companhia Vale do Rio Dôce S.A. e dá   outras providências."
+    },
+    {
+      "senadoId": "541369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-244",
+      "titulo": "Lei nº 244 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "244",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;244",
+      "ementa": "Autoriza a abertura, pelo Ministério da Educação e Saúde, de crédito   especial para pagamento à prefeitura do Distrito Federal, do auxílio destinado à   manutenção do exercício de 1947, nos serviços de esgotos da Capital da   República."
+    },
+    {
+      "senadoId": "541378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-250",
+      "titulo": "Lei nº 250 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "250",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;250",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, de crédito especial para a aquisição de vagões postais."
+    },
+    {
+      "senadoId": "541375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-248",
+      "titulo": "Lei nº 248 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "248",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;248",
+      "ementa": "Autoriza a abertura, pelo Ministério da Viação e Obras Públicas, de   crédito especial para pagamento à concessionária do pôrto de   Santos."
+    },
+    {
+      "senadoId": "541371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-246",
+      "titulo": "Lei nº 246 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "246",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;246",
+      "ementa": "Autoriza a prestação de auxílio às populações dos Estados da Bahia,   Sergipe, Alagoas e Rio Grande do Norte."
+    },
+    {
+      "senadoId": "541379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-251",
+      "titulo": "Lei nº 251 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "251",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;251",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   atender às despesas da Comissão de Reparações de Guerra no decorrer de   1947."
+    },
+    {
+      "senadoId": "541370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-245",
+      "titulo": "Lei nº 245 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "245",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;245",
+      "ementa": "Autoriza a abertura pelo Ministério da Educação e Saúde, de crédito especial para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-17-243",
+      "titulo": "Lei nº 243 de 17/02/1948",
+      "data": "1948-02-17",
+      "numero": "243",
+      "urn": "urn:lex:br:federal:lei:1948-02-17;243",
+      "ementa": "Revigora, em relação ao ano letivo de 1947, o art. 3º da Lei nº 7 de 19 de   Dezembro de 1946."
+    },
+    {
+      "senadoId": "541353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-237",
+      "titulo": "Lei nº 237 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "237",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;237",
+      "ementa": "Estende aos alunos matriculados na Escola Naval as mesmas regalias,   direitos e vantagens assegurados aos cadetes da Escola da Aeronáutica, no que   concerne à reforma por incapacidade para o serviço militar."
+    },
+    {
+      "senadoId": "541357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-239",
+      "titulo": "Lei nº 239 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "239",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;239",
+      "ementa": "Abre ao Congresso Nacional crédito especial para pagamento de ajuda de   custo."
+    },
+    {
+      "senadoId": "541359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-240",
+      "titulo": "Lei nº 240 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "240",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;240",
+      "ementa": "Isenta do impôsto de consumo rêdes para dormir."
+    },
+    {
+      "senadoId": "541355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-238",
+      "titulo": "Lei nº 238 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "238",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;238",
+      "ementa": "Autoriza a abertura, ao Congresso Nacional de Crédito especial para   pagamento de deferença de gratificação adicional."
+    },
+    {
+      "senadoId": "541351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-236",
+      "titulo": "Lei nº 236 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "236",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;236",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, de crédito especial   para pagamento de auxílio decorrente de acordo firmado com Estado do Rio Grande   do Sul."
+    },
+    {
+      "senadoId": "541365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-242",
+      "titulo": "Lei nº 242 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "242",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;242",
+      "ementa": "Autoriza a abertura, pelo Ministério da Fazenda, de crédito especial para   pagamento de juros de apólices emitidas nos termos do Decreto-Lei nº 7.393, de   16 de Março de 1945."
+    },
+    {
+      "senadoId": "541362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-12-241",
+      "titulo": "Lei nº 241 de 12/02/1948",
+      "data": "1948-02-12",
+      "numero": "241",
+      "urn": "urn:lex:br:federal:lei:1948-02-12;241",
+      "ementa": "Autoriza a abertura, pelo Ministério de Fazenda, de crédito especial para   pagamento de juros de apólices emitidas nos termos do Decreto-lei nº 6.116, de   16 de Dezembro de 1943."
+    },
+    {
+      "senadoId": "541342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-09-232",
+      "titulo": "Lei nº 232 de 09/02/1948",
+      "data": "1948-02-09",
+      "numero": "232",
+      "urn": "urn:lex:br:federal:lei:1948-02-09;232",
+      "ementa": "Cria o Departamento de Desportos do Exército e dá outras   providências."
+    },
+    {
+      "senadoId": "541349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-09-235",
+      "titulo": "Lei nº 235 de 09/02/1948",
+      "data": "1948-02-09",
+      "numero": "235",
+      "urn": "urn:lex:br:federal:lei:1948-02-09;235",
+      "ementa": "Autoriza a abertura pelo Ministério da Agricultura, de crédito especial   para pagamento de fornecimentos de material para instalação no Centro Nacional   de Ensino e Pesquisas Agronômicas."
+    },
+    {
+      "senadoId": "541344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-09-233",
+      "titulo": "Lei nº 233 de 09/02/1948",
+      "data": "1948-02-09",
+      "numero": "233",
+      "urn": "urn:lex:br:federal:lei:1948-02-09;233",
+      "ementa": "Abre crédito especial ao Congresso Nacional ,ao Ministério da Viação e Obras   Públicas e ao Ministério da Justiça e Negocios Interiores."
+    },
+    {
+      "senadoId": "541347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-09-234",
+      "titulo": "Lei nº 234 de 09/02/1948",
+      "data": "1948-02-09",
+      "numero": "234",
+      "urn": "urn:lex:br:federal:lei:1948-02-09;234",
+      "ementa": "Autoriza a abertura de crédito especial ao Ministério da Educação e Saúde   para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-06-226",
+      "titulo": "Lei nº 226 de 06/02/1948",
+      "data": "1948-02-06",
+      "numero": "226",
+      "urn": "urn:lex:br:federal:lei:1948-02-06;226",
+      "ementa": "Autoriza a abertura, pelo Ministério da Guerra do crédito especial de Cr$   5.000,00 para pagamento de gratificação por trabalho técnico, ao artífice classe   F. Alexandre Kalicheski."
+    },
+    {
+      "senadoId": "541340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-06-231",
+      "titulo": "Lei nº 231 de 06/02/1948",
+      "data": "1948-02-06",
+      "numero": "231",
+      "urn": "urn:lex:br:federal:lei:1948-02-06;231",
+      "ementa": "Restabelece os Quadros paralelos criados no Exército em 1932 e dá outras providências."
+    },
+    {
+      "senadoId": "541334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-06-228",
+      "titulo": "Lei nº 228 de 06/02/1948",
+      "data": "1948-02-06",
+      "numero": "228",
+      "urn": "urn:lex:br:federal:lei:1948-02-06;228",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação e Saúde, o   crédito especial de Cr$ 57.000,00 para pagar gratificação de magistério do   Professor João Otaviano Gonçalves."
+    },
+    {
+      "senadoId": "541336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-06-229",
+      "titulo": "Lei nº 229 de 06/02/1948",
+      "data": "1948-02-06",
+      "numero": "229",
+      "urn": "urn:lex:br:federal:lei:1948-02-06;229",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde, o   crédito especial de Cr$ 10.883,90, para atender a pagamento de gratificação de   magistério a Francisco Barreto Rodrigues Campelo."
+    },
+    {
+      "senadoId": "541332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-06-227",
+      "titulo": "Lei nº 227 de 06/02/1948",
+      "data": "1948-02-06",
+      "numero": "227",
+      "urn": "urn:lex:br:federal:lei:1948-02-06;227",
+      "ementa": "Revoga a letra \"d\", ao artigo 1º, da Lei nº 102, de 18 de Setembro de   1947."
+    },
+    {
+      "senadoId": "541338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-06-230",
+      "titulo": "Lei nº 230 de 06/02/1948",
+      "data": "1948-02-06",
+      "numero": "230",
+      "urn": "urn:lex:br:federal:lei:1948-02-06;230",
+      "ementa": "Autoriza a abertura, pelo Ministério de Educação e Saúde, do crédito   especial de Cr$ 25.987,00, para atender a pagamento de diferença de gratificação   de magistério."
+    },
+    {
+      "senadoId": "541328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-03-225",
+      "titulo": "Lei nº 225 de 03/02/1948",
+      "data": "1948-02-03",
+      "numero": "225",
+      "urn": "urn:lex:br:federal:lei:1948-02-03;225",
+      "ementa": "Acrescenta o § 4º ao art. 81 e modifica a redação do arts. 82 e 84 do Decreto-Lei nº 9.760, de 1946, que dispõe sôbre bens imóveis da União."
+    },
+    {
+      "senadoId": "541326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-02-02-224",
+      "titulo": "Lei nº 224 de 02/02/1948",
+      "data": "1948-02-02",
+      "numero": "224",
+      "urn": "urn:lex:br:federal:lei:1948-02-02;224",
+      "ementa": "Concede isenção de direitos de importação e demais taxas aduaneiras,   inclusive imposto de consumo e taxa de armazenagem, para uma caixa com imagem de   madeira."
+    },
+    {
+      "senadoId": "541324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-27-223",
+      "titulo": "Lei nº 223 de 27/01/1948",
+      "data": "1948-01-27",
+      "numero": "223",
+      "urn": "urn:lex:br:federal:lei:1948-01-27;223",
+      "ementa": "Autoriza dar garantia, por intermédio do Tesouro Nacional, à operação de   compra do Governo dos Estados Unidos da America do Norte, pela Companhia   Nacional de Navegação Costeira, de seis navios."
+    },
+    {
+      "senadoId": "541321",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-26-222",
+      "titulo": "Lei nº 222 de 26/01/1948",
+      "data": "1948-01-26",
+      "numero": "222",
+      "urn": "urn:lex:br:federal:lei:1948-01-26;222",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria   e Comércio, o crédito especial de um milhão de cruzeiros para despesas da   Comissão Central de Preços."
+    },
+    {
+      "senadoId": "541315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-23-220",
+      "titulo": "Lei nº 220 de 23/01/1948",
+      "data": "1948-01-23",
+      "numero": "220",
+      "urn": "urn:lex:br:federal:lei:1948-01-23;220",
+      "ementa": "Autoriza a abertura do crédito especial de Cr$ 89.500,00 pelo Ministério   da Justiça e Negócios Interiores, para aquisição de um automóvel destinado ao   Tribunal Federal de Recursos."
+    },
+    {
+      "senadoId": "541311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-23-218",
+      "titulo": "Lei nº 218 de 23/01/1948",
+      "data": "1948-01-23",
+      "numero": "218",
+      "urn": "urn:lex:br:federal:lei:1948-01-23;218",
+      "ementa": "Autoriza a abertura pelo Ministério da Educação e Saúde, de crédito   especial, para pagamento de gratificação de magistério."
+    },
+    {
+      "senadoId": "541313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-23-219",
+      "titulo": "Lei nº 219 de 23/01/1948",
+      "data": "1948-01-23",
+      "numero": "219",
+      "urn": "urn:lex:br:federal:lei:1948-01-23;219",
+      "ementa": "Abre, pelo Ministério das Relações Exteriores, crédito especial para as   despesas com a Missão Militar Brasileira em Berlim."
+    },
+    {
+      "senadoId": "541318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-23-221",
+      "titulo": "Lei nº 221 de 23/01/1948",
+      "data": "1948-01-23",
+      "numero": "221",
+      "urn": "urn:lex:br:federal:lei:1948-01-23;221",
+      "ementa": "Isenta de impostos e taxas aduaneiras, material, importado pela Empresa   Viação Aérea São Paulo S.A., para construção de um hangar."
+    },
+    {
+      "senadoId": "541309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-15-217",
+      "titulo": "Lei nº 217 de 15/01/1948",
+      "data": "1948-01-15",
+      "numero": "217",
+      "urn": "urn:lex:br:federal:lei:1948-01-15;217",
+      "ementa": "Lei Orgânica do Distrito Federal."
+    },
+    {
+      "senadoId": "541307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-09-216",
+      "titulo": "Lei nº 216 de 09/01/1948",
+      "data": "1948-01-09",
+      "numero": "216",
+      "urn": "urn:lex:br:federal:lei:1948-01-09;216",
+      "ementa": "Dispõe sobre a composição do Ministério Público do Distrito Federal."
+    },
+    {
+      "senadoId": "541306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-09-215",
+      "titulo": "Lei nº 215 de 09/01/1948",
+      "data": "1948-01-09",
+      "numero": "215",
+      "urn": "urn:lex:br:federal:lei:1948-01-09;215",
+      "ementa": "Autoriza o Poder Executivo a incorporar o Arsenal de Marinha do Rio de   Janeiro de Arsenal de Marinha da Ilha das Cobras."
+    },
+    {
+      "senadoId": "541302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-07-213",
+      "titulo": "Lei nº 213 de 07/01/1948",
+      "data": "1948-01-07",
+      "numero": "213",
+      "urn": "urn:lex:br:federal:lei:1948-01-07;213",
+      "ementa": "Autoriza o Poder Executivo a inscrever o Brasil entre os paises que   contribuem para a manutenção da \"Association Internacionale Permanente des   Congrés de Navegation\""
+    },
+    {
+      "senadoId": "541304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-07-214",
+      "titulo": "Lei nº 214 de 07/01/1948",
+      "data": "1948-01-07",
+      "numero": "214",
+      "urn": "urn:lex:br:federal:lei:1948-01-07;214",
+      "ementa": "Concede auxilio à Fundação Abrigo do Cristo Redentor, e dá outras providências."
+    },
+    {
+      "senadoId": "541298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-07-211",
+      "titulo": "Lei nº 211 de 07/01/1948",
+      "data": "1948-01-07",
+      "numero": "211",
+      "urn": "urn:lex:br:federal:lei:1948-01-07;211",
+      "ementa": "Regula os casos de extinção de mandatos dos membros dos corpos   Legislativos da União, dos Estados, do Distrito Federal, dos Territórios e dos   Municípios."
+    },
+    {
+      "senadoId": "541300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-07-212",
+      "titulo": "Lei nº 212 de 07/01/1948",
+      "data": "1948-01-07",
+      "numero": "212",
+      "urn": "urn:lex:br:federal:lei:1948-01-07;212",
+      "ementa": "Autoriza a Estrada de Ferro de Goiás a verba consignações em folhas de   pagamento de seus servidores a favor de sociedades cooperativas de consumo, e dá   outras providências."
+    },
+    {
+      "senadoId": "541296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-05-210",
+      "titulo": "Lei nº 210 de 05/01/1948",
+      "data": "1948-01-05",
+      "numero": "210",
+      "urn": "urn:lex:br:federal:lei:1948-01-05;210",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Conselho Nacional de Águas   e Energia Elétrica, o crédito suplementar de Cr$ 24.000.00, em reforço às verbas   que especifica."
+    },
+    {
+      "senadoId": "541294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1948-01-02-209",
+      "titulo": "Lei nº 209 de 02/01/1948",
+      "data": "1948-01-02",
+      "numero": "209",
+      "urn": "urn:lex:br:federal:lei:1948-01-02;209",
+      "ementa": "Dispõe sobre a forma de pagamento dos débitos civis e comerciais de criadores e recriadores de gado bovino."
+    }
+  ],
+  "pendencias": []
+}

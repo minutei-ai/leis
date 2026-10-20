@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-02-25-15352",
+  "titulo": "Lei nº 15.352 de 25/02/2026",
+  "data": "2026-02-25",
+  "fonte": "https://normas.leg.br/api/public/binario/7333c8dc-38de-4bcc-b237-19d5d387002f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-02-25;15352",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-02-25%3B15352&tipo_documento=maior-detalhe",
+  "sha256_dados": "7b20a85aab42faebe1c583f3998bc8cea90328a65e2c1107997d5b38c1edb3c4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:59:54.687Z",
+  "sha256_fonte": "9d2b5ba757157b88e859397c2d69e86584060eb7a0ceb0c5c68d584cf5ad84c8",
+  "sha256_markdown": "42cf0c8701f26d0eefc98f985d2da81d0d34f128af6f0b454b3dd9bff22882a3"
+}

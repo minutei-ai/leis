@@ -1,0 +1,1569 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1985",
+  "tipo": "LEI",
+  "ano": 1985,
+  "coletado_em": "2026-10-20T22:57:57.894Z",
+  "normas": [
+    {
+      "senadoId": "549330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-30-7454",
+      "titulo": "Lei nº 7.454 de 30/12/1985",
+      "data": "1985-12-30",
+      "numero": "7454",
+      "urn": "urn:lex:br:federal:lei:1985-12-30;7454",
+      "ementa": "Altera dispositivo da Lei nº 4.737, de 15 de julho de 1965, e dá outras providências."
+    },
+    {
+      "senadoId": "549329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-27-7453",
+      "titulo": "Lei nº 7.453 de 27/12/1985",
+      "data": "1985-12-27",
+      "numero": "7453",
+      "urn": "urn:lex:br:federal:lei:1985-12-27;7453",
+      "ementa": "Modifica o artigo 27 e seus parágrafos da Lei nº 2.004, de 3 de outubro de 1953, alterado pela Lei nº 3.257, de 2 de setembro de 1957, que \"dispõe sobre a Política Nacional de Petróleo e define as atribuições do Conselho Nacional do Petróleo, institui a Sociedade por Ações Petróleo Brasileiro Sociedade Anônima e dá outras providências\"."
+    },
+    {
+      "senadoId": "549328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-27-7452",
+      "titulo": "Lei nº 7.452 de 27/12/1985",
+      "data": "1985-12-27",
+      "numero": "7452",
+      "urn": "urn:lex:br:federal:lei:1985-12-27;7452",
+      "ementa": "Declara de utilidade pública o Instituto Internacional de   Cultura."
+    },
+    {
+      "senadoId": "549327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-26-7451",
+      "titulo": "Lei nº 7.451 de 26/12/1985",
+      "data": "1985-12-26",
+      "numero": "7451",
+      "urn": "urn:lex:br:federal:lei:1985-12-26;7451",
+      "ementa": "Prorroga o prazo de isenção do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, incidente nos álcoois etílico e metílico, para fins carburantes, e dá outras providências."
+    },
+    {
+      "senadoId": "549326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-23-7450",
+      "titulo": "Lei nº 7.450 de 23/12/1985",
+      "data": "1985-12-23",
+      "numero": "7450",
+      "urn": "urn:lex:br:federal:lei:1985-12-23;7450",
+      "ementa": "Altera a legislação tributária federal e dá outras providências."
+    },
+    {
+      "senadoId": "549315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7439",
+      "titulo": "Lei nº 7.439 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7439",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7439",
+      "ementa": "Fixa os valores de retribuição da Categoria Funcional de Fisioterapeuta do   Grupo-Outras Atividades de Nível Superior, Código NS-900, e dá outras   providências."
+    },
+    {
+      "senadoId": "549322",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7446",
+      "titulo": "Lei nº 7.446 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7446",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7446",
+      "ementa": "Fixa os valores de retribuição do Grupo-Arquivo, do Serviço Civil do Poder   Executivo, e dá outras providências."
+    },
+    {
+      "senadoId": "549319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7443",
+      "titulo": "Lei nº 7.443 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7443",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7443",
+      "ementa": "Autoriza a reversão, à Companhia Agrícola Usina Jacarezinho, do Terreno   que menciona, situado no Município de Jacarezinho, Estado do   Paraná."
+    },
+    {
+      "senadoId": "549318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7442",
+      "titulo": "Lei nº 7.442 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7442",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7442",
+      "ementa": "Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a   doar o imóvel que menciona."
+    },
+    {
+      "senadoId": "549312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7436",
+      "titulo": "Lei nº 7.436 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7436",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7436",
+      "ementa": "Inclui na Relação Descritiva das Ferrovias do Plano Nacional de Viação,   instituído pela Lei n° 5.917, de 10 de setembro de 1973, ferrovia transversal   ligando Belém-São Luís-Teresina."
+    },
+    {
+      "senadoId": "549323",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7447",
+      "titulo": "Lei nº 7.447 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7447",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7447",
+      "ementa": "Fixa os valores de retribuição da Categoria Funcional de Engenheiro de   Pesca a que se refere a Lei n° 6.550, de 5 de julho de 1978, e dá outras   providências."
+    },
+    {
+      "senadoId": "549325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7449",
+      "titulo": "Lei nº 7.449 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7449",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7449",
+      "ementa": "Altera a redação do parágrafo único do art. 566 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei n° 5.452, de 1º de maio de 1943, assegurando o direito de sindicalização aos empregados da Caixa Econômica Federal."
+    },
+    {
+      "senadoId": "549314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7438",
+      "titulo": "Lei nº 7.438 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7438",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7438",
+      "ementa": "Altera dispositivo da Lei n° 5.701, de 9 de setembro de 1971, que dispõe sobre o Magistério do Exército."
+    },
+    {
+      "senadoId": "549313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7437",
+      "titulo": "Lei nº 7.437 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7437",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7437",
+      "ementa": "Incluí, entre as contravenções penais, a prática de atos resultantes de preconceito de raça, de cor, de sexo ou de estado civil, dando nova redação à Lei nº 1.390, de 3 de julho de 1951 - Lei Afonso Arinos."
+    },
+    {
+      "senadoId": "549317",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7441",
+      "titulo": "Lei nº 7.441 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7441",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7441",
+      "ementa": "Altera a estrutura da Categoria Funcional de Engenheiro de Operações, do   Grupo-Outras Atividades de Nível Superior e dá outras   providências."
+    },
+    {
+      "senadoId": "549324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7448",
+      "titulo": "Lei nº 7.448 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7448",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7448",
+      "ementa": "Cria o Fundo do Estado-Maior das Forças Armadas - EMFA e dá outras providências."
+    },
+    {
+      "senadoId": "549320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7444",
+      "titulo": "Lei nº 7.444 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7444",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7444",
+      "ementa": "Dispõe sobre a implantação do processamento eletrônico de dados no alistamento eleitoral e a revisão do eleitorado e dá outras providências."
+    },
+    {
+      "senadoId": "549316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7440",
+      "titulo": "Lei nº 7.440 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7440",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7440",
+      "ementa": "Cria cargos em comissão no Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da 2ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "549321",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-20-7445",
+      "titulo": "Lei nº 7.445 de 20/12/1985",
+      "data": "1985-12-20",
+      "numero": "7445",
+      "urn": "urn:lex:br:federal:lei:1985-12-20;7445",
+      "ementa": "Autoriza o Poder Executivo, por Intermédio do Instituto Nacional de   Colonização e Reforma Agrária - INCRA, a doar no Estado de Goiás os imóveis que   menciona."
+    },
+    {
+      "senadoId": "549311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-19-7435",
+      "titulo": "Lei nº 7.435 de 19/12/1985",
+      "data": "1985-12-19",
+      "numero": "7435",
+      "urn": "urn:lex:br:federal:lei:1985-12-19;7435",
+      "ementa": "Fixa o valor do Soldo de Coronel BM do Corpo de Bombeiros do Distrito Federal e altera dispositivos da Lei nº 5.906, de 23 de julho de 1973, e dá outras providências."
+    },
+    {
+      "senadoId": "549310",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-19-7434",
+      "titulo": "Lei nº 7.434 de 19/12/1985",
+      "data": "1985-12-19",
+      "numero": "7434",
+      "urn": "urn:lex:br:federal:lei:1985-12-19;7434",
+      "ementa": "Altera a redação da alínea \"b\" do inciso IX do art. 146 da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral, eliminando da legislação eleitoral o voto vinculado."
+    },
+    {
+      "senadoId": "549309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-18-7433",
+      "titulo": "Lei nº 7.433 de 18/12/1985",
+      "data": "1985-12-18",
+      "numero": "7433",
+      "urn": "urn:lex:br:federal:lei:1985-12-18;7433",
+      "ementa": "Dispõe sobre os requisitos para a lavratura de escrituras públicas, e dá outras providências."
+    },
+    {
+      "senadoId": "549308",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-18-7432",
+      "titulo": "Lei nº 7.432 de 18/12/1985",
+      "data": "1985-12-18",
+      "numero": "7432",
+      "urn": "urn:lex:br:federal:lei:1985-12-18;7432",
+      "ementa": "Cria o Fundo Especial do Senado Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "549296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7420",
+      "titulo": "Lei nº 7.420 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7420",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7420",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1986."
+    },
+    {
+      "senadoId": "549303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7427",
+      "titulo": "Lei nº 7.427 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7427",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7427",
+      "ementa": "Altera a estrutura da Categoria Funcional de Nutricionista, do   Grupo-Outras Atividades de Nível Superior, e dá outras   providências."
+    },
+    {
+      "senadoId": "549307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7431",
+      "titulo": "Lei nº 7.431 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7431",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7431",
+      "ementa": "Institui no Distrito Federal o imposto sobre a propriedade de veículos automotores e dá outras providências."
+    },
+    {
+      "senadoId": "549305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7429",
+      "titulo": "Lei nº 7.429 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7429",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7429",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça Eleitoral o crédito especial de Cr$ 920.500.000 ( novecentos e vinte milhões e quinhentos mil cruzeiros ), para o fim que especifica."
+    },
+    {
+      "senadoId": "549306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7430",
+      "titulo": "Lei nº 7.430 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7430",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7430",
+      "ementa": "Dá nova redação ao caput do art. 224 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5452, de 1 de maio de 1943."
+    },
+    {
+      "senadoId": "549300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7424",
+      "titulo": "Lei nº 7.424 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7424",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7424",
+      "ementa": "Dispõe sobre a pensão especial de que trata a Lei nº 6.592, de 17 de novembro de 1978."
+    },
+    {
+      "senadoId": "549304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7428",
+      "titulo": "Lei nº 7.428 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7428",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7428",
+      "ementa": "Altera a estrutura da Categoria Funcional de Datilógrafo, do   Grupo-Serviços Auxiliares, e dá outras providências."
+    },
+    {
+      "senadoId": "549297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7421",
+      "titulo": "Lei nº 7.421 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7421",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7421",
+      "ementa": "Altera a composição e a organização interna do Tribunal Regional do Trabalho da Terceira Região, cria cargos e dá outras providências."
+    },
+    {
+      "senadoId": "549298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7422",
+      "titulo": "Lei nº 7.422 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7422",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7422",
+      "ementa": "Fixa os valores de retribuição da Categoria Funcional de Técnico de   Estradas e dá outras providências."
+    },
+    {
+      "senadoId": "549302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7426",
+      "titulo": "Lei nº 7.426 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7426",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7426",
+      "ementa": "Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício Financeiro de 1986."
+    },
+    {
+      "senadoId": "549301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7425",
+      "titulo": "Lei nº 7.425 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7425",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7425",
+      "ementa": "Reajusta os vencimentos, salários, soldos e proventos dos servidores civis e da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, dos membros e dos servidores do Tribunal de Contas do Distrito Federal e do respectivo Ministério Público, e dá outras providências."
+    },
+    {
+      "senadoId": "549299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7423",
+      "titulo": "Lei nº 7.423 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7423",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7423",
+      "ementa": "Revoga a Lei nº 5.465, de 3 de julho de 1968, que \"dispõe sobre o preenchimento de vagas nos estabelecimentos de ensino agrícola\", bem como sua legislação complementar."
+    },
+    {
+      "senadoId": "549295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-17-7419",
+      "titulo": "Lei nº 7.419 de 17/12/1985",
+      "data": "1985-12-17",
+      "numero": "7419",
+      "urn": "urn:lex:br:federal:lei:1985-12-17;7419",
+      "ementa": "Reajusta os valores de vencimentos, salários, soldos e proventos dos   servidores civis e militares da União, dos Territórios e das autarquias   federais, dos membros do Poder Judiciário da União, do Distrito Federal e dos   Territórios, do Tribunal de Contas da União, bem como os valores das pensões, e   dá outras providências."
+    },
+    {
+      "senadoId": "549294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-16-7418",
+      "titulo": "Lei nº 7.418 de 16/12/1985",
+      "data": "1985-12-16",
+      "numero": "7418",
+      "urn": "urn:lex:br:federal:lei:1985-12-16;7418",
+      "ementa": "Institui o Vale-Transporte e dá outras providências."
+    },
+    {
+      "senadoId": "549293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-10-7417",
+      "titulo": "Lei nº 7.417 de 10/12/1985",
+      "data": "1985-12-10",
+      "numero": "7417",
+      "urn": "urn:lex:br:federal:lei:1985-12-10;7417",
+      "ementa": "Concede anistia a mães de família condenadas até 5 ( cinco ) anos de   prisão."
+    },
+    {
+      "senadoId": "549292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-10-7416",
+      "titulo": "Lei nº 7.416 de 10/12/1985",
+      "data": "1985-12-10",
+      "numero": "7416",
+      "urn": "urn:lex:br:federal:lei:1985-12-10;7416",
+      "ementa": "Concede isenção do Imposto sobre Produtos Industrializados - IPI na aquisição de automóveis de passageiros e dá outras providências."
+    },
+    {
+      "senadoId": "549291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-09-7415",
+      "titulo": "Lei nº 7.415 de 09/12/1985",
+      "data": "1985-12-09",
+      "numero": "7415",
+      "urn": "urn:lex:br:federal:lei:1985-12-09;7415",
+      "ementa": "Introduz modificações na Lei nº 605, de 5 de janeiro de 1949, que \"dispõe sobre o repouso semanal remunerado e o pagamento de salário nos dias feriados civis e religiosos\"."
+    },
+    {
+      "senadoId": "549289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-09-7413",
+      "titulo": "Lei nº 7.413 de 09/12/1985",
+      "data": "1985-12-09",
+      "numero": "7413",
+      "urn": "urn:lex:br:federal:lei:1985-12-09;7413",
+      "ementa": "Dispõe sobre a criação do Colégio Agrícola de Sertânia, no Estado de   Pernambuco."
+    },
+    {
+      "senadoId": "549290",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-09-7414",
+      "titulo": "Lei nº 7.414 de 09/12/1985",
+      "data": "1985-12-09",
+      "numero": "7414",
+      "urn": "urn:lex:br:federal:lei:1985-12-09;7414",
+      "ementa": "Altera a redação do art. 135 da Consolidação das Leis do Trabalho,   aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, que dispõe sobre a   concessão de férias anuais remuneradas."
+    },
+    {
+      "senadoId": "549288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-06-7412",
+      "titulo": "Lei nº 7.412 de 06/12/1985",
+      "data": "1985-12-06",
+      "numero": "7412",
+      "urn": "urn:lex:br:federal:lei:1985-12-06;7412",
+      "ementa": "Altera dispositivos da Lei nº 5.619, de 3 de novembro de 1970, e dá outras providências."
+    },
+    {
+      "senadoId": "549287",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-12-02-7411",
+      "titulo": "Lei nº 7.411 de 02/12/1985",
+      "data": "1985-12-02",
+      "numero": "7411",
+      "urn": "urn:lex:br:federal:lei:1985-12-02;7411",
+      "ementa": "Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades de Apoio Judiciário dos Quadros das Secretarias dos Tribunais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "549286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-27-7410",
+      "titulo": "Lei nº 7.410 de 27/11/1985",
+      "data": "1985-11-27",
+      "numero": "7410",
+      "urn": "urn:lex:br:federal:lei:1985-11-27;7410",
+      "ementa": "Dispõe sobre a especialização de Engenheiros e Arquitetos em Engenharia de   Segurança do Trabalho, a profissão Técnico de Segurança do Trabalho e dá outras   providências."
+    },
+    {
+      "senadoId": "549284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-25-7408",
+      "titulo": "Lei nº 7.408 de 25/11/1985",
+      "data": "1985-11-25",
+      "numero": "7408",
+      "urn": "urn:lex:br:federal:lei:1985-11-25;7408",
+      "ementa": "Permite a tolerância de 5% ( cinco por cento ) na pesagem de carga em veículos de transporte."
+    },
+    {
+      "senadoId": "549285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-25-7409",
+      "titulo": "Lei nº 7.409 de 25/11/1985",
+      "data": "1985-11-25",
+      "numero": "7409",
+      "urn": "urn:lex:br:federal:lei:1985-11-25;7409",
+      "ementa": "Altera a estrutura da Categoria Funcional de Tradutor e Intérprete, do   Grupo-Outras Atividades de Nível Superior, e dá outras   providências."
+    },
+    {
+      "senadoId": "549283",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-19-7407",
+      "titulo": "Lei nº 7.407 de 19/11/1985",
+      "data": "1985-11-19",
+      "numero": "7407",
+      "urn": "urn:lex:br:federal:lei:1985-11-19;7407",
+      "ementa": "Modifica a redação do parágrafo único do art. 1º do Decreto-Lei nº 2.249, de 25 de fevereiro de 1985, e dá outras providências."
+    },
+    {
+      "senadoId": "549282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-18-7406",
+      "titulo": "Lei nº 7.406 de 18/11/1985",
+      "data": "1985-11-18",
+      "numero": "7406",
+      "urn": "urn:lex:br:federal:lei:1985-11-18;7406",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Saúde, crédito suplementar até o limite de Cr$ 2.411.700.000 ( dois bilhões, quatrocentos e onze milhões e setecentos mil cruzeiros ), para o fim que especifica."
+    },
+    {
+      "senadoId": "549281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-12-7405",
+      "titulo": "Lei nº 7.405 de 12/11/1985",
+      "data": "1985-11-12",
+      "numero": "7405",
+      "urn": "urn:lex:br:federal:lei:1985-11-12;7405",
+      "ementa": "Torna obrigatória a colocação do \"Símbolo Internacional de Acesso\" em   todos os locais e serviços que permitam sua utilização por pessoas portadoras de   deficiência e dá outras providências."
+    },
+    {
+      "senadoId": "549280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-11-7404",
+      "titulo": "Lei nº 7.404 de 11/11/1985",
+      "data": "1985-11-11",
+      "numero": "7404",
+      "urn": "urn:lex:br:federal:lei:1985-11-11;7404",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos suplementares até o limite de Cr$ 10.146.500.000.000 ( dez trilhões, cento e quarenta e seis bilhões e quinhentos milhões de cruzeiros ) , e dá outras providências."
+    },
+    {
+      "senadoId": "549278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-05-7402",
+      "titulo": "Lei nº 7.402 de 05/11/1985",
+      "data": "1985-11-05",
+      "numero": "7402",
+      "urn": "urn:lex:br:federal:lei:1985-11-05;7402",
+      "ementa": "Introduz modificação na Lei nº 5.584, de 26 de junho de 1970, que dispõe   sobre normas de direito processual do trabalho e dá outras   providências."
+    },
+    {
+      "senadoId": "549279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-05-7403",
+      "titulo": "Lei nº 7.403 de 05/11/1985",
+      "data": "1985-11-05",
+      "numero": "7403",
+      "urn": "urn:lex:br:federal:lei:1985-11-05;7403",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS,   autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona,   situado no Município de Antenor Navarro, no Estado da Paraíba."
+    },
+    {
+      "senadoId": "549276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-05-7400",
+      "titulo": "Lei nº 7.400 de 05/11/1985",
+      "data": "1985-11-05",
+      "numero": "7400",
+      "urn": "urn:lex:br:federal:lei:1985-11-05;7400",
+      "ementa": "Altera dispositivo da Lei nº 6.032, de 30 de abril de 1974, que \"dispõe sobre o Regimento de Custas da Justiça Federal\""
+    },
+    {
+      "senadoId": "549277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-05-7401",
+      "titulo": "Lei nº 7.401 de 05/11/1985",
+      "data": "1985-11-05",
+      "numero": "7401",
+      "urn": "urn:lex:br:federal:lei:1985-11-05;7401",
+      "ementa": "Altera a Lei nº 6.690, de 25 de setembro de 1979, que disciplina o cancelamento de protesto de títulos cambiais, e dá outras providências."
+    },
+    {
+      "senadoId": "549275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-04-7399",
+      "titulo": "Lei nº 7.399 de 04/11/1985",
+      "data": "1985-11-04",
+      "numero": "7399",
+      "urn": "urn:lex:br:federal:lei:1985-11-04;7399",
+      "ementa": "Altera a redação da Lei nº 6.664, de 26 de junho de 1979, que disciplina a   profissão de Geógrafo."
+    },
+    {
+      "senadoId": "549274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-04-7398",
+      "titulo": "Lei nº 7.398 de 04/11/1985",
+      "data": "1985-11-04",
+      "numero": "7398",
+      "urn": "urn:lex:br:federal:lei:1985-11-04;7398",
+      "ementa": "Dispõe sobre a organização de entidades representativas dos estudantes de   1º e 2º graus e dá outras providências."
+    },
+    {
+      "senadoId": "549272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-01-7396",
+      "titulo": "Lei nº 7.396 de 01/11/1985",
+      "data": "1985-11-01",
+      "numero": "7396",
+      "urn": "urn:lex:br:federal:lei:1985-11-01;7396",
+      "ementa": "Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 12ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "549273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-11-01-7397",
+      "titulo": "Lei nº 7.397 de 01/11/1985",
+      "data": "1985-11-01",
+      "numero": "7397",
+      "urn": "urn:lex:br:federal:lei:1985-11-01;7397",
+      "ementa": "Dispõe sobre a validação dos cursos superiores   não-reconhecidos."
+    },
+    {
+      "senadoId": "549271",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-31-7395",
+      "titulo": "Lei nº 7.395 de 31/10/1985",
+      "data": "1985-10-31",
+      "numero": "7395",
+      "urn": "urn:lex:br:federal:lei:1985-10-31;7395",
+      "ementa": "Dispõe sobre os órgãos de representação dos estudantes de nível superior e   dá outras providências."
+    },
+    {
+      "senadoId": "549270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-29-7394",
+      "titulo": "Lei nº 7.394 de 29/10/1985",
+      "data": "1985-10-29",
+      "numero": "7394",
+      "urn": "urn:lex:br:federal:lei:1985-10-29;7394",
+      "ementa": "Regula o exercício da Profissão de Técnico em Radiologia e dá outras providências."
+    },
+    {
+      "senadoId": "549268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-25-7392",
+      "titulo": "Lei nº 7.392 de 25/10/1985",
+      "data": "1985-10-25",
+      "numero": "7392",
+      "urn": "urn:lex:br:federal:lei:1985-10-25;7392",
+      "ementa": "Fixa os valores de retribuição das Categorias Funcionais de Zootecnista e   Terapeuta Ocupacional, do Grupo-Outras Atividades de Nível Superior a que se   refere a Lei nº 6.550, de 5 de julho de 1978, e dá outras   providências."
+    },
+    {
+      "senadoId": "549266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-25-7390",
+      "titulo": "Lei nº 7.390 de 25/10/1985",
+      "data": "1985-10-25",
+      "numero": "7390",
+      "urn": "urn:lex:br:federal:lei:1985-10-25;7390",
+      "ementa": "Denomina \"Presidente Juscelino Kubitschek\" a Escola Agrotécnica Federal de   Bento Gonçalves, no Rio Grande do Sul."
+    },
+    {
+      "senadoId": "549269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-25-7393",
+      "titulo": "Lei nº 7.393 de 25/10/1985",
+      "data": "1985-10-25",
+      "numero": "7393",
+      "urn": "urn:lex:br:federal:lei:1985-10-25;7393",
+      "ementa": "Altera a Estrutura da Categoria Funcional de Sociólogo, do Grupo-Outras   Atividades de Nível Superior, e dá outras providências."
+    },
+    {
+      "senadoId": "549265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-25-7389",
+      "titulo": "Lei nº 7.389 de 25/10/1985",
+      "data": "1985-10-25",
+      "numero": "7389",
+      "urn": "urn:lex:br:federal:lei:1985-10-25;7389",
+      "ementa": "Altera a estrutura da Categoria Funcional de Geógrafo, do Grupo-Outras   Atividades de Nível Superior, e dá outras providências."
+    },
+    {
+      "senadoId": "549267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-25-7391",
+      "titulo": "Lei nº 7.391 de 25/10/1985",
+      "data": "1985-10-25",
+      "numero": "7391",
+      "urn": "urn:lex:br:federal:lei:1985-10-25;7391",
+      "ementa": "Dispõe sobre a aplicação do estabelecido no art. 2º da Lei nº 6.185, de 11   de dezembro de 1974, que dispõe sobre o regime jurídico dos servidores públicos   civis da Administração Federal direta e das autarquias federais, e dá outras   providências."
+    },
+    {
+      "senadoId": "549264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-23-7388",
+      "titulo": "Lei nº 7.388 de 23/10/1985",
+      "data": "1985-10-23",
+      "numero": "7388",
+      "urn": "urn:lex:br:federal:lei:1985-10-23;7388",
+      "ementa": "Dispõe sobre a Tabela de Pessoal da Superintendência do Desenvolvimento do   Nordeste - SUDENE e dá outras providências."
+    },
+    {
+      "senadoId": "549263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-21-7387",
+      "titulo": "Lei nº 7.387 de 21/10/1985",
+      "data": "1985-10-21",
+      "numero": "7387",
+      "urn": "urn:lex:br:federal:lei:1985-10-21;7387",
+      "ementa": "Dispõe sobre o exercício da profissão de Economista Doméstico e dá outras   providências."
+    },
+    {
+      "senadoId": "549260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-18-7384",
+      "titulo": "Lei nº 7.384 de 18/10/1985",
+      "data": "1985-10-18",
+      "numero": "7384",
+      "urn": "urn:lex:br:federal:lei:1985-10-18;7384",
+      "ementa": "Dispõe sobre a reestruturação da Defensoria de Ofício da Justiça Militar e   dá outras providências."
+    },
+    {
+      "senadoId": "549261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-18-7385",
+      "titulo": "Lei nº 7.385 de 18/10/1985",
+      "data": "1985-10-18",
+      "numero": "7385",
+      "urn": "urn:lex:br:federal:lei:1985-10-18;7385",
+      "ementa": "Dispõe sobre a criação de cargos no Quadro Permanente do Tribunal Superior   Eleitoral."
+    },
+    {
+      "senadoId": "549262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-18-7386",
+      "titulo": "Lei nº 7.386 de 18/10/1985",
+      "data": "1985-10-18",
+      "numero": "7386",
+      "urn": "urn:lex:br:federal:lei:1985-10-18;7386",
+      "ementa": "Dispõe sobre a inclusão, nos proventos de aposentadoria, da Gratificação   por Operações Especiais de que trata o Decreto-Lei nº 1.727, de 10 de dezembro   de 1979, e dá outras providências."
+    },
+    {
+      "senadoId": "549259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-17-7383",
+      "titulo": "Lei nº 7.383 de 17/10/1985",
+      "data": "1985-10-17",
+      "numero": "7383",
+      "urn": "urn:lex:br:federal:lei:1985-10-17;7383",
+      "ementa": "Dá denominação ao Aeroporto do Tirirical, em São Luiz, no Estado do   Maranhão."
+    },
+    {
+      "senadoId": "549257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-15-7381",
+      "titulo": "Lei nº 7.381 de 15/10/1985",
+      "data": "1985-10-15",
+      "numero": "7381",
+      "urn": "urn:lex:br:federal:lei:1985-10-15;7381",
+      "ementa": "Cancela penas impostas ao ex-Presidente João Gulart, determina a devolução   das condecorações nacionais que lhe foram retiradas, bem como a sua reinclusão   nos quadros das respectivas ordens dos quais tenha sido excluído."
+    },
+    {
+      "senadoId": "549258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-15-7382",
+      "titulo": "Lei nº 7.382 de 15/10/1985",
+      "data": "1985-10-15",
+      "numero": "7382",
+      "urn": "urn:lex:br:federal:lei:1985-10-15;7382",
+      "ementa": "Autoriza a transferência da participação da União Federal no capital da Companhia Nacional de Álcalis."
+    },
+    {
+      "senadoId": "549256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-07-7380",
+      "titulo": "Lei nº 7.380 de 07/10/1985",
+      "data": "1985-10-07",
+      "numero": "7380",
+      "urn": "urn:lex:br:federal:lei:1985-10-07;7380",
+      "ementa": "Cria cargos de Procurador Militar de 2ª Categoria na carreira do Ministro   Público da União junto à Justiça Militar e dá outras providências."
+    },
+    {
+      "senadoId": "549255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-10-07-7379",
+      "titulo": "Lei nº 7.379 de 07/10/1985",
+      "data": "1985-10-07",
+      "numero": "7379",
+      "urn": "urn:lex:br:federal:lei:1985-10-07;7379",
+      "ementa": "Altera dispositivos da Lei nº 5.682, de 21 de julho de 1971, modificada pelas Leis nºs 5.697, de 27 de agosto de 1971, 5.781, de 5 de junho de 1972, 6.444, de 3 de outubro de 1977, e 6.767, de 20 de dezembro de 1979, e dá outras providências."
+    },
+    {
+      "senadoId": "549252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-30-7376",
+      "titulo": "Lei nº 7.376 de 30/09/1985",
+      "data": "1985-09-30",
+      "numero": "7376",
+      "urn": "urn:lex:br:federal:lei:1985-09-30;7376",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério do Interior o crédito especial de até Cr$ 22.000.000.000,00 (vinte e dois bilhões de cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "549251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-30-7375",
+      "titulo": "Lei nº 7.375 de 30/09/1985",
+      "data": "1985-09-30",
+      "numero": "7375",
+      "urn": "urn:lex:br:federal:lei:1985-09-30;7375",
+      "ementa": "Reajusta a pensão especial concedida pela Lei nº 3.684, de 9 de dezembro   de 1959, a Hilda Sayão Carvalho Araújo, viúva do ex-Vice-Governador do Estado de   Goiás e ex-Diretor da Cia Urbanizadorada Nova Capital do Brasil - NOVACAP,   Bernardo Sayão Carvalho Araújo."
+    },
+    {
+      "senadoId": "549250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-30-7374",
+      "titulo": "Lei nº 7.374 de 30/09/1985",
+      "data": "1985-09-30",
+      "numero": "7374",
+      "urn": "urn:lex:br:federal:lei:1985-09-30;7374",
+      "ementa": "Dispõe sobre vantagens pecuniária, de caráter transitório, atribuída a Ministro de Estado e dá outras providências."
+    },
+    {
+      "senadoId": "549253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-30-7377",
+      "titulo": "Lei nº 7.377 de 30/09/1985",
+      "data": "1985-09-30",
+      "numero": "7377",
+      "urn": "urn:lex:br:federal:lei:1985-09-30;7377",
+      "ementa": "Dispõe sobre o exercício da profissão de Secretário e dá outras providências."
+    },
+    {
+      "senadoId": "549254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-30-7378",
+      "titulo": "Lei nº 7.378 de 30/09/1985",
+      "data": "1985-09-30",
+      "numero": "7378",
+      "urn": "urn:lex:br:federal:lei:1985-09-30;7378",
+      "ementa": "Autoriza a emissão de selo comemorativo do centenário de nascimento do   poeta piauiense Antônio Francisco da Costa e Silva."
+    },
+    {
+      "senadoId": "549249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-25-7373",
+      "titulo": "Lei nº 7.373 de 25/09/1985",
+      "data": "1985-09-25",
+      "numero": "7373",
+      "urn": "urn:lex:br:federal:lei:1985-09-25;7373",
+      "ementa": "Dispõe sobre a isenção da multa prevista no art. 8º da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral."
+    },
+    {
+      "senadoId": "549248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-24-7372",
+      "titulo": "Lei nº 7.372 de 24/09/1985",
+      "data": "1985-09-24",
+      "numero": "7372",
+      "urn": "urn:lex:br:federal:lei:1985-09-24;7372",
+      "ementa": "Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional   Eleitoral do Estado de Alagoas e dá outras providências."
+    },
+    {
+      "senadoId": "549247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-24-7371",
+      "titulo": "Lei nº 7.371 de 24/09/1985",
+      "data": "1985-09-24",
+      "numero": "7371",
+      "urn": "urn:lex:br:federal:lei:1985-09-24;7371",
+      "ementa": "Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional   Eleitoral do Estado de Santa Catarina e dá outras providências."
+    },
+    {
+      "senadoId": "549246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-20-7370",
+      "titulo": "Lei nº 7.370 de 20/09/1985",
+      "data": "1985-09-20",
+      "numero": "7370",
+      "urn": "urn:lex:br:federal:lei:1985-09-20;7370",
+      "ementa": "Altera o item XXVIII do Anexo II do Decreto-Lei nº 1.341, de 22 de agosto de 1974."
+    },
+    {
+      "senadoId": "549245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-20-7369",
+      "titulo": "Lei nº 7.369 de 20/09/1985",
+      "data": "1985-09-20",
+      "numero": "7369",
+      "urn": "urn:lex:br:federal:lei:1985-09-20;7369",
+      "ementa": "Institui salário adicional para os empregados no setor de energia elétrica, em condições de periculosidade."
+    },
+    {
+      "senadoId": "549243",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-18-7367",
+      "titulo": "Lei nº 7.367 de 18/09/1985",
+      "data": "1985-09-18",
+      "numero": "7367",
+      "urn": "urn:lex:br:federal:lei:1985-09-18;7367",
+      "ementa": "Reajusta a pensão especial concedida pela Lei nº 6.610, de 7 de dezembro   de 1978, a Walter dos Santos Siqueira e dá outras providências."
+    },
+    {
+      "senadoId": "549244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-18-7368",
+      "titulo": "Lei nº 7.368 de 18/09/1985",
+      "data": "1985-09-18",
+      "numero": "7368",
+      "urn": "urn:lex:br:federal:lei:1985-09-18;7368",
+      "ementa": "Autoriza o Instituto Brasileiro de Desenvolvimento Florestal - IBDF a doar   o imóvel que menciona."
+    },
+    {
+      "senadoId": "549242",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-18-7366",
+      "titulo": "Lei nº 7.366 de 18/09/1985",
+      "data": "1985-09-18",
+      "numero": "7366",
+      "urn": "urn:lex:br:federal:lei:1985-09-18;7366",
+      "ementa": "Revoga a Lei nº 7.138, de 08 de novembro de 1983."
+    },
+    {
+      "senadoId": "549241",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-13-7365",
+      "titulo": "Lei nº 7.365 de 13/09/1985",
+      "data": "1985-09-13",
+      "numero": "7365",
+      "urn": "urn:lex:br:federal:lei:1985-09-13;7365",
+      "ementa": "Dispõe sobre a fabricação de detergentes não-biodegradáveis."
+    },
+    {
+      "senadoId": "549240",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-12-7364",
+      "titulo": "Lei nº 7.364 de 12/09/1985",
+      "data": "1985-09-12",
+      "numero": "7364",
+      "urn": "urn:lex:br:federal:lei:1985-09-12;7364",
+      "ementa": "Autoriza o Poder Executivo a criar a Universidade Federal de Roraima e dá   outras providências."
+    },
+    {
+      "senadoId": "549239",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-11-7363",
+      "titulo": "Lei nº 7.363 de 11/09/1985",
+      "data": "1985-09-11",
+      "numero": "7363",
+      "urn": "urn:lex:br:federal:lei:1985-09-11;7363",
+      "ementa": "Introduz alterações na Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, no que se refere à arrematação de bens penhorados."
+    },
+    {
+      "senadoId": "549235",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-10-7359",
+      "titulo": "Lei nº 7.359 de 10/09/1985",
+      "data": "1985-09-10",
+      "numero": "7359",
+      "urn": "urn:lex:br:federal:lei:1985-09-10;7359",
+      "ementa": "Acrescenta parágrafo ao artigo 232 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil."
+    },
+    {
+      "senadoId": "549238",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-10-7362",
+      "titulo": "Lei nº 7.362 de 10/09/1985",
+      "data": "1985-09-10",
+      "numero": "7362",
+      "urn": "urn:lex:br:federal:lei:1985-09-10;7362",
+      "ementa": "Concede pensão especial ao Padre Virgínio Fistarol (Ordem   Salesiana)."
+    },
+    {
+      "senadoId": "549237",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-10-7361",
+      "titulo": "Lei nº 7.361 de 10/09/1985",
+      "data": "1985-09-10",
+      "numero": "7361",
+      "urn": "urn:lex:br:federal:lei:1985-09-10;7361",
+      "ementa": "Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do   Tribunal Regional Eleitoral do Estado do Ceará e dá outras   providências."
+    },
+    {
+      "senadoId": "549236",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-10-7360",
+      "titulo": "Lei nº 7.360 de 10/09/1985",
+      "data": "1985-09-10",
+      "numero": "7360",
+      "urn": "urn:lex:br:federal:lei:1985-09-10;7360",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 972, de 17 de outubro de 1969."
+    },
+    {
+      "senadoId": "549233",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-02-7357",
+      "titulo": "Lei nº 7.357 de 02/09/1985",
+      "data": "1985-09-02",
+      "numero": "7357",
+      "urn": "urn:lex:br:federal:lei:1985-09-02;7357",
+      "ementa": "Dispõe sobre o cheque e dá outras providências."
+    },
+    {
+      "senadoId": "549234",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-09-02-7358",
+      "titulo": "Lei nº 7.358 de 02/09/1985",
+      "data": "1985-09-02",
+      "numero": "7358",
+      "urn": "urn:lex:br:federal:lei:1985-09-02;7358",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação crédito especial de Cr$ 6.242.900.000 (seis bilhões, duzentos e quarenta e dois milhões e novecentos mil cruzeiros), para o fim que especifica."
+    },
+    {
+      "senadoId": "549232",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-30-7356",
+      "titulo": "Lei nº 7.356 de 30/08/1985",
+      "data": "1985-08-30",
+      "numero": "7356",
+      "urn": "urn:lex:br:federal:lei:1985-08-30;7356",
+      "ementa": "Determina a inclusão de parágrafo no artigo 5º da Lei nº 3.807, de 26 de   agosto de 1960 - Lei Orgânica da Previdência Social, regulando a inclusão dos   pescadores no regime dessa Lei."
+    },
+    {
+      "senadoId": "549230",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-30-7354",
+      "titulo": "Lei nº 7.354 de 30/08/1985",
+      "data": "1985-08-30",
+      "numero": "7354",
+      "urn": "urn:lex:br:federal:lei:1985-08-30;7354",
+      "ementa": "Dispõe sobre a criação de cargos no Quadro Permanente do Tribunal Regional   Eleitoral do Estado de São Paulo e dá outras providências."
+    },
+    {
+      "senadoId": "549231",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-30-7355",
+      "titulo": "Lei nº 7.355 de 30/08/1985",
+      "data": "1985-08-30",
+      "numero": "7355",
+      "urn": "urn:lex:br:federal:lei:1985-08-30;7355",
+      "ementa": "Altera o artigo 7º da Lei nº 6.649, de 16 de maio de 1979 - Lei do Inquilinato."
+    },
+    {
+      "senadoId": "549229",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-29-7353",
+      "titulo": "Lei nº 7.353 de 29/08/1985",
+      "data": "1985-08-29",
+      "numero": "7353",
+      "urn": "urn:lex:br:federal:lei:1985-08-29;7353",
+      "ementa": "Cria o Conselho Nacional dos Direitos da Mulher - CNDM e dá outras providências."
+    },
+    {
+      "senadoId": "549228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-28-7352",
+      "titulo": "Lei nº 7.352 de 28/08/1985",
+      "data": "1985-08-28",
+      "numero": "7352",
+      "urn": "urn:lex:br:federal:lei:1985-08-28;7352",
+      "ementa": "Institui o Dia Nacional do Voluntariado."
+    },
+    {
+      "senadoId": "549227",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-27-7351",
+      "titulo": "Lei nº 7.351 de 27/08/1985",
+      "data": "1985-08-27",
+      "numero": "7351",
+      "urn": "urn:lex:br:federal:lei:1985-08-27;7351",
+      "ementa": "Dá nova redação ao art. 836 da Consolidação das Leis do Trabalho - CLT,   aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "549226",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-27-7350",
+      "titulo": "Lei nº 7.350 de 27/08/1985",
+      "data": "1985-08-27",
+      "numero": "7350",
+      "urn": "urn:lex:br:federal:lei:1985-08-27;7350",
+      "ementa": "Acrescenta parágrafo ao artigo 1º da Lei nº 6.545, de 30 de junho de 1978,   que \"dispõe sobre a transformação das Escolas Técnicas Federais de Minas Gerais,   do Paraná e Celso Suckow da Fonseca em Centrais Federais de Educação   Tecnológica, e dá outras providências\"."
+    },
+    {
+      "senadoId": "549225",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-08-22-7349",
+      "titulo": "Lei nº 7.349 de 22/08/1985",
+      "data": "1985-08-22",
+      "numero": "7349",
+      "urn": "urn:lex:br:federal:lei:1985-08-22;7349",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação crédito especial de Cr$ 32.332.200.000,00 ( trinta e dois bilhões, trezentos e trinta e dois milhões e duzentos mil cruzeiros), para fins que especifica."
+    },
+    {
+      "senadoId": "549224",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-24-7348",
+      "titulo": "Lei nº 7.348 de 24/07/1985",
+      "data": "1985-07-24",
+      "numero": "7348",
+      "urn": "urn:lex:br:federal:lei:1985-07-24;7348",
+      "ementa": "Dispõe sobre a execução do § 4º do art. 176 da Constituição Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "549223",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-24-7347",
+      "titulo": "Lei nº 7.347 de 24/07/1985",
+      "data": "1985-07-24",
+      "numero": "7347",
+      "urn": "urn:lex:br:federal:lei:1985-07-24;7347",
+      "ementa": "Disciplina a ação civil pública de responsabilidade por danos causados ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico (VETADO) e dá outras providências."
+    },
+    {
+      "senadoId": "549222",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-22-7346",
+      "titulo": "Lei nº 7.346 de 22/07/1985",
+      "data": "1985-07-22",
+      "numero": "7346",
+      "urn": "urn:lex:br:federal:lei:1985-07-22;7346",
+      "ementa": "Veda novas inscrições no Quadro de Provisionados da Ordem dos Advogados do Brasil e, mediante alterações da Lei nº 4.215, de 27 de abril de 1963, assegura, aos atualmente inscritos nesse Quadro, o amplo direito de exercício da profissão de advogado."
+    },
+    {
+      "senadoId": "549221",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-15-7345",
+      "titulo": "Lei nº 7.345 de 15/07/1985",
+      "data": "1985-07-15",
+      "numero": "7345",
+      "urn": "urn:lex:br:federal:lei:1985-07-15;7345",
+      "ementa": "Altera o valor do vencimento dos cargos que especifica e dá outras   providências."
+    },
+    {
+      "senadoId": "549219",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-15-7343",
+      "titulo": "Lei nº 7.343 de 15/07/1985",
+      "data": "1985-07-15",
+      "numero": "7343",
+      "urn": "urn:lex:br:federal:lei:1985-07-15;7343",
+      "ementa": "Dá a denominação de \"Afonso Pena\" ao aeroporto de São José dos Pinhais,   Estado do Paraná."
+    },
+    {
+      "senadoId": "549220",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-15-7344",
+      "titulo": "Lei nº 7.344 de 15/07/1985",
+      "data": "1985-07-15",
+      "numero": "7344",
+      "urn": "urn:lex:br:federal:lei:1985-07-15;7344",
+      "ementa": "Autoriza a reversão ao Município de Ourinhos, Estado de São Paulo, do   terreno que menciona."
+    },
+    {
+      "senadoId": "549216",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-10-7340",
+      "titulo": "Lei nº 7.340 de 10/07/1985",
+      "data": "1985-07-10",
+      "numero": "7340",
+      "urn": "urn:lex:br:federal:lei:1985-07-10;7340",
+      "ementa": "Fixa os valores de retribuição da Categoria Funcional de Técnico de   Cobrança e Pagamentos Especiais, código NS-944 ou LT-NS-944, e dá outras   providências."
+    },
+    {
+      "senadoId": "549217",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-10-7341",
+      "titulo": "Lei nº 7.341 de 10/07/1985",
+      "data": "1985-07-10",
+      "numero": "7341",
+      "urn": "urn:lex:br:federal:lei:1985-07-10;7341",
+      "ementa": "Altera a estrutura da Categoria Funcional de Assistência Social, do   Grupo-Outras Atividades de Nível Superior, e dá outras   providências."
+    },
+    {
+      "senadoId": "549218",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-10-7342",
+      "titulo": "Lei nº 7.342 de 10/07/1985",
+      "data": "1985-07-10",
+      "numero": "7342",
+      "urn": "urn:lex:br:federal:lei:1985-07-10;7342",
+      "ementa": "Concede pensão especial a Josa Pedro Tiradentes, trineto de Joaquim José   Xavier, o Tiradentes."
+    },
+    {
+      "senadoId": "549214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-08-7338",
+      "titulo": "Lei nº 7.338 de 08/07/1985",
+      "data": "1985-07-08",
+      "numero": "7338",
+      "urn": "urn:lex:br:federal:lei:1985-07-08;7338",
+      "ementa": "Dispõe sobre os reajustes dos atuais valores de vencimentos e proventos   dos servidores ativos e inativos do Senado Federal, bem como os das pensões e dá   outras providências."
+    },
+    {
+      "senadoId": "549215",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-08-7339",
+      "titulo": "Lei nº 7.339 de 08/07/1985",
+      "data": "1985-07-08",
+      "numero": "7339",
+      "urn": "urn:lex:br:federal:lei:1985-07-08;7339",
+      "ementa": "Rajusta os valores de vencimentos, salários e proventos dos servidores da   Câmara dos Deputados e dá outras providências."
+    },
+    {
+      "senadoId": "549213",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-08-7337",
+      "titulo": "Lei nº 7.337 de 08/07/1985",
+      "data": "1985-07-08",
+      "numero": "7337",
+      "urn": "urn:lex:br:federal:lei:1985-07-08;7337",
+      "ementa": "Autoriza a reversão ao Município de Jacarezinho, Estado do Paraná, do   terreno que menciona."
+    },
+    {
+      "senadoId": "549211",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-04-7335",
+      "titulo": "Lei nº 7.335 de 04/07/1985",
+      "data": "1985-07-04",
+      "numero": "7335",
+      "urn": "urn:lex:br:federal:lei:1985-07-04;7335",
+      "ementa": "Prorroga a vigência da Lei n° 7.069, de 20 de dezembro de 1982, que estabelece limite ao reajuste de aluguéis residênciais."
+    },
+    {
+      "senadoId": "549212",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-04-7336",
+      "titulo": "Lei nº 7.336 de 04/07/1985",
+      "data": "1985-07-04",
+      "numero": "7336",
+      "urn": "urn:lex:br:federal:lei:1985-07-04;7336",
+      "ementa": "Altera o artigo 7º da Lei n° 1.649, de 19 de julho de 1952, modificado pelo Decreto-lei n° 531, de 16 de abril de 1969."
+    },
+    {
+      "senadoId": "549209",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-02-7333",
+      "titulo": "Lei nº 7.333 de 02/07/1985",
+      "data": "1985-07-02",
+      "numero": "7333",
+      "urn": "urn:lex:br:federal:lei:1985-07-02;7333",
+      "ementa": "Reajusta os vencimentos, salários e soldos dos servidores civis e militares da União e dos Territórios Federais, dos membros do Poder Judiciário da União, do Distrito Federal e Territórios, do Tribunal de Contas da União, bem como revê proventos e pensões, e dá outras providências."
+    },
+    {
+      "senadoId": "549210",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-02-7334",
+      "titulo": "Lei nº 7.334 de 02/07/1985",
+      "data": "1985-07-02",
+      "numero": "7334",
+      "urn": "urn:lex:br:federal:lei:1985-07-02;7334",
+      "ementa": "Reajusta os vencimentos, salários, soldos e proventos dos servidores civis e da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, dos membros e dos servidores do Tribunal de Contas do Distrito Federal e do respectivo Ministério Público, e dá outras providências."
+    },
+    {
+      "senadoId": "549207",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-01-7331",
+      "titulo": "Lei nº 7.331 de 01/07/1985",
+      "data": "1985-07-01",
+      "numero": "7331",
+      "urn": "urn:lex:br:federal:lei:1985-07-01;7331",
+      "ementa": "Autoriza a reversão, ao Estado de Mato Grosso, do terreno que   menciona."
+    },
+    {
+      "senadoId": "549208",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-07-01-7332",
+      "titulo": "Lei nº 7.332 de 01/07/1985",
+      "data": "1985-07-01",
+      "numero": "7332",
+      "urn": "urn:lex:br:federal:lei:1985-07-01;7332",
+      "ementa": "Estabelece normas para a realização de eleições em 1985, dispõe sobre o alistamento eleitoral e o voto do analfabeto e dá outras providências."
+    },
+    {
+      "senadoId": "549205",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-27-7329",
+      "titulo": "Lei nº 7.329 de 27/06/1985",
+      "data": "1985-06-27",
+      "numero": "7329",
+      "urn": "urn:lex:br:federal:lei:1985-06-27;7329",
+      "ementa": "Altera o prazo para pagamento do imposto de renda devido por pessoas   jurídicas."
+    },
+    {
+      "senadoId": "549206",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-27-7330",
+      "titulo": "Lei nº 7.330 de 27/06/1985",
+      "data": "1985-06-27",
+      "numero": "7330",
+      "urn": "urn:lex:br:federal:lei:1985-06-27;7330",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos suplementares até o limite de Cr$ 23.507.600.000.000 (vinte e três trilhões, quinhentos e sete bilhões e seicentos milhões de cruzeiros), e dá outras providências."
+    },
+    {
+      "senadoId": "549204",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-25-7328",
+      "titulo": "Lei nº 7.328 de 25/06/1985",
+      "data": "1985-06-25",
+      "numero": "7328",
+      "urn": "urn:lex:br:federal:lei:1985-06-25;7328",
+      "ementa": "Autoriza o Poder Executivo a transpor recursos para implementação e funcionamento dos Ministérios que especifica e dá outras providências."
+    },
+    {
+      "senadoId": "549198",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-18-7322",
+      "titulo": "Lei nº 7.322 de 18/06/1985",
+      "data": "1985-06-18",
+      "numero": "7322",
+      "urn": "urn:lex:br:federal:lei:1985-06-18;7322",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Miinistério da Saúde o crédito especial até o limite de Cr$ 5.000.000.000 para o fim que especifica."
+    },
+    {
+      "senadoId": "549201",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-18-7325",
+      "titulo": "Lei nº 7.325 de 18/06/1985",
+      "data": "1985-06-18",
+      "numero": "7325",
+      "urn": "urn:lex:br:federal:lei:1985-06-18;7325",
+      "ementa": "Altera a composição e a organização interna dos Tribunais Regionais do   Trabalho que menciona, cria cargos e dá outras providências."
+    },
+    {
+      "senadoId": "549202",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-18-7326",
+      "titulo": "Lei nº 7.326 de 18/06/1985",
+      "data": "1985-06-18",
+      "numero": "7326",
+      "urn": "urn:lex:br:federal:lei:1985-06-18;7326",
+      "ementa": "Dispõe sobre ingresso no Corpo de Engenheiros e Técnicos Navais -   CETN."
+    },
+    {
+      "senadoId": "549200",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-18-7324",
+      "titulo": "Lei nº 7.324 de 18/06/1985",
+      "data": "1985-06-18",
+      "numero": "7324",
+      "urn": "urn:lex:br:federal:lei:1985-06-18;7324",
+      "ementa": "Cria a 13ª Região da Justiça do Trabalho e o respectivo Tribunal Regional do Trabalho, institui a correspondente Procuradoria Regional do Ministério Público da União junto à Justiça do Trabalho e dá outras providências"
+    },
+    {
+      "senadoId": "549203",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-18-7327",
+      "titulo": "Lei nº 7.327 de 18/06/1985",
+      "data": "1985-06-18",
+      "numero": "7327",
+      "urn": "urn:lex:br:federal:lei:1985-06-18;7327",
+      "ementa": "Concede pensão especial a Clodomiro Ignácio Xavier, ex-Cabo do Exército e   dá outras providências."
+    },
+    {
+      "senadoId": "549199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-18-7323",
+      "titulo": "Lei nº 7.323 de 18/06/1985",
+      "data": "1985-06-18",
+      "numero": "7323",
+      "urn": "urn:lex:br:federal:lei:1985-06-18;7323",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Saúde o crédito especial até o limite de Cr$ 654.700.000,00 para o fim que especifica."
+    },
+    {
+      "senadoId": "549197",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-13-7321",
+      "titulo": "Lei nº 7.321 de 13/06/1985",
+      "data": "1985-06-13",
+      "numero": "7321",
+      "urn": "urn:lex:br:federal:lei:1985-06-13;7321",
+      "ementa": "Altera a denominação do Conselho Federal e dos Conselhos Regionais de Técnicos de Administração e dá outras providências."
+    },
+    {
+      "senadoId": "549196",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-11-7320",
+      "titulo": "Lei nº 7.320 de 11/06/1985",
+      "data": "1985-06-11",
+      "numero": "7320",
+      "urn": "urn:lex:br:federal:lei:1985-06-11;7320",
+      "ementa": "Dispõe sobre antecipação de comemoração de feriados e dá outras   providências."
+    },
+    {
+      "senadoId": "549195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-11-7319",
+      "titulo": "Lei nº 7.319 de 11/06/1985",
+      "data": "1985-06-11",
+      "numero": "7319",
+      "urn": "urn:lex:br:federal:lei:1985-06-11;7319",
+      "ementa": "Cria cargos no Ministério da Reforma e do Desenvolvimento Agrário - MIRAD   e dá outras providências."
+    },
+    {
+      "senadoId": "549194",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-06-05-7318",
+      "titulo": "Lei nº 7.318 de 05/06/1985",
+      "data": "1985-06-05",
+      "numero": "7318",
+      "urn": "urn:lex:br:federal:lei:1985-06-05;7318",
+      "ementa": "Revoga o art. 26 da Lei n° 6.032, de 30 de abril de 1974, que dispõe sobre   o Regimento de Custas da Justiça Federal."
+    },
+    {
+      "senadoId": "549193",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-28-7317",
+      "titulo": "Lei nº 7.317 de 28/05/1985",
+      "data": "1985-05-28",
+      "numero": "7317",
+      "urn": "urn:lex:br:federal:lei:1985-05-28;7317",
+      "ementa": "Autoriza o Poder Executivo a abrir à Justiça do Trabalho o crédito especial de Cr$ 17.000.000 (dezessete milhões de cruzeiros) para o fim que especifica."
+    },
+    {
+      "senadoId": "549192",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-28-7316",
+      "titulo": "Lei nº 7.316 de 28/05/1985",
+      "data": "1985-05-28",
+      "numero": "7316",
+      "urn": "urn:lex:br:federal:lei:1985-05-28;7316",
+      "ementa": "Atribui às entidades sindicais que integram a Confederação Nacional das   Profissões Liberais o mesmo poder de representação dos sindicatos   representativos das categorias profissionais diferenciadas, nas ações   individuais e coletivas de competência da Justiça do Trabalho."
+    },
+    {
+      "senadoId": "549191",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-24-7315",
+      "titulo": "Lei nº 7.315 de 24/05/1985",
+      "data": "1985-05-24",
+      "numero": "7315",
+      "urn": "urn:lex:br:federal:lei:1985-05-24;7315",
+      "ementa": "Autoriza a desapropriação de ações das companhias que menciona e a abertura de crédito especial de até Cr$ 900.000.000.000,00 ( novecentos bilhões de cruzeiros) e dá outras providências."
+    },
+    {
+      "senadoId": "549190",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-23-7314",
+      "titulo": "Lei nº 7.314 de 23/05/1985",
+      "data": "1985-05-23",
+      "numero": "7314",
+      "urn": "urn:lex:br:federal:lei:1985-05-23;7314",
+      "ementa": "Dispõe sobre o vencimento e vantagens dos membros do Ministério Público   junto ao Tribunal de Contas do Distrito Federal."
+    },
+    {
+      "senadoId": "549189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-17-7313",
+      "titulo": "Lei nº 7.313 de 17/05/1985",
+      "data": "1985-05-17",
+      "numero": "7313",
+      "urn": "urn:lex:br:federal:lei:1985-05-17;7313",
+      "ementa": "Fixa em oito horas a jornada de trabalho dos vigias."
+    },
+    {
+      "senadoId": "549188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-16-7312",
+      "titulo": "Lei nº 7.312 de 16/05/1985",
+      "data": "1985-05-16",
+      "numero": "7312",
+      "urn": "urn:lex:br:federal:lei:1985-05-16;7312",
+      "ementa": "Altera a Lei nº 6.567, de 24 de setembro de 1978, para incluir o basalto no regime especial de exploração por licenciamento."
+    },
+    {
+      "senadoId": "549187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-08-7311",
+      "titulo": "Lei nº 7.311 de 08/05/1985",
+      "data": "1985-05-08",
+      "numero": "7311",
+      "urn": "urn:lex:br:federal:lei:1985-05-08;7311",
+      "ementa": "Declara de utilidade pública o Grupo Espírita Cristão \"André   Luiz de Interlagos\", sediado na cidade de São Paulo - SP."
+    },
+    {
+      "senadoId": "549186",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-05-02-7310",
+      "titulo": "Lei nº 7.310 de 02/05/1985",
+      "data": "1985-05-02",
+      "numero": "7310",
+      "urn": "urn:lex:br:federal:lei:1985-05-02;7310",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Marinha crédito especial até o limite de Cr$ 388.800.000.000 (trezentos e oitenta e oito bilhões e oitocentos milhões de cruzeiros) para o fim que especifica."
+    },
+    {
+      "senadoId": "549185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-22-7309",
+      "titulo": "Lei nº 7.309 de 22/04/1985",
+      "data": "1985-04-22",
+      "numero": "7309",
+      "urn": "urn:lex:br:federal:lei:1985-04-22;7309",
+      "ementa": "Estende a jurisdição das Juntas de Conciliação e Julgamento de São Luís   aos Municípios de Rosário, São José de Ribamar e Paço do Lumiar, todos do Estado   do Maranhão."
+    },
+    {
+      "senadoId": "549184",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-15-7308",
+      "titulo": "Lei nº 7.308 de 15/04/1985",
+      "data": "1985-04-15",
+      "numero": "7308",
+      "urn": "urn:lex:br:federal:lei:1985-04-15;7308",
+      "ementa": "Exclui o Município de Canoas da relação dos municípios declarados áreas de   Segurança Nacional."
+    },
+    {
+      "senadoId": "549183",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-09-7307",
+      "titulo": "Lei nº 7.307 de 09/04/1985",
+      "data": "1985-04-09",
+      "numero": "7307",
+      "urn": "urn:lex:br:federal:lei:1985-04-09;7307",
+      "ementa": "Faculta às Comissões Executivas Nacionais dos Partidos Políticos decidir sobre a realização de convenções, e dá outras providências."
+    },
+    {
+      "senadoId": "549182",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-09-7306",
+      "titulo": "Lei nº 7.306 de 09/04/1985",
+      "data": "1985-04-09",
+      "numero": "7306",
+      "urn": "urn:lex:br:federal:lei:1985-04-09;7306",
+      "ementa": "Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 11ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "549181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-02-7305",
+      "titulo": "Lei nº 7.305 de 02/04/1985",
+      "data": "1985-04-02",
+      "numero": "7305",
+      "urn": "urn:lex:br:federal:lei:1985-04-02;7305",
+      "ementa": "Modifica dispositivo da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 01 de maio de 1943."
+    },
+    {
+      "senadoId": "549179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-01-7303",
+      "titulo": "Lei nº 7.303 de 01/04/1985",
+      "data": "1985-04-01",
+      "numero": "7303",
+      "urn": "urn:lex:br:federal:lei:1985-04-01;7303",
+      "ementa": "Revoga o Decreto-lei nº 1.284, de 28 de agosto de 1973, que declarou o   Município de Anápolis de interesse da Segurança Nacional."
+    },
+    {
+      "senadoId": "549180",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-04-01-7304",
+      "titulo": "Lei nº 7.304 de 01/04/1985",
+      "data": "1985-04-01",
+      "numero": "7304",
+      "urn": "urn:lex:br:federal:lei:1985-04-01;7304",
+      "ementa": "Dispõe sobre a criação do Colégio Agrícola de Garanhuns, no Estado de   Pernambuco."
+    },
+    {
+      "senadoId": "549178",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-03-29-7302",
+      "titulo": "Lei nº 7.302 de 29/03/1985",
+      "data": "1985-03-29",
+      "numero": "7302",
+      "urn": "urn:lex:br:federal:lei:1985-03-29;7302",
+      "ementa": "Prorroga, até o dia 28 de junho de 1985, o prazo fixado no Decreto-lei nº   2175, de 27 de novembro de 1984, para a regularização do recolhimento dos   débitos previdenciários das Prefeituras e Autarquias Municipais."
+    },
+    {
+      "senadoId": "549177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-03-29-7301",
+      "titulo": "Lei nº 7.301 de 29/03/1985",
+      "data": "1985-03-29",
+      "numero": "7301",
+      "urn": "urn:lex:br:federal:lei:1985-03-29;7301",
+      "ementa": "Reorganiza os Quadros Complementares de Oficiais da Marinha, criados pelo   Decreto-lei n° 610, de 4 de junho de 1969, alterado pelas Leis nºs 5.983, de 12   de dezembro de 1973, e 7.152, de 1º de dezembro de 1983."
+    },
+    {
+      "senadoId": "549176",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-03-27-7300",
+      "titulo": "Lei nº 7.300 de 27/03/1985",
+      "data": "1985-03-27",
+      "numero": "7300",
+      "urn": "urn:lex:br:federal:lei:1985-03-27;7300",
+      "ementa": "Equipara às empresas jornalísticas, para fins de responsabilidade civil e   penal, as empresas cinematográficas."
+    },
+    {
+      "senadoId": "549175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1985-03-14-7299",
+      "titulo": "Lei nº 7.299 de 14/03/1985",
+      "data": "1985-03-14",
+      "numero": "7299",
+      "urn": "urn:lex:br:federal:lei:1985-03-14;7299",
+      "ementa": "Dispõe sobre a estruturação de Categorias Funcionais do Grupo - Atividades de Apoio Judiciário do Quadro da Secretaria do Supremo Tribunal Federal e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

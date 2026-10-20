@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-26-15443",
+  "titulo": "Lei nº 15.443 de 26/06/2026",
+  "data": "2026-06-26",
+  "fonte": "https://normas.leg.br/api/public/binario/57679a64-2666-44e5-940b-4f127c5de947/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-26;15443",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-26%3B15443&tipo_documento=maior-detalhe",
+  "sha256_dados": "b62e8604bbc7b6cc9165a128b643b07d6ec9a138322f9383a4216202ff289090",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:55.602Z",
+  "sha256_fonte": "cfc865588063ded364123a58d3d384fa0cd23fea00275a5d4965085a97039f89",
+  "sha256_markdown": "ae04bbca8be20a178e3dc538cd88383077984f2e82c5ff9d724ecf80a1702cce"
+}

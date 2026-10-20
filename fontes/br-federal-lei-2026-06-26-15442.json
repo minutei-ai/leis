@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-06-26-15442",
+  "titulo": "Lei nº 15.442 de 26/06/2026",
+  "data": "2026-06-26",
+  "fonte": "https://normas.leg.br/api/public/binario/e26822fa-f76f-498b-96d5-8698e4299bc9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-06-26;15442",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-06-26%3B15442&tipo_documento=maior-detalhe",
+  "sha256_dados": "6c5a0e2909577a6803d5d84b61879d5288fcb1c35812695e3c4aa6b7eca72898",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:59.477Z",
+  "sha256_fonte": "8702986d17356fea41443bfbba7747d8340910305f0eca6d4650d90e4807fa19",
+  "sha256_markdown": "3b2a4a8dd754f130019868016a7c0ebe2b50e92b0f442db40b3cfd094a27c3f5"
+}

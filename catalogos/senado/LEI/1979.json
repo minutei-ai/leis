@@ -1,0 +1,1479 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1979",
+  "tipo": "LEI",
+  "ano": 1979,
+  "coletado_em": "2026-10-20T22:58:04.930Z",
+  "normas": [
+    {
+      "senadoId": "548644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-20-6768",
+      "titulo": "Lei nº 6.768 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "6768",
+      "urn": "urn:lex:br:federal:lei:1979-12-20;6768",
+      "ementa": "Dispõe sobre a Criação da COALBRA - Coque e Álcool da Madeira S.A., e dá outras providências."
+    },
+    {
+      "senadoId": "548643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-20-6767",
+      "titulo": "Lei nº 6.767 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "6767",
+      "urn": "urn:lex:br:federal:lei:1979-12-20;6767",
+      "ementa": "Modifica dispositivos da Lei nº 5682, de 21 de julho de 1971 (Lei Orgânica   dos Partidos Políticos), nos termos do artigo 152 da Constituição, alterado pela   Emenda Constitucional nº 11, de 1978; dispõe sobre preceitos do Decreto-Lei nº   1541, de 14 de abril de 1977; e dá outras providências."
+    },
+    {
+      "senadoId": "548642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-19-6766",
+      "titulo": "Lei nº 6.766 de 19/12/1979",
+      "data": "1979-12-19",
+      "numero": "6766",
+      "urn": "urn:lex:br:federal:lei:1979-12-19;6766",
+      "ementa": "Dispõe sobre o parcelamento do solo urbano e dá outras providências."
+    },
+    {
+      "senadoId": "548638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-18-6762",
+      "titulo": "Lei nº 6.762 de 18/12/1979",
+      "data": "1979-12-18",
+      "numero": "6762",
+      "urn": "urn:lex:br:federal:lei:1979-12-18;6762",
+      "ementa": "Dispõe sobre a implantação do Grupo-Direção e Assistência Intermediárias, do Plano de Classificação de Cargos do Serviço Civil do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "548639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-18-6763",
+      "titulo": "Lei nº 6.763 de 18/12/1979",
+      "data": "1979-12-18",
+      "numero": "6763",
+      "urn": "urn:lex:br:federal:lei:1979-12-18;6763",
+      "ementa": "Reajusta o valor da pensão especial concedida a Rufina Cardoso Machado."
+    },
+    {
+      "senadoId": "548641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-18-6765",
+      "titulo": "Lei nº 6.765 de 18/12/1979",
+      "data": "1979-12-18",
+      "numero": "6765",
+      "urn": "urn:lex:br:federal:lei:1979-12-18;6765",
+      "ementa": "Altera dispositivos da Lei n. 5107, de 13 de setembro de 1966, permitindo que o empregado optante pelo Fundo de Garantia do Tempo de Serviço - FGTS - utilize sua conta vinculada para pagamento de prestações da casa própria."
+    },
+    {
+      "senadoId": "548640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-18-6764",
+      "titulo": "Lei nº 6.764 de 18/12/1979",
+      "data": "1979-12-18",
+      "numero": "6764",
+      "urn": "urn:lex:br:federal:lei:1979-12-18;6764",
+      "ementa": "Acrescenta novo item ao parágrafo 3º do art. 10 da Lei n. 5890, de 8 de   junho de 1973, que altera a legislação de previdência social, e dá outras   providências."
+    },
+    {
+      "senadoId": "548636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6760",
+      "titulo": "Lei nº 6.760 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6760",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6760",
+      "ementa": "Concede pensão especial a Cleide Severino Ribeiro e dá outras   providências."
+    },
+    {
+      "senadoId": "548628",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6752",
+      "titulo": "Lei nº 6.752 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6752",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6752",
+      "ementa": "Dispõe sobre as promoções dos oficiais da ativa das Polícias Militares dos   Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras   providências."
+    },
+    {
+      "senadoId": "548637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6761",
+      "titulo": "Lei nº 6.761 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6761",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6761",
+      "ementa": "Concede pensão especial a Dorico dos Anjos de Lima e dá outras   providências."
+    },
+    {
+      "senadoId": "548630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6754",
+      "titulo": "Lei nº 6.754 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6754",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6754",
+      "ementa": "Altera disposições do Decreto-Lei n. 167, de 14 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "548635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6759",
+      "titulo": "Lei nº 6.759 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6759",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6759",
+      "ementa": "Autoriza a doação à Fundação Serviços de Saúde Pública do domínio útil do   terreno que menciona, situado na Cidade e Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "548632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6756",
+      "titulo": "Lei nº 6.756 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6756",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6756",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Icó, Estado do Ceará, e dá outras providências."
+    },
+    {
+      "senadoId": "548633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6757",
+      "titulo": "Lei nº 6.757 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6757",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6757",
+      "ementa": "Autoriza o Poder Executivo a instituir a Fundação Nacional Pró-Memória e   dá outras providências."
+    },
+    {
+      "senadoId": "548631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6755",
+      "titulo": "Lei nº 6.755 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6755",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6755",
+      "ementa": "Autoriza o Poder Executivo a abrir, em favor do Ministério dos Transportes   e do Fundo Nacional de Desenvolvimento, crédito especial até o limite de Cr$   3.629.478.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "548634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6758",
+      "titulo": "Lei nº 6.758 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6758",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6758",
+      "ementa": "Autoriza os Governos dos Territórios Federais do Amapá, de Rondônia e de   Roraima a Constituir um Fundo de Financiamento para Água e Esgotos de cada   Território, a contrair empréstimos com Agente Financeiro do Banco Nacional da   Habitação (BNH), a dá outras providências."
+    },
+    {
+      "senadoId": "548629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-17-6753",
+      "titulo": "Lei nº 6.753 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "6753",
+      "urn": "urn:lex:br:federal:lei:1979-12-17;6753",
+      "ementa": "Fixa a retribuição do Grupo-Magistério, no Serviço Civil do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "548625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-10-6749",
+      "titulo": "Lei nº 6.749 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "6749",
+      "urn": "urn:lex:br:federal:lei:1979-12-10;6749",
+      "ementa": "Autoriza a doação ao Departamento Nacional de Obras de Saneamento do   terreno que menciona, situado no Município de Porto Alegre, Estado Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "548622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-10-6746",
+      "titulo": "Lei nº 6.746 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "6746",
+      "urn": "urn:lex:br:federal:lei:1979-12-10;6746",
+      "ementa": "Altera o disposto nos arts. 49 e 50 da Lei n. 4504, de 30 de novembro de 1964 (Estatuto da Terra), e dá outras providências."
+    },
+    {
+      "senadoId": "548624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-10-6748",
+      "titulo": "Lei nº 6.748 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "6748",
+      "urn": "urn:lex:br:federal:lei:1979-12-10;6748",
+      "ementa": "Reduz a exigência de documentação aos pretendentes à aquisição de unidades   habitacionais pelo Sistema Financeiro de Habitação, nos financiamentos de valor   igual ou inferior a 1.500 Unidades Padrão de Capital (UPC)."
+    },
+    {
+      "senadoId": "548623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-10-6747",
+      "titulo": "Lei nº 6.747 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "6747",
+      "urn": "urn:lex:br:federal:lei:1979-12-10;6747",
+      "ementa": "Dá nova redação ao artigo 44 do Decreto-Lei n. 82, de 26 de ;dezembro de 1966."
+    },
+    {
+      "senadoId": "548627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-10-6751",
+      "titulo": "Lei nº 6.751 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "6751",
+      "urn": "urn:lex:br:federal:lei:1979-12-10;6751",
+      "ementa": "Inclui programa de melhoria de condições de habitabilidade dos   trabalhadores nos projetos de financiamentos agropecuários."
+    },
+    {
+      "senadoId": "548626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-10-6750",
+      "titulo": "Lei nº 6.750 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "6750",
+      "urn": "urn:lex:br:federal:lei:1979-12-10;6750",
+      "ementa": "Dispõe sobre a Organização Judiciária do Distrito Federal e dos Territórios."
+    },
+    {
+      "senadoId": "548614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6738",
+      "titulo": "Lei nº 6.738 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6738",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6738",
+      "ementa": "Dispõe sobre a revisão dos proventos do pessoal inativo do Magistério   Civil da Aeronáutica."
+    },
+    {
+      "senadoId": "548620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6744",
+      "titulo": "Lei nº 6.744 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6744",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6744",
+      "ementa": "Dá nova redação ao parágrafo único do art. 4º da Lei n. 5890, de 08 de   junho de 1973, que \"altera a Legislação de Previdência Social e dá outras   providências\"."
+    },
+    {
+      "senadoId": "548619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6743",
+      "titulo": "Lei nº 6.743 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6743",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6743",
+      "ementa": "Introduz parágrafo no art. 84 da Lei n. 4215, de 27 de abril de 1963, excluindo da incompatibilidade prevista no \"caput\" do artigo os vice-prefeitos municipais."
+    },
+    {
+      "senadoId": "548612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6736",
+      "titulo": "Lei nº 6.736 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6736",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6736",
+      "ementa": "Retifica, sem ônus, a Lei nº 6597, de 1º de dezembro de 1978, que \"estima   a Receita e fixa a Despesa da União para o exercício financeiro de 1979\"."
+    },
+    {
+      "senadoId": "548613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6737",
+      "titulo": "Lei nº 6.737 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6737",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6737",
+      "ementa": "Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício Financeiro de 1980."
+    },
+    {
+      "senadoId": "548617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6741",
+      "titulo": "Lei nº 6.741 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6741",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6741",
+      "ementa": "Altera dispositivo da Lei n. 5010, de 30 de maio de 1966, que organiza a Justiça Federal de primeira instância."
+    },
+    {
+      "senadoId": "548615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6739",
+      "titulo": "Lei nº 6.739 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6739",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6739",
+      "ementa": "Dispõe sobre a matrícula e o registro de imóveis rurais e dá outras providências."
+    },
+    {
+      "senadoId": "548616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6740",
+      "titulo": "Lei nº 6.740 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6740",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6740",
+      "ementa": "Autoriza a permuta dos imóveis que menciona, situados no Município de   Porto Alegre, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "548618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6742",
+      "titulo": "Lei nº 6.742 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6742",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6742",
+      "ementa": "Modifica o art. 19 do Decreto-Lei n. 3200, de 19 de abril de 1941, que fixou o valor do bem de família."
+    },
+    {
+      "senadoId": "548621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-05-6745",
+      "titulo": "Lei nº 6.745 de 05/12/1979",
+      "data": "1979-12-05",
+      "numero": "6745",
+      "urn": "urn:lex:br:federal:lei:1979-12-05;6745",
+      "ementa": "Acrescenta parágrafo ao art. 20 da Lei n. 5869, de 11 de janeiro de 1973 - Código de Proceso Civil."
+    },
+    {
+      "senadoId": "548611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-04-6735",
+      "titulo": "Lei nº 6.735 de 04/12/1979",
+      "data": "1979-12-04",
+      "numero": "6735",
+      "urn": "urn:lex:br:federal:lei:1979-12-04;6735",
+      "ementa": "Renova o prazo de validade de carteira de identidade para estrangeiros."
+    },
+    {
+      "senadoId": "548607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-04-6731",
+      "titulo": "Lei nº 6.731 de 04/12/1979",
+      "data": "1979-12-04",
+      "numero": "6731",
+      "urn": "urn:lex:br:federal:lei:1979-12-04;6731",
+      "ementa": "Modifica disposições da Lei nº 5108, de 21 de setembro de 1966 ( Código   Nacional de Trânsito )."
+    },
+    {
+      "senadoId": "548608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-04-6732",
+      "titulo": "Lei nº 6.732 de 04/12/1979",
+      "data": "1979-12-04",
+      "numero": "6732",
+      "urn": "urn:lex:br:federal:lei:1979-12-04;6732",
+      "ementa": "Altera a redação do artigo 180 da Lei nº 1711, de 28 de outubro de 1952, e dá outras providências."
+    },
+    {
+      "senadoId": "548609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-04-6733",
+      "titulo": "Lei nº 6.733 de 04/12/1979",
+      "data": "1979-12-04",
+      "numero": "6733",
+      "urn": "urn:lex:br:federal:lei:1979-12-04;6733",
+      "ementa": "Dispõe sobre a nomeação dos dirigentes das fundações instituídas ou   mantidas pela União."
+    },
+    {
+      "senadoId": "548610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-04-6734",
+      "titulo": "Lei nº 6.734 de 04/12/1979",
+      "data": "1979-12-04",
+      "numero": "6734",
+      "urn": "urn:lex:br:federal:lei:1979-12-04;6734",
+      "ementa": "Altera o art. 20 do Decreto-Lei nº 3688, de 3 de outubro de 1941 ( Lei das Contravenções Penais )."
+    },
+    {
+      "senadoId": "548606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-12-03-6730",
+      "titulo": "Lei nº 6.730 de 03/12/1979",
+      "data": "1979-12-03",
+      "numero": "6730",
+      "urn": "urn:lex:br:federal:lei:1979-12-03;6730",
+      "ementa": "Estima a Receita e Fixa a Despesa da União para o Exercício Financeiro de 1980."
+    },
+    {
+      "senadoId": "548605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-28-6729",
+      "titulo": "Lei nº 6.729 de 28/11/1979",
+      "data": "1979-11-28",
+      "numero": "6729",
+      "urn": "urn:lex:br:federal:lei:1979-11-28;6729",
+      "ementa": "Dispõe sobre a concessão comercial entre produtores e distribuidores de veículos automotores de via terrestre."
+    },
+    {
+      "senadoId": "548604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-22-6728",
+      "titulo": "Lei nº 6.728 de 22/11/1979",
+      "data": "1979-11-22",
+      "numero": "6728",
+      "urn": "urn:lex:br:federal:lei:1979-11-22;6728",
+      "ementa": "Institui a obrigatoriedade de declaração de bens para o exercício de   cargos ou funções em empresas públicas ou assemelhadas."
+    },
+    {
+      "senadoId": "548603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-21-6727",
+      "titulo": "Lei nº 6.727 de 21/11/1979",
+      "data": "1979-11-21",
+      "numero": "6727",
+      "urn": "urn:lex:br:federal:lei:1979-11-21;6727",
+      "ementa": "Acrescenta parágrafos ao art. 10 do Decreto-lei nº 972, de 17 de outubro   de 1969, que dispõe sobre o exercício da profissão de jornalista."
+    },
+    {
+      "senadoId": "548602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-21-6726",
+      "titulo": "Lei nº 6.726 de 21/11/1979",
+      "data": "1979-11-21",
+      "numero": "6726",
+      "urn": "urn:lex:br:federal:lei:1979-11-21;6726",
+      "ementa": "Dá nova redação ao parágrafo único do art. 27 do Decreto-Lei nº 7.841, de   8 de agosto de 1945 - Código de Águas Minerais."
+    },
+    {
+      "senadoId": "548601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-21-6725",
+      "titulo": "Lei nº 6.725 de 21/11/1979",
+      "data": "1979-11-21",
+      "numero": "6725",
+      "urn": "urn:lex:br:federal:lei:1979-11-21;6725",
+      "ementa": "Eleva, em até Cr$ 2.000.000.000,00 ( dois bilhões de cruzeiros ), o limite concedido ao Governo do Distrito Federal para promover abertura de créditos suplementares ao Orçamento vigente."
+    },
+    {
+      "senadoId": "548598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-19-6722",
+      "titulo": "Lei nº 6.722 de 19/11/1979",
+      "data": "1979-11-19",
+      "numero": "6722",
+      "urn": "urn:lex:br:federal:lei:1979-11-19;6722",
+      "ementa": "Autoriza a alienação, pela Superintendência do Desenvolvimento da Amazônia   (SUDAM), de bens imóveis de sua propriedade, localizados na área de expansão   urbana da cidade de Marabá, no Estado do Pará, e dá outras providências."
+    },
+    {
+      "senadoId": "548599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-19-6723",
+      "titulo": "Lei nº 6.723 de 19/11/1979",
+      "data": "1979-11-19",
+      "numero": "6723",
+      "urn": "urn:lex:br:federal:lei:1979-11-19;6723",
+      "ementa": "Suprime o art. 11 das Regras de admissão de Agentes Consulares   estrangeiros no Brasil, aprovadas pelo Decreto-Lei nº 4.391, de 18 de junho de   1942."
+    },
+    {
+      "senadoId": "548600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-19-6724",
+      "titulo": "Lei nº 6.724 de 19/11/1979",
+      "data": "1979-11-19",
+      "numero": "6724",
+      "urn": "urn:lex:br:federal:lei:1979-11-19;6724",
+      "ementa": "Acrescenta parágrafo único ao art. 14 da Lei nº 6.015, de 31 de dezembro   de 1973, alterada pela Lei nº 6.216, de 30 de junho de 1975."
+    },
+    {
+      "senadoId": "548591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6715",
+      "titulo": "Lei nº 6.715 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6715",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6715",
+      "ementa": "Cria a Caixa de Financiamento Imobiliário da Aeronáutica e dá outras   providências."
+    },
+    {
+      "senadoId": "548596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6720",
+      "titulo": "Lei nº 6.720 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6720",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6720",
+      "ementa": "Dá nova redação ao art. 124, do Decreto-lei nº 200, de 25 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "548592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6716",
+      "titulo": "Lei nº 6.716 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6716",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6716",
+      "ementa": "Altera disposições da Lei nº 5887, de 31 de maio de 1973, referentes à   agregação do Diplomata."
+    },
+    {
+      "senadoId": "548593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6717",
+      "titulo": "Lei nº 6.717 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6717",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6717",
+      "ementa": "Autoriza modalidade de concurso de prognósticos da Loteria Federal regida pelo Decreto-Lei nº 204, de 27 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "548597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6721",
+      "titulo": "Lei nº 6.721 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6721",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6721",
+      "ementa": "Fixa os valores de retribuição de empregos das Categorias Funcionais de   Biólogo, Técnico de Turismo, Técnico de Educação Física e Desportos e de Agente   de Turismo, do Plano de Classificação de Cargos instituído pela Lei nº 5920, de   19 de setembro de 1973."
+    },
+    {
+      "senadoId": "548595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6719",
+      "titulo": "Lei nº 6.719 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6719",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6719",
+      "ementa": "Dá nova redação ao art. 8º do Decreto-Lei nº 860, de 11 de setembro de 1969."
+    },
+    {
+      "senadoId": "548594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-12-6718",
+      "titulo": "Lei nº 6.718 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "6718",
+      "urn": "urn:lex:br:federal:lei:1979-11-12;6718",
+      "ementa": "Dispõe sobre a duração da jornada de trabalho do pessoal da Caixa   Econômica Federal."
+    },
+    {
+      "senadoId": "548589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-05-6713",
+      "titulo": "Lei nº 6.713 de 05/11/1979",
+      "data": "1979-11-05",
+      "numero": "6713",
+      "urn": "urn:lex:br:federal:lei:1979-11-05;6713",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação e Cultura o   crédito especial de Cr$ 9.260.000,00 ( nove milhões, duzentos e sessenta mil   cruzeiros ), para o fim que especifica."
+    },
+    {
+      "senadoId": "548588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-05-6712",
+      "titulo": "Lei nº 6.712 de 05/11/1979",
+      "data": "1979-11-05",
+      "numero": "6712",
+      "urn": "urn:lex:br:federal:lei:1979-11-05;6712",
+      "ementa": "Autoriza a realização de estudos geológicos e topográficos pelas   concessionárias de serviços públicos de energia elétrica, para implantação de   instalações de transmissão em tensão nominal igual ou superior a 230 KV."
+    },
+    {
+      "senadoId": "548590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-05-6714",
+      "titulo": "Lei nº 6.714 de 05/11/1979",
+      "data": "1979-11-05",
+      "numero": "6714",
+      "urn": "urn:lex:br:federal:lei:1979-11-05;6714",
+      "ementa": "Acrescenta nível à escala de vencimentos dos cargos em comissão   integrantes do Grupo-Direção e Assessoramento Superiores, prevista no art. 1º da   Lei nº 6002, de 19 de dezembro de 1973, cria cargos em comissão no Tribunal de   Contas do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "548586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-05-6710",
+      "titulo": "Lei nº 6.710 de 05/11/1979",
+      "data": "1979-11-05",
+      "numero": "6710",
+      "urn": "urn:lex:br:federal:lei:1979-11-05;6710",
+      "ementa": "Dispõe sobre a profissão de Técnico em Prótese Dentária e determina outras   providências."
+    },
+    {
+      "senadoId": "548587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-11-05-6711",
+      "titulo": "Lei nº 6.711 de 05/11/1979",
+      "data": "1979-11-05",
+      "numero": "6711",
+      "urn": "urn:lex:br:federal:lei:1979-11-05;6711",
+      "ementa": "Fixa novo valor de salário-família."
+    },
+    {
+      "senadoId": "548585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-31-6709",
+      "titulo": "Lei nº 6.709 de 31/10/1979",
+      "data": "1979-10-31",
+      "numero": "6709",
+      "urn": "urn:lex:br:federal:lei:1979-10-31;6709",
+      "ementa": "Altera a redação do art. 17 da Lei nº 4591, de 16 de dezembro de 1964."
+    },
+    {
+      "senadoId": "548584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-30-6708",
+      "titulo": "Lei nº 6.708 de 30/10/1979",
+      "data": "1979-10-30",
+      "numero": "6708",
+      "urn": "urn:lex:br:federal:lei:1979-10-30;6708",
+      "ementa": "Dispõe sobre a correção automática dos salários, modifica a política salarial e dá outras providências."
+    },
+    {
+      "senadoId": "548583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-29-6707",
+      "titulo": "Lei nº 6.707 de 29/10/1979",
+      "data": "1979-10-29",
+      "numero": "6707",
+      "urn": "urn:lex:br:federal:lei:1979-10-29;6707",
+      "ementa": "Dá nova redação ao § 1º do art. 4º da Lei nº 1.060, de 5 de fevereiro de 1950, que \"estabelece normas para a concessão de assistência judiciária aos necessitados\"."
+    },
+    {
+      "senadoId": "548582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-29-6706",
+      "titulo": "Lei nº 6.706 de 29/10/1979",
+      "data": "1979-10-29",
+      "numero": "6706",
+      "urn": "urn:lex:br:federal:lei:1979-10-29;6706",
+      "ementa": "Autoriza a permuta dos imóveis que menciona, situados na Cidade de São   Paulo, Estado de São Paulo."
+    },
+    {
+      "senadoId": "548580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-26-6704",
+      "titulo": "Lei nº 6.704 de 26/10/1979",
+      "data": "1979-10-26",
+      "numero": "6704",
+      "urn": "urn:lex:br:federal:lei:1979-10-26;6704",
+      "ementa": "Dispõe sobre o Seguro de Crédito à Exportação e dá outras providências."
+    },
+    {
+      "senadoId": "548579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-26-6703",
+      "titulo": "Lei nº 6.703 de 26/10/1979",
+      "data": "1979-10-26",
+      "numero": "6703",
+      "urn": "urn:lex:br:federal:lei:1979-10-26;6703",
+      "ementa": "Estende aos funcionários aposentados da Administração Direta e das   Autarquias Federais as vantagens financeiras decorrentes da aplicação do Plano   de Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de dezembro de   1970, e dá outras providências."
+    },
+    {
+      "senadoId": "548581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-26-6705",
+      "titulo": "Lei nº 6.705 de 26/10/1979",
+      "data": "1979-10-26",
+      "numero": "6705",
+      "urn": "urn:lex:br:federal:lei:1979-10-26;6705",
+      "ementa": "Autoriza o Poder Executivo a abrir Créditos Suplementares até o limite de   Cr$ 51.442.300.000,00, e dá outras providências."
+    },
+    {
+      "senadoId": "548577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-24-6701",
+      "titulo": "Lei nº 6.701 de 24/10/1979",
+      "data": "1979-10-24",
+      "numero": "6701",
+      "urn": "urn:lex:br:federal:lei:1979-10-24;6701",
+      "ementa": "Dispõe sobre o direito às vantagens do art. 184 da Lei nº 1711, de 28 de   outubro de 1952 ( Estatuto dos Funcionários Públicos Civis da União )."
+    },
+    {
+      "senadoId": "548578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-24-6702",
+      "titulo": "Lei nº 6.702 de 24/10/1979",
+      "data": "1979-10-24",
+      "numero": "6702",
+      "urn": "urn:lex:br:federal:lei:1979-10-24;6702",
+      "ementa": "Autoriza a transferência do domínio de bens encampados, anteriormente   vinculados à concessão da extinta Companhia Hidro Elétrica de Boa Esperança -   COHEBE."
+    },
+    {
+      "senadoId": "548576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-23-6700",
+      "titulo": "Lei nº 6.700 de 23/10/1979",
+      "data": "1979-10-23",
+      "numero": "6700",
+      "urn": "urn:lex:br:federal:lei:1979-10-23;6700",
+      "ementa": "Fixa idade máxima para inscrição em concurso público destinado ao ingresso em empregos e cargos do Serviço Civil do Distrito Federal."
+    },
+    {
+      "senadoId": "548575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-15-6699",
+      "titulo": "Lei nº 6.699 de 15/10/1979",
+      "data": "1979-10-15",
+      "numero": "6699",
+      "urn": "urn:lex:br:federal:lei:1979-10-15;6699",
+      "ementa": "Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a   doar o imóvel que menciona."
+    },
+    {
+      "senadoId": "548574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-15-6698",
+      "titulo": "Lei nº 6.698 de 15/10/1979",
+      "data": "1979-10-15",
+      "numero": "6698",
+      "urn": "urn:lex:br:federal:lei:1979-10-15;6698",
+      "ementa": "Dispõe sobre o reajuste do aluguel nas locações residenciais, e dá outras   providências."
+    },
+    {
+      "senadoId": "548573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-10-6697",
+      "titulo": "Lei nº 6.697 de 10/10/1979",
+      "data": "1979-10-10",
+      "numero": "6697",
+      "urn": "urn:lex:br:federal:lei:1979-10-10;6697",
+      "ementa": "Institui o Código de Menores."
+    },
+    {
+      "senadoId": "548572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-08-6696",
+      "titulo": "Lei nº 6.696 de 08/10/1979",
+      "data": "1979-10-08",
+      "numero": "6696",
+      "urn": "urn:lex:br:federal:lei:1979-10-08;6696",
+      "ementa": "Equipara, no tocante a previdência social urbana, os ministros de confissão religiosa e os membros de institutos de vida consagrada, congregação ou ordem religiosa aos trabalhadores autônomos, e dá outras providências."
+    },
+    {
+      "senadoId": "548571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-08-6695",
+      "titulo": "Lei nº 6.695 de 08/10/1979",
+      "data": "1979-10-08",
+      "numero": "6695",
+      "urn": "urn:lex:br:federal:lei:1979-10-08;6695",
+      "ementa": "Dispõe sobre receitas do Fundo do Exército."
+    },
+    {
+      "senadoId": "548569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-03-6693",
+      "titulo": "Lei nº 6.693 de 03/10/1979",
+      "data": "1979-10-03",
+      "numero": "6693",
+      "urn": "urn:lex:br:federal:lei:1979-10-03;6693",
+      "ementa": "Dispõe sobre a constituição, no Território Federal de Roraima, da   Companhia de Desenvolvimento de Roraima - CODESAIMA e dá outras providências."
+    },
+    {
+      "senadoId": "548570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-03-6694",
+      "titulo": "Lei nº 6.694 de 03/10/1979",
+      "data": "1979-10-03",
+      "numero": "6694",
+      "urn": "urn:lex:br:federal:lei:1979-10-03;6694",
+      "ementa": "Autoriza a doação, pela Superintendência do Desenvolvimento da Amazônia -   SUDAM, de área de terreno que menciona, situada no Município de Marabá, no   Estado do Pará, e dá outras providências."
+    },
+    {
+      "senadoId": "548568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-01-6692",
+      "titulo": "Lei nº 6.692 de 01/10/1979",
+      "data": "1979-10-01",
+      "numero": "6692",
+      "urn": "urn:lex:br:federal:lei:1979-10-01;6692",
+      "ementa": "Autoriza a doação, pela Superintendência do Desenvolvimento da Amazônia -   SUDAM, de área de terreno que menciona, situada no Município de Marabá, no   Estado do Pará, e dá outras providências."
+    },
+    {
+      "senadoId": "548567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-10-01-6691",
+      "titulo": "Lei nº 6.691 de 01/10/1979",
+      "data": "1979-10-01",
+      "numero": "6691",
+      "urn": "urn:lex:br:federal:lei:1979-10-01;6691",
+      "ementa": "Estende aos inativos as alterações de estrutura salarial efetuadas pelo   artigo 4º do Decreto-Lei nº 1.660, de 24 de janeiro de 1979."
+    },
+    {
+      "senadoId": "548566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-25-6690",
+      "titulo": "Lei nº 6.690 de 25/09/1979",
+      "data": "1979-09-25",
+      "numero": "6690",
+      "urn": "urn:lex:br:federal:lei:1979-09-25;6690",
+      "ementa": "Disciplina o cancelamento de protesto de títulos cambiais, e dá outras providências."
+    },
+    {
+      "senadoId": "548565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-24-6689",
+      "titulo": "Lei nº 6.689 de 24/09/1979",
+      "data": "1979-09-24",
+      "numero": "6689",
+      "urn": "urn:lex:br:federal:lei:1979-09-24;6689",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS,   Autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona,   situado no Município de Sobral, Estado do Ceará."
+    },
+    {
+      "senadoId": "548564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-17-6688",
+      "titulo": "Lei nº 6.688 de 17/09/1979",
+      "data": "1979-09-17",
+      "numero": "6688",
+      "urn": "urn:lex:br:federal:lei:1979-09-17;6688",
+      "ementa": "Introduz alterações na Lei dos Registros Públicos, quanto às escrituras e   partilhas, lavradas ou homologadas na vigência do Decreto nº 4857, de 9 de   novembro de 1939."
+    },
+    {
+      "senadoId": "548563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-17-6687",
+      "titulo": "Lei nº 6.687 de 17/09/1979",
+      "data": "1979-09-17",
+      "numero": "6687",
+      "urn": "urn:lex:br:federal:lei:1979-09-17;6687",
+      "ementa": "Autoriza o Poder Executivo a instituir a Fundação Joaquim Nabuco e dá outras providências."
+    },
+    {
+      "senadoId": "548562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-11-6686",
+      "titulo": "Lei nº 6.686 de 11/09/1979",
+      "data": "1979-09-11",
+      "numero": "6686",
+      "urn": "urn:lex:br:federal:lei:1979-09-11;6686",
+      "ementa": "Dispõe sobre o exercício da análise clínico-laboratorial."
+    },
+    {
+      "senadoId": "548561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-03-6685",
+      "titulo": "Lei nº 6.685 de 03/09/1979",
+      "data": "1979-09-03",
+      "numero": "6685",
+      "urn": "urn:lex:br:federal:lei:1979-09-03;6685",
+      "ementa": "Introduz alterações na Lei nº 5.969, de 11 de dezembro de 1973, que institui o Programa de Garantia da Atividade Agropecuária - PROAGRO."
+    },
+    {
+      "senadoId": "548560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-09-03-6684",
+      "titulo": "Lei nº 6.684 de 03/09/1979",
+      "data": "1979-09-03",
+      "numero": "6684",
+      "urn": "urn:lex:br:federal:lei:1979-09-03;6684",
+      "ementa": "Regulamenta as profissões de Biólogo e Biomédico, cria o Conselho Federal e os Conselhos Regionais de Biologia e Biomedicina, e dá outras providências."
+    },
+    {
+      "senadoId": "548559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-08-28-6683",
+      "titulo": "Lei nº 6.683 de 28/08/1979",
+      "data": "1979-08-28",
+      "numero": "6683",
+      "urn": "urn:lex:br:federal:lei:1979-08-28;6683",
+      "ementa": "Concede anistia e dá outras providências. ;"
+    },
+    {
+      "senadoId": "548558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-08-27-6682",
+      "titulo": "Lei nº 6.682 de 27/08/1979",
+      "data": "1979-08-27",
+      "numero": "6682",
+      "urn": "urn:lex:br:federal:lei:1979-08-27;6682",
+      "ementa": "Dispõe sobre a denominação de vias e estações terminais do Plano Nacional   de Viação, e dá outras providências."
+    },
+    {
+      "senadoId": "548556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-08-16-6680",
+      "titulo": "Lei nº 6.680 de 16/08/1979",
+      "data": "1979-08-16",
+      "numero": "6680",
+      "urn": "urn:lex:br:federal:lei:1979-08-16;6680",
+      "ementa": "Dispõe sobre as relações entre o corpo discente e a instituição de ensino superior, e dá outras providências."
+    },
+    {
+      "senadoId": "548557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-08-16-6681",
+      "titulo": "Lei nº 6.681 de 16/08/1979",
+      "data": "1979-08-16",
+      "numero": "6681",
+      "urn": "urn:lex:br:federal:lei:1979-08-16;6681",
+      "ementa": "Dispõe sobre a inscrição de médicos, cirurgiões-dentistas e farmacêuticos   militares em Conselhos Regionais de Medicina, Odontologia e Farmácia, e dá   outras providências."
+    },
+    {
+      "senadoId": "548555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-08-14-6679",
+      "titulo": "Lei nº 6.679 de 14/08/1979",
+      "data": "1979-08-14",
+      "numero": "6679",
+      "urn": "urn:lex:br:federal:lei:1979-08-14;6679",
+      "ementa": "Autoriza a Comissão de Financiamento da Produção - CFP a alienar o imóvel   que menciona."
+    },
+    {
+      "senadoId": "548554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-08-14-6678",
+      "titulo": "Lei nº 6.678 de 14/08/1979",
+      "data": "1979-08-14",
+      "numero": "6678",
+      "urn": "urn:lex:br:federal:lei:1979-08-14;6678",
+      "ementa": "Dispõe sobre requisição de servidores públicos da administração direta e   autárquica pela Justiça Eleitoral, e dá outras providências."
+    },
+    {
+      "senadoId": "548553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-24-6677",
+      "titulo": "Lei nº 6.677 de 24/07/1979",
+      "data": "1979-07-24",
+      "numero": "6677",
+      "urn": "urn:lex:br:federal:lei:1979-07-24;6677",
+      "ementa": "Estabelece o teto da pensão atribuída a ex-servidores associados do   Instituto de Previdência dos Congressistas - IPC e dá outras providências."
+    },
+    {
+      "senadoId": "548551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-09-6675",
+      "titulo": "Lei nº 6.675 de 09/07/1979",
+      "data": "1979-07-09",
+      "numero": "6675",
+      "urn": "urn:lex:br:federal:lei:1979-07-09;6675",
+      "ementa": "Dispõe sobre a duração de mandatos dos representantes classistas no   Conselho Curador do Fundo de Garantia do Tempo de Serviço."
+    },
+    {
+      "senadoId": "548552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-09-6676",
+      "titulo": "Lei nº 6.676 de 09/07/1979",
+      "data": "1979-07-09",
+      "numero": "6676",
+      "urn": "urn:lex:br:federal:lei:1979-07-09;6676",
+      "ementa": "Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional   Eleitoral do Piauí e dá outras providências."
+    },
+    {
+      "senadoId": "548549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-05-6673",
+      "titulo": "Lei nº 6.673 de 05/07/1979",
+      "data": "1979-07-05",
+      "numero": "6673",
+      "urn": "urn:lex:br:federal:lei:1979-07-05;6673",
+      "ementa": "Fixa o efetivo do Corpo de Bombeiros do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "548550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-05-6674",
+      "titulo": "Lei nº 6.674 de 05/07/1979",
+      "data": "1979-07-05",
+      "numero": "6674",
+      "urn": "urn:lex:br:federal:lei:1979-07-05;6674",
+      "ementa": "Autoriza o Poder Executivo a instituir a Fundação Universidade Federal de   Mato Grosso do Sul em obediência ao disposto no art. 39 da Lei Complementar n°   31, de 11 de outubro de 1977. ;"
+    },
+    {
+      "senadoId": "548548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-05-6672",
+      "titulo": "Lei nº 6.672 de 05/07/1979",
+      "data": "1979-07-05",
+      "numero": "6672",
+      "urn": "urn:lex:br:federal:lei:1979-07-05;6672",
+      "ementa": "Cria cargos em comissão no Ministério Público Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "548547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-04-6671",
+      "titulo": "Lei nº 6.671 de 04/07/1979",
+      "data": "1979-07-04",
+      "numero": "6671",
+      "urn": "urn:lex:br:federal:lei:1979-07-04;6671",
+      "ementa": "Inclui no Plano Nacional de Viação, aprovado pela Lei n. 5917, de 10 de   setembro de 1973, o Porto de Tefé, localizado no Município de Tefé, Estado do   Amazonas."
+    },
+    {
+      "senadoId": "548545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-04-6669",
+      "titulo": "Lei nº 6.669 de 04/07/1979",
+      "data": "1979-07-04",
+      "numero": "6669",
+      "urn": "urn:lex:br:federal:lei:1979-07-04;6669",
+      "ementa": "Altera o art. 21, e seus parágrafos do Decreto-Lei nº 411, de 8 de janeiro de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "548546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-04-6670",
+      "titulo": "Lei nº 6.670 de 04/07/1979",
+      "data": "1979-07-04",
+      "numero": "6670",
+      "urn": "urn:lex:br:federal:lei:1979-07-04;6670",
+      "ementa": "Dispõe sobre doação de lote à Organização das Nações Unidas - ONU - pela   Companhia Imobiliária de Brasília - TERRACAP."
+    },
+    {
+      "senadoId": "548541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-03-6665",
+      "titulo": "Lei nº 6.665 de 03/07/1979",
+      "data": "1979-07-03",
+      "numero": "6665",
+      "urn": "urn:lex:br:federal:lei:1979-07-03;6665",
+      "ementa": "Dispõe sobre a criação da Companhia de Desenvolvimento de Barcarena - CODEBAR, e dá outras providências."
+    },
+    {
+      "senadoId": "548543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-03-6667",
+      "titulo": "Lei nº 6.667 de 03/07/1979",
+      "data": "1979-07-03",
+      "numero": "6667",
+      "urn": "urn:lex:br:federal:lei:1979-07-03;6667",
+      "ementa": "Dá nova redação ao caput do art. 843 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei n. 5452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "548544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-03-6668",
+      "titulo": "Lei nº 6.668 de 03/07/1979",
+      "data": "1979-07-03",
+      "numero": "6668",
+      "urn": "urn:lex:br:federal:lei:1979-07-03;6668",
+      "ementa": "Concede pensão especial a Darci da Silva e dá outras providências."
+    },
+    {
+      "senadoId": "548542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-07-03-6666",
+      "titulo": "Lei nº 6.666 de 03/07/1979",
+      "data": "1979-07-03",
+      "numero": "6666",
+      "urn": "urn:lex:br:federal:lei:1979-07-03;6666",
+      "ementa": "Dispõe sobre a contratação de pessoal, pela Fundação Instituto Brasileiro   de Geografia e Estatística - IBGE, para realizar coletas de dados."
+    },
+    {
+      "senadoId": "548540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-26-6664",
+      "titulo": "Lei nº 6.664 de 26/06/1979",
+      "data": "1979-06-26",
+      "numero": "6664",
+      "urn": "urn:lex:br:federal:lei:1979-06-26;6664",
+      "ementa": "Disciplina a profissão de Geógrafo e dá outras providências."
+    },
+    {
+      "senadoId": "548538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-25-6662",
+      "titulo": "Lei nº 6.662 de 25/06/1979",
+      "data": "1979-06-25",
+      "numero": "6662",
+      "urn": "urn:lex:br:federal:lei:1979-06-25;6662",
+      "ementa": "Dispõe sobre a Política Nacional de Irrigação, e dá outras providências."
+    },
+    {
+      "senadoId": "548539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-25-6663",
+      "titulo": "Lei nº 6.663 de 25/06/1979",
+      "data": "1979-06-25",
+      "numero": "6663",
+      "urn": "urn:lex:br:federal:lei:1979-06-25;6663",
+      "ementa": "Autoriza a permuta do terreno que menciona por imóvel localizado na cidade   de Quito, República do Equador."
+    },
+    {
+      "senadoId": "548537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-21-6661",
+      "titulo": "Lei nº 6.661 de 21/06/1979",
+      "data": "1979-06-21",
+      "numero": "6661",
+      "urn": "urn:lex:br:federal:lei:1979-06-21;6661",
+      "ementa": "Cria o Fundo Especial de Formação de Pessoal - FUNFORPE."
+    },
+    {
+      "senadoId": "548536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-21-6660",
+      "titulo": "Lei nº 6.660 de 21/06/1979",
+      "data": "1979-06-21",
+      "numero": "6660",
+      "urn": "urn:lex:br:federal:lei:1979-06-21;6660",
+      "ementa": "Dá nova redação à alínea \"e\" do art. 2º, do Decreto-Lei nº 869, de 12 de   setembro de 1969, que \"dispõe sobre a inclusão da educação Moral e Cívica, como   disciplina obrigatória, nos sistemas de ensino do País, e dá outras   providências."
+    },
+    {
+      "senadoId": "548535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-18-6659",
+      "titulo": "Lei nº 6.659 de 18/06/1979",
+      "data": "1979-06-18",
+      "numero": "6659",
+      "urn": "urn:lex:br:federal:lei:1979-06-18;6659",
+      "ementa": "Autoriza a reversão ao Município de Garanhuns, Estado de Pernambuco, do   terreno que menciona."
+    },
+    {
+      "senadoId": "548534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-07-6658",
+      "titulo": "Lei nº 6.658 de 07/06/1979",
+      "data": "1979-06-07",
+      "numero": "6658",
+      "urn": "urn:lex:br:federal:lei:1979-06-07;6658",
+      "ementa": "Modifica disposições da Lei nº 5.682, de 21 de julho de 1971 (Lei Orgânica   dos Partidos Políticos), alterada pela Lei nº 6.217, de 30 de junho de 1975."
+    },
+    {
+      "senadoId": "548531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-05-6655",
+      "titulo": "Lei nº 6.655 de 05/06/1979",
+      "data": "1979-06-05",
+      "numero": "6655",
+      "urn": "urn:lex:br:federal:lei:1979-06-05;6655",
+      "ementa": "Transforma a Federação das Escolas Federais Isoladas do Estado do Rio de Janeiro - FEFIERJ em Universidade do Rio de Janeiro - UNIRIO."
+    },
+    {
+      "senadoId": "548533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-05-6657",
+      "titulo": "Lei nº 6.657 de 05/06/1979",
+      "data": "1979-06-05",
+      "numero": "6657",
+      "urn": "urn:lex:br:federal:lei:1979-06-05;6657",
+      "ementa": "Acresce a alínea \"j\" ao art. 3º da Lei nº 4898, de 9 de dezembro de 1965, que \"regula o direito de representação e o processo de responsabilidade administrativa civil e penal, nos casos de abuso de autoridade\"."
+    },
+    {
+      "senadoId": "548532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-06-05-6656",
+      "titulo": "Lei nº 6.656 de 05/06/1979",
+      "data": "1979-06-05",
+      "numero": "6656",
+      "urn": "urn:lex:br:federal:lei:1979-06-05;6656",
+      "ementa": "Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional   Eleitoral do Rio Grande do Sul, e dá outras providências."
+    },
+    {
+      "senadoId": "548530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-30-6654",
+      "titulo": "Lei nº 6.654 de 30/05/1979",
+      "data": "1979-05-30",
+      "numero": "6654",
+      "urn": "urn:lex:br:federal:lei:1979-05-30;6654",
+      "ementa": "Acrescenta parágrafo ao art. 4º da Lei n.º 1.060, de 5 de fevereiro de 1950, que estabelece normas para a concessão de assistência judiciária aos necessitados."
+    },
+    {
+      "senadoId": "548529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-30-6653",
+      "titulo": "Lei nº 6.653 de 30/05/1979",
+      "data": "1979-05-30",
+      "numero": "6653",
+      "urn": "urn:lex:br:federal:lei:1979-05-30;6653",
+      "ementa": "Cria a Auditoria da 12ª Circunscrição Judiciária Militar e dá outras   providências."
+    },
+    {
+      "senadoId": "548528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-30-6652",
+      "titulo": "Lei nº 6.652 de 30/05/1979",
+      "data": "1979-05-30",
+      "numero": "6652",
+      "urn": "urn:lex:br:federal:lei:1979-05-30;6652",
+      "ementa": "Dispõe sobre o Estatuto dos Policiais Militares das Polícias Militares dos Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras providências."
+    },
+    {
+      "senadoId": "548527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-23-6651",
+      "titulo": "Lei nº 6.651 de 23/05/1979",
+      "data": "1979-05-23",
+      "numero": "6651",
+      "urn": "urn:lex:br:federal:lei:1979-05-23;6651",
+      "ementa": "Altera a redação do art. 353 da Consolidação das Leis do Trabalho,   aprovada pelo Decreto-Lei n. 5452, de 1º de maio de 1943."
+    },
+    {
+      "senadoId": "548526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-23-6650",
+      "titulo": "Lei nº 6.650 de 23/05/1979",
+      "data": "1979-05-23",
+      "numero": "6650",
+      "urn": "urn:lex:br:federal:lei:1979-05-23;6650",
+      "ementa": "Dispõe sobre a criação, na Presidência da República, da Secretaria de Comunicação Social, altera dispositivos do Decreto-Lei n.º 200, de 25 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "548522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-16-6646",
+      "titulo": "Lei nº 6.646 de 16/05/1979",
+      "data": "1979-05-16",
+      "numero": "6646",
+      "urn": "urn:lex:br:federal:lei:1979-05-16;6646",
+      "ementa": "Altera o efetivo de Soldados PM da Polícia Militar do Distrito Federal e   dá outras providências."
+    },
+    {
+      "senadoId": "548523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-16-6647",
+      "titulo": "Lei nº 6.647 de 16/05/1979",
+      "data": "1979-05-16",
+      "numero": "6647",
+      "urn": "urn:lex:br:federal:lei:1979-05-16;6647",
+      "ementa": "Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional   Eleitoral do Pará, e dá outras providências."
+    },
+    {
+      "senadoId": "548525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-16-6649",
+      "titulo": "Lei nº 6.649 de 16/05/1979",
+      "data": "1979-05-16",
+      "numero": "6649",
+      "urn": "urn:lex:br:federal:lei:1979-05-16;6649",
+      "ementa": "Regula a locação predial urbana e dá outras providências."
+    },
+    {
+      "senadoId": "548524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-16-6648",
+      "titulo": "Lei nº 6.648 de 16/05/1979",
+      "data": "1979-05-16",
+      "numero": "6648",
+      "urn": "urn:lex:br:federal:lei:1979-05-16;6648",
+      "ementa": "Introduz alteração no Plano Nacional de Viação, incluindo trecho   rodoviário nos Estados de Santa Catarina e Rio Grande do Sul."
+    },
+    {
+      "senadoId": "548518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-14-6642",
+      "titulo": "Lei nº 6.642 de 14/05/1979",
+      "data": "1979-05-14",
+      "numero": "6642",
+      "urn": "urn:lex:br:federal:lei:1979-05-14;6642",
+      "ementa": "Altera dispositivos da Lei n.º 4.769, de 9 de setembro de 1965, que dispõe sobre o exercício da profissão de Técnico de Administração."
+    },
+    {
+      "senadoId": "548520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-14-6644",
+      "titulo": "Lei nº 6.644 de 14/05/1979",
+      "data": "1979-05-14",
+      "numero": "6644",
+      "urn": "urn:lex:br:federal:lei:1979-05-14;6644",
+      "ementa": "Cria cargos no Quadro Permanente da Secretaria do Tribunal Regianal do   Trabalho da 9ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "548519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-14-6643",
+      "titulo": "Lei nº 6.643 de 14/05/1979",
+      "data": "1979-05-14",
+      "numero": "6643",
+      "urn": "urn:lex:br:federal:lei:1979-05-14;6643",
+      "ementa": "Acrescenta parágrafo ao art. 9º da Lei n.º 5.890, de 8 de junho de 1973,   que \"altera a legislação de Previdência Social e dá outras providências\"."
+    },
+    {
+      "senadoId": "548521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-14-6645",
+      "titulo": "Lei nº 6.645 de 14/05/1979",
+      "data": "1979-05-14",
+      "numero": "6645",
+      "urn": "urn:lex:br:federal:lei:1979-05-14;6645",
+      "ementa": "Dispõe sobre as promoções dos Oficiais da Polícia Militar do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "548515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-08-6639",
+      "titulo": "Lei nº 6.639 de 08/05/1979",
+      "data": "1979-05-08",
+      "numero": "6639",
+      "urn": "urn:lex:br:federal:lei:1979-05-08;6639",
+      "ementa": "Introduz alteração na Lei n.º 91, de 28 de agosto de 1935, que \"determina   regras pelas quais são as sociedades declaradas de utilidade pública\"."
+    },
+    {
+      "senadoId": "548516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-08-6640",
+      "titulo": "Lei nº 6.640 de 08/05/1979",
+      "data": "1979-05-08",
+      "numero": "6640",
+      "urn": "urn:lex:br:federal:lei:1979-05-08;6640",
+      "ementa": "Altera a redação da alínea \"d\" do inciso I do art. 40 da Lei n.º 5.250, de 9 de fevereiro de 1967, que \"regula a liberdade de manifestação do pensamento e da informação\"."
+    },
+    {
+      "senadoId": "548512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-08-6636",
+      "titulo": "Lei nº 6.636 de 08/05/1979",
+      "data": "1979-05-08",
+      "numero": "6636",
+      "urn": "urn:lex:br:federal:lei:1979-05-08;6636",
+      "ementa": "Dá nova redação ao parágrafo único do art. 12 da Lei n.º 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social) ."
+    },
+    {
+      "senadoId": "548513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-08-6637",
+      "titulo": "Lei nº 6.637 de 08/05/1979",
+      "data": "1979-05-08",
+      "numero": "6637",
+      "urn": "urn:lex:br:federal:lei:1979-05-08;6637",
+      "ementa": "Dá nova redação ao art. 225 da Consolidação das Leis do Trabalho - CLT."
+    },
+    {
+      "senadoId": "548517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-08-6641",
+      "titulo": "Lei nº 6.641 de 08/05/1979",
+      "data": "1979-05-08",
+      "numero": "6641",
+      "urn": "urn:lex:br:federal:lei:1979-05-08;6641",
+      "ementa": "Cria cargos em comissão e fixa valores de vencimentos do Grupo-Direção e   Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal   Regional do Trabalho da 9ª Região e dá outras providências."
+    },
+    {
+      "senadoId": "548514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-08-6638",
+      "titulo": "Lei nº 6.638 de 08/05/1979",
+      "data": "1979-05-08",
+      "numero": "6638",
+      "urn": "urn:lex:br:federal:lei:1979-05-08;6638",
+      "ementa": "Estabalece normas para a prática didático-científica da vivissecção de   animais e determina outras providências."
+    },
+    {
+      "senadoId": "548511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-02-6635",
+      "titulo": "Lei nº 6.635 de 02/05/1979",
+      "data": "1979-05-02",
+      "numero": "6635",
+      "urn": "urn:lex:br:federal:lei:1979-05-02;6635",
+      "ementa": "Altera a composição do Tribunal Regional do Trabalho da 2ª Região, cria   cargos, e dá outras providências."
+    },
+    {
+      "senadoId": "548510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-05-02-6634",
+      "titulo": "Lei nº 6.634 de 02/05/1979",
+      "data": "1979-05-02",
+      "numero": "6634",
+      "urn": "urn:lex:br:federal:lei:1979-05-02;6634",
+      "ementa": "Dispõe sobre a Faixa de Fronteira, altera o Decreto-Lei n. 1135, de 3 de dezembro de 1970, e dá outras providências."
+    },
+    {
+      "senadoId": "548509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-28-6633",
+      "titulo": "Lei nº 6.633 de 28/04/1979",
+      "data": "1979-04-28",
+      "numero": "6633",
+      "urn": "urn:lex:br:federal:lei:1979-04-28;6633",
+      "ementa": "Veda a exibição de cartaz cinematográfico que não seja criado, produzido e   impresso por brasileiro ou empresa brasileira."
+    },
+    {
+      "senadoId": "548508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-28-6632",
+      "titulo": "Lei nº 6.632 de 28/04/1979",
+      "data": "1979-04-28",
+      "numero": "6632",
+      "urn": "urn:lex:br:federal:lei:1979-04-28;6632",
+      "ementa": "Concede pensão especial a Gabriel Francisco da Silva e dá outras   providências."
+    },
+    {
+      "senadoId": "548507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-19-6631",
+      "titulo": "Lei nº 6.631 de 19/04/1979",
+      "data": "1979-04-19",
+      "numero": "6631",
+      "urn": "urn:lex:br:federal:lei:1979-04-19;6631",
+      "ementa": "Acrescenta parágrafo ao art. 35 do Decreto-Lei nº 221, de 28 de fevereiro de 1967, que \"dispõe sobre a proteção e estímulo à pesca e dá outras providências\"."
+    },
+    {
+      "senadoId": "548506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-16-6630",
+      "titulo": "Lei nº 6.630 de 16/04/1979",
+      "data": "1979-04-16",
+      "numero": "6630",
+      "urn": "urn:lex:br:federal:lei:1979-04-16;6630",
+      "ementa": "Altera disposições da Lei nº 5.917, de 10 de setembro de 1973, que \"aprova o Plano Nacional de Viação, e dá outras providências\"."
+    },
+    {
+      "senadoId": "548505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-16-6629",
+      "titulo": "Lei nº 6.629 de 16/04/1979",
+      "data": "1979-04-16",
+      "numero": "6629",
+      "urn": "urn:lex:br:federal:lei:1979-04-16;6629",
+      "ementa": "Estabelece normas para a comprovação de residência, quando exigida por   autoridade pública para a expedição de documento."
+    },
+    {
+      "senadoId": "548502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-02-6626",
+      "titulo": "Lei nº 6.626 de 02/04/1979",
+      "data": "1979-04-02",
+      "numero": "6626",
+      "urn": "urn:lex:br:federal:lei:1979-04-02;6626",
+      "ementa": "Reajusta os valores de vencimentos dos funcionários, ativos e inativos, do Senado Federal."
+    },
+    {
+      "senadoId": "548504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-02-6628",
+      "titulo": "Lei nº 6.628 de 02/04/1979",
+      "data": "1979-04-02",
+      "numero": "6628",
+      "urn": "urn:lex:br:federal:lei:1979-04-02;6628",
+      "ementa": "Declara Antônio Carlos Gomes Patrono da Música no Brasil."
+    },
+    {
+      "senadoId": "548503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-04-02-6627",
+      "titulo": "Lei nº 6.627 de 02/04/1979",
+      "data": "1979-04-02",
+      "numero": "6627",
+      "urn": "urn:lex:br:federal:lei:1979-04-02;6627",
+      "ementa": "Reajusta os vencimentos e salários dos Servidores da Câmara dos Deputados, e dá outras providências."
+    },
+    {
+      "senadoId": "548499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-03-23-6623",
+      "titulo": "Lei nº 6.623 de 23/03/1979",
+      "data": "1979-03-23",
+      "numero": "6623",
+      "urn": "urn:lex:br:federal:lei:1979-03-23;6623",
+      "ementa": "Estabelece prazo às entidades públicas e particulares para fornecerem aos   beneficiários comprovantes de rendimentos, para fins de imposto de renda."
+    },
+    {
+      "senadoId": "548500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-03-23-6624",
+      "titulo": "Lei nº 6.624 de 23/03/1979",
+      "data": "1979-03-23",
+      "numero": "6624",
+      "urn": "urn:lex:br:federal:lei:1979-03-23;6624",
+      "ementa": "Dispõe sobre inscrição obrigatória que deve constar do rótulo ou embalagem   de produto estrangeiro com similar no Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "548501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-03-23-6625",
+      "titulo": "Lei nº 6.625 de 23/03/1979",
+      "data": "1979-03-23",
+      "numero": "6625",
+      "urn": "urn:lex:br:federal:lei:1979-03-23;6625",
+      "ementa": "Acrescenta dispositivo ao art. 26 da Lei n. 5540, de 28 de novembro de 1968, que \"fixa normas de organização e funcionamento do ensino superior e sua articulação com a escola média\", instituindo matéria obrigatória."
+    },
+    {
+      "senadoId": "548498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1979-03-23-6622",
+      "titulo": "Lei nº 6.622 de 23/03/1979",
+      "data": "1979-03-23",
+      "numero": "6622",
+      "urn": "urn:lex:br:federal:lei:1979-03-23;6622",
+      "ementa": "Concede pensão especial vitalícia a Djanira de Oliveira Lângaro."
+    }
+  ],
+  "pendencias": []
+}

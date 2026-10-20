@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-07-31-15481",
+  "titulo": "Lei nº 15.481 de 31/07/2026",
+  "data": "2026-07-31",
+  "fonte": "https://normas.leg.br/api/public/binario/9c2c04e8-e09f-4e48-b7e3-d5c89c6d50f6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-07-31;15481",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-07-31%3B15481&tipo_documento=maior-detalhe",
+  "sha256_dados": "601567434823c495322436f5a1b1c608d545799574425fb9a58d86686d061c7f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:08.786Z",
+  "sha256_fonte": "8879e456989dceb704f66fced3641042ab86bce3b8529c63927d6adf028ad209",
+  "sha256_markdown": "8f29ba74ce7a9f608729dc6a870e778366c0cd8a4bd67f935eb0d740a26a070d"
+}

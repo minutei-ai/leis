@@ -1,0 +1,129 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1946",
+  "tipo": "LEI",
+  "ano": 1946,
+  "coletado_em": "2026-10-20T23:03:43.359Z",
+  "normas": [
+    {
+      "senadoId": "540825",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-28-11",
+      "titulo": "Lei nº 11 de 28/12/1946",
+      "data": "1946-12-28",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:lei:1946-12-28;11",
+      "ementa": "Inclui os oficiais dentistas, convocados para a F.E.B., entre os   beneficiados do dispisitivo na alínea b, do art. 1º do Decreto-lei nº 8.159, de   1945."
+    },
+    {
+      "senadoId": "540826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-28-12",
+      "titulo": "Lei nº 12 de 28/12/1946",
+      "data": "1946-12-28",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:lei:1946-12-28;12",
+      "ementa": "Autoriza a abrir, pelo Ministério das Relações Exteriores, o crédito especial de Cr$ 650.000,00 para as despesas com a representação do Brasil a posse dos Presidentes das Repúblicas do Chile e dos Estados Unidos Mexicanos."
+    },
+    {
+      "senadoId": "540824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-20-10",
+      "titulo": "Lei nº 10 de 20/12/1946",
+      "data": "1946-12-20",
+      "numero": "10",
+      "urn": "urn:lex:br:federal:lei:1946-12-20;10",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas o crédito especial de Cr$ 11.000.000,00, para atender as despesas com o   prosseguimento da construção da Rodovia Ponta Grossa Foz do Iguaçu."
+    },
+    {
+      "senadoId": "540823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-20-9",
+      "titulo": "Lei nº 9 de 20/12/1946",
+      "data": "1946-12-20",
+      "numero": "9",
+      "urn": "urn:lex:br:federal:lei:1946-12-20;9",
+      "ementa": "Autoriza a abertura de crédito especial de Cr$ 7.000.000,00 para atender   as despesas com o prosseguimento da construção dos trechos ferroviários Campina   Grande-Soledade e Palmeira dos Índios-Colégio."
+    },
+    {
+      "senadoId": "540820",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-19-7",
+      "titulo": "Lei nº 7 de 19/12/1946",
+      "data": "1946-12-19",
+      "numero": "7",
+      "urn": "urn:lex:br:federal:lei:1946-12-19;7",
+      "ementa": "Disciplina o sistema de promoções nos cursos superiores."
+    },
+    {
+      "senadoId": "540819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-19-6",
+      "titulo": "Lei nº 6 de 19/12/1946",
+      "data": "1946-12-19",
+      "numero": "6",
+      "urn": "urn:lex:br:federal:lei:1946-12-19;6",
+      "ementa": "Dispensa de Notas a disciplina de Trabalhos Manuais do ano letivo de 1946."
+    },
+    {
+      "senadoId": "540821",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-19-8",
+      "titulo": "Lei nº 8 de 19/12/1946",
+      "data": "1946-12-19",
+      "numero": "8",
+      "urn": "urn:lex:br:federal:lei:1946-12-19;8",
+      "ementa": "Suspende, até 30 de Julho de 1947, o vencimento de quaisquer obrigações   civis, comerciais e fiscais, a que estejam sujeitos os pecuaristas."
+    },
+    {
+      "senadoId": "540818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-14-5",
+      "titulo": "Lei nº 5 de 14/12/1946",
+      "data": "1946-12-14",
+      "numero": "5",
+      "urn": "urn:lex:br:federal:lei:1946-12-14;5",
+      "ementa": "Regula as eleições de 19 de janeiro de 1947."
+    },
+    {
+      "senadoId": "540817",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-13-4",
+      "titulo": "Lei nº 4 de 13/12/1946",
+      "data": "1946-12-13",
+      "numero": "4",
+      "urn": "urn:lex:br:federal:lei:1946-12-13;4",
+      "ementa": "Concede isenção de direitos de importação, de taxas portuárias e demais,   aos reprodutores bovinos, ovinos, cavalares e suínos, que se destinarem à 22.ª   Exposição N. e I. de Uruguaiana, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "540815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-12-02-3",
+      "titulo": "Lei nº 3 de 02/12/1946",
+      "data": "1946-12-02",
+      "numero": "3",
+      "urn": "urn:lex:br:federal:lei:1946-12-02;3",
+      "ementa": "Orça a Receita e fixa a Despesa para o exercício de 1947."
+    },
+    {
+      "senadoId": "540814",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-11-22-2",
+      "titulo": "Lei nº 2 de 22/11/1946",
+      "data": "1946-11-22",
+      "numero": "2",
+      "urn": "urn:lex:br:federal:lei:1946-11-22;2",
+      "ementa": "Dispõe sobre aprovação de estudantes expedicionários ou convocados em   virtude de estado de guerra."
+    },
+    {
+      "senadoId": "540812",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1946-10-04-1",
+      "titulo": "Lei nº 1 de 04/10/1946",
+      "data": "1946-10-04",
+      "numero": "1",
+      "urn": "urn:lex:br:federal:lei:1946-10-04;1",
+      "ementa": "Autoriza a abertura, pelo Ministério da Agricultura, do crédito especial   de Cr$ 1.800.000,00 para despesas com o combate às nuvens de gafanhotos que   estão assolando várias regiões do sul do país."
+    }
+  ],
+  "pendencias": []
+}

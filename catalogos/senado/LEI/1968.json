@@ -1,0 +1,1889 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1968",
+  "tipo": "LEI",
+  "ano": 1968,
+  "coletado_em": "2026-10-20T22:59:37.229Z",
+  "normas": [
+    {
+      "senadoId": "547434",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-21-5564",
+      "titulo": "Lei nº 5.564 de 21/12/1968",
+      "data": "1968-12-21",
+      "numero": "5564",
+      "urn": "urn:lex:br:federal:lei:1968-12-21;5564",
+      "ementa": "Provê sobre o exercício da profissão de orientador educacional."
+    },
+    {
+      "senadoId": "547433",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-13-5563",
+      "titulo": "Lei nº 5.563 de 13/12/1968",
+      "data": "1968-12-13",
+      "numero": "5563",
+      "urn": "urn:lex:br:federal:lei:1968-12-13;5563",
+      "ementa": "Retifica, sem ônus, a Lei nº 5.189, de 8 de dezembro de 1966, que estima a Receita e fixa a Despesa para o exercício de 1967."
+    },
+    {
+      "senadoId": "547430",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-12-5560",
+      "titulo": "Lei nº 5.560 de 12/12/1968",
+      "data": "1968-12-12",
+      "numero": "5560",
+      "urn": "urn:lex:br:federal:lei:1968-12-12;5560",
+      "ementa": "Concede isenção de tributos a equipamentos importados para instalação,   ampliação e manutenção de estações e aparelhos de radioamador."
+    },
+    {
+      "senadoId": "547431",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-12-5561",
+      "titulo": "Lei nº 5.561 de 12/12/1968",
+      "data": "1968-12-12",
+      "numero": "5561",
+      "urn": "urn:lex:br:federal:lei:1968-12-12;5561",
+      "ementa": "Retifica, sem ônus, a Lei nº 5.373, de 6 de dezembro de 1967, que estima a Receita e fixa a Despesa da União para o Exercício de 1968."
+    },
+    {
+      "senadoId": "547432",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-12-5562",
+      "titulo": "Lei nº 5.562 de 12/12/1968",
+      "data": "1968-12-12",
+      "numero": "5562",
+      "urn": "urn:lex:br:federal:lei:1968-12-12;5562",
+      "ementa": "Altera disposições da Consolidação das Leis do Trabalho, aprovada pelo   Decreto-Lei nº 5.452, de 1º de maio de 1943, e revoga as Leis nºs. 4.066, de 28   de maio de 1962 e 5.472, de 9 de julho de 1968, que dispõem sobre a validade de   pedido de demissão ou recibo de quitação contratual, firmado por empregado."
+    },
+    {
+      "senadoId": "547428",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-11-5558",
+      "titulo": "Lei nº 5.558 de 11/12/1968",
+      "data": "1968-12-11",
+      "numero": "5558",
+      "urn": "urn:lex:br:federal:lei:1968-12-11;5558",
+      "ementa": "Renova, por cinco anos, o prazo legal para fruição, pelos herdeiros, dos direitos autorais das obras do Maestro Antônio Carlos Gomes."
+    },
+    {
+      "senadoId": "547429",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-11-5559",
+      "titulo": "Lei nº 5.559 de 11/12/1968",
+      "data": "1968-12-11",
+      "numero": "5559",
+      "urn": "urn:lex:br:federal:lei:1968-12-11;5559",
+      "ementa": "Estende o direito ao salário-família instituído pela Lei nº 4.266, de 3 de outubro de 1963, e dá outras providências."
+    },
+    {
+      "senadoId": "547427",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-09-5557",
+      "titulo": "Lei nº 5.557 de 09/12/1968",
+      "data": "1968-12-09",
+      "numero": "5557",
+      "urn": "urn:lex:br:federal:lei:1968-12-09;5557",
+      "ementa": "Autoriza o Poder Executivo a emitir um selo postal, comemorativo do 20º   aniversário da Sociedade Bíblica do Brasil, e dá outras   providências."
+    },
+    {
+      "senadoId": "547425",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-06-5555",
+      "titulo": "Lei nº 5.555 de 06/12/1968",
+      "data": "1968-12-06",
+      "numero": "5555",
+      "urn": "urn:lex:br:federal:lei:1968-12-06;5555",
+      "ementa": "Concede pensão especial ao escultor Celso Antônio de Menezes."
+    },
+    {
+      "senadoId": "547426",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-06-5556",
+      "titulo": "Lei nº 5.556 de 06/12/1968",
+      "data": "1968-12-06",
+      "numero": "5556",
+      "urn": "urn:lex:br:federal:lei:1968-12-06;5556",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Aeronáutica, o crédito especial de NCr$ 18.000.000,00 (dezoito milhões de cruzeiros novos), destinado à execução dos projetos a serem financiados com o produto das Taxas Aeroportuárias."
+    },
+    {
+      "senadoId": "547424",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-06-5554",
+      "titulo": "Lei nº 5.554 de 06/12/1968",
+      "data": "1968-12-06",
+      "numero": "5554",
+      "urn": "urn:lex:br:federal:lei:1968-12-06;5554",
+      "ementa": "Altera o Decreto-lei nº 960, de 17 de dezembro de 1938, que dispõe sobre a cobrança judicial da dívida ativa da Fazenda Pública."
+    },
+    {
+      "senadoId": "547423",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-06-5553",
+      "titulo": "Lei nº 5.553 de 06/12/1968",
+      "data": "1968-12-06",
+      "numero": "5553",
+      "urn": "urn:lex:br:federal:lei:1968-12-06;5553",
+      "ementa": "Dispõe sobre a apresentação e uso de documentos de identificação pessoal."
+    },
+    {
+      "senadoId": "547420",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-04-5550",
+      "titulo": "Lei nº 5.550 de 04/12/1968",
+      "data": "1968-12-04",
+      "numero": "5550",
+      "urn": "urn:lex:br:federal:lei:1968-12-04;5550",
+      "ementa": "Dispõe sobre o exercício da profissão Zootecnista."
+    },
+    {
+      "senadoId": "547422",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-04-5552",
+      "titulo": "Lei nº 5.552 de 04/12/1968",
+      "data": "1968-12-04",
+      "numero": "5552",
+      "urn": "urn:lex:br:federal:lei:1968-12-04;5552",
+      "ementa": "Reajusta os vencimentos dos servidores civis e militares da União, e dá outras providências."
+    },
+    {
+      "senadoId": "547421",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-04-5551",
+      "titulo": "Lei nº 5.551 de 04/12/1968",
+      "data": "1968-12-04",
+      "numero": "5551",
+      "urn": "urn:lex:br:federal:lei:1968-12-04;5551",
+      "ementa": "Autoriza o Poder Executivo do Distrito Federal a abrir crédito especial de NCr$ 150.000,00 (cento e cinquenta mil cruzeiros novos), para o fim que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "547419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-03-5549",
+      "titulo": "Lei nº 5.549 de 03/12/1968",
+      "data": "1968-12-03",
+      "numero": "5549",
+      "urn": "urn:lex:br:federal:lei:1968-12-03;5549",
+      "ementa": "Autoriza a Universidade Federal do Rio de Janeiro a contrair empréstimo no valor de US$ 10.000.000,0 (dez milhões de dólares) com banqueiros privados norte-americanos, e dá outras providências."
+    },
+    {
+      "senadoId": "547418",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-12-02-5548",
+      "titulo": "Lei nº 5.548 de 02/12/1968",
+      "data": "1968-12-02",
+      "numero": "5548",
+      "urn": "urn:lex:br:federal:lei:1968-12-02;5548",
+      "ementa": "Estima a Receita e fixa Despesa do Distrito Federal para o Exercício financeiro de 1969."
+    },
+    {
+      "senadoId": "547417",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-29-5547",
+      "titulo": "Lei nº 5.547 de 29/11/1968",
+      "data": "1968-11-29",
+      "numero": "5547",
+      "urn": "urn:lex:br:federal:lei:1968-11-29;5547",
+      "ementa": "Concede a pensão especial, equivalente a (duas) vezes o maior salário-mínimo, a Hilda Anna Therezia Wolf, viúva de Emílio Wolf."
+    },
+    {
+      "senadoId": "547415",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-29-5545",
+      "titulo": "Lei nº 5.545 de 29/11/1968",
+      "data": "1968-11-29",
+      "numero": "5545",
+      "urn": "urn:lex:br:federal:lei:1968-11-29;5545",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Fazenda, em favor dos Municípios situados nos Territórios Federais, o crédito especial de NCr$ 150.000,00 (cento e cinquenta mil cruzeiros novos), para o fim que especifica."
+    },
+    {
+      "senadoId": "547416",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-29-5546",
+      "titulo": "Lei nº 5.546 de 29/11/1968",
+      "data": "1968-11-29",
+      "numero": "5546",
+      "urn": "urn:lex:br:federal:lei:1968-11-29;5546",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o Exercício financeiro de 1969."
+    },
+    {
+      "senadoId": "547413",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-29-5543",
+      "titulo": "Lei nº 5.543 de 29/11/1968",
+      "data": "1968-11-29",
+      "numero": "5543",
+      "urn": "urn:lex:br:federal:lei:1968-11-29;5543",
+      "ementa": "Altera a Lei nº 5.353, de 8 de novembro de 1967, que dispõe sobre a   criação, no Ministério da Educação e Cultura, de 9 (nove) Prêmios Literários   Nacionais."
+    },
+    {
+      "senadoId": "547414",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-29-5544",
+      "titulo": "Lei nº 5.544 de 29/11/1968",
+      "data": "1968-11-29",
+      "numero": "5544",
+      "urn": "urn:lex:br:federal:lei:1968-11-29;5544",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério dos Transportes, em favor do Grupo Executivo de Integração da Política de Transportes (GEIPOT), o crédito especial de NCr$ 2.800.000,00 (dois milhões e oitocentos mil cruzeiros novos), para o fim que especifica."
+    },
+    {
+      "senadoId": "547411",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-28-5541",
+      "titulo": "Lei nº 5.541 de 28/11/1968",
+      "data": "1968-11-28",
+      "numero": "5541",
+      "urn": "urn:lex:br:federal:lei:1968-11-28;5541",
+      "ementa": "Revigora o prazo previsto no item IX, alínea \"b\" do art. 1º. da Lei nº 4.622, de 3 de maio de 1965, que concede isenção de tributos para importação de bens e dá outras providências."
+    },
+    {
+      "senadoId": "547412",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-28-5542",
+      "titulo": "Lei nº 5.542 de 28/11/1968",
+      "data": "1968-11-28",
+      "numero": "5542",
+      "urn": "urn:lex:br:federal:lei:1968-11-28;5542",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério dos Transportes, em favor do Grupo Executivo de Integração da Política de Transportes (GEIPOT), o crédito especial de NCr$ 4.200.000,00 (quatro milhões e duzentos mil cruzeiros novos), para o fim que especifica."
+    },
+    {
+      "senadoId": "547410",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-28-5540",
+      "titulo": "Lei nº 5.540 de 28/11/1968",
+      "data": "1968-11-28",
+      "numero": "5540",
+      "urn": "urn:lex:br:federal:lei:1968-11-28;5540",
+      "ementa": "Fixa normas de organização e funcionamento do ensino superior e sua articulação com a escola média, e dá outras providências."
+    },
+    {
+      "senadoId": "547408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-27-5539",
+      "titulo": "Lei nº 5.539 de 27/11/1968",
+      "data": "1968-11-27",
+      "numero": "5539",
+      "urn": "urn:lex:br:federal:lei:1968-11-27;5539",
+      "ementa": "Modifica dispositivos da Lei número 4.881-A, de 6 de dezembro de 1965, que dispõe sobre o Estatuto do Magistério Superior, e dá outras providências."
+    },
+    {
+      "senadoId": "547407",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-22-5538",
+      "titulo": "Lei nº 5.538 de 22/11/1968",
+      "data": "1968-11-22",
+      "numero": "5538",
+      "urn": "urn:lex:br:federal:lei:1968-11-22;5538",
+      "ementa": "Dispõe sobre a organização do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "547406",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-21-5537",
+      "titulo": "Lei nº 5.537 de 21/11/1968",
+      "data": "1968-11-21",
+      "numero": "5537",
+      "urn": "urn:lex:br:federal:lei:1968-11-21;5537",
+      "ementa": "Cria o Instituto Nacional de Desenvolvimento da Educação e Pesquisa (INDEP), e dá outras providências."
+    },
+    {
+      "senadoId": "547405",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-21-5536",
+      "titulo": "Lei nº 5.536 de 21/11/1968",
+      "data": "1968-11-21",
+      "numero": "5536",
+      "urn": "urn:lex:br:federal:lei:1968-11-21;5536",
+      "ementa": "Dispõe sobre a censura de obras teatrais e cinematográficas, cria o Conselho Superior de Censura, e dá outras providências."
+    },
+    {
+      "senadoId": "547404",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-20-5535",
+      "titulo": "Lei nº 5.535 de 20/11/1968",
+      "data": "1968-11-20",
+      "numero": "5535",
+      "urn": "urn:lex:br:federal:lei:1968-11-20;5535",
+      "ementa": "Restabelece representações no Conselho Nacional de Telecomunicações,   revoga dispositivos da Lei nº 4.117, de 27 de agosto de 1962 e dá outras   providências."
+    },
+    {
+      "senadoId": "547402",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-14-5533",
+      "titulo": "Lei nº 5.533 de 14/11/1968",
+      "data": "1968-11-14",
+      "numero": "5533",
+      "urn": "urn:lex:br:federal:lei:1968-11-14;5533",
+      "ementa": "Autoriza o Poder Executivo a doar, através do Instituto   Brasileiro do Café, ao Programa Mundial de Alimentos da Organização das Nações Unidas   para a Alimentação e a Agricultura, 5000 (cinco mil) sacas de café."
+    },
+    {
+      "senadoId": "547403",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-14-5534",
+      "titulo": "Lei nº 5.534 de 14/11/1968",
+      "data": "1968-11-14",
+      "numero": "5534",
+      "urn": "urn:lex:br:federal:lei:1968-11-14;5534",
+      "ementa": "Dispõe sobre a obrigatoriedade de prestação de informações estatísticas e dá outras providências."
+    },
+    {
+      "senadoId": "547401",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-14-5532",
+      "titulo": "Lei nº 5.532 de 14/11/1968",
+      "data": "1968-11-14",
+      "numero": "5532",
+      "urn": "urn:lex:br:federal:lei:1968-11-14;5532",
+      "ementa": "Acrescenta parágrafo ao art. 1º do Decreto-lei nº 58, de 10 de dezembro de   1937, que dispõe sobre o loteamento de terrenos para pagamento em   prestações."
+    },
+    {
+      "senadoId": "547399",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-13-5530",
+      "titulo": "Lei nº 5.530 de 13/11/1968",
+      "data": "1968-11-13",
+      "numero": "5530",
+      "urn": "urn:lex:br:federal:lei:1968-11-13;5530",
+      "ementa": "Dispõe sobre o exercício da profissão de químico pelos portadores de   carteira expedida pelo Ministério do Trabalho e Previdência Social, até o   advento da Lei nº 2.800, de 18 de junho de 1956."
+    },
+    {
+      "senadoId": "547398",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-13-5529",
+      "titulo": "Lei nº 5.529 de 13/11/1968",
+      "data": "1968-11-13",
+      "numero": "5529",
+      "urn": "urn:lex:br:federal:lei:1968-11-13;5529",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério do Interior, em favor da   Superintendência do Desenvolvimento da Região Centro-Oeste, o crédito especial   de NCr$ 6.000.000,00 ( seis milhões de cruzeiros novos ), para fins que   especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "547400",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-13-5531",
+      "titulo": "Lei nº 5.531 de 13/11/1968",
+      "data": "1968-11-13",
+      "numero": "5531",
+      "urn": "urn:lex:br:federal:lei:1968-11-13;5531",
+      "ementa": "Institui incentivos fiscais para o desenvolvimento da educação e dá outras   providências."
+    },
+    {
+      "senadoId": "547397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-12-5528",
+      "titulo": "Lei nº 5.528 de 12/11/1968",
+      "data": "1968-11-12",
+      "numero": "5528",
+      "urn": "urn:lex:br:federal:lei:1968-11-12;5528",
+      "ementa": "Autoriza o Poder Executivo a instituir a Universidade Federal do Piauí e   dá outras providências."
+    },
+    {
+      "senadoId": "547396",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-08-5527",
+      "titulo": "Lei nº 5.527 de 08/11/1968",
+      "data": "1968-11-08",
+      "numero": "5527",
+      "urn": "urn:lex:br:federal:lei:1968-11-08;5527",
+      "ementa": "Restabelece, para as categorias profissionais que menciona, o direito à aposentadoria especial de que trata o artigo 31 da Lei nº 3807, de 26 de agosto de 1960, nas condições anteriores."
+    },
+    {
+      "senadoId": "547394",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-05-5525",
+      "titulo": "Lei nº 5.525 de 05/11/1968",
+      "data": "1968-11-05",
+      "numero": "5525",
+      "urn": "urn:lex:br:federal:lei:1968-11-05;5525",
+      "ementa": "Dispõe sobre a destinação do Fundo Especial da Loteria Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "547395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-05-5526",
+      "titulo": "Lei nº 5.526 de 05/11/1968",
+      "data": "1968-11-05",
+      "numero": "5526",
+      "urn": "urn:lex:br:federal:lei:1968-11-05;5526",
+      "ementa": "Dispõe sobre a inscrição de médicos militares em Conselho Regional de   Medicina e dá outras providências."
+    },
+    {
+      "senadoId": "547393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-05-5524",
+      "titulo": "Lei nº 5.524 de 05/11/1968",
+      "data": "1968-11-05",
+      "numero": "5524",
+      "urn": "urn:lex:br:federal:lei:1968-11-05;5524",
+      "ementa": "Dispõe sobre o exercício da profissão de Técnico Industrial de nível   médio."
+    },
+    {
+      "senadoId": "547390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-04-5521",
+      "titulo": "Lei nº 5.521 de 04/11/1968",
+      "data": "1968-11-04",
+      "numero": "5521",
+      "urn": "urn:lex:br:federal:lei:1968-11-04;5521",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério dos Transporte, o   créditos especial de NCr$ 11.000.000,00 ( onze milhões de cruzeiros novos ),   para o fim que menciona."
+    },
+    {
+      "senadoId": "547392",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-04-5523",
+      "titulo": "Lei nº 5.523 de 04/11/1968",
+      "data": "1968-11-04",
+      "numero": "5523",
+      "urn": "urn:lex:br:federal:lei:1968-11-04;5523",
+      "ementa": "Autoriza o Poder Executivo a constituir as Sociedades de Economia Mista -   Centrais Elétricas de Roraima S.A. CER e Centrais Elétricas de Rondônia S.A. -   CERON."
+    },
+    {
+      "senadoId": "547391",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-11-04-5522",
+      "titulo": "Lei nº 5.522 de 04/11/1968",
+      "data": "1968-11-04",
+      "numero": "5522",
+      "urn": "urn:lex:br:federal:lei:1968-11-04;5522",
+      "ementa": "Concede pensão especial à viúva do ex-Professor da Faculdade de Medicina   da Universidade Federal de Pernambuco, Aggeu de Godoy Magalhães."
+    },
+    {
+      "senadoId": "547389",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-31-5520",
+      "titulo": "Lei nº 5.520 de 31/10/1968",
+      "data": "1968-10-31",
+      "numero": "5520",
+      "urn": "urn:lex:br:federal:lei:1968-10-31;5520",
+      "ementa": "Fixa os efetivos dos Oficiais dos Corpos e Quadros da Marinha de Guerra, e dá outras providências."
+    },
+    {
+      "senadoId": "547388",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-30-5519",
+      "titulo": "Lei nº 5.519 de 30/10/1968",
+      "data": "1968-10-30",
+      "numero": "5519",
+      "urn": "urn:lex:br:federal:lei:1968-10-30;5519",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério do Interior, o crédito   especial de NCr$ 30.000,00 ( trinta mil cruzeiros novos ), destinado a ocorrer   às despesas de exercícios anteriores."
+    },
+    {
+      "senadoId": "547387",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-29-5518",
+      "titulo": "Lei nº 5.518 de 29/10/1968",
+      "data": "1968-10-29",
+      "numero": "5518",
+      "urn": "urn:lex:br:federal:lei:1968-10-29;5518",
+      "ementa": "Altera o artigo 3º da Lei nº 2.391, de 7 de janeiro de 1955 alterada pela   Lei nº 4.446, de 20 de outubro de 1964."
+    },
+    {
+      "senadoId": "547386",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-23-5517",
+      "titulo": "Lei nº 5.517 de 23/10/1968",
+      "data": "1968-10-23",
+      "numero": "5517",
+      "urn": "urn:lex:br:federal:lei:1968-10-23;5517",
+      "ementa": "Dispõe sobre o exercício da profissão de médico-veterinário e cria os Conselhos Federal e Regionais de Medicina Veterinária."
+    },
+    {
+      "senadoId": "547385",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-23-5516",
+      "titulo": "Lei nº 5.516 de 23/10/1968",
+      "data": "1968-10-23",
+      "numero": "5516",
+      "urn": "urn:lex:br:federal:lei:1968-10-23;5516",
+      "ementa": "Institui o Dia do Município."
+    },
+    {
+      "senadoId": "547384",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-23-5515",
+      "titulo": "Lei nº 5.515 de 23/10/1968",
+      "data": "1968-10-23",
+      "numero": "5515",
+      "urn": "urn:lex:br:federal:lei:1968-10-23;5515",
+      "ementa": "Isenta de multa ou penalidade os que requeiram sua inscrição eleitoral até   7 de agosto de 1970."
+    },
+    {
+      "senadoId": "547383",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-21-5514",
+      "titulo": "Lei nº 5.514 de 21/10/1968",
+      "data": "1968-10-21",
+      "numero": "5514",
+      "urn": "urn:lex:br:federal:lei:1968-10-21;5514",
+      "ementa": "Autoriza o Ministro da Fazenda a conceder remissão de crédito   tributário."
+    },
+    {
+      "senadoId": "547382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-17-5513",
+      "titulo": "Lei nº 5.513 de 17/10/1968",
+      "data": "1968-10-17",
+      "numero": "5513",
+      "urn": "urn:lex:br:federal:lei:1968-10-17;5513",
+      "ementa": "Dispõe sobre construções nas proximidades das Fortificações Costeiras do   Exército."
+    },
+    {
+      "senadoId": "547381",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-17-5512",
+      "titulo": "Lei nº 5.512 de 17/10/1968",
+      "data": "1968-10-17",
+      "numero": "5512",
+      "urn": "urn:lex:br:federal:lei:1968-10-17;5512",
+      "ementa": "Autoriza a construção da Ponte Rio-Niterói, abre crédito especial e dá   outras providências."
+    },
+    {
+      "senadoId": "547379",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-15-5510",
+      "titulo": "Lei nº 5.510 de 15/10/1968",
+      "data": "1968-10-15",
+      "numero": "5510",
+      "urn": "urn:lex:br:federal:lei:1968-10-15;5510",
+      "ementa": "Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional até o   limite de NCr$ 80.000.000,00 ( oitenta milhões de cruzeiros novos) nas condições   que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "547380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-15-5511",
+      "titulo": "Lei nº 5.511 de 15/10/1968",
+      "data": "1968-10-15",
+      "numero": "5511",
+      "urn": "urn:lex:br:federal:lei:1968-10-15;5511",
+      "ementa": "Submete a Campanha Nacional Contra a Lepra ao regime previsto na Lei nº   5.026, de 14 de junho de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "547378",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-15-5509",
+      "titulo": "Lei nº 5.509 de 15/10/1968",
+      "data": "1968-10-15",
+      "numero": "5509",
+      "urn": "urn:lex:br:federal:lei:1968-10-15;5509",
+      "ementa": "Concede pensão mensal à viúva do ex-parlamentar Walter Geraldo de Azevedo   Athayde."
+    },
+    {
+      "senadoId": "547377",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-11-5508",
+      "titulo": "Lei nº 5.508 de 11/10/1968",
+      "data": "1968-10-11",
+      "numero": "5508",
+      "urn": "urn:lex:br:federal:lei:1968-10-11;5508",
+      "ementa": "Aprova a Quarta Etapa do Plano Diretor de Desenvolvimento Econômico e Social do Nordeste, para os anos de 1969, 1970, 1971, 1972 e 1973, e dá outras providências."
+    },
+    {
+      "senadoId": "547376",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-10-5507",
+      "titulo": "Lei nº 5.507 de 10/10/1968",
+      "data": "1968-10-10",
+      "numero": "5507",
+      "urn": "urn:lex:br:federal:lei:1968-10-10;5507",
+      "ementa": "Estabelece prioridade para matrícula nos estabelecimentos de ensino público de curso médio e dispõe sobre a concessão de bolsas de estudo para os filhos de ex-combatentes e órfãos menores carentes de recursos."
+    },
+    {
+      "senadoId": "547375",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-08-5506",
+      "titulo": "Lei nº 5.506 de 08/10/1968",
+      "data": "1968-10-08",
+      "numero": "5506",
+      "urn": "urn:lex:br:federal:lei:1968-10-08;5506",
+      "ementa": "Concede aos funcionários do extinto Território do Acre o direito de retorno aos serviços da União."
+    },
+    {
+      "senadoId": "547373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-04-5504",
+      "titulo": "Lei nº 5.504 de 04/10/1968",
+      "data": "1968-10-04",
+      "numero": "5504",
+      "urn": "urn:lex:br:federal:lei:1968-10-04;5504",
+      "ementa": "Modifica dispositivo da Lei nº 4.908, de 17 de dezembro de 1965 e transfere   ações da União para a ELETROBRÁS."
+    },
+    {
+      "senadoId": "547374",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-04-5505",
+      "titulo": "Lei nº 5.505 de 04/10/1968",
+      "data": "1968-10-04",
+      "numero": "5505",
+      "urn": "urn:lex:br:federal:lei:1968-10-04;5505",
+      "ementa": "Autoriza o Poder Executivo do Distrito Federal a abrir crédito especial no   valor de NCr$ 8.275.000,00 ( oito milhões duzentos e setenta e cinco mil   cruzeiros novos ), para integralização do Capital da Companhia de Telefones de   Brasília Ltda. - COTELB."
+    },
+    {
+      "senadoId": "547372",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-10-01-5503",
+      "titulo": "Lei nº 5.503 de 01/10/1968",
+      "data": "1968-10-01",
+      "numero": "5503",
+      "urn": "urn:lex:br:federal:lei:1968-10-01;5503",
+      "ementa": "Dá nova redação ao art. 1º da Lei nº 5.311, de 18 de agosto de 1967, que   dispõe sobre a criação de cargos no Quadro de Pessoal do Ministério do Exército   para melhor atender às organizações de saúde do Exército."
+    },
+    {
+      "senadoId": "547370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-27-5501",
+      "titulo": "Lei nº 5.501 de 27/09/1968",
+      "data": "1968-09-27",
+      "numero": "5501",
+      "urn": "urn:lex:br:federal:lei:1968-09-27;5501",
+      "ementa": "Isenta dos impostos de importação e sôbre produtos industrializados,   material destinado à fabricação de café solúvel."
+    },
+    {
+      "senadoId": "547371",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-27-5502",
+      "titulo": "Lei nº 5.502 de 27/09/1968",
+      "data": "1968-09-27",
+      "numero": "5502",
+      "urn": "urn:lex:br:federal:lei:1968-09-27;5502",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - o crédito especial de NCr$ 10.000,00 (dez mil cruzeiros novos), para ocorrer a despesas com instalação de órgãos criados pela Lei nº 4.088, de 12 de julho de 1962, e dá outras providências."
+    },
+    {
+      "senadoId": "547369",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-20-5500",
+      "titulo": "Lei nº 5.500 de 20/09/1968",
+      "data": "1968-09-20",
+      "numero": "5500",
+      "urn": "urn:lex:br:federal:lei:1968-09-20;5500",
+      "ementa": "Dá nova redação a dispositivos da Lei nº 5.020, de 7 de junho de 1966, que dispõe sôbre as promoções de Oficiais da Ativa da Aeronáutica, alterada pelo Decreto-lei nº 174, de 15 de fevereiro de 1967, e Decreto-lei nº 321, de 4 de abril de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "547367",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-09-5498",
+      "titulo": "Lei nº 5.498 de 09/09/1968",
+      "data": "1968-09-09",
+      "numero": "5498",
+      "urn": "urn:lex:br:federal:lei:1968-09-09;5498",
+      "ementa": "Extingue a punibilidade de crimes previstos na Lei nº 4.729, de 14 de   julho de 1965, que define o crime de sonegação fiscal e dá outras   providências."
+    },
+    {
+      "senadoId": "547368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-09-5499",
+      "titulo": "Lei nº 5.499 de 09/09/1968",
+      "data": "1968-09-09",
+      "numero": "5499",
+      "urn": "urn:lex:br:federal:lei:1968-09-09;5499",
+      "ementa": "Dispõe sôbre a jurisdição da Junta de Conciliação e Julgamento de Ribeirão   Preto, no Estado de São Paulo, e dá outras providências."
+    },
+    {
+      "senadoId": "547361",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-05-5492",
+      "titulo": "Lei nº 5.492 de 05/09/1968",
+      "data": "1968-09-05",
+      "numero": "5492",
+      "urn": "urn:lex:br:federal:lei:1968-09-05;5492",
+      "ementa": "Autoriza o Ministério da Aeronáutica a doar à Prefeitura Municipal de Três Lagoas, no Estado de Mato Grosso, lote de terreno situado no bairro da Aviação."
+    },
+    {
+      "senadoId": "547363",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-05-5494",
+      "titulo": "Lei nº 5.494 de 05/09/1968",
+      "data": "1968-09-05",
+      "numero": "5494",
+      "urn": "urn:lex:br:federal:lei:1968-09-05;5494",
+      "ementa": "Cria, no Quadro de Pessoal do Ministério da Aeronáutica, cargo em comissão   de Consultor Jurídico."
+    },
+    {
+      "senadoId": "547366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-05-5497",
+      "titulo": "Lei nº 5.497 de 05/09/1968",
+      "data": "1968-09-05",
+      "numero": "5497",
+      "urn": "urn:lex:br:federal:lei:1968-09-05;5497",
+      "ementa": "Dispõe sôbre a elevação da cobrança do sêlo da taxa adicional para NCr$   0,05 (cinco centavos) a que se refere a Lei nº 909, de 8 de novembro de 1949,   que autoriza emissão de selos em benefício dos filhos de lázaros."
+    },
+    {
+      "senadoId": "547364",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-05-5495",
+      "titulo": "Lei nº 5.495 de 05/09/1968",
+      "data": "1968-09-05",
+      "numero": "5495",
+      "urn": "urn:lex:br:federal:lei:1968-09-05;5495",
+      "ementa": "Concede pensão especial às famílias dos mortos em consequência de explosão   verificada no Parque 13 de Maio, na Cidade do Recife, Estado de   Pernambuco."
+    },
+    {
+      "senadoId": "547362",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-05-5493",
+      "titulo": "Lei nº 5.493 de 05/09/1968",
+      "data": "1968-09-05",
+      "numero": "5493",
+      "urn": "urn:lex:br:federal:lei:1968-09-05;5493",
+      "ementa": "Concede pensão especial à Senhora Joaquina Gomes de Araújo Lima, viúva de   Joaquim de Araújo Lima, falecido em acidente em serviço, no exercício do cargo   de Engenheiro da Estrada de Ferro Madeira-Mamoré."
+    },
+    {
+      "senadoId": "547365",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-05-5496",
+      "titulo": "Lei nº 5.496 de 05/09/1968",
+      "data": "1968-09-05",
+      "numero": "5496",
+      "urn": "urn:lex:br:federal:lei:1968-09-05;5496",
+      "ementa": "Institui o \"Dia do Colono\", a ser comemorado em 25 de julho de cada   ano."
+    },
+    {
+      "senadoId": "547359",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-03-5490",
+      "titulo": "Lei nº 5.490 de 03/09/1968",
+      "data": "1968-09-03",
+      "numero": "5490",
+      "urn": "urn:lex:br:federal:lei:1968-09-03;5490",
+      "ementa": "Dá nova redação a dispositivos do Decreto-lei nº 245, de 28 de fevereiro   de 1967, que transforma o Colégio Pedro II em autarquia e dá outras   providências."
+    },
+    {
+      "senadoId": "547360",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-09-03-5491",
+      "titulo": "Lei nº 5.491 de 03/09/1968",
+      "data": "1968-09-03",
+      "numero": "5491",
+      "urn": "urn:lex:br:federal:lei:1968-09-03;5491",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Educação e Cultura, em   favor da Escola de Engenharia Industrial do Rio Grande, o crédito especial de   NC$ 32.460,00 ( trinta e dois mil, quatrocentos e sessenta cruzeiros novos ),   para o fim que especifica."
+    },
+    {
+      "senadoId": "547358",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-30-5489",
+      "titulo": "Lei nº 5.489 de 30/08/1968",
+      "data": "1968-08-30",
+      "numero": "5489",
+      "urn": "urn:lex:br:federal:lei:1968-08-30;5489",
+      "ementa": "Concede isenção de impôsto de importação para equipamentos de produção   cinematográfica."
+    },
+    {
+      "senadoId": "547356",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-27-5487",
+      "titulo": "Lei nº 5.487 de 27/08/1968",
+      "data": "1968-08-27",
+      "numero": "5487",
+      "urn": "urn:lex:br:federal:lei:1968-08-27;5487",
+      "ementa": "Concede pensões especiais a beneficiários legais de servidores falecidos em   acidente com avião da Força Aérea Brasileira na Selva amazônica e dá outras   providências."
+    },
+    {
+      "senadoId": "547355",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-27-5486",
+      "titulo": "Lei nº 5.486 de 27/08/1968",
+      "data": "1968-08-27",
+      "numero": "5486",
+      "urn": "urn:lex:br:federal:lei:1968-08-27;5486",
+      "ementa": "Dispõe sobre a classe singular de Intrutor de Pára-quedismo."
+    },
+    {
+      "senadoId": "547357",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-27-5488",
+      "titulo": "Lei nº 5.488 de 27/08/1968",
+      "data": "1968-08-27",
+      "numero": "5488",
+      "urn": "urn:lex:br:federal:lei:1968-08-27;5488",
+      "ementa": "Institui a correção monetária nos casos de liquidação de sinistros   cobertos por contratos de seguros."
+    },
+    {
+      "senadoId": "547354",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-26-5485",
+      "titulo": "Lei nº 5.485 de 26/08/1968",
+      "data": "1968-08-26",
+      "numero": "5485",
+      "urn": "urn:lex:br:federal:lei:1968-08-26;5485",
+      "ementa": "Concede isenção do imposto de importação e do imposto sobre produtos industrializados, bem como dos emolumentos consulares incidentes sobre um piano a ser importado pelo pianista brasileiro Nelson Freire."
+    },
+    {
+      "senadoId": "547353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-21-5484",
+      "titulo": "Lei nº 5.484 de 21/08/1968",
+      "data": "1968-08-21",
+      "numero": "5484",
+      "urn": "urn:lex:br:federal:lei:1968-08-21;5484",
+      "ementa": "Isenta do Imposto de importação e do imposto sobre produtos   industrializados material doado à Igreja Metodista Central de Belo Horizonte,   Minas Gerais."
+    },
+    {
+      "senadoId": "547352",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-19-5483",
+      "titulo": "Lei nº 5.483 de 19/08/1968",
+      "data": "1968-08-19",
+      "numero": "5483",
+      "urn": "urn:lex:br:federal:lei:1968-08-19;5483",
+      "ementa": "Modifica o item III do art. 178 da Lei nº 1711, de 28 de outubro de 1952   (Estatuto dos Funcionários Públicos Civis da União)."
+    },
+    {
+      "senadoId": "547348",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-10-5479",
+      "titulo": "Lei nº 5.479 de 10/08/1968",
+      "data": "1968-08-10",
+      "numero": "5479",
+      "urn": "urn:lex:br:federal:lei:1968-08-10;5479",
+      "ementa": "Dispõe sobre a retirada e transplante de tecidos, órgãos e partes de cadáver para finalidade terapêutica e científica, e dá outras providências."
+    },
+    {
+      "senadoId": "547349",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-10-5480",
+      "titulo": "Lei nº 5.480 de 10/08/1968",
+      "data": "1968-08-10",
+      "numero": "5480",
+      "urn": "urn:lex:br:federal:lei:1968-08-10;5480",
+      "ementa": "Revoga o Decreto-lei nº 127, de 31 de janeiro de 1967, revoga e altera a redação de dispositivos do Decreto-lei nº 5, de 4 de abril de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "547350",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-10-5481",
+      "titulo": "Lei nº 5.481 de 10/08/1968",
+      "data": "1968-08-10",
+      "numero": "5481",
+      "urn": "urn:lex:br:federal:lei:1968-08-10;5481",
+      "ementa": "Revigora o prazo estabelecido pelo art. 1º do Decreto-lei nº 148, de 8 de   fevereiro de 1967, que dispõe sobre a organização da vida rural, investidura das   Associações Rurais, nas funções e prerrogativas do órgão sindical."
+    },
+    {
+      "senadoId": "547351",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-08-10-5482",
+      "titulo": "Lei nº 5.482 de 10/08/1968",
+      "data": "1968-08-10",
+      "numero": "5482",
+      "urn": "urn:lex:br:federal:lei:1968-08-10;5482",
+      "ementa": "Autoriza o Poder Executivo a desapropriar em favor da Empresa Brasileira   de Telecomunicações - EMBRATEL o imóvel que especifica de propriedade da   Prefeitura Municipal de Belo Horizonte."
+    },
+    {
+      "senadoId": "547347",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-25-5478",
+      "titulo": "Lei nº 5.478 de 25/07/1968",
+      "data": "1968-07-25",
+      "numero": "5478",
+      "urn": "urn:lex:br:federal:lei:1968-07-25;5478",
+      "ementa": "Dispõe sobre ação de alimentos e dá outras providências."
+    },
+    {
+      "senadoId": "547346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-25-5477",
+      "titulo": "Lei nº 5.477 de 25/07/1968",
+      "data": "1968-07-25",
+      "numero": "5477",
+      "urn": "urn:lex:br:federal:lei:1968-07-25;5477",
+      "ementa": "Concede franquia postal às precatórias criminais e à correspondência dos   Conselhos Penitenciários Estaduais."
+    },
+    {
+      "senadoId": "547345",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-24-5476",
+      "titulo": "Lei nº 5.476 de 24/07/1968",
+      "data": "1968-07-24",
+      "numero": "5476",
+      "urn": "urn:lex:br:federal:lei:1968-07-24;5476",
+      "ementa": "Autoriza o Poder Executivo a constituir a sociedade de economia mista   Banco de Roraima S.A."
+    },
+    {
+      "senadoId": "547344",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-23-5475",
+      "titulo": "Lei nº 5.475 de 23/07/1968",
+      "data": "1968-07-23",
+      "numero": "5475",
+      "urn": "urn:lex:br:federal:lei:1968-07-23;5475",
+      "ementa": "Dá nova redação ao art. 3º e seu § 2º da Lei nº 3.765, de 4 de maio de   1960, que dispõe sôbre as pensões militares."
+    },
+    {
+      "senadoId": "547343",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-18-5474",
+      "titulo": "Lei nº 5.474 de 18/07/1968",
+      "data": "1968-07-18",
+      "numero": "5474",
+      "urn": "urn:lex:br:federal:lei:1968-07-18;5474",
+      "ementa": "Dispõe sôbre as Duplicatas, e dá outras providências."
+    },
+    {
+      "senadoId": "547342",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-10-5473",
+      "titulo": "Lei nº 5.473 de 10/07/1968",
+      "data": "1968-07-10",
+      "numero": "5473",
+      "urn": "urn:lex:br:federal:lei:1968-07-10;5473",
+      "ementa": "Regula o provimento de cargos e dá outras providências."
+    },
+    {
+      "senadoId": "547341",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-09-5472",
+      "titulo": "Lei nº 5.472 de 09/07/1968",
+      "data": "1968-07-09",
+      "numero": "5472",
+      "urn": "urn:lex:br:federal:lei:1968-07-09;5472",
+      "ementa": "Acrescenta parágrafo ao art. 1º, passando a ser 2º o parágrafo único, da   Lei nº 4.066, de 28 de maio de 1962, que estabelece normas para a validade de   demissão ou recibo de quitação contratual, firmado por empregado."
+    },
+    {
+      "senadoId": "547340",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-09-5471",
+      "titulo": "Lei nº 5.471 de 09/07/1968",
+      "data": "1968-07-09",
+      "numero": "5471",
+      "urn": "urn:lex:br:federal:lei:1968-07-09;5471",
+      "ementa": "Dispõe sôbre a exportação de livros antigos e conjuntos bibliográficos brasileiros."
+    },
+    {
+      "senadoId": "547337",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-08-5468",
+      "titulo": "Lei nº 5.468 de 08/07/1968",
+      "data": "1968-07-08",
+      "numero": "5468",
+      "urn": "urn:lex:br:federal:lei:1968-07-08;5468",
+      "ementa": "Dispõe sôbre a representação da Superintendência do Desenvolvimento da   Amazônia (SUDAM), no Conselho de Política Aduaneira."
+    },
+    {
+      "senadoId": "547339",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-08-5470",
+      "titulo": "Lei nº 5.470 de 08/07/1968",
+      "data": "1968-07-08",
+      "numero": "5470",
+      "urn": "urn:lex:br:federal:lei:1968-07-08;5470",
+      "ementa": "Autoriza o Poder Executivo a promover, por ato de bravura, o Cabo da   Aeronáutica Nelson Odir da Silva Barros."
+    },
+    {
+      "senadoId": "547338",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-08-5469",
+      "titulo": "Lei nº 5.469 de 08/07/1968",
+      "data": "1968-07-08",
+      "numero": "5469",
+      "urn": "urn:lex:br:federal:lei:1968-07-08;5469",
+      "ementa": "Dispõe sôbre o Conselho Nacional de Turismo."
+    },
+    {
+      "senadoId": "547336",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-06-5467-a",
+      "titulo": "Lei nº 5.467-A de 06/07/1968",
+      "data": "1968-07-06",
+      "numero": "5467-a",
+      "urn": "urn:lex:br:federal:lei:1968-07-06;5467-a",
+      "ementa": "Altera o art. 102 do Decreto-lei nº 9.698, de 2 de setembro de 1946   (Estatuto dos Militares)."
+    },
+    {
+      "senadoId": "547335",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-05-5467",
+      "titulo": "Lei nº 5.467 de 05/07/1968",
+      "data": "1968-07-05",
+      "numero": "5467",
+      "urn": "urn:lex:br:federal:lei:1968-07-05;5467",
+      "ementa": "Dá nova redação aos artigos 119 e 120 do Código Penal, que dispõem sobre a   reabilitação criminal."
+    },
+    {
+      "senadoId": "547334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-05-5466",
+      "titulo": "Lei nº 5.466 de 05/07/1968",
+      "data": "1968-07-05",
+      "numero": "5466",
+      "urn": "urn:lex:br:federal:lei:1968-07-05;5466",
+      "ementa": "Autoriza o Poder Executivo a doar à Fundação Universidade Norte Mineira   terreno situado na gleba do Colégio Agrícola \"Antônio Versiani Athayde\", no   município de Montes Claros, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "547333",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-03-5465",
+      "titulo": "Lei nº 5.465 de 03/07/1968",
+      "data": "1968-07-03",
+      "numero": "5465",
+      "urn": "urn:lex:br:federal:lei:1968-07-03;5465",
+      "ementa": "Dispõe sôbre o preenchimento de vagas nos estabelecimentos de ensino agrícola."
+    },
+    {
+      "senadoId": "547330",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-02-5462",
+      "titulo": "Lei nº 5.462 de 02/07/1968",
+      "data": "1968-07-02",
+      "numero": "5462",
+      "urn": "urn:lex:br:federal:lei:1968-07-02;5462",
+      "ementa": "Dispõe sôbre os proventos da aposentadoria no regime de produtividade   instituído pela Lei nº 4.491, de 21 de novembro de 1964, e dá outras   providências."
+    },
+    {
+      "senadoId": "547332",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-02-5464",
+      "titulo": "Lei nº 5.464 de 02/07/1968",
+      "data": "1968-07-02",
+      "numero": "5464",
+      "urn": "urn:lex:br:federal:lei:1968-07-02;5464",
+      "ementa": "Considera de utilidade pública a Fundação Ford (The Ford Foundation), com   sede em New York, Estados Unidos da América do Norte."
+    },
+    {
+      "senadoId": "547331",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-07-02-5463",
+      "titulo": "Lei nº 5.463 de 02/07/1968",
+      "data": "1968-07-02",
+      "numero": "5463",
+      "urn": "urn:lex:br:federal:lei:1968-07-02;5463",
+      "ementa": "Declara prescritas as contas que menciona e dá outras   providências."
+    },
+    {
+      "senadoId": "547329",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-25-5461",
+      "titulo": "Lei nº 5.461 de 25/06/1968",
+      "data": "1968-06-25",
+      "numero": "5461",
+      "urn": "urn:lex:br:federal:lei:1968-06-25;5461",
+      "ementa": "Dispõe sobre as contribuições de que tratam o art. 1º do Decreto-lei número 6.246, de 5 de fevereiro de 1944, e o art. 23 da Lei nº 5.107, de 13 de setembro de 1966."
+    },
+    {
+      "senadoId": "547328",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-24-5460",
+      "titulo": "Lei nº 5.460 de 24/06/1968",
+      "data": "1968-06-24",
+      "numero": "5460",
+      "urn": "urn:lex:br:federal:lei:1968-06-24;5460",
+      "ementa": "Dispõe sobre a isenção estabelecida pelo Decreto-lei nº 332, de 12 de outubro de 1967."
+    },
+    {
+      "senadoId": "547327",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-21-5459",
+      "titulo": "Lei nº 5.459 de 21/06/1968",
+      "data": "1968-06-21",
+      "numero": "5459",
+      "urn": "urn:lex:br:federal:lei:1968-06-21;5459",
+      "ementa": "Modifica dispositivos da Lei nº 5.227, de 18 de janeiro de 1967, que dispõe a política econômica da borracha, regula sua execução, e dá outras providências."
+    },
+    {
+      "senadoId": "547326",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-21-5458",
+      "titulo": "Lei nº 5.458 de 21/06/1968",
+      "data": "1968-06-21",
+      "numero": "5458",
+      "urn": "urn:lex:br:federal:lei:1968-06-21;5458",
+      "ementa": "Dispõe sobre os vencimentos do Pessoal dos Serviços Auxiliares da Justiça Federal de Primeira Instância."
+    },
+    {
+      "senadoId": "547325",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-20-5457",
+      "titulo": "Lei nº 5.457 de 20/06/1968",
+      "data": "1968-06-20",
+      "numero": "5457",
+      "urn": "urn:lex:br:federal:lei:1968-06-20;5457",
+      "ementa": "Altera o § 1º do art. 1º e alíneas \"a\" e \"c\" do art. 6º da Lei nº 5.365,   de 1º de dezembro de 1967, que cria a Superintendência do Desenvolvimento da   Região Centro-Oeste (SUDECO), e dá outras providências."
+    },
+    {
+      "senadoId": "547324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-20-5456",
+      "titulo": "Lei nº 5.456 de 20/06/1968",
+      "data": "1968-06-20",
+      "numero": "5456",
+      "urn": "urn:lex:br:federal:lei:1968-06-20;5456",
+      "ementa": "Dispõe sobre a aplicação aos Estados e Municípios das normas relativas às licitações previstas no Decreto-lei nº 200, de 25 de fevereiro de 1967, que dispõe sobre a organização da Administração Federal, estabelece diretrizes para a Reforma Administrativa e dá outras providências."
+    },
+    {
+      "senadoId": "547323",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-19-5455",
+      "titulo": "Lei nº 5.455 de 19/06/1968",
+      "data": "1968-06-19",
+      "numero": "5455",
+      "urn": "urn:lex:br:federal:lei:1968-06-19;5455",
+      "ementa": "Altera dispositivos da Lei nº 4.380, de 21 de agosto de 1964, que institui a correção monetária nos contratos imobiliários, de interesse social, o sistema financeiro para aquisição da casa própria, cria o Banco Nacional de Habitação (BNH), e sociedade de Crédito Imobiliário, as Letras Imobiliárias, o Serviço Federal de Habitação e Urbanismo, e dá outras providências."
+    },
+    {
+      "senadoId": "547322",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-17-5454",
+      "titulo": "Lei nº 5.454 de 17/06/1968",
+      "data": "1968-06-17",
+      "numero": "5454",
+      "urn": "urn:lex:br:federal:lei:1968-06-17;5454",
+      "ementa": "Concede pensão especial ao Professor Robert Joachimovits."
+    },
+    {
+      "senadoId": "547321",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-14-5453",
+      "titulo": "Lei nº 5.453 de 14/06/1968",
+      "data": "1968-06-14",
+      "numero": "5453",
+      "urn": "urn:lex:br:federal:lei:1968-06-14;5453",
+      "ementa": "Institui o sistema de sublegendas e dá outras providências."
+    },
+    {
+      "senadoId": "547319",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-12-5451",
+      "titulo": "Lei nº 5.451 de 12/06/1968",
+      "data": "1968-06-12",
+      "numero": "5451",
+      "urn": "urn:lex:br:federal:lei:1968-06-12;5451",
+      "ementa": "Dispõe sobre reajustamento salarial."
+    },
+    {
+      "senadoId": "547320",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-12-5452",
+      "titulo": "Lei nº 5.452 de 12/06/1968",
+      "data": "1968-06-12",
+      "numero": "5452",
+      "urn": "urn:lex:br:federal:lei:1968-06-12;5452",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional do   Trabalho da 4ª Região - o crédito especial de NCr$ 60,45 (sessenta cruzeiros   novos e quarenta e cinco centavos), para atender ao pagamento de salário-família   ao Juiz daquele Tribunal - Doutor Dilermano Xavier Porto."
+    },
+    {
+      "senadoId": "547318",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-05-5450",
+      "titulo": "Lei nº 5.450 de 05/06/1968",
+      "data": "1968-06-05",
+      "numero": "5450",
+      "urn": "urn:lex:br:federal:lei:1968-06-05;5450",
+      "ementa": "Aprova o Orçamento Plurianual de Investimentos para o triênio 1968-1970."
+    },
+    {
+      "senadoId": "547314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-04-5446",
+      "titulo": "Lei nº 5.446 de 04/06/1968",
+      "data": "1968-06-04",
+      "numero": "5446",
+      "urn": "urn:lex:br:federal:lei:1968-06-04;5446",
+      "ementa": "Concede pensão especial ao cidadão brasileiro Assis Almeida e dá outras providências."
+    },
+    {
+      "senadoId": "547317",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-04-5449",
+      "titulo": "Lei nº 5.449 de 04/06/1968",
+      "data": "1968-06-04",
+      "numero": "5449",
+      "urn": "urn:lex:br:federal:lei:1968-06-04;5449",
+      "ementa": "Declara de interesse da segurança nacional, nos termos do art 16, § 1º, alínea b, da Constituição, os Municípios que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "547315",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-04-5447",
+      "titulo": "Lei nº 5.447 de 04/06/1968",
+      "data": "1968-06-04",
+      "numero": "5447",
+      "urn": "urn:lex:br:federal:lei:1968-06-04;5447",
+      "ementa": "Concede isenção aos impostos sobre produtos industrializados e de importação para dois helicópteros e três aviões, seus equipamentos adicionais e complementos, destinados a empresas que exploram serviços aerofotogramétricos."
+    },
+    {
+      "senadoId": "547316",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-06-04-5448",
+      "titulo": "Lei nº 5.448 de 04/06/1968",
+      "data": "1968-06-04",
+      "numero": "5448",
+      "urn": "urn:lex:br:federal:lei:1968-06-04;5448",
+      "ementa": "Acrescenta mais um inciso ao artigo 15 do Decreto-lei número 37, de 18 de novembro de 1966, que dispõe sobre o Imposto de Importação, reorganiza os serviços aduaneiros e dá outras providências."
+    },
+    {
+      "senadoId": "547313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-30-5445",
+      "titulo": "Lei nº 5.445 de 30/05/1968",
+      "data": "1968-05-30",
+      "numero": "5445",
+      "urn": "urn:lex:br:federal:lei:1968-05-30;5445",
+      "ementa": "Modifica os artigos 517 e 523 do Decreto-lei nº 1608, de 18 de setembro de 1939 (Código de Processo Civil)"
+    },
+    {
+      "senadoId": "547311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-30-5444",
+      "titulo": "Lei nº 5.444 de 30/05/1968",
+      "data": "1968-05-30",
+      "numero": "5444",
+      "urn": "urn:lex:br:federal:lei:1968-05-30;5444",
+      "ementa": "Dispõe sobre a redução e isenção de impostos na exportação e na importação."
+    },
+    {
+      "senadoId": "547310",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-28-5443",
+      "titulo": "Lei nº 5.443 de 28/05/1968",
+      "data": "1968-05-28",
+      "numero": "5443",
+      "urn": "urn:lex:br:federal:lei:1968-05-28;5443",
+      "ementa": "Dispõe sobre a forma e a apresentação dos Símbolos Nacionais, e dá outras providências."
+    },
+    {
+      "senadoId": "547308",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-24-5441",
+      "titulo": "Lei nº 5.441 de 24/05/1968",
+      "data": "1968-05-24",
+      "numero": "5441",
+      "urn": "urn:lex:br:federal:lei:1968-05-24;5441",
+      "ementa": "Dispõe sobre o reajustamento dos aluguéis de imóveis, locados para fins residenciais depois da vigência da Lei nº 4.494, de 25 de novembro de 1964."
+    },
+    {
+      "senadoId": "547309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-24-5442",
+      "titulo": "Lei nº 5.442 de 24/05/1968",
+      "data": "1968-05-24",
+      "numero": "5442",
+      "urn": "urn:lex:br:federal:lei:1968-05-24;5442",
+      "ementa": "Modifica a redação de dispositivos da Consolidação das Leis do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "547307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-23-5440-a",
+      "titulo": "Lei nº 5.440-A de 23/05/1968",
+      "data": "1968-05-23",
+      "numero": "5440-a",
+      "urn": "urn:lex:br:federal:lei:1968-05-23;5440-a",
+      "ementa": "Altera o artigo 31 e dá nova redação ao artigo 32 e seu § 1º da Lei nº 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social)."
+    },
+    {
+      "senadoId": "547306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-22-5440",
+      "titulo": "Lei nº 5.440 de 22/05/1968",
+      "data": "1968-05-22",
+      "numero": "5440",
+      "urn": "urn:lex:br:federal:lei:1968-05-22;5440",
+      "ementa": "Reajusta os vencimentos dos servidores da Secretaria e dos Serviços   Auxiliares do Tribunal de Justiça do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "547305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-22-5439",
+      "titulo": "Lei nº 5.439 de 22/05/1968",
+      "data": "1968-05-22",
+      "numero": "5439",
+      "urn": "urn:lex:br:federal:lei:1968-05-22;5439",
+      "ementa": "Altera a Lei nº 5.258, de 10 de abril de 1967, que dispõe sobre medidas   aplicáveis aos menores de 18 anos pela prática de fatos definidos como infrações   penais e dá outras providências."
+    },
+    {
+      "senadoId": "547304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-20-5438",
+      "titulo": "Lei nº 5.438 de 20/05/1968",
+      "data": "1968-05-20",
+      "numero": "5438",
+      "urn": "urn:lex:br:federal:lei:1968-05-20;5438",
+      "ementa": "Altera o art. 4 do Decreto-Lei nº 221, de 28 de fevereiro de 1967, que dispõe sobre a proteção e estímulos à pesca, e dá outras providências."
+    },
+    {
+      "senadoId": "547302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-16-5436",
+      "titulo": "Lei nº 5.436 de 16/05/1968",
+      "data": "1968-05-16",
+      "numero": "5436",
+      "urn": "urn:lex:br:federal:lei:1968-05-16;5436",
+      "ementa": "Dá nova redação ao parágrafo único do art. 9, do Decreto-Lei nº 5, de 4 de   abril de 1966, que estabelece normas para a recuperação econômica das atividades   da Marinha Mercante, dos Portos Nacionais e da Rede Ferroviária Federal S.A. e   dá outras providências."
+    },
+    {
+      "senadoId": "547303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-16-5437",
+      "titulo": "Lei nº 5.437 de 16/05/1968",
+      "data": "1968-05-16",
+      "numero": "5437",
+      "urn": "urn:lex:br:federal:lei:1968-05-16;5437",
+      "ementa": "Altera os Quadros Permanente e Provisório do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "547301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-14-5435",
+      "titulo": "Lei nº 5.435 de 14/05/1968",
+      "data": "1968-05-14",
+      "numero": "5435",
+      "urn": "urn:lex:br:federal:lei:1968-05-14;5435",
+      "ementa": "Reajusta a pensão especial concedida a Nicolau Janrô, ex-extranumerário   diarista do Arsenal de Marinha do Rio de Janeiro."
+    },
+    {
+      "senadoId": "547300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-14-5434",
+      "titulo": "Lei nº 5.434 de 14/05/1968",
+      "data": "1968-05-14",
+      "numero": "5434",
+      "urn": "urn:lex:br:federal:lei:1968-05-14;5434",
+      "ementa": "Dá nova redação ao § 3º do art. 21 do Decreto-Lei nº 67, de 21 de novembro   de 1966."
+    },
+    {
+      "senadoId": "547299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-08-5433",
+      "titulo": "Lei nº 5.433 de 08/05/1968",
+      "data": "1968-05-08",
+      "numero": "5433",
+      "urn": "urn:lex:br:federal:lei:1968-05-08;5433",
+      "ementa": "Regula a microfilmagem de documentos oficiais e dá outras   providências."
+    },
+    {
+      "senadoId": "547298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-07-5432",
+      "titulo": "Lei nº 5.432 de 07/05/1968",
+      "data": "1968-05-07",
+      "numero": "5432",
+      "urn": "urn:lex:br:federal:lei:1968-05-07;5432",
+      "ementa": "Dispõe sobre o pagamento de dívidas previdenciárias através de imóveis desonerados e dá outras providências."
+    },
+    {
+      "senadoId": "547297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-03-5431",
+      "titulo": "Lei nº 5.431 de 03/05/1968",
+      "data": "1968-05-03",
+      "numero": "5431",
+      "urn": "urn:lex:br:federal:lei:1968-05-03;5431",
+      "ementa": "Acrescenta dispositivos ao art. 209 da Consolidação das Leis do Trabalho e   à Lei nº 2.573, de 15 de agosto de 1955, que dispõem sobre perícia para   caracterização e classificação de insalubridade e periculosidade."
+    },
+    {
+      "senadoId": "547296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-05-02-5430",
+      "titulo": "Lei nº 5.430 de 02/05/1968",
+      "data": "1968-05-02",
+      "numero": "5430",
+      "urn": "urn:lex:br:federal:lei:1968-05-02;5430",
+      "ementa": "Reajusta os vencimentos dos servidores da Justiça Militar."
+    },
+    {
+      "senadoId": "547293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-30-5427",
+      "titulo": "Lei nº 5.427 de 30/04/1968",
+      "data": "1968-04-30",
+      "numero": "5427",
+      "urn": "urn:lex:br:federal:lei:1968-04-30;5427",
+      "ementa": "Reajusta os vencimentos dos funcionários da Secretaria do Tribunal Federal   de Recursos."
+    },
+    {
+      "senadoId": "547295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-30-5429",
+      "titulo": "Lei nº 5.429 de 30/04/1968",
+      "data": "1968-04-30",
+      "numero": "5429",
+      "urn": "urn:lex:br:federal:lei:1968-04-30;5429",
+      "ementa": "Reajusta os vencimentos dos funcionários das Secretarias da Justiça do Trabalho."
+    },
+    {
+      "senadoId": "547294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-30-5428",
+      "titulo": "Lei nº 5.428 de 30/04/1968",
+      "data": "1968-04-30",
+      "numero": "5428",
+      "urn": "urn:lex:br:federal:lei:1968-04-30;5428",
+      "ementa": "Reajusta os vencimentos dos funcinários das Secretarias do Tribunal Superior Eleitoral e Tribunais Regionais Eleitorais."
+    },
+    {
+      "senadoId": "547292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-30-5426",
+      "titulo": "Lei nº 5.426 de 30/04/1968",
+      "data": "1968-04-30",
+      "numero": "5426",
+      "urn": "urn:lex:br:federal:lei:1968-04-30;5426",
+      "ementa": "Altera a Lei nº 4.767, de 30 de agosto de 1965, que promove os Militares   Veteranos da Segunda Guerra Mundial, licenciados do serviço ativo e incluídos na   reserva não remunerada."
+    },
+    {
+      "senadoId": "547291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-29-5425",
+      "titulo": "Lei nº 5.425 de 29/04/1968",
+      "data": "1968-04-29",
+      "numero": "5425",
+      "urn": "urn:lex:br:federal:lei:1968-04-29;5425",
+      "ementa": "Dispõe sobre serviços de despachantes aduaneiros e dá outras providências."
+    },
+    {
+      "senadoId": "547290",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-27-5424",
+      "titulo": "Lei nº 5.424 de 27/04/1968",
+      "data": "1968-04-27",
+      "numero": "5424",
+      "urn": "urn:lex:br:federal:lei:1968-04-27;5424",
+      "ementa": "Concede, pelo prazo de um ano, isenção dos impostos de importação e sobre   produtos industrializados, para material destinado à fabricação, no País, de   centrais telefônicas automáticas. /Há veto/"
+    },
+    {
+      "senadoId": "547289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-26-5423",
+      "titulo": "Lei nº 5.423 de 26/04/1968",
+      "data": "1968-04-26",
+      "numero": "5423",
+      "urn": "urn:lex:br:federal:lei:1968-04-26;5423",
+      "ementa": "Reclassifica, no símbolo 5-C, os cargos em comissão de Diretores das   Escolas Técnicas e Industriais Federais da Rede Federal de Ensino Industrial do   Ministério da Educação e Cultura."
+    },
+    {
+      "senadoId": "547286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-25-5421",
+      "titulo": "Lei nº 5.421 de 25/04/1968",
+      "data": "1968-04-25",
+      "numero": "5421",
+      "urn": "urn:lex:br:federal:lei:1968-04-25;5421",
+      "ementa": "Dispõe sôbre medidas financeiras referentes à arrecadação da Dívida Ativa da União, juros de mora nos débitos para com a Fazenda Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "547288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-25-5422-a",
+      "titulo": "Lei nº 5.422-A de 25/04/1968",
+      "data": "1968-04-25",
+      "numero": "5422-a",
+      "urn": "urn:lex:br:federal:lei:1968-04-25;5422-a",
+      "ementa": "Cria o Serviço Nacional de Bibliotecas Municipais e dá outras providências. /Há veto/"
+    },
+    {
+      "senadoId": "547287",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-25-5422",
+      "titulo": "Lei nº 5.422 de 25/04/1968",
+      "data": "1968-04-25",
+      "numero": "5422",
+      "urn": "urn:lex:br:federal:lei:1968-04-25;5422",
+      "ementa": "Dispõe sobre a 2ª classe do Corpo de Bombeiros do Distrito Federal,   complementando a Lei nº 5.255, de 5 de abril de 1967, que unifica as 1ª e 2ª   Classes de Bombeiros, do Corpo de Bombeiros do Distrito Federal."
+    },
+    {
+      "senadoId": "547285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-18-5420",
+      "titulo": "Lei nº 5.420 de 18/04/1968",
+      "data": "1968-04-18",
+      "numero": "5420",
+      "urn": "urn:lex:br:federal:lei:1968-04-18;5420",
+      "ementa": "Dá nova redação ao art. 3º do Decreto-Lei nº 210, de 27 de   fevereiro de 1967, que estabelece normas para o abastecimento de trigo,   sua industrialização e comercialização e dá outras providências."
+    },
+    {
+      "senadoId": "547284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-15-5419",
+      "titulo": "Lei nº 5.419 de 15/04/1968",
+      "data": "1968-04-15",
+      "numero": "5419",
+      "urn": "urn:lex:br:federal:lei:1968-04-15;5419",
+      "ementa": "Autoriza a Comissão do Plano do Carvão Nacional a transferir o serviço   público do abastecimeno de água à cidade de Criciúma para a responsabilidade da   Prefeitura Municipal da mesma localidade e dá outras providências."
+    },
+    {
+      "senadoId": "547283",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-15-5418",
+      "titulo": "Lei nº 5.418 de 15/04/1968",
+      "data": "1968-04-15",
+      "numero": "5418",
+      "urn": "urn:lex:br:federal:lei:1968-04-15;5418",
+      "ementa": "Concede isenção dos impostos de importação e sobre produtos   industrializados para equipamentos importados pela Companhia Estadual de   Telefones da Guanabara - CETEL."
+    },
+    {
+      "senadoId": "547282",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-15-5417",
+      "titulo": "Lei nº 5.417 de 15/04/1968",
+      "data": "1968-04-15",
+      "numero": "5417",
+      "urn": "urn:lex:br:federal:lei:1968-04-15;5417",
+      "ementa": "Autoriza o Poder Executivo a permutar imóvel de propriedade da União com a   Associação Leopoldina Juvenil, na cidade de Porto Alegre, Estado do Rio Grande   do Sul."
+    },
+    {
+      "senadoId": "547277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-10-5413",
+      "titulo": "Lei nº 5.413 de 10/04/1968",
+      "data": "1968-04-10",
+      "numero": "5413",
+      "urn": "urn:lex:br:federal:lei:1968-04-10;5413",
+      "ementa": "Institui, em caráter temporário, a licença extraordinária, e dá outras   providências."
+    },
+    {
+      "senadoId": "547278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-10-5414",
+      "titulo": "Lei nº 5.414 de 10/04/1968",
+      "data": "1968-04-10",
+      "numero": "5414",
+      "urn": "urn:lex:br:federal:lei:1968-04-10;5414",
+      "ementa": "Altera o Quadro do Pessoal da Secretaria do Tribunal Federal de Recursos e dá outras providências."
+    },
+    {
+      "senadoId": "547281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-10-5416",
+      "titulo": "Lei nº 5.416 de 10/04/1968",
+      "data": "1968-04-10",
+      "numero": "5416",
+      "urn": "urn:lex:br:federal:lei:1968-04-10;5416",
+      "ementa": "Altera o parágrafo 2 do art. 26 da Lei nº 4239, de 27 de junho de 1963, que aprova o Plano Diretor do Desenvolvimento do Nordeste para os anos de 1963, 1964 e 1965, e dá outras providências."
+    },
+    {
+      "senadoId": "547279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-10-5415",
+      "titulo": "Lei nº 5.415 de 10/04/1968",
+      "data": "1968-04-10",
+      "numero": "5415",
+      "urn": "urn:lex:br:federal:lei:1968-04-10;5415",
+      "ementa": "Concede estímulos fiscais às indústrias de celuloses, de pasta mecânica e   de papel em geral e dá outras providências."
+    },
+    {
+      "senadoId": "547269",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5405",
+      "titulo": "Lei nº 5.405 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5405",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5405",
+      "ementa": "Estende à Comarca de Leopoldina a Jurisdição da Junta de Conciliação e   Julgamento de Cataguases, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "547270",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5406",
+      "titulo": "Lei nº 5.406 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5406",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5406",
+      "ementa": "Revigora, por 30 (trinta) dias, dispositivo do Decreto-Lei nº 194, de 24   de fevereiro de 1967, que dispõe sobre a aplicação da legislação sobre o Fundo   de Garantia de Tempo de Serviço às entidades de fins   filantrópicos."
+    },
+    {
+      "senadoId": "547276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5412",
+      "titulo": "Lei nº 5.412 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5412",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5412",
+      "ementa": "Autoriza a Prefeitura do Distrito Federal e a Fundação Zoobotânica do   Distrito Federal a cancelarem contrato de financiamento."
+    },
+    {
+      "senadoId": "547272",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5408",
+      "titulo": "Lei nº 5.408 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5408",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5408",
+      "ementa": "Reajusta os vencimentos dos servidores da Secretaria-Geral do Tribunal de   Contas da União."
+    },
+    {
+      "senadoId": "547275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5411",
+      "titulo": "Lei nº 5.411 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5411",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5411",
+      "ementa": "Extingue a taxa de imigração criada pelo Decreto-Lei nº 406, de 4 de maio   de 1938, que dispõe sobre a entrada de estrangeiros no território nacional,   modificado pelo Decreto-Lei nº 639, de 20 de agosto de 1938."
+    },
+    {
+      "senadoId": "547274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5410",
+      "titulo": "Lei nº 5.410 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5410",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5410",
+      "ementa": "Dispõe sobre o regime de previdência social dos servidores e empregados   das autarquias controladoras do exercício profissional."
+    },
+    {
+      "senadoId": "547271",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5407",
+      "titulo": "Lei nº 5.407 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5407",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5407",
+      "ementa": "Reajusta os vencimentos dos servidores da Secretaria do Supremo Tribunal   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "547273",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-04-09-5409",
+      "titulo": "Lei nº 5.409 de 09/04/1968",
+      "data": "1968-04-09",
+      "numero": "5409",
+      "urn": "urn:lex:br:federal:lei:1968-04-09;5409",
+      "ementa": "Autoriza o Tesouro Nacional a promover a elevação do capital da Companhia   Siderúrgica Nacional, e garantir empréstimo externo para ampliar as instalações   industriais da Usina de Volta Redonda e dá outras providências."
+    },
+    {
+      "senadoId": "547267",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-29-5403",
+      "titulo": "Lei nº 5.403 de 29/03/1968",
+      "data": "1968-03-29",
+      "numero": "5403",
+      "urn": "urn:lex:br:federal:lei:1968-03-29;5403",
+      "ementa": "Transfere a sede da Junta de Conciliação e Julgamento localizada em   Propriá para Maruim, Estado de Sergipe - 5ª Região da Justiça do   Trabalho."
+    },
+    {
+      "senadoId": "547268",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-29-5404",
+      "titulo": "Lei nº 5.404 de 29/03/1968",
+      "data": "1968-03-29",
+      "numero": "5404",
+      "urn": "urn:lex:br:federal:lei:1968-03-29;5404",
+      "ementa": "Altera e revoga dispositivos do Decreto-Lei nº 205, de 27 de fevereiro de   1967, que dispõe sobre a organização, funcionamento e extinção de aeroclubes, e   dá outras providências."
+    },
+    {
+      "senadoId": "547266",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-29-5402",
+      "titulo": "Lei nº 5.402 de 29/03/1968",
+      "data": "1968-03-29",
+      "numero": "5402",
+      "urn": "urn:lex:br:federal:lei:1968-03-29;5402",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Interior, o crédito   especial de NCr$ 406.000,00 (quatrocentos e seis mil cruzeiros novos), para   atender a programa especial de migrações internas."
+    },
+    {
+      "senadoId": "547265",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-25-5401",
+      "titulo": "Lei nº 5.401 de 25/03/1968",
+      "data": "1968-03-25",
+      "numero": "5401",
+      "urn": "urn:lex:br:federal:lei:1968-03-25;5401",
+      "ementa": "Isenta dos impostos de importação e sobre produtos industrializados   equipamentos destinados à implantação da rede de telecomunicações no Estado do   Paraná, e importados pela Companhia de Telecomunicações do Paraná -   TELEPAR."
+    },
+    {
+      "senadoId": "547264",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-21-5400",
+      "titulo": "Lei nº 5.400 de 21/03/1968",
+      "data": "1968-03-21",
+      "numero": "5400",
+      "urn": "urn:lex:br:federal:lei:1968-03-21;5400",
+      "ementa": "Provê sobre a alfabetização de adultos em idade militar."
+    },
+    {
+      "senadoId": "547263",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-20-5399",
+      "titulo": "Lei nº 5.399 de 20/03/1968",
+      "data": "1968-03-20",
+      "numero": "5399",
+      "urn": "urn:lex:br:federal:lei:1968-03-20;5399",
+      "ementa": "Dá nova redação ao artigo 75 da Lei nº 5.292, de 8 de junho de 1967, que   dispõe sôbre a prestação do Serviço Militar pelos estudantes de Medicina,   Farmácia, Odontologia e Veterinária e pelos médicos, Farmacêuticos, Dentistas e   Veterinários."
+    },
+    {
+      "senadoId": "547262",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-03-04-5398",
+      "titulo": "Lei nº 5.398 de 04/03/1968",
+      "data": "1968-03-04",
+      "numero": "5398",
+      "urn": "urn:lex:br:federal:lei:1968-03-04;5398",
+      "ementa": "Acrescenta parágrafo único ao art. 2º do Decreto-Lei nº 132, de 1 de fevereiro de 1967, e dispõe sobre as condições de ingresso no Instituto Militar de Engenharia de Oficiais da Ativa das Armas e do Quadro de Material Bélico."
+    },
+    {
+      "senadoId": "547261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-28-5397",
+      "titulo": "Lei nº 5.397 de 28/02/1968",
+      "data": "1968-02-28",
+      "numero": "5397",
+      "urn": "urn:lex:br:federal:lei:1968-02-28;5397",
+      "ementa": "Altera o parágrafo 4º do art 12 do Decreto-Lei nº 236, de 28 de fevereiro de 1967, que complementou e modificou a Lei nº 4.117, de 27 de agosto de 1962."
+    },
+    {
+      "senadoId": "547260",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-26-5396",
+      "titulo": "Lei nº 5.396 de 26/02/1968",
+      "data": "1968-02-26",
+      "numero": "5396",
+      "urn": "urn:lex:br:federal:lei:1968-02-26;5396",
+      "ementa": "Acrescenta itens ao Art. 165 do Decreto-Lei nº 200, de 25 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "547255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-23-5391",
+      "titulo": "Lei nº 5.391 de 23/02/1968",
+      "data": "1968-02-23",
+      "numero": "5391",
+      "urn": "urn:lex:br:federal:lei:1968-02-23;5391",
+      "ementa": "Atribui recursos para melhoria das condiçoes de segurança do sistema rodoviário."
+    },
+    {
+      "senadoId": "547257",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-23-5393",
+      "titulo": "Lei nº 5.393 de 23/02/1968",
+      "data": "1968-02-23",
+      "numero": "5393",
+      "urn": "urn:lex:br:federal:lei:1968-02-23;5393",
+      "ementa": "Altera a Lei nº 4.448, de 29 de outubro de 1964 (Lei de promoções dos Oficiais do Exército)."
+    },
+    {
+      "senadoId": "547258",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-23-5394",
+      "titulo": "Lei nº 5.394 de 23/02/1968",
+      "data": "1968-02-23",
+      "numero": "5394",
+      "urn": "urn:lex:br:federal:lei:1968-02-23;5394",
+      "ementa": "Fixa os efetivos dos Quadros de Oficiais Generais Combatentes e de Oficiais do Quadro das Armas e Material Bélico do Exército."
+    },
+    {
+      "senadoId": "547259",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-23-5395",
+      "titulo": "Lei nº 5.395 de 23/02/1968",
+      "data": "1968-02-23",
+      "numero": "5395",
+      "urn": "urn:lex:br:federal:lei:1968-02-23;5395",
+      "ementa": "Dispõe sobre os \"cofres de carga\"e altera o artigo 9 do Decreto-Lei nº 83, de 26 de dezembro de 1966, que dispõe sobre a cobrança de taxas portuárias."
+    },
+    {
+      "senadoId": "547254",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-23-5390",
+      "titulo": "Lei nº 5.390 de 23/02/1968",
+      "data": "1968-02-23",
+      "numero": "5390",
+      "urn": "urn:lex:br:federal:lei:1968-02-23;5390",
+      "ementa": "Dispõe sobre a inscrição, como Solicitador Acadêmico, na Ordem dos Advogados do Brasil e dispensa de estágio profissional e Exame da Ordem."
+    },
+    {
+      "senadoId": "547256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-23-5392",
+      "titulo": "Lei nº 5.392 de 23/02/1968",
+      "data": "1968-02-23",
+      "numero": "5392",
+      "urn": "urn:lex:br:federal:lei:1968-02-23;5392",
+      "ementa": "Amplia a destinação de recursos do \"Fundo de Assistência ao Desempregado\" instituído pelo Decreto número 58.155, de 5 de abril de 1966."
+    },
+    {
+      "senadoId": "547253",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-22-5389",
+      "titulo": "Lei nº 5.389 de 22/02/1968",
+      "data": "1968-02-22",
+      "numero": "5389",
+      "urn": "urn:lex:br:federal:lei:1968-02-22;5389",
+      "ementa": "Dispõe sobre a Bandeira, as Armas e o Sêlo Nacionais."
+    },
+    {
+      "senadoId": "547251",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-21-5387",
+      "titulo": "Lei nº 5.387 de 21/02/1968",
+      "data": "1968-02-21",
+      "numero": "5387",
+      "urn": "urn:lex:br:federal:lei:1968-02-21;5387",
+      "ementa": "Altera o artigo 1º da Lei nº 3.378, de 2 de abril de 1958, que eleva para Cr$ 35.000.000,00 (trinta e cinco milhões de cruzeiros) a ajuda financeira concedida às Missões Salesianas do Amazonas - Prelazia do Rio Negro, e dá outras providências."
+    },
+    {
+      "senadoId": "547252",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-21-5388",
+      "titulo": "Lei nº 5.388 de 21/02/1968",
+      "data": "1968-02-21",
+      "numero": "5388",
+      "urn": "urn:lex:br:federal:lei:1968-02-21;5388",
+      "ementa": "Provê sobre a isenção do pagamento das taxas de Melhoramentos dos Portos e Renovação da Marinha Mercante, dos equipamentos importados pelo Ministério da Educação e Cultura, nas condições que especifica."
+    },
+    {
+      "senadoId": "547250",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-21-5386",
+      "titulo": "Lei nº 5.386 de 21/02/1968",
+      "data": "1968-02-21",
+      "numero": "5386",
+      "urn": "urn:lex:br:federal:lei:1968-02-21;5386",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Comunicações, o crédito especial de Ncr$ 2.000.000,00 (dois milhões de cruzeiros novos), para o fim que especifica."
+    },
+    {
+      "senadoId": "547249",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-16-5385",
+      "titulo": "Lei nº 5.385 de 16/02/1968",
+      "data": "1968-02-16",
+      "numero": "5385",
+      "urn": "urn:lex:br:federal:lei:1968-02-16;5385",
+      "ementa": "Regulamenta o \"Trabalho de bloco\"."
+    },
+    {
+      "senadoId": "547248",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-14-5384",
+      "titulo": "Lei nº 5.384 de 14/02/1968",
+      "data": "1968-02-14",
+      "numero": "5384",
+      "urn": "urn:lex:br:federal:lei:1968-02-14;5384",
+      "ementa": "Concede estimulos à indústria de artefatos têxteis e dá outras providências."
+    },
+    {
+      "senadoId": "547247",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-12-5383",
+      "titulo": "Lei nº 5.383 de 12/02/1968",
+      "data": "1968-02-12",
+      "numero": "5383",
+      "urn": "urn:lex:br:federal:lei:1968-02-12;5383",
+      "ementa": "Concede reforma a militares asilados e dá outras providências."
+    },
+    {
+      "senadoId": "547245",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-09-5381",
+      "titulo": "Lei nº 5.381 de 09/02/1968",
+      "data": "1968-02-09",
+      "numero": "5381",
+      "urn": "urn:lex:br:federal:lei:1968-02-09;5381",
+      "ementa": "Acrescenta parágrafos ao art. 86, da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1 de maio de 1943."
+    },
+    {
+      "senadoId": "547246",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-02-09-5382",
+      "titulo": "Lei nº 5.382 de 09/02/1968",
+      "data": "1968-02-09",
+      "numero": "5382",
+      "urn": "urn:lex:br:federal:lei:1968-02-09;5382",
+      "ementa": "Prorroga o prazo de vigência de isenção tributária concedida à Companhia Hidro Elétrica de São Francisco."
+    },
+    {
+      "senadoId": "547244",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1968-01-29-5380",
+      "titulo": "Lei nº 5.380 de 29/01/1968",
+      "data": "1968-01-29",
+      "numero": "5380",
+      "urn": "urn:lex:br:federal:lei:1968-01-29;5380",
+      "ementa": "Autoriza o aumento de capital da Usina Termelétrica de Figueira S.A. - UTELFA."
+    }
+  ],
+  "pendencias": []
+}

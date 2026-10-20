@@ -1,0 +1,29 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1934",
+  "tipo": "LEI",
+  "ano": 1934,
+  "coletado_em": "2026-10-20T23:04:19.746Z",
+  "normas": [
+    {
+      "senadoId": "30812142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1934-12-12-11",
+      "titulo": "Lei nº 11 de 12/12/1934",
+      "data": "1934-12-12",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:lei:1934-12-12;11",
+      "ementa": "Modifica a legislação do ensino"
+    },
+    {
+      "senadoId": "30817790",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1934-11-12-5",
+      "titulo": "Lei nº 5 de 12/11/1934",
+      "data": "1934-11-12",
+      "numero": "5",
+      "urn": "urn:lex:br:federal:lei:1934-11-12;5",
+      "ementa": "Orça a Receita e fixa a Despesa Geral da Republica dos Estados Unidos da Brasil para o exercicio de 1936"
+    }
+  ],
+  "pendencias": []
+}

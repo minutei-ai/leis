@@ -1,0 +1,3919 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1956",
+  "tipo": "LEI",
+  "ano": 1956,
+  "coletado_em": "2026-10-20T23:02:09.548Z",
+  "normas": [
+    {
+      "senadoId": "573307",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3087",
+      "titulo": "Lei nº 3.087 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3087",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3087",
+      "ementa": "Retifica, sem ônus a Lei nº 2.665, de 6 de dezembro   de 1955, que estima a Receita e fixa a Despesa da União para o exercício de   1956."
+    },
+    {
+      "senadoId": "573314",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3092",
+      "titulo": "Lei nº 3.092 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3092",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3092",
+      "ementa": "Cria a Escola Agrícola de Rio Pomba, no Estado de Minas Gerais, e dá outras providências."
+    },
+    {
+      "senadoId": "573313",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3091",
+      "titulo": "Lei nº 3.091 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3091",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3091",
+      "ementa": "Concede isenção de direitos e mais taxas aduaneiras para mercadorias   importadas pela empresa Frigoríficos Minas Gerais S.A. (Frimisa)."
+    },
+    {
+      "senadoId": "573305",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3085",
+      "titulo": "Lei nº 3.085 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3085",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3085",
+      "ementa": "Prorroga a Lei do Inquilinato, e dá outras providências."
+    },
+    {
+      "senadoId": "573303",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3084",
+      "titulo": "Lei nº 3.084 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3084",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3084",
+      "ementa": "Revigora, com alterações, a Lei n° 1.522, de 26 de dezembro de 1951, que autoriza o Governo Federal a intervir no domínio econômico para assegurar a livre distribuição de produtos necessários ao consumo do povo."
+    },
+    {
+      "senadoId": "573306",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3086",
+      "titulo": "Lei nº 3.086 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3086",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3086",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, os créditos especiais de Cr$10.000.000,00 e Cr$   2.000.000,00 para auxiliar as comemorações dos primeiros centenários de elevação   de Juiz de Fora, no Estado de Minas Gerais, e Marquês de Valença, no Estado do   Rio de Janeiro, à categoria de cidades."
+    },
+    {
+      "senadoId": "573311",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3089",
+      "titulo": "Lei nº 3.089 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3089",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3089",
+      "ementa": "Concede as subvenções anuais de Cr$ 1.000.000,00 e Cr$ 500.000,00 à   Academia Brasileira de Ciências e ao Instituto do Nordeste."
+    },
+    {
+      "senadoId": "573312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3090",
+      "titulo": "Lei nº 3.090 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3090",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3090",
+      "ementa": "Concede isenção de direitos de importação para um órgão, dois   tone-cabinets e um motor-gerador, destinados aos Padres Franciscanos sediados na   cidade de Pires do Rio, no Estado de Goiás."
+    },
+    {
+      "senadoId": "573309",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-29-3088",
+      "titulo": "Lei nº 3.088 de 29/12/1956",
+      "data": "1956-12-29",
+      "numero": "3088",
+      "urn": "urn:lex:br:federal:lei:1956-12-29;3088",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelos Ministérios   da Educação e Cultura e Viação e Obras Públicas, os créditos especiais,   respectivamente, de Cr$ 300.000,00 e Cr$ 100.000,00 como auxílio à realização do   VI Congresso Odontológico Brasileiro e I Congresso de Mecânica do Solo."
+    },
+    {
+      "senadoId": "573301",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-28-3083",
+      "titulo": "Lei nº 3.083 de 28/12/1956",
+      "data": "1956-12-28",
+      "numero": "3083",
+      "urn": "urn:lex:br:federal:lei:1956-12-28;3083",
+      "ementa": "Provê sôbre o pagamento de subvenções, e dá outras   providências."
+    },
+    {
+      "senadoId": "573277",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3067",
+      "titulo": "Lei nº 3.067 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3067",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3067",
+      "ementa": "Promove ao pôsto ou graduação imediatos os militares incapacitados definitivamente para o serviço ativo, e dá outras providências."
+    },
+    {
+      "senadoId": "544911",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3057",
+      "titulo": "Lei nº 3.057 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3057",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3057",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 30.000.000,00, destinado às despesas com o aperfeiçoamento e à   inspeção dos serviços fazendários...(vetado)."
+    },
+    {
+      "senadoId": "573293",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3077",
+      "titulo": "Lei nº 3.077 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3077",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3077",
+      "ementa": "Autoriza o Governo Federal a incorporar ao Patrimônio da União a Faculdade de Farmácia e Odontologia do Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "573280",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3069",
+      "titulo": "Lei nº 3.069 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3069",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3069",
+      "ementa": "Concede os auxílios especiais de Cr$ 5.000.000,00 ao Colégio Adventista   Brasileiro e ao Colégio Salesiano N.S. do Carmo, sediados em Santo Amaro e   Belém, nos Estados de São Paulo e Pará."
+    },
+    {
+      "senadoId": "544908",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3054",
+      "titulo": "Lei nº 3.054 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3054",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3054",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura   os créditos especiais de Cr$ 3.000.000,00 e Cr$ 1.000.000,00, para auxiliar as   Prefeituras Municipais de Serra, no Estado do Espírito Santo, e de Picuí, no   Estado da Paraíba, nos festejos comemorativos do IV e I centenários daquelas   cidades."
+    },
+    {
+      "senadoId": "573292",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3076",
+      "titulo": "Lei nº 3.076 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3076",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3076",
+      "ementa": "Define a aplicação do art. 9º da Lei nº 1.765, de 18 de dezembro de 1952."
+    },
+    {
+      "senadoId": "573296",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3080",
+      "titulo": "Lei nº 3.080 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3080",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3080",
+      "ementa": "Isenta de direitos de importação, imposto de consumo   e taxas aduaneiras, os materiais, um grupo moto-nivelador e um caminhão   importados pela Prefeitura Municipal de Crato, no Estado do Ceará, para reforma   e ampliação de sua hidrelétrica, e pelas Prefeituras Municipais de Bom Jardim,   João Alfredo e Vicência, no Estado de Pernambuco, para construção e conservação   de rodovias municipais."
+    },
+    {
+      "senadoId": "573298",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3081",
+      "titulo": "Lei nº 3.081 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3081",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3081",
+      "ementa": "Regula o processo nas ações discriminatórias de terrras   públicas."
+    },
+    {
+      "senadoId": "573278",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3068",
+      "titulo": "Lei nº 3.068 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3068",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3068",
+      "ementa": "Concede a pensão de cinco mil cruzeiros (Cr$ 5.000,00) mensais a Francisca   Silveira Martins."
+    },
+    {
+      "senadoId": "544916",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3062",
+      "titulo": "Lei nº 3.062 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3062",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3062",
+      "ementa": "Desdobra o atual Serviço Nacional de Fiscalização da Medicina em Serviço   Nacional de Fiscalização da Medicina e Farmácia e Serviço Nacional de   Fiscalização de Odontologia, e dá outras providências."
+    },
+    {
+      "senadoId": "544907",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3053",
+      "titulo": "Lei nº 3.053 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3053",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3053",
+      "ementa": "Prorroga, até 30 de junho de 1957, a vigência do regime de Licença prévia a que refere a Lei n° 2.145, de 29 de dezembro de 1953, e dá outras providências."
+    },
+    {
+      "senadoId": "544914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3060",
+      "titulo": "Lei nº 3.060 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3060",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3060",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder   Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Ceará o crédito   especial de Cr$ 76.993,00 para ocorrer às despesas de gratificações adicionais a   funcionários de sua secretaria e de gratificações de natureza eleitoral a juíz e   auxiliares de cartório."
+    },
+    {
+      "senadoId": "573275",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3065",
+      "titulo": "Lei nº 3.065 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3065",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3065",
+      "ementa": "Estende aos aprendizes-marinheiros os benefícios contidos no Capítulo III   ( Reforma) da Lei n° 2.370, de 9 de dezembro de 1954."
+    },
+    {
+      "senadoId": "573294",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3078",
+      "titulo": "Lei nº 3.078 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3078",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3078",
+      "ementa": "Modifica disposições da Lei nº 2.862, de 4 de setembro de 1956."
+    },
+    {
+      "senadoId": "544915",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3061",
+      "titulo": "Lei nº 3.061 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3061",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3061",
+      "ementa": "Concede a inclusão da Faculdade de Farmácia e Odontologia do Estado do Rio   de Janeiro entre os estabelecimentos subvencionados pelo Governo   Federal."
+    },
+    {
+      "senadoId": "573281",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3070",
+      "titulo": "Lei nº 3.070 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3070",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3070",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de trezentos mil cruzeiros (Cr$ 300.000,00), para auxílio à II   Exposição Municipal de Suínos no Município de Concórdia, Estado de Santa   Catarina."
+    },
+    {
+      "senadoId": "573289",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3074",
+      "titulo": "Lei nº 3.074 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3074",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3074",
+      "ementa": "Isenta do imposto de consumo, direitos alfandegários e mais taxas   aduaneiras um piano forte de cauda, adquirido pelo Ginásio de Santa Cruz, de   Santa Cruz do Sul, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3063",
+      "titulo": "Lei nº 3.063 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3063",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3063",
+      "ementa": "Assegura os benefícios da Lei nº 948, de 3 de dezembro de 1949, aos   maquinários que vierem a ser desembaraçados mesmo depois de extinto o prazo de   que trata o art. 1º daquela Lei."
+    },
+    {
+      "senadoId": "573274",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3064",
+      "titulo": "Lei nº 3.064 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3064",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3064",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 15.000.000,00 para obras e equipamentos necessários ao   funcionamento do Centro Pan-Americano de Febre Aftosa."
+    },
+    {
+      "senadoId": "544913",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3059",
+      "titulo": "Lei nº 3.059 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3059",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3059",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 10.000.000,00 para a conclusão das obras do Hospital dos   Radialistas e aquisição do respectivo equipamento."
+    },
+    {
+      "senadoId": "573276",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3066",
+      "titulo": "Lei nº 3.066 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3066",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3066",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Educação e Cultura, os créditos especiais de Cr$ 2.000.000,00 e de Cr$   1.000.000,00 como auxílios aos Colégios da Imaculada Conceição, no Distrito   Federal, e Santa Rita, no Estado da Paraíba."
+    },
+    {
+      "senadoId": "544910",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3056",
+      "titulo": "Lei nº 3.056 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3056",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3056",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo   Ministério da Educação ;e Cultura, o crédito especial de Cr$ 150.000,00, destinado a   auxiliar as despesas com a realização da III Reunião Anual do Conselho   Deliberativo da Associação Brasileira de Municípios."
+    },
+    {
+      "senadoId": "544909",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3055",
+      "titulo": "Lei nº 3.055 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3055",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3055",
+      "ementa": "Fixa a divisão administrativa e judiciária do   Território Federal do Amapá, para o quinqüênio 1954-1958."
+    },
+    {
+      "senadoId": "573285",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3072",
+      "titulo": "Lei nº 3.072 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3072",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3072",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 1.000.000,00 para auxílio à Exposição Agro-Industrial de   Lages, na cidade de Lages, Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "573299",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3082",
+      "titulo": "Lei nº 3.082 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3082",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3082",
+      "ementa": "Concede à Associação Baiana de Imprensa e à Associação Cearense de   Imprensa o auxílio de Cr$ 1.500.000,00 para cada uma, e dá outras   providências."
+    },
+    {
+      "senadoId": "573290",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3075",
+      "titulo": "Lei nº 3.075 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3075",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3075",
+      "ementa": "Autoriza o Poder Executivo a abrir, Pelo Ministério da Saúde, o crédito   especial de Cr$ 1.000.000,00 para ocorrer às despesas com a realização do 1º   Congresso Médico Brasileiro, na Cidade de Ribeirão Preto, Estado de São   Paulo."
+    },
+    {
+      "senadoId": "573287",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3073",
+      "titulo": "Lei nº 3.073 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3073",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3073",
+      "ementa": "Autoriza o Governo Federal a auxiliar com a importância de Cr$   500.000.000,00 o Governo do Paraná na realização de novos estudos,   prosseguimento, equipamento e tráfego da ligação ferroviária Apucarana-Ponta   Grossa."
+    },
+    {
+      "senadoId": "544912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3058",
+      "titulo": "Lei nº 3.058 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3058",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3058",
+      "ementa": "Atualiza a contribuição mensal dos Ministros do Supremo Tribunal Federal para o montepio civil e as pensões aos seus herdeiros, e dá outras providências."
+    },
+    {
+      "senadoId": "573295",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3079",
+      "titulo": "Lei nº 3.079 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3079",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3079",
+      "ementa": "Cria Caixas Econômicas Federais nos Territórios Federais do Acre, Amapá,   Rondônia e Rio Branco."
+    },
+    {
+      "senadoId": "573284",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-22-3071",
+      "titulo": "Lei nº 3.071 de 22/12/1956",
+      "data": "1956-12-22",
+      "numero": "3071",
+      "urn": "urn:lex:br:federal:lei:1956-12-22;3071",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, o crédito especial de Cr$ 764.912,50, para atender   ao pagamento do débito da Viação Férrea Federal Leste Brasileiro à Caixa de   Aposentadoria e Pensões dos Ferroviários e de Serviços Públicos dos Estados da   Bahia e de Sergipe."
+    },
+    {
+      "senadoId": "544894",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3041",
+      "titulo": "Lei nº 3.041 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3041",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3041",
+      "ementa": "Abre pelo Ministério da Viação e Obras Públicas o crédito especial de Cr$   60.000.000,00, destinado à construção de uma ponte sobre o rio Paraná, ligando   os Estados de São Paulo e Mato Grosso, e dá outras providências"
+    },
+    {
+      "senadoId": "544895",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3042",
+      "titulo": "Lei nº 3.042 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3042",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3042",
+      "ementa": "Autoriza a abertura, pelo Ministério da Justiça e Negócios Interiores, do   crédito suplememtar de Cr$ 720.000,00, em reforço do Orçamento vigente, subanexo   4.16 - Título 20.01, Serviço de Assistência a Menores, sendo Cr$ 500.000,00 para   assistência a menores realizada pela Sociedade Pestalozzi do   Brasil."
+    },
+    {
+      "senadoId": "544898",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3045",
+      "titulo": "Lei nº 3.045 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3045",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3045",
+      "ementa": "Manda reverter às fileiras do Exército o ex-primeiro tenente Dinarte   Silveira."
+    },
+    {
+      "senadoId": "544906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3052",
+      "titulo": "Lei nº 3.052 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3052",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3052",
+      "ementa": "Retifica, sem ônus a Lei nº 2.665, de 6 de dezembro de 1955, a qual   estima a Receita e fixa a Despesa da União para o exercício financeiro de   1956."
+    },
+    {
+      "senadoId": "544901",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3047",
+      "titulo": "Lei nº 3.047 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3047",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3047",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, os créditos especiais de Cr$ 1.000.000,00, Cr$   2.000.000,00 e Cr$ 3.000.000,00, destinados às construções e reconstrução de   estações da Estrada de Ferro Leopoldina e da Estrada de Ferro Noroeste do   Brasil, nas cidades de Castelo, Lins e Itaperuna, nos Estados do Espírito Santo,   de São Paulo e do Rio de Janeiro."
+    },
+    {
+      "senadoId": "544902",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3048",
+      "titulo": "Lei nº 3.048 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3048",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3048",
+      "ementa": "Altera o Quadro da Secretaria do Tribunal Regional Eleitoral do Rio Grande   do Sul e dá outra providências."
+    },
+    {
+      "senadoId": "544904",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3050",
+      "titulo": "Lei nº 3.050 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3050",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3050",
+      "ementa": "Equipara a função de administrador das Estradas de Ferro Leopoldina,   Santos a Jundiaí e Ilhéus, quando exercida por funcionário público nomeado pelo   Presidente da República, aos cargos em comissão de que trata o art. 180 do   Estatuto dos Funcionários Públicos Civis da União, e dá outras   providências."
+    },
+    {
+      "senadoId": "544905",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3051",
+      "titulo": "Lei nº 3.051 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3051",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3051",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Justiça e Negócios Interiores, o crédito especial de Cr$ 1.564.467,00,   destinado ao pagamento de servidores do Departamento de Produção do Território   do Acre."
+    },
+    {
+      "senadoId": "544893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3040",
+      "titulo": "Lei nº 3.040 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3040",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3040",
+      "ementa": "Concede o auxílio especial de Cr$ 2.000.000,00 à Comissão Executiva   Pró-Comemoração do Centenário de Alegrete, no Estado do Rio Grande do Sul, e dá   outras providências."
+    },
+    {
+      "senadoId": "544897",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3044",
+      "titulo": "Lei nº 3.044 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3044",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3044",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 500.000,00 para auxiliar as comemorações do 1º   centenário da elevação do Município de Baependí, no Estado de Minas Gerais, à   categoria de cidade, e a realização, naquela ocasião, de uma Exposição   Agropecuária-Industrial."
+    },
+    {
+      "senadoId": "544903",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3049",
+      "titulo": "Lei nº 3.049 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3049",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3049",
+      "ementa": "Concede isenção de direitos de importação, taxas aduaneiras e imposto de   consumo para o material importado e a importar pelo Instituto Sul-Rio-Grandense   de Carnes, necessário à construção e funcionamento do matadouro e fábrica de   produtos de carnes e derivados, denominados \" Frigorífico-Charqueada de   Tupanciretã\", na cidade de Tupanciretã, Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "544896",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3043",
+      "titulo": "Lei nº 3.043 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3043",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3043",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   suplementar de Cr$ 38.033.056,60 para completar o pagamento de percentagem   devida aos municípios, no exercício de 1956, \"ex-vi\", do art. 15, § 4º, da   Constituição Federal."
+    },
+    {
+      "senadoId": "544899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-21-3046",
+      "titulo": "Lei nº 3.046 de 21/12/1956",
+      "data": "1956-12-21",
+      "numero": "3046",
+      "urn": "urn:lex:br:federal:lei:1956-12-21;3046",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, o crédito especial de Cr$ 20.000.000,00, destinado à   construção da estação ferroviária comum às Estradas de Ferro Noroeste do Brasil   e Brasil - Bolívia."
+    },
+    {
+      "senadoId": "544892",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-20-3039",
+      "titulo": "Lei nº 3.039 de 20/12/1956",
+      "data": "1956-12-20",
+      "numero": "3039",
+      "urn": "urn:lex:br:federal:lei:1956-12-20;3039",
+      "ementa": "Concede contribuição financeira às empresas de transporte aéreo, que explorem linhas dentro do país, para fins de reaparelhamento de material de vôo."
+    },
+    {
+      "senadoId": "544881",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3029",
+      "titulo": "Lei nº 3.029 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3029",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3029",
+      "ementa": "Dispõe sôbre o pessoal das Comissões Brasileiras Demarcadoras de Limites."
+    },
+    {
+      "senadoId": "544872",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3022",
+      "titulo": "Lei nº 3.022 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3022",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3022",
+      "ementa": "Modofica a alínea \"c\" do art. 580 do Decreto-Lei nº 5.452, de 1 de maio de 1943 (Consolidação das Leis do Trabalho)."
+    },
+    {
+      "senadoId": "544878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3027",
+      "titulo": "Lei nº 3.027 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3027",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3027",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 9.391,20. para atender ao pagamento de   terreno adquirido pela Rede de Viação Cearense."
+    },
+    {
+      "senadoId": "544880",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3028",
+      "titulo": "Lei nº 3.028 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3028",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3028",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 3.000.000,00 para ocorrer a despesas com a realização   do XIX Congresso Nacional de Estudantes."
+    },
+    {
+      "senadoId": "544888",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3035",
+      "titulo": "Lei nº 3.035 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3035",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3035",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 500.000.000,00, para atender a despesas de exercícios   findos."
+    },
+    {
+      "senadoId": "544877",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3026",
+      "titulo": "Lei nº 3.026 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3026",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3026",
+      "ementa": "Dispõe sôbre a aplicação dos créditos especiais de   Cr$ 177.000.000,00 autorizados pelo art. 5º da Lei nº 2.599, de 13 de setembro   de 1955, e de Cr$ 40.000.000,00 referentes aos saldos orçamentários do anexo do   São Francisco, no exercício de 1955."
+    },
+    {
+      "senadoId": "544876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3025",
+      "titulo": "Lei nº 3.025 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3025",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3025",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 195.075,80, para atender ao pagamento da hipoteca que grava   imóvel, adjudicado à União Federal."
+    },
+    {
+      "senadoId": "544884",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3031",
+      "titulo": "Lei nº 3.031 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3031",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3031",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda o crédito   suplementar de Cr$ 1.100.000,00."
+    },
+    {
+      "senadoId": "544886",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3033",
+      "titulo": "Lei nº 3.033 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3033",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3033",
+      "ementa": "Autoriza a abertura de créditos suplementares que especifica, no total de   Cr$ 6.038.225.736,20."
+    },
+    {
+      "senadoId": "544883",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3030",
+      "titulo": "Lei nº 3.030 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3030",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3030",
+      "ementa": "Determina que não poderão exceder a 25% do salário mínimo os descontos por fornecimento de alimentação, quando preparadas pelo próprio empregador."
+    },
+    {
+      "senadoId": "544891",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3038",
+      "titulo": "Lei nº 3.038 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3038",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3038",
+      "ementa": "Federaliza as Faculdades de Direito de Santa Catarina e da Bahia e subvenciona a Faculdade de Direito de Sergipe."
+    },
+    {
+      "senadoId": "544874",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3023",
+      "titulo": "Lei nº 3.023 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3023",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3023",
+      "ementa": "Altera o Quadro da Secretaria do Tribunal Regional Eleitoral da Bahia, e   dá outras providências."
+    },
+    {
+      "senadoId": "544875",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3024",
+      "titulo": "Lei nº 3.024 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3024",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3024",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, o crédito especial de Cr$ 3.616.919,30 destinado a   regularizar os pagamentos com a liquidação de compromissos acumulados e   contraídos pelo Serviço de Navegação da Bacia do Prata."
+    },
+    {
+      "senadoId": "544890",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3037",
+      "titulo": "Lei nº 3.037 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3037",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3037",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, o crédito especial de Cr$ 150.000.000,00, destinado   às obras de remodelação do ramal de São Paulo e da linha do centro da Estrada de   Ferro Central do Brasil."
+    },
+    {
+      "senadoId": "544885",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3032",
+      "titulo": "Lei nº 3.032 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3032",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3032",
+      "ementa": "Autoriza a abertura de créditos especiais no total de Cr$   18.168.664.849,50 para os fins que menciona."
+    },
+    {
+      "senadoId": "544887",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3034",
+      "titulo": "Lei nº 3.034 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3034",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3034",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria   e Comércio, o crédito especial de Cr$ 15.000.000,00 para atender às despesas com   o comparecimento do Brasil à Feira Mundial de Nova Iorque, à Exposição   Internacional de Produtos Alimentícios e Estimulantes da Colônia e à Exposição   Universal e Internacional de Bruxelas."
+    },
+    {
+      "senadoId": "544889",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-19-3036",
+      "titulo": "Lei nº 3.036 de 19/12/1956",
+      "data": "1956-12-19",
+      "numero": "3036",
+      "urn": "urn:lex:br:federal:lei:1956-12-19;3036",
+      "ementa": "Abre o Poder Legislativo - Câmara dos Deputados - o   crédito especial de Cr$ 1.675.454,00, para construção de novas salas no Palácio   Tiradentes e atender a pagamento de obras realizadas durante os meses de maio e   junho de 1956, também no Palácio Tiradentes."
+    },
+    {
+      "senadoId": "544859",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3012",
+      "titulo": "Lei nº 3.012 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3012",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3012",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 80.000.000,00, destinado à aquisição inicial da Vacina Salk e ao   aprestamento e instalação, no Instituto Oswaldo Cruz, de um laboratório de   produção da mesma vacina, e dá outras providências."
+    },
+    {
+      "senadoId": "544860",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3013",
+      "titulo": "Lei nº 3.013 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3013",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3013",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 370.997.056,60 para completar o pagamento de percentagem devida   aos municípios, no exercício de 1955."
+    },
+    {
+      "senadoId": "544862",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3015",
+      "titulo": "Lei nº 3.015 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3015",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3015",
+      "ementa": "Estende à Comarca de Nova Lima à Cidade Industrial a jurisdição das juntas   de Conciliação e Julgamento de Belo Horizonte."
+    },
+    {
+      "senadoId": "544871",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3021",
+      "titulo": "Lei nº 3.021 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3021",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3021",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 12.869.768,50 para reembolso ao Serviço de Navegação da Bacia do Prata da diferença, a seu favor, ocorrida na administração dos bens do Distrito de Guaíra."
+    },
+    {
+      "senadoId": "544868",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3019",
+      "titulo": "Lei nº 3.019 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3019",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3019",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 2.500.000,00, para auxílio à realização do   Congresso Nacional das Assembléias Legislativas."
+    },
+    {
+      "senadoId": "544861",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3014",
+      "titulo": "Lei nº 3.014 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3014",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3014",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 1.000.000,00 para auxiliar a Associação Rural de Montes   Claros na contrução do Parque da Exposição Agro-Pecuária Industrial Regional, na   cidade de Montes Claros, Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "544865",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3017",
+      "titulo": "Lei nº 3.017 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3017",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3017",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 500.000,00, destinado a auxiliar as despesas com o   comparecimento da Delegação da Cruz Vermelha Brasileira à 19º Conferencia da   Cruz Vermelha Internacional."
+    },
+    {
+      "senadoId": "544858",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3011",
+      "titulo": "Lei nº 3.011 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3011",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3011",
+      "ementa": "Abre ao Poder Judiciário - Supremo Tribunal Federal -   o crédito suplementar de Cr$ 57.996,00, em reforço da verba 1.0.00, Consignação   1.1.00, Subconsignação 1.1.11, do vigente Orçamento."
+    },
+    {
+      "senadoId": "544870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3020",
+      "titulo": "Lei nº 3.020 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3020",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3020",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 1.500.000,00 como auxílio à II Conferência de Peritos em   Siderurgia Latino-Americana e Indústrias de Transformação do Aço."
+    },
+    {
+      "senadoId": "544867",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3018",
+      "titulo": "Lei nº 3.018 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3018",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3018",
+      "ementa": "Dispõe sôbre a execução do Plano do Carvão Nacional."
+    },
+    {
+      "senadoId": "544863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-17-3016",
+      "titulo": "Lei nº 3.016 de 17/12/1956",
+      "data": "1956-12-17",
+      "numero": "3016",
+      "urn": "urn:lex:br:federal:lei:1956-12-17;3016",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 220.000,00, para atender a despesas determinadas pela   Lei nº 1.512, de 19 de dezembro de 1951."
+    },
+    {
+      "senadoId": "544854",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-15-3007",
+      "titulo": "Lei nº 3.007 de 15/12/1956",
+      "data": "1956-12-15",
+      "numero": "3007",
+      "urn": "urn:lex:br:federal:lei:1956-12-15;3007",
+      "ementa": "Cria cargos no Quadro Permanente do Ministério da Educação e Cultura,   destinados à Universidade do Ceará."
+    },
+    {
+      "senadoId": "544852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-15-3005",
+      "titulo": "Lei nº 3.005 de 15/12/1956",
+      "data": "1956-12-15",
+      "numero": "3005",
+      "urn": "urn:lex:br:federal:lei:1956-12-15;3005",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 150.000.000,00, destinado a atender a   despesa com o auxílio extraordinário ao Lóide Brasileiro - Patrimônio Nacional -   para liquidação de compromissos inadiáveis."
+    },
+    {
+      "senadoId": "544853",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-15-3006",
+      "titulo": "Lei nº 3.006 de 15/12/1956",
+      "data": "1956-12-15",
+      "numero": "3006",
+      "urn": "urn:lex:br:federal:lei:1956-12-15;3006",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial até Cr$ 10.000.000,00, a título de auxílio   extraordinário, à Fundação Abrigo do Cristo Redentor."
+    },
+    {
+      "senadoId": "544856",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-15-3009",
+      "titulo": "Lei nº 3.009 de 15/12/1956",
+      "data": "1956-12-15",
+      "numero": "3009",
+      "urn": "urn:lex:br:federal:lei:1956-12-15;3009",
+      "ementa": "Abre o crédito especial de Cr$ 5.000.000,00 destinado a atender às   despesas com a comemoração do centenário da fundação do Município de Livramento,   no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544855",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-15-3008",
+      "titulo": "Lei nº 3.008 de 15/12/1956",
+      "data": "1956-12-15",
+      "numero": "3008",
+      "urn": "urn:lex:br:federal:lei:1956-12-15;3008",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Angelina de Gois   Cabral, viúva do legionário Laurênio Cabral, que fez parte da Força   Expedicionária do Acre."
+    },
+    {
+      "senadoId": "544857",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-15-3010",
+      "titulo": "Lei nº 3.010 de 15/12/1956",
+      "data": "1956-12-15",
+      "numero": "3010",
+      "urn": "urn:lex:br:federal:lei:1956-12-15;3010",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 8.000.000,00, para auxiliar às comemorações dos   centenários das cidades de Uberaba, Itaqui e Anápolis, nos Estados de Minas   Gerais, Rio Grande do Sul e Goiás."
+    },
+    {
+      "senadoId": "544849",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-14-3003",
+      "titulo": "Lei nº 3.003 de 14/12/1956",
+      "data": "1956-12-14",
+      "numero": "3003",
+      "urn": "urn:lex:br:federal:lei:1956-12-14;3003",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Ministério da Saúde, o crédito   suplementar de Cr$ 45.000.000,00 para o fim que especifica."
+    },
+    {
+      "senadoId": "544850",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-14-3004",
+      "titulo": "Lei nº 3.004 de 14/12/1956",
+      "data": "1956-12-14",
+      "numero": "3004",
+      "urn": "urn:lex:br:federal:lei:1956-12-14;3004",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Saúde, o crédito suplementar de Cr$ 1.680.000,00 para atender a despesas de   aluguel de imóveis ocupados por órgãos do Ministério."
+    },
+    {
+      "senadoId": "544848",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-14-3002",
+      "titulo": "Lei nº 3.002 de 14/12/1956",
+      "data": "1956-12-14",
+      "numero": "3002",
+      "urn": "urn:lex:br:federal:lei:1956-12-14;3002",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito de Cr$ 340.511.455,00, suplementar à verba que   especifica."
+    },
+    {
+      "senadoId": "544847",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-13-3001",
+      "titulo": "Lei nº 3.001 de 13/12/1956",
+      "data": "1956-12-13",
+      "numero": "3001",
+      "urn": "urn:lex:br:federal:lei:1956-12-13;3001",
+      "ementa": "Abre ao Poder Legislativo - Câmara dos Deputados - o crédito suplementar   de Cr$ 5.200.000,00 para reforço de dotações orçamentárias   vigentes."
+    },
+    {
+      "senadoId": "544846",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-11-3000",
+      "titulo": "Lei nº 3.000 de 11/12/1956",
+      "data": "1956-12-11",
+      "numero": "3000",
+      "urn": "urn:lex:br:federal:lei:1956-12-11;3000",
+      "ementa": "Dispõe sôbre o Fundo Aeronáutico e dá outras providências."
+    },
+    {
+      "senadoId": "544845",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-11-2999",
+      "titulo": "Lei nº 2.999 de 11/12/1956",
+      "data": "1956-12-11",
+      "numero": "2999",
+      "urn": "urn:lex:br:federal:lei:1956-12-11;2999",
+      "ementa": "Fixa os efetivos dos quadros de oficiais aviadores, intendentes, médicos, farmacêuticos, especialistas de avião, em comunicações, em armamento, em fotografia, em metereologia, em contrôle de tráfego aéreo, em suprimento técnico de infantaria ou guarda e de administração do Corpo de Oficiais da Aeronáutica, e dá outras previdências."
+    },
+    {
+      "senadoId": "544844",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-11-2998",
+      "titulo": "Lei nº 2.998 de 11/12/1956",
+      "data": "1956-12-11",
+      "numero": "2998",
+      "urn": "urn:lex:br:federal:lei:1956-12-11;2998",
+      "ementa": "Denomina Aeroporto Leite Lopes e Aeroporto Baixo Guandu-Aimorés os atuais   aeroportos das cidades de Ribeirão Preto e Baixo Guandu, nos Estados de São   Paulo e Espírito Santo."
+    },
+    {
+      "senadoId": "544843",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-11-2997",
+      "titulo": "Lei nº 2.997 de 11/12/1956",
+      "data": "1956-12-11",
+      "numero": "2997",
+      "urn": "urn:lex:br:federal:lei:1956-12-11;2997",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial   de Cr$ 2.760.000,00, pela realização dos XIII Jogos Universitários Brasileiros,   em Porto Alegre, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544841",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-10-2995",
+      "titulo": "Lei nº 2.995 de 10/12/1956",
+      "data": "1956-12-10",
+      "numero": "2995",
+      "urn": "urn:lex:br:federal:lei:1956-12-10;2995",
+      "ementa": "Prorroga o prazo que restringe as exigências para instruir matrícula aos cursos de enfermagem, nos termos do parágrafo único do art. 5º da Lei nº 775, de 6 de agosto de 1949."
+    },
+    {
+      "senadoId": "544842",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-10-2996",
+      "titulo": "Lei nº 2.996 de 10/12/1956",
+      "data": "1956-12-10",
+      "numero": "2996",
+      "urn": "urn:lex:br:federal:lei:1956-12-10;2996",
+      "ementa": "Estima a Receita e fixa a Despesa da União para o exercício de 1957."
+    },
+    {
+      "senadoId": "544840",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-10-2994",
+      "titulo": "Lei nº 2.994 de 10/12/1956",
+      "data": "1956-12-10",
+      "numero": "2994",
+      "urn": "urn:lex:br:federal:lei:1956-12-10;2994",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 50.000.000,00, destinado a atender às   despesas resultantes de várias obras, serviços e trabalhos de qualquer natureza   contratados pelo Departamento Nacional de Portos, Rios e Canais."
+    },
+    {
+      "senadoId": "544838",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-12-06-2993",
+      "titulo": "Lei nº 2.993 de 06/12/1956",
+      "data": "1956-12-06",
+      "numero": "2993",
+      "urn": "urn:lex:br:federal:lei:1956-12-06;2993",
+      "ementa": "Concede pelo prazo de 30 meses, isenção de direitos, adicionais, imposto de consumo e taxas aduaneiras, exceto a de previdencia social , para importação de material automobilístico que especifica e dá outras providências."
+    },
+    {
+      "senadoId": "544835",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2991",
+      "titulo": "Lei nº 2.991 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2991",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2991",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   das Relações Exteriores, o crédito especial de Cr$ 12.000.000,00, destinado à   compra e pagamento de vagões-tanques e às despesas complementares   indispensáveis."
+    },
+    {
+      "senadoId": "544827",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2984",
+      "titulo": "Lei nº 2.984 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2984",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2984",
+      "ementa": "Inclui a Faculdade de Filosofia e a Escola Politécnica da Universidade   Católica de Pernambuco entre os estabelecimentos subvencionados pelo Governo   Federal."
+    },
+    {
+      "senadoId": "544832",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2989",
+      "titulo": "Lei nº 2.989 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2989",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2989",
+      "ementa": "Alteração a relação nominal e as importâncias a que se refere a Lei nº   2.589, de 8 de setembro de 1955."
+    },
+    {
+      "senadoId": "544828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2985",
+      "titulo": "Lei nº 2.985 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2985",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2985",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Justiça do   Trabalho - o crédito suplementar de Cr$ 42.000,00, em reforço da Verba 1   Pessoal, do Anexo nº 27, do Orçamento Geral da União, para ocorrer às despesas   com funções gratificadas no Tribunal Regional do Trabalho da 1º   Região."
+    },
+    {
+      "senadoId": "544825",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2982",
+      "titulo": "Lei nº 2.982 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2982",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2982",
+      "ementa": "Modifica dispositivos da Lei n.º 2.550, de 25 de julho de 1955, que altera o Código Eleitoral (Lei nº 1.164, de 24 de julho de 1950), e dá outras providências."
+    },
+    {
+      "senadoId": "544822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2979",
+      "titulo": "Lei nº 2.979 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2979",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2979",
+      "ementa": "Modifica a denominação da Escola Industrial de Maceió para Escola   Industrial Deodoro da Fonseca."
+    },
+    {
+      "senadoId": "544830",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2987",
+      "titulo": "Lei nº 2.987 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2987",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2987",
+      "ementa": "Altera disposições da Lei nº 2.368, de 9 de dezembro de 1954 - Orçamento   da União para 1955."
+    },
+    {
+      "senadoId": "544831",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2988",
+      "titulo": "Lei nº 2.988 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2988",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2988",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Aeronáutica, o crédito especial de Cr$ 1.870.000,00, para atender às despesas   decorrentes do cumprimento da segurança impetrada em favor de Pedro Mariani   Serra, Maurilio Monteiro Pereira da Cunha, Ayrton Bittencourt Lobo, Armando   Pereira de Andrade e Carlos Miguez Garrido."
+    },
+    {
+      "senadoId": "544833",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2990",
+      "titulo": "Lei nº 2.990 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2990",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2990",
+      "ementa": "Autoriza o doação de um terreno ao Sindicato dos Estivadores e dos   Trabalhadores em Carvão e Mineral, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2981",
+      "titulo": "Lei nº 2.981 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2981",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2981",
+      "ementa": "Concede a Levina Nogueira Arêas, viúva do faroleiro do Ministério da   Marinha João Arantes Arêas, falecido em virtude de acidente no trabalho, pensão   especial correspondente à remuneração mensal daquele servidor no dia de sua   morte."
+    },
+    {
+      "senadoId": "544837",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2992",
+      "titulo": "Lei nº 2.992 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2992",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2992",
+      "ementa": "Autoriza o Ministério da Fazenda a mandar cunhar na casa da Moeda, moedas metálicas divisionárias até a importância de Cr$ 500.000.000,00."
+    },
+    {
+      "senadoId": "544826",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2983",
+      "titulo": "Lei nº 2.983 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2983",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2983",
+      "ementa": "Revoga a Lei nº 1.142, de 20 de junho de 1950 que dispõe sôbre o processo de   preenchimento dos cargos iniciais das carreiras de veterinário, químico,   agrônomo e engenheiro civil do Quadro Permanente do Ministério da Agricultura."
+    },
+    {
+      "senadoId": "544829",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2986",
+      "titulo": "Lei nº 2.986 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2986",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2986",
+      "ementa": "Concede o auxílio especial de Cr$ 300.000,00 ao tenente José Natividade   Rocha para sua viagem e tratamento."
+    },
+    {
+      "senadoId": "544823",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-30-2980",
+      "titulo": "Lei nº 2.980 de 30/11/1956",
+      "data": "1956-11-30",
+      "numero": "2980",
+      "urn": "urn:lex:br:federal:lei:1956-11-30;2980",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Alina de Carvalho   Costa, viúva de Antenor Golçalves Costa, mestre de Oficina, aposentado, do   Arsenal de Guerra do Rio de Janeiro."
+    },
+    {
+      "senadoId": "544821",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-29-2978",
+      "titulo": "Lei nº 2.978 de 29/11/1956",
+      "data": "1956-11-29",
+      "numero": "2978",
+      "urn": "urn:lex:br:federal:lei:1956-11-29;2978",
+      "ementa": "Autoriza o Poder Executivo a auxiliar a Companhia Mogiana de Estradas de   Ferro, e dá outras providências."
+    },
+    {
+      "senadoId": "544820",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-28-2977",
+      "titulo": "Lei nº 2.977 de 28/11/1956",
+      "data": "1956-11-28",
+      "numero": "2977",
+      "urn": "urn:lex:br:federal:lei:1956-11-28;2977",
+      "ementa": "Reestrutura o Serviço da Dívida Interna Fundada Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "544819",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-28-2976",
+      "titulo": "Lei nº 2.976 de 28/11/1956",
+      "data": "1956-11-28",
+      "numero": "2976",
+      "urn": "urn:lex:br:federal:lei:1956-11-28;2976",
+      "ementa": "Dispõe sôbre o Plano de Valorização Econômica da Região da fronteira sudoeste do País."
+    },
+    {
+      "senadoId": "544818",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-27-2975",
+      "titulo": "Lei nº 2.975 de 27/11/1956",
+      "data": "1956-11-27",
+      "numero": "2975",
+      "urn": "urn:lex:br:federal:lei:1956-11-27;2975",
+      "ementa": "Altera a legislação do imposto único sôbre combustíveis e lubrificantes líquidos e gasosos, e dá outras providências."
+    },
+    {
+      "senadoId": "544816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-26-2973",
+      "titulo": "Lei nº 2.973 de 26/11/1956",
+      "data": "1956-11-26",
+      "numero": "2973",
+      "urn": "urn:lex:br:federal:lei:1956-11-26;2973",
+      "ementa": "Prorroga a vigência das medidas de ordem financeira relacionadas com a execução do Plano de Desenvolvimento Econômico previstas nas Leis n.º 1.474, de 26 de novembro de 1951, e 1.628, de 20 de junho de 1952, e dá outras providências."
+    },
+    {
+      "senadoId": "544817",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-26-2974",
+      "titulo": "Lei nº 2.974 de 26/11/1956",
+      "data": "1956-11-26",
+      "numero": "2974",
+      "urn": "urn:lex:br:federal:lei:1956-11-26;2974",
+      "ementa": "Altera disposições do Decreto nº 26.149, de 5 de janeiro de 1949 (Consolidação das Leis do Imposto de Consumo), e dá outras providências."
+    },
+    {
+      "senadoId": "544813",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2970",
+      "titulo": "Lei nº 2.970 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2970",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2970",
+      "ementa": "Modifica o art. 875, \"caput\", do Código de Processo Civil."
+    },
+    {
+      "senadoId": "544814",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2971",
+      "titulo": "Lei nº 2.971 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2971",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2971",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais a Maria Nair Pires   Ferreira Póvoa, viúva do professor Hélion de Menezes Póvoa."
+    },
+    {
+      "senadoId": "544812",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2969",
+      "titulo": "Lei nº 2.969 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2969",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2969",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunais   Regionais do Trabalho da 3ª, 4ª e 5ª Regiões - os créditos especiais de Cr$   413.181,00, Cr$ 142.177,00, Cr$ 371.916,00 e Cr$ 102.002,00."
+    },
+    {
+      "senadoId": "544807",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2964",
+      "titulo": "Lei nº 2.964 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2964",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2964",
+      "ementa": "Denomina \"Casa da Criança Dr. Antônio Epaminondas   Gouveia\", o edifício construído pelo Governo Federal, e onde funciona o   Instituto de Proteção e Assistência à Infância, em Ribeirão Preto, no Estado de   São Paulo."
+    },
+    {
+      "senadoId": "544811",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2968",
+      "titulo": "Lei nº 2.968 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2968",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2968",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 60.000.000,00, destinado à edificação de   muros de proteção e de passagens superiores para pedestres nas linhas da Estrada   de Ferro Leopoldina, no perímetro urbano do Distrito Federal até a estação de   Duque de Caxias, no Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "544810",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2967",
+      "titulo": "Lei nº 2.967 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2967",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2967",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais ao jornalista Hamilton   Barata."
+    },
+    {
+      "senadoId": "544808",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2965",
+      "titulo": "Lei nº 2.965 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2965",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2965",
+      "ementa": "Autoriza o Poder Executivo a firmar convênio com o Município de Iraí, no   Estado do Rio Grande do Sul, para cumprimento do disposto no art. 2º , inciso   VII, da Lei número 2.661, de 3 de dezembro de 1955."
+    },
+    {
+      "senadoId": "544809",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2966",
+      "titulo": "Lei nº 2.966 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2966",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2966",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Amarilis de Azevedo   Moreira, viúva do major da revolução acreana Leôncio Moreira."
+    },
+    {
+      "senadoId": "544815",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-24-2972",
+      "titulo": "Lei nº 2.972 de 24/11/1956",
+      "data": "1956-11-24",
+      "numero": "2972",
+      "urn": "urn:lex:br:federal:lei:1956-11-24;2972",
+      "ementa": "Revoga o Decreto-Lei n.º 8.887, de 24 de janeiro de 1946, que criou a   Colônia de Férias da Aeronáutica de Rodeio."
+    },
+    {
+      "senadoId": "544803",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-23-2960",
+      "titulo": "Lei nº 2.960 de 23/11/1956",
+      "data": "1956-11-23",
+      "numero": "2960",
+      "urn": "urn:lex:br:federal:lei:1956-11-23;2960",
+      "ementa": "Modifica o art. 1º do Decreto-lei número 7.199, de 28   de dezembro de 1944, alterado pelo Decreto-lei número 8.005, de 27 de setembro   de 1945 (Autoriza a concessão de subvenção à Fundação Brasil Central), e dá   outras providências."
+    },
+    {
+      "senadoId": "544804",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-23-2961",
+      "titulo": "Lei nº 2.961 de 23/11/1956",
+      "data": "1956-11-23",
+      "numero": "2961",
+      "urn": "urn:lex:br:federal:lei:1956-11-23;2961",
+      "ementa": "Estabelece, no Orçamento, dotação específica para as obras de   aproveitamento hidrelétrico do Estreito do rio Uruguai."
+    },
+    {
+      "senadoId": "544805",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-23-2962",
+      "titulo": "Lei nº 2.962 de 23/11/1956",
+      "data": "1956-11-23",
+      "numero": "2962",
+      "urn": "urn:lex:br:federal:lei:1956-11-23;2962",
+      "ementa": "Abre ao Poder Legislativo - Câmara dos Deputados o crédito especial de Cr$   5.000.000,00 para a instalação de aparelhagem destinada à votação por processo   mecânico."
+    },
+    {
+      "senadoId": "544806",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-23-2963",
+      "titulo": "Lei nº 2.963 de 23/11/1956",
+      "data": "1956-11-23",
+      "numero": "2963",
+      "urn": "urn:lex:br:federal:lei:1956-11-23;2963",
+      "ementa": "Dispõe sôbre a cessão de um terreno à Prefeitura Municipal de Niterói, de   propriedade da União."
+    },
+    {
+      "senadoId": "544795",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2952",
+      "titulo": "Lei nº 2.952 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2952",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2952",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder   Judiciário - Justiça Eleitoral - o crédito especial de Cr$ 791.406,50 para   atender a despesas diversas realizadas no exercício de mil novecentos e   cinqüenta e cinco, pelos Tribunais Regionais Eleitorais de Alagoas, Maranhão,   São Paulo, Amazonas, Ceará, Paraná e Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544798",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2955",
+      "titulo": "Lei nº 2.955 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2955",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2955",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios Interiores,   o crédito especial de Cr$ 60.000.000,00, destinado a atender às despesas   com o reaparelhamento da rede de estabelecimentos penais do Distrito   Federal."
+    },
+    {
+      "senadoId": "544792",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2949",
+      "titulo": "Lei nº 2.949 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2949",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2949",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário   - Superior Tribunal Militar - o crédito especial de Cr$ 27.444,30 para ocorrer   despesas correspondentes aos exercícios de 1951, 1953 e 1954, com o pagamento de   salário-família, gratificação adicional e diferença de vencimentos e atrasados a   funcionários daquele Tribunal."
+    },
+    {
+      "senadoId": "544802",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2959",
+      "titulo": "Lei nº 2.959 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2959",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2959",
+      "ementa": "Altera o Decreto-lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), e dispõe sobre os contratos por obra ou serviço certo."
+    },
+    {
+      "senadoId": "544801",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2958",
+      "titulo": "Lei nº 2.958 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2958",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2958",
+      "ementa": "Cria diversos cargos no Quadro do Pessoal do Tribunal Regional do Trabalho   da 1ª Região, e dá outras providências."
+    },
+    {
+      "senadoId": "544789",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2946",
+      "titulo": "Lei nº 2.946 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2946",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2946",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Departamento Administrativo do   Serviço Público, o crédito especial de Cr$ 2.650.000,00, destinado à   regularização de despesas no exercício de 1954."
+    },
+    {
+      "senadoId": "544794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2951",
+      "titulo": "Lei nº 2.951 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2951",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2951",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder   Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral da Bahia - o   crédito especial de Cr$ 13.500,00 para ocorrer ao pagamento de salário-família   devido a funcionário de sua Secretaria nos exercícios de 1948 e 1954."
+    },
+    {
+      "senadoId": "544799",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2956",
+      "titulo": "Lei nº 2.956 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2956",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2956",
+      "ementa": "Majora a subvenção concedida ao Instituto Histórico e Geográfico   Brasileiro e dá outras providências."
+    },
+    {
+      "senadoId": "544797",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2954",
+      "titulo": "Lei nº 2.954 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2954",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2954",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 28.000.000,00, destinado ao pagamento da dívida contraída pela   Associação Paulista de Combate ao Câncer."
+    },
+    {
+      "senadoId": "544793",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2950",
+      "titulo": "Lei nº 2.950 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2950",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2950",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 300.000,00 para auxiliar a realização da III   Conferência Nacional de Jornalistas, na cidade de Goiânia, Estado de   Goiás."
+    },
+    {
+      "senadoId": "544796",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2953",
+      "titulo": "Lei nº 2.953 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2953",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2953",
+      "ementa": "Fixa normas para remessa de tropas brasileiras para o exterior."
+    },
+    {
+      "senadoId": "544790",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2947",
+      "titulo": "Lei nº 2.947 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2947",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2947",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral   - o crédito especial de Cr$ 309.000,00, para atender a despesas com gratificação   de natureza eleitoral realizadas no exercício de 1954 pelos Tribunais Regionais   Eleitorais de Minas Gerais, Piauí e São Paulo."
+    },
+    {
+      "senadoId": "544791",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2948",
+      "titulo": "Lei nº 2.948 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2948",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2948",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunais   Regionais Eleitorais - o crédito especial de Cr$ 906.436,20, para atender a   despesas com a Justiça Eleitoral, correspondentes aos exercícios de 1950 a   1954."
+    },
+    {
+      "senadoId": "544800",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-17-2957",
+      "titulo": "Lei nº 2.957 de 17/11/1956",
+      "data": "1956-11-17",
+      "numero": "2957",
+      "urn": "urn:lex:br:federal:lei:1956-11-17;2957",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 40.000.000,00 para atender ao pagamento da contribuição   do Brasil para a manutenção do Escritório Técnico de Agricultura, órgão executor   do Acordo celebrado entre os Governos do Brasil e dos Estados Unidos da América   do Norte."
+    },
+    {
+      "senadoId": "544788",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-10-2945",
+      "titulo": "Lei nº 2.945 de 10/11/1956",
+      "data": "1956-11-10",
+      "numero": "2945",
+      "urn": "urn:lex:br:federal:lei:1956-11-10;2945",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Fazenda, o crédito especial de Cr$ 50.000.000,00, destinado a auxiliar o   Estado de Minas Gerais nos prejuízos ocasionados com o incêndio das obras do   Frigorífico de Carreira Comprida, no Município de Santa Luzia."
+    },
+    {
+      "senadoId": "544786",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-08-2943",
+      "titulo": "Lei nº 2.943 de 08/11/1956",
+      "data": "1956-11-08",
+      "numero": "2943",
+      "urn": "urn:lex:br:federal:lei:1956-11-08;2943",
+      "ementa": "Modifica a alínea \"c\" do artigo terceiro do   Decreto-Lei número nove mil oitocentos e cinqüenta e nove de teze de setembro de   mil novecentos e quarenta e seis (Autoriza o Departamento Nacional de Estradas   de Ferro a contrair com o Instituto de Aposentadoria e Pensões dos Industriários   Empréstimos destinados a custear a construção, no País, de material rodante e a   eletrificação de linha de Viação Férrea Federal Leste Brasileiro)."
+    },
+    {
+      "senadoId": "544779",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-08-2939",
+      "titulo": "Lei nº 2.939 de 08/11/1956",
+      "data": "1956-11-08",
+      "numero": "2939",
+      "urn": "urn:lex:br:federal:lei:1956-11-08;2939",
+      "ementa": "Concede pensões especiais às famílias de servidores   falecidos em acidente no serviço do Departamento de Munições do Centro de   Armamento da Marinha, do Ministério da Marinha."
+    },
+    {
+      "senadoId": "544787",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-08-2944",
+      "titulo": "Lei nº 2.944 de 08/11/1956",
+      "data": "1956-11-08",
+      "numero": "2944",
+      "urn": "urn:lex:br:federal:lei:1956-11-08;2944",
+      "ementa": "Dispõe sobre a distribuição e aplicação do imposto único sobre energia   elétrica pertecente aos Estados, Distrito Federal e Municípios."
+    },
+    {
+      "senadoId": "544785",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-08-2942",
+      "titulo": "Lei nº 2.942 de 08/11/1956",
+      "data": "1956-11-08",
+      "numero": "2942",
+      "urn": "urn:lex:br:federal:lei:1956-11-08;2942",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Minitério da Educação e Cultura,   o crédito especial de Cr$ 323.012,20 para atender ao pagamento de gratificação   de magistério."
+    },
+    {
+      "senadoId": "544783",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-08-2941",
+      "titulo": "Lei nº 2.941 de 08/11/1956",
+      "data": "1956-11-08",
+      "numero": "2941",
+      "urn": "urn:lex:br:federal:lei:1956-11-08;2941",
+      "ementa": "Acrescenta parágrafo único ao art. 102 do Decreto-lei nº 7.036, de 10 de   novembro de 1944 (Reforma a Lei de Acidentes de trabalho)."
+    },
+    {
+      "senadoId": "544781",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-08-2940",
+      "titulo": "Lei nº 2.940 de 08/11/1956",
+      "data": "1956-11-08",
+      "numero": "2940",
+      "urn": "urn:lex:br:federal:lei:1956-11-08;2940",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Federal de Recursos - o crédito especial de Cr$ 283.000.000,00, em reforço de dotação que especifica."
+    },
+    {
+      "senadoId": "544778",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-11-02-2938",
+      "titulo": "Lei nº 2.938 de 02/11/1956",
+      "data": "1956-11-02",
+      "numero": "2938",
+      "urn": "urn:lex:br:federal:lei:1956-11-02;2938",
+      "ementa": "Dispõe sôbre os programas de ensino que servirão de base ao concurso de   cargos de magistério."
+    },
+    {
+      "senadoId": "544774",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-31-2934",
+      "titulo": "Lei nº 2.934 de 31/10/1956",
+      "data": "1956-10-31",
+      "numero": "2934",
+      "urn": "urn:lex:br:federal:lei:1956-10-31;2934",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Agricultura, o crédito especial de Cr$ 5.000.000,00 para auxilliar a   realização da Sexta Festa Nacional do Trigo e da Exposição Agropecuária   Industrial, na cidade de Cachoeira do Sul, no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544771",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-31-2932",
+      "titulo": "Lei nº 2.932 de 31/10/1956",
+      "data": "1956-10-31",
+      "numero": "2932",
+      "urn": "urn:lex:br:federal:lei:1956-10-31;2932",
+      "ementa": "Torna inalienáveis, durante dez anos, os lotes para colonização concedidos pelo Govêrno Federal."
+    },
+    {
+      "senadoId": "544777",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-31-2937",
+      "titulo": "Lei nº 2.937 de 31/10/1956",
+      "data": "1956-10-31",
+      "numero": "2937",
+      "urn": "urn:lex:br:federal:lei:1956-10-31;2937",
+      "ementa": "Autoriza a abertura, ao Tribunal de Contas, do crédito suplementar de Cr$   600.000,00, em reforço de dotações do orçamento em vigor."
+    },
+    {
+      "senadoId": "544776",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-31-2936",
+      "titulo": "Lei nº 2.936 de 31/10/1956",
+      "data": "1956-10-31",
+      "numero": "2936",
+      "urn": "urn:lex:br:federal:lei:1956-10-31;2936",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o   crédito especial de Cr$ 10.000.000,00 para atender às despesas decorrentes das   comemorações do \"Ano Santos Dumont\" em todo o território nacional."
+    },
+    {
+      "senadoId": "544772",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-31-2933",
+      "titulo": "Lei nº 2.933 de 31/10/1956",
+      "data": "1956-10-31",
+      "numero": "2933",
+      "urn": "urn:lex:br:federal:lei:1956-10-31;2933",
+      "ementa": "Modifica o art. 33 do Código da Justiça Militar."
+    },
+    {
+      "senadoId": "544775",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-31-2935",
+      "titulo": "Lei nº 2.935 de 31/10/1956",
+      "data": "1956-10-31",
+      "numero": "2935",
+      "urn": "urn:lex:br:federal:lei:1956-10-31;2935",
+      "ementa": "Concede a inclusão da Escola Superior de Agricultura de Lavras entre os   estabelecimentos subvencionados pelo Govêrno Federal."
+    },
+    {
+      "senadoId": "544770",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-27-2931",
+      "titulo": "Lei nº 2.931 de 27/10/1956",
+      "data": "1956-10-27",
+      "numero": "2931",
+      "urn": "urn:lex:br:federal:lei:1956-10-27;2931",
+      "ementa": "Dispõe sôbre o penhor industrial de veículos   automotores, equipamentos para a excução de terraplanagem e pavimentação e   quaisquer viaturas de tração mecânica usada nos transportes de passageiros e   cargas, e dá outras providências."
+    },
+    {
+      "senadoId": "544769",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-27-2930",
+      "titulo": "Lei nº 2.930 de 27/10/1956",
+      "data": "1956-10-27",
+      "numero": "2930",
+      "urn": "urn:lex:br:federal:lei:1956-10-27;2930",
+      "ementa": "Modifica o art. 92, da tabela constante do Decreto nº 32.392, de 9 de março de 1953 (Consolidação das Leis do Imposto do Selo)."
+    },
+    {
+      "senadoId": "544768",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-27-2929",
+      "titulo": "Lei nº 2.929 de 27/10/1956",
+      "data": "1956-10-27",
+      "numero": "2929",
+      "urn": "urn:lex:br:federal:lei:1956-10-27;2929",
+      "ementa": "Disciplina o processo de alteração ou retificação de idade dos oficiais   das Forças Armadas e dá outras providências."
+    },
+    {
+      "senadoId": "544766",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-23-2927",
+      "titulo": "Lei nº 2.927 de 23/10/1956",
+      "data": "1956-10-23",
+      "numero": "2927",
+      "urn": "urn:lex:br:federal:lei:1956-10-23;2927",
+      "ementa": "Altera o Decreto-lei nº 5.878, de 4 de outubro de   1943, que autoriza a instituição da Fundação Brasil Central e dispõe sobre o seu   funcionamento."
+    },
+    {
+      "senadoId": "544767",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-23-2928",
+      "titulo": "Lei nº 2.928 de 23/10/1956",
+      "data": "1956-10-23",
+      "numero": "2928",
+      "urn": "urn:lex:br:federal:lei:1956-10-23;2928",
+      "ementa": "Altera a legislação de Imposto de Consumo."
+    },
+    {
+      "senadoId": "544763",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-21-2925",
+      "titulo": "Lei nº 2.925 de 21/10/1956",
+      "data": "1956-10-21",
+      "numero": "2925",
+      "urn": "urn:lex:br:federal:lei:1956-10-21;2925",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial   de Cr$ 1.000.000,00 para a reconstrução dos edifícios em que funcionavam as   obras educacionais e sociais da paróquia de Iraputã, município de Itaiópolis,   Estado de Santa Catarina."
+    },
+    {
+      "senadoId": "544764",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-21-2926",
+      "titulo": "Lei nº 2.926 de 21/10/1956",
+      "data": "1956-10-21",
+      "numero": "2926",
+      "urn": "urn:lex:br:federal:lei:1956-10-21;2926",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 306.040,00, destinado a atender às despesas com a participaçao   do Brasil na X Reunião das Altas Partes Contratantes do Acordo Geral sobre   Tarifas Aduaneiras e Comércio."
+    },
+    {
+      "senadoId": "544759",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-21-2923",
+      "titulo": "Lei nº 2.923 de 21/10/1956",
+      "data": "1956-10-21",
+      "numero": "2923",
+      "urn": "urn:lex:br:federal:lei:1956-10-21;2923",
+      "ementa": "Revigora o inciso IX, do § 6º do art. 178, da Lei nº 3.071, de 1º de janeiro de 1916 (Código civil)"
+    },
+    {
+      "senadoId": "544758",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-21-2922",
+      "titulo": "Lei nº 2.922 de 21/10/1956",
+      "data": "1956-10-21",
+      "numero": "2922",
+      "urn": "urn:lex:br:federal:lei:1956-10-21;2922",
+      "ementa": "Autoriza o Poder Executivo a conceder o auxílio de Cr$ 500.000,00 à   Diocese de Petrolina, no Estado de Pernambuco, por ocasião dos festejos   comemorativos de seu jubileu de prata."
+    },
+    {
+      "senadoId": "544762",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-21-2924",
+      "titulo": "Lei nº 2.924 de 21/10/1956",
+      "data": "1956-10-21",
+      "numero": "2924",
+      "urn": "urn:lex:br:federal:lei:1956-10-21;2924",
+      "ementa": "Modificação do art. 300 do Decreto-lei nº 5.452, de 1 de maio de 1943 (Consolidação das Leis do Trabalho)."
+    },
+    {
+      "senadoId": "544757",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-21-2921",
+      "titulo": "Lei nº 2.921 de 21/10/1956",
+      "data": "1956-10-21",
+      "numero": "2921",
+      "urn": "urn:lex:br:federal:lei:1956-10-21;2921",
+      "ementa": "Concede a inclusão da Faculdade de Ciências Econômicas do Ceará entre os   estabelicimentos de ensino subvencionados pelo Governo Federal."
+    },
+    {
+      "senadoId": "544751",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2917",
+      "titulo": "Lei nº 2.917 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2917",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2917",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 2.500.000,00, para atender ao pagamento da subvenção   devida à Faculdade de Ciências Econômicas de Pelotas, Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "544753",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2918",
+      "titulo": "Lei nº 2.918 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2918",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2918",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria   e Comércio, o crédito especial de Cr$ 240.000.000,00 em favor do Instituto de   Previdência e Assistência dos Servidores do Estado."
+    },
+    {
+      "senadoId": "544755",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2919",
+      "titulo": "Lei nº 2.919 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2919",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2919",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Justiça e Negócios Interiores, o crédito especial de Cr$ 2.500,00, destinado   a indenizar o guarda-civil Ibrahim Generoso da Silva das despesas realizadas com   seu tratamento, em consequência de acidente em serviço."
+    },
+    {
+      "senadoId": "544747",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2914",
+      "titulo": "Lei nº 2.914 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2914",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2914",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 30.714,90 para ressarcir os prejuizos sofridos por oficiais e   praças reformados, pensionistas e asilados."
+    },
+    {
+      "senadoId": "544749",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2915",
+      "titulo": "Lei nº 2.915 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2915",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2915",
+      "ementa": "Estende aos concursos de ciências econômicas, contábeis e atuariais o   disposto no art. 61, do Decreto-Lei nº 1.190 de 4 de abril de 1939, alterado   pelo Decreto-Lei nº 8.195, de 20 de novembro de 1945."
+    },
+    {
+      "senadoId": "544745",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2913",
+      "titulo": "Lei nº 2.913 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2913",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2913",
+      "ementa": "Retifica a Lei n.º 2.493, de 21 de maio de 1955   (autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura, o   crédito especial de Cr$ 694.844,60 para atender ao pagamento de fornecimentos   feitos, no exercício de 1952, a diversos orgãos do mesmo Ministério)."
+    },
+    {
+      "senadoId": "544750",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2916",
+      "titulo": "Lei nº 2.916 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2916",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2916",
+      "ementa": "Altera a tabela das taxas, anuidades, multas e contribuições concernentes aos atos da Propriedade Industrial a que se refere o art. 212 do Decreto-Lei nº 7.903, de 27 de agosto de 1945 (Código da Propriedade Industrial), alterada pelo Decreto-Lei nº 8.936, de 26 de janeiro de 1946."
+    },
+    {
+      "senadoId": "544756",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-13-2920",
+      "titulo": "Lei nº 2.920 de 13/10/1956",
+      "data": "1956-10-13",
+      "numero": "2920",
+      "urn": "urn:lex:br:federal:lei:1956-10-13;2920",
+      "ementa": "Cria cargos no Quadro Permanente do Ministério da Agricultura e dá outras   providências."
+    },
+    {
+      "senadoId": "544737",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2907",
+      "titulo": "Lei nº 2.907 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2907",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2907",
+      "ementa": "Autoriza a emissão de selos comemorativos do 36º Congresso Eucarístico   Internacional."
+    },
+    {
+      "senadoId": "544740",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2909",
+      "titulo": "Lei nº 2.909 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2909",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2909",
+      "ementa": "Altera o quadro do pessoal da Secretaria do Tribunal Regional Eleitoral do   Estado do Paraná, e dá outras providências."
+    },
+    {
+      "senadoId": "544742",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2911",
+      "titulo": "Lei nº 2.911 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2911",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2911",
+      "ementa": "Estende a fiscais de rendas federais, lotados na Recebedoria Federal de   São Paulo, as obrigações constantes da Lei nº 1.325, de 23 de janeiro de   1951."
+    },
+    {
+      "senadoId": "544743",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2912",
+      "titulo": "Lei nº 2.912 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2912",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2912",
+      "ementa": "Concede à Companhia Mogiana de Estradas de Ferro isenção de direitos de   importação e taxas aduaneiras, exceto a de previdência social, para materiais   destinados à ampliação e melhoramento de seus serviços."
+    },
+    {
+      "senadoId": "544736",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2906",
+      "titulo": "Lei nº 2.906 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2906",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2906",
+      "ementa": "Isenta de impostos de importação e taxas aduaneiras um orgão   elétrico-pneumático, destinado à Matriz de Santo Afonso de Ligório, no Distrito   Federal."
+    },
+    {
+      "senadoId": "544738",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2908",
+      "titulo": "Lei nº 2.908 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2908",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2908",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 300.000,00, para auxiliar a Federação   Brasileira de Colégios Notariais na realização do IV Congresso Internacional do   Notariado Latino."
+    },
+    {
+      "senadoId": "544741",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-12-2910",
+      "titulo": "Lei nº 2.910 de 12/10/1956",
+      "data": "1956-10-12",
+      "numero": "2910",
+      "urn": "urn:lex:br:federal:lei:1956-10-12;2910",
+      "ementa": "Modifica o Código de Organização Judiciária do Distrito Federal, no   concernente ao serviço do Registro Civil das Pessoas Naturais e dá outras   providências."
+    },
+    {
+      "senadoId": "544735",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-08-2905",
+      "titulo": "Lei nº 2.905 de 08/10/1956",
+      "data": "1956-10-08",
+      "numero": "2905",
+      "urn": "urn:lex:br:federal:lei:1956-10-08;2905",
+      "ementa": "Revalida a autorização contida no art. 11 da Lei nº 1.956, de 26 de   agosto de 1953."
+    },
+    {
+      "senadoId": "544734",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-08-2904",
+      "titulo": "Lei nº 2.904 de 08/10/1956",
+      "data": "1956-10-08",
+      "numero": "2904",
+      "urn": "urn:lex:br:federal:lei:1956-10-08;2904",
+      "ementa": "Revigora por 30 dias o prazo concedido no § 7º do art   6º da Lei nº 2.193, de 9 de março de 1954 (Dispõe sobre a execução dos serviços   a cargo da Superintendência das Empresas Incorporadas ao Patrimônio Nacional)."
+    },
+    {
+      "senadoId": "544727",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2897",
+      "titulo": "Lei nº 2.897 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2897",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2897",
+      "ementa": "Concede isenção de direitos de importação, taxas   aduaneiras e imposto de consumo para material doado ao Convento dos Franciscanos   de Periperi, no Estado do Piauí, e destinado à Igreja Matriz de Nossa Senhora   dos Remédios."
+    },
+    {
+      "senadoId": "544731",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2901",
+      "titulo": "Lei nº 2.901 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2901",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2901",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 500.000,00, para atender a despesas com a realização   do I Congresso Pan-Americano de Estudantes de Arquitetura e   Urbanismo."
+    },
+    {
+      "senadoId": "544728",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2898",
+      "titulo": "Lei nº 2.898 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2898",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2898",
+      "ementa": "Isenta de direitos de importação, imposto de consumo e taxas aduaneiras   treze caixas contendo objetos religiosos, trazidos da Itália por um irmão   marista para serem oferecidos aos alunos dos vários colégios e ginásios maristas   do Brasil."
+    },
+    {
+      "senadoId": "544724",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2895",
+      "titulo": "Lei nº 2.895 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2895",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2895",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder   Judiciário - Supremo Tribunal Militar - o crédito especial de Cr$ 416.712,00   para atender ao pagamento de vencimentos e adicionais, no exercício de 1956, aos   advogados de 2ª entrância da Justiça Militar, Renato Dardeau de Albuquerque e   Alfredo Ribeiro Sacramento."
+    },
+    {
+      "senadoId": "544732",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2902",
+      "titulo": "Lei nº 2.902 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2902",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2902",
+      "ementa": "Isenta de direitos de importação impostos de consumo e taxas aduaneiras os   materiais importados pela Companhia Metalúrgica Barbará."
+    },
+    {
+      "senadoId": "544730",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2900",
+      "titulo": "Lei nº 2.900 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2900",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2900",
+      "ementa": "Isenta de direitos de importação, impôsto de consumo e taxas aduaneiras,   sete volumes contendo objetos, inclusive religiosos, e destinados ao Revmo. Pe.   Nicola Pinto."
+    },
+    {
+      "senadoId": "544729",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2899",
+      "titulo": "Lei nº 2.899 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2899",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2899",
+      "ementa": "Provê sôbre o pagamento de cooperações financeiras destinadas ao ensino   médio."
+    },
+    {
+      "senadoId": "544725",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2896",
+      "titulo": "Lei nº 2.896 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2896",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2896",
+      "ementa": "Modifica o art. 5º do Regulamento das Caixas Econômicas Federais, a que se   refere o Decreto nº 24.427 de 19 de junho de 1934."
+    },
+    {
+      "senadoId": "544733",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-05-2903",
+      "titulo": "Lei nº 2.903 de 05/10/1956",
+      "data": "1956-10-05",
+      "numero": "2903",
+      "urn": "urn:lex:br:federal:lei:1956-10-05;2903",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 2.000.000,00 para ocorrer às despesas de desapropriação, por   utilidade pública, de imóvel situado em Recife, capital do Estado de   Pernambuco."
+    },
+    {
+      "senadoId": "544717",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2888",
+      "titulo": "Lei nº 2.888 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2888",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2888",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - o crédito especial de Cr$ 7.460,00 para atender ao pagamento de diárias e salário-família, devidos nos exercícios de 1947 a 1954, a juizes suplentes e funcionários do Tribunal Regional do Trabalho da 4ª Região."
+    },
+    {
+      "senadoId": "544720",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2891",
+      "titulo": "Lei nº 2.891 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2891",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2891",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da   Gerra, o crédito especial de Cr$ 7.958.472,90 para atender ao pagamento de   remuneração dos servidores tranferidos da Southern Brazil Lumber and   Colonization Co. para aquele Ministério."
+    },
+    {
+      "senadoId": "544719",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2890",
+      "titulo": "Lei nº 2.890 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2890",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2890",
+      "ementa": "Dispõe sôbre a isenção tributária da Companhia Hidrelétrica do São Francisco."
+    },
+    {
+      "senadoId": "544716",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2887",
+      "titulo": "Lei nº 2.887 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2887",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2887",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - o crédito   especial de Cr$ 251.024,10 para pagamento de diferenças de vencimentos, gratificações adicional por   tempo de serviço e de representação e substituições de juizes, vogais   e suplentes de juizes ;do Tribunal Regional do Trabalho da 4ª   Região."
+    },
+    {
+      "senadoId": "544723",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2894",
+      "titulo": "Lei nº 2.894 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2894",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2894",
+      "ementa": "Concede isenção de impostos ou direitos de importação e afins, de   quaisquer tributos e do imposto de consumo relativo a maquinismos, seus   sobressalentes e acessórios, aparelhos, ferramentas, instrumentos, utensílios,   materiais de qualquer natureza destinados à Companhia Aços Especiais Itabira   (Acesita)."
+    },
+    {
+      "senadoId": "544721",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2892",
+      "titulo": "Lei nº 2.892 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2892",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2892",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Maria Augusta   Cândida."
+    },
+    {
+      "senadoId": "544718",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2889",
+      "titulo": "Lei nº 2.889 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2889",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2889",
+      "ementa": "Define e pune o crime de genocídio."
+    },
+    {
+      "senadoId": "544722",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-10-01-2893",
+      "titulo": "Lei nº 2.893 de 01/10/1956",
+      "data": "1956-10-01",
+      "numero": "2893",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2893",
+      "ementa": "Isenta de direitos de importação, imposto de consumo   e taxas aduaneiras, dois pianos e um aparelho de televisão destinados,   respectivamente, aos Externatos Nossa Senhora da Assunção, em Niterói, Estado do   Rio de Janeiro e Nossa Senhora das Mercês, no Distrito Federal."
+    },
+    {
+      "senadoId": "544715",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-27-2886",
+      "titulo": "Lei nº 2.886 de 27/09/1956",
+      "data": "1956-09-27",
+      "numero": "2886",
+      "urn": "urn:lex:br:federal:lei:1956-09-27;2886",
+      "ementa": "Concede a pensão especial de Cr$ 1.000,00 mensais a Maria do Carmo Martins   de Andrade, viúva do ex-médico da Saúde dos Portos, Floro da Silveira   Andrade."
+    },
+    {
+      "senadoId": "544714",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-25-2885",
+      "titulo": "Lei nº 2.885 de 25/09/1956",
+      "data": "1956-09-25",
+      "numero": "2885",
+      "urn": "urn:lex:br:federal:lei:1956-09-25;2885",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas - Departamento Nacional de Estradas de Rodagem - o crédito especial de   Cr$ 30.000.000,00 destinado à construção de uma ponte sobre o rio Paraná, na Foz   do Iguaçu Estado do Paraná, ligando a rodovia Coronel Oviedo-Porto Presidente   Franco à BR-35."
+    },
+    {
+      "senadoId": "544713",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-24-2884",
+      "titulo": "Lei nº 2.884 de 24/09/1956",
+      "data": "1956-09-24",
+      "numero": "2884",
+      "urn": "urn:lex:br:federal:lei:1956-09-24;2884",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - o   crédito especial de Cr$ 215.393,90, destinado a atender às despesas de ajuda de   custo para o pessoal civil e substituições da Justiça do Trabalho da Sétima   Região-Tribunais Regionais do Trabalho e Juntas de Conciliação e   Julgamento-relativas ao exercício de 1954."
+    },
+    {
+      "senadoId": "544712",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-24-2883",
+      "titulo": "Lei nº 2.883 de 24/09/1956",
+      "data": "1956-09-24",
+      "numero": "2883",
+      "urn": "urn:lex:br:federal:lei:1956-09-24;2883",
+      "ementa": "Concede a pensão especial de Cr$ 5.000,00 mensais a Antonieta Moreira,   viúva do jornalista Nestor Moreira."
+    },
+    {
+      "senadoId": "544711",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-21-2882",
+      "titulo": "Lei nº 2.882 de 21/09/1956",
+      "data": "1956-09-21",
+      "numero": "2882",
+      "urn": "urn:lex:br:federal:lei:1956-09-21;2882",
+      "ementa": "Abre, ao Poder Legislativo, os créditos: suplementar de Cr$ 24.920.000,00,   sendo Cr$ 16.520.000,00 à Câmara dos Deputados e Cr$ 8.400.000,00 ao Senado   Federal, em reforço de dotações orçamentárias vigentes; e especial de Cr$   27.041,10, para pagamento de diferenças de salário-família e gratificação   adicional no período de 1951 a 1955."
+    },
+    {
+      "senadoId": "544707",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-21-2879",
+      "titulo": "Lei nº 2.879 de 21/09/1956",
+      "data": "1956-09-21",
+      "numero": "2879",
+      "urn": "urn:lex:br:federal:lei:1956-09-21;2879",
+      "ementa": "Modifica o art.42, e seu parágrafo único do Decreto-Lei nº 4.014, de 13 de janeiro de 1942, alterado pelo Decreto-Lei nº 9.832, de 11 de setembro de 1946."
+    },
+    {
+      "senadoId": "544709",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-21-2880",
+      "titulo": "Lei nº 2.880 de 21/09/1956",
+      "data": "1956-09-21",
+      "numero": "2880",
+      "urn": "urn:lex:br:federal:lei:1956-09-21;2880",
+      "ementa": "Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de   Cr$ 6.108,60 para atender a despesas com o tratamento e transporte do   funcionário do Tribunal Regional Eleitoral do Estado do Amazonas, Antônio   Pinheiro de Lima."
+    },
+    {
+      "senadoId": "544705",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-21-2878",
+      "titulo": "Lei nº 2.878 de 21/09/1956",
+      "data": "1956-09-21",
+      "numero": "2878",
+      "urn": "urn:lex:br:federal:lei:1956-09-21;2878",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 3.346.000,00 para atender despesas omitidas no Orçamento   Geral da União de 1956."
+    },
+    {
+      "senadoId": "544710",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-21-2881",
+      "titulo": "Lei nº 2.881 de 21/09/1956",
+      "data": "1956-09-21",
+      "numero": "2881",
+      "urn": "urn:lex:br:federal:lei:1956-09-21;2881",
+      "ementa": "Autoriza o Poder Executivo a emitir pelo Ministério da Viação e Obras   Públicas - Departamento dos Correios e Telégrafos - uma série de selos   comemorativos do primeiro centenário da fundação do Colégio Arquidiocesano de   São Paulo."
+    },
+    {
+      "senadoId": "544703",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-20-2876",
+      "titulo": "Lei nº 2.876 de 20/09/1956",
+      "data": "1956-09-20",
+      "numero": "2876",
+      "urn": "urn:lex:br:federal:lei:1956-09-20;2876",
+      "ementa": "Concede o auxílio de Cr$ 1.000.000,00 ao Instituto Oceanográfico da   Universidade de São Paulo."
+    },
+    {
+      "senadoId": "544704",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-20-2877",
+      "titulo": "Lei nº 2.877 de 20/09/1956",
+      "data": "1956-09-20",
+      "numero": "2877",
+      "urn": "urn:lex:br:federal:lei:1956-09-20;2877",
+      "ementa": "Altera a Lei n.º 1.975, de 4 de setembro de 1953, e dá outras   providências."
+    },
+    {
+      "senadoId": "544702",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-19-2875",
+      "titulo": "Lei nº 2.875 de 19/09/1956",
+      "data": "1956-09-19",
+      "numero": "2875",
+      "urn": "urn:lex:br:federal:lei:1956-09-19;2875",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, os créditos especiais, respectivamente, de Cr$ 50.000.000,00, Cr$   20.000.000,00, Cr$ 50.000.000,00 e Cr$ 20.000.000,00, para auxiliar a Cruzada de   São Sebastião, do Distrito Federal, o Serviço Social contra o Mocambo, de   Recife, a Prefeitura Municipal de São Paulo e a Prefeitura Municipal de Vitória,   na melhoria das condições de habitação dos favelados, e dá outras   providências."
+    },
+    {
+      "senadoId": "544701",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-19-2874",
+      "titulo": "Lei nº 2.874 de 19/09/1956",
+      "data": "1956-09-19",
+      "numero": "2874",
+      "urn": "urn:lex:br:federal:lei:1956-09-19;2874",
+      "ementa": "Dispõe sôbre a mudança da Capital Federal e dá outra providências."
+    },
+    {
+      "senadoId": "544699",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-18-2872",
+      "titulo": "Lei nº 2.872 de 18/09/1956",
+      "data": "1956-09-18",
+      "numero": "2872",
+      "urn": "urn:lex:br:federal:lei:1956-09-18;2872",
+      "ementa": "Revoga o § 7º do art. 264 e altera o art. 266 do Decreto-Lei n° 5.452, de 1 de maio de 1943 (Consolidação das Leis do Trabalho)."
+    },
+    {
+      "senadoId": "544700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-18-2873",
+      "titulo": "Lei nº 2.873 de 18/09/1956",
+      "data": "1956-09-18",
+      "numero": "2873",
+      "urn": "urn:lex:br:federal:lei:1956-09-18;2873",
+      "ementa": "Modifica o § 3º do art. 17, o parágrafo único do   art.19 e o art. 44 do Decreto-Lei nº 7.036, de 10 de novembro de 1944 (Reforma   da Lei de Acidentes do Trabalho)."
+    },
+    {
+      "senadoId": "544697",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-17-2870",
+      "titulo": "Lei nº 2.870 de 17/09/1956",
+      "data": "1956-09-17",
+      "numero": "2870",
+      "urn": "urn:lex:br:federal:lei:1956-09-17;2870",
+      "ementa": "Autoriza o Poder Executivo a celebrar o 1º centenário   da visita do Imperador Dom Pedro II ao Baixo São Francisco e a Cachoeira de   Paulo Afonso, e dá outras providências."
+    },
+    {
+      "senadoId": "544698",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-17-2871",
+      "titulo": "Lei nº 2.871 de 17/09/1956",
+      "data": "1956-09-17",
+      "numero": "2871",
+      "urn": "urn:lex:br:federal:lei:1956-09-17;2871",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Aeronáutica, o   crédito especial de Cr$ 10.000.000,00 a fim de serem consolidadas e   prosseguidas, em acordo com o Governo do Estado do Amazonas, as obras do   Aeroporto Internacional de Manaus."
+    },
+    {
+      "senadoId": "544695",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-17-2868",
+      "titulo": "Lei nº 2.868 de 17/09/1956",
+      "data": "1956-09-17",
+      "numero": "2868",
+      "urn": "urn:lex:br:federal:lei:1956-09-17;2868",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Tribunal de Contas o crédito   especial de Cr$ 180.000,00 para atender a despesas com substituições de   Ministros e funcionários daquele Tribunal, ocorridas no exercício de   1954."
+    },
+    {
+      "senadoId": "544696",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-17-2869",
+      "titulo": "Lei nº 2.869 de 17/09/1956",
+      "data": "1956-09-17",
+      "numero": "2869",
+      "urn": "urn:lex:br:federal:lei:1956-09-17;2869",
+      "ementa": "Concede isenção de direitos de importação e mais   taxas aduaneiras, exclusive a de Previdência Social, para um equipamento   completo destinado à instalação de uma fábrica produtora de Anidrido Ftálico,   importado da Alemanha pela Empresa Produtos Químicos \"Elekeiroz\" Sociedade   Anônima."
+    },
+    {
+      "senadoId": "544694",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-13-2867",
+      "titulo": "Lei nº 2.867 de 13/09/1956",
+      "data": "1956-09-13",
+      "numero": "2867",
+      "urn": "urn:lex:br:federal:lei:1956-09-13;2867",
+      "ementa": "Releva a prescrição em que incorreu o direito de Francisco Pereira Veras,   servidor do Território Federal do Acre, de pedir aposentadoria."
+    },
+    {
+      "senadoId": "544693",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-13-2866",
+      "titulo": "Lei nº 2.866 de 13/09/1956",
+      "data": "1956-09-13",
+      "numero": "2866",
+      "urn": "urn:lex:br:federal:lei:1956-09-13;2866",
+      "ementa": "Modifica o art. 114 do Decreto-lei nº 483, de 08 de junho de   1938."
+    },
+    {
+      "senadoId": "544691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-06-2864",
+      "titulo": "Lei nº 2.864 de 06/09/1956",
+      "data": "1956-09-06",
+      "numero": "2864",
+      "urn": "urn:lex:br:federal:lei:1956-09-06;2864",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 600.000,00,ao pagamento de despesas realizadas, no exercício de   1950, com a recepção de representações estrangeiras presentes aos festejos   comemorativos da Semana da Pátria."
+    },
+    {
+      "senadoId": "544692",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-06-2865",
+      "titulo": "Lei nº 2.865 de 06/09/1956",
+      "data": "1956-09-06",
+      "numero": "2865",
+      "urn": "urn:lex:br:federal:lei:1956-09-06;2865",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, o crédito especial de Cr$ 102.520.840,00, destinado   a saldar os compromissos assumidos pelos Serviços de Navegação da Amazônia e   Administração do Porto do Pará (S.N.A.P.P), com a renovação de sua frota."
+    },
+    {
+      "senadoId": "544690",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-06-2863",
+      "titulo": "Lei nº 2.863 de 06/09/1956",
+      "data": "1956-09-06",
+      "numero": "2863",
+      "urn": "urn:lex:br:federal:lei:1956-09-06;2863",
+      "ementa": "Autoriza o Poder Executivo a abrir,   pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$   669.763,232,50, destinado a regularizar as despesas ;feitas, mediante adiantamento, com a execução   de obras de emergência na região nordestina assolada pela seca."
+    },
+    {
+      "senadoId": "544688",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-04-2861",
+      "titulo": "Lei nº 2.861 de 04/09/1956",
+      "data": "1956-09-04",
+      "numero": "2861",
+      "urn": "urn:lex:br:federal:lei:1956-09-04;2861",
+      "ementa": "Autoriza o Poder Executivo a conceder ao professor   Manuel Carneiro de Souza Bandeira Filho os proventos e vantagens de professor   catedrático da Universidade do Brasil."
+    },
+    {
+      "senadoId": "544689",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-09-04-2862",
+      "titulo": "Lei nº 2.862 de 04/09/1956",
+      "data": "1956-09-04",
+      "numero": "2862",
+      "urn": "urn:lex:br:federal:lei:1956-09-04;2862",
+      "ementa": "Altera dispositivos da Lei do Imposto de Renda, institui a tributação adicional das pessoas jurídicas sobre os lucros em relação ao capital social e às reservas e dá outras providências."
+    },
+    {
+      "senadoId": "544687",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-31-2860",
+      "titulo": "Lei nº 2.860 de 31/08/1956",
+      "data": "1956-08-31",
+      "numero": "2860",
+      "urn": "urn:lex:br:federal:lei:1956-08-31;2860",
+      "ementa": "Estabelece prisão especial para dirigentes de entidades sindicais e para o empregado no exercício de representação profissional ou cargo de administração sindical."
+    },
+    {
+      "senadoId": "544683",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-29-2856",
+      "titulo": "Lei nº 2.856 de 29/08/1956",
+      "data": "1956-08-29",
+      "numero": "2856",
+      "urn": "urn:lex:br:federal:lei:1956-08-29;2856",
+      "ementa": "Autoriza o Poder Executivo abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 500.000.000,00, destinado a atender a despesas com a execução,   no exercício de 1955, da Lei n° 2.453, de 15 de abril de 1955."
+    },
+    {
+      "senadoId": "544684",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-29-2857",
+      "titulo": "Lei nº 2.857 de 29/08/1956",
+      "data": "1956-08-29",
+      "numero": "2857",
+      "urn": "urn:lex:br:federal:lei:1956-08-29;2857",
+      "ementa": "Autoriza o Poder Executivo abrir ao Poder Judiciário   - Justiça Eleitoral, o crédito especial de Cr$ 10.000.000,00 para ocorrer às   despesas decorrentes das Leis números 2.550, de 25 de julho de 1955 e 2.582, de   30 de agosto de 1955."
+    },
+    {
+      "senadoId": "544686",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-29-2859",
+      "titulo": "Lei nº 2.859 de 29/08/1956",
+      "data": "1956-08-29",
+      "numero": "2859",
+      "urn": "urn:lex:br:federal:lei:1956-08-29;2859",
+      "ementa": "Modifica o art. 1º da Lei nº 2.494, de 26 de maio de 1955 (Autoriza o   Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de   Cr$ 500.000,00 para ocorrer a despesas de toda e qualquer natureza com a   realização da IV Festa Nacional do Trigo e da Exposição Agro-Pecuária e   Industrial)."
+    },
+    {
+      "senadoId": "544685",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-29-2858",
+      "titulo": "Lei nº 2.858 de 29/08/1956",
+      "data": "1956-08-29",
+      "numero": "2858",
+      "urn": "urn:lex:br:federal:lei:1956-08-29;2858",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, o crédito especial de Cr$ 700.000,00 a fim de auxiliar às populações   dos municípios de Feijó e Tarauacá, no Território do Acre, vitimadas pelas   enchentes em 1955."
+    },
+    {
+      "senadoId": "544681",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-28-2854",
+      "titulo": "Lei nº 2.854 de 28/08/1956",
+      "data": "1956-08-28",
+      "numero": "2854",
+      "urn": "urn:lex:br:federal:lei:1956-08-28;2854",
+      "ementa": "Autoriza a organização da Frigoríficos Nacionais S.A., para a instalação   de uma rede de Armazéns e Transportes Frigoríficos."
+    },
+    {
+      "senadoId": "544682",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-28-2855",
+      "titulo": "Lei nº 2.855 de 28/08/1956",
+      "data": "1956-08-28",
+      "numero": "2855",
+      "urn": "urn:lex:br:federal:lei:1956-08-28;2855",
+      "ementa": "Restitui ao patrimônio do Estado de Minas Gerais, a propriedade de imóvel   doado à União pelo mesmo Estado, em 1912, situado na cidade de Belo Horizonte, e   dá outras providências."
+    },
+    {
+      "senadoId": "544680",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-28-2853",
+      "titulo": "Lei nº 2.853 de 28/08/1956",
+      "data": "1956-08-28",
+      "numero": "2853",
+      "urn": "urn:lex:br:federal:lei:1956-08-28;2853",
+      "ementa": "Altera a Lei n.º 1.046, de 2 de janeiro de 1950 (Dispõe sobre consignação em folha de pagamento)."
+    },
+    {
+      "senadoId": "544677",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-25-2851",
+      "titulo": "Lei nº 2.851 de 25/08/1956",
+      "data": "1956-08-25",
+      "numero": "2851",
+      "urn": "urn:lex:br:federal:lei:1956-08-25;2851",
+      "ementa": "Dispõe sobre a Organização Básica do Exército."
+    },
+    {
+      "senadoId": "544676",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-25-2850",
+      "titulo": "Lei nº 2.850 de 25/08/1956",
+      "data": "1956-08-25",
+      "numero": "2850",
+      "urn": "urn:lex:br:federal:lei:1956-08-25;2850",
+      "ementa": "Modifica o art. 300 da Lei n.º 1.316, de 20 de janeiro de 1951 (Código de Vencimentos e Vantagens dos Militares)."
+    },
+    {
+      "senadoId": "544679",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-25-2852",
+      "titulo": "Lei nº 2.852 de 25/08/1956",
+      "data": "1956-08-25",
+      "numero": "2852",
+      "urn": "urn:lex:br:federal:lei:1956-08-25;2852",
+      "ementa": "Assegura estabilidade no serviço ativo militar dos Sargentos das Forças   Armadas, da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "544675",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-22-2849",
+      "titulo": "Lei nº 2.849 de 22/08/1956",
+      "data": "1956-08-22",
+      "numero": "2849",
+      "urn": "urn:lex:br:federal:lei:1956-08-22;2849",
+      "ementa": "Restabelece subvenções ordinárias omitidas no Orçamento Geral da União   para o exercício de 1955 ( Lei número 2.368, de 9 de dezembro de   1954)."
+    },
+    {
+      "senadoId": "544674",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-18-2848",
+      "titulo": "Lei nº 2.848 de 18/08/1956",
+      "data": "1956-08-18",
+      "numero": "2848",
+      "urn": "urn:lex:br:federal:lei:1956-08-18;2848",
+      "ementa": "Concede isenção de direitos de importação e mais taxas aduaneiras para um   aparelho de Raios X e seus pertences, destinado ao Hospital São Marcos, com sede   no Rio de Janeiro."
+    },
+    {
+      "senadoId": "544673",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-18-2847",
+      "titulo": "Lei nº 2.847 de 18/08/1956",
+      "data": "1956-08-18",
+      "numero": "2847",
+      "urn": "urn:lex:br:federal:lei:1956-08-18;2847",
+      "ementa": "Concede isenção de direitos de importação e taxas aduaneiras para material   importado pelo Estado da Paraíba."
+    },
+    {
+      "senadoId": "544672",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-13-2846",
+      "titulo": "Lei nº 2.846 de 13/08/1956",
+      "data": "1956-08-13",
+      "numero": "2846",
+      "urn": "urn:lex:br:federal:lei:1956-08-13;2846",
+      "ementa": "Abre ao Tribunal de Contas o crédito especial de Cr$ 5.445.200,00 para   atender ao pagamento do abono especial temporário dos funcionários e   extranumerários da Secretaria daquele Tribunal, no exercício de   1956."
+    },
+    {
+      "senadoId": "544669",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-13-2843",
+      "titulo": "Lei nº 2.843 de 13/08/1956",
+      "data": "1956-08-13",
+      "numero": "2843",
+      "urn": "urn:lex:br:federal:lei:1956-08-13;2843",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da   Educação e Cultura, o crédito especial de Cr$ 3.000.000,00 para atender ao   pagamento, no exercício de 1956, da subvenção concedida pela Lei n.º 2.737, de   18 de fevereiro de 1956, à faculdade de Filosofia do Recife da Universidade do   Recife."
+    },
+    {
+      "senadoId": "544670",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-13-2844",
+      "titulo": "Lei nº 2.844 de 13/08/1956",
+      "data": "1956-08-13",
+      "numero": "2844",
+      "urn": "urn:lex:br:federal:lei:1956-08-13;2844",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - o   crédito especial de Cr$ 2.202.069,00 destinado ao pagamento de diferenças de   vencimentos, gratificações de representação e de adicionais por tempo de serviço   e substituições dos juízes, suplentes e vogais do Tribunal Regional do Trabalho   da 6º Região, nos exercícios de 1948 a 1953."
+    },
+    {
+      "senadoId": "544671",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-13-2845",
+      "titulo": "Lei nº 2.845 de 13/08/1956",
+      "data": "1956-08-13",
+      "numero": "2845",
+      "urn": "urn:lex:br:federal:lei:1956-08-13;2845",
+      "ementa": "Concede a pensão especial de Cr$ 1.000,00 a Maria   Gurgel Braga Herbster, viúva de Raimundo Herbster, coletor federal aposentado em   Maranguape, Estado do Ceará, falecido em 1941."
+    },
+    {
+      "senadoId": "544668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-10-2842",
+      "titulo": "Lei nº 2.842 de 10/08/1956",
+      "data": "1956-08-10",
+      "numero": "2842",
+      "urn": "urn:lex:br:federal:lei:1956-08-10;2842",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Jovina Ferreira de   Ubatuba, viúva do Dr. Ezequiel Ubatuba, ex-servidor federal."
+    },
+    {
+      "senadoId": "544664",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-04-2840",
+      "titulo": "Lei nº 2.840 de 04/08/1956",
+      "data": "1956-08-04",
+      "numero": "2840",
+      "urn": "urn:lex:br:federal:lei:1956-08-04;2840",
+      "ementa": "Abre ao Poder Judiciário - Tribunal Regional   Eleitoral do Piauí - o crédito especial de Cr$ 92.400,00, destinado ao pagamento   de gratificação eleitoral."
+    },
+    {
+      "senadoId": "544666",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-04-2841",
+      "titulo": "Lei nº 2.841 de 04/08/1956",
+      "data": "1956-08-04",
+      "numero": "2841",
+      "urn": "urn:lex:br:federal:lei:1956-08-04;2841",
+      "ementa": "Isenta de direitos de importação e taxas aduaneiras as sociedades com sede   e administração no país, que exploram ou venham a explorar a fabricação de   baterias e de pilhas secas."
+    },
+    {
+      "senadoId": "544662",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-02-2838",
+      "titulo": "Lei nº 2.838 de 02/08/1956",
+      "data": "1956-08-02",
+      "numero": "2838",
+      "urn": "urn:lex:br:federal:lei:1956-08-02;2838",
+      "ementa": "Concede isenção de tributos a duas imagens, um   relógio e materiais destinados à Prelazia de Pinheiro, à Igreja de São João de   Tauape, à Matriz de Sumaré e à Associação Maternidade de São Paulo."
+    },
+    {
+      "senadoId": "544663",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-08-02-2839",
+      "titulo": "Lei nº 2.839 de 02/08/1956",
+      "data": "1956-08-02",
+      "numero": "2839",
+      "urn": "urn:lex:br:federal:lei:1956-08-02;2839",
+      "ementa": "Dispõe sôbre cancelamento de penalidades aplicadas a servidores civis e o   abono de faltas não justificadas."
+    },
+    {
+      "senadoId": "544660",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-31-2836",
+      "titulo": "Lei nº 2.836 de 31/07/1956",
+      "data": "1956-07-31",
+      "numero": "2836",
+      "urn": "urn:lex:br:federal:lei:1956-07-31;2836",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Conselho Nacional de Águas e Energia   Elétrica o crédito especial de Cr$ 174.140,80 para atender ao pagamento de   gratificações aos engenheiros lotados naquele Conselho."
+    },
+    {
+      "senadoId": "544661",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-31-2837",
+      "titulo": "Lei nº 2.837 de 31/07/1956",
+      "data": "1956-07-31",
+      "numero": "2837",
+      "urn": "urn:lex:br:federal:lei:1956-07-31;2837",
+      "ementa": "Altera o art. 14, da Lei nº 2.370, de 9 de dezembro de 1954, e dá outras providências."
+    },
+    {
+      "senadoId": "544659",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-25-2835",
+      "titulo": "Lei nº 2.835 de 25/07/1956",
+      "data": "1956-07-25",
+      "numero": "2835",
+      "urn": "urn:lex:br:federal:lei:1956-07-25;2835",
+      "ementa": "Dispõe sôbre o tempo de serviço prestado por funcionário ou extranumerário federal ocupante do cargo de Engenheiro-Chefe da Comissão Mista Ferroviária Brasileiro-Boliviana."
+    },
+    {
+      "senadoId": "544658",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-24-2834",
+      "titulo": "Lei nº 2.834 de 24/07/1956",
+      "data": "1956-07-24",
+      "numero": "2834",
+      "urn": "urn:lex:br:federal:lei:1956-07-24;2834",
+      "ementa": "Concede a inclusão da Escola de Sociologia e Política de São Paulo entre os estabelecimentos subvencionados pelo Governo Federal."
+    },
+    {
+      "senadoId": "544657",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-24-2833",
+      "titulo": "Lei nº 2.833 de 24/07/1956",
+      "data": "1956-07-24",
+      "numero": "2833",
+      "urn": "urn:lex:br:federal:lei:1956-07-24;2833",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Poder Judiciário - Supremo Tribunal   Federal - o crédito especial de Cr$ 4.733.823,80, para atender às despesas com o   pagamento das diferenças de vencimentos e gratificações por tempo de serviço e   de salário-família a Ministros e funcionários daquele Tribunal."
+    },
+    {
+      "senadoId": "544656",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-20-2832",
+      "titulo": "Lei nº 2.832 de 20/07/1956",
+      "data": "1956-07-20",
+      "numero": "2832",
+      "urn": "urn:lex:br:federal:lei:1956-07-20;2832",
+      "ementa": "Abre ao Poder Judiciário - Justiça Eleitoral - o crédito especial de Cr$   830.400,00 para atender ao pagamento de despesas com substituições de pessoal,   salário-família e aluguéis de imóveis, no exercício de 1954."
+    },
+    {
+      "senadoId": "544655",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-20-2831",
+      "titulo": "Lei nº 2.831 de 20/07/1956",
+      "data": "1956-07-20",
+      "numero": "2831",
+      "urn": "urn:lex:br:federal:lei:1956-07-20;2831",
+      "ementa": "Altera o quadro da Secretaria do Tribunal Regional Eleitoral de São Paulo,   e dá outras providências."
+    },
+    {
+      "senadoId": "544652",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-18-2828",
+      "titulo": "Lei nº 2.828 de 18/07/1956",
+      "data": "1956-07-18",
+      "numero": "2828",
+      "urn": "urn:lex:br:federal:lei:1956-07-18;2828",
+      "ementa": "Retifica a importância e modifica o parágrafo único do art. 7º da Lei n.º   2.712, de 21 de janeiro de 1956 (Federaliza a Escola Paulista de Medicina, cria   a Faculdade de Medicina em Santa Maria integrada na Universidade do Rio Grande   do Sul e dá outras providências)."
+    },
+    {
+      "senadoId": "544654",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-18-2830",
+      "titulo": "Lei nº 2.830 de 18/07/1956",
+      "data": "1956-07-18",
+      "numero": "2830",
+      "urn": "urn:lex:br:federal:lei:1956-07-18;2830",
+      "ementa": "Concede isenção de direitos de importação, de imposto   de consumo e de taxas aduaneiras, inclusive a de previdência social, para cem   mil pacotes, contendo 16.666 caixas de brinquedos, doados à Conferência Nacional   dos Bispos do Brasil pela War Relief Service (N.C.W.C) dos Estados Unidos da   América do Norte."
+    },
+    {
+      "senadoId": "544653",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-18-2829",
+      "titulo": "Lei nº 2.829 de 18/07/1956",
+      "data": "1956-07-18",
+      "numero": "2829",
+      "urn": "urn:lex:br:federal:lei:1956-07-18;2829",
+      "ementa": "Releva a prescrição em que incorreram para pleitear   os benefícios do Decreto-lei nº 145, de 29 de dezembro de 1937, os funcionários   do Quadro II do Ministério da Viação e Obras Públicas e os do Quadro de   Escriturários do Ministério da Educação e Cultura."
+    },
+    {
+      "senadoId": "544651",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-18-2827",
+      "titulo": "Lei nº 2.827 de 18/07/1956",
+      "data": "1956-07-18",
+      "numero": "2827",
+      "urn": "urn:lex:br:federal:lei:1956-07-18;2827",
+      "ementa": "Concede isenção de direitos de importação e mais taxas aduaneiras para dois transmissores de rádio-difusão, com seus pertences e acessórios, adquiridos pela Rádio Globo S.A."
+    },
+    {
+      "senadoId": "544650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-17-2826",
+      "titulo": "Lei nº 2.826 de 17/07/1956",
+      "data": "1956-07-17",
+      "numero": "2826",
+      "urn": "urn:lex:br:federal:lei:1956-07-17;2826",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   os créditos especiais, respectivamente, de Cr$ 10.000.000,00 e Cr$ 10.000.000,00   para conceder auxílios a Associação Museu de Arte de São Paulo e ao Museu de   Arte Moderna do Rio de Janeiro."
+    },
+    {
+      "senadoId": "544649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-17-2825",
+      "titulo": "Lei nº 2.825 de 17/07/1956",
+      "data": "1956-07-17",
+      "numero": "2825",
+      "urn": "urn:lex:br:federal:lei:1956-07-17;2825",
+      "ementa": "Extingue a Câmara do Reajustamento Econômico."
+    },
+    {
+      "senadoId": "544648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-16-2824",
+      "titulo": "Lei nº 2.824 de 16/07/1956",
+      "data": "1956-07-16",
+      "numero": "2824",
+      "urn": "urn:lex:br:federal:lei:1956-07-16;2824",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 1.750.000,00, como auxílio à Escola Superior de   Química do Paraná."
+    },
+    {
+      "senadoId": "544645",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-14-2822",
+      "titulo": "Lei nº 2.822 de 14/07/1956",
+      "data": "1956-07-14",
+      "numero": "2822",
+      "urn": "urn:lex:br:federal:lei:1956-07-14;2822",
+      "ementa": "Dispõe sobre o registro de diploma de enfermeiro, expedido até o ano de 1950, por escolas estaduais de enfermagem não equiparadas nos termos do Decreto n.º 20.109, de 15 de junho de 1931, e da Lei n.º 775, de 6 de agosto de 1949, e dá outras providências."
+    },
+    {
+      "senadoId": "544644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-14-2821",
+      "titulo": "Lei nº 2.821 de 14/07/1956",
+      "data": "1956-07-14",
+      "numero": "2821",
+      "urn": "urn:lex:br:federal:lei:1956-07-14;2821",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Viação e Obras Públicas, o crédito especial de Cr$ 15.000.000,00, para   construção de um prédio destinado às instalações da sede da Diretoria Regional   do Departamento dos Correios e Telégrafos e respectiva Agência em Porto Alegre,   Estado do Rio Grande Do Sul."
+    },
+    {
+      "senadoId": "544647",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-14-2823",
+      "titulo": "Lei nº 2.823 de 14/07/1956",
+      "data": "1956-07-14",
+      "numero": "2823",
+      "urn": "urn:lex:br:federal:lei:1956-07-14;2823",
+      "ementa": "Suprime a graduação no posto imediato aos oficiais das Forças Armadas, da   Polícia Militar e do Corpo de Bombeiros do Distrito Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "544643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-10-2820",
+      "titulo": "Lei nº 2.820 de 10/07/1956",
+      "data": "1956-07-10",
+      "numero": "2820",
+      "urn": "urn:lex:br:federal:lei:1956-07-10;2820",
+      "ementa": "Dispõe sobre a taxa a que ficam sujeitas as entidades que exploram apostas   sobre corridas de cavalos, e dá outras providências."
+    },
+    {
+      "senadoId": "544640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-09-2817",
+      "titulo": "Lei nº 2.817 de 09/07/1956",
+      "data": "1956-07-09",
+      "numero": "2817",
+      "urn": "urn:lex:br:federal:lei:1956-07-09;2817",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras   Públicas, o crédito especial de Cr$ 10.700,00, para pagamento de indenização a   Urbano Teixeira de Menezes."
+    },
+    {
+      "senadoId": "544642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-09-2819",
+      "titulo": "Lei nº 2.819 de 09/07/1956",
+      "data": "1956-07-09",
+      "numero": "2819",
+      "urn": "urn:lex:br:federal:lei:1956-07-09;2819",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional   do Trabalho da 1ª Região - o crédito especial de Cr$ 19.299,50, destinado ao   pagamento de gratificação adicional por tempo de serviço a funcionários do mesmo   Tribunal."
+    },
+    {
+      "senadoId": "544641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-09-2818",
+      "titulo": "Lei nº 2.818 de 09/07/1956",
+      "data": "1956-07-09",
+      "numero": "2818",
+      "urn": "urn:lex:br:federal:lei:1956-07-09;2818",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Tribunal Regional   do Trabalho da 1ª Região - o crédito especial de Cr$ 972.290,00, destinado ao   pagamento de funcionários daquele Tribunal, por força da Lei n. 2488, de 16 de   maio de 1955."
+    },
+    {
+      "senadoId": "544639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-06-2816",
+      "titulo": "Lei nº 2.816 de 06/07/1956",
+      "data": "1956-07-06",
+      "numero": "2816",
+      "urn": "urn:lex:br:federal:lei:1956-07-06;2816",
+      "ementa": "Modifica os arts. 517 e 523 do Código de Processo Civil."
+    },
+    {
+      "senadoId": "544637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-06-2814",
+      "titulo": "Lei nº 2.814 de 06/07/1956",
+      "data": "1956-07-06",
+      "numero": "2814",
+      "urn": "urn:lex:br:federal:lei:1956-07-06;2814",
+      "ementa": "Dispõe sôbre a concessão de auxílio aos municípios situados no Polígono   das Secas, para instalação de serviços públicos de abastecimento   dágua."
+    },
+    {
+      "senadoId": "544636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-06-2813",
+      "titulo": "Lei nº 2.813 de 06/07/1956",
+      "data": "1956-07-06",
+      "numero": "2813",
+      "urn": "urn:lex:br:federal:lei:1956-07-06;2813",
+      "ementa": "Concede isenção de impostos de importação e mais taxas aduaneiras à   Prefeitura Municipal de São Pedro do Sul, Estado do Rio Grande do Sul, para   importação de uma \"Caterpillar\"."
+    },
+    {
+      "senadoId": "544638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-06-2815",
+      "titulo": "Lei nº 2.815 de 06/07/1956",
+      "data": "1956-07-06",
+      "numero": "2815",
+      "urn": "urn:lex:br:federal:lei:1956-07-06;2815",
+      "ementa": "Modifica o inciso VII do art. 7º da Lei nº 2.145, de 29 de dezembro de 1953 (Cria a Carteira de Comércio Exterior, dispõe sobre o intercâmbio com o exterior, e dá outras providências)."
+    },
+    {
+      "senadoId": "544635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-05-2812",
+      "titulo": "Lei nº 2.812 de 05/07/1956",
+      "data": "1956-07-05",
+      "numero": "2812",
+      "urn": "urn:lex:br:federal:lei:1956-07-05;2812",
+      "ementa": "Autoriza o Poder Executivo a doar dois terrenos foreiros à Associação   Damas de Caridade, com sede em Itaqui, Estado do Rio Grande do   Sul."
+    },
+    {
+      "senadoId": "544632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-02-2809",
+      "titulo": "Lei nº 2.809 de 02/07/1956",
+      "data": "1956-07-02",
+      "numero": "2809",
+      "urn": "urn:lex:br:federal:lei:1956-07-02;2809",
+      "ementa": "Cria cargos no Quadro Permanete do Ministério da   Educação e Cultura para atender à autonomia das Faculdades de Farmácia e   Odontologia das Universidades da Bahia e do Rio Grande do Sul, e dá outras   providências."
+    },
+    {
+      "senadoId": "544633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-02-2810",
+      "titulo": "Lei nº 2.810 de 02/07/1956",
+      "data": "1956-07-02",
+      "numero": "2810",
+      "urn": "urn:lex:br:federal:lei:1956-07-02;2810",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   da Educação e Cultura, o crédito especial de Cr$ 1.500.000,00 concedidos como   auxílio ao Instituto Brasileiro de História da Medicina na realização do   Primeiro Congresso Pan-Americano de História da Medicina e Terceiro Congresso   Brasileiro de História da Medicina."
+    },
+    {
+      "senadoId": "544634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-07-02-2811",
+      "titulo": "Lei nº 2.811 de 02/07/1956",
+      "data": "1956-07-02",
+      "numero": "2811",
+      "urn": "urn:lex:br:federal:lei:1956-07-02;2811",
+      "ementa": "Dispõe sobre apostila de diploma de técnico de contabilidade conferido aos   ex-alunos do antigo curso de contador, mediante a presatação de exames de   suficiência."
+    },
+    {
+      "senadoId": "544631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-29-2808",
+      "titulo": "Lei nº 2.808 de 29/06/1956",
+      "data": "1956-06-29",
+      "numero": "2808",
+      "urn": "urn:lex:br:federal:lei:1956-06-29;2808",
+      "ementa": "Abre ao Congresso Nacional - Senado Federal e Câmara dos Deputados - os   créditos especiais, respectivamente, de Cr$ 357.475,10 e Cr$ 746.000,00,   destinados a atender despesas com o pagamento de seus servidores, e dá outras   providências."
+    },
+    {
+      "senadoId": "544630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-28-2807",
+      "titulo": "Lei nº 2.807 de 28/06/1956",
+      "data": "1956-06-28",
+      "numero": "2807",
+      "urn": "urn:lex:br:federal:lei:1956-06-28;2807",
+      "ementa": "Prorroga, até 31 de dezembro de 1956, o regime de licença para o intercâmbio comercial com o exterior."
+    },
+    {
+      "senadoId": "544629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-27-2806",
+      "titulo": "Lei nº 2.806 de 27/06/1956",
+      "data": "1956-06-27",
+      "numero": "2806",
+      "urn": "urn:lex:br:federal:lei:1956-06-27;2806",
+      "ementa": "Dispensa, até 31 de dezembro de 1958, a exigência do curso da Escola de   Aperfeiçoamento de Oficiais, para os Capitães, do Quadro dos Serviços do   Exército."
+    },
+    {
+      "senadoId": "544628",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-25-2805",
+      "titulo": "Lei nº 2.805 de 25/06/1956",
+      "data": "1956-06-25",
+      "numero": "2805",
+      "urn": "urn:lex:br:federal:lei:1956-06-25;2805",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   os créditos especiais, respectivamente, de Cr$ 10.000.000,00 e Cr$ 5.000.000,00   para auxiliar a Pontifícia Universidade Católica a terminar a construção e   instalação da Universidade à rua Marquês de São Vicente, no Distrito Federal, e   Pontifícia Universidade Católica do Rio Grande do Sul, nas obras de ampliação de   suas instalações."
+    },
+    {
+      "senadoId": "544627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-25-2804",
+      "titulo": "Lei nº 2.804 de 25/06/1956",
+      "data": "1956-06-25",
+      "numero": "2804",
+      "urn": "urn:lex:br:federal:lei:1956-06-25;2804",
+      "ementa": "Dispõe sôbre normas processuais para o reajuste de dívidas dos   pecuaristas."
+    },
+    {
+      "senadoId": "544626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-21-2803",
+      "titulo": "Lei nº 2.803 de 21/06/1956",
+      "data": "1956-06-21",
+      "numero": "2803",
+      "urn": "urn:lex:br:federal:lei:1956-06-21;2803",
+      "ementa": "Dispõe sôbre o pagamento de Cr$ 50.000.000,00 ao Estado de Pernambuco, a   título de indenização pelo Território da Ilha de Fernando de   Noronha."
+    },
+    {
+      "senadoId": "544623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-18-2800",
+      "titulo": "Lei nº 2.800 de 18/06/1956",
+      "data": "1956-06-18",
+      "numero": "2800",
+      "urn": "urn:lex:br:federal:lei:1956-06-18;2800",
+      "ementa": "Cria os Conselhos Federal e Regionais de Química, dispõe sôbre o exercício da profissão de químico, e dá outras providências."
+    },
+    {
+      "senadoId": "544625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-18-2802",
+      "titulo": "Lei nº 2.802 de 18/06/1956",
+      "data": "1956-06-18",
+      "numero": "2802",
+      "urn": "urn:lex:br:federal:lei:1956-06-18;2802",
+      "ementa": "Modifica o art. 565 do Decreto-Lei nº 9.502, de 23 de julho de 1946 (Consolidação das Leis do Trabalho)."
+    },
+    {
+      "senadoId": "544624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-18-2801",
+      "titulo": "Lei nº 2.801 de 18/06/1956",
+      "data": "1956-06-18",
+      "numero": "2801",
+      "urn": "urn:lex:br:federal:lei:1956-06-18;2801",
+      "ementa": "Extingue a Escola de Marinha Mercante do Rio de Janeiro, cria uma Escola de Marinha Mercante no Ministério da Marinha, e dá outras providências."
+    },
+    {
+      "senadoId": "544620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-15-2797",
+      "titulo": "Lei nº 2.797 de 15/06/1956",
+      "data": "1956-06-15",
+      "numero": "2797",
+      "urn": "urn:lex:br:federal:lei:1956-06-15;2797",
+      "ementa": "Autoriza o Ministério da Educação e Cultura a registrar os diplomas   expedidos pelo extinto Instituto Politécnico de Florianópolis."
+    },
+    {
+      "senadoId": "544622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-15-2799",
+      "titulo": "Lei nº 2.799 de 15/06/1956",
+      "data": "1956-06-15",
+      "numero": "2799",
+      "urn": "urn:lex:br:federal:lei:1956-06-15;2799",
+      "ementa": "Revigora pelo prazo de mais dois exercícios o crédito especial de   Cr$ 2.800.000,00, autorizado pela Lei n° 2.069, de 9 de ;novembro de 1953, para   ocorrer a despesas com a encomenda de dois painéis a serem doados pelo governo   brasileiro à sede permanente da Organização das Nações Unidas."
+    },
+    {
+      "senadoId": "544621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-15-2798",
+      "titulo": "Lei nº 2.798 de 15/06/1956",
+      "data": "1956-06-15",
+      "numero": "2798",
+      "urn": "urn:lex:br:federal:lei:1956-06-15;2798",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do   Trabalho - o crédito especial de Cr$ 32.890,00, destinado ao pagamento de   gratificação adicional por tempo de serviço ao Dr. Henoch da Silva Reis, Juiz   Presidente da Junta de Conciliação de Julgamento de Manaus, Estado do Amazonas,   no exercício de 1954."
+    },
+    {
+      "senadoId": "544618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-12-2795",
+      "titulo": "Lei nº 2.795 de 12/06/1956",
+      "data": "1956-06-12",
+      "numero": "2795",
+      "urn": "urn:lex:br:federal:lei:1956-06-12;2795",
+      "ementa": "Dispõe sobre a fabricação e comércio de vinhos, seus derivados e bebidas   em geral, e dá outras providências."
+    },
+    {
+      "senadoId": "544619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-12-2796",
+      "titulo": "Lei nº 2.796 de 12/06/1956",
+      "data": "1956-06-12",
+      "numero": "2796",
+      "urn": "urn:lex:br:federal:lei:1956-06-12;2796",
+      "ementa": "Autoriza o Poder Executivo a abrir os créditos especiais, respectivamente,   de Cr$ 5.000.000,00 e Cr$ 1.000.000,00, para auxiliar as Prefeituras Municipais   de Ilhéus, no Estado da Bahia, e Iconha, no Estado do Espírito Santo, no amparo   às vítimas do ciclone e da tromba dágua ocorridos naquelas   cidades."
+    },
+    {
+      "senadoId": "544616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-01-2793",
+      "titulo": "Lei nº 2.793 de 01/06/1956",
+      "data": "1956-06-01",
+      "numero": "2793",
+      "urn": "urn:lex:br:federal:lei:1956-06-01;2793",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 10.000.000,00, destinado a auxiliar a Academia   Brasileira de Ciências, do Distrito Federal, na aquisição ou construção do   imóvel para sua sede própria."
+    },
+    {
+      "senadoId": "544617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-06-01-2794",
+      "titulo": "Lei nº 2.794 de 01/06/1956",
+      "data": "1956-06-01",
+      "numero": "2794",
+      "urn": "urn:lex:br:federal:lei:1956-06-01;2794",
+      "ementa": "Modifica o art. 66 do Decreto-Lei n.º 3.651 de 25 de setembro de 1941   (Código Nacinonal do Trânsito)."
+    },
+    {
+      "senadoId": "544612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-28-2790",
+      "titulo": "Lei nº 2.790 de 28/05/1956",
+      "data": "1956-05-28",
+      "numero": "2790",
+      "urn": "urn:lex:br:federal:lei:1956-05-28;2790",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 315.156,00 para pagamento a diversas firmas e pessoas   que forneceram material ou prestaram serviços, no exercício de 1951, ao   Instituto de Belas Artes do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-28-2789",
+      "titulo": "Lei nº 2.789 de 28/05/1956",
+      "data": "1956-05-28",
+      "numero": "2789",
+      "urn": "urn:lex:br:federal:lei:1956-05-28;2789",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   os créditos especiais de, respectivamente, Cr$ 1.000.000,00 e Cr$ 1.000.000,00,   para auxiliar as comemorações dos centenários da fundação de Santa Vitória do   Palmar, no Estado do Rio Grande do Sul, e do Município de Pinheiros, no Estado   do Maranhão."
+    },
+    {
+      "senadoId": "544613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-28-2791",
+      "titulo": "Lei nº 2.791 de 28/05/1956",
+      "data": "1956-05-28",
+      "numero": "2791",
+      "urn": "urn:lex:br:federal:lei:1956-05-28;2791",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 9.000.000,00 para atender no exercício de 1955, ao que   dispõe o art. 3º da Lei nº 2.470, de 28 de abril de 1955."
+    },
+    {
+      "senadoId": "544615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-28-2792",
+      "titulo": "Lei nº 2.792 de 28/05/1956",
+      "data": "1956-05-28",
+      "numero": "2792",
+      "urn": "urn:lex:br:federal:lei:1956-05-28;2792",
+      "ementa": "Concede a inclusão da Faculdade de Ciências Econômicas de São Paulo, entre   os estabelecimentos subvencionados pelo Governo Federal, correspondendo-lhe a   subvenção anual de Cr$ 2.500.000,00."
+    },
+    {
+      "senadoId": "544609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-25-2787",
+      "titulo": "Lei nº 2.787 de 25/05/1956",
+      "data": "1956-05-25",
+      "numero": "2787",
+      "urn": "urn:lex:br:federal:lei:1956-05-25;2787",
+      "ementa": "Concede a inclusão da Faculdade de Direito da Pontifícia Universidade   Católica do Rio de Janeiro entre os estabelecimentos subvencionados pelo Governo   Federal."
+    },
+    {
+      "senadoId": "544610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-25-2788",
+      "titulo": "Lei nº 2.788 de 25/05/1956",
+      "data": "1956-05-25",
+      "numero": "2788",
+      "urn": "urn:lex:br:federal:lei:1956-05-25;2788",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, os créditos especiais, respectivamente, de Cr$ 1.500.000,00 e Cr$ 1.000.000,00, para auxiliar o custeio das despesas com a realização do II Congresso Internacional de Alergia, do VI Congresso Brasileiro de Neurologia, Psiquiatria e Medicina Legal e do I Congresso Brasileiro de Saúde Mental."
+    },
+    {
+      "senadoId": "544608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-21-2786",
+      "titulo": "Lei nº 2.786 de 21/05/1956",
+      "data": "1956-05-21",
+      "numero": "2786",
+      "urn": "urn:lex:br:federal:lei:1956-05-21;2786",
+      "ementa": "Altera a lei sôbre desapropriação por utilidade pública."
+    },
+    {
+      "senadoId": "544607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-16-2785",
+      "titulo": "Lei nº 2.785 de 16/05/1956",
+      "data": "1956-05-16",
+      "numero": "2785",
+      "urn": "urn:lex:br:federal:lei:1956-05-16;2785",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 382.000,00 para atender às despesas com a   representação do Brasil à Reunião da Fundação da União Internacional de   Magistrados."
+    },
+    {
+      "senadoId": "544606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-16-2784",
+      "titulo": "Lei nº 2.784 de 16/05/1956",
+      "data": "1956-05-16",
+      "numero": "2784",
+      "urn": "urn:lex:br:federal:lei:1956-05-16;2784",
+      "ementa": "Abre ao Poder Judiciário - Supremo Tribunal Federal - o crédito especial   de Cr$ 350.000,00 para atender ao pagamento de diferença de vencimentos de   Ministros do Tribunal Federal de Recursos, em exercício naquele Tribunal, e a   seus funcionários, nos exercícios de 1952 a 1955."
+    },
+    {
+      "senadoId": "544605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-14-2783",
+      "titulo": "Lei nº 2.783 de 14/05/1956",
+      "data": "1956-05-14",
+      "numero": "2783",
+      "urn": "urn:lex:br:federal:lei:1956-05-14;2783",
+      "ementa": "Abre ao Congresso Nacional - Câmara dos Deputados - o crédito suplementar   de Cr$ 67.790.410,00 para pagamento de despesas decorrentes da Resolução n.º 58,   de 1956."
+    },
+    {
+      "senadoId": "544601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-14-2779",
+      "titulo": "Lei nº 2.779 de 14/05/1956",
+      "data": "1956-05-14",
+      "numero": "2779",
+      "urn": "urn:lex:br:federal:lei:1956-05-14;2779",
+      "ementa": "Autoriza a emissão de uma série de selos postais comemorativos do   cinqüentanário da morte de Dom João Batista Scalabrini, fundador das Ordens dos   Padres Carlistas e das Irmãs Missionárias de São Carlos."
+    },
+    {
+      "senadoId": "544600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-14-2778",
+      "titulo": "Lei nº 2.778 de 14/05/1956",
+      "data": "1956-05-14",
+      "numero": "2778",
+      "urn": "urn:lex:br:federal:lei:1956-05-14;2778",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Auta Gomes Monteiro   Machado, Maria Helena Gomes Machado e Célia Gomes Machado, viúva e filhas de   José Monteiro Machado, ex-funcionário do Ministério da   Agricultura."
+    },
+    {
+      "senadoId": "544603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-14-2781",
+      "titulo": "Lei nº 2.781 de 14/05/1956",
+      "data": "1956-05-14",
+      "numero": "2781",
+      "urn": "urn:lex:br:federal:lei:1956-05-14;2781",
+      "ementa": "Cria cargos no Quadro do Pessoal do Trbunal Regional do Trabalho da   Terceira Região."
+    },
+    {
+      "senadoId": "544602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-14-2780",
+      "titulo": "Lei nº 2.780 de 14/05/1956",
+      "data": "1956-05-14",
+      "numero": "2780",
+      "urn": "urn:lex:br:federal:lei:1956-05-14;2780",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral   - os créditos especiais respectivamente de Cr$ 1.129.015,50 e Cr$ 4.556.832,00,   para completar o pagamento de despesas decorrentes da aplicação da Lei n.º 2488,   de 16 de maio de 1955, nos exercícios de 1953 e 1954, e de vencimentos do   pessoal civil e funções gratificadas no exercício de 1955."
+    },
+    {
+      "senadoId": "544604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-14-2782",
+      "titulo": "Lei nº 2.782 de 14/05/1956",
+      "data": "1956-05-14",
+      "numero": "2782",
+      "urn": "urn:lex:br:federal:lei:1956-05-14;2782",
+      "ementa": "Reestrutura o Quadro de Oficiais Veterinários do Exército e dá outras   providências."
+    },
+    {
+      "senadoId": "544598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-10-2776",
+      "titulo": "Lei nº 2.776 de 10/05/1956",
+      "data": "1956-05-10",
+      "numero": "2776",
+      "urn": "urn:lex:br:federal:lei:1956-05-10;2776",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Comissão do Vale de São   Francisco, o crédito especial de Cr$ 42.958,10, destinado ao pagamento de   diferença de vencimentos aos servidores Renato Mascarenhas de Souza e Benedito   Brandão Reis."
+    },
+    {
+      "senadoId": "544597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-10-2775",
+      "titulo": "Lei nº 2.775 de 10/05/1956",
+      "data": "1956-05-10",
+      "numero": "2775",
+      "urn": "urn:lex:br:federal:lei:1956-05-10;2775",
+      "ementa": "Altera o quadro da Secretaria do Tribunal Regional Eleitoral de Minas   Gerais e dá outras providências."
+    },
+    {
+      "senadoId": "544599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-10-2777",
+      "titulo": "Lei nº 2.777 de 10/05/1956",
+      "data": "1956-05-10",
+      "numero": "2777",
+      "urn": "urn:lex:br:federal:lei:1956-05-10;2777",
+      "ementa": "Modifica o art. 41 da Lei nº 217, de 15 de janeiro de 1948 (Lei Orgânica   do Distrito Federal)."
+    },
+    {
+      "senadoId": "544596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-10-2774",
+      "titulo": "Lei nº 2.774 de 10/05/1956",
+      "data": "1956-05-10",
+      "numero": "2774",
+      "urn": "urn:lex:br:federal:lei:1956-05-10;2774",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 300.000,00 para pagamento de auxílio ao Capítulo Brasileiro do   Colégio Internacional de Cirurgiões, em São Paulo, capital do Estado de São   Paulo."
+    },
+    {
+      "senadoId": "544594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-08-2772",
+      "titulo": "Lei nº 2.772 de 08/05/1956",
+      "data": "1956-05-08",
+      "numero": "2772",
+      "urn": "urn:lex:br:federal:lei:1956-05-08;2772",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 2.500.000,00 para atender a despesas decorrentes da execução da   Lei n.º 1.944, de 14 da agosto de 1953."
+    },
+    {
+      "senadoId": "544593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-08-2771",
+      "titulo": "Lei nº 2.771 de 08/05/1956",
+      "data": "1956-05-08",
+      "numero": "2771",
+      "urn": "urn:lex:br:federal:lei:1956-05-08;2771",
+      "ementa": "Autoriza o Poder Executivo a doar à Associação Rural Arrôio do Meio e à Sociedade Divina Providência os bens situados na cidade de Arrôio do Meio, Estado do Rio Grande do Sul, havidos por arrecadação da herança jacente de Agnes Lammel Zenkner."
+    },
+    {
+      "senadoId": "544595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-08-2773",
+      "titulo": "Lei nº 2.773 de 08/05/1956",
+      "data": "1956-05-08",
+      "numero": "2773",
+      "urn": "urn:lex:br:federal:lei:1956-05-08;2773",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o   crédito especial de Cr$ 1.000.000,00 para atender às despesas com a realização   da IV Conferência Rural Brasileira, em Fortaleza, Capital do Estado do   Ceará."
+    },
+    {
+      "senadoId": "544592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-04-2770",
+      "titulo": "Lei nº 2.770 de 04/05/1956",
+      "data": "1956-05-04",
+      "numero": "2770",
+      "urn": "urn:lex:br:federal:lei:1956-05-04;2770",
+      "ementa": "Suprime a concessão de medidas liminares nas ações e procedimentos   judiciais de qualquer natureza que visem a liberação de bens, mercadorias ou   coisas de procedência estrangeira, e dá outras providências."
+    },
+    {
+      "senadoId": "544590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2768",
+      "titulo": "Lei nº 2.768 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2768",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2768",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   extraordinário, que poderá ser utilizado até o limite de Cr$ 70.000.000,00 para   auxílio e indenização de prejuízos ocasionados por fatores naturais em   municípios dos Estados de São Paulo, Minas Gerais, Paraíba, Rio de Janeiro e Rio   Grande do Sul."
+    },
+    {
+      "senadoId": "544588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2766",
+      "titulo": "Lei nº 2.766 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2766",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2766",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial de Cr$ 500.000,00 para atender às despesas com a realização do 2º   Congresso Eucarístico de Niteroí."
+    },
+    {
+      "senadoId": "544587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2765",
+      "titulo": "Lei nº 2.765 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2765",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2765",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 1.000.000,00 para instalação em sede própria da Escola   de Belas Artes de Pelotas, Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "544591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2769",
+      "titulo": "Lei nº 2.769 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2769",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2769",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Departamento Administrativo do   Serviço Público, Estado Maior das Forças Armadas, Comissão do Vale do São   Francisco, Ministério da Aeronáutica, Ministério da Agricultura, Ministério da   Fazenda, Ministério da Guerra, Ministério das Relações Exteriores, Ministério da   Saúde e Ministério da Viação e Obras Públicas, os créditos especiais de Cr$   554.951,70 - Cr$ 17.462,70 - Cr$ 1.235.960,20 - Cr$ 98.000.000,00 - Cr$   30.090,00 - Cr$ 48.004.933,90 - Cr$ 389.404,20 - Cr$ 4.660.000,40 - Cr$   1.800.000,00 e Cr$ 1.230.478.216,60."
+    },
+    {
+      "senadoId": "544586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2764",
+      "titulo": "Lei nº 2.764 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2764",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2764",
+      "ementa": "Denomina \"Delmiro Gouveia\" a atual barragem construída pela Companhia   Hidrelétrica do São Francisco, na cachoeira de Paulo Afonso."
+    },
+    {
+      "senadoId": "544589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2767",
+      "titulo": "Lei nº 2.767 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2767",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2767",
+      "ementa": "Autoriza o Poder Executivo a abrir, pela Comissão do Vale do São   Francisco, o crédito especial de Cr$ 561.700,00 para pagamento de indenizações   devidas aos proprietários dos imóveis atingidos pelas obras de aterro do porto   de Penedo, no Estado de Alagoas."
+    },
+    {
+      "senadoId": "544585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-05-02-2763",
+      "titulo": "Lei nº 2.763 de 02/05/1956",
+      "data": "1956-05-02",
+      "numero": "2763",
+      "urn": "urn:lex:br:federal:lei:1956-05-02;2763",
+      "ementa": "Cria, na Segunda Região da Justiça do Trabalho uma Junta de Conciliação e   Julgamento, com sede em São Caetano do Sul, no Estado de São Paulo, e com   jurisdição no município de São Bernardo do Campo."
+    },
+    {
+      "senadoId": "544584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-30-2762",
+      "titulo": "Lei nº 2.762 de 30/04/1956",
+      "data": "1956-04-30",
+      "numero": "2762",
+      "urn": "urn:lex:br:federal:lei:1956-04-30;2762",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Saúde, o crédito   especial de Cr$ 1.000.000,00 como auxílio ao Colégio Brasileiro de Cirurgiões   para realização do X Congresso Interamericano de Cirurgia."
+    },
+    {
+      "senadoId": "544581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-26-2759",
+      "titulo": "Lei nº 2.759 de 26/04/1956",
+      "data": "1956-04-26",
+      "numero": "2759",
+      "urn": "urn:lex:br:federal:lei:1956-04-26;2759",
+      "ementa": "Autoriza o Poder Executivo a pagar à Santa Casa da Misericórdia de Vitória   da Conquista, no Estado da Bahia, o auxílio de Cr$ 75.000,00 que se acha   inscrito em \"Restos a Pagar\" no exercício de 1951."
+    },
+    {
+      "senadoId": "544582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-26-2760",
+      "titulo": "Lei nº 2.760 de 26/04/1956",
+      "data": "1956-04-26",
+      "numero": "2760",
+      "urn": "urn:lex:br:federal:lei:1956-04-26;2760",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 30.000.000,00 sendo Cr$ 20.000.000,00 para execução das obras de defesa da cidade de Olinda, no Estado de Pernambuco, e Cr$ 10.000.000,00 para as das praias de Tambaú e Formosa, em João Pessoa, capital do Estado da Paraíba."
+    },
+    {
+      "senadoId": "544583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-26-2761",
+      "titulo": "Lei nº 2.761 de 26/04/1956",
+      "data": "1956-04-26",
+      "numero": "2761",
+      "urn": "urn:lex:br:federal:lei:1956-04-26;2761",
+      "ementa": "Dá nova redação ao § 2º do artigo 6º da Lei n.º 605, de 5 de janeiro de 1949, que regula o repouso semanal remunerado."
+    },
+    {
+      "senadoId": "544580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-26-2758",
+      "titulo": "Lei nº 2.758 de 26/04/1956",
+      "data": "1956-04-26",
+      "numero": "2758",
+      "urn": "urn:lex:br:federal:lei:1956-04-26;2758",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Tribunal de Contas da União o   crédito especial de Cr$ 60.000,00 para atender ao pagamento de salários-família   devidos a pessoal do mesmo Tribunal."
+    },
+    {
+      "senadoId": "544579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-23-2757",
+      "titulo": "Lei nº 2.757 de 23/04/1956",
+      "data": "1956-04-23",
+      "numero": "2757",
+      "urn": "urn:lex:br:federal:lei:1956-04-23;2757",
+      "ementa": "Dispõe sôbre a situação dos empregados porteiros, zeladores, faxineiros e serventes de prédios de apartamentos residenciais."
+    },
+    {
+      "senadoId": "544578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-17-2756",
+      "titulo": "Lei nº 2.756 de 17/04/1956",
+      "data": "1956-04-17",
+      "numero": "2756",
+      "urn": "urn:lex:br:federal:lei:1956-04-17;2756",
+      "ementa": "Concede isenção de selo nos recibos das contribuições destinadas a   quaisquer instituições de assistência social, que estejam registradas no   Conselho Nacional de Serviço Social."
+    },
+    {
+      "senadoId": "544576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-16-2754",
+      "titulo": "Lei nº 2.754 de 16/04/1956",
+      "data": "1956-04-16",
+      "numero": "2754",
+      "urn": "urn:lex:br:federal:lei:1956-04-16;2754",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 7.000.000,00, destinado ao custeio de despesas com o   comparecimento do Brasil à XV Olimpíada em Helsinki."
+    },
+    {
+      "senadoId": "544577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-16-2755",
+      "titulo": "Lei nº 2.755 de 16/04/1956",
+      "data": "1956-04-16",
+      "numero": "2755",
+      "urn": "urn:lex:br:federal:lei:1956-04-16;2755",
+      "ementa": "Dispõe sôbre a contribuição de segurados aos Institutos de   Previdência."
+    },
+    {
+      "senadoId": "544575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-13-2753",
+      "titulo": "Lei nº 2.753 de 13/04/1956",
+      "data": "1956-04-13",
+      "numero": "2753",
+      "urn": "urn:lex:br:federal:lei:1956-04-13;2753",
+      "ementa": "Revoga o parágrafo único do art. 9º da Lei n.º 1.522 de 26 de dezembro de   1951 ( Autoriza o Governo Federal a intervir no domínio econômico para assegurar   a livre distribuição de produtos necessários ao consumo do povo)."
+    },
+    {
+      "senadoId": "544574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-10-2752",
+      "titulo": "Lei nº 2.752 de 10/04/1956",
+      "data": "1956-04-10",
+      "numero": "2752",
+      "urn": "urn:lex:br:federal:lei:1956-04-10;2752",
+      "ementa": "Dispõe sôbre a percepção cumulativa de aposentadoria, pensão ou quaisquer outros benefícios devidos pelas instituições de previdência e assistência social dos funcionários e servidores públicos civis ou militares com os proventos de aposentadoria ou reforma."
+    },
+    {
+      "senadoId": "544573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-04-2751",
+      "titulo": "Lei nº 2.751 de 04/04/1956",
+      "data": "1956-04-04",
+      "numero": "2751",
+      "urn": "urn:lex:br:federal:lei:1956-04-04;2751",
+      "ementa": "Considera de efetivo serviço o tempo que o militar passou ou vier a passar afastado de suas funções em consequência de exercício de cargo público temporário, eletivo ou não."
+    },
+    {
+      "senadoId": "544572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-04-2750",
+      "titulo": "Lei nº 2.750 de 04/04/1956",
+      "data": "1956-04-04",
+      "numero": "2750",
+      "urn": "urn:lex:br:federal:lei:1956-04-04;2750",
+      "ementa": "Cria, no Exército, o Quadro Auxiliar de Administração (   Q.A.A.)."
+    },
+    {
+      "senadoId": "544571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-04-02-2749",
+      "titulo": "Lei nº 2.749 de 02/04/1956",
+      "data": "1956-04-02",
+      "numero": "2749",
+      "urn": "urn:lex:br:federal:lei:1956-04-02;2749",
+      "ementa": "Dá norma ao gênero dos nomes designativos das funções   públicas."
+    },
+    {
+      "senadoId": "544570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-13-2748",
+      "titulo": "Lei nº 2.748 de 13/03/1956",
+      "data": "1956-03-13",
+      "numero": "2748",
+      "urn": "urn:lex:br:federal:lei:1956-03-13;2748",
+      "ementa": "Concede isenção de direitos e mais taxas aduaneiras e imposto de consumo   para importação da Alemanha de um automóvel e uma camioneta, marca Opel   Capitain, e de 400 toneladas de ferro, destinados à Escola, Lactário e   Ambulatório da Matriz de São Cosme e São Damião, no Distrito   Federal."
+    },
+    {
+      "senadoId": "544569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-13-2747",
+      "titulo": "Lei nº 2.747 de 13/03/1956",
+      "data": "1956-03-13",
+      "numero": "2747",
+      "urn": "urn:lex:br:federal:lei:1956-03-13;2747",
+      "ementa": "Desobriga as empresas, ou firmas individuais que exploram o tráfego   rodoviário, do transporte gratuito de malas dos correios."
+    },
+    {
+      "senadoId": "544568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-13-2746",
+      "titulo": "Lei nº 2.746 de 13/03/1956",
+      "data": "1956-03-13",
+      "numero": "2746",
+      "urn": "urn:lex:br:federal:lei:1956-03-13;2746",
+      "ementa": "Modifica o art. 13 da Lei nº 217, de 15 de janeiro de 1948 ( Lei Orgânica   do Distrito Federal )."
+    },
+    {
+      "senadoId": "544567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-12-2745",
+      "titulo": "Lei nº 2.745 de 12/03/1956",
+      "data": "1956-03-12",
+      "numero": "2745",
+      "urn": "urn:lex:br:federal:lei:1956-03-12;2745",
+      "ementa": "Dispõe sôbre os padrões de vencimentos e as referências de salários dos servidores civis da União e dos Territórios e dá outras providências."
+    },
+    {
+      "senadoId": "544564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-06-2742",
+      "titulo": "Lei nº 2.742 de 06/03/1956",
+      "data": "1956-03-06",
+      "numero": "2742",
+      "urn": "urn:lex:br:federal:lei:1956-03-06;2742",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda o crédito   especial de Cr$ 885.000,00, destinado a atender às despesas com a participação   do Brasil na IX Reunião das Altas Partes Contratantes do Acordo Geral sobre   Tarifas Aduaneiras e Comércio."
+    },
+    {
+      "senadoId": "544566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-06-2744",
+      "titulo": "Lei nº 2.744 de 06/03/1956",
+      "data": "1956-03-06",
+      "numero": "2744",
+      "urn": "urn:lex:br:federal:lei:1956-03-06;2744",
+      "ementa": "Altera o quadro da Secretaria do Tribunal Regional Eleitoral do Estado do   Rio de Janeiro e dá outras providências."
+    },
+    {
+      "senadoId": "544565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-06-2743",
+      "titulo": "Lei nº 2.743 de 06/03/1956",
+      "data": "1956-03-06",
+      "numero": "2743",
+      "urn": "urn:lex:br:federal:lei:1956-03-06;2743",
+      "ementa": "Cria o Departamento Nacional de Endemias Rurais no Ministério da Saúde e dá outras providências."
+    },
+    {
+      "senadoId": "544563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-02-2741",
+      "titulo": "Lei nº 2.741 de 02/03/1956",
+      "data": "1956-03-02",
+      "numero": "2741",
+      "urn": "urn:lex:br:federal:lei:1956-03-02;2741",
+      "ementa": "Altera o art. 3º do Decreto-Lei nº 6.519, de 23 de maio de 1944, e dá   outras providências."
+    },
+    {
+      "senadoId": "544561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-02-2739",
+      "titulo": "Lei nº 2.739 de 02/03/1956",
+      "data": "1956-03-02",
+      "numero": "2739",
+      "urn": "urn:lex:br:federal:lei:1956-03-02;2739",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Relações   Exteriores, o crédito especial de Cr$ 8.000.000,00, para atender às despesas de   qualquer espécie, decorrentes da posse do Presidente da República."
+    },
+    {
+      "senadoId": "544562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-03-02-2740",
+      "titulo": "Lei nº 2.740 de 02/03/1956",
+      "data": "1956-03-02",
+      "numero": "2740",
+      "urn": "urn:lex:br:federal:lei:1956-03-02;2740",
+      "ementa": "Autoriza o Governo do Território Federal do Amapá a organizar a Companhia de Eletricidade do Amapá."
+    },
+    {
+      "senadoId": "544560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-20-2738",
+      "titulo": "Lei nº 2.738 de 20/02/1956",
+      "data": "1956-02-20",
+      "numero": "2738",
+      "urn": "urn:lex:br:federal:lei:1956-02-20;2738",
+      "ementa": "Dispõe sôbre o afastamento do oficial que de revelar incompatível com o exercício de suas funções, quer em situação normal, quer por ocasião de provas de instrução, de manobras ou operações de guerra, e dá outras providências."
+    },
+    {
+      "senadoId": "544556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-18-2735",
+      "titulo": "Lei nº 2.735 de 18/02/1956",
+      "data": "1956-02-18",
+      "numero": "2735",
+      "urn": "urn:lex:br:federal:lei:1956-02-18;2735",
+      "ementa": "Fixa o período de estágio probatório do funcionário nomeado para cargo de   provimento efetivo e aos extranumerários mensalistas da União e das   Autarquias."
+    },
+    {
+      "senadoId": "544558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-18-2737",
+      "titulo": "Lei nº 2.737 de 18/02/1956",
+      "data": "1956-02-18",
+      "numero": "2737",
+      "urn": "urn:lex:br:federal:lei:1956-02-18;2737",
+      "ementa": "Concede a inclusão da Faculdade de Filosofia do Recife da Universidade do   Recife entre os estabelecimentos subvencionados pelo Governo   Federal."
+    },
+    {
+      "senadoId": "544554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-18-2733",
+      "titulo": "Lei nº 2.733 de 18/02/1956",
+      "data": "1956-02-18",
+      "numero": "2733",
+      "urn": "urn:lex:br:federal:lei:1956-02-18;2733",
+      "ementa": "Concede a pensão especial de Cr$ 1.000,00 mensais à Olga Ferreira Girardi,   viúva do ex-extranumerário diarista da Fábrica de Juiz de Fora, José Geraldo   Girardi."
+    },
+    {
+      "senadoId": "544557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-18-2736",
+      "titulo": "Lei nº 2.736 de 18/02/1956",
+      "data": "1956-02-18",
+      "numero": "2736",
+      "urn": "urn:lex:br:federal:lei:1956-02-18;2736",
+      "ementa": "Concede a pensão especial de Cr$ 3.000,00 mensais a Aracy Constant Botelho   de Magalhães, filha do General Benjamin Constant Botelho de   Magalhães."
+    },
+    {
+      "senadoId": "544555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-18-2734",
+      "titulo": "Lei nº 2.734 de 18/02/1956",
+      "data": "1956-02-18",
+      "numero": "2734",
+      "urn": "urn:lex:br:federal:lei:1956-02-18;2734",
+      "ementa": "Acrescenta a alínea i ao art. 5º e parágrafo único ao art. 100, e modifica os §§ 2º e 4º do art. 92 da Lei n° 1.316, de 20 de janeiro de 1951 ( Código de Vencimentos e Vantagens dos Militares )."
+    },
+    {
+      "senadoId": "544551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-17-2730",
+      "titulo": "Lei nº 2.730 de 17/02/1956",
+      "data": "1956-02-17",
+      "numero": "2730",
+      "urn": "urn:lex:br:federal:lei:1956-02-17;2730",
+      "ementa": "Acrescenta mais um parágrafo ao artigo 45 da Lei nº 217, de 15 de janeiro   de 1948 ( Lei Orgânica do Distrito Federal )."
+    },
+    {
+      "senadoId": "544550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-17-2729",
+      "titulo": "Lei nº 2.729 de 17/02/1956",
+      "data": "1956-02-17",
+      "numero": "2729",
+      "urn": "urn:lex:br:federal:lei:1956-02-17;2729",
+      "ementa": "Aumenta para Cr$ 4.000,00 mensais a pensão especial concedida a Eneida   Barros de Sá e Lúcia Maria Barros de Sá, viúva e filha de Lúcio Borges de Sá,   concedida pela Lei n° 2.036, de 22 de outubro de 1953."
+    },
+    {
+      "senadoId": "544553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-17-2732",
+      "titulo": "Lei nº 2.732 de 17/02/1956",
+      "data": "1956-02-17",
+      "numero": "2732",
+      "urn": "urn:lex:br:federal:lei:1956-02-17;2732",
+      "ementa": "Cria cargos de Capelães Militares no Corpo de Bombeiros e na Polícia   Militar do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "544552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-17-2731",
+      "titulo": "Lei nº 2.731 de 17/02/1956",
+      "data": "1956-02-17",
+      "numero": "2731",
+      "urn": "urn:lex:br:federal:lei:1956-02-17;2731",
+      "ementa": "Muda a denominação do Território Federal do Guaporé para Território   Federal de Rondônia."
+    },
+    {
+      "senadoId": "544548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-16-2727",
+      "titulo": "Lei nº 2.727 de 16/02/1956",
+      "data": "1956-02-16",
+      "numero": "2727",
+      "urn": "urn:lex:br:federal:lei:1956-02-16;2727",
+      "ementa": "Modifica o art. 2º da Lei nº 1.815 de 18 de fevereiro de   1953."
+    },
+    {
+      "senadoId": "544549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-16-2728",
+      "titulo": "Lei nº 2.728 de 16/02/1956",
+      "data": "1956-02-16",
+      "numero": "2728",
+      "urn": "urn:lex:br:federal:lei:1956-02-16;2728",
+      "ementa": "Modifica o art. 52 da Lei nº 2.083, de 12 de novembro de 1953, que regula a Liberdade de Imprensa."
+    },
+    {
+      "senadoId": "544547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-09-2726",
+      "titulo": "Lei nº 2.726 de 09/02/1956",
+      "data": "1956-02-09",
+      "numero": "2726",
+      "urn": "urn:lex:br:federal:lei:1956-02-09;2726",
+      "ementa": "Suspende o estado de sítio decretado na conformidade da Lei nº 2.713, de   21 de janeiro de 1956."
+    },
+    {
+      "senadoId": "544546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-09-2725",
+      "titulo": "Lei nº 2.725 de 09/02/1956",
+      "data": "1956-02-09",
+      "numero": "2725",
+      "urn": "urn:lex:br:federal:lei:1956-02-09;2725",
+      "ementa": "Reestrutura o Quadro de Oficiais Farmacêuticos do Exército."
+    },
+    {
+      "senadoId": "544545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-09-2724",
+      "titulo": "Lei nº 2.724 de 09/02/1956",
+      "data": "1956-02-09",
+      "numero": "2724",
+      "urn": "urn:lex:br:federal:lei:1956-02-09;2724",
+      "ementa": "Incorpora a cadeira de Direito Industrial, nas Faculdades de Direito do   País, à de Direito Comercial, e dá outras providências."
+    },
+    {
+      "senadoId": "544544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-07-2723",
+      "titulo": "Lei nº 2.723 de 07/02/1956",
+      "data": "1956-02-07",
+      "numero": "2723",
+      "urn": "urn:lex:br:federal:lei:1956-02-07;2723",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Saúde, o crédito   especial de Cr$ 200.000,00 para atender às despesas decorrentes da realização do   VI Congresso Internacional do Câncer."
+    },
+    {
+      "senadoId": "544543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-02-06-2722",
+      "titulo": "Lei nº 2.722 de 06/02/1956",
+      "data": "1956-02-06",
+      "numero": "2722",
+      "urn": "urn:lex:br:federal:lei:1956-02-06;2722",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério da Educação e Cultura o   crédito especial de Cr$ 1.720,00 para atender ao pagamento de auxílio funeral   devido a Dulce Loureiro da Costa, filha de João da Costa Silva, ex-servidor   daquele Ministério."
+    },
+    {
+      "senadoId": "544542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-30-2721",
+      "titulo": "Lei nº 2.721 de 30/01/1956",
+      "data": "1956-01-30",
+      "numero": "2721",
+      "urn": "urn:lex:br:federal:lei:1956-01-30;2721",
+      "ementa": "Federaliza a Faculdade de Direito de Niterói e o Instituto Eletrotécnico de Itajubá; subvenciona a Faculdade de Ciências Econômicas de Pelotas, no Estado do Rio Grande do Sul e a Faculdade de Direito no Rio Grande do Norte, em Natal; e dá outras providências."
+    },
+    {
+      "senadoId": "544541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-28-2720",
+      "titulo": "Lei nº 2.720 de 28/01/1956",
+      "data": "1956-01-28",
+      "numero": "2720",
+      "urn": "urn:lex:br:federal:lei:1956-01-28;2720",
+      "ementa": "Denomina Mello Vianna o aeroporto de Três Corações, no Estado de Minas   Gerais."
+    },
+    {
+      "senadoId": "544540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-28-2719",
+      "titulo": "Lei nº 2.719 de 28/01/1956",
+      "data": "1956-01-28",
+      "numero": "2719",
+      "urn": "urn:lex:br:federal:lei:1956-01-28;2719",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do   Trabalho - crédito especial para pagamento de gratificação adicional, diferença   de vencimentos e diferença de gratificação adicional de membro do Tribunal   Superior do Trabalho e funcionário de sua Secretaria."
+    },
+    {
+      "senadoId": "544537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-24-2718",
+      "titulo": "Lei nº 2.718 de 24/01/1956",
+      "data": "1956-01-24",
+      "numero": "2718",
+      "urn": "urn:lex:br:federal:lei:1956-01-24;2718",
+      "ementa": "Autoiza o Poder Executivo a abrir, pelo Ministério do Trabalho, Indústria   e Comércio, o crédito especial de Cr$ 4.987.200,00 para atender a todas as   despesas com o comparecimento do Brasil à 37ª Sessão da Conferência   Internacional do Trabalho."
+    },
+    {
+      "senadoId": "544535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-24-2717",
+      "titulo": "Lei nº 2.717 de 24/01/1956",
+      "data": "1956-01-24",
+      "numero": "2717",
+      "urn": "urn:lex:br:federal:lei:1956-01-24;2717",
+      "ementa": "Reconhece a Federação das Bandeirantes do Brasil como órgão máximo do   escotismo feminino."
+    },
+    {
+      "senadoId": "544533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-24-2715",
+      "titulo": "Lei nº 2.715 de 24/01/1956",
+      "data": "1956-01-24",
+      "numero": "2715",
+      "urn": "urn:lex:br:federal:lei:1956-01-24;2715",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Cultura,   o crédito especial de Cr$ 277.859,00 para pagamento de gratificação de   magistério a professores do mesmo Ministério."
+    },
+    {
+      "senadoId": "544532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-24-2714",
+      "titulo": "Lei nº 2.714 de 24/01/1956",
+      "data": "1956-01-24",
+      "numero": "2714",
+      "urn": "urn:lex:br:federal:lei:1956-01-24;2714",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Agricultura, o crédito especial de Cr$ 47.325,00 para pagamento de diferenças de gratificação a João Cândido Ferreira Filho, professor catedrático da cadeira de Agricultura e Genética Especializada da Escola Nacional de Agronomia, do Quadro Permanente do mesmo Ministério."
+    },
+    {
+      "senadoId": "544534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-24-2716",
+      "titulo": "Lei nº 2.716 de 24/01/1956",
+      "data": "1956-01-24",
+      "numero": "2716",
+      "urn": "urn:lex:br:federal:lei:1956-01-24;2716",
+      "ementa": "Abre ao Poder Judiciário - Justiça do Trabalho - crédito especial de Cr$   4.803,50 para atender ao pagamento de diferenças de gratificação adicional ao   Diretor de Secretaria PJ-5, Sebastião Teixeira de Carvalho do Tribunal Regional   do Trabalho da 3ª Região."
+    },
+    {
+      "senadoId": "544529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-21-2711",
+      "titulo": "Lei nº 2.711 de 21/01/1956",
+      "data": "1956-01-21",
+      "numero": "2711",
+      "urn": "urn:lex:br:federal:lei:1956-01-21;2711",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Justiça e Negócios   Interiores, crédito especial até a importância de Cr$ 40.000.000,00, para início   da construção de um prédio destinado ao Palácio da Justiça, no Distrito Federal,   e dá outras providências."
+    },
+    {
+      "senadoId": "544531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-21-2713",
+      "titulo": "Lei nº 2.713 de 21/01/1956",
+      "data": "1956-01-21",
+      "numero": "2713",
+      "urn": "urn:lex:br:federal:lei:1956-01-21;2713",
+      "ementa": "Dispõe sôbre a prorrogação e vigência do estado de sítio em todo o   território nacional."
+    },
+    {
+      "senadoId": "544530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-21-2712",
+      "titulo": "Lei nº 2.712 de 21/01/1956",
+      "data": "1956-01-21",
+      "numero": "2712",
+      "urn": "urn:lex:br:federal:lei:1956-01-21;2712",
+      "ementa": "Federaliza a Escola Paulista de Medicina, cria a Faculdade de Medicina em Santa Maria, integrada na Universidade do Rio Grande do Sul, e dá outras providências."
+    },
+    {
+      "senadoId": "544528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-19-2710",
+      "titulo": "Lei nº 2.710 de 19/01/1956",
+      "data": "1956-01-19",
+      "numero": "2710",
+      "urn": "urn:lex:br:federal:lei:1956-01-19;2710",
+      "ementa": "Dispõe sôbre os vencimentos dos militares, e dá outras providências."
+    },
+    {
+      "senadoId": "544527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-17-2709",
+      "titulo": "Lei nº 2.709 de 17/01/1956",
+      "data": "1956-01-17",
+      "numero": "2709",
+      "urn": "urn:lex:br:federal:lei:1956-01-17;2709",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Estado Maior das Forças Armadas,   o crédito especial de Cr$ 15.000,00 para ocorrer à despesa com o pagamento de   gratificação adicional aos extranumerários mensalistas do referido   orgão."
+    },
+    {
+      "senadoId": "544526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-11-2708",
+      "titulo": "Lei nº 2.708 de 11/01/1956",
+      "data": "1956-01-11",
+      "numero": "2708",
+      "urn": "urn:lex:br:federal:lei:1956-01-11;2708",
+      "ementa": "Autoriza o Poder Executivo a transferir, sem ônus, para a Prefeitura de   Ribeirão Vermelho, Estado de Minas Gerais, o serviço de abastecimento de água   que a Rêde Mineira de Viação possui naquela localidade."
+    },
+    {
+      "senadoId": "544525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-10-2707",
+      "titulo": "Lei nº 2.707 de 10/01/1956",
+      "data": "1956-01-10",
+      "numero": "2707",
+      "urn": "urn:lex:br:federal:lei:1956-01-10;2707",
+      "ementa": "Concede a pensão especial de Cr$ 2.000,00 mensais a Gabriela Portela   Fagundes, progenitora do Capitão Mário Portela Fagundes."
+    },
+    {
+      "senadoId": "544524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-10-2706",
+      "titulo": "Lei nº 2.706 de 10/01/1956",
+      "data": "1956-01-10",
+      "numero": "2706",
+      "urn": "urn:lex:br:federal:lei:1956-01-10;2706",
+      "ementa": "Mantém o Decreto n.º 38.402, de 23 de dezembro de 1955, que prorroga o   estado de sítio."
+    },
+    {
+      "senadoId": "544522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-07-2705-a",
+      "titulo": "Lei nº 2.705-A de 07/01/1956",
+      "data": "1956-01-07",
+      "numero": "2705-a",
+      "urn": "urn:lex:br:federal:lei:1956-01-07;2705-a",
+      "ementa": "Inclui os candidatos aprovados em provas de   habilitação, homologadas até 31 de dezembro de 1954, na exceção contida no art.   2º da Lei n.º 2.284, de 9 de agosto de 1954 (Regula a estabilidade do pessoal   extranumerário da União e das autarquias)."
+    },
+    {
+      "senadoId": "544520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-06-2704",
+      "titulo": "Lei nº 2.704 de 06/01/1956",
+      "data": "1956-01-06",
+      "numero": "2704",
+      "urn": "urn:lex:br:federal:lei:1956-01-06;2704",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério   do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 103.000,00, para   atender às despesas com o pagamento de sentença arbitral e honorários de   advogado, proferida em lide para revisão de aluguel do imóvel ocupado pelo   Escritório de Propaganda e Expansão Comercial do Brasil na França."
+    },
+    {
+      "senadoId": "544521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-06-2705",
+      "titulo": "Lei nº 2.705 de 06/01/1956",
+      "data": "1956-01-06",
+      "numero": "2705",
+      "urn": "urn:lex:br:federal:lei:1956-01-06;2705",
+      "ementa": "Autoriza o Poder Executivo a doar à União Beneficente de Cariús prédio e   respectivo terreno situados à Praça 15 de novembro, em Cariús, no Estado do   Ceará."
+    },
+    {
+      "senadoId": "544519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1956-01-04-2703",
+      "titulo": "Lei nº 2.703 de 04/01/1956",
+      "data": "1956-01-04",
+      "numero": "2703",
+      "urn": "urn:lex:br:federal:lei:1956-01-04;2703",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Guerra, o crédito   especial de Cr$ 3.277.882,80 para pagamento de horas extraordinárias de serviço   a funcionários daquele Ministério, relativo aos exrcícios de 1949, 1950 e   1951."
+    }
+  ],
+  "pendencias": []
+}

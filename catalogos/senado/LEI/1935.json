@@ -1,0 +1,1419 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1935",
+  "tipo": "LEI",
+  "ano": 1935,
+  "coletado_em": "2026-10-20T23:04:17.680Z",
+  "normas": [
+    {
+      "senadoId": "541185",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-31-160",
+      "titulo": "Lei nº 160 de 31/12/1935",
+      "data": "1935-12-31",
+      "numero": "160",
+      "urn": "urn:lex:br:federal:lei:1935-12-31;160",
+      "ementa": "Altera a Carteira de Redescontos, estabelecida no Banco do Brasil"
+    },
+    {
+      "senadoId": "541188",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-31-161",
+      "titulo": "Lei nº 161 de 31/12/1935",
+      "data": "1935-12-31",
+      "numero": "161",
+      "urn": "urn:lex:br:federal:lei:1935-12-31;161",
+      "ementa": "Regula a expedição de cartas de provisionados e solicitadores, e o exercicio dessas profissões"
+    },
+    {
+      "senadoId": "541181",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-30-158",
+      "titulo": "Lei nº 158 de 30/12/1935",
+      "data": "1935-12-30",
+      "numero": "158",
+      "urn": "urn:lex:br:federal:lei:1935-12-30;158",
+      "ementa": "Dispõe sobre vencimentos do funccionalismo publico da União"
+    },
+    {
+      "senadoId": "541183",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-30-159",
+      "titulo": "Lei nº 159 de 30/12/1935",
+      "data": "1935-12-30",
+      "numero": "159",
+      "urn": "urn:lex:br:federal:lei:1935-12-30;159",
+      "ementa": "Regula a contribuição para a formação da receita dos Institutos e Caixas de Aposentadoria e Pensões subordinados ao Conselho Nacional do Trabalho e dá outras providencias"
+    },
+    {
+      "senadoId": "541179",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-26-157",
+      "titulo": "Lei nº 157 de 26/12/1935",
+      "data": "1935-12-26",
+      "numero": "157",
+      "urn": "urn:lex:br:federal:lei:1935-12-26;157",
+      "ementa": "Autoriza a abertura do credito de 24.000:000$, supplementar do orçamento vigente do Ministerio da Viação."
+    },
+    {
+      "senadoId": "541177",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-24-156",
+      "titulo": "Lei nº 156 de 24/12/1935",
+      "data": "1935-12-24",
+      "numero": "156",
+      "urn": "urn:lex:br:federal:lei:1935-12-24;156",
+      "ementa": "Regula o funcionamento do Tribunal de Contas"
+    },
+    {
+      "senadoId": "541171",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-23-153",
+      "titulo": "Lei nº 153 de 23/12/1935",
+      "data": "1935-12-23",
+      "numero": "153",
+      "urn": "urn:lex:br:federal:lei:1935-12-23;153",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministerio das Relações Exteriores, os creditos supplementares de réis 1.000:000$000 e 600:000$000, ás verbas 5ª e 6ª e réis 1.000:000$000 á verba 4ª do orçamento vigente"
+    },
+    {
+      "senadoId": "541175",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-23-155",
+      "titulo": "Lei nº 155 de 23/12/1935",
+      "data": "1935-12-23",
+      "numero": "155",
+      "urn": "urn:lex:br:federal:lei:1935-12-23;155",
+      "ementa": "Revigora, pelo prazo de quatro annos, o credito especial de 25.055:805$700, destinado a attender a restituição devida ao governo do Estado do Ceará, da taxa de 2% ouro"
+    },
+    {
+      "senadoId": "541173",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-23-154",
+      "titulo": "Lei nº 154 de 23/12/1935",
+      "data": "1935-12-23",
+      "numero": "154",
+      "urn": "urn:lex:br:federal:lei:1935-12-23;154",
+      "ementa": "Autoriza a abrir o credito de 8.538:889$700 para pagamento de transportes feitos pela Viação Ferrea do Rio Grande do Sul"
+    },
+    {
+      "senadoId": "541169",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-21-152",
+      "titulo": "Lei nº 152 de 21/12/1935",
+      "data": "1935-12-21",
+      "numero": "152",
+      "urn": "urn:lex:br:federal:lei:1935-12-21;152",
+      "ementa": "Autoriza a cessão, por aforamento, ao Club de Regatas Flamengo, de uma área de terreno"
+    },
+    {
+      "senadoId": "541165",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-20-150",
+      "titulo": "Lei nº 150 de 20/12/1935",
+      "data": "1935-12-20",
+      "numero": "150",
+      "urn": "urn:lex:br:federal:lei:1935-12-20;150",
+      "ementa": "Dá nova oganização á Secretaria da Agricultura"
+    },
+    {
+      "senadoId": "541157",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-20-147",
+      "titulo": "Lei nº 147 de 20/12/1935",
+      "data": "1935-12-20",
+      "numero": "147",
+      "urn": "urn:lex:br:federal:lei:1935-12-20;147",
+      "ementa": "Autoriza o Poder Executivo a adquirir um terreno em Faxina, no Estado de São Paulo."
+    },
+    {
+      "senadoId": "541167",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-20-151",
+      "titulo": "Lei nº 151 de 20/12/1935",
+      "data": "1935-12-20",
+      "numero": "151",
+      "urn": "urn:lex:br:federal:lei:1935-12-20;151",
+      "ementa": "Modifica o § 1º do art. 83 do Codigo de Caça e Pesca, ampliando o campo de pesca para os amadores"
+    },
+    {
+      "senadoId": "541160",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-20-148",
+      "titulo": "Lei nº 148 de 20/12/1935",
+      "data": "1935-12-20",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:lei:1935-12-20;148",
+      "ementa": "Autoriza o Poder Executivo a adquirir, pelo preço de reis 30:000$000, um terreno destinado ao Serviço de Remonta do Exercito"
+    },
+    {
+      "senadoId": "541163",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-20-149",
+      "titulo": "Lei nº 149 de 20/12/1935",
+      "data": "1935-12-20",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:lei:1935-12-20;149",
+      "ementa": "Autoriza a Poder Executivo a abrir o credito suplementar de 3.000:000$, para attender a pagamentos da Estrada de Ferro Jaguary-São Thiago a São Borja, no Rio Grande do Sul."
+    },
+    {
+      "senadoId": "541155",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-19-146",
+      "titulo": "Lei nº 146 de 19/12/1935",
+      "data": "1935-12-19",
+      "numero": "146",
+      "urn": "urn:lex:br:federal:lei:1935-12-19;146",
+      "ementa": "Concede prazo de móra para que se possam, quitar os requerentes on concessionarios ou cessionarios de patentes de invenção e modelos de utilidade, que se acharem em atrazo de pagamento"
+    },
+    {
+      "senadoId": "541153",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-19-145",
+      "titulo": "Lei nº 145 de 19/12/1935",
+      "data": "1935-12-19",
+      "numero": "145",
+      "urn": "urn:lex:br:federal:lei:1935-12-19;145",
+      "ementa": "Manda suspender as consignações em folha do funccionclismo federal, relativas ao mez de dezembro de 1935"
+    },
+    {
+      "senadoId": "541146",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-18-142",
+      "titulo": "Lei nº 142 de 18/12/1935",
+      "data": "1935-12-18",
+      "numero": "142",
+      "urn": "urn:lex:br:federal:lei:1935-12-18;142",
+      "ementa": "Autoriza a applicar até a importancia de 600:000$000 no pagamento de subvenções ás instituições constituídas de accordo com o decreto n. 20.351, de 31 de agosto de 1931."
+    },
+    {
+      "senadoId": "541149",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-18-143",
+      "titulo": "Lei nº 143 de 18/12/1935",
+      "data": "1935-12-18",
+      "numero": "143",
+      "urn": "urn:lex:br:federal:lei:1935-12-18;143",
+      "ementa": "Suspende a exigibilidade das obrigações civis e commerdaes no Estado do Rio Grande do Norte, durante sessenta dias"
+    },
+    {
+      "senadoId": "541151",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-18-144",
+      "titulo": "Lei nº 144 de 18/12/1935",
+      "data": "1935-12-18",
+      "numero": "144",
+      "urn": "urn:lex:br:federal:lei:1935-12-18;144",
+      "ementa": "Revigora o credito de 4.000:000$, aberto pelo decreto numero 24.678, de 12 de julho de 1934, para auxiliar a Associação Brasileira de Imprensa, na construcção do predio destinado á sua séde."
+    },
+    {
+      "senadoId": "541144",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-17-141",
+      "titulo": "Lei nº 141 de 17/12/1935",
+      "data": "1935-12-17",
+      "numero": "141",
+      "urn": "urn:lex:br:federal:lei:1935-12-17;141",
+      "ementa": "Abre o credito suplementar de 50:000$000 a sub-consignação n. 3, verba 14º do orçamento vigente, do Ministerio da Justiça"
+    },
+    {
+      "senadoId": "541138",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-16-138",
+      "titulo": "Lei nº 138 de 16/12/1935",
+      "data": "1935-12-16",
+      "numero": "138",
+      "urn": "urn:lex:br:federal:lei:1935-12-16;138",
+      "ementa": "Concede auxílio á Policlínica Geral do Rio de Janeiro"
+    },
+    {
+      "senadoId": "541140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-16-139",
+      "titulo": "Lei nº 139 de 16/12/1935",
+      "data": "1935-12-16",
+      "numero": "139",
+      "urn": "urn:lex:br:federal:lei:1935-12-16;139",
+      "ementa": "Autoriza o Poder Executivo a fixar, até 2 de abril de 1945, uma subvenção anual para a \"The Amazon Telegraph Company, Limited\", inferior á importancia consignada para o mesmo fim na Lei de orçamento para 1935."
+    },
+    {
+      "senadoId": "541142",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-16-140",
+      "titulo": "Lei nº 140 de 16/12/1935",
+      "data": "1935-12-16",
+      "numero": "140",
+      "urn": "urn:lex:br:federal:lei:1935-12-16;140",
+      "ementa": "Fica aberto, pelo Ministerio da Justiça e Negocios anteriores, o credito de 195:835$000, supplementar a sub-consignação n. 6 (Policia Militar do Districto Federal)"
+    },
+    {
+      "senadoId": "541136",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-14-137",
+      "titulo": "Lei nº 137 de 14/12/1935",
+      "data": "1935-12-14",
+      "numero": "137",
+      "urn": "urn:lex:br:federal:lei:1935-12-14;137",
+      "ementa": "Autoriza o Poder Executivo a abrir o credito de 4.500:000$, supplementar á verba 7ª (Serviço de Aviação), consignação material - Material permanente - do orçamento em, vigor para o Ministerio da Guerra"
+    },
+    {
+      "senadoId": "541134",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-14-136",
+      "titulo": "Lei nº 136 de 14/12/1935",
+      "data": "1935-12-14",
+      "numero": "136",
+      "urn": "urn:lex:br:federal:lei:1935-12-14;136",
+      "ementa": "Modifica vários dispositivos da Lei n.º 38, de 4 de abril de 1935 e define novos crimes contra a ordem político social."
+    },
+    {
+      "senadoId": "541132",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-13-135",
+      "titulo": "Lei nº 135 de 13/12/1935",
+      "data": "1935-12-13",
+      "numero": "135",
+      "urn": "urn:lex:br:federal:lei:1935-12-13;135",
+      "ementa": "Aplica aos fieis de recebedores da Thesouraria Geral do Ministério da Educação e Saúde Publica as disposições constantes do decreto n. 92, de 4 de setembro de 1935"
+    },
+    {
+      "senadoId": "541128",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-11-133",
+      "titulo": "Lei nº 133 de 11/12/1935",
+      "data": "1935-12-11",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:lei:1935-12-11;133",
+      "ementa": "Autoriza o Poder Executivo a abrir o credito de 2.198:000$, para serviços da Commissão de Estradas de Rodagem Federaes"
+    },
+    {
+      "senadoId": "541130",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-11-134",
+      "titulo": "Lei nº 134 de 11/12/1935",
+      "data": "1935-12-11",
+      "numero": "134",
+      "urn": "urn:lex:br:federal:lei:1935-12-11;134",
+      "ementa": "Autoriza o Poder Executivo a realizar a compra de uma área de terreno pertencente á D. Maria Freitas de Albuquerque"
+    },
+    {
+      "senadoId": "541126",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-09-132",
+      "titulo": "Lei nº 132 de 09/12/1935",
+      "data": "1935-12-09",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:lei:1935-12-09;132",
+      "ementa": "Autoriza o Governo a adquirir a bibliotheca que pertenceu ao Ministro Ronald de Carvalho"
+    },
+    {
+      "senadoId": "541124",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-09-131",
+      "titulo": "Lei nº 131 de 09/12/1935",
+      "data": "1935-12-09",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:lei:1935-12-09;131",
+      "ementa": "Fixa as forças de terra e mar para os exercícios de 1936, 1937 e 1938"
+    },
+    {
+      "senadoId": "541120",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-07-129",
+      "titulo": "Lei nº 129 de 07/12/1935",
+      "data": "1935-12-07",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:lei:1935-12-07;129",
+      "ementa": "Autoriza o Poder Executivo a entrar em acordo com os credores norte-americanos para a liquidação das dividas commerciaes atrazadas"
+    },
+    {
+      "senadoId": "541122",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-07-130",
+      "titulo": "Lei nº 130 de 07/12/1935",
+      "data": "1935-12-07",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:lei:1935-12-07;130",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito de 40.153:593$900, suplementar ao orçamento vigente do Ministério da Guerra"
+    },
+    {
+      "senadoId": "541118",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-06-128",
+      "titulo": "Lei nº 128 de 06/12/1935",
+      "data": "1935-12-06",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:lei:1935-12-06;128",
+      "ementa": "Dispõe sobre nova cunhagem de moedas divisionarias"
+    },
+    {
+      "senadoId": "541116",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-06-127",
+      "titulo": "Lei nº 127 de 06/12/1935",
+      "data": "1935-12-06",
+      "numero": "127",
+      "urn": "urn:lex:br:federal:lei:1935-12-06;127",
+      "ementa": "Abre o crédito suplementar de 3.902:600$000, para pagamento de subsidio de Senadores e Deputados e de material das Secretarias da Camara dos Deputados e do Senado Federal, no período de 4 de novembro a 31 de dezembro de 1935."
+    },
+    {
+      "senadoId": "541112",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-04-126",
+      "titulo": "Lei nº 126 de 04/12/1935",
+      "data": "1935-12-04",
+      "numero": "126",
+      "urn": "urn:lex:br:federal:lei:1935-12-04;126",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de 58:447$500, para pagamento de diarias de alimentação aos mestres, motoristas e machinistas das embarcações da Inspectoria da Polícia Marítima e Aérea do Districto Federal."
+    },
+    {
+      "senadoId": "541110",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-03-125",
+      "titulo": "Lei nº 125 de 03/12/1935",
+      "data": "1935-12-03",
+      "numero": "125",
+      "urn": "urn:lex:br:federal:lei:1935-12-03;125",
+      "ementa": "Estabelece regras sobre a construção de edifícios públicos;"
+    },
+    {
+      "senadoId": "541106",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-02-123",
+      "titulo": "Lei nº 123 de 02/12/1935",
+      "data": "1935-12-02",
+      "numero": "123",
+      "urn": "urn:lex:br:federal:lei:1935-12-02;123",
+      "ementa": "Autoriza o Poder Executivo a abrir o credido supplementar de 5.600:000$000, para pagamento da gratificação provisoria a que se refere o decreto n.º 8, de 3 de agosto de 1934"
+    },
+    {
+      "senadoId": "541108",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-12-02-124",
+      "titulo": "Lei nº 124 de 02/12/1935",
+      "data": "1935-12-02",
+      "numero": "124",
+      "urn": "urn:lex:br:federal:lei:1935-12-02;124",
+      "ementa": "Fica aberto o credito de 29:229$668, para occorrer ao pagamento a que tem direito Manoel Pessoa de Mello, secretário da Directoria Geral do Arsenal de Marinha do Rio de Janeiro."
+    },
+    {
+      "senadoId": "541100",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-27-120",
+      "titulo": "Lei nº 120 de 27/11/1935",
+      "data": "1935-11-27",
+      "numero": "120",
+      "urn": "urn:lex:br:federal:lei:1935-11-27;120",
+      "ementa": "Autoriza o Poder Ezecutivo a abrir o credito especial, de 2.308:650$000, ouro, para aftender é restituição ao Governo do Estado de Alagôas, da taxa de 2%, ouro, arrecadada pela Alfendega de Maceió."
+    },
+    {
+      "senadoId": "541102",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-27-121",
+      "titulo": "Lei nº 121 de 27/11/1935",
+      "data": "1935-11-27",
+      "numero": "121",
+      "urn": "urn:lex:br:federal:lei:1935-11-27;121",
+      "ementa": "Autoriza o Poder Executivo a abrir o credito especial, de 579 :700$000, para pagar ao pessoal da Diretoria das Rendas Aduaneiras e da Fiscalização dos Empostos Internos nas Estradas de Rodagem."
+    },
+    {
+      "senadoId": "541104",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-27-122",
+      "titulo": "Lei nº 122 de 27/11/1935",
+      "data": "1935-11-27",
+      "numero": "122",
+      "urn": "urn:lex:br:federal:lei:1935-11-27;122",
+      "ementa": "Abre os creditos especiaes de 250:000$000, para auxíliar aconclusão do monumento a Santos Dumont, e o de 309:000$000 para auxilio ao monumento aos heroes da Laguna e Dourados"
+    },
+    {
+      "senadoId": "541098",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-25-119",
+      "titulo": "Lei nº 119 de 25/11/1935",
+      "data": "1935-11-25",
+      "numero": "119",
+      "urn": "urn:lex:br:federal:lei:1935-11-25;119",
+      "ementa": "Regula a distribuição de subvenções a Instituições de Assistencia, Educação e Cultura."
+    },
+    {
+      "senadoId": "541096",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-18-118",
+      "titulo": "Lei nº 118 de 18/11/1935",
+      "data": "1935-11-18",
+      "numero": "118",
+      "urn": "urn:lex:br:federal:lei:1935-11-18;118",
+      "ementa": "Organiza o Serviço de Enfermagem da Directoria Nacional de Saude e Assistencia Medico Social"
+    },
+    {
+      "senadoId": "541094",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-14-117",
+      "titulo": "Lei nº 117 de 14/11/1935",
+      "data": "1935-11-14",
+      "numero": "117",
+      "urn": "urn:lex:br:federal:lei:1935-11-14;117",
+      "ementa": "Providencia sobre a exportação de orchidéas"
+    },
+    {
+      "senadoId": "541090",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-13-115",
+      "titulo": "Lei nº 115 de 13/11/1935",
+      "data": "1935-11-13",
+      "numero": "115",
+      "urn": "urn:lex:br:federal:lei:1935-11-13;115",
+      "ementa": "Orça a Receita e fixa a Despesa Geral da República dos Estados Unidos do Brasil para o exercício de 1936"
+    },
+    {
+      "senadoId": "541092",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-13-116",
+      "titulo": "Lei nº 116 de 13/11/1935",
+      "data": "1935-11-13",
+      "numero": "116",
+      "urn": "urn:lex:br:federal:lei:1935-11-13;116",
+      "ementa": "Abre o credito especial de 730$000, pelo Ministério da Guerra, para pagamento da differença de vencimentos ao carpinteiro do \"stand\" do Tiro NacionaL"
+    },
+    {
+      "senadoId": "541088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-11-114",
+      "titulo": "Lei nº 114 de 11/11/1935",
+      "data": "1935-11-11",
+      "numero": "114",
+      "urn": "urn:lex:br:federal:lei:1935-11-11;114",
+      "ementa": "Modifica a legislação do ensino. (Curso de Doutorado)"
+    },
+    {
+      "senadoId": "541086",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-06-113",
+      "titulo": "Lei nº 113 de 06/11/1935",
+      "data": "1935-11-06",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:lei:1935-11-06;113",
+      "ementa": "Proroga até 31 de dezembro de 1936 o regimen que regula a concessão de ajudas de custo aos membros dos Corpos Diplomatico e Consular"
+    },
+    {
+      "senadoId": "541084",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-05-112",
+      "titulo": "Lei nº 112 de 05/11/1935",
+      "data": "1935-11-05",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:lei:1935-11-05;112",
+      "ementa": "Concede pensão vitalicia a professores da Faculdade de Direito da Universidade do Rio de Janeiro"
+    },
+    {
+      "senadoId": "541081",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-11-04-111",
+      "titulo": "Lei nº 111 de 04/11/1935",
+      "data": "1935-11-04",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:lei:1935-11-04;111",
+      "ementa": "Dispõe sobre o funccionamento da Camara Municipal do Districto Federal, e da outras providencias"
+    },
+    {
+      "senadoId": "541079",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-31-110",
+      "titulo": "Lei nº 110 de 31/10/1935",
+      "data": "1935-10-31",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:lei:1935-10-31;110",
+      "ementa": "Autoriza operações de credito para execução do accordo financeiro entre o Brasil e a Inglaterra"
+    },
+    {
+      "senadoId": "541077",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-30-109",
+      "titulo": "Lei nº 109 de 30/10/1935",
+      "data": "1935-10-30",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:lei:1935-10-30;109",
+      "ementa": "Dispõe sobre a exportação de abacaxis"
+    },
+    {
+      "senadoId": "541074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-29-108",
+      "titulo": "Lei nº 108 de 29/10/1935",
+      "data": "1935-10-29",
+      "numero": "108",
+      "urn": "urn:lex:br:federal:lei:1935-10-29;108",
+      "ementa": "Estabelece os diversos feriados nacionaes"
+    },
+    {
+      "senadoId": "541070",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-26-107",
+      "titulo": "Lei nº 107 de 26/10/1935",
+      "data": "1935-10-26",
+      "numero": "107",
+      "urn": "urn:lex:br:federal:lei:1935-10-26;107",
+      "ementa": "Autoriza o Poder Executivo a renovar os contractos de navegação nas linhas dos Autazes, do Alto Tapajós, do São Francisco e do Amazonas"
+    },
+    {
+      "senadoId": "541068",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-23-106",
+      "titulo": "Lei nº 106 de 23/10/1935",
+      "data": "1935-10-23",
+      "numero": "106",
+      "urn": "urn:lex:br:federal:lei:1935-10-23;106",
+      "ementa": "Institue a Caixa de Garantia e Previdencia dos Corretores da Bolsa de Fundos Publicos do Rio de Janeiro e dá outras providencias"
+    },
+    {
+      "senadoId": "541065",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-22-105",
+      "titulo": "Lei nº 105 de 22/10/1935",
+      "data": "1935-10-22",
+      "numero": "105",
+      "urn": "urn:lex:br:federal:lei:1935-10-22;105",
+      "ementa": "Provê a aquisição de predios dc moradias e fianças para aluguel de casas destinadas aos funcionarios publicos"
+    },
+    {
+      "senadoId": "541062",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-18-104",
+      "titulo": "Lei nº 104 de 18/10/1935",
+      "data": "1935-10-18",
+      "numero": "104",
+      "urn": "urn:lex:br:federal:lei:1935-10-18;104",
+      "ementa": "Dispõe sobre o direito de promoção dos funccionarios subalternos das Secretarias de Estado"
+    },
+    {
+      "senadoId": "541060",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-14-103",
+      "titulo": "Lei nº 103 de 14/10/1935",
+      "data": "1935-10-14",
+      "numero": "103",
+      "urn": "urn:lex:br:federal:lei:1935-10-14;103",
+      "ementa": "Concede premio no inventtor de machina para extrahir a céra de carnaúba"
+    },
+    {
+      "senadoId": "541057",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-09-101",
+      "titulo": "Lei nº 101 de 09/10/1935",
+      "data": "1935-10-09",
+      "numero": "101",
+      "urn": "urn:lex:br:federal:lei:1935-10-09;101",
+      "ementa": "Revigora, por dous annos, a validade do ultimo concurso para medico da Policia, Militar do Distrito Federal"
+    },
+    {
+      "senadoId": "541055",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-08-100",
+      "titulo": "Lei nº 100 de 08/10/1935",
+      "data": "1935-10-08",
+      "numero": "100",
+      "urn": "urn:lex:br:federal:lei:1935-10-08;100",
+      "ementa": "Autoriza a publicação das obras do engenheiro Francisco Saturnino Rodrigues de Brito"
+    },
+    {
+      "senadoId": "541053",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-10-01-99",
+      "titulo": "Lei nº 99 de 01/10/1935",
+      "data": "1935-10-01",
+      "numero": "99",
+      "urn": "urn:lex:br:federal:lei:1935-10-01;99",
+      "ementa": "Autoriza a abrir, pelo Ministério da Justiça o credito especial de 170:787$000, para pagar ao desembargador Pedro de Alcantara Nabuco de Abreu e outros"
+    },
+    {
+      "senadoId": "541050",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-30-98",
+      "titulo": "Lei nº 98 de 30/09/1935",
+      "data": "1935-09-30",
+      "numero": "98",
+      "urn": "urn:lex:br:federal:lei:1935-09-30;98",
+      "ementa": "Regula a amortização de dividas sujeitas á Lei da moratoria e proroga até 31 de dezembro de 1935, o prazo fixado para pagamento da primeira prestação annual"
+    },
+    {
+      "senadoId": "541045",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-20-96",
+      "titulo": "Lei nº 96 de 20/09/1935",
+      "data": "1935-09-20",
+      "numero": "96",
+      "urn": "urn:lex:br:federal:lei:1935-09-20;96",
+      "ementa": "Autoriza a pagar aos professores Enoch da Rocha Lima e outros, do Collegio Pedro II, a differença de vencimentos a que teem direito"
+    },
+    {
+      "senadoId": "541048",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-20-97",
+      "titulo": "Lei nº 97 de 20/09/1935",
+      "data": "1935-09-20",
+      "numero": "97",
+      "urn": "urn:lex:br:federal:lei:1935-09-20;97",
+      "ementa": "Abre o credito extraordinario do 200:000$000 (duzentos contos de réis), para soccorrer o Estado de Sergipe, em razão das enchentes dos rios, que regam os territorios do mesmo Estado"
+    },
+    {
+      "senadoId": "541043",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-12-95",
+      "titulo": "Lei nº 95 de 12/09/1935",
+      "data": "1935-09-12",
+      "numero": "95",
+      "urn": "urn:lex:br:federal:lei:1935-09-12;95",
+      "ementa": "Autoriza o Governo a dar garantia a uma operação de credito até a importancia de 50.000:000$000, entre e o Estado do Rio Grande e o Banco do Brasil, destinada ao resgate da emissão de bonus feita pelo mesmo Estado"
+    },
+    {
+      "senadoId": "541041",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-10-94",
+      "titulo": "Lei nº 94 de 10/09/1935",
+      "data": "1935-09-10",
+      "numero": "94",
+      "urn": "urn:lex:br:federal:lei:1935-09-10;94",
+      "ementa": "Proroga até 20 de julho de 1936, o prazo fixado no art. 1º do decreto n. 24.642, de 1934"
+    },
+    {
+      "senadoId": "541039",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-05-93",
+      "titulo": "Lei nº 93 de 05/09/1935",
+      "data": "1935-09-05",
+      "numero": "93",
+      "urn": "urn:lex:br:federal:lei:1935-09-05;93",
+      "ementa": "Declara feriado nacional, sómente para effeitos escolares, o dia 6 de setembro de 1935."
+    },
+    {
+      "senadoId": "541037",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-09-04-92",
+      "titulo": "Lei nº 92 de 04/09/1935",
+      "data": "1935-09-04",
+      "numero": "92",
+      "urn": "urn:lex:br:federal:lei:1935-09-04;92",
+      "ementa": "Muda a categoria dos actuaes fieis de thesoureiro ou de pagadores, os quaes passarão a ser denominados ajudantes"
+    },
+    {
+      "senadoId": "541035",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-08-28-91",
+      "titulo": "Lei nº 91 de 28/08/1935",
+      "data": "1935-08-28",
+      "numero": "91",
+      "urn": "urn:lex:br:federal:lei:1935-08-28;91",
+      "ementa": "Determina regras pelas quais são as sociedades declaradas de utilidade pública."
+    },
+    {
+      "senadoId": "541032",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-08-27-90",
+      "titulo": "Lei nº 90 de 27/08/1935",
+      "data": "1935-08-27",
+      "numero": "90",
+      "urn": "urn:lex:br:federal:lei:1935-08-27;90",
+      "ementa": "Dispõe sobre o prazo para o registro dos chimicos."
+    },
+    {
+      "senadoId": "541029",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-08-20-89",
+      "titulo": "Lei nº 89 de 20/08/1935",
+      "data": "1935-08-20",
+      "numero": "89",
+      "urn": "urn:lex:br:federal:lei:1935-08-20;89",
+      "ementa": "Autoriza o Poder Executivo a incluir na divida passiva da União, com o credito de 250.000:000$, as indemnizações do Tratado de Pedras Altas."
+    },
+    {
+      "senadoId": "541027",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-08-10-88",
+      "titulo": "Lei nº 88 de 10/08/1935",
+      "data": "1935-08-10",
+      "numero": "88",
+      "urn": "urn:lex:br:federal:lei:1935-08-10;88",
+      "ementa": "Abre o credito especiel de 300:000$000, para occorrer ás despezas com o combate á raiva em varias zonas do paiz"
+    },
+    {
+      "senadoId": "541023",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-08-07-86",
+      "titulo": "Lei nº 86 de 07/08/1935",
+      "data": "1935-08-07",
+      "numero": "86",
+      "urn": "urn:lex:br:federal:lei:1935-08-07;86",
+      "ementa": "Autoriza a abrir o credito de 395:647$098, para pagar diárias ao pessoal marítimo da Saúde do Porto do Rio de Janeiro"
+    },
+    {
+      "senadoId": "541025",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-08-07-87",
+      "titulo": "Lei nº 87 de 07/08/1935",
+      "data": "1935-08-07",
+      "numero": "87",
+      "urn": "urn:lex:br:federal:lei:1935-08-07;87",
+      "ementa": "Autoriza o Poder Executivo a abrir o credito especial 7.550:000$000, para obras nas linhas férreas e telegraphicas no Estado da Bahia, e outras, e revigora o credito de 15.561:617$394, para cumprir o contracto relativo á Estrada de Ferro Paracatú"
+    },
+    {
+      "senadoId": "541020",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-30-85",
+      "titulo": "Lei nº 85 de 30/07/1935",
+      "data": "1935-07-30",
+      "numero": "85",
+      "urn": "urn:lex:br:federal:lei:1935-07-30;85",
+      "ementa": "Concessão de credito para conclusão do Hospital Infantil"
+    },
+    {
+      "senadoId": "541014",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-23-83",
+      "titulo": "Lei nº 83 de 23/07/1935",
+      "data": "1935-07-23",
+      "numero": "83",
+      "urn": "urn:lex:br:federal:lei:1935-07-23;83",
+      "ementa": "Concede créditos á Faculdade de Medicina da Bahia"
+    },
+    {
+      "senadoId": "541009",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-23-81",
+      "titulo": "Lei nº 81 de 23/07/1935",
+      "data": "1935-07-23",
+      "numero": "81",
+      "urn": "urn:lex:br:federal:lei:1935-07-23;81",
+      "ementa": "Concede á Liga Brasileira contra a Tuberculose o domínio pleno do terreno onde está construída a sua sede social, isentando-o de impostos federais, bem como o respectivo edifício"
+    },
+    {
+      "senadoId": "541016",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-23-84",
+      "titulo": "Lei nº 84 de 23/07/1935",
+      "data": "1935-07-23",
+      "numero": "84",
+      "urn": "urn:lex:br:federal:lei:1935-07-23;84",
+      "ementa": "Determina o pagamento de 22:110$ á D. Leopoldina de Mattos Porto, viuva do 2º tenente Ezequiel da Silva Porto"
+    },
+    {
+      "senadoId": "540989",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-18-72",
+      "titulo": "Lei nº 72 de 18/07/1935",
+      "data": "1935-07-18",
+      "numero": "72",
+      "urn": "urn:lex:br:federal:lei:1935-07-18;72",
+      "ementa": "Autoriza a abrir, pelo Ministerio da Viação, o credito especial até a importancia de dez mil contos de réis (réis 10.000:000$000) para liquidar os compromissos já assumidos e conservação das estradas de rodagem no Paraná, a cargo do 5º Batalhão de Engenharia"
+    },
+    {
+      "senadoId": "541007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-15-80",
+      "titulo": "Lei nº 80 de 15/07/1935",
+      "data": "1935-07-15",
+      "numero": "80",
+      "urn": "urn:lex:br:federal:lei:1935-07-15;80",
+      "ementa": "Revigora o art. 2º do decreto nº 4.659-A, de 19 de janeiro de 1923"
+    },
+    {
+      "senadoId": "541004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-08-79",
+      "titulo": "Lei nº 79 de 08/07/1935",
+      "data": "1935-07-08",
+      "numero": "79",
+      "urn": "urn:lex:br:federal:lei:1935-07-08;79",
+      "ementa": "Concede, com ordenado ou soldo por inteiro, a prorrogação de licença de que trata o § 2º, do art. 19, do decreto número 14.663, de 1921, e dá outras providencias"
+    },
+    {
+      "senadoId": "541002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-03-78",
+      "titulo": "Lei nº 78 de 03/07/1935",
+      "data": "1935-07-03",
+      "numero": "78",
+      "urn": "urn:lex:br:federal:lei:1935-07-03;78",
+      "ementa": "Abre o credito especial de 1.467:999$200 pelo Ministério da Justiça, para pagar a juizes e procuradores dos Tribunais da Justiça Eleitoral"
+    },
+    {
+      "senadoId": "541000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-07-01-77",
+      "titulo": "Lei nº 77 de 01/07/1935",
+      "data": "1935-07-01",
+      "numero": "77",
+      "urn": "urn:lex:br:federal:lei:1935-07-01;77",
+      "ementa": "Altera a idade para a matricula dos capitães combatentes do Exercito da Escola de Estado-Maior"
+    },
+    {
+      "senadoId": "540998",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-26-76",
+      "titulo": "Lei nº 76 de 26/06/1935",
+      "data": "1935-06-26",
+      "numero": "76",
+      "urn": "urn:lex:br:federal:lei:1935-06-26;76",
+      "ementa": "Abre o credito extraordinario de 300:000$000, destinado soccorrer as victimas das enchentes do rio Parnahyba, no Estado do Piauhy, e dá outras providencias"
+    },
+    {
+      "senadoId": "540993",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-24-74",
+      "titulo": "Lei nº 74 de 24/06/1935",
+      "data": "1935-06-24",
+      "numero": "74",
+      "urn": "urn:lex:br:federal:lei:1935-06-24;74",
+      "ementa": "Altera o anno lectivo corrente nas ultimas series dos cursos de ensino superior, no Estado do Rio Grande do Sul"
+    },
+    {
+      "senadoId": "540995",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-24-75",
+      "titulo": "Lei nº 75 de 24/06/1935",
+      "data": "1935-06-24",
+      "numero": "75",
+      "urn": "urn:lex:br:federal:lei:1935-06-24;75",
+      "ementa": "Determina que os pedidos de abertura de creditos sejam encaminhados ao Poder Legislativo por exclusivo intermedio do Ministerio da Fazenda"
+    },
+    {
+      "senadoId": "540991",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-18-73",
+      "titulo": "Lei nº 73 de 18/06/1935",
+      "data": "1935-06-18",
+      "numero": "73",
+      "urn": "urn:lex:br:federal:lei:1935-06-18;73",
+      "ementa": "Autoriza o Governo a abrir o credito de 1.500:000$000 para occorrer ás despesas com a execução do convenio firmado entre o Uruguay e o Brasil"
+    },
+    {
+      "senadoId": "540987",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-17-71",
+      "titulo": "Lei nº 71 de 17/06/1935",
+      "data": "1935-06-17",
+      "numero": "71",
+      "urn": "urn:lex:br:federal:lei:1935-06-17;71",
+      "ementa": "Abre o credito extraordinario de 1.000:000$000, destinado a soccorrer as victimas dos temporaes e innundações da primeira quinzena de maio, na capital e em outros municipios da Bahia, e dá outras providencias"
+    },
+    {
+      "senadoId": "540985",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-16-70",
+      "titulo": "Lei nº 70 de 16/06/1935",
+      "data": "1935-06-16",
+      "numero": "70",
+      "urn": "urn:lex:br:federal:lei:1935-06-16;70",
+      "ementa": "Autoriza a abrir o credito especial de 438:123$500, pelo Ministerio da Agricultura, para auxilio a que têm direito as empresas de fiação de seda nacional"
+    },
+    {
+      "senadoId": "540982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-15-69",
+      "titulo": "Lei nº 69 de 15/06/1935",
+      "data": "1935-06-15",
+      "numero": "69",
+      "urn": "urn:lex:br:federal:lei:1935-06-15;69",
+      "ementa": "Revigora o credito especial de 507:953$600, aberto pelo decreto n. 24.317, de 1 de junho de 1934, destinado a attender ás despesas com os serviços de ampliação da Usina Acary"
+    },
+    {
+      "senadoId": "540976",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-13-67",
+      "titulo": "Lei nº 67 de 13/06/1935",
+      "data": "1935-06-13",
+      "numero": "67",
+      "urn": "urn:lex:br:federal:lei:1935-06-13;67",
+      "ementa": "Providencia sobre o saldo das dotações orçamentarias e suas applicações pela Camara dos Deputados e Senado Federal"
+    },
+    {
+      "senadoId": "540973",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-13-66",
+      "titulo": "Lei nº 66 de 13/06/1935",
+      "data": "1935-06-13",
+      "numero": "66",
+      "urn": "urn:lex:br:federal:lei:1935-06-13;66",
+      "ementa": "Autoriza a abrir o credito especial de 2.500:000$000, para ultimação das obras iniciadas na 7ª Região Militar"
+    },
+    {
+      "senadoId": "540970",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-13-65",
+      "titulo": "Lei nº 65 de 13/06/1935",
+      "data": "1935-06-13",
+      "numero": "65",
+      "urn": "urn:lex:br:federal:lei:1935-06-13;65",
+      "ementa": "Estabelece a competencia do juiz de menores do Districto Federal para processar e julgar as infracções de leis e regulamentos de assistencia e protecção a menores, e dispõe sobre os exames a que devem ser submettidos os menores processados"
+    },
+    {
+      "senadoId": "540968",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-13-64",
+      "titulo": "Lei nº 64 de 13/06/1935",
+      "data": "1935-06-13",
+      "numero": "64",
+      "urn": "urn:lex:br:federal:lei:1935-06-13;64",
+      "ementa": "Declara feriado nacional o dia 14 de junho de 1935"
+    },
+    {
+      "senadoId": "540966",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-10-63",
+      "titulo": "Lei nº 63 de 10/06/1935",
+      "data": "1935-06-10",
+      "numero": "63",
+      "urn": "urn:lex:br:federal:lei:1935-06-10;63",
+      "ementa": "Fixa a data para a terminação do mandato do Prefeito do Districto Federal."
+    },
+    {
+      "senadoId": "540964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-05-62",
+      "titulo": "Lei nº 62 de 05/06/1935",
+      "data": "1935-06-05",
+      "numero": "62",
+      "urn": "urn:lex:br:federal:lei:1935-06-05;62",
+      "ementa": "Assegura ao empregado da industria ou do commercio uma indemnização quando não exista prazo estipulado para a terminação do respectivo contracto de trabalho e quando for despedido sem justa causa, e dá outras providencias"
+    },
+    {
+      "senadoId": "540961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-04-61",
+      "titulo": "Lei nº 61 de 04/06/1935",
+      "data": "1935-06-04",
+      "numero": "61",
+      "urn": "urn:lex:br:federal:lei:1935-06-04;61",
+      "ementa": "Estabelece normas para o provimento dos officios de tabellães, de notas"
+    },
+    {
+      "senadoId": "540959",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-06-03-60",
+      "titulo": "Lei nº 60 de 03/06/1935",
+      "data": "1935-06-03",
+      "numero": "60",
+      "urn": "urn:lex:br:federal:lei:1935-06-03;60",
+      "ementa": "Autoriza a adquirir os livros etc., que pertenceram a Coelho Netto."
+    },
+    {
+      "senadoId": "540956",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-29-59",
+      "titulo": "Lei nº 59 de 29/05/1935",
+      "data": "1935-05-29",
+      "numero": "59",
+      "urn": "urn:lex:br:federal:lei:1935-05-29;59",
+      "ementa": "Autoriza o Poder Executivo a fazer uma operação de credito destinada a melhorar as instalações, da Assistencia a Psychopathas"
+    },
+    {
+      "senadoId": "540946",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-24-56",
+      "titulo": "Lei nº 56 de 24/05/1935",
+      "data": "1935-05-24",
+      "numero": "56",
+      "urn": "urn:lex:br:federal:lei:1935-05-24;56",
+      "ementa": "Autoriza o Poder Executivo a abrir o credito especial de 310:000$000, para estudos perliminares da construcção da ponte internacional sobre o rio Uruguay"
+    },
+    {
+      "senadoId": "540950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-24-57",
+      "titulo": "Lei nº 57 de 24/05/1935",
+      "data": "1935-05-24",
+      "numero": "57",
+      "urn": "urn:lex:br:federal:lei:1935-05-24;57",
+      "ementa": "Abre, pelo Ministerio das Relações Exteriores, o credito especial de 10.400:000$000, para attender ás despesas a serem realizadas com a visita do Sr. Presidente da Republica ás Repúblicas do Uruguay e Argentina"
+    },
+    {
+      "senadoId": "540953",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-24-58",
+      "titulo": "Lei nº 58 de 24/05/1935",
+      "data": "1935-05-24",
+      "numero": "58",
+      "urn": "urn:lex:br:federal:lei:1935-05-24;58",
+      "ementa": "Autoriza a acquisição de obras de pintura e escultura deixadas pelo artista brasileiro Decio Villares"
+    },
+    {
+      "senadoId": "540944",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-23-55",
+      "titulo": "Lei nº 55 de 23/05/1935",
+      "data": "1935-05-23",
+      "numero": "55",
+      "urn": "urn:lex:br:federal:lei:1935-05-23;55",
+      "ementa": "Autoriza o Governo a confiar a uma associação civil a direcção e administração da. Secção Feminina do Instituto Sete de Setembro, e dá outras providencias"
+    },
+    {
+      "senadoId": "540938",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-18-53",
+      "titulo": "Lei nº 53 de 18/05/1935",
+      "data": "1935-05-18",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:lei:1935-05-18;53",
+      "ementa": "Autoriza o Poder Executivo a dispender os recursos constantes da verba 22 sub-consignação 1, do orçamento vigente do Ministério da Educação."
+    },
+    {
+      "senadoId": "540942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-18-54",
+      "titulo": "Lei nº 54 de 18/05/1935",
+      "data": "1935-05-18",
+      "numero": "54",
+      "urn": "urn:lex:br:federal:lei:1935-05-18;54",
+      "ementa": "Autoriza o Poder Executivo a despender até a quantia de 6.867:068$282, em suplementação da verba 9, consignação III, sub-consignação n. 10, art. 9º, da Lei n. 5, de 13 de novembro de 1934"
+    },
+    {
+      "senadoId": "540935",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-16-52",
+      "titulo": "Lei nº 52 de 16/05/1935",
+      "data": "1935-05-16",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:lei:1935-05-16;52",
+      "ementa": "Regula a escolha dos diretores de estabelecimentos componenetes de universidades."
+    },
+    {
+      "senadoId": "540932",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-14-51",
+      "titulo": "Lei nº 51 de 14/05/1935",
+      "data": "1935-05-14",
+      "numero": "51",
+      "urn": "urn:lex:br:federal:lei:1935-05-14;51",
+      "ementa": "Dispõe sobre reajustamento de vencimentos dos militares   ;"
+    },
+    {
+      "senadoId": "540930",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-13-50",
+      "titulo": "Lei nº 50 de 13/05/1935",
+      "data": "1935-05-13",
+      "numero": "50",
+      "urn": "urn:lex:br:federal:lei:1935-05-13;50",
+      "ementa": "Aplicação de dotação orçamentaria"
+    },
+    {
+      "senadoId": "540928",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-09-49",
+      "titulo": "Lei nº 49 de 09/05/1935",
+      "data": "1935-05-09",
+      "numero": "49",
+      "urn": "urn:lex:br:federal:lei:1935-05-09;49",
+      "ementa": "Prorroga, até 30 de setembro de 1936, o prazo para pagamento da segunda prestação estatuída no decreto n. 22.626, de 1933"
+    },
+    {
+      "senadoId": "540925",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-05-04-48",
+      "titulo": "Lei nº 48 de 04/05/1935",
+      "data": "1935-05-04",
+      "numero": "48",
+      "urn": "urn:lex:br:federal:lei:1935-05-04;48",
+      "ementa": "Modifica o Código Eleitoral."
+    },
+    {
+      "senadoId": "540921",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-29-47",
+      "titulo": "Lei nº 47 de 29/04/1935",
+      "data": "1935-04-29",
+      "numero": "47",
+      "urn": "urn:lex:br:federal:lei:1935-04-29;47",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministerio da Justiça e Negocios Interiores, o credito especial de 28:567$741, para pagamento de vencimentos ao funccionario da Secretaria da Camara dos Deputados Eloy Pontes"
+    },
+    {
+      "senadoId": "540919",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-27-46",
+      "titulo": "Lei nº 46 de 27/04/1935",
+      "data": "1935-04-27",
+      "numero": "46",
+      "urn": "urn:lex:br:federal:lei:1935-04-27;46",
+      "ementa": "Autoriza o augmento do número de vagas para admissão no Curso Prévio da Escola NavaI"
+    },
+    {
+      "senadoId": "540916",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-27-45",
+      "titulo": "Lei nº 45 de 27/04/1935",
+      "data": "1935-04-27",
+      "numero": "45",
+      "urn": "urn:lex:br:federal:lei:1935-04-27;45",
+      "ementa": "Reorganiza a Secretaria do Senado Federal"
+    },
+    {
+      "senadoId": "540912",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-25-44",
+      "titulo": "Lei nº 44 de 25/04/1935",
+      "data": "1935-04-25",
+      "numero": "44",
+      "urn": "urn:lex:br:federal:lei:1935-04-25;44",
+      "ementa": "Autoriza o Governo a adquirir a chacara encravada no predio onde está installada a Estação Experimental de Lages"
+    },
+    {
+      "senadoId": "540910",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-25-43",
+      "titulo": "Lei nº 43 de 25/04/1935",
+      "data": "1935-04-25",
+      "numero": "43",
+      "urn": "urn:lex:br:federal:lei:1935-04-25;43",
+      "ementa": "Autoriza a abertura, pelo Ministerio da Viação e Obras Publicas, do credito especial de 6:370$000, para pagamento a credores da Estrada de Ferro Central do Rio Grande do Norte"
+    },
+    {
+      "senadoId": "540906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-12-41",
+      "titulo": "Lei nº 41 de 12/04/1935",
+      "data": "1935-04-12",
+      "numero": "41",
+      "urn": "urn:lex:br:federal:lei:1935-04-12;41",
+      "ementa": "Autoriza o Governo a contractar o serviço de navegação nos rios Tocantins e   Araguaya"
+    },
+    {
+      "senadoId": "540902",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-10-40",
+      "titulo": "Lei nº 40 de 10/04/1935",
+      "data": "1935-04-10",
+      "numero": "40",
+      "urn": "urn:lex:br:federal:lei:1935-04-10;40",
+      "ementa": "Autoriza a abrir pelo Ministerio da Fazenda o credito especial de 12.818:686$189, para pagamento de gratificações addicionaes que deixaram de ser pagas em virtude dos decretos ns. 19.582 e 19.565, de 12 e 6 de janeiro de 1931"
+    },
+    {
+      "senadoId": "540895",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-04-04-38",
+      "titulo": "Lei nº 38 de 04/04/1935",
+      "data": "1935-04-04",
+      "numero": "38",
+      "urn": "urn:lex:br:federal:lei:1935-04-04;38",
+      "ementa": "Define crimes contra a ordem política e social."
+    },
+    {
+      "senadoId": "540892",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-03-30-37",
+      "titulo": "Lei nº 37 de 30/03/1935",
+      "data": "1935-03-30",
+      "numero": "37",
+      "urn": "urn:lex:br:federal:lei:1935-03-30;37",
+      "ementa": ";Autoriza o Poder Executivo a effectivar nos respectivos postos os segundos tenentes commissionados do Corpo de Fuzileiros Navaes, contando antiguidade de sua commissão para o effeito de promoção"
+    },
+    {
+      "senadoId": "540889",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-03-25-36",
+      "titulo": "Lei nº 36 de 25/03/1935",
+      "data": "1935-03-25",
+      "numero": "36",
+      "urn": "urn:lex:br:federal:lei:1935-03-25;36",
+      "ementa": "Manda adoptar, na Policia Militar e no Corpo de Bombeiros do Districto Federal, as promoções por antiguidade dos postos de major e de tenente-coronel, e dá outras providencias."
+    },
+    {
+      "senadoId": "540887",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-03-09-35",
+      "titulo": "Lei nº 35 de 09/03/1935",
+      "data": "1935-03-09",
+      "numero": "35",
+      "urn": "urn:lex:br:federal:lei:1935-03-09;35",
+      "ementa": "Rectifica verbas de despesa a cargo do Ministério da Viação e Obras Publicas, fixadas pela lei orçamentaria para o exercício de 1935"
+    },
+    {
+      "senadoId": "540883",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-28-34",
+      "titulo": "Lei nº 34 de 28/02/1935",
+      "data": "1935-02-28",
+      "numero": "34",
+      "urn": "urn:lex:br:federal:lei:1935-02-28;34",
+      "ementa": "Approva o termo de ajuste e de permuta e de immissão de posse firmado em 15 de dezembro de 1910 entre a E. F. Central do Brasil e \"The Leopoldina Railway Cia. Ltd\", referente à permuta do immovel à rua Senador Furtado n. 36, pertencente á Fazenda Nacional, pelo immovel situado à rua 24 de maio n. 95, antigo 41, e actualmente n. 139, de propriedade de \"The Leopoldina Railway C. Ltd.\", ambos no Districto Federal"
+    },
+    {
+      "senadoId": "540881",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-25-33",
+      "titulo": "Lei nº 33 de 25/02/1935",
+      "data": "1935-02-25",
+      "numero": "33",
+      "urn": "urn:lex:br:federal:lei:1935-02-25;33",
+      "ementa": "Dá nova denominação ao Serviço de Dermatologia e Syphli graphia da Directoria de Assistencia Hospitalar, e outras providencias."
+    },
+    {
+      "senadoId": "540879",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-23-32",
+      "titulo": "Lei nº 32 de 23/02/1935",
+      "data": "1935-02-23",
+      "numero": "32",
+      "urn": "urn:lex:br:federal:lei:1935-02-23;32",
+      "ementa": "Fixa a força naval para o exercicio de 1935, e dá outras providencias."
+    },
+    {
+      "senadoId": "540876",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-23-31",
+      "titulo": "Lei nº 31 de 23/02/1935",
+      "data": "1935-02-23",
+      "numero": "31",
+      "urn": "urn:lex:br:federal:lei:1935-02-23;31",
+      "ementa": "Revigora, com exclusão do seu paragrapho unico, o art. 3º do decreto nº 12.982, de 24 de abril de 1918, e revoga o decreto nº 16.739-A, de 31 de dezembro de 1924"
+    },
+    {
+      "senadoId": "540872",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-22-30",
+      "titulo": "Lei nº 30 de 22/02/1935",
+      "data": "1935-02-22",
+      "numero": "30",
+      "urn": "urn:lex:br:federal:lei:1935-02-22;30",
+      "ementa": "Autoriza a abrir, pelo Ministerio da Justiça e Negocios Interiores, o credito de 12:000$000 para occorrer ao pagamento da differença de vencimentos do procurador geral do Territorio do Acre."
+    },
+    {
+      "senadoId": "540870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-19-29",
+      "titulo": "Lei nº 29 de 19/02/1935",
+      "data": "1935-02-19",
+      "numero": "29",
+      "urn": "urn:lex:br:federal:lei:1935-02-19;29",
+      "ementa": "Dispõe sobre o funccionamento da Camara Municipal do Districto Federal até ser elaborada a respectiva lei organica e dá outras providencias."
+    },
+    {
+      "senadoId": "540865",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-15-27",
+      "titulo": "Lei nº 27 de 15/02/1935",
+      "data": "1935-02-15",
+      "numero": "27",
+      "urn": "urn:lex:br:federal:lei:1935-02-15;27",
+      "ementa": "Abre, pelo Ministerio da Justiça e Negocios Interiores, o credito especial de 59:432$600, para pagamento a funcionarios das Secretarias da Camara dos Deputados e Senado Federal"
+    },
+    {
+      "senadoId": "540868",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-15-28",
+      "titulo": "Lei nº 28 de 15/02/1935",
+      "data": "1935-02-15",
+      "numero": "28",
+      "urn": "urn:lex:br:federal:lei:1935-02-15;28",
+      "ementa": "Estabelece que os contratos para importação de mercadorias do estrangeiro, inclusive os celebrados pela administração pública, não se incluem nos dispositivos do Decreto nº 23.501, de 27 de novembro de 1933."
+    },
+    {
+      "senadoId": "540859",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-14-25",
+      "titulo": "Lei nº 25 de 14/02/1935",
+      "data": "1935-02-14",
+      "numero": "25",
+      "urn": "urn:lex:br:federal:lei:1935-02-14;25",
+      "ementa": "Autoriza o Poder Executivo a entrar em accôrdo com os herdeiros do ex-Imperador do Brasil, D. Pedro II. para acquisição da corôa imperial e dá outras providencias"
+    },
+    {
+      "senadoId": "540863",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-14-26",
+      "titulo": "Lei nº 26 de 14/02/1935",
+      "data": "1935-02-14",
+      "numero": "26",
+      "urn": "urn:lex:br:federal:lei:1935-02-14;26",
+      "ementa": "Autoriza a abertura, pelo Ministerio das Relações Exteriores do credito especial de 3.900:000$, para legalização das despesas feitas com a acquisição e reparação de um predio, em Washington, para a Embaixada do Brasil no Republica dos Estados Unidos da America do Norte."
+    },
+    {
+      "senadoId": "540856",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-13-24",
+      "titulo": "Lei nº 24 de 13/02/1935",
+      "data": "1935-02-13",
+      "numero": "24",
+      "urn": "urn:lex:br:federal:lei:1935-02-13;24",
+      "ementa": "Suspende, até 31 de dezembro de 1935, a execução da tabella de ajudas de custo a que se refere o decreto n. 17.451, de 6 de outubro de 1926, e dá outras providencias"
+    },
+    {
+      "senadoId": "540853",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-11-23",
+      "titulo": "Lei nº 23 de 11/02/1935",
+      "data": "1935-02-11",
+      "numero": "23",
+      "urn": "urn:lex:br:federal:lei:1935-02-11;23",
+      "ementa": "Revigora as disposições constantes do art. 1º e seus parágrafos, do Decreto nº 22.106, de 18 de novembro de 19321, e dá outras providências."
+    },
+    {
+      "senadoId": "540849",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-09-22",
+      "titulo": "Lei nº 22 de 09/02/1935",
+      "data": "1935-02-09",
+      "numero": "22",
+      "urn": "urn:lex:br:federal:lei:1935-02-09;22",
+      "ementa": "Autoriza a permuta do terreno onde existe o edificio do Ministerio da Viação e Obras Publicas, ora em demolição, com a Prefeitura do Distrito Federal"
+    },
+    {
+      "senadoId": "540846",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-06-21",
+      "titulo": "Lei nº 21 de 06/02/1935",
+      "data": "1935-02-06",
+      "numero": "21",
+      "urn": "urn:lex:br:federal:lei:1935-02-06;21",
+      "ementa": "Autoriza abrir, pelo Ministério da Viação e Obras Publicas, o credito especial de 3.00:000$000, para pagamento de despesas de conservação e reparação das estradas de rodagem Rio-Petropolis, Rio-São Paulo, Rio-Minas e Rio-Bahia"
+    },
+    {
+      "senadoId": "540842",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-05-20",
+      "titulo": "Lei nº 20 de 05/02/1935",
+      "data": "1935-02-05",
+      "numero": "20",
+      "urn": "urn:lex:br:federal:lei:1935-02-05;20",
+      "ementa": "Fica aberto, pelo Ministerio das Relações Exteriores, um credito especial de 2.700:000$000 para a legalização de despesas já feitas com a hospedagem de pessoas illustres"
+    },
+    {
+      "senadoId": "540839",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-02-19",
+      "titulo": "Lei nº 19 de 02/02/1935",
+      "data": "1935-02-02",
+      "numero": "19",
+      "urn": "urn:lex:br:federal:lei:1935-02-02;19",
+      "ementa": "Dispõe sobre a situação dos officiaes do Exercito nos cursos superiores"
+    },
+    {
+      "senadoId": "540836",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-01-17",
+      "titulo": "Lei nº 17 de 01/02/1935",
+      "data": "1935-02-01",
+      "numero": "17",
+      "urn": "urn:lex:br:federal:lei:1935-02-01;17",
+      "ementa": "Autoriza a abrir, pelo Ministerio da Viação e Obras Publicas, o credito especial de 1.300:000$000 para regularizar a despesa já feita com a acquisição de oleo combustivel para a Estrada de Ferro Central do Brasil"
+    },
+    {
+      "senadoId": "540834",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-02-01-16",
+      "titulo": "Lei nº 16 de 01/02/1935",
+      "data": "1935-02-01",
+      "numero": "16",
+      "urn": "urn:lex:br:federal:lei:1935-02-01;16",
+      "ementa": "Autoriza a abrir, pelo Ministerio da Viação e Obras Publicas, o credito especial de 1.900:000$000, para reajustar diarias do pessoal jornaleiro da Estrada de Ferro Central do Brasil."
+    },
+    {
+      "senadoId": "540828",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1935-01-29-14",
+      "titulo": "Lei nº 14 de 29/01/1935",
+      "data": "1935-01-29",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:lei:1935-01-29;14",
+      "ementa": "Modifica a legislação do ensino"
+    }
+  ],
+  "pendencias": []
+}

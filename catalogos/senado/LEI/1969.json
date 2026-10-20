@@ -1,0 +1,119 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1969",
+  "tipo": "LEI",
+  "ano": 1969,
+  "coletado_em": "2026-10-20T22:58:16.923Z",
+  "normas": [
+    {
+      "senadoId": "547445",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-12-17-5575",
+      "titulo": "Lei nº 5.575 de 17/12/1969",
+      "data": "1969-12-17",
+      "numero": "5575",
+      "urn": "urn:lex:br:federal:lei:1969-12-17;5575",
+      "ementa": "Reconhece de utilidade pública as unidades do \"Lions Clube\" e do Rotary Club do Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "547444",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-12-10-5574",
+      "titulo": "Lei nº 5.574 de 10/12/1969",
+      "data": "1969-12-10",
+      "numero": "5574",
+      "urn": "urn:lex:br:federal:lei:1969-12-10;5574",
+      "ementa": "Denomina Ginásio Agrícola \"Clemente Medrado\", o atual Ginásio Agrícola de Salinas, no Estado de Minas Gerais."
+    },
+    {
+      "senadoId": "547443",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-12-01-5573",
+      "titulo": "Lei nº 5.573 de 01/12/1969",
+      "data": "1969-12-01",
+      "numero": "5573",
+      "urn": "urn:lex:br:federal:lei:1969-12-01;5573",
+      "ementa": "Altera o artigo 407, do Decreto-lei nº 1004, de 21 de outubro de 1969, que dispõe sobre o Código Penal."
+    },
+    {
+      "senadoId": "547442",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-12-01-5572",
+      "titulo": "Lei nº 5.572 de 01/12/1969",
+      "data": "1969-12-01",
+      "numero": "5572",
+      "urn": "urn:lex:br:federal:lei:1969-12-01;5572",
+      "ementa": "Concede pensão especial ao ex-servidor Leopoldo Vieira Machado, da então Diretoria Regional dos Correios e Telégrafos em Vitória, Estado do Espírito Santo."
+    },
+    {
+      "senadoId": "547440",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-28-5570",
+      "titulo": "Lei nº 5.570 de 28/11/1969",
+      "data": "1969-11-28",
+      "numero": "5570",
+      "urn": "urn:lex:br:federal:lei:1969-11-28;5570",
+      "ementa": "Dispõe sôbre a adaptação dos Tribunais de Contas ao disposto no artigo 13, IX, e artigo 200, ambos da Constituição da República Federativa do Brasil."
+    },
+    {
+      "senadoId": "547441",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-28-5571",
+      "titulo": "Lei nº 5.571 de 28/11/1969",
+      "data": "1969-11-28",
+      "numero": "5571",
+      "urn": "urn:lex:br:federal:lei:1969-11-28;5571",
+      "ementa": "Denomina \"Dia da Independência\" a data de sete de setembro e traça normas para a sua comemoração."
+    },
+    {
+      "senadoId": "547437",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-25-5567",
+      "titulo": "Lei nº 5.567 de 25/11/1969",
+      "data": "1969-11-25",
+      "numero": "5567",
+      "urn": "urn:lex:br:federal:lei:1969-11-25;5567",
+      "ementa": "Dá nova redação ao \"caput\" do artigo 1º da Lei nº 94, de 16 de setembro de 1947, que permite aos Juízes da Fazenda Pública a requisição de processos administrativos para a extração de peças."
+    },
+    {
+      "senadoId": "547439",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-25-5569",
+      "titulo": "Lei nº 5.569 de 25/11/1969",
+      "data": "1969-11-25",
+      "numero": "5569",
+      "urn": "urn:lex:br:federal:lei:1969-11-25;5569",
+      "ementa": "Acrescenta dispositivos ao artigo 1º da Lei nº 4.729, de 14 de julho de 1965, que define o crime de sonegação fiscal, e dá outras providências."
+    },
+    {
+      "senadoId": "547438",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-25-5568",
+      "titulo": "Lei nº 5.568 de 25/11/1969",
+      "data": "1969-11-25",
+      "numero": "5568",
+      "urn": "urn:lex:br:federal:lei:1969-11-25;5568",
+      "ementa": "Dispõe sôbre a aplicação do Estatuto do Trabalhor Rural onde não funciona o Conselho Arbitral ."
+    },
+    {
+      "senadoId": "547436",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-19-5566",
+      "titulo": "Lei nº 5.566 de 19/11/1969",
+      "data": "1969-11-19",
+      "numero": "5566",
+      "urn": "urn:lex:br:federal:lei:1969-11-19;5566",
+      "ementa": "Assegura inscrição nos concursos de habilitação para ingresso nos cursos de ensino superior aos graduados em escolas normais."
+    },
+    {
+      "senadoId": "547435",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1969-11-05-5565",
+      "titulo": "Lei nº 5.565 de 05/11/1969",
+      "data": "1969-11-05",
+      "numero": "5565",
+      "urn": "urn:lex:br:federal:lei:1969-11-05;5565",
+      "ementa": "Altera os artigos 517, 520 e 523 do Código de Processo Civil."
+    }
+  ],
+  "pendencias": []
+}

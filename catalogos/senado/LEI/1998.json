@@ -1,0 +1,1789 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1998",
+  "tipo": "LEI",
+  "ano": 1998,
+  "coletado_em": "2026-10-20T22:56:57.695Z",
+  "normas": [
+    {
+      "senadoId": "551653",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-29-9777",
+      "titulo": "Lei nº 9.777 de 29/12/1998",
+      "data": "1998-12-29",
+      "numero": "9777",
+      "urn": "urn:lex:br:federal:lei:1998-12-29;9777",
+      "ementa": "Altera os arts. 132, 203 e 207 do Decreto-Lei nº 2.848, de 7 de setembro de 1940 - Código Penal."
+    },
+    {
+      "senadoId": "551652",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-23-9776",
+      "titulo": "Lei nº 9.776 de 23/12/1998",
+      "data": "1998-12-23",
+      "numero": "9776",
+      "urn": "urn:lex:br:federal:lei:1998-12-23;9776",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social, crédito suplementar até o limite de R$ 516.817.940,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9770",
+      "titulo": "Lei nº 9.770 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9770",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9770",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar até o limite de R$ 7.052.076.000,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551645",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9769",
+      "titulo": "Lei nº 9.769 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9769",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9769",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Gabinete do Ministro Extraordinário de Política Fundiária, crédito especial até o limite de R$ 122.880.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9772",
+      "titulo": "Lei nº 9.772 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9772",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9772",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais,   crédito especial até o limite de R$ 1.208.123.600,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "551647",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9771",
+      "titulo": "Lei nº 9.771 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9771",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9771",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais, crédito suplementar no valor de R$ 430.471.061,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551649",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9773",
+      "titulo": "Lei nº 9.773 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9773",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9773",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor de diversos Órgãos dos Poderes Judiciário e Executivo,   crédito suplementar no valor global de R$ 197.438.062,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "551650",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9774",
+      "titulo": "Lei nº 9.774 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9774",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9774",
+      "ementa": "Altera a Lei n. 7652, de 3 de fevereiro de 1988, que dispõe sobre o Registro da Propriedade Marítima."
+    },
+    {
+      "senadoId": "551644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9768",
+      "titulo": "Lei nº 9.768 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9768",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9768",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais, crédito especial até o limite de R$ 242.636.122,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551643",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9767",
+      "titulo": "Lei nº 9.767 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9767",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9767",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da empresa Centrais Elétricas do Sul do Brasil. S.A., crédito suplementar no valor de R$ 5.082.033,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551651",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-21-9775",
+      "titulo": "Lei nº 9.775 de 21/12/1998",
+      "data": "1998-12-21",
+      "numero": "9775",
+      "urn": "urn:lex:br:federal:lei:1998-12-21;9775",
+      "ementa": "Altera dispositivos da Lei n. 9620, de 2 de abril de 1998, e dá outras providências."
+    },
+    {
+      "senadoId": "551642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-18-9766",
+      "titulo": "Lei nº 9.766 de 18/12/1998",
+      "data": "1998-12-18",
+      "numero": "9766",
+      "urn": "urn:lex:br:federal:lei:1998-12-18;9766",
+      "ementa": "Altera a legislação que rege o salário-educação, e dá outras providências."
+    },
+    {
+      "senadoId": "551634",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9758",
+      "titulo": "Lei nº 9.758 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9758",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9758",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Presidência da República e do Ministério da Justiça, crédito especial, até o limite de R$ 2.075.900,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "551635",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9759",
+      "titulo": "Lei nº 9.759 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9759",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9759",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Justiça, crédito suplementar no valor de R$ 11.344.238,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551641",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9765",
+      "titulo": "Lei nº 9.765 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9765",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9765",
+      "ementa": "Institui taxa de Licenciamento, Controle e Fiscalização de Materiais Nucleares e Radioativos e suas Instalações."
+    },
+    {
+      "senadoId": "551639",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9763",
+      "titulo": "Lei nº 9.763 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9763",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9763",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais, crédito suplementar até o limite de R$ 6.411.544,00, e reduz o Orçamento de Investimento, de diversas empresas estatais, no valor de R$ 169.769.756,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9760",
+      "titulo": "Lei nº 9.760 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9760",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9760",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Educação e do Desporto, crédito especial até o limite de R$ 20.026.591,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551633",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9757",
+      "titulo": "Lei nº 9.757 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9757",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9757",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais federais, crédito especial até o limite de R$ 155.786.645,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551637",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9761",
+      "titulo": "Lei nº 9.761 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9761",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9761",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação e do Desporto, da Cultura e da Previdência e Assistência Social, crédito suplementar no valor global de R$ 366.519.877,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551638",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9762",
+      "titulo": "Lei nº 9.762 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9762",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9762",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, crédito suplementar no valor de R$ 185.598.653,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551632",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9756",
+      "titulo": "Lei nº 9.756 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9756",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9756",
+      "ementa": "Dispõe sobre o processamento de recursos no âmbito dos tribunais."
+    },
+    {
+      "senadoId": "551640",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-17-9764",
+      "titulo": "Lei nº 9.764 de 17/12/1998",
+      "data": "1998-12-17",
+      "numero": "9764",
+      "urn": "urn:lex:br:federal:lei:1998-12-17;9764",
+      "ementa": "Altera a redação do art. 190 do Decreto-Lei n. 1001, de 21 de outubro de 1969 - Código Penal Militar."
+    },
+    {
+      "senadoId": "551630",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9754",
+      "titulo": "Lei nº 9.754 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9754",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9754",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto, crédito especial até o limite de R$ 36.045.482,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551626",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9750",
+      "titulo": "Lei nº 9.750 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9750",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9750",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito especial até o limite de R$ 1.800.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551624",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9748",
+      "titulo": "Lei nº 9.748 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9748",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9748",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos Órgãos dos Poderes Legislativo e Executivo, crédito suplementar no valor global de R$ 370.799.399,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551627",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9751",
+      "titulo": "Lei nº 9.751 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9751",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9751",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério das Comunicações, crédito especial até o limite de R$ 1.480.370.363,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551623",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9747",
+      "titulo": "Lei nº 9.747 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9747",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9747",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 52.499.974,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551628",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9752",
+      "titulo": "Lei nº 9.752 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9752",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9752",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da Fazenda, crédito especial até o limite de R$ 2.100.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551629",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9753",
+      "titulo": "Lei nº 9.753 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9753",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9753",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Poder Judiciário, Ministério Público da União e Ministério dos Transportes, crédito especial até o limite de R$ 44.983.391,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551625",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9749",
+      "titulo": "Lei nº 9.749 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9749",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9749",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Planejamento e Orçamento, crédito especial até o limite de R$ 360.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551631",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-16-9755",
+      "titulo": "Lei nº 9.755 de 16/12/1998",
+      "data": "1998-12-16",
+      "numero": "9755",
+      "urn": "urn:lex:br:federal:lei:1998-12-16;9755",
+      "ementa": "Dispõe sobre a criação de homepage na Internet, pelo Tribunal de Contas da União, para divulgação dos dados e informações que especifica, e dá outras providências"
+    },
+    {
+      "senadoId": "551622",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-15-9746",
+      "titulo": "Lei nº 9.746 de 15/12/1998",
+      "data": "1998-12-15",
+      "numero": "9746",
+      "urn": "urn:lex:br:federal:lei:1998-12-15;9746",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, crédito extraordinário no valor de R$ 15.500.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551621",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-15-9745",
+      "titulo": "Lei nº 9.745 de 15/12/1998",
+      "data": "1998-12-15",
+      "numero": "9745",
+      "urn": "urn:lex:br:federal:lei:1998-12-15;9745",
+      "ementa": "Institui o Programa Emergencial de Frentes Produtivas e dá outras providências."
+    },
+    {
+      "senadoId": "551620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-15-9744",
+      "titulo": "Lei nº 9.744 de 15/12/1998",
+      "data": "1998-12-15",
+      "numero": "9744",
+      "urn": "urn:lex:br:federal:lei:1998-12-15;9744",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais do setor elétrico, crédito suplementar no valor de R$ 451.391.909,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551616",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9740",
+      "titulo": "Lei nº 9.740 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9740",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9740",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Planejamento e Orçamento, crédito suplementar no valor de   R$6.401.594,00, para reforço de dotações consignadas no vigente orçamento."
+    },
+    {
+      "senadoId": "551611",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9735",
+      "titulo": "Lei nº 9.735 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9735",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9735",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar até o limite de R$ 1.074.483.424,00, para reforço de dotação consignada no vogente orçamento."
+    },
+    {
+      "senadoId": "551614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9738",
+      "titulo": "Lei nº 9.738 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9738",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9738",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Caixa Econômica Federal (CEF) e da Cobra - Computadores e Sistemas Brasileiros S.A., crédito suplementar até o limite de R$ 469.874.679,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551617",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9741",
+      "titulo": "Lei nº 9.741 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9741",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9741",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Educação e do Desporto, crédito suplementar no valor de R$44.000.000,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "551610",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9734",
+      "titulo": "Lei nº 9.734 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9734",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9734",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito especial até o limite de R$ 69.674.175,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551618",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9742",
+      "titulo": "Lei nº 9.742 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9742",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9742",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor dos Ministérios da Educação e do Desporto e da Previdência e Assistência Social, crédito suplementar na valor global de R$43.182.907,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551615",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9739",
+      "titulo": "Lei nº 9.739 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9739",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9739",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério da Agricultura e do Abastecimento e do Ministério da Indústria, do Comércio e do Turismo, crédito suplementar até o limite de R$8.584.366,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551613",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9737",
+      "titulo": "Lei nº 9.737 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9737",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9737",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar até o limite de R$ 350.000.000,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551612",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9736",
+      "titulo": "Lei nº 9.736 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9736",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9736",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito suplementar até o limite de R$ 1.089.148,00, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551619",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9743",
+      "titulo": "Lei nº 9.743 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9743",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9743",
+      "ementa": "Abre ao Orçamento de Investimento, em favor do Banco do Brasil S.A., crédito especial até o limite de R$515.300,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551607",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9731",
+      "titulo": "Lei nº 9.731 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9731",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9731",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Presidência da República e do Ministério da Justiça, crédito suplementar no valor global de R$127.910.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551606",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9730",
+      "titulo": "Lei nº 9.730 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9730",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9730",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério da Marinha, crédito suplementar no valor de R$18.757.681,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551608",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9732",
+      "titulo": "Lei nº 9.732 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9732",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9732",
+      "ementa": "Altera dispositivos das Leis nºs 8.212 e 8.213, ambas de 24 de julho de 1991, da Lei nº 9.317, de 5 de dezembro de 1996, e dá outras providências."
+    },
+    {
+      "senadoId": "551609",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-11-9733",
+      "titulo": "Lei nº 9.733 de 11/12/1998",
+      "data": "1998-12-11",
+      "numero": "9733",
+      "urn": "urn:lex:br:federal:lei:1998-12-11;9733",
+      "ementa": "Abre ao Orçamento de Investimento, em favor de diversas empresas estatais, crédito suplementar até o limite de R$ 57.197.301,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551600",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-01-9724",
+      "titulo": "Lei nº 9.724 de 01/12/1998",
+      "data": "1998-12-01",
+      "numero": "9724",
+      "urn": "urn:lex:br:federal:lei:1998-12-01;9724",
+      "ementa": "Dispõe sobre a autonomia de gestão das Organizações Militares Prestadoras   de Serviços da Marinha e dá outras providências."
+    },
+    {
+      "senadoId": "551605",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-01-9729",
+      "titulo": "Lei nº 9.729 de 01/12/1998",
+      "data": "1998-12-01",
+      "numero": "9729",
+      "urn": "urn:lex:br:federal:lei:1998-12-01;9729",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, crédito   especial até o limite de R$ 450.000.000,00, em favor de Transferências a   Estados, Distrito Federal e Municípios - Recursos sob supervisão do Ministério   da Fazenda."
+    },
+    {
+      "senadoId": "551601",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-01-9725",
+      "titulo": "Lei nº 9.725 de 01/12/1998",
+      "data": "1998-12-01",
+      "numero": "9725",
+      "urn": "urn:lex:br:federal:lei:1998-12-01;9725",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal,   crédito suplementar no valor de R$ 2.747.479,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551602",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-01-9726",
+      "titulo": "Lei nº 9.726 de 01/12/1998",
+      "data": "1998-12-01",
+      "numero": "9726",
+      "urn": "urn:lex:br:federal:lei:1998-12-01;9726",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério dos Transportes, crédito especial até o limite de R$13.883.438,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "551604",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-01-9728",
+      "titulo": "Lei nº 9.728 de 01/12/1998",
+      "data": "1998-12-01",
+      "numero": "9728",
+      "urn": "urn:lex:br:federal:lei:1998-12-01;9728",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Previdência e Assistência Social, crédito   suplementar no valor de R$294.175.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551603",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-12-01-9727",
+      "titulo": "Lei nº 9.727 de 01/12/1998",
+      "data": "1998-12-01",
+      "numero": "9727",
+      "urn": "urn:lex:br:federal:lei:1998-12-01;9727",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério dos Transportes, crédito especial até o limite de R$6.464.000,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "551596",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-30-9720",
+      "titulo": "Lei nº 9.720 de 30/11/1998",
+      "data": "1998-11-30",
+      "numero": "9720",
+      "urn": "urn:lex:br:federal:lei:1998-11-30;9720",
+      "ementa": "Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993,   que dispõe sobre a organização da Assistência Social, e dá outras providências."
+    },
+    {
+      "senadoId": "551599",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-30-9723",
+      "titulo": "Lei nº 9.723 de 30/11/1998",
+      "data": "1998-11-30",
+      "numero": "9723",
+      "urn": "urn:lex:br:federal:lei:1998-11-30;9723",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos dos Poderes Legislativo, Judiciário, Executivo e do Ministério Público da União, crédito suplementar no valor global de R$ 1.788.418.958,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551598",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-30-9722",
+      "titulo": "Lei nº 9.722 de 30/11/1998",
+      "data": "1998-11-30",
+      "numero": "9722",
+      "urn": "urn:lex:br:federal:lei:1998-11-30;9722",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Agricultura e do Abastecimento, crédito suplementar no valor de   R$13.300.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551597",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-30-9721",
+      "titulo": "Lei nº 9.721 de 30/11/1998",
+      "data": "1998-11-30",
+      "numero": "9721",
+      "urn": "urn:lex:br:federal:lei:1998-11-30;9721",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Planejamento e Orçamento, crédito especial até   o limite de R$600.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551593",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-27-9717",
+      "titulo": "Lei nº 9.717 de 27/11/1998",
+      "data": "1998-11-27",
+      "numero": "9717",
+      "urn": "urn:lex:br:federal:lei:1998-11-27;9717",
+      "ementa": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "551595",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-27-9719",
+      "titulo": "Lei nº 9.719 de 27/11/1998",
+      "data": "1998-11-27",
+      "numero": "9719",
+      "urn": "urn:lex:br:federal:lei:1998-11-27;9719",
+      "ementa": "Dispõe sobre normas e condições gerais de proteção ao trabalho portuário, institui multas pela inobservância de seus preceitos, e dá outras providências."
+    },
+    {
+      "senadoId": "551594",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-27-9718",
+      "titulo": "Lei nº 9.718 de 27/11/1998",
+      "data": "1998-11-27",
+      "numero": "9718",
+      "urn": "urn:lex:br:federal:lei:1998-11-27;9718",
+      "ementa": "Altera a Legislação Tributária Federal."
+    },
+    {
+      "senadoId": "551592",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-26-9716",
+      "titulo": "Lei nº 9.716 de 26/11/1998",
+      "data": "1998-11-26",
+      "numero": "9716",
+      "urn": "urn:lex:br:federal:lei:1998-11-26;9716",
+      "ementa": "Dá nova redação aos arts. 1º, 2º, 3º e 4º do Decreto-Lei nº 1.578, de 11 de outubro de 1977, que dispõe sobre o imposto de exportação, e dá outras providências."
+    },
+    {
+      "senadoId": "551591",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-25-9715",
+      "titulo": "Lei nº 9.715 de 25/11/1998",
+      "data": "1998-11-25",
+      "numero": "9715",
+      "urn": "urn:lex:br:federal:lei:1998-11-25;9715",
+      "ementa": "Dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP, e dá outras providências."
+    },
+    {
+      "senadoId": "551589",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-25-9713",
+      "titulo": "Lei nº 9.713 de 25/11/1998",
+      "data": "1998-11-25",
+      "numero": "9713",
+      "urn": "urn:lex:br:federal:lei:1998-11-25;9713",
+      "ementa": "Altera dispositivo da Lei nº 6.450, de 14 de outubro de 1977, e dá outras providências."
+    },
+    {
+      "senadoId": "551590",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-25-9714",
+      "titulo": "Lei nº 9.714 de 25/11/1998",
+      "data": "1998-11-25",
+      "numero": "9714",
+      "urn": "urn:lex:br:federal:lei:1998-11-25;9714",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal."
+    },
+    {
+      "senadoId": "551587",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-20-9711",
+      "titulo": "Lei nº 9.711 de 20/11/1998",
+      "data": "1998-11-20",
+      "numero": "9711",
+      "urn": "urn:lex:br:federal:lei:1998-11-20;9711",
+      "ementa": "Dispõe sobre a recuperação de haveres do Tesouro Nacional e do Instituto Nacional do Seguro Social - INSS, a utilização de Títulos da Dívida Pública, de responsabilidade do Tesouro Nacional, na quitação de débitos com o INSS, altera dispositivos das Leis nºs 7.986, de 28 de dezembro de 1989, 8.036, de 11 de maio de 1990, 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, e 9.639, de 25 de maio de 1998, e dá outras providências."
+    },
+    {
+      "senadoId": "551588",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-20-9712",
+      "titulo": "Lei nº 9.712 de 20/11/1998",
+      "data": "1998-11-20",
+      "numero": "9712",
+      "urn": "urn:lex:br:federal:lei:1998-11-20;9712",
+      "ementa": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, acrescentando-lhe dispositivos referentes à defesa agropecuária."
+    },
+    {
+      "senadoId": "551586",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-19-9710",
+      "titulo": "Lei nº 9.710 de 19/11/1998",
+      "data": "1998-11-19",
+      "numero": "9710",
+      "urn": "urn:lex:br:federal:lei:1998-11-19;9710",
+      "ementa": "Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "551585",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-18-9709",
+      "titulo": "Lei nº 9.709 de 18/11/1998",
+      "data": "1998-11-18",
+      "numero": "9709",
+      "urn": "urn:lex:br:federal:lei:1998-11-18;9709",
+      "ementa": "Regulamenta a execução do disposto nos incisos I, II e III do art. 14 da Constituição Federal."
+    },
+    {
+      "senadoId": "551581",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-18-9705",
+      "titulo": "Lei nº 9.705 de 18/11/1998",
+      "data": "1998-11-18",
+      "numero": "9705",
+      "urn": "urn:lex:br:federal:lei:1998-11-18;9705",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Judiciário, crédito suplementar no valor global de R$ 15.235.589,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551583",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-18-9707",
+      "titulo": "Lei nº 9.707 de 18/11/1998",
+      "data": "1998-11-18",
+      "numero": "9707",
+      "urn": "urn:lex:br:federal:lei:1998-11-18;9707",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, crédito suplementar até o limite de R$237.475,00, em favor do Ministério do Planejamento e Orçamento, para reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551582",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-18-9706",
+      "titulo": "Lei nº 9.706 de 18/11/1998",
+      "data": "1998-11-18",
+      "numero": "9706",
+      "urn": "urn:lex:br:federal:lei:1998-11-18;9706",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor da Justiça do Trabalho, crédito especial até o limite de R$307.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551584",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-18-9708",
+      "titulo": "Lei nº 9.708 de 18/11/1998",
+      "data": "1998-11-18",
+      "numero": "9708",
+      "urn": "urn:lex:br:federal:lei:1998-11-18;9708",
+      "ementa": "Altera o art. 58 da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre Registros Públicos para possibilitar a substituição do prenome por apelidos públicos notórios."
+    },
+    {
+      "senadoId": "551578",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-17-9702",
+      "titulo": "Lei nº 9.702 de 17/11/1998",
+      "data": "1998-11-17",
+      "numero": "9702",
+      "urn": "urn:lex:br:federal:lei:1998-11-17;9702",
+      "ementa": "Dispõe sobre critérios especiais para alienação de imóveis de propriedade do Instituto Nacional do Seguro Social - INSS e dá outras providências."
+    },
+    {
+      "senadoId": "551577",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-17-9701",
+      "titulo": "Lei nº 9.701 de 17/11/1998",
+      "data": "1998-11-17",
+      "numero": "9701",
+      "urn": "urn:lex:br:federal:lei:1998-11-17;9701",
+      "ementa": "Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social - PIS devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "551579",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-17-9703",
+      "titulo": "Lei nº 9.703 de 17/11/1998",
+      "data": "1998-11-17",
+      "numero": "9703",
+      "urn": "urn:lex:br:federal:lei:1998-11-17;9703",
+      "ementa": "Dispõe sobre os depósitos judiciais e extrajudiciais de tributos e contribuições federais."
+    },
+    {
+      "senadoId": "551580",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-17-9704",
+      "titulo": "Lei nº 9.704 de 17/11/1998",
+      "data": "1998-11-17",
+      "numero": "9704",
+      "urn": "urn:lex:br:federal:lei:1998-11-17;9704",
+      "ementa": "Institui normas relativas ao exercício, pelo Advogado-Geral da União, de orientação normativa e de supervisão técnica sobre os órgãos jurídicos das autarquias federais e das fundações instituídas e mantidas pela União."
+    },
+    {
+      "senadoId": "551576",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-11-12-9700",
+      "titulo": "Lei nº 9.700 de 12/11/1998",
+      "data": "1998-11-12",
+      "numero": "9700",
+      "urn": "urn:lex:br:federal:lei:1998-11-12;9700",
+      "ementa": "Modifica dispositivo da Lei nº 9.491, de 9 de setembro de 1997, que   \"altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a   Lei nº 8.031, de 12 de abril de 1990, e dá outras providências\"."
+    },
+    {
+      "senadoId": "551575",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-09-08-9699",
+      "titulo": "Lei nº 9.699 de 08/09/1998",
+      "data": "1998-09-08",
+      "numero": "9699",
+      "urn": "urn:lex:br:federal:lei:1998-09-08;9699",
+      "ementa": "Altera a Lei nº 8.185, de 14 de maio de 1991, alterada pela Lei nº 8.407, de 10 de janeiro de 1992, que dispõe sobre a Organização Judiciária do Distrito Federal e Territórios e cria os Juizados Especiais Cíveis e Criminais."
+    },
+    {
+      "senadoId": "551574",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-09-02-9698",
+      "titulo": "Lei nº 9.698 de 02/09/1998",
+      "data": "1998-09-02",
+      "numero": "9698",
+      "urn": "urn:lex:br:federal:lei:1998-09-02;9698",
+      "ementa": "Dispõe sobre a criação de Juntas de Conciliação e Julgamento na 15ª Região da Justiça do Trabalho, define jurisdições e dá outras providências."
+    },
+    {
+      "senadoId": "551573",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-09-02-9697",
+      "titulo": "Lei nº 9.697 de 02/09/1998",
+      "data": "1998-09-02",
+      "numero": "9697",
+      "urn": "urn:lex:br:federal:lei:1998-09-02;9697",
+      "ementa": "Cria Juntas de Conciliação e Julgamento na 2ª Região da Justiça do Trabalho, define jurisdição e dá outras providências."
+    },
+    {
+      "senadoId": "551572",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-09-01-9696",
+      "titulo": "Lei nº 9.696 de 01/09/1998",
+      "data": "1998-09-01",
+      "numero": "9696",
+      "urn": "urn:lex:br:federal:lei:1998-09-01;9696",
+      "ementa": "Dispõe sobre a regulamentação da Profissão de Educação Física e cria os respectivos Conselho Federal e Conselhos Regionais de Educação Física."
+    },
+    {
+      "senadoId": "551571",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-08-20-9695",
+      "titulo": "Lei nº 9.695 de 20/08/1998",
+      "data": "1998-08-20",
+      "numero": "9695",
+      "urn": "urn:lex:br:federal:lei:1998-08-20;9695",
+      "ementa": "Acrescenta incisos ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, que dispõe sobre os crimes hediondos, e altera os arts. 2º, 5º e 10 da Lei nº 6.437, de 20 de agosto de 1977, e dá outras providências."
+    },
+    {
+      "senadoId": "551570",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-08-10-9694",
+      "titulo": "Lei nº 9.694 de 10/08/1998",
+      "data": "1998-08-10",
+      "numero": "9694",
+      "urn": "urn:lex:br:federal:lei:1998-08-10;9694",
+      "ementa": "Autoriza a promoção post mortem do Procurador da República Pedro Jorge de Melo e Silva."
+    },
+    {
+      "senadoId": "551568",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-27-9692",
+      "titulo": "Lei nº 9.692 de 27/07/1998",
+      "data": "1998-07-27",
+      "numero": "9692",
+      "urn": "urn:lex:br:federal:lei:1998-07-27;9692",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1999 e dá outras providências."
+    },
+    {
+      "senadoId": "551569",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-27-9693",
+      "titulo": "Lei nº 9.693 de 27/07/1998",
+      "data": "1998-07-27",
+      "numero": "9693",
+      "urn": "urn:lex:br:federal:lei:1998-07-27;9693",
+      "ementa": "Modifica a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos   Políticos), para tratar de punição ao partido político mediante suspensão de   cotas do Fundo Partidário."
+    },
+    {
+      "senadoId": "551567",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-22-9691",
+      "titulo": "Lei nº 9.691 de 22/07/1998",
+      "data": "1998-07-22",
+      "numero": "9691",
+      "urn": "urn:lex:br:federal:lei:1998-07-22;9691",
+      "ementa": "Altera a Tabela de Valores da Taxa de Fiscalização da Instalação por   Estação, objeto do ANEXO III da Lei nº 9.472, de 16 de julho de 1997, que dispõe   sobre a organização dos serviços de telecomunicações, a criação e o   funcionamento de um órgão regulador e outros aspectos institucionais, nos termos   da Emenda Constitucional nº 8, de 1995."
+    },
+    {
+      "senadoId": "551566",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-15-9690",
+      "titulo": "Lei nº 9.690 de 15/07/1998",
+      "data": "1998-07-15",
+      "numero": "9690",
+      "urn": "urn:lex:br:federal:lei:1998-07-15;9690",
+      "ementa": "Dispõe sobre a inclusão do Vale do Jequitinhonha do Estado de Minas Gerais   e de Municípios da região norte do Estado do Espírito Santo na área de atuação   da Superintendência do Desenvolvimento do Nordeste-SUDENE."
+    },
+    {
+      "senadoId": "551565",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-14-9689",
+      "titulo": "Lei nº 9.689 de 14/07/1998",
+      "data": "1998-07-14",
+      "numero": "9689",
+      "urn": "urn:lex:br:federal:lei:1998-07-14;9689",
+      "ementa": "Concede anistia de multas cominadas pelo Tribunal Superior do Trabalho a   entidades sindicais representativas dos empregados da Empresa Petróleo   Brasileiro S/A ;- PETROBRÁS, no período em que menciona."
+    },
+    {
+      "senadoId": "551562",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9686",
+      "titulo": "Lei nº 9.686 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9686",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9686",
+      "ementa": "Concede pensão especial a Elysiário Távora Filho."
+    },
+    {
+      "senadoId": "551557",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9681",
+      "titulo": "Lei nº 9.681 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9681",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9681",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   da Justiça Eleitoral, crédito suplementar no valor de R$65.000.000,00, para os   fins que especifica."
+    },
+    {
+      "senadoId": "551560",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9684",
+      "titulo": "Lei nº 9.684 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9684",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9684",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Fazenda, crédito suplementar no valor de R$2.351.646,00, para   reforço de dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551556",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9680",
+      "titulo": "Lei nº 9.680 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9680",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9680",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Planejamento e Orçamento, crédito suplementar até o limite de   R$400.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551564",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9688",
+      "titulo": "Lei nº 9.688 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9688",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9688",
+      "ementa": "Dispõe sobre a extinção dos cargos de Censor Federal e sobre o   enquadramento de seus atuais ocupantes e dá outras providências."
+    },
+    {
+      "senadoId": "551559",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9683",
+      "titulo": "Lei nº 9.683 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9683",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9683",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da   Fazenda, crédito especial até o limite de R$5.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "551563",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9687",
+      "titulo": "Lei nº 9.687 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9687",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9687",
+      "ementa": "Dispõe sobre a aplicação da Gratificação de Condição Especial de Trabalho   - GCET, criada pela Lei nº 9.442, de 14 de março de 1997, aos militares do   Distrito Federal."
+    },
+    {
+      "senadoId": "551558",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9682",
+      "titulo": "Lei nº 9.682 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9682",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9682",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Agricultura e do Abastecimento, crédito suplementar no valor de   R$24.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551555",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9679",
+      "titulo": "Lei nº 9.679 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9679",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9679",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor da Presidência da República, do Ministério da Marinha   e do Senado Federal, crédito suplementar no valor global de R$52.496.315,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "551561",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-06-9685",
+      "titulo": "Lei nº 9.685 de 06/07/1998",
+      "data": "1998-07-06",
+      "numero": "9685",
+      "urn": "urn:lex:br:federal:lei:1998-07-06;9685",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar até o limite de R$517.484.344,00, para reforço de   dotação consignada no vigente orçamento."
+    },
+    {
+      "senadoId": "551554",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-03-9678",
+      "titulo": "Lei nº 9.678 de 03/07/1998",
+      "data": "1998-07-03",
+      "numero": "9678",
+      "urn": "urn:lex:br:federal:lei:1998-07-03;9678",
+      "ementa": "Institui a Gratificação de Estímulo à Docência no Magistério Superior, e   dá outras providências."
+    },
+    {
+      "senadoId": "551553",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-07-02-9677",
+      "titulo": "Lei nº 9.677 de 02/07/1998",
+      "data": "1998-07-02",
+      "numero": "9677",
+      "urn": "urn:lex:br:federal:lei:1998-07-02;9677",
+      "ementa": "Altera dispositivos do Capítulo III do Título VIII do Código Penal, incluindo na classificação dos delitos considerados hediondos crimes contra a saúde pública, e dá outras providências."
+    },
+    {
+      "senadoId": "551552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-30-9676",
+      "titulo": "Lei nº 9.676 de 30/06/1998",
+      "data": "1998-06-30",
+      "numero": "9676",
+      "urn": "urn:lex:br:federal:lei:1998-06-30;9676",
+      "ementa": "Dispõe sobre a periodicidade de recolhimento das contribuições   previdenciárias arrecadadas pelo Instituto Nacional do Seguro Social ;-   INSS."
+    },
+    {
+      "senadoId": "551551",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-29-9675",
+      "titulo": "Lei nº 9.675 de 29/06/1998",
+      "data": "1998-06-29",
+      "numero": "9675",
+      "urn": "urn:lex:br:federal:lei:1998-06-29;9675",
+      "ementa": "Amplia, para o estrangeiro em situação ilegal no território nacional, o   prazo para requerer registro provisório."
+    },
+    {
+      "senadoId": "551550",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-25-9674",
+      "titulo": "Lei nº 9.674 de 25/06/1998",
+      "data": "1998-06-25",
+      "numero": "9674",
+      "urn": "urn:lex:br:federal:lei:1998-06-25;9674",
+      "ementa": "Dispõe sobre o exercício da profissão de Bibliotecário e determina outras   providências."
+    },
+    {
+      "senadoId": "551547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-24-9671",
+      "titulo": "Lei nº 9.671 de 24/06/1998",
+      "data": "1998-06-24",
+      "numero": "9671",
+      "urn": "urn:lex:br:federal:lei:1998-06-24;9671",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito especial até o limite de R$ 9.242.311,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "551549",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-24-9673",
+      "titulo": "Lei nº 9.673 de 24/06/1998",
+      "data": "1998-06-24",
+      "numero": "9673",
+      "urn": "urn:lex:br:federal:lei:1998-06-24;9673",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal,   crédito especial até o limite de R$ 9.869.046,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551546",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-24-9670",
+      "titulo": "Lei nº 9.670 de 24/06/1998",
+      "data": "1998-06-24",
+      "numero": "9670",
+      "urn": "urn:lex:br:federal:lei:1998-06-24;9670",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, crédito   suplementar no valor de R$ 20.032.740,00, em favor da Justiça Federal, para os   fins que especifica."
+    },
+    {
+      "senadoId": "551548",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-24-9672",
+      "titulo": "Lei nº 9.672 de 24/06/1998",
+      "data": "1998-06-24",
+      "numero": "9672",
+      "urn": "urn:lex:br:federal:lei:1998-06-24;9672",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério da Saúde, crédito suplementar no valor de R$   415.079.117,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551544",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-23-9668",
+      "titulo": "Lei nº 9.668 de 23/06/1998",
+      "data": "1998-06-23",
+      "numero": "9668",
+      "urn": "urn:lex:br:federal:lei:1998-06-23;9668",
+      "ementa": "Altera os arts. 17 e 18 da Lei nº 5.869, de 11 de janeiro de 1973, que   institui o Código de Processo Civil."
+    },
+    {
+      "senadoId": "551542",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-23-9666",
+      "titulo": "Lei nº 9.666 de 23/06/1998",
+      "data": "1998-06-23",
+      "numero": "9666",
+      "urn": "urn:lex:br:federal:lei:1998-06-23;9666",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Educação e do Desporto, crédito suplementar no valor de R$   61.945.635,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551545",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-23-9669",
+      "titulo": "Lei nº 9.669 de 23/06/1998",
+      "data": "1998-06-23",
+      "numero": "9669",
+      "urn": "urn:lex:br:federal:lei:1998-06-23;9669",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Indústria, do Comércio e do Turismo, crédito suplementar até o   limite de R$ 6.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551543",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-23-9667",
+      "titulo": "Lei nº 9.667 de 23/06/1998",
+      "data": "1998-06-23",
+      "numero": "9667",
+      "urn": "urn:lex:br:federal:lei:1998-06-23;9667",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Educação e do Desporto, crédito especial até o limite de R$   5.003.898,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551541",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-19-9665",
+      "titulo": "Lei nº 9.665 de 19/06/1998",
+      "data": "1998-06-19",
+      "numero": "9665",
+      "urn": "urn:lex:br:federal:lei:1998-06-19;9665",
+      "ementa": "Autoriza o Poder Executivo a conceder remissão parcial de créditos   externos, em consonância com parâmetros estabelecidos nas Atas de Entendimentos   originárias do chamado \"Clube de Paris\" ou em Memorandos de Entendimentos   decorrentes de negociações bilaterais, negociar títulos referentes a créditos   externos a valor de mercado e receber títulos da dívida do Brasil e de outros   países em pagamento e dá outras providências."
+    },
+    {
+      "senadoId": "551538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-19-9662",
+      "titulo": "Lei nº 9.662 de 19/06/1998",
+      "data": "1998-06-19",
+      "numero": "9662",
+      "urn": "urn:lex:br:federal:lei:1998-06-19;9662",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor do Ministério das Comunicações, crédito especial até o   limite de R$ 500.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-19-9664",
+      "titulo": "Lei nº 9.664 de 19/06/1998",
+      "data": "1998-06-19",
+      "numero": "9664",
+      "urn": "urn:lex:br:federal:lei:1998-06-19;9664",
+      "ementa": "Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 4ª   Região e dá outras providências."
+    },
+    {
+      "senadoId": "551539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-19-9663",
+      "titulo": "Lei nº 9.663 de 19/06/1998",
+      "data": "1998-06-19",
+      "numero": "9663",
+      "urn": "urn:lex:br:federal:lei:1998-06-19;9663",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor do Ministério da Educação e do Desporto, crédito   suplementar no valor de R$ 500.000.000,00, para reforço de dotações consignadas   no vigente orçamento."
+    },
+    {
+      "senadoId": "551536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-16-9660",
+      "titulo": "Lei nº 9.660 de 16/06/1998",
+      "data": "1998-06-16",
+      "numero": "9660",
+      "urn": "urn:lex:br:federal:lei:1998-06-16;9660",
+      "ementa": "Dispõe sobre a substituição gradual da frota oficial de veículos e dá outras providências."
+    },
+    {
+      "senadoId": "551537",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-16-9661",
+      "titulo": "Lei nº 9.661 de 16/06/1998",
+      "data": "1998-06-16",
+      "numero": "9661",
+      "urn": "urn:lex:br:federal:lei:1998-06-16;9661",
+      "ementa": "Denomina \"Aeroporto Internacional de Salvador - Deputado Luís Eduardo   Magalhães\" ao aeroporto da cidade de Salvador, Estado da Bahia."
+    },
+    {
+      "senadoId": "551535",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-09-9659",
+      "titulo": "Lei nº 9.659 de 09/06/1998",
+      "data": "1998-06-09",
+      "numero": "9659",
+      "urn": "urn:lex:br:federal:lei:1998-06-09;9659",
+      "ementa": "Dispõe sobre a criação de cargos efetivos de Agente Penitenciário na   Carreira Policial Civil do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "551534",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-05-9658",
+      "titulo": "Lei nº 9.658 de 05/06/1998",
+      "data": "1998-06-05",
+      "numero": "9658",
+      "urn": "urn:lex:br:federal:lei:1998-06-05;9658",
+      "ementa": "Dá nova redação ao art. 11 da Consolidação das Leis do Trabalho e   determina outras providências."
+    },
+    {
+      "senadoId": "551533",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-03-9657",
+      "titulo": "Lei nº 9.657 de 03/06/1998",
+      "data": "1998-06-03",
+      "numero": "9657",
+      "urn": "urn:lex:br:federal:lei:1998-06-03;9657",
+      "ementa": "Cria, no âmbito das Forças Armadas, a Carreira de Tecnologia Militar, a Gratificação de Desempenho de Atividade de Tecnologia Militar, os cargos que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "551532",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-03-9656",
+      "titulo": "Lei nº 9.656 de 03/06/1998",
+      "data": "1998-06-03",
+      "numero": "9656",
+      "urn": "urn:lex:br:federal:lei:1998-06-03;9656",
+      "ementa": "Dispõe sobre os planos e seguros privados de assistência à saúde."
+    },
+    {
+      "senadoId": "551530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-02-9654",
+      "titulo": "Lei nº 9.654 de 02/06/1998",
+      "data": "1998-06-02",
+      "numero": "9654",
+      "urn": "urn:lex:br:federal:lei:1998-06-02;9654",
+      "ementa": "Cria a carreira de Policial Rodoviário Federal e dá outras providências."
+    },
+    {
+      "senadoId": "551531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-06-02-9655",
+      "titulo": "Lei nº 9.655 de 02/06/1998",
+      "data": "1998-06-02",
+      "numero": "9655",
+      "urn": "urn:lex:br:federal:lei:1998-06-02;9655",
+      "ementa": "Altera o percentual de diferença entre a remuneração dos cargos de   Ministros do Superior Tribunal de Justiça e dos Juízes da Justiça Federal de   Primeiro e Segundo Graus."
+    },
+    {
+      "senadoId": "551528",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-27-9652",
+      "titulo": "Lei nº 9.652 de 27/05/1998",
+      "data": "1998-05-27",
+      "numero": "9652",
+      "urn": "urn:lex:br:federal:lei:1998-05-27;9652",
+      "ementa": "Abre ao Orçamento de Investimento, em favor das empresas Transportadora   Brasileira Gasoduto Bolívia - Brasil S.A. e Petrobrás Fertilizantes S.A.,   crédito especial até o limite de R$ 847.386.099,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551527",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-27-9651",
+      "titulo": "Lei nº 9.651 de 27/05/1998",
+      "data": "1998-05-27",
+      "numero": "9651",
+      "urn": "urn:lex:br:federal:lei:1998-05-27;9651",
+      "ementa": "Institui as Gratificações de Desempenho de Função Essencial à Justiça - GFJ, de Atividade de Informações Estratégicas - GDI, de Atividade Fundiária - GAF e Provisória - GP, e dá outras providências."
+    },
+    {
+      "senadoId": "551526",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-27-9650",
+      "titulo": "Lei nº 9.650 de 27/05/1998",
+      "data": "1998-05-27",
+      "numero": "9650",
+      "urn": "urn:lex:br:federal:lei:1998-05-27;9650",
+      "ementa": "Dispõe sobre o Plano de Carreira dos servidores do Banco Central do Brasil e dá outras providências."
+    },
+    {
+      "senadoId": "551525",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-27-9649",
+      "titulo": "Lei nº 9.649 de 27/05/1998",
+      "data": "1998-05-27",
+      "numero": "9649",
+      "urn": "urn:lex:br:federal:lei:1998-05-27;9649",
+      "ementa": "Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências."
+    },
+    {
+      "senadoId": "551524",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-27-9648",
+      "titulo": "Lei nº 9.648 de 27/05/1998",
+      "data": "1998-05-27",
+      "numero": "9648",
+      "urn": "urn:lex:br:federal:lei:1998-05-27;9648",
+      "ementa": "Altera dispositivos das Leis nº 3.890-A, de 25 de abril de 1961, nº 8.666, de 21 de junho de 1993, nº 8.987, de 13 de fevereiro de 1995, nº 9.074, de 7 de julho de 1995, nº 9.427, de 26 de dezembro de 1996, e autoriza o Poder Executivo a promover a reestruturação da Centrais Elétricas Brasileiras - ELETROBRÁS e de suas subsidiárias e dá outras providências."
+    },
+    {
+      "senadoId": "551529",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-27-9653",
+      "titulo": "Lei nº 9.653 de 27/05/1998",
+      "data": "1998-05-27",
+      "numero": "9653",
+      "urn": "urn:lex:br:federal:lei:1998-05-27;9653",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Operações Oficiais de Crédito - Recursos Sob Supervisão do Ministério da   Fazenda, crédito especial até o limite de R$ 847.495.130,00 para os fins que   especifica."
+    },
+    {
+      "senadoId": "551519",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-26-9643",
+      "titulo": "Lei nº 9.643 de 26/05/1998",
+      "data": "1998-05-26",
+      "numero": "9643",
+      "urn": "urn:lex:br:federal:lei:1998-05-26;9643",
+      "ementa": "Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados   partes e peças destinadas industrialização de bens de informática a serem   adquiridos pelo Tribunal Superior Eleitoral - TSE."
+    },
+    {
+      "senadoId": "551521",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-26-9645",
+      "titulo": "Lei nº 9.645 de 26/05/1998",
+      "data": "1998-05-26",
+      "numero": "9645",
+      "urn": "urn:lex:br:federal:lei:1998-05-26;9645",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Planejamento e Orçamento, crédito   extraordinário no valor de R$ 4.400.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551520",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-26-9644",
+      "titulo": "Lei nº 9.644 de 26/05/1998",
+      "data": "1998-05-26",
+      "numero": "9644",
+      "urn": "urn:lex:br:federal:lei:1998-05-26;9644",
+      "ementa": "Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em   favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras   providências."
+    },
+    {
+      "senadoId": "551522",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-26-9646",
+      "titulo": "Lei nº 9.646 de 26/05/1998",
+      "data": "1998-05-26",
+      "numero": "9646",
+      "urn": "urn:lex:br:federal:lei:1998-05-26;9646",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da   União, em favor do Ministério do Planejamento e Orçamento, crédito   extraordinário no valor de R$ 2.500.000,00 para os fins que   especifica."
+    },
+    {
+      "senadoId": "551523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-26-9647",
+      "titulo": "Lei nº 9.647 de 26/05/1998",
+      "data": "1998-05-26",
+      "numero": "9647",
+      "urn": "urn:lex:br:federal:lei:1998-05-26;9647",
+      "ementa": "Cria a Gratificação de Desempenho de Atividade de Ciência e Tecnologia -   GDCT para os ocupantes dos cargos efetivos de nível intermediário da carreira de   Gestão, Planejamento e Infra-Estrutura, Ciência e Tecnologia."
+    },
+    {
+      "senadoId": "551517",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-25-9641",
+      "titulo": "Lei nº 9.641 de 25/05/1998",
+      "data": "1998-05-25",
+      "numero": "9641",
+      "urn": "urn:lex:br:federal:lei:1998-05-25;9641",
+      "ementa": "Cria a Gratificação de Desempenho de Atividade de Fiscalização - GDAF, a Gratificação de Desempenho de Atividade de Proteção ao Vôo - GDACTA, e dá outras providências."
+    },
+    {
+      "senadoId": "551518",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-25-9642",
+      "titulo": "Lei nº 9.642 de 25/05/1998",
+      "data": "1998-05-25",
+      "numero": "9642",
+      "urn": "urn:lex:br:federal:lei:1998-05-25;9642",
+      "ementa": "Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 1ª   Região, e dá outras providências."
+    },
+    {
+      "senadoId": "551516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-25-9640",
+      "titulo": "Lei nº 9.640 de 25/05/1998",
+      "data": "1998-05-25",
+      "numero": "9640",
+      "urn": "urn:lex:br:federal:lei:1998-05-25;9640",
+      "ementa": "Dispõe sobre o número de Cargos de Direção e Funções Gratificadas das   Instituições Federais de Ensino Superior, dos Centros Federais de Educação   Tecnológica, das Escolas Agrotécnicas Federais, das Escolas Técnicas Federais,   das Instituições Federais de Ensino Militar, e dá outras   providências."
+    },
+    {
+      "senadoId": "551515",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-25-9639",
+      "titulo": "Lei nº 9.639 de 25/05/1998",
+      "data": "1998-05-25",
+      "numero": "9639",
+      "urn": "urn:lex:br:federal:lei:1998-05-25;9639",
+      "ementa": "Dispõe sobre amortização e parcelamento de dívidas oriundas de contribuições sociais e outras importâncias devidas ao Instituto Nacional do Seguro Social ;- INSS, altera dispositivos das Leis nºs 8.212 e 8.213, ambas de 24 de julho de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "551514",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-20-9638",
+      "titulo": "Lei nº 9.638 de 20/05/1998",
+      "data": "1998-05-20",
+      "numero": "9638",
+      "urn": "urn:lex:br:federal:lei:1998-05-20;9638",
+      "ementa": "Cria a Gratificação de Desempenho de Atividade de Ciência e Tecnologia -   GDCT, e dá outras providências."
+    },
+    {
+      "senadoId": "551510",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-15-9634",
+      "titulo": "Lei nº 9.634 de 15/05/1998",
+      "data": "1998-05-15",
+      "numero": "9634",
+      "urn": "urn:lex:br:federal:lei:1998-05-15;9634",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da   Fazenda, crédito suplementar até o limite de R$ 45.305.756,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "551512",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-15-9636",
+      "titulo": "Lei nº 9.636 de 15/05/1998",
+      "data": "1998-05-15",
+      "numero": "9636",
+      "urn": "urn:lex:br:federal:lei:1998-05-15;9636",
+      "ementa": "Dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União, altera dispositivos dos Decretos-Leis nºs 9.760, de 5 de setembro de 1946, e 2.398, de 21 de dezembro de 1987, regulamenta o § 2º do art. 49 do Ato das Disposições Constitucionais Transitórias, e dá outras providências."
+    },
+    {
+      "senadoId": "551513",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-15-9637",
+      "titulo": "Lei nº 9.637 de 15/05/1998",
+      "data": "1998-05-15",
+      "numero": "9637",
+      "urn": "urn:lex:br:federal:lei:1998-05-15;9637",
+      "ementa": "Dispõe sobre a qualificação de entidades como organizações sociais, a criação do Programa Nacional de Publicização, a extinção dos órgãos e entidades que menciona e a absorção de suas atividades por organizações sociais, e dá outras providências."
+    },
+    {
+      "senadoId": "551511",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-15-9635",
+      "titulo": "Lei nº 9.635 de 15/05/1998",
+      "data": "1998-05-15",
+      "numero": "9635",
+      "urn": "urn:lex:br:federal:lei:1998-05-15;9635",
+      "ementa": "Altera procedimentos relativos ao Programa Nacional de Desestatização de   que trata a Lei nº 9.491, de 9 de setembro de 1997, e dá outras providências."
+    },
+    {
+      "senadoId": "551509",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-12-9633",
+      "titulo": "Lei nº 9.633 de 12/05/1998",
+      "data": "1998-05-12",
+      "numero": "9633",
+      "urn": "urn:lex:br:federal:lei:1998-05-12;9633",
+      "ementa": "Altera o Anexo III da Lei nº 9.442, de 14 de março de 1997, que dispõe   sobre a tabela de cálculo da Gratificação de Condição Especial de Trabalho -   GCET."
+    },
+    {
+      "senadoId": "551508",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-05-07-9632",
+      "titulo": "Lei nº 9.632 de 07/05/1998",
+      "data": "1998-05-07",
+      "numero": "9632",
+      "urn": "urn:lex:br:federal:lei:1998-05-07;9632",
+      "ementa": "Dispõe sobre a extinção de cargos no âmbito da Administração Pública   Federal direta, autárquica e fundacional, e dá outras providências."
+    },
+    {
+      "senadoId": "551507",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-28-9631",
+      "titulo": "Lei nº 9.631 de 28/04/1998",
+      "data": "1998-04-28",
+      "numero": "9631",
+      "urn": "urn:lex:br:federal:lei:1998-04-28;9631",
+      "ementa": "Transforma cargo em comissão do Grupo-Direção e Assessoramento Superiores   - DAS - Secretaria do Tribunal Superior Eleitoral."
+    },
+    {
+      "senadoId": "551506",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-23-9630",
+      "titulo": "Lei nº 9.630 de 23/04/1998",
+      "data": "1998-04-23",
+      "numero": "9630",
+      "urn": "urn:lex:br:federal:lei:1998-04-23;9630",
+      "ementa": "Dispõe sobre as alíquotas de contribuição para o Plano de Seguridade   Social do servidor público civil ativo e inativo dos Poderes da União, das   autarquias e das fundações públicas, e dá outras providências."
+    },
+    {
+      "senadoId": "551505",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-22-9629",
+      "titulo": "Lei nº 9.629 de 22/04/1998",
+      "data": "1998-04-22",
+      "numero": "9629",
+      "urn": "urn:lex:br:federal:lei:1998-04-22;9629",
+      "ementa": "Transforma cargo em comissão do Grupo-Direção e Assessoramento Superiores   - DAS na Secretaria do Tribunal Superior Eleitoral."
+    },
+    {
+      "senadoId": "551504",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-14-9628",
+      "titulo": "Lei nº 9.628 de 14/04/1998",
+      "data": "1998-04-14",
+      "numero": "9628",
+      "urn": "urn:lex:br:federal:lei:1998-04-14;9628",
+      "ementa": "Dispõe sobre a criação da Escola Superior do Ministério Público da União e dá outras providências."
+    },
+    {
+      "senadoId": "551503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-13-9627",
+      "titulo": "Lei nº 9.627 de 13/04/1998",
+      "data": "1998-04-13",
+      "numero": "9627",
+      "urn": "urn:lex:br:federal:lei:1998-04-13;9627",
+      "ementa": "Altera dispositivos da Lei nº 9.473, de 22 de julho de 1997, que dispõe   sobre as diretrizes para a elaboração da lei orçamentária de 1998 e dá outras   providências."
+    },
+    {
+      "senadoId": "551502",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-08-9626",
+      "titulo": "Lei nº 9.626 de 08/04/1998",
+      "data": "1998-04-08",
+      "numero": "9626",
+      "urn": "urn:lex:br:federal:lei:1998-04-08;9626",
+      "ementa": "Dispõe e sobre a inclusão no rito processual da Lei nº 8.029, de 12 de   abril de 1990, das liquidações do Banco de Roraima S.A. - BANRORAIMA e da   Companhia Usinas Nacionais - CUN, e dá outras providências"
+    },
+    {
+      "senadoId": "551501",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-07-9625",
+      "titulo": "Lei nº 9.625 de 07/04/1998",
+      "data": "1998-04-07",
+      "numero": "9625",
+      "urn": "urn:lex:br:federal:lei:1998-04-07;9625",
+      "ementa": "Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, de Desempenho Diplomático - GDD, de Desempenho de Atividade de Chancelaria - GDC e de Desempenho de Atividade de Ciência e Tecnologia - GDCT, e dá outras providências."
+    },
+    {
+      "senadoId": "551499",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9623",
+      "titulo": "Lei nº 9.623 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9623",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9623",
+      "ementa": "Abre ao Orçamento de Investimento, em favor da Companhia Hidroelétrica do   São Francisco - CHESF, crédito suplementar até o limite de R$126.700.000,00,   para os fins que especifica."
+    },
+    {
+      "senadoId": "551497",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9621",
+      "titulo": "Lei nº 9.621 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9621",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9621",
+      "ementa": "Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade   Social da União, em favor do Ministério de Minas e Energia, crédito suplementar   no valor de R$64.784.121,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551493",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9617",
+      "titulo": "Lei nº 9.617 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9617",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9617",
+      "ementa": "Extingue a Companhia de Navegação Lloyd Brasileiros - LLOYDBRAS e dá   outras providências."
+    },
+    {
+      "senadoId": "551495",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9619",
+      "titulo": "Lei nº 9.619 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9619",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9619",
+      "ementa": "Autoriza a Centrais Elétricas Brasileiras S.A - ELETROBRÁS e a União adquirirem ações da Companhia Energética de Alagoas CEAL, da Companhia Energética do Piauí CEPISA, da Centrais Elétricas de Rondônia S.A. - CERON e da Companhia de Eletricidade do Acre - ELETROACRE, para efeito de inclusão dessas empresas no Programa Nacional de Desestatização - PND, bem como o aumento do capital social das Companhias Docas do Rio de Janeiro - CDRJ e Docas do Estado de São Paulo - CODESP, e dá outras providências."
+    },
+    {
+      "senadoId": "551494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9618",
+      "titulo": "Lei nº 9.618 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9618",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9618",
+      "ementa": "Dispõe sobre a extinção dos órgãos que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "551500",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9624",
+      "titulo": "Lei nº 9.624 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9624",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9624",
+      "ementa": "Altera dispositivos da Lei nº 8.911, de 11 de julho de 1994, e dá outras providências."
+    },
+    {
+      "senadoId": "551498",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9622",
+      "titulo": "Lei nº 9.622 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9622",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9622",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério de Minas e Energia, crédito especial até o limite de   R$58.905.272,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "551496",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-02-9620",
+      "titulo": "Lei nº 9.620 de 02/04/1998",
+      "data": "1998-04-02",
+      "numero": "9620",
+      "urn": "urn:lex:br:federal:lei:1998-04-02;9620",
+      "ementa": "Cria carreiras no âmbito do Poder Executivo Federal, cria as Gratificações de Desempenho e Eficiência - GDE e de Desempenho de Atividade de Defesa Agropecuária - GDA e dá outras providências."
+    },
+    {
+      "senadoId": "551492",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-04-01-9616",
+      "titulo": "Lei nº 9.616 de 01/04/1998",
+      "data": "1998-04-01",
+      "numero": "9616",
+      "urn": "urn:lex:br:federal:lei:1998-04-01;9616",
+      "ementa": "Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor   do Ministério da Justiça, crédito suplementar no valor de R$54.926.158,00, para   os fins que especifica."
+    },
+    {
+      "senadoId": "551491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-03-24-9615",
+      "titulo": "Lei nº 9.615 de 24/03/1998",
+      "data": "1998-03-24",
+      "numero": "9615",
+      "urn": "urn:lex:br:federal:lei:1998-03-24;9615",
+      "ementa": "Institui normas gerais sobre desporto e dá outras providências."
+    },
+    {
+      "senadoId": "551490",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-03-05-9614",
+      "titulo": "Lei nº 9.614 de 05/03/1998",
+      "data": "1998-03-05",
+      "numero": "9614",
+      "urn": "urn:lex:br:federal:lei:1998-03-05;9614",
+      "ementa": "Altera a Lei n. 7565, de 19 de dezembro de 1986, para incluir hipótese de destruição de aeronave."
+    },
+    {
+      "senadoId": "551489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-03-03-9613",
+      "titulo": "Lei nº 9.613 de 03/03/1998",
+      "data": "1998-03-03",
+      "numero": "9613",
+      "urn": "urn:lex:br:federal:lei:1998-03-03;9613",
+      "ementa": "Dispõe sobre os crimes de \"lavagem\" ou ocultação de bens, direitos e valores; a prevenção da utilização do sistema financeiro para os ilícitos previstos nesta Lei; cria o Conselho de Controle de Atividades Financeiras - COAF, e dá outras providências"
+    },
+    {
+      "senadoId": "551487",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-19-9611",
+      "titulo": "Lei nº 9.611 de 19/02/1998",
+      "data": "1998-02-19",
+      "numero": "9611",
+      "urn": "urn:lex:br:federal:lei:1998-02-19;9611",
+      "ementa": "Dispõe sobre o Transporte Multimodal de Cargas e dá outras providências."
+    },
+    {
+      "senadoId": "551488",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-19-9612",
+      "titulo": "Lei nº 9.612 de 19/02/1998",
+      "data": "1998-02-19",
+      "numero": "9612",
+      "urn": "urn:lex:br:federal:lei:1998-02-19;9612",
+      "ementa": "Institui o Serviço de Radiodifusão Comunitária e dá outras providências."
+    },
+    {
+      "senadoId": "551485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-19-9609",
+      "titulo": "Lei nº 9.609 de 19/02/1998",
+      "data": "1998-02-19",
+      "numero": "9609",
+      "urn": "urn:lex:br:federal:lei:1998-02-19;9609",
+      "ementa": "Dispõe sobre a proteção da propriedade intelectual de programa de computador, sua comercialização no País, e dá outras providências."
+    },
+    {
+      "senadoId": "551486",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-19-9610",
+      "titulo": "Lei nº 9.610 de 19/02/1998",
+      "data": "1998-02-19",
+      "numero": "9610",
+      "urn": "urn:lex:br:federal:lei:1998-02-19;9610",
+      "ementa": "Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências."
+    },
+    {
+      "senadoId": "551483",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-18-9607",
+      "titulo": "Lei nº 9.607 de 18/02/1998",
+      "data": "1998-02-18",
+      "numero": "9607",
+      "urn": "urn:lex:br:federal:lei:1998-02-18;9607",
+      "ementa": "Cria, transforma e extingue cargos e funções no Quadro de Pessoal da   Secretaria do Supremo Tribunal Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "551484",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-18-9608",
+      "titulo": "Lei nº 9.608 de 18/02/1998",
+      "data": "1998-02-18",
+      "numero": "9608",
+      "urn": "urn:lex:br:federal:lei:1998-02-18;9608",
+      "ementa": "Dispõe sobre o serviço voluntário e dá outras providências."
+    },
+    {
+      "senadoId": "551482",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-16-9606",
+      "titulo": "Lei nº 9.606 de 16/02/1998",
+      "data": "1998-02-16",
+      "numero": "9606",
+      "urn": "urn:lex:br:federal:lei:1998-02-16;9606",
+      "ementa": "Dispõe sobre a criação e extinção de cargos no Instituto Nacional de   Metrologia, Normalização e Qualidade Industrial e no Instituto Nacional da   Propriedade Industrial."
+    },
+    {
+      "senadoId": "551481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-12-9605",
+      "titulo": "Lei nº 9.605 de 12/02/1998",
+      "data": "1998-02-12",
+      "numero": "9605",
+      "urn": "urn:lex:br:federal:lei:1998-02-12;9605",
+      "ementa": "Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências."
+    },
+    {
+      "senadoId": "551480",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-02-05-9604",
+      "titulo": "Lei nº 9.604 de 05/02/1998",
+      "data": "1998-02-05",
+      "numero": "9604",
+      "urn": "urn:lex:br:federal:lei:1998-02-05;9604",
+      "ementa": "Dispõe sobre a prestação de contas de aplicação de recursos a que se refere a Lei nº 8.742, de 7 de dezembro de 1993, e dá outras providências."
+    },
+    {
+      "senadoId": "551479",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-01-22-9603",
+      "titulo": "Lei nº 9.603 de 22/01/1998",
+      "data": "1998-01-22",
+      "numero": "9603",
+      "urn": "urn:lex:br:federal:lei:1998-01-22;9603",
+      "ementa": "Autoriza o Ministério dos Transportes, por intermédio da Companhia   Brasileira de Trens Urbanos - CBTU, a repassar à Companhia Cearense de   Transportes Metropolitanos - METROFOR recursos para pagamento de pessoal."
+    },
+    {
+      "senadoId": "551477",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-01-21-9601",
+      "titulo": "Lei nº 9.601 de 21/01/1998",
+      "data": "1998-01-21",
+      "numero": "9601",
+      "urn": "urn:lex:br:federal:lei:1998-01-21;9601",
+      "ementa": "Dispõe sobre o contrato de trabalho por prazo determinado e dá outras providências."
+    },
+    {
+      "senadoId": "551478",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-01-21-9602",
+      "titulo": "Lei nº 9.602 de 21/01/1998",
+      "data": "1998-01-21",
+      "numero": "9602",
+      "urn": "urn:lex:br:federal:lei:1998-01-21;9602",
+      "ementa": "Dispõe sobre legislação de trânsito e dá outras providências."
+    },
+    {
+      "senadoId": "551476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1998-01-19-9600",
+      "titulo": "Lei nº 9.600 de 19/01/1998",
+      "data": "1998-01-19",
+      "numero": "9600",
+      "urn": "urn:lex:br:federal:lei:1998-01-19;9600",
+      "ementa": "Autoriza o Ministério dos Transportes, por intermédio da Companhia   Brasileira de Trens Urbanos - CBTU, a repassar à Companhia de Trens   Metropolitanos de Pernambuco COPERTRENS recursos para pagamento de pessoal."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2026-07-30-15480",
+  "titulo": "Lei nº 15.480 de 30/07/2026",
+  "data": "2026-07-30",
+  "fonte": "https://normas.leg.br/api/public/binario/82571fa4-cc61-4ada-ac00-712942f30ebc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2026-07-30;15480",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2026-07-30%3B15480&tipo_documento=maior-detalhe",
+  "sha256_dados": "121466c159b480eb36bd748fcea05b3059c61b9708dd0172ce053cd770358556",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T22:57:10.087Z",
+  "sha256_fonte": "630f4a5125462f007096cee8031c21060489f8750bbe37f4abe9709a8fdec451",
+  "sha256_markdown": "b0738ff0f84a98fdab8e31026876aa146d8e76298c2de720ce293f03e2c180ca"
+}
