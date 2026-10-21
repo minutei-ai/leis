@@ -1,18 +1,3 @@
----
-id: "br-federal-medida-provisoria-2026-10-09-1396"
-titulo: "Medida Provisória nº 1.396 de 09/10/2026"
-data: "2026-10-09"
-fonte: "https://normas.leg.br/api/public/binario/cda2e8f2-d9bc-4e51-9df1-179eb798b176/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:medida.provisoria:2026-10-09;1396"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Amedida.provisoria%3A2026-10-09%3B1396&tipo_documento=maior-detalhe"
-sha256_dados: "ccca98668a64ca42682fa477b9d551a2f5ed3554af2193f3b2125fd4121e3caf"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-21T09:12:21.039Z"
-sha256_fonte: "65e5466e0285da30415ad8bb5c6d8c8b80eed495cf5abeda96f2b37a58f8a7b1"
-sha256_markdown: "493bd3fbc06960ccf33b1e9fffa7526bdee236363b78e8a8fb4b2c119f7ecffe"
----
-
 # Medida Provisória nº 1.396 de 09/10/2026
 
 MEDIDA PROVISÓRIA Nº 1.396, DE 9 DE OUTUBRO DE 2026

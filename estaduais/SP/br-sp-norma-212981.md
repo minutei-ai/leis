@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212981"
-titulo: "Decreto nº 70.878, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70878-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212981"
-sha256_dados: "f016461612c56489f6e39d6b09fecb44eb5968d55d119bd092ddbfdb8261f5f1"
-coletado_em: "2026-10-21T08:36:14.494Z"
-sha256_fonte: "231ae25b693f5dc5f9814a214f98d76feafa8efb6ed352d8abbaacd6a84ee170"
-sha256_markdown: "00855b527feb5adb7561eb5d2edd476267e1f12c0cabba3603f94c7e140d12ed"
----
-
 # Decreto nº 70.878, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212981)<br>

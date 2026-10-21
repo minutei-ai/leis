@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212974"
-titulo: "Decreto nº 70.871, de 14/09/2026"
-data: "2026-09-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70871-14.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212974"
-sha256_dados: "9bcb5293cf265f3b736e5cdb677cfa6a302576023f8c4692f669ab25efc01828"
-coletado_em: "2026-10-21T08:36:23.213Z"
-sha256_fonte: "b16c390d9e52f6942a3c6a9613bb63609131b0666f33811bbdf56645eb33a5da"
-sha256_markdown: "45ef82ca235e225541e069dd408b28b89a8c82b5a6787cecb14801fe032df3fb"
----
-
 # Decreto nº 70.871, de 14/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212974)<br>

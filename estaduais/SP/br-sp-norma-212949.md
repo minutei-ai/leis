@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212949"
-titulo: "Decreto nº 70.846, de 03/09/2026"
-data: "2026-09-03"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70846-03.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212949"
-sha256_dados: "12606c8d3f80003d832953961aef10958701238ab7514a185b861f00b1a3472b"
-coletado_em: "2026-10-21T08:36:54.230Z"
-sha256_fonte: "8dc79cca2bbc8ac6554dff1a9baad46e008747a25cb85459120db98a5e0b1d3e"
-sha256_markdown: "59f4f6c6d7fb57178ea9f5f63e54993b0661cd5a2b9cb5d6f7e36edcde46be3f"
----
-
 # Decreto nº 70.846, de 03/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212949)<br>

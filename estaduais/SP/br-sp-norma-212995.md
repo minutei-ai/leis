@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212995"
-titulo: "Decreto nº 70.881, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70881-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212995"
-sha256_dados: "6c302d7f9897be54149387396abdf2ab488f26e6b3c2e6d11fbd5208d3b86223"
-coletado_em: "2026-10-21T08:36:10.627Z"
-sha256_fonte: "f3772284d5a99178cb7b3ac5d71b3f83696f2490a3829199e4c863972a635356"
-sha256_markdown: "68ca9031d85e2e4f73b257ad9e8e31348cb29aacb7806f61f1a09892099a3beb"
----
-
 # Decreto nº 70.881, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212995)<br>

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-130411"
-titulo: "EMENDA CONSTITUCIONAL Nº 22 DE 28 DE DEZEMBRO DE 2015"
-data: "2015-12-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constitucional-no-22-de-28-de-dezembro-de-2015"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:51.353Z"
-sha256_fonte: "95a99f5599538b99686496426f8877f19d24964e9433a34d586012dea6739900"
-sha256_markdown: "aaaf154286dacfccab6095ea9ec197bdc8ffddd8949b9bda07b880b17f7f8a0c"
----
-
 # EMENDA CONSTITUCIONAL Nº 22 DE 28 DE DEZEMBRO DE 2015
 
 EMENDA CONSTITUCIONAL Nº 22 DE 28 DE DEZEMBRO DE 2015

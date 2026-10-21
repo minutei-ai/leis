@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212994"
-titulo: "Decreto nº 70.880, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70880-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212994"
-sha256_dados: "d9a3001d7f2b3c544f33492b8c4031f90dbfa25a96e62e1550dd7539a84eecaa"
-coletado_em: "2026-10-21T08:36:11.938Z"
-sha256_fonte: "83138052eccb0b41f1a1ecf09c0506942c235b5c9f2b06e9e70a14d0cb6ebac3"
-sha256_markdown: "7ba56ca77a29230cb4c4e4dc8a86556004a46290be08c8a47310a267cbfc0006"
----
-
 # Decreto nº 70.880, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212994)<br>

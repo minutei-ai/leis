@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212827"
-titulo: "Decreto nº 70.750, de 03/07/2026"
-data: "2026-07-03"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70750-03.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212827"
-sha256_dados: "fe717c489185d4c8ad3e7d7ad001a9d1ea044a0e0a7be17aaf7012652bc54012"
-coletado_em: "2026-10-21T08:39:27.290Z"
-sha256_fonte: "00ad9b8e72afacf1d156437ca6e4f50dc56fd0678801d115023335dbc2669dfc"
-sha256_markdown: "ef9e93360cfd9f8ef8b386009e9b2f719d3348a5dd546a3aa85f2659b58af0c7"
----
-
 # Decreto nº 70.750, de 03/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212827)<br>

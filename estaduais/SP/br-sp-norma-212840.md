@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212840"
-titulo: "Decreto nº 70.757, de 14/07/2026"
-data: "2026-07-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70757-14.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212840"
-sha256_dados: "6af140156611740f6f8363b74b34827cdde424ee0507caddb3bf8844f6da5bd8"
-coletado_em: "2026-10-21T08:39:11.567Z"
-sha256_fonte: "77252549065e0c88868a7d706da758a9c15b031f7eab0265249e1a0aa021e6a2"
-sha256_markdown: "7a4732dc599999efa3a945b0e9896e9a1551f97120547f0d8dadd4098014570b"
----
-
 # Decreto nº 70.757, de 14/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212840)<br>

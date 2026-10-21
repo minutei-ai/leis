@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148909"
-titulo: "LEI Nº 15.191 DE 1º DE JULHO DE 2026"
-data: "2026-07-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15191-de-1o-de-julho-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:12.368Z"
-sha256_fonte: "96343750e06a0c7cfab61c6d209708b369237394d8af11c716a4e8f1fc213d6a"
-sha256_markdown: "5b69ce50fa256770393d2968311daa8655fd91f44cf49b0f2b353997b5e0a4aa"
----
-
 # LEI Nº 15.191 DE 1º DE JULHO DE 2026
 
 LEI Nº 15.191 DE 1º DE JULHO DE 2026

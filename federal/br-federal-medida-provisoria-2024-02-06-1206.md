@@ -1,0 +1,33 @@
+# Medida Provisória nº 1.206 de 06/02/2024
+
+MEDIDA PROVISÓRIA Nº 1.206, DE 6 DE FEVEREIRO DE 2024
+
+Altera os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física de que trata o [art. 1º da Lei nº 11.482, de 31 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-31;11482!art1).
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º A [Lei nº 11.482, de 31 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-31;11482), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+X – a partir do mês de maio do ano-calendário de 2023 até o mês de janeiro do ano-calendário de 2024:
+
+..........................................................
+
+XI – a partir do mês de fevereiro do ano-calendário de 2024:
+
+Tabela Progressiva Mensal
+
+<table cellspacing="0" cellpadding="0" style="width:86.76%; margin-right:7.05pt; margin-left:7.05pt; border:1pt solid #000000; border-collapse:collapse; float:right"><tbody><tr><td style="width:161.55pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>Base de Cálculo (R$)</span></p></td><td style="width:74.25pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>Alíquota (%)</span></p></td><td style="width:130.25pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>Parcela a Deduzir do IR (R$)</span></p></td></tr><tr style="height:7.55pt"><td style="width:161.55pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>Até 2.259,20</span></p></td><td style="width:74.25pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>0</span></p></td><td style="width:130.25pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>0</span></p></td></tr><tr><td style="width:161.55pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>De 2.259,21 até 2.826,65</span></p></td><td style="width:74.25pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>7,5</span></p></td><td style="width:130.25pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>169,44</span></p></td></tr><tr><td style="width:161.55pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>De 2.826,66 até 3.751,05</span></p></td><td style="width:74.25pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>15</span></p></td><td style="width:130.25pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>381,44</span></p></td></tr><tr><td style="width:161.55pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>De 3.751,06 até 4.664,68</span></p></td><td style="width:74.25pt; border-right-style:solid; border-right-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>22,5</span></p></td><td style="width:130.25pt; border-bottom-style:solid; border-bottom-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>662,77</span></p></td></tr><tr><td style="width:161.55pt; border-right-style:solid; border-right-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>Acima de 4.664,68</span></p></td><td style="width:74.25pt; border-right-style:solid; border-right-width:1pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>27,5</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="DefaultParagraph" style="margin-bottom:0pt; text-indent:0pt; text-align:center; font-size:0.83em"><span>896,00</span></p></td></tr></tbody></table>
+
+......................................................” (NR)
+
+Art. 2º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 6 de fevereiro de 2024; 203º da Independência e 136º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Fernando Haddad

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-142889"
-titulo: "LEI COMPLEMENTAR Nº 55 DE 16 DE MAIO DE 2023"
-data: "2023-05-16"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-55-de-16-de-maio-de-2023"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:21.388Z"
-sha256_fonte: "8a9f83fc693975e3d3eeedda528207a4b11e41f4606768742978c0811e84a996"
-sha256_markdown: "5804ffb65723eef4489e885f926638a80f481100cdbd1accba2c872cdc5d08af"
----
-
 # LEI COMPLEMENTAR Nº 55 DE 16 DE MAIO DE 2023
 
 LEI COMPLEMENTAR Nº 55 DE 16 DE MAIO DE 2023

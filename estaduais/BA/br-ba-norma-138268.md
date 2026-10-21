@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-138268"
-titulo: "EMENDA CONSTITUCIONAL Nº 26 DE 31 DE JANEIRO DE 2020"
-data: "2020-01-31"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constitucional-no-26-de-31-de-janeiro-de-2020"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:12.173Z"
-sha256_fonte: "120cbe31829cac0681aedb344413fb676b56691c7d1d064b3baab9d39d7790e6"
-sha256_markdown: "6bdda80dde0ac370ab8291d8406c9001b74db879db3031fec998a5c978a45f6f"
----
-
 # EMENDA CONSTITUCIONAL Nº 26 DE 31 DE JANEIRO DE 2020
 
 EMENDA CONSTITUCIONAL Nº 26, DE 31 DE JANEIRO DE 2020

@@ -1,0 +1,3745 @@
+# Medida Provisória nº 1.286 de 31/12/2024
+
+MEDIDA PROVISÓRIA Nº 1.286, DE 31 DE DEZEMBRO DE 2024
+
+Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, altera as regras do Sistema de Desenvolvimento na Carreira, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º Esta Medida Provisória:
+
+I – cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários;
+
+II – altera a remuneração de servidores e empregados públicos do Poder Executivo federal;
+
+III – altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal;
+
+IV – reestrutura cargos efetivos, planos de cargos e carreiras;
+
+V – padroniza e unifica regras de incorporação de gratificações de desempenho;
+
+VI – altera as regras do Sistema de Desenvolvimento na Carreira - Sidec;
+
+VII – transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança; e
+
+VIII – altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar.
+
+CAPÍTULO I
+
+DA CARREIRA DE ESPECIALISTA DO BANCO CENTRAL DO BRASIL
+
+Art. 2º A [Lei nº 9.650, de 27 de maio de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-05-27;9650), passa a vigorar com as seguintes alterações:
+
+“Art. 1º-A. A partir de 1º de janeiro de 2025, o cargo de Analista do Banco Central do Brasil, da Carreira de Especialista do Banco Central do Brasil, passa a denominar-se Auditor do Banco Central do Brasil.” (NR)
+
+“Art. 5º-A. São prerrogativas funcionais dos integrantes do cargo de Auditor do Banco Central do Brasil, no exercício de suas atribuições:
+
+I – requisitar às autoridades de segurança auxílio para a sua própria proteção e para a proteção de testemunhas, de patrimônio e de instalações federais, sempre que caracterizada ameaça, na forma estabelecida pela Diretoria Colegiada do Banco Central do Brasil; e
+
+II – ingressar livremente em qualquer edifício ou recinto em que funcione sede ou dependência de instituição financeira ou instituição autorizada a funcionar pelo Banco Central do Brasil, para praticar ação de fiscalização, colher prova ou informação útil no estrito âmbito do exercício da atividade específica designada pela Autarquia, na forma estabelecida em regulamento.” (NR)
+
+“Art. 8º-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos da Carreira de Especialista do Banco Central do Brasil passa a ser a constante do Anexo II-B, observada a correlação estabelecida na forma do Anexo II-C.” (NR)
+
+“Art. 9º-E....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 9º-G. Aplica-se o disposto nos art. 9º-A a art. 9º-F desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes da carreira de que trata o art. 1º desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+Art. 3º O Anexo II-A à [Lei nº 9.650, de 27 de maio de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-05-27;9650), passa a vigorar na forma do Anexo I a esta Medida Provisória.
+
+Art. 4º A [Lei nº 9.650, de 27 de maio de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-05-27;9650), passa a vigorar acrescida dos Anexos II-B e II-C, na forma dos Anexos II e III a esta Medida Provisória.
+
+CAPÍTULO II
+
+DOS EMPREGADOS REINTEGRADOS AO QUADRO DE PESSOAL DO BANCO CENTRAL DO BRASIL
+
+Art. 5º O Anexo CXCVIII à [Lei nº 14.673, de 14 de setembro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-09-14;14673), passa a vigorar na forma do Anexo IV a esta Medida Provisória.
+
+CAPÍTULO III
+
+DO PLANO DE CARREIRA DOS CARGOS DE ATIVIDADES TÉCNICAS E AUXILIARES DE FISCALIZAÇÃO FEDERAL AGROPECUÁRIA - PCTAF
+
+Art. 6º A [Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324), passa a vigorar com as seguintes alterações:
+
+“Art. 47-A. A partir de 1º de janeiro de 2025, os cargos de Agente de Inspeção Sanitária e Industrial de Produtos de Origem Animal, de Agente de Atividades Agropecuárias e de Técnico de Laboratório observarão a correlação estabelecida na forma do Anexo LXXVI-A.” (NR)
+
+“Art. 66-A. Para fins de incorporação da GDTAF aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+Parágrafo único. Aos benefícios não alcançados pelos incisos I e II do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 7º Os Anexos LXXVI, LXXVII e LXXVIII à [Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324), passam a vigorar, respectivamente, na forma dos Anexos V, VI e VII a esta Medida Provisória.
+
+Art. 8º A [Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324), passa a vigorar acrescida do Anexo LXXVI-A, na forma do Anexo VIII a esta Medida Provisória.
+
+CAPÍTULO IV
+
+DA CARREIRA DE AUDITOR FISCAL FEDERAL AGROPECUÁRIO
+
+Art. 9º A [Lei nº 10.883, de 16 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-16;10883), passa a vigorar com as seguintes alterações:
+
+“Art. 1º A Carreira de Auditor Fiscal Federal Agropecuário compõe-se de cargos efetivos, agrupados em classes A, B, C e Especial, que compreendem cinco padrões cada uma delas, na forma do Anexo I.” (NR)
+
+Art. 10\. Os Anexos I e II à [Lei nº 10.883, de 16 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-16;10883), passam a vigorar, respectivamente, na forma dos Anexos IX e X a esta Medida Provisória.
+
+Art. 11\. A [Lei nº 12.775, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12775), passa a vigorar com as seguintes alterações:
+
+“Art. 14.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 16\. Aplica-se o disposto nos art. 10 a art. 14 desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes da carreira de Auditor Fiscal Federal Agropecuário que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+Art. 12\. O Anexo III à [Lei nº 12.775, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12775), passa a vigorar na forma do Anexo XI a esta Medida Provisória.
+
+CAPÍTULO V
+
+DO PLANO ESPECIAL DE CARGOS DA CULTURA
+
+Art. 13\. A [Lei nº 11.233, de 22 de dezembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-12-22;11233), passa a vigorar com as seguintes alterações:
+
+“Art. 2º-H. Para fins de incorporação da GDAC aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 28 a [art. 32 da Lei nº 13.326, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13326!art32); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAC corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 14\. Os Anexos I, II, IV-A, V-B e V-C à [Lei nº 11.233, de 22 de dezembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-12-22;11233), passam a vigorar, respectivamente, na forma dos Anexos XII, XIII, XIV, XV e XVI a esta Medida Provisória.
+
+CAPÍTULO VI
+
+DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO
+
+Art. 15\. A [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passa a vigorar com as seguintes alterações:
+
+“Art. 7º-F. Para fins de incorporação da GDPGPE aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDPGPE corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 16\. Os Anexos I, II, III, V-A e V-B à [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passam a vigorar, respectivamente, na forma dos Anexos XVII, XVIII, XIX, XX e XXI a esta Medida Provisória.
+
+CAPÍTULO VII
+
+DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA
+
+Art. 17\. A [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar com as seguintes alterações:
+
+“Art. 249\. Para fins de incorporação da GDAFAZ aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAFAZ corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 18\. Os Anexos CXXXVI, CXXXVII, CXXXVIII, CXL e CXLI à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos XXII, XXIII, XXIV, XXV e XXVI a esta Medida Provisória.
+
+CAPÍTULO VIII
+
+DO QUADRO DE PESSOAL DA IMPRENSA NACIONAL
+
+Art. 19\. O Anexo XII à [Lei nº 11.090, de 7 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-07;11090), passa a vigorar na forma do Anexo XXVII a esta Medida Provisória.
+
+Art. 20\. Os Anexos XLII, XLIII e XLIV à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos XXVIII, XXIX e XXX a esta Medida Provisória.
+
+CAPÍTULO IX
+
+DO PLANO ESPECIAL DE CARGOS DO INSTITUTO BRASILEIRO DE TURISMO - EMBRATUR
+
+Art. 21\. A [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356), passa a vigorar com as seguintes alterações:
+
+“Art. 8º-L. Para fins de incorporação da GDATUR aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDATUR corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 22\. Os Anexos IV, V, VI, VI-A e VI-B à [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356), passam a vigorar, respectivamente, na forma dos Anexos XXXI, XXXII, XXXIII, XXXIV e XXXV a esta Medida Provisória.
+
+CAPÍTULO X
+
+DA REMUNERAÇÃO DOS EMPREGADOS BENEFICIADOS PELA [LEI Nº 8.878, DE 11 DE MAIO DE 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-05-11;8878)
+
+Art. 23\. A [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar com as seguintes alterações:
+
+“Art. 310....................................................
+
+..........................................................
+
+§ 6º........................................................
+
+..........................................................
+
+V – 9% (nove por cento), a partir de 1º de janeiro de 2025; e
+
+VI – 5% (cinco por cento), a partir de 1º de abril de 2026.
+
+......................................................” (NR)
+
+Art. 24\. O Anexo CLXX à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar na forma do Anexo XXXVI a esta Medida Provisória.
+
+CAPÍTULO XI
+
+DO PLANO ESPECIAL DE CARGOS DA SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS - SUFRAMA
+
+Art. 25\. A [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356), passa a vigorar com as seguintes alterações:
+
+“Art. 1º-L. Para fins de incorporação da GDSUFRAMA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 113 a [art. 117 da Lei nº 13.328, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13328!art117); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDSUFRAMA corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 26\. Os Anexos I, II, III, III-A e III-B à [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356), passam a vigorar, respectivamente, na forma dos Anexos XXXVII, XXXVIII, XXXIX, XL e XLI a esta Medida Provisória.
+
+CAPÍTULO XII
+
+DO PLANO DE CLASSIFICAÇÃO DE CARGOS
+
+Art. 27\. A [Lei nº 10.404, de 9 de janeiro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-09;10404), passa a vigorar com as seguintes alterações:
+
+“Art. 5º Para fins de incorporação da GDATA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a sessenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDATA corresponderá a sessenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 28\. O Anexo I à [Lei nº 10.971, de 25 de novembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-11-25;10971), passa a vigorar na forma do Anexo XLII a esta Medida Provisória.
+
+Art. 29\. O Anexo XL à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar na forma do Anexo XLIII a esta Medida Provisória.
+
+CAPÍTULO XIII
+
+DO PLANO DE CLASSIFICAÇÃO DE CARGOS DOS EX-TERRITÓRIOS FEDERAIS
+
+Art. 30\. A [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar com as seguintes alterações:
+
+“Art. 8º-A. A partir de 1º de janeiro de 2025, os cargos de nível superior e de nível intermediário, inclusive técnico, do PCC-Ext observarão a correlação estabelecida na forma do Anexo III-A.” (NR)
+
+“Art. 11-A. Para fins de incorporação da GDExt aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, aplica-se o disposto no inciso I do caput, conforme o interstício cumprido pelo instituidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 31\. Os Anexos III, IV e V à [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passam a vigorar, respectivamente, na forma dos Anexos XLIV, XLV e XLVI a esta Medida Provisória.
+
+Art. 32\. A [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar acrescida do Anexo III-A, na forma do Anexo XLVII a esta Medida Provisória.
+
+CAPÍTULO XIV
+
+DA ESTRUTURA REMUNERATÓRIA DE CARGOS ESPECÍFICOS
+
+Art. 33\. A [Lei nº 12.277, de 30 de junho de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-06-30;12277), passa a vigorar com as seguintes alterações:
+
+“Art. 19-A. A partir de 1º de janeiro de 2025, a Estrutura Remuneratória Especial de que trata o art. 19 passa a vigorar na forma do Anexo XII-B.” (NR)
+
+Art. 34\. Os Anexos XII-A, XIII e XIV à [Lei nº 12.277, de 30 de junho de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-06-30;12277), passam a vigorar, respectivamente, na forma dos Anexos XLVIII, XLIX e L a esta Medida Provisória.
+
+Art. 35\. A [Lei nº 12.277, de 30 de junho de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-06-30;12277), passa a vigorar acrescida do Anexo XII-B, na forma do Anexo LI a esta Medida Provisória.
+
+CAPÍTULO XV
+
+DO PLANO ESPECIAL DE CARGOS DO DEPARTAMENTO DE POLÍCIA FEDERAL
+
+Art. 36\. A [Lei nº 10.682, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10682), passa a vigorar com as seguintes alterações:
+
+“Art. 2º-A. A partir de 1º de janeiro de 2025, os cargos de nível superior e de nível intermediário do Plano Especial de Cargos do Departamento de Polícia Federal passam a ser estruturados na forma do Anexo I-A.” (NR)
+
+“Art. 4º-G. Para fins de incorporação da GDATPF aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 22 a [art. 26 da Lei nº 13.327, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13327!art26); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDATPF corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 37\. Os Anexos I, II, IV e V à [Lei nº 10.682, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10682), passam a vigorar, respectivamente, na forma dos Anexos LII, LIII, LIV e LV a esta Medida Provisória.
+
+Art. 38\. A [Lei nº 10.682, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10682), passa a vigorar acrescida do Anexo I-A, na forma do Anexo LVI a esta Medida Provisória.
+
+CAPÍTULO XVI
+
+DO PLANO ESPECIAL DE CARGOS DO DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL
+
+Art. 39\. A [Lei nº 11.095, de 13 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-13;11095), passa a vigorar com as seguintes alterações:
+
+“Art. 11-G. Para fins de incorporação da GDATPRF aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDATPRF corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 40\. Os Anexos III, IV, V, V-B e V-C à [Lei nº 11.095, de 13 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-13;11095), passam a vigorar, respectivamente, na forma dos Anexos LVII, LVIII, LIX, LX e LXI a esta Medida Provisória.
+
+CAPÍTULO XVII
+
+DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO
+
+Art. 41\. A [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passa a vigorar com as seguintes alterações:
+
+“Art. 5º-E. Para fins de incorporação da GDPST aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91);
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDPST corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 42\. Os Anexos I, II, IV-A, IV-B e IV-C à [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passam a vigorar, respectivamente, na forma dos Anexos LXII, LXIII, LXIV, LXV e LXVI a esta Medida Provisória.
+
+CAPÍTULO XVIII
+
+DA CARREIRA DA SEGURIDADE SOCIAL E DO TRABALHO
+
+Art. 43\. A [Lei nº 10.483, de 3 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-03;10483), passa a vigorar com as seguintes alterações:
+
+“Art. 1º-A. A partir de 1º de janeiro de 2025, a Carreira da Seguridade Social e do Trabalho fica estruturada na forma do Anexo I-A.” (NR)
+
+“Art. 8º Para fins de incorporação da GDASST aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a sessenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDASST corresponderá a sessenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 44\. Os Anexos I, III-A e V à [Lei nº 10.483, de 3 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-03;10483), passam a vigorar, respectivamente, na forma dos Anexos LXVII, LXVIII e LXIX a esta Medida Provisória.
+
+Art. 45\. A [Lei nº 10.483, de 3 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-03;10483), passa a vigorar acrescida do Anexo I-A, na forma do Anexo LXX a esta Medida Provisória.
+
+Art. 46\. A [Lei nº 10.971, de 25 de novembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-11-25;10971), passa a vigorar com as seguintes alterações:
+
+“Art. 5º-A. A GESST passa a ter os valores constantes no Anexo V, e produzirá efeitos financeiros a partir da data nele especificada.” (NR)
+
+Art. 47\. A [Lei nº 10.971, de 25 de novembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-11-25;10971), passa a vigorar acrescida do Anexo V, na forma do Anexo LXXI a esta Medida Provisória.
+
+CAPÍTULO XIX
+
+DO QUADRO EM EXTINÇÃO DE COMBATE ÀS ENDEMIAS
+
+Art. 48\. Os Anexos II e III à [Lei nº 13.026, de 3 de setembro de 2014](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-09-03;13026), passam a vigorar, respectivamente, na forma dos Anexos LXXII e LXXIII a esta Medida Provisória.
+
+CAPÍTULO XX
+
+DO EMPREGO PÚBLICO DE AGENTE DE COMBATE ÀS ENDEMIAS
+
+Art. 49\. O Anexo à [Lei nº 11.350, de 5 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-05;11350), passa a vigorar na forma do Anexo LXXIV a esta Medida Provisória.
+
+CAPÍTULO XXI
+
+DA GRATIFICAÇÃO ESPECIAL DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS - GECEN E DA GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS - GACEN
+
+Art. 50\. A [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passa a vigorar com as seguintes alterações:
+
+“Art. 55-C. Para fins de incorporação da GACEN aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta por cento do seu valor, considerados o nível, a classe e o padrão do servidor; ou
+
+b) ao valor de que trata o [art. 93 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art93), desde que recebida nos últimos sessenta meses de atividade, por meio da apresentação do termo de opção de que tratam os art. 92 a [art. 94 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art94);
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GACEN corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 51\. O Anexo XLIX-A à [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passa a vigorar na forma do Anexo LXXV a esta Medida Provisória.
+
+CAPÍTULO XXII
+
+DA ÁREA DE AUDITORIA DO SISTEMA ÚNICO DE SAÚDE
+
+Art. 52\. A [Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344), passa a vigorar com as seguintes alterações:
+
+“Art. 36\. Para fins de incorporação da GDASUS aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, por meio da apresentação do termo de opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 5º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDASUS corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 6º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 53\. O Anexo XV à [Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344), passa a vigorar na forma do Anexo LXXVI a esta Medida Provisória.
+
+CAPÍTULO XXIII
+
+DO PLANO DE CARREIRAS E CARGOS DE MAGISTÉRIO FEDERAL
+
+Art. 54\. A [Lei nº 12.772, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12772), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 1º A Carreira de Magistério Superior é estruturada nas classes A, B, C e D e respectivos níveis de vencimento, na forma do Anexo I.
+
+§ 2º........................................................
+
+I – Classe A, com a denominação de Professor Assistente;
+
+II – Classe B, com a denominação de Professor Adjunto;
+
+III – Classe C, com a denominação de Professor Associado; e
+
+IV – Classe D, com a denominação de Professor Titular.
+
+§ 3º........................................................
+
+I – A;
+
+II – B;
+
+III – C; e
+
+IV – Titular.
+
+......................................................” (NR)
+
+“Art. 10\. O ingresso nos cargos de provimento efetivo de Professor do Ensino Básico, Técnico e Tecnológico, da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, ocorrerá sempre no primeiro nível da classe inicial da carreira, mediante aprovação em concurso público de provas ou de provas e títulos.
+
+......................................................” (NR)
+
+“Art. 12.....................................................
+
+..........................................................
+
+§ 3º São critérios da promoção:
+
+I – para a Classe B, com denominação de Professor Adjunto, cumprido o interstício mínimo de trinta e seis meses no último nível da classe anterior e a aprovação em processo de avaliação de desempenho;
+
+II – para a Classe C, com a denominação de Professor Associado, cumprido o interstício mínimo de vinte e quatro meses no último nível da classe anterior, aprovação em processo de avaliação de desempenho e a obtenção do título de doutor; e
+
+III – para a Classe D, com a denominação de Professor Titular, cumprido o interstício mínimo de vinte e quatro meses no último nível da classe anterior e as seguintes condições:
+
+a) possuir o título de doutor;
+
+b) ser aprovado em processo de avaliação de desempenho; e
+
+c) lograr aprovação de memorial, que deverá considerar as atividades de ensino, pesquisa, extensão, gestão acadêmica e produção profissional relevante, ou defesa de tese acadêmica inédita.
+
+..........................................................
+
+§ 7º Para os servidores da carreira de Magistério Superior que estejam em 31 de dezembro de 2024 posicionados nas classes A e B e tiverem sido aprovados no estágio probatório, considera-se cumprido o interstício para a promoção para a classe de Professor Adjunto em 1º de janeiro de 2025.” (NR)
+
+“Art. 14.....................................................
+
+..........................................................
+
+§ 3º São critérios da promoção:
+
+I – para a Classe B, cumprido o interstício mínimo de trinta e seis meses no último nível da classe anterior e a aprovação em processo de avaliação de desempenho;
+
+II – para a Classe C, cumprido o interstício mínimo de vinte e quatro meses no último nível da classe anterior e a aprovação em processo de avaliação de desempenho;
+
+III – para a Classe D, cumprido o interstício mínimo de vinte e quatro meses no último nível da classe anterior e as seguintes condições:
+
+a) possuir o título de doutor;
+
+b) ser aprovado em processo de avaliação de desempenho; e
+
+c) lograr aprovação de memorial, que deverá considerar as atividades de ensino, pesquisa, extensão, gestão acadêmica e produção profissional relevante, ou defesa de tese acadêmica inédita.
+
+..........................................................
+
+§ 7º Para os servidores da carreira de Magistério do Ensino Básico, Técnico e Tecnológico que estejam posicionados nas classes DI e DII em 31 de dezembro de 2024, e tiverem sido aprovados no estágio probatório, considera-se cumprido o interstício para a promoção para a Classe B em 1º de janeiro de 2025.” (NR)
+
+Art. 55\. Os Anexos I, II, III e IV à [Lei nº 12.772, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12772), passam a vigorar, respectivamente, na forma dos Anexos LXXVII, LXXVIII, LXXIX e LXXX a esta Medida Provisória.
+
+CAPÍTULO XXIV
+
+DO PLANO DE CARREIRAS DE MAGISTÉRIO DO ENSINO BÁSICO FEDERAL
+
+Art. 56\. Os Anexos LXXVII-A, LXXIX-A, LXXXIII-A e LXXXV-A à [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passam a vigorar, respectivamente, na forma dos Anexos LXXXI, LXXXII, LXXXIII e LXXXIV a esta Medida Provisória.
+
+Art. 57\. A [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passa a vigorar com as seguintes alterações:
+
+“Art. 124-B. A partir de 1º de janeiro de 2025, os cargos do Plano de Carreiras de Magistério do Ensino Básico Federal ficam estruturados na forma dos Anexos LXXIV-B e LXXX-B, conforme correlação estabelecida nos Anexos LXXV-B e LXXXI-B desta Lei.” (NR)
+
+Art. 58\. A [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passa a vigorar acrescida dos Anexos LXXIV-B, LXXV-B, LXXX-B e LXXXI-B, na forma dos Anexos LXXXV, LXXXVI, LXXXVII e LXXXVIII a esta Medida Provisória.
+
+CAPÍTULO XXV
+
+DO PLANO DE CARREIRAS E CARGOS DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - SUSEP
+
+Art. 59\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Art. 50.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 54\. Aplica-se o disposto nos art. 46 a art. 50, no art. 51-A e no art. 51-B desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes das Carreiras de que tratam os art. 46 e art. 51-A desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+“Art. 64\. Para fins de incorporação da GDASUSEP aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDASUSEP corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 60\. Os Anexos VIII, IX, X, X-A, XI e XII à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passam a vigorar, respectivamente, na forma dos Anexos LXXXIX, XC, XCI, XCII, XCIII e XCIV a esta Medida Provisória.
+
+CAPÍTULO XXVI
+
+DO PLANO DE CARREIRAS E CARGOS DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM
+
+Art. 61\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Art. 67-A. A partir de 1º de janeiro de 2025, fica estruturado, no âmbito do Plano de Carreiras e Cargos da CVM a Carreira de Fiscalização da Comissão de Valores Mobiliários, composta pelo cargo de nível superior de Inspetor Federal do Mercado de Capitais, com atribuições relacionadas às atividades de supervisão, regulação, inspeção, fiscalização e controle do mercado de capitais, à implementação de políticas, à realização de estudos e pesquisas e às atividades de natureza técnica, administrativa, de gestão e especializadas relativas às competências da CVM.” (NR)
+
+“Art. 73\. São requisitos para ingresso na classe inicial dos cargos de que tratam o art. 67, caput, inciso II, e o art. 67-A:
+
+......................................................” (NR)
+
+“Art. 81\. Os titulares do cargo a que se refere o art. 67-A serão remunerados exclusivamente por subsídio, fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória.
+
+Parágrafo único. Os valores do subsídio dos titulares do cargo a que se refere o caput são os fixados no Anexo XIV, com efeitos financeiros a partir das datas nele especificadas.” (NR)
+
+“Art. 82\. Estão compreendidas no subsídio e não são mais devidas aos titulares do cargo a que se refere o art. 67-A as seguintes espécies remuneratórias:
+
+..........................................................
+
+Parágrafo único. Os titulares do cargo referido no art. 81 não fazem jus à percepção das seguintes vantagens remuneratórias:
+
+......................................................” (NR)
+
+“Art. 83\. Além das parcelas e vantagens de que trata o art. 82, não são devidas aos titulares do cargo de que trata o art. 67-A as seguintes parcelas:
+
+......................................................” (NR)
+
+“Art. 84\. Os servidores integrantes da Carreira de que trata o art. 67-A não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa ou judicial ou por extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de decisão judicial transitada em julgado.” (NR)
+
+“Art. 85\. O subsídio dos integrantes da Carreira de que trata o art. 67-A não exclui o direito à percepção, nos termos da legislação e da regulamentação específica, de:
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 87-A. Os ocupantes dos cargos de Analista da CVM e de Inspetor da CVM, respectivamente das Carreiras de Analista da CVM e de Inspetor da CVM, com investidura decorrente de aprovação em concurso público, ficam enquadrados no cargo de Inspetor Federal do Mercado de Capitais da Carreira de Fiscalização da Comissão de Valores Mobiliários, de que trata o art. 67-A.
+
+§ 1º Ficam assegurados aos ocupantes dos cargos enquadrados nos termos do disposto no caput:
+
+I – o posicionamento na classe e no padrão de vencimento, conforme posição relativa prevista no Anexo XIII;
+
+II – a remuneração prevista no Anexo XIV;
+
+III – as vantagens a que façam jus na data do enquadramento no cargo de que trata o art. 67-A; e
+
+IV – o cômputo do tempo de contribuição nas Carreiras anteriores para os fins legais.
+
+§ 2º Os cargos efetivos de nível superior de Analista da CVM e de Inspetor da CVM, respectivamente das Carreiras de Analista da CVM e de Inspetor da CVM que não foram enquadrados no cargo de Inspetor Federal do Mercado de Capitais da Carreira de Fiscalização da Comissão de Valores Mobiliários de que trata o art. 67-A comporão quadro suplementar em extinção.
+
+§ 3º Os cargos de Analista da CVM e de Inspetor da CVM, respectivamente das Carreiras de Analista da CVM e de Inspetor da CVM, vagos e que vierem a vagar ficam transformados em cargos de Inspetor Federal do Mercado de Capitais.
+
+§ 4º O disposto neste artigo aplica-se aos aposentados e aos pensionistas.
+
+§ 5º Para as aposentadorias e as pensões instituídas pelos servidores que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), o posicionamento na tabela de subsídios prevista no Anexo XIV a esta Lei será referenciado à situação em que o servidor se encontrava na data da aposentadoria ou em que se originou a pensão.” (NR)
+
+“Art. 89\. Aplica-se o disposto no art. 81 a art. 85 desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes das Carreiras de que trata o art. 67, caput, inciso I, alíneas "a" e "b", desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+“Art. 99\. Para fins de incorporação da GDECVM ou da GDASCVM aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDECVM e GDASCVM corresponderão a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+“Art. 100\. Os ocupantes do cargo integrante da Carreira de Fiscalização da Comissão de Valores Mobiliários são impedidos de exercer outra atividade, pública ou privada, potencialmente causadora de conflito de interesses, nos termos do disposto na [Lei nº 12.813, de 16 de maio de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-05-16;12813).
+
+......................................................” (NR)
+
+“Art. 101\. Os integrantes da Carreira de Fiscalização da Comissão de Valores Mobiliários somente poderão ser cedidos ou ter exercício fora do órgão de lotação nas seguintes situações:
+
+......................................................” (NR)
+
+“Art. 154....................................................
+
+..........................................................
+
+IX – Agente Executivo, da Carreira de Agente Executivo da CVM;
+
+X – Inspetor Federal do Mercado de Capitais, da Carreira de Fiscalização da Comissão de Valores Mobiliários;
+
+......................................................” (NR)
+
+Art. 62\. Os Anexos XIII, XIV, XV, XV-A, XVI e XVII à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passam a vigorar, na forma dos Anexos XCV, XCVI, XCVII, XCVIII, XCIX e C a esta Medida Provisória.
+
+CAPÍTULO XXVII
+
+DAS CARREIRAS DE GESTÃO GOVERNAMENTAL
+
+Art. 63\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Art. 10-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos de Analista de Comércio Exterior, de Analista de Planejamento e Orçamento, de Especialista em Políticas Públicas e Gestão Governamental e de Técnico de Planejamento e Orçamento passa a ser a constante do Anexo IV-A, observada a correlação estabelecida na forma do Anexo IV-B.” (NR)
+
+“Art. 14.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 16\. Aplica-se o disposto nos art. 10 a art. 15 desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes das Carreiras de que trata o art. 10 desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+Art. 64\. O Anexo IV à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar na forma do Anexo CI a esta Medida Provisória.
+
+Art. 65\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar acrescida dos Anexos IV-A e IV-B, na forma dos Anexos CII e CIII a esta Medida Provisória.
+
+CAPÍTULO XXVIII
+
+DO PLANO DE CARREIRAS E CARGOS DA FUNDAÇÃO INSTITUTO DE PESQUISA ECONÔMICA APLICADA - IPEA
+
+Art. 66\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Art. 118....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 122\. Aplica-se o disposto no art. 114 a art. 119 desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes da Carreira de que trata o art. 102, caput, inciso I, desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+Art. 67\. Os Anexos XX, XX-A e XX-B à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passam a vigorar, respectivamente, com as alterações constantes dos Anexos CIV, CV e CVI a esta Medida Provisória.
+
+Art. 68\. Os Anexos XXI e XXII à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passam a vigorar, respectivamente, na forma dos Anexos CVII e CVIII a esta Medida Provisória.
+
+CAPÍTULO XXIX
+
+DO PLANO DE CARREIRAS E CARGOS DO HOSPITAL DAS FORÇAS ARMADAS
+
+Art. 69\. A [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passa a vigorar com as seguintes alterações:
+
+“Art. 86\. Para fins de incorporação da GDAHFA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito opção de que tratam o art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAHFA corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 70\. Os Anexos LXII e LXIII à [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passam a vigorar, respectivamente, com as alterações constantes dos Anexos CIX e CX a esta Medida Provisória.
+
+Art. 71\. O Anexo LXV à [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784), passa a vigorar na forma do Anexo CXI a esta Medida Provisória.
+
+Art. 72\. O Anexo à [Lei nº 10.225, de 15 de maio de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-05-15;10225), passa a vigorar na forma do Anexo CXII a esta Medida Provisória.
+
+CAPÍTULO XXX
+
+DO GRUPO DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO - DACTA
+
+Art. 73\. A [Lei nº 10.551, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10551), passa a vigorar com as seguintes alterações:
+
+“Art. 6º Para fins de incorporação da GDASA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDASA corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 74\. Os Anexos I e II à [Lei nº 10.551, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10551), passam a vigorar, respectivamente, na forma dos Anexos CXIII e CXIV a esta Medida Provisória.
+
+Art. 75\. O Anexo IX à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar na forma do Anexo CXV a esta Medida Provisória.
+
+CAPÍTULO XXXI
+
+DO PLANO DE CARREIRAS E CARGOS DA FUNDAÇÃO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE
+
+Art. 76\. A [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passa a vigorar com as seguintes alterações:
+
+“Art. 71.....................................................
+
+I – Carreira de Pesquisa em Informações Geográficas e Estatísticas, composta do cargo de Pesquisador em Informações Geográficas e Estatísticas, de nível superior, com atribuições referentes às atividades especializadas de ensino e pesquisa científica, tecnológica e metodológica em matéria estatística, geográfica, cartográfica, geodésica e ambiental;
+
+II – Carreira de Produção e Análise de Informações Geográficas e Estatísticas, composta do cargo de Tecnologista em Informações Geográficas e Estatísticas, de nível superior, com atribuições referentes às atividades especializadas de produção, análise e disseminação de dados e informações de natureza estatística, geográfica, cartográfica, geodésica e ambiental;
+
+III – Carreira de Suporte Técnico em Produção e Análise de Informações Geográficas e Estatísticas, composta do cargo de Técnico em Informações Geográficas e Estatísticas, de nível intermediário, com atribuições referentes ao suporte e ao apoio técnico especializado às atividades de ensino, pesquisa, produção, análise e disseminação de dados e informações de natureza estatística, geográfica, cartográfica, geodésica e ambiental;
+
+IV – Carreira de Planejamento, Gestão e Infraestrutura em Informações Geográficas e Estatísticas, composta do cargo de Analista de Planejamento, Gestão e Infraestrutura em Informações Geográficas e Estatísticas, de nível superior, com atribuições referentes ao exercício de atividades administrativas e logísticas relativas ao exercício das competências institucionais e legais a cargo do IBGE; e
+
+V – Carreira de Suporte em Planejamento, Gestão e Infraestrutura em Informações Geográficas e Estatísticas, composta do cargo de Técnico em Planejamento, Gestão e Infraestrutura em Informações Geográficas e Estatísticas, de nível intermediário, com atribuições referentes ao exercício de atividades administrativas e logísticas de nível intermediário, relativas ao exercício das competências institucionais e legais a cargo do IBGE.
+
+......................................................” (NR)
+
+“Art. 74.....................................................
+
+I –.........................................................
+
+a) ser detentor do título de Doutor no campo específico de atuação do cargo e possuir permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) ser detentor de título de Mestre e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de três anos no último padrão da Classe imediatamente anterior;
+
+II –........................................................
+
+a) ser detentor do título de Doutor no campo específico de atuação do cargo e possuir permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) ser detentor de título de Mestre e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de dois anos no último padrão da Classe imediatamente anterior;
+
+III –........................................................
+
+a) ser detentor de título de Doutor no campo específico de atuação do cargo e ter experiência mínima de cinco anos, todos no campo específico de atuação do cargo; ou
+
+b) ser detentor de título de Mestre e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e ter experiência mínima de seis anos, todos no campo específico de atuação do cargo; e
+
+..........................................................
+
+§ 1º Ocorrerá aceleração da promoção do cargo de Pesquisador em Informações Geográficas e Estatísticas nos seguintes casos:
+
+I – o servidor aprovado no estágio probatório que possuir o título de Doutor e tiver experiência mínima de cinco anos na respectiva área será promovido ao primeiro padrão da Classe B; e
+
+II – o servidor aprovado no estágio probatório que estiver, pelo menos, no quarto padrão da Classe B será promovido para o primeiro padrão da Classe C, desde que seja detentor do título de Mestre e tenha pelo menos dez anos de experiência após a titulação, ou seja detentor do título de Doutor e tenha pelo menos cinco anos de experiência após a titulação.
+
+§ 2º Nos casos de aceleração da promoção de que trata o § 1º, será necessária a comprovação de relevante contribuição científica ou tecnológica para a área de atuação do cargo, conforme requisitos estabelecidos em ato do dirigente máximo do IBGE.” (NR)
+
+“Art. 75.....................................................
+
+I –.........................................................
+
+a) ser detentor do título de Doutor no campo específico de atuação do cargo e possuir permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+b) ser detentor de título de Mestre e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de dois anos no último padrão da Classe imediatamente anterior;
+
+c) possuir pós-graduação lato sensu e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de três anos no último padrão da Classe imediatamente anterior; ou
+
+d) possuir certificação em eventos de capacitação no campo específico de atuação do cargo e possuir permanência mínima de quatro anos no último padrão da Classe imediatamente anterior;
+
+II – Classe C:
+
+a) ser detentor do título de Doutor no campo específico de atuação do cargo e possuir permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) ser detentor de título de Mestre e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de dois anos no último padrão da Classe imediatamente anterior;
+
+c) possuir pós-graduação lato sensu e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de três anos no último padrão da Classe imediatamente anterior; ou
+
+d) possuir certificação em eventos de capacitação no campo específico de atuação do cargo e possuir permanência mínima de quatro anos no último padrão da Classe imediatamente anterior;
+
+III – Classe B:
+
+a) ser detentor de título de Mestre no campo específico de atuação do cargo e possuir permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) possuir pós-graduação lato sensu e ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e possuir permanência mínima de dois anos no último padrão da Classe imediatamente anterior; ou
+
+c) possuir certificação em eventos de capacitação no campo específico de atuação do cargo e possuir permanência mínima de três anos no último padrão da Classe imediatamente anterior; e
+
+IV – Classe A - ter qualificação específica para a Classe.” (NR)
+
+“Art. 76.....................................................
+
+I – Classe Especial - possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+II – Classe C - possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+III – Classe B - possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da Classe imediatamente anterior; e
+
+IV – Classe A - ter qualificação específica para a Classe.” (NR)
+
+“Art. 149-A. Para fins de incorporação da GDIBGE aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDIBGE corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 77\. Os Anexos XIV, XV, XV-A, XV-B, XV-C e XVI à [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passam a vigorar, respectivamente, na forma dos Anexos CXVI, CXVII, CXVIII, CXIX, CXX e CXXI a esta Medida Provisória.
+
+CAPÍTULO XXXII
+
+DO PLANO DE CARREIRA DOS CARGOS DE TECNOLOGIA MILITAR
+
+Art. 78\. A [Lei nº 9.657, de 3 de junho de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9657), passa a vigorar com as seguintes alterações:
+
+“Art. 17-A. Para fins de incorporação da GDATEM aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, por meio da apresentação do termo de opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDATEM corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 79\. Os Anexos I, II e III à [Lei nº 9.657, de 3 de junho de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9657), passam a vigorar, respectivamente, na forma dos Anexos CXXII, CXXIII e CXXIV a esta Medida Provisória.
+
+Art. 80\. Os Anexos XXI, XXV e XXV-A à [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passam a vigorar, respectivamente, na forma dos Anexos CXXV, CXXVI e CXXVII a esta Medida Provisória.
+
+CAPÍTULO XXXIII
+
+DO PLANO DE CARREIRAS E CARGOS DA AGÊNCIA BRASILEIRA DE INTELIGÊNCIA
+
+Art. 81\. A [Lei nº 11.776, de 17 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-17;11776), passa a vigorar com as seguintes alterações:
+
+“Art. 18.....................................................
+
+I – para a Classe B, possuir certificação em eventos de capacitação, totalizando, no mínimo, cento e sessenta horas, e qualificação profissional com experiência mínima de cinco anos, ambas no campo específico de atuação de cada cargo;
+
+II – para a Classe C, possuir certificação em eventos de capacitação, totalizando, no mínimo, duzentas e quarenta horas, e qualificação profissional com experiência mínima de dez anos, ambas no campo específico de atuação de cada cargo; e
+
+III – para a Classe Especial, ser detentor de certificado de conclusão de curso de especialização ou de formação específica, com carga horária de, no mínimo, trezentas e sessenta horas e qualificação profissional com experiência mínima de quinze anos, ambos no campo específico de atuação de cada cargo.” (NR)
+
+“Art. 19.....................................................
+
+I – para a Classe B, possuir certificação em eventos de capacitação, totalizando, no mínimo, oitenta horas, e qualificação profissional com experiência mínima de cinco anos, ambas no campo específico de atuação de cada cargo;
+
+II – para a Classe C, possuir certificação em eventos de capacitação, totalizando, no mínimo, cento e vinte horas, e qualificação profissional com experiência mínima de dez anos, ambas no campo específico de atuação de cada cargo; e
+
+III – para a Classe Especial, ser detentor de certificado de conclusão de curso de especialização ou de formação específica, com carga horária de, no mínimo, cento e oitenta horas e qualificação profissional com experiência mínima de quinze anos, ambos no campo específico de atuação de cada cargo.” (NR)
+
+“Art. 20.....................................................
+
+I – para a Classe B, possuir certificação em eventos de capacitação, totalizando, no mínimo, cento e vinte horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de cinco anos, ambas no campo específico de atuação de cada cargo;
+
+II – para a Classe C, possuir certificação em eventos de capacitação, totalizando, no mínimo, duzentas horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de dez anos, ambas no campo específico de atuação de cada cargo; e
+
+III – para a Classe Especial, possuir certificação em eventos de capacitação, totalizando, no mínimo, duzentas e oitenta horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de quinze anos, ambas no campo específico de atuação de cada cargo.” (NR)
+
+“Art. 21.....................................................
+
+I – para a Classe B, possuir certificação em eventos de capacitação, totalizando, no mínimo, quarenta horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de cinco anos, ambas no campo específico de atuação de cada cargo;
+
+II – para a Classe C, possuir certificação em eventos de capacitação, totalizando, no mínimo, oitenta horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de dez anos, ambas no campo específico de atuação de cada cargo; e
+
+III – para a Classe Especial, possuir certificação em eventos de capacitação, totalizando, no mínimo, cento e vinte horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de quinze anos, ambas no campo específico de atuação de cada cargo.” (NR)
+
+“Art. 28.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 32\. Aplica-se o disposto nos art. 24 a art. 28 desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes das Carreiras a que se refere o art. 2º, caput, incisos I e II, desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+“Art. 42\. Para fins de incorporação da GDAIN ou da GDACABIN aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAIN e GDACABIN corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 82\. Os Anexos I, II, III, IV, V, VI e VII à [Lei nº 11.776, de 17 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-17;11776), passam a vigorar, respectivamente, na forma dos Anexos CXXVIII, CXXIX, CXXX, CXXXI, CXXXII, CXXXIII e CXXXIV a esta Medida Provisória.
+
+CAPÍTULO XXXIV
+
+DA CARREIRA DE ESPECIALISTA EM MEIO AMBIENTE, DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DO MEIO AMBIENTE E MUDANÇA DO CLIMA - MMA, DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA E DO QUADRO DE PESSOAL DO MMA, DO IBAMA E DO INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - ICMBIO
+
+Art. 83\. A [Lei nº 10.410, de 11 de janeiro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-11;10410), passa a vigorar com as seguintes alterações:
+
+“Art. 13-D. A partir de 1º de janeiro de 2025, a estrutura dos cargos de nível superior e de nível intermediário da Carreira de Especialista em Meio Ambiente passa a ser a constante do Anexo VII, observada a correlação estabelecida na forma do Anexo VIII.” (NR)
+
+Art. 84\. Os Anexos I, II, III e IV à [Lei nº 10.410, de 11 de janeiro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-11;10410), passam a vigorar, respectivamente, na forma dos Anexos CXXXV, CXXXVI, CXXXVII e CXXXVIII a esta Medida Provisória.
+
+Art. 85\. A [Lei nº 10.410, de 11 de janeiro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-11;10410), passa a vigorar acrescida dos Anexos VII e VIII, na forma dos Anexos CXXXIX e CXL a esta Medida Provisória.
+
+Art. 86\. A [Lei nº 11.156, de 29 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-07-29;11156), passa a vigorar com as seguintes alterações:
+
+“Art. 8º Para fins de incorporação da GDAEM aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAEM corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+“Art. 16\. Para fins de incorporação da GDAMB aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria ou de pensão tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAMB corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 87\. Os Anexos I e II à [Lei nº 11.156, de 29 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-07-29;11156), passam a vigorar, respectivamente, na forma dos Anexos CXLI e CXLII a esta Medida Provisória.
+
+Art. 88\. A [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passa a vigorar com as seguintes alterações:
+
+“Art. 17-C. Para fins de incorporação da GTEMA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GTEMA corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 89\. Os Anexos VIII, X e X-A à [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passam a vigorar, respectivamente, na forma dos Anexos CXLIII, CXLIV e CXLV desta a esta Medida Provisória.
+
+CAPÍTULO XXXV
+
+DA CARREIRA DE PERITO MÉDICO FEDERAL E DA CARREIRA DE SUPERVISOR MÉDICO-PERICIAL
+
+Art. 90\. A [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar com as seguintes alterações:
+
+“Art. 31-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos da Carreira de Perito Médico Federal e da Carreira de Supervisor Médico-Pericial passa a ser a constante do Anexo XII-A, observada a correlação estabelecida na forma do Anexo XIII-A.” (NR)
+
+“Art. 50\. Para fins de incorporação da GDAPMP aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDAPMP corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 91\. A [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar acrescida dos Anexos XII-A e XIII-A, na forma dos Anexos CXLVI e CXLVII a esta Medida Provisória.
+
+Art. 92\. Os Anexos XV e XVI à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos CXLVIII e CXLIX a esta Medida Provisória.
+
+CAPÍTULO XXXVI
+
+DA CARREIRA DE PERÍCIA MÉDICA DA PREVIDÊNCIA SOCIAL
+
+Art. 93\. A [Lei nº 10.876, de 2 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-02;10876), passa a vigorar com as seguintes alterações:
+
+“Art. 13\. Para fins de incorporação da GDAMP aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a trinta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, ou até a vigência da [Medida Provisória nº 166, de 18 de fevereiro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2004-02-18;166), a GDAMP corresponderá a trinta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 94\. Os Anexos II, V e VI à [Lei nº 10.876, de 2 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-02;10876), passam a vigorar na forma dos Anexos CL, CLI e CLII a esta Medida Provisória.
+
+CAPÍTULO XXXVII
+
+DOS PLANOS ESPECIAIS DE CARGOS DAS AGÊNCIAS REGULADORAS
+
+Art. 95\. Os Anexos I, II e III à [Lei nº 10.882, de 9 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-09;10882), passam a vigorar, respectivamente, na forma dos Anexos CLIII, CLIV, e CLV a esta Medida Provisória.
+
+Art. 96\. A [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passa a vigorar com as seguintes alterações:
+
+“Art. 31-A. A estrutura dos cargos de provimento efetivo dos Planos Especiais de Cargos a que se refere o art. 31 passa a ser a constante do Anexo XIV-A, observada a correlação estabelecida na forma do Anexo XIV-B.” (NR)
+
+“Art. 31-O. Para fins de incorporação da GDPCAR aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 28 a [art. 32 da Lei nº 13.326, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13326!art32); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDPCAR corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+“Art. 36-D. Para fins de incorporação da GEDR aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 28 a [art. 32 da Lei nº 13.326, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13326!art32); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GEDR corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 97\. Os Anexos XIV, XIV-A, XIV-B, XIV-C e XIV-D à [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passam a vigorar, respectivamente, na forma dos Anexos CLVI, CLVII, CLVIII, CLIX e CLX a esta Medida Provisória.
+
+CAPÍTULO XXXVIII
+
+DAS CARREIRAS DAS AGÊNCIAS REGULADORAS
+
+Art. 98\. A [Lei nº 10.768, de 19 de novembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-11-19;10768), passa a vigorar com as seguintes alterações:
+
+“Art. 8º-D. A partir de 1º de janeiro de 2025, a estrutura dos cargos a que se refere o art. 1º passa a ser a constante do Anexo III, observada a correlação estabelecida na forma do Anexo IV.” (NR)
+
+“Art. 9º O avanço de nível do servidor na carreira correspondente ao seu cargo efetivo ocorrerá por meio de progressão funcional e de promoção.” (NR)
+
+Art. 99\. A [Lei nº 10.768, de 19 de novembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-11-19;10768), passa a vigorar acrescida dos Anexos III e IV, na forma dos Anexos CLXI e CLXII a esta Medida Provisória.
+
+Art. 100\. A [Lei nº 10.871, de 20 de maio de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-05-20;10871), passa a vigorar com as seguintes alterações:
+
+“Art. 8º-A. A partir de 1º de janeiro de 2025, os cargos a que se refere o art. 1º observarão a correlação estabelecida na forma do Anexo III-A.” (NR)
+
+“Art. 25.....................................................
+
+..........................................................
+
+II – para a Classe C:
+
+a) possuir certificação em eventos de capacitação que totalizem no mínimo trezentas e sessenta horas, no campo específico de atuação de cada carreira, e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) possuir certificação em eventos de capacitação que totalizem no mínimo duzentas e quarenta horas, no campo específico de atuação de cada carreira, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; e
+
+III – para a Classe Especial:
+
+a) ser detentor de título de doutor, no campo específico de atuação de cada carreira, e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) ser detentor de título de mestre, no campo específico de atuação de cada carreira, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; ou
+
+c) ser detentor de certificado de conclusão de curso de especialização com duração de no mínimo trezentas e sessenta horas, no campo específico de atuação de cada carreira, e permanência mínima de três anos no último padrão da Classe imediatamente anterior.
+
+......................................................” (NR)
+
+Art. 101\. O Anexo III à [Lei nº 10.871, de 20 de maio de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-05-20;10871), passa a vigorar na forma do Anexo CLXIII a esta Medida Provisória.
+
+Art. 102\. A [Lei nº 10.871, de 20 de maio de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-05-20;10871), passa a vigorar acrescida do Anexo III-A, na forma do Anexo CLXIV a esta Medida Provisória.
+
+Art. 103\. A [Lei nº 13.326, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13326), passa a vigorar com as seguintes alterações:
+
+“Art. 16.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+Art. 104\. Os Anexos XXVIII e XXIX à [Lei nº 13.326, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13326), passam a vigorar, respectivamente, na forma dos Anexos CLXV e CLXVI a esta Medida Provisória.
+
+CAPÍTULO XXXIX
+
+DAS CARREIRAS E DO PLANO ESPECIAL DE CARGOS DA AGÊNCIA NACIONAL DE MINERAÇÃO
+
+Art. 105\. A [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046), passa a vigorar com as seguintes alterações:
+
+“Art. 1º Ficam criadas, para exercício na Agência Nacional de Mineração - ANM, as carreiras de:
+
+..........................................................
+
+§ 4º A partir de 1º de janeiro de 2025, os cargos de Especialista em Recursos Minerais, de Analista Administrativo, de Técnico em Atividades de Mineração e de Técnico Administrativo observarão a correlação estabelecida na forma do Anexo I-A.” (NR)
+
+“Art. 1º-A. A partir de 1º de janeiro de 2025, os ocupantes dos cargos das carreiras de que trata o art. 1º passam a ser remunerados exclusivamente por subsídio, fixado em parcela única, conforme especificado no Anexo II-A.” (NR)
+
+“Art. 1º-B. Estão compreendidas no subsídio e não serão mais devidas aos ocupantes dos cargos das carreiras de que trata o art. 1º, a partir de 1º de janeiro de 2025, as seguintes parcelas remuneratórias:
+
+......................................................” (NR)
+
+“Art. 1º-C. Além das parcelas remuneratórias de que trata o art. 1º-B, não serão devidas aos ocupantes dos cargos que integram as carreiras a que se refere o art. 1º, caput, incisos I, II, III e IV, a partir de 1º de janeiro de 2025, as seguintes espécies remuneratórias:
+
+......................................................” (NR)
+
+“Art. 11.....................................................
+
+..........................................................
+
+II – para a Classe C:
+
+a) possuir certificação em eventos de capacitação que totalizem no mínimo trezentas e sessenta horas, no campo específico de atuação de cada carreira, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação que totalizem no mínimo duzentas e quarenta horas, no campo específico de atuação de cada carreira, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; e
+
+III – para a Classe Especial:
+
+a) ser detentor de título de doutor, no campo específico de atuação de cada carreira, e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) ser detentor de título de mestre, no campo específico de atuação de cada carreira, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; ou
+
+c) ser detentor de certificado de conclusão de curso de especialização com duração de no mínimo trezentas e sessenta horas, no campo específico de atuação de cada carreira, e permanência mínima de três anos no último padrão da Classe imediatamente anterior.
+
+......................................................” (NR)
+
+Art. 106\. Os Anexos I, II-A, III, IV, V, VI-B e VI-D à [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046), passam a vigorar, respectivamente, na forma dos Anexos CLXVII, CLXVIII, CLXIX, CLXX, CLXXI, CLXXII e CLXXIII a esta Medida Provisória.
+
+Art. 107\. A [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046), passa a vigorar acrescida do Anexo I-A, na forma do Anexo CLXXIV a esta Medida Provisória.
+
+CAPÍTULO XL
+
+DO PLANO DE CARREIRAS E CARGOS DA PREVIC - PCCPREVIC
+
+Art. 108\. A [Lei nº 12.154, de 23 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-23;12154), passa a vigorar com as seguintes alterações:
+
+“Art. 18.....................................................
+
+..........................................................
+
+§ 3º A partir de 1º de janeiro de 2025, os cargos de que tratam os incisos I, II e II do caput observarão a correlação estabelecida na forma do Anexo I-A.” (NR)
+
+“Art. 20.....................................................
+
+§ 1º........................................................
+
+I –.........................................................
+
+a) cumprimento do interstício mínimo de doze meses de efetivo exercício em cada padrão; e
+
+..........................................................
+
+II –........................................................
+
+a) cumprimento do interstício mínimo de doze meses de efetivo exercício no último padrão de cada classe;
+
+......................................................” (NR)
+
+“Art. 23\. Fica instituída a Gratificação de Desempenho dos Cargos do PCCPREVIC - GDCPREVIC, devida aos servidores ocupantes dos cargos de que trata o art. 18, caput, inciso IV.
+
+Parágrafo único. A gratificação de que trata o caput somente será devida quando o servidor estiver em exercício de atividades inerentes às atribuições do respectivo cargo ou nas unidades da Previc.” (NR)
+
+“Art. 24\. A GDCPREVIC será paga observando-se os seguintes limites:
+
+......................................................” (NR)
+
+“Art. 25\. A pontuação a que se refere a gratificação será assim distribuída:
+
+..........................................................
+
+Parágrafo único. Os valores a serem pagos a título de GDCPREVIC serão calculados por meio da multiplicação do somatório dos pontos auferidos nas avaliações de desempenho individual e institucional pelo valor do ponto constante do Anexo II, fixado para cada cargo, nível, classe e padrão.” (NR)
+
+“Art. 28.....................................................
+
+..........................................................
+
+§ 2º O servidor ativo beneficiário da GDCPREVIC que obtiver avaliação de desempenho individual igual ou inferior a dez pontos não fará jus à parcela referente à avaliação de desempenho institucional do período de avaliação.
+
+§ 3º O servidor ativo beneficiário da GDCPREVIC que obtiver, na avaliação de desempenho individual, pontuação inferior a 50% (cinquenta por cento) do valor máximo dessa parcela será imediatamente submetido a processo de capacitação ou de análise da adequação funcional, conforme o caso, sob responsabilidade da Previc.
+
+......................................................” (NR)
+
+“Art. 29\. Ato do Poder Executivo federal disporá sobre os critérios gerais a serem observados para a realização das avaliações de desempenho individual e institucional da GDCPREVIC.
+
+Parágrafo único. Os critérios e os procedimentos específicos de avaliação institucional e individual e de concessão da GDCPREVIC serão estabelecidos em ato do Ministro de Estado da Previdência Social, observada a legislação pertinente.” (NR)
+
+“Art. 30.....................................................
+
+..........................................................
+
+§ 4º O ato a que se refere o art. 29 definirá o percentual mínimo de alcance das metas abaixo do qual a parcela da GDCPREVIC correspondente à avaliação institucional será igual a zero, sendo os percentuais de gratificação distribuídos proporcionalmente no intervalo entre esse limite e o índice máximo de alcance das metas.” (NR)
+
+“Art. 32\. Até que sejam regulamentados os critérios e os procedimentos de aferição das avaliações de desempenho e processados os resultados do primeiro período de avaliação de desempenho, para fins de atribuição da GDCPREVIC, o valor devido de pagamento mensal por servidor ativo será correspondente a oitenta pontos, observados os respectivos cargos, níveis, classes e padrões.
+
+..........................................................
+
+§ 2º Em caso de afastamentos e licenças considerados como de efetivo exercício, sem prejuízo da remuneração e com direito à percepção de gratificação de desempenho, o servidor continuará percebendo a GDCPREVIC em valor correspondente ao da última pontuação obtida, até que seja processada a sua primeira avaliação após o retorno.
+
+......................................................” (NR)
+
+“Art. 33\. Até que seja processada a sua primeira avaliação de desempenho individual que venha a surtir efeito financeiro, o servidor nomeado para cargo efetivo e aquele que tenha retornado de licença sem vencimento ou cessão sem direito à percepção da GDCPREVIC no decurso do ciclo de avaliação receberá a gratificação no valor correspondente a oitenta pontos.” (NR)
+
+“Art. 34\. O titular de cargo efetivo do PCCPREVIC em efetivo exercício na Previc, quando ocupante de Cargo Comissionado Executivo - CCE ou de Função Comissionada Executiva - FCE de nível 13, equivalente ou superior, fará jus à GDCPREVIC calculada com base no valor máximo da parcela individual, somado ao resultado da avaliação institucional do período.
+
+Parágrafo único. Ocorrendo exoneração do CCE ou dispensa da FCE, com manutenção do cargo efetivo, o servidor que faça jus à GDCPREVIC continuará a perceber a respectiva gratificação de desempenho em valor correspondente ao da última pontuação atribuída, até que seja processada a sua primeira avaliação após a exoneração.” (NR)
+
+“Art. 35\. O ocupante de cargo efetivo do PCCPREVIC que não se encontre desenvolvendo atividades na PREVIC somente fará jus à GDCPREVIC:
+
+..........................................................
+
+II – quando cedido para órgãos ou entidades do Governo federal distintos dos daqueles de que trata o inciso I, o servidor investido em Cargo Comissionado Executivo - CCE ou Função Comissionada Executiva - FCE de nível 13, equivalente ou superior, fará jus à GDCPREVIC calculada com base no resultado da avaliação institucional de desempenho do período; e
+
+......................................................” (NR)
+
+“Art. 36\. A GDCPREVIC não poderá ser paga cumulativamente com quaisquer outras gratificações ou vantagens que tenham como fundamento o desempenho profissional, individual, coletivo ou institucional ou a produção ou a superação de metas, independentemente da sua denominação ou base de cálculo.” (NR)
+
+“Art. 37\. Para fins de incorporação da GDCPREVIC aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 22 a [art. 26 da Lei nº 13.327, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13327!art26); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDCPREVIC corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+“Art. 38\. A estrutura remuneratória dos cargos integrantes do PCCPREVIC compõe-se de:
+
+......................................................” (NR)
+
+“Art. 38-A. A partir de 1º de janeiro de 2025, os ocupantes dos cargos das Carreiras de que trata o art. 18, caput, incisos I a III, passam a ser remunerados exclusivamente por subsídio, fixado em parcela única, conforme especificado no Anexo III-A.
+
+§ 1º Não serão devidas aos titulares de cargos das Carreiras de que trata o art. 18, caput, incisos de I a III, as seguintes espécies remuneratórias:
+
+I – vencimento básico;
+
+II – Gratificação de Desempenho de Atividade na Superintendência de Previdência Complementar - GDAPREVIC;
+
+III – vantagens pessoais e Vantagem Pessoal Nominalmente Identificada - VPNI, de qualquer origem e natureza;
+
+IV – diferenças individuais e resíduos, de qualquer origem e natureza;
+
+V – valores incorporados à remuneração decorrentes do exercício de função de direção, chefia ou assessoramento ou de cargo em comissão;
+
+VI – valores incorporados à remuneração referentes a quintos ou a décimos;
+
+VII – valores incorporados à remuneração a título de adicional por tempo de serviço;
+
+VIII – vantagens incorporadas a proventos ou a pensões com fundamento no disposto nos [art. 180](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art180) e [art. 184 da Lei nº 1.711, de 28 de outubro de 1952](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art184), e nos [art. 190](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art190) e [art. 192 da Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art192);
+
+IX – abonos;
+
+X – valores pagos a título de representação;
+
+XI – adicional pelo exercício de atividades insalubres, perigosas ou penosas;
+
+XII – adicional noturno;
+
+XIII – vantagem pecuniária individual, de que trata a [Lei nº 10.698, de 2 de julho de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-07-02;10698);
+
+XIV – Gratificação de Atividade, de que trata a [Lei Delegada nº 13, de 27 de agosto de 1992](https://normas.leg.br/?urn=urn:lex:br:federal:lei.delegada:1992-08-27;13); e
+
+XV – outros adicionais e gratificações, de qualquer origem e natureza, não mencionados no § 3º.
+
+§ 2º Os titulares de cargos das Carreiras de que trata o art. 18, caput, incisos I a III, não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa ou judicial, ou por extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de decisão judicial transitada em julgado.
+
+§ 3º O subsídio percebido pelos titulares de cargos das Carreiras de que trata o art. 18, caput, incisos I a III, não exclui o direito à percepção, nos termos do disposto na legislação e na regulamentação específica, das seguintes espécies remuneratórias:
+
+I – gratificação natalina;
+
+II – adicional de férias;
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5); e
+
+IV – retribuição pelo exercício de função de direção, chefia ou assessoramento.
+
+§ 4º O disposto no § 3º também se aplica a parcelas indenizatórias previstas em lei.
+
+§ 5º Na hipótese de redução de remuneração, de provento ou de pensão em decorrência da aplicação do disposto nesta Lei aos titulares de cargos das Carreiras de que trata o art. 18, caput, incisos I a III, eventual diferença será paga a título de parcela complementar de subsídio, de natureza provisória, que será gradativamente absorvida por ocasião do desenvolvimento no cargo ou na Carreira por progressão funcional ou promoção ordinária ou extraordinária, da reorganização ou da reestruturação do cargo, da Carreira ou das remunerações previstas nesta Lei ou da concessão de reajuste ou de vantagem de qualquer natureza.
+
+§ 6º A parcela complementar de subsídio a que se refere o § 5º estará sujeita exclusivamente à atualização decorrente da revisão geral da remuneração dos servidores públicos federais.” (NR)
+
+“Art. 38-B. Aplica-se o disposto no art. 38-A desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes das Carreiras de que trata o art. 18, incisos I a III, desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+“Art. 38-C. Os titulares dos cargos de provimento efetivo integrantes da Carreira de Especialista em Previdência Complementar, da Carreira de Analista Administrativo e da Carreira de Técnico Administrativo do PCCPREVIC, somente poderão:
+
+I – ser requisitados pela Presidência ou pela Vice-Presidência da República ou nas hipóteses de requisição previstas em lei;
+
+II – ser cedidos para órgãos ou entidades do Poder Executivo federal para o exercício de CCE ou de FCE de nível mínimo 13 ou equivalente;
+
+III – ser cedidos para órgãos ou entidades de outros Poderes da União para o exercício de cargo em comissão de nível equivalente ou superior a CCE-15; ou
+
+IV – ser cedidos para o exercício de cargo de Secretário de Estado ou do Distrito Federal, de cargo em comissão de nível equivalente ou superior a CCE-15 ou de cargo de dirigente máximo de entidade da administração pública no âmbito dos Estados, do Distrito Federal, de Prefeitura de Capital estadual ou de Município com mais de quinhentos mil habitantes.” (NR)
+
+“Art. 40\. Os padrões de vencimento básico dos cargos do PCCPREVIC e que trata o art. 18, caput, inciso IV, são os constantes do Anexo III.” (NR)
+
+Art. 109\. Os Anexos I, II, III e IV à [Lei nº 12.154, de 23 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-23;12154), passam a vigorar, respectivamente, na forma dos Anexos CLXXV, CLXXVI, CLXXVII e CLXXVIII a esta Medida Provisória.
+
+Art. 110\. A [Lei nº 12.154, de 23 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-23;12154), passa a vigorar acrescida dos Anexos I-A e III-A, na forma dos Anexos CLXXIX e CLXXX a esta Medida Provisória.
+
+CAPÍTULO XLI
+
+DAS CARREIRAS E DO PLANO ESPECIAL DE CARGOS DO DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT
+
+Art. 111\. A [Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 5º A partir de 1º de janeiro de 2025, os cargos de que tratam os incisos de I a IV do caput observarão a correlação estabelecida na forma do Anexo IV-B.” (NR)
+
+“Art. 1º-E. A partir de 1º de janeiro de 2025, os ocupantes dos cargos das carreiras de que trata o art. 1º, caput, incisos I a IV, passam a ser remunerados exclusivamente por subsídio, fixado em parcela única, conforme especificado no Anexo II-A.
+
+§ 1º Não serão devidas aos titulares de cargos das carreiras de que trata o art. 1º, caput, incisos I a IV, as seguintes espécies remuneratórias:
+
+I – vencimento básico;
+
+II – Gratificação de Desempenho de Atividade de Infraestrutura de Transportes - GDAIT;
+
+III – Gratificação de Qualificação - GQ;
+
+IV – Gratificação de Desempenho de Atividades Administrativas do Dnit - GDADNIT;
+
+V – vantagens pessoais e Vantagem Pessoal Nominalmente Identificada - VPNI, de qualquer origem e natureza;
+
+VI – diferenças individuais e resíduos, de qualquer origem e natureza;
+
+VII – valores incorporados à remuneração decorrentes do exercício de função de direção, chefia ou assessoramento ou de cargo em comissão;
+
+VIII – valores incorporados à remuneração referentes a quintos ou a décimos;
+
+IX – valores incorporados à remuneração a título de adicional por tempo de serviço;
+
+X – vantagens incorporadas a proventos ou a pensões com fundamento no disposto nos [art. 180](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art180) e [art. 184 da Lei nº 1.711, de 28 de outubro de 1952](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art184), e nos [art. 190](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art190) e [art. 192 da Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art192);
+
+XI – abonos;
+
+XII – valores pagos a título de representação;
+
+XIII – adicional pelo exercício de atividades insalubres, perigosas ou penosas;
+
+XIV – adicional noturno;
+
+XVI – vantagem pecuniária individual, de que trata a [Lei nº 10.698, de 2 de julho de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-07-02;10698);
+
+XVII – Gratificação de Atividade, de que trata a [Lei Delegada nº 13, de 27 de agosto de 1992](https://normas.leg.br/?urn=urn:lex:br:federal:lei.delegada:1992-08-27;13); e
+
+XVIII – outros adicionais e gratificações, de qualquer origem e natureza, não mencionados no § 3º.
+
+§ 2º Os titulares de cargos das carreiras de que trata o art. 1º, caput, incisos I a IV, não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa ou judicial, ou por extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de decisão judicial transitada em julgado.
+
+§ 3º O subsídio percebido pelos titulares de cargos das carreiras de que trata o art. 1º, caput, incisos I a IV, não exclui o direito à percepção, nos termos do disposto na legislação e na regulamentação específica, das seguintes espécies remuneratórias:
+
+I – gratificação natalina;
+
+II – adicional de férias;
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19) e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5); e
+
+IV – retribuição pelo exercício de função de direção, chefia ou assessoramento.
+
+§ 4º O disposto no § 3º também se aplica a parcelas indenizatórias previstas em lei.
+
+§ 5º Na hipótese de redução de remuneração, de provento ou de pensão em decorrência da aplicação do disposto nesta Lei aos titulares de cargos das carreiras de que trata o art. 1º, caput, incisos I a IV, eventual diferença será paga a título de parcela complementar de subsídio, de natureza provisória, que será gradativamente absorvida por ocasião do desenvolvimento no cargo ou na carreira por progressão funcional ou promoção ordinária ou extraordinária, da reorganização ou da reestruturação do cargo, da carreira ou das remunerações previstas nesta Lei ou da concessão de reajuste ou de vantagem de qualquer natureza.
+
+§ 6º A parcela complementar de subsídio a que se refere o § 5º estará sujeita exclusivamente à atualização decorrente da revisão geral da remuneração dos servidores públicos federais.” (NR)
+
+“Art. 1º-F. Aplica-se o disposto no art. 1º-E desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes das carreiras de que trata o art. 1º, caput, incisos I a IV, desta Lei que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+“Art. 11.....................................................
+
+..........................................................
+
+II – para a Classe C:
+
+a) possuir certificação em eventos de capacitação, que totalizem no mínimo trezentas e sessenta horas, no campo específico de atuação de cada carreira, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação, que totalizem no mínimo duzentas e quarenta horas, no campo específico de atuação de cada carreira, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; e
+
+III – para a Classe Especial:
+
+a) ser detentor de título de doutor no campo específico de atuação de cada carreira e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) ser detentor de título de mestre no campo específico de atuação de cada carreira e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; ou
+
+c) ser detentor de certificado de conclusão de curso de especialização com duração de no mínimo trezentas e sessenta horas no campo específico de atuação de cada carreira e permanência mínima de três anos no último padrão da Classe imediatamente anterior.” (NR)
+
+“Art. 11-A....................................................
+
+..........................................................
+
+II – para a Classe C possuir certificação em eventos de capacitação que totalizem, no mínimo, cento e vinte horas, no campo específico de atuação de cada carreira, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; e
+
+III – para a Classe Especial:
+
+a) permanência mínima de um ano no último padrão da Classe imediatamente anterior e possuir certificação em eventos de capacitação que totalizem, no mínimo, duzentas e quarenta horas, no campo específico de atuação de cada carreira; ou
+
+b) permanência mínima de três anos no último padrão da Classe imediatamente anterior e possuir certificação em eventos de capacitação que totalizem, no mínimo, cento e oitenta horas, no campo específico de atuação de cada carreira.” (NR)
+
+“Art. 15\. Fica instituída a Gratificação de Desempenho de Atividade de Transportes - GDIT, devida aos servidores do Plano Especial de Cargos do DNIT, ocupantes dos cargos de nível superior de Arquiteto, Economista, Engenheiro, Engenheiro Agrônomo, Engenheiro de Operações, Estatístico e Geólogo e de nível intermediário de Agente de Serviços de Engenharia, Técnico de Estradas e Tecnologista, quando em exercício de atividades inerentes às atribuições do respectivo cargo no DNIT.” (NR)
+
+“Art. 21\. Para fins de incorporação da GDIT e a GDAPEC aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a GDIT e a GDAPEC corresponderão a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+“Art. 22\. É instituída a Gratificação de Qualificação - GQ, a ser concedida aos ocupantes dos cargos referidos nos art. 3º-A e art. 3º-B, em retribuição ao cumprimento de requisitos técnico-funcionais, acadêmicos e organizacionais necessários ao desempenho das atividades de supervisão, gestão ou assessoramento, quando em efetivo exercício do cargo, na forma estabelecida em regulamento, de acordo com os valores constantes do Anexo VIII, com efeitos financeiros a partir da data nele especificada.
+
+......................................................” (NR)
+
+“Art. 28\. Fica vedada a cessão de servidores integrantes das carreiras de que trata o art. 1º para outros órgãos ou entidades da administração pública federal, dos Estados, do Distrito Federal e dos Municípios, durante os primeiros dez anos de efetivo exercício no DNIT, contados a partir do ingresso no cargo das respectivas carreiras.
+
+Parágrafo único. Excetua-se do disposto no caput deste artigo a requisição para o atendimento de situações previstas em leis específicas, ou a cessão para a ocupação de cargos de Natureza Especial ou para o exercício de CCE ou de FCE de nível 13, equivalente ou superior no âmbito do Ministério dos Transportes.” (NR)
+
+“Art. 28-A. Observado o disposto no art. 28, os titulares dos cargos de provimento efetivo integrantes da carreira de Infraestrutura de Transportes e da carreira de Analista Administrativo do DNIT somente poderão:
+
+I – ser requisitados pela Presidência ou pela Vice-Presidência da República ou nas hipóteses de requisição previstas em lei;
+
+II – ser cedidos para órgãos ou entidades do Poder Executivo federal para o exercício de Cargo Comissionado Executivo - CCE ou de Função Comissionada Executiva -FCE de nível 13, equivalente ou superior;
+
+III – ser cedidos para órgãos ou entidades de outros Poderes da União para o exercício de cargo em comissão de nível equivalente ou superior a CCE 15; ou
+
+IV – ser cedidos para o exercício de cargo de Secretário de Estado ou do Distrito Federal, de cargo em comissão de nível equivalente ou superior a CCE 15 ou de cargo de dirigente máximo de entidade da administração pública indireta no âmbito dos Estados, do Distrito Federal, de Prefeitura de Capital estadual ou de Município com mais de quinhentos mil habitantes.” (NR)
+
+Art. 112\. Os Anexos I, III, IV, V, VII e VIII à [Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171), passam a vigorar, respectivamente, na forma dos Anexos CLXXXI, CLXXXII, CLXXXIII, CLXXXIV, CLXXXV e CLXXXVI a esta Medida Provisória.
+
+Art. 113\. A [Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171), passa a vigorar acrescida dos Anexos II-A e IV-B, respectivamente, na forma dos Anexos CLXXXVII e CLXXXVIII a esta Medida Provisória.
+
+CAPÍTULO XLII
+
+DO PLANO DE CARREIRA DOS CARGOS DE REFORMA E DESENVOLVIMENTO AGRÁRIO
+
+Art. 114\. A [Lei nº 11.090, de 7 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-07;11090), passa a vigorar com a seguintes alterações:
+
+“Art. 1º.....................................................
+
+§ 1º........................................................
+
+..........................................................
+
+III – Analista Administrativo - execução de atividades administrativas e logísticas de nível superior relativas ao exercício das competências do órgão ou da entidade de exercício; e
+
+IV – Técnico Administrativo - exercício de atividades administrativas e logísticas de nível intermediário relativas ao exercício das competências do órgão ou da entidade de exercício.
+
+..........................................................
+
+§ 4º A partir de 1º de janeiro de 2025, a estrutura dos cargos do Plano de Carreira passa a ser a constante da Tabela II do Anexo I, observada a correlação estabelecida na forma da Tabela II do Anexo III.” (NR)
+
+“Art. 1º-A. Os ocupantes dos cargos de que trata o art. 1º terão lotação no INCRA, na qualidade de órgão supervisor, e exercício descentralizado em órgãos e entidades da administração pública federal direta, autárquica e fundacional com competências relativas às políticas relacionadas à realização do ordenamento territorial, à regularização da estrutura fundiária e à promoção e à execução da reforma agrária e da colonização.” (NR)
+
+“Art. 10.....................................................
+
+I –.........................................................
+
+a) possuir certificação em eventos de capacitação, totalizando no mínimo duzentas e quarenta horas, no campo específico de atuação de cada cargo, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação, totalizando no mínimo cento e oitenta horas, no campo específico de atuação de cada cargo, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior;
+
+II –........................................................
+
+a) possuir certificação em eventos de capacitação, totalizando no mínimo trezentas e sessenta horas, no campo específico de atuação de cada cargo, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação, totalizando no mínimo duzentas e quarenta horas, no campo específico de atuação de cada cargo, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; e
+
+III –........................................................
+
+a) ser detentor de título de doutor no campo específico de atuação de cada cargo e permanência mínima de um ano no último padrão da Classe imediatamente anterior;
+
+b) ser detentor de título de mestre no campo específico de atuação de cada cargo e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; ou
+
+c) ser detentor de certificado de conclusão de curso de especialização com duração de no mínimo trezentas e sessenta horas, no campo específico de atuação de cada cargo, e permanência mínima de três anos no último padrão da Classe imediatamente anterior.” (NR)
+
+“Art. 11.....................................................
+
+I –.........................................................
+
+a) possuir certificação em eventos de capacitação, totalizando no mínimo cento e oitenta horas, no campo específico de atuação de cada cargo, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação, totalizando no mínimo cento e vinte horas, no campo específico de atuação de cada cargo, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior;
+
+II –........................................................
+
+a) possuir certificação em eventos de capacitação, totalizando no mínimo duzentas e quarenta horas, no campo específico de atuação de cada cargo, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação, totalizando no mínimo cento e oitenta horas, no campo específico de atuação de cada cargo, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior; e
+
+III –........................................................
+
+a) possuir certificação em eventos de capacitação, totalizando no mínimo trezentas e sessenta horas, no campo específico de atuação de cada cargo, e permanência mínima de um ano no último padrão da Classe imediatamente anterior; ou
+
+b) possuir certificação em eventos de capacitação, totalizando no mínimo duzentas e quarenta horas, no campo específico de atuação de cada cargo, e permanência mínima de dois anos no último padrão da Classe imediatamente anterior.” (NR)
+
+“Art. 15\. Fica instituída a Gratificação de Desempenho de Atividade de Reforma Agrária - GDARA, devida aos ocupantes dos cargos do Plano de Carreira dos Cargos de Reforma e Desenvolvimento Agrário, quando em exercício de atividades inerentes às atribuições do respectivo cargo em órgãos e em entidades da administração pública federal direta, autárquica e fundacional que tenham atuação nas políticas relacionadas à realização do ordenamento, à regularização da estrutura fundiária e à promoção e à execução da reforma agrária e da colonização.” (NR)
+
+“Art. 16.....................................................
+
+..........................................................
+
+§ 8º A avaliação de desempenho individual visa aferir o desempenho do servidor, no exercício das atribuições do cargo ou da função, para o alcance das metas de desempenho institucional.
+
+......................................................” (NR)
+
+“Art. 16-B. Os titulares dos cargos de provimento efetivo de que trata o art. 1º em exercício em órgãos ou entidades da administração pública federal direta, autárquica e fundacional com competências relativas às políticas relacionadas à realização do ordenamento territorial, à regularização da estrutura fundiária e à promoção e à execução da reforma agrária e da colonização, quando investidos em cargo em comissão ou função de confiança farão jus à GDARA da seguinte forma:
+
+......................................................” (NR)
+
+“Art. 16-C. Os titulares dos cargos de provimento efetivo de que trata o art. 1º quando não se encontrarem em exercício em órgãos ou em entidades da administração pública federal direta, autárquica e fundacional com competências relativas às políticas relacionadas à realização do ordenamento territorial, à regularização da estrutura fundiária e à promoção e à execução da reforma agrária e da colonização, somente farão jus à GDARA:
+
+......................................................” (NR)
+
+“Art. 22\. Para fins de incorporação da GDARA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+III – quando o benefício de aposentadoria ou de pensão tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+
+IV – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, aplica-se o disposto no inciso I do caput, conforme interstício cumprido pelo instituidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos III e IV do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 115\. Os Anexos I, II, III e V à [Lei nº 11.090, de 7 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-07;11090), passam a vigorar, respectivamente, na forma dos Anexos CLXXXIX, CXC, CXCI e CXCII a esta Medida Provisória.
+
+CAPÍTULO XLIII
+
+DA CARREIRA DE PERITO FEDERAL TERRITORIAL
+
+Art. 116\. A [Lei nº 10.550, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10550), passa a vigorar com a seguintes alterações:
+
+“Art. 1º-B. Fica estruturada a Carreira de Perito Federal Territorial, composta dos cargos efetivos de Perito Federal Territorial, de nível superior, com atribuições voltadas para o planejamento, a coordenação, a orientação, a implementação, o acompanhamento e a fiscalização de atividades inerentes à ocupação e ao uso do solo e de atividades de governança territorial, fundiária e patrimonial da União.
+
+§ 1º Os cargos de que trata o caput serão classificados em especialidades, conforme habilitações específicas necessárias ao desempenho de suas atribuições, nos termos estabelecidos em regulamento.
+
+§ 2º As atribuições específicas de cada especialidade serão definidas em regulamento.
+
+§ 3º Os atuais cargos de Engenheiro Agrônomo, integrantes da Carreira de Perito Federal Agrário, serão enquadrados na Carreira de Perito Federal Territorial, na especialidade correspondente a sua formação, nos termos estabelecidos em regulamento, e observada a correlação estabelecida na forma do Anexo I-D.
+
+§ 4º Os cargos vagos de Engenheiro Agrônomo, integrantes da Carreira de Perito Federal Agrário, ficam transformados em cargos de Perito Federal Territorial, da Carreira de Perito Federal Territorial.” (NR)
+
+“Art. 1º-C. A partir de 1º de janeiro de 2025, a estrutura da Carreira de Perito Federal Territorial passa a ser a constante do Anexo I-C, observada a correlação estabelecida na forma do Anexo I-D.” (NR)
+
+“Art. 3º O desenvolvimento do servidor na Carreira de Perito Federal Territorial ocorrerá mediante progressão funcional e promoção.
+
+......................................................” (NR)
+
+“Art. 4º O vencimento básico dos integrantes da Carreira de Perito Federal Territorial é o constante do Anexo II.
+
+Parágrafo único. A jornada de trabalho dos integrantes da Carreira de Perito Federal Territorial é de quarenta horas semanais.” (NR)
+
+“Art. 4º-E. A partir de 1º de janeiro de 2025, a estrutura remuneratória dos cargos integrantes da Carreira de Perito Federal Territorial será composta de:
+
+I – vencimento básico; e
+
+II – Gratificação de Desempenho de Atividade de Perito Federal Territorial - GDAPA.” (NR)
+
+“Art. 5º-A. A partir de 1º de janeiro de 2025, a Gratificação de Desempenho de Atividade de Perito Federal Agrário - GDAPA passa a se denominar Gratificação de Desempenho de Atividade de Perito Federal Territorial - GDAPA, devida aos servidores ocupantes dos cargos de Perito Federal Territorial que integrarem a Carreira de Perito Federal Territorial, quando em exercício das atividades inerentes às atribuições do respectivo cargo.” (NR)
+
+“Art. 6º A gratificação instituída no art. 5º-A terá como limites:
+
+..........................................................
+
+§ 5º A avaliação de desempenho individual visa aferir o desempenho do servidor no exercício das atribuições do cargo ou da função, para o alcance das metas de desempenho institucional.
+
+......................................................” (NR)
+
+“Art. 9º Para fins de incorporação da GDAPA aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam por período inferior a 60 meses; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade; ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 117\. Os Anexos I-C, I-D, II e III à [Lei nº 10.550, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10550), passam a vigorar, respectivamente, na forma dos Anexos CXCIII, CXCIV, CXCV e CXCVI a esta Medida Provisória.
+
+CAPÍTULO XLIV
+
+DA CARREIRA DE DIPLOMATA
+
+Art. 118\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Art. 29.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19), e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 30\. Aplica-se o disposto nos art. 25 a art. 29 às aposentadorias e às pensões dos cargos a que se refere o art. 25 desta Lei e que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+Art. 119\. O Anexo VII à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar na forma do Anexo CXCVII a esta Medida Provisória.
+
+CAPÍTULO XLV
+
+DAS CARREIRAS DE OFICIAL DE CHANCELARIA E DE ASSISTENTE DE CHANCELARIA
+
+Art. 120\. A [Lei nº 12.775, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12775), passa a vigorar com as seguintes alterações:
+
+“Art. 5º.....................................................
+
+..........................................................
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19), e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+......................................................” (NR)
+
+“Art. 7º Aplica-se o disposto nos art. 1º a art. 6º às aposentadorias e às pensões dos cargos a que se refere o art. 1º desta Lei e que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+Art. 121\. Os Anexos I e II à [Lei nº 12.775, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12775), passam a vigorar, respectivamente, na forma dos Anexos CXCVIII e CXCIX a esta Medida Provisória.
+
+CAPÍTULO XLVI
+
+DA CARREIRA DO SEGURO SOCIAL
+
+Art. 122\. A [Lei nº 10.855, de 1º de abril de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-01;10855), passa a vigorar com as seguintes alterações:
+
+“Art. 5º-B. São atribuições específicas da Carreira do Seguro Social, entre outras dispostas em regulamento:
+
+I – no exercício da competência finalística do INSS e em caráter exclusivo:
+
+......................................................” (NR)
+
+“Art. 16\. Para fins de incorporação da GDASS aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º-A. Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º-A. Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 123\. Os Anexos I-A, II-A, IV-A e VI-A à [Lei nº 10.855, de 1º de abril de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-01;10855), passam a vigorar, respectivamente, com as alterações constantes dos Anexos CC, CCI, CCII e CCIII a esta Medida Provisória.
+
+CAPÍTULO XLVII
+
+DA CARREIRA PREVIDENCIÁRIA
+
+Art. 124\. A [Lei nº 10.355, de 26 de dezembro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-12-26;10355), passa a vigorar com as seguintes alterações:
+
+“Art. 3º-A. Fica instituída, a partir de 1º de julho de 2008, a Gratificação Específica Previdenciária - GEP, devida aos integrantes da Carreira Previdenciária.
+
+Parágrafo único. A GEP passa a ter os valores constantes do Anexo IV e produzirão efeitos financeiros a partir da data nele especificada.” (NR)
+
+Art. 125\. Os Anexos II-A e III à [Lei nº 10.355, de 26 de dezembro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-12-26;10355), passam a vigorar, respectivamente, na forma dos Anexos CCIV e CCV a esta Medida Provisória.
+
+Art. 126\. A [Lei nº 10.355, de 26 de dezembro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-12-26;10355), passa a vigorar acrescida do Anexo IV, na forma do Anexo CCVI a esta Medida Provisória.
+
+CAPÍTULO XLVIII
+
+DAS CARREIRAS E DO PLANO ESPECIAL DE CARGOS DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE
+
+Art. 127\. A [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passa a vigorar com as seguintes alterações:
+
+“Art. 40-E. A partir de 1º de janeiro de 2025, a estrutura remuneratória do cargo de Especialista em Financiamento e Execução de Programas e Projetos Educacionais da Carreira de Financiamento e Execução de Programas e Projetos Educacionais será composta de:
+
+I – vencimento básico; e
+
+II – Retribuição por Titulação - RT.” (NR)
+
+“Art. 40-F. A partir de 1º de janeiro de 2025, a estrutura remuneratória do cargo de Técnico em Financiamento e Execução de Programas e Projetos Educacionais da Carreira de Suporte Técnico ao Financiamento e Execução de Programas e Projetos Educacionais será composta de:
+
+I – vencimento básico; e
+
+II – Gratificação de Qualificação - GQ.” (NR)
+
+“Art. 40-G. A partir de 1º de janeiro de 2025, os cargos integrantes das Carreiras de que trata o art. 40, caput, incisos I e II passam a ser organizados em classes e padrões conforme o disposto no Anexo XVI-E, observada a correlação estabelecida na forma do Anexo XVI-F.
+
+Parágrafo único. Os valores do vencimento básico dos cargos a que se refere o caput são os constantes do Anexo XVI-G e produzirão efeitos financeiros a partir das datas nele especificadas.” (NR)
+
+“Art. 47-B. A partir de 1º de janeiro de 2025, os ocupantes dos cargos das Carreiras de que trata o art. 40, caput, incisos I e II e do Plano Especial de Cargos de que trata o art. 42 serão reposicionados na tabela de Estrutura de Classes e Padrões da respectiva Carreira ou Plano que integram, considerado o tempo de efetivo exercício.
+
+Parágrafo único. O reposicionamento equivalerá a um padrão para cada interstício de doze meses e não gerará efeitos financeiros retroativos.” (NR)
+
+“Art. 48-M. Para fins de incorporação da GDPFNDE aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 14 a [art. 18 da Lei nº 13.325, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13325!art18); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 128\. Os Anexos XVI-E, XVI-F, XVI-G, XVIII-C, XIX-D, XX-A, XX-C e XX-D à [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passam a vigorar, respectivamente, com as alterações constantes dos Anexos CCVII, CCVIII, CCIX, CCX, CCXI, CCXII, CCXIII e CCXIV a esta Medida Provisória.
+
+CAPÍTULO XLIX
+
+DAS CARREIRAS E DO PLANO ESPECIAL DE CARGOS DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA - INEP
+
+Art. 129\. A [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passa a vigorar com as seguintes alterações:
+
+“Art. 53-E. A partir de 1º de janeiro de 2025, a estrutura remuneratória do cargo de Pesquisador-Tecnologista em Informações e Avaliações Educacionais da Carreira de Pesquisa e Desenvolvimento de Informações e Avaliações Educacionais será composta de:
+
+I – vencimento básico; e
+
+II – Retribuição por Titulação - RT.” (NR)
+
+“Art. 53-F. A partir de 1º de janeiro de 2025, a estrutura remuneratória do cargo de Técnico em Informações Educacionais da Carreira de Suporte Técnico em Informações Educacionais será composta de:
+
+I – vencimento básico; e
+
+II – Gratificação de Qualificação - GQ.” (NR)
+
+“Art. 53-G. A partir de 1º de janeiro de 2025, os cargos integrantes das Carreiras de que trata o art. 53, caput, incisos I e II, passam a ser organizados em classes e padrões, conforme o disposto no Anexo XXI-D, observada a correlação estabelecida na forma do Anexo XXI-E.
+
+Parágrafo único. Os valores do vencimento básico dos cargos a que se refere o caput são os constantes do Anexo XXI-F e produzirão efeitos financeiros a partir das datas nele especificadas.” (NR)
+
+“Art. 61-B. A partir de 1º de janeiro de 2025, os servidores das Carreiras de que trata o art. 53, caput, incisos I e II e do Plano Especial de Cargos de que trata o art. 55 serão reposicionados na tabela de Estrutura de Classes e Padrões da respectiva Carreira ou Plano que integram, considerado o tempo de efetivo exercício.
+
+Parágrafo único. O reposicionamento equivalerá a um padrão para cada interstício de doze meses e não gerará efeitos financeiros retroativos.” (NR)
+
+“Art. 62-F. Para fins de incorporação da GDINEP aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+b) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+c) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 14 a [art. 18 da Lei nº 13.325, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13325!art18); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 130\. Os Anexos XXI-D, XXI-E, XXI-F, XXIII-E, XXIV-C, XXV-C, XXV-D, e XXV-E da [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357), passam a vigorar na forma dos Anexos CCXV, CCXVI, CCXVII, CCXVIII, CCXIX, CCXX, CCXXI e CCXXII a esta Medida Provisória.
+
+CAPÍTULO L
+
+DO PLANO DE CARREIRA DOS CARGOS TÉCNICO-ADMINISTRATIVOS EM EDUCAÇÃO
+
+Art. 131\. A [Lei nº 11.091, de 12 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-12;11091), passa a vigorar com as seguintes alterações:
+
+“Art. 5º.....................................................
+
+..........................................................
+
+III – padrão de vencimento: posição do servidor na escala de vencimento da carreira em função do cargo e nível de classificação;
+
+......................................................” (NR)
+
+“Art. 7º Os cargos do Plano de Carreira são organizados em cinco níveis de classificação A, B, C, D e E, de acordo com o disposto no art. 5º, caput, inciso II, no Anexo II e no Anexo II-A.” (NR)
+
+“Art. 7º-A. A partir de 1º de janeiro de 2025, os cargos que compõem o Plano de Carreira em cada nível de classificação serão estruturados em dezenove padrões de vencimento, conforme correlação estabelecida no Anexo I-D.” (NR)
+
+“Art. 7º-B. Integrarão o Plano de Carreira dos Cargos Técnico-Administrativos em Educação os seguintes cargos:
+
+I – Técnico em Educação: no nível de classificação D, com atribuições voltadas para o exercício de atividades de apoio técnico, administrativo e logístico, relativas à execução das competências constitucionais e legais das Instituições Federais de Ensino; e
+
+II – Analista em Educação: no nível de classificação E, com atribuições voltadas para o exercício de atividades técnicas, administrativas e logísticas, relativas à execução das competências constitucionais e legais a cargo das Instituições Federais de Ensino.
+
+§ 1º Ficam criados, por transformação dos cargos vagos constantes da Tabela I do Anexo VIII, observado o disposto no art. 7º-C, os seguintes cargos no âmbito do Ministério da Educação, para redistribuição às Instituições Federais de Ensino:
+
+I – quatro mil e quarenta cargos de Técnico em Educação; e
+
+II – seis mil e sessenta cargos de Analista em Educação.
+
+§ 2º O concurso público para ingresso nos cargos a que se refere o § 1º ocorrerá após a sua regulamentação.
+
+§ 3º Poderão ser exigidos outros requisitos de ingresso em razão do exercício da profissão.
+
+§ 4º As áreas, as especialidades, a formação e as atribuições específicas para os cargos a que se refere os incisos I e II do caput serão estabelecidas em regulamento.” (NR)
+
+“Art. 7º-C. Os cargos vagos e os que vierem a vagar constantes da Tabela III do Anexo VIII ficarão provisoriamente alocados no Ministério da Educação.” (NR)
+
+“Art. 7º-D. Fica autorizada a transformação, sem aumento de despesa, dos cargos que vierem a vagar constantes da Tabela II do Anexo VIII nos seguintes cargos:
+
+I – seis mil duzentos e vinte e seis cargos de Técnico em Educação; e
+
+II – nove mil trezentos e quarenta cargos de Analista em Educação.” (NR)
+
+“Art. 7º-E. O Ministério da Educação deverá submeter à apreciação e à autorização do Órgão Central do Sistema de Pessoal Civil da Administração Federal - Sipec as transformações dos cargos que vierem a vagar a que se refere o art. 7º-D, observada a adequação orçamentária e financeira.” (NR)
+
+“Art. 8º.....................................................
+
+..........................................................
+
+II – planejar, organizar, executar ou avaliar as atividades técnico-administrativas e especializadas relativas às ações de pesquisa, extensão, inovação, gestão e assistência especializada nas Instituições Federais de Ensino; e
+
+III – executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de pesquisa, extensão, inovação, gestão e assistência especializada das Instituições Federais de Ensino.
+
+......................................................” (NR)
+
+“Art. 9º O ingresso nos cargos do Plano de Carreira ocorrerá no padrão inicial do respectivo nível de classificação, mediante concurso público de provas ou de provas e títulos, observados os requisitos de ingresso estabelecidos no Anexo II.
+
+......................................................” (NR)
+
+“Art. 10-B. A partir de 1º de janeiro de 2025, o desenvolvimento do servidor na carreira ocorrerá pela mudança de padrão de vencimento mediante progressão por mérito ou aceleração da progressão por capacitação.
+
+§ 1º Progressão por mérito é a mudança para o padrão de vencimento imediatamente subsequente, a cada doze meses de efetivo exercício, desde que o servidor apresente resultado fixado em programa de avaliação de desempenho.
+
+§ 2º Na contagem do interstício necessário à progressão por mérito de que trata o caput, será aproveitado o tempo computado desde a última progressão.
+
+§ 3º Aceleração da progressão por capacitação é a mudança de padrão de vencimento, decorrente da obtenção pelo servidor de certificação em programa de capacitação, compatível com o cargo ocupado, respeitado o interstício de cinco anos de efetivo exercício e cumprida a carga horária mínima em ações de desenvolvimento, nos termos do disposto no Anexo III-A.
+
+§ 4º Para fins de cumprimento do interstício estabelecido no § 3º, deverá ser computado cinco anos de efetivo exercício do servidor para cada mudança de padrão de vencimento decorrente de desenvolvimento na carreira pelo antigo instituto de progressão por capacitação.
+
+§ 5º Para fins de aceleração da progressão por capacitação, cada evento de capacitação deverá ser computado uma única vez.” (NR)
+
+“Art. 12-A. A partir de 1º de janeiro de 2025, o Incentivo à Qualificação será calculado com base no padrão de vencimento percebido pelo servidor, na forma do Anexo IV.
+
+§ 1º Para fins de concessão do Incentivo à Qualificação, o Poder Executivo federal estabelecerá os critérios e os processos de validação dos certificados e títulos, observadas as diretrizes previstas no art. 24, § 2º.
+
+§ 2º O Incentivo à Qualificação de que trata o caput será concedido aos servidores que possuírem certificado, diploma ou titulação que exceda a exigência de escolaridade mínima para ingresso no cargo do qual seja titular, independentemente do nível de classificação do cargo ocupado.
+
+§ 3º Os percentuais do Incentivo à Qualificação não são acumuláveis e serão incorporados aos respectivos proventos de aposentadoria e pensão.
+
+§ 4º O Incentivo à Qualificação somente integrará os proventos de aposentadorias e as pensões quando os certificados considerados para a sua concessão tiverem sido obtidos até a data em que se deu a aposentadoria ou a instituição da pensão.” (NR)
+
+“Art. 13\. A remuneração dos integrantes do Plano de Carreira será composta do vencimento básico do padrão de vencimento do nível de classificação do cargo ocupado pelo servidor, acrescido dos incentivos previstos nesta Lei e das demais vantagens pecuniárias estabelecidas em lei.
+
+......................................................” (NR)
+
+“Art. 14\. Os vencimentos básicos do Plano de Carreira dos Cargos Técnico-Administrativos em Educação estão estruturados na forma do Anexo I-D, com produção de efeitos financeiros a partir das datas nele especificadas.
+
+......................................................” (NR)
+
+“Art. 15.....................................................
+
+..........................................................
+
+§ 6º A parcela complementar de que tratam os § 2º e § 3º não será absorvida por força dos aumentos remuneratórios com efeitos financeiros a partir de 2025 e 2026.” (NR)
+
+Art. 132\. O Anexo IV à [Lei nº 11.091, de 12 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-12;11091), passa a vigorar na forma do Anexo CCXXIII a esta Medida Provisória.
+
+Art. 133\. A [Lei nº 11.091, de 12 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-12;11091), passa a vigorar acrescida dos Anexos I-D, II-A, III-A e VIII, na forma dos Anexos CCXXIV, CCXXV, CCXXVI e CCXXVII a esta Medida Provisória.
+
+CAPÍTULO LI
+
+DA CARREIRA DE ANALISTA DE INFRAESTRUTURA E DO CARGO ISOLADO DE ESPECIALISTA EM INFRAESTRUTURA SÊNIOR
+
+Art. 134\. A [Lei nº 11.539, de 8 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-08;11539), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 7º A partir de 1º de janeiro de 2025, o cargo de Analista de Infraestrutura observará a correlação estabelecida na forma do Anexo I-A.” (NR)
+
+“Art. 4º-B. A partir de 1º de janeiro de 2025, a estrutura remuneratória do cargo isolado de Especialista em Infraestrutura Sênior será composta de:
+
+I – vencimento básico, conforme o Anexo II; e
+
+II – Gratificação de Desempenho de Atividade em Infraestrutura - GDAIE, conforme o Anexo III.” (NR)
+
+“Art. 4º-C. A partir de 1º de janeiro de 2025, os ocupantes do cargo de Analista de Infraestrutura passam a ser remunerados exclusivamente por subsídio, fixado em parcela única, conforme especificado no Anexo II-A.
+
+§ 1º Não serão devidas aos titulares do cargo de Analista de Infraestrutura as seguintes espécies remuneratórias:
+
+I – vencimento básico;
+
+II – Gratificação de Desempenho de Atividade em Infraestrutura - GDAIE;
+
+III – Gratificação de Qualificação - GQ;
+
+IV – vantagens pessoais e Vantagem Pessoal Nominalmente Identificada - VPNI, de qualquer origem e natureza;
+
+V – diferenças individuais e resíduos, de qualquer origem e natureza;
+
+VI – valores incorporados à remuneração decorrentes do exercício de função de direção, chefia ou assessoramento ou de cargo em comissão;
+
+VII – valores incorporados à remuneração referentes a quintos ou a décimos;
+
+VIII – valores incorporados à remuneração a título de adicional por tempo de serviço;
+
+IX – vantagens incorporadas a proventos ou pensões com fundamento nos [art. 180](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art180) e [art. 184 da Lei nº 1.711, de 28 de outubro de 1952](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art184), e nos [art. 190](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art190) e [art. 192 da Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art192);
+
+X – abonos;
+
+XI – valores pagos a título de representação;
+
+XII – adicional pelo exercício de atividades insalubres, perigosas ou penosas;
+
+XIII – adicional noturno;
+
+XIV – Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal - GSISTE, de que trata o [art. 15 da Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356!art15);
+
+XV – vantagem pecuniária individual, de que trata a [Lei nº 10.698, de 2 de julho de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-07-02;10698);
+
+XVI – Gratificação de Atividade, de que trata a [Lei Delegada nº 13, de 27 de agosto de 1992](https://normas.leg.br/?urn=urn:lex:br:federal:lei.delegada:1992-08-27;13); e
+
+XVII – outros adicionais e gratificações, de qualquer origem e natureza, que não estejam explicitamente referidos no § 3º.
+
+§ 2º Os titulares do cargo de Analista de Infraestrutura não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa ou judicial, ou por extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de sentença judicial transitada em julgado.
+
+§ 3º O subsídio percebido pelos titulares do cargo de Analista de Infraestrutura não exclui o direito à percepção, nos termos da legislação e de regulamentação específica, das seguintes espécies remuneratórias:
+
+I – gratificação natalina;
+
+II – adicional de férias;
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19), e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5); e
+
+IV – retribuição pelo exercício de função de direção, chefia ou assessoramento.
+
+§ 4º O disposto no § 3º também se aplica a parcelas indenizatórias previstas em lei.
+
+§ 5º Na hipótese de redução de remuneração, de provento ou de pensão em decorrência da aplicação do disposto nesta Lei aos titulares do cargo de Analista de Infraestrutura, eventual diferença será paga a título de parcela complementar de subsídio, de natureza provisória, que será gradativamente absorvida por ocasião do desenvolvimento no cargo ou na carreira por progressão funcional ou promoção ordinária ou extraordinária, da reorganização ou da reestruturação do cargo, da carreira ou das remunerações previstas nesta Lei ou da concessão de reajuste ou de vantagem de qualquer natureza.
+
+§ 6º A parcela complementar de subsídio a que se refere o § 5º estará sujeita exclusivamente à atualização decorrente da revisão geral da remuneração dos servidores públicos federais.” (NR)
+
+“Art. 4º-D. Aplica-se o disposto no art. 4º-C desta Lei às aposentadorias e às pensões instituídas pelos servidores integrantes da Carreira de Analista de Infraestrutura que tenham como critério de reajuste a paridade, nos termos do disposto na [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), na [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), e na [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103).” (NR)
+
+“Art. 4º-E. Os titulares dos cargos de provimento efetivo integrantes da Carreira de Analista de Infraestrutura somente poderão:
+
+I – ser requisitados pela Presidência ou pela Vice-Presidência da República ou nas hipóteses de requisição previstas em lei;
+
+II – ser cedidos para órgãos ou entidades do Poder Executivo federal para o exercício de Cargo Comissionado Executivo - CCE ou de Função Comissionada Executiva - FCE de nível mínimo 13 ou equivalente;
+
+III – ser cedidos para órgãos ou entidades de outros Poderes da União para o exercício de CCE ou de FCE de nível mínimo 15 ou equivalente; ou
+
+IV – ser cedidos para o exercício de cargos de Secretário de Estado ou do Distrito Federal, de cargos em comissão de nível equivalente ou superior ao de CCE ou de FCE de nível 15 ou de dirigente máximo de entidade da administração pública no âmbito dos Estados, do Distrito Federal, de prefeitura de capital ou de Município com mais de quinhentos mil habitantes.” (NR)
+
+“Art. 5º Fica instituída a Gratificação de Desempenho de Atividade em Infraestrutura - GDAIE, devida aos ocupantes do cargo isolado de Especialista em Infraestrutura Sênior, quando em exercício das atividades inerentes às suas atribuições.
+
+......................................................” (NR)
+
+“Art. 6º.....................................................
+
+..........................................................
+
+§ 3º Os servidores ocupantes do cargo isolado de Especialista em Infraestrutura Sênior que obtiverem avaliação de desempenho individual inferior a 50% (cinquenta por cento) da pontuação máxima prevista serão submetidos a processo de capacitação ou de análise da adequação funcional, conforme o caso.
+
+......................................................” (NR)
+
+“Art. 9º.....................................................
+
+§ 2º Os valores a serem pagos a título de GDAIE serão calculados multiplicando-se o somatório dos pontos auferidos nas avaliações de desempenho individual e institucional pelo valor do ponto constante do Anexo III para o cargo isolado de Especialista em Infraestrutura Sênior.
+
+......................................................” (NR)
+
+“Art. 12\. O titular do cargo isolado de Especialista em Infraestrutura Sênior, em efetivo exercício, quando investido em cargo em comissão ou função de confiança fará jus à GDAIE da seguinte forma:
+
+......................................................” (NR)
+
+“Art. 13\. O ocupante do cargo isolado de Especialista em Infraestrutura Sênior que não se encontre desenvolvendo as atividades previstas no art. 1º, caput, inciso II, somente fará jus à GDAIE:
+
+......................................................” (NR)
+
+“Art. 16.....................................................
+
+§ 1º........................................................
+
+I –.........................................................
+
+a) cumprimento do interstício de doze meses de efetivo exercício em cada padrão; e
+
+..........................................................
+
+II –........................................................
+
+a) cumprimento do interstício de doze meses de efetivo exercício no último padrão de cada classe;
+
+..........................................................
+
+§ 2º O interstício de doze meses de efetivo exercício para progressão funcional e promoção, conforme estabelecido nos inciso I, alínea "a", e inciso II, alínea "a", do § 1º, será:
+
+..........................................................
+
+§ 3º A partir de 1º de janeiro de 2025, a próxima progressão funcional ou promoção na Carreira de Analista de Infraestrutura se dará depois de doze meses da última progressão ou promoção concedida ao servidor.
+
+§ 4º O servidor que tiver cumprido interstício igual ou superior a doze meses de efetivo exercício na mesma classe e padrão em 1º de janeiro de 2025 será progredido ou promovido ao nível imediatamente superior da tabela remuneratória correspondente nesta data.
+
+§ 5º O interstício para progressão funcional ou promoção do servidor a que refere o § 4º passará a ser computado a partir de 1º de janeiro de cada exercício.
+
+§ 6º Enquanto o Sistema de Desenvolvimento na Carreira - Sidec, previsto na [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), não for regulamentado, a avaliação de desempenho para progressão funcional e promoção permanece a estabelecida no art. 5º, § 5º, desta Lei.” (NR)
+
+“Art. 18\. Para fins de incorporação da GDAIE aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 35 a [art. 40 da Lei nº 13.464, de 10 de julho de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-07-10;13464!art40); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+Parágrafo único. Aos benefícios não alcançados pelos incisos I e II, do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 135\. Os Anexos I, II e III à [Lei nº 11.539, de 8 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-08;11539), passam a vigorar, respectivamente, na forma dos Anexos CCXXVIII, CCXXIX e CCXXX a esta Medida Provisória.
+
+Art. 136\. A [Lei nº 11.539, de 8 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-08;11539), passa a vigorar acrescida dos Anexos I-A e II-A, na forma dos Anexos CCXXXI e CCXXXII a esta Medida Provisória.
+
+CAPÍTULO LII
+
+DO PLANO DE CARREIRAS PARA A ÁREA DE CIÊNCIA E TECNOLOGIA
+
+Art. 137\. A [Lei nº 8.691, de 28 de julho de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-07-28;8691), passa a vigorar com as seguintes alterações:
+
+“Art. 4º A Carreira de Pesquisa em Ciência e Tecnologia é constituída do cargo de Pesquisador, composto pelas classes Especial, C, B e A.” (NR)
+
+“Art. 5º São pré-requisitos para ingresso e promoção nas classes do cargo de Pesquisador:
+
+I – classe Especial:
+
+a) ter realizado pesquisa pelo período de um ano em cada padrão em que esteve posicionado na carreira após a obtenção do título de Doutor; e
+
+..........................................................
+
+II – classe C:
+
+a) ter o título de Doutor e, caso já tenha passado por promoção na carreira, ter realizado pesquisa por pelo menos seis anos após a obtenção do título de Doutor; e
+
+..........................................................
+
+III – classe B:
+
+..........................................................
+
+IV – classe A:
+
+..........................................................
+
+§ 1º A aceleração da promoção do cargo de Pesquisador ocorrerá nos seguintes casos:
+
+I – o servidor aprovado no estágio probatório que possuir o título de Doutor será promovido ao primeiro padrão da classe B; e
+
+II – o servidor aprovado em estágio probatório que estiver, pelo menos, no quarto padrão da classe B será promovido ao primeiro padrão da classe C, caso preencha os requisitos previstos no art. 5º, caput, inciso II.
+
+§ 2º Nos casos de aceleração da promoção de que trata o § 1º, será necessária a comprovação de relevante contribuição científica ou tecnológica para a área de atuação do cargo, conforme requisitos estabelecidos em ato do dirigente máximo do respectivo órgão ou entidade.” (NR)
+
+“Art. 7º.....................................................
+
+..........................................................
+
+Parágrafo único...............................................
+
+I – cargo de Tecnologista pelas classes Especial, C, B e A;
+
+II – cargo de Técnico pelas classes Especial, C, B e A; e
+
+III – cargo de Auxiliar-Técnico pelas classes Auxiliar-Técnico 2 e Auxiliar-Técnico 1.” (NR)
+
+“Art. 8º São pré-requisitos para ingresso e promoção nas classes do cargo de Tecnologista, além do ensino superior completo:
+
+I – classe Especial:
+
+a) ter o título de Doutor e, ainda, ter realizado, durante, pelo menos seis anos após a obtenção de tal título, atividade de pesquisa e desenvolvimento tecnológico, ou ter realizado, após a obtenção do grau de Mestre, atividade de pesquisa e desenvolvimento tecnológico durante, pelo menos, doze anos, que lhe atribua habilitação correspondente, ou ter realizado, durante pelo menos quinze anos, atividades de pesquisa e desenvolvimento tecnológico que lhe atribuam habilitação correspondente; e
+
+..........................................................
+
+II – classe C:
+
+a) ter o título de Doutor ou ter realizado, após a obtenção do grau de Mestre, atividade de pesquisa e desenvolvimento tecnológico durante, pelo menos, seis anos, que lhe atribua habilitação correspondente, ou ter realizado, durante pelo menos nove anos, atividade de pesquisa e desenvolvimento tecnológico que lhe atribua habilitação correspondente; e
+
+b) demonstrar capacidade de participar em projetos de pesquisa e desenvolvimento tecnológico relevantes na sua área de atuação, contribuindo com resultados tecnológicos expressos em trabalhos documentados por publicações de circulação internacional, patentes, normas, protótipos, contratos de transferência de tecnologia, laudos e pareceres técnicos, e outros meios aprovados pelo Conselho referido no art. 16;
+
+III – classe B:
+
+a) ter o grau de Mestre ou ter realizado, durante, pelo menos, cinco anos, atividade de pesquisa e desenvolvimento tecnológico, que lhe atribua habilitação correspondente; e
+
+b) ter participado de projetos de pesquisa e desenvolvimento tecnológico; e
+
+IV – classe A: ter qualificação específica para a classe.” (NR)
+
+“Art. 9º São pré-requisitos para ingresso e promoção nas classes do cargo de Técnico, além do ensino médio completo, ter conhecimentos específicos ao cargo e, ainda:
+
+I – classe Especial: possuir certificação em eventos de capacitação, no campo específico de atuação do cargo, e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+II – classe C: possuir certificação em eventos de capacitação, no campo específico de atuação do cargo, e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III – classe B: possuir certificação em eventos de capacitação, no campo específico de atuação do cargo, e permanência mínima de um ano no último padrão da classe imediatamente anterior; e
+
+IV – A: ter qualificação específica para a classe.” (NR)
+
+“Art. 12.....................................................
+
+..........................................................
+
+Parágrafo único...............................................
+
+I – cargo de Analista em Ciência e Tecnologia pelas classes Especial, C, B e A;
+
+II – cargo de Assistente em Ciência e Tecnologia pelas classes Especial, C, B e A; e
+
+III – cargo de Auxiliar em Ciência e Tecnologia pelas classes Auxiliar 2 e Auxiliar 1.” (NR)
+
+“Art. 13\. São pré-requisitos para ingresso e promoção nas classes do cargo de Analista em Ciência e Tecnologia, além do ensino superior completo:
+
+I – classe Especial:
+
+a) ter o título de Doutor e, ainda, ter realizado durante pelo menos seis anos, após a obtenção de tal título, atividades de gestão, planejamento e infraestrutura em Ciência e Tecnologia, ou ter realizado, após obtenção do grau de Mestre, atividades de gestão, planejamento ou infraestrutura em Ciência e Tecnologia durante, pelo menos, doze anos, que lhe atribuam habilitação correspondente, ou ter realizado, durante pelo menos quinze anos, atividades de gestão, planejamento e infraestrutura em Ciência e Tecnologia, que lhe atribuam habilitação correspondente; e
+
+..........................................................
+
+II – classe C:
+
+a) ter o título de Doutor ou ter exercido, durante, pelo menos, seis anos, após a obtenção do grau de Mestre, atividades de gestão, planejamento ou infraestrutura em Ciência e Tecnologia, que lhe atribuam habilitação correspondente ou ainda ter realizado, durante, pelo menos, nove anos, atividades de gestão, planejamento e infraestrutura em Ciência e Tecnologia, que lhe atribuam habilitação correspondente; e
+
+b) ter realizado, sob supervisão, trabalhos interdisciplinares, ou sistemas de suporte relevantes para o apoio científico e tecnológico consubstanciados por elaboração ou gerenciamento de planos, programas, projetos e estudos específicos com divulgação interinstitucional, e outros meios aprovados pelo Conselho referido no art. 16;
+
+III – classe B:
+
+a) ter grau de Mestre ou ter realizado, durante, pelo menos, cinco anos, atividade de gestão, planejamento ou infraestrutura em Ciência e Tecnologia, que lhe atribua habilitação correspondente; e
+
+b) ter participado de trabalhos interdisciplinares ou da elaboração de sistemas de suporte, de relatórios técnicos e de projetos correlacionados com a área de Ciência e Tecnologia; e
+
+IV – classe A: ter qualificações específicas para a classe.” (NR)
+
+“Art. 14\. São pré-requisitos para ingresso e promoção nas classes do cargo de Assistente em Ciência e Tecnologia, além do ensino médio completo, ter conhecimentos específicos ao cargo e, ainda:
+
+I – classe Especial: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+II – classe C: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III – classe B: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior; e
+
+IV – classe A: ter qualificação específica para a classe.” (NR)
+
+“Art. 26-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos do Plano de Carreiras dos órgãos e das entidades da Administração Pública Federal Direta, Autárquica e Fundacional, integrantes da área de Ciência e Tecnologia, passa a ser a constante do Anexos I-B, observada a correlação estabelecida na forma do Anexo I-C.” (NR)
+
+Art. 138\. A [Lei nº 8.691, de 28 de julho de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-07-28;8691), passa a vigorar acrescida dos Anexos I-B e I-C, na forma dos Anexos CCXXXIII e CCXXXIV a esta Medida Provisória.
+
+Art. 139\. Os Anexos VIII-A e VIII-B à [Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344), passam a vigorar, respectivamente, na forma dos Anexos CCXXXV e CCXXXVI a esta Medida Provisória.
+
+Art. 140\. Os Anexos XIX e XX à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos CCXXXVII e CCXXXVIII a esta Medida Provisória.
+
+CAPÍTULO LIII
+
+DO PLANO DE CARREIRAS E CARGOS DO INSTITUTO EVANDRO CHAGAS E DO CENTRO NACIONAL DE PRIMATAS
+
+Art. 141\. A [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar com as seguintes alterações:
+
+“Art. 170\. A Carreira de Pesquisa e Investigação Biomédica em Saúde Pública é constituída do cargo de Pesquisador em Saúde Pública, composto pelas classes A, B, C e Especial.” (NR)
+
+“Art. 171....................................................
+
+I – classe A:
+
+..........................................................
+
+II – classe B:
+
+..........................................................
+
+III – classe C:
+
+a) ter o título de Doutor e, caso já tenha passado por promoção na carreira, ter realizado pesquisa por, pelo menos, seis anos após a obtenção do título de Doutor; e
+
+..........................................................
+
+IV – classe Especial:
+
+a) ter realizado pesquisa por período equivalente a um ano para cada padrão percorrido na carreira, após a obtenção do título de Doutor; e
+
+..........................................................
+
+§ 1º A aceleração da promoção do cargo de Pesquisador em Saúde Pública ocorrerá nos seguintes casos:
+
+I – o servidor aprovado no estágio probatório que possuir o título de Doutor será promovido ao primeiro padrão da classe B; e
+
+II – o servidor aprovado em estágio probatório que estiver, pelo menos, no quarto padrão da classe B será promovido ao primeiro padrão da classe C, caso preencha os requisitos previstos no art. 171, caput, inciso III.
+
+§ 2º Nos casos de aceleração da promoção de que trata o § 1º, será necessária a comprovação de relevante contribuição científica ou tecnológica para a área de atuação do cargo, conforme requisitos estabelecidos em ato do dirigente máximo do respectivo órgão.” (NR)
+
+“Art. 173\. A Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública é composta pelo cargo de Tecnologista em Pesquisa e Investigação Biomédica, composto pelas classes A, B, C e Especial.” (NR)
+
+“Art. 174....................................................
+
+I – classe A: ter qualificação específica para a classe;
+
+II – classe B:
+
+a) ter o grau de Mestre ou ter realizado durante, pelo menos, cinco anos atividade de pesquisa e desenvolvimento tecnológico que lhe atribua habilitação correspondente; e
+
+..........................................................
+
+III – classe C:
+
+a) ter o título de Doutor ou ter realizado, após a obtenção do grau de Mestre, atividade de pesquisa e desenvolvimento tecnológico durante, pelo menos, seis anos, que lhe atribua habilitação correspondente, ou ter realizado durante, pelo menos, nove anos atividade de pesquisa e desenvolvimento tecnológico que lhe atribua habilitação correspondente; e
+
+b) demonstrar capacidade de participar em projetos de pesquisa e desenvolvimento tecnológico relevantes na sua área de atuação, contribuindo com resultados tecnológicos expressos em trabalhos documentados por publicações de circulação internacional, patentes, normas, protótipos, contratos de transferência de tecnologia, laudos e pareceres técnicos; e
+
+IV – classe Especial:
+
+a) ter o título de Doutor e, ainda, ter realizado durante pelo menos seis anos, após a obtenção de tal título, atividade de pesquisa e desenvolvimento tecnológico, ou ter realizado, após a obtenção do grau de Mestre, atividade de pesquisa e desenvolvimento tecnológico durante, pelo menos, doze anos, que lhe atribua habilitação correspondente, ou ter realizado, durante, pelo menos, quinze anos atividades de pesquisa e desenvolvimento tecnológico que lhe atribuam habilitação correspondente; e
+
+b) ter reconhecimento em sua área de atuação, aferida por uma relevante e continuada contribuição, consubstanciada por coordenação de projetos ou de grupos de pesquisa e desenvolvimento tecnológico, contribuindo com resultados tecnológicos expressos em trabalhos documentados por periódicos de circulação internacional, patentes, normas, protótipos, contratos de transferência de tecnologia, laudos e pareceres técnicos.” (NR)
+
+“Art. 175\. A Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública é constituída pelo cargo de Técnico em Pesquisa e Investigação Biomédica, composto pelas classes A, B, C e Especial.” (NR)
+
+“Art. 176....................................................
+
+I – classe A: possuir qualificação específica para a classe;
+
+II – classe B: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III – classe C: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior; e
+
+IV – classe Especial: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior.” (NR)
+
+“Art. 178\. A Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública é constituída pelo cargo de Analista de Gestão em Pesquisa e Investigação Biomédica, composto pelas classes A, B, C e Especial.” (NR)
+
+“Art. 179....................................................
+
+I – classe A: ter qualificação específica para a classe;
+
+II – classe B:
+
+a) ter grau de Mestre ou ter realizado durante, pelo menos, cinco anos atividade de gestão, planejamento ou infraestrutura na área de Pesquisa e Investigação Biomédica em Saúde Pública, que lhe atribua habilitação correspondente; e
+
+..........................................................
+
+III – classe C:
+
+a) ter o título de Doutor ou ter exercido durante, pelo menos, seis anos, após a obtenção do grau de Mestre, atividades de gestão, planejamento ou infraestrutura na área de Pesquisa e Investigação Biomédica em Saúde Pública, que lhe atribuam habilitação correspondente ou ainda ter realizado durante, pelo menos, nove anos atividades de gestão, planejamento e infraestrutura na área de Pesquisa e Investigação Biomédica em Saúde Pública que lhe atribuam habilitação correspondente; e
+
+b) ter realizado, sob supervisão, trabalhos interdisciplinares ou sistemas de suporte relevantes para o apoio científico e tecnológico consubstanciados por elaboração ou gerenciamento de planos, programas, projetos e estudos específicos com divulgação interinstitucional; e
+
+IV – classe Especial:
+
+a) ter o título de Doutor e, ainda, ter realizado durante, pelo menos, seis anos, após a obtenção de tal título, atividades de gestão, planejamento e infraestrutura na área de Pesquisa e Investigação Biomédica em Saúde Pública, ou ter realizado, após obtenção do grau de Mestre, atividades de gestão, planejamento ou infraestrutura na área de Pesquisa e Investigação Biomédica em Saúde Pública, durante, pelo menos, doze anos, que lhe atribuam habilitação correspondente, ou ter realizado, durante, pelo menos, quinze anos atividades de gestão, planejamento e infraestrutura na área de Pesquisa e Investigação Biomédica em Saúde Pública que lhe atribuam habilitação correspondente; e
+
+b) ter reconhecimento em sua área de atuação, aferida por uma relevante contribuição e consubstanciada por orientação de equipes interdisciplinares ou de profissionais especializados, treinamentos ofertados, coordenação de planos, programas, projetos e trabalhos publicados.” (NR)
+
+“Art. 180\. A Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública é constituída pelo cargo de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica, composto pelas classes A, B, C e Especial.” (NR)
+
+“Art. 181....................................................
+
+I – classe A: possuir qualificação específica para a classe;
+
+II – B: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III – classe C: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior; e
+
+IV – classe Especial: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior.” (NR)
+
+“Art. 182....................................................
+
+..........................................................
+
+§ 2º........................................................
+
+I – ter realizado pesquisas voltadas às atividades especializadas de pesquisa e desenvolvimento tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública durante, pelo menos, doze anos, após a obtenção do título de Doutor; e
+
+......................................................” (NR)
+
+“Art. 202\. Para fins de incorporação da GDAPIB aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 87 a [art. 91 da Lei nº 13.324, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13324!art91); ou
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 142\. Os Anexos CXVII, CXVIII, CXX, CXXIII, CXXIV, CXXV e CXXVI à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos CCXXXIX, CCXL, CCXLI, CCXLII, CCXLIII, CCXLIV e CCXLV a esta Medida Provisória.
+
+CAPÍTULO LIV
+
+DO PLANO DE CARGOS E CARREIRAS DA FUNDAÇÃO OSWALDO CRUZ - FIOCRUZ
+
+Art. 143\. A [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passa a vigorar com as seguintes alterações:
+
+“Art. 14\. A Carreira de Pesquisa em Ciência, Tecnologia, Produção e Inovação em Saúde Pública é constituída do cargo de Pesquisador em Saúde Pública, com as classes Especial, C, B e A.” (NR)
+
+“Art. 15.....................................................
+
+I – classe Especial:
+
+a) ter realizado pesquisa pelo período de um ano em cada padrão em que esteve posicionado na carreira, após a obtenção do título de Doutor; e
+
+..........................................................
+
+II – classe C:
+
+a) ter o título de Doutor e, caso já tenha passado por promoção na carreira, ter realizado pesquisa por, pelo menos, seis anos após a obtenção do título de Doutor; e
+
+..........................................................
+
+III – classe B:
+
+..........................................................
+
+b) ter realizado pesquisa relevante em sua área de atuação; e
+
+IV – classe A:
+
+..........................................................
+
+§ 1º A aceleração da promoção do cargo de Pesquisador em Saúde Pública ocorrerá nos seguintes casos:
+
+I – o servidor aprovado no estágio probatório que possuir o título de Doutor será promovido ao primeiro padrão da classe B; e
+
+II – o servidor aprovado no estágio probatório que estiver, pelo menos, no quarto padrão da classe B será promovido ao primeiro padrão da classe C, caso preencha os requisitos previstos no do art. 15, caput, inciso II.
+
+§ 2º Nos casos de aceleração da promoção de que trata o § 1º, será necessária a comprovação de relevante contribuição científica ou tecnológica para a área de atuação do cargo, conforme requisitos estabelecidos em ato do dirigente máximo da Fiocruz.” (NR)
+
+“Art. 17\. A Carreira de Desenvolvimento Tecnológico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública é composta pelo cargo de Tecnologista em Saúde Pública, com as classes Especial, C, B e A.” (NR)
+
+“Art. 18\. A Carreira de Suporte Técnico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública é composta pelo cargo de Técnico em Saúde Pública, com as Classes Especial, C, B e A.” (NR)
+
+“Art. 19.....................................................
+
+I – classe Especial:
+
+a) ter o título de Doutor e, ainda, ter realizado durante pelo menos seis anos, após a obtenção de tal título, atividade de pesquisa e desenvolvimento tecnológico, ou ter realizado, após a obtenção do grau de Mestre, atividade de pesquisa e desenvolvimento tecnológico durante, pelo menos, doze anos, que lhe atribua habilitação correspondente, ou ter realizado, durante, pelo menos, quinze anos atividades de pesquisa e desenvolvimento tecnológico que lhe atribuam habilitação correspondente; e
+
+..........................................................
+
+II – classe C:
+
+a) ter o título de Doutor ou ter realizado, após a obtenção do grau de Mestre, atividade de pesquisa e desenvolvimento tecnológico durante, pelo menos, seis anos, que lhe atribua habilitação correspondente, ou ter realizado durante, pelo menos, nove anos atividade de pesquisa e desenvolvimento tecnológico que lhe atribua habilitação correspondente; e
+
+b) demonstrar capacidade de participar em projetos de pesquisa e desenvolvimento tecnológico relevantes na sua área de atuação, contribuindo com resultados tecnológicos expressos em trabalhos documentados por publicações de circulação internacional, patentes, normas, protótipos, contratos de transferência de tecnologia, laudos e pareceres técnicos;
+
+III – classe B:
+
+a) ter o grau de Mestre ou ter realizado durante, pelo menos, cinco anos atividade de pesquisa e desenvolvimento tecnológico que lhe atribua habilitação correspondente; e
+
+b) ter participado de projetos de pesquisa e desenvolvimento tecnológico; e
+
+IV – classe A: ter qualificação específica para a classe.” (NR)
+
+“Art. 20.....................................................
+
+I – classe Especial: possuir, pelo menos, um ano de experiência no último padrão da classe imediatamente anterior;
+
+II – classe C: possuir, pelo menos, um ano de experiência no último padrão da classe imediatamente anterior;
+
+III – classe B: possuir, pelo menos, um ano de experiência no último padrão da classe imediatamente anterior; e
+
+IV – classe A: possuir um ano, no mínimo, de participação em projetos de pesquisa e desenvolvimento tecnológico ou habilitação inerente à classe.” (NR)
+
+“Art. 22\. A Carreira de Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública é composta pelo cargo de Analista de Gestão em Saúde, com as Classes Especial, C, B e A.” (NR)
+
+“Art. 23\. A Carreira de Suporte à Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública é composta pelo cargo de Assistente Técnico de Gestão em Saúde, com as Classes Especial, C, B e A.” (NR)
+
+“Art. 24.....................................................
+
+I – classe Especial:
+
+a) ter o título de Doutor e, ainda, ter realizado durante, pelo menos, seis anos, após a obtenção de tal título, atividades de gestão, planejamento e infraestrutura na área de Pesquisa, Produção, Serviços e Gestão em Saúde, ou ter realizado, após obtenção do grau de Mestre, atividades de gestão, planejamento ou infraestrutura na área de Pesquisa, Produção, Serviços e Gestão em Saúde, durante, pelo menos, doze anos, que lhe atribuam habilitação correspondente, ou ter realizado, durante, pelo menos, quinze anos atividades de gestão, planejamento e infraestrutura na área de Pesquisa, Produção, Serviços e Gestão em Saúde que lhe atribuam habilitação correspondente;
+
+..........................................................
+
+II – classe C:
+
+a) ter o título de Doutor ou ter exercido durante, pelo menos, seis anos, após a obtenção do grau de Mestre, atividades de gestão, planejamento ou infraestrutura na área de Pesquisa, Produção, Serviços e Gestão em Saúde, que lhe atribuam habilitação correspondente ou ainda ter realizado durante, pelo menos, nove anos atividades de gestão, planejamento e infraestrutura na área de Pesquisa, Produção, Serviços e Gestão em Saúde que lhe atribuam habilitação correspondente;
+
+b) ter realizado, sob supervisão, trabalhos interdisciplinares ou sistemas de suporte relevantes para o apoio científico e tecnológico consubstanciados por elaboração ou gerenciamento de planos, programas, projetos e estudos específicos com divulgação interinstitucional;
+
+III – classe B:
+
+a) ter grau de Mestre ou ter realizado durante, pelo menos, cinco anos atividade de gestão, planejamento ou infraestrutura na área de Pesquisa, Produção, Serviços e Gestão em Saúde, que lhe atribua habilitação correspondente; e
+
+b) ter participado de trabalhos interdisciplinares ou da elaboração de sistemas de suporte, de relatórios técnicos e de projetos correlacionados com a área de Pesquisa, Produção, Serviços e Gestão em Saúde; e
+
+IV – classe A: ter qualificação específica para a classe.” (NR)
+
+“Art. 25.....................................................
+
+I – classe Especial: possuir, pelo menos, um ano de experiência no último padrão da classe imediatamente anterior;
+
+II – classe C: possuir, pelo menos, um ano de experiência no último padrão da classe imediatamente anterior;
+
+III – classe B: possuir, pelo menos, um ano de experiência no último padrão da classe imediatamente anterior; e
+
+IV – classe A: possuir um ano, no mínimo, de experiência na execução de tarefas inerentes à classe.” (NR)
+
+“Art. 26.....................................................
+
+Parágrafo único...............................................
+
+I – ter realizado pesquisas voltadas às atividades especializadas de pesquisa e desenvolvimento tecnológico em saúde durante, pelo menos, doze anos, após a obtenção do título de Doutor; e
+
+......................................................” (NR)
+
+“Art. 41-F. Fica instituído o Reconhecimento de Resultados e Aprendizagem - RRA como equivalência da titulação exigida para os cargos de nível superior das Carreiras de Desenvolvimento Tecnológico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública e de Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública, para fins de percepção da RT.
+
+§ 1º O RRA será devido, mediante requerimento, como retribuição ao cumprimento de requisitos técnico-funcionais, acadêmicos e organizacionais necessários ao desempenho das atividades de desenvolvimento tecnológico, gestão, planejamento e infraestrutura dos cargos de que trata o caput.
+
+§ 2º O RRA será concedido ao servidor que esteja em efetivo exercício nas unidades da Fiocruz em atividades inerentes às atribuições dos cargos de que trata o caput.
+
+§ 3º O RRA poderá ser concedido em três níveis, exclusivamente para fins de percepção da RT, de acordo com as seguintes equivalências, conforme o constante do Anexo IX-C:
+
+I – RRA 1, que equivalerá à RT - Especialização;
+
+II – RRA 2, que equivalerá à RT - Mestrado; e
+
+III – RRA 3, que equivalerá à RT - Doutorado.
+
+§ 4º A concessão do RRA 3 fica condicionada, além de outros requisitos estabelecidos em regulamento, a, no mínimo, titulação de mestrado ou entrega excepcional que traga contribuição relevante para a saúde pública no País, atestada pela autoridade máxima da Fiocruz.
+
+§ 5º Em nenhuma hipótese o RRA poderá ser utilizado para fins de equiparação de titulação para cumprimento de requisitos para progressão e promoção na Carreira.
+
+§ 6º Para fazer jus ao RRA, os titulares dos cargos de que trata o caput deverão comprovar, na forma estabelecida em regulamento, pontuação para um ou mais dos seguintes requisitos:
+
+I – inovação em produtos, técnicas e processos;
+
+II – produção científica ou técnica;
+
+III – participação na gestão institucional;
+
+IV – capacitação profissional; e
+
+V – participação em atividades de caráter pedagógico.
+
+§ 7º Regulamento disporá sobre a concessão do RRA, o qual deverá conter:
+
+I – critérios objetivos e mensuráveis, baseados em informações e dados de acesso público; e
+
+II – definição de recorte temporal para as aquisições de aprendizagem e resultados alcançados pelo servidor que não ultrapasse os últimos cinco anos anteriores à data de requerimento do RRA.
+
+§ 8º O disposto no inciso II do § 7º não se aplica à titulação de mestrado ou à entrega excepcional que traga contribuição relevante para a saúde pública no País.
+
+§ 9º Os efeitos financeiros do RRA ocorrerão a partir da data de sua concessão e não retroagirão à data do seu requerimento.” (NR)
+
+Art. 144\. Os Anexos VI, VII, IX-A, IX-B, IX-C e IX-D à [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passam a vigorar na forma dos Anexos CCXLVI, CCXLVII, CCXLVIII, CCXLIX, CCL e CCLI a esta Medida Provisória.
+
+CAPÍTULO LV
+
+DO PLANO DE CARREIRAS E CARGOS DO INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO
+
+Art. 145\. A [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passa a vigorar com as seguintes alterações:
+
+“Art. 50.....................................................
+
+..........................................................
+
+II – Carreira de Pesquisa e Desenvolvimento em Metrologia e Qualidade, estruturada nas classes Especial, C, B e A, composta de cargos de nível superior de Pesquisador-Tecnologista em Metrologia e Qualidade, com atribuições voltadas às atividades especializadas de pesquisa, planejamento, coordenação, fiscalização, assistência técnica e execução de projetos em metrologia e qualidade e a outras atividades relacionadas com a metrologia legal, científica e industrial, qualidade, regulamentação, acreditação, superação de barreiras técnicas, avaliação da conformidade e informação tecnológica;
+
+III – Carreira de Suporte Técnico à Metrologia e Qualidade, estruturada nas classes Especial, C, B e A, composta de cargos de nível intermediário de Técnico em Metrologia e Qualidade, com atribuições voltadas ao suporte e ao apoio técnico especializado às atividades de metrologia legal, científica e industrial, qualidade, regulamentação, acreditação, superação de barreiras técnicas, avaliação da conformidade e informação tecnológica;
+
+IV – Carreira de Gestão em Metrologia e Qualidade, estruturada nas classes Especial, C, B e A, composta de cargos de nível superior de Analista Executivo em Metrologia e Qualidade, com atribuições voltadas para o exercício de atividades administrativas e logísticas relativas ao exercício das competências institucionais e legais a cargo do Inmetro;
+
+V – Carreira de Suporte à Gestão em Metrologia e Qualidade, estruturada nas classes Especial, C, B e A, composta de cargos de nível intermediário de Assistente Executivo em Metrologia e Qualidade, com atribuições voltadas para o exercício de atividades administrativas e logísticas de nível intermediário, relativas ao exercício das competências institucionais e legais a cargo do Inmetro; e
+
+......................................................” (NR)
+
+“Art. 55.....................................................
+
+..........................................................
+
+§ 5º Para investidura nos cargos a que se refere o § 4º, será exigido título de Doutor, com experiência em atividades relevantes comprovadas, durante, pelo menos, quatorze anos após a obtenção do título, na área de atuação estabelecida para o concurso, e demais requisitos estabelecidos em edital.” (NR)
+
+“Art. 56.....................................................
+
+I – classe Especial:
+
+a) ter o título de Doutor e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+b) ter o título de Mestre e permanência mínima de dois anos no último padrão da classe imediatamente anterior;
+
+c) ter especialização em sua área de atuação e permanência mínima de três anos no último padrão da classe imediatamente anterior; ou
+
+d) ter permanência mínima de quatro anos no último padrão da classe imediatamente anterior;
+
+II – classe C:
+
+a) ter o título de Doutor e permanência mínima de um ano no último padrão da classe imediatamente anterior; ou
+
+b) ter o título de Mestre e permanência mínima de dois anos no último padrão da classe imediatamente anterior;
+
+c) ter especialização em sua área de atuação e permanência mínima de três anos no último padrão da classe imediatamente anterior; ou
+
+d) ter permanência mínima de quatro anos no último padrão da classe imediatamente anterior;
+
+III – classe B:
+
+a) ter o título de Doutor e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+b) ter o título de Mestre e permanência mínima de dois anos no último padrão da classe imediatamente anterior;
+
+c) ter especialização em sua área de atuação e permanência mínima de três anos no último padrão da classe imediatamente anterior; ou
+
+d) ter permanência mínima de quatro anos no último padrão da classe imediatamente anterior; ou
+
+IV – classe A: ter qualificação específica para a classe.
+
+§ 1º O Pesquisador-Tecnologista em Metrologia e Qualidade da classe Especial deverá ter, adicionalmente, reconhecido desempenho em sua área de atuação, aferido por continuada contribuição, devidamente consubstanciada, contribuindo com resultados expressos em trabalhos documentados por periódicos de circulação internacional, patentes, normas, protótipos, contratos de transferência de tecnologia, laudos ou pareceres técnicos, ou pelo exercício de atividades de apoio à direção, à coordenação, à organização, ao planejamento, ao controle e à avaliação de projetos, em todos os casos, em quantidade e qualidade relevantes.
+
+§ 2º O Pesquisador-Tecnologista em Metrologia e Qualidade da classe C deverá, adicionalmente, demonstrar capacidade de participar de projetos na sua área de atuação, contribuindo com resultados expressos em trabalhos documentados por publicações de circulação internacional, patentes, normas, protótipos, contratos de transferência de tecnologia, laudos ou pareceres técnicos, ou por ter realizado trabalhos interdisciplinares ou sistemas de suporte em sua área de atuação, consubstanciados por elaboração ou gerenciamento de planos, programas, projetos e estudos específicos, com divulgação interinstitucional, em todos os casos, em quantidade e qualidade relevantes.
+
+§ 3º A aceleração da promoção do cargo de Pesquisador-Tecnologista em Metrologia e Qualidade ocorrerá nos seguintes casos:
+
+I – o servidor aprovado no estágio probatório que possuir o título de Doutor será promovido ao primeiro padrão da classe B; e
+
+II – o servidor aprovado no estágio probatório que estiver, pelo menos, no quarto padrão da classe B será promovido ao primeiro padrão da classe C, caso seja detentor do título de Mestre e possua, pelo menos, dez anos de experiência após a titulação, ou seja detentor do título de Doutor e possua, pelo menos, cinco anos de experiência após a titulação.
+
+§ 4º Nos casos de aceleração da promoção de que trata o § 3º, será necessária a comprovação de relevante contribuição científica ou tecnológica para a área de atuação do cargo, conforme requisitos estabelecidos em ato do dirigente máximo do Inmetro.” (NR)
+
+“Art. 57.....................................................
+
+I – classe Especial: permanência mínima de um ano no último padrão da classe imediatamente anterior e possuir certificação em eventos de capacitação;
+
+II – classe C: permanência mínima de um ano no último padrão da classe imediatamente anterior e possuir certificação em eventos de capacitação;
+
+III – classe B: permanência mínima de um ano no último padrão da classe imediatamente anterior e possuir certificação em eventos de capacitação; e
+
+IV – classe A: certificado de conclusão de ensino médio ou equivalente.” (NR)
+
+Art. 146\. Os Anexos X, XI, XI-A, XI-B, XI-C e XII à [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passam a vigorar na forma dos Anexos CCLII, CCLIII, CCLIV, CCLV, CCLVI e CCLVII a esta Medida Provisória.
+
+CAPÍTULO LVI
+
+DO PLANO DE CARREIRAS E CARGOS DO INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL - INPI
+
+Art. 147\. A [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passa a vigorar com as seguintes alterações:
+
+“Art. 90.....................................................
+
+..........................................................
+
+III – Carreira de Produção e Análise em Propriedade Industrial, estruturada nas classes A, B, C e Especial, composta de cargo de Tecnologista em Propriedade Industrial, de nível superior, com atribuições de natureza técnica especializada, voltadas aos exames de pedidos e elaboração de pareceres técnicos para concessão de direitos relativos ao registro de marcas, de desenho industrial e de indicações geográficas, entre outros; desenvolvimento de ações e projetos de divulgação e fortalecimento da propriedade industrial e realização de estudos técnicos relativos à área;
+
+IV – Carreira de Suporte Técnico em Propriedade Industrial, estruturada nas classes A, B, C e Especial, composta de cargo de Técnico em Propriedade Industrial, de nível intermediário, com atribuições voltadas para o suporte e o apoio técnico especializado em matéria de propriedade industrial e intelectual;
+
+V – Carreira de Planejamento, Gestão e Infraestrutura em Propriedade Industrial, estruturada nas classes A, B, C e Especial, composta de cargo de Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial, de nível superior, com atribuições voltadas para o exercício de atividades de análise, elaboração, aperfeiçoamento e aplicação de modelos conceituais, processos, instrumentos e técnicas relacionadas às funções de planejamento, logística e administração em geral, bem como desenvolvimento de ações e projetos de divulgação e fortalecimento da propriedade industrial; e
+
+VI – Carreira de Suporte em Planejamento, Gestão e Infraestrutura em Propriedade Industrial, estruturada nas classes A, B, C e Especial, composta de cargo de Técnico em Planejamento, Gestão e Infraestrutura em Propriedade Industrial, de nível intermediário, com atribuições voltadas para o exercício de atividades administrativas e logísticas de nível intermediário, relativas ao exercício das competências institucionais e legais a cargo do Inpi.
+
+......................................................” (NR)
+
+“Art. 93.....................................................
+
+..........................................................
+
+§ 5º Para investidura no cargo a que se refere o § 4º, será exigido título de Doutor, com experiência em atividades relevantes comprovadas, durante, pelo menos, dezesseis anos após a obtenção do título, na área de atuação estabelecida para o concurso, e demais requisitos estabelecidos em edital.
+
+......................................................” (NR)
+
+“Art. 94.....................................................
+
+I –.........................................................
+
+a) ser detentor de título de Mestre, ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e permanência mínima de três anos no último padrão da classe imediatamente anterior; ou
+
+b) ser detentor de título de Doutor no campo específico de atuação do cargo e ter permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+II –........................................................
+
+a) ser detentor de título de Mestre, ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e permanência mínima de três anos no último padrão da classe imediatamente anterior; ou
+
+b) ser detentor de título de Doutor no campo específico de atuação do cargo e ter permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III –........................................................
+
+a) ser detentor de título de Mestre, ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e permanência mínima de dois anos no último padrão da classe imediatamente anterior; ou
+
+b) ser detentor de título de Doutor no campo específico de atuação do cargo e ter permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+..........................................................
+
+§ 1º A aceleração da promoção do cargo de Pesquisador em Propriedade Industrial ocorrerá nos seguintes casos:
+
+I – o servidor aprovado no estágio probatório que possuir o título de Doutor será promovido ao primeiro padrão da classe B; e
+
+II – o servidor aprovado no estágio probatório que estiver, pelo menos, no quarto padrão da classe B será promovido ao primeiro padrão da classe C, caso seja detentor do título de Mestre e possua, pelo menos, dez anos de experiência após a titulação, ou seja detentor do título de Doutor e possua, pelo menos, cinco anos de experiência após a titulação.
+
+§ 2º Nos casos de aceleração da promoção de que trata o § 1º, será necessária a comprovação de relevante contribuição científica ou tecnológica para a área de atuação do cargo, conforme requisitos estabelecidos em ato do dirigente máximo do Inpi.” (NR)
+
+“Art. 95.....................................................
+
+I –.........................................................
+
+a) possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de quatro anos no último padrão da classe imediatamente anterior;
+
+b) possuir pós-graduação lato sensu, ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e permanência mínima de três anos no último padrão da classe imediatamente anterior;
+
+c) ser detentor de título de Mestre no campo específico de atuação do cargo e ter permanência mínima de dois anos no último padrão da classe imediatamente anterior; ou
+
+d) ser detentor do título de Doutor no campo específico de atuação do cargo e ter permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+II – Classe C:
+
+a) possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de três anos no último padrão da classe imediatamente anterior; ou
+
+b) possuir pós-graduação lato sensu, ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e permanência mínima de dois anos no último padrão da classe imediatamente anterior; ou
+
+c) ser detentor de título de Mestre ou de Doutor, no campo específico de atuação do cargo, e ter permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III – Classe B:
+
+a) possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de dois anos no último padrão da classe imediatamente anterior;
+
+b) possuir pós-graduação lato sensu, ter certificação em eventos de capacitação, ambos no campo específico de atuação do cargo, e permanência mínima de dois anos no último padrão da classe imediatamente anterior; ou
+
+c) ser detentor de título de Mestre ou de Doutor, no campo específico de atuação do cargo, e ter permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+IV – Classe A: ter qualificação específica para a Classe.
+
+..........................................................
+
+§ 2º Os Tecnologistas em Propriedade Industrial e os Analistas de Planejamento, Gestão e Infraestrutura em Propriedade Industrial da Classe C deverão, adicionalmente, demonstrar capacidade de participar de projetos em sua área de atuação, de elaborar normas internas relativas aos procedimentos do Inpi, por meio de laudos ou de pareceres técnicos para o setor externo, de realizar a instrução de casos sobre direitos relativos à Propriedade Industrial que tramitem no Poder Judiciário, de realizar trabalhos interdisciplinares, e de desenvolver sistemas de suporte em sua área de atuação, consubstanciados pela elaboração ou gerenciamento de planos, programas, projetos e estudos específicos com divulgação interinstitucional, em todos os casos, em quantidade e qualidade relevantes.” (NR)
+
+“Art. 96.....................................................
+
+I – Classe Especial: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+II – Classe C: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior;
+
+III – Classe B: possuir certificação em eventos de capacitação no campo específico de atuação do cargo e permanência mínima de um ano no último padrão da classe imediatamente anterior; e
+
+IV – Classe A: ter qualificação específica para a Classe.” (NR)
+
+“Art. 149\. Para fins de incorporação das gratificações de desempenho a que se referem os art. 34, art. 61 e art. 100 aos proventos de aposentadoria, serão adotados os seguintes critérios:
+
+I – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a [Emenda Constitucional nº 41, de 19 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2003-12-19;41), e a [Emenda Constitucional nº 47, de 5 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2005-07-05;47), a gratificação corresponderá:
+
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor; ou
+
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para os servidores e os aposentados que tiverem feito a opção de que tratam os art. 28 a [art. 32 da Lei nº 13.326, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13326!art32);
+
+II – quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a [Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103), deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, a gratificação corresponderá a cinquenta pontos, considerados o nível, a classe e o padrão do servidor.
+
+§ 2º Aos benefícios não alcançados pelos incisos I e II, e § 1º do caput, será aplicado o disposto na [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), ou no [art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art26), conforme a data de cumprimento dos respectivos requisitos, observado o disposto na [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618).” (NR)
+
+Art. 148\. Os Anexos XVII, XVIII, XVIII-A, XVIII-B, XVIII-C e XIX à [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passam a vigorar, respectivamente, na forma dos Anexos CCLVIII, CCLIX, CCLX, CCLXI, CCLXII e CCLXIII a esta Medida Provisória.
+
+CAPÍTULO LVII
+
+DAS CARREIRAS DE ESPECIALISTA EM INDIGENISMO E DE TÉCNICO EM INDIGENISMO E DO PLANO ESPECIAL DE CARGOS DA FUNAI - PECFUNAI
+
+Art. 149\. Os Anexos I, II, III, IV, V e VI à [Lei nº 14.875, de 31 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-05-31;14875), passam a vigorar, respectivamente, na forma dos Anexos CCLXIV, CCLXV, CCLXVI, CCLXVII, CCLXVIII e CCLXIX a esta Medida Provisória.
+
+Art. 150\. Os Anexos LXXXII e LXXXIII à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos CCLXX e CCLXXI a esta Medida Provisória.
+
+CAPÍTULO LVIII
+
+DOS CARGOS DE JUIZ-PRESIDENTE E JUIZ DO TRIBUNAL MARÍTIMO
+
+Art. 151\. Os Anexos II e III à [Lei nº 11.319, de 6 de julho de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-07-06;11319), passam a vigorar, respectivamente, na forma dos Anexos CCLXXII e CCLXXIII a esta Medida Provisória.
+
+CAPÍTULO LIX
+
+DO CARGO DE TÉCNICO DE PLANEJAMENTO P-1501 DO GRUPO P-1500
+
+Art. 152\. Os Anexos XXIII e XXIV à [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passam a vigorar, respectivamente, na forma dos Anexos CCLXXIV e CCLXXV a esta Medida Provisória.
+
+CAPÍTULO LX
+
+DA CARREIRA POLICIAL CIVIL DOS EXTINTOS TERRITÓRIOS FEDERAIS DO ACRE, DO AMAPÁ, DE RONDÔNIA E DE RORAIMA
+
+Art. 153\. O Anexo VI à [Lei nº 11.358, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11358), passa a vigorar na forma do Anexo CCLXXVI a esta Medida Provisória.
+
+CAPÍTULO LXI
+
+DA CARREIRA DE MAGISTÉRIO DOS OPTANTES PELA INCLUSÃO EM QUADRO EM EXTINÇÃO DA UNIÃO DOS EX-TERRITÓRIOS
+
+Art. 154\. A [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar com as seguintes alterações:
+
+“Art. 3º.....................................................
+
+..........................................................
+
+§ 7º A partir de 1º de janeiro de 2025, a estrutura da Carreira de que trata o inciso III passa a ser a constante do Anexo II-A, observada a correlação estabelecida na forma do Anexo II-B desta Lei.” (NR)
+
+Art. 155\. O Anexo II à [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar na forma do Anexo CCLXXVII a esta Medida Provisória.
+
+Art. 156\. A [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar acrescida dos Anexos II-A e II-B, respectivamente, na forma dos Anexos CCLXXVIII e CCLXXIX a esta Medida Provisória.
+
+CAPÍTULO LXII
+
+DOS CARGOS DE MÉDICO DO PODER EXECUTIVO FEDERAL
+
+Art. 157\. Os Anexos XLV, XLVI, XLVII e XLVIII à [Lei nº 12.702, de 7 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-07;12702), passam a vigorar, respectivamente, na forma dos Anexos CCLXXX, CCLXXXI, CCLXXXII e CCLXXXIII a esta Medida Provisória.
+
+CAPÍTULO LXIII
+
+DOS CARGOS DE TÉCNICO-ADMINISTRATIVOS E TÉCNICO-MARÍTIMOS DO PLANO ÚNICO DE CLASSIFICAÇÃO E RETRIBUIÇÃO DE CARGOS E EMPREGOS - PUCRCE
+
+Art. 158\. A [Lei nº 10.302, de 31 de outubro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-10-31;10302), passa a vigorar com as seguintes alterações:
+
+“Art. 6º-A. A partir de 1º de janeiro de 2025, não serão devidas aos servidores amparados por esta Lei:
+
+I – a vantagem pecuniária individual, de que trata a [Lei nº 10.698, de 2 de julho de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-07-02;10698); e
+
+II – a Gratificação Específica de Apoio Técnico-Administrativo e Técnico-Marítimo às Instituições Federais de Ensino - GEAT, de que trata a [Lei nº 10.908, de 15 de julho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-07-15;10908).” (NR)
+
+Art. 159\. O Anexo à [Lei nº 10.302, de 31 de outubro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-10-31;10302), passa a vigorar na forma do Anexo CCLXXXIV a esta Medida Provisória.
+
+CAPÍTULO LXIV
+
+DO CARGO DE PROFESSOR DE 3º GRAU DO PLANO ÚNICO DE CLASSIFICAÇÃO E RETRIBUIÇÃO DE CARGOS E EMPREGOS
+
+Art. 160\. A [Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344), passa a vigorar com as seguintes alterações:
+
+“Cargo de Professor de 3º Grau do Plano Único de Classificação e Retribuição de Cargos e Empregos
+
+Art. 10-A. A partir de 1º de janeiro de 2025, a estrutura do cargo de Professor de 3º Grau do Plano Único de Classificação e Retribuição de Cargos e Empregos passa a ser a constante do Anexo III-A, observada a correlação estabelecida na forma do Anexo III-B.” (NR)
+
+“Art. 10-B. A partir de 1º de janeiro de 2025, o cargo de Professor de 3º Grau do Plano Único de Classificação e Retribuição de Cargos e Empregos passa a ser remunerado por:
+
+I – vencimento básico, na forma do Anexo IV-B; e
+
+II – Retribuição por Titulação, na forma do Anexo V-C.” (NR)
+
+Art. 161\. A [Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344), passa a vigorar acrescida dos Anexos III-A, III-B, IV-B e V-C, na forma dos Anexos CCLXXXV, CCLXXXVI, CCLXXXVII e CCLXXXVIII a esta Medida Provisória.
+
+CAPÍTULO LXV
+
+DO QUADRO DE PESSOAL DA ADVOCACIA-GERAL DA UNIÃO
+
+Art. 162\. A [Lei nº 10.480, de 2 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-02;10480), passa a vigorar com as seguintes alterações:
+
+“Art. 1º-C. A partir de 1º de janeiro de 2025, passam a integrar o quadro de pessoal da Advocacia-Geral da União os cargos de provimento efetivo, de nível superior, intermediário e auxiliar, ocupados por servidores do Plano Especial de Cargos do Ministério da Fazenda - PECFAZ, de que trata a [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), pertencentes ao quadro de pessoal do Ministério da Fazenda que estejam em exercício na Procuradoria-Geral da Fazenda Nacional no período de 31 de agosto a 31 de dezembro de 2024.
+
+Parágrafo único. Os servidores de que trata o caput poderão optar por permanecer no quadro de pessoal do órgão de origem, e deverão fazê-lo perante o Ministério da Fazenda, de forma irretratável, até 31 de janeiro de 2025.” (NR)
+
+“Art. 1º-D. A partir de 1º de janeiro de 2025, a Advocacia-Geral da União será responsável por prover a força de trabalho de pessoal técnico-administrativo da Procuradoria-Geral da Fazenda Nacional.” (NR)
+
+Art. 163\. O Anexo I à [Lei nº 10.480, de 2 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-02;10480), passa a vigorar na forma do Anexo CCLXXXIX a esta Medida Provisória.
+
+CAPÍTULO LXVI
+
+DA GRATIFICAÇÃO ESPECÍFICA DE APOIO TÉCNICO-ADMINISTRATIVO DA ADVOCACIA-GERAL DA UNIÃO - GEATA
+
+Art. 164\. A [Lei nº 10.907, de 15 de julho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-07-15;10907), passa a vigorar com as seguintes alterações:
+
+“Art. 1º-A. A partir de 1º de janeiro de 2025, no caso de servidores ocupantes de cargos cuja estrutura remuneratória não corresponda ao número de padrões previstos no Anexo I, a Gratificação Específica de Apoio Técnico-Administrativo da Advocacia-Geral da União - GEATA será paga de acordo com o tempo de efetivo exercício do servidor no respectivo cargo até o valor máximo previsto para cada nível de escolaridade de que trata o Anexo I.
+
+Parágrafo único. Cada doze meses de efetivo exercício do servidor no seu cargo de origem corresponde a um padrão da Tabela constante do Anexo I, conforme o nível de escolaridade do seu cargo.” (NR)
+
+Art. 165\. O Anexo I à [Lei nº 10.907, de 15 de julho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-07-15;10907), passa a vigorar na forma do Anexo CCXC a esta Medida Provisória.
+
+CAPÍTULO LXVII
+
+DA GRATIFICAÇÃO DE APOIO À EXECUÇÃO DE ATIVIDADES DE METEOROLOGIA - GEINMET E DA GRATIFICAÇÃO DE APOIO À EXECUÇÃO DE ATIVIDADES DA COMISSÃO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA - GECEPLAC
+
+Art. 166\. Os Anexos I e II à [Lei nº 12.702, de 7 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-07;12702), passam a vigorar, respectivamente, na forma dos Anexos CCXCI e CCXCII a esta Medida Provisória.
+
+CAPÍTULO LXVIII
+
+DO ADICIONAL POR PARTICIPAÇÃO EM MISSÃO NO EXTERIOR - APME
+
+Art. 167\. O Anexo I à [Lei nº 12.277, de 30 de junho de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-06-30;12277), passa a vigorar na forma do Anexo CCXCIII a esta Medida Provisória.
+
+CAPÍTULO LXIX
+
+DA GRATIFICAÇÃO DE INCREMENTO À ATIVIDADE DE ADMINISTRAÇÃO DO PATRIMÔNIO DA UNIÃO - GIAPU
+
+Art. 168\. O Anexo VI à [Lei nº 11.095, de 13 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-13;11095), passa a vigorar na forma do Anexo CCXCIV a esta Lei.
+
+CAPÍTULO LXX
+
+DOS CARGOS EM COMISSÃO, DAS FUNÇÕES DE CONFIANÇA E DAS GRATIFICAÇÕES
+
+Art. 169\. Os Anexos VIII e IX à [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356), passam a vigorar, respectivamente, na forma dos Anexos CCXCV e CCXCVI a esta Medida Provisória.
+
+Art. 170\. Os Anexos I, II e III à [Lei nº 11.526, de 4 de outubro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-10-04;11526), passam a vigorar, respectivamente, na forma dos Anexos CCXCVII, CCXCVIII e CCXCIX a esta Medida Provisória.
+
+Art. 171\. Os Anexos CLVIII, CLIX, CLX, CLXII e CLXIII à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passam a vigorar, respectivamente, na forma dos Anexos CCC, CCCI, CCCII, CCCIII e CCCIV a esta Medida Provisória.
+
+Art. 172\. O Anexo XXV à [Lei nº 14.875, de 31 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-05-31;14875), passa a vigorar na forma do Anexo CCCV a esta Medida Provisória.
+
+CAPÍTULO LXXI
+
+DA CARREIRA DE DESENVOLVIMENTO SOCIOECONÔMICO
+
+Art. 173\. Fica criada, no âmbito do Poder Executivo federal, a Carreira de Desenvolvimento Socioeconômico, composta pelo cargo de Analista Técnico de Desenvolvimento Socioeconômico - ATDS, de nível superior, regida pela [Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112).
+
+§ 1º Os ocupantes do cargo de ATDS terão lotação no Ministério da Gestão e da Inovação em Serviços Públicos, na qualidade de órgão supervisor, e exercício descentralizado em órgãos da administração pública federal direta com competências relativas às políticas previstas no art. 175.
+
+§ 2º O cargo efetivo de ATDS é estruturado em classes e padrões, na forma do Anexo CCCVI.
+
+§ 3º Compete ao Ministério da Gestão e da Inovação em Serviços Públicos, observado o disposto no § 1º, definir o órgão de exercício descentralizado dos ocupantes do cargo de ATDS.
+
+§ 4º No interesse da administração, o Ministério da Gestão e da Inovação em Serviços Públicos poderá definir o exercício descentralizado provisório dos servidores ocupantes do cargo de ATDS em autarquias e fundações, com competências relativas às políticas previstas no art. 175.
+
+Art. 174\. Ficam criados setecentos e cinquenta cargos de ATDS no quadro de pessoal do Ministério da Gestão e da Inovação em Serviços Públicos, por transformação de cargos vagos, nos termos do disposto no art. 193 caput, inciso I.
+
+Art. 175\. São atribuições do cargo de ATDS, respeitadas as atribuições privativas de outras carreiras ou cargos no âmbito do Poder Executivo federal:
+
+I – executar atividades de assistência técnica em projetos e programas nas áreas de desenvolvimento socioeconômico;
+
+II – executar atividades de assistência técnica no planejamento, na implementação, na análise e na avaliação de políticas públicas que contribuam para o desenvolvimento regional e territorial sustentável, seja agrário ou urbano;
+
+III – analisar a viabilidade econômica de projetos de investimento e de desenvolvimento sustentável;
+
+IV – analisar e avaliar dados socioeconômicos que contribuam para o planejamento e o aperfeiçoamento das políticas de indústria, micro e pequenas empresas, comércio, serviços, comércio exterior, agricultura, infraestrutura, inovação e demais políticas públicas relacionadas ao desenvolvimento socioeconômico do País;
+
+V – subsidiar a supervisão, o planejamento, a coordenação, o monitoramento e a avaliação das empresas estatais; e
+
+VI – subsidiar a definição de estratégias de execução das atividades de controle, monitoramento e avaliação das políticas de desenvolvimento socioeconômico.
+
+Art. 176\. A jornada de trabalho do cargo de ATDS da Carreira de Desenvolvimento Socioeconômico é de quarenta horas semanais.
+
+Art. 177\. O ingresso nos cargos de ATDS ocorrerá mediante aprovação em concurso público constituído das seguintes etapas, respeitada a legislação específica:
+
+I – provas e títulos, de caráter eliminatório e classificatório; e
+
+II – curso de formação, de caráter eliminatório e classificatório.
+
+§ 1º O ingresso nos cargos de ATDS exige curso de graduação em nível superior e habilitação legal específica, se for o caso.
+
+§ 2º O edital de abertura do concurso definirá as características de cada etapa a que se referem os incisos I e II do caput, a habilitação legal específica a que se refere o § 1º e os critérios eliminatórios e classificatórios.
+
+§ 3º O concurso público a que se refere o caput será realizado para provimento efetivo de pessoal no padrão inicial da classe inicial da Carreira de Desenvolvimento Socioeconômico.
+
+Art. 178\. Os ocupantes do cargo de ATDS serão remunerados, exclusivamente, por subsídio, fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória.
+
+Parágrafo único. Os valores do subsídio são os constantes do Anexo CCCVII.
+
+Art. 179\. Os ocupantes do cargo de ATDS não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa, judicial ou extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de sentença judicial transitada em julgado, incluídos:
+
+I – vantagens pessoais e Vantagens Pessoais Nominalmente Identificadas - VPNI, de qualquer origem e natureza;
+
+II – diferenças individuais e resíduos, de qualquer origem e natureza;
+
+III – valores incorporados à remuneração decorrentes do exercício de função de direção, chefia ou assessoramento ou de cargo em comissão;
+
+IV – valores incorporados à remuneração referentes a quintos ou a décimos;
+
+V – valores incorporados à remuneração a título de adicional por tempo de serviço;
+
+VI – vantagens incorporadas a proventos ou pensões por força do disposto nos [art. 180](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art180) e [art. 184 da Lei nº 1.711, de 28 de outubro de 1952](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art184), e nos [art. 190](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art190) e [art. 192 da Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art192);
+
+VII – abonos;
+
+VIII – valores pagos a título de representação;
+
+IX – adicional pelo exercício de atividades insalubres, perigosas ou penosas;
+
+X – adicional noturno;
+
+XI – adicional pela prestação de serviço extraordinário; e
+
+XII – outras gratificações e adicionais, de qualquer origem e natureza, que não estejam explicitamente mencionados no art. 180.
+
+Art. 180\. O subsídio dos ocupantes do cargo de ATDS não exclui o direito à percepção, nos termos do disposto em legislação e regulamentação específica, de:
+
+I – gratificação natalina;
+
+II – adicional de férias;
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19), e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+IV – retribuição pelo exercício de função de direção, chefia e assessoramento; e
+
+V – parcelas indenizatórias previstas em lei.
+
+Art. 181\. O desenvolvimento do servidor na Carreira de Desenvolvimento Socioeconômico ocorrerá mediante progressão funcional e promoção, observadas as regras do Sistema de Desenvolvimento na Carreira - Sidec, de que trata a [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890).
+
+Art. 182\. Os ocupantes do cargo de ATDS somente poderão:
+
+I – ser requisitados pela Presidência ou pela Vice-Presidência da República ou nas hipóteses de requisição previstas em lei;
+
+II – ser cedidos para órgãos ou entidades do Poder Executivo federal para o exercício de Cargo Comissionado Executivo - CCE ou de Função Comissionada Executiva - FCE de nível mínimo 13 ou equivalente;
+
+III – ser cedidos para órgãos ou entidades de outros Poderes da União para o exercício de CCE ou de FCE de nível mínimo 15 ou equivalente; ou
+
+IV – ser cedidos para o exercício de cargos de Secretário de Estado ou do Distrito Federal, de cargos em comissão de nível equivalente ou superior ao de CCE ou de FCE de nível 15 ou de dirigente máximo de entidade da administração pública no âmbito dos Estados, do Distrito Federal, de prefeitura de capital ou de Município com mais de quinhentos mil habitantes.
+
+CAPÍTULO LXXII
+
+DA CARREIRA DE DESENVOLVIMENTO DAS POLÍTICAS DE JUSTIÇA E DEFESA
+
+Art. 183\. Fica criada, no âmbito do Poder Executivo federal, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa, composta pelo cargo de Analista Técnico de Justiça e Defesa - ATJD, de nível superior, regida pela [Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112).
+
+§ 1º Os ocupantes do cargo de ATJD terão lotação no Ministério da Gestão e da Inovação em Serviços Públicos, na qualidade de órgão supervisor, e exercício descentralizado em órgãos da administração pública federal direta com competências relativas às políticas previstas no art. 185.
+
+§ 2º O cargo efetivo de ATJD é estruturado em classes e padrões, na forma do Anexo CCCVIII.
+
+§ 3º Compete ao Ministério da Gestão e da Inovação em Serviços Públicos, observado o disposto no § 1º, definir o órgão de exercício descentralizado dos ocupantes do cargo de ATJD.
+
+§ 4º No interesse da administração, o Ministério da Gestão e da Inovação em Serviços Públicos poderá definir o exercício descentralizado provisório dos servidores ocupantes do cargo de ATJD em autarquias e fundações, com competências relativas às políticas previstas no art. 185.
+
+Art. 184\. Ficam criados setecentos e cinquenta cargos de ATJD no quadro de pessoal do Ministério da Gestão e da Inovação em Serviços Públicos por transformação de cargos vagos, nos termos do disposto no art. 193, caput, inciso I.
+
+Art. 185\. São atribuições do cargo de ATJD, respeitadas as atribuições privativas de outras carreiras ou cargos no âmbito do Poder Executivo federal:
+
+I – executar atividades de assistência técnica no planejamento, na coordenação, na implementação e na supervisão de projetos e programas inerentes às áreas de justiça, defesa nacional e segurança;
+
+II – proceder à análise e à avaliação de dados que contribuam para o planejamento e o aperfeiçoamento das políticas de justiça, defesa nacional e segurança;
+
+III – subsidiar a definição de estratégias de execução das atividades de controle, monitoramento e avaliação das políticas de justiça, defesa nacional e segurança;
+
+IV – promover e subsidiar os processos, os projetos e os programas finalísticos inerentes à estratégia nacional de defesa, à indústria da defesa, às políticas de ciência, tecnologia e inovação de defesa e aos demais programas do Governo federal para a defesa nacional;
+
+V – promover e subsidiar as políticas de acesso e promoção da justiça, de segurança pública, de prevenção e repressão às drogas, de defesa da ordem econômica nacional e dos direitos do consumidor, de nacionalidade, migrações e refúgio, penal nacional, de direitos digitais e demais programas do Governo federal para a justiça e a segurança; e
+
+VI – promover e subsidiar o planejamento e a coordenação das atividades de segurança da informação e das comunicações, incluídos a cibersegurança, a segurança de fronteiras e de infraestruturas críticas e demais programas do Governo federal para a segurança institucional.
+
+Art. 186\. A jornada de trabalho do cargo de ATJD da Carreira de Desenvolvimento das Políticas de Justiça e Defesa é de quarenta horas semanais.
+
+Art. 187\. O ingresso nos cargos de ATJD ocorrerá mediante aprovação em concurso público constituído das seguintes etapas, respeitada a legislação específica:
+
+I – provas e títulos, de caráter eliminatório e classificatório; e
+
+II – curso de formação, de caráter eliminatório e classificatório.
+
+§ 1º O ingresso nos cargos de ATJD exige curso de graduação em nível superior e habilitação legal específica, se for o caso.
+
+§ 2º O edital de abertura do concurso definirá as características de cada etapa a que se referem os incisos I e II do caput, a habilitação legal específica a que se refere o § 1º e os critérios eliminatórios e classificatórios.
+
+§ 3º O concurso público a que se refere o caput será realizado para provimento efetivo de pessoal no padrão inicial da classe inicial da Carreira de Desenvolvimento das Políticas de Justiça e Defesa.
+
+§ 4º Sem prejuízo dos requisitos estabelecidos neste artigo, o ingresso nos cargos de que trata o caput poderá contar com procedimento de investigação social e, se necessário, funcional do candidato, em caráter eliminatório, assegurados a tramitação sigilosa e o direito de defesa, conforme ato do Poder Executivo federal.
+
+Art. 188\. Os ocupantes do cargo de ATJD serão remunerados, exclusivamente, por subsídio, fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória.
+
+Parágrafo único. Os valores do subsídio são os constantes do Anexo CCCIX.
+
+Art. 189\. Os ocupantes do cargo de ATJD não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa, judicial ou extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de sentença judicial transitada em julgado, incluídos:
+
+I – vantagens pessoais e Vantagens Pessoais Nominalmente Identificadas - VPNI, de qualquer origem e natureza;
+
+II – diferenças individuais e resíduos, de qualquer origem e natureza;
+
+III – valores incorporados à remuneração decorrentes do exercício de função de direção, chefia ou assessoramento ou de cargo em comissão;
+
+IV – valores incorporados à remuneração referentes a quintos ou a décimos;
+
+V – valores incorporados à remuneração a título de adicional por tempo de serviço;
+
+VI – vantagens incorporadas a proventos ou pensões por força do disposto nos [art. 180](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art180) e [art. 184 da Lei nº 1.711, de 28 de outubro de 1952](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1952-10-28;1711!art184), e nos [art. 190](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art190) e [art. 192 da Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112!art192);
+
+VII – abonos;
+
+VIII – valores pagos a título de representação;
+
+IX – adicional pelo exercício de atividades insalubres, perigosas ou penosas;
+
+X – adicional noturno;
+
+XI – adicional pela prestação de serviço extraordinário; e
+
+XII – outras gratificações e adicionais, de qualquer origem e natureza, que não estejam explicitamente mencionados no art. 190.
+
+Art. 190\. O subsídio dos ocupantes do cargo de ATJD não exclui o direito à percepção, nos termos do disposto em legislação e regulamentação específica, de:
+
+I – gratificação natalina;
+
+II – adicional de férias;
+
+III – abono de permanência de que tratam o [art. 40, § 19, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art40_par19), e os [art. 3º, § 3º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art3_par3), [art. 8º](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art8) e [art. 10, § 5º, da Emenda Constitucional nº 103, de 12 de novembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103!art10_par5);
+
+IV – retribuição pelo exercício de função de direção, chefia e assessoramento; e
+
+V – parcelas indenizatórias previstas em lei.
+
+Art. 191\. O desenvolvimento do servidor na Carreira de Desenvolvimento das Políticas de Justiça e Defesa ocorrerá mediante progressão funcional e promoção, observadas as regras do Sistema de Desenvolvimento na Carreira - Sidec, de que trata a [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890).
+
+Art. 192\. Os ocupantes do cargo de ATJD somente poderão:
+
+I – ser requisitados pela Presidência ou pela Vice-Presidência da República ou nas hipóteses de requisição previstas em lei;
+
+II – ser cedidos para órgãos ou entidades do Poder Executivo federal para o exercício de Cargo Comissionado Executivo - CCE ou de Função Comissionada Executiva - FCE de nível mínimo 13 ou equivalente;
+
+III – ser cedidos para órgãos ou entidades de outros Poderes da União para o exercício de CCE ou de FCE de nível mínimo 15 ou equivalente; ou
+
+IV – ser cedidos para o exercício de cargos de Secretário de Estado ou do Distrito Federal, de cargos em comissão de nível equivalente ou superior ao de CCE ou de FCE de nível 15 ou de dirigente máximo de entidade da administração pública no âmbito dos Estados, do Distrito Federal, de prefeitura de capital ou de Município com mais de quinhentos mil habitantes.
+
+CAPÍTULO LXXIII
+
+DA TRANSFORMAÇÃO DE CARGOS EFETIVOS VAGOS
+
+Art. 193\. Ficam transformados, na forma do Anexo CCCX, no âmbito do Poder Executivo federal, quatorze mil, novecentos e oitenta e nove cargos efetivos vagos em:
+
+I – dois mil setecentos e oitenta e cinco cargos efetivos vagos;
+
+II – mil novecentos e cinquenta e cinco cargos em comissão e funções de confiança, no âmbito do Poder Executivo federal;
+
+III – quatro mil cento e trinta e oito cargos de direção, funções gratificadas e funções comissionadas de coordenação de curso, no âmbito do Ministério da Educação, para redistribuição aos Institutos Federais de Educação, Ciência e Tecnologia, ao Instituto Nacional de Educação de Surdos, ao Instituto Benjamin Constant, às escolas técnicas e colégios de aplicação vinculados às Instituições Federais de Ensino Superior - IFES, aos centros federais de educação tecnológica e ao Colégio Pedro II; e
+
+IV – seis mil setecentos e noventa e dois cargos de direção, funções gratificadas e funções comissionadas de coordenação de curso, no âmbito do Ministério da Educação, para redistribuição às IFES.
+
+§ 1º O provimento e a designação dos cargos efetivos e em comissão e das funções de confiança transformados por esta Medida Provisória serão realizados nos termos do disposto no [art. 169, § 1º, da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art169_par1), conforme as necessidades do serviço.
+
+§ 2º Caberá ao Ministério da Educação definir a distribuição dos cargos de direção e das funções de confiança de que tratam os inciso III e IV do caput entre as instituições federais de ensino.
+
+§ 3º O provimento e a designação dos cargos de direção e funções de confiança destinados à implantação das novas unidades de ensino dependerão da existência de instalações adequadas e da disponibilidade de recursos financeiros necessários ao seu funcionamento.
+
+Art. 194\. A transformação de cargos a que se refere o art. 193 será realizada sem aumento de despesa, mediante compensação financeira entre os valores correspondentes à totalidade da remuneração dos cargos e das funções que estão sendo criados e os valores correspondentes à totalidade da remuneração dos cargos que estão sendo transformados, vedada a produção de efeitos retroativos.
+
+CAPÍTULO LXXIV
+
+DOS CARGOS DE ATIVIDADES TÉCNICAS DA FISCALIZAÇÃO FEDERAL AGROPECUÁRIA DO QUADRO DE PESSOAL PERMANENTE DO MINISTÉRIO DA AGRICULTURA E PECUÁRIA
+
+Art. 195\. O Anexo à [Lei nº 10.484, de 3 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-03;10484), passa a vigorar na forma do Anexo CCCXI a esta Medida Provisória.
+
+Art. 196\. O Anexo IX à [Lei nº 11.090, de 7 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-07;11090), passa a vigorar na forma do Anexo CCCXII a esta Medida Provisória.
+
+Art. 197\. O Anexo XIV-A à [Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344), passa a vigorar na forma do Anexo CCCXIII a esta Medida Provisória.
+
+CAPÍTULO LXXV
+
+DOS EMPREGADOS DE QUE TRATA O [ART. 13 DA LEI Nº 13.681, DE 18 DE JUNHO DE 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681!art13)
+
+Art. 198\. A [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar com as seguintes alterações:
+
+“Art. 13-A. A partir de 1º de janeiro de 2025, aplica-se aos empregados de que trata o art. 13 a estrutura constante do Anexo VI-A a esta Lei, observada a correlação estabelecida na forma do Anexo VI-B a esta Lei.” (NR)
+
+Art. 199\. O Anexo VI à [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar na forma do Anexo CCCXIV a esta Medida Provisória.
+
+Art. 200\. A [Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681), passa a vigorar acrescida dos Anexos VI-A e VI-B, na forma dos Anexos CCCXV e CCCXVI a esta Medida Provisória.
+
+CAPÍTULO LXXVI
+
+DO ADICIONAL POR PLANTÃO HOSPITALAR - APH
+
+Art. 201\. O Anexo CLXVI à [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar na forma do Anexo CCCXVII a esta Medida Provisória.
+
+CAPÍTULO LXXVII
+
+DA FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR DO SERVIDOR PÚBLICO DA UNIÃO - FUNPRESP
+
+Art. 202\. A [Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618), passa a vigorar com as seguintes alterações:
+
+“Art. 5º.....................................................
+
+..........................................................
+
+§ 3º-A. A designação dos membros dos conselhos deliberativos e dos conselhos fiscais das entidades fechadas representantes dos participantes e dos assistidos poderá ser delegada pelas autoridades de que trata o § 3º.
+
+......................................................” (NR)
+
+CAPÍTULO LXXVIII
+
+DOS COMITÊS GESTORES DE CARREIRAS
+
+Art. 203\. A [Lei nº 10.855, de 1º de abril de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-01;10855), passa a vigorar com as seguintes alterações:
+
+“Art. 21-B. Fica criado o Comitê Gestor da Carreira do Seguro Social, com a participação da direção do Instituto Nacional do Seguro Social, do Ministério da Previdência Social e das representações sindicais dos servidores da carreira.
+
+......................................................” (NR)
+
+Art. 204\. A [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355), passa a vigorar com as seguintes alterações:
+
+“Art. 48\. O CPCSP será constituído por quatro membros, dos quais:
+
+I – dois representantes do Ministério da Saúde; e
+
+II – dois representantes da Fiocruz, sendo um da entidade representativa dos servidores.
+
+§ 1º Os membros do CPCSP serão designados em ato do Ministro de Estado da Saúde.
+
+......................................................” (NR)
+
+“Art. 52\. Fica criado o Comitê do Plano de Carreiras e Cargos do Inmetro - CPCI, com a finalidade de assessorar o Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços na elaboração da política de recursos humanos para o Inmetro, ao qual caberá, em especial:
+
+......................................................” (NR)
+
+“Art. 53\. O CPCI será constituído por oito membros, dos quais:
+
+..........................................................
+
+§ 3º Os membros do CPCI serão designados em ato do Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços.
+
+......................................................” (NR)
+
+Art. 205\. A [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), passa a vigorar com as seguintes alterações:
+
+“Art. 213\. O CGPCPIB será constituído por cinco membros, dos quais:
+
+I – dois representantes do Ministério da Saúde; e
+
+II – três representantes do IEC e do CENP, sendo um da entidade representativa dos servidores.
+
+§ 1º Os membros do CGPCPIB serão designados em ato do Ministro de Estado da Saúde.
+
+......................................................” (NR)
+
+CAPÍTULO LXXIX
+
+DO SISTEMA DE DESENVOLVIMENTO NA CARREIRA - SIDEC
+
+Art. 206\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Art. 154\. O desenvolvimento na Carreira dos titulares dos cargos que integram as Carreiras ou Planos de Cargos a seguir se dará por progressão e promoção, em virtude do mérito de seus integrantes e do desempenho no exercício das respectivas atribuições:
+
+..........................................................
+
+III – Auditor do Banco Central do Brasil e Técnico do Banco Central do Brasil, da Carreira de Especialista do Banco Central do Brasil;
+
+..........................................................
+
+X-A – Inspetor Federal do Mercado de Capitais, da Carreira de Fiscalização da CVM;
+
+..........................................................
+
+XLI – Carreira de Desenvolvimento de Políticas Sociais, de que trata a [Lei nº 12.094, de 19 de novembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-11-19;12094);
+
+XLII – Carreira de Tecnologia da Informação, de que trata a [Lei nº 14.875, de 31 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-05-31;14875);
+
+XLIII – Carreira de Especialista em Previdência Complementar, Carreira de Analista Administrativo e Carreira de Técnico Administrativo, de que trata a [Lei nº 12.154, de 23 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-23;12154);
+
+XLIV – Carreira de Infraestrutura de Transportes, Carreira de Suporte à Infraestrutura de Transportes, Carreira de Analista Administrativo e Carreira de Técnico Administrativo, de que trata a [Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171);
+
+XLV – Carreira de Analista de Infraestrutura, de que trata a [Lei nº 11.539, de 8 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-08;11539);
+
+XLVI – Plano de Classificação de Cargos, de que trata a [Lei nº 5.645, de 10 de dezembro de 1970](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-10;5645);
+
+XLVII – Plano Geral de Cargos do Poder Executivo, de que trata a [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357);
+
+XLVIII – Plano Especial de Cargos do Ministério da Fazenda, de que trata a [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907);
+
+XLIX – Plano Especial de Cargos da Cultura, de que trata a [Lei nº 11.233, de 22 de dezembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-12-22;11233);
+
+L – Plano Especial de Cargos da Embratur, de que trata a [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356);
+
+LI – Plano Especial de Cargos do Departamento de Polícia Federal, de que trata a [Lei nº 10.682, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10682);
+
+LII – Plano Especial de Cargos do Departamento de Polícia Rodoviária Federal, de que trata a [Lei nº 11.095, de 13 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-13;11095);
+
+LIII – Carreira da Previdência, da Saúde e do Trabalho, de que trata a [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355);
+
+LIV – Carreira de Perito Federal Territorial, de que trata a [Lei nº 10.550, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10550);
+
+LV – Plano Especial de Cargos da Suframa, de que trata a [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356);
+
+LVI – Carreira da Seguridade Social e do Trabalho, de que trata a [Lei nº 10.483, de 3 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-03;10483);
+
+LVII – Plano Especial de Cargos do DNIT, de que trata a [Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171);
+
+LVIII – Plano Especial de Cargos do Ministério do Meio Ambiente e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, de que trata a [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357);
+
+LIX – Plano Especial de Cargos do Inep, de que trata a [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357);
+
+LX – Plano Especial de Cargos do FNDE, de que trata a [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357);
+
+LXI – Plano Especial de Cargos da Funai, de que trata a [Lei nº 14.875, de 31 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-05-31;14875);
+
+LXII – Carreira de Desenvolvimento Socioeconômico;
+
+LXIII – Carreira de Desenvolvimento das Políticas de Justiça e Defesa;
+
+LXIV – Carreira de Especialista em Recursos Minerais, de que trata da [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046);
+
+LXV – Carreira de Técnico em Atividades de Mineração, de que trata da [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046);
+
+LXVI – Carreira de Analista Administrativo, de que trata da [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046);
+
+LXVII – Carreira de Técnico Administrativo, de que trata da [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046); e
+
+LXVIII – outros planos e carreiras, nos termos do regulamento.
+
+..........................................................
+
+§ 2º A participação, com aproveitamento, em programas e cursos de aperfeiçoamento ministrados por escola de governo constituirá requisito obrigatório para promoção nas Carreiras e nos Planos de Cargos de que trata este artigo.
+
+..........................................................
+
+§ 5º Para os fins do inciso LXVIII do caput, não poderão ser incluídos nas regras de progressão e promoção os planos e as carreiras incompatíveis com o disposto neste Capítulo, como:
+
+I – os que possuam quantitativo de vaga por classe; e
+
+II – os regidos por lei complementar.” (NR)
+
+“Art. 155\. Para fins de progressão, serão considerados:
+
+I – os resultados da avaliação de desempenho individual do servidor; e
+
+II – o interstício em cada nível não inferior a doze meses.” (NR)
+
+“Art. 156\. Para fins de promoção, será estruturado o Sistema de Desenvolvimento na Carreira - Sidec, baseado no acúmulo de pontos a serem atribuídos ao servidor em virtude de fatores, como:
+
+..........................................................
+
+§ 2º Regulamento definirá o peso de cada um dos fatores, os critérios de sua aplicação e a forma de cálculo do resultado final.
+
+§ 3º Os requisitos para promoção deverão possuir nível de complexidade crescente de acordo com a evolução ao longo da estrutura do cargo.
+
+§ 4º A avaliação de desempenho de que trata o inciso I do caput deverá ser realizada durante toda a vida funcional do servidor.” (NR)
+
+“Art. 156-A. O desenvolvimento dos servidores públicos federais de que o art. 154 poderá prever mecanismos de aceleração, na forma do regulamento, observados os seguintes parâmetros:
+
+I – consideração de critérios objetivos que atestem desempenho diferenciado; e
+
+II – aceleração limitada a dois padrões durante toda a vida funcional do servidor, não podendo ocorrer de forma consecutiva e nem na mesma classe.
+
+Parágrafo único. O disposto no caput não se aplica aos planos e às carreiras:
+
+I – que possuam regras específicas de aceleração; e
+
+II – cuja estrutura possua menos de vinte padrões.” (NR)
+
+“Art. 158\. Enquanto não forem publicados os atos a que se refere o art. 156, § 1º e § 2º, as progressões e as promoções dos ocupantes dos cargos que integram as Carreiras a que se refere o art. 154 serão concedidas em observância às normas específicas.” (NR)
+
+CAPÍTULO LXXX
+
+DA CARREIRA FINANÇAS E CONTROLE
+
+Art. 207\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar com as seguintes alterações:
+
+“Seção III-A
+
+Da Carreira Finanças e Controle
+
+Art. 18-A. O disposto no art. 10, caput, e nos art. 11 a art. 18 desta Lei se aplicam à Carreira Finanças e Controle de que trata o [Decreto-Lei nº 2.346, de 23 de julho de 1987](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1987-07-23;2346).” (NR)
+
+“Art. 18-B. A partir de 1º de janeiro de 2025, a estrutura dos cargos de Auditor Federal de Finanças e Controle e de Técnico Federal de Finanças e Controle passa a ser a constante do Anexo IV-C a esta Lei, observada a correlação estabelecida na forma do Anexo IV-D desta Lei.” (NR)
+
+“Art. 18-C. Os valores do subsídio dos titulares dos cargos de Auditor Federal de Finanças e Controle e de Técnico Federal de Finanças e Controle passam a ser o constante no Anexo IV-E desta Lei, com efeitos financeiros a partir do previsto no respectivo Anexo.” (NR)
+
+Art. 208\. A [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890), passa a vigorar acrescida dos Anexos IV-C, IV-D e IV-E na forma dos Anexos CCCXVIII, CCCXIX e CCCXX a esta Medida Provisória.
+
+CAPÍTULO LXXXI
+
+DAS CARREIRAS DA ÁREA JURÍDICA
+
+Art. 209\. O Anexo XXXV à [Lei nº 13.327, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13327), passa a vigorar na forma do Anexo CCCXXI a esta Medida Provisória.
+
+CAPÍTULO LXXXII
+
+DISPOSIÇÕES TRANSITÓRIAS
+
+Art. 210\. Não se aplica aos servidores que se encontram cedidos na data de entrada em vigor desta Medida Provisória o disposto nos:
+
+I – [art. 28-A da Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171!art28-1);
+
+II – [art. 4º-E da Lei nº 11.539, de 8 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-08;11539!art4-5); e
+
+III – [art. 38-C da Lei nº 12.154, de 23 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-23;12154!art38-3).
+
+Art. 211\. Os candidatos aprovados em concursos públicos em vigor em 31 de dezembro de 2024 ingressarão na classe e no padrão iniciais da estrutura do cargo vigente na data de publicação do edital de abertura do concurso público, assegurado o reenquadramento nas tabelas de correlação previstas nos Anexos desta Medida Provisória.
+
+CAPÍTULO LXXXIII
+
+DISPOSIÇÕES FINAIS
+
+Art. 212\. Fica concedido, exclusivamente aos aposentados e aos instituidores de pensão provenientes de cargos de magistério superior não amparados pela [Lei nº 7.596, de 10 de abril de 1987](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1987-04-10;7596), reajuste nos seguintes percentuais:
+
+I – 10% (dez por cento), a partir de 1º de janeiro de 2025; e
+
+II – 12,5% (doze inteiros e cinco décimos por cento), a partir de 1º de abril de 2026.
+
+Art. 213\. Ficam extintas:
+
+I – a gratificação de representação de função de gabinete militar de que tratam a [Lei nº 8.460, de 17 de setembro de 1992](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1992-09-17;8460), e a alínea "g" do Anexo III à [Lei nº 11.526, de 4 de outubro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-10-04;11526); e
+
+II – a gratificação pela representação de gabinete, de que tratam o [art. 10 da Lei nº 8.460, de 17 de setembro de 1992](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1992-09-17;8460!art10), e a alínea "e" do Anexo III à [Lei nº 11.526, de 4 de outubro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-10-04;11526).
+
+Art. 214\. Ficam revogados:
+
+I – da [Lei nº 8.691, de 28 de julho de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-07-28;8691):
+
+a) os incisos I a IV do caput do art. 4º;
+
+b) as alíneas"a" a "c" do parágrafo único do art. 7º;
+
+c) do art. 8º:
+
+1\. as alíneas "a" e "b" do inciso IV do caput; e
+
+2\. o inciso V do caput;
+
+d) as alíneas"a" a "c" do parágrafo único do art. 12; e
+
+e) do art. 13:
+
+1\. as alíneas "a" e "b" do inciso IV do caput; e
+
+2\. o inciso V do caput;
+
+II – as [alíneas "a"](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9657!art17-1_cpt_inc2_ali1) e ["b" do inciso II do](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9657!art17-1_cpt_inc2_ali2) [caput](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9657!art17-1_cpt_inc2_ali2) [do art. 17-A da Lei nº 9.657, de 3 de junho de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9657!art17-1_cpt_inc2_ali2);
+
+III – o [parágrafo único do art. 5º da Lei nº 10.404, de 9 de janeiro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-09;10404!art5_par1u);
+
+IV – o [parágrafo único do art. 8º da Lei nº 10.483, de 3 de julho de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-07-03;10483!art8_par1u);
+
+V – da [Lei nº 10.550, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10550):
+
+a) os art. 1º e art.2º;
+
+b) os art. 6º-B, art. 6º-C e art. 6º-D;
+
+c) do art. 9º:
+
+1\. as alíneas "a" e "b" do inciso II do caput; e
+
+2\. o parágrafo único; e
+
+d) o art. 16;
+
+VI – do [art. 6º da Lei nº 10.551, de 13 de novembro de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10551!art6):
+
+a) as alíneas "a" e "b" do inciso II do caput;
+
+b) o inciso III do caput; e
+
+c) o parágrafo único;
+
+VII – o [§ 5º do art. 4-C da Lei nº 10.682, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10682!art4-3_par5);
+
+VIII – da [Lei nº 10.855, de 1º de abril de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-01;10855):
+
+a) o § 2º do art. 2º;
+
+b) as alíneas "a" e "b" do inciso II do caput do art. 16;
+
+c) o parágrafo único do art. 17;
+
+d) o Anexo I;
+
+e) o Anexo IV; e
+
+f) o Anexo VI;
+
+IX – a alínea "c" do inciso II do caput do art. 25 da 10.871, de 20 de maio de 2004;
+
+X – o [parágrafo único do art. 13 da Lei nº 10.876, de 2 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-02;10876!art13_par1u);
+
+XI – o [art. 6º da Lei nº 10.882, de 9 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-09;10882!art6);
+
+XII – a [Lei nº 10.908, de 15 de julho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-07-15;10908);
+
+XIII – da [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046):
+
+a) o § 3º do art. 1º;
+
+b) a alínea "c" do inciso II do caput do art. 11;
+
+c) o Anexo II;
+
+d) os Anexos VI e VI-A; e
+
+e) o Anexo VI-C;
+
+XIV – da [Lei nº 11.090, de 7 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-07;11090):
+
+a) do art. 22:
+
+1\. os incisos I e II do §1º; e
+
+2\. os incisos I e II do 2º; e
+
+b) o art. 25;
+
+XV – da [Lei nº 11.091, de 12 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-12;11091):
+
+a) o inciso V do caput do art. 5º;
+
+b) o art. 6º;
+
+c) o § 2º do art. 8º;
+
+d) o § 2º do art. 10;
+
+e) o art. 10-A;
+
+f) o art. 12;
+
+g) o Anexo III; e
+
+h) o Anexo V;
+
+XVI – o [§ 5º do art. 11-D da Lei nº 11.095, de 13 de janeiro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-01-13;11095!art11-4_par5);
+
+XVII – da [Lei nº 11.156, de 29 de julho de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-07-29;11156):
+
+a) do art. 8º:
+
+1\. as alíneas a" e "b" do inciso II do caput; e
+
+2\. o inciso III do caput; e
+
+b) o art. 17;
+
+XVIII – da [Lei nº 11.171, de 2 de setembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-09-02;11171):
+
+a) o § 4º do art. 1º;
+
+b) os art. 1º-A, art. 1º-B, art. 1º-C e art. 1º-D;
+
+c) o inciso IV do caput do art. 10;
+
+d) a alínea "c" do inciso II do caput do art. 11;
+
+e) as alíneas "a" e "b" do inciso II do caput do art. 11-A;
+
+f) o art. 12;
+
+g) o art. 15-A;
+
+h) do art. 21:
+
+1\. as alíneas "a" e "b" do inciso II do caput; e
+
+2\. o inciso III do caput;
+
+i) os incisos I e II do caput do art. 28; e
+
+j) o Anexo II;
+
+XIX – o [§ 4º do art. 2º-E da Lei nº 11.233, de 22 de dezembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-12-22;11233!art2-5_par4);
+
+XX – [alíneas "a"](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344!art36_cpt_inc2_ali1) e ["b" do inciso II do](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344!art36_cpt_inc2_ali2) [caput](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344!art36_cpt_inc2_ali2) [do art. 36 da Lei nº 11.344, de 8 de setembro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-09-08;11344!art36_cpt_inc2_ali2);
+
+XXI – da [Lei nº 11.355, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11355):
+
+a) o § 6º do art. 5º-B;
+
+b) os incisos I a IV do caput do art. 14;
+
+c) os incisos I a V do caput do art. 17;
+
+d) os incisos I a III do caput do art. 18;
+
+e) do art. 19:
+
+1\. as alíneas "a" e "b" do inciso IV do caput; e
+
+2\. o inciso V do caput;
+
+f) os incisos I a V do caput do art. 22;
+
+g) os incisos I a III do caput do art. 23;
+
+h) do art. 24:
+
+1\. as alíneas "a" e "b" do inciso IV do caput; e
+
+2\. o inciso V do caput;
+
+i) o art. 42;
+
+j) o inciso II do caput do art. 53;
+
+k) do art. 75:
+
+1\. as alíneas "a" a "c" do inciso IV do caput; e
+
+2\. o inciso V do caput;
+
+l) do art. 95:
+
+1\. a alínea "d" do inciso II do caput;
+
+2\. as alíneas "a" a "c" do inciso IV do caput; e
+
+3\. o inciso V do caput;
+
+m) o art. 105-A; e
+
+n) as alíneas "a" e "b" do inciso II do caput do art. 149;
+
+XXII – da [Lei nº 11.356, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11356):
+
+a) as alíneas "a" e "b" do inciso II do caput do art. 1º-L; e
+
+b) as alíneas "a" e "b" do inciso II do caput do art. 8º-L;
+
+XXIII – da [Lei nº 11.357, de 19 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-19;11357):
+
+a) o art. 6º;
+
+b) o § 4º do art. 7º-A;
+
+c) as alíneas "a" e "b" do inciso II do caput do art. 17-C;
+
+d) as alíneas "a" e "b" do inciso II do caput do art. 31-O;
+
+e) as alíneas "a" e "b" do inciso II do caput do art. 36-D;
+
+f) art. 38;
+
+g) o art. 48;
+
+h) o art. 48-B;
+
+i) as alíneas "a" e "b" do inciso II do caput do art. 48-M;
+
+j) as alíneas "a" e "b" do inciso II do caput do art. 62-F;
+
+k) do art. 72:
+
+1\. os § 3º e § 4º; e
+
+2\. o § 7º;
+
+l) o Anexo XX-B; e
+
+m) o Anexo XXV-B;
+
+XXIV – o [art. 6º da Lei nº 11.490, de 20 de junho de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-06-20;11490!art6);
+
+XXV – as alíneas "e" e "g" do Anexo III à [Lei nº 11.526, de 4 de outubro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-10-04;11526);
+
+XXVI – da [Lei nº 11.539, de 8 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-08;11539):
+
+a) o art. 14-A; e
+
+b) o Anexo IV;
+
+XXVII – da [Lei nº 11.776, de 17 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-17;11776):
+
+a) as alíneas "a" e "b" do inciso II do caput do art. 42; e
+
+b) o art. 42-A;
+
+XXVIII – da [Lei nº 11.784, de 22 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-22;11784):
+
+a) art. 12;
+
+b) o § 3º do art. 55;
+
+c) as alíneas "a" e "b" do inciso II do caput do art. 86;
+
+d) o art. 131; e
+
+e) o Anexo LXXVII-B;
+
+XXIX – da [Lei nº 11.890, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11890):
+
+a) o inciso I do caput do art. 10;
+
+b) as alíneas "a" e "b" do inciso II do caput do art. 64;
+
+c) o art.64-A;
+
+d) as alíneas "a" e "b" do inciso II do caput do art. 99;
+
+e) o art. 99-A;
+
+f) os §1º e §2º do art. 155;
+
+g) o art. 157; e
+
+h) os incisos I, II e III do caput do art. 158;
+
+XXX – da [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907):
+
+a) do art. 50:
+
+1\. as alíneas "a" e "b" do inciso II do caput; e
+
+2\. o inciso III do caput;
+
+b) os incisos I a IV do caput do art. 170;
+
+c) os incisos I a V do caput do art. 173;
+
+d) os incisos I a III do caput do art. 175;
+
+e) os incisos I a V do caput do art. 178;
+
+f) o inciso V do caput do art. 179;
+
+g) os incisos I a III do caput do art. 180;
+
+h) as alíneas "a" e "b" do inciso II do caput do art. 202;
+
+i) o art. 207; e
+
+j) as alíneas "a" e "b" do inciso II do caput do art. 249;
+
+XXXI – do [art. 74 da Lei nº 11.941, de 27 de maio de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-05-27;11941!art74);
+
+XXXII – da [Lei nº 12.154, de 23 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-23;12154):
+
+a) as alíneas "a" e "b" do inciso II do caput do art. 37; e
+
+b) o inciso II do caput do art. 38;
+
+XXXIII – da [Lei nº 12.702, de 7 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-07;12702):
+
+a) o art. 4º;
+
+b) o art. 11;
+
+c) o art. 21;
+
+d) o art. 56; e
+
+e) o art. 74;
+
+XXXIV – da [Lei nº 12.772, de 28 de dezembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-28;12772):
+
+a) do art. 1º:
+
+1\. as alíneas "a" a "c" do inciso I do §2º;
+
+2\. o inciso V do §2º; e
+
+3\. o inciso V do §3º;
+
+b) o inciso IV do §3º do art. 12;
+
+c) o art. 13;
+
+d) o inciso IV do §3º do art. 14;
+
+e) o art. 15;
+
+f) o parágrafo único do art. 16; e
+
+g) o Anexo III-A;
+
+XXXV – da [Lei nº 13.325, de 29 de julho de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-07-29;13325):
+
+a) o art. 4º;
+
+b) o art. 6º;
+
+c) o Anexo II; e
+
+d) o Anexo IX;
+
+XXXVI – o [§ 4º do art. 11 da Lei nº 13.681, de 18 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-18;13681!art11_par4); e
+
+XXXVII – o [inciso IV do](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-09-16;14204!art17_cpt_inc4) [caput](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-09-16;14204!art17_cpt_inc4) [do art. 17 da Lei nº 14.204, de 16 de setembro de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-09-16;14204!art17_cpt_inc4); e
+
+XXXVIII – o [art. 25 da Lei nº 14.673, de 14 de setembro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-09-14;14673!art25).
+
+Art. 215\. Esta Medida Provisória entra em vigor na data de sua publicação.
+
+§ 1º Os efeitos financeiros decorrentes das disposições desta Medida Provisória ficam condicionados à vigência da Lei Orçamentária Anual de 2025.
+
+§ 2º Vigente a Lei Orçamentária Anual de 2025, os efeitos financeiros decorrentes das disposições desta Medida Provisória se iniciarão a partir de 1º de janeiro de 2025, nos termos do [art. 117, § 1º, da Lei nº 15.080, de 30 de dezembro de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-12-30;15080!art117_par1) - Lei de Diretrizes Orçamentárias para 2025, respeitadas os marcos temporais iniciais previstos nesta Medida Provisória.
+
+§ 3º O disposto no § 2º observará o montante autorizado no Anexo V da Lei Orçamentária Anual de 2025, para o exercício financeiro de 2025 e para a despesa anualizada.
+
+Brasília, 31 de dezembro de 2024; 203º da Independência e 136º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Cristina Kiomi Mori
+
+Gustavo José de Guimarães e Souza

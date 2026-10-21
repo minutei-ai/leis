@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213011"
-titulo: "Decreto nº 70.908, de 25/09/2026"
-data: "2026-09-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70908-25.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213011"
-sha256_dados: "73bf8736432f75ad0b24706775942249cace5b9893d03c44c553c41039db4e08"
-coletado_em: "2026-10-21T08:35:36.556Z"
-sha256_fonte: "55b84e780e018c3b57b67e669f8bf7d41d6fd253b34d2534d1bf39ee6d6343eb"
-sha256_markdown: "a694953b7b36e9e0ad0686f90262842e04fd4e93409b8045c7aabe422a6dfdcb"
----
-
 # Decreto nº 70.908, de 25/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213011)<br>

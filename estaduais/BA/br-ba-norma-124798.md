@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124798"
-titulo: "LD Nº 64 DE 01 DE JUNHO DE 1983"
-data: "1983-06-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-64-de-01-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:16.573Z"
-sha256_fonte: "98f1acb58c3edce64f73ae0d22db1e5e4014754f6333418433c1db80756f065c"
-sha256_markdown: "81366472a9879b692044577e17c5b6006e4283dc06265481f7085abc16891b6c"
----
-
 # LD Nº 64 DE 01 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 64 DE 01 DE JUNHO DE 1983

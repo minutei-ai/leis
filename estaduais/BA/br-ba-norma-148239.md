@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148239"
-titulo: "LEI Nº 15.119 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15119-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:30.766Z"
-sha256_fonte: "c5ebb63fd7bfbe912257f740de731f5aa81ae8b25d298c66e9cb33a10230f6d6"
-sha256_markdown: "b5d4f77102251accae5d42e34d06d153cb0aa9beb6a47f16de4f43c78c35235f"
----
-
 # LEI Nº 15.119 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.119 DE 28 DE JANEIRO DE 2026

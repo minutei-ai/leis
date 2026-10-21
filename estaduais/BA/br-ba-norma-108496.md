@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108496"
-titulo: "LD Nº 44 DE 29 DE MARÇO DE 1983"
-data: "1983-03-29"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-44-de-29-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:28.802Z"
-sha256_fonte: "2967d6e4f0151aedd381dc2bff585aa93456b27618087338ac92ad2602124dc5"
-sha256_markdown: "5c77ffaa6267ed799dd312c9bdad13ce038ce543fb16ea868ad64005eb8375da"
----
-
 # LD Nº 44 DE 29 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 44 DE 29 DE MARÇO DE 1983

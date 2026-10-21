@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212824"
-titulo: "Decreto nº 70.747, de 02/07/2026"
-data: "2026-07-02"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70747-02.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212824"
-sha256_dados: "fbbf77a2ac5653de47c599ecbba65d4661bde2938fefbb6772515daf3b135394"
-coletado_em: "2026-10-21T08:39:34.996Z"
-sha256_fonte: "5ac01b55e3be815b431ac55948cbae6c09a8cba58d169bee38e773be546eca58"
-sha256_markdown: "e8d219c425cd15cde37dd2ee97846dbf7e15f7da6a17d6b617d62aa399a7a06b"
----
-
 # Decreto nº 70.747, de 02/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212824)<br>

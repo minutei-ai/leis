@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212741"
-titulo: "Lei nº 18.488, de 16/06/2026"
-data: "2026-06-16"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/lei-18488-16.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212741"
-sha256_dados: "a6c613d483414af85b08a306d5c3f25ba1727fa0e1531b4220d13b9eb9aa66d6"
-coletado_em: "2026-10-21T08:41:05.065Z"
-sha256_fonte: "108792c078c54eac2c26bc1dc7094c755829a7a1f8af403e2cc9ea2572e87a22"
-sha256_markdown: "6c68cc6bdb86e5965cec7afaa9811b16e09874bb8bca8c25ff98e17376449747"
----
-
 # Lei nº 18.488, de 16/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212741)<br>

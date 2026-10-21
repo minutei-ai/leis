@@ -1,6 +1,0 @@
-{
-  "id": "br-federal-lei-2017-01-10-13414",
-  "coletado_em": "2026-10-21T09:12:41.429Z",
-  "erro": "SourceFailure: { \"url\": \"https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-01-10;13414\", \"motivo\": \"Arquivo fora da origem esperada: https://normas.leg.br/api/public/binario//texto\", \"status\": undefined }\n    at <anonymous> (/home/runner/work/leis/leis/scripts/senado.ts:232:11)\n    at senado.selectEncoding (/home/runner/work/leis/leis/scripts/senado.ts:185:38)\n    at senado.selectEncoding (/home/runner/work/leis/leis/scripts/collect-senado.ts:63:35)",
-  "urn": "urn:lex:br:federal:lei:2017-01-10;13414"
-}

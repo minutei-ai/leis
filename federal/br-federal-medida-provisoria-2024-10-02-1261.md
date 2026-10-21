@@ -1,0 +1,25 @@
+# Medida Provisória nº 1.261 de 02/10/2024
+
+MEDIDA PROVISÓRIA Nº 1.261, DE 2 DE OUTUBRO DE 2024
+
+Altera a [Lei nº 14.467, de 16 de novembro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-11-16;14467), que dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º A [Lei nº 14.467, de 16 de novembro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-11-16;14467), passa a vigorar com as seguintes alterações:
+
+“Art. 6º As perdas apuradas em 1º de janeiro de 2025 relativas aos créditos que se encontrarem inadimplidos em 31 de dezembro de 2024 e que não tenham sido deduzidas até essa data e que não tenham sido recuperadas somente poderão ser excluídas do lucro líquido, na determinação do lucro real e da base de cálculo da CSLL, à razão de 1/84 (um oitenta e quatro avos) para cada mês do período de apuração, a partir do mês de janeiro de 2026.
+
+§ 1º As instituições a que se refere o art. 1º, caput, podem optar, até 31 de dezembro de 2025, de forma irrevogável e irretratável, por efetuar as deduções de que trata o caput deste artigo, à razão de 1/120 (um cento e vinte avos) para cada mês do período de apuração, a partir do mês de janeiro de 2026.
+
+§ 2º Fica vedado às instituições a que se refere o art. 1º, caput, deduzir as perdas incorridas de que trata o art. 2º relativas ao exercício de 2025 em montante superior ao lucro real do exercício, antes de computada essa dedução.
+
+§ 3º As perdas não deduzidas em virtude do disposto no § 2º devem ser adicionadas aos saldos das perdas de que trata o caput e excluídas do lucro líquido à mesma razão e no mesmo prazo da dedução desse saldo, observada a opção a que se refere o § 1º.” (NR)
+
+Art. 2º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 2 de outubro de 2024; 203º da Independência e 136º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Fernando Haddad

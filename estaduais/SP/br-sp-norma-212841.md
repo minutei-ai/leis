@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212841"
-titulo: "Decreto nº 70.758, de 14/07/2026"
-data: "2026-07-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70758-14.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212841"
-sha256_dados: "4e40ba7d42a43deed6d8934856fcb3ee22c3a7923821524b5345e9d75e2477ee"
-coletado_em: "2026-10-21T08:39:10.287Z"
-sha256_fonte: "bb2dd766ecf541c7a40d41b9238e58e29b6ccc62dd44e661544fcaab86f0a7a1"
-sha256_markdown: "5c3c6c07fcdec22510e39698445670f539d9a3e7f60e48abbc714e95e144b35f"
----
-
 # Decreto nº 70.758, de 14/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212841)<br>

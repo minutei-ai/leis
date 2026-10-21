@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212932"
-titulo: "Decreto nº 70.829, de 27/08/2026"
-data: "2026-08-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70829-27.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212932"
-sha256_dados: "2cad6ef57e314d3efa0a8d872443150f2f17939c0a28fcfa25231bd582db5c69"
-coletado_em: "2026-10-21T08:37:16.114Z"
-sha256_fonte: "773b2e62ec57fed5fad9a0631f71185dcbbed1cc7c446260b8ca2d36b6aba009"
-sha256_markdown: "0e9fe4f0073b5aeb19f029770e621cff5b03ed8de46618f8090028ac8241d126"
----
-
 # Decreto nº 70.829, de 27/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212932)<br>

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212791"
-titulo: "Decreto nº 70.716, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70716-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212791"
-sha256_dados: "126a24a81fd2510813783ca3c23aed3faa5b03c3272f826c0f916126f1699aa1"
-coletado_em: "2026-10-21T08:40:15.902Z"
-sha256_fonte: "1415cde2f87f76de773b074638cf93656d8c41f5f417b35c6ceb8f9f5e095a28"
-sha256_markdown: "60517a22b1f21e777145aa68d11c21b6991fa1980c15d434318a9b0bfb79a438"
----
-
 # Decreto nº 70.716, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212791)<br>

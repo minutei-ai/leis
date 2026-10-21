@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212896"
-titulo: "Decreto nº 70.799, de 20/08/2026"
-data: "2026-08-20"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70799-20.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212896"
-sha256_dados: "7ff84deef2fadefc5f1759eff263502eb4ab90616cbf10a61f64cd81b83e1dec"
-coletado_em: "2026-10-21T08:38:01.108Z"
-sha256_fonte: "92c3cbfa3da841362604f73d77f78d6501e22ecfbc618ae1e3851f1a0a2e5414"
-sha256_markdown: "858fefe8787186a47bb0ac81ee7c0a931cfca5639d373b4d4981cf03fdbe533c"
----
-
 # Decreto nº 70.799, de 20/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212896)<br>

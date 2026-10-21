@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148238"
-titulo: "LEI Nº 15.118 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15118-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:31.577Z"
-sha256_fonte: "95aedaed1c93bf4b2f84031af76f8c58ab15345189a51b6fa65a7dafea9a6fb1"
-sha256_markdown: "2a57f79b552b7a083365ecb7178c06af86ae35987072e85ec303d1c45f863b45"
----
-
 # LEI Nº 15.118 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.118 DE 28 DE JANEIRO DE 2026<br>

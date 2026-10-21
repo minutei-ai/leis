@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-144991"
-titulo: "EMENDA À CONSTITUIÇÃO Nº 32, DE 28 DE NOVEMBRO DE 2023"
-data: "2023-11-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constituicao-no-32-de-28-de-novembro-de-2023"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:10.288Z"
-sha256_fonte: "b2fd83219208bd7e3811ae5d8eb75b9be2b1326deeadf5279c240f6a0397eb18"
-sha256_markdown: "aada557bfa309d6a32f44ea92b1dc391807462fdb4c184c3621b48ec47adf210"
----
-
 # EMENDA À CONSTITUIÇÃO Nº 32, DE 28 DE NOVEMBRO DE 2023
 
 EMENDA À CONSTITUIÇÃO N.º 32, DE 28 DE NOVEMBRO DE 2023

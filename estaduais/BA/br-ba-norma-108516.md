@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108516"
-titulo: "LD Nº 71 DE 03 DE JUNHO DE 1983"
-data: "1983-06-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-71-de-03-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:11.975Z"
-sha256_fonte: "1f97e69f69bfbc30cf0bb0acd2e821cf116ef219fb7b2e818753ee8c31cd809a"
-sha256_markdown: "8d524dbc3b8ab2a80065280d851b9696c64311dc9c313a66e5df5caf236a028a"
----
-
 # LD Nº 71 DE 03 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 71 DE 03 DE JUNHO DE 1983

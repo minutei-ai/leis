@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212857"
-titulo: "Decreto nº 70.770, de 27/07/2026"
-data: "2026-07-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70770-27.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212857"
-sha256_dados: "20a4e2c2696193219944c38c2eb62418eb46d61036ffd9fd38c887cc036ba735"
-coletado_em: "2026-10-21T08:38:50.235Z"
-sha256_fonte: "4e230e0e76751c32a663a7d43e71684f68e86818d8bfead55316ffd80d49675f"
-sha256_markdown: "c6d244814285ae513a7997e941fd573829e0777fcea0003455c2deed732df163"
----
-
 # Decreto nº 70.770, de 27/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212857)<br>

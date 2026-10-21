@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108478"
-titulo: "LD Nº 14 DE 06 DE ABRIL DE 1981"
-data: "1981-04-06"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-14-de-06-de-abril-de-1981"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:16.036Z"
-sha256_fonte: "518f72449dcf0573ecd46dd97f5c4da7d8cb1cf76f85ca8e3ee3b0d94050ba18"
-sha256_markdown: "0e34abca47b5765340741def114a9448b3e09925ed01e5ca1f5630c74e373364"
----
-
 # LD Nº 14 DE 06 DE ABRIL DE 1981
 
 LEI DELEGADA Nº 14 DE 06 DE ABRIL DE 1981

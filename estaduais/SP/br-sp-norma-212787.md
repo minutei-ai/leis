@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212787"
-titulo: "Decreto nº 70.712, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70712-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212787"
-sha256_dados: "87439946ed310034d949b5df262375344d10ec9820011f5ded47c720a2f9c9b5"
-coletado_em: "2026-10-21T08:40:21.068Z"
-sha256_fonte: "86d6372c3c3836ec6c7dd883147fcd2e27adb75a9882b71ce4a93d896e9b3d01"
-sha256_markdown: "8ee4f7d12d16f75bd4d37ce18c8e1d42c30f5e9d6e2b9ad335add20236cc63b2"
----
-
 # Decreto nº 70.712, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212787)<br>

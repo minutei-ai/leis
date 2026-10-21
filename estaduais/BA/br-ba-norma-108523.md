@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108523"
-titulo: "LD Nº 78 DE 03 DE JUNHO DE 1983"
-data: "1983-06-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-78-de-03-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:07.599Z"
-sha256_fonte: "03f8af5aa7daf62d969e28f9e1518b127f817c56e11ed02aa8127a823497e371"
-sha256_markdown: "a97bd6ed0ae6274440382d687a4172fea0434683c4035c73f38c577a48652563"
----
-
 # LD Nº 78 DE 03 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 78 DE 03 DE JUNHO DE 1983

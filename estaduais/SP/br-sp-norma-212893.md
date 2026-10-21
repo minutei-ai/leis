@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212893"
-titulo: "Decreto nº 70.796, de 18/08/2026"
-data: "2026-08-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70796-18.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212893"
-sha256_dados: "c2c78ca2bea74ec6671ab06225cb7a4fdaaa49b0230cf3692b366e5f082ecc3a"
-coletado_em: "2026-10-21T08:38:05.247Z"
-sha256_fonte: "b88ef91fe3aded32ea318372646cccca7291a2ee4b6dee0ffbae12a597cd2b5a"
-sha256_markdown: "2a00b7e3c4e40cbd6fe1d768a50b93e96d09e22e433c145381e64b98db714e83"
----
-
 # Decreto nº 70.796, de 18/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212893)<br>

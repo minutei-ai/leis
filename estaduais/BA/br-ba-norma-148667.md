@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148667"
-titulo: "LEI Nº 15.151 DE 22 DE MAIO DE 2026"
-data: "2026-05-22"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15151-de-22-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:02.363Z"
-sha256_fonte: "28b6bd09df6e041896f3edf9abd156f9ff159afd4ff25e662a05cace31a40f18"
-sha256_markdown: "7589bba6469cd95ebbdc935841cb36674eda0a9724eb9d3b6d85d163bef78fb5"
----
-
 # LEI Nº 15.151 DE 22 DE MAIO DE 2026
 
 LEI Nº 15.151 DE 22 DE MAIO DE 2026

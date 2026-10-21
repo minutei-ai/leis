@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212809"
-titulo: "Decreto nº 70.734, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70734-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212809"
-sha256_dados: "c9ba43ae1bf020f938350559f340c1138a4552bc766dcd74f798762a630fefbc"
-coletado_em: "2026-10-21T08:39:53.355Z"
-sha256_fonte: "ac135ff012f8fe71cad7706e9408bcd5552f1ee6cfca16df250524fae75294b4"
-sha256_markdown: "5eb4c8864cf4f6a6454d648efb6d16b49321da1baa39d44ebbd78ce7a67160ae"
----
-
 # Decreto nº 70.734, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212809)<br>

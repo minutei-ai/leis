@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213004"
-titulo: "Decreto nº 70.901, de 25/09/2026"
-data: "2026-09-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70901-25.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213004"
-sha256_dados: "d2a7283d8b9733d7860b8277c5438d973a40d8fa60826a5534a131568438917d"
-coletado_em: "2026-10-21T08:35:45.225Z"
-sha256_fonte: "6ff78567790c04a1eefdff28417f14bba29690c488055e741bd799719c17b7d5"
-sha256_markdown: "8cd4183014926b8d76e5a89d7ab8ab4bc19e3b3866ae45a7d0fcd9e606d1ad48"
----
-
 # Decreto nº 70.901, de 25/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213004)<br>

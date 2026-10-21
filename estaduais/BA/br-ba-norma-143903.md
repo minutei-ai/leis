@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-143903"
-titulo: "LEI COMPLEMENTAR Nº 56 DE 08 DE MARÇO DE 2024"
-data: "2024-03-08"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-56-de-08-de-marco-de-2024"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:20.777Z"
-sha256_fonte: "f68a1d9fbf8c38132af5aa6fb49f2753f91ef31f341169927fe647f616d38c72"
-sha256_markdown: "f6c9d763d678c357b47b463203ca50a14f986912bf278af54a17b22a166d1b48"
----
-
 # LEI COMPLEMENTAR Nº 56 DE 08 DE MARÇO DE 2024
 
 LEI COMPLEMENTAR Nº 56 DE 08 DE MARÇO DE 2024

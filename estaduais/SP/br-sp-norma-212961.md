@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212961"
-titulo: "Decreto nº 70.858, de 13/09/2026"
-data: "2026-09-13"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70858-13.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212961"
-sha256_dados: "3ef478fa8b4b1fd436f929b2fa2af6f650a71af3ac795863ba85193c354d3750"
-coletado_em: "2026-10-21T08:36:39.246Z"
-sha256_fonte: "142381ce41fdd3ac2c5e8ee2ef1dca54f7b17adb513c47694544998e5abe6043"
-sha256_markdown: "76dc418f248bad22ca830f77589ace17fbc663dffc93b0658e1f24bf762100f0"
----
-
 # Decreto nº 70.858, de 13/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212961)<br>

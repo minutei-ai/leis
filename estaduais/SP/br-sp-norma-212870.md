@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212870"
-titulo: "Decreto nº 70.782, de 04/08/2026"
-data: "2026-08-04"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70782-04.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212870"
-sha256_dados: "4908ca71883119cc99e925294edfb41bfe80294909db09614cc1ad7b4d4e505e"
-coletado_em: "2026-10-21T08:38:34.964Z"
-sha256_fonte: "f7437a109eee624b3dfd38ed5b9e2f77826dd443c4486f9a3cd89a2370233010"
-sha256_markdown: "76da7b3d5c4d24020444881b480040dbd2c1014ec62bd2d72a6d2c517ad86769"
----
-
 # Decreto nº 70.782, de 04/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212870)<br>

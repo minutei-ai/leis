@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213018"
-titulo: "Decreto nº 70.915, de 30/09/2026"
-data: "2026-09-30"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70915-30.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213018"
-sha256_dados: "189fb7655ed73f18aa8af593e7f7effa9b74d00a73100f9e30a87cf159e256e4"
-coletado_em: "2026-10-21T08:35:26.594Z"
-sha256_fonte: "beb9e01e2e28ccff005816ec7205828c59cf25234433496ddc1931e2f3f93c45"
-sha256_markdown: "6fa0fa5894819da7334e87e3d457100aeae101226d31fb7e420053bf8e129e98"
----
-
 # Decreto nº 70.915, de 30/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213018)<br>

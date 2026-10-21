@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148061"
-titulo: "LEI Nº 15.059 DE 18 DE DEZEMBRO DE 2025"
-data: "2025-12-18"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15059-de-18-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:19.245Z"
-sha256_fonte: "a63055de33e592ef1af70985703a7bb03ed275bc02dfd2e83ae7deec842ec00c"
-sha256_markdown: "ee946bbd1145abe9ce7118122bde4011125c0d1b3b72295a4a2d7793514ad859"
----
-
 # LEI Nº 15.059 DE 18 DE DEZEMBRO DE 2025
 
 LEI Nº 15.059 DE 18 DE DEZEMBRO DE 2025

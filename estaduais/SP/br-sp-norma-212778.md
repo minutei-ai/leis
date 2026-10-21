@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212778"
-titulo: "Decreto nº 70.708, de 22/06/2026"
-data: "2026-06-22"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70708-22.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212778"
-sha256_dados: "b728a88af00aa434680cd78dfc6469e44fcf9ce9ddccf62f9512793d6a9b2a44"
-coletado_em: "2026-10-21T08:40:31.281Z"
-sha256_fonte: "c311aa864ec2d0729f570d92a9a1ec0c4ec7a23a6955b3569583eb76b2c5b0c1"
-sha256_markdown: "fe569d9a6cd0afed271637419418c0e3d2604305b1ea79f8c81eb08a0d085d27"
----
-
 # Decreto nº 70.708, de 22/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212778)<br>

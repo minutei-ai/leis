@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212977"
-titulo: "Decreto nº 70.874, de 14/09/2026"
-data: "2026-09-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70874-14.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212977"
-sha256_dados: "45f4c2b1d437dcf33d36418be5f7e79c9d31086d7fe32becc0717df9adc69199"
-coletado_em: "2026-10-21T08:36:19.462Z"
-sha256_fonte: "b28b130163049b0384e1e2b1a6814029dcd664311b434f6a607b2cc07c67d083"
-sha256_markdown: "3070a5d47c436d3056d114db35cb3eed59ca2ccd4f32e6ac5a7bdbdc0ce4d417"
----
-
 # Decreto nº 70.874, de 14/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212977)<br>

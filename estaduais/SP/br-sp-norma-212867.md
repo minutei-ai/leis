@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212867"
-titulo: "Decreto nº 70.779, de 04/08/2026"
-data: "2026-08-04"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70779-04.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212867"
-sha256_dados: "e54e5fdd74321bce576b384c691edd676b8c97177e946e3db0a04bc2687060da"
-coletado_em: "2026-10-21T08:38:38.654Z"
-sha256_fonte: "c59f0baecde1b8fceb96950e4e9e5d3e7f4598ed4dfe5b0e889ee878fc0ce863"
-sha256_markdown: "f05039682e59fe4ebfed678fffda7a55c026517d2b9755aa59686f674bad1a79"
----
-
 # Decreto nº 70.779, de 04/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212867)<br>

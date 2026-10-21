@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212939"
-titulo: "Decreto nº 70.836, de 01/09/2026"
-data: "2026-09-01"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70836-01.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212939"
-sha256_dados: "2ddef87a08e35878a82a958bbfe76c44288eb81ba900b32aa6d539dfe89a15bf"
-coletado_em: "2026-10-21T08:37:07.174Z"
-sha256_fonte: "a4b0b52482769b19d9d366c71780935e905b5937b6a90b001e50a59cddd8c0e6"
-sha256_markdown: "c99c6ce85851a354934b8db5bf29fcfef807a1537189f294421943902172188f"
----
-
 # Decreto nº 70.836, de 01/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212939)<br>

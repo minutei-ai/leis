@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-141750"
-titulo: "LEI COMPLEMENTAR Nº 52 DE 29 DE JUNHO DE 2022"
-data: "2022-06-29"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-52-de-29-de-junho-de-2022"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:23.307Z"
-sha256_fonte: "e3d4e582ee43904d2940385c27f6a1058337349c4f995b80c0c49c7c08af6c8f"
-sha256_markdown: "159ed84a266f8e0eee8a1b24e20d93da753810b8fe3fef8932a8f0269b5ffca8"
----
-
 # LEI COMPLEMENTAR Nº 52 DE 29 DE JUNHO DE 2022
 
 LEI COMPLEMENTAR Nº 52 DE 29 DE JUNHO DE 2022

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124793"
-titulo: "LD Nº 51 DE 31 DE MAIO DE 1983"
-data: "1983-05-31"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-51-de-31-de-maio-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:24.597Z"
-sha256_fonte: "20b7d875d22ecc105ff9e03384ca43b1375a35f78907817e6378bb92b9b7aee3"
-sha256_markdown: "b7ca6a666cd085a785bd2deaaecae4f4b1698bf20019a8bd6d07738b9a829ed7"
----
-
 # LD Nº 51 DE 31 DE MAIO DE 1983
 
 LEI DELEGADA Nº 51 DE 31 DE MAIO DE 1983

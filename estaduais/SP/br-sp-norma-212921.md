@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212921"
-titulo: "Decreto nº 70.823, de 25/08/2026"
-data: "2026-08-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70823-25.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212921"
-sha256_dados: "85634b2b03e793a61148924b71455e79e6f3ead9877c2a3f8d853c1b0e45f43e"
-coletado_em: "2026-10-21T08:37:30.909Z"
-sha256_fonte: "cb4f7b3c70bf0b6b9ac5a8d9fe6f49f5d99d62ff211af77bba88624466efc78d"
-sha256_markdown: "1bf0c53a16d59af012930a14e5fa33044c1b4e1ffb29263851373ebc1ecf12ce"
----
-
 # Decreto nº 70.823, de 25/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212921)<br>

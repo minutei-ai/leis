@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-140221"
-titulo: "EMENDA CONSTITUCIONAL Nº 27 DE 16 DE JUNHO DE 2021"
-data: "2021-06-16"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constitucional-no-27-de-16-de-junho-de-2021"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:48.339Z"
-sha256_fonte: "b4ea389377f583475c0f33b88cce406f39a85bb21f451df249a22d27e2f685e8"
-sha256_markdown: "7facbbf15b66829f09ded75ac849d06e0860287bf0db0d5dd1e6645ce98296b4"
----
-
 # EMENDA CONSTITUCIONAL Nº 27 DE 16 DE JUNHO DE 2021
 
 EMENDA CONSTITUCIONAL Nº 27 DE 16 DE JUNHO DE 2021

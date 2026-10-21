@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-34147"
-titulo: "Constituição do Estado da Bahia de 20 de agosto de 1935"
-data: "1935-08-20"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-20-de-agosto-de-1935"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T11:18:52.523Z"
-sha256_fonte: "3fdaf32fdfb632b766f2d48813eb6a8f49a63833e4d8a2060915b321656b8aed"
-sha256_markdown: "ef70416a4c17692b5189c75ab0d78dee921cd6a5e5c0213925df41eff19457c7"
----
-
 # Constituição do Estado da Bahia de 20 de agosto de 1935
 
 NÓS, REPRESENTANTES DO POVO DA BAHIA, REUNIDOS EM ASSEMBLÉA CONSTITUINTE, INVOCANDO O NOME DE DEUS, DECRETAMOS E PROMULGAMOS A SEGUINTE:

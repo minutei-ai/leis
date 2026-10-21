@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108441"
-titulo: "LEI COMPLEMENTAR Nº 005 DE 04 DE DEZEMBRO DE 1991"
-data: "1991-12-04"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-005-de-04-de-dezembro-de-1991"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:25:47.323Z"
-sha256_fonte: "cc09e1ab188d6cfbcc13017ce0723172fbf726bdd66624557c78ecf3362f02f1"
-sha256_markdown: "4fdb7d874e1994232674ebfd92ccb3247d98ecc01aa211d5466d872a2c382774"
----
-
 # LEI COMPLEMENTAR Nº 005 DE 04 DE DEZEMBRO DE 1991
 
 LEI COMPLEMENTAR Nº 005 DE 04 DE DEZEMBRO DE 1991

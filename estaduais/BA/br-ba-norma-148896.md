@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148896"
-titulo: "LEI Nº 15.178 DE 1º DE JULHO DE 2026"
-data: "2026-07-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15178-de-1o-de-julho-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:25.783Z"
-sha256_fonte: "531b5a6593b8582166bbe4f4e057d029bf77acdc40c01d7ebc27c1c5a663106a"
-sha256_markdown: "030bccd703616d499cb0aa1ed30f57e4366ac392000295ada62970e187df8625"
----
-
 # LEI Nº 15.178 DE 1º DE JULHO DE 2026
 
 LEI Nº 15.178 DE 1º DE JULHO DE 2026

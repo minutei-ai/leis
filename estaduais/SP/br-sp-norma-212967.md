@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212967"
-titulo: "Decreto nº 70.864, de 13/09/2026"
-data: "2026-09-13"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70864-13.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212967"
-sha256_dados: "d9f1b8c2334c6933fe51141b9ff1092af6af14be807e38e21ab40997b7c4af3c"
-coletado_em: "2026-10-21T08:36:31.845Z"
-sha256_fonte: "edd47dd6e9353f9d9ca8e2d6dc41058a65d4d1ea29110fad8203f72e4598bf93"
-sha256_markdown: "11c061a8bd6c447c08d92cec562f84e5bc80cfba2c9289726f08831d19d2651b"
----
-
 # Decreto nº 70.864, de 13/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212967)<br>

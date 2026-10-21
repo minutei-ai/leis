@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212745"
-titulo: "Lei nº 18.492, de 16/06/2026"
-data: "2026-06-16"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/lei-18492-16.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212745"
-sha256_dados: "2967b43105282ecdd0d78c2f82db08da000c352fc0424fa358a4ae6b70dd904b"
-coletado_em: "2026-10-21T08:40:59.938Z"
-sha256_fonte: "b64f553e04d33b36b9eb50f6b11793bb5b256a31dbad8e9af04beef0f6a027d0"
-sha256_markdown: "966b63f483cdaac0ff7b21c28f6e998ef048aff9ad62da8ccfe4cc9a5b7feac9"
----
-
 # Lei nº 18.492, de 16/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212745)<br>

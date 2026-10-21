@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108462"
-titulo: "LEI COMPLEMENTAR Nº 29 DE 21 DE DEZEMBRO DE 2007"
-data: "2007-12-21"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-29-de-21-de-dezembro-de-2007"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:25:33.379Z"
-sha256_fonte: "6b54298889e54e783815cd7504be796cb43e4655b96cbc1a0a0b1053b6b86bb6"
-sha256_markdown: "fa215a726c8e016e1e27cc85e702c58d5f3bfe26b32e14239ea65a4ad80529a1"
----
-
 # LEI COMPLEMENTAR Nº 29 DE 21 DE DEZEMBRO DE 2007
 
 LEI COMPLEMENTAR Nº 29 DE 21 DE DEZEMBRO DE 2007

@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2026-07-02-188"
-titulo: "LCP nº 188, de 02/07/2026"
-data: "2026-07-02"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/188/2026/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/188/2026/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "e57bf51b381fb5e2900be0d0abe93a96e5bb2ccbe4366d4a419268fa6ae7b2ed"
-coletado_em: "2026-10-21T08:28:03.849Z"
-sha256_fonte: "37f82330484a13e61c90405ac92d9821ee08c681ce76e5db69cd65f0b2dc5aaa"
-sha256_markdown: "0cd64e192ac98940cc11630340206083be079a2063f6c99c48a04adcdbb28e5a"
----
-
 # LCP nº 188, de 02/07/2026
 
 Dispõe sobre o Quadro de Pessoal da Advocacia-Geral do Estado de Minas Gerais e dá outras providências.

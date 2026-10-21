@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148041"
-titulo: "LEI Nº 15.043 DE 12 DE DEZEMBRO DE 2025"
-data: "2025-12-12"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15043-de-12-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:32.724Z"
-sha256_fonte: "e8954ad9774708662fed8d95d0df62455d803a1f1c421a10bc758c0e0d2c9819"
-sha256_markdown: "1956c1837f539dc56af25e0e13eb37c786aa7d85c1bc01b7afb4e4093d63dadb"
----
-
 # LEI Nº 15.043 DE 12 DE DEZEMBRO DE 2025
 
 LEI Nº 15.043 DE 12 DE DEZEMBRO DE 2025

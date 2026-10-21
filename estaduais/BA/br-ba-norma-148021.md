@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148021"
-titulo: "LEI Nº 15.038 DE 11 DE DEZEMBRO DE 2025"
-data: "2025-12-11"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15038-de-11-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:38.198Z"
-sha256_fonte: "466520840d7af358001c26e89cb0cc253b3c966f2156f3c9f4ab05431cda28af"
-sha256_markdown: "1097c1384c529a18ee6364277ecc429a88f2a83697795694e78e09768d08d006"
----
-
 # LEI Nº 15.038 DE 11 DE DEZEMBRO DE 2025
 
 LEI Nº 15.038 DE 11 DE DEZEMBRO DE 2025

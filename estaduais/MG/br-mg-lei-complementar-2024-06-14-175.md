@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2024-06-14-175"
-titulo: "LCP nº 175, de 14/06/2024"
-data: "2024-06-14"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/175/2024/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/175/2024/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "d539aef2aea63335b7f8e9549fb3ea3b8325fd8e85f0a5d1e5c55644f9e9c290"
-coletado_em: "2026-10-21T08:39:38.334Z"
-sha256_fonte: "ea3c7b54ad03a58e1f7ddb48e3ff0a74f2f92421ee8485d101c3ec7d0e834804"
-sha256_markdown: "fdf5f30f3a81b19967f2976a8f50483246ec5dc23fbe8526a137a8c209c65be2"
----
-
 # LCP nº 175, de 14/06/2024
 
 Altera a Lei Complementar nº 171, de 9 de maio de 2023, que dispõe sobre a transposição e a transferência dos saldos constantes dos Fundos de Saúde dos municípios, provenientes de repasses da Secretaria de Estado de Saúde, e de saldos financeiros resultantes de parcerias e convênios firmados com o Estado, e dá outras providências, a Lei nº 13.317, de 24 de setembro de 1999, que contém o Código de Saúde do Estado de Minas Gerais, e a Lei nº 15.474, de 28 de janeiro de 2005, que altera a Lei nº 13.317, de 24 de setembro de 1999, que contém o Código de Saúde do Estado de Minas Gerais, cria gratificação de função, institui prêmio de produtividade e dá outras providências.

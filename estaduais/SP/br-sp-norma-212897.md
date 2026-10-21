@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212897"
-titulo: "Decreto nº 70.800, de 20/08/2026"
-data: "2026-08-20"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70800-20.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212897"
-sha256_dados: "49320f6ce8ce69df78e3450728f9581c2eb9dbb220eb3c5d8c0991b12843d234"
-coletado_em: "2026-10-21T08:37:59.848Z"
-sha256_fonte: "e75e14410a3971e5601b76630a42c3a7fa0390bb2b375d5e98e5a45c7a51e85e"
-sha256_markdown: "e56f4bcfb28b3060ce5205659783351935abc8c872689ea42d3fdb4427fffe1e"
----
-
 # Decreto nº 70.800, de 20/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212897)<br>

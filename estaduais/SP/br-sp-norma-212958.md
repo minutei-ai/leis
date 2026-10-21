@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212958"
-titulo: "Decreto nº 70.855, de 10/09/2026"
-data: "2026-09-10"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70855-10.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212958"
-sha256_dados: "35c4e4eba3ed12dac37175b6969fbeb03005367df6c21e505c5753005c36501c"
-coletado_em: "2026-10-21T08:36:43.043Z"
-sha256_fonte: "f8d9b8a456adafc570647a6351e6c89de33230ce2c8af57064cc56bf95bdd410"
-sha256_markdown: "75647cc8fff7f79684f564fa2f48529fa44f02fdbca1a5fde92108bf36e5e864"
----
-
 # Decreto nº 70.855, de 10/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212958)<br>

@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2026-01-16-187"
-titulo: "LCP nº 187, de 16/01/2026"
-data: "2026-01-16"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/187/2026/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/187/2026/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "42478d80b1125b504966076c30d8f557cf4ff72ebfbab6e82e73de14c3e77cea"
-coletado_em: "2026-10-21T08:25:07.266Z"
-sha256_fonte: "05da369c8f5e8cfc378b06cf22bf6e864e19ba326272066244d19c2d313cf308"
-sha256_markdown: "682948133390f9a1630d6b43db208e6b04e527eeb68f226ad3d47cdc264e7e37"
----
-
 # LCP nº 187, de 16/01/2026
 
 Altera a Lei Complementar nº 102, de 17 de janeiro de 2008, que dispõe sobre a organização do Tribunal de Contas e dá outras providências, e a Lei nº 19.572, de 10 de agosto de 2011, que altera a estrutura de cargos de direção, chefia e assessoramento do Tribunal de Contas do Estado e dá outras providências.

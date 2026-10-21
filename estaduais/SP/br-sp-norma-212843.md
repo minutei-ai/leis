@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212843"
-titulo: "Decreto nº 70.759, de 17/07/2026"
-data: "2026-07-17"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70759-17.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212843"
-sha256_dados: "eb252e0c8ee5d56552bbd97da56efd45ffef729c8f80656c3137a4d192c99463"
-coletado_em: "2026-10-21T08:39:07.790Z"
-sha256_fonte: "83d59f750b75f16448f406b2dcc21afd252b66b70fd6a674d4dced8ec2b4b848"
-sha256_markdown: "9e4ca14dc6b0d1cb26294791ecfe53deaed2171d362edbc55827423635d118e1"
----
-
 # Decreto nº 70.759, de 17/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212843)<br>

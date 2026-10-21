@@ -1,16 +1,3 @@
----
-id: "br-mg-emenda-constitucional-2025-06-02-116"
-titulo: "EMC nº 116, de 02/06/2025"
-data: "2025-06-02"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/116/2025/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/116/2025/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "4e2fbdc578a6d6970c39bb08466414d51bba98d719d96c6f3b36474b84ac81ba"
-coletado_em: "2026-10-21T08:31:43.548Z"
-sha256_fonte: "d1ef7d5efda7a35b8a262a6468f61a503da3d1419862bcaaeddc4cbaa62064b0"
-sha256_markdown: "90018d30c218d8dc10f412605feb5f00e5aa26b7d794fa6e3061ce8d1eb64a9e"
----
-
 # EMC nº 116, de 02/06/2025
 
 Acrescenta parágrafo ao art. 39 da Constituição do Estado.

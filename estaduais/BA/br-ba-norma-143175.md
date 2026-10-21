@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-143175"
-titulo: "EMENDA À CONSTITUIÇÃO Nº 31 DE 29 DE MAIO DE 2023"
-data: "2023-05-29"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constituicao-no-31-de-29-de-maio-de-2023"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:10.890Z"
-sha256_fonte: "c1a6bc8797931ae85d50f51aac9d8e98dc74bf4a963af18b8dde08f77e4b647b"
-sha256_markdown: "7c7ca2bd705cfa7a9cdc3ba482b62af37828feb083b60e6b8742516ffa67cf15"
----
-
 # EMENDA À CONSTITUIÇÃO Nº 31 DE 29 DE MAIO DE 2023
 
 _Publicado no DOE /Alba_

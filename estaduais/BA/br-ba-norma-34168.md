@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-34168"
-titulo: "Constituição do Estado da Bahia de 14 de maio de 1967"
-data: "1967-05-14"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-14-de-maio-de-1967"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T11:18:53.566Z"
-sha256_fonte: "018e609b8e52dff801d55e8c29d471a68a6c41a8e60e97f98ffffbb93d69f677"
-sha256_markdown: "c251cc975a8ebea48087e4d19b80e08d81ec04791e882753e133adef79f96fc8"
----
-
 # Constituição do Estado da Bahia de 14 de maio de 1967
 
 CONSTITUIÇÃO DO ESTADO DA BAHIA DE 14 DE MAIO DE 1967

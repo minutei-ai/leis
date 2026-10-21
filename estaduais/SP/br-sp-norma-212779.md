@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212779"
-titulo: "Decreto nº 70.709, de 22/06/2026"
-data: "2026-06-22"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70709-22.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212779"
-sha256_dados: "beaf51272666445682aad413295e2ceeee57b7df6f78813972a6749992782082"
-coletado_em: "2026-10-21T08:40:30.012Z"
-sha256_fonte: "b058475f0980fa7d430ff190965f2d77f970249bde065b5a3ad94a68dec9c85a"
-sha256_markdown: "2b0b3bd209e020fcb48f510b73b25a681f564c3dad5953a3da1e8d6ccfe18b4d"
----
-
 # Decreto nº 70.709, de 22/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212779)<br>

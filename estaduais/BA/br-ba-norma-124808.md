@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124808"
-titulo: "LEI COMPLEMENTAR Nº 12 DE 29 DE SETEMBRO DE 1997"
-data: "1997-09-29"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-12-de-29-de-setembro-de-1997"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:01.374Z"
-sha256_fonte: "ea4bb79f060298c2802db8b89033ede7028b68485f704ffc756d9de9f2f44ffa"
-sha256_markdown: "53fb8b39c36cafac591e99401542417089de265a5b978bb448f9d64dfbe763ac"
----
-
 # LEI COMPLEMENTAR Nº 12 DE 29 DE SETEMBRO DE 1997
 
 LEI COMPLEMENTAR Nº 012 DE 29 DE SETEMBRO DE 1997

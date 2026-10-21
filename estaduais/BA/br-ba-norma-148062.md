@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148062"
-titulo: "LEI Nº 15.060 DE 18 DE DEZEMBRO DE 2025"
-data: "2025-12-18"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15060-de-18-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:18.297Z"
-sha256_fonte: "71b4b77ec5a6e7ae28339b84110306e41bdaa59eb8014608bef3be78673f4fb1"
-sha256_markdown: "72943d1a14680af35b5bd8b0c6e99fc384488d4e407f2b7d8aecb3c309626aa0"
----
-
 # LEI Nº 15.060 DE 18 DE DEZEMBRO DE 2025
 
 LEI Nº 15.060 DE 18 DE DEZEMBRO DE 2025

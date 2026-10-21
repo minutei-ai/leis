@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-121991"
-titulo: "LEI COMPLEMENTAR Nº 35 DE 06 DE JULHO DE 2011"
-data: "2011-07-06"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-35-de-06-de-julho-de-2011"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:25:30.305Z"
-sha256_fonte: "0563d832f2a9a0016f8d9a01c2c0a478e0a8a536b5e13f0ad632356df9bf073e"
-sha256_markdown: "4b445b2a0bbeb92a2f5075d041adcd562dd1441902cbe52a633dc853fe691e5e"
----
-
 # LEI COMPLEMENTAR Nº 35 DE 06 DE JULHO DE 2011
 
 LEI COMPLEMENTAR Nº 35 DE 06 DE JULHO DE 2011

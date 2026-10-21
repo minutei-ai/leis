@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148449"
-titulo: "LEI Nº 15.129 DE 25 DE MARÇO DE 2026"
-data: "2026-03-25"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15129-de-25-de-marco-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:21.882Z"
-sha256_fonte: "7d7d3907ce370e270883b6ade32f701dafa3b90ef8686ead7295885cdb7399e4"
-sha256_markdown: "003723b0d28ddc0692356063c4a4bc782ac303229e5afa4208a9046f29135dc8"
----
-
 # LEI Nº 15.129 DE 25 DE MARÇO DE 2026
 
 LEI Nº 15.129 DE 25 DE MARÇO DE 2026

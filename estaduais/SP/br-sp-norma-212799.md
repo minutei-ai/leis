@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212799"
-titulo: "Decreto nº 70.724, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70724-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212799"
-sha256_dados: "15ae5bd3e09ebd6f37a3e00f015158dd6fdf65cfc83f6eb2b105e7606193332d"
-coletado_em: "2026-10-21T08:40:06.081Z"
-sha256_fonte: "d8f0939eba65ebd9d4d623c748a1f1bdc6d9a159449e47f69c3949b3b1f5ce45"
-sha256_markdown: "6fab3498279a3fa017e152c2b5bb6bb995f526aeccbc3c2a49cbd8682bfc94c7"
----
-
 # Decreto nº 70.724, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212799)<br>

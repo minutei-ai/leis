@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148709"
-titulo: "LEI Nº 15.167 DE 29 DE MAIO DE 2026"
-data: "2026-05-29"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15167-de-29-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:40.789Z"
-sha256_fonte: "34a8a7f295d30e5e355c4a554c66a5816c5505f9d85bfff78a4c622b0cbdca49"
-sha256_markdown: "5e813f2744c744f58dcdbc101df13fd20d25c5aa4a4a68c6c10807a545664cc0"
----
-
 # LEI Nº 15.167 DE 29 DE MAIO DE 2026
 
 LEI Nº 15.167 DE 29 DE MAIO DE 2026

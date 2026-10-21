@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148171"
-titulo: "LEI Nº 15.084 DE 19 DE JANEIRO DE 2026"
-data: "2026-01-19"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15084-de-19-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:59.815Z"
-sha256_fonte: "59455271ff54c471f87b3bacb814d5c2ff508399bec0fe3cc2fa3464d3aa07ab"
-sha256_markdown: "45c20cc7b9d51b424eb6c43cf482330f032cfbb537b4bcb8dd32824201b322ff"
----
-
 # LEI Nº 15.084 DE 19 DE JANEIRO DE 2026
 
 LEI Nº 15.084 DE 19 DE JANEIRO DE 2026

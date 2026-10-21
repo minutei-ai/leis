@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-127449"
-titulo: "EMENDA CONSTITUCIONAL Nº 19 DE 12 DE MARÇO DE 2014"
-data: "2014-03-12"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constitucional-no-19-de-12-de-marco-de-2014"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:53.151Z"
-sha256_fonte: "262e108c900a1a322c9d1fe801eca29f8775de0cf050034e3ca4c0ef6d9967da"
-sha256_markdown: "177b790ab78464f1ce7ea1f3d959d6e0106d37bce18fdfd16fc282307dc56f07"
----
-
 # EMENDA CONSTITUCIONAL Nº 19 DE 12 DE MARÇO DE 2014
 
 EMENDA CONSTITUCIONAL Nº 19 DE 12 DE MARÇO DE 2014

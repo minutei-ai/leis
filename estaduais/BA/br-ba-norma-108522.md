@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108522"
-titulo: "LD Nº 77 DE 03 DE JUNHO DE 1983"
-data: "1983-06-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-77-de-03-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:08.201Z"
-sha256_fonte: "5f59a7e2bf9b94254f98bf8047fa1648aa4399dd44211e9040bb1655fc2d185e"
-sha256_markdown: "cd8959813863efeaebd8d96a18dd9fb5dfe315df72447fa9613e1fdb48cc9e36"
----
-
 # LD Nº 77 DE 03 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 77 DE 03 DE JUNHO DE 1983

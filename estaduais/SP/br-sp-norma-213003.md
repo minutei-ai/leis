@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213003"
-titulo: "Decreto nº 70.900, de 25/09/2026"
-data: "2026-09-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70900-25.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213003"
-sha256_dados: "e9bc603c237d3bf8470d127312cb299112328456b33ea93b4eaefa6a182fb461"
-coletado_em: "2026-10-21T08:35:46.498Z"
-sha256_fonte: "39b0f58642006cbf212c4d758fe2941895b9a130e2a33977ac05eaac8b362dac"
-sha256_markdown: "05809cc9a61479bd45da9ff35ae64693aa5d302121a4068becf86f1b056f0fef"
----
-
 # Decreto nº 70.900, de 25/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213003)<br>

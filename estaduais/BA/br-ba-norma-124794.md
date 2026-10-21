@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124794"
-titulo: "LD Nº 55 DE 01 DE JUNHO DE 1983"
-data: "1983-06-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-55-de-01-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:22.185Z"
-sha256_fonte: "c9dffba7ac9c2543a1f2fce9d80ef8b42b3e013d4cbfcd93d33c28d625eb8f3a"
-sha256_markdown: "53f846e80ca318fc4f5f475e062eca898d7b455557b07f7078c69f4c9670d596"
----
-
 # LD Nº 55 DE 01 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 55 DE 01 DE JUNHO DE 1983

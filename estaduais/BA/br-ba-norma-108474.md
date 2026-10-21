@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108474"
-titulo: "LD Nº 10 DE 04 DE NOVEMBRO DE 1980"
-data: "1980-11-04"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-10-de-04-de-novembro-de-1980"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:22.015Z"
-sha256_fonte: "79980fe40b7f93c260c39de54837b6a080f284c630b871a92ac9e398c3beddec"
-sha256_markdown: "6d7f490b8eaa242f5335c68a50f65ecd4ab8c017945cdf7417a3156a608068fd"
----
-
 # LD Nº 10 DE 04 DE NOVEMBRO DE 1980
 
 LEI DELEGADA Nº 10 DE 04 DE NOVEMBRO DE 1980

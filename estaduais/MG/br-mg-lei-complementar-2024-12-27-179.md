@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2024-12-27-179"
-titulo: "LCP nº 179, de 27/12/2024"
-data: "2024-12-27"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/179/2024/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/179/2024/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "4a66aa1e01cadce6ff4a37dc9dc7e1a4b44bad706f1cb32846e9221596ab4e44"
-coletado_em: "2026-10-21T08:43:43.797Z"
-sha256_fonte: "1bb8fbd5696ff499ce435343331a8bc33f4575f517b4edbaaaa1112f79105b8f"
-sha256_markdown: "279d94909edf9b46e47e27d122c55025173526dfda229f0f70b9bc597943a4f2"
----
-
 # LCP nº 179, de 27/12/2024
 
 Acrescenta dispositivos à Lei nº 869, de 5 de julho de 1952, que dispõe sobre o Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais.

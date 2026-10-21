@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108471"
-titulo: "LD Nº 06 DE 18 DE JANEIRO DE 1972"
-data: "1972-01-18"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-06-de-18-de-janeiro-de-1972"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:28.381Z"
-sha256_fonte: "0129b9b8d5b6f6c01e23c804de07ca1f38b42024836b419fb91235ef293a6ea6"
-sha256_markdown: "8e6eda79c7cb3f45c2294bb2699addc710045a91476fee19b72f4e6dc9c2d869"
----
-
 # LD Nº 06 DE 18 DE JANEIRO DE 1972
 
 LEI DELEGADA Nº 06 DE 18 DE JANEIRO DE 1972

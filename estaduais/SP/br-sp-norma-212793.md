@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212793"
-titulo: "Decreto nº 70.718, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70718-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212793"
-sha256_dados: "747211d90528c658591992dead3ee628047c25b5d01ac4241461e142a7c22db9"
-coletado_em: "2026-10-21T08:40:13.453Z"
-sha256_fonte: "46666a41ad93c4d7c4720cbbac718ffb6c8391b892dcef930661aec3d1a65ade"
-sha256_markdown: "39c168289b54f27168ddf67d8fc572887680a5e59472f6a3ce9735105c9f2016"
----
-
 # Decreto nº 70.718, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212793)<br>

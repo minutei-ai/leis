@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148664"
-titulo: "LEI Nº 15.148 DE 22 DE MAIO DE 2026"
-data: "2026-05-22"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15148-de-22-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:04.763Z"
-sha256_fonte: "b5b6ee8eb9bb8340390a724f1e78300551845d4d8fbc96c1ed72a5cc5dfd6f3e"
-sha256_markdown: "4860e17d76590017e0da1886e9cbed687958875909335c2421b8e2b8b403cfc3"
----
-
 # LEI Nº 15.148 DE 22 DE MAIO DE 2026
 
 LEI Nº 15.148 DE 22 DE MAIO DE 2026

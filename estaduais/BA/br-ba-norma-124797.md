@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124797"
-titulo: "LD Nº 42 DE 17 DE MARÇO DE 1983"
-data: "1983-03-17"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-42-de-17-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:30.016Z"
-sha256_fonte: "019fb4d7731948f86636ebb859f602de9d793667fb8f4f40eee05843ab5bf93d"
-sha256_markdown: "5060925a2797aa24eea0e2e3b37115d6ebb02eca54d0c89bd668fdff04029a05"
----
-
 # LD Nº 42 DE 17 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 42 DE 17 DE MARÇO DE 1983

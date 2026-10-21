@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212856"
-titulo: "Decreto nº 70.769, de 27/07/2026"
-data: "2026-07-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70769-27.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212856"
-sha256_dados: "c1e0f35d2cfb1d76bc9681a2aac978f14ec08d7bbf4fd73c697bc4a5750d600d"
-coletado_em: "2026-10-21T08:38:51.444Z"
-sha256_fonte: "0c5814327ea810ea1baec9210e4c8c4b2438c8550ce39fc2ab2f8d16c8aba72d"
-sha256_markdown: "bbaf8e7a4ab743e655162b5ba6f0ef2393217312b2d42616863e2b81dfa2f29b"
----
-
 # Decreto nº 70.769, de 27/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212856)<br>

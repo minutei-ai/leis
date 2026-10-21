@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124785"
-titulo: "LD Nº 28 DE 28 DE FEVEREIRO DE 1983"
-data: "1983-02-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-28-de-28-de-fevereiro-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:56.709Z"
-sha256_fonte: "66fa865def08bdf7deea1b021bf9b674477ad4b6aff78a2eaaaf5123df98d95a"
-sha256_markdown: "cc7c7c2e692490e77610268c9b026dd6955203f705d63df2c6fa8d71e864abd7"
----
-
 # LD Nº 28 DE 28 DE FEVEREIRO DE 1983
 
 LEI DELEGADA Nº 28 DE 28 DE FEVEREIRO DE 1983

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212763"
-titulo: "Decreto nº 70.695, de 17/06/2026"
-data: "2026-06-17"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70695-17.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212763"
-sha256_dados: "8ae46d2bab3d2ada3dea3c822c9d0508cc936cc1eb2dd46b4f87b873a9fb435c"
-coletado_em: "2026-10-21T08:40:48.704Z"
-sha256_fonte: "fb6240dd5f7231f270672cfe8de0691dd8dd085043a960b895a9fb81fe13bfeb"
-sha256_markdown: "7b69f182aca7e9ef2dfaa3b3069e1cbdda384be7cc0538a91447e1c434abe140"
----
-
 # Decreto nº 70.695, de 17/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212763)<br>

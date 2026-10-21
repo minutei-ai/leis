@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148918"
-titulo: "LEI Nº 15.200 DE 1º DE JULHO DE 2026"
-data: "2026-07-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15200-de-1o-de-julho-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:06.966Z"
-sha256_fonte: "f3c1ca259e7fd37a085be7f96798190c29422fd161ab8f62896dadaadbe3b621"
-sha256_markdown: "6d1c12b54f9eb8dc0b73d7cc11551263a487efeb8ce495dc5ccff1f7dd9ca92e"
----
-
 # LEI Nº 15.200 DE 1º DE JULHO DE 2026
 
 LEI Nº 15.200 DE 1º DE JULHO DE 2026

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212771"
-titulo: "Decreto nº 70.702, de 17/06/2026"
-data: "2026-06-17"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70702-17.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212771"
-sha256_dados: "54d9223784ebae58cf01ea0406223775ce72423bbb4a4bb059c92704363a733f"
-coletado_em: "2026-10-21T08:40:39.936Z"
-sha256_fonte: "ed8b2f7f35a4179ea5fe87eb4eb23013b34909a5486f31dd5993c8d48525fb60"
-sha256_markdown: "323ed48c46ff9a82777bc4083c01d65e57b52ae2c036c24d82abdd42f2fa4352"
----
-
 # Decreto nº 70.702, de 17/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212771)<br>

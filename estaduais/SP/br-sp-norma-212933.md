@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212933"
-titulo: "Decreto nº 70.830, de 27/08/2026"
-data: "2026-08-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70830-27.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212933"
-sha256_dados: "3015bfae77b3317677d70038593d468e19b1e5f06f14f15bda5dcd9faa53a080"
-coletado_em: "2026-10-21T08:37:14.864Z"
-sha256_fonte: "edc799a1957aa873a4719cf95a52b87c48f2c84351a77c94b1805210bf234431"
-sha256_markdown: "676d20aebb7d2d17405a701e15db01156dad09d70ebc89a49352131f6da2ef80"
----
-
 # Decreto nº 70.830, de 27/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212933)<br>

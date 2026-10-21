@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-147916"
-titulo: "LEI Nº 15.025 DE 26 DE NOVEMBRO DE 2025"
-data: "2025-11-26"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15025-de-26-de-novembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:49.547Z"
-sha256_fonte: "4df7214b347c60581c938070e43b855158a21248758fa3cb1ccdfcb1e79420cf"
-sha256_markdown: "62be9225af84528e09307c76260cdbf74dbbcbdeaa0eae1e9dcd77b103497300"
----
-
 # LEI Nº 15.025 DE 26 DE NOVEMBRO DE 2025
 
 LEI Nº 15.025 DE 26 DE NOVEMBRO DE 2025

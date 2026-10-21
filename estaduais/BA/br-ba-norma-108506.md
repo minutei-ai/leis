@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108506"
-titulo: "LD Nº 58 DE 01 DE JUNHO DE 1983"
-data: "1983-06-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-58-de-01-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:20.357Z"
-sha256_fonte: "32200a91a139ca6b6c38735cf963a654e2fdca1ed7a501aa168c51e4434cbc10"
-sha256_markdown: "df57d4bae4ee27834b9662d1b62f42ace6de97a12bc7530d2bb0921018e39b84"
----
-
 # LD Nº 58 DE 01 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 58 DE 01 DE JUNHO DE 1983

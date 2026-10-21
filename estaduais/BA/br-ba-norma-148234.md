@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148234"
-titulo: "LEI Nº 15.113 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15113-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:35.199Z"
-sha256_fonte: "7795b9eb776ad618d6347428bc9c133ab62fbdf6c0e8423be17a199f6deb7705"
-sha256_markdown: "051d698110572a69d375e7580697625e5bd18886830d7db2ea0b20aa2c91eca4"
----
-
 # LEI Nº 15.113 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.113 DE 28 DE JANEIRO DE 2026

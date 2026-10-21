@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212915"
-titulo: "Decreto nº 70.817, de 25/08/2026"
-data: "2026-08-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70817-25.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212915"
-sha256_dados: "b6f2de56e00f94a9a811d6f4deee664853f02d3659e45d8f918cbccbdc3763dd"
-coletado_em: "2026-10-21T08:37:38.434Z"
-sha256_fonte: "96aac366cf0eb310ef0f184c24c104e5d5b1a65725b9ec32bda4bea7d8f21d77"
-sha256_markdown: "e70eb7614583489eb2aa1d503dd87ed2024ba62d7f840f29fc7e24ad4e089deb"
----
-
 # Decreto nº 70.817, de 25/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212915)<br>

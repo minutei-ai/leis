@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108455"
-titulo: "LEI COMPLEMENTAR Nº 21 DE 12 DE JANEIRO DE 2004"
-data: "2004-01-12"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-21-de-12-de-janeiro-de-2004"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:25:38.108Z"
-sha256_fonte: "7e1faeadad5784fa41b2a751ce986caa2de9f487015ade4e899e062ddb12a6c3"
-sha256_markdown: "1063bd2c695fcc1763ba6571f8a7a9392b5ed7627421c1bbe411b646b3fbe1e2"
----
-
 # LEI COMPLEMENTAR Nº 21 DE 12 DE JANEIRO DE 2004
 
 LEI COMPLEMENTAR Nº 21 DE 12 DE JANEIRO DE 2004

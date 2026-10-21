@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108518"
-titulo: "LD Nº 73 DE 03 DE JUNHO DE 1983"
-data: "1983-06-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-73-de-03-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:10.742Z"
-sha256_fonte: "2a1c99885ab95d570396166b91a744e4e4adb4d2d2c9d4c8a8b5635de1bb345d"
-sha256_markdown: "bf87e72090f7aef3640a0403f9a19692222d6f80efe3a749f3fcef7e1673428c"
----
-
 # LD Nº 73 DE 03 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 73 DE 03 DE JUNHO DE 1983

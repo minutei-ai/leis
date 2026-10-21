@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108461"
-titulo: "LEI COMPLEMENTAR Nº 28 DE 14 DE DEZEMBRO DE 2006"
-data: "2006-12-14"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-28-de-14-de-dezembro-de-2006"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:25:34.162Z"
-sha256_fonte: "1bf4c976ec92413b8633dcbdf38f218425ab684677ab2b2c27a515dfa57a6794"
-sha256_markdown: "13bbdd1d9897cac3928a2b3822c206602d66a7c01fc22124780c3cd5282d81de"
----
-
 # LEI COMPLEMENTAR Nº 28 DE 14 DE DEZEMBRO DE 2006
 
 LEI COMPLEMENTAR Nº 28 DE 14 DE DEZEMBRO DE 2006

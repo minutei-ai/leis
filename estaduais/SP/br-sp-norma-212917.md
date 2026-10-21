@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212917"
-titulo: "Decreto nº 70.819, de 25/08/2026"
-data: "2026-08-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70819-26.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212917"
-sha256_dados: "ce0a125fab660f51be95b34b26c20e37e48cfb2c1039d4d30f5b131fbd734156"
-coletado_em: "2026-10-21T08:37:35.842Z"
-sha256_fonte: "88173d05348bfd3a6cd7fa3b4e1df5a02f86cf58ef8eb36319edd81427e20035"
-sha256_markdown: "061031d33d18edf10acf52a94f04381e274225868673d401163cce2bcb312cbe"
----
-
 # Decreto nº 70.819, de 25/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212917)<br>

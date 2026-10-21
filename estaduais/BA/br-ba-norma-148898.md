@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148898"
-titulo: "LEI Nº 15.180 DE 1º DE JULHO DE 2026"
-data: "2026-07-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15180-de-1o-de-julho-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:23.923Z"
-sha256_fonte: "3352468d9fd048d045bc4fcdef8a54dadbd4ba9dff0eace63b0df4b2b0eb0e87"
-sha256_markdown: "f7110e0c534f3737283cccf8e29114d94080de67b0056f03936f418ccb2012ea"
----
-
 # LEI Nº 15.180 DE 1º DE JULHO DE 2026
 
 LEI Nº 15.180 DE 1º DE JULHO DE 2026

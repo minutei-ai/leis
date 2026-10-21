@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108513"
-titulo: "LD Nº 66 DE 01 DE JUNHO DE 1983"
-data: "1983-06-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-66-de-01-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:15.188Z"
-sha256_fonte: "c57c742050286273b344f73888ecbfd70cb5d4a7bef7c220eafd25675aa58bdc"
-sha256_markdown: "f7693bb4a93a5a568e36e8b2b894a2e2df696844ab1a82a9652e74fa9ee48a22"
----
-
 # LD Nº 66 DE 01 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 66 DE 01 DE JUNHO DE 1983

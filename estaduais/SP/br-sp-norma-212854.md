@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212854"
-titulo: "Decreto nº 70.767, de 24/07/2026"
-data: "2026-07-24"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70767-24.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212854"
-sha256_dados: "38261fe58824e28bcddb564c1ba9c6d192c8da73cbabc864208ea9a3bd02bae5"
-coletado_em: "2026-10-21T08:38:53.892Z"
-sha256_fonte: "3f289e867a2f21788b040a3f5132f52c6376cc065a8810312d397b0571a8875b"
-sha256_markdown: "f159714f444e3ca105a56b59b6c221f111b14bf35157bf3d367d3c8e8890047b"
----
-
 # Decreto nº 70.767, de 24/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212854)<br>

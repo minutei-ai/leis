@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108446"
-titulo: "LEI COMPLEMENTAR Nº 010 DE 27 DE DEZEMBRO DE 1994"
-data: "1994-12-27"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-010-de-27-de-dezembro-de-1994"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:02.856Z"
-sha256_fonte: "6a654d5ef2124d335010b2c54e1f5b3f448168faa7c6d89943b87d099b581ea3"
-sha256_markdown: "e9a12b8584e5297a0228c82d406a7c29ebed76d983a164a2d697ebd5e5a3b79e"
----
-
 # LEI COMPLEMENTAR Nº 010 DE 27 DE DEZEMBRO DE 1994
 
 revogadoLEI COMPLEMENTAR Nº 010 DE 27 DE DEZEMBRO DE 1994.

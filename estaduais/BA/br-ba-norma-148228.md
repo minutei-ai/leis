@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148228"
-titulo: "LEI Nº 15.107 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15107-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:41.422Z"
-sha256_fonte: "929801ab10a5f618d911e7587dbe309b4496fb9fc224a4716a9998801c5b2ac9"
-sha256_markdown: "9d03ffcdecedc3b7b4aaf22c79947873a44de48d12c65ab7689c30906f1cc8fd"
----
-
 # LEI Nº 15.107 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.107 DE 28 DE JANEIRO DE 2026

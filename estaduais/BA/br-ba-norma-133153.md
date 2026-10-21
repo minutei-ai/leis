@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-133153"
-titulo: "LEI COMPLEMENTAR Nº 19 DE 23 DE JULHO DE 2003"
-data: "2003-07-23"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-19-de-23-de-julho-de-2003"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T11:18:49.482Z"
-sha256_fonte: "24b6a3802ec9e1fce38a9aaba6420435f3d21a70803aeeb61af7cd7dfd511cb1"
-sha256_markdown: "0069e16e863dc019fad21e256efd2bdf91fbe7e0cb47cb83f4879d8a5593064e"
----
-
 # LEI COMPLEMENTAR Nº 19 DE 23 DE JULHO DE 2003
 
 LEI COMPLEMENTAR Nº 19 DE 23 DE JULHO DE 2003 \[Download\]

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213020"
-titulo: "Decreto nº 70.916, de 02/10/2026"
-data: "2026-10-02"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70916-02.10.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213020"
-sha256_dados: "9b24c89f99537c3761994eeb1d3263af52cb0cba2474853b34e3e6c2af2af44a"
-coletado_em: "2026-10-21T08:35:24.801Z"
-sha256_fonte: "0a5f762480e44abbf3952c5f15e5be3d733250b0942c9bc4382bc62af7304549"
-sha256_markdown: "2d770e25357f40b2624b900382778e13832f196a6e63f5ea601dfbbe285984c1"
----
-
 # Decreto nº 70.916, de 02/10/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213020)<br>

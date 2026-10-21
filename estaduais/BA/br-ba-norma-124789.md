@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124789"
-titulo: "LD Nº 39 DE 14 DE MARÇO DE 1983"
-data: "1983-03-14"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-39-de-14-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:31.866Z"
-sha256_fonte: "fe091b2b59c889b75f0acf846e976d07b29a510b4d6ed297070098d960e77dbb"
-sha256_markdown: "1c64812b1a42bf1dd402bdae7131672743cf784bbb6182f720b670f1ebf9ffea"
----
-
 # LD Nº 39 DE 14 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 39 DE 14 DE MARÇO DE 1983

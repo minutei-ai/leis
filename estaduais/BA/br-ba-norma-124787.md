@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124787"
-titulo: "LD Nº 37 DE 14 DE MARÇO DE 1983"
-data: "1983-03-14"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-37-de-14-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:33.160Z"
-sha256_fonte: "0e054e12e16398daefea6478c03791b97b6fde37ee37a56783eeef76892d344e"
-sha256_markdown: "fea8767a4ae9c96742f50512d930c75844294bb99eb7699aa14878957ebe536f"
----
-
 # LD Nº 37 DE 14 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 37 DE 14 DE MARÇO DE 1983

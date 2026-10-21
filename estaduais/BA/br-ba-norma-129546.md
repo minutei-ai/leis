@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-129546"
-titulo: "LEI COMPLEMENTAR Nº 42 DE 09 DE JULHO DE 2015"
-data: "2015-07-09"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-42-de-09-de-julho-de-2015"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:24:20.502Z"
-sha256_fonte: "ebebaafa93b35ad4cf2bd81678c3225eed62cfb7fbef3c7544664f0dc8084ac6"
-sha256_markdown: "4a8f330db4e0f8e0e7733107432d1267368c65949154155d61b8a1c86d20510c"
----
-
 # LEI COMPLEMENTAR Nº 42 DE 09 DE JULHO DE 2015
 
 LEI COMPLEMENTAR Nº 42 DE 09 DE JULHO DE 2015

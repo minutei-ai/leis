@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212972"
-titulo: "Decreto nº 70.869, de 14/09/2026"
-data: "2026-09-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70869-14.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212972"
-sha256_dados: "f1ed6a928e6480c6934b0be21fe7c5a9591cafc7ec1893caf7b797c13ce7ebd7"
-coletado_em: "2026-10-21T08:36:25.696Z"
-sha256_fonte: "de2a175e6690f1a5d58214e23ea054e3869ebf1c885127747f561c328e1cbf76"
-sha256_markdown: "5c8d9456e96d0dca4765b44d644ac736e0cbf75dd2a972dc244f8e1f7e433028"
----
-
 # Decreto nº 70.869, de 14/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212972)<br>

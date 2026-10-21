@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148707"
-titulo: "LEI Nº 15.165 DE 29 DE MAIO DE 2026"
-data: "2026-05-29"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15165-de-29-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:42.540Z"
-sha256_fonte: "a7318ad65a16f82bb34f83e8decca17274a42c78e9efa1aa43d73b41d5ecf792"
-sha256_markdown: "47e883bb7c34ae6e84c70ec316479299a02577043075a8b61c33dc4b9904d918"
----
-
 # LEI Nº 15.165 DE 29 DE MAIO DE 2026
 
 LEI Nº 15.165 DE 29 DE MAIO DE 2026

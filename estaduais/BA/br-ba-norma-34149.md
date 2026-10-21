@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-34149"
-titulo: "Constituição do Estado da Bahia de 02 de julho de 1891 - Texto Consolidado"
-data: "1891-07-02"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-02-de-julho-de-1891-texto-consolidado"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T11:18:51.766Z"
-sha256_fonte: "679918a8f71c31aef35a1b12c6b962c39b401aa4ce00c47af3060c91f151e166"
-sha256_markdown: "bad01b1c5da71bb1ed254da22c39cf1b52043ac76941c66f6e141c7e9322a51f"
----
-
 # Constituição do Estado da Bahia de 02 de julho de 1891 - Texto Consolidado
 
 PROMULGADA EM 02 DE JULHO DE 1891

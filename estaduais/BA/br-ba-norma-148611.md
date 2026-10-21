@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148611"
-titulo: "LEI Nº 15.147 DE 15 DE MAIO DE 2026"
-data: "2026-05-15"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15147-de-15-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:05.588Z"
-sha256_fonte: "365870c93cff7d65950027d4cf0ddb48920862b0af5a06a7ec13e8b4ba7e590b"
-sha256_markdown: "f56d36d4037f582816171313b9e1d068e0e6a57b8a18cf7e8c2aaec1dd18f241"
----
-
 # LEI Nº 15.147 DE 15 DE MAIO DE 2026
 
 LEI Nº 15.147 DE 15 DE MAIO DE 2026

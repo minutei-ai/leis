@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148562"
-titulo: "LEI Nº 15.143 DE 04 DE MAIO DE 2026"
-data: "2026-05-04"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15143-de-04-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:10.077Z"
-sha256_fonte: "8f279cb8a3ad34edc9c0dca1e789fc415604fcf53757346e3c03f5d0503f856f"
-sha256_markdown: "dd65b2edb0aa62d07e98fae7983cf84c3e66e47d508905498223ab05a070e61d"
----
-
 # LEI Nº 15.143 DE 04 DE MAIO DE 2026
 
 LEI Nº 15.143 DE 04 DE MAIO DE 2026

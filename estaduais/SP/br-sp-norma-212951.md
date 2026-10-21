@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212951"
-titulo: "Decreto nº 70.848, de 09/09/2026"
-data: "2026-09-09"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70848-09.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212951"
-sha256_dados: "84133a52f658fbb9effaee8b3cf6efb2e5a0d9601a33b1bd86685833d10944b2"
-coletado_em: "2026-10-21T08:36:51.730Z"
-sha256_fonte: "5ec9a230939918de083039e0040dd71287b44e720f4db6634b6e489082b52dc4"
-sha256_markdown: "c452d963167b8fc0f9ab726e2e96508b14a12fc1a882f285b6a8d7c382ec0c7e"
----
-
 # Decreto nº 70.848, de 09/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212951)<br>

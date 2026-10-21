@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212795"
-titulo: "Decreto nº 70.720, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70720-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212795"
-sha256_dados: "2f76175eac282561d078bd3075c0e5136ebad87a41e3f20b66b63981abc95774"
-coletado_em: "2026-10-21T08:40:11.000Z"
-sha256_fonte: "98b11b00a034b10249db61f96096caf26d4357cae05db1890160eb2f53fb392d"
-sha256_markdown: "db9dce35b8ff791a3230727b64fd090cd7c11fca55a961d8fb70c050da1a34b7"
----
-
 # Decreto nº 70.720, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212795)<br>

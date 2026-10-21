@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148170"
-titulo: "LEI Nº 15.083 DE 19 DE JANEIRO DE 2026"
-data: "2026-01-19"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15083-de-19-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:00.604Z"
-sha256_fonte: "b2cdf27db4b976861fe0ff47090cf7a6bcbd917c48830238e62eba54397f1646"
-sha256_markdown: "f0d67e67b14fe72cbafd43356a6a00e256a962cbc42fd8324dc15ec4dd51df02"
----
-
 # LEI Nº 15.083 DE 19 DE JANEIRO DE 2026
 
 LEI Nº 15.083 DE 19 DE JANEIRO DE 2026

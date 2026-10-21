@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124791"
-titulo: "LD Nº 46 DE 03 DE MAIO DE 1983"
-data: "1983-05-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-46-de-03-de-maio-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:27.588Z"
-sha256_fonte: "068a66bd6b56e5a7254b3a9db2bbc5426c2a959b86e02728cd4cd688b671e5d5"
-sha256_markdown: "e3a6f18e4b94c515e420b63bbe2f5ea5700fff300e0c38ab26e78e9096b2c218"
----
-
 # LD Nº 46 DE 03 DE MAIO DE 1983
 
 ![](/sites/default/files/images/Revogada.gif)  LEI DELEGADA Nº 46 DE 03 DE MAIO DE 1983

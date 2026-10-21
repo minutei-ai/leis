@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148162"
-titulo: "LEI Nº 15.075 DE 19 DE JANEIRO DE 2026"
-data: "2026-01-19"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15075-de-19-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:07.151Z"
-sha256_fonte: "c35b2270748179a35699cc6f8f950b0d75561b212bc797ac1c0808ab7bfb6940"
-sha256_markdown: "712fddb6e7924b99c47b4ed9786c99d0ecd7f325e900737acfe76e0508871e17"
----
-
 # LEI Nº 15.075 DE 19 DE JANEIRO DE 2026
 
 LEI Nº 15.075 DE 19 DE JANEIRO DE 2026

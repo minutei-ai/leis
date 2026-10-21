@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212865"
-titulo: "Decreto nº 70.777, de 04/08/2026"
-data: "2026-08-04"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70777-04.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212865"
-sha256_dados: "5a086fd6caf1e144833e98b8f52ad9dfa402c69c26725b2d26a6f55c44ab023e"
-coletado_em: "2026-10-21T08:38:41.126Z"
-sha256_fonte: "c535dcb367ae3f13c84cb0ddee2e75fcfbcde14a4eb41df07c7c58753b774223"
-sha256_markdown: "3f2d675d2367b0dc082674d4c9a1ef9ab360fa7081deaacfe454d1f3c5f0548f"
----
-
 # Decreto nº 70.777, de 04/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212865)<br>

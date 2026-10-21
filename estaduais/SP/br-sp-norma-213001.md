@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213001"
-titulo: "Decreto nº 70.887, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70887-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213001"
-sha256_dados: "6c125060ff3aeef01728b0b32549390243ce1e1b013304e139f8fd0f1e1f6767"
-coletado_em: "2026-10-21T08:36:03.144Z"
-sha256_fonte: "64896d6a5e7dadc2208f8ee7341c2a069e221466f467505ebddc2edc45b8b136"
-sha256_markdown: "256b0aacd852be9ab367752ff1da8082d9772e59ca614073a8fddb649750caf7"
----
-
 # Decreto nº 70.887, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213001)<br>

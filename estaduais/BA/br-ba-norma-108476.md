@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108476"
-titulo: "LD Nº 12 DE 30 DE DEZEMBRO DE 1980"
-data: "1980-12-30"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-12-de-30-de-dezembro-de-1980"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:19.047Z"
-sha256_fonte: "70a76550686631af30661917237ff2d0b6e86925832689079cbdd6a07cc59f42"
-sha256_markdown: "067ebbdc449b091bc9d612dbf7bd8c60d9ea206759993ca2fb8bcf2353a396c4"
----
-
 # LD Nº 12 DE 30 DE DEZEMBRO DE 1980
 
 LEI DELEGADA Nº 12 DE 30 DE DEZEMBRO DE 1980

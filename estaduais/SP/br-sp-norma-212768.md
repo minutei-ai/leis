@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212768"
-titulo: "Decreto nº 70.699, de 17/06/2026"
-data: "2026-06-17"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70699-17.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212768"
-sha256_dados: "466754af1258f2090c91901a8f2e63e8dfa4ff4ca271eca7a66f24e4db1a0ff3"
-coletado_em: "2026-10-21T08:40:43.691Z"
-sha256_fonte: "558b7010fb95b6e3c09797affc70c1cfa0e2bcd235a54afa30448846f5609020"
-sha256_markdown: "c3986d6ce3703906e580f967e2c2e8e185ead557263ca8e53a1477d364b49eb2"
----
-
 # Decreto nº 70.699, de 17/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212768)<br>

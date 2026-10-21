@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148232"
-titulo: "LEI Nº 15.111 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15111-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:38.203Z"
-sha256_fonte: "27e73c69e77dccfd9bd858987f13dc8e931fa209e3e323d59fde3e598a9c793b"
-sha256_markdown: "8b4dc0cd6dbb87ed25f65522bda652c432ed8ec69ded7f0d24255a6be11d8943"
----
-
 # LEI Nº 15.111 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.111 DE 28 DE JANEIRO DE 2026

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213000"
-titulo: "Decreto nº 70.886, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70886-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213000"
-sha256_dados: "7964bd700287718d82a42c3cdff0e910910b1eaa11abb90322d87b78dfbcc779"
-coletado_em: "2026-10-21T08:36:04.377Z"
-sha256_fonte: "d046fc192c888d00ee80b77d5186b32e88d10e344552adbb69becae056a863b0"
-sha256_markdown: "aa5b665d37cc67f148ee3bb1877e9e2950a500ba81a1b4647a4cc30ab4708be4"
----
-
 # Decreto nº 70.886, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213000)<br>

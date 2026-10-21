@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148902"
-titulo: "LEI Nº 15.184 DE 1º DE JULHO DE 2026"
-data: "2026-07-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15184-de-1o-de-julho-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:17.467Z"
-sha256_fonte: "d5d4c23a1b462b18134c054b8cb9f1182bd7179673c881cdfc29fb7b7e2146f5"
-sha256_markdown: "9bb6783f1142fc90b95d588b5b06582ac0b61387bcbc17cc814a317f596a0fa5"
----
-
 # LEI Nº 15.184 DE 1º DE JULHO DE 2026
 
 LEI Nº 15.184 DE 1º DE JULHO DE 2026

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212904"
-titulo: "Decreto nº 70.807, de 20/08/2026"
-data: "2026-08-20"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70807-20.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212904"
-sha256_dados: "40b620dfa5eb6db7667922817be0cfded92df977fe7517eaf5c944e1216019d6"
-coletado_em: "2026-10-21T08:37:51.129Z"
-sha256_fonte: "c3713cfdbbdb0b051c6052080327c9f8bdf5c22eec60bf7d2b47d849092498e8"
-sha256_markdown: "bc9c1b12819b63d07659b660ad15b943259bed74b34e8310614ed2af48b3d4c8"
----
-
 # Decreto nº 70.807, de 20/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212904)<br>

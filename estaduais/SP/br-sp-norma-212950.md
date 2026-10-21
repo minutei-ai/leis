@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212950"
-titulo: "Decreto nº 70.847, de 09/09/2026"
-data: "2026-09-09"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70847-09.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212950"
-sha256_dados: "22f4462ae2a7fa2a6f58b2b7570451d4bf378cc2e835f1ef109d2595349f26d8"
-coletado_em: "2026-10-21T08:36:53.015Z"
-sha256_fonte: "7cc853c3245b41c8e9bca741a0737d437ffe6f5424196c4f238d6593db713222"
-sha256_markdown: "5a0a79502b59882875e5b1fd2c0fbd42f20872318ef8f4fbf108130bba693460"
----
-
 # Decreto nº 70.847, de 09/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212950)<br>

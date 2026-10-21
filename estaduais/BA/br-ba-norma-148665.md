@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148665"
-titulo: "LEI Nº 15.149 DE 22 DE MAIO DE 2026"
-data: "2026-05-22"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15149-de-22-de-maio-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:03.962Z"
-sha256_fonte: "c5c8b0af561483684dcc46fb694b3860a1f9f9318ae084b82df14442831f794c"
-sha256_markdown: "507bde3d25031b3a892ba1ff1ea3794bf727ed75cecd38a98f6ce20742933d6c"
----
-
 # LEI Nº 15.149 DE 22 DE MAIO DE 2026
 
 LEI Nº 15.149 DE 22 DE MAIO DE 2026

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212895"
-titulo: "Decreto nº 70.798, de 20/08/2026"
-data: "2026-08-20"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70798-20.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212895"
-sha256_dados: "3709d17c8438692ca74bd5586b75106b902b9e54e5ea67a9825171e17732f7e6"
-coletado_em: "2026-10-21T08:38:02.314Z"
-sha256_fonte: "df3ab8835eb6e3d800e648a0f04ae63f7c24dfbaf0834edc89f56a5e8a53361d"
-sha256_markdown: "e1b38a85f71d3a0d5bb633338750864a9037cb8dd4c7658388cfbb4b3eb5f93d"
----
-
 # Decreto nº 70.798, de 20/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212895)<br>

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124780"
-titulo: "LD Nº 22 DE 07 DE ABRIL DE 1981"
-data: "1981-04-07"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-22-de-07-de-abril-de-1981"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:04.928Z"
-sha256_fonte: "8a146ef2a6a2a13509d0eaf29844f4604f10294db0558016eb918fbe099997c0"
-sha256_markdown: "ea08cd7a47179a3937fa3c928dbe0437b560a071d3799edddc1c905b4115faf0"
----
-
 # LD Nº 22 DE 07 DE ABRIL DE 1981
 
 LEI DELEGADA Nº 22 DE 07 DE ABRIL DE 1981

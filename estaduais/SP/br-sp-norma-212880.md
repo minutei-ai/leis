@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212880"
-titulo: "Decreto nº 70.788, de 07/08/2026"
-data: "2026-08-07"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70788-07.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212880"
-sha256_dados: "f132bb39142a90f14be23c45f5800eb7a89f47c501d299bfa00705101130e90e"
-coletado_em: "2026-10-21T08:38:21.035Z"
-sha256_fonte: "d3ae268fa8f95b6c3453a2e6967fecc9c901d35af3eea90a4ee8f755364e5b86"
-sha256_markdown: "370c661e415bb76c1f54868683f3809d499941385ff64c51f344d6383b02200c"
----
-
 # Decreto nº 70.788, de 07/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212880)<br>

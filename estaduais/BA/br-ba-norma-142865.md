@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-142865"
-titulo: "LEI COMPLEMENTAR Nº 54 DE 12 DE MAIO DE 2023"
-data: "2023-05-12"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-54-de-12-de-maio-de-2023"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:22.059Z"
-sha256_fonte: "bc01134c6720aa836756845cd4542e6e389f74335ca58b9d560aad272e71fe44"
-sha256_markdown: "bc78d16d674935324403994d49be5e59e1aa25adee5e29a5ca78f41fd1ce4506"
----
-
 # LEI COMPLEMENTAR Nº 54 DE 12 DE MAIO DE 2023
 
 LEI COMPLEMENTAR Nº 54 DE 12 DE MAIO DE 2023

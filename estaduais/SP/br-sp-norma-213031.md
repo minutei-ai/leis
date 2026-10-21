@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213031"
-titulo: "Decreto nº 70.926, de 14/10/2026"
-data: "2026-10-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70926-14.10.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213031"
-sha256_dados: "345b2843a352053a890f10d3c89510b96358b5e2b762dccf85b95bec7a30c6e2"
-coletado_em: "2026-10-21T08:35:11.018Z"
-sha256_fonte: "806179888e4e850b40e1c380abb1caf8a2e0d2d7e72f2e302ecaa843bc7e2242"
-sha256_markdown: "ae79d407b1aebd480df4c752ce4333fa67ca5149d3b3f5ab69b065bc01530f1b"
----
-
 # Decreto nº 70.926, de 14/10/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213031)<br>

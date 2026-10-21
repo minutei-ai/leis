@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212832"
-titulo: "Decreto nº 70.753, de 03/07/2026"
-data: "2026-07-03"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70753-03.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212832"
-sha256_dados: "d682314fd1eeff350e87a8d820ba196d2e1bc25111f5232261d0a99173e5a580"
-coletado_em: "2026-10-21T08:39:21.732Z"
-sha256_fonte: "cde329854c0644dbd79b32acf248e3a9854eb8901383943572d3ba72ebb264c6"
-sha256_markdown: "796e5a5c56a60d51902fa0a9ffb05932780e079ded8a1813f70f3cc17355951d"
----
-
 # Decreto nº 70.753, de 03/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212832)<br>

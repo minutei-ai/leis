@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212877"
-titulo: "Decreto nº 70.785, de 05/08/2026"
-data: "2026-08-05"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70785-05.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212877"
-sha256_dados: "c8d5c3563b71ab24fee96329dde60d4e0d42f753ffaa511fbf40cd19ee0dfdc2"
-coletado_em: "2026-10-21T08:38:24.770Z"
-sha256_fonte: "8401c9d2af5fd9a917345dcffde0848af8b1545f6fc8c5edfd24d9fd29c9e20f"
-sha256_markdown: "3455dfbc013d00613de7460b432180ab79462c9bbbde27a5c17b17058bd6fa22"
----
-
 # Decreto nº 70.785, de 05/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212877)<br>

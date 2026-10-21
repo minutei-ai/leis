@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108447"
-titulo: "LEI COMPLEMENTAR Nº 011 DE 18 DE JANEIRO DE 1996"
-data: "1996-01-18"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-011-de-18-de-janeiro-de-1996"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T11:18:50.997Z"
-sha256_fonte: "f3731eb73cfb0562c0753cae0b5002ba13de5e936d79749d47ece97626c7ac55"
-sha256_markdown: "7a0904a31985eeb1e3052374febf6e6175265961699255fa207ea5f5da0f82ae"
----
-
 # LEI COMPLEMENTAR Nº 011 DE 18 DE JANEIRO DE 1996
 
 LEI COMPLEMENTAR Nº 011 DE 18 DE JANEIRO DE 1996. \[Download\]

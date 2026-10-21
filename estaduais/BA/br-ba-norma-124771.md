@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124771"
-titulo: "LD Nº 02 DE 01 DE DEZEMBRO DE 1969"
-data: "1969-12-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-02-de-01-de-dezembro-de-1969"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:34.320Z"
-sha256_fonte: "d8e718da94aa195f3b71ca8bef4a30cfc3a6143469f24da63d11b3bf4baca55a"
-sha256_markdown: "c43b23e14c76741b6846b8ecce5e30115f95ed9a76322dbecf64ccb452272421"
----
-
 # LD Nº 02 DE 01 DE DEZEMBRO DE 1969
 
 LEI DELEGADA Nº 02 DE 01 DE DEZEMBRO DE 1969

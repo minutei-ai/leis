@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148193"
-titulo: "LEI Nº 15.104 DE 19 DE JANEIRO DE 2026"
-data: "2026-01-19"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15104-de-19-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:43.838Z"
-sha256_fonte: "af680ed45da78024c3ccd7a26b4c6f6f62f1e45f3ac054e4325ce478584bd579"
-sha256_markdown: "c6c078cab33f19fb58567bea7ed67608b2644c5117daff361eae07f21e7c7dfd"
----
-
 # LEI Nº 15.104 DE 19 DE JANEIRO DE 2026
 
 LEI Nº 15.104 DE 19 DE JANEIRO DE 2026

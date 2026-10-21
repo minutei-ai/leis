@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212900"
-titulo: "Decreto nº 70.803, de 20/08/2026"
-data: "2026-08-20"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70803-20.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212900"
-sha256_dados: "dea1b8af121a1a80ecdc817a2bce3476b3f68754e3f5572071963e71f1516066"
-coletado_em: "2026-10-21T08:37:56.165Z"
-sha256_fonte: "7c21ccbc3c11cf1046a146dc64fdfccc2734451bf2892d53eb7245329033cee6"
-sha256_markdown: "723ad859785012a2226e932b4bca8c66493bf01656e8c214835c418c8b0897e3"
----
-
 # Decreto nº 70.803, de 20/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212900)<br>

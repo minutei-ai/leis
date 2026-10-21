@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212883"
-titulo: "Decreto nº 70.791, de 11/08/2026"
-data: "2026-08-11"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70791-11.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212883"
-sha256_dados: "b07c32ef9ab3f4c2f75667690b3d848d8bd5dac6a220995ec5019675477bc4f2"
-coletado_em: "2026-10-21T08:38:17.382Z"
-sha256_fonte: "01cf13f6be1aab96cdc1dd139e80682e41cec62173182763b2ebeebf87c0a26e"
-sha256_markdown: "a2f33bc1030b3f6bc248a32ab7f259b2dc9962d4875069fd27d0df1f7c15c658"
----
-
 # Decreto nº 70.791, de 11/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212883)<br>

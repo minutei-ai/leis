@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-131370"
-titulo: "EMENDA CONSTITUCIONAL Nº 23 DE 16 DE AGOSTO DE 2016"
-data: "2016-08-16"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constitucional-no-23-de-16-de-agosto-de-2016"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:50.747Z"
-sha256_fonte: "ef36a9ce544fea146103838a80161c90bedfef552b0d9de9e42ae673dd7ca564"
-sha256_markdown: "c92a909497930ca67b1234895df06c2bad384b4b48ad9555ee10166c48156d40"
----
-
 # EMENDA CONSTITUCIONAL Nº 23 DE 16 DE AGOSTO DE 2016
 
 EMENDA CONSTITUCIONAL Nº 23 DE 16 DE AGOSTO DE 2016

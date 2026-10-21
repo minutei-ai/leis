@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212855"
-titulo: "Decreto nº 70.768, de 27/07/2026"
-data: "2026-07-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70768-27.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212855"
-sha256_dados: "988659d4ec4245e7f110f01e1f456446e9144e98ebe995cf465a963b5c87bf70"
-coletado_em: "2026-10-21T08:38:52.694Z"
-sha256_fonte: "991aaeeeeeb1d1af0a808a8772fe1b7d8460df50523dda4747ac27d3ad9555ad"
-sha256_markdown: "9043d290886ecb67547858ea04bbb899f0be4e1dde2b0d9b5e9ec823b13b7515"
----
-
 # Decreto nº 70.768, de 27/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212855)<br>

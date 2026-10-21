@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108487"
-titulo: "LD Nº 29 DE 03 DE MARÇO DE 1983"
-data: "1983-03-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-29-de-03-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:55.232Z"
-sha256_fonte: "b25e4071b099d0a341283fa2dc802253781746edfca5445d3e53ab40186e26fe"
-sha256_markdown: "1c7675810e53cb724ce9de88502f84e312b2b2c1f9c0026fbe09c65657809da1"
----
-
 # LD Nº 29 DE 03 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 29 DE 03 DE MARÇO DE 1983

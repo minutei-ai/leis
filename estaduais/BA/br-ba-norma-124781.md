@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124781"
-titulo: "LD Nº 24 DE 10 DE FEVEREIRO DE 1983"
-data: "1983-02-10"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-24-de-10-de-fevereiro-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:02.650Z"
-sha256_fonte: "64f75b60bd2c41f332bab5d4637571d13b880ad30545d73abb79605697d06bda"
-sha256_markdown: "77cca4472d4829e25a69190bdb7145401850c10ed7b8dc7307054f2df5acf866"
----
-
 # LD Nº 24 DE 10 DE FEVEREIRO DE 1983
 
 LEI DELEGADA Nº 24 DE 10 DE FEVEREIRO DE 1983

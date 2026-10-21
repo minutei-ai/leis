@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2025-10-20-186"
-titulo: "LCP nº 186, de 20/10/2025"
-data: "2025-10-20"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/186/2025/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/186/2025/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "43930fe676c7d66b1166aff0fb030d5c8930dd3ce2d9795725e8f0a64dcdad95"
-coletado_em: "2026-10-21T08:34:51.022Z"
-sha256_fonte: "d53600c8b5dea23a7cc17e502d01b19e7c725659f5072d82415901df9d45c520"
-sha256_markdown: "132a10834a99f24639d331460b946eaeeef29a4e7c813e3fa651902074f30fc8"
----
-
 # LCP nº 186, de 20/10/2025
 
 Altera a Lei Complementar nº 171, de 9 de maio de 2023, que dispõe sobre a transposição e a transferência dos saldos constantes dos Fundos de Saúde dos municípios, provenientes de repasses da Secretaria de Estado de Saúde, e de saldos financeiros resultantes de parcerias e convênios firmados com o Estado, e dá outras providências.

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108519"
-titulo: "LD Nº 74 DE 03 DE JUNHO DE 1983"
-data: "1983-06-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-74-de-03-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:10.078Z"
-sha256_fonte: "0444f1c10558c9358185f197cec651747abb0775f5f7c41294faf85306449d15"
-sha256_markdown: "94dd3915339da912629b5ea6ab9daf27fef44666233d117ee60fda651c48af11"
----
-
 # LD Nº 74 DE 03 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 74 DE 03 DE JUNHO DE 1983

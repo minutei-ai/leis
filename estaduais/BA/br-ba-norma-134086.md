@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-134086"
-titulo: "LEI COMPLEMENTAR Nº 006 DE 06 DE DEZEMBRO DE 1991"
-data: "1991-12-06"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-006-de-06-de-dezembro-de-1991"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:57.472Z"
-sha256_fonte: "36cbdfe0d0be2babd490507124a2058d7d6bfe297c268b6f0764e3fe3337f6dc"
-sha256_markdown: "7d2917d4dfdaf8c50c97aa7be498fbb45a03056f817d3c439165e2b07d6505df"
----
-
 # LEI COMPLEMENTAR Nº 006 DE 06 DE DEZEMBRO DE 1991
 
 LEI COMPLEMENTAR Nº 006 DE 06 DE DEZEMBRO DE 1991

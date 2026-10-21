@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148019"
-titulo: "LEI Nº 15.036 DE 11 DE DEZEMBRO DE 2025"
-data: "2025-12-11"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:40.211Z"
-sha256_fonte: "bdb4b1727fed188e0378bc105f45ce547102ed051b11f4df473cabbaea65ae19"
-sha256_markdown: "3da2bf55ca8be72cc887c8dc9d3a1b07f43848596c0a81163b46dedd4754ec97"
----
-
 # LEI Nº 15.036 DE 11 DE DEZEMBRO DE 2025
 
 LEI Nº 15.036 DE 11 DE DEZEMBRO DE 2025

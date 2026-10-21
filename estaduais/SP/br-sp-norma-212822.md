@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212822"
-titulo: "Decreto nº 70.745, de 02/07/2026"
-data: "2026-07-02"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70745-02.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212822"
-sha256_dados: "47d6043deb1951d72fd8a6045c1c435632298de9ab4e87153e6a5f7dc3ba16b2"
-coletado_em: "2026-10-21T08:39:37.540Z"
-sha256_fonte: "7f140c1d1a743553dd5a3177abcd8a08ac0721edba5f819b5838d6edeb22a0f5"
-sha256_markdown: "d77258ab0f0d4dda068c2ac7968d9c8e79acebf31491c63ee9d67e338a0578dd"
----
-
 # Decreto nº 70.745, de 02/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212822)<br>

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148231"
-titulo: "LEI Nº 15.110 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15110-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:39.011Z"
-sha256_fonte: "0a6ba834f273a800e972f101c17199ec4ffe6faf671458c2d9f280516a31bbc8"
-sha256_markdown: "e497604231b56e4493f182cea9b250ce27d4135aae4ebf3c0659e87e499e26d1"
----
-
 # LEI Nº 15.110 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.110 DE 28 DE JANEIRO DE 2026

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-120089"
-titulo: "EMENDA CONSTITUCIONAL Nº 11 DE 28 DE JUNHO DE 2005"
-data: "2005-06-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constitucional-no-11-de-28-de-junho-de-2005"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:57.916Z"
-sha256_fonte: "124fa73a0cfe88e0745e3ddcef8fe98f8b33307d153deb3ffa3abe183b0aa692"
-sha256_markdown: "b29d19266b2d137935c88437ed71d649c080183b5b876d94f9595ffe1ecac1f8"
----
-
 # EMENDA CONSTITUCIONAL Nº 11 DE 28 DE JUNHO DE 2005
 
 EMENDA CONSTITUCIONAL Nº 11 DE 28 DE JUNHO DE 2005

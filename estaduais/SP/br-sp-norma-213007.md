@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213007"
-titulo: "Decreto nº 70.904, de 25/09/2026"
-data: "2026-09-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70904-25.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213007"
-sha256_dados: "73defa410d34994694b50661914122f8c434d0cc9d36ef1e9af2ae1296a3faea"
-coletado_em: "2026-10-21T08:35:41.515Z"
-sha256_fonte: "37ff7be5c9aee9490cb286bd392e162b2fe164a22d59645ad4c4032a48859c03"
-sha256_markdown: "be6d527f4326a479963c93df20cf1d211b873ec2e97b8d7b82e75c06ecefecfc"
----
-
 # Decreto nº 70.904, de 25/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213007)<br>

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108439"
-titulo: "LEI COMPLEMENTAR Nº 003 DE 05 DE SETEMBRO DE 1990"
-data: "1990-09-05"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-003-de-05-de-setembro-de-1990"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:05.887Z"
-sha256_fonte: "c15003031a19a7f8defce8bbbd6b67fd21572fe5edd08fd58d161fc25b0717ae"
-sha256_markdown: "c31600fd4351c0fcb8828283dbf36883e27aaca6e3aca2e27bd1d02aab638aa3"
----
-
 # LEI COMPLEMENTAR Nº 003 DE 05 DE SETEMBRO DE 1990
 
 LEI COMPLEMENTAR Nº 003 DE 05 DE SETEMBRO DE 1990.

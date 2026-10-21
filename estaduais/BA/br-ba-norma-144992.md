@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-144992"
-titulo: "EMENDA À CONSTITUIÇÃO Nº 33 DE 19 DE MARÇO DE 2024"
-data: "2024-03-19"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/emenda-constituicao-no-33-de-19-de-marco-de-2024"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:33:09.684Z"
-sha256_fonte: "4307f4faa7e1e3d200a34e5d49071c9917dce107d6e86629fbdc360c5f83a016"
-sha256_markdown: "cdc46bf2c990a491195d82cfaffbd49dec3c249f77f65bbfb389922ea7bef4f5"
----
-
 # EMENDA À CONSTITUIÇÃO Nº 33 DE 19 DE MARÇO DE 2024
 
 EMENDA À CONSTITUIÇÃO N.º 33, DE 19 DE MARÇO DE 2024

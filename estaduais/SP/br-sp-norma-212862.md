@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212862"
-titulo: "Lei nº 18.496, de 04/08/2026"
-data: "2026-08-04"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/lei-18496-04.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212862"
-sha256_dados: "84d49c8a348e8756d6fb64596e4b69ed052117743a029fc282388a6dd02d5b31"
-coletado_em: "2026-10-21T08:38:33.696Z"
-sha256_fonte: "7b60cb023faa81f24827fadc475f0d70040d98ec14928d1821be9dedcb62ddcd"
-sha256_markdown: "f608d4311163f4e7cbab0ca24077f6013e861153bca9e20dc3bffcfc5f43de48"
----
-
 # Lei nº 18.496, de 04/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212862)<br>

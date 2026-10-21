@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108480"
-titulo: "LD Nº 16 DE 06 DE ABRIL DE 1981"
-data: "1981-04-06"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-16-de-06-de-abril-de-1981"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:13.021Z"
-sha256_fonte: "4b8cfaa0056d8029f8b79f231aaf35d71b1f07f5699a94d9ef6590a9513cef7c"
-sha256_markdown: "b822c6fa354d93212d580d2c4460ab252e19d04ddbfbaaa63a50052a84502e12"
----
-
 # LD Nº 16 DE 06 DE ABRIL DE 1981
 
 LEI DELEGADA Nº 16 DE 06 DE ABRIL DE 1981

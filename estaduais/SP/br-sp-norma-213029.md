@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213029"
-titulo: "Decreto nº 70.925, de 02/10/2026"
-data: "2026-10-02"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70925-02.10.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213029"
-sha256_dados: "ffb7223a5304002d1dbd5c85b7e44a91fc4c62e4293f35544272cda657f66351"
-coletado_em: "2026-10-21T08:35:13.543Z"
-sha256_fonte: "a2be4a67a6c96e3d69c1c971f12b2ab2bce1bbb358ba8f92586d2e6901ed0ffb"
-sha256_markdown: "773ffa8e83782b1b6a18e74b0160792df7fe42686455ff15468e4ab5fececab7"
----
-
 # Decreto nº 70.925, de 02/10/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213029)<br>

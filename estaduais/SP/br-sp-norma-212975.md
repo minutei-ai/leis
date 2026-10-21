@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212975"
-titulo: "Decreto nº 70.872, de 14/09/2026"
-data: "2026-09-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70872-14.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212975"
-sha256_dados: "78af0866e558e9d1ff6355b2b2e2f8ac8d29ff3284ac073526feb8c61ef8ed71"
-coletado_em: "2026-10-21T08:36:21.958Z"
-sha256_fonte: "2b4424fee1b620e88b9e07bb0fb8a95137017781084b950a039e1d55a366130a"
-sha256_markdown: "6727fda615f356fc8fe4d9af5e62b79ad7d0bc1aaebacd6eae556ab48eef0a48"
----
-
 # Decreto nº 70.872, de 14/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212975)<br>

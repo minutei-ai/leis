@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212982"
-titulo: "Decreto nº 70.889, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70889-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212982"
-sha256_dados: "f5169596636d71e8aaa80ba93f9a9da37c048de4fb9dc324bfc05e0b5183ebde"
-coletado_em: "2026-10-21T08:36:00.147Z"
-sha256_fonte: "cd82462fdee0e770309509ebd4e2c5355049bd3f31a92176b4e731e82cf62158"
-sha256_markdown: "2693cce043ec35af1fd7123f5ac6e8d6543168a2508d602f0b0cd4cb18afbce4"
----
-
 # Decreto nº 70.889, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212982)<br>

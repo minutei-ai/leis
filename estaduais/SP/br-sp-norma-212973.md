@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212973"
-titulo: "Decreto nº 70.870, de 14/09/2026"
-data: "2026-09-14"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70870-14.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212973"
-sha256_dados: "aa83e5cef1b998273de62594da18a03eaa6fac68d10042183e6b6b4f793cd0e1"
-coletado_em: "2026-10-21T08:36:24.430Z"
-sha256_fonte: "4d3240756918390336d8c6f9283500f3dabaadc2e4ea561fca968ce7d3e5824b"
-sha256_markdown: "3840404e5f82b2e68f30f477e0612eabb776bb00b42eb7c564dddb67c1da3fa8"
----
-
 # Decreto nº 70.870, de 14/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212973)<br>

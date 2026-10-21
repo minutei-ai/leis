@@ -1,0 +1,791 @@
+# Medida Provisória nº 1.152 de 28/12/2022
+
+MEDIDA PROVISÓRIA Nº 1.152, DE 28 DE DEZEMBRO DE 2022
+
+Altera a legislação do Imposto sobre a Renda das Pessoa Jurídicas - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL para dispor sobre as regras de preços de transferência.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+CAPÍTULO I
+
+DO OBJETO E DO ÂMBITO DE APLICAÇÃO
+
+Art. 1º Esta Medida Provisória altera a legislação do Imposto sobre a Renda das Pessoa Jurídicas - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL para dispor sobre as regras de preços de transferência.
+
+Parágrafo único. O disposto nesta Medida Provisória aplica-se na determinação da base de cálculo do IRPJ e da CSLL das pessoas jurídicas domiciliadas no Brasil que realizem transações controladas com partes relacionadas no exterior.
+
+CAPÍTULO II
+
+DISPOSIÇÕES GERAIS
+
+Seção I
+
+Do Princípio Arm's Length
+
+Art. 2º Para fins de determinação da base de cálculo dos tributos de que trata o parágrafo único do art. 1º, os termos e as condições de uma transação controlada serão estabelecidos de acordo com aqueles que seriam estabelecidos entre partes não relacionadas em transações comparáveis.
+
+Seção II
+
+Das transações controladas
+
+Art. 3º Para fins do disposto nesta Medida Provisória, transação controlada compreende qualquer relação comercial ou financeira entre duas ou mais partes relacionadas, estabelecida ou realizada de forma direta ou indireta, incluídos contratos ou arranjos sob qualquer forma e série de transações.
+
+Seção III
+
+Das partes relacionadas
+
+Art. 4º Considera-se que as partes são relacionadas quando no mínimo uma delas estiver sujeita à influência, exercida direta ou indiretamente por outra parte, que possa levar ao estabelecimento de termos e condições em suas transações que divirjam daqueles que seriam estabelecidos entre partes não relacionadas em transações comparáveis.
+
+§ 1º São consideradas partes relacionadas, sem prejuízo de outras hipóteses que se enquadrem no disposto no caput:
+
+I – o controlador e as suas controladas;
+
+II – a entidade e a sua unidade de negócios, quando esta for tratada como contribuinte separado para fins de apuração de tributação sobre a renda, incluídas a matriz e as suas filiais;
+
+III – as coligadas;
+
+IV – as entidades incluídas nas demonstrações financeiras consolidadas, ou que seriam incluídas caso o controlador final do grupo multinacional de que façam parte preparasse tais demonstrações se o seu capital fosse negociado nos mercados de valores mobiliários de sua jurisdição de residência;
+
+V – as entidades, quando uma delas possuir o direito de receber, direta ou indiretamente, no mínimo vinte e cinco por cento dos lucros da outra ou de seus ativos em caso de liquidação;
+
+VI – as entidades que estiverem, direta ou indiretamente, sob controle comum ou em que o mesmo sócio, acionista ou titular detiver vinte por cento ou mais do capital social de cada uma;
+
+VII – as entidades em que os mesmos sócios ou acionistas, ou os seus cônjuges, companheiros, parentes, consanguíneos ou afins, até o terceiro grau, detiverem no mínimo vinte por cento do capital social de cada uma; e
+
+VIII – a entidade e a pessoa natural que for cônjuge, companheiro ou parente, consanguíneo ou afim, até o terceiro grau, de conselheiro, diretor ou controlador daquela entidade.
+
+§ 2º Para fins do disposto neste artigo, o termo entidade compreende qualquer pessoa, natural ou jurídica, e quaisquer arranjos contratuais ou legais desprovidos de personalidade jurídica.
+
+§ 3º Para fins do disposto no § 1º, fica caracterizada a relação de controle quando uma entidade:
+
+I – detiver, de forma direta ou indireta, isoladamente ou em conjunto com outras entidades, inclusive em função da existência de acordos de votos, direitos que lhe assegurem preponderância nas deliberações sociais ou o poder de eleger ou destituir a maioria dos administradores de outra entidade;
+
+II – participe, direta ou indiretamente, de mais de cinquenta por cento do capital social de outra entidade; ou
+
+III – detiver ou exercer o poder de administrar ou gerenciar, de forma direta ou indireta, as atividades de outra entidade.
+
+§ 4º Para fins do disposto no inciso III do § 1º, considera-se coligada a entidade que detenha influência significativa sobre outra entidade, conforme previsto nos § 1º, § 4º e § 5º do art. 243 da Lei nº 6.404, de 15 de dezembro de 1976.
+
+Seção IV
+
+Das transações comparáveis
+
+Art. 5º A transação entre partes não relacionadas será considerada comparável à transação controlada quando:
+
+I – não houver diferenças que possam afetar materialmente os indicadores financeiros examinados pelo método mais apropriado de que trata o art. 11; ou
+
+II – puderem ser efetuados ajustes para eliminar os efeitos materiais das diferenças, caso existentes.
+
+§ 1º Para fins do disposto no caput, será considerada a existência de diferenças entre as características economicamente relevantes das transações, inclusive em seus termos e suas condições e em suas circunstâncias economicamente relevantes.
+
+§ 2º Os indicadores financeiros examinados sob o método mais apropriado de que trata o art. 11 incluem preços, margens de lucro, índices, divisão de lucros entre as partes ou outros dados considerados relevantes.
+
+Seção V
+
+Da aplicação do Princípio Arm's Length
+
+Subseção I
+
+Disposições gerais
+
+Art. 6º Para determinar se os termos e as condições estabelecidos na transação controlada estão de acordo com o princípio previsto no art. 2º, deve-se efetuar:
+
+I – o delineamento da transação controlada; e
+
+II – a análise de comparabilidade da transação controlada.
+
+Subseção II
+
+Do delineamento da transação controlada
+
+Art. 7º O delineamento da transação controlada a que se refere o inciso I do caput do art. 6º será efetuado com fundamento na análise dos fatos e das circunstâncias da transação e das evidências da conduta efetiva das partes com vistas a identificar as relações comerciais e financeiras entre as partes relacionadas e as características economicamente relevantes associadas a essas relações, considerados, ainda:
+
+I – os termos contratuais da transação, que derivam tanto dos documentos e dos contratos formalizados como das evidências da conduta efetiva das partes;
+
+II – as funções desempenhadas pelas partes da transação, considerados os ativos utilizados e os riscos economicamente significativos assumidos;
+
+III – as características específicas dos bens, direitos ou serviços objetos da transação controlada;
+
+IV – as circunstâncias econômicas das partes e do mercado em que operam; e
+
+V – as estratégias de negócios e outras características consideradas economicamente relevantes.
+
+§ 1º No delineamento da transação controlada serão consideradas as opções realisticamente disponíveis para cada uma das partes da transação controlada, de modo a avaliar a existência de outras opções que poderiam ter gerado condições mais vantajosas para qualquer uma das partes e que teriam sido adotadas caso a transação tivesse sido realizada entre partes não relacionadas, inclusive a não realização da transação.
+
+§ 2º Na hipótese em que as características economicamente relevantes da transação controlada identificadas nos contratos formalizados e nos documentos apresentados, inclusive na documentação de que trata o art. 35, divergirem daquelas verificadas a partir da análise dos fatos, das circunstâncias e das evidências da conduta efetiva das partes, a transação controlada será delineada, para fins do disposto nesta Medida Provisória, com fundamento nos fatos, nas circunstâncias e nas evidências da conduta efetiva das partes.
+
+§ 3º Os riscos economicamente significativos a que se refere o inciso II do caput consistem nos riscos que influenciam significativamente os resultados econômicos da transação.
+
+§ 4º Os riscos economicamente significativos serão considerados assumidos pela parte da transação controlada que exerça as funções relativas ao seu controle e que possua a capacidade financeira para assumi-los.
+
+Art. 8º Para fins do disposto nesta Medida Provisória, quando se concluir que partes não relacionadas, agindo em circunstâncias comparáveis e comportando-se de maneira comercialmente racional, considerando as opções realisticamente disponíveis para cada uma partes, não teriam realizado a transação controlada conforme havia sido delineada, tendo em vista a operação em sua totalidade, a transação ou a série de transações controladas poderá ser desconsiderada ou substituída por uma transação alternativa com o objetivo de determinar os termos e as condições que seriam estabelecidos por partes não relacionadas em circunstâncias comparáveis e agindo de maneira comercialmente racional.
+
+Parágrafo único. A transação controlada de que trata o caput não poderá ser desconsiderada ou substituída exclusivamente em razão de não serem identificadas transações comparáveis realizadas entre partes não relacionadas.
+
+Subseção III
+
+Da análise de comparabilidade
+
+Art. 9º A análise de comparabilidade será realizada com o objetivo de comparar os termos e as condições da transação controlada, delineada de acordo com o disposto no art. 7º, com os termos e as condições que seriam estabelecidos entre partes não relacionadas em transações comparáveis, e considerará inclusive:
+
+I – as características economicamente relevantes da transação controlada e das transações entre partes não relacionadas;
+
+II – a data em que a transação controlada e as transações entre partes não relacionadas foram realizadas, de forma a assegurar que as circunstâncias econômicas das transações que se pretende comparar sejam comparáveis;
+
+III – a disponibilidade de informações de transações entre partes não relacionadas, que permita a comparação de suas características economicamente relevantes, com vistas a identificar as transações comparáveis mais confiáveis realizadas entre partes não relacionadas;
+
+IV – a seleção do método mais apropriado e do indicador financeiro a ser examinado;
+
+V – a existência de incertezas na precificação ou na avaliação existentes no momento da realização da transação controlada e se tais incertezas foram endereçadas assim como partes não relacionadas teriam efetuado em circunstâncias comparáveis, considerada inclusive a adoção de mecanismos apropriados de forma a assegurar o cumprimento do princípio previsto no art. 2º; e
+
+VI – a existência e a relevância dos efeitos de sinergia de grupo, nos termos do disposto no art. 10.
+
+Art. 10\. Os benefícios ou prejuízos obtidos em decorrência dos efeitos de sinergia de grupo resultantes de uma ação deliberada na forma de funções desempenhadas, ativos utilizados ou riscos assumidos que produzam uma vantagem ou desvantagem identificável em relação aos demais participantes do mercado serão alocados entre as partes da transação controlada na proporção de suas contribuições para a criação do efeito de sinergia e ficarão sujeitos à compensação.
+
+Parágrafo único. Os efeitos de sinergia de grupo que não decorram de uma ação deliberada nos termos do disposto no caput e que sejam meramente resultantes da participação da entidade no grupo multinacional serão considerados benefícios incidentais e não ficarão sujeitos à compensação.
+
+Subseção IV
+
+Da seleção do método mais apropriado
+
+Art. 11\. Para fins do disposto nesta Medida Provisória, será selecionado o método mais apropriado dentre os seguintes:
+
+I – Preço Independente Comparável - PIC, que consiste em comparar o preço ou o valor da contraprestação da transação controlada com os preços ou os valores das contraprestações de transações comparáveis realizadas entre partes não relacionadas;
+
+II – Preço de Revenda menos Lucro - PRL, que consiste em comparar a margem bruta que um adquirente de uma transação controlada obtém na revenda subsequente realizada para partes não relacionadas com as margens brutas obtidas em transações comparáveis realizadas entre partes não relacionadas;
+
+III – Custo mais Lucro - MCL, que consiste em comparar a margem de lucro bruto obtida sobre os custos do fornecedor em uma transação controlada com as margens de lucro bruto obtidas sobre os custos em transações comparáveis realizadas entre partes não relacionadas;
+
+IV – Margem Líquida da Transação - MLT, que consiste em comparar a margem líquida da transação controlada com as margens líquidas de transações comparáveis realizadas entre partes não relacionadas, ambas calculadas com base em indicador de rentabilidade apropriado;
+
+V – Divisão do Lucro - MDL, que consiste na divisão dos lucros ou das perdas, ou de parte deles, em uma transação controlada de acordo com o que seria estabelecido entre partes não relacionadas em uma transação comparável, consideradas as contribuições relevantes fornecidas na forma de funções desempenhadas, ativos utilizados e riscos assumidos pelas partes envolvidas na transação; e
+
+VI – outros métodos, desde que a metodologia alternativa adotada produza resultado consistente com aquele que seria alcançado em transações comparáveis realizadas entre partes não relacionadas.
+
+§ 1º Considera-se o método mais apropriado aquele que forneça a determinação mais confiável dos termos e das condições que seriam estabelecidos entre partes não relacionadas em uma transação comparável, considerados inclusive os seguintes aspectos:
+
+I – os fatos e as circunstâncias da transação controlada e a adequação do método em relação à natureza da transação, determinada especialmente a partir da análise das funções desempenhadas, dos riscos assumidos e dos ativos utilizados pelas partes envolvidas na transação controlada conforme previsto no inciso II do caput do art. 7º;
+
+II – a disponibilidade de informações confiáveis de transações comparáveis realizadas entre partes não relacionadas necessárias à aplicação consistente do método; e
+
+III – o grau de comparabilidade entre a transação controlada e as transações realizadas entre partes não relacionadas, incluídas a necessidade e a confiabilidade de se efetuar ajustes para eliminar os efeitos de eventuais diferenças entre as transações comparadas.
+
+§ 2º O método PIC será considerado o mais apropriado quando houver informações confiáveis de preços ou valores de contraprestações decorrentes de transações comparáveis realizadas entre partes não relacionadas, a menos que se possa estabelecer que outro método previsto no caput seja aplicável de forma mais apropriada com vistas a se observar o princípio previsto no art. 2º.
+
+§ 3º Quando o contribuinte selecionar outros métodos a que se refere o inciso VI do caput para aplicação em hipóteses distintas daquelas previstas pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, deverá ser demonstrado pela documentação de preços de transferência a que se refere o art. 35 que os métodos previstos nos incisos I a V do caput não são aplicáveis à transação controlada, ou que não produzem resultados confiáveis, e que o outro método selecionado é considerado mais apropriado, nos termos do disposto no § 1º.
+
+§ 4º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia disciplinará o disposto neste artigo, inclusive quanto à possibilidade de combinação de métodos, com vistas a assegurar a aplicação correta do princípio previsto no art. 2º.
+
+Subseção V
+
+Das commodities
+
+Art. 12\. Para fins do disposto no art. 13, considera-se:
+
+I – commodity - o produto físico, independentemente de seu estágio de produção, e os produtos derivados, para os quais os preços de cotação sejam utilizados como referência por partes não relacionadas para se estabelecer os preços em transações comparáveis; e
+
+II – preço de cotação - as cotações ou os índices obtidos em bolsas de mercadorias e futuros, agências de pesquisa ou agências governamentais, reconhecidas e confiáveis, que sejam utilizados como referência por partes não relacionadas para estabelecer os preços em transações comparáveis.
+
+Art. 13\. Quando houver informações confiáveis de preços independentes comparáveis para a commodity transacionada, incluídos os preços de cotação, o método PIC será considerado o mais apropriado para determinar o valor da commodity transferida na transação controlada, a menos que se possa estabelecer, de acordo com os fatos e as circunstâncias da transação, que outro método seja aplicável de forma mais apropriada com vistas a se observar o princípio previsto no art. 2º.
+
+§ 1º Quando houver diferenças entre as condições da transação controlada e as condições das transações entre partes não relacionadas ou as condições que determinam o preço de cotação que afetem materialmente o preço da commodity, serão efetuados ajustes para assegurar que as características economicamente relevantes das transações sejam comparáveis.
+
+§ 2º Nas hipóteses em que o método PIC for aplicado com base no preço de cotação, o valor da commodity será determinado com base na data ou no período de datas acordado pelas partes para precificar a transação quando:
+
+I – o contribuinte fornecer documentação tempestiva e confiável que comprove a data ou o período de datas acordado pelas partes da transação, incluídas as informações sobre a determinação da data ou do período de datas utilizado pelas partes relacionadas nas transações efetuadas com os clientes finais, partes não relacionadas, e efetuar o registro da transação, conforme estabelecido no art. 14; e
+
+II – a data ou o período de datas especificado na documentação apresentada for consistente com a conduta efetiva das partes e com os fatos e as circunstâncias do caso, observados o disposto no art. 7º e o princípio previsto no art. 2º.
+
+§ 3º Caso seja descumprido o disposto no § 2º, a autoridade fiscal poderá determinar o valor da commodity com base no preço de cotação referente:
+
+I – à data ou ao período de datas que seja consistente com os fatos e as circunstâncias do caso e com o que seria estabelecido entre partes não relacionadas em circunstâncias comparáveis; ou
+
+II – à média do preço de cotação da data do embarque ou do registro da declaração de importação, quando não for por possível aplicar o disposto no inciso I.
+
+§ 4º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia disciplinará o disposto neste artigo, inclusive quanto às orientações sobre a eleição das bolsas de mercadorias e futuros, agências de pesquisa ou agências governamentais de que trata o inciso II do caput do art. 12.
+
+§ 5º Para fins do disposto no § 4º, a Secretaria Especial da Receita Federal do Brasil do Ministério da Economia poderá prever a utilização de outras fontes de informações de preços, reconhecidas e confiáveis, quando suas cotações ou seus índices sejam utilizados como referência por partes não relacionadas para estabelecer os preços em transações comparáveis.
+
+Art. 14\. O contribuinte efetuará o registro das transações controladas de exportação e importação de commodities declarando as suas informações na forma e no prazo estabelecidos pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.
+
+Subseção VI
+
+Da parte testada
+
+Art. 15\. Nas hipóteses em que a aplicação do método exigir a seleção de uma das partes da transação controlada como parte testada, será selecionada aquela em relação a qual o método possa ser aplicado de forma mais apropriada e para a qual haja a disponibilidade de dados mais confiáveis de transações comparáveis realizadas entre partes não relacionadas.
+
+§ 1º O contribuinte deverá fornecer as informações necessárias para a determinação correta das funções desempenhadas, dos riscos assumidos e dos ativos utilizados pelas partes da transação controlada, de modo a demonstrar a seleção apropriada da parte testada, e documentará as razões e as justificativas para a seleção efetuada.
+
+§ 2º Caso haja descumprimento do disposto no § 1º e as informações disponíveis a respeito das funções, dos riscos e dos ativos da outra parte da transação sejam limitadas, somente as funções, os riscos e os ativos que possam ser determinados de forma confiável como efetivamente desempenhadas, assumidos ou utilizados serão alocados a esta parte da transação, e demais funções, riscos e ativos identificados na transação controlada serão alocados à parte relacionada no Brasil.
+
+Subseção VII
+
+Do intervalo de comparáveis
+
+Art. 16\. Quando a aplicação do método mais apropriado conduzir a um intervalo de observações de indicadores financeiros de transações comparáveis realizadas entre partes não relacionadas, o intervalo apropriado será utilizado para determinar se os termos e as condições da transação controlada estão de acordo com o princípio previsto no art. 2º.
+
+§ 1º A determinação do intervalo apropriado será efetuada de modo a considerar os indicadores financeiros de transações entre partes não relacionadas que possuam o maior grau de comparabilidade em relação à transação controlada, excluídos aqueles provenientes de transações de grau inferior.
+
+§ 2º Se o intervalo obtido após a aplicação do disposto no § 1º for constituído de observações de transações entre partes não relacionadas que preencham o critério de comparabilidade previsto no art. 5º, será considerado como intervalo apropriado:
+
+I – o intervalo interquartil, quando existirem incertezas em relação ao grau de comparabilidade entre as transações comparáveis que não possam ser precisamente identificadas ou quantificadas e ajustadas; ou
+
+II – o intervalo completo, quando as transações entre partes não relacionadas possuam um grau equivalente de comparabilidade em relação à transação controlada e não existam incertezas de comparabilidade nos termos do disposto no inciso I.
+
+§ 3º Quando o indicador financeiro da transação controlada examinado sob o método mais apropriado estiver compreendido no intervalo apropriado, será considerado que os termos e as condições da transação controlada estão de acordo com o princípio previsto no art. 2º, hipótese em que não será exigida a realização dos ajustes de que trata o art. 17.
+
+§ 4º Para fins de determinação dos ajustes de que trata o art. 17, quando o indicador financeiro da transação controlada examinado sob o método mais apropriado não estiver compreendido no intervalo apropriado, será atribuído o valor da mediana à transação controlada.
+
+§ 5º Poderão ser utilizadas medidas estatísticas distintas das previstas neste artigo nas hipóteses de implementação de resultados acordados em soluções de disputas realizadas no âmbito dos acordos ou das convenções internacionais para eliminar a dupla tributação de que o Brasil seja signatário, e naquelas disciplinadas pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia com vistas a assegurar a aplicação correta do princípio previsto no art. 2º.
+
+Seção VI
+
+Dos ajustes à base de cálculo
+
+Art. 17\. Para fins do disposto nesta Medida Provisória, considera-se:
+
+I – ajuste espontâneo - aquele efetuado pela pessoa jurídica domiciliada no Brasil diretamente na apuração da base de cálculo dos tributos a que se refere o parágrafo único do art. 1º com vistas a adicionar o resultado que seria obtido caso os termos e as condições da transação controlada tivessem sido estabelecidos de acordo com o princípio previsto no art. 2º;
+
+II – ajuste compensatório - aquele efetuado pelas partes da transação controlada até o encerramento do ano-calendário em que for realizada a transação com vistas a ajustar o seu valor de tal forma que o resultado obtido seja equivalente ao que seria obtido caso os termos e as condições da transação controlada tivessem sido estabelecidos de acordo com o princípio previsto no art. 2º;
+
+III – ajuste primário - aquele efetuado pela autoridade fiscal com vistas a adicionar à base de cálculo dos tributos a que se refere o parágrafo único do art. 1º os resultados que seriam obtidos pela pessoa jurídica domiciliada no Brasil, caso os termos e as condições da transação controlada tivessem sido estabelecidos de acordo com o princípio previsto no art. 2º; e
+
+IV – ajuste secundário - aquele efetuado em decorrência dos ajustes previstos nos incisos I ou III do caput.
+
+Art. 18\. Quando os termos e as condições estabelecidos na transação controlada divergirem daqueles que seriam estabelecidos entre partes não relacionadas em transações comparáveis, a base de cálculo dos tributos a que se refere o art. 1º será ajustada de forma a computar os resultados que seriam obtidos caso os termos e as condições da transação controlada tivessem sido estabelecidos de acordo com o princípio previsto no art. 2º.
+
+§ 1º A pessoa jurídica domiciliada no Brasil efetuará o ajuste espontâneo ou compensatório quando o descumprimento do disposto no art. 2º resultar na apuração de base de cálculo inferior àquela que seria apurada caso os termos e as condições da transação controlada tivessem sido estabelecidos de acordo com aqueles que seriam estabelecidos entre partes não relacionadas em transações comparáveis.
+
+§ 2º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia estabelecerá a forma e as condições para a realização dos ajustes compensatórios.
+
+§ 3º Na hipótese de descumprimento do disposto neste artigo, a autoridade fiscal efetuará o ajuste primário.
+
+§ 4º Não será admitida a realização de ajustes com vistas a:
+
+I – reduzir a base de cálculo dos tributos a que se refere o parágrafo único do art. 1º; ou
+
+II – aumentar o valor do prejuízo fiscal do IRPJ ou a base de cálculo negativa da CSLL.
+
+§ 5º A vedação prevista no § 4º não será aplicada nas hipóteses de ajustes compensatórios realizados na forma e no prazo estabelecidos pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia ou de resultados acordados em mecanismo de solução de disputas previstos nos acordos ou nas convenções internacionais para eliminar a dupla tributação de que o Brasil seja signatário.
+
+Art. 19\. Nas hipóteses em que seja realizado o ajuste espontâneo ou o ajuste primário a que se referem os incisos I e III do caput do art. 17, será também efetuado o ajuste secundário, o qual será determinado com fundamento nos seguintes critérios:
+
+I – o valor ajustado será considerado como crédito concedido às partes relacionadas envolvidas na transação controlada, remunerado à taxa de juros de doze por cento ao ano;
+
+II – os juros previstos no inciso I serão considerados devidos a partir de 1º de janeiro do ano subsequente ao período de apuração até a data em que o montante considerado como crédito for totalmente reembolsado à pessoa jurídica domiciliada no Brasil e ficarão sujeitos à tributação pelo IRPJ e pela CSLL;
+
+III – a taxa de juros será reduzida a zero caso o montante considerado como crédito seja totalmente reembolsado ao contribuinte no Brasil no prazo de noventa dias, contado a partir:
+
+a) de 1º de janeiro do ano subsequente ao período de apuração que provocou o ajuste espontâneo; ou
+
+b) da data da ciência do lançamento do ajuste primário.
+
+CAPÍTULO III
+
+DISPOSIÇÕES ESPECÍFICAS
+
+Seção I
+
+Das transações com intangíveis
+
+Art. 20\. Para fins do disposto nesta Medida Provisória, considera-se:
+
+I – intangível - o ativo que, não sendo tangível ou ativo financeiro, seja suscetível de ser detido ou controlado para uso nas atividades comerciais e cujo uso ou transferência seria remunerado caso a transação ocorresse entre partes não relacionadas, independentemente de ser passível de registro, proteção legal ou de ser caracterizado e reconhecido como ativo ou ativo intangível para fins contábeis;
+
+II – intangível de difícil valoração - o intangível para o qual não seja possível identificar comparáveis confiáveis no momento de sua transferência entre partes relacionadas e as projeções de fluxos de renda ou de caixa futuros ou as premissas utilizadas para sua avaliação sejam altamente incertas; e
+
+III – funções relevantes desempenhadas em relação ao intangível - as atividades relacionadas ao desenvolvimento, ao aprimoramento, à manutenção, à proteção e à exploração do intangível.
+
+Art. 21\. Os termos e as condições de uma transação controlada que envolva intangível serão estabelecidos de acordo com o princípio previsto no art. 2º.
+
+§ 1º O delineamento das transações de que trata o caput será efetuado em conformidade com o disposto no art. 7º e considerará inclusive considerar a:
+
+I – identificação dos intangíveis envolvidos na transação controlada;
+
+II – determinação da titularidade do intangível;
+
+III – determinação das partes que desempenham as funções, utilizam ativos e assumem os riscos economicamente significativos associados às funções relevantes desempenhadas em relação ao intangível, com ênfase na determinação das partes que exercem o controle e possuem a capacidade financeira para assumi-los; e
+
+IV – determinação das partes responsáveis pela concessão de financiamento ou pelo fornecimento de outras contribuições em relação ao intangível, que assumam os riscos economicamente significativos associados, com ênfase na determinação das partes que exercem o controle e possuem a capacidade financeira para assumi-los.
+
+§ 2º Para fins do disposto nesta Medida Provisória, será considerado titular do intangível a parte:
+
+I – identificada como titular nos contratos, nos registros ou nas disposições legais aplicáveis; ou
+
+II – que exerça o controle das decisões relacionadas à exploração do intangível e que possua a capacidade de restringir a sua utilização, nas hipóteses em que a titularidade não possa ser identificada na forma prevista no inciso I.
+
+Art. 22\. A alocação dos resultados de transações controladas que envolvam intangível será determinada com base nas contribuições fornecidas pelas partes e, em especial, nas funções relevantes desempenhadas em relação ao intangível e nos riscos economicamente significativos associados a essas funções.
+
+§ 1º A mera titularidade legal do intangível não ensejará a atribuição de qualquer remuneração decorrente de sua exploração.
+
+§ 2º A remuneração da parte relacionada envolvida na transação controlada, incluído o titular do intangível, que seja responsável pela concessão de financiamento, não excederá ao valor da remuneração determinada com base na:
+
+I – taxa de juros livre de risco, caso a parte relacionada não possua a capacidade financeira ou não exerça o controle sobre os riscos economicamente significativos associados ao financiamento concedido e não assuma nem controle qualquer outro risco economicamente significativo relativo à transação; ou
+
+II – taxa de juros ajustada ao risco assumido, caso a parte relacionada possua a capacidade financeira e exerça o controle sobre os riscos economicamente significativos associados ao financiamento, porém sem assumir e controlar qualquer outro risco economicamente significativo relativo à transação.
+
+Seção II
+
+Dos intangíveis de difícil valoração
+
+Art. 23\. Em transações controladas que envolvam intangíveis de difícil valoração, serão consideradas:
+
+I – as incertezas na precificação ou na avaliação existentes no momento da realização da transação; e
+
+II – se tais incertezas foram devidamente endereçadas sobre a forma como as partes não relacionadas o teriam feito em circunstâncias comparáveis, inclusive por meio da adoção de contratos de curto prazo, da inclusão de cláusulas de reajuste de preço ou do estabelecimento de pagamentos contingentes.
+
+§ 1º As informações disponíveis em períodos posteriores ao da realização da transação controlada poderão ser utilizadas pela autoridade fiscal como evidência, sujeita à prova em contrário nos termos do disposto no § 3º, quanto à existência de incertezas no momento da transação e especialmente para avaliar se o contribuinte cumpriu o disposto no caput.
+
+§ 2º Na hipótese de descumprimento do disposto no caput, o valor da transação será ajustado para fins de apuração da base de cálculo dos tributos a que se refere o art. 1º e, a menos que seja possível determinar a remuneração apropriada na forma de pagamento único para o momento da transação, o ajuste será efetuado por meio da determinação de pagamentos contingentes anuais que reflitam as incertezas decorrentes da precificação ou da avaliação do intangível envolvido na transação controlada.
+
+§ 3º O ajuste de que trata o § 2º não será efetuado nas seguintes hipóteses:
+
+I – quando o contribuinte:
+
+a) fornecer informação detalhada das projeções utilizadas no momento da realização da transação, incluídas as que demonstram como os riscos foram considerados nos cálculos para a determinação do preço, e relativa à consideração de eventos e outras incertezas razoavelmente previsíveis e à probabilidade de sua ocorrência; e
+
+b) demonstrar que qualquer diferença significativa entre as projeções financeiras e os resultados efetivamente obtidos decorre de eventos ou fatos ocorridos após a determinação dos preços, que não poderiam ter sido previstos pelas partes relacionadas ou que a probabilidade de sua ocorrência não tenha sido significativamente superestimada ou subestimada no momento da transação; ou
+
+II – quando qualquer diferença entre as projeções financeiras e os resultados efetivamente obtidos não resultar em uma redução ou em um aumento da remuneração pelo intangível de difícil valoração superior a vinte por cento da remuneração determinada no momento da transação.
+
+Seção III
+
+Dos serviços intragrupo
+
+Art. 24\. Os termos e as condições de uma transação controlada que envolva prestação de serviços entre partes relacionadas serão estabelecidos de acordo com o princípio previsto no art. 2º.
+
+§ 1º Para fins do disposto nesta Medida Provisória, considera-se prestação de serviço qualquer atividade desenvolvida por uma parte, incluídos o uso ou a disponibilização pelo prestador de ativos tangíveis ou intangíveis ou outros recursos, que resulte em benefícios para uma ou mais partes.
+
+§ 2º A atividade desenvolvida resulta em benefícios quando proporcionar expectativa razoável de valor econômico ou comercial para a outra parte da transação controlada, de forma a melhorar ou manter a sua posição comercial, de tal modo que partes não relacionadas em circunstâncias comparáveis estariam dispostas a pagar pela atividade ou realizá-la por conta própria.
+
+§ 3º Sem prejuízo de outras hipóteses, será considerado que a atividade desempenhada não resulta em benefícios nos termos do disposto no § 2º quando:
+
+I – a atividade for caracterizada como atividade de sócio; ou
+
+II – a atividade representar a duplicação de um serviço já prestado ao contribuinte ou que tenha a capacidade de desempenhar, ressalvados os casos em que for demonstrado que a atividade duplicada resulta em benefícios adicionais para o tomador conforme previsto no § 2º.
+
+§ 4º São caracterizadas como atividades de sócios aquelas desempenhadas na qualidade de sócio ou acionista, direto ou indireto, em seu interesse próprio, incluídas aquelas cujo único objetivo ou efeito seja proteger o investimento de capital do prestador no tomador ou promover ou facilitar o cumprimento de obrigações legais, regulatórias ou de reporte do prestador, tais como:
+
+I – atividades relacionadas à estrutura societária do sócio ou acionista, incluídas aquelas relativas à realização de assembleia de seus investidores, reuniões de conselho, emissão de ações e listagem em bolsas de valores;
+
+II – elaboração de relatórios relacionados ao sócio ou acionista, incluídos os relatórios financeiros, demonstrações consolidadas e relatórios de auditoria;
+
+III – captação de recursos para aquisição, pelo sócio ou acionista, de participações societárias e atividades relativas ao desempenho de relação com investidores; e
+
+IV – atividades desempenhadas para o cumprimento pelo sócio de obrigações impostas pela legislação tributária.
+
+§ 5º Quando a atividade desempenhada ao contribuinte por outra parte relacionada não resultar em benefício nos termos do disposto nos § 2º ao § 4º, a base de cálculo do IRPJ e da CSLL será ajustada.
+
+§ 6º Para fins do disposto nesta Medida Provisória, os benefícios incidentais obtidos pelo contribuinte na forma prevista no parágrafo único do art. 10 não serão considerados serviços e não ensejarão qualquer compensação.
+
+Art. 25\. Na aplicação do método MCL, serão considerados todos os custos relacionados à prestação do serviço.
+
+§ 1º Sempre que for possível individualizar os custos da prestação do serviço em relação ao seu respectivo tomador, a determinação da base de custos utilizada para fins de aplicação do método a que se refere o caput será efetuada pelo método de cobrança direta.
+
+§ 2º Nas hipóteses em que o serviço for prestado para mais de uma parte e não for razoavelmente possível individualizar os custos do serviço em relação a cada tomador, conforme previsto no § 1º, será admitida a utilização de métodos de cobrança indireta para a determinação da base de custos utilizada para fins de aplicação do método a que se refere o caput.
+
+§ 3º Nos métodos de cobrança indireta, a determinação da base de custos será efetuada pela repartição dos custos por meio da utilização de um ou mais critérios de alocação que permitam obter um custo semelhante ao que partes não relacionadas em circunstâncias comparáveis estariam dispostas a aceitar, que deverão:
+
+I – refletir a natureza e a utilização dos serviços prestados; e
+
+II – estar aptos a produzir uma remuneração para a transação controlada que seja compatível com os benefícios reais ou razoavelmente esperados para o tomador do serviço.
+
+§ 4º Na determinação da remuneração dos serviços de que trata o caput, não será admitida cobrança de margem de lucro sobre os custos do prestador que constituam repasses de valores referentes a atividades desempenhadas ou aquisições realizadas de outras partes relacionadas ou não relacionadas, em relação as quais o prestador não desempenhe funções significativas, considerados, ainda, os ativos utilizados e os riscos economicamente significativos assumidos.
+
+§ 5º Na hipótese prevista no § 4º, será admitida cobrança de margem de lucro determinada de acordo com o princípio previsto no art. 2º somente sobre os custos incorridos pelo prestador para desempenhar as referidas funções.
+
+§ 6º As disposições do caput aplicam-se aos casos em que seja adotado o método MLT como o mais apropriado para a determinação dos preços de transferência dos serviços de que trata o art. 24 e seja utilizado indicador de rentabilidade com base no custo.
+
+Seção IV
+
+Dos contratos de compartilhamento de custos
+
+Art. 26\. São caracterizados como contratos de compartilhamento de custos aqueles em que duas ou mais partes relacionadas acordam em repartir as contribuições e os riscos relativos à aquisição, à produção ou ao desenvolvimento conjunto de serviços, intangíveis ou de ativos tangíveis com base na proporção dos benefícios que cada parte espera obter no contrato.
+
+§ 1º São considerados participantes do contrato de compartilhamento de custos aqueles que, relativamente a ele, exerçam o controle sobre os riscos economicamente significativos e possuam a capacidade financeira para assumi-los, e que tenham a expectativa razoável de obter os benefícios:
+
+I – dos serviços desenvolvidos ou obtidos, conforme disposto no art. 24, no caso de contratos que tenham por objeto o desenvolvimento ou a obtenção de serviços; ou
+
+II – dos intangíveis ou ativos tangíveis, mediante a atribuição de participação ou direito sobre tais ativos, no caso de contratos que tenham por objeto o desenvolvimento, a produção ou a obtenção de intangíveis ou ativos tangíveis, e que sejam capazes de explorá-los em suas atividades.
+
+§ 2º As contribuições a que se refere o caput compreendem qualquer espécie de contribuição fornecida pelo participante que tenha valor, incluídos o fornecimento de serviços, o desempenho de atividades relativas ao desenvolvimento de intangíveis ou de ativos tangíveis, e a disponibilização de intangíveis ou de ativos tangíveis existentes.
+
+§ 3º As contribuições dos participantes serão determinadas de acordo com o princípio previsto no art. 2º; e proporcionais às suas parcelas no benefício total esperado, as quais serão avaliadas por meio das estimativas do incremento de receitas, da redução de custos, ou de qualquer outro benefício que se espera obter do contrato.
+
+§ 4º Nas hipóteses em que a contribuição do participante não for proporcional à sua parcela no benefício total esperado, serão efetuadas compensações adequadas entre os participantes do contrato, de modo a restabelecer o seu equilíbrio.
+
+§ 5º Nos casos em que houver qualquer alteração nos participantes do contrato, incluída a entrada ou a retirada de um participante, ou naqueles em que se der a transferência entre os participantes dos direitos nos benefícios do contrato, serão exigidas compensações em favor daqueles que cederem sua parte por aqueles que obtiverem ou majorarem sua participação nos resultados obtidos no contrato.
+
+§ 6º Na hipótese de rescisão do contrato, os resultados obtidos serão alocados entre os participantes de forma proporcional às contribuições realizadas.
+
+Seção V
+
+Da reestruturação de negócios
+
+Art. 27\. São consideradas reestruturações de negócios as modificações nas relações comerciais ou financeiras entre partes relacionadas que resultem na transferência de lucro potencial ou em benefícios ou prejuízos para qualquer uma das partes e que seriam remuneradas caso fossem efetuadas entre partes não relacionadas de acordo com o princípio previsto no art. 2º.
+
+§ 1º O lucro potencial referido no caput compreende os lucros ou as perdas esperados associados à transferência de funções, ativos, riscos ou oportunidades de negócios.
+
+§ 2º As reestruturações a que se refere o caput incluem hipóteses em que o lucro potencial seja transferido a uma parte relacionada como resultado da renegociação ou do encerramento das relações comerciais ou financeiras com partes não relacionadas.
+
+§ 3º Para determinar a compensação pelo benefício obtido ou pelo prejuízo sofrido por qualquer uma das partes da transação, serão considerados:
+
+I – os custos suportados pela entidade transferidora como consequência da reestruturação; e
+
+II – a transferência do lucro potencial.
+
+§ 4º A compensação pela transferência do lucro potencial considerará o valor que os itens transferidos têm em conjunto.
+
+Seção VI
+
+Das operações financeiras
+
+Subseção I
+
+Das operações de dívida
+
+Art. 28\. Quando a transação controlada envolver o fornecimento de recursos financeiros e estiver formalizada como operação de dívida, as disposições desta Medida Provisória serão aplicadas para determinar se a transação será delineada, total ou parcialmente, como operação de dívida ou de capital, consideradas as características economicamente relevantes da transação, as perspectivas das partes e as opções realisticamente disponíveis.
+
+Parágrafo único. Os juros e as outras despesas relativos à transação delineada como operação de capital não serão dedutíveis para fins de cálculo do IRPJ e da CSLL.
+
+Art. 29\. Os termos e as condições de uma transação controlada delineada como operação de dívida, conforme disposto no art. 28, serão estabelecidos de acordo com o princípio previsto no art. 2º.
+
+§ 1º Para fins do disposto no caput, serão consideradas as características economicamente relevantes da transação controlada, conforme disposto no art. 7º, inclusive o risco de crédito do devedor em relação à transação.
+
+§ 2º Para determinar o risco de crédito do devedor em relação à transação, serão considerados e ajustados os efeitos decorrentes de outras transações controladas quando não estiverem de acordo com o princípio previsto no art. 2º.
+
+§ 3º A determinação do risco de crédito do devedor em relação à transação considerará, se existentes, os efeitos do suporte implícito do grupo.
+
+§ 4º Os benefícios auferidos pelo devedor que decorram do suporte implícito do grupo serão considerados benefícios incidentais, nos termos do disposto no parágrafo único do art. 10, e não ensejarão qualquer remuneração.
+
+Art. 30\. Na hipótese de transação controlada delineada como operação de dívida, quando verificado que a parte relacionada, credora da operação de dívida:
+
+I – não possui a capacidade financeira ou não exerce o controle sobre os riscos economicamente significativos associados à transação, a sua remuneração não poderá exceder ao valor da remuneração determinada com base em taxa de retorno livre de risco;
+
+II – possui a capacidade financeira e exerce o controle sobre os riscos economicamente significativos associados à transação, a sua remuneração não poderá exceder ao valor da remuneração determinada com base em taxa de retorno ajustada ao risco; ou
+
+III – exerce somente funções de intermediação, de forma que os recursos da operação de dívida sejam provenientes de outra parte, a sua remuneração será determinada com base no princípio previsto no art. 2º, de modo a considerar as funções desempenhadas, os riscos assumidos e os ativos utilizados.
+
+Parágrafo único. Para fins do disposto no caput, considera-se:
+
+I – taxa de retorno livre de risco - aquela que represente o retorno que seria esperado de um investimento com menor risco de perda, em particular os investimentos efetuados em títulos públicos, emitidos por governos na mesma moeda funcional do credor da operação e que apresentem as menores taxas de retorno; e
+
+II – taxa de retorno ajustada ao risco - aquela determinada a partir da taxa de que trata o inciso I deste parágrafo, ajustada por prêmio que reflita o risco assumido pelo credor.
+
+Subseção II
+
+Das garantias intragrupo
+
+Art. 31\. Quando a transação controlada envolver a prestação de garantia na forma de um compromisso legalmente vinculante da parte relacionada de assumir uma obrigação específica no caso de inadimplemento do devedor, as disposições desta Medida Provisória serão aplicadas para determinar se a prestação da garantia será delineada, total ou parcialmente, como:
+
+I – serviço, hipótese em que será devida remuneração ao garantidor, conforme previsto no art. 24; ou
+
+II – atividade de sócio ou contribuição de capital, hipótese em que nenhuma remuneração será devida.
+
+Parágrafo único. Para fins do disposto nesta Medida Provisória, o valor adicional de recursos obtidos em operação de dívida junto a parte não relacionada em razão da existência da garantia prestada por parte relacionada será delineado como contribuição de capital e nenhum pagamento a título de garantia será devido em relação a este montante, ressalvado quando demonstrado de forma confiável que, de acordo com o princípio previsto no art. 2º, outra abordagem seria considerada mais apropriada.
+
+Art. 32\. Os termos e as condições de uma transação controlada que envolva a prestação de garantia delineada como serviço serão estabelecidos de acordo com o princípio previsto no art. 2º.
+
+Parágrafo único. Para fins do disposto no caput, o valor da remuneração devida à parte relacionada garantidora da obrigação será determinado com base no benefício obtido pelo devedor que supere o benefício incidental decorrente do suporte implícito do grupo a que se referem os § 3º e § 4º do art. 29, e não poderá exceder a cinquenta por cento desse valor, ressalvado quando demonstrado de forma confiável que, de acordo com o princípio previsto no art. 2º, outra abordagem seria considerada mais apropriada.
+
+Subseção III
+
+Dos acordos de gestão centralizada de tesouraria
+
+Art. 33\. Os termos e as condições de uma transação controlada delineada como operação de centralização, sob qualquer forma, dos saldos de caixa de partes relacionadas decorrente de um acordo que tenha por objetivo a gestão de liquidez de curto prazo serão estabelecidos de acordo com o princípio previsto no art. 2º.
+
+§ 1º No delineamento da transação de que trata o caput:
+
+I – serão consideradas as opções realisticamente disponíveis para cada uma das partes da transação; e
+
+II – será verificado se o contribuinte parte do acordo aufere benefícios proporcionais às contribuições que efetua ou se sua participação se restringe a conceder financiamento às demais partes da transação.
+
+§ 2º Para fins do disposto no caput, os benefícios de sinergia obtidos em decorrência do acordo serão alocados entre os seus participantes, observado o disposto no art. 10.
+
+§ 3º Quando o contribuinte ou outra parte relacionada desempenhar a função de coordenação do referido acordo, a sua remuneração será determinada de acordo com o princípio previsto no art. 2º, considerados as funções exercidas, os riscos assumidos e os ativos utilizados para desempenhar a referida função.
+
+Subseção IV
+
+Dos contratos de seguro
+
+Art. 34\. Os termos e as condições de uma transação controlada que envolva uma operação de seguro entre partes relacionadas, em que uma parte assuma a responsabilidade de garantir o interesse da outra parte contra riscos predeterminados mediante o pagamento de prêmio, e que seja delineada como serviço nos termos do disposto no art. 24, serão estabelecidos de acordo com o princípio previsto no art. 2º.
+
+§ 1º Para fins do disposto no caput, os arranjos que envolvam operações de seguro efetuadas com partes não relacionadas, em que parte ou totalidade dos riscos segurados sejam transferidos da parte não relacionada para partes relacionadas do segurado serão considerados como transações controladas, estarão sujeitos ao princípio previsto no art. 2º e serão analisados em sua totalidade.
+
+§ 2º Nos casos em que o seguro celebrado com parte relacionada estiver relacionado com uma operação de seguro celebrada com parte não relacionada, o segurador vinculado que desempenhar as funções de intermediação entre os segurados vinculados e a parte não relacionada será remunerado de acordo com o princípio previsto no art. 2º, considerados as funções desempenhadas, os riscos assumidos e os ativos utilizados, e os benefícios de sinergia obtidos em decorrência do arranjo serão alocados entre os seus participantes de acordo com as suas contribuições, observado o disposto no art. 10.
+
+§ 3º Quando for verificado que o contrato de seguro referido no caput é parte de um arranjo em que partes relacionadas reúnam um conjunto de riscos objeto de seguro celebrado com um segurador não vinculado, os benefícios de sinergia obtidos em decorrência do arranjo serão alocados entre os seus participantes de acordo com as suas contribuições, observado o disposto no art. 10.
+
+§ 4º Na hipótese de o contribuinte ou outra parte relacionada desempenhar a função de coordenação do arranjo de que trata o § 3º, a sua remuneração será determinada de acordo com o princípio previsto no art. 2º, considerados as funções desempenhadas, os riscos assumidos e os ativos utilizados.
+
+CAPÍTULO IV
+
+DA DOCUMENTAÇÃO E DAS PENALIDADES
+
+Art. 35\. O contribuinte apresentará a documentação e fornecerá as informações para demonstrar que a base de cálculo dos tributos a que se refere o parágrafo único do art. 1º relativas às suas transações controladas está em conformidade com o princípio previsto no art. 2º, incluídas aquelas necessárias ao delineamento da transação e à análise de comparabilidade, e aquelas relativas:
+
+I – às transações controladas;
+
+II – às partes relacionadas envolvidas nas transações controladas;
+
+III – à estrutura e às atividades do grupo multinacional a que pertence o contribuinte e às demais entidades integrantes; e
+
+IV – à alocação global das receitas e dos ativos e ao imposto sobre a renda pago pelo grupo a que pertence o contribuinte, juntamente com os indicadores relacionados à sua atividade econômica global.
+
+§ 1º Na hipótese de o sujeito passivo deixar de fornecer as informações necessárias ao delineamento preciso da transação controlada ou à realização da análise de comparabilidade, caberá a adoção das seguintes medidas pela autoridade fiscal:
+
+I – alocar à entidade brasileira as funções, os riscos e os ativos atribuídos a outra parte da transação controlada que não possuam evidências confiáveis de terem sido efetivamente por ela desempenhados, assumidos ou utilizados; e
+
+II – adotar estimativas e premissas razoáveis para realizar o delineamento da transação e a análise de comparabilidade.
+
+§ 2º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia disciplinará a forma pela qual serão prestadas as informações, sobre a entrega ou a disponibilização dos documentos, sem prejuízo de comprovações adicionais a serem requeridas pela autoridade fiscal, inclusive quanto à apresentação da documentação prevista nesta Medida Provisória relativa ao primeiro ano-calendário de sua aplicação, de forma a conceder prazo adicional para o atendimento das obrigações acessórias decorrentes da alteração da legislação.
+
+Art. 36\. A inobservância ao disposto no art. 35 acarretará a imposição das seguintes penalidades, sem prejuízo da aplicação de outras sanções previstas nesta Medida Provisória:
+
+I – quanto à apresentação da declaração ou de outra obrigação acessória específica instituída pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia para fins do disposto no art. 35, independentemente da forma de sua transmissão:
+
+a) multa equivalente a dois décimos por cento, por mês-calendário ou fração, sobre o valor da receita bruta do período a que se refere a obrigação, na hipótese de falta de apresentação tempestiva;
+
+b) multa equivalente a cinco por cento do valor da transação correspondente ou de dois décimos por cento do valor da receita consolidada do grupo multinacional do ano anterior ao que se referem as informações, no caso de obrigação acessória instituída para declarar as informações a que se referem os incisos III e IV do caput do art. 35, na hipótese de apresentação com informações inexatas, incompletas ou omitidas; ou
+
+c) multa equivalente a três por cento sobre o valor da receita bruta do período a que se refere a obrigação, na hipótese de apresentação sem atendimento aos requisitos para apresentação de obrigação acessória; e
+
+II – quanto à falta de apresentação tempestiva de informação ou de documentação requerida pela autoridade fiscal durante procedimento fiscal ou outra medida prévia fiscalizatória, ou por outra conduta que implique embaraço à fiscalização durante o procedimento fiscal, multa equivalente a cinco por cento sobre o valor da transação correspondente.
+
+§ 1º As multas a que se refere o caput terão o valor mínimo de R$ 20.000,00 (vinte mil reais) e valor máximo de R$ 5.000.000,00 (cinco milhões de reais).
+
+§ 2º Para estabelecer o valor da multa prevista na alínea "c" do caput, será utilizado o valor máximo previsto no § 1º:
+
+I – caso o sujeito passivo não informe o valor da receita consolidada do grupo multinacional no ano anterior; ou
+
+II – quando a informação prestada não houver sido devidamente comprovada.
+
+§ 3º Para fins de aplicação da multa prevista na alínea "a" do inciso I do caput, será considerado como termo inicial o dia seguinte ao término do prazo originalmente estabelecido para o cumprimento da obrigação e como termo final a data do seu cumprimento ou, no caso de não cumprimento, da lavratura do auto de infração ou da notificação de lançamento.
+
+§ 4º A multa prevista na alínea "b" do inciso I do caput não será aplicada nas hipóteses de erros formais devidamente comprovados ou de informações imateriais, nas condições estabelecidas em regulamentação editada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.
+
+Art. 37\. Caso a autoridade fiscal discorde, durante o procedimento fiscal, da determinação da base de cálculo do IRPJ e da CSLL efetuada pela pessoa jurídica na forma prevista nesta Medida Provisória, o sujeito passivo poderá ser autorizado a retificar a declaração ou a escrituração fiscal exclusivamente em relação aos ajustes de preços de transferência para a sua regularização, respeitadas as seguintes premissas:
+
+I – não ter agido contrariamente a ato normativo ou interpretativo vinculante da administração tributária;
+
+II – ter sido cooperativo perante a Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, inclusive durante o procedimento fiscal;
+
+III – ter empreendido esforços razoáveis para cumprir o disposto nessa Medida Provisória; e
+
+IV – ter os critérios adotados pelo sujeito passivo para a determinação da base de cálculo coerentes e razoavelmente justificáveis.
+
+§ 1º Na hipótese prevista no caput, nenhuma penalidade que se relacione diretamente com as informações retificadas será aplicada, desde que haja a retificação da escrituração para a apuração do IRPJ e da CSLL e das demais declarações ou escriturações dela decorrentes, inclusive para a constituição de crédito tributário, com a sua extinção mediante o pagamento dos tributos correspondentes, com os acréscimos moratórios de que trata o art. 61 da Lei nº 9.430, de 27 de dezembro de 1996.
+
+§ 2º A retificação aceita pela autoridade fiscal implicará a homologação do lançamento em relação à matéria que tiver sido regularizada pelo sujeito passivo, tornadas sem efeito as retificações de declarações e escriturações posteriores por parte do sujeito passivo sem autorização da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.
+
+§ 3º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia disciplinará o disposto neste artigo, inclusive quanto às condições, aos requisitos e aos parâmetros a serem observados em sua aplicação.
+
+CAPÍTULO V
+
+DAS MEDIDAS ESPECIAIS E DO INSTRUMENTO PARA SEGURANÇA JURÍDICA
+
+Seção I
+
+Das medidas de simplificação e das demais medidas
+
+Art. 38\. A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia poderá estabelecer regramentos específicos para disciplinar a aplicação do princípio previsto no art. 2º a determinadas situações, especialmente para:
+
+I – simplificar a aplicação das etapas da análise de comparabilidade prevista no art. 9º, inclusive para dispensar ou simplificar a apresentação da documentação de que trata o art. 35 ou simplificá-la;
+
+II – fornecer orientação adicional em relação a transações específicas, incluídos transações com intangíveis, contratos de compartilhamento de custos, reestruturação de negócios, acordos de gestão centralizada de tesouraria e outras transações financeiras; e
+
+III – prever o tratamento para situações em que as informações disponíveis a respeito da transação controlada, da parte relacionada ou de comparáveis sejam limitadas, de modo a assegurar a aplicação adequada do disposto nesta Medida Provisória.
+
+Seção II
+
+Dos processos de consulta específico em matéria de preços de transferência
+
+Art. 39\. A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia poderá instituir processo de consulta específico a respeito da metodologia a ser utilizada pelo contribuinte para o cumprimento do princípio previsto no art. 2º em relação a transações controladas futuras e estabelecer os requisitos necessários à solicitação e ao atendimento da consulta.
+
+§ 1º A metodologia referida no caput compreende os critérios estabelecidos nesta Medida Provisória para a determinação dos termos e das condições que seriam estabelecidos entre partes não relacionadas em transações comparáveis realizadas, incluídos aqueles relativos:
+
+I – à seleção e à aplicação do método mais apropriado e do indicador financeiro examinado;
+
+II – à seleção de transações comparáveis e aos ajustes de comparabilidade apropriados;
+
+III – à determinação dos fatores de comparabilidade considerados significativos para as circunstâncias do caso; e
+
+IV – à determinação das premissas críticas quanto às transações futuras.
+
+§ 2º Caso o pedido de consulta seja aceito pela autoridade competente, o contribuinte terá o prazo de quinze dias úteis, contado da data da decisão, para o recolhimento da taxa de que trata o § 8º, sob pena de deserção.
+
+§ 3º A solução da consulta terá validade de até quatro anos e poderá ser prorrogada por dois anos mediante requerimento do contribuinte e aprovação da autoridade competente.
+
+§ 4º A solução da consulta poderá ser tornada sem efeito a qualquer tempo, com efeitos retroativos a partir da data da sua emissão, quando estiver fundamentada em:
+
+I – informação errônea, falsa, enganosa; ou
+
+II – omissão por parte do contribuinte.
+
+§ 5º Fica a Secretaria Especial da Receita Federal do Brasil do Ministério da Economia autorizada a revisar a solução de consulta, de ofício ou a pedido do contribuinte, nos casos de alteração:
+
+I – das premissas críticas que serviram de fundamentação para emissão da solução; ou
+
+II – da legislação que modifique qualquer assunto disciplinado pela consulta.
+
+§ 6º Caso haja alteração nas premissas críticas que serviram de fundamentação para a solução da consulta, esta se tornará inválida a partir da data em que ocorrer a alteração, exceto se houver disposição em contrário da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.
+
+§ 7º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia poderá autorizar a aplicação da metodologia resultante da consulta a períodos de apuração anteriores, desde que seja verificado que os fatos e as circunstâncias relevantes relativos a esses períodos sejam os mesmos daqueles considerados para a emissão da solução da consulta.
+
+§ 8º A apresentação de pedido de consulta, na forma prevista no caput, aceita pela autoridade competente ficará sujeita à cobrança de taxa nos valores de:
+
+I – R$ 80.000,00 (oitenta mil reais); ou
+
+II – R$ 20.000 (vinte mil reais), no caso de pedido de extensão do período de validade da resposta à consulta.
+
+§ 9º A taxa de que trata o § 8º:
+
+I – será administrada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, que poderá editar atos complementares para disciplinar a matéria;
+
+II – será devida pelo interessado no processo de consulta, a partir da data da aceitação do pedido;
+
+III – não será reembolsada no caso de o contribuinte retirar o pedido após a sua aceitação pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia;
+
+IV – estará sujeita às mesmas condições, aos prazos, às sanções e aos privilégios constantes das normas gerais pertinentes aos demais tributos administrados pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, observadas as regras específicas estabelecidas neste artigo; e
+
+V – poderá ter os seus valores atualizados, anualmente, pelo Índice Nacional de Preços ao Consumidor - INPC, ou pelo índice que o substituir, por ato do Ministro de Estado da Economia, que estabelecerá os termos inicial e final da atualização.
+
+§ 10. O produto da arrecadação da taxa de que trata o § 8º será destinado ao Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização - FUNDAF, instituído pelo Decreto-Lei nº 1.437, de 17 de dezembro de 1975.
+
+Seção III
+
+Do procedimento amigável
+
+Art. 40\. Nos casos de resultados acordados em mecanismo de solução de disputa previstos no âmbito de acordo ou convenção internacional para eliminar a dupla tributação de que o Brasil seja signatário, incluídos aqueles que tratem de matérias não disciplinadas por esta Medida Provisória, a autoridade fiscal deverá revisar, de ofício, o lançamento efetuado, a fim de implementar o resultado acordado em conformidade com as disposições, o objetivo e a finalidade do acordo ou da convenção internacional, observada a regulamentação editada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.
+
+CAPÍTULO VI
+
+DISPOSIÇÕES FINAIS
+
+Art. 41\. A Lei nº 9.430, de 1996, passa a vigorar com as seguintes alterações:
+
+“Art. 24\. As disposições previstas nos art. 1º a art. 38 da Medida Provisória nº 1.152, de 28 de dezembro de 2022, aplicam-se também às transações efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil com qualquer entidade, ainda que parte não relacionada, residente ou domiciliada em país que não tribute a renda ou que a tribute a alíquota máxima inferior a 17% (dezessete por cento).
+
+..................................................................................................................................” (NR)
+
+“Art. 24-A. As disposições previstas nos art. 1º a art. 38 da Medida Provisória nº 1.152, de 2022, aplicam-se também às transações efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil com qualquer entidade residente ou domiciliada no exterior que seja beneficiária de regime fiscal privilegiado, inclusive na hipótese de parte não relacionada.
+
+Parágrafo único. Para fins do disposto neste artigo, considera-se regime fiscal privilegiado aquele que apresentar, no mínimo, uma das seguintes características:
+
+I – não tribute a renda ou que o faça à alíquota máxima inferior a 17% (dezessete por cento);
+
+.............................................................................................................................................
+
+III – não tribute os rendimentos auferidos fora de seu território ou o faça em alíquota máxima inferior a 17% (dezessete por cento);
+
+..................................................................................................................................” (NR)
+
+Art. 42\. A Lei nº 12.973, de 13 de maio de 2014, passa a vigorar com as seguintes alterações:
+
+“Art. 86\. Poderão ser deduzidos do lucro real e da base de cálculo da CSLL os valores referentes às adições, espontaneamente efetuadas, decorrentes da aplicação das regras de preços de transferência previstas nos art. 1º a art. 38 da Medida Provisória nº1.152, de 28 de dezembro de 2022, e das regras previstas nos art. 24 a art. 26 da Lei nº 12.249, de 11 de junho de 2010, desde que os lucros auferidos no exterior tenham sido considerados na respectiva base de cálculo do IRPJ e da CSLL da pessoa jurídica controladora domiciliada no Brasil ou a ela equiparada, nos termos do disposto no art. 83, e cujo imposto sobre a renda e contribuição social correspondentes, em quaisquer das hipóteses, tenham sido recolhidos.
+
+..................................................................................................................................” (NR)
+
+Art. 43\. A Lei nº 12.249, de 11 de junho de 2010, passa a vigorar com as seguintes alterações:
+
+“Art. 24\. Sem prejuízo do disposto nos art. 1º a art. 38 da Medida Provisória nº 1.152, de dezembro de 2022, os juros pagos ou creditados por fonte situada no Brasil à parte relacionada nos termos do disposto no art. 4º da Medida Provisória nº 1.152,de 2022, residente ou domiciliada no exterior, não constituída em país ou dependência com tributação favorecida ou sob regime fiscal privilegiado, somente serão dedutíveis, para fins de determinação do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido \- CSLL, quando se verifique constituírem despesa necessária à atividade, conforme estabelecido no art. 47 da Lei nº 4.506, de 30 de novembro de 1964, no período de apuração, atendidos os seguintes requisitos:
+
+I – no caso de endividamento com parte relacionada no exterior que tenha participação societária na pessoa jurídica residente no Brasil, o valor do endividamento com a parte relacionada no exterior, verificado por ocasião da apropriação dos juros, não seja superior a 2 (duas) vezes o valor da participação da parte relacionada no patrimônio líquido da pessoa jurídica residente no Brasil;
+
+II – no caso de endividamento com parte relacionada no exterior que não tenha participação societária na pessoa jurídica residente no Brasil, o valor do endividamento com a parte relacionada no exterior, verificado por ocasião da apropriação dos juros, não seja superior a 2 (duas) vezes o valor do patrimônio líquido da pessoa jurídica residente no Brasil; e
+
+III – nas hipóteses previstas nos incisos I e II, o valor do somatório dos endividamentos com partes relacionadas no exterior, verificado por ocasião da apropriação dos juros, não seja superior a 2 (duas) vezes o valor do somatório das participações de todas as partes relacionadas no patrimônio líquido da pessoa jurídica residente no Brasil.
+
+.............................................................................................................................................
+
+§ 2º Aplica-se o disposto neste artigo às operações de endividamento de pessoa jurídica residente ou domiciliada no Brasil em que o avalista, fiador, procurador ou qualquer interveniente for parte relacionada.
+
+.............................................................................................................................................
+
+§ 4º Os valores do endividamento e da participação da parte relacionada no patrimônio líquido a que se refere este artigo serão apurados pela média ponderada mensal.
+
+§ 5º O disposto no inciso III do caput não se aplica no caso de endividamento exclusivamente com partes relacionadas no exterior que não tenham participação societária na pessoa jurídica residente no Brasil.
+
+§ 6º Na hipótese prevista no § 5º, o somatório dos valores de endividamento com todas as partes relacionadas sem participação no capital da entidade no Brasil, verificado por ocasião da apropriação dos juros, não poderá ser superior a 2 (duas) vezes o valor do patrimônio líquido da pessoa jurídica residente no Brasil.
+
+..................................................................................................................................” (NR)
+
+“Art. 25\. Sem prejuízo do disposto nos art. 1º a art. 38 da Medida Provisória nº 1.152,de 2022, os juros pagos ou creditados por fonte situada no Brasil à entidade domiciliada ou constituída no exterior, em país ou dependência com tributação favorecida ou sob regime fiscal privilegiado, nos termos do disposto nos art. 24 e art. 24-A da Lei nº 9.430, de 1996, somente serão dedutíveis, para fins de determinação do lucro real e da base de cálculo da CSLL, quando se verifique constituírem despesa necessária à atividade, conforme estabelecido no art. 47 da Lei nº 4.506, de 1964, no período de apuração, atendendo cumulativamente o requisito de que o valor total do somatório dos endividamentos com todas as entidades situadas em país ou dependência com tributação favorecida ou sob regime fiscal privilegiado não seja superior a 30% (trinta por cento) do valor do patrimônio líquido da pessoa jurídica residente no Brasil.
+
+..................................................................................................................................” (NR)
+
+Art. 44\. O disposto no art. 24 da Lei nº 11.457, de 16 de março de 2007, não se aplica à consulta de que trata o art. 39 e aos mecanismos de soluções de disputas previstos nos acordos ou nas convenções internacionais para eliminar a dupla tributação de que o Brasil seja signatário.
+
+Art. 45\. Não são dedutíveis, na determinação do lucro real e da base de cálculo da CSLL, as importâncias pagas, creditadas, entregues, empregadas ou remetidas a título de royalties e assistência técnica, científica, administrativa ou semelhante a:
+
+I – entidades residentes ou domiciliadas em país ou dependência com tributação favorecida ou que sejam beneficiárias de regime fiscal privilegiado, de que tratam os art. 24 e art. 24-A da Lei nº 9.430, de 1996; ou
+
+II – partes relacionadas nos termos do disposto no art. 4º, quando a dedução dos valores resultar em dupla não tributação em quaisquer uma das seguintes hipóteses:
+
+a) o mesmo valor seja tratado como despesa dedutível para outra parte relacionada;
+
+b) o valor deduzido no Brasil não seja tratado como rendimento tributável do beneficiário de acordo com a legislação de sua jurisdição; ou
+
+c) os valores sejam destinados a financiar, direta ou indiretamente, despesas dedutíveis de partes relacionadas, que acarretem as hipóteses referidas na alínea "a" ou na alínea "b".
+
+Parágrafo único. A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia disciplinará o disposto neste artigo.
+
+Art. 46\. O contribuinte poderá optar pela aplicação do disposto nos art. 1º a art. 45 desta Medida Provisória para o ano-calendário de 2023.
+
+§ 1º A opção será irretratável e acarretará a observância das alterações previstas nos art. 1º a art. 45 e os efeitos do disposto no art. 47 a partir de 1º de janeiro de 2023.
+
+§ 2º A Secretaria Especial da Receita Federal do Brasil do Ministério da Economia estabelecerá a forma, o prazo e as condições da opção de que trata o caput.
+
+Art. 47\. Ficam revogados a partir de 1º de janeiro de 2024:
+
+I – o art. 74 da Lei nº 3.470, de 28 de novembro de 1958;
+
+II – os seguintes dispositivos da Lei nº 4.131, de 3 de setembro de 1962:
+
+a) o art. 12; e
+
+b) o art. 13;
+
+III – os seguintes dispositivos da Lei nº 4.506, de 30 de novembro de 1964:
+
+a) o art. 52; e
+
+b) as alíneas "d" a "g" do parágrafo único do art. 71;
+
+IV – o art. 6º do Decreto-Lei nº 1.730, de 17 de dezembro de 1979;
+
+V – o art. 50 da Lei nº 8.383, de 30 de dezembro de 1991;
+
+VI – os seguintes dispositivos da Lei nº 9.430, de 1996:
+
+a) os art. 18 ao art. 23; e
+
+b) o § 2º do art. 24;
+
+VII – o art. 45 da Lei nº 10.637, de 30 de dezembro de 2002;
+
+VIII – o art. 45 da Lei nº 10.833, de 29 de dezembro de 2003;
+
+IX – o art. 5º da Lei nº 12.766, de 27 de dezembro de 2012;
+
+X – os seguintes dispositivos da Lei nº 12.715, de 17 de setembro de 2012:
+
+a) o art. 49, na parte em que altera o art. 20 da Lei nº 9.430, de 1996; e
+
+b) os art. 50 e art. 51; e
+
+XI – o art. 24 da Lei nº 14.286, de 29 de dezembro de 2021, na parte em que altera o art. 50 da Lei nº 8.383, de 1991.
+
+Art. 48\. Esta Medida Provisória entra em vigor em 1º de janeiro de 2024.
+
+Parágrafo único. Aos contribuintes que fizerem a opção prevista no art. 46, aplicam-se, a partir de 1º de janeiro de 2023:
+
+I – os art. 1º a art. 45; e
+
+II – as revogações previstas no art. 47.
+
+Brasília, 28 de dezembro de 2022; 201º da Independência e 134º da República.
+
+JAIR MESSIAS BOLSONARO
+
+Marcelo Pacheco dos Guaranys

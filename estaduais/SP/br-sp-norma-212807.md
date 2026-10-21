@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212807"
-titulo: "Decreto nº 70.732, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70732-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212807"
-sha256_dados: "b1b92304adb8fb90fed66601d5eb3a708d682ec88edcbf97ec0fc3c75afbb7a8"
-coletado_em: "2026-10-21T08:39:55.820Z"
-sha256_fonte: "1534c08ffc5389ba533e1775eb69eaff609d2e6ea79fa785e13ec0587104d109"
-sha256_markdown: "4b65e50142ce1cb41db6bffb2735fea7f9a48244a3da862cdaded7400e43a1c9"
----
-
 # Decreto nº 70.732, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212807)<br>

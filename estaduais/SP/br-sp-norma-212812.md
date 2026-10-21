@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212812"
-titulo: "Decreto nº 70.737, de 30/06/2026"
-data: "2026-06-30"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70737-30.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212812"
-sha256_dados: "cd1125ef884cb1f3e44e3e984963913f987401f0bab78e50373c228294c64a09"
-coletado_em: "2026-10-21T08:39:48.706Z"
-sha256_fonte: "346a1b1323e1b8dc80808f2487f0939063ba0ca43659609d087706886adc274e"
-sha256_markdown: "86cffa513994a0c5f56f2912f4fa74fea2cc270462cb9f095f813cdc58dfb22e"
----
-
 # Decreto nº 70.737, de 30/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212812)<br>

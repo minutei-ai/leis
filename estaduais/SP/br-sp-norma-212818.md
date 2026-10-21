@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212818"
-titulo: "Decreto nº 70.741, de 02/07/2026"
-data: "2026-07-02"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70741-02.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212818"
-sha256_dados: "93c6a5d48a70babfce8df0ae2819c6edc9f6df3c7dfd7f444721a120ca3f5938"
-coletado_em: "2026-10-21T08:39:42.521Z"
-sha256_fonte: "e716bd1e339426de12a1a7c5cbd1755c845cfa8e411bb7c7dbf5c1d96fce9a41"
-sha256_markdown: "0f71ea7724b1552456f62048e439ea464d07e457393ec6134babf991c17e9b39"
----
-
 # Decreto nº 70.741, de 02/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212818)<br>

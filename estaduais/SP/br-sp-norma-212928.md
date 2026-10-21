@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212928"
-titulo: "Decreto nº 70.825, de 27/08/2026"
-data: "2026-08-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70825-27.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212928"
-sha256_dados: "0a153414785cbb78e31a72731ec1713f99d182b5ee6e31bcedb24ce20c1a07ca"
-coletado_em: "2026-10-21T08:37:21.044Z"
-sha256_fonte: "f1ba0f5b42b4bfa3b20087d39125b79625c4b76d562f57faaa182303b3b12638"
-sha256_markdown: "f6f99cf1e0b3ba17140267688029814a257bb96e9ad82c3726eb192a081538a9"
----
-
 # Decreto nº 70.825, de 27/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212928)<br>

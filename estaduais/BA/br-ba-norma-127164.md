@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-127164"
-titulo: "LEI COMPLEMENTAR Nº 38 DE 09 DE DEZEMBRO DE 2013"
-data: "2013-12-09"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-38-de-09-de-dezembro-de-2013"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:24:22.996Z"
-sha256_fonte: "4b97df0f311a7c300fd1a291c53d4b6e7efba54852d884126d464a5e838a7ab8"
-sha256_markdown: "372d008edcc41a023b5e1cb757cacfb21e160cd71706214fd7d5f4c6dc937a44"
----
-
 # LEI COMPLEMENTAR Nº 38 DE 09 DE DEZEMBRO DE 2013
 
 LEI COMPLEMENTAR Nº 38 DE 09 DE DEZEMBRO DE 2013

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212927"
-titulo: "Decreto nº 70.824, de 27/08/2026"
-data: "2026-08-27"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70824-27.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212927"
-sha256_dados: "c991640da89b8b5f42e7da777638839253de89d71ff9a1fd22a7929e1d074c7e"
-coletado_em: "2026-10-21T08:37:22.253Z"
-sha256_fonte: "5b7c01542484f33890e8fd8713f0c37a175a341c1c79f585d978557fc6be15ec"
-sha256_markdown: "e9bfd17fcb1b4ba74b1478e32c85785020bb4524c92bf469ee6d66875ef2c9d1"
----
-
 # Decreto nº 70.824, de 27/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212927)<br>

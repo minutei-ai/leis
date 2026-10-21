@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148022"
-titulo: "LEI Nº 15.039 DE 11 DE DEZEMBRO DE 2025"
-data: "2025-12-11"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15039-de-11-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:37.384Z"
-sha256_fonte: "c6305cf2561792d1a17aac99d733ab29bcb153b452504b0f9c6e89a3471a1f31"
-sha256_markdown: "86fa822cbaacaecb5e3a89666584eb16909434d63dde03ba552fb5ddabcd5f1d"
----
-
 # LEI Nº 15.039 DE 11 DE DEZEMBRO DE 2025
 
 LEI Nº 15.039 DE 11 DE DEZEMBRO DE 2025

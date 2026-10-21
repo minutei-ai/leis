@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212798"
-titulo: "Decreto nº 70.723, de 26/06/2026"
-data: "2026-06-26"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70723-26.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212798"
-sha256_dados: "f6fa84a5ff28a505e2b87efddeb51719a1c05e432c62ca19f3c99828ad956122"
-coletado_em: "2026-10-21T08:40:07.318Z"
-sha256_fonte: "ef2850766343064d92beaa0c61542365def78b664541b6c920fca008107147ae"
-sha256_markdown: "6ec1055e9c78281588f753bbe0c297f9066e7d076ec31560ce4d2d7c3a070162"
----
-
 # Decreto nº 70.723, de 26/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212798)<br>

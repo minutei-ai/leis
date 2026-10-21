@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212869"
-titulo: "Decreto nº 70.781, de 04/08/2026"
-data: "2026-08-04"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70781-04.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212869"
-sha256_dados: "b635ad98e3cfd4ebb71b44384882a64114a7543125f19004dfebacd1eaf1bde2"
-coletado_em: "2026-10-21T08:38:36.186Z"
-sha256_fonte: "a77d600f0d728c6b69791ab5965f7cc650e73d270db589cfcc7e3a09a7601b6a"
-sha256_markdown: "62e0d6b87f4f933c08b684dafb18584823faa44f129d9ca349311f7457a116aa"
----
-
 # Decreto nº 70.781, de 04/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212869)<br>

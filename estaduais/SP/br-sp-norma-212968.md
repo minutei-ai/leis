@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212968"
-titulo: "Decreto nº 70.865, de 13/09/2026"
-data: "2026-09-13"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70865-13.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212968"
-sha256_dados: "7074ac9652bd0b9162cc7a76e6060f3efe4bc95a4bc68f4fdab243b3bfed7547"
-coletado_em: "2026-10-21T08:36:30.639Z"
-sha256_fonte: "ce9ece1f0fa90555e6ed7add209761be71a63b704cfeda325b714a0103d1b114"
-sha256_markdown: "e2d4caf04d06ab8036070c05d270a89afb5951a7b7acca9011eb1c3c3c65a959"
----
-
 # Decreto nº 70.865, de 13/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212968)<br>

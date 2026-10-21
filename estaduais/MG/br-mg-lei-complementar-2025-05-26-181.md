@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2025-05-26-181"
-titulo: "LCP nº 181, de 26/05/2025"
-data: "2025-05-26"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/181/2025/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/181/2025/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "b0e3a56424cf4f7814de766cbace6690c57e4ede973fce7f1c1bb76d0054a2c5"
-coletado_em: "2026-10-21T08:31:32.352Z"
-sha256_fonte: "10134f2f2458457d42499dc07eaf61e23e6545c65b7260bca67ece995f209700"
-sha256_markdown: "76a7086571dea2f9eb2beb58cc073842d94b1e2dcde1d66002a1fc805b5636aa"
----
-
 # LCP nº 181, de 26/05/2025
 
 Dispõe sobre o direito à remoção ou à mudança de lotação da servidora pública civil e sobre o direito à movimentação da militar em caso de violência doméstica e familiar.

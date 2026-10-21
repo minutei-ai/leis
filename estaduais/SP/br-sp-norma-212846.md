@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212846"
-titulo: "Decreto nº 70.762, de 17/07/2026"
-data: "2026-07-17"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70762-17.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212846"
-sha256_dados: "a763a55c4b507189e4cc11c9272ac02a36c09571f8fec17da5cc6a58247d583f"
-coletado_em: "2026-10-21T08:39:03.976Z"
-sha256_fonte: "24c9adfe0d19c4de9d6d18865f80247b715db7cd751aa20067d86e73090fa2d4"
-sha256_markdown: "16a64b60daf28826eebeb75693b5796aa3b2849771e2ec2d66f6cdb178d02cea"
----
-
 # Decreto nº 70.762, de 17/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212846)<br>

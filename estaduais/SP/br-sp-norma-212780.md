@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212780"
-titulo: "Decreto nº 70.710, de 22/06/2026"
-data: "2026-06-22"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70710-22.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212780"
-sha256_dados: "8b3085d69bbea9409a490d785f776680c95e4dc93e2f7e8a9c06ac2fdfcfbd56"
-coletado_em: "2026-10-21T08:40:28.556Z"
-sha256_fonte: "84ef7a4313fca9c71e9e9d31d69c1bd6d4589ebf295c618cf5441b281ecd8dea"
-sha256_markdown: "3007a3af539bfcc935d8eb139fe25a2ad4a0fd41158ac2dc9712771c0c87987b"
----
-
 # Decreto nº 70.710, de 22/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212780)<br>

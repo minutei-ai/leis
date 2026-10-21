@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148047"
-titulo: "LEI Nº 15.045 DE 18 DE DEZEMBRO DE 2025"
-data: "2025-12-18"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15045-de-18-de-dezembro-de-2025"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:32:31.086Z"
-sha256_fonte: "ff63b5e323c5915f06c5dd3e969221059ead94f864dedf8c9949576315322da2"
-sha256_markdown: "2c349404ed980560c5f489f53055964d10728c17fa542b4f9c3addd6ce003067"
----
-
 # LEI Nº 15.045 DE 18 DE DEZEMBRO DE 2025
 
 LEI Nº 15.045 DE 18 DE DEZEMBRO DE 2025

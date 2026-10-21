@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-137036"
-titulo: "LEI COMPLEMENTAR Nº 48 DE 10 DE JUNHO DE 2019"
-data: "2019-06-10"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-48-de-10-de-junho-de-2019"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:26.303Z"
-sha256_fonte: "fb1d5e06ec49954345d455025669b2faec8b85f42f54bcf8bea6867c3ea3defe"
-sha256_markdown: "ed818fc878f289fc7780cbea775d4c36243467cfa6623b08e98fd2dcb7e3f324"
----
-
 # LEI COMPLEMENTAR Nº 48 DE 10 DE JUNHO DE 2019
 
 LEI COMPLEMENTAR Nº 48 DE 10 DE JUNHO DE 2019

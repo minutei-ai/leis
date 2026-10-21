@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148487"
-titulo: "LEI Nº 15.140 DE 31 DE MARÇO DE 2026"
-data: "2026-03-31"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15140-de-31-de-marco-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:12.645Z"
-sha256_fonte: "48dcfbfcb785100b8e0bd17aa858b381d5e1a447e8779d77fde31c340e9d4b86"
-sha256_markdown: "124934571f97f8fef29ce589a9e8cb72018afcaa305c27ce0a401013bb9e0365"
----
-
 # LEI Nº 15.140 DE 31 DE MARÇO DE 2026
 
 LEI Nº 15.140 DE 31 DE MARÇO DE 2026

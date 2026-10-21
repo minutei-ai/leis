@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212990"
-titulo: "Decreto nº 70.897, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70897-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212990"
-sha256_dados: "6c5cc9620560a49249c6966b8af089823cfab7e8a65ebf7351c0cd9018062a4e"
-coletado_em: "2026-10-21T08:35:50.262Z"
-sha256_fonte: "815b6fc3d6a76af7e13d22e328da112b32ccd4910ca6487d4747b783eb644ea7"
-sha256_markdown: "a1c18a4b3c566bdeee6317a331117d00e26e086522df307620d910ad22b5131a"
----
-
 # Decreto nº 70.897, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212990)<br>

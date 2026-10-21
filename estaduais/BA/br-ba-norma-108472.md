@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108472"
-titulo: "LD Nº 07 DE 23 DE MARÇO DE 1972"
-data: "1972-03-23"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-07-de-23-de-marco-de-1972"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:26.900Z"
-sha256_fonte: "61aeb23c82c390fb3e2e92bcbb619fc36e13603096e5cb091c008001010601d1"
-sha256_markdown: "576e593d704731a2e17d663bd02d5ecf0c3a71c07da0559483c89a7c219526c1"
----
-
 # LD Nº 07 DE 23 DE MARÇO DE 1972
 
 LEI DELEGADA Nº 07 DE 23 DE MARÇO DE 1972

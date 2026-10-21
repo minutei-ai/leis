@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212998"
-titulo: "Decreto nº 70.884, de 18/09/2026"
-data: "2026-09-18"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70884-18.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212998"
-sha256_dados: "cab4731025ab8463b287651013b79074bb491581c3430d6a13bcb70e8c49f4c9"
-coletado_em: "2026-10-21T08:36:06.841Z"
-sha256_fonte: "9feb4b3c1360ae1ec19882ba4ccb756380a2d2b95841d8555ce329ea50cd209f"
-sha256_markdown: "a51a6849ecd5fbef99768e7e43261c39e892e1d3a67cd2cb46a0da8b204257ab"
----
-
 # Decreto nº 70.884, de 18/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212998)<br>

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-141963"
-titulo: "LEI COMPLEMENTAR Nº 53 DE 31 DEAGOSTO DE 2022"
-data: "2022-08-31"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-53-de-31-deagosto-de-2022"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:22:22.697Z"
-sha256_fonte: "7f6b5f31433984134550e6fd5c8f3f928b572ee2714bb78263e0446c725853b1"
-sha256_markdown: "9a3f69a61d102f167141a0f88920c8578d231d11163ef5556fedd0ee19ca7f75"
----
-
 # LEI COMPLEMENTAR Nº 53 DE 31 DEAGOSTO DE 2022
 
 LEI COMPLEMENTAR Nº 53 DE 31 DEAGOSTO DE 2022

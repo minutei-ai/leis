@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-124786"
-titulo: "LD Nº 32 DE 03 DE MARÇO DE 1983"
-data: "1983-03-03"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-32-de-03-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:52.504Z"
-sha256_fonte: "3a5562644ec6f75161f5cf3d0afbeb1fb5e8c8482ca45eaa92edadbb8c181ba2"
-sha256_markdown: "8bd7a5d7085f43caced9a3e1088d7ba26b242de0c4711df70336ccb4d615b433"
----
-
 # LD Nº 32 DE 03 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 32 DE 03 DE MARÇO DE 1983

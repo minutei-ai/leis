@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212888"
-titulo: "Decreto nº 70.793, de 13/08/2026"
-data: "2026-08-13"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70793-13.08.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212888"
-sha256_dados: "4f8c894616006bad13067eae475e20d220e5a7a403c4a88356383f02005e2e9f"
-coletado_em: "2026-10-21T08:38:11.222Z"
-sha256_fonte: "a199d3be73e0d10a934b636be9cf686fb2a586f7b0bf6606f8c2e99bdc08f23f"
-sha256_markdown: "e8dde37ad965e3055dc860fa8c08976cba42cfea05ff211e18affe08b5e55951"
----
-
 # Decreto nº 70.793, de 13/08/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212888)<br>

@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-213008"
-titulo: "Decreto nº 70.905, de 25/09/2026"
-data: "2026-09-25"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70905-25.09.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/213008"
-sha256_dados: "ef4cdff412bc5579c62e518a485ebb76a6b1282cccae06009464d80e03b9bcf9"
-coletado_em: "2026-10-21T08:35:40.308Z"
-sha256_fonte: "70965f08cfc08883e8071faf73275ea253439bb2f5aa53238ec1b47fa314df7e"
-sha256_markdown: "53245bfffa17e9f01d5f66e0abdd09108da267dac404af51830904d86cb229de"
----
-
 # Decreto nº 70.905, de 25/09/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213008)<br>

@@ -1,16 +1,3 @@
----
-id: "br-mg-emenda-constitucional-2025-11-19-118"
-titulo: "EMC nº 118, de 19/11/2025"
-data: "2025-11-19"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/118/2025/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/118/2025/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "e1fdfdbe1578f01c88fd85d61c0d6dedde1c4f40c5cfb7194744658546575e04"
-coletado_em: "2026-10-21T08:35:28.904Z"
-sha256_fonte: "ff4459039a75cf07e030ab85da7e9892af6ac576107c8be2801b252eda950f3c"
-sha256_markdown: "cb1b972c424e38cbbba3e0b9fdd1cdedd1832c11f646f0711dd4b3dbd5bfc373"
----
-
 # EMC nº 118, de 19/11/2025
 
 Acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição do Estado e parágrafo ao art. 3º da Emenda à Constituição nº 110, de 4 de novembro de 2021.

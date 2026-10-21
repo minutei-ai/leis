@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108468"
-titulo: "LD Nº 03 DE 01 DE SETEMBRO DE 1971"
-data: "1971-09-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-03-de-01-de-setembro-de-1971"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:29:32.815Z"
-sha256_fonte: "57a994b8e8deee5d9c5f1a23841b8f693a3a56ea9f80f1119dea540d9665ba2a"
-sha256_markdown: "255ede37ebbc3635b89786b48aec34d8ef4febc6e6f2d7c8be7ab6085aad036b"
----
-
 # LD Nº 03 DE 01 DE SETEMBRO DE 1971
 
 LEI DELEGADA Nº 03 DE 01 DE SETEMBRO DE 1971

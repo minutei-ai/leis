@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108491"
-titulo: "LD Nº 34 DE 11 DE MARÇO DE 1983"
-data: "1983-03-11"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-34-de-11-de-marco-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:49.426Z"
-sha256_fonte: "9561f83b53f9ec96ace2cbab87dd6fc6245039ee66d97dcfbd971fce9addf2a9"
-sha256_markdown: "4ad871ac559c4a8d4f1a73f20c814b31c75d9d2b2a5f8fdf3b45b5ab4edfea1a"
----
-
 # LD Nº 34 DE 11 DE MARÇO DE 1983
 
 LEI DELEGADA Nº 34 DE 11 DE MARÇO DE 1983

@@ -1,16 +1,3 @@
----
-id: "br-mg-lei-complementar-2025-05-30-182"
-titulo: "LCP nº 182, de 30/05/2025"
-data: "2025-05-30"
-fonte: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/182/2025/documento?conteudo=true&tipoDoc=142"
-versao: "publicação original disponibilizada pela ALMG"
-dados: "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/182/2025/documento?conteudo=true&tipoDoc=142"
-sha256_dados: "e3e428942e202c476a03e4343c51817ead46d64726883e64c6e5531c6b1b6bf1"
-coletado_em: "2026-10-21T08:31:38.511Z"
-sha256_fonte: "0636d88a58372f374a36e4f2d551d00f4499fd41fec5187dc4bcdc7a8e51a03f"
-sha256_markdown: "13b74c921a9d167ea5a1f3e7f2556710f284f84390915bf8892ecf7357cbcb29"
----
-
 # LCP nº 182, de 30/05/2025
 
 Altera a Lei Complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do Ministério Público do Estado e dá outras providências.

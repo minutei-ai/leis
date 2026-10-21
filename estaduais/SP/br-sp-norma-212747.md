@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212747"
-titulo: "Lei nº 18.494, de 16/06/2026"
-data: "2026-06-16"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/lei-18494-16.06.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212747"
-sha256_dados: "3dab6ffa383ef841b036ee37271aa49b0ea7aaa1e59ad3ef3d9e839d55eb0bba"
-coletado_em: "2026-10-21T08:40:57.404Z"
-sha256_fonte: "7f198a9b2d9f5fdc5efb25976b916727e1db79f08c8677105a38d40051f1254a"
-sha256_markdown: "53c8f4e9a8d381ac8f9bcb733a9ffdb3f07ef186f4d2d10cd6be99443f76f194"
----
-
 # Lei nº 18.494, de 16/06/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212747)<br>

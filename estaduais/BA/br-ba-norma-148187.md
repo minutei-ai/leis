@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148187"
-titulo: "LEI Nº 15.098 DE 19 DE JANEIRO DE 2026"
-data: "2026-01-19"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15098-de-19-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:48.592Z"
-sha256_fonte: "b0cb0d6a2eb06c514532e6898c1cae4471dadb39d6e41943ef6b1d05f1b10f0e"
-sha256_markdown: "6d5bc4280ebd866815f89ea81f02be2c4ba76e5fd4c552bbf26fb45a01e0232d"
----
-
 # LEI Nº 15.098 DE 19 DE JANEIRO DE 2026
 
 LEI Nº 15.098 DE 19 DE JANEIRO DE 2026

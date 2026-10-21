@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-126642"
-titulo: "LEI COMPLEMENTAR Nº 37 DE 10 DE JULHO DE 2013"
-data: "2013-07-10"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-37-de-10-de-julho-de-2013"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:24:23.595Z"
-sha256_fonte: "7227524cff10c660ba673da71d9c05473846631bdf2d8c608b3384410b911f9f"
-sha256_markdown: "ef66c715e94a46d3479246572fe59f11bb487886cf57db466d14bc8f73d85472"
----
-
 # LEI COMPLEMENTAR Nº 37 DE 10 DE JULHO DE 2013
 
 LEI COMPLEMENTAR Nº 37 DE 10 DE JULHO DE 2013

@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148747"
-titulo: "LEI Nº 15.168 DE 08 DE JUNHO DE 2026"
-data: "2026-06-08"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15168-de-08-de-junho-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:30:39.943Z"
-sha256_fonte: "e2eafe8252de9daab4f17ea08c47006742688dfbdcf3c6210674e21cbe34552f"
-sha256_markdown: "b4c8cb9d9393e5b00b99b3c3fd1b28feaa15bfe7a782f4965fe035b2b925d4a8"
----
-
 # LEI Nº 15.168 DE 08 DE JUNHO DE 2026
 
 LEI Nº 15.168 DE 08 DE JUNHO DE 2026

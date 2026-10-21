@@ -1,16 +1,3 @@
----
-id: "br-sp-norma-212861"
-titulo: "Decreto nº 70.774, de 30/07/2026"
-data: "2026-07-30"
-fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70774-30.07.2026.html"
-versao: "publicação original disponibilizada pela Alesp"
-dados: "https://baleg-api-prd.al.sp.gov.br/norma/212861"
-sha256_dados: "66e76a96ab8f484a9f8541c994440754f6857d4e1512cb6c53540c2c8e32ae02"
-coletado_em: "2026-10-21T08:38:44.919Z"
-sha256_fonte: "373fa46afe7e2368111c37b46bab1ca2a5402bc89e4546e106054f9194bf8ac3"
-sha256_markdown: "7332fbbda21d4e56f92200859db8ff5dc7b635e153ac970b57fb3cb0c2abb54a"
----
-
 # Decreto nº 70.774, de 30/07/2026
 
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212861)<br>

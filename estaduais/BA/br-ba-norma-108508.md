@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-108508"
-titulo: "LD Nº 60 DE 01 DE JUNHO DE 1983"
-data: "1983-06-01"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-60-de-01-de-junho-de-1983"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:28:19.167Z"
-sha256_fonte: "59393a04ec28eb6c775f8ce8ea964bf81e0ac1764bacd8dccb9f624d11f9e40b"
-sha256_markdown: "fa470c0abc1687a7f033a27161ef3ac21c5589290ecab8b4b768ea8c4536f71a"
----
-
 # LD Nº 60 DE 01 DE JUNHO DE 1983
 
 LEI DELEGADA Nº 60 DE 01 DE JUNHO DE 1983

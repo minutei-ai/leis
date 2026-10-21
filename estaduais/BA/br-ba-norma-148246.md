@@ -1,14 +1,3 @@
----
-id: "br-ba-norma-148246"
-titulo: "LEI Nº 15.126 DE 28 DE JANEIRO DE 2026"
-data: "2026-01-28"
-fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-15126-de-28-de-janeiro-de-2026"
-versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
-coletado_em: "2026-10-21T10:31:24.164Z"
-sha256_fonte: "e040e25eb736ac8b529d624ecf6eb945e4b5f4d7a8953c6d3de6522f0b87a410"
-sha256_markdown: "af92f3c8021bf2eedc39bbcb700dc39ec4fb7b5286069b044590bc0b614d09a2"
----
-
 # LEI Nº 15.126 DE 28 DE JANEIRO DE 2026
 
 LEI Nº 15.126 DE 28 DE JANEIRO DE 2026
