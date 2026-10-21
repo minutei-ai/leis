@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**60.242 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**60.244 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -27,7 +27,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Pernambuco](estaduais/PE/) | 19 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
 | Estadual | [São Paulo](estaduais/SP/) | 6.344 |
-| Municipal | [São Paulo · SP](municipais/3550308/) | 7.471 |
+| Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
 
@@ -39,7 +39,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Minas Gerais, São Paulo, Ceará, Espírito Santo, Pernambuco e Santa Catarina, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná e da Prefeitura de São Paulo.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Minas Gerais, São Paulo, Ceará, Espírito Santo, Pernambuco e Santa Catarina, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná e da Prefeitura e da Câmara Municipal de São Paulo.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais e atualizados, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
