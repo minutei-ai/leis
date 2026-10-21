@@ -1,0 +1,63 @@
+###MPV-001847-0-015-18-11-1999@@@
+
+medida provisória nº 1.847-15, de 18 de novembro de 1999.
+
+Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.
+
+O VIVE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º Os arts. 20,26,84 e 90 do Decreto-Lei nº 73, de 21 de novembro de 1966, passam a vigorar com as seguintes alterações:
+
+"Art. 20. ...................................................................................................................................
+
+...........................................................................................................................................................
+
+Parágrafo único. Não se aplica à União a obrigatoriedade estatuída na alínea "h" deste artigo ".(NR)
+
+"Art. 26. As sociedades seguradoras não poderão requerer concordata e não estão sujeitas à falência, salvo, neste último caso, se decretada a liquidação extrajudicial, o ativo não for suficiente para o pagamento de pelo menos a metade dos credores quirografários, ou quando houver fundados indícios da ocorrência de crime falimentar."(NR)
+
+"Art. 84. ...................................................................................................................................
+
+§ 1º O patrimônio líquido das sociedades seguradoras não poderá ser inferior ao valor do passivo não operacional, nem ao valor mínimo decorrente do cálculo da margem de solvência, efetuado com base na regulamentação baixada pelo CNSP.
+
+§ 2º O passivo não operacional será constituído pelo valor total das obrigações não cobertas por bens garantidores.
+
+§ 3º As sociedades seguradoras deverão adequar-se ao disposto neste artigo no prazo de um ano, prorrogável por igual período e caso a caso, por decisão do CNSP."(NR)
+
+"Art. 90. ...................................................................................................................................
+
+Parágrafo único. Aplica-se à intervenção e às entidades de previdência privada aberta aplica-se ao disposto nos arts. 55 a 62 da Lei nº 6.435, de 15 de julho de 1977."(NR)
+
+Art. 2º Às sociedades seguradoras de capitalização e às entidades de previdência privada aberta aplica-se ao disposto nos arts. 2º e 15 do Decreto-Lei nº 2,321, de 25 de fevereiro de 1987, 1º a 8º da Lei nº 9.447, de 14 de março de 1997 e, no que couber, nos arts. 3º a 49 da Lei nº 6.024, de 13 de março de 1974.
+
+Parágrafo único. As funções atribuídas ao Banco do Brasil pelas Leis referidas neste artigo serão exercidas pela Superintendência de Seguros Privados - SUSEP, quando se trata de sociedades seguradoras, de capitalização ou de entidades de previdência privada aberta.
+
+Art. 3º Aplica-se às entidades de previdência privada aberta o disposto no art. 84 do Decreto-Lei nº 73, de 1966.
+
+Art. 4º O art. 56 da Lei nº 6.435, de 15 de julho de 1977, passa a vigorar com a seguinte redação:
+
+"Art. 56. ...................................................................................................................................
+
+...........................................................................................................................................................
+
+§ 3º A decretação da intervenção não afetará o funcionamento da entidade nem o curso regular de seus negócios.
+
+§ 4º Na hipótese de indicação de pessoa jurídica para gerir a sociedade em regime de intervenção, esta poderá, em igualdade de condições com outros interessados, participar de processo de aquisição do controle acionário da sociedade interventiva."(NR)
+
+Art. 5º O art. 9º da Lei nº 5.627, de 1º de dezembro de 1970, passa a vigorar com a seguinte redação:
+
+"Art. 9º .....................................................................................................................................
+
+Parágrafo único. Excepcionalmente, e em prazo não superior a um ano, prorrogável por uma única vez e por igual prazo, e a critério da SUSEP, poderá ser autorizada a transferência de controle acionário de sociedade de seguros às pessoas jurídicas indicadas neste artigo."(NR)
+
+Art. 6º Ficam convalidados ao atos praticados com base na Medida Provisória nº 1.847-14, de 21 de outubro de 1999.
+
+Art. 7º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Art. 8º Fica revogado o art. 3º da Lei nº 7.682, de 2 de dezembro de 1988.
+
+Brasília, 18 de novembro de 1999; 178º da Independência e 111º da República.
+
+marco antonio de oliveira maciel
+
+Pedro Malan
