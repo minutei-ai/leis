@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-03-15251",
+  "titulo": "Lei nº 15.251 de 03/11/2025",
+  "data": "2025-11-03",
+  "fonte": "https://normas.leg.br/api/public/binario/54e5a524-e4c4-4d9a-aafb-3d13c2725429/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-03;15251",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-03%3B15251&tipo_documento=maior-detalhe",
+  "sha256_dados": "7004bb340b6c789e890fb42feb0a98f28a782f9f8ab5e282eabfaa3eed302084",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:58.812Z",
+  "sha256_fonte": "5a69a020a114c08d0b89f2b4c800dcdd0894eea836a7365a324c9cd5628ebbe1",
+  "sha256_markdown": "7cbec9915b72935b1e2c239ab1aca94728ecf9238b9275a66ae8972895ac2a2d"
+}

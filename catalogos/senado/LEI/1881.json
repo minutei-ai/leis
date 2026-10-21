@@ -1,0 +1,19 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1881",
+  "tipo": "LEI",
+  "ano": 1881,
+  "coletado_em": "2026-10-20T23:06:19.780Z",
+  "normas": [
+    {
+      "senadoId": "544882",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1881-01-09-3030",
+      "titulo": "Lei nº 3.030 de 09/01/1881",
+      "data": "1881-01-09",
+      "numero": "3030",
+      "urn": "urn:lex:br:federal:lei:1881-01-09;3030",
+      "ementa": "ABRE AOS MINISTERIOS DA MARINHA E DA GUERRA OS CREDITOS EXTRAORDINARIOS, DE 5.000:000$000 PARA MELHORAMENTO DO MATERIAL FLUTUANTE DA ARMADA NACIONAL E IMPERIAL, E DE 4.000:000$000 PARA MELHORAR E AUMENTAR O EQUIPAMENTO DO EXERCITO."
+    }
+  ],
+  "pendencias": []
+}

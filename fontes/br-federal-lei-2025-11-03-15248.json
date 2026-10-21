@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-03-15248",
+  "titulo": "Lei nº 15.248 de 03/11/2025",
+  "data": "2025-11-03",
+  "fonte": "https://normas.leg.br/api/public/binario/56ade963-87dd-4e0b-b1e9-93377ed19148/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-03;15248",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-03%3B15248&tipo_documento=maior-detalhe",
+  "sha256_dados": "7bf266250517928f12e46dbb70076ab3c37e72abc6862aada5e85de631edc203",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:57.515Z",
+  "sha256_fonte": "64b74c552dbde5d0d2aade30a63a72a504b94030b0861ae071b66c47813f45f3",
+  "sha256_markdown": "f19123c6048ec189dde0fba4cfb4220e8ea778468eb49ac7f7e08f8cc667e903"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-04-29-15130",
+  "titulo": "Lei nº 15.130 de 29/04/2025",
+  "data": "2025-04-29",
+  "fonte": "https://normas.leg.br/api/public/binario/adbf97b0-fa99-4b28-9a95-81c3b3516bca/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-04-29;15130",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-04-29%3B15130&tipo_documento=maior-detalhe",
+  "sha256_dados": "f9561568e429044e7dbfd3a2c6e8eb8bd13b1b9930323831b5f477859d9e69fd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:32.888Z",
+  "sha256_fonte": "f78a68cb57b276f3f2d5a61e7ce7389433ed9621f3eac2e96441b5feb35acdc1",
+  "sha256_markdown": "796bc19b83f95a6fe211ad525c1965f2e264ca4da568b17a6270b365d730b9a1"
+}

@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1908",
+  "tipo": "LEI",
+  "ano": 1908,
+  "coletado_em": "2026-10-20T23:05:26.081Z",
+  "normas": [
+    {
+      "senadoId": "543824",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1908-12-31-2050",
+      "titulo": "Lei nº 2.050 de 31/12/1908",
+      "data": "1908-12-31",
+      "numero": "2050",
+      "urn": "urn:lex:br:federal:lei:1908-12-31;2050",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1909, e dá outras providencias"
+    },
+    {
+      "senadoId": "543807",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1908-12-29-2035",
+      "titulo": "Lei nº 2.035 de 29/12/1908",
+      "data": "1908-12-29",
+      "numero": "2035",
+      "urn": "urn:lex:br:federal:lei:1908-12-29;2035",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1909, e dá outras providencias."
+    },
+    {
+      "senadoId": "543794",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1908-12-17-2024",
+      "titulo": "Lei nº 2.024 de 17/12/1908",
+      "data": "1908-12-17",
+      "numero": "2024",
+      "urn": "urn:lex:br:federal:lei:1908-12-17;2024",
+      "ementa": "Reforma a lei sobre fallencias"
+    },
+    {
+      "senadoId": "543745",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1908-10-15-1978",
+      "titulo": "Lei nº 1.978 de 15/10/1908",
+      "data": "1908-10-15",
+      "numero": "1978",
+      "urn": "urn:lex:br:federal:lei:1908-10-15;1978",
+      "ementa": "Determina que aos intendentes municipaes do Districto Federal, quando em sessões extraordinarias, seja abonado subsidio, e supprime a inelegibilidade constante do n. 9 do art. 57, capitulo VI, secção I, da Consolidação das Leis Federaes sobre organização municipal."
+    },
+    {
+      "senadoId": "543683",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1908-08-08-1919",
+      "titulo": "Lei nº 1.919 de 08/08/1908",
+      "data": "1908-08-08",
+      "numero": "1919",
+      "urn": "urn:lex:br:federal:lei:1908-08-08;1919",
+      "ementa": "Fixa as forças de terra para o exercicio de 1909"
+    },
+    {
+      "senadoId": "543620",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1908-01-04-1860",
+      "titulo": "Lei nº 1.860 de 04/01/1908",
+      "data": "1908-01-04",
+      "numero": "1860",
+      "urn": "urn:lex:br:federal:lei:1908-01-04;1860",
+      "ementa": "Regula o alistamento e sorteio militar e reorganiza o Exercito"
+    }
+  ],
+  "pendencias": []
+}

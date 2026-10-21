@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2000",
+  "tipo": "LCP",
+  "ano": 2000,
+  "coletado_em": "2026-10-20T23:10:42.914Z",
+  "normas": [
+    {
+      "senadoId": "572858",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2000-07-14-103",
+      "titulo": "Lei Complementar nº 103 de 14/07/2000",
+      "data": "2000-07-14",
+      "numero": "103",
+      "urn": "urn:lex:br:federal:lei.complementar:2000-07-14;103",
+      "ementa": "Autoriza os Estados e o Distrito Federal a instituir o piso salarial a que se refere o inciso V do art. 7º da Constituição Federal, por aplicação do disposto no parágrafo único do seu art. 22."
+    },
+    {
+      "senadoId": "572857",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2000-07-11-102",
+      "titulo": "Lei Complementar nº 102 de 11/07/2000",
+      "data": "2000-07-11",
+      "numero": "102",
+      "urn": "urn:lex:br:federal:lei.complementar:2000-07-11;102",
+      "ementa": "Altera dispositivos da Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, e dá outras providências."
+    },
+    {
+      "senadoId": "572856",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2000-05-04-101",
+      "titulo": "Lei Complementar nº 101 de 04/05/2000",
+      "data": "2000-05-04",
+      "numero": "101",
+      "urn": "urn:lex:br:federal:lei.complementar:2000-05-04;101",
+      "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

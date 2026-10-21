@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-22-15311",
+  "titulo": "Lei nº 15.311 de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/1597c35d-f74a-4e69-af47-42e3c9aa6e47/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-22;15311",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-22%3B15311&tipo_documento=maior-detalhe",
+  "sha256_dados": "069167031bc098597906924a7266f59c5e78c71b0a068f6e1c5dccb9e62aff46",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:06:53.943Z",
+  "sha256_fonte": "cd33a6e6a945ece2e50348b8a014ef8cd27e41d1d64ba0ef1433b9a9a7d4e7e5",
+  "sha256_markdown": "7b3dea27504629622edda6b459700c51ec3eb212b781cc460785262262f14563"
+}

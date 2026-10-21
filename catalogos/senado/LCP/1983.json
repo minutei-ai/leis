@@ -1,0 +1,29 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=1983",
+  "tipo": "LCP",
+  "ano": 1983,
+  "coletado_em": "2026-10-20T23:11:11.966Z",
+  "normas": [
+    {
+      "senadoId": "540750",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1983-12-14-45",
+      "titulo": "Lei Complementar nº 45 de 14/12/1983",
+      "data": "1983-12-14",
+      "numero": "45",
+      "urn": "urn:lex:br:federal:lei.complementar:1983-12-14;45",
+      "ementa": "Estabelece critério para a remuneração de Vereadores."
+    },
+    {
+      "senadoId": "540749",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1983-12-07-44",
+      "titulo": "Lei Complementar nº 44 de 07/12/1983",
+      "data": "1983-12-07",
+      "numero": "44",
+      "urn": "urn:lex:br:federal:lei.complementar:1983-12-07;44",
+      "ementa": "Altera o Decreto-Lei nº 406, de 31 de dezembro de 1968, que estabelece   normas gerais de direito tributário, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

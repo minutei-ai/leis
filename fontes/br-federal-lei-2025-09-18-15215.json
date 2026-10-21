@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-09-18-15215",
+  "titulo": "Lei nº 15.215 de 18/09/2025",
+  "data": "2025-09-18",
+  "fonte": "https://normas.leg.br/api/public/binario/b52e14b3-d73d-4d49-8be2-c89ecd678032/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-09-18;15215",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-09-18%3B15215&tipo_documento=maior-detalhe",
+  "sha256_dados": "350470f9e47f175bf41991514aaf05d9899b131ed9b139ae37d7702eb110052f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:45.656Z",
+  "sha256_fonte": "9ce22e085ce2152b46b45f7b2ea9c8e2771988e555b2a4d809a78b1e1354fdc4",
+  "sha256_markdown": "77764ba23aef6b59824387237d6f23f1ede0b68050bc60374753325eaa8819e4"
+}

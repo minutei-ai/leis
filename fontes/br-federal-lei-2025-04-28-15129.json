@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-04-28-15129",
+  "titulo": "Lei nº 15.129 de 28/04/2025",
+  "data": "2025-04-28",
+  "fonte": "https://normas.leg.br/api/public/binario/b3d47161-8f44-4dbd-8856-8c38967fce94/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-04-28;15129",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-04-28%3B15129&tipo_documento=maior-detalhe",
+  "sha256_dados": "1826f7445ab22faa4c6a0f37f6ee35eb0efa3b0a24414bb34ebc5855682bc1f0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:36.806Z",
+  "sha256_fonte": "8f595375dcc25411fb4f39439a767df42200ef3d4f3da72dc2b00f29e1cb55c6",
+  "sha256_markdown": "4c698f4e51d80c604bf6e99cc6e5ab103f1f453ff84f11bc39abde2120f4746a"
+}

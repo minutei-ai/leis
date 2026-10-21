@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-01-09-15096",
+  "titulo": "Lei nº 15.096 de 09/01/2025",
+  "data": "2025-01-09",
+  "fonte": "https://normas.leg.br/api/public/binario/95027064-83d1-4405-81bc-b6811c398856/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-01-09;15096",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-01-09%3B15096&tipo_documento=maior-detalhe",
+  "sha256_dados": "e29b581c37dc51098d038217d62c4414eeb614c329a2c01d115f16c708dee07d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:16.289Z",
+  "sha256_fonte": "8a317f7f3f2be1bd7c22c8714e7ce03b14a921ee146c580093cca09c74bdf294",
+  "sha256_markdown": "d405f69c8dd81d0ec0ca728ac491fe7fa0b37ab776dc342ed2625d154ebed707"
+}

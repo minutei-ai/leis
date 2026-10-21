@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2014",
+  "tipo": "LCP",
+  "ano": 2014,
+  "coletado_em": "2026-10-20T23:10:22.278Z",
+  "normas": [
+    {
+      "senadoId": "572903",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2014-11-25-148",
+      "titulo": "Lei Complementar nº 148 de 25/11/2014",
+      "data": "2014-11-25",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:lei.complementar:2014-11-25;148",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal; dispõe sobre critérios de indexação dos contratos de refinanciamento da dívida celebrados entre a União, Estados, o Distrito Federal e Municípios; e dá outras providências."
+    },
+    {
+      "senadoId": "572902",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2014-08-07-147",
+      "titulo": "Lei Complementar nº 147 de 07/08/2014",
+      "data": "2014-08-07",
+      "numero": "147",
+      "urn": "urn:lex:br:federal:lei.complementar:2014-08-07;147",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e as Leis nºs 5.889, de 8 de junho de 1973, 11.101, de 9 de fevereiro de 2005, 9.099, de 26 de setembro de 1995, 11.598, de 3 de dezembro de 2007, 8.934, de 18 de novembro de 1994, 10.406, de 10 de janeiro de 2002, e 8.666, de 21 de junho de 1993; e dá outras providências."
+    },
+    {
+      "senadoId": "572901",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2014-06-25-146",
+      "titulo": "Lei Complementar nº 146 de 25/06/2014",
+      "data": "2014-06-25",
+      "numero": "146",
+      "urn": "urn:lex:br:federal:lei.complementar:2014-06-25;146",
+      "ementa": "Estende a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias à trabalhadora gestante, nos casos de morte desta, a quem detiver a guarda de seu filho."
+    },
+    {
+      "senadoId": "572900",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2014-05-15-145",
+      "titulo": "Lei Complementar nº 145 de 15/05/2014",
+      "data": "2014-05-15",
+      "numero": "145",
+      "urn": "urn:lex:br:federal:lei.complementar:2014-05-15;145",
+      "ementa": "Altera dispositivos da Lei Complementar nº 93, de 4 de fevereiro de 1998, que institui o Fundo de Terras e da Reforma Agrária - Banco da Terra."
+    },
+    {
+      "senadoId": "572899",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2014-05-15-144",
+      "titulo": "Lei Complementar nº 144 de 15/05/2014",
+      "data": "2014-05-15",
+      "numero": "144",
+      "urn": "urn:lex:br:federal:lei.complementar:2014-05-15;144",
+      "ementa": "Atualiza a ementa e altera o art. 1º da Lei Complementar nº 51, de 20 de dezembro de 1985, que \"Dispõe sobre a aposentadoria do funcionário policial, nos termos do art. 103, da Constituição Federal\", para regulamentar a aposentadoria da mulher servidora policial."
+    }
+  ],
+  "pendencias": []
+}

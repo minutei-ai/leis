@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1917",
+  "tipo": "LEI",
+  "ano": 1917,
+  "coletado_em": "2026-10-20T23:05:08.922Z",
+  "normas": [
+    {
+      "senadoId": "545261",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1917-12-31-3446",
+      "titulo": "Lei nº 3.446 de 31/12/1917",
+      "data": "1917-12-31",
+      "numero": "3446",
+      "urn": "urn:lex:br:federal:lei:1917-12-31;3446",
+      "ementa": "Orça a Receita Geral da Republica dos Estados Unidos do Brasil para o exercicio de 1918."
+    },
+    {
+      "senadoId": "545228",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1917-12-12-3414",
+      "titulo": "Lei nº 3.414 de 12/12/1917",
+      "data": "1917-12-12",
+      "numero": "3414",
+      "urn": "urn:lex:br:federal:lei:1917-12-12;3414",
+      "ementa": "Fixa as forças de terra para o exercicio de 1918"
+    },
+    {
+      "senadoId": "545202",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1917-11-16-3393",
+      "titulo": "Lei nº 3.393 de 16/11/1917",
+      "data": "1917-11-16",
+      "numero": "3393",
+      "urn": "urn:lex:br:federal:lei:1917-11-16;3393",
+      "ementa": "Autoriza o Governo a, desde já, e até 31 de dezembro, declarar, succesivamente, o estado de sitio nas partes do territorio da União onde o exigirem as necessidades e os deveres da situação e dá outras providencias"
+    },
+    {
+      "senadoId": "545007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1917-01-05-3232",
+      "titulo": "Lei nº 3.232 de 05/01/1917",
+      "data": "1917-01-05",
+      "numero": "3232",
+      "urn": "urn:lex:br:federal:lei:1917-01-05;3232",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1917"
+    },
+    {
+      "senadoId": "544986",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1917-01-03-3216",
+      "titulo": "Lei nº 3.216 de 03/01/1917",
+      "data": "1917-01-03",
+      "numero": "3216",
+      "urn": "urn:lex:br:federal:lei:1917-01-03;3216",
+      "ementa": "Fixa as forças de terra para o exercicio de 1917"
+    }
+  ],
+  "pendencias": []
+}

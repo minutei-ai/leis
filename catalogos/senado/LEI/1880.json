@@ -1,0 +1,89 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1880",
+  "tipo": "LEI",
+  "ano": 1880,
+  "coletado_em": "2026-10-20T23:06:23.643Z",
+  "normas": [
+    {
+      "senadoId": "544879",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-12-29-3028",
+      "titulo": "Lei nº 3.028 de 29/12/1880",
+      "data": "1880-12-29",
+      "numero": "3028",
+      "urn": "urn:lex:br:federal:lei:1880-12-29;3028",
+      "ementa": "ABRE AO GOVERNO, PELO MINISTERIO DA FAZENDA, UM CREDITO SUPLEMENTAR E EXTRAORDINARIO DA QUANTIA DE 3.360.549.966."
+    },
+    {
+      "senadoId": "544873",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-11-23-3023",
+      "titulo": "Lei nº 3.023 de 23/11/1880",
+      "data": "1880-11-23",
+      "numero": "3023",
+      "urn": "urn:lex:br:federal:lei:1880-11-23;3023",
+      "ementa": "DECLARA QUE NÃO SE SUSPENDEM DURANTE O EXERCICIO DO CARGO DE SECRETARIO DE ESTADO AS PENSÕES CONCEDIDAS POR SERVIÇOS RELEVANTES E OS VENCIMENTOS PROVENIENTES DE JUBILAÇÃO, REFORMA OU APOSENTAÇÃO."
+    },
+    {
+      "senadoId": "544869",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-11-10-3020",
+      "titulo": "Lei nº 3.020 de 10/11/1880",
+      "data": "1880-11-10",
+      "numero": "3020",
+      "urn": "urn:lex:br:federal:lei:1880-11-10;3020",
+      "ementa": "ABRE UM CREDITO SUPLEMENTAR DA QUANTIA DE 464.802.878, PARA OCORRER AS DESPESAS DO MINISTERIO DA GUERRA NO EXERCICIO DE 1878 A 1880."
+    },
+    {
+      "senadoId": "544864",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-11-05-3017",
+      "titulo": "Lei nº 3.017 de 05/11/1880",
+      "data": "1880-11-05",
+      "numero": "3017",
+      "urn": "urn:lex:br:federal:lei:1880-11-05;3017",
+      "ementa": "FIXA A DESPESA GERAL DO IMPERIO PARA O EXERCICIO DE 1881-1882, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "544866",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-11-05-3018",
+      "titulo": "Lei nº 3.018 de 05/11/1880",
+      "data": "1880-11-05",
+      "numero": "3018",
+      "urn": "urn:lex:br:federal:lei:1880-11-05;3018",
+      "ementa": "ORÇA A RECEITA GERAL DO IMPERIO PARA O EXERCICIO DE 1881- 1882, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "544851",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-10-12-3005",
+      "titulo": "Lei nº 3.005 de 12/10/1880",
+      "data": "1880-10-12",
+      "numero": "3005",
+      "urn": "urn:lex:br:federal:lei:1880-10-12;3005",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO UM CREDITO EXTRAORDINARIO DE 301.681.826, SENDO 91.628.358 A VERBA \"CAMARA DOS SENADORES E  210.053.468 A VERBA  \"CAMARA DOS DEPUTADOS\", E OS SUPLEMENTARES DE 23.209.962 A VERBA \" OBSERVATORIO ASTRONOMICO\" E O DE 100.000.000 A VERBA \"SOCORROS PUBLICOS E MELHORAMENTO DO ESTADO SANITARIO."
+    },
+    {
+      "senadoId": "544839",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-09-28-2994",
+      "titulo": "Lei nº 2.994 de 28/09/1880",
+      "data": "1880-09-28",
+      "numero": "2994",
+      "urn": "urn:lex:br:federal:lei:1880-09-28;2994",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1881-1882."
+    },
+    {
+      "senadoId": "544834",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1880-09-21-2991",
+      "titulo": "Lei nº 2.991 de 21/09/1880",
+      "data": "1880-09-21",
+      "numero": "2991",
+      "urn": "urn:lex:br:federal:lei:1880-09-21;2991",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1881-1882."
+    }
+  ],
+  "pendencias": []
+}

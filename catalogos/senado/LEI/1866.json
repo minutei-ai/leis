@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1866",
+  "tipo": "LEI",
+  "ano": 1866,
+  "coletado_em": "2026-10-20T23:06:54.890Z",
+  "normas": [
+    {
+      "senadoId": "543011",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1866-09-19-1355",
+      "titulo": "Lei nº 1.355 de 19/09/1866",
+      "data": "1866-09-19",
+      "numero": "1355",
+      "urn": "urn:lex:br:federal:lei:1866-09-19;1355",
+      "ementa": "ADIA PARA O 1º DOMINGO DO MÊS DE FEVEREIRO DO ANO PRÓXIMO FUTURO A REUNIÃO DAS ASSEMBLÉIAS PAROQUIAIS, E REDUZ A TRINTA OS SESSENTA DIAS DA SUSPENSÃO DO RECRUTAMENTO ANTES DA ELEIÇÃO PRIMÁRIA."
+    },
+    {
+      "senadoId": "543007",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1866-09-19-1352",
+      "titulo": "Lei nº 1.352 de 19/09/1866",
+      "data": "1866-09-19",
+      "numero": "1352",
+      "urn": "urn:lex:br:federal:lei:1866-09-19;1352",
+      "ementa": "ABRE AO GOVERNO, NO EXERCÍCIO DE 1866 A 1867, UM CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 17.433:486$000 PARA DESPESAS DOS MINISTÉRIOS DA MARINHA E GUERRA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "543004",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1866-09-14-1350",
+      "titulo": "Lei nº 1.350 de 14/09/1866",
+      "data": "1866-09-14",
+      "numero": "1350",
+      "urn": "urn:lex:br:federal:lei:1866-09-14;1350",
+      "ementa": "DEROGA O JUIZO ARBITRAL NECESSARIO ESTABELECIDO PELO ARTIGO 20 TITULO UNICO DO CODIGO COMERCIAL."
+    },
+    {
+      "senadoId": "543002",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1866-09-12-1349",
+      "titulo": "Lei nº 1.349 de 12/09/1866",
+      "data": "1866-09-12",
+      "numero": "1349",
+      "urn": "urn:lex:br:federal:lei:1866-09-12;1349",
+      "ementa": "AUTORIZA O GOVERNO PARA INOVAR O ACORDO CELEBRADO COM O BANCO DO BRASIL EM VIRTUDE DA LEI Nº 683 DE 5 DE JULHO DE 1853, E PARA MODIFICAR AS DISPOSIÇÕES DA MESMA LEI, E AS DOS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "542980",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1866-08-24-1330",
+      "titulo": "Lei nº 1.330 de 24/08/1866",
+      "data": "1866-08-24",
+      "numero": "1330",
+      "urn": "urn:lex:br:federal:lei:1866-08-24;1330",
+      "ementa": "CONCEDE AO MINISTÉRIO DA MARINHA UM CRÉDITO SUPLEMENTAR, E AUTORIZA O GOVERNO PARA FAZER NECESSÁRIAS OPERAÇÕES DE CRÉDITO."
+    },
+    {
+      "senadoId": "542982",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1866-08-24-1331",
+      "titulo": "Lei nº 1.331 de 24/08/1866",
+      "data": "1866-08-24",
+      "numero": "1331",
+      "urn": "urn:lex:br:federal:lei:1866-08-24;1331",
+      "ementa": "ABRE AO GOVERNO UM CRÉDITO EXTRAORDINÁRIO PARA DESPESAS DO MINISTÉRIO DA GUERRA E O AUTORIZA PARA EMITIR APÓLICES DA DÍVIDA PÚBLICA DO VALOR DE 200$000."
+    }
+  ],
+  "pendencias": []
+}

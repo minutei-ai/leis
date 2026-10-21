@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-01-06-15088",
+  "titulo": "Lei nº 15.088 de 06/01/2025",
+  "data": "2025-01-06",
+  "fonte": "https://normas.leg.br/api/public/binario/910940ff-b88f-4b50-a7b2-df694b08202f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-01-06;15088",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-01-06%3B15088&tipo_documento=maior-detalhe",
+  "sha256_dados": "a013d084a0af475ef776f2660ca492ab1c7db34f07deed2375e87f6854723983",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:26.678Z",
+  "sha256_fonte": "ebc29efaec37a68a947a30c41d126261c3e9cbfc690658ee23d45d5d54afc0c0",
+  "sha256_markdown": "74176b4896c3fcbc25c27c7ec43038f3e4264467dffda38334c89a4221c8c78c"
+}

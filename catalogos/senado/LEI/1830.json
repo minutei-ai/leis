@@ -1,0 +1,163 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1830",
+  "tipo": "LEI",
+  "ano": 1830,
+  "coletado_em": "2026-10-20T23:08:59.044Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "572982",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 16/12/1830",
+      "dataassinatura": "16/12/1830",
+      "ementa": "MANDA EXECUTAR O CODIGO CRIMINAL."
+    },
+    {
+      "id": "572981",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/12/1830",
+      "dataassinatura": "15/12/1830",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA PARA O ANO FINANCEIRO DE 1831 - 1832."
+    },
+    {
+      "id": "572980",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 09/12/1830",
+      "dataassinatura": "09/12/1830",
+      "ementa": "EXTINGUE A CONGREGAÇÃO DOS PADRES DE SÃO FELIPE NERY, ESTABELECIDA EM PERNAMBUCO, E APLICA OS SEUS BENS PARA PATRIMONIO DE UMA CASA PIA DE EDUCAÇÃO DE ORFÃOS DESVALIDOS DE AMBOS OS SEXOS."
+    },
+    {
+      "id": "573020",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 09/12/1830 ( seq-sf: 1 )",
+      "dataassinatura": "09/12/1830",
+      "ementa": "DECLARA NULOS E DE NENHUM EFEITO OS CONTRATOS ONEROSOS E ALIENAÇÕES FEITAS PELAS ORDENS REGULARES SEM PRECEDER LICENÇA DO GOVERNO."
+    },
+    {
+      "id": "572979",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 07/12/1830",
+      "dataassinatura": "07/12/1830",
+      "ementa": "EXTINGUE A JUNTA DA DIREÇÃO DA TIPOGRAFIA NACIONAL, DANDO NOVA FORMA A SUA ADMINISTRAÇÃO."
+    },
+    {
+      "id": "572978",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 04/12/1830",
+      "dataassinatura": "04/12/1830",
+      "ementa": "REGULA OS DIREITOS DO ALGODÃO E DA CARNE SECA OU CHARQUE."
+    },
+    {
+      "id": "573032",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 04/12/1830 ( seq-sf: 2 )",
+      "dataassinatura": "04/12/1830",
+      "ementa": "EXTINGUE A CHANCELARIA-MOR DO IMPERIO E A SUPERINTENDENCIA DOS NOVOS DIREITOS."
+    },
+    {
+      "id": "573019",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 04/12/1830 ( seq-sf: 1 )",
+      "dataassinatura": "04/12/1830",
+      "ementa": "MANDA CRIAR UMA COMISSÃO PARA TOMAR CONTAS NA CORTE A CAIXA DA LEGAÇÃO DE LONDRES."
+    },
+    {
+      "id": "572977",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 25/11/1830",
+      "dataassinatura": "25/11/1830",
+      "ementa": "REGULA AS FORÇAS NAVAIS PARA O ANO FINANCEIRO DE  1831 - 1832."
+    },
+    {
+      "id": "572976",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 24/11/1830",
+      "dataassinatura": "24/11/1830",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1831 - 1832."
+    },
+    {
+      "id": "573018",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 24/11/1830 ( seq-sf: 1 )",
+      "dataassinatura": "24/11/1830",
+      "ementa": "EXTINGUE O COMISSARIO GERAL DO EXERCITO DURANTE A PAZ."
+    },
+    {
+      "id": "572975",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 03/11/1830",
+      "dataassinatura": "03/11/1830",
+      "ementa": "EXTINGUE A PROVEDORIA DE DEFUNTOS E AUSENTES."
+    },
+    {
+      "id": "572974",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 30/10/1830",
+      "dataassinatura": "30/10/1830",
+      "ementa": "DETERMINA QUE OS ESCRIVÃES  DOS JUIZES DE PAZ FORA DAS CIDADES, OU VILAS, SEJAM OS TABELIÕES DE NOTAS."
+    },
+    {
+      "id": "572973",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 20/09/1830",
+      "dataassinatura": "20/09/1830",
+      "ementa": "SOBRE O ABUSO DA LIBERDADE DA IMPRENSA."
+    },
+    {
+      "id": "572972",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/09/1830",
+      "dataassinatura": "13/09/1830",
+      "ementa": "REGULA O CONTRATO POR ESCRITO SOBRE  PRESTAÇÃO DE SERVIÇOS FEITOS POR BRASILEIRO OU ESTRANGEIRO DENTRO OU FORA DO IMPERIO."
+    },
+    {
+      "id": "572971",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 11/09/1830",
+      "dataassinatura": "11/09/1830",
+      "ementa": "ESTATUE QUE OS PRESOS, OU AFIANÇADOS, POSSAM SER CITADOS, E DEMANDADOS, SOB CERTAS PROVIDENCIAS, POR QUALQUER FEITO CIVIL."
+    },
+    {
+      "id": "572970",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 10/09/1830",
+      "dataassinatura": "10/09/1830",
+      "ementa": "EXTINGUE A MESA DO DESPACHO MARITIMO PASSANDO AS SUAS INCUMBENCIAS PARA AS ESTAÇÕES ARRECADADORAS DOS DIREITOS DE SAIDA."
+    },
+    {
+      "id": "572969",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 28/08/1830",
+      "dataassinatura": "28/08/1830",
+      "ementa": "CONCEDE PRIVILEGIO AO QUE DESCOBRIR, INVENTAR OU MELHORAR UMA INDÚSTRIA UTIL E UM PREMIO AO QUE INTRODUZIR UMA INDUSTRIA ESTRANGEIRA, E REGULA SUA CONCESSÃO."
+    },
+    {
+      "id": "573031",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 27/08/1830 ( seq-sf: 2 )",
+      "dataassinatura": "27/08/1830",
+      "ementa": "EXTINGUE AS SUPERINTENDENCIAS E JUNTAS DO LANÇAMENTO DA DECIMA URBANA E CRIA COLETORES A QUEM ENCARREGA DESSE SERVIÇO."
+    },
+    {
+      "id": "573017",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 27/08/1830 ( seq-sf: 1 )",
+      "dataassinatura": "27/08/1830",
+      "ementa": "DECLARA QUE FICAM PERTENCENDO AOS JUÍZES SECULARES AS CONTAS DOS TESTAMENTOS E A DECISÃO DE TODAS AS QUESTÕES A ELES RELATIVAS."
+    },
+    {
+      "id": "572968",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 27/08/1830",
+      "dataassinatura": "27/08/1830",
+      "ementa": "MANDA ABRIR UM CANAL PARA FACILITAR O COMERCIO DA CAPITAL COM O INTERIOR DA PROVINCIA DO MARANHÃO."
+    },
+    {
+      "id": "572967",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 26/08/1830",
+      "dataassinatura": "26/08/1830",
+      "ementa": "CONCEDE FAVORES AOS ESTUDANTES BRASILEIROS QUE REGRESSAREM DA UNIVERSIDADE DE COIMBRA E ESCOLAS DE FRANCA ATE A DATA DA SUA PUBLICAÇÃO."
+    }
+  ]
+}

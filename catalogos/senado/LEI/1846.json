@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1846",
+  "tipo": "LEI",
+  "ano": 1846,
+  "coletado_em": "2026-10-20T23:08:06.489Z",
+  "normas": [
+    {
+      "senadoId": "541700",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1846-09-11-401",
+      "titulo": "Lei nº 401 de 11/09/1846",
+      "data": "1846-09-11",
+      "numero": "401",
+      "urn": "urn:lex:br:federal:lei:1846-09-11;401",
+      "ementa": "PARA QUE SE RECEBÃO NAS ESTAÇÕES PUBLICAS AS MOEDAS DE OURO DE VINTE E DOIS QUILATES NA RAZÃO DE QUATRO MIL REIS POR PITAVA, E AS DE PRATA NA RAZÃO QUE O GOVENO ESTABELECER; E AUTORIZANDO A RETIRADA DA CIRCULAÇÃO DA SOMA DE PAPEL-MOEDA QUE FOR NECESSARIA PARA O ELEVAR A ESTE VALOR, E NELE CONSERVA-LO."
+    },
+    {
+      "senadoId": "541689",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1846-09-02-396",
+      "titulo": "Lei nº 396 de 02/09/1846",
+      "data": "1846-09-02",
+      "numero": "396",
+      "urn": "urn:lex:br:federal:lei:1846-09-02;396",
+      "ementa": "FIXANDO A DESPESA, E ORÇANDO A RECEITA PARA OS EXERCÍCIOS DE 1846-1847 E 1947-1848."
+    },
+    {
+      "senadoId": "541668",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1846-08-19-387",
+      "titulo": "Lei nº 387 de 19/08/1846",
+      "data": "1846-08-19",
+      "numero": "387",
+      "urn": "urn:lex:br:federal:lei:1846-08-19;387",
+      "ementa": "REGULA A MANEIRA DE PROCEDER ÀS ELEIÇÕES DE SENADORES, DEPUTADOS, MEMBROS DAS ASSEMBLÉIAS PROVINCIAIS, JUÍZES DE PAZ, E CÂMARAS MUNICIPAIS."
+    }
+  ],
+  "pendencias": []
+}

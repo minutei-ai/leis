@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-01-07-15092",
+  "titulo": "Lei nº 15.092 de 07/01/2025",
+  "data": "2025-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/2d19f65b-edcb-42a8-829a-2287ef349afe/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-01-07;15092",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-01-07%3B15092&tipo_documento=maior-detalhe",
+  "sha256_dados": "30430dd5cb599e1cad48e543d382103cfa995864abe7ec0d24fbfbeccca55638",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:24.067Z",
+  "sha256_fonte": "333767d88e54fb52795fc160960b6f2640dd0bc848392764e298949f4c76174f",
+  "sha256_markdown": "124b92f49785c07b406c9e1be082764fa92e3575ba9fe22a00abf2c97058c588"
+}

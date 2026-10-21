@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-12-09-15039",
+  "titulo": "Lei nº 15.039 de 09/12/2024",
+  "data": "2024-12-09",
+  "fonte": "https://normas.leg.br/api/public/binario/3a76d3d2-bbfe-45d1-bee1-2e93cee10bfb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-12-09;15039",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-12-09%3B15039&tipo_documento=maior-detalhe",
+  "sha256_dados": "69736317ce99400e4dfa92bb1248341b5b174a315ffd767255a0de190e10cc2c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:12:28.832Z",
+  "sha256_fonte": "3ebc272deaa6db2cb760eb07c29e68175463512f6f5453a84b412cf1b1bb37df",
+  "sha256_markdown": "a6e5d4af071f6ca253fd9a6d58fb7189720e3fda97c144a247233bf53bdadb08"
+}

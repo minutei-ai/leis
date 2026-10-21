@@ -1,0 +1,189 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1882",
+  "tipo": "LEI",
+  "ano": 1882,
+  "coletado_em": "2026-10-20T23:06:17.548Z",
+  "normas": [
+    {
+      "senadoId": "573380",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-11-04-3150",
+      "titulo": "Lei nº 3.150 de 04/11/1882",
+      "data": "1882-11-04",
+      "numero": "3150",
+      "urn": "urn:lex:br:federal:lei:1882-11-04;3150",
+      "ementa": "REGULA O ESTABELECIMENTO DE COMPANHIAS E SOCIEDADE ANÔNIMAS."
+    },
+    {
+      "senadoId": "573368",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-10-30-3141",
+      "titulo": "Lei nº 3.141 de 30/10/1882",
+      "data": "1882-10-30",
+      "numero": "3141",
+      "urn": "urn:lex:br:federal:lei:1882-10-30;3141",
+      "ementa": "FIXA A DESPESA GERAL DO IMPERIO PARA OS EXERCICIOS DE 1882-1883 E 1883-1884, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "573370",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-10-30-3142",
+      "titulo": "Lei nº 3.142 de 30/10/1882",
+      "data": "1882-10-30",
+      "numero": "3142",
+      "urn": "urn:lex:br:federal:lei:1882-10-30;3142",
+      "ementa": "AUTORIZA O MINISTERIO DOS NEGOCIOS DO IMPERIO A MANDAR PAGAR A DIVIDA DE EXERCICIO FINDOS, NA IMPORTANCIA DE 13:252$500, PROVENIENTE DE IMPRESSÕES DOS ANAIS PARLAMENTARES ANTERIORES AO ANO DE 1857."
+    },
+    {
+      "senadoId": "573366",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-10-30-3140",
+      "titulo": "Lei nº 3.140 de 30/10/1882",
+      "data": "1882-10-30",
+      "numero": "3140",
+      "urn": "urn:lex:br:federal:lei:1882-10-30;3140",
+      "ementa": "ORÇA A RECEITA GERAL DO IMPERIO PARA OS EXERCICIOS DE 1882-1883 E 1883-1884, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "573373",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-10-30-3144",
+      "titulo": "Lei nº 3.144 de 30/10/1882",
+      "data": "1882-10-30",
+      "numero": "3144",
+      "urn": "urn:lex:br:federal:lei:1882-10-30;3144",
+      "ementa": "ABRE, AO MINISTERIO DOS NEGOCIOS DA AGRICULTURA, COMERCIO E OBRAS PUBLICAS UM CREDITO EXTRAORDINARIO DE 367:981$716, AFIM DE SER APLICADO A REPARAÇÕES NA FERROVIA DOM PEDRO II."
+    },
+    {
+      "senadoId": "573353",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-10-14-3129",
+      "titulo": "Lei nº 3.129 de 14/10/1882",
+      "data": "1882-10-14",
+      "numero": "3129",
+      "urn": "urn:lex:br:federal:lei:1882-10-14;3129",
+      "ementa": "REGULA A CONCESSÃO DE PATENTES AOS AUTORES DE INVENÇÃO OU DESCOBERTA INDUSTRIAL."
+    },
+    {
+      "senadoId": "573334",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-09-23-3111",
+      "titulo": "Lei nº 3.111 de 23/09/1882",
+      "data": "1882-09-23",
+      "numero": "3111",
+      "urn": "urn:lex:br:federal:lei:1882-09-23;3111",
+      "ementa": "DERROGA O PARAGRAFO 5 DO ARTIGO 2, O ARTIGO 10 DA LEI 2296 DE 18 DE JUNHO DE 1873, O PARAGRAFO 4 DO ARTIGO 8 E A PRIMEIRA PARTE DO ARTIGO 22 DO DECRETO 5461 DE 12 DE NOVEMBRO DE 1873."
+    },
+    {
+      "senadoId": "573324",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-08-12-3102",
+      "titulo": "Lei nº 3.102 de 12/08/1882",
+      "data": "1882-08-12",
+      "numero": "3102",
+      "urn": "urn:lex:br:federal:lei:1882-08-12;3102",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO, UM CREDITO EXTRAORDINARIO DE 30:000$, PARA SER APLICADO AS DESPESAS QUE O IMPERIAL OBSERVATORIO DO RIO DE JANEIRO TEM DE FAZER COM A OBSERVAÇÃO DA PASSAGEM DE VENUS SOBRE O DISCO DO SOL."
+    },
+    {
+      "senadoId": "573304",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-07-01-3085",
+      "titulo": "Lei nº 3.085 de 01/07/1882",
+      "data": "1882-07-01",
+      "numero": "3085",
+      "urn": "urn:lex:br:federal:lei:1882-07-01;3085",
+      "ementa": "AUTORIZA O GOVERNO A PAGAR, PELA VERBA - EXERCICIOS FINDOS - DO ORÇAMENTO VIGENTE A QUANTIA DE 2:400$000, NA IMPORTANCIA DE VENCIMENTOS DEVIDOS AO DESENHISTA DA REPARTIÇÃO HIDROGRAFICA, LAURIANO JOSE MARTINS PENHA JUNIOR, NOS EXERCICIOS DE 1877 - 1878 E 1878 - 1879."
+    },
+    {
+      "senadoId": "573302",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-07-01-3084",
+      "titulo": "Lei nº 3.084 de 01/07/1882",
+      "data": "1882-07-01",
+      "numero": "3084",
+      "urn": "urn:lex:br:federal:lei:1882-07-01;3084",
+      "ementa": "AUTORIZA O GOVERNO A PAGAR PELA VERBA - EXERCICIOS FINDOS - DA LEI DE ORÇAMENTO PARA 1881 - 1882, A QUANTIA DE 6:666$656, IMPORTANCIA DOS SERVIÇOS PRESTADOS PELOS PROFESSORES DA ESCOLA DE MAQUINISTAS DA ARMADA, DESDE O DIA 1 DE MARÇO DE 1878, ATE O FIM DE JUNHO 1879."
+    },
+    {
+      "senadoId": "573297",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-06-23-3081",
+      "titulo": "Lei nº 3.081 de 23/06/1882",
+      "data": "1882-06-23",
+      "numero": "3081",
+      "urn": "urn:lex:br:federal:lei:1882-06-23;3081",
+      "ementa": "ABRE AO GOVERNO, PELO MINISTERIO DA GUERRA, UM CREDITO SUPLEMENTAR DA QUANTIA DE 100:000$000, PARA SER APLICADO AS DESPESAS COM OBRAS MILITARES NO EXERCICIO DE 1881-1882."
+    },
+    {
+      "senadoId": "573300",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-06-23-3083",
+      "titulo": "Lei nº 3.083 de 23/06/1882",
+      "data": "1882-06-23",
+      "numero": "3083",
+      "urn": "urn:lex:br:federal:lei:1882-06-23;3083",
+      "ementa": "CONCEDE AO MINISTERIO DO IMPERIO O CREDITO PRECISO PARA OCORRER AS DESPESAS COM A SESSÃO EXTRAORDINARIA DA ASSEMBLEIA GERAL, ABERTA EM 9 DE OUTUBRO DE 1880."
+    },
+    {
+      "senadoId": "573291",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-06-21-3076",
+      "titulo": "Lei nº 3.076 de 21/06/1882",
+      "data": "1882-06-21",
+      "numero": "3076",
+      "urn": "urn:lex:br:federal:lei:1882-06-21;3076",
+      "ementa": "FIXA A FORÇA NAVAL PARA O EXERCICIO FINANCEIRO DE 1882-1883."
+    },
+    {
+      "senadoId": "573288",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-06-17-3074",
+      "titulo": "Lei nº 3.074 de 17/06/1882",
+      "data": "1882-06-17",
+      "numero": "3074",
+      "urn": "urn:lex:br:federal:lei:1882-06-17;3074",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO CRRDITOS SUPLEMENTARES NA IMPORTANCIA TOTAL DE 683:713$533."
+    },
+    {
+      "senadoId": "573286",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-06-17-3073",
+      "titulo": "Lei nº 3.073 de 17/06/1882",
+      "data": "1882-06-17",
+      "numero": "3073",
+      "urn": "urn:lex:br:federal:lei:1882-06-17;3073",
+      "ementa": "CONCEDE AO MINISTÉRIO DOS NEGOCIOS DO IMPERIO, UM CREDITO EXTRAORDINARIO DE 20.000:000$, PARA DESPESAS COM SOCORROS AS PROVINCIAS FLAGELADAS PELA SECA."
+    },
+    {
+      "senadoId": "573279",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-05-20-3069",
+      "titulo": "Lei nº 3.069 de 20/05/1882",
+      "data": "1882-05-20",
+      "numero": "3069",
+      "urn": "urn:lex:br:federal:lei:1882-05-20;3069",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1882-1882."
+    },
+    {
+      "senadoId": "544917",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-04-08-3063",
+      "titulo": "Lei nº 3.063 de 08/04/1882",
+      "data": "1882-04-08",
+      "numero": "3063",
+      "urn": "urn:lex:br:federal:lei:1882-04-08;3063",
+      "ementa": "ABRE AO MINISTERIO DA MARINHA UM CREDITO SUPLEMENTAR DE 23:609$146, PARA SER APLICADO A DESPESA DA VERBA REFORMADOS, DO EXERCICIO DE 1879-1880."
+    },
+    {
+      "senadoId": "544900",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1882-03-24-3047",
+      "titulo": "Lei nº 3.047 de 24/03/1882",
+      "data": "1882-03-24",
+      "numero": "3047",
+      "urn": "urn:lex:br:federal:lei:1882-03-24;3047",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO UM CREDITO SUPLEMENTAR DE 37:015$940, A VERBA OBRAS DO EXERCITO DE 1879-1880."
+    }
+  ],
+  "pendencias": []
+}

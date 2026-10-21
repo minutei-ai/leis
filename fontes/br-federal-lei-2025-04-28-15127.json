@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-04-28-15127",
+  "titulo": "Lei nº 15.127 de 28/04/2025",
+  "data": "2025-04-28",
+  "fonte": "https://normas.leg.br/api/public/binario/4c5c85c8-5cc4-4f65-91b1-3e9ea9bba23b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-04-28;15127",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-04-28%3B15127&tipo_documento=maior-detalhe",
+  "sha256_dados": "a415387a9c2b8ad44656ebeefd24081ecabe16856ff6f0239754b6f18cda0bab",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:34.158Z",
+  "sha256_fonte": "a66cd3bbcbfb7047657ea16b028c133524da6aa9f7e1b630f881b2c341d45f72",
+  "sha256_markdown": "dae13f1b688b62c2200cdae17a5f98d705a917c382e722865191c26581e617d9"
+}

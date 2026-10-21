@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-01-15278",
+  "titulo": "Lei nº 15.278 de 01/12/2025",
+  "data": "2025-12-01",
+  "fonte": "https://normas.leg.br/api/public/binario/41b588d8-4baf-48ed-967d-5b30dea9b684/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-01;15278",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-01%3B15278&tipo_documento=maior-detalhe",
+  "sha256_dados": "2225072432d1e32f019f246d128890e0dc5a2558e7b3fd1e2db5ad44bb1de983",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:20.993Z",
+  "sha256_fonte": "94248218b8be424556a43be597dfb69fd76a482e14d69e0ae816ab572a3e1504",
+  "sha256_markdown": "97acd98071a9e10e3a2bc17bdc9f352aeed0e3bca7cf8f7a5e5bb43b0210bd9b"
+}

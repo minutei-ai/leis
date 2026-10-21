@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-26-15272",
+  "titulo": "Lei nº 15.272 de 26/11/2025",
+  "data": "2025-11-26",
+  "fonte": "https://normas.leg.br/api/public/binario/c86a1fb3-fe22-48f7-88f5-1655186523a0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-26;15272",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-26%3B15272&tipo_documento=maior-detalhe",
+  "sha256_dados": "21fb836fefe9d83ccd89caaaa8e463f6f90a62946d832a35356b9db07ffb039a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:26.211Z",
+  "sha256_fonte": "05fdf34d146c047c43b22a4fc7b1b9b6a250868db1a51d1ad5f12478032c7d7a",
+  "sha256_markdown": "61c321134fdfebe5da2eb03ff19e92199f01c28ba1471cdbd5cb5f053297eaf5"
+}

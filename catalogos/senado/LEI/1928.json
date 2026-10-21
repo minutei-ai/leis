@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1928",
+  "tipo": "LEI",
+  "ano": 1928,
+  "coletado_em": "2026-10-20T23:04:33.727Z",
+  "normas": [
+    {
+      "senadoId": "547503",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1928-12-31-5631",
+      "titulo": "Lei nº 5.631 de 31/12/1928",
+      "data": "1928-12-31",
+      "numero": "5631",
+      "urn": "urn:lex:br:federal:lei:1928-12-31;5631",
+      "ementa": "Declara os casos de inactividade dos officiaes do Exercito e da Armada e dá outras providencias"
+    },
+    {
+      "senadoId": "547481",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1928-12-24-5610",
+      "titulo": "Lei nº 5.610 de 24/12/1928",
+      "data": "1928-12-24",
+      "numero": "5610",
+      "urn": "urn:lex:br:federal:lei:1928-12-24;5610",
+      "ementa": "Fixa a despesa geral da Republica dos Estados Unidos do Brasil para o exercicio de 1929"
+    },
+    {
+      "senadoId": "547476",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1928-12-19-5606",
+      "titulo": "Lei nº 5.606 de 19/12/1928",
+      "data": "1928-12-19",
+      "numero": "5606",
+      "urn": "urn:lex:br:federal:lei:1928-12-19;5606",
+      "ementa": "Orça a Receita da Republica dos Estados Unidos do Brasil para o exercicio de 1929"
+    },
+    {
+      "senadoId": "30819088",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1928-09-27-5542",
+      "titulo": "Lei nº 5.542 de 27/09/1928",
+      "data": "1928-09-27",
+      "numero": "5542",
+      "urn": "urn:lex:br:federal:lei:1928-09-27;5542",
+      "ementa": "Fixa as forças de terra para o exercicio de 1929"
+    },
+    {
+      "senadoId": "547409",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1928-09-27-5540",
+      "titulo": "Lei nº 5.540 de 27/09/1928",
+      "data": "1928-09-27",
+      "numero": "5540",
+      "urn": "urn:lex:br:federal:lei:1928-09-27;5540",
+      "ementa": "Fixa as forças de terra para o exercicio de 1929"
+    },
+    {
+      "senadoId": "547312",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1928-01-14-5445",
+      "titulo": "Lei nº 5.445 de 14/01/1928",
+      "data": "1928-01-14",
+      "numero": "5445",
+      "urn": "urn:lex:br:federal:lei:1928-01-14;5445",
+      "ementa": "Fixa a despesa geral da Republica dos Estados Unidos do Brasil para o exercicio de 1928"
+    }
+  ],
+  "pendencias": []
+}

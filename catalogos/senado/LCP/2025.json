@@ -1,0 +1,139 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2025",
+  "tipo": "LCP",
+  "ano": 2025,
+  "coletado_em": "2026-10-20T23:10:02.684Z",
+  "normas": [
+    {
+      "senadoId": "41886467",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-12-26-224",
+      "titulo": "Lei Complementar nº 224 de 26/12/2025",
+      "data": "2025-12-26",
+      "numero": "224",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-12-26;224",
+      "ementa": "Dispõe sobre a redução e os critérios de concessão de incentivos e benefícios de natureza tributária, financeira ou creditícia concedidos exclusivamente no âmbito da União; estabelece a responsabilidade solidária de terceiros pelo recolhimento de tributos incidentes sobre a exploração de apostas de quota fixa; e altera as Leis Complementares nºs 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), 105, de 10 de janeiro de 2001, e 215, de 21 de março de 2025, e as Leis nºs 7.689, de 15 de dezembro de 1988, 9.249, de 26 de dezembro de 1995, 13.756, de 12 de dezembro de 2018, e 8.137, de 27 de dezembro de 1990."
+    },
+    {
+      "senadoId": "41854150",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-12-19-223",
+      "titulo": "Lei Complementar nº 223 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "223",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-12-19;223",
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para excluir do cômputo dos limites de despesas primárias e das metas fiscais as despesas temporárias com educação pública e saúde de que trata o art. 6º da Lei nº 15.164, de 14 de julho de 2025."
+    },
+    {
+      "senadoId": "41758063",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-11-26-222",
+      "titulo": "Lei Complementar nº 222 de 26/11/2025",
+      "data": "2025-11-26",
+      "numero": "222",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-11-26;222",
+      "ementa": "Dispõe sobre condições e limites para a concessão, a ampliação ou a prorrogação de incentivos fiscais ao esporte pela União, pelos Estados, pelo Distrito Federal e pelos Municípios; altera a Lei nº 14.260, de 8 de dezembro de 2021; e revoga a Lei nº 11.438, de 29 de dezembro de 2006 (Lei de Incentivo ao Esporte)."
+    },
+    {
+      "senadoId": "41711232",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-11-18-221",
+      "titulo": "Lei Complementar nº 221 de 18/11/2025",
+      "data": "2025-11-18",
+      "numero": "221",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-11-18;221",
+      "ementa": "Dispõe sobre projetos estratégicos em defesa nacional."
+    },
+    {
+      "senadoId": "41627430",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-10-31-220",
+      "titulo": "Lei Complementar nº 220 de 31/10/2025",
+      "data": "2025-10-31",
+      "numero": "220",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-10-31;220",
+      "ementa": "Institui o Sistema Nacional de Educação (SNE) e fixa normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios para elaboração e implementação de políticas, de programas e de ações educacionais, em regime de colaboração."
+    },
+    {
+      "senadoId": "41506714",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-09-29-219",
+      "titulo": "Lei Complementar nº 219 de 29/09/2025",
+      "data": "2025-09-29",
+      "numero": "219",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-09-29;219",
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para modificar prazos de duração e de fixação dos termos iniciais e finais de contagem de inelegibilidades, e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para prever a criação do Requerimento de Declaração de Elegibilidade (RDE)."
+    },
+    {
+      "senadoId": "41496865",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-09-24-218",
+      "titulo": "Lei Complementar nº 218 de 24/09/2025",
+      "data": "2025-09-24",
+      "numero": "218",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-09-24;218",
+      "ementa": "Altera a Lei Complementar nº 116, de 31 de julho de 2003, para explicitar que o Imposto Sobre Serviços de Qualquer Natureza (ISS) incidente sobre os serviços de guincho intramunicipal, de guindaste e de içamento é devido no local da execução da obra."
+    },
+    {
+      "senadoId": "41484641",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-09-18-217",
+      "titulo": "Lei Complementar nº 217 de 18/09/2025",
+      "data": "2025-09-18",
+      "numero": "217",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-09-18;217",
+      "ementa": "Altera a Lei Complementar nº 172, de 15 de abril de 2020, a fim de prorrogar o prazo para que os Estados, o Distrito Federal e os Municípios executem atos de transposição e de transferência de saldos financeiros constantes dos seus Fundos de Saúde."
+    },
+    {
+      "senadoId": "41168553",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-07-28-216",
+      "titulo": "Lei Complementar nº 216 de 28/07/2025",
+      "data": "2025-07-28",
+      "numero": "216",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-07-28;216",
+      "ementa": "Institui o Programa Acredita Exportação; e altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e as Leis nºs 13.043, de 13 de novembro de 2014, 11.945, de 4 de junho de 2009, e 10.833, de 29 de dezembro de 2003, a fim de ampliar benefícios para determinados serviços nos regimes aduaneiros especiais de drawback e para o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado (Recof) e incentivar as exportações brasileiras, especialmente as dos pequenos negócios."
+    },
+    {
+      "senadoId": "40474849",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-03-21-215",
+      "titulo": "Lei Complementar nº 215 de 21/03/2025",
+      "data": "2025-03-21",
+      "numero": "215",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-03-21;215",
+      "ementa": "Dispõe sobre extensão do prazo para liquidação de restos a pagar não processados de que trata o art. 172 da Lei nº 14.791, de 29 de dezembro de 2023 (Lei de Diretrizes Orçamentárias de 2024)."
+    },
+    {
+      "senadoId": "40180341",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-01-16-214",
+      "titulo": "Lei Complementar nº 214 de 16/01/2025",
+      "data": "2025-01-16",
+      "numero": "214",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-01-16;214",
+      "ementa": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária."
+    },
+    {
+      "senadoId": "40167942",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-01-15-213",
+      "titulo": "Lei Complementar nº 213 de 15/01/2025",
+      "data": "2025-01-15",
+      "numero": "213",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-01-15;213",
+      "ementa": "Altera o Decreto-Lei nº 73, de 21 de novembro de 1966 (Lei do Seguro Privado), para dispor sobre as sociedades cooperativas de seguros e as operações de proteção patrimonial mutualista, bem como sobre o termo de compromisso e o processo administrativo sancionador no âmbito da Superintendência de Seguros Privados (Susep); altera o Decreto-Lei nº 261, de 28 de fevereiro de 1967, para dispor regras a que as sociedades de capitalização estão sujeitas; altera a Lei Complementar nº 109, de 29 de maio de 2001 (Lei da Previdência Complementar), para dispor sobre hipóteses de dispensa de autorização para atos relativos a eleição e posse de administradores e membros de conselhos estatutários de entidades abertas de previdência complementar; altera a Lei nº 10.190, de 14 de fevereiro de 2001, para dispor sobre responsabilidade de administradores, regimes especiais de insolvência e medidas preventivas aplicáveis às sociedades cooperativas de seguros e às administradoras de operações de proteção patrimonial mutualista; altera a Lei Complementar nº 126, de 15 de janeiro de 2007 (Lei do Resseguro), para dispor sobre a contratação de operações de resseguro por sociedades cooperativas de seguros e por administradoras de operações de proteção patrimonial mutualista; altera a Lei nº 12.249, de 11 de junho de 2010, para dispor sobre a Taxa de Fiscalização dos Mercados de Seguro e Resseguro, de Proteção Patrimonial Mutualista, de Capitalização e de Previdência Complementar Aberta; estabelece regras e condições para regularização da situação de associações que especifica; revoga dispositivo da Lei nº 4.594, de 29 de dezembro de 1964; e dá outras providências."
+    },
+    {
+      "senadoId": "40157164",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2025-01-13-212",
+      "titulo": "Lei Complementar nº 212 de 13/01/2025",
+      "data": "2025-01-13",
+      "numero": "212",
+      "urn": "urn:lex:br:federal:lei.complementar:2025-01-13;212",
+      "ementa": "Institui o Programa de Pleno Pagamento de Dívidas dos Estados (Propag), destinado a promover a revisão dos termos das dívidas dos Estados e do Distrito Federal com a União firmadas no âmbito da Lei nº 8.727, de 5 de novembro de 1993, da Lei nº 9.496, de 11 de setembro de 1997, da Lei Complementar nº 159, de 19 de maio de 2017, da Lei Complementar nº 178, de 13 de janeiro de 2021, da Lei Complementar nº 201, de 24 de outubro de 2023, e da Medida Provisória nº 2.192-70, de 24 de agosto de 2001; prevê instituição de fundo de equalização federativa; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), a Lei Complementar nº 178, de 13 de janeiro de 2021, e a Lei Complementar nº 201, de 24 de outubro de 2023."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-06-16-15150",
+  "titulo": "Lei nº 15.150 de 16/06/2025",
+  "data": "2025-06-16",
+  "fonte": "https://normas.leg.br/api/public/binario/2a80b35d-6ef3-4060-906e-0a94c29ba03d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-06-16;15150",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-06-16%3B15150&tipo_documento=maior-detalhe",
+  "sha256_dados": "a65bc2a87986c2bd9dde0c4cf79c01bae968cd131f5999c620ffd4218b756b88",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:05.739Z",
+  "sha256_fonte": "6ea99bfd398a85b09b36c81c05f1ee1cdc50968c94d4d995d24505de57700769",
+  "sha256_markdown": "b925b6a0b88b7ab499891e8373b12940818c9fbeaac249ecac1f2a1b10af514c"
+}

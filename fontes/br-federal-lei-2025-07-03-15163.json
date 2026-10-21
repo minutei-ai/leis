@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-07-03-15163",
+  "titulo": "Lei nº 15.163 de 03/07/2025",
+  "data": "2025-07-03",
+  "fonte": "https://normas.leg.br/api/public/binario/166e4cd6-33e6-45a9-9822-49f9da0575f9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-07-03;15163",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-07-03%3B15163&tipo_documento=maior-detalhe",
+  "sha256_dados": "da8119fe773871975d4b850df802a572607e87b5453ebc7cc626ce4322166d23",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:09:55.563Z",
+  "sha256_fonte": "71e8d0befe48fcd6bd7ff431feea70104d9d8b05174da1c2c1e51c06d7473979",
+  "sha256_markdown": "165ba3dd7308e1148ea4a8d47a0dfa6ccfae3c9b62468cb08a01b6615501c296"
+}

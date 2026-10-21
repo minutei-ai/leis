@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1923",
+  "tipo": "LEI",
+  "ano": 1923,
+  "coletado_em": "2026-10-20T23:04:43.482Z",
+  "normas": [
+    {
+      "senadoId": "546636",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1923-12-31-4783",
+      "titulo": "Lei nº 4.783 de 31/12/1923",
+      "data": "1923-12-31",
+      "numero": "4783",
+      "urn": "urn:lex:br:federal:lei:1923-12-31;4783",
+      "ementa": "Orça a Receita Geral da Republica dos Estados Unidos do Brasil para o exercicio de 1924"
+    },
+    {
+      "senadoId": "30812465",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1923-12-21-4771",
+      "titulo": "Lei nº 4.771 de 21/12/1923",
+      "data": "1923-12-21",
+      "numero": "4771",
+      "urn": "urn:lex:br:federal:lei:1923-12-21;4771",
+      "ementa": "Fixa as forças de terra para o exercicio de 1924."
+    },
+    {
+      "senadoId": "30819408",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1923-01-06-4632",
+      "titulo": "Lei nº 4.632 de 06/01/1923",
+      "data": "1923-01-06",
+      "numero": "4632",
+      "urn": "urn:lex:br:federal:lei:1923-01-06;4632",
+      "ementa": "Fixa a Despeza Geral da Republica dos Estados Unidos do Brasil para o exercicio de 1923"
+    }
+  ],
+  "pendencias": []
+}

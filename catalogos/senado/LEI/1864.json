@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1864",
+  "tipo": "LEI",
+  "ano": 1864,
+  "coletado_em": "2026-10-20T23:06:59.102Z",
+  "normas": [
+    {
+      "senadoId": "542870",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1864-09-24-1237",
+      "titulo": "Lei nº 1.237 de 24/09/1864",
+      "data": "1864-09-24",
+      "numero": "1237",
+      "urn": "urn:lex:br:federal:lei:1864-09-24;1237",
+      "ementa": "REFORMA A LEGISLAÇÃO HYPOTHECARIA, E ESTABELECE AS BASES DA SOCIEDADE DE CRÉDITO REAL."
+    },
+    {
+      "senadoId": "542851",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1864-07-20-1220",
+      "titulo": "Lei nº 1.220 de 20/07/1864",
+      "data": "1864-07-20",
+      "numero": "1220",
+      "urn": "urn:lex:br:federal:lei:1864-07-20;1220",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1864 A 1865."
+    },
+    {
+      "senadoId": "542847",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1864-07-07-1217",
+      "titulo": "Lei nº 1.217 de 07/07/1864",
+      "data": "1864-07-07",
+      "numero": "1217",
+      "urn": "urn:lex:br:federal:lei:1864-07-07;1217",
+      "ementa": "ESTABELECE A DOTAÇÃO DE SUAS ALTEZAS IMPERIAIS, QUANDO HOUVE DE REALIZAR-SE O SEU CONSÓRCIO."
+    },
+    {
+      "senadoId": "603691",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1864-05-27-1208",
+      "titulo": "Lei nº 1.208 de 27/05/1864",
+      "data": "1864-05-27",
+      "numero": "1208",
+      "urn": "urn:lex:br:federal:lei:1864-05-27;1208",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, UM CRÉDITO SUPLEMENTAR PARA DESPESAS DO EXERCÍCIO DE 1863-1864."
+    },
+    {
+      "senadoId": "542835",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1864-05-25-1207",
+      "titulo": "Lei nº 1.207 de 25/05/1864",
+      "data": "1864-05-25",
+      "numero": "1207",
+      "urn": "urn:lex:br:federal:lei:1864-05-25;1207",
+      "ementa": "CONCEDE AO MINISTÉRIO DA MARINHA O CRÉDITO DE 750:000$000 PARA SER DISTRIBUÍDOS PELAS RUBRICAS - MATERIAL E OBRAS - DO EXERCÍCIO DE 1863 - 1864."
+    },
+    {
+      "senadoId": "542831",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1864-05-13-1204",
+      "titulo": "Lei nº 1.204 de 13/05/1864",
+      "data": "1864-05-13",
+      "numero": "1204",
+      "urn": "urn:lex:br:federal:lei:1864-05-13;1204",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1864 - 1865."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,109 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2001",
+  "tipo": "LCP",
+  "ano": 2001,
+  "coletado_em": "2026-10-20T23:10:39.279Z",
+  "normas": [
+    {
+      "senadoId": "572868",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-09-19-113",
+      "titulo": "Lei Complementar nº 113 de 19/09/2001",
+      "data": "2001-09-19",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-09-19;113",
+      "ementa": "Autoriza o Poder Executivo a criar a Região Administrativa Integrada de   Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA e institui o Programa   Especial de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA."
+    },
+    {
+      "senadoId": "572867",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-09-19-112",
+      "titulo": "Lei Complementar nº 112 de 19/09/2001",
+      "data": "2001-09-19",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-09-19;112",
+      "ementa": "Autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento da Grande Teresina e instituir o Programa Especial de Desenvolvimento da Grande Teresina e dá outras providências."
+    },
+    {
+      "senadoId": "572866",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-07-06-111",
+      "titulo": "Lei Complementar nº 111 de 06/07/2001",
+      "data": "2001-07-06",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-07-06;111",
+      "ementa": "Dispõe sobre o Fundo de Combate e Erradicação da Pobreza, na forma prevista nos artigos 79, 80 e 81 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "572865",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-06-29-110",
+      "titulo": "Lei Complementar nº 110 de 29/06/2001",
+      "data": "2001-06-29",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-06-29;110",
+      "ementa": "Institui contribuições sociais, autoriza créditos de complementos de atualização monetária em contas vinculadas do Fundo de Garantia do Tempo de Serviço - FGTS e dá outras providências."
+    },
+    {
+      "senadoId": "572863",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-05-29-108",
+      "titulo": "Lei Complementar nº 108 de 29/05/2001",
+      "data": "2001-05-29",
+      "numero": "108",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-05-29;108",
+      "ementa": "Dispõe sobre a relação entre a União, os Estados, o Distrito Federal e os   Municípios, suas autarquias, fundações, sociedades de economia mista e outras   entidades públicas e suas respectivas entidades fechadas de previdência   complementar, e dá outras providências."
+    },
+    {
+      "senadoId": "572864",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-05-29-109",
+      "titulo": "Lei Complementar nº 109 de 29/05/2001",
+      "data": "2001-05-29",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-05-29;109",
+      "ementa": "Dispõe sobre o Regime de Previdência Complementar e dá outras providências."
+    },
+    {
+      "senadoId": "572862",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-04-26-107",
+      "titulo": "Lei Complementar nº 107 de 26/04/2001",
+      "data": "2001-04-26",
+      "numero": "107",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-04-26;107",
+      "ementa": "Altera a Lei Complementar nº 95, de 26 de fevereiro de 1998."
+    },
+    {
+      "senadoId": "572861",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-03-23-106",
+      "titulo": "Lei Complementar nº 106 de 23/03/2001",
+      "data": "2001-03-23",
+      "numero": "106",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-03-23;106",
+      "ementa": "Dá nova redação aos §§ 1º e 2º do art. 2º da Lei Complementar nº 91, de 22   de dezembro de 1997, que dispõe sobre a fixação dos coeficientes de distribuição   dos recursos do Fundo de Participação dos Municípios."
+    },
+    {
+      "senadoId": "572860",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-01-10-105",
+      "titulo": "Lei Complementar nº 105 de 10/01/2001",
+      "data": "2001-01-10",
+      "numero": "105",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-01-10;105",
+      "ementa": "Dispõe sobre o sigilo das operações de instituições financeiras e dá outras providências."
+    },
+    {
+      "senadoId": "572859",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2001-01-10-104",
+      "titulo": "Lei Complementar nº 104 de 10/01/2001",
+      "data": "2001-01-10",
+      "numero": "104",
+      "urn": "urn:lex:br:federal:lei.complementar:2001-01-10;104",
+      "ementa": "Altera dispositivos da Lei nº 5.172, de 25 de outubro de 1966 ;- Código Tributário Nacional."
+    }
+  ],
+  "pendencias": []
+}

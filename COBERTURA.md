@@ -1,26 +1,29 @@
 # Cobertura do acervo
 
-Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos arquivos com hashes íntegros presentes neste commit. Não mede toda a legislação brasileira nem a completude do catálogo oficial.
+Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos arquivos com hashes íntegros presentes neste commit. Não mede toda a legislação brasileira nem a completude dos catálogos oficiais.
 
-- Normas publicadas: **207**.
-- Normas identificadas nos catálogos consultados do Senado: **16216**.
-- Dessas, ainda sem Markdown íntegro: **16010**.
-- Falhas de coleta registradas: **0**.
+- Normas publicadas: **585**.
+- Normas identificadas nos catálogos consultados do Senado: **16988**.
+- Dessas, ainda sem Markdown íntegro: **16407**.
+- Normas identificadas nos catálogos consultados da ALMG: **1265**.
+- Dessas, ainda sem Markdown íntegro: **1262**.
+- Falhas de coleta registradas: **2**.
 
 ## Versões publicadas
 
-- publicação original disponibilizada pelo Senado: 204.
+- publicação original disponibilizada pela ALMG: 3.
+- publicação original disponibilizada pelo Senado: 579.
 - texto atualizado pela Câmara na data de coleta: 3.
 
-## Catálogos consultados
+## Catálogos federais do Senado
 
 Cada catálogo preserva a resposta oficial comprimida, o filtro e a data de coleta. A consulta por tipo/ano não expõe total independente ou paginação; as quantidades abaixo correspondem aos registros efetivamente recebidos. Pendências são identificações que o coletor ainda não consegue representar.
 
 | Tipo | Ano | Identificadas | Pendências de identidade | Publicadas | A coletar |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | LEI | 2026 | 204 | 0 | 204 | 0 |
-| LEI | 2025 | 239 | 0 | 0 | 239 |
-| LEI | 2024 | 291 | 0 | 0 | 291 |
+| LEI | 2025 | 239 | 0 | 238 | 1 |
+| LEI | 2024 | 291 | 0 | 137 | 154 |
 | LEI | 2023 | 275 | 0 | 0 | 275 |
 | LEI | 2022 | 228 | 0 | 0 | 228 |
 | LEI | 2021 | 172 | 0 | 0 | 172 |
@@ -113,7 +116,291 @@ Cada catálogo preserva a resposta oficial comprimida, o filtro e a data de cole
 | LEI | 1934 | 2 | 0 | 0 | 2 |
 | LEI | 1933 | 0 | 0 | 0 | 0 |
 | LEI | 1932 | 0 | 0 | 0 | 0 |
+| LEI | 1931 | 0 | 0 | 0 | 0 |
+| LEI | 1930 | 0 | 0 | 0 | 0 |
+| LEI | 1929 | 3 | 0 | 0 | 3 |
+| LEI | 1928 | 6 | 0 | 0 | 6 |
+| LEI | 1927 | 6 | 0 | 0 | 6 |
+| LEI | 1926 | 1 | 0 | 0 | 1 |
+| LEI | 1925 | 3 | 0 | 0 | 3 |
+| LEI | 1924 | 1 | 0 | 0 | 1 |
+| LEI | 1923 | 3 | 0 | 0 | 3 |
+| LEI | 1922 | 3 | 0 | 0 | 3 |
+| LEI | 1921 | 6 | 0 | 0 | 6 |
+| LEI | 1920 | 4 | 0 | 0 | 4 |
+| LEI | 1919 | 3 | 0 | 0 | 3 |
+| LEI | 1918 | 2 | 0 | 0 | 2 |
+| LEI | 1917 | 5 | 0 | 0 | 5 |
+| LEI | 1916 | 6 | 0 | 0 | 6 |
+| LEI | 1915 | 3 | 0 | 0 | 3 |
+| LEI | 1914 | 3 | 0 | 0 | 3 |
+| LEI | 1913 | 3 | 0 | 0 | 3 |
+| LEI | 1912 | 4 | 0 | 0 | 4 |
+| LEI | 1911 | 3 | 0 | 0 | 3 |
+| LEI | 1910 | 4 | 0 | 0 | 4 |
+| LEI | 1909 | 4 | 0 | 0 | 4 |
+| LEI | 1908 | 6 | 0 | 0 | 6 |
+| LEI | 1907 | 4 | 0 | 0 | 4 |
+| LEI | 1906 | 6 | 0 | 0 | 6 |
+| LEI | 1905 | 5 | 0 | 0 | 5 |
+| LEI | 1904 | 7 | 0 | 0 | 7 |
+| LEI | 1903 | 5 | 0 | 0 | 5 |
+| LEI | 1902 | 7 | 0 | 0 | 7 |
+| LEI | 1901 | 5 | 0 | 0 | 5 |
+| LEI | 1900 | 6 | 0 | 0 | 6 |
+| LEI | 1899 | 13 | 0 | 0 | 13 |
+| LEI | 1898 | 9 | 0 | 0 | 9 |
+| LEI | 1897 | 7 | 0 | 0 | 7 |
+| LEI | 1896 | 12 | 0 | 0 | 12 |
+| LEI | 1895 | 13 | 0 | 0 | 13 |
+| LEI | 1894 | 9 | 0 | 0 | 9 |
+| LEI | 1893 | 4 | 0 | 0 | 4 |
+| LEI | 1892 | 14 | 0 | 0 | 14 |
+| LEI | 1891 | 8 | 0 | 0 | 8 |
+| LEI | 1890 | 0 | 0 | 0 | 0 |
+| LEI | 1889 | 1 | 0 | 0 | 1 |
+| LEI | 1888 | 9 | 0 | 0 | 9 |
+| LEI | 1887 | 7 | 0 | 0 | 7 |
+| LEI | 1886 | 17 | 0 | 0 | 17 |
+| LEI | 1885 | 3 | 0 | 0 | 3 |
+| LEI | 1884 | 4 | 0 | 0 | 4 |
+| LEI | 1883 | 15 | 0 | 0 | 15 |
+| LEI | 1882 | 18 | 0 | 0 | 18 |
+| LEI | 1881 | 1 | 0 | 0 | 1 |
+| LEI | 1880 | 8 | 0 | 0 | 8 |
+| LEI | 1879 | 15 | 0 | 0 | 15 |
+| LEI | 1878 | 0 | 0 | 0 | 0 |
+| LEI | 1877 | 3 | 0 | 0 | 3 |
+| LEI | 1876 | 0 | 0 | 0 | 0 |
+| LEI | 1875 | 11 | 0 | 0 | 11 |
+| LEI | 1874 | 3 | 0 | 0 | 3 |
+| LEI | 1873 | 9 | 0 | 0 | 9 |
+| LEI | 1872 | 0 | 0 | 0 | 0 |
+| LEI | 1871 | 7 | 0 | 0 | 7 |
+| LEI | 1870 | 12 | 0 | 0 | 12 |
+| LEI | 1869 | 8 | 0 | 0 | 8 |
+| LEI | 1868 | 0 | 0 | 0 | 0 |
+| LEI | 1867 | 6 | 0 | 0 | 6 |
+| LEI | 1866 | 6 | 0 | 0 | 6 |
+| LEI | 1865 | 7 | 0 | 0 | 7 |
+| LEI | 1864 | 6 | 0 | 0 | 6 |
+| LEI | 1863 | 0 | 0 | 0 | 0 |
+| LEI | 1862 | 6 | 0 | 0 | 6 |
+| LEI | 1861 | 2 | 0 | 0 | 2 |
+| LEI | 1860 | 5 | 0 | 0 | 5 |
+| LEI | 1859 | 4 | 0 | 0 | 4 |
+| LEI | 1858 | 2 | 0 | 0 | 2 |
+| LEI | 1857 | 4 | 0 | 0 | 4 |
+| LEI | 1856 | 4 | 0 | 0 | 4 |
+| LEI | 1855 | 4 | 0 | 0 | 4 |
+| LEI | 1854 | 4 | 0 | 0 | 4 |
+| LEI | 1853 | 8 | 0 | 0 | 8 |
+| LEI | 1852 | 5 | 0 | 0 | 5 |
+| LEI | 1851 | 8 | 0 | 0 | 8 |
+| LEI | 1850 | 13 | 0 | 0 | 13 |
+| LEI | 1849 | 0 | 0 | 0 | 0 |
+| LEI | 1848 | 1 | 0 | 0 | 1 |
+| LEI | 1847 | 0 | 0 | 0 | 0 |
+| LEI | 1846 | 3 | 0 | 0 | 3 |
+| LEI | 1845 | 4 | 0 | 0 | 4 |
+| LEI | 1844 | 0 | 0 | 0 | 0 |
+| LEI | 1843 | 3 | 0 | 0 | 3 |
+| LEI | 1842 | 0 | 0 | 0 | 0 |
+| LEI | 1841 | 8 | 0 | 0 | 8 |
+| LEI | 1840 | 6 | 0 | 0 | 6 |
+| LEI | 1839 | 3 | 0 | 0 | 3 |
+| LEI | 1838 | 4 | 0 | 0 | 4 |
+| LEI | 1837 | 9 | 0 | 0 | 9 |
+| LEI | 1836 | 4 | 0 | 0 | 4 |
+| LEI | 1835 | 9 | 0 | 0 | 9 |
+| LEI | 1834 | 6 | 0 | 0 | 6 |
+| LEI | 1833 | 12 | 0 | 0 | 12 |
+| LEI | 1832 | 0 | 9 | 0 | 0 |
+| LEI | 1831 | 0 | 23 | 0 | 0 |
+| LEI | 1830 | 0 | 22 | 0 | 0 |
+| LEI | 1829 | 0 | 8 | 0 | 0 |
+| LEI | 1828 | 0 | 20 | 0 | 0 |
+| LEI | 1827 | 0 | 28 | 0 | 0 |
+| LEI | 1826 | 0 | 6 | 0 | 0 |
+| LEI | 1825 | 0 | 0 | 0 | 0 |
+| LEI | 1824 | 0 | 0 | 0 | 0 |
+| LEI | 1823 | 0 | 6 | 0 | 0 |
+| LEI | 1822 | 0 | 2 | 0 | 0 |
+| LCP | 2026 | 13 | 0 | 0 | 13 |
+| LCP | 2025 | 13 | 0 | 0 | 13 |
+| LCP | 2024 | 7 | 0 | 0 | 7 |
+| LCP | 2023 | 7 | 0 | 0 | 7 |
+| LCP | 2022 | 9 | 0 | 0 | 9 |
+| LCP | 2021 | 12 | 0 | 0 | 12 |
+| LCP | 2020 | 5 | 0 | 0 | 5 |
+| LCP | 2019 | 7 | 0 | 0 | 7 |
+| LCP | 2018 | 4 | 0 | 0 | 4 |
+| LCP | 2017 | 3 | 0 | 0 | 3 |
+| LCP | 2016 | 4 | 0 | 0 | 4 |
+| LCP | 2015 | 5 | 0 | 0 | 5 |
+| LCP | 2014 | 5 | 0 | 0 | 5 |
+| LCP | 2013 | 2 | 0 | 0 | 2 |
+| LCP | 2012 | 1 | 0 | 0 | 1 |
+| LCP | 2011 | 2 | 0 | 0 | 2 |
+| LCP | 2010 | 5 | 0 | 0 | 5 |
+| LCP | 2009 | 5 | 0 | 0 | 5 |
+| LCP | 2008 | 1 | 0 | 0 | 1 |
+| LCP | 2007 | 4 | 0 | 0 | 4 |
+| LCP | 2006 | 3 | 0 | 0 | 3 |
+| LCP | 2005 | 3 | 0 | 0 | 3 |
+| LCP | 2004 | 1 | 0 | 0 | 1 |
+| LCP | 2003 | 1 | 0 | 0 | 1 |
+| LCP | 2002 | 2 | 0 | 0 | 2 |
+| LCP | 2001 | 10 | 0 | 0 | 10 |
+| LCP | 2000 | 3 | 0 | 0 | 3 |
+| LCP | 1999 | 5 | 0 | 0 | 5 |
+| LCP | 1998 | 3 | 0 | 0 | 3 |
+| LCP | 1997 | 4 | 0 | 0 | 4 |
+| LCP | 1996 | 5 | 0 | 0 | 5 |
+| LCP | 1995 | 2 | 0 | 0 | 2 |
+| LCP | 1994 | 3 | 0 | 0 | 3 |
+| LCP | 1993 | 7 | 0 | 0 | 7 |
+| LCP | 1992 | 1 | 0 | 0 | 1 |
+| LCP | 1991 | 6 | 0 | 0 | 6 |
+| LCP | 1990 | 2 | 0 | 0 | 2 |
+| LCP | 1989 | 3 | 0 | 0 | 3 |
+| LCP | 1988 | 2 | 0 | 0 | 2 |
+| LCP | 1987 | 3 | 0 | 0 | 3 |
+| LCP | 1986 | 3 | 0 | 0 | 3 |
+| LCP | 1985 | 3 | 0 | 0 | 3 |
+| LCP | 1984 | 3 | 0 | 0 | 3 |
+| LCP | 1983 | 2 | 0 | 0 | 2 |
+| LCP | 1982 | 2 | 0 | 0 | 2 |
+| LCP | 1981 | 2 | 0 | 0 | 2 |
+| LCP | 1980 | 1 | 0 | 0 | 1 |
+| LCP | 1979 | 4 | 0 | 0 | 4 |
+| LCP | 1978 | 2 | 0 | 0 | 2 |
+| LCP | 1977 | 3 | 0 | 0 | 3 |
+| LCP | 1976 | 1 | 0 | 0 | 1 |
+| LCP | 1975 | 5 | 0 | 0 | 5 |
+| LCP | 1974 | 6 | 0 | 0 | 6 |
+| LCP | 1973 | 4 | 0 | 0 | 4 |
+| LCP | 1972 | 1 | 0 | 0 | 1 |
+| LCP | 1971 | 3 | 0 | 0 | 3 |
+| LCP | 1970 | 5 | 0 | 0 | 5 |
+| LCP | 1969 | 1 | 0 | 0 | 1 |
+| LCP | 1968 | 0 | 0 | 0 | 0 |
+| LCP | 1967 | 3 | 0 | 0 | 3 |
+| LCP | 1966 | 0 | 0 | 0 | 0 |
+| LCP | 1965 | 0 | 0 | 0 | 0 |
+| LCP | 1964 | 0 | 0 | 0 | 0 |
+| LCP | 1963 | 0 | 0 | 0 | 0 |
+| LCP | 1962 | 2 | 0 | 0 | 2 |
+| LCP | 1961 | 0 | 0 | 0 | 0 |
+| LCP | 1960 | 0 | 0 | 0 | 0 |
+| LCP | 1959 | 0 | 0 | 0 | 0 |
+| LCP | 1958 | 0 | 0 | 0 | 0 |
+| LCP | 1957 | 0 | 0 | 0 | 0 |
+| LCP | 1956 | 0 | 0 | 0 | 0 |
+| LCP | 1955 | 0 | 0 | 0 | 0 |
+| LCP | 1954 | 0 | 0 | 0 | 0 |
+| LCP | 1953 | 0 | 0 | 0 | 0 |
+| LCP | 1952 | 0 | 0 | 0 | 0 |
+| LCP | 1951 | 0 | 0 | 0 | 0 |
+| LCP | 1950 | 0 | 0 | 0 | 0 |
+| LCP | 1949 | 0 | 0 | 0 | 0 |
+| LCP | 1948 | 0 | 0 | 0 | 0 |
+| LCP | 1947 | 0 | 0 | 0 | 0 |
+| LCP | 1946 | 0 | 0 | 0 | 0 |
+| LCP | 1945 | 0 | 0 | 0 | 0 |
+| LCP | 1944 | 0 | 0 | 0 | 0 |
+| LCP | 1943 | 0 | 0 | 0 | 0 |
+| LCP | 1942 | 0 | 0 | 0 | 0 |
+| LCP | 1941 | 0 | 0 | 0 | 0 |
+| LCP | 1940 | 0 | 0 | 0 | 0 |
+| LCP | 1939 | 0 | 0 | 0 | 0 |
+| LCP | 1938 | 0 | 0 | 0 | 0 |
+| LCP | 1937 | 0 | 0 | 0 | 0 |
+| LCP | 1936 | 0 | 0 | 0 | 0 |
+| LCP | 1935 | 0 | 0 | 0 | 0 |
+| LCP | 1934 | 0 | 0 | 0 | 0 |
+| LCP | 1933 | 0 | 0 | 0 | 0 |
+| LCP | 1932 | 0 | 0 | 0 | 0 |
+| LCP | 1931 | 0 | 0 | 0 | 0 |
+| LCP | 1930 | 0 | 0 | 0 | 0 |
+| LCP | 1929 | 0 | 0 | 0 | 0 |
+| LCP | 1928 | 0 | 0 | 0 | 0 |
+| LCP | 1927 | 0 | 0 | 0 | 0 |
+| LCP | 1926 | 0 | 0 | 0 | 0 |
+| LCP | 1925 | 0 | 0 | 0 | 0 |
+| LCP | 1924 | 0 | 0 | 0 | 0 |
+| LCP | 1923 | 0 | 0 | 0 | 0 |
+| LCP | 1922 | 0 | 0 | 0 | 0 |
+| LCP | 1921 | 0 | 0 | 0 | 0 |
+| LCP | 1920 | 0 | 0 | 0 | 0 |
+| LCP | 1919 | 0 | 0 | 0 | 0 |
+| LCP | 1918 | 0 | 0 | 0 | 0 |
+| LCP | 1917 | 0 | 0 | 0 | 0 |
+| LCP | 1916 | 0 | 0 | 0 | 0 |
+| LCP | 1915 | 0 | 0 | 0 | 0 |
+| LCP | 1914 | 0 | 0 | 0 | 0 |
+| LCP | 1913 | 0 | 0 | 0 | 0 |
+| LCP | 1912 | 0 | 0 | 0 | 0 |
+| LCP | 1911 | 0 | 0 | 0 | 0 |
+| LCP | 1910 | 0 | 0 | 0 | 0 |
+| LCP | 1909 | 0 | 0 | 0 | 0 |
+| LCP | 1908 | 0 | 0 | 0 | 0 |
+| LCP | 1907 | 0 | 0 | 0 | 0 |
+| LCP | 1906 | 0 | 0 | 0 | 0 |
+| LCP | 1905 | 0 | 0 | 0 | 0 |
+| LCP | 1904 | 0 | 0 | 0 | 0 |
+| LCP | 1903 | 0 | 0 | 0 | 0 |
+| LCP | 1902 | 0 | 0 | 0 | 0 |
+| LCP | 1901 | 0 | 0 | 0 | 0 |
+| LCP | 1900 | 0 | 0 | 0 | 0 |
+| LCP | 1899 | 0 | 0 | 0 | 0 |
+| LCP | 1898 | 0 | 0 | 0 | 0 |
+| LCP | 1897 | 0 | 0 | 0 | 0 |
+| LCP | 1896 | 0 | 0 | 0 | 0 |
+| LCP | 1895 | 0 | 0 | 0 | 0 |
+| LCP | 1894 | 0 | 0 | 0 | 0 |
+| LCP | 1893 | 0 | 0 | 0 | 0 |
+| LCP | 1892 | 0 | 0 | 0 | 0 |
+| LCP | 1891 | 0 | 0 | 0 | 0 |
+| LCP | 1890 | 0 | 0 | 0 | 0 |
+| LCP | 1889 | 0 | 0 | 0 | 0 |
+| LCP | 1888 | 0 | 0 | 0 | 0 |
+| LCP | 1887 | 0 | 0 | 0 | 0 |
+| LCP | 1886 | 0 | 0 | 0 | 0 |
+| LCP | 1885 | 0 | 0 | 0 | 0 |
+| LCP | 1884 | 0 | 0 | 0 | 0 |
+| LCP | 1883 | 0 | 0 | 0 | 0 |
+| LCP | 1882 | 0 | 0 | 0 | 0 |
+| LCP | 1881 | 0 | 0 | 0 | 0 |
+| LCP | 1880 | 0 | 0 | 0 | 0 |
+| LCP | 1879 | 0 | 0 | 0 | 0 |
+| LCP | 1878 | 0 | 0 | 0 | 0 |
+| LCP | 1877 | 0 | 0 | 0 | 0 |
+| LCP | 1876 | 0 | 0 | 0 | 0 |
+| LCP | 1875 | 0 | 0 | 0 | 0 |
+| LCP | 1874 | 0 | 0 | 0 | 0 |
+| LCP | 1873 | 0 | 0 | 0 | 0 |
+| LCP | 1872 | 0 | 0 | 0 | 0 |
+| LCP | 1871 | 0 | 0 | 0 | 0 |
+| LCP | 1870 | 0 | 0 | 0 | 0 |
+| LCP | 1869 | 0 | 0 | 0 | 0 |
+| LCP | 1868 | 0 | 0 | 0 | 0 |
+| LCP | 1867 | 0 | 0 | 0 | 0 |
+| LCP | 1866 | 0 | 0 | 0 | 0 |
+| LCP | 1865 | 0 | 0 | 0 | 0 |
+| LCP | 1864 | 0 | 0 | 0 | 0 |
+| LCP | 1863 | 0 | 0 | 0 | 0 |
+| LCP | 1862 | 0 | 0 | 0 | 0 |
+
+## Minas Gerais — ALMG
+
+O CSV anual é preservado integralmente. A coleta de textos abrange LEI, LCP, LDL, DEL, DEC, CON e EMC. Outros tipos de ato são contabilizados separadamente, sem serem tratados como leis ausentes ou falhas de download.
+
+| Ano | Identificadas | Pendências de identidade | Outras famílias no CSV | Publicadas | A coletar |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| 2026 | 522 | 0 | 1130 | 3 | 519 |
+| 2025 | 743 | 0 | 1107 | 0 | 743 |
 
 ## Lacunas
 
-A descoberta federal está em expansão por anos e famílias. Anos ou tipos ausentes da tabela não foram consultados; não significam ausência de normas. O Senado pode não ter digitalizado ou catalogado todos os atos. Normas estaduais, distritais e municipais ainda não foram coletadas. Anexos e outros documentos vinculados por links não são baixados por este coletor; imagens e links presentes no HTML permanecem no Markdown. Hash e reprodução verificam a transformação, sem certificar vigência ou revisão jurídica integral.
+A descoberta federal está em expansão por anos e famílias. Anos ou tipos ausentes das tabelas não foram consultados; não significam ausência de normas. Os portais podem não ter digitalizado ou catalogado todos os atos. A cobertura estadual começou por Minas Gerais; os demais estados, o Distrito Federal e os municípios ainda estão pendentes. Anexos e outros documentos vinculados por links não são baixados por estes coletores; imagens e links presentes no HTML permanecem no Markdown. Hash e reprodução verificam a transformação, sem certificar vigência ou revisão jurídica integral.

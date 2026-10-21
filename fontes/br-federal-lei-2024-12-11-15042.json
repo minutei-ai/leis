@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-12-11-15042",
+  "titulo": "Lei nº 15.042 de 11/12/2024",
+  "data": "2024-12-11",
+  "fonte": "https://normas.leg.br/api/public/binario/3b0747f2-4e41-4e50-9ab2-e0faf4914560/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-12-11;15042",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-12-11%3B15042&tipo_documento=maior-detalhe",
+  "sha256_dados": "b97bfd57503a57b95606a5c839e7707183783a2e99a91ddde181bd763c24133c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:12:27.554Z",
+  "sha256_fonte": "b41c70aeba35803474c69f52a566615d6f5237514a5b9486b306178793f09ae5",
+  "sha256_markdown": "9d9dbfacf49fc5b71f2cda95684405ceebe2af5dda599578d0d12a7774df2983"
+}

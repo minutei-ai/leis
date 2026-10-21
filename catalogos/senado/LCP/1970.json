@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=1970",
+  "tipo": "LCP",
+  "ano": 1970,
+  "coletado_em": "2026-10-20T23:11:44.458Z",
+  "normas": [
+    {
+      "senadoId": "540714",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1970-12-11-9",
+      "titulo": "Lei Complementar nº 9 de 11/12/1970",
+      "data": "1970-12-11",
+      "numero": "9",
+      "urn": "urn:lex:br:federal:lei.complementar:1970-12-11;9",
+      "ementa": "Dá nova redação ao artigo 10 do Ato Complementar nº 43, de 29 de janeiro   de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "540713",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1970-12-03-8",
+      "titulo": "Lei Complementar nº 8 de 03/12/1970",
+      "data": "1970-12-03",
+      "numero": "8",
+      "urn": "urn:lex:br:federal:lei.complementar:1970-12-03;8",
+      "ementa": "Institui o Programa de Formação do Patrimônio do Servidor Público e dá outras providências."
+    },
+    {
+      "senadoId": "540712",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1970-09-07-7",
+      "titulo": "Lei Complementar nº 7 de 07/09/1970",
+      "data": "1970-09-07",
+      "numero": "7",
+      "urn": "urn:lex:br:federal:lei.complementar:1970-09-07;7",
+      "ementa": "Institui o Programa de Integração Social, e dá outras providências."
+    },
+    {
+      "senadoId": "540711",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1970-06-30-6",
+      "titulo": "Lei Complementar nº 6 de 30/06/1970",
+      "data": "1970-06-30",
+      "numero": "6",
+      "urn": "urn:lex:br:federal:lei.complementar:1970-06-30;6",
+      "ementa": "Concede isenção de impostos federais, estaduais e municipais à Caixa   Econômica Federal - CEF."
+    },
+    {
+      "senadoId": "540710",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1970-04-29-5",
+      "titulo": "Lei Complementar nº 5 de 29/04/1970",
+      "data": "1970-04-29",
+      "numero": "5",
+      "urn": "urn:lex:br:federal:lei.complementar:1970-04-29;5",
+      "ementa": "Estabelece, de acordo com a Emenda Constitucional nº 1, de 17 de outubro de 1969, art. 151 e seu parágrafo único, casos de inelegibilidades, e dá outras providências ."
+    }
+  ],
+  "pendencias": []
+}

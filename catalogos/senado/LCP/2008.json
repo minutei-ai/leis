@@ -1,0 +1,19 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2008",
+  "tipo": "LCP",
+  "ano": 2008,
+  "coletado_em": "2026-10-20T23:10:29.638Z",
+  "normas": [
+    {
+      "senadoId": "572883",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2008-12-19-128",
+      "titulo": "Lei Complementar nº 128 de 19/12/2008",
+      "data": "2008-12-19",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:lei.complementar:2008-12-19;128",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, altera as Leis nºs 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 10.406, de 10 de janeiro de 2002 - Código Civil, 8.029, de 12 de abril de 1990, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-01-15277",
+  "titulo": "Lei nº 15.277 de 01/12/2025",
+  "data": "2025-12-01",
+  "fonte": "https://normas.leg.br/api/public/binario/119d128c-016f-4d47-954b-8ed80ee68293/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-01;15277",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-01%3B15277&tipo_documento=maior-detalhe",
+  "sha256_dados": "c1f57960c57445a6cec66adb872e2311213f8268acd98b6a6254f28853e9fc87",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:19.755Z",
+  "sha256_fonte": "89d9648e51822e2fb0ff451f04bfa9de8b124a15910d630df7e221e93600b150",
+  "sha256_markdown": "1aa3382c9b0f000fd44bb9fb25af799235bf70b3482e51fa6c4ac11c3a221dfb"
+}

@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2020",
+  "tipo": "LCP",
+  "ano": 2020,
+  "coletado_em": "2026-10-20T23:10:12.301Z",
+  "normas": [
+    {
+      "senadoId": "33037478",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2020-12-29-176",
+      "titulo": "Lei Complementar nº 176 de 29/12/2020",
+      "data": "2020-12-29",
+      "numero": "176",
+      "urn": "urn:lex:br:federal:lei.complementar:2020-12-29;176",
+      "ementa": "Institui transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado; declara atendida a regra de cessação contida no § 2º do art. 91 do Ato das Disposições Constitucionais Transitórias (ADCT); e altera a Lei nº 13.885, de 17 de outubro de 2019."
+    },
+    {
+      "senadoId": "32810713",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2020-09-23-175",
+      "titulo": "Lei Complementar nº 175 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "175",
+      "urn": "urn:lex:br:federal:lei.complementar:2020-09-23;175",
+      "ementa": "Dispõe sobre o padrão nacional de obrigação acessória do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos Municípios e do Distrito Federal, incidente sobre os serviços previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003; altera dispositivos da referida Lei Complementar; prevê regra de transição para a partilha do produto da arrecadação do ISSQN entre o Município do local do estabelecimento prestador e o Município do domicílio do tomador relativamente aos serviços de que trata; e dá outras providências."
+    },
+    {
+      "senadoId": "32530069",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2020-08-05-174",
+      "titulo": "Lei Complementar nº 174 de 05/08/2020",
+      "data": "2020-08-05",
+      "numero": "174",
+      "urn": "urn:lex:br:federal:lei.complementar:2020-08-05;174",
+      "ementa": "Autoriza a extinção de créditos tributários apurados na forma do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), mediante celebração de transação resolutiva de litígio; e prorroga o prazo para enquadramento no Simples Nacional em todo o território brasileiro, no ano de 2020, para microempresas e empresas de pequeno porte em início de atividade."
+    },
+    {
+      "senadoId": "32218505",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2020-05-27-173",
+      "titulo": "Lei Complementar nº 173 de 27/05/2020",
+      "data": "2020-05-27",
+      "numero": "173",
+      "urn": "urn:lex:br:federal:lei.complementar:2020-05-27;173",
+      "ementa": "Estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19), altera a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências."
+    },
+    {
+      "senadoId": "32111870",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2020-04-15-172",
+      "titulo": "Lei Complementar nº 172 de 15/04/2020",
+      "data": "2020-04-15",
+      "numero": "172",
+      "urn": "urn:lex:br:federal:lei.complementar:2020-04-15;172",
+      "ementa": "Dispõe sobre a transposição e a transferência de saldos financeiros constantes dos Fundos de Saúde dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais."
+    }
+  ],
+  "pendencias": []
+}

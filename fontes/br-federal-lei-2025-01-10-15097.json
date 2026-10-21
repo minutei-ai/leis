@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-01-10-15097",
+  "titulo": "Lei nº 15.097 de 10/01/2025",
+  "data": "2025-01-10",
+  "fonte": "https://normas.leg.br/api/public/binario/298c02b8-33e4-406c-956f-6e72de4a8168/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-01-10;15097",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-01-10%3B15097&tipo_documento=maior-detalhe",
+  "sha256_dados": "2bd5711d12d2091fec3a97d67848f70d06a35906ad88eb07b015ee2fd3a7abc6",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:13.604Z",
+  "sha256_fonte": "5441df9d99c4401c818253b91a2f88abf588e77668bbe00e8b9384b6629f559c",
+  "sha256_markdown": "8a7fc8fa62314a33ce198e959ac9853b4a261813968614433d81ff96f670ed6e"
+}

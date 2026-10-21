@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-12-30-15081",
+  "titulo": "Lei nº 15.081 de 30/12/2024",
+  "data": "2024-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/8fce01b8-88e7-4f09-85d0-60491cfd9b8b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-12-30;15081",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-12-30%3B15081&tipo_documento=maior-detalhe",
+  "sha256_dados": "ba515ba4c56fd55dcff60487597c82ab3a785975e9c65f2027bdbfb13c5c5beb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:38.008Z",
+  "sha256_fonte": "bebc87b78f16de47fdc575b8be64305eae8e8b1cbb90ff42bfeff6f21c18dbf6",
+  "sha256_markdown": "6b4ed6a407d882cf631d8696f51e8d28fb4770472031e5d06889ebc3845ffd87"
+}

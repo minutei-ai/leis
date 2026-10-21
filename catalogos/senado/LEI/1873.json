@@ -1,0 +1,99 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1873",
+  "tipo": "LEI",
+  "ano": 1873,
+  "coletado_em": "2026-10-20T23:06:43.983Z",
+  "normas": [
+    {
+      "senadoId": "544195",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-09-17-2400",
+      "titulo": "Lei nº 2.400 de 17/09/1873",
+      "data": "1873-09-17",
+      "numero": "2400",
+      "urn": "urn:lex:br:federal:lei:1873-09-17;2400",
+      "ementa": "AUTORIZA UM NOVO ACORDO COM O BANCO DO BRASIL, E REDUZ O RESGATE ANUAL DAS NOTAS DESSE BANCO E DOS OUTROS DE CIRCULAÇÃO."
+    },
+    {
+      "senadoId": "544189",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-09-10-2395",
+      "titulo": "Lei nº 2.395 de 10/09/1873",
+      "data": "1873-09-10",
+      "numero": "2395",
+      "urn": "urn:lex:br:federal:lei:1873-09-10;2395",
+      "ementa": "ALTERA A LEI 602, DE 19 DE SETEMBRO DE 1850, SOBRE A GUARDA NACIONAL DO IMPERIO."
+    },
+    {
+      "senadoId": "544140",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-08-25-2348",
+      "titulo": "Lei nº 2.348 de 25/08/1873",
+      "data": "1873-08-25",
+      "numero": "2348",
+      "urn": "urn:lex:br:federal:lei:1873-08-25;2348",
+      "ementa": "FIXA A DESPESA E ORÇA A RECEITA GERAL DO IMPÉRIO PARA OS EXERCÍCIOS DE 1873-1874 E 1874-1875, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "544123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-08-02-2333",
+      "titulo": "Lei nº 2.333 de 02/08/1873",
+      "data": "1873-08-02",
+      "numero": "2333",
+      "urn": "urn:lex:br:federal:lei:1873-08-02;2333",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1874 - 1875."
+    },
+    {
+      "senadoId": "544108",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-07-23-2321",
+      "titulo": "Lei nº 2.321 de 23/07/1873",
+      "data": "1873-07-23",
+      "numero": "2321",
+      "urn": "urn:lex:br:federal:lei:1873-07-23;2321",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1874 - 1875."
+    },
+    {
+      "senadoId": "544081",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-06-18-2296",
+      "titulo": "Lei nº 2.296 de 18/06/1873",
+      "data": "1873-06-18",
+      "numero": "2296",
+      "urn": "urn:lex:br:federal:lei:1873-06-18;2296",
+      "ementa": "ESTABELECE REGRAS PELAS QUAIS DEVEM SER FEITAS AS PROMOÇÕES NO CORPO DA ARMADA."
+    },
+    {
+      "senadoId": "544044",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-05-24-2261",
+      "titulo": "Lei nº 2.261 de 24/05/1873",
+      "data": "1873-05-24",
+      "numero": "2261",
+      "urn": "urn:lex:br:federal:lei:1873-05-24;2261",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1873 - 1874."
+    },
+    {
+      "senadoId": "544005",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-04-26-2225",
+      "titulo": "Lei nº 2.225 de 26/04/1873",
+      "data": "1873-04-26",
+      "numero": "2225",
+      "urn": "urn:lex:br:federal:lei:1873-04-26;2225",
+      "ementa": "APROVA O DECRETO QUE AUTORIZOU A EMISSÃO DE 40.000:000$000 EM PAPEL-MOEDA."
+    },
+    {
+      "senadoId": "544017",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1873-04-26-2236",
+      "titulo": "Lei nº 2.236 de 26/04/1873",
+      "data": "1873-04-26",
+      "numero": "2236",
+      "urn": "urn:lex:br:federal:lei:1873-04-26;2236",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1873 A 1874."
+    }
+  ],
+  "pendencias": []
+}

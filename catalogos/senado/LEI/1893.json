@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1893",
+  "tipo": "LEI",
+  "ano": 1893,
+  "coletado_em": "2026-10-20T23:06:01.413Z",
+  "normas": [
+    {
+      "senadoId": "541256",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1893-09-30-191-b",
+      "titulo": "Lei nº 191-B de 30/09/1893",
+      "data": "1893-09-30",
+      "numero": "191-b",
+      "urn": "urn:lex:br:federal:lei:1893-09-30;191-b",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1894, e dá outras providencias."
+    },
+    {
+      "senadoId": "541255",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1893-09-30-191-a",
+      "titulo": "Lei nº 191-A de 30/09/1893",
+      "data": "1893-09-30",
+      "numero": "191-a",
+      "urn": "urn:lex:br:federal:lei:1893-09-30;191-a",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o   exercicio de 1894, e dá outras providencias."
+    },
+    {
+      "senadoId": "541214",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1893-09-10-173",
+      "titulo": "Lei nº 173 de 10/09/1893",
+      "data": "1893-09-10",
+      "numero": "173",
+      "urn": "urn:lex:br:federal:lei:1893-09-10;173",
+      "ementa": "Regula a organisação das associações que se fundarem para fins religiosos,   Moraes, scientificos, artísticos, políticos ou de simples recreio, nos termos do   art. 72, ;§ 3º, da Constituição."
+    },
+    {
+      "senadoId": "541187",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1893-08-17-161",
+      "titulo": "Lei nº 161 de 17/08/1893",
+      "data": "1893-08-17",
+      "numero": "161",
+      "urn": "urn:lex:br:federal:lei:1893-08-17;161",
+      "ementa": "Fixa as Forças de terra para o exercicio de 1894."
+    }
+  ],
+  "pendencias": []
+}

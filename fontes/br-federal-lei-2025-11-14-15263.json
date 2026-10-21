@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-14-15263",
+  "titulo": "Lei nº 15.263 de 14/11/2025",
+  "data": "2025-11-14",
+  "fonte": "https://normas.leg.br/api/public/binario/0ba102d9-6068-48d8-912f-f40ff0789b5c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-14;15263",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-14%3B15263&tipo_documento=maior-detalhe",
+  "sha256_dados": "895bc706faf845bc3d6413b0d902a0acec5b0f66b6e5a3d2c991423c3429c2bf",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:39.343Z",
+  "sha256_fonte": "b87fe6e12b4bf0684d1f02966028ce8b0717de9201d8bacacf8ac4820d3ff608",
+  "sha256_markdown": "15d873980d2b30fc2118b0922dc811a1c2fa3ac738585bf42358701e7b833425"
+}

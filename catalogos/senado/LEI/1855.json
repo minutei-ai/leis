@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1855",
+  "tipo": "LEI",
+  "ano": 1855,
+  "coletado_em": "2026-10-20T23:07:31.663Z",
+  "normas": [
+    {
+      "senadoId": "542419",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1855-09-15-840",
+      "titulo": "Lei nº 840 de 15/09/1855",
+      "data": "1855-09-15",
+      "numero": "840",
+      "urn": "urn:lex:br:federal:lei:1855-09-15;840",
+      "ementa": "FIXANDO A DESPESA E ORÇANDO A RECEITA PARA O EXERCÍCIO DE 1856 - 1857."
+    },
+    {
+      "senadoId": "542411",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1855-08-16-834",
+      "titulo": "Lei nº 834 de 16/08/1855",
+      "data": "1855-08-16",
+      "numero": "834",
+      "urn": "urn:lex:br:federal:lei:1855-08-16;834",
+      "ementa": "AUTORIZA O GOVERNO A DISTRIBUIR AS QUANTIAS VOTADAS, COMO INDENIZAÇÃO DAS PRESAS DAS GUERRAS DA INDEPENDÊNCIA E DO RIO PRATA, A FAZER EFETIVA A PENSÃO QUE FOI CONCEDIDA AO MARQUÊS DO MARANHÃO, E A PAGAR OS SOLDOS, QUE LHE FICARÃO DEVENDO, COMO PRIMEIRO ALMIRANTE."
+    },
+    {
+      "senadoId": "542397",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1855-07-14-821",
+      "titulo": "Lei nº 821 de 14/07/1855",
+      "data": "1855-07-14",
+      "numero": "821",
+      "urn": "urn:lex:br:federal:lei:1855-07-14;821",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1856 A 1857."
+    },
+    {
+      "senadoId": "542395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1855-07-14-820",
+      "titulo": "Lei nº 820 de 14/07/1855",
+      "data": "1855-07-14",
+      "numero": "820",
+      "urn": "urn:lex:br:federal:lei:1855-07-14;820",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1856 A 1857."
+    }
+  ],
+  "pendencias": []
+}

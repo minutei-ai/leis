@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-03-13-15109",
+  "titulo": "Lei nº 15.109 de 13/03/2025",
+  "data": "2025-03-13",
+  "fonte": "https://normas.leg.br/api/public/binario/e10647a6-23cf-4881-ba47-c475c40d8106/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-03-13;15109",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-03-13%3B15109&tipo_documento=maior-detalhe",
+  "sha256_dados": "3c2d9a92888577bfe15a04de652e66108fdca8c5e791c80947341d3e1463c374",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:01.271Z",
+  "sha256_fonte": "ae96b3c68f4f1a467f3836581127688d25c89eedd21a01cc2c54dc3e49134f45",
+  "sha256_markdown": "5fbc5a43aa5b64287d58b1990114372f31053c20d70d2a0e2ec9f2da6d7ec161"
+}

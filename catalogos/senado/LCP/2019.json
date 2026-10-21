@@ -1,0 +1,79 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2019",
+  "tipo": "LCP",
+  "ano": 2019,
+  "coletado_em": "2026-10-20T23:10:13.805Z",
+  "normas": [
+    {
+      "senadoId": "31885424",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-12-27-171",
+      "titulo": "Lei Complementar nº 171 de 27/12/2019",
+      "data": "2019-12-27",
+      "numero": "171",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-12-27;171",
+      "ementa": "Altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para prorrogar prazos em relação à apropriação dos créditos do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação (ICMS)."
+    },
+    {
+      "senadoId": "31861446",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-12-19-170",
+      "titulo": "Lei Complementar nº 170 de 19/12/2019",
+      "data": "2019-12-19",
+      "numero": "170",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-12-19;170",
+      "ementa": "Altera a Lei Complementar nº 160, de 7 de agosto de 2017, para permitir a prorrogação, por até 15 (quinze) anos, das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais vinculados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de comunicação (ICMS) e destinados a templos de qualquer culto e a entidades beneficentes de assistência social."
+    },
+    {
+      "senadoId": "31783750",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-12-02-169",
+      "titulo": "Lei Complementar nº 169 de 02/12/2019",
+      "data": "2019-12-02",
+      "numero": "169",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-12-02;169",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (Lei do Simples Nacional), para autorizar a constituição de sociedade de garantia solidária e de sociedade de contragarantia."
+    },
+    {
+      "senadoId": "31028250",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-06-12-168",
+      "titulo": "Lei Complementar nº 168 de 12/06/2019",
+      "data": "2019-06-12",
+      "numero": "168",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-06-12;168",
+      "ementa": "Autoriza, no prazo que especifica, o retorno ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) dos optantes excluídos desse regime tributário em 1º de janeiro de 2018."
+    },
+    {
+      "senadoId": "30917042",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-04-24-167",
+      "titulo": "Lei Complementar nº 167 de 24/04/2019",
+      "data": "2019-04-24",
+      "numero": "167",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-04-24;167",
+      "ementa": "Dispõe sobre a Empresa Simples de Crédito (ESC) e altera a Lei nº 9.613, de 3 de março de 1998 (Lei de Lavagem de Dinheiro), a Lei nº 9.249, de 26 de dezembro de 1995, e a Lei Complementar nº 123, de 14 de dezembro de 2006 (Lei do Simples Nacional), para regulamentar a ESC e instituir o Inova Simples."
+    },
+    {
+      "senadoId": "30892420",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-04-08-166",
+      "titulo": "Lei Complementar nº 166 de 08/04/2019",
+      "data": "2019-04-08",
+      "numero": "166",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-04-08;166",
+      "ementa": "Altera a Lei Complementar nº 105, de 10 de janeiro de 2001, e a Lei nº 12.414, de 9 de junho de 2011, para dispor sobre os cadastros positivos de crédito e regular a responsabilidade civil dos operadores."
+    },
+    {
+      "senadoId": "30772512",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2019-01-03-165",
+      "titulo": "Lei Complementar nº 165 de 03/01/2019",
+      "data": "2019-01-03",
+      "numero": "165",
+      "urn": "urn:lex:br:federal:lei.complementar:2019-01-03;165",
+      "ementa": "Acrescenta o § 3º ao art. 2º da Lei Complementar nº 91, de 22 de dezembro de 1997, que dispõe sobre a fixação dos coeficientes de distribuição dos recursos do Fundo de Participação dos Municípios (FPM)."
+    }
+  ],
+  "pendencias": []
+}

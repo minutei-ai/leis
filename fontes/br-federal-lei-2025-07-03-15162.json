@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-07-03-15162",
+  "titulo": "Lei nº 15.162 de 03/07/2025",
+  "data": "2025-07-03",
+  "fonte": "https://normas.leg.br/api/public/binario/67f67e55-0db8-41fb-aea5-371e37f3773e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-07-03;15162",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-07-03%3B15162&tipo_documento=maior-detalhe",
+  "sha256_dados": "9d22822994f5a2d50d424c4a4855a00b8ba8aa47e8472b3d0fa1e392f827f063",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:09:50.511Z",
+  "sha256_fonte": "9dfd78b28aab8d88b4eb17b1a1083a35ba8eb88262ffbe6271321ff952405ff4",
+  "sha256_markdown": "32075d82140c61d67ba3a260d363d0b45a185dd235813e59fb9cbe36150407b7"
+}

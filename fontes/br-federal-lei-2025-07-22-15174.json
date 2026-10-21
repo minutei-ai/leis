@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-07-22-15174",
+  "titulo": "Lei nº 15.174 de 22/07/2025",
+  "data": "2025-07-22",
+  "fonte": "https://normas.leg.br/api/public/binario/f03c231a-a2f6-4911-a3c9-ca1d0d7e06f8/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-07-22;15174",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-07-22%3B15174&tipo_documento=maior-detalhe",
+  "sha256_dados": "a76e3491ea991249a97729c763565955e6c72c883e68ab3e853b4d646db4bf7c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:09:34.945Z",
+  "sha256_fonte": "476d66359226300597004fd2fd5fae4f96daff58060ae4dd5495026e37ae5cf8",
+  "sha256_markdown": "461fa361944aacf54073f2cb747811c3fd9baec68bcb4c22f64a8ff2675e1ad7"
+}

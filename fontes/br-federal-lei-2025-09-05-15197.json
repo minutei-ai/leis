@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-09-05-15197",
+  "titulo": "Lei nº 15.197 de 05/09/2025",
+  "data": "2025-09-05",
+  "fonte": "https://normas.leg.br/api/public/binario/90cf292e-96f3-41a8-b534-6455f37770d9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-09-05;15197",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-09-05%3B15197&tipo_documento=maior-detalhe",
+  "sha256_dados": "57f5391631dd2ed47264b1f6b0281b262e9c61c6e5044fb9fbc9ce72ab86ab53",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:09:06.308Z",
+  "sha256_fonte": "e62e2de4540ae65b860e47b6d6e0847d9054dd70f6eb75b4d9544bc740032ca9",
+  "sha256_markdown": "df85613736e06638913ddd86b7374c40f568919b0fd42b882a9871bcda5526ce"
+}

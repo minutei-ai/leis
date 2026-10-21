@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-07-23-15176",
+  "titulo": "Lei nº 15.176 de 23/07/2025",
+  "data": "2025-07-23",
+  "fonte": "https://normas.leg.br/api/public/binario/57aa1318-67e5-4719-a644-d9ad0eb914b3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-07-23;15176",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-07-23%3B15176&tipo_documento=maior-detalhe",
+  "sha256_dados": "2fbb77e9447aa991116b0ae16d69cc0c2c600091adebdf61d8bb2c54abc38d14",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:09:32.291Z",
+  "sha256_fonte": "8f02a29ec06cf8b72a8d63f02c16e3d49df5c3440d19e8b8444a610daa3ccc65",
+  "sha256_markdown": "ff0ecf51865d8806099ab7f5f58142a1073c04810ae4e7b0d3a7acc19fdc6327"
+}

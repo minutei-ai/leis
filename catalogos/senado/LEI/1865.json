@@ -1,0 +1,79 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1865",
+  "tipo": "LEI",
+  "ano": 1865,
+  "coletado_em": "2026-10-20T23:06:57.056Z",
+  "normas": [
+    {
+      "senadoId": "542895",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-07-08-1253",
+      "titulo": "Lei nº 1.253 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "1253",
+      "urn": "urn:lex:br:federal:lei:1865-07-08;1253",
+      "ementa": "APROVA AS DECLARAÇÕES FEITAS POR OCASIÃO DA TROCA DAS RATIFICAÇÕES DA CONVENÇÃO MATRIMONIAL DO 1 DE NOVEMBRO DE 1864, NA PARTE EM QUE O GOVERNO IMPERIAL SE OBRIGOU A CONFERIR A SUA ALTEZA O SENHOR PRINCIPE DUQUE DE SAXE O POSTO DE ALMIRANTE EFETIVO DA ARMADA."
+    },
+    {
+      "senadoId": "542893",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-07-08-1252",
+      "titulo": "Lei nº 1.252 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "1252",
+      "urn": "urn:lex:br:federal:lei:1865-07-08;1252",
+      "ementa": "APROVA O ARTIGO ADICIONAL AO CONTRATO DE MATRIMÔNIO DE SUA ALTEZA IMPERIAL A SENHORA DONA IZABEL CHRISTINA COM SUA ALTEZA REAL O SENHOR PRÍNCIPE LUIZ PHILIPPE MARIA, CONDE D'EU."
+    },
+    {
+      "senadoId": "542890",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-07-08-1250",
+      "titulo": "Lei nº 1.250 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "1250",
+      "urn": "urn:lex:br:federal:lei:1865-07-08;1250",
+      "ementa": "FIXA FORÇA NAVAL PARA O ANNO FINANCEIRO DE 1866 A 1867."
+    },
+    {
+      "senadoId": "542885",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-06-28-1246",
+      "titulo": "Lei nº 1.246 de 28/06/1865",
+      "data": "1865-06-28",
+      "numero": "1246",
+      "urn": "urn:lex:br:federal:lei:1865-06-28;1246",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1866 A 1867."
+    },
+    {
+      "senadoId": "542883",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-06-28-1245",
+      "titulo": "Lei nº 1.245 de 28/06/1865",
+      "data": "1865-06-28",
+      "numero": "1245",
+      "urn": "urn:lex:br:federal:lei:1865-06-28;1245",
+      "ementa": "FIXA A DESPESA E ORÇA A RECEITA GERAL DO IMPÉRIO PARA O EXERCÍCIO DE 1865-1866, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "542879",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-06-26-1243",
+      "titulo": "Lei nº 1.243 de 26/06/1865",
+      "data": "1865-06-26",
+      "numero": "1243",
+      "urn": "urn:lex:br:federal:lei:1865-06-26;1243",
+      "ementa": "APROVA OS DECRETOS QUE NA CONFORMIDADE DO ARTIGO 13 DA LEI 1.177 DE 9 DE SETEMBRO DE 1862, E EM VIRTUDE DA RESOLUÇÃO LEGISLATIVA 1.198 DE 16 DE ABRIL DE 1864, TRANSPORTARÃO QUANTIAS DE UMAS PARA OUTRAS RUBRICAS DA REFERIDA LEI, E ABRE AO GOVERNO UM CRÉDITO SUPLEMENTAR E EXTRAORDINARIO DE 12.517:525$110."
+    },
+    {
+      "senadoId": "542881",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1865-06-26-1244",
+      "titulo": "Lei nº 1.244 de 26/06/1865",
+      "data": "1865-06-26",
+      "numero": "1244",
+      "urn": "urn:lex:br:federal:lei:1865-06-26;1244",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A FAZER OPERAÇÕES DE CRÉDITO DENTRO OU FORA DO IMPÉRIO PARA DESPESAS EXTRAORDINÁRIAS DA MARINHA E GUERRA."
+    }
+  ],
+  "pendencias": []
+}

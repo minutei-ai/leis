@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-26-15275",
+  "titulo": "Lei nº 15.275 de 26/11/2025",
+  "data": "2025-11-26",
+  "fonte": "https://normas.leg.br/api/public/binario/cc41e568-ddb6-45b0-9e28-b6086dcfa6e9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-26;15275",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-26%3B15275&tipo_documento=maior-detalhe",
+  "sha256_dados": "662a7a45baa766f6b7ee99ed18935418a2933895860fde1e63997cf772c94611",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:28.756Z",
+  "sha256_fonte": "45a21daad6020ebdb0ff189bf54e1ace6dc6c176a167c0ccf7f530dabbba207f",
+  "sha256_markdown": "b1858728abb71f78488b21f10d3a7cf419cd5ac79c46f3b809cef321429a345c"
+}

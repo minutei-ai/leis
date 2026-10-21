@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-03-17-15112",
+  "titulo": "Lei nº 15.112 de 17/03/2025",
+  "data": "2025-03-17",
+  "fonte": "https://normas.leg.br/api/public/binario/5eb15dc5-ee7c-46fe-9c18-e36b6989b081/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-03-17;15112",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-03-17%3B15112&tipo_documento=maior-detalhe",
+  "sha256_dados": "6bfc0ca54346855c202eb8445577081dd77887271f996c21facd5c5bdbfabe8f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:56.112Z",
+  "sha256_fonte": "597ff40445572a82883354f95d16917fce81b1d8b86ab81da729237216b238f9",
+  "sha256_markdown": "9c3ad1ef663ba800c7dbff4703ceb9e9b065337f6cb19fa30c1c0d44bc5e508b"
+}

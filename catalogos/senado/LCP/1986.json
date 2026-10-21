@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=1986",
+  "tipo": "LCP",
+  "ano": 1986,
+  "coletado_em": "2026-10-20T23:11:07.717Z",
+  "normas": [
+    {
+      "senadoId": "540759",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1986-12-22-54",
+      "titulo": "Lei Complementar nº 54 de 22/12/1986",
+      "data": "1986-12-22",
+      "numero": "54",
+      "urn": "urn:lex:br:federal:lei.complementar:1986-12-22;54",
+      "ementa": "Dispõe sobre nova redação e revogação de artigos da Lei Complementar nº   35, de 14 de março de 1979."
+    },
+    {
+      "senadoId": "540758",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1986-12-19-53",
+      "titulo": "Lei Complementar nº 53 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:lei.complementar:1986-12-19;53",
+      "ementa": "Concede isenção do Imposto sobre Circulação de Mercadorias - ICM para   veículos destinadas a uso exclusivo de paraplégicos ou de pessoas portadoras de   defeitos físicos."
+    },
+    {
+      "senadoId": "540757",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1986-04-16-52",
+      "titulo": "Lei Complementar nº 52 de 16/04/1986",
+      "data": "1986-04-16",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:lei.complementar:1986-04-16;52",
+      "ementa": "Inclui o Município de Maracanaú, recém-desmembrado do Município de   Maranguape, na região metropolitana de Fortaleza, alterando o § 8º do art. 1º da   Lei Complementar nº 14, de 8 de junho de 1973."
+    }
+  ],
+  "pendencias": []
+}

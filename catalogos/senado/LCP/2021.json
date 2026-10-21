@@ -1,0 +1,129 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2021",
+  "tipo": "LCP",
+  "ano": 2021,
+  "coletado_em": "2026-10-20T23:10:11.078Z",
+  "normas": [
+    {
+      "senadoId": "35395166",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-12-31-188",
+      "titulo": "Lei Complementar nº 188 de 31/12/2021",
+      "data": "2021-12-31",
+      "numero": "188",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-12-31;188",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para modificar a composição e o funcionamento do Comitê Gestor do Simples Nacional (CGSN) e ampliar o âmbito de aplicação de seu regime tributário."
+    },
+    {
+      "senadoId": "35289040",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-12-16-187",
+      "titulo": "Lei Complementar nº 187 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "187",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-12-16;187",
+      "ementa": "Dispõe sobre a certificação das entidades beneficentes e regula os procedimentos referentes à imunidade de contribuições à seguridade social de que trata o § 7º do art. 195 da Constituição Federal; altera as Leis n°s 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e 9.532, de 10 de dezembro de 1997; revoga a Lei nº 12.101, de 27 de novembro de 2009, e dispositivos das Leis n°s 11.096, de 13 de janeiro de 2005, e 12.249, de 11 de junho de 2010; e dá outras providências."
+    },
+    {
+      "senadoId": "35097228",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-10-27-186",
+      "titulo": "Lei Complementar nº 186 de 27/10/2021",
+      "data": "2021-10-27",
+      "numero": "186",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-10-27;186",
+      "ementa": "Altera a Lei Complementar nº 160, de 7 de agosto de 2017, para permitir a prorrogação, por até 15 (quinze) anos, das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais vinculados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) destinados à manutenção ou ao incremento das atividades comerciais, desde que o beneficiário seja o real remetente da mercadoria, às prestações interestaduais com produtos agropecuários e extrativos vegetais in natura e à manutenção ou ao incremento das atividades portuária e aeroportuária vinculadas ao comércio internacional, incluída a operação subsequente à da importação, praticada pelo contribuinte importador; e dá outras providências."
+    },
+    {
+      "senadoId": "35031117",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-10-06-185",
+      "titulo": "Lei Complementar nº 185 de 06/10/2021",
+      "data": "2021-10-06",
+      "numero": "185",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-10-06;185",
+      "ementa": "Altera o art. 2º da Lei Complementar nº 125, de 3 de janeiro de 2007, para incluir Municípios dos Estados de Minas Gerais e do Espírito Santo na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene)."
+    },
+    {
+      "senadoId": "34975805",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-09-29-184",
+      "titulo": "Lei Complementar nº 184 de 29/09/2021",
+      "data": "2021-09-29",
+      "numero": "184",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-09-29;184",
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para excluir da incidência de inelegibilidade responsáveis que tenham tido contas julgadas irregulares sem imputação de débito e com condenação exclusiva ao pagamento de multa."
+    },
+    {
+      "senadoId": "34875285",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-09-22-183",
+      "titulo": "Lei Complementar nº 183 de 22/09/2021",
+      "data": "2021-09-22",
+      "numero": "183",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-09-22;183",
+      "ementa": "Altera a Lei Complementar nº 116, de 31 de julho de 2003, para explicitar a incidência do Imposto sobre Serviços de Qualquer Natureza (ISS) sobre o monitoramento e rastreamento de veículos e carga."
+    },
+    {
+      "senadoId": "34125302",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-06-01-182",
+      "titulo": "Lei Complementar nº 182 de 01/06/2021",
+      "data": "2021-06-01",
+      "numero": "182",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-06-01;182",
+      "ementa": "Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006."
+    },
+    {
+      "senadoId": "33807122",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-05-06-181",
+      "titulo": "Lei Complementar nº 181 de 06/05/2021",
+      "data": "2021-05-06",
+      "numero": "181",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-05-06;181",
+      "ementa": "Altera a Lei Complementar nº 172, de 15 de abril de 2020, e a Lei nº 14.029, de 28 de julho de 2020, para conceder prazo para que os Estados, o Distrito Federal e os Municípios executem atos de transposição e de transferência e atos de transposição e de reprogramação, respectivamente; altera a Lei Complementar nº 156, de 28 de dezembro de 2016, para conceder prazo adicional para celebração de aditivos contratuais e permitir mudança nos critérios de indexação dos contratos de refinanciamento de dívidas; altera a Lei Complementar nº 159, de 19 de maio de 2017, para permitir o afastamento de vedações durante o Regime de Recuperação Fiscal desde que previsto no Plano de Recuperação Fiscal; altera a Lei Complementar nº 178, de 13 de janeiro de 2021, para conceder prazo adicional para celebração de contratos e disciplinar a apuração de valores inadimplidos de Estado com Regime de Recuperação Fiscal vigente em 31 de agosto de 2020; e revoga o art. 27 da Lei Complementar nº 178, de 13 de janeiro de 2021."
+    },
+    {
+      "senadoId": "33474217",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-04-14-180",
+      "titulo": "Lei Complementar nº 180 de 14/04/2021",
+      "data": "2021-04-14",
+      "numero": "180",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-04-14;180",
+      "ementa": "Altera a Lei Complementar nº 173, de 27 de maio de 2020, que estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19)."
+    },
+    {
+      "senadoId": "33254508",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-02-24-179",
+      "titulo": "Lei Complementar nº 179 de 24/02/2021",
+      "data": "2021-02-24",
+      "numero": "179",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-02-24;179",
+      "ementa": "Define os objetivos do Banco Central do Brasil e dispõe sobre sua autonomia e sobre a nomeação e a exoneração de seu Presidente e de seus Diretores; e altera artigo da Lei nº 4.595, de 31 de dezembro de 1964."
+    },
+    {
+      "senadoId": "33089197",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-01-13-178",
+      "titulo": "Lei Complementar nº 178 de 13/01/2021",
+      "data": "2021-01-13",
+      "numero": "178",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-01-13;178",
+      "ementa": "Estabelece o Programa de Acompanhamento e Transparência Fiscal e o Plano de Promoção do Equilíbrio Fiscal; altera a Lei Complementar nº 101, de 4 de maio de 2000, a Lei Complementar nº 156, de 28 de dezembro de 2016, a Lei Complementar nº 159, de 19 de maio de 2017, a Lei Complementar nº 173, de 27 de maio de 2020, a Lei nº 9.496, de 11 de setembro de 1997, a Lei nº 12.348, de 15 de dezembro de 2010, a Lei nº 12.649, de 17 de maio de 2012, e a Medida Provisória nº 2.185-35, de 24 de agosto de 2001; e dá outras providências."
+    },
+    {
+      "senadoId": "33079739",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2021-01-12-177",
+      "titulo": "Lei Complementar nº 177 de 12/01/2021",
+      "data": "2021-01-12",
+      "numero": "177",
+      "urn": "urn:lex:br:federal:lei.complementar:2021-01-12;177",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, e a Lei nº 11.540, de 12 de novembro de 2007, para modificar a natureza e as fontes de receitas do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), e incluir programas desenvolvidos por organizações sociais entre as instituições que podem acessar os recursos do FNDCT."
+    }
+  ],
+  "pendencias": []
+}

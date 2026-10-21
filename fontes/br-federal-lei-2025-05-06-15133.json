@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-05-06-15133",
+  "titulo": "Lei nº 15.133 de 06/05/2025",
+  "data": "2025-05-06",
+  "fonte": "https://normas.leg.br/api/public/binario/787e71b5-2898-4e0c-9f47-5b85528df6d6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-05-06;15133",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-05-06%3B15133&tipo_documento=maior-detalhe",
+  "sha256_dados": "56eb58f94ec5d297a544999961e6efb8b3792b8b2b23abc3f5063df6ed76a8cb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:28.868Z",
+  "sha256_fonte": "a16c4ba4097e79fc87edf4dd7cc7acb6f65568bbdf82621b3e2a399fd1aca78a",
+  "sha256_markdown": "9c27cc5bae26763d2f25ff5ab836f76bd73fa0e1dae5055c90ab3e864702b879"
+}

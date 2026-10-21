@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1912",
+  "tipo": "LEI",
+  "ano": 1912,
+  "coletado_em": "2026-10-20T23:05:18.457Z",
+  "normas": [
+    {
+      "senadoId": "544538",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1912-12-31-2718-a",
+      "titulo": "Lei nº 2.718-A de 31/12/1912",
+      "data": "1912-12-31",
+      "numero": "2718-a",
+      "urn": "urn:lex:br:federal:lei:1912-12-31;2718-a",
+      "ementa": "Fixa as forças de terra para o exercicio de 1913"
+    },
+    {
+      "senadoId": "544539",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1912-12-31-2719",
+      "titulo": "Lei nº 2.719 de 31/12/1912",
+      "data": "1912-12-31",
+      "numero": "2719",
+      "urn": "urn:lex:br:federal:lei:1912-12-31;2719",
+      "ementa": "Orça a Receita Geral da Republica dos Estados Unidos do Brazil para o exercicio de 1913"
+    },
+    {
+      "senadoId": "544382",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1912-01-17-2577",
+      "titulo": "Lei nº 2.577 de 17/01/1912",
+      "data": "1912-01-17",
+      "numero": "2577",
+      "urn": "urn:lex:br:federal:lei:1912-01-17;2577",
+      "ementa": "Torna extensivas ás obras scientificas, litterarias e artisticas editadas em paizes estrangeiros que tenham adherido ás convenções internacionaes sobre o assumpto, ou assignado tratados com o Brazil, as disposições da lei n. 496, de 1 de agosto de 1898, salvo as do art. 13, e dá outras providencias"
+    },
+    {
+      "senadoId": "544346",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1912-01-04-2544",
+      "titulo": "Lei nº 2.544 de 04/01/1912",
+      "data": "1912-01-04",
+      "numero": "2544",
+      "urn": "urn:lex:br:federal:lei:1912-01-04;2544",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1912"
+    }
+  ],
+  "pendencias": []
+}

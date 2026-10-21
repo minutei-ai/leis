@@ -1,0 +1,99 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1898",
+  "tipo": "LEI",
+  "ano": 1898,
+  "coletado_em": "2026-10-20T23:05:54.841Z",
+  "normas": [
+    {
+      "senadoId": "542045",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-12-31-560",
+      "titulo": "Lei nº 560 de 31/12/1898",
+      "data": "1898-12-31",
+      "numero": "560",
+      "urn": "urn:lex:br:federal:lei:1898-12-31;560",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do   Brazil para o exercicio de 1899, e dá outras providencias"
+    },
+    {
+      "senadoId": "542042",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-12-31-559",
+      "titulo": "Lei nº 559 de 31/12/1898",
+      "data": "1898-12-31",
+      "numero": "559",
+      "urn": "urn:lex:br:federal:lei:1898-12-31;559",
+      "ementa": "Orça receita geral da Republica dos Estados Unidos do   Brazil para o exercicio de 1899, e dá outras providencias."
+    },
+    {
+      "senadoId": "541986",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-12-07-533",
+      "titulo": "Lei nº 533 de 07/12/1898",
+      "data": "1898-12-07",
+      "numero": "533",
+      "urn": "urn:lex:br:federal:lei:1898-12-07;533",
+      "ementa": "Supprime as restricções postas á amnistia concedida pela   lei n. 310, de 21 de outubro de 1895, e dá outras providencias."
+    },
+    {
+      "senadoId": "541979",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-12-02-530",
+      "titulo": "Lei nº 530 de 02/12/1898",
+      "data": "1898-12-02",
+      "numero": "530",
+      "urn": "urn:lex:br:federal:lei:1898-12-02;530",
+      "ementa": "Fixa as Forças de terra para o exercicio de 1899"
+    },
+    {
+      "senadoId": "541964",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-11-25-523",
+      "titulo": "Lei nº 523 de 25/11/1898",
+      "data": "1898-11-25",
+      "numero": "523",
+      "urn": "urn:lex:br:federal:lei:1898-11-25;523",
+      "ementa": "Permitte aos officiaes da Armada, reformados antes de   instituido o meio soldo para suas familias, contribuir para o montepio, e   suspende, quanto aos engenheiros navaes, a reforma compulsoria."
+    },
+    {
+      "senadoId": "541947",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-11-03-515",
+      "titulo": "Lei nº 515 de 03/11/1898",
+      "data": "1898-11-03",
+      "numero": "515",
+      "urn": "urn:lex:br:federal:lei:1898-11-03;515",
+      "ementa": "Providencia sobre o julgamento dos crimes de moeda   falsa, contrabando, peculato, falsificação de estampilhas, sellos adhesivos,   vales postaes e outros, qualificados nos arts. 221 a 223, 239 a 244, 246, 247,   250 e 265 do Codigo Penal."
+    },
+    {
+      "senadoId": "541939",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-10-31-512",
+      "titulo": "Lei nº 512 de 31/10/1898",
+      "data": "1898-10-31",
+      "numero": "512",
+      "urn": "urn:lex:br:federal:lei:1898-10-31;512",
+      "ementa": "Fixa a Força naval para o anno de 1899"
+    },
+    {
+      "senadoId": "541906",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-08-01-496",
+      "titulo": "Lei nº 496 de 01/08/1898",
+      "data": "1898-08-01",
+      "numero": "496",
+      "urn": "urn:lex:br:federal:lei:1898-08-01;496",
+      "ementa": "Define e garante os direitos autoraes"
+    },
+    {
+      "senadoId": "541899",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1898-07-19-493",
+      "titulo": "Lei nº 493 de 19/07/1898",
+      "data": "1898-07-19",
+      "numero": "493",
+      "urn": "urn:lex:br:federal:lei:1898-07-19;493",
+      "ementa": "Regula a suspensão das leis e resoluções do Conselho Municipal do Districto Federal."
+    }
+  ],
+  "pendencias": []
+}

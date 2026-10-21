@@ -1,0 +1,149 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1828",
+  "tipo": "LEI",
+  "ano": 1828,
+  "coletado_em": "2026-10-20T23:09:01.815Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "572961",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 08/10/1828",
+      "dataassinatura": "08/10/1828",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPEZA DO TESOURO PÚBLICO NESTA CÔRTE E PROVÍNCIA DO RIO DE JANEIRO PARA O ANO DE 1829."
+    },
+    {
+      "id": "572960",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 06/10/1828",
+      "dataassinatura": "06/10/1828",
+      "ementa": "EXTINGUE O OFICIO DE SELADOR DE FAZENDAS NAS ALFANDEGAS DO IMPERIO, MANDANDO ARRECADAR PARA O TESOURO OS RESPECTIVO EMOLUMENTOS."
+    },
+    {
+      "id": "573014",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 01/10/1828 ( seq-sf: 1 )",
+      "dataassinatura": "01/10/1828",
+      "ementa": "DA NOVA FORMA AS CAMARAS MUNICIPAIS, MARCA SUAS ATRIBUIÇÕES, E O PROCESSO PARA A SUA ELEIÇÃO, E DOS JUIZES DE PAZ."
+    },
+    {
+      "id": "572959",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 01/10/1828",
+      "dataassinatura": "01/10/1828",
+      "ementa": "DÁ NOVA FORMA ÀS CÂMARAS MUNICIPAIS, MARCA SUAS ATRIBUIÇÕES, E O PROCESSO PARA A SUA ELEIÇÃO, E DOS JUÍZES DE PAZ, CRIANDO EM CADA CIDADE E VILA DO IMPÉRIO CÂMARAS MUNICIPAIS."
+    },
+    {
+      "id": "573029",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 25/09/1828 ( seq-sf: 2 )",
+      "dataassinatura": "25/09/1828",
+      "ementa": "REVOGA O ALVARA DE 5 DE JANEIRO DE 1757, NA PARTE RELATIVA A SUSPENSÃO DOS MINISTROS OU OFICIAIS DE JUSTIÇA, FAZENDA E GUERRA, ACIONISTA DE COMPANHIAS MERCANTES."
+    },
+    {
+      "id": "573013",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 25/09/1828 ( seq-sf: 1 )",
+      "dataassinatura": "25/09/1828",
+      "ementa": "DA DESTINO AOS OFICIAIS DA EXTINTA IMPERIAL BRIGADA DE MARINHA EXCEDENTE DO ESTADO COMPLETO DO ATUAL CORPO DE ARTILHARIA DE MARINHA E MARCA AS GRATIFICAÇÕES QUE COMPETEM AOS OFICIAIS DESTE CORPO."
+    },
+    {
+      "id": "572958",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 25/09/1828",
+      "dataassinatura": "25/09/1828",
+      "ementa": "REDUZ A DOIS POR CENTO OS DIREITOS DE BALDEAÇÃO E REEXPORTAÇÃO DE TODAS AS MERCADORIAS IMPORTADAS."
+    },
+    {
+      "id": "573012",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 24/09/1828 ( seq-sf: 1 )",
+      "dataassinatura": "24/09/1828",
+      "ementa": "TAXA EM QUINZE POR CENTO PARA TODAS AS NAÇÕES, OS DIREITOS DE IMPORTAÇÃO DE QUAISQUER MERCADORIAS E GENEROS ESTRANGEIROS."
+    },
+    {
+      "id": "572957",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 24/09/1828",
+      "dataassinatura": "24/09/1828",
+      "ementa": "REGULA O FORNECIMENTO DAS RAÇÕES DE ETAPA DO EXERCITO."
+    },
+    {
+      "id": "572956",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 23/09/1828",
+      "dataassinatura": "23/09/1828",
+      "ementa": "PRESCREVE AS FORMALIDADES QUE SE DEVEM OBSERVAR NOS PROCESSOS CRIMINAIS E A MANEIRA POR QUE DEVEM SER INSTRUÍDOS E PREPARADOS OS QUE FOREM JULGADOS NAS JUNTAS DE JUSTIÇA."
+    },
+    {
+      "id": "572955",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 22/09/1828",
+      "dataassinatura": "22/09/1828",
+      "ementa": "EXTINGUE OS TRIBUNAIS DAS MESAS DO DESEMBARGADOR DO PAÇO E DA CONSCIENCIA E ORDENS E REGULA A EXPEDIÇÃO DOS NEGOCIOS QUE LHES PERTENCIAM E FICAM SUBSISTINDO."
+    },
+    {
+      "id": "572954",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 20/09/1828",
+      "dataassinatura": "20/09/1828",
+      "ementa": "EXTINGUE O TRIBUNAL DA JUNTA DA BULA DA CRUZADA."
+    },
+    {
+      "id": "572953",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 18/09/1828",
+      "dataassinatura": "18/09/1828",
+      "ementa": "CRIA O SUPREMO TRIBUNAL DE JUSTIÇA E DECLARA SUAS ATRIBUIÇÕES."
+    },
+    {
+      "id": "572952",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 06/09/1828",
+      "dataassinatura": "06/09/1828",
+      "ementa": "EXTINGUE O EXCLUSIVO DA NAVEGAÇÃO ENTRE A VILA DE SANTOS E PORTOS INTERIORES DA PROVÍNCIA DE SÃO PAULO E DE NOVO REGULA A ARRECADAÇÃO E APLICAÇÃO DA TAXA VOLUNTÁRIA PARA A ESTRADA DE SANTOS E SÃO PAULO E SUAS RAMIFICAÇÕES."
+    },
+    {
+      "id": "573011",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 30/08/1828 ( seq-sf: 1 )",
+      "dataassinatura": "30/08/1828",
+      "ementa": "DECLARA OS CASOS, EM QUE SE PODE PROCEDER A PRISÃO POR CRIMES SEM CULPA FORMADA."
+    },
+    {
+      "id": "573028",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 30/08/1828 ( seq-sf: 2 )",
+      "dataassinatura": "30/08/1828",
+      "ementa": "MANDA QUE O IMPOSTO DO QUINTO DOS COUROS NA PROVINCIA DO RIO GRANDE DO SUL SEJA PAGO EM DINHEIRO NA RAZÃO DE 20 POR CENTO DO SEU VALOR, ISENTANDO DESSE IMPOSTO OS DO CONSUMO DO PAIS."
+    },
+    {
+      "id": "572951",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 30/08/1828",
+      "dataassinatura": "30/08/1828",
+      "ementa": "EXTINGUE OS LUGARES DE PROVEDOR-MOR E CIRUGIÃO-MOR DO IMPERIO, PASSANDO PARA AS CAMARAS MUNICIPAIS E JUSTIÇAS ORDINARIAS AS ATRIBUIÇÕES QUE LHES COMPETIAM."
+    },
+    {
+      "id": "572950",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 29/08/1828",
+      "dataassinatura": "29/08/1828",
+      "ementa": "ESTABELECE REGRAS PARA A CONSTRUÇÃO DAS OBRAS PÚBLICAS, QUE TIVEREM POR OBJETIVO A NAVEGAÇÃO DE RIOS, ABERTURAS DE CANAIS, EDIFICAÇÃO DE ESTRADAS DE PONTES, CALÇADAS OU AQUEDUTOS."
+    },
+    {
+      "id": "572949",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 27/08/1828",
+      "dataassinatura": "27/08/1828",
+      "ementa": "DA REGIMENTO PARA OS CONSELHOS GERAIS DE PROVINCIA."
+    },
+    {
+      "id": "572948",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 26/08/1828",
+      "dataassinatura": "26/08/1828",
+      "ementa": "APLICA VARIOS SUBSIDIOS PARA A FATURA ESTRADA DA SERRA DE PARATI E EXTINGUE OS REGISTROS DE CACHOEIRA E DO CURRALINHO E O IMPOSTO DE QUARENTA RS, POR PESSOA E POR ANIMAL QUE NELES PASSAVAM."
+    }
+  ]
+}

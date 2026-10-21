@@ -4,6 +4,11 @@ import { gunzipSync, gzipSync } from "node:zlib";
 import { Effect, Schema } from "effect";
 import { Metadata } from "./catalog";
 
+const markdownPath = (id: string) => {
+  if (id.startsWith("br-federal-")) return `federal/${id}.md`;
+  return `estaduais/${id.slice(3, 5).toUpperCase()}/${id}.md`;
+};
+
 const renderDocument = (metadata: typeof Metadata.Type, markdown: string) => {
   const frontmatter = Object.entries(metadata)
     .filter(([, value]) => value !== undefined)
@@ -19,7 +24,7 @@ export const intact = Effect.fn("leis.intact")(
     const metadata = yield* Effect.tryPromise(() => metadataFile.text()).pipe(
       Effect.flatMap(Schema.decodeUnknown(Schema.parseJson(Metadata))),
     );
-    const documentFile = Bun.file(`federal/${id}.md`);
+    const documentFile = Bun.file(markdownPath(id));
     const htmlFile = Bun.file(`fontes/${id}.html.gz`);
     const files = [documentFile, htmlFile];
     for (const file of files)
@@ -81,7 +86,7 @@ export const saveDocument = Effect.fn("leis.saveDocument")(function* (
     data: gzipSync(bytes, { level: 9 }),
   });
   files.push({
-    path: `federal/${metadata.id}.md`,
+    path: markdownPath(metadata.id),
     data: renderDocument(metadata, markdown),
   });
   files.push({ path: `fontes/${metadata.id}.json`, data: `${json}\n` });

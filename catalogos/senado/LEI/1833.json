@@ -1,0 +1,129 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1833",
+  "tipo": "LEI",
+  "ano": 1833,
+  "coletado_em": "2026-10-20T23:08:39.547Z",
+  "normas": [
+    {
+      "senadoId": "540972",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-12-66",
+      "titulo": "Lei nº 66 de 12/10/1833",
+      "data": "1833-10-12",
+      "numero": "66",
+      "urn": "urn:lex:br:federal:lei:1833-10-12;66",
+      "ementa": "DETERMINA O ARRENDAMENTO EM HASTA PÚBLICA DAS FÁBRICAS, TERRENOS E PRÓPRIOS NACIONAIS; AUTORIZA O CONTRATO PARA A ILUMINAÇÃO A GÁS, E SUPRIME OS ORDENADOS DO ESCRIVÃO DO HOSPITAL DE SANTOS E DO CAPELÃO DO COLÉGIO DE S.PAULO, E A DESPESA COM O QUARTEL DO RIO PARDO."
+    },
+    {
+      "senadoId": "540963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-10-62",
+      "titulo": "Lei nº 62 de 10/10/1833",
+      "data": "1833-10-10",
+      "numero": "62",
+      "urn": "urn:lex:br:federal:lei:1833-10-10;62",
+      "ementa": "FIXA O TEMPO DESDE O QUAL SERÃO CONTADOS OS JUROS DA DÍVIDA FLUTUANTE INSCRITA NO GRANDE LIVRO DA DIVIDA PUBLICA; E MANDA INSCREVER NO DITO LIVRO O EMPRÉSTIMO DE QUATROCENTAS MIL LIBRAS ESTERLINAS CONTRAIDO NA PRAÇA DE LONDRES, E REMOVE O COFRE DE DEPÓSITOS PÚBLICOS PARA O TESOURO NACIONAL."
+    },
+    {
+      "senadoId": "540952",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-08-58",
+      "titulo": "Lei nº 58 de 08/10/1833",
+      "data": "1833-10-08",
+      "numero": "58",
+      "urn": "urn:lex:br:federal:lei:1833-10-08;58",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA GERAL E PROVINCIAL DO IMPÉRIO PARA O ANO FINANCEIRO DE 1834-1835."
+    },
+    {
+      "senadoId": "540948",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-08-57",
+      "titulo": "Lei nº 57 de 08/10/1833",
+      "data": "1833-10-08",
+      "numero": "57",
+      "urn": "urn:lex:br:federal:lei:1833-10-08;57",
+      "ementa": "AUTORIZA O GOVERNO A CONCEDER ANISTIA A TODOS OS CRIMES POLÍTICOS, COMETIDOS EM QUAISQUER PROVÍNCIAS DO IMPÉRIO, SEGUNDO PEDIR O BEM DO ESTADO."
+    },
+    {
+      "senadoId": "540955",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-08-59",
+      "titulo": "Lei nº 59 de 08/10/1833",
+      "data": "1833-10-08",
+      "numero": "59",
+      "urn": "urn:lex:br:federal:lei:1833-10-08;59",
+      "ementa": "FIXA O NOVO PADRÃO MONETÁRIO; ESTABELECE UM BANCO DE CIRCULAÇÃO E DEPÓSITO; AUTORIZA O GOVERNO A CELEBRAR COM PARTICULARES OU COMPANHIAS CONTRATOS PARA A MINERAÇÃO DOS TERRENOS DA NAÇÃO; ALTERA O IMPOSTO DO SELO E CRIA A TAXA ANUAL DOS ESCRAVOS."
+    },
+    {
+      "senadoId": "540937",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-07-53",
+      "titulo": "Lei nº 53 de 07/10/1833",
+      "data": "1833-10-07",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:lei:1833-10-07;53",
+      "ementa": "MARCA O SUBSÍDIO QUE DEVERÃO VENCER OS DEPUTADOS NA PRÓXIMA SEGUINTE LEGISLATURA."
+    },
+    {
+      "senadoId": "540934",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-10-03-52",
+      "titulo": "Lei nº 52 de 03/10/1833",
+      "data": "1833-10-03",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:lei:1833-10-03;52",
+      "ementa": "MANDA SUBSTITUIR A MOEDA DE COBRE EM CIRCULAÇÃO, E ESTABELECE O MODO DE FAZER-SE ESTA OPERAÇÃO."
+    },
+    {
+      "senadoId": "540923",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-09-03-48",
+      "titulo": "Lei nº 48 de 03/09/1833",
+      "data": "1833-09-03",
+      "numero": "48",
+      "urn": "urn:lex:br:federal:lei:1833-09-03;48",
+      "ementa": "FIXA AS FORÇAS DE TERRA ORDINÁRIAS PARA O ANO FINANCEIRO DE 1834-1835."
+    },
+    {
+      "senadoId": "540918",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-08-30-46",
+      "titulo": "Lei nº 46 de 30/08/1833",
+      "data": "1833-08-30",
+      "numero": "46",
+      "urn": "urn:lex:br:federal:lei:1833-08-30;46",
+      "ementa": "SUJEITA AS LEIS GERAIS DAS EXECUÇÕES AS FABRICAS DE MINERAÇÃO, E DE AÇUCAR, E LAVOURAS DE CANAS."
+    },
+    {
+      "senadoId": "540875",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-08-26-31",
+      "titulo": "Lei nº 31 de 26/08/1833",
+      "data": "1833-08-26",
+      "numero": "31",
+      "urn": "urn:lex:br:federal:lei:1833-08-26;31",
+      "ementa": "FIXA AS FORÇAS NAVAIS ATIVAS ORDINARIAS DO IMPÉRIO, PARA O ANO FINANCEIRO DE 1834-1835."
+    },
+    {
+      "senadoId": "540855",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-08-12-24",
+      "titulo": "Lei nº 24 de 12/08/1833",
+      "data": "1833-08-12",
+      "numero": "24",
+      "urn": "urn:lex:br:federal:lei:1833-08-12;24",
+      "ementa": "SEPARA DA FAZENDA DE CUBATÃO, EM S.PAULO, O TERRENO DE MEIA LÉGUA EM QUADRA PARA PASTAGEM DOS ANIMAIS QUE TRANSITAM PELA ESTRADA DE SANTOS, E FUNDAÇÃO DE UMA POVOAÇÃO."
+    },
+    {
+      "senadoId": "540851",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1833-08-12-23",
+      "titulo": "Lei nº 23 de 12/08/1833",
+      "data": "1833-08-12",
+      "numero": "23",
+      "urn": "urn:lex:br:federal:lei:1833-08-12;23",
+      "ementa": "ORDENA O ESTABELECIMENTO DE DUAS POVOAÇÕES ENTRE O TERMO DA CIDADE DO DESTERRO, E DA VILA DE LAGES."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1910",
+  "tipo": "LEI",
+  "ano": 1910,
+  "coletado_em": "2026-10-20T23:05:22.845Z",
+  "normas": [
+    {
+      "senadoId": "544149",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1910-12-31-2356",
+      "titulo": "Lei nº 2.356 de 31/12/1910",
+      "data": "1910-12-31",
+      "numero": "2356",
+      "urn": "urn:lex:br:federal:lei:1910-12-31;2356",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1911 e dá outras providencias"
+    },
+    {
+      "senadoId": "544109",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1910-12-30-2321",
+      "titulo": "Lei nº 2.321 de 30/12/1910",
+      "data": "1910-12-30",
+      "numero": "2321",
+      "urn": "urn:lex:br:federal:lei:1910-12-30;2321",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1911 e dá outras providencias."
+    },
+    {
+      "senadoId": "544092",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1910-12-23-2306",
+      "titulo": "Lei nº 2.306 de 23/12/1910",
+      "data": "1910-12-23",
+      "numero": "2306",
+      "urn": "urn:lex:br:federal:lei:1910-12-23;2306",
+      "ementa": "Fixa as forças de terra para o anno de 1911"
+    },
+    {
+      "senadoId": "544074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1910-12-13-2290",
+      "titulo": "Lei nº 2.290 de 13/12/1910",
+      "data": "1910-12-13",
+      "numero": "2290",
+      "urn": "urn:lex:br:federal:lei:1910-12-13;2290",
+      "ementa": "Modifica as tabellas de vencimentos dos officiaes e praças do Exercito e da Armada e dá outras providencias"
+    }
+  ],
+  "pendencias": []
+}

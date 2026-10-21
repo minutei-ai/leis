@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-04-02-15117",
+  "titulo": "Lei nº 15.117 de 02/04/2025",
+  "data": "2025-04-02",
+  "fonte": "https://normas.leg.br/api/public/binario/a9e9d9a0-2ce1-4a38-a645-277ebded79dc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-04-02;15117",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-04-02%3B15117&tipo_documento=maior-detalhe",
+  "sha256_dados": "8e95bfea4d950a558e122b2a535d5a3a60f32fa70a449786b9876ee012a2e5e2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:49.725Z",
+  "sha256_fonte": "2af9fe0a04aa37df97ef2355de4d398948888e7d9ce4129d6dd3f075e12914e5",
+  "sha256_markdown": "2be601c6ff50af8aa38f29b357acdb814059fb905fc186ee1b6a439bc40956d0"
+}

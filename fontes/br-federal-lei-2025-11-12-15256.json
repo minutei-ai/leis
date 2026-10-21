@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-12-15256",
+  "titulo": "Lei nº 15.256 de 12/11/2025",
+  "data": "2025-11-12",
+  "fonte": "https://normas.leg.br/api/public/binario/6958435a-fcaa-4de5-bc1f-9746eeaae6c5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-12;15256",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-12%3B15256&tipo_documento=maior-detalhe",
+  "sha256_dados": "e17f20ad05398397a05884da188a0dbec95a7918807a42a9752f57b8e82cbf91",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:47.247Z",
+  "sha256_fonte": "6f32ed85dfe2b6555d10ece747657ccc7f095ca042c7eab12330bd057bd87e36",
+  "sha256_markdown": "22b7116dd182d1e1809f907612ab4108e0786565854d1eda3f254cd9c3921472"
+}

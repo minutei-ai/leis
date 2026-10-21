@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-06-11-15148",
+  "titulo": "Lei nº 15.148 de 11/06/2025",
+  "data": "2025-06-11",
+  "fonte": "https://normas.leg.br/api/public/binario/88832e50-d855-4638-99ab-bc6b1c373c9f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-06-11;15148",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-06-11%3B15148&tipo_documento=maior-detalhe",
+  "sha256_dados": "ac0f3a79af05a2943284b988c06c748609624530f5d80bd6c453d8e2350ff7c1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:09.697Z",
+  "sha256_fonte": "bc26b33eda13220838c31535c66392ee463e3a656ae8feb2e76bc9d67b5c9a44",
+  "sha256_markdown": "53b0f6268ccc0fb2d02a17ff2121c2bf14406716a5f9fc2c9aa256000b57e421"
+}

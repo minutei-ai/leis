@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-10-28-15240",
+  "titulo": "Lei nº 15.240 de 28/10/2025",
+  "data": "2025-10-28",
+  "fonte": "https://normas.leg.br/api/public/binario/d13985f9-36d9-4a92-bc32-80d3242d4145/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-10-28;15240",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-10-28%3B15240&tipo_documento=maior-detalhe",
+  "sha256_dados": "77b24d6b8f4ecc8a858d7959e67499d0e37800e2a889ced088d227d31ebf151c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:09.149Z",
+  "sha256_fonte": "933a352463cbbb48f64529dae207e562f75239d6bd81fe8d75f2ba3715907c39",
+  "sha256_markdown": "4d5fc5f942d4cd57183cb8d7527ba9793e3461dd638a9f2a8ce5c80e28084816"
+}

@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1857",
+  "tipo": "LEI",
+  "ano": 1857,
+  "coletado_em": "2026-10-20T23:07:27.513Z",
+  "normas": [
+    {
+      "senadoId": "542530",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1857-09-26-939",
+      "titulo": "Lei nº 939 de 26/09/1857",
+      "data": "1857-09-26",
+      "numero": "939",
+      "urn": "urn:lex:br:federal:lei:1857-09-26;939",
+      "ementa": "FIXANDO A DESPESA E ORÇANDO A RECEITA PARA O EXERCICIO DE 1858-1859."
+    },
+    {
+      "senadoId": "542494",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1857-08-10-906",
+      "titulo": "Lei nº 906 de 10/08/1857",
+      "data": "1857-08-10",
+      "numero": "906",
+      "urn": "urn:lex:br:federal:lei:1857-08-10;906",
+      "ementa": "AUTORIZA O GOVERNO A DEPOSITAR NO BANCO DO BRASIL E SUAS CAIXAS FILIAIS AS SOMAS DISPONIVEIS QUE TIVER NO TESOURO E TESOURARIAS DE FAZENDA."
+    },
+    {
+      "senadoId": "542491",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1857-08-08-904",
+      "titulo": "Lei nº 904 de 08/08/1857",
+      "data": "1857-08-08",
+      "numero": "904",
+      "urn": "urn:lex:br:federal:lei:1857-08-08;904",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1858-1859."
+    },
+    {
+      "senadoId": "542489",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1857-08-05-903",
+      "titulo": "Lei nº 903 de 05/08/1857",
+      "data": "1857-08-05",
+      "numero": "903",
+      "urn": "urn:lex:br:federal:lei:1857-08-05;903",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1858-1859."
+    }
+  ],
+  "pendencias": []
+}

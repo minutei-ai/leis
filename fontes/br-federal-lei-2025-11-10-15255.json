@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-10-15255",
+  "titulo": "Lei nº 15.255 de 10/11/2025",
+  "data": "2025-11-10",
+  "fonte": "https://normas.leg.br/api/public/binario/9b3fd3eb-48a1-492e-9d09-2b37397569e3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-10;15255",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-10%3B15255&tipo_documento=maior-detalhe",
+  "sha256_dados": "ad87219ed62f03e2132bb07ccfd22a7042c402cca26ec8a855e1ad0ccae1ed2d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:49.863Z",
+  "sha256_fonte": "0646cd8934c9804d36ab99392f187606e8ba65a65e3003a2781cfecab5ecfc8c",
+  "sha256_markdown": "f82bd85615dabf2b7624a8dfc16837295cd804397b22cc993fec2e4d0dfaf7f1"
+}

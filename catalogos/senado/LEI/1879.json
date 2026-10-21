@@ -1,0 +1,159 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1879",
+  "tipo": "LEI",
+  "ano": 1879,
+  "coletado_em": "2026-10-20T23:06:25.965Z",
+  "normas": [
+    {
+      "senadoId": "544784",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-11-08-2942",
+      "titulo": "Lei nº 2.942 de 08/11/1879",
+      "data": "1879-11-08",
+      "numero": "2942",
+      "urn": "urn:lex:br:federal:lei:1879-11-08;2942",
+      "ementa": "FIXA AS FORÇAS DA TERRA PARA O ANO FINANCEIRO DE 1880-1881."
+    },
+    {
+      "senadoId": "544782",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-11-08-2941",
+      "titulo": "Lei nº 2.941 de 08/11/1879",
+      "data": "1879-11-08",
+      "numero": "2941",
+      "urn": "urn:lex:br:federal:lei:1879-11-08;2941",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1880-1881."
+    },
+    {
+      "senadoId": "544780",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-10-31-2940",
+      "titulo": "Lei nº 2.940 de 31/10/1879",
+      "data": "1879-10-31",
+      "numero": "2940",
+      "urn": "urn:lex:br:federal:lei:1879-10-31;2940",
+      "ementa": "FIXA A DESPESA E ORÇA A RECEITA GERAL DO IMPERIO PARA OS EXERCICIOS DE 1879-1880 E 1880-1881, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "544773",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-10-25-2934",
+      "titulo": "Lei nº 2.934 de 25/10/1879",
+      "data": "1879-10-25",
+      "numero": "2934",
+      "urn": "urn:lex:br:federal:lei:1879-10-25;2934",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO UM CREDITO EXTRAORDINARIO DE 558:692$872, AFIM DE OCORRER A DESPESAS COM AS OBRAS DE CONCLUSÃO DO NOVO MATADOURO, QUE SE ESTA CONSTRUINDO NO CURATO DE SANTA CRUZ, E AUTORIZA O DOS NEGOCIOS DA FAZENDA A FAZER AS OPERAÇÕES DE CREDITO, QUE FOREM PRECISAS PARA REALIZAÇÃO DE TAIS DESPESAS."
+    },
+    {
+      "senadoId": "544765",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-10-18-2927",
+      "titulo": "Lei nº 2.927 de 18/10/1879",
+      "data": "1879-10-18",
+      "numero": "2927",
+      "urn": "urn:lex:br:federal:lei:1879-10-18;2927",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS ESTRANGEIROS UM CREDITO EXTRAORDINARIO DE CENTO E VINTE CONTOS DE REIS AO CAMBIO DE VINTE E SETE DINHEIROS ESTERLINOS POR MIL REIS, PARA SER APLICADO AS DESPESAS DA MISSÃO ESPECIAL, QUE TEM DE SER ENVIADA A CHINA."
+    },
+    {
+      "senadoId": "544760",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-09-27-2924",
+      "titulo": "Lei nº 2.924 de 27/09/1879",
+      "data": "1879-09-27",
+      "numero": "2924",
+      "urn": "urn:lex:br:federal:lei:1879-09-27;2924",
+      "ementa": "ABRE, AO MINISTERIO DA MARINHA, UM CREDITO DE NOVE CONTOS E QUINHENTOS TRINTA E TRES MIL E TREZENTOS E VINTE OITO REIS (9:523$328) , PARA PAGAMENTO DAS GRATIFICAÇÕES QUE POR LEI FOREM DEVIDAS AOS EMPREGADOS DA REPARTIÇÃO HIDROGRAFICA NOS EXERCICIOS DE 1877-1879."
+    },
+    {
+      "senadoId": "544746",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-08-30-2914",
+      "titulo": "Lei nº 2.914 de 30/08/1879",
+      "data": "1879-08-30",
+      "numero": "2914",
+      "urn": "urn:lex:br:federal:lei:1879-08-30;2914",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO, POR CONTA DO EXERCICIO DE 1878-1879, O CREDITO SUPLEMENTAR DE 280:746$221 PARA CONTINUAÇÃO DAS DESPESAS DA VERBA- SOCORROS PUBLICOS E MELHORAMENTO  DO ESTADO SANITARIO."
+    },
+    {
+      "senadoId": "544739",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-08-30-2909",
+      "titulo": "Lei nº 2.909 de 30/08/1879",
+      "data": "1879-08-30",
+      "numero": "2909",
+      "urn": "urn:lex:br:federal:lei:1879-08-30;2909",
+      "ementa": "ABRE AO GOVERNO, PELO MINISTERIO DA GUERRA, UM CREDITO SUPLEMENTAR DE 654:150$313."
+    },
+    {
+      "senadoId": "544744",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-08-30-2913",
+      "titulo": "Lei nº 2.913 de 30/08/1879",
+      "data": "1879-08-30",
+      "numero": "2913",
+      "urn": "urn:lex:br:federal:lei:1879-08-30;2913",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO, POR CONTA DO EXERCITO DE 1878-1879, OS CREDITOS SUPLEMENTARES DE 288:580$645 A VERBA-CAMARA DOS SENADORES E 392:193$548 A VERBA-CAMARA DOS DEPUTADOS- PARA PAGAMENTO DO SUBSIDIO E DAS DESPESAS COM A PUBLICAÇÃO DOS DEBATES, A CONTAR DE 3 DE MAIO A 30 DE JUNHO FINDO."
+    },
+    {
+      "senadoId": "544748",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-08-30-2915",
+      "titulo": "Lei nº 2.915 de 30/08/1879",
+      "data": "1879-08-30",
+      "numero": "2915",
+      "urn": "urn:lex:br:federal:lei:1879-08-30;2915",
+      "ementa": "ABRE, AO MINISTERIO DOS NEGOCIOS ESTRANGEIROS, UM CREDITO SUPLEMENTAR DE UM CONTO E SETENTA E SEIS MIL E SEICENTOS E SETENTA E NOVE REIS, PARA SER APLICADO AO PAGAMENTO DA DESPESA COM EMPREGADOS EM DISPONIBILIDADE NO EXERCICIO DE 1878-1879."
+    },
+    {
+      "senadoId": "544726",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-08-09-2897",
+      "titulo": "Lei nº 2.897 de 09/08/1879",
+      "data": "1879-08-09",
+      "numero": "2897",
+      "urn": "urn:lex:br:federal:lei:1879-08-09;2897",
+      "ementa": "ABRE AO GOVERNO, PELO MINISTERIO DA FAZENDA, UM CREDITO SUPLEMENTAR E EXTRAORDINARIO DE 4.292:137$676."
+    },
+    {
+      "senadoId": "544708",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-06-30-2880",
+      "titulo": "Lei nº 2.880 de 30/06/1879",
+      "data": "1879-06-30",
+      "numero": "2880",
+      "urn": "urn:lex:br:federal:lei:1879-06-30;2880",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1879-1880."
+    },
+    {
+      "senadoId": "544706",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-06-30-2879",
+      "titulo": "Lei nº 2.879 de 30/06/1879",
+      "data": "1879-06-30",
+      "numero": "2879",
+      "urn": "urn:lex:br:federal:lei:1879-06-30;2879",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1879-1880."
+    },
+    {
+      "senadoId": "544678",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-05-03-2852",
+      "titulo": "Lei nº 2.852 de 03/05/1879",
+      "data": "1879-05-03",
+      "numero": "2852",
+      "urn": "urn:lex:br:federal:lei:1879-05-03;2852",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1878-1879."
+    },
+    {
+      "senadoId": "544646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1879-02-15-2823",
+      "titulo": "Lei nº 2.823 de 15/02/1879",
+      "data": "1879-02-15",
+      "numero": "2823",
+      "urn": "urn:lex:br:federal:lei:1879-02-15;2823",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1878 A 1879."
+    }
+  ],
+  "pendencias": []
+}

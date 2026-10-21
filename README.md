@@ -10,6 +10,7 @@ As quantidades publicadas, os catálogos consultados e o que falta coletar estã
 - [Código Civil — Lei nº 10.406/2002](federal/br-federal-lei-2002-01-10-10406.md)
 - [Código de Processo Civil — Lei nº 13.105/2015](federal/br-federal-lei-2015-03-16-13105.md)
 - [Demais normas federais](federal/)
+- [Normas de Minas Gerais](estaduais/MG/)
 
 O cabeçalho de cada arquivo informa a versão: texto atualizado da Câmara, compilação atual disponibilizada pelo Senado ou publicação original. O coletor do Senado prefere a compilação atual em HTML; se ela não existir nos metadados, usa a publicação original em HTML. Retificações isoladas não substituem uma norma inteira. O projeto não infere vigência nem eficácia a partir da versão disponível.
 
@@ -20,7 +21,9 @@ Os textos têm caráter informativo. Consulte a fonte e a publicação no Diári
 A descoberta federal usa a [API de Dados Abertos do Senado](https://legis.senado.leg.br/dadosabertos/api-docs/swagger-ui/index.html), particionada por tipo e ano. Os metadados do [Portal das Normas Jurídicas Brasileiras](https://normas.leg.br/) fornecem os arquivos de texto e suas versões. O acesso aos arquivos segue o caminho público usado pelo próprio portal. Os três documentos iniciais vieram diretamente da [Legislação Informatizada da Câmara](https://www2.camara.leg.br/atividade-legislativa/legislacao).
 
 - `federal/`: texto convertido, com cabeçalho YAML.
-- `fontes/`: HTML comprimido, metadados JSON e, nas coletas do Senado, resposta de metadados comprimida.
+- `estaduais/MG/`: normas mineiras convertidas de fontes da ALMG.
+- `fontes/`: HTML comprimido, metadados JSON e respostas JSON originais do Senado e da ALMG.
+- `catalogos/almg/`: inventários anuais e CSVs oficiais comprimidos de Minas Gerais.
 - `catalogos/senado/<tipo>/<ano>.json`: inventário identificado e pendências de identidade.
 - `catalogos/senado/<tipo>/<ano>.fonte.json.gz`: resposta original do catálogo oficial, inclusive quando vazio.
 - `falhas/`: erros individuais; uma coleta posterior bem-sucedida remove o erro correspondente.
@@ -29,6 +32,29 @@ A descoberta federal usa a [API de Dados Abertos do Senado](https://legis.senado
 `sha256_fonte` identifica os bytes HTML descomprimidos; `sha256_dados` identifica a resposta JSON de metadados descomprimida, quando presente; `sha256_markdown` identifica o corpo convertido, sem o cabeçalho YAML e o título acrescentados pelo coletor. A URN identifica a norma por autoridade, tipo, data e número, incluindo complemento quando existir. Datas dos commits representam coleta ou manutenção.
 
 A conversão preserva links absolutos, tabelas, notas e tachados, inclusive tachados declarados em estilos inline. Não remove redações históricas. Imagens e anexos vinculados continuam como referências; o coletor não baixa esses recursos nem executa OCR. O HTML original permite conferir a transformação. Tamanho mínimo e presença do artigo inicial detectam algumas falhas; os três documentos iniciais também exigem dispositivos finais específicos. Isso não equivale a uma revisão jurídica integral.
+
+A coleta mineira usa o CSV anual e os documentos da [API de Dados Abertos da ALMG](https://dadosabertos.almg.gov.br/). Prefere o link de texto atualizado quando o catálogo o fornece e, caso contrário, usa a publicação original. O JSON recebido é preservado e a auditoria verifica a identidade do documento e a extração do HTML.
+
+## Skills jurídicas
+
+Os guias em `skills/` orientam agentes e pessoas a pesquisar e analisar normas com fontes verificáveis:
+
+- [Pesquisa legislativa](skills/pesquisa-legislativa/SKILL.md): localizar normas, conferir proveniência e registrar lacunas.
+- [Vigência e aplicação](skills/vigencia-e-aplicacao/SKILL.md): identificar a redação pertinente ao tempo e ao território dos fatos.
+- [Interpretação jurídica](skills/interpretacao-juridica/SKILL.md): examinar requisitos, exceções, teses e aplicação aos fatos.
+
+Para usar manualmente, abra o guia e siga o procedimento com os arquivos do acervo. Para um agente, mantenha o clone acessível e peça que leia o `SKILL.md` escolhido antes da análise. Em ferramentas compatíveis com esse formato, copie a pasta inteira da skill para o diretório de skills da ferramenta; a descoberta e a ativação dependem dela. Os guias não instalam ferramentas, não atualizam o acervo e não conferem acesso à internet.
+
+Exemplo de pedido ao agente:
+
+```text
+Leia skills/pesquisa-legislativa/SKILL.md e skills/interpretacao-juridica/SKILL.md.
+Pesquise no Código Civil a diferença entre personalidade e capacidade.
+Confira a fonte oficial, cite os dispositivos e separe texto legal de interpretação.
+Declare se não conseguir confirmar a redação atual.
+```
+
+As skills são roteiros de pesquisa, sujeitos a revisão; não certificam vigência nem substituem a análise profissional de um caso.
 
 ## Reproduzir e ampliar
 
@@ -47,6 +73,12 @@ bun run discover --from 1822 --to 2026 --type LEI
 # coletar os textos dos catálogos locais, retomando arquivos íntegros
 bun run collect:senado
 
+# descobrir o catálogo anual mineiro sem baixar os textos
+bun run collect:almg --from 2026 --to 2026 --discover-only
+
+# coletar um lote mineiro, retomando arquivos íntegros
+bun run collect:almg --from 2026 --to 2026 --limit 100
+
 # auditar todos os arquivos publicados e regenerar as contagens
 bun run audit
 bun run coverage
@@ -64,10 +96,10 @@ Os testes usam fontes reais preservadas, sem acesso à rede, e cobrem identidade
 
 Envie uma issue com a norma e a URL oficial ou um PR com o coletor, a fonte preservada e o Markdown. Novas fontes precisam de validação própria, limites de requisição e evidência de reprodução. Não substitua um texto atualizado por publicação original sob a mesma identidade. A expansão inclui as demais famílias federais e fontes estaduais, distritais e municipais, com contagens verificáveis por fonte.
 
-O projeto é independente. A referência encontrada durante a pesquisa foi [ctresb/leis](https://github.com/ctresb/leis); não usamos seu acervo nem seus scripts.
+Agradecemos ao pessoal da **Supersonic Labs** pela inspiração para tornar a legislação brasileira mais acessível em Markdown. A referência encontrada durante a pesquisa foi [ctresb/leis](https://github.com/ctresb/leis). Este projeto é uma iniciativa independente do Minutei, com coleta própria de fontes oficiais; não usamos o acervo nem os scripts daquele repositório.
 
 ## Licenças e créditos
 
-Código e organização produzidos pelo Minutei usam a [licença MIT](LICENSE). Os textos oficiais permanecem sujeitos ao regime próprio dos atos oficiais; a licença do código não atribui ao Minutei autoria sobre as normas.
+Código, documentação e skills produzidos pelo Minutei usam a [licença MIT](LICENSE). Os textos oficiais permanecem sujeitos ao regime próprio dos atos oficiais; a licença do código não atribui ao Minutei autoria sobre as normas.
 
 Os dados e arquivos obtidos do Portal das Normas Jurídicas Brasileiras são atribuídos ao Senado Federal, à Câmara dos Deputados e ao Congresso Nacional, conforme os metadados de cada fonte. Preserve também a licença indicada em `licenca_fonte` — nas respostas já coletadas, [Creative Commons Atribuição 4.0](https://creativecommons.org/licenses/by/4.0/) — e a origem dos textos ao redistribuir. A conversão para Markdown e o cabeçalho de proveniência são alterações feitas pelo Minutei. Os metadados originais permanecem preservados em `fontes/`.

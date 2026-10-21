@@ -1,12 +1,12 @@
 import { Schema } from "effect";
 
 export const Source = Schema.Struct({
-  id: Schema.String.pipe(Schema.pattern(/^br-federal-[a-z0-9-]+$/)),
+  id: Schema.String.pipe(Schema.pattern(/^br-(?:federal|mg)-[a-z0-9-]+$/)),
   titulo: Schema.NonEmptyString,
   data: Schema.String.pipe(Schema.pattern(/^\d{4}-\d{2}-\d{2}$/)),
   fonte: Schema.String.pipe(
     Schema.pattern(
-      /^https:\/\/(?:www2\.camara\.leg\.br\/legin\/|normas\.leg\.br\/api\/public\/binario\/)/,
+      /^https:\/\/(?:www2\.camara\.leg\.br\/legin\/|normas\.leg\.br\/api\/public\/binario\/|dadosabertos\.almg\.gov\.br\/api\/v2\/legislacao\/mineira\/)/,
     ),
   ),
   marcadorInicial: Schema.optional(Schema.NonEmptyString),
@@ -52,6 +52,8 @@ export const Metadata = Schema.Struct({
     "texto atualizado pela Câmara na data de coleta",
     "compilação atual disponibilizada pelo Senado",
     "publicação original disponibilizada pelo Senado",
+    "texto atualizado disponibilizado pela ALMG",
+    "publicação original disponibilizada pela ALMG",
   ),
   urn: Schema.optional(Schema.NonEmptyString),
   dados: Schema.optional(Schema.NonEmptyString),

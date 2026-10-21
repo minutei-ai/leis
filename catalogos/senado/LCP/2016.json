@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2016",
+  "tipo": "LCP",
+  "ano": 2016,
+  "coletado_em": "2026-10-20T23:10:19.686Z",
+  "normas": [
+    {
+      "senadoId": "572912",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2016-12-29-157",
+      "titulo": "Lei Complementar nº 157 de 29/12/2016",
+      "data": "2016-12-29",
+      "numero": "157",
+      "urn": "urn:lex:br:federal:lei.complementar:2016-12-29;157",
+      "ementa": "Altera a Lei Complementar nº 116, de 31 de julho de 2003, que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza, a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), e a Lei Complementar nº 63, de 11 de janeiro de 1990, que \"dispõe sobre critérios e prazos de crédito das parcelas do produto da arrecadação de impostos de competência dos Estados e de transferências por estes recebidos, pertencentes aos Municípios, e dá outras providências\"."
+    },
+    {
+      "senadoId": "572911",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2016-12-28-156",
+      "titulo": "Lei Complementar nº 156 de 28/12/2016",
+      "data": "2016-12-28",
+      "numero": "156",
+      "urn": "urn:lex:br:federal:lei.complementar:2016-12-28;156",
+      "ementa": "Estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; e altera a Lei Complementar nº 148, de 25 de novembro de 2014, a Lei nº 9.496, de 11 de setembro de 1997, a Medida Provisória nº 2.192-70, de 24 de agosto de 2001, a Lei nº 8.727, de 5 de novembro de 1993, e a Lei Complementar nº 101, de 4 de maio de 2000."
+    },
+    {
+      "senadoId": "572910",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2016-10-27-155",
+      "titulo": "Lei Complementar nº 155 de 27/10/2016",
+      "data": "2016-10-27",
+      "numero": "155",
+      "urn": "urn:lex:br:federal:lei.complementar:2016-10-27;155",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reorganizar e simplificar a metodologia de apuração do imposto devido por optantes pelo Simples Nacional; altera as Leis nºs 9.613, de 3 de março de 1998, 12.512, de 14 de outubro de 2011, e 7.998, de 11 de janeiro de 1990; e revoga dispositivo da Lei nº 8.212, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "572909",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2016-04-18-154",
+      "titulo": "Lei Complementar nº 154 de 18/04/2016",
+      "data": "2016-04-18",
+      "numero": "154",
+      "urn": "urn:lex:br:federal:lei.complementar:2016-04-18;154",
+      "ementa": "Acrescenta § 25 ao art. 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir ao microempreendedor individual utilizar sua residência como sede do estabelecimento."
+    }
+  ],
+  "pendencias": []
+}

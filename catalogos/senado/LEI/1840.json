@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1840",
+  "tipo": "LEI",
+  "ano": 1840,
+  "coletado_em": "2026-10-20T23:08:29.495Z",
+  "normas": [
+    {
+      "senadoId": "541199",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1840-09-29-166",
+      "titulo": "Lei nº 166 de 29/09/1840",
+      "data": "1840-09-29",
+      "numero": "166",
+      "urn": "urn:lex:br:federal:lei:1840-09-29;166",
+      "ementa": "ESTABELECE A DOTAÇÃO DE SUA ALTEZA IMPERIAL, QUANDO HORVER DE REALIZAR-SE O SEU CONSORCIO."
+    },
+    {
+      "senadoId": "541194",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1840-09-26-164",
+      "titulo": "Lei nº 164 de 26/09/1840",
+      "data": "1840-09-26",
+      "numero": "164",
+      "urn": "urn:lex:br:federal:lei:1840-09-26;164",
+      "ementa": "FIXANDO A DESPESA, E ORÇANDO A RECEITA PARA O EXERCICIO DO ANO FINANCEIRO DE 1841-1842."
+    },
+    {
+      "senadoId": "541162",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1840-08-27-149",
+      "titulo": "Lei nº 149 de 27/08/1840",
+      "data": "1840-08-27",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:lei:1840-08-27;149",
+      "ementa": "FIXANDO AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1841 A 1842."
+    },
+    {
+      "senadoId": "541159",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1840-08-27-148",
+      "titulo": "Lei nº 148 de 27/08/1840",
+      "data": "1840-08-27",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:lei:1840-08-27;148",
+      "ementa": "FIXANDO AS FORÇAS DE MAR PARA O ANO FINANCEIRO DE 1841 A 1842."
+    },
+    {
+      "senadoId": "541073",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1840-05-26-108",
+      "titulo": "Lei nº 108 de 26/05/1840",
+      "data": "1840-05-26",
+      "numero": "108",
+      "urn": "urn:lex:br:federal:lei:1840-05-26;108",
+      "ementa": "FIXANDO A DESPESA E ORÇANDO A RECEITA PARA O ANO FINANCEIRO DE 1840-1841."
+    },
+    {
+      "senadoId": "541064",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1840-05-12-105",
+      "titulo": "Lei nº 105 de 12/05/1840",
+      "data": "1840-05-12",
+      "numero": "105",
+      "urn": "urn:lex:br:federal:lei:1840-05-12;105",
+      "ementa": "INTERPRETA ALGUNS ARTIGOS DA REFORMA CONSTITUCIONAL."
+    }
+  ],
+  "pendencias": []
+}

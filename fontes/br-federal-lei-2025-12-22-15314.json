@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-22-15314",
+  "titulo": "Lei nº 15.314 de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/a8c1c851-3c8e-4ea4-8e3d-b7da4245f5b0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-22;15314",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-22%3B15314&tipo_documento=maior-detalhe",
+  "sha256_dados": "73907d8d300ade77ead7b0134dacef765e08bdfcdea6529883c9b0781648a8d5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:06:50.153Z",
+  "sha256_fonte": "1bcc1ecc82948ca84cda88a7a1d33490c751fc175358a08a4674e5fdc710dfe7",
+  "sha256_markdown": "11393d956dbe73574a2b619b84e3cb273f1f0621cd0745609677362ea2fc629f"
+}

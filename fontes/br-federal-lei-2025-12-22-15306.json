@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-22-15306",
+  "titulo": "Lei nº 15.306 de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/8dd77129-bd99-4293-aa64-86ef6ed50a7c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-22;15306",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-22%3B15306&tipo_documento=maior-detalhe",
+  "sha256_dados": "70ae7e4f96946d7bcfbf3e5cb9d9cb541fc5fa9df921974369e7aef0fd74d0e5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:06:34.215Z",
+  "sha256_fonte": "09a1c89b8941c245325526d5824efcdc10568e5cded80cb6e597bdf0186f38a6",
+  "sha256_markdown": "52d69a4420211ccacf5cdbb7183512df629d1dd8f4dd2a0448d087a4c28a6fc7"
+}

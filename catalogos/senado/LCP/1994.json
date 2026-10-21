@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=1994",
+  "tipo": "LCP",
+  "ano": 1994,
+  "coletado_em": "2026-10-20T23:10:51.836Z",
+  "normas": [
+    {
+      "senadoId": "572836",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1994-04-13-81",
+      "titulo": "Lei Complementar nº 81 de 13/04/1994",
+      "data": "1994-04-13",
+      "numero": "81",
+      "urn": "urn:lex:br:federal:lei.complementar:1994-04-13;81",
+      "ementa": "Altera a redação da alínea \"b\" do inciso I do art. 1º da Lei Complementar   nº 64, de 18 de maio de 1990, para elevar de três para oito anos o prazo de   inelegibilidade para os parlamentares que perderem o mandato por falta de decoro   parlamentar."
+    },
+    {
+      "senadoId": "572835",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1994-01-12-80",
+      "titulo": "Lei Complementar nº 80 de 12/01/1994",
+      "data": "1994-01-12",
+      "numero": "80",
+      "urn": "urn:lex:br:federal:lei.complementar:1994-01-12;80",
+      "ementa": "Organiza a Defensoria Pública da União, do Distrito Federal e dos Territórios e prescreve normas gerais para sua organização nos Estados, e dá outras providências."
+    },
+    {
+      "senadoId": "572834",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1994-01-07-79",
+      "titulo": "Lei Complementar nº 79 de 07/01/1994",
+      "data": "1994-01-07",
+      "numero": "79",
+      "urn": "urn:lex:br:federal:lei.complementar:1994-01-07;79",
+      "ementa": "Cria o Fundo Penitenciário Nacional - FUNPEN, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

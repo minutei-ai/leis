@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2009",
+  "tipo": "LCP",
+  "ano": 2009,
+  "coletado_em": "2026-10-20T23:10:28.466Z",
+  "normas": [
+    {
+      "senadoId": "572888",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2009-12-28-133",
+      "titulo": "Lei Complementar nº 133 de 28/12/2009",
+      "data": "2009-12-28",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:lei.complementar:2009-12-28;133",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para modificar o enquadramento das atividades de produções cinematográficas, audiovisuais, artísticas e culturais no Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte."
+    },
+    {
+      "senadoId": "572887",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2009-10-07-132",
+      "titulo": "Lei Complementar nº 132 de 07/10/2009",
+      "data": "2009-10-07",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:lei.complementar:2009-10-07;132",
+      "ementa": "Altera dispositivos da Lei Complementar nº 80, de 12 de janeiro de 1994, que organiza a Defensoria Pública da União, do Distrito Federal e dos Territórios e prescreve normas gerais para sua organização nos Estados, e da Lei nº 1.060, de 5 de fevereiro de 1950, e dá outras providências."
+    },
+    {
+      "senadoId": "572886",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2009-05-27-131",
+      "titulo": "Lei Complementar nº 131 de 27/05/2009",
+      "data": "2009-05-27",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:lei.complementar:2009-05-27;131",
+      "ementa": "Acrescenta dispositivos à Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, a fim de determinar a disponibilização, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira da União, dos Estados, do Distrito Federal e dos Municípios."
+    },
+    {
+      "senadoId": "572885",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2009-04-17-130",
+      "titulo": "Lei Complementar nº 130 de 17/04/2009",
+      "data": "2009-04-17",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:lei.complementar:2009-04-17;130",
+      "ementa": "Dispõe sobre o Sistema Nacional de Crédito Cooperativo e revoga dispositivos das Leis nºs 4.595, de 31 de dezembro de 1964, e 5.764, de 16 de dezembro de 1971. ;"
+    },
+    {
+      "senadoId": "572884",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2009-01-08-129",
+      "titulo": "Lei Complementar nº 129 de 08/01/2009",
+      "data": "2009-01-08",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:lei.complementar:2009-01-08;129",
+      "ementa": "Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento do Centro-Oeste - SUDECO, estabelece sua missão institucional, natureza jurídica, objetivos, área de atuação, instrumentos de ação, altera a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providências. ; ;"
+    }
+  ],
+  "pendencias": []
+}

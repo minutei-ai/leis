@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=1991",
+  "tipo": "LCP",
+  "ano": 1991,
+  "coletado_em": "2026-10-20T23:10:57.807Z",
+  "normas": [
+    {
+      "senadoId": "540775",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1991-12-30-70",
+      "titulo": "Lei Complementar nº 70 de 30/12/1991",
+      "data": "1991-12-30",
+      "numero": "70",
+      "urn": "urn:lex:br:federal:lei.complementar:1991-12-30;70",
+      "ementa": "Institui contribuição para financiamento da Seguridade Social, eleva a alíquota da contribuição social sobre o lucro das instituições financeiras e dá outras providências."
+    },
+    {
+      "senadoId": "540774",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1991-07-23-69",
+      "titulo": "Lei Complementar nº 69 de 23/07/1991",
+      "data": "1991-07-23",
+      "numero": "69",
+      "urn": "urn:lex:br:federal:lei.complementar:1991-07-23;69",
+      "ementa": "Dispõe sobre as normas gerais para a organização, o preparo e o emprego   das Forças Armadas."
+    },
+    {
+      "senadoId": "540773",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1991-06-13-68",
+      "titulo": "Lei Complementar nº 68 de 13/06/1991",
+      "data": "1991-06-13",
+      "numero": "68",
+      "urn": "urn:lex:br:federal:lei.complementar:1991-06-13;68",
+      "ementa": "Dispõe sobre a composição do Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA."
+    },
+    {
+      "senadoId": "540772",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1991-06-13-67",
+      "titulo": "Lei Complementar nº 67 de 13/06/1991",
+      "data": "1991-06-13",
+      "numero": "67",
+      "urn": "urn:lex:br:federal:lei.complementar:1991-06-13;67",
+      "ementa": "Dispõe sobre a composição do Conselho Deliberativo da Superintendência do   Desenvolvimento da Amazônia - SUDAM."
+    },
+    {
+      "senadoId": "540771",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1991-06-12-66",
+      "titulo": "Lei Complementar nº 66 de 12/06/1991",
+      "data": "1991-06-12",
+      "numero": "66",
+      "urn": "urn:lex:br:federal:lei.complementar:1991-06-12;66",
+      "ementa": "Dispõe sobre a composição do Conselho Deliberativo da Superintendência do   Desenvolvimento do Nordeste - SUDENE."
+    },
+    {
+      "senadoId": "540770",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1991-04-15-65",
+      "titulo": "Lei Complementar nº 65 de 15/04/1991",
+      "data": "1991-04-15",
+      "numero": "65",
+      "urn": "urn:lex:br:federal:lei.complementar:1991-04-15;65",
+      "ementa": "Define na forma da alínea \"a\" do inciso X do art. 155 da Constituição, os   produtos semi-elaborados que podem ser tributados pelos Estados e Distrito   Federal, quando de sua exportação para o exterior."
+    }
+  ],
+  "pendencias": []
+}

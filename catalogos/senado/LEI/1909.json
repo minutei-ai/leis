@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1909",
+  "tipo": "LEI",
+  "ano": 1909,
+  "coletado_em": "2026-10-20T23:05:24.696Z",
+  "normas": [
+    {
+      "senadoId": "544000",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1909-12-30-2221",
+      "titulo": "Lei nº 2.221 de 30/12/1909",
+      "data": "1909-12-30",
+      "numero": "2221",
+      "urn": "urn:lex:br:federal:lei:1909-12-30;2221",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1910, e dá outras providencias."
+    },
+    {
+      "senadoId": "543988",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1909-12-28-2210",
+      "titulo": "Lei nº 2.210 de 28/12/1909",
+      "data": "1909-12-28",
+      "numero": "2210",
+      "urn": "urn:lex:br:federal:lei:1909-12-28;2210",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercício de 1910, e dá outras providencias"
+    },
+    {
+      "senadoId": "543889",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1909-10-07-2113",
+      "titulo": "Lei nº 2.113 de 07/10/1909",
+      "data": "1909-10-07",
+      "numero": "2113",
+      "urn": "urn:lex:br:federal:lei:1909-10-07;2113",
+      "ementa": "Fixa as forças de terra para o exercicio de 1910."
+    },
+    {
+      "senadoId": "543858",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1909-07-30-2083",
+      "titulo": "Lei nº 2.083 de 30/07/1909",
+      "data": "1909-07-30",
+      "numero": "2083",
+      "urn": "urn:lex:br:federal:lei:1909-07-30;2083",
+      "ementa": "Reforma o Thesouro Federal e dá outras providencias."
+    }
+  ],
+  "pendencias": []
+}

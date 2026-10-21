@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-05-21-15135",
+  "titulo": "Lei nº 15.135 de 21/05/2025",
+  "data": "2025-05-21",
+  "fonte": "https://normas.leg.br/api/public/binario/3c1bf98b-6ba0-45fe-abd8-f431e9357332/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-05-21;15135",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-05-21%3B15135&tipo_documento=maior-detalhe",
+  "sha256_dados": "1a9ffe501b5cb817f02035088d7961b9fe38a7539e6eb3422f1418e04bb47104",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:10:23.558Z",
+  "sha256_fonte": "9d33ca208868a2ed7ae36a30d7d4ebf15e9c2befa3a0a1f4aef7f90d308f5fc0",
+  "sha256_markdown": "e8a27d37780bc4d0172a79f79307815aa6f1f84d7f96856f57369789d93e814d"
+}

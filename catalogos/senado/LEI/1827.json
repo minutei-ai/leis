@@ -1,0 +1,205 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1827",
+  "tipo": "LEI",
+  "ano": 1827,
+  "coletado_em": "2026-10-20T23:09:02.976Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "540811",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 27/11/1827 ( seq-sf: 59 )",
+      "dataassinatura": "27/11/1827",
+      "ementa": "MANDA ADMITIR A DESPACHO NAS ALFÂNDEGAS OS GÊNEROS E MERCADORIAS DA ÁSIA IMPORTADOS POR ESTRANGEIROS OU EM NAVIOS ESTRANGEIROS."
+    },
+    {
+      "id": "540808",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/11/1827 ( seq-sf: 54 )",
+      "dataassinatura": "15/11/1827",
+      "ementa": "CRIA NA CIDADE DA BAHIA MAIS UM TABELIÃO DE NOTAS."
+    },
+    {
+      "id": "540807",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/11/1827 ( seq-sf: 48 )",
+      "dataassinatura": "15/11/1827",
+      "ementa": "MANDA ORGANIZAR O CORPO DE ARTILHARIA DE MARINHA."
+    },
+    {
+      "id": "540810",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/11/1827 ( seq-sf: 56 )",
+      "dataassinatura": "15/11/1827",
+      "ementa": "DO RECONHECIMENTO E LEGALIZAÇÃO DA DIVIDA PÚBLICA, FUNDAÇÃO DA DÍVIDA INTERNA E ESTABELECIMENTO DA CAIXA DE AMORTIZAÇÃO."
+    },
+    {
+      "id": "540806",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 14/11/1827 ( seq-sf: 47 )",
+      "dataassinatura": "14/11/1827",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPEZA DO TESOURO PÚBLICO NA CÔRTE E PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "id": "540803",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/11/1827 ( seq-sf: 44 )",
+      "dataassinatura": "13/11/1827",
+      "ementa": "MANDA CONCLUIR AS OBRAS DO PALÁCIO DA BOA-VISTA."
+    },
+    {
+      "id": "540804",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/11/1827 ( seq-sf: 45 )",
+      "dataassinatura": "13/11/1827",
+      "ementa": "DECLARA LIVRE A QUALQUER PESSOA LEVANTAR ENGENHOS DE AÇÚCAR NAS SUA TERRAS, SEM DEPENDÊNCIA DE LICENÇA."
+    },
+    {
+      "id": "540805",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/11/1827 ( seq-sf: 46 )",
+      "dataassinatura": "13/11/1827",
+      "ementa": "REGULA O MODO POR QUE SE DEVEM PAGAR OS PREÇOS DOS CONTRATOS DAS RENDAS PÚBLICAS OU VENDAS DE PRÓPRIOS ALIENÁVEIS E ABOLE OS EMOLUMENTOS QUE SE LEVAM EM MINAS GERAIS PELA COBRANÇA DAS DIVÍDAS ATIVAS DA NAÇÃO."
+    },
+    {
+      "id": "540800",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 06/11/1827 ( seq-sf: 36 )",
+      "dataassinatura": "06/11/1827",
+      "ementa": "CONCEDE VIÚVAS E ORFÃOS MENORES A METADE DO SOLDO QUE CABERIA A SEUS MARIDOS E PAIS SE FOSSEM REFORMADOS."
+    },
+    {
+      "id": "540801",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 06/11/1827 ( seq-sf: 37 )",
+      "dataassinatura": "06/11/1827",
+      "ementa": "DETERMINA QUE ENTREM NO TESOURO AS CONTRIBUIÇÕES QUE SE ARRECADAVAM PELA INTENDÊNCIA GERAL DA POLÍCIA."
+    },
+    {
+      "id": "540802",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 06/11/1827 ( seq-sf: 38 )",
+      "dataassinatura": "06/11/1827",
+      "ementa": "MANDA APLICAR OS LEGADOS PIOS NÃO CUMPRIDOS AOS HOSPITAIS DE CARIDADE DOS DISTRITOS RESPECTIVOS E ONDE NÃO OS HOUVER A CRIAÇÃO DE EXPOSTOS."
+    },
+    {
+      "id": "540885",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 05/11/1827",
+      "dataassinatura": "05/11/1827",
+      "ementa": "EXTINGUE AS MESAS DA INSPEÇÃO DO ASSUCAR TABACO E ALGODÃO."
+    },
+    {
+      "id": "540798",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 03/11/1827 ( seq-sf: 33 )",
+      "dataassinatura": "03/11/1827",
+      "ementa": "CRIA OS BISPADOS DE GOIAZ E MATO GROSSO."
+    },
+    {
+      "id": "540797",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 26/10/1827 ( seq-sf: 32 )",
+      "dataassinatura": "26/10/1827",
+      "ementa": "MANDA REDUZIR A 5% O IMPOSTO DO QUINTO SOBRE O OURO."
+    },
+    {
+      "id": "540796",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 25/10/1827 ( seq-sf: 31 )",
+      "dataassinatura": "25/10/1827",
+      "ementa": "MANDA ARREMATAR METADE DOS DIREITOS DAS ALFÂNDEGAS DO IMPÉRIO."
+    },
+    {
+      "id": "540794",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 24/10/1827 ( seq-sf: 30 )",
+      "dataassinatura": "24/10/1827",
+      "ementa": "EXTINGUE A JUNTA A ADMINISTRAÇÃO DOS DIAMANTES NA CIDADE DE CUIABÁ, PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "id": "540792",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 23/10/1827 ( seq-sf: 29 )",
+      "dataassinatura": "23/10/1827",
+      "ementa": "MANDA QUE OS ASSINANTES DAS ALFÂNDEGAS DO IMPÉRIO PAGUEM O PRÊMIO DE MEIO POR CENTO AO MÊS PELA DEMORA DO PAGAMENTO DOS DIREITOS."
+    },
+    {
+      "id": "540790",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 22/10/1827 ( seq-sf: 28 )",
+      "dataassinatura": "22/10/1827",
+      "ementa": "ABOLE O OFÍCIO DE CORRETOR DA FAZENDA PÚBLICA."
+    },
+    {
+      "id": "540784",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/10/1827 ( seq-sf: 22 )",
+      "dataassinatura": "15/10/1827",
+      "ementa": "DÁ RESPONSABILIDADE DOS MINISTROS E SECRETÁRIOS DE ESTADO E DOS CONSELHEIROS DE ESTADO."
+    },
+    {
+      "id": "540788",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/10/1827 ( seq-sf: 27 )",
+      "dataassinatura": "15/10/1827",
+      "ementa": "MANDA CRIAR ESCOLAS DE PRIMEIRAS LETRAS EM TODAS AS CIDADES, VILAS E LUGARES MAIS POPULOSOS DO IMPÉRIO."
+    },
+    {
+      "id": "540787",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/10/1827 ( seq-sf: 26 )",
+      "dataassinatura": "15/10/1827",
+      "ementa": "CRIA EM CADA UMA DAS FREGUEZIAS E DAS CAPELAS CURADAS UM JUIZ DE PAZ E SUPLENTE."
+    },
+    {
+      "id": "540783",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/10/1827 ( seq-sf: 21 )",
+      "dataassinatura": "13/10/1827",
+      "ementa": "SOBRE AS SENTENÇAS DOS CONSELHOS DE GUERRA NAS PROVÍNCIAS."
+    },
+    {
+      "id": "540780",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 11/10/1827 ( seq-sf: 19 )",
+      "dataassinatura": "11/10/1827",
+      "ementa": "DETERMINA A FORMA POR QUE DEVEM SER PROVIDOS OS OFÍCIOS DE JUSTIÇA E FAZENDA."
+    },
+    {
+      "id": "540777",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 25/09/1827 ( seq-sf: 16 )",
+      "dataassinatura": "25/09/1827",
+      "ementa": "DÁ PROVIDÊNCIAS PARA OCORRER À FOME NAS PROVÍNCIAS DO CEARÁ, RIO GRANDE DO NORTE E EM QUAISQUER OUTRAS QUE SE ACHAREM NAS MESMAS CIRCUNSTÂNCIAS."
+    },
+    {
+      "id": "573043",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/09/1827 ( seq-sf: 11 )",
+      "dataassinatura": "15/09/1827",
+      "ementa": "FIXA A FORÇA DE MAR PARA O ANO DE 1828."
+    },
+    {
+      "id": "573044",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 15/09/1827 ( seq-sf: 12 )",
+      "dataassinatura": "15/09/1827",
+      "ementa": "EXTINGUE OS LUGARES DE INTENDENTE GERAL DO OURO DA CÔRTE, E DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "573041",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 11/08/1827 ( seq-sf: 5 )",
+      "dataassinatura": "11/08/1827",
+      "ementa": "CRIA DOIS CURSOS DE CIÊNCIAS JURÍDICAS E SOCIAIS, UM NA CIDADE DE SÃO PAULO E OUTRO NA DE OLINDA."
+    },
+    {
+      "id": "573038",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 11/08/1827 ( seq-sf: 4 )",
+      "dataassinatura": "11/08/1827",
+      "ementa": "MARCA PROVISORIAMENTE A DOTAÇÃO ANUAL DE SUAS MAGESTADES IMPERIAIS E OS ALIMENTOS DOS PRÍNCIPES E PRINCEZAS."
+    }
+  ]
+}

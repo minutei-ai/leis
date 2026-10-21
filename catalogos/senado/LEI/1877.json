@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1877",
+  "tipo": "LEI",
+  "ano": 1877,
+  "coletado_em": "2026-10-20T23:06:30.299Z",
+  "normas": [
+    {
+      "senadoId": "544614",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1877-10-20-2792",
+      "titulo": "Lei nº 2.792 de 20/10/1877",
+      "data": "1877-10-20",
+      "numero": "2792",
+      "urn": "urn:lex:br:federal:lei:1877-10-20;2792",
+      "ementa": "FIXA A DESPEZA E ORÇA A RECEITA GERAL DO IMPERIO PARA OS EXERCICIOS DE 1877-1878 E 1878-1879, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "544536",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1877-06-27-2718",
+      "titulo": "Lei nº 2.718 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "2718",
+      "urn": "urn:lex:br:federal:lei:1877-06-27;2718",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1877 A 1878."
+    },
+    {
+      "senadoId": "544523",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1877-05-31-2706",
+      "titulo": "Lei nº 2.706 de 31/05/1877",
+      "data": "1877-05-31",
+      "numero": "2706",
+      "urn": "urn:lex:br:federal:lei:1877-05-31;2706",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1877-1878."
+    }
+  ],
+  "pendencias": []
+}

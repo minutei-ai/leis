@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-12-15259",
+  "titulo": "Lei nº 15.259 de 12/11/2025",
+  "data": "2025-11-12",
+  "fonte": "https://normas.leg.br/api/public/binario/c53a09da-05d0-4f90-b7ed-5558816ce1d3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-12;15259",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-12%3B15259&tipo_documento=maior-detalhe",
+  "sha256_dados": "297438cfb45af6d334b7d02b8b4ee0c3dc1ea39d7702d62fa3a6b08b8e64da99",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:45.954Z",
+  "sha256_fonte": "7bbcbe57f47970c7b85669745d50a2fd7dc723344c375922f45d84a09b0a51fc",
+  "sha256_markdown": "7b7c9cedaabfe0edea94aa29fdeb6851965e60b5bcdc79f1366d4d44df164480"
+}

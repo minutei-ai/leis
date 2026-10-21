@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-09-30-15226",
+  "titulo": "Lei nº 15.226 de 30/09/2025",
+  "data": "2025-09-30",
+  "fonte": "https://normas.leg.br/api/public/binario/c0e4d7ae-e36c-4016-9752-220c9aca9f55/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-09-30;15226",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-09-30%3B15226&tipo_documento=maior-detalhe",
+  "sha256_dados": "f6e32c2333798bbd5999df228c31f06e7dcf121639fc06809d124af5b7e33988",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:29.929Z",
+  "sha256_fonte": "e9fef01bca46b1c131cfe0de5f47aa897acdb566ef8dc9108981d21ffbcba056",
+  "sha256_markdown": "62edf9eac636daa5f370c723b13abde61818a8985be5ecbf36934f6663c9db38"
+}

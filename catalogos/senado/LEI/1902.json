@@ -1,0 +1,79 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1902",
+  "tipo": "LEI",
+  "ano": 1902,
+  "coletado_em": "2026-10-20T23:05:40.680Z",
+  "normas": [
+    {
+      "senadoId": "542552",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-12-30-957",
+      "titulo": "Lei nº 957 de 30/12/1902",
+      "data": "1902-12-30",
+      "numero": "957",
+      "urn": "urn:lex:br:federal:lei:1902-12-30;957",
+      "ementa": "Fica a despeza geral da Republica dos Estados Unidos do Brazil para o   exercicio de 1903, e dá outras providencias"
+    },
+    {
+      "senadoId": "542547",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-12-29-953",
+      "titulo": "Lei nº 953 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "953",
+      "urn": "urn:lex:br:federal:lei:1902-12-29;953",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1903, e dá outras providencias"
+    },
+    {
+      "senadoId": "542531",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-12-29-939",
+      "titulo": "Lei nº 939 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "939",
+      "urn": "urn:lex:br:federal:lei:1902-12-29;939",
+      "ementa": "Reorganisa o Districto Federal e dá outras providencias"
+    },
+    {
+      "senadoId": "542540",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-12-29-947",
+      "titulo": "Lei nº 947 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "947",
+      "urn": "urn:lex:br:federal:lei:1902-12-29;947",
+      "ementa": "Reforma o serviço policial no Districto Federal"
+    },
+    {
+      "senadoId": "542516",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-12-22-927",
+      "titulo": "Lei nº 927 de 22/12/1902",
+      "data": "1902-12-22",
+      "numero": "927",
+      "urn": "urn:lex:br:federal:lei:1902-12-22;927",
+      "ementa": "Fixa a força naval para o anno de 1903"
+    },
+    {
+      "senadoId": "542485",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-11-07-900",
+      "titulo": "Lei nº 900 de 07/11/1902",
+      "data": "1902-11-07",
+      "numero": "900",
+      "urn": "urn:lex:br:federal:lei:1902-11-07;900",
+      "ementa": "Fixa as forças de terra para o exercicio de 1903"
+    },
+    {
+      "senadoId": "542439",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1902-08-16-859",
+      "titulo": "Lei nº 859 de 16/08/1902",
+      "data": "1902-08-16",
+      "numero": "859",
+      "urn": "urn:lex:br:federal:lei:1902-08-16;859",
+      "ementa": "Reforma a lei sobre fallencias"
+    }
+  ],
+  "pendencias": []
+}

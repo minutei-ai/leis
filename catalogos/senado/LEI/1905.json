@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1905",
+  "tipo": "LEI",
+  "ano": 1905,
+  "coletado_em": "2026-10-20T23:05:35.804Z",
+  "normas": [
+    {
+      "senadoId": "543123",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1905-12-30-1453",
+      "titulo": "Lei nº 1.453 de 30/12/1905",
+      "data": "1905-12-30",
+      "numero": "1453",
+      "urn": "urn:lex:br:federal:lei:1905-12-30;1453",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1906 e dá outras providencias"
+    },
+    {
+      "senadoId": "543121",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1905-12-30-1452",
+      "titulo": "Lei nº 1.452 de 30/12/1905",
+      "data": "1905-12-30",
+      "numero": "1452",
+      "urn": "urn:lex:br:federal:lei:1905-12-30;1452",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1906, e dá outras providencias."
+    },
+    {
+      "senadoId": "543095",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1905-11-29-1427",
+      "titulo": "Lei nº 1.427 de 29/11/1905",
+      "data": "1905-11-29",
+      "numero": "1427",
+      "urn": "urn:lex:br:federal:lei:1905-11-29;1427",
+      "ementa": "Fixa as forças de terra para o exercicio de 1906"
+    },
+    {
+      "senadoId": "543093",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1905-11-29-1426",
+      "titulo": "Lei nº 1.426 de 29/11/1905",
+      "data": "1905-11-29",
+      "numero": "1426",
+      "urn": "urn:lex:br:federal:lei:1905-11-29;1426",
+      "ementa": "Fixa a força naval para o exercicio de 1906"
+    },
+    {
+      "senadoId": "542990",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1905-01-09-1338",
+      "titulo": "Lei nº 1.338 de 09/01/1905",
+      "data": "1905-01-09",
+      "numero": "1338",
+      "urn": "urn:lex:br:federal:lei:1905-01-09;1338",
+      "ementa": "Reorganiza a justiça local do Districto Federal"
+    }
+  ],
+  "pendencias": []
+}

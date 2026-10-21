@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-22-15301",
+  "titulo": "Lei nº 15.301 de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/222e9fca-5b33-4702-9266-68a863d73b4c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-22;15301",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-22%3B15301&tipo_documento=maior-detalhe",
+  "sha256_dados": "6a645249a9260a26c005862ea595255f9a32fa31cb7291361ed3fa9b5c18459d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:06:46.262Z",
+  "sha256_fonte": "321b69b22495f2d57ae7e88f03619e0d83af160c7933764a0dbb3e8202aa4e69",
+  "sha256_markdown": "65b18eda543dea4ea7d921eb762a1638bb0cd999ba4a3ffaa7c10098a2674e8c"
+}

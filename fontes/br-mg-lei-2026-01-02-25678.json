@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-02-25678",
+  "titulo": "LEI nº 25678, de 02/01/2026",
+  "data": "2026-01-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25678/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25678/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "94a22004d1b54170693ad80ec3ae96e4f04df80bf4d937e18163814652e7d7a8",
+  "coletado_em": "2026-10-20T23:11:47.798Z",
+  "sha256_fonte": "4c96bb33154cb0df0a28bc55aa58d89be4731840f21a21380bdb204da5a5272f",
+  "sha256_markdown": "0f44c852416a9ea8226c0d03d72c9f2830f540f480d3b6ab9a19055576938ac3"
+}

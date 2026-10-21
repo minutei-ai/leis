@@ -1,0 +1,99 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1835",
+  "tipo": "LEI",
+  "ano": 1835,
+  "coletado_em": "2026-10-20T23:08:37.131Z",
+  "normas": [
+    {
+      "senadoId": "541052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-10-31-99",
+      "titulo": "Lei nº 99 de 31/10/1835",
+      "data": "1835-10-31",
+      "numero": "99",
+      "urn": "urn:lex:br:federal:lei:1835-10-31;99",
+      "ementa": "ORÇANDO A RECEITA E FIXANDO A DESPESA PARA O ANO DE 1836 A 1837."
+    },
+    {
+      "senadoId": "541034",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-10-30-91",
+      "titulo": "Lei nº 91 de 30/10/1835",
+      "data": "1835-10-30",
+      "numero": "91",
+      "urn": "urn:lex:br:federal:lei:1835-10-30;91",
+      "ementa": "DECLARA QUE A SENHORA D. MARIA SEGUNDA, RAINHA DE PORTUGAL, EM PERMITIDO O DIREITO Á SUCESSÃO DA CORÔA DO IMPÉRIO DO BRASIL, E MANDA RECONHECER SUCESSORA Á MESMA COROA A SENHORA PRINCESA D. JANUÁRIA."
+    },
+    {
+      "senadoId": "541031",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-10-29-90",
+      "titulo": "Lei nº 90 de 29/10/1835",
+      "data": "1835-10-29",
+      "numero": "90",
+      "urn": "urn:lex:br:federal:lei:1835-10-29;90",
+      "ementa": "CONCEDE QUATRO LOTERIAS ANUAIS DE CEM CONTOS DE RÉIS CADA UMA, POR ESPAÇO DE SEIS ANOS, A FAVOR DO MONTE PIO GERAL DOS SERVIDORES DO ESTADO."
+    },
+    {
+      "senadoId": "540949",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-10-06-57",
+      "titulo": "Lei nº 57 de 06/10/1835",
+      "data": "1835-10-06",
+      "numero": "57",
+      "urn": "urn:lex:br:federal:lei:1835-10-06;57",
+      "ementa": "PROIBE O ESTABELECIMENTO DE MORGADOS, CAPELAS  OU QUAISQUER OUTROS VINCULADOS, EXTINGUE OS EXISTENTES, E PROVIDENCIA SOBRE OS BENS QUE DEIXAM DE SER VINCULADOS."
+    },
+    {
+      "senadoId": "540940",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-10-06-54",
+      "titulo": "Lei nº 54 de 06/10/1835",
+      "data": "1835-10-06",
+      "numero": "54",
+      "urn": "urn:lex:br:federal:lei:1835-10-06;54",
+      "ementa": "MANDANDO SUBSTITUIR PELAS NOTAS, MANDADAS ESTAMPAR PELO DECRETO DO 1° DE JUNHO DE 1833, AS NOTAS DO EXTINTO BANCO, E CÉDULAS EMITIDAS EM TROCO DA MOEDA DE COBRE E QUAISQUER CONHECIMENTOS DADOS EM LUGAR DE TAIS CÉDULAS."
+    },
+    {
+      "senadoId": "540878",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-10-03-32",
+      "titulo": "Lei nº 32 de 03/10/1835",
+      "data": "1835-10-03",
+      "numero": "32",
+      "urn": "urn:lex:br:federal:lei:1835-10-03;32",
+      "ementa": "EXPLICA A PALAVRA - TODOS - DO ARTIGO 28 DO ATO ADICIONAL, QUE TRATA DA APURAÇÃO DOS VOTOS PARA REGENTE DO IMPÉRIO."
+    },
+    {
+      "senadoId": "540861",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-09-22-26",
+      "titulo": "Lei nº 26 de 22/09/1835",
+      "data": "1835-09-22",
+      "numero": "26",
+      "urn": "urn:lex:br:federal:lei:1835-09-22;26",
+      "ementa": "SUSPENDE ALGUMA DAS GARANTIAS DO ARTIGO 179 DA CONSTITUIÇÃO NA PROVÍNCIA DO PARÁ, E AUTORIZA AO GOVERNO A TOMAR DIVERSAS PROVIDÊNCIAS RELATIVAS À DITA PROVÍNCIA."
+    },
+    {
+      "senadoId": "540833",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-08-27-16",
+      "titulo": "Lei nº 16 de 27/08/1835",
+      "data": "1835-08-27",
+      "numero": "16",
+      "urn": "urn:lex:br:federal:lei:1835-08-27;16",
+      "ementa": "MARCA AS FORÇAS NAVAIS ATIVAS ORDINÁRIAS DO IMPÉRIO PARA O SERVIÇO DO ANO QUE HÁ DE CORRER DO 1° DE JULHO DE 1836 A 30 DE JUNHO DE 1837."
+    },
+    {
+      "senadoId": "540816",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1835-06-10-4",
+      "titulo": "Lei nº 4 de 10/06/1835",
+      "data": "1835-06-10",
+      "numero": "4",
+      "urn": "urn:lex:br:federal:lei:1835-06-10;4",
+      "ementa": "DETERMINA AS PENAS COM QUE DEVEM SER PUNIDOS OS ESCRAVOS, QUE MATAREM, FERIREM OU COMETEREM OUTRA QUALQUER OFENSA FÍSICA CONTRA SEUS SENHORES, ETC.; E ESTABELECE REGRAS PARA O PROCESSO."
+    }
+  ],
+  "pendencias": []
+}

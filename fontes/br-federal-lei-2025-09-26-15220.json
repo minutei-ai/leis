@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-09-26-15220",
+  "titulo": "Lei nº 15.220 de 26/09/2025",
+  "data": "2025-09-26",
+  "fonte": "https://normas.leg.br/api/public/binario/136f1aa9-820b-48d0-8fd8-62c47fc240b6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-09-26;15220",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-09-26%3B15220&tipo_documento=maior-detalhe",
+  "sha256_dados": "7616ce646573d56c3e2597227547869ab50e3353d54a4f023b66a90f430a60b1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:35.091Z",
+  "sha256_fonte": "a280971c2ea435cda1417c47800a1ea21b40105c9a695bf3c786df5a9c9009f0",
+  "sha256_markdown": "159bf7287f2ac5240c378d29bb59d40e23b473499c345ecc2cbfbbbb066c78c3"
+}

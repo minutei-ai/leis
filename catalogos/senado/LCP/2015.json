@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2015",
+  "tipo": "LCP",
+  "ano": 2015,
+  "coletado_em": "2026-10-20T23:10:21.058Z",
+  "normas": [
+    {
+      "senadoId": "572908",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2015-12-09-153",
+      "titulo": "Lei Complementar nº 153 de 09/12/2015",
+      "data": "2015-12-09",
+      "numero": "153",
+      "urn": "urn:lex:br:federal:lei.complementar:2015-12-09;153",
+      "ementa": "Altera o art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciário Nacional - FUNPEN, e dá outras providências."
+    },
+    {
+      "senadoId": "572907",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2015-12-03-152",
+      "titulo": "Lei Complementar nº 152 de 03/12/2015",
+      "data": "2015-12-03",
+      "numero": "152",
+      "urn": "urn:lex:br:federal:lei.complementar:2015-12-03;152",
+      "ementa": "Dispõe sobre a aposentadoria compulsória por idade, com proventos proporcionais, nos termos do inciso II do § 1º do art. 40 da Constituição Federal."
+    },
+    {
+      "senadoId": "572906",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2015-08-05-151",
+      "titulo": "Lei Complementar nº 151 de 05/08/2015",
+      "data": "2015-08-05",
+      "numero": "151",
+      "urn": "urn:lex:br:federal:lei.complementar:2015-08-05;151",
+      "ementa": "Altera a Lei Complementar nº 148, de 25 de novembro de 2014; revoga as Leis nºs 10.819, de 16 de dezembro de 2003, e 11.429, de 26 de dezembro de 2006; e dá outras providências."
+    },
+    {
+      "senadoId": "572905",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2015-06-01-150",
+      "titulo": "Lei Complementar nº 150 de 01/06/2015",
+      "data": "2015-06-01",
+      "numero": "150",
+      "urn": "urn:lex:br:federal:lei.complementar:2015-06-01;150",
+      "ementa": "Dispõe sobre o contrato de trabalho doméstico; altera as Leis nº 8.212, de 24 de julho de 1991, nº 8.213, de 24 de julho de 1991, e nº 11.196, de 21 de novembro de 2005; revoga o inciso I do art. 3º da Lei nº 8.009, de 29 de março de 1990, o art. 36 da Lei nº 8.213, de 24 de julho de 1991, a Lei nº 5.859, de 11 de dezembro de 1972, e o inciso VII do art. 12 da Lei nº 9.250, de 26 de dezembro 1995; e dá outras providências."
+    },
+    {
+      "senadoId": "572904",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-2015-01-12-149",
+      "titulo": "Lei Complementar nº 149 de 12/01/2015",
+      "data": "2015-01-12",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:lei.complementar:2015-01-12;149",
+      "ementa": "Altera a Lei Complementar nº 90, de 1º de outubro de 1997, que determina os casos em que forças estrangeiras possam transitar pelo território nacional ou nele permanecer temporariamente."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,159 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1883",
+  "tipo": "LEI",
+  "ano": 1883,
+  "coletado_em": "2026-10-20T23:06:15.928Z",
+  "normas": [
+    {
+      "senadoId": "544980",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-09-22-3213",
+      "titulo": "Lei nº 3.213 de 22/09/1883",
+      "data": "1883-09-22",
+      "numero": "3213",
+      "urn": "urn:lex:br:federal:lei:1883-09-22;3213",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO DIVERSOS CREDITOS SUPLEMENTARES AFIM DE OCORRER AO PAGAMENTO DE DESPESAS DE ALGUMAS VERBAS DO EXERCICIO DE 1882-1883 E AO DAS DA VERBA - MELHORAMENTO DO ESTADO SANITARIO - DO DE 1883-1884."
+    },
+    {
+      "senadoId": "544978",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-09-22-3212",
+      "titulo": "Lei nº 3.212 de 22/09/1883",
+      "data": "1883-09-22",
+      "numero": "3212",
+      "urn": "urn:lex:br:federal:lei:1883-09-22;3212",
+      "ementa": "ABRE AO MINISTERIO DOS NEGOCIOS DO IMPÉRIO UM CREDITO SUPLEMENTAR DE 92:032$438 A VERBA \"OBRAS\" DO EXERCICIO DE 1882-1883."
+    },
+    {
+      "senadoId": "544983",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-09-22-3214",
+      "titulo": "Lei nº 3.214 de 22/09/1883",
+      "data": "1883-09-22",
+      "numero": "3214",
+      "urn": "urn:lex:br:federal:lei:1883-09-22;3214",
+      "ementa": "ELEVA NO EXERCICIO DE 1883-1884 A 33:000$ O CREDITO DE 18:000$ CONCEDIDO AO MINISTERIO DOS NEGOCIOS DO IMPERIO PARA OCORRER AS DESPESAS COM O SERVIÇO DE MEDIÇÃO E TOMBAMENTO DE TERRAS DESTINADAS AO PATRIMONIO DOTAL DE SUAS ALTEZAS A PRINCEZA IMPERIAL SRA. IZABEL E SEU AUGUSTO ESPOSO."
+    },
+    {
+      "senadoId": "544961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-09-01-3198",
+      "titulo": "Lei nº 3.198 de 01/09/1883",
+      "data": "1883-09-01",
+      "numero": "3198",
+      "urn": "urn:lex:br:federal:lei:1883-09-01;3198",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1884-1885."
+    },
+    {
+      "senadoId": "544963",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-09-01-3199",
+      "titulo": "Lei nº 3.199 de 01/09/1883",
+      "data": "1883-09-01",
+      "numero": "3199",
+      "urn": "urn:lex:br:federal:lei:1883-09-01;3199",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS DA FAZENDA A PAGAR DIVIDAS PELA VERBA, EXERCICIOS FINDOS, DA LEI DE ORÇAMENTO PARA OS EXERCICIOS DE 1882-1883 E 1883-1884."
+    },
+    {
+      "senadoId": "544959",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-09-01-3197",
+      "titulo": "Lei nº 3.197 de 01/09/1883",
+      "data": "1883-09-01",
+      "numero": "3197",
+      "urn": "urn:lex:br:federal:lei:1883-09-01;3197",
+      "ementa": "ABRE AO MINISTERIO DOS NEGOCIOS DA MARINHA O CREDITO SUPLEMENTAR DE 538:820$287 PARA ATENDER AS DESPESAS DAS VERBAS ARSENAIS E OBRAS DO EXERCICIOS DE 1881-1882."
+    },
+    {
+      "senadoId": "544950",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-08-25-3190",
+      "titulo": "Lei nº 3.190 de 25/08/1883",
+      "data": "1883-08-25",
+      "numero": "3190",
+      "urn": "urn:lex:br:federal:lei:1883-08-25;3190",
+      "ementa": "AUTORIZA O GOVERNO A PAGAR A QUANTIA DE 9:635$182, PROVENIENTE DE DIVIDAS DE EXERCICIOS FINDOS."
+    },
+    {
+      "senadoId": "544948",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-08-25-3189",
+      "titulo": "Lei nº 3.189 de 25/08/1883",
+      "data": "1883-08-25",
+      "numero": "3189",
+      "urn": "urn:lex:br:federal:lei:1883-08-25;3189",
+      "ementa": "ABRE AO MINSTERIO DOS NEGOCIOS DA MARINHA O CREDITO SUPLEMENTAR DE 324:736$749 PARA ATENDER AS DESPESAS DAS VERBAS - MUNIÇÕES NAVAIS, FRETES, ETC, E EVENTUAIS DO EXERCICIO DE 1881-1882."
+    },
+    {
+      "senadoId": "544946",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-08-25-3188",
+      "titulo": "Lei nº 3.188 de 25/08/1883",
+      "data": "1883-08-25",
+      "numero": "3188",
+      "urn": "urn:lex:br:federal:lei:1883-08-25;3188",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS DA GUERRA A MANDAR PAGAR DIVIDAS DE EXERCICIOS FINDOS NA IMPORTANCIA DE 192:722$676."
+    },
+    {
+      "senadoId": "544952",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-08-25-3191",
+      "titulo": "Lei nº 3.191 de 25/08/1883",
+      "data": "1883-08-25",
+      "numero": "3191",
+      "urn": "urn:lex:br:federal:lei:1883-08-25;3191",
+      "ementa": "FIXA A FORÇA NAVAL PARA O EXERCICIO FINANCEIRO DE 1884-1885."
+    },
+    {
+      "senadoId": "544942",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-08-18-3185",
+      "titulo": "Lei nº 3.185 de 18/08/1883",
+      "data": "1883-08-18",
+      "numero": "3185",
+      "urn": "urn:lex:br:federal:lei:1883-08-18;3185",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DO IMPERIO MAIS UM CREDITO EXTRAORDINARIO, NA IMPORTANCIA DE 12.000:000$, PARA CONTINUAÇÃO DAS DESPESAS COM SOCORROS AS PROVINCIAS FLAGELADAS PELA SECA E MOLESTIAS EPIDEMICAS."
+    },
+    {
+      "senadoId": "544925",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-07-14-3169",
+      "titulo": "Lei nº 3.169 de 14/07/1883",
+      "data": "1883-07-14",
+      "numero": "3169",
+      "urn": "urn:lex:br:federal:lei:1883-07-14;3169",
+      "ementa": "REGULA O PREENCHIMENTO DAS VAGAS, QUE SE ABRIREM NO CORPO DE ESTADO-MAIOR DE 2 CLASSE ATE A SUA EXTINÇÃO, E BEM ASSIM A PROMOÇÃO DOS CAPITÃES DO CORPO DE ENGENHEIROS E DOS CAPITÃES E TENENTES DO DE ESTADO-MAIOR DE 1 CLASSE; AMPLIA O QUADRO DOS FARMACEUTICOS DO EXERCICIO, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "573390",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-06-30-3159",
+      "titulo": "Lei nº 3.159 de 30/06/1883",
+      "data": "1883-06-30",
+      "numero": "3159",
+      "urn": "urn:lex:br:federal:lei:1883-06-30;3159",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1883-1884."
+    },
+    {
+      "senadoId": "573395",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-06-30-3162",
+      "titulo": "Lei nº 3.162 de 30/06/1883",
+      "data": "1883-06-30",
+      "numero": "3162",
+      "urn": "urn:lex:br:federal:lei:1883-06-30;3162",
+      "ementa": "AUTORIZA O MINISTÉRIO DOS NEGOCIOS DO IMPERIO A MANDAR PAGAR DIVIDAS DE EXERCICIOS FINDOS, NA IMPORTANCIA DE 23:274$328."
+    },
+    {
+      "senadoId": "573393",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1883-06-30-3161",
+      "titulo": "Lei nº 3.161 de 30/06/1883",
+      "data": "1883-06-30",
+      "numero": "3161",
+      "urn": "urn:lex:br:federal:lei:1883-06-30;3161",
+      "ementa": "FIXA A FORÇA NAVAL PARA O EXERCICO FINANCEIRO DE 1883-1884."
+    }
+  ],
+  "pendencias": []
+}

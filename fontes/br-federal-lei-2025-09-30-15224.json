@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-09-30-15224",
+  "titulo": "Lei nº 15.224 de 30/09/2025",
+  "data": "2025-09-30",
+  "fonte": "https://normas.leg.br/api/public/binario/5b832816-e8af-49bb-aa62-6467dcd78ea4/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-09-30;15224",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-09-30%3B15224&tipo_documento=maior-detalhe",
+  "sha256_dados": "40a9e13c7153c096fc96bbcc3b5235d91359dfe7f4a3ad5a01f2c24e098c1b2f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:28.622Z",
+  "sha256_fonte": "246b2da79a6be5d13fc3b443790d5d2a1d56db432d0452a30a09a91b64f04488",
+  "sha256_markdown": "27366f88ee6de5eaa4e7ff250a57b9481e7032801d2ad24bb026f1c52c0ab65a"
+}

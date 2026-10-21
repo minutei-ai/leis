@@ -1,0 +1,79 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1904",
+  "tipo": "LEI",
+  "ano": 1904,
+  "coletado_em": "2026-10-20T23:05:37.347Z",
+  "normas": [
+    {
+      "senadoId": "542965",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-12-31-1316",
+      "titulo": "Lei nº 1.316 de 31/12/1904",
+      "data": "1904-12-31",
+      "numero": "1316",
+      "urn": "urn:lex:br:federal:lei:1904-12-31;1316",
+      "ementa": "Fixa a despeza geral da Republica dos Estados Unidos do Brazil para o exercicio de 1905, e dá outras providencias."
+    },
+    {
+      "senadoId": "542961",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-12-30-1313",
+      "titulo": "Lei nº 1.313 de 30/12/1904",
+      "data": "1904-12-30",
+      "numero": "1313",
+      "urn": "urn:lex:br:federal:lei:1904-12-30;1313",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1905, e dá outras providencias."
+    },
+    {
+      "senadoId": "542914",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-11-15-1269",
+      "titulo": "Lei nº 1.269 de 15/11/1904",
+      "data": "1904-11-15",
+      "numero": "1269",
+      "urn": "urn:lex:br:federal:lei:1904-11-15;1269",
+      "ementa": "Reforma a legislação eleitoral, e dá outras providencias"
+    },
+    {
+      "senadoId": "542905",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-10-31-1261",
+      "titulo": "Lei nº 1.261 de 31/10/1904",
+      "data": "1904-10-31",
+      "numero": "1261",
+      "urn": "urn:lex:br:federal:lei:1904-10-31;1261",
+      "ementa": "Torna obrigatorias, em toda a Republica, a vaccinação e a revaccinação contra a variola."
+    },
+    {
+      "senadoId": "542852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-08-24-1220",
+      "titulo": "Lei nº 1.220 de 24/08/1904",
+      "data": "1904-08-24",
+      "numero": "1220",
+      "urn": "urn:lex:br:federal:lei:1904-08-24;1220",
+      "ementa": "Fixa as forças de terra para o exercicio de 1905."
+    },
+    {
+      "senadoId": "542844",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-08-11-1215",
+      "titulo": "Lei nº 1.215 de 11/08/1904",
+      "data": "1904-08-11",
+      "numero": "1215",
+      "urn": "urn:lex:br:federal:lei:1904-08-11;1215",
+      "ementa": "Manda graduar no posto immediatamente superior o official do Exercito e da Armada ou das classes annexas que attingir o n. 1 da respectiva escala."
+    },
+    {
+      "senadoId": "542821",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1904-07-06-1195",
+      "titulo": "Lei nº 1.195 de 06/07/1904",
+      "data": "1904-07-06",
+      "numero": "1195",
+      "urn": "urn:lex:br:federal:lei:1904-07-06;1195",
+      "ementa": "Fixa a força naval para o anno de 1905"
+    }
+  ],
+  "pendencias": []
+}

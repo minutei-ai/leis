@@ -1,0 +1,23 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1822",
+  "tipo": "LEI",
+  "ano": 1822,
+  "coletado_em": "2026-10-20T23:09:11.199Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "573025",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 14/10/1822 ( seq-sf: 2 )",
+      "dataassinatura": "14/10/1822",
+      "ementa": "COMBINA O RESPEITO DEVIDO A CASA DO CIDADÃO COM A ADMINISTRAÇÃO DA JUSTIÇA."
+    },
+    {
+      "id": "30883203",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/01/1822",
+      "dataassinatura": "13/01/1822",
+      "ementa": "EXTINGUE OS TRIBUNAES CREADOS NO RIO DE JANEIRO E ESTABELECE A FORMA DE ADMINISTRAÇÃO DAS PROVINCIAS DO BRAZIL."
+    }
+  ]
+}

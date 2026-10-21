@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-10-28-15242",
+  "titulo": "Lei nº 15.242 de 28/10/2025",
+  "data": "2025-10-28",
+  "fonte": "https://normas.leg.br/api/public/binario/e5ef8cb9-314a-46dd-8d98-ce94231e5dac/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-10-28;15242",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-10-28%3B15242&tipo_documento=maior-detalhe",
+  "sha256_dados": "bbbe0649230b92b190fb41f7d0a739312080c41fd26bad852bf4fb0441dc0432",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:04.014Z",
+  "sha256_fonte": "5ee47f37b7cd9a4d3abbdd3a5ce26cef200241fd90847879ffb4eed053207fab",
+  "sha256_markdown": "a9b9158fcc631e72fe885ece211b2592f84ca4dc522abbcc497244f02715aaea"
+}

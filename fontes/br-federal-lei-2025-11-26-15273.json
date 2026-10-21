@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-26-15273",
+  "titulo": "Lei nº 15.273 de 26/11/2025",
+  "data": "2025-11-26",
+  "fonte": "https://normas.leg.br/api/public/binario/e3a7fc28-0fcd-4a78-94aa-ebd8e5ef49d9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-26;15273",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-26%3B15273&tipo_documento=maior-detalhe",
+  "sha256_dados": "5f5e31218d1cfaf2916d4f6592188b5b4090d499d6fd6e59f919f80fa67ec665",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:27.478Z",
+  "sha256_fonte": "7219586079fa536289ddc64a5baef2d75cc8702a673d1df51c09da0a29964bde",
+  "sha256_markdown": "71d1e28f8a54765110f99585e060950c6fa43fd1522a87cc35e90c67f2a60feb"
+}

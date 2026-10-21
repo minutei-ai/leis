@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-26-15270",
+  "titulo": "Lei nº 15.270 de 26/11/2025",
+  "data": "2025-11-26",
+  "fonte": "https://normas.leg.br/api/public/binario/cb4349e2-9596-4cfc-ba73-a29e0add0816/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-26;15270",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-26%3B15270&tipo_documento=maior-detalhe",
+  "sha256_dados": "2260d69caf59dac5486c96a66c315ddbe9d4567f39ae0841ce1d5d3ce300b408",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:24.889Z",
+  "sha256_fonte": "a915e7b38254ab54b6dc52c747b62a1f6b64f286cc5d954a8b574ec4228fbcc1",
+  "sha256_markdown": "4b254dab39439078175067d4b4ca98237a84e50b408aac1527b2789e3d22ed27"
+}

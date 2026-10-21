@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-09-11-15202",
+  "titulo": "Lei nº 15.202 de 11/09/2025",
+  "data": "2025-09-11",
+  "fonte": "https://normas.leg.br/api/public/binario/fbe60e35-8273-4dc2-9535-4dc4d5d9864c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-09-11;15202",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-09-11%3B15202&tipo_documento=maior-detalhe",
+  "sha256_dados": "2c6840f5a429a0ac8d3f6604cf7474631bb964ba839a293e988f9e5bc20f89b0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:08:55.935Z",
+  "sha256_fonte": "2b0514242703663f0720a4f095a5648705cfac7ae81f87181b8c8b4647516553",
+  "sha256_markdown": "1fed808c3c5ffe8dd1e61101499e76bd867cf0d5cfaa8ea233d245710a00fda8"
+}

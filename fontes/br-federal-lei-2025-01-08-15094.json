@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-01-08-15094",
+  "titulo": "Lei nº 15.094 de 08/01/2025",
+  "data": "2025-01-08",
+  "fonte": "https://normas.leg.br/api/public/binario/fc512f53-9f2b-4606-921b-6a95f3233e9f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-01-08;15094",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-01-08%3B15094&tipo_documento=maior-detalhe",
+  "sha256_dados": "53021260ae694ba10b5ef42e247a1337f923fd187c5d2d507c59841ed7186f69",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:18.887Z",
+  "sha256_fonte": "c5cfd349ae9bd5fc22b8933bb7716355f0fc2c43b37f6ee863c887732786c01a",
+  "sha256_markdown": "57edd0e5f84cc64ab9f48729d020ba6677b9139918a459e234e23c9ee82494cd"
+}

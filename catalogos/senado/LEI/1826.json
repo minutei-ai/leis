@@ -1,0 +1,51 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1826",
+  "tipo": "LEI",
+  "ano": 1826,
+  "coletado_em": "2026-10-20T23:09:04.291Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "573045",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 13/09/1826 ( seq-sf: 14 )",
+      "dataassinatura": "13/09/1826",
+      "ementa": "REGULA A MANEIRA DE COMPOR-SE OS CONSELHOS DE GUERRA DOS OFICIAIS GENERAIS."
+    },
+    {
+      "id": "573042",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 11/09/1826 ( seq-sf: 7 )",
+      "dataassinatura": "11/09/1826",
+      "ementa": "MANDA QUE AS SENTENÇAS DE PENA DE MORTE NÃO SE EXECUTEM, SEM QUE PRIMEIRAMENTE SEJAM PRESENTES AO PODER MODERADOR."
+    },
+    {
+      "id": "573040",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 09/09/1826 ( seq-sf: 5 )",
+      "dataassinatura": "09/09/1826",
+      "ementa": "MANDA PASSAR CARTAS DE CIRURGIÃO, E DE CIRURGIÃO FORMADO AOS QUE CONCLUÍREM OS CURSOS DAS ESCOLAS DE CIRURGIA DO RIO DE JANEIRO E DA BAHIA."
+    },
+    {
+      "id": "573037",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 09/09/1826 ( seq-sf: 4 )",
+      "dataassinatura": "09/09/1826",
+      "ementa": "MARCA OS DIAS DE FESTIVIDADE NACIONAL EM TODO O IMPÉRIO."
+    },
+    {
+      "id": "573035",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 09/09/1826 ( seq-sf: 3 )",
+      "dataassinatura": "09/09/1826",
+      "ementa": "MARCA OS CASOS EM QUE TERÁ LUGAR A DESAPROPRIAÇÃO DA PROPRIEDADE PARTICULAR POR NECESSIDADE, E UTILIDADE PÚBLICA, E AS FORMALIDADES QUE DEVEM PROCEDER A MESMA DESAPROPRIAÇÃO."
+    },
+    {
+      "id": "573027",
+      "tipo": "LEI-sn",
+      "normaNome": "Lei  de 26/08/1826 ( seq-sf: 2 )",
+      "dataassinatura": "26/08/1826",
+      "ementa": "MARCA AS FORMALIDADES COM QUE SE HÁ DE PROCEDER EM ASSEMBLÉIA GERAL LEGISLATIVA AO RECONHECIMENTO DO PRÍNCIPE IMPERIAL COMO SUCESSOR DO TRONO DO BRASIL."
+    }
+  ]
+}

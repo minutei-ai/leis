@@ -1,0 +1,179 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1886",
+  "tipo": "LEI",
+  "ano": 1886,
+  "coletado_em": "2026-10-20T23:06:11.207Z",
+  "normas": [
+    {
+      "senadoId": "545107",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-16-3314",
+      "titulo": "Lei nº 3.314 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "3314",
+      "urn": "urn:lex:br:federal:lei:1886-10-16;3314",
+      "ementa": "FIXA A DESPESA GERAL DO IMPÉRIO PARA O EXERCÍCIO DE 1886 - 1887 E 2º SEMESTRE DO ANO DE 1887, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "545105",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-16-3313",
+      "titulo": "Lei nº 3.313 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "3313",
+      "urn": "urn:lex:br:federal:lei:1886-10-16;3313",
+      "ementa": "ORÇA A RECEITA GERAL DO IMPÉRIO PARA O EXERCÍCIO DE 1886 - 1887 E 2º SEMESTRE DO ANO DE 1887, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "545099",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-15-3310",
+      "titulo": "Lei nº 3.310 de 15/10/1886",
+      "data": "1886-10-15",
+      "numero": "3310",
+      "urn": "urn:lex:br:federal:lei:1886-10-15;3310",
+      "ementa": "REVOGA O ARTIGO 60, DO CODIGO CRIMINAL E A LEI 4, DE 10 DE JUNHO DE 1835, NA PARTE EM QUE IMPÕE A PENA DE AÇOITES."
+    },
+    {
+      "senadoId": "545103",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-15-3312",
+      "titulo": "Lei nº 3.312 de 15/10/1886",
+      "data": "1886-10-15",
+      "numero": "3312",
+      "urn": "urn:lex:br:federal:lei:1886-10-15;3312",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DA MARINHA, O CREDITO DE TRINTA E NOVE CONTOS SETECENTOS E NOVENTA MIL E DEZ REIS (39:790$010), PARA ATENDER AS DESPESAS DAS VERBAS - CORPO DA ARMADA E CLASSES ANEXAS - E - MUNIÇÕES NAVAIS - DO EXERCICIO DE 1884 - 1885."
+    },
+    {
+      "senadoId": "545101",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-15-3311",
+      "titulo": "Lei nº 3.311 de 15/10/1886",
+      "data": "1886-10-15",
+      "numero": "3311",
+      "urn": "urn:lex:br:federal:lei:1886-10-15;3311",
+      "ementa": "ESTABELECE PENAS PARA OS CRIMES DE DESTRUIÇÃO, DANO, INCÊNDIO E OUTROS."
+    },
+    {
+      "senadoId": "545096",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-09-3308",
+      "titulo": "Lei nº 3.308 de 09/10/1886",
+      "data": "1886-10-09",
+      "numero": "3308",
+      "urn": "urn:lex:br:federal:lei:1886-10-09;3308",
+      "ementa": "CONCEDE AO MINISTERIO DOS NEGOCIOS DA AGRICULTURA, COMERCIO E OBRAS PUBLICAS UM CREDITO DE 3.764:097$465 APLICÁVEL A PAGAMENTO DE DIVIDA AO EMPREITEIRO DO PROLONGAMENTO DA ESTRADA DE FERRO DO RECIFE A S. FRANCISCO E RAMAL DO RECIFE A CARUARU."
+    },
+    {
+      "senadoId": "545091",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-08-3304",
+      "titulo": "Lei nº 3.304 de 08/10/1886",
+      "data": "1886-10-08",
+      "numero": "3304",
+      "urn": "urn:lex:br:federal:lei:1886-10-08;3304",
+      "ementa": "DÁ AO GOVERNO A FACULDADE DE AUTORIZAR A ILMA, CAMARA MUNICIPAL DA CORTE PARA CONTRAIR O EMPRÉSTIMO DE 125:000$000 A FIM DE OCORRER AO PAGAMENTO DAS OBRAS URGENTES DO EDIFÍCIO DO MATADOURO PÚBLICO DE SANTA CRUZ."
+    },
+    {
+      "senadoId": "545089",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-08-3303",
+      "titulo": "Lei nº 3.303 de 08/10/1886",
+      "data": "1886-10-08",
+      "numero": "3303",
+      "urn": "urn:lex:br:federal:lei:1886-10-08;3303",
+      "ementa": "CONCEDE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO O CRÉDITO DE 300:000$000 PARA OCORRER AS DESPESAS NECESSÁRIAS A EXECUÇÃO DE SERVIÇOS E  PROVIDÊNCIAS CONCERNENTES AO MELHORAMENTO DO ESTADO SANITÁRIO DESTA CAPITAL."
+    },
+    {
+      "senadoId": "545087",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-10-02-3302",
+      "titulo": "Lei nº 3.302 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "3302",
+      "urn": "urn:lex:br:federal:lei:1886-10-02;3302",
+      "ementa": "FIXA AS FORÇAS DE MAR PARA O ANO FINANCEIRO DE 1887 - 1888."
+    },
+    {
+      "senadoId": "545078",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-08-21-3294",
+      "titulo": "Lei nº 3.294 de 21/08/1886",
+      "data": "1886-08-21",
+      "numero": "3294",
+      "urn": "urn:lex:br:federal:lei:1886-08-21;3294",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA O CRÉDITO SUPLEMENTAR DE 67:235$960 PARA DESPESAS DE DIVERSAS VERBAS DO ORÇAMENTO DO MESMO MINISTÉRIO DO EXERCICIO DE 1884 - 1885."
+    },
+    {
+      "senadoId": "545074",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-08-14-3291",
+      "titulo": "Lei nº 3.291 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "3291",
+      "urn": "urn:lex:br:federal:lei:1886-08-14;3291",
+      "ementa": "CONCEDE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO CRÉDITOS SUPLEMENTARES NA IMPORTÂNCIA DE 960:964$258, DO EXERCÍCIO DE 1884 - 1885."
+    },
+    {
+      "senadoId": "545070",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-08-14-3288",
+      "titulo": "Lei nº 3.288 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "3288",
+      "urn": "urn:lex:br:federal:lei:1886-08-14;3288",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA MARINHA O CRÉDITO SUPLEMENTAR DE 43:526$641 PARA ATENDER AS DESPESAS DAS VERBAS - MUNIÇÕES NAVAIS - E EVENTUAIS - DO EXERCÍCIO DE 1883 - 1884."
+    },
+    {
+      "senadoId": "545068",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-08-14-3287",
+      "titulo": "Lei nº 3.287 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "3287",
+      "urn": "urn:lex:br:federal:lei:1886-08-14;3287",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 50:385$108, PARA ATENDER AS DESPESAS DAS VERBAS - CORPO DA ARMADA - E - COMBUSTÍVEL - DO EXERCICÍO 1883 - 1884."
+    },
+    {
+      "senadoId": "545066",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-08-07-3286",
+      "titulo": "Lei nº 3.286 de 07/08/1886",
+      "data": "1886-08-07",
+      "numero": "3286",
+      "urn": "urn:lex:br:federal:lei:1886-08-07;3286",
+      "ementa": "AUMENTA DE 107:000$000 O CREDITO CONCEDIDO A VERBA - OBRAS PUBLICAS - DO EXERCICIO DE 1884 - 1885."
+    },
+    {
+      "senadoId": "545064",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-08-07-3285",
+      "titulo": "Lei nº 3.285 de 07/08/1886",
+      "data": "1886-08-07",
+      "numero": "3285",
+      "urn": "urn:lex:br:federal:lei:1886-08-07;3285",
+      "ementa": "AUMENTA DE 178:010$545 O CREDITO DA VERBA - TELEGRAFOS - DO EXERCICIO DE 1884 - 1885."
+    },
+    {
+      "senadoId": "545054",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-06-23-3276",
+      "titulo": "Lei nº 3.276 de 23/06/1886",
+      "data": "1886-06-23",
+      "numero": "3276",
+      "urn": "urn:lex:br:federal:lei:1886-06-23;3276",
+      "ementa": "FIXA A FORÇA NAVAL PARA O ANO FINANCEIRO DE 1886 - 1887."
+    },
+    {
+      "senadoId": "545052",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1886-06-23-3275",
+      "titulo": "Lei nº 3.275 de 23/06/1886",
+      "data": "1886-06-23",
+      "numero": "3275",
+      "urn": "urn:lex:br:federal:lei:1886-06-23;3275",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1886 A 1887."
+    }
+  ],
+  "pendencias": []
+}

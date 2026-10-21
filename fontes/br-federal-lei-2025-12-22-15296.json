@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-22-15296",
+  "titulo": "Lei nº 15.296 de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/803b694d-dd31-4809-a7d4-1b39eb6b761e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-22;15296",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-22%3B15296&tipo_documento=maior-detalhe",
+  "sha256_dados": "b9eec31675b4b2cfd447e4d4ebc2b390ae25daab45e683c19f728366c1ded0fd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:06:47.583Z",
+  "sha256_fonte": "f2258b598afe69c9e3facede37932294d34218625348ec59385ed575fa17fd6c",
+  "sha256_markdown": "2df0851a2b192ae70ffaeb02545c37debb9801c704b293a5ee8f08fd4989bbe0"
+}

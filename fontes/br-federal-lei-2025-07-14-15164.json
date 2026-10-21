@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-07-14-15164",
+  "titulo": "Lei nº 15.164 de 14/07/2025",
+  "data": "2025-07-14",
+  "fonte": "https://normas.leg.br/api/public/binario/0bf8e3b1-9e35-4284-bded-3dde7d11262f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-07-14;15164",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-07-14%3B15164&tipo_documento=maior-detalhe",
+  "sha256_dados": "1148712e6494f4bcd1cd3fb3df147d9baa505efaaa093956ee81c10aa5b1ef72",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:09:47.954Z",
+  "sha256_fonte": "54a119f0debfe321c7b9e1ddd9beef3a21d3f38e8cf6b783a88c1c87db044545",
+  "sha256_markdown": "ed76e92ea58911a9441b0d47a18bc624e9dcbba770195bfd76990bece08e9203"
+}

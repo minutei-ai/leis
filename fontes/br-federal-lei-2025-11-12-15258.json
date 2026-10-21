@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-12-15258",
+  "titulo": "Lei nº 15.258 de 12/11/2025",
+  "data": "2025-11-12",
+  "fonte": "https://normas.leg.br/api/public/binario/f72109ae-d49c-4f1b-b5a9-0903afcc598a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-12;15258",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-12%3B15258&tipo_documento=maior-detalhe",
+  "sha256_dados": "fca84079019ff11db0d2f87169d0f10823dab43afc01a84f8f4661916454a5e8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:44.603Z",
+  "sha256_fonte": "7b94caac54ee8e7a38f2323f85896677a4955d4a1d7ac8d311423b8041f7a711",
+  "sha256_markdown": "2be46c75f2dcbd87a6b38d0603b30c6ab7da24fe561003ab1529636039c3c8c3"
+}

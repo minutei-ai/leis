@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-02-15279",
+  "titulo": "Lei nº 15.279 de 02/12/2025",
+  "data": "2025-12-02",
+  "fonte": "https://normas.leg.br/api/public/binario/b91b7358-45b9-487e-8271-6ceb7f72f6cd/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-02;15279",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-02%3B15279&tipo_documento=maior-detalhe",
+  "sha256_dados": "013ab3af05331cbaf6b1633529a270bac103c44e2132383ae3e77b3f87f50ca2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:18.429Z",
+  "sha256_fonte": "9ddc8ca62fda579f5b864b893886a0b6d621a2c59d47d957962288b9fc7f0b65",
+  "sha256_markdown": "caf85b0fb64b718961631682330f8169582100ae3553e4613b7406d4c0a8783a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-10-16-15001",
+  "titulo": "Lei nº 15.001 de 16/10/2024",
+  "data": "2024-10-16",
+  "fonte": "https://normas.leg.br/api/public/binario/be192ded-8dd0-4dd2-9fde-ee3049b664fc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-10-16;15001",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-10-16%3B15001&tipo_documento=maior-detalhe",
+  "sha256_dados": "5d05c01f428f98046ac46a64652d033a567cb63c5be08f0335e283f5af170682",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:13:17.671Z",
+  "sha256_fonte": "933f9add88bf801a72e93b05949c49e2e447d08402ffec211a49934242e65444",
+  "sha256_markdown": "91ada0a7d3851166ddb8afdec3668aff46c2d88b2219f33176bef18120d36615"
+}

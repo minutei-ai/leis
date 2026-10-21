@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1859",
+  "tipo": "LEI",
+  "ano": 1859,
+  "coletado_em": "2026-10-20T23:07:10.430Z",
+  "normas": [
+    {
+      "senadoId": "542648",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1859-09-15-1043",
+      "titulo": "Lei nº 1.043 de 15/09/1859",
+      "data": "1859-09-15",
+      "numero": "1043",
+      "urn": "urn:lex:br:federal:lei:1859-09-15;1043",
+      "ementa": "FIXA A FORÇA NAVAL, PARA O ANO FINANCEIRO DE 1860 A 1861."
+    },
+    {
+      "senadoId": "542644",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1859-09-14-1041",
+      "titulo": "Lei nº 1.041 de 14/09/1859",
+      "data": "1859-09-14",
+      "numero": "1041",
+      "urn": "urn:lex:br:federal:lei:1859-09-14;1041",
+      "ementa": "MANDA VIGORAR NO EXERCICIO DE 1860-1861, A LEI DO ORÇAMENTO DE 1859-1860, E AUTORIZA O GOVERNO PARA ALTERAR O CONTRATO COM A COMPANHIA BRASILEIRA DE PAQUETES A VAPOR."
+    },
+    {
+      "senadoId": "542646",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1859-09-14-1042",
+      "titulo": "Lei nº 1.042 de 14/09/1859",
+      "data": "1859-09-14",
+      "numero": "1042",
+      "urn": "urn:lex:br:federal:lei:1859-09-14;1042",
+      "ementa": "FIXA AS FORÇAS DE TERRA PARA O ANO FINANCEIRO DE 1860 A 1861."
+    },
+    {
+      "senadoId": "542642",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1859-09-14-1040",
+      "titulo": "Lei nº 1.040 de 14/09/1859",
+      "data": "1859-09-14",
+      "numero": "1040",
+      "urn": "urn:lex:br:federal:lei:1859-09-14;1040",
+      "ementa": "FIXANDO A DESPESA E ORÇANDO A RECEITA PARA O EXERCICIO DE 1859-1860."
+    }
+  ],
+  "pendencias": []
+}

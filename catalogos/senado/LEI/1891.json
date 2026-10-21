@@ -1,0 +1,89 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1891",
+  "tipo": "LEI",
+  "ano": 1891,
+  "coletado_em": "2026-10-20T23:06:04.630Z",
+  "normas": [
+    {
+      "senadoId": "540862",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-12-30-26",
+      "titulo": "Lei nº 26 de 30/12/1891",
+      "data": "1891-12-30",
+      "numero": "26",
+      "urn": "urn:lex:br:federal:lei:1891-12-30;26",
+      "ementa": "Fixa despeza geral da Republica dos Estados Unidos do   Brazil para o exercicio de 1892, e da outras providencias."
+    },
+    {
+      "senadoId": "540858",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-12-30-25",
+      "titulo": "Lei nº 25 de 30/12/1891",
+      "data": "1891-12-30",
+      "numero": "25",
+      "urn": "urn:lex:br:federal:lei:1891-12-30;25",
+      "ementa": "Orça a receita geral da Republica dos Estados Unidos do Brazil   para o exerciciode 1892, e da outras providencias."
+    },
+    {
+      "senadoId": "540852",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-10-30-23",
+      "titulo": "Lei nº 23 de 30/10/1891",
+      "data": "1891-10-30",
+      "numero": "23",
+      "urn": "urn:lex:br:federal:lei:1891-10-30;23",
+      "ementa": "Reorganiza os serviços da Administração   Federal."
+    },
+    {
+      "senadoId": "540845",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-10-24-21",
+      "titulo": "Lei nº 21 de 24/10/1891",
+      "data": "1891-10-24",
+      "numero": "21",
+      "urn": "urn:lex:br:federal:lei:1891-10-24;21",
+      "ementa": "Manda que continuem em vigor as disposições do decreto   n.3163 de 7 de julho de 1883."
+    },
+    {
+      "senadoId": "540841",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-10-22-20",
+      "titulo": "Lei nº 20 de 22/10/1891",
+      "data": "1891-10-22",
+      "numero": "20",
+      "urn": "urn:lex:br:federal:lei:1891-10-22;20",
+      "ementa": "Fixa em 120:000$ annuaes a pensão a que tem direito D.   Pedro de Alcantara, ex-Imperador do Brazil."
+    },
+    {
+      "senadoId": "540830",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-10-16-14-a",
+      "titulo": "Lei nº 14-A de 16/10/1891",
+      "data": "1891-10-16",
+      "numero": "14-a",
+      "urn": "urn:lex:br:federal:lei:1891-10-16;14-a",
+      "ementa": "Approva o accordo feito entre o Brazil e o Perú sobre a   execução de cartas rogatórias."
+    },
+    {
+      "senadoId": "540822",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-09-12-9",
+      "titulo": "Lei nº 9 de 12/09/1891",
+      "data": "1891-09-12",
+      "numero": "9",
+      "urn": "urn:lex:br:federal:lei:1891-09-12;9",
+      "ementa": "Fixa os subsidios do Presidente e Vice-Presidente da   Republica para o periodo de 15 de novembro de 1894 a 15 de novembro de 1893 e   autoriza a abertura de credito para pagamento do subsidio do Vice-Presidente, no   corrente exercício."
+    },
+    {
+      "senadoId": "540813",
+      "tipo": "LEI",
+      "id": "br-federal-lei-1891-08-08-2",
+      "titulo": "Lei nº 2 de 08/08/1891",
+      "data": "1891-08-08",
+      "numero": "2",
+      "urn": "urn:lex:br:federal:lei:1891-08-08;2",
+      "ementa": "Providencia sobre creditos supplementares ás verbas   -Subsidios dos senadores e dos deputados- e secretarias do Senado e da Camara   dos Deputados, do exercicio de 1891."
+    }
+  ],
+  "pendencias": []
+}

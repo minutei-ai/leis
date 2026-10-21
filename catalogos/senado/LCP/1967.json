@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=1967",
+  "tipo": "LCP",
+  "ano": 1967,
+  "coletado_em": "2026-10-20T23:11:52.271Z",
+  "normas": [
+    {
+      "senadoId": "540708",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1967-12-07-3",
+      "titulo": "Lei Complementar nº 3 de 07/12/1967",
+      "data": "1967-12-07",
+      "numero": "3",
+      "urn": "urn:lex:br:federal:lei.complementar:1967-12-07;3",
+      "ementa": "Dispõe sobre os Orçamentos Plurianuais de Investimento, e dá outras   providências."
+    },
+    {
+      "senadoId": "540707",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1967-11-29-2",
+      "titulo": "Lei Complementar nº 2 de 29/11/1967",
+      "data": "1967-11-29",
+      "numero": "2",
+      "urn": "urn:lex:br:federal:lei.complementar:1967-11-29;2",
+      "ementa": "Dispõe sobre a execução do disposto no artigo 16, parágrafo 2º, da   Constituição Federal, relativamente à remuneração dos Vereadores."
+    },
+    {
+      "senadoId": "540705",
+      "tipo": "LCP",
+      "id": "br-federal-lei-complementar-1967-11-09-1",
+      "titulo": "Lei Complementar nº 1 de 09/11/1967",
+      "data": "1967-11-09",
+      "numero": "1",
+      "urn": "urn:lex:br:federal:lei.complementar:1967-11-09;1",
+      "ementa": "Estabelece os requisitos mínimos de população e renda pública e a forma de consulta prévia às populações locais, para a criação de novos municípios."
+    }
+  ],
+  "pendencias": []
+}

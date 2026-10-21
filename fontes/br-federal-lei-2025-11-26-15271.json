@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-11-26-15271",
+  "titulo": "Lei nº 15.271 de 26/11/2025",
+  "data": "2025-11-26",
+  "fonte": "https://normas.leg.br/api/public/binario/d3f529d7-27ea-4176-b5ea-00c2eff258ef/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-11-26;15271",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-11-26%3B15271&tipo_documento=maior-detalhe",
+  "sha256_dados": "d50a6384c53803c95bfd33a0996f929cbb5f4029504c9cd9103d7541ec833759",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:23.589Z",
+  "sha256_fonte": "384865f22ea9693a3346542f3c3ab7145e1fd8dea481c510fd97f377650fad10",
+  "sha256_markdown": "d776794a055aa9512ff68614bd1e65658f2be0927e5bbd360e3b26076c7884e5"
+}

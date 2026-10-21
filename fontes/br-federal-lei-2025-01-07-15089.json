@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-01-07-15089",
+  "titulo": "Lei nº 15.089 de 07/01/2025",
+  "data": "2025-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/9f299201-5785-4541-82ee-758cdb6b8f36/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-01-07;15089",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-01-07%3B15089&tipo_documento=maior-detalhe",
+  "sha256_dados": "ba62db30563705d4751985ff589a65d6e14adae6d1a9229efea40b0038dfed96",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:11:21.478Z",
+  "sha256_fonte": "da49b4d8a86d1741826a0f2e02c7a9f62f7c30158b3c1346bd26ffe5e0a091cb",
+  "sha256_markdown": "65068e95ce9ace4d0ca28255f82f73a2439c66c8a50dcf163af66b15430dc550"
+}

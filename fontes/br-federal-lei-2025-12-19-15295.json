@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2025-12-19-15295",
+  "titulo": "Lei nº 15.295 de 19/12/2025",
+  "data": "2025-12-19",
+  "fonte": "https://normas.leg.br/api/public/binario/929d92ec-3518-4312-b231-f32c0ebffbcb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2025-12-19;15295",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2025-12-19%3B15295&tipo_documento=maior-detalhe",
+  "sha256_dados": "2ef4d28373c56928b1930c40018ce0010b22fa88fdeb4ac6905b510168e29a70",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-20T23:07:02.889Z",
+  "sha256_fonte": "4d24a01256a7f1fe2006e33e11e83e131aae1bfd616ea08bcef239702c158cb6",
+  "sha256_markdown": "936fcfca7eac1d74235a0a62ac08481ad317ab23087202e48ef4aae9c918e28b"
+}

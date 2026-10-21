@@ -8,10 +8,12 @@
     "discover": "bun scripts/discover.ts",
     "collect:senado": "bun scripts/collect-senado.ts",
     "audit": "bun scripts/audit.ts",
-    "coverage": "bun scripts/coverage.ts"
+    "coverage": "bun scripts/coverage.ts",
+    "collect:almg": "bun scripts/collect-almg.ts"
   },
   "dependencies": {
     "cheerio": "1.1.2",
+    "csv-parse": "6.1.0",
     "effect": "3.19.4",
     "turndown": "7.2.2",
     "turndown-plugin-gfm": "1.0.2"
