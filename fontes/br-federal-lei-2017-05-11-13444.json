@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-05-11-13444",
+  "titulo": "Lei nº 13.444 de 11/05/2017",
+  "data": "2017-05-11",
+  "fonte": "https://normas.leg.br/api/public/binario/d2571305-9496-4e6b-a221-e7ffe1b86704/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-05-11;13444",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-05-11%3B13444&tipo_documento=maior-detalhe",
+  "sha256_dados": "bea2dc98e65a4eb2d9ff11a49ab485dc13e9c911fc104d6545a25c5379a48972",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:12:40.770Z",
+  "sha256_fonte": "ef54956169ff4e4d0cf466691abb6308734ae4ecb3ae53171be0112c35de7f60",
+  "sha256_markdown": "ab23a5af1e5099ccb7259c4d18ebf40ab019fc0a4441a7a48587730ca16bdcd5"
+}

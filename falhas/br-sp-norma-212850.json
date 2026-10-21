@@ -1,6 +1,6 @@
 {
   "id": "br-sp-norma-212850",
-  "fonte": "https://baleg-api-prd.al.sp.gov.br/norma/212850",
-  "coletado_em": "2026-10-21T08:38:59.027Z",
-  "erro": "InvalidDocument: { \"fonte\": \"https://www.al.sp.gov.br/repositorio/legislacao/ato.do.presidente/2026/ato.do.presidente-129-21.07.2026.html\", \"motivo\": \"Artigo inicial ausente\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/convert.ts:47:11)\n    at leis.convert (/home/yorizel/repos/leis/scripts/convert.ts:21:31)\n    at leis.convert (/home/yorizel/repos/leis/scripts/collect-alesp.ts:47:33)"
+  "coletado_em": "2026-10-21T09:13:13.231Z",
+  "erro": "InvalidDocument: { \"fonte\": \"https://www.al.sp.gov.br/repositorio/legislacao/ato.do.presidente/2026/ato.do.presidente-129-21.07.2026.html\", \"motivo\": \"Artigo inicial ausente\" }\n    at <anonymous> (/home/runner/work/leis/leis/scripts/convert.ts:54:11)\n    at leis.convert (/home/runner/work/leis/leis/scripts/convert.ts:21:31)\n    at leis.convert (/home/runner/work/leis/leis/scripts/collect-alesp.ts:58:33)",
+  "fonte": "https://baleg-api-prd.al.sp.gov.br/norma/212850"
 }

@@ -2,25 +2,25 @@
 
 Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos arquivos com hashes íntegros presentes neste commit. Não mede toda a legislação brasileira nem a completude dos catálogos oficiais.
 
-- Normas publicadas: **4943**.
+- Normas publicadas: **4948**.
 - Normas identificadas nos catálogos consultados do Senado: **186312**.
-- Dessas, ainda sem Markdown íntegro: **183743**.
+- Dessas, ainda sem Markdown íntegro: **183741**.
 - Normas identificadas nos catálogos consultados da ALMG: **61932**.
-- Dessas, ainda sem Markdown íntegro: **59929**.
-- Normas identificadas nas páginas consultadas da Alesp: **181192**; publicadas: **267**.
-- Leis municipais de São Paulo identificadas: **18447**; publicadas: **103**.
-- Falhas de coleta registradas: **48**.
+- Dessas, ainda sem Markdown íntegro: **59928**.
+- Normas identificadas nas páginas consultadas da Alesp: **181192**; publicadas: **268**.
+- Leis municipais de São Paulo identificadas: **18447**; publicadas: **104**.
+- Falhas de coleta registradas: **47**.
 - Falhas de descoberta de catálogos registradas: **0**.
 
 ## Versões publicadas
 
-- compilação atual disponibilizada pelo Senado: 147.
-- publicação original disponibilizada pela ALMG: 1919.
-- publicação original disponibilizada pela Alesp: 267.
-- publicação original disponibilizada pelo Senado: 2420.
+- compilação atual disponibilizada pelo Senado: 148.
+- publicação original disponibilizada pela ALMG: 1920.
+- publicação original disponibilizada pela Alesp: 268.
+- publicação original disponibilizada pelo Senado: 2421.
 - texto atualizado disponibilizado pela ALMG: 84.
 - texto atualizado pela Câmara na data de coleta: 3.
-- texto compilado disponibilizado pela Prefeitura de São Paulo: 103.
+- texto compilado disponibilizado pela Prefeitura de São Paulo: 104.
 
 ## Catálogos federais do Senado
 
@@ -28,7 +28,7 @@ Cada catálogo preserva a resposta oficial comprimida, o filtro e a data de cole
 
 | Tipo | Ano | Identificadas | Pendências de identificação ou texto | Publicadas | A coletar |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| MPV | 2026 | 64 | 0 | 0 | 64 |
+| MPV | 2026 | 64 | 0 | 1 | 63 |
 | MPV | 2025 | 46 | 0 | 0 | 46 |
 | MPV | 2024 | 81 | 0 | 0 | 81 |
 | MPV | 2023 | 52 | 0 | 0 | 52 |
@@ -242,7 +242,7 @@ Cada catálogo preserva a resposta oficial comprimida, o filtro e a data de cole
 | LEI | 2020 | 143 | 0 | 141 | 2 |
 | LEI | 2019 | 185 | 0 | 184 | 1 |
 | LEI | 2018 | 202 | 0 | 200 | 2 |
-| LEI | 2017 | 173 | 0 | 171 | 2 |
+| LEI | 2017 | 173 | 0 | 172 | 1 |
 | LEI | 2016 | 171 | 0 | 171 | 0 |
 | LEI | 2015 | 163 | 0 | 163 | 0 |
 | LEI | 2014 | 128 | 0 | 128 | 0 |
@@ -1473,7 +1473,7 @@ O CSV anual é preservado integralmente. A coleta de textos abrange LEI, LCP, LD
 | 2026 | 522 | 0 | 1130 | 522 | 0 |
 | 2025 | 743 | 0 | 1107 | 743 | 0 |
 | 2024 | 722 | 0 | 1042 | 722 | 0 |
-| 2023 | 564 | 0 | 799 | 16 | 548 |
+| 2023 | 564 | 0 | 799 | 17 | 547 |
 | 2022 | 463 | 0 | 992 | 0 | 463 |
 | 2021 | 518 | 0 | 765 | 0 | 518 |
 | 2020 | 520 | 0 | 778 | 0 | 520 |
@@ -1555,7 +1555,7 @@ O CSV anual é preservado integralmente. A coleta de textos abrange LEI, LCP, LD
 
 - Páginas preservadas: **182**. Totais de páginas informados pela API: 182.
 - Totais de registros informados pela API nas respostas: 181192.
-- Identidades únicas recebidas: **181192**; textos publicados: **267**; a coletar: **180925**.
+- Identidades únicas recebidas: **181192**; textos publicados: **268**; a coletar: **180924**.
 
 A API paginada da Alesp abrange leis e outras famílias de atos. O total oficial é de registros do catálogo, não de arquivos Markdown nem de todas as normas já editadas no estado. Páginas ausentes, mudanças do total durante a coleta, duplicações e ausência de texto impedem equiparar os números à completude estadual. O coletor prefere a íntegra atualizada em HTML e registra falha quando só há PDF ou não há texto disponível.
 
@@ -1565,7 +1565,7 @@ A descoberta consulta apenas o tipo LEI, particionado por ano de publicação. O
 
 | Ano de publicação | Total declarado | Identificadas | Pendências | Publicadas | A coletar |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 2026 | 184 | 184 | 0 | 103 | 81 |
+| 2026 | 184 | 184 | 0 | 104 | 80 |
 | 2025 | 156 | 156 | 0 | 0 | 156 |
 | 2024 | 156 | 156 | 0 | 0 | 156 |
 | 2023 | 186 | 186 | 0 | 0 | 186 |
