@@ -1,0 +1,409 @@
+###MPV-001984-0-019-29-06-2000@@@
+
+MEDIDA PROVISÓRIA Nº 1.984-19, DE 29 DE junho DE 2000.
+
+Acresce e altera dispositivos das Leis nos 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, e 9.494, de 10 de setembro de 1997, 7.347, de 24 de julho de 1985, 8.429, de 2 de junho de 1992, 9.704, 17 de novembro de 1998, e o Decreto-Lei nº 5.452, de 1º de maio de 1943, e da Lei nº 5.869, de 11 de janeiro de 1973, e dá outras providências.
+
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º A Lei nº 8.437, de 30 de junho de 1992, passa a vigorar com as seguintes alterações:
+
+“Art. 1º .....................................................................................................................................
+
+...........................................................................................................................................................
+
+§ 4º Nos casos em que cabível medida liminar, sem prejuízo da comunicação ao dirigente do órgão ou entidade, o respectivo representante judicial dela será imediatamente intimado.
+
+§ 5º Não será cabível medida liminar que defira compensação de crédito tributários ou previdenciários.” (NR)
+
+“Art. 4º .....................................................................................................................................
+
+...........................................................................................................................................................
+
+§ 2º O Presidente do Tribunal poderá ouvir o autor e o Ministério Público, em setenta e duas horas.
+
+§ 3º Do despacho que conceder ou negar a suspensão, caberá agravo, no prazo de cinco dias, que será levado a julgamento na sessão seguinte a sua interposição.
+
+§ 4º Se o julgamento no agravo de que trata o parágrafo anterior resultar a manutenção ou restabelecimento da decisão de que pretende suspender, caberá novo pedido de suspensão ao Presidente do Tribunal competente para conhecer de eventual recurso especial ou extraordinário.
+
+§ 5º É cabível também o pedido de suspensão a que se refere o parágrafo anterior quando negado provimento a agravo de instrumento interposto contra a liminar a que se refere este artigo.
+
+§ 6º A interposição do agravo de instrumento contra liminar concedida nas ações movidas contra o Poder Público e seus agentes não prejudica nem condiciona o julgamento do pedido de suspensão a que se refere este artigo.
+
+§ 7º O presidente do tribunal poderá conferir ao pedido efeito suspensivo liminar, se constatar, em juízo prévio, a plausibilidade do direito invocado e a urgência na concessão da medida.
+
+§ 8º Ao verificar que a liminar esgotou, no todo ou em qualquer parte, ou objeto da ação ou foi deferida em flagrante ofensa à lei ou a jurisprudência de tribunal superior, o presidente do tribunal poderá suspendê-la com eficácia retroativa à data em que foi concedida, tornando sem efeito qualquer ato executivo dela decorrente.
+
+§ 9º As liminares cujo objeto seja idêntico poderão ser suspensas em uma única decisão, podendo o presidente do tribunal estender os efetivos da suspensão a limares supervenientes, mediante simples aditamento do pedido original.” (NR)
+
+“Art. 4º-A. Nas ações rescisórias propostas pela União, Estados, Distrito Federal e Municípios, bem como pelas autarquias e fundações instituídas pelo Poder Público, caracterizada a plausibilidade jurídica da pretensão, poderá o tribunal, a qualquer tempo, conceder medida cautelar para suspender os efeitos da sentença rescindida.” (NR)
+
+Art. 2º O art. 6º da Lei nº 9.028, de 12 de abril de 1995, passa a vigorar acrescido dos §§ 2º e 3º, remunerando-se o atual parágrafo único para § 1º:
+
+“§ 2º As intimações a serem concretizadas fora da sede do juízo serão feitas, necessariamente, na forma prevista no art. 237, inciso II, do Código de Processo Civil.
+
+§ 3º Aplica-se aos procuradores ou advogados integrantes dos órgãos vinculados à Advocacia-Geral da União o contido no caput e no § 2º deste artigo, quanto aos processos em trâmite na justiça de primeiro grau de jurisdição.” (NR)
+
+Art. 3º A Lei nº 9.028, de 1995, passa a vigorar com as seguintes alterações:
+
+“Art. 3º os Procuradores Regionais da União exercerão a coordenação das atividades das Procuradorias da União localizadas em sua área de atuação.
+
+§ 2º Ocorrendo a hipótese de que trata o parágrafo anterior incumbirá ao Advogado-Geral da União dispor sobre a restruturação da Procuradoria Regional podendo remanejar cargos e servidores da Procuradoria desativada.
+
+§ 3º A reestruturação e o remanejamento de que trata o § 2º serão possíveis inclusive na hipótese de coexistência das duas Procuradorias, se conveniente a utilização de estrutura de apoio única para atender a ambas.
+
+§ 4º Com a mesma finalidade de racionalização de serviço, fica o Advogado-Geral da União igualmente autorizado a desativar ou deixar de instalar Procuradoria seccional da União, aplicando-se à hipótese, no que couber, o disposto na parte final do § 1º e no § 2º deste artigo.”(NR)
+
+“Art. 4º ..................................................................................................................................
+
+...........................................................................................................................................................
+
+§ 4º Mediante requisição do Advogado-Geral da União ou de dirigente de Procuradoria da Advogacia-Geral da União, e para os fins previstos no caput, os órgãos e entidades da Administração Federal designarão servidores para que atuem como peritos ou assistente técnicos em feitos específicos, aplicáveis a esta requisição as disposições dos §§ 1º e 2º do presente artigo.” (NR)
+
+“Art. 8º-A. É criada, no Gabinete do Advogado-Geral da União, a coordenadoria dos Órgãos Vinculados, para auxiliá-lo no exercício de suas atribuições de orientação normativa e supervisão técnica dos órgãos jurídicos das autarquias e fundações públicas.
+
+§ 1º O Coordenador dos Órgãos Vinculados será Consultor da União, designado pelo Advogado-Geral da União.
+
+§ 2º O Advogado-Geral da União editará ato, nos termos do art. 45 da Lei Complementar nº 73, de 10 de fevereiro de 1993, dispondo sobre a Coordenadoria de que trata este artigo.” (NR)
+
+“Art. 8º-B São instituídas na Advocacia-Geral da União, com funções de integração e coordenação a Câmara de Atividade de Contencioso e a Câmara de Atividades de Consultoria.
+
+Parágrafo único. As Câmaras objeto do caput, direta e imediatamente subordinadas ao Advogado-Geral da União, terão disciplinarmente em ato deste”. (NR)
+
+“Art. 8º-C O Advogado-Geral da União, na defesa dos interesses desta e em hipóteses as quais possam trazer reflexos de natureza econômica, ainda que indiretos, ao erário, poderá avocar ou integrar e coordenar os trabalhos a cargo de órgão jurídico de empresa pública ou sociedade de economia mista, a se desenvolverem em sede judicial ou extrajudicial.
+
+Parágrafo único. Poderão ser cometidas, à Câmara competente da Advocacia-Geral da União as funções de executar a integração e a coordenação previstas neste artigo.”(NR)
+
+“Art. 11-A. Fica autorizada a Advocacia-Geral da União a assumir, por suas Procuradorias, temporária e excepcionalmente, a representação judicial de autarquias ou fundações públicas nas seguintes hipóteses:
+
+I - ausência de procurador ou advogado;
+
+II - impedimento dos integrantes do órgão jurídico.
+
+§ 1º A representação judicial extraordinária prevista neste artigo poderá ocorrer por solicitação do dirigente da entidade ou por iniciativa do Advogado-Geral da União.
+
+§ 2º A inexistência de órgão jurídico integrante da respectiva Procuradoria ou Departamento Jurídico, em cidade sede de Órgão Judiciário perante o qual corra feito de interesse de autarquia ou fundação da União, configura a hipótese de ausência prevista no I deste artigo.
+
+§ 3º O Advogado-Geral da União, com a finalidade de suprir deficiências ocasionais de Órgão Vinculados à Advocacia-Geral da União, poderá designar para presta-lhes colaboração temporária membros efetivos da Advocacia-Geral da União, Procuradores Autárquicos, Assistente Jurídicos e Advogados de outras entidades, seja em atividade de representação judicial ou de consultoria e Assessoramento jurídico, estando, enquanto durar a colaboração temporária, investidos dos mesmos poderes conferidos aos integrantes do respectivo Órgão Vinculado.
+
+§ 4º Nos casos de que trata o § 3º, não se aplica a restrição contida na parte final do art. 20, § 3º, da Lei nº 8.112, de 11 de dezembro de 1990, alterado pela Lei 9.527, de 10 de dezembro de 1997.” (NR)
+
+“Art. 11-B. A representação judicial da União, quanto aos assuntos confiados às autarquias e fundações federais, relacionadas no Anexo V, a esta Lei passa a ser feita diretamente pelos órgãos próprios da Advocacia-Geral da União, permanecendo os Órgãos Jurídicos daquelas entidades responsáveis pelas respectivas atividades de consultoria e assessoramento jurídicos.
+
+§ 1º Os Procuradores Autárquicos, Assistentes Jurídicos e Advogados integrantes dos quadros das entidades de que trata o caput neles permanecerão, até que a lei disponha sobre a nova forma de representação judicial, direta e indireta, da União, consideradas as suas entidades autárquicas e fundacionais, bem como sobre a prestação de consultoria e assessoramento jurídicos a essas entidades.
+
+§ 2º Os Órgãos jurídicos das entidades relacionadas no Anexo V desta Lei continuarão, até 7 de julho de 2000, como co-responsáveis pela representação quanto aos assuntos de competência da respectiva autarquia ou Fundação.
+
+§ 3º As citações, intimações, e notificações das autarquias e fundações relacionadas no Anexo V desta Lei, bem como nas hipóteses de que trata o art. 11-A, serão feitas às respectivas Procuradorias da Advocacia-Geral da União, asseguradas aos seus membros, no exercício da representação judicial de que trata o art. 11-A e este artigo, as prerrogativas processuais previstas em lei.
+
+§ 4º Os Órgãos Jurídicos das entidades de que trata o caput, juntamente com os respectivos Órgãos da Advocacia-Geral da União, no prazo de sessenta dias, farão o levantamento dos processos judiciais em andamento, indicando a fase em que se encontram.” (NR)
+
+§ 5º Até o advento da Lei referida no parágrafo primeiro deste artigo, o Advogado-Geral da União, de ofício ou mediante proposta de dirigente de Procuradoria da União poderá designar Procuradores Autárquicos Advogados e Assistentes Jurídicos das entidades relacionadas no Anexo V desta Lei para terem exercícios nas Procuradorias da Advocacia-Geral da União.” (NR)
+
+“Art. 19. ..................................................................................................................................
+
+...........................................................................................................................................................
+
+§ 5º As transposições efetivadas por este artigo alcançaram tão-somente servidores estáveis no serviço público, mencionados no item I do caput.” (NR)
+
+“Art. 19-A. São transpostos, para a Carreira de Assistente Jurídico da Advocacia-Geral da União, os atuais cargos efetivos da Administração Federal direta, privativos de bacharel em Direito, cujas atribuições, fixadas em ato normativo hábil, tenham conteúdo eminentemente jurídico e correspondam àquelas de assistência fixadas aos cargos da referida Carreira, ou as abranjam, e os quais:
+
+I - estejam vagos; ou
+
+II - tenham como titulares servidores, estáveis no serviço público, que:
+
+a) anteriormente a 5 de outubro de 1988 já detinham cargo efetivo, ou emprego permanente, privativo de bacharel em Direito, de conteúdo eminentemente jurídico, nos termos do caput, na Administração Federal direta, autárquica ou fundacional, conforme as normas constitucionais e legais então aplicáveis;
+
+b) investidos após 5 de outubro de 1988, o tenham sido em decorrência de aprovação em concurso público ou da aplicação do § 3º do art. 41 da Constituição.
+
+§ 1º Nas situações previstas no inciso II, a transposição objeto deste artigo abrange os cargos e seus titulares.
+
+§ 2º A transposição de servidor egresso de autarquia ou fundação pública federal, prevista no inciso II, alíneas “a” e “b”, alcança tão-somente aquele que passou a integrar a Administração direta em decorrência da extinção ou da alteração da natureza jurídica da entidade à qual pertencia, e desde que as atribuições da respectiva entidade e o seu quadro de pessoal tenham sido, por lei, absorvidos por órgãos da Administração direta.
+
+§ 3º Às transposições disciplinadas neste artigo aplicam-se, também, a correlação e os procedimentos constantes do art. 19 desta Lei (§§ 2º, 3º e 4º).
+
+§ 4º As transposições de que trata este artigo serão formalizadas em ato declaratório do Advogado-Geral da União, à vista de requerimento formulado pelo interessado.
+
+§ 5º Os eventuais efeitos financeiros, das transposições em referência, somente serão devidos, aos seus beneficiários, a partir da data em que publicado o ato declaratório, objeto do parágrafo anterior.
+
+§ 6º Os titulares máximos dos órgãos da Administração Federal direta, nos quais existam cargos na situação descrita no caput e inciso I, deverão indicá-los à Advocacia-Geral da União, por intermédio do Ministério do Planejamento, Orçamento e Gestão, explicitando, relativamente a cada cargo vago, sua origem, evolução, atribuições e regência normativa.
+
+§ 7º Cada caso deverá ser instruído pelo órgão de recursos humanos do respectivo Ministério ou Secretaria de Estado, com a documentação necessária a comprovar que o servidor atende ao disposto neste artigo, após o que deverá ser encaminhado ao Advogado-Geral da União, na forma por ele regulamentada, acompanhado de manifestação conclusiva do respectivo órgão de assessoramento jurídico.” (NR)
+
+“Art. 21. Aos titulares dos cargos de Advogado da União, de Procurador da Fazenda Nacional e de Assistente Jurídico das respectivas carreiras da Advocacia-Geral da União incumbe representá-la judicialmente e extrajudicialmente, bem como executar as atividades de assessoramento jurídico do Poder Executivo, conforme dispuser ato normativo do Advogado-Geral da União.” (NR)
+
+“Art. 24-A. A União, suas autarquias e fundações públicas são isentas de custas e emolumentos e demais taxas judiciárias, bem como de depósito prévio e multa em ação rescisória, em quaisquer foros e instâncias.
+
+Parágrafo único. Aplica-se o disposto neste artigo a todos os processos administrativos e judiciais em que for parte o Fundo de Garantia do Tempo de Serviço - FGTS, seja no pólo ativo ou passivo extensiva a isenção à pessoa jurídica que o representar em Juízo ou fora dele.”(NR)
+
+Art. 4º A Lei nº 9.494, de 10 de setembro de 1997, passa a vigorar acrescida dos seguintes artigos:
+
+“Art. 1º-A. Estão dispensadas de depósito prévio, para interposição de recurso, as pessoas jurídicas de direito público federais, estaduais, distritais e municipais.” (NR)
+
+“Art. 1º-B. O prazo a que se refere o caput do art. 730 do Código de Processo Civil passa a ser de trinta dias.” (NR)
+
+“Art. 1º-C. Prescreverá em cinco anos o direito de obter indenização dos danos causados por agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado prestadoras de serviços públicos.” (NR)
+
+“Art. 2º-A. A sentença civil prolatada em ação de caráter coletivo proposta por entidade associativa, na defesa dos interesses e direitos dos seus associados, abrangerá apenas os substituídos que tenham, na data da propositura da ação, domicílio no âmbito da competência territorial do órgão prolator.
+
+Parágrafo único. Nas ações coletivas propostas contra a União os Estados o Distrito Federal e dos Municípios, a petição inicial deverá obrigatoriamente estar instruída com a ata da assembléia da entidade associativa que a autorizou, acompanhada da relação nominal dos seus associados e indicação dos respectivos endereços.” (NR)
+
+“Art. 2º-B. A sentença que tenha por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do Distrito Federal e dos Municípios, inclusive de suas autarquias e fundações, somente poderá ser executada após seu trânsito em julgado.
+
+Parágrafo único. A sentença proferida em ação cautelar só poderá ter caráter satisfativo quando transitada em julgado a sentença proferida na ação principal.” (NR)
+
+Art. 5º Os prazos referidos no art. 26 da Lei nº 9.651, de 27 de maio de 1998, ficam prorrogados por mais vinte e quatro meses a partir do seu término.
+
+Art. 6º Os arts 1º e 2º da Lei nº 7.347, de 24 de julho de 1985, passa a vigorar acrescido as seguintes alterações:
+
+“Art. 1º .....................................................................................................................................
+
+...........................................................................................................................................................
+
+V - por infração da ordem econômica e da economia popular.
+
+Parágrafo único. Não será cabível ação civil pública para veicular pretensões que envolvam tributos, contribuições providenciarias, o Fundo de Garantia do Tempo de Serviço - FGTS ou outros Fundos de natureza institucional cujo os beneficiários podem ser individualmente determinados. “(NR)
+
+“Art. 2º .....................................................................................................................................
+
+Parágrafo único. A propositura da ação prevenirá a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto.”
+
+Art. 7º O art. 17 da Lei nº 8.429, de 2 de junho de 1992, passa a vigorar acrescido do seguinte § 5º:
+
+“§ 5º A propositura da ação prevenirá a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto.” (NR)
+
+Art. 8º. O art. 1º da Lei nº 9.704, de 17 de novembro de 1998, passa a vigorar acrescido do seguinte § 2º, renumerando-se o atual parágrafo único para § 1º:
+
+“§ 2º Para a chefia de órgão jurídico de autarquia federal e de fundação instituída e mantida pela União, será indicado bacharel em direito de reconhecida idoneidade, capacidade e experiência para o cargo e que tenha exercido a Advocacia por pelo menos cinco anos.” (NR)
+
+Art. 9º O art. 467 do Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), passa a vigorar acrescido do seguinte parágrafo único:
+
+“Parágrafo único. O disposto no caput não se aplica à União, aos Estados, aos Municípios e as suas autarquias e fundações públicas.”(NR)
+
+Art. 10. O art. 741 da Lei nº 5.869, de 11 de janeiro de 1973, com redação dada pela Lei nº 8.953, de 13 de dezembro de 1954, passa a vigorar acrescido do seguinte parágrafo único:
+
+“Parágrafo único. Para efeito do disposto no inciso II deste artigo, é também inexigível, o título judicial fundado em lei, ato normativo ou em sua interpretação ou aplicação declarada inconstitucional pelo Supremo Tribunal Federal.” (NR)
+
+Art. 11. Estabelecida controvérsia de natureza jurídica entre entidades da Administração Federal indireta ou entre tais entes e a União, os Ministros de Estado competentes solicitarão, de imediato, ao Presidente da República, a audiência da Advocacia-Geral da União.
+
+Parágrafo único. Incumbirá ao Advogado-Geral da União adotar todas as providências necessárias a que se deslinde a controvérsia em sede administrativa.
+
+Art. 12. Não estão sujeitas ao duplo grau de jurisdição abrigatório as sentenças proferidas contra a União suas autarquias e fundações públicas, quando a respeito da controvérsia o Advogado-Geral da União ou outro órgão administrativo competente houver editado súmula ou instrução normativa determinando as não-interposição de recurso voluntário
+
+Art. 13. É acrescentado ao Anexo I da Lei nº 9.366, de 16 de dezembro de 1996, um cargo de Adjunto do Advogado-Geral da União.
+
+Art. 14. Ficam convalidados os atos praticados com base na Medida Provisória nº 1.984-18, de 1º de junho de 2000.
+
+Art. 15. Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 29 de junho de 2000; 179º da Independência e 112º da República.
+
+Marco antonio de oliveira marciel
+
+José Gregori
+
+Martus Tavares
+
+Gilmar Ferreira Mendes
+
+<<Anexo>>
+
+(Anexo V a que se refere o art. 11-B da Lei nº (9.028 de 1925)
+
+1\. Entidades vinculadas ao Ministério da Educação
+
+2\. Centro Federal de Educação Tecnológica “Celso Suckow da Fonseca)
+
+3\. Centro Federal de Educação Tecnológica da Bahia
+
+4\. Centro Federal de Educação Tecnológica da Paraíba
+
+5\. Centro Federal de Educação Tecnológica de Alagoas
+
+6\. Centro Federal de Educação Tecnológica de Campos
+
+7\. Centro Federal de Educação Tecnológica de Goiás
+
+8\. Centro Federal de Educação Tecnológica de Minas Gerais
+
+9\. Centro Federal de Educação Tecnológica de Pelotas
+
+10\. Centro Federal de Educação Tecnológicade Pernambuco
+
+11\. Centro Federal de Educação Tecnológica de Petrolina
+
+12\. Centro Federal de Educação Tecnológica de Química de Nilópolis
+
+13\. Centro Federal de Educação Tecnológica de São Paulo
+
+14\. Centro Federal de Educação Tecnológica do Ceará
+
+15\. Centro Federal de Educação Tecnológica do Espírito Santo
+
+16\. Centro Federal de Educação Tecnológica do Maranhão
+
+17\. Centro Federal de Educação Tecnológica do Pará
+
+18\. Centro Federal de Educação Tecnológica do Paraná
+
+19\. Centro Federal de Educação Tecnológica do Piauí
+
+20\. Centro Federal de Educação Tecnológica do Rio Grande do Norte
+
+21\. Escola Agrotécnica Federal Antonio José Teixeira
+
+22\. Escola Agrotécnica Federal de Alegre
+
+23\. Escola Agrotécnica Federal de Araguatins
+
+24\. Escola Agrotécnica Federal de Bambui
+
+25\. Escola Agrotécnica Federal de Barbacena
+
+26\. Escola Agrotécnica Federal Barreiros
+
+27\. Escola Agrotécnica Federal Belo Jardim
+
+28\. Escola Agrotécnica Federal de Cáceres
+
+29\. Escola Agrotécnica Federal de Castanhal
+
+30\. Escola Agrotécnica Federal de Catu
+
+31\. Escola Agrotécnica Federal de Ceres
+
+32\. Escola Agrotécnica Federal de Codó
+
+33\. Escola Agrotécnica Federal de Colatina
+
+34\. Escola Agrotécnica Federal Colorado do Oeste
+
+35\. Escola Agrotécnica Federal de Concórdia
+
+36\. Escola Agrotécnica Federal de Crato
+
+37\. Escola Agrotécnica Federal de Cuiabá
+
+38\. Escola Agrotécnica Federal de Iguatu
+
+39\. Escola Agrotécnica Federal de Inconfidentes
+
+40\. Escola Agrotécnica Federal de Januária
+
+41\. Escola Agrotécnica Federal de Machado
+
+42.Escola Agrotécnica Federal de Manaus
+
+43\. Escola Agrotécnica Federal de Muzambinho
+
+44\. Escola Agrotécnica Federal de Rio do Sul
+
+45\. Escola Agrotécnica Federal de Rio Pomba
+
+46\. Escola Agrotécnica Federal de Rio Verde
+
+47\. Escola Agrotécnica Federal de Salinas
+
+48\. Escola Agrotécnica Federal de Santa Inês
+
+49\. Escola Agrotécnica Federal de Santa Tereza
+
+50\. Escola Agrotécnica Federal de São Cristóvão
+
+51\. Escola Agrotécnica Federal de São Gabriel da Cachoeira
+
+52\. Escola Agrotécnica Federal de São João Evangelista
+
+53\. Escola Agrotécnica Federal de São Luís
+
+54\. Escola Agrotécnica Federal de São Vicente do Sul
+
+55\. Escola Agrotécnica Federal de Satuba
+
+56\. Escola Agrotécnica Federal de Senhor de Bonfim
+
+57\. Escola Agrotécnica Federal de Sertão
+
+58\. Escola Agrotécnica Federal de Sombrio
+
+59\. Escola Agrotécnica Federal de Sousa
+
+60\. Escola Agrotécnica Federal de Uberaba
+
+61\. Escola Agrotécnica Federal de Uberlândia
+
+62\. Escola Agrotécnica Federal de Urutai
+
+63\. Escola Agrotécnica Federal de Vitória de Santo Antão
+
+64\. Escola Agrotécnica Federal Presidente Juscelino Kubistchek
+
+65\. Escola Técnica Federal de Mato Grosso
+
+66\. Escola Técnica Federal de Ouro Preto
+
+67\. Escola Técnica Federal de Palmas
+
+68\. Escola Técnica Federal de Porto Velho
+
+69\. Escola Técnica Federal de Rolim de Moura
+
+70\. Escola Técnica Federal de Roraima
+
+71\. Escola Técnica Federal de Santa Catarina
+
+72\. Escola Técnica Federal de Santarém
+
+73\. Escola Técnica Federal de Sergipe
+
+74\. Escola Técnica Federal do Amazonas
+
+75\. Colégio Pedro II
+
+76\. Escola de Farmácia e Odontologia de Alfenas
+
+77\. Escola Federal de Engenharia de Itajubá
+
+78\. Escola Superior de Agricultura de Mozoró
+
+79\. Faculdade de Ciências Agrárias do Pará
+
+80\. Faculdade de Medicina do Triângulo Mineiro
+
+81\. Faculdade Federal de Odontologia de Diamantina
+
+82\. Fundação de Ensino Superior de São João del Rei
+
+83\. Fundação Faculdade Federal de Ciências Médicas de Porto Alegre
+
+84\. Fundação Joaquim Nabuco
+
+Entidades Vinculadas ao Ministério do Esporte e Turismo
+
+85\. EMBRATU - Instituto Brasileiro de Turismo
+
+86\. Instituto Nacional de Desenvolvimento do Desporto - INDESP
+
+Entidades Vinculadas ao Ministério do Planejamento, Orçamento e Gestão:
+
+87\. Instituto de Pesquisa Econômica Aplicada - IPEA
+
+88\. Fundação Instituto Brasileiro de Geografia e Estatística - IBGE
+
+Entidade Vinculada ao Ministério dos Transportes:
+
+89\. Departamento Nacional de Estradas de Rodagens - DNER
+
+Entidade Vinculada ao Ministério da Justiça:
+
+90\. Fundação Nacional do Índio - FUNAI
+
+Entidade Vinculada ao Ministério do Desenvolvimento, Indústria e Comércio Exterior:
+
+91\. Superintendência da Zona Franca de Manaus - SUFRAMA
+
+Entidades Vinculadas ao Ministério da Saúde
+
+92\. Fundação Nacional de Saúde
+
+93\. Fundação Oswaldo Cruz - FIOCRUZ

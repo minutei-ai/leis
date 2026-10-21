@@ -1,0 +1,97 @@
+Portaria Orçamentária nº 453/2020 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 9º, inciso II, alínea "a" e art. 12 da Lei nº [20.754](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100978/lei-20754), de 28 de janeiro de 2020,
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à SECRETARIA DE ESTADO DA EDUCAÇÃO, 2 (dois) créditos suplementares no valor global de R$ 13.338.641,84 (treze milhões, trezentos e trinta e oito mil, seiscentos e quarenta e um reais e oitenta e quatro centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 22 dias do mês de Dezembro de 2020.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 1008 2.011 | APRIMORAMENTO E VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO | 3 - OUTRAS DESPESAS CORRENTES | 116 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,00 | R$ 3.683.940,00 | R$ 3.683.940,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 1008 2.017 | DESENVOLVIMENTO DE AÇÕES PEDAGÓGICAS E UNIVERSALIZAÇÃO DO ENSINO | 3 - OUTRAS DESPESAS CORRENTES | 108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 10.000,00 | R$ 9.664.701,84 | R$ 9.654.701,84 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 13.338.641,84 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 1008 2.022 | MODERNIZAÇÃO DAS UNIDADES JURISDICIONADAS DA EDUCAÇÃO | 3 - OUTRAS DESPESAS CORRENTES | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 5.873.841,00 | R$ 2.750.000,00 | R$ 2.750.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 1008 2.027 | TRANSPORTE ESCOLAR | 3 - OUTRAS DESPESAS CORRENTES | 116 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 1.372.000,00 | R$ 673.940,00 | R$ 673.940,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 1008 2.022 | MODERNIZAÇÃO DAS UNIDADES JURISDICIONADAS DA EDUCAÇÃO | 3 - OUTRAS DESPESAS CORRENTES | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 5.364.381,00 | R$ 2.750.000,00 | R$ 2.750.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 1008 2.027 | TRANSPORTE ESCOLAR | 3 - OUTRAS DESPESAS CORRENTES | 116 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 3.010.000,00 | R$ 3.010.000,00 | R$ 3.010.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 363 1008 2.022 | MODERNIZAÇÃO DAS UNIDADES JURISDICIONADAS DA EDUCAÇÃO | 4 - INVESTIMENTOS | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 245.000,00 | R$ 189.701,84 | R$ 189.701,84 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 367 1008 2.022 | MODERNIZAÇÃO DAS UNIDADES JURISDICIONADAS DA EDUCAÇÃO | 3 - OUTRAS DESPESAS CORRENTES | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 3.053.278,00 | R$ 3.000.000,00 | R$ 3.000.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 368 1008 2.022 | MODERNIZAÇÃO DAS UNIDADES JURISDICIONADAS DA EDUCAÇÃO | 3 - OUTRAS DESPESAS CORRENTES | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 230.000,00 | R$ 230.000,00 | R$ 230.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 368 1008 2.022 | MODERNIZAÇÃO DAS UNIDADES JURISDICIONADAS DA EDUCAÇÃO | 4 - INVESTIMENTOS | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 735.000,00 | R$ 735.000,00 | R$ 735.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 13.338.641,84 |

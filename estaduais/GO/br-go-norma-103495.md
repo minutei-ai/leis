@@ -1,0 +1,89 @@
+Portaria Orçamentária nº 241/2020 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 9º, inciso I alínea "a", inciso II alínea "a", e art. 12 da [Lei nº 20.754](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100978/lei-20754), de 28 de janeiro de 2020,
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à SECRETARIA DE ESTADO DA EDUCAÇÃO, 6 (seis) créditos suplementares no valor global de R$ 71.377.000,00 (setenta e um milhões, trezentos e setenta e sete mil reais), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 24 dias do mês de Agosto de 2020.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 1 - PESSOAL E ENCARGOS SOCIAIS | 108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 359.932.539,15 | R$ 360.082.539,15 | R$ 150.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 1 - PESSOAL E ENCARGOS SOCIAIS | 108 | 91 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 60.208.533,78 | R$ 60.239.533,78 | R$ 31.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,00 | R$ 63.000.000,00 | R$ 63.000.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 1.338.759,51 | R$ 7.638.759,51 | R$ 6.300.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 366 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 68.581,47 | R$ 264.581,47 | R$ 196.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 367 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 43.919,40 | R$ 1.743.919,40 | R$ 1.700.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 71.377.000,00 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 122 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 90.236.441,48 | R$ 71.196.000,00 | R$ 71.196.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 4100 4.118 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC | 1 - PESSOAL E ENCARGOS SOCIAIS | 108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 197.844.947,56 | R$ 181.000,00 | R$ 181.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 71.377.000,00 |

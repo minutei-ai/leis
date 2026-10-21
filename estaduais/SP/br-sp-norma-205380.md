@@ -1,0 +1,21 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=205380)
+
+# DECRETO Nº 67.140, DE 30 DE SETEMBRO DE 2022
+
+### Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação de rede coletora de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., em Guaianazes, Município de São Paulo, e dá providências correlatas
+
+RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º, 6º e 40° do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
+Decreta:<br>
+**Artigo 1º -** Fica declarada de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, empresa concessionária de serviço público, por via amigável ou judicial, a faixa de terra identificada na planta cadastral de código MLED 090/16 e no memorial descritivo constantes do Expediente Digital SABESP-EXP-2022/00003, referente ao cadastro Sabesp n° 0189/647, necessária à implantação de rede coletora de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., faixa de terra essa que constitui parte de um terreno situado na Rua Ribeirão das Furnas, n° 130, parte do lote 103, quadra F do núcleo Lajeado, Guaianazes, no Município e Comarca de São Paulo, matriculado sob o n° 6.299 no 7º Cartório de Registro de Imóveis de São Paulo e que consta pertencer a Jesus Nunes, Maria Madalena dos Santos Nunes e/ou outros, sendo descrita como tendo linha de divisa que, partindo do ponto denominado ‘A’, distante 76,40m do alinhamento da Rua Ribeirão das Furnas, divisa com o Lote 106, com coordenadas N=7.396.835,985 e E=356.679,310, segue em linha reta 14,09m com ângulo interno de 57°21’04 até o ponto ‘B’, confrontando com o imóvel designado como Lote 106; desse ponto, deflete à direita com o ângulo interno de 169°47’28" e segue em linha reta 21,11m até o ponto ‘C’, confrontando com área da mesma propriedade; desse ponto, deflete à direita com o ângulo interno de 95°59’09" e segue em linha reta 2,00m até o ponto ‘D’; desse ponto, deflete à direita com ângulo interno de 84°02’19" e segue em linha reta 20,85m até o ponto ‘E’; desse ponto, deflete à esquerda com o ângulo interno de 187°52’20" e segue em linha reta 10,78m até o ponto ‘F’; desse ponto, deflete à esquerda com o ângulo interno de 304°54’31" e segue em linha reta 13,96 até o ponto ‘G’; desse ponto, deflete à esquerda com ângulo interno de 235°30’39" e segue em linha reta 16,37m até o ponto ‘H’; desse ponto, deflete à direita com o ângulo interno de 137°58’59" e segue em linha reta 2,97m até o ponto ‘I’, confrontando do ponto ‘D’ ao ‘I’ com área de mesma propriedade; desse ponto, deflete à direita com o ângulo interno de 42°03’06" e segue em linha reta 19,63m até o ponto M, confrontando com imóvel parte do Lote 103; desse ponto, deflete à direita com o ângulo interno de 124°30’25" e segue em linha reta 18,21m até o ponto ‘A’, fechando assim o perímetro do polígono e encerrando uma área de 132,39m² (cento e trinta e dois metros quadrados e trinta e nove decímetros quadrados).<br>
+**Artigo 2º -** Fica a Companhia de Saneamento Básico do Estado de São Paulo - SABESP autorizada a invocar o caráter de urgência no processo judicial, para os fins do disposto no artigo 15 do Decreto-Lei Federal n° 3.365, de 21 de junho de 1941, e alterações posteriores.<br>
+**Artigo 3º -** As despesas com a execução do presente decreto correrão por conta de verba própria da Companhia de Saneamento Básico do Estado de São Paulo - SABESP.<br>
+**Artigo 4º -** Ficam excluídos da presente declaração de utilidade pública os imóveis de propriedade de pessoas jurídicas de direito público eventualmente situados dentro dos perímetros descritos no artigo 1º deste decreto.<br>
+**Artigo 5º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 30 de setembro de 2022<br>
+RODRIGO GARCIA<br>
+Marcos Rodrigues Penido<br>
+Secretário de Governo<br>
+João Carlos Fernandes<br>
+Secretário Executivo, Respondendo pelo Expediente da Casa Civil
+
+Publicado na Secretaria de Governo, aos 30 de setembro de 2022.

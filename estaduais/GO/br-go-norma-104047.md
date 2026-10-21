@@ -1,0 +1,75 @@
+Portaria Orçamentária nº 42/2021 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 20.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968), de 18 de fevereiro de 2021,
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ, 2 (dois) créditos suplementares no valor global de R$ 1.743.081,02 (um milhão, setecentos e quarenta e três mil e oitenta e um reais e dois centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 8 dias do mês de Março de 2021.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **452 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 02 061 4200 4.239 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO TJGO | 3 - OUTRAS DESPESAS CORRENTES | 137 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,00 | R$ 1.733.081,02 | R$ 1.733.081,02 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 02 061 4200 4.239 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO TJGO | 5 - INVERSÕES FINANCEIRAS | 142 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,00 | R$ 10.000,00 | R$ 10.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 1.743.081,02 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **452 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 02 061 1024 2.086 | ESCOLA JUDICIAL | 3 - OUTRAS DESPESAS CORRENTES | 137 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 11.536,80 | R$ 11.536,80 | R$ 11.536,80 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 02 061 1024 2.087 | INFRAESTRUTURA E TECNOLOGIA | 3 - OUTRAS DESPESAS CORRENTES | 137 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 1.721.544,22 | R$ 1.721.544,22 | R$ 1.721.544,22 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 02 061 4200 4.239 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO TJGO | 3 - OUTRAS DESPESAS CORRENTES | 142 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 1.743.081,02 |
