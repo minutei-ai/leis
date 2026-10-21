@@ -1,0 +1,67 @@
+**LEI COMPLEMENTAR Nº 837, DE 10 DE MARÇO DE 2026.**<br>
+Autor: Poder Executivo<br>
+Coautor: Deputado Gilberto Cattani<br>
+. Publicada na Edição Extra do DOE de 10.03.2026, p. 1.
+
+**Altera a Lei Complementar nº** [**612**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb68f74192c68fad842583910048b04e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20612%2C%20DE%202)**, de 28 de janeiro de 2019, que dispõe sobre a organização administrativa do Poder Executivo Estadual, para instituir o Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM, e dá outras providências.**
+
+**A ASSEMBLEIA LEGISLATIVA DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte Lei Complementar:<br>
+<br>
+**Art.** **1º** Fica acrescentado o inciso IV ao § 1º, bem como alterado o § 2º, ambos do art. 3º da [Lei Complementar nº 612, de 28 de janeiro de 2019](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb68f74192c68fad842583910048b04e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20612%2C%20DE%202), que passa a vigorar com a seguinte redação:
+
+“**Art.** **3º** (...)<br>
+(...)
+
+§ 1º (...)<br>
+(...)<br>
+IV - o (a) Chefe do Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM.
+
+§ 2º O Chefe de Gabinete do Governador e o (a) Chefe do GEVM gozam dos mesmos direitos, prerrogativas e deveres dos Secretários de Estado.”<br>
+<br>
+**Art.** **2º** Fica acrescentado o inciso VI ao § 1º, bem como alterado o § 2º, ambos do art. 7º da Lei Complementar nº 612, de 28 de janeiro de 2019, que passa a vigorar com a seguinte redação:
+
+“**Art.** **7º** (...)
+
+§ 1º (...)<br>
+(...)<br>
+VI - Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM.
+
+§ 2º À Casa Civil compete a execução das atividades de administração sistêmica dos órgãos previstos no § 1º deste artigo.”<br>
+<br>
+**Art.** **3º** Fica acrescentado o art. 13-A à Lei Complementar nº 612, de 28 de janeiro de 2019, com a seguinte redação:
+
+“Art. 13\-A Ao Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM compete:<br>
+I - assessorar, representar e atuar por delegação do Chefe do Poder Executivo, em âmbito nacional e internacional, junto a instituições públicas e privadas, bem como em solenidades, eventos, grupos de trabalho, conselhos, comissões e instâncias correlatas, visando à articulação institucional necessária à implementação de ações e políticas públicas voltadas ao enfrentamento da violência de gênero contra a mulher;<br>
+II - centralizar, acompanhar e sistematizar informações relativas às políticas públicas desenvolvidas pelo Estado, por intermédio de suas Secretarias e órgãos competentes, atuando como instância responsável pela comunicação institucional e oficial com a sociedade civil sobre a temática;<br>
+III - promover a integração e o diálogo institucional entre os Poderes Executivo, Legislativo e Judiciário, bem como entre os entes federados, contribuindo para o alinhamento estratégico, a tomada de decisões governamentais e a definição de diretrizes, inclusive no âmbito das discussões relacionadas ao “Orçamento Mulher” e à alocação de recursos públicos;<br>
+IV - assessorar o Poder Executivo na formulação, implementação e fortalecimento de ações preventivas e repressivas relacionadas ao enfrentamento da violência doméstica e de gênero contra a mulher, incluindo o incentivo à deflagração de operações e ações policiais correlatas, quando cabível.
+
+Parágrafo único As atribuições inerentes ao Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM serão promovidas em transversalidade e sinergia com as dos órgãos e entidades estaduais, especialmente da Polícia Judiciária Civil - PJC, em consonância com o que preconiza a Lei Complementar nº 407, de 30 de junho de 2010, e terão cariz de atividade policial sempre que exercidas por servidores das carreiras policiais, com as prerrogativas e responsabilidades inerentes às respectivas funções”.<br>
+<br>
+**Art.** **4º** Fica acrescentado o item 7 à alínea “a” do inciso I do Anexo I da Lei Complementar nº 612, de 28 de janeiro de 2019, com a seguinte redação:
+
+“ANEXO I<br>
+Administração Pública Estadual<br>
+I - (...)<br>
+A. (...)<br>
+7\. Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM.”<br>
+<br>
+**Art.** **5º** Ficam criados, no quadro da Administração Pública Direta do Estado de Mato Grosso, os seguintes cargos, observada a legislação pertinente:<br>
+I - 1 Chefe do Gabinete de Enfrentamento à Violência de Gênero contra a Mulher - GEVM, com simbologia remuneratória DGA-1;<br>
+II - 3 Assessores Especiais II, com simbologia remuneratória DGA-4;<br>
+<br>
+**Art.** **6º** Fica alterado o Anexo II da [Lei Complementar nº 266, de 29 de dezembro de 2006](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/d796b7eb31f912bb04257264005c41e0?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20266%2C%20DE%2029), que passa a vigorar com a seguinte redação:
+
+“**ANEXO II**<br>
+**CARGOS EM COMISSÃO, FUNÇÕES DE CONFIANÇA E RESPECTIVAS SIMBOLOGIAS REMUNERATÓRIAS**
+
+<table border="1"><tbody><tr valign="top"><td width="992"><div align="center"><b><font face="Arial">CARGO/FUNÇÃO</font></b></div></td><td width="161"><div align="center"><b><font face="Arial">SÍMBOLO</font></b></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Secretário de Estado, Secretário Controlador-Geral do Estado, Secretário-Chefe da Casa Civil, Chefe do Gabinete do Governador, Chefe do Gabinete de Enfrentamento à Violência de Gênero contra a Mulher, Procurador-Geral do Estado, Presidente de Fundação e Autarquia e Reitor.</font></td><td width="161"><div align="center"><font face="Arial">DGA-1</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Secretário Adjunto, Delegado Geral, Comandante-Geral, Diretor Geral da Politec, Procurador Geral Adjunto, Subprocurador Geral, Procurador Corregedor-Geral, Chefe do ERMAT, Assessor Chefe I, Assessor do Gabinete do Procurador Geral do Estado, Assessor Especial I, Assessor Técnico de Saúde I, Gestor de Projetos Especializados nível I, Diretor da AGER, Vice-Presidente da JUCEMAT, Secretário-Geral da JUCEMAT, Procurador Regional da JUCEMAT, Presidente de Conselho I e Secretário Executivo de Conselho I.</font></td><td width="161"><div align="center"><font face="Arial">DGA-2</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Delegado Geral Adjunto, Comandante Geral Adjunto, Diretor de Unidade Hospitalar, Diretor de Unidade de Saúde, Diretor de Penitenciária I, Diretor de Fundações e Autarquias, Vice-Reitor, Pró-Reitor, Diretor Geral da PGE, Diretor Metropolitano de Educação, Superintendente, Advogado Geral Regulador, Coordenador-Procurador, Assessor Chefe II, Chefe de Unidade I, Chefe de Equipe de Proteção de Dignitário I, Ouvidor de Polícia, Corregedor Fazendário, Ajudante de Ordens I, Assessor Técnico de Saúde II, Gestor de Projetos Especializados nível II, Presidente de Conselho II e Secretário Executivo de Conselho II.</font></td><td width="161"><div align="center"><font face="Arial">DGA-3</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Diretor Geral Adjunto da POLITEC, Diretor da Polícia Judiciária Civil, Diretor de Penitenciária II, Diretor de Cadeia IV, Diretor de Centro de Atendimento Socioeducativo I, Diretor de Centro de Ressocialização I, Diretor de Centro de Detenção Provisória I, Diretor I, Diretor de Unidade Regionalizada, Diretor de Unidade Desconcentrada, Diretor de Escola Técnica, Diretor Regional de Educação, Diretor Adjunto Metropolitano de Educação, Diretor Regional, Chefe de CIRETRAN Categoria A, Chefe de Equipe de Proteção de Dignitário II, Assessor Chefe III, Chefe de Unidade II, Chefe de Unidade de Compliance Previdenciário, Chefe de Unidade de Normas Previdenciárias, Chefe de Unidade de Conformidade Previdenciária, Chefe de Gabinete de Secretaria, Chefe de Gabinete da Procuradoria Geral, Chefe de Gabinete da UNEMAT, Corregedor Geral da Polícia Judiciária Civil, Corregedor Setorial I, Auditor Geral do SUS, Médico Auditor, Médico Supervisor, Médico Regulador, Ouvidor Setorial I, Ajudante de Ordens II, Assessor Especial II, Assessor de Procurador, Assessor Técnico de Saúde III, Assessor Técnico I, Assessor Executivo I, Assessor Especial de Unidade Militar, Gestor de Projetos Especializados nível III, Presidente de Conselho III e Secretário Executivo de Conselho III e Corregedor do Detran.</font></td><td width="161"><div align="center"><font face="Arial">DGA-4</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Diretor Adjunto da Polícia Judiciária Civil, Diretor de Penitenciária III, Diretor de Cadeia III, Diretor de Centro de Atendimento Socioeducativo II, Diretor de Centro de Ressocialização II, Diretor de Centro de Detenção Provisória II, Diretor II, Diretor Regional Adjunto de Educação, Diretor da POLITEC, Diretor Administrativo da UNEMAT, Subdiretor de Penitenciária I, Coordenador, Coordenador de Desenvolvimento Educacional, Coordenador de Integração Escola e Comunidade, Chefe de CIRETRAN Categoria B, Chefe de Unidade III, Chefe de Unidade Especializada em Gestão de Contas Médicas, Chefe de Unidade Especializada em Gestão de Órteses, Próteses e Materiais Especiais, Chefe de Gabinete de fundações, autarquias e órgãos desconcentrados, Chefe de Equipe de Proteção de Dignitário III, Corregedor Geral Adjunto da Polícia Judiciária Civil, Corregedor da POLITEC, Corregedor Setorial II, Ouvidor Setorial II, Ouvidor da POLITEC, Pregoeiro, Assessor Técnico de Saúde IV, Assessor Técnico II, Assessor de Pró-Reitoria, Gestor de Projetos Especializados nível IV, Presidente de Conselho IV e Secretário Executivo de Conselho IV.</font></td><td width="161"><div align="center"><font face="Arial">DGA-5</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Diretor III, Delegado Regional da Polícia Judiciária Civil, Diretor de Cadeia I, Diretor de Cadeia II, Diretor de Centro de Atendimento Socioeducativo III, Diretor de Centro de Ressocialização III, Diretor de Centro de Detenção Provisória III, Diretor de Casa de Semiliberdade, Subdiretor de Penitenciária II, Subdiretor de Penitenciária III, Subdiretor de Centro de Atendimento Socioeducativo I, Subdiretor de Centro de Ressocialização I, Subdiretor de Centro de Detenção Provisória I, Gerente, Gerente de Apoio Pedagógico, Gerente Regional, Advogado Geral do DETRAN, Chefe de CIRETRAN Categoria C, Chefe de Unidade IV, Chefe de Equipe de Proteção de Dignitário IV, Gestor de UNISECI, Corregedor Auxiliar da Polícia Judiciária Civil, Corregedor Setorial III, Ouvidor Setorial III, Ouvidor Geral da SES, Assessor Executivo II, Assessor Técnico de Saúde V, Assessor Técnico III, Assessor Especial III, Assessor Especial de Compliance Previdenciário, Assessor Especial de Normas Previdenciárias, Assessor Especial de Conformidade Previdenciária, Assessor Educacional de Escola Técnica II, Assessor de Administração Regionalizada da UNEMAT, Gestor de Projetos Especializados nível V, Presidente de Conselho V e Secretário Executivo de Conselho V.</font></td><td width="161"><div align="center"><font face="Arial">DGA-6</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Subdiretor do Centro de Atendimento Socioeducativo II, Subdiretor de Centro de Ressocialização II, Subdiretor de Centro de Detenção Provisória II, Supervisor da UNEMAT, Ouvidor da Polícia Judiciária Civil, Ouvidor Setorial IV, Assessor Técnico de Saúde VI, Gestor de Projetos Especializados nível VI, Presidente de Conselho VI, Secretário Executivo de Conselho VI e Chefe de Núcleo I.</font></td><td width="161"><div align="center"><font face="Arial">DGA-7</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Subdiretor de Centro de Atendimento Socioeducativo III, Subdiretor de Centro de Ressocialização III, Subdiretor de Centro de Detenção Provisória III, Delegado Titular, Líder de Programas e Processos, Ouvidor Adjunto da Polícia Judiciária Civil, Gestor de Projetos Especializados nível VII, Assessor Educacional de Escola Técnica I, Assessor Técnico de Saúde VII, Assistente Técnico I, Assistente Executivo, Presidente de Conselho VII, Agente de Proteção de Dignitários, Secretário Executivo de Conselho VII e Chefe de Núcleo II.</font></td><td width="161"><div align="center"><font face="Arial">DGA-8</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Assistente Técnico II, Agente de Inteligência, Gestor de Projetos Especializados nível VIII e Chefe de Núcleo III.</font></td><td width="161"><div align="center"><font face="Arial">DGA-9</font></div></td></tr><tr valign="top"><td width="992"><font face="Arial">Líder de Equipe, Escrivão-Chefe e Investigador-Chefe, Gestor de Projetos Especializados nível IX, Assistente de Direção, Assistente de Gabinete e Chefe de Núcleo IV.</font></td><td width="161"><div align="center"><font face="Arial">DGA-10</font></div></td></tr></tbody></table>
+
+<br>
+**Art.** **7º** Esta Lei Complementar entra em vigor na data de sua publicação.<br>
+<br>
+Palácio Paiaguás, em Cuiabá, 10 de março de 2026, 205º da Independência e 138º da República.<br>
+
+**MAURO MENDES**<br>
+_Governador do Estado_<br>
+<br>
