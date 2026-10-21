@@ -1,5 +1,3 @@
-# Medida Provisória nº 943 de 03/04/2020
-
 MEDIDA PROVISÓRIA Nº 943, DE 3 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 34.000.000.000,00, para o fim que especifica.

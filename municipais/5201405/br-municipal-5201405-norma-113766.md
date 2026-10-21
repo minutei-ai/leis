@@ -1,5 +1,3 @@
-# Decreto Numerado nº 274, de 2026-04-07
-
 DECRETO Nº 274, DE 7 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01 e 02, todos da Quadra 30, situados à Avenida Lago dos Patos e Rua 102, no Loteamento Jardim Tropical, no Município de Aparecida de Goiânia.

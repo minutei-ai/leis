@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.196, de 2021-11-09
-
 LEI Nº 7.196, DE 09 DE NOVEMBRO DE 2021.
 
 Dispõe sobre a isenção da taxa de inscrição em concursos públicos municipais às pessoas cadastradas no Registro Brasileiro de Doadores de Medula Óssea (REDOME).

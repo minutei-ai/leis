@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.809, de 2025-11-06
-
 LEI Nº 23.809, DE 6 DE NOVEMBRO DE 2025
 
 Institui a Semana Estadual de Conscientização sobre a Importância da Preservação da Fauna.

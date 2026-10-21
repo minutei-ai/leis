@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.442, de 2023-11-27
-
 LEI Nº 7.442, DE 27 DE NOVEMBRO DE 2023.
 
 Autoriza desafetação e alienação de imóvel público por investidura.

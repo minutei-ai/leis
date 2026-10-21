@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.430, de 2023-10-02
-
 LEI Nº 7.430, DE 02 DE OUTUBRO DE 2023
 
 Dispõe sobre instalação de caixas eletrônicos em altura reduzidas nas agências bancárias do município de rio verde e dá outras providências.

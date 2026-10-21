@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.332, de 2016-09-23
-
 LEI MUNICIPAL 3.332, DE 23 DE SETEMBRO DE 2016.
 
 Reconhece de Utilidade Pública Municipal o PROJETO MENINOS DOS MEUS OLHOS – PROJEMMO.

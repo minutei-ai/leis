@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.271, de 2022-06-13
-
 LEI N° 7.271, DE 13 DE JUNHO DE 2022
 
 Reconhece como Utilidade Pública Municipal a Igreja Evangélica Pentecostal Visão Celestial.

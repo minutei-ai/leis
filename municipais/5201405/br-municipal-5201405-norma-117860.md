@@ -1,5 +1,3 @@
-# Decreto Numerado nº 139, de 2023-03-06
-
 DECRETO “N” Nº 139 DE 06 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento QUINTA DA BOA VISTA, neste município.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.441, de 2018-11-23
-
 LEI Nº 3.441, DE 23 DE NOVEMBRO DE 2018<br>
 (Revogado pela Lei Ordinária nº 3.575, de 18 de setembro de 2020).
 

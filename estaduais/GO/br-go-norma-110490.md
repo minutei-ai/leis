@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.660, de 2025-03-19
-
 DECRETO Nº 10.660, DE 19 DE MARÇO DE 2025
 
 Reformula o Conselho Estadual da Juventude – CONJUVE, convalida atos praticados por seus membros e revoga os decretos que especifica.

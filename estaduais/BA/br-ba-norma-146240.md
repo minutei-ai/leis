@@ -1,5 +1,3 @@
-# LEI N° 14.874 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.874 DE 12 DE FEVEREIRO DE 2025
 
 Autoriza a inclusão do reconhecimento facial como forma de acesso e controle de presença nas Escolas Públicas Estaduais, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.211, de 2026-04-08
-
 LEI Nº 24.211, DE 8 DE ABRIL DE 2026
 
 Altera a [Lei nº 22.520](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108301 "Abrir Lei Ordinária nº 22520, de 2023 em nova aba"), de 28 de dezembro de 2023, que veda a solicitação abusiva de dados pessoais do consumidor, na forma que especifica.

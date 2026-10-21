@@ -1,5 +1,3 @@
-# Decreto Numerado nº 808, de 2025-02-13
-
 DECRETO Nº 808, DE 13 DE FEVEREIRO DE 2025.
 
 Dispõe sobre a alienação de área pública caracterizada como inservível.

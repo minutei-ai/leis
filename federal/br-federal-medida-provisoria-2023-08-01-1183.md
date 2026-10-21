@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.183 de 01/08/2023
-
 MEDIDA PROVISÓRIA Nº 1.183, DE 1 DE AGOSTO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 140.230.300,00, para o fim que especifica.

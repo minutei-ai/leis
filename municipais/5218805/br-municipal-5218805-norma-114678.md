@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.520, de 2008-12-19
-
 LEI Nº 5.520, DE 19 DE DEZEMBRO DE 2008.
 
 Altera o inciso XII e XIII do art. 6º e inclui o § 3º na Lei Complementar n. 3.633/98 e revoga as Leis Complementares n. 5.483/2008, 5.504/2008 e 5.510/2008.

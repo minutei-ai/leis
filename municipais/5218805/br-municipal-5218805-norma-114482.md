@@ -1,5 +1,3 @@
-# Lei Complementar nº 4.271, de 2002-04-01
-
 LEI COMPLEMENTAR Nº 4.271, de 01 de abril de 2001.
 
 <br>

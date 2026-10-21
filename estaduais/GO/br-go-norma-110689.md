@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.693, de 2025-05-17
-
 DECRETO Nº 10.693, DE 17 DE MAIO DE 2025<br>
 (NORMA CADUCADA)
 

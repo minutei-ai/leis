@@ -1,5 +1,3 @@
-# Decreto Numerado nº 72, de 2023-02-01
-
 DECRETO “N” Nº 72 DE 01 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE DAS NAÇÕES, neste município.

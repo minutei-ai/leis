@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.762, de 2025-10-28
-
 LEI Nº 23.762, DE 28 DE OUTUBRO DE 2025
 
 Concede o título de cidadania que especifica.

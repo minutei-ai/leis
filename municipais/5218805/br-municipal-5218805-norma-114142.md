@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.765, de 2025-11-17
-
 LEI Nº 7.765, 17 DE NOVEMBRO DE 2025.
 
 Autoriza desafetação e alienação de imóvel público por investidura.

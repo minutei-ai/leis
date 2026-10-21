@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.033 de 24/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.033, DE 24 DE FEVEREIRO DE 2021
 
 Altera a Lei nº 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, para conceder tratamento à produção de oxigênio medicinal empregado em medidas de prevenção, controle e contenção de riscos, danos e agravos à saúde pública relacionados com a covid-19.

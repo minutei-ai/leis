@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.760, de 2025-11-17
-
 LEI Nº 7.760, DE 17 DE NOVEMBRO DE 2025.
 
 Dispõe sobre denominação de ponte sobre o Córrego Grande, e dá outras providências. 

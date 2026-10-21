@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.518, de 2019-11-01
-
 LEI MUNICIPAL Nº 3.518, DE 01 DE NOVEMBRO DE 2019
 
 Autoriza o Poder Executivo a contratar operação de crédito com a Caixa Econômica Federal, com a garantia da união e dá outras providencias.

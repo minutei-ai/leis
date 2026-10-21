@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.322, de 2016-06-07
-
 LEI MUNICIPAL Nº 3.322 de 07 de junho de 2016.
 
 “DISPÕE sobre o atendimento em atenção à saúde visual primária no PSF, CAIS,UBS e Escolas Municipais e dá outras providências.”

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.267, de 2025-09-23
-
 DECRETO Nº 2.267, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, da Quadra 10, situado à Avenida Ruy Brasil Cavalcante, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

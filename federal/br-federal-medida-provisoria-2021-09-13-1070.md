@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.070 de 13/09/2021
-
 MEDIDA PROVISÓRIA Nº 1.070, DE 13 DE SETEMBRO DE 2021
 
 Institui o Programa Nacional de Apoio à Aquisição de Habitação para Profissionais da Segurança Pública - Programa Habite Seguro.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 110, de 2023-02-13
-
 DECRETO “N” Nº 110 DE 13 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO INDEPENDÊNCIA – 3º COMPLEMENTO, neste município.

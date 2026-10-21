@@ -1,5 +1,3 @@
-# Decreto Numerado nº 711, de 2024-09-02
-
 DECRETO “N” Nº 711 DE 02 DE SETEMBRO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 806, de 25 de setembro de 2024).
 

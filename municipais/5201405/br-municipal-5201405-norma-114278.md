@@ -1,5 +1,3 @@
-# Decreto Numerado nº 340, de 2026-05-06
-
 DECRETO Nº 340, DE 6 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Nicanor Braz Teodoro, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

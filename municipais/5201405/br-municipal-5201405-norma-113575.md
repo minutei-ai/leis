@@ -1,5 +1,3 @@
-# Decreto Numerado nº 215, de 2026-03-13
-
 DECRETO Nº 215, DE 13 DE MARÇO DE 2026
 
 Autoriza o cancelamento parcial da caução dos lotes em razão das obras do Loteamento Recanto Pinheiros, localizado neste município.

@@ -1,5 +1,3 @@
-# Decreto nº 69.921, de 01/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211591)<br>
 
 # DECRETO N° 69.921, DE 01 DE OUTUBRO DE 2025

@@ -1,5 +1,3 @@
-# LEI Nº 14.962 DE 05 DE SETEMBRO DE 2025
-
 LEI Nº 14.962 DE 05 DE SETEMBRO DE 2025
 
 Altera a Lei nº [13.201](https://www.legislabahia.ba.gov.br/documentos/lei-no-13201-de-09-de-dezembro-de-2014), de 09 de dezembro de 2014, na forma que indica, e dá outras providências.

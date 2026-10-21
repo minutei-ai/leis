@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.577, de 2006-05-09
-
 LEI MUNICIPAL Nº 2.577, DE 09 DE MAIO DE 2006.
 
 Autoriza a consignação em folha de pagamento, mediante a celebração de convênios entre Instituições Financeiras e/ou Entidades de Classe e o Município de Aparecida de Goiânia-GO.

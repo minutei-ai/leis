@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.790, de 2025-10-01
-
 DECRETO Nº 10.790, DE 1º DE OUTUBRO DE 2025
 
 Transfere o feriado consagrado ao Dia do Servidor Público para o dia 27 de outubro de 2025.

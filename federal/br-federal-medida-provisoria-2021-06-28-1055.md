@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.055 de 28/06/2021
-
 MEDIDA PROVISÓRIA Nº 1.055, DE 28 DE JUNHO DE 2021
 
 Institui a Câmara de Regras Excepcionais para Gestão Hidroenergética com o objetivo de estabelecer medidas emergenciais para a otimização do uso dos recursos hidroenergéticos e para o enfrentamento da atual situação de escassez hídrica, a fim de garantir a continuidade e a segurança do suprimento eletroenergético no País.

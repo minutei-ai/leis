@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.096, de 2020-08-31
-
 LEI Nº 7.096, DE 31 DE AGOSTO DE 2020
 
 Altera Lei nº 7034/2019.

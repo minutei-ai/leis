@@ -1,5 +1,3 @@
-# Medida Provisória nº 291 de 13/04/2006
-
 ###MPV-000291-0-000-13-04-2006@@@
 
 MEDIDA PROVISÓRIA Nº 291, DE 13 DE ABRIL DE 2006.

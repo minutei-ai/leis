@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.266 de 14/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.266, DE 14 DE OUTUBRO DE 2024
 
 Dispõe sobre a prorrogação excepcional dos prazos de isenção, de redução a zero de alíquotas ou de suspensão de tributos previstos nos regimes aduaneiros especiais de drawback, nas modalidades de suspensão e isenção, de que tratam o [art. 12 da Lei nº 11.945, de 4 de junho de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-06-04;11945!art12), e o [art. 31 da Lei nº 12.350, de 20 de dezembro de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-12-20;12350!art31), para pessoas jurídicas beneficiárias de atos concessórios com domicílio no Estado do Rio Grande do Sul e, exclusivamente na modalidade de suspensão, para empresas denominadas fabricantes-intermediários não domiciliadas no Estado do Rio Grande do Sul, com vistas à industrialização de produto intermediário a ser ou que já tenha sido diretamente fornecido a empresas industriais-exportadoras domiciliadas na referida unidade da federação, para emprego ou consumo na industrialização de produto final destinado à exportação.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.274 de 22/11/2024
-
 MEDIDA PROVISÓRIA Nº 1.274, DE 22 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 14.399, de 8 de julho de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-07-08;14399), que institui a Política Nacional Aldir Blanc de Fomento à Cultura.

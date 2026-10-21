@@ -1,5 +1,3 @@
-# Lei Complementar nº 120, de 2018-05-02
-
 LEI COMPLEMENTAR Nº 120, DE 02 DE MAIO de 2018.
 
 Altera a Lei Complementar 5.727/2009 que aprovou o Código Tributário do Município de Rio Verde-GO.

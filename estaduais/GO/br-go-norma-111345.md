@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.705, de 2025-09-30
-
 LEI Nº 23.705, DE 30 DE SETEMBRO DE 2025
 
 Confere ao Município de Itaguaru/GO o título de “Capital Goiana da Festa da Banana”.

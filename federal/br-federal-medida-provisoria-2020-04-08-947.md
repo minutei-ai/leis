@@ -1,5 +1,3 @@
-# Medida Provisória nº 947 de 08/04/2020
-
 MEDIDA PROVISÓRIA Nº 947, DE 8 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 2.600.000.000,00, para os fins que especifica.

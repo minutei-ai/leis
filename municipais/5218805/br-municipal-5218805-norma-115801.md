@@ -1,5 +1,3 @@
-# Lei Complementar nº 378, de 2025-02-24
-
 LEI COMPLEMENTAR Nº 378, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a Lei Complementar nº 130, de 03 de julho de 2018.

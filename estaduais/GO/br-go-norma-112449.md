@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.857, de 2026-01-26
-
 DECRETO Nº 10.857, DE 26 DE JANEIRO DE 2026
 
 Aprova o Regulamento da Secretaria de Estado da Infraestrutura – SEINFRA.

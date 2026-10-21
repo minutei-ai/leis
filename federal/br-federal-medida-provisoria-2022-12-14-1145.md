@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.145 de 14/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.145, DE 14 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 12.249, de 11 de junho de 2010, quanto à Tabela de Taxas de Serviços Metrológicos.

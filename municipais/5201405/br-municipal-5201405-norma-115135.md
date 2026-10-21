@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.743, de 2023-10-06
-
 LEI MUNICIPAL Nº 3.743, DE 06 DE OUTUBRO DE 2023.
 
 Altera o nome do “Prêmio Melhores do Esporte do Ano”, criado pela Lei Municipal nº 3.386, de 22 de novembro de 2017.

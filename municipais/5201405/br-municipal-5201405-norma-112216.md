@@ -1,5 +1,3 @@
-# Decreto Numerado nº 43, de 2026-01-14
-
 DECRETO Nº 043, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Avenida A, no Loteamento Setor Conde dos Arcos, no Município de Aparecida de Goiânia.

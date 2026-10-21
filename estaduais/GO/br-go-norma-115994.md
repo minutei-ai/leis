@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.399, de 2026-06-29
-
 LEI Nº 24.399, DE 29 DE JUNHO DE 2026
 
 Institui a Política Estadual de Apoio às Trilhas e Rotas Ecológicas.

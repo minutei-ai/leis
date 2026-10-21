@@ -1,5 +1,3 @@
-# Decreto Numerado nº 84, de 2023-02-02
-
 DECRETO “N” Nº 84 de 02 de fevereiro de 2023.<br>
 (Revogado pelo Decreto "N" Nº 11, de 15 de janeiro de 2024).
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.294, de 2016-01-04
-
 LEI MUNICIPAL Nº 3.294, DE 04 DE JANEIRO DE 2016.
 
 Desafeta e autoriza doar imóvel situado no loteamento Residencial Village Garavelo, neste Município, para a GRANDE ORIENTE NACIONAL - “GLÓRIA DO OCIDENTE DO BRASIL” e dá outras providências.

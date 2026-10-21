@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.650, de 2024-04-30
-
 LEI Nº 22.650, DE 30 DE ABRIL DE 2024
 
 Institui o Circuito do Encontro das Coroas do Divino Espírito Santo e dá outras providências.

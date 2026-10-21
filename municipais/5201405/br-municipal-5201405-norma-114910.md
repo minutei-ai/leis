@@ -1,5 +1,3 @@
-# Decreto Numerado nº 227, de 2024-04-10
-
 DECRETO “N” Nº 227 DE 10 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 115 de 02/04/2003
-
 ###MPV-000115-0-000-02-04-2003@@@
 
 MEDIDA PROVISÓRIA N° 115, DE 2 DE ABRIL 2003.

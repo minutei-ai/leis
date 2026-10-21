@@ -1,5 +1,3 @@
-# Decreto Numerado nº 371, de 2024-05-22
-
 DECRETO “N” Nº 371 DE 22 DE MAIO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 1.121, de 19 de dezembro de 2024).
 

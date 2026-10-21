@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.225, de 2025-09-17
-
 DECRETO Nº 2.225, DE 17 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 22 e 23, todos da Quadra 57, situados à Rua dos Gaviões com a Rua dos Albatrozes, no Loteamento Parque Floresta, no Município de Aparecida de Goiânia.

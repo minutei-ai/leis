@@ -1,5 +1,3 @@
-# Medida Provisória nº 689 de 31/08/2015
-
 MEDIDA PROVISÓRIA Nº  689, DE 31 DE AGOSTO DE 2015
 
 Altera a Lei nº  8.112, de 11 de dezembro de 1990.

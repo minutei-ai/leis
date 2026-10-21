@@ -1,5 +1,3 @@
-# LD Nº 63 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 63 DE 01 DE JUNHO DE 1983
 
 Cria a Secretaria da Administração do Estado e dá outras providências.

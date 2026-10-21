@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.261 de 02/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.261, DE 2 DE OUTUBRO DE 2024
 
 Altera a [Lei nº 14.467, de 16 de novembro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-11-16;14467), que dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.

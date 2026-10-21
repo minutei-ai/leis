@@ -1,5 +1,3 @@
-# Medida Provisória nº 960 de 30/04/2020
-
 MEDIDA PROVISÓRIA Nº 960, DE 30 DE ABRIL DE 2020
 
 Prorroga os prazos de suspensão de pagamentos de tributos previstos nos atos concessórios do regime especial de drawback, que tenham sido prorrogados por um ano pela autoridade fiscal e tenham termo em 2020.

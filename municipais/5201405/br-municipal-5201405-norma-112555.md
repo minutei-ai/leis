@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.423, de 2025-05-22
-
 DECRETO Nº 1.423, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Ana Maria no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

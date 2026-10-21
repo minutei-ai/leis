@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.574, de 2024-10-22
-
 DECRETO Nº 10.574, DE 22 DE OUTUBRO DE 2024
 
 Dispõe sobre a criação, na Polícia Militar do Estado de Goiás, do 55º Batalhão de Polícia Militar.

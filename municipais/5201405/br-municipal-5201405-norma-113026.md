@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.064, de 2025-08-29
-
 DECRETO Nº 2.064, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado na Rua 07-A, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.699, de 2024-05-15
-
 LEI Nº 22.699, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual da remuneração dos servidores públicos efetivos ativos, inativos e seus pensionistas da Assembleia Legislativa do Estado de Goiás, na forma que especifica.

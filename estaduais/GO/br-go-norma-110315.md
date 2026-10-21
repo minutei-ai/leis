@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.185, de 2025-01-06
-
 LEI Nº 23.185, DE 6 DE JANEIRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa dedicada a Santa Rita de Cássia – Missa das Rosas, realizada no Município de Santa Rita do Novo Destino/GO.

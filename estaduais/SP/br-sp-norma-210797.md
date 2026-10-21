@@ -1,5 +1,3 @@
-# Decreto nº 69.445, de 26/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210797)<br>
 
 # DECRETO N° 69.445, DE 26 DE MARÇO DE 2025

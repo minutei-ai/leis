@@ -1,5 +1,3 @@
-# Medida Provisória nº 699 de 10/11/2015
-
 MEDIDA PROVISÓRIA Nº  699, DE 10 DE NOVEMBRO 2015
 
 Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.058 de 27/07/2021
-
 MEDIDA PROVISÓRIA Nº 1.058, DE 27 DE JULHO DE 2021
 
 Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério do Trabalho e Previdência, e dá outras providências.

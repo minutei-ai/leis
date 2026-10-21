@@ -1,5 +1,3 @@
-# Decreto Numerado nº 447, de 2026-06-03
-
 DECRETO Nº 447, DE 3 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 09, 10 e 11, situados à Rua Rio Grande do Sul, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

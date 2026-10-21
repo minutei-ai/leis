@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.199, de 2014-07-16
-
 LEI MUNICIPAL Nº 3.199, DE 16 DE JULHO DE 2014.
 
 Desafeta e doa o lote 04, da quadra 06, localizado no Centro, neste Município, ao ESTADO DE GOIÁS e dá outras providências.

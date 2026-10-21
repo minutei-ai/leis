@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.644, de 2022-01-13
-
 LEI MUNICIPAL Nº 3.644, DE 13 DE JANEIRO DE 2022.
 
 Institui no Município de Aparecida de Goiânia, o Dia da Favela. 

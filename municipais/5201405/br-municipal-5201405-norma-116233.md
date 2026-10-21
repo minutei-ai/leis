@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.587, de 2020-11-19
-
 LEI MUNICIPAL Nº 3.587, DE 19 DE NOVEMBRO DE 2020.
 
 “Altera e Revoga os Parágrafos 1º, 2º, 3º e Único do Art. 5º da Lei Municipal nº 3.518 de 01 de novembro de 2019 que Autoriza o Poder Executivo a contratar operação de crédito com a Caixa Econômica Federal, com a garantia da união e dá outras providencias”.

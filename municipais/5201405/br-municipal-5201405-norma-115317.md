@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.663, de 2022-04-25
-
 LEI MUNICIPAL Nº 3.663, DE 25 DE ABRIL DE 2022.
 
 “Dispõe sobre a criação do Conselho de Proteção e Defesa dos Animais – CDPA, e dá outras providências.”

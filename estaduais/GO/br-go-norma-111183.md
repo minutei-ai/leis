@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.602, de 2025-08-29
-
 LEI Nº 23.602, DE 29 DE AGOSTO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da Campina, realizado no Município de Campinorte/GO.

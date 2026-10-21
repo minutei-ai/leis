@@ -1,5 +1,3 @@
-# LEI Nº 14.752 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.752 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO DOS MORADORES DO ARACRUZ (AMA), com sede e foro no município de Luís Eduardo Magalhães.

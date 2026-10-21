@@ -1,5 +1,3 @@
-# Decreto nº 69.708, de 16/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211205)<br>
 
 # DECRETO N° 69.708, DE 16 DE JULHO DE 2025

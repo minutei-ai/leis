@@ -1,5 +1,3 @@
-# Decreto Numerado nº 308, de 2024-04-26
-
 DECRETO “N” Nº 308, DE 26 DE ABRIL DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Serra Dourada 3ª Etapa neste município como de Interesse Social.

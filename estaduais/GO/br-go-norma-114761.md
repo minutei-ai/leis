@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.298, de 2026-05-21
-
 LEI Nº 24.298, DE 21 DE MAIO DE 2026
 
 Institui o Selo “Empresa Amiga da Saúde da Criança”.

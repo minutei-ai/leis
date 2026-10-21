@@ -1,5 +1,3 @@
-# Medida Provisória nº 916 de 31/12/2019
-
 MEDIDA PROVISÓRIA Nº 916, DE 31 DE DEZEMBRO DE 2019
 
 Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2020.

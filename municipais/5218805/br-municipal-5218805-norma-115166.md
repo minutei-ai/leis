@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.489, de 2024-02-26
-
 LEI Nº 7.489, DE 26 DE FEVEREIRO DE 2024.
 
 Altera a denominação da Clínica da Família Parque Bandeirantes para Clínica da Família “Larissa Araújo Silva”.

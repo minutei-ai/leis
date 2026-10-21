@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.315, de 2016-05-17
-
 LEI MUNICIPAL Nº 3.315, DE 17 DE MAIO DE 2016.
 
 Dispõe sobre a comemoração do dia especial pelo aniversário do Bairro Cidade Livre.

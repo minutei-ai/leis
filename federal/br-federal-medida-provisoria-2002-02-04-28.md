@@ -1,5 +1,3 @@
-# Medida Provisória nº 28 de 04/02/2002
-
 ###MPV-000028-0-000-04-02-2002@@@
 
 MEDIDA PROVISÓRIA No 28, DE 4 DE FEVEREIRO 2002.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.351, de 2023-04-28
-
 LEI Nº 7.351, DE 28 DE ABRIL DE 2023.
 
 Denomina Mercado Municipal Francisco de Sá Dourado, que especifica e dá outras providências, etc.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 149, de 2018-09-25
-
 LEI COMPLEMENTAR Nº 149, DE 25 DE SETEMBRO DE 2018
 
 Cria a gratificação de supervisão para o cargo de Auxiliar em Saúde - Agentes de Combate a Endemias e dispõe sobre progressão dos servidores da Secretaria Municipal de Saúde de Aparecida de Goiânia.

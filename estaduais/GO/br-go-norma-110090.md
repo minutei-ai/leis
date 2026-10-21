@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.129, de 2024-12-06
-
 LEI Nº 23.129, DE 6 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.

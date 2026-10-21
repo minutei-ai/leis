@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.762, de 2025-12-09
-
 DECRETO Nº 2.762, DE 9 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 13, 17 e 19, situados à Rua Rio de Janeiro e Rua Belo Horizonte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

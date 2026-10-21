@@ -1,5 +1,3 @@
-# Decreto Numerado nº 518, de 2024-06-27
-
 DECRETO “N” Nº 518, DE 27 DE JUNHO DE 2024.
 
 Altera o Decreto n° 616 de 21 de setembro de 2023, que trata da composição do Colegiado de Recursos Tributários do Município de Aparecida de Goiânia.

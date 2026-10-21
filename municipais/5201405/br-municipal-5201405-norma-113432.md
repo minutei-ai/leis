@@ -1,5 +1,3 @@
-# Decreto Numerado nº 167, de 2026-03-02
-
 DECRETO Nº 167, DE 2 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua 08, no Loteamento Bairro Independência, no Município de Aparecida de Goiânia.

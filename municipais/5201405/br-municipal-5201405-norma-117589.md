@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.040, de 2024-12-04
-
 DECRETO “N” Nº 1.040 DE 04 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

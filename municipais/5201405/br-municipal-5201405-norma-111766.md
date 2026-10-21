@@ -1,5 +1,3 @@
-# Lei Complementar nº 90, de 2014-07-02
-
 LEI COMPLEMENTAR Nº 90, DE 02 DE JULHO DE 2014.
 
 Altera a Lei Complementar Municipal nº 046, de 21 de dezembro de 2011, que Institui o Código Tributário do Município de Aparecida de Goiânia-Goiás, e dá outras providências.

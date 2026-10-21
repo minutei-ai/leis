@@ -1,5 +1,3 @@
-# Decreto Numerado nº 405, de 2023-06-22
-
 DECRETO “N” Nº 405 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR PAMPULHA, neste município.

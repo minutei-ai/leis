@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.907, de 2026-06-19
-
 LEI Nº 3.907, DE 19 DE JUNHO DE 2026
 
 Reconhece o evento ‘Arraiá Mont Serrat’ como Patrimônio Cultural Imaterial do Município de Aparecida de Goiânia e dá outras providências.

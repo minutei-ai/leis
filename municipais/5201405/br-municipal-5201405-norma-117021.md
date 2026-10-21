@@ -1,5 +1,3 @@
-# Lei Complementar nº 98, de 2014-12-23
-
 LEI COMPLEMENTAR Nº 98, DE 23 DE DEZEMBRO DE 2014.
 
 “Dispõe sobre Isenção da TL/DESM - Taxa de Licença para Desmembramento, da TESD - Taxa de Expediente e Serviços Diversos e dá outras providências”.

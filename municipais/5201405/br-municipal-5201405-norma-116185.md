@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.916, de 2026-07-13
-
 LEI Nº 3.916, DE 13 DE JULHO DE 2026
 
 Institui a Política Municipal de Letramento Racial no âmbito do Município de Aparecida de Goiânia e dá outras providências.

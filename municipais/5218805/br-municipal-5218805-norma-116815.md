@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.222, de 2021-11-30
-
 LEI N° 7.222, DE 30 DE NOVEMBRO DE 2021
 
 <br>

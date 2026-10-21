@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.411, de 2025-05-21
-
 DECRETO Nº 1.411, DE 21 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento da Praça João XXIII situada no Loteamento PAPILLON PARK, no Município de Aparecida de Goiânia.

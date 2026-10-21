@@ -1,5 +1,3 @@
-# Medida Provisória nº 698 de 23/10/2015
-
 MEDIDA PROVISÓRIA Nº 698, DE 23 DE OUTUBRO DE 2015
 
 Altera a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre operações de financiamento habitacional com desconto ao beneficiário concedido pelo Fundo de Garantia do Tempo de Serviço - FGTS para aquisição de imóveis no âmbito do Programa Minha Casa Minha Vida construídos com recursos do Fundo de Arrendamento Residencial - FAR.

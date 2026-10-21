@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.553, de 2020-05-06
-
 LEI MUNICIPAL Nº 3.553, DE 06 DE MAIO DE 2020.<br>
 (Revogado pela Lei Ordinária nº 3.668, de 19 de maio de 2022).
 

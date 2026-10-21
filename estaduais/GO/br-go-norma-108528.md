@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.559, de 2024-03-12
-
 LEI Nº 22.559, DE 12 DE MARÇO DE 2024
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás – CTE.

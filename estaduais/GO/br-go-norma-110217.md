@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.173, de 2024-12-26
-
 LEI Nº 23.173, DE 26 DE DEZEMBRO DE 2024<br>
 \- [Revogado pela Lei nº 23.287, de 24-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110513), art. 2º.
 

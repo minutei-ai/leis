@@ -1,5 +1,3 @@
-# Decreto nº 69.512, de 30/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210904)<br>
 
 # DECRETO N° 69.512, DE 30 DE ABRIL DE 2025

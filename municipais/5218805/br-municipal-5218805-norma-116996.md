@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.181, de 2021-11-05
-
 LEI Nº 7.181, DE 05 DE OUTUBRO DE 2021.
 
 Institui o Dia de Valorização Municipal dos Profissionais Coletores de Lixo ou Gari.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.499, de 2024-07-08
-
 DECRETO Nº 10.499, DE 8 DE JULHO DE 2024
 
 Dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

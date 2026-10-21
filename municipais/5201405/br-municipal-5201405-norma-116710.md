@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.399, de 2017-12-28
-
 LEI MUNICIPAL Nº 3.399, DE 28 DE DEZEMBRO DE 2017
 
 Cria o Programa Parada Segura no Município de Aparecida de Goiânia.

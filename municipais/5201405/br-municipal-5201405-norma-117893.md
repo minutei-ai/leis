@@ -1,5 +1,3 @@
-# Decreto Numerado nº 169, de 2023-03-14
-
 DECRETO “N” Nº 169 DE 14 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PORTO DAS PEDRAS, neste município.

@@ -1,5 +1,3 @@
-# Decreto nº 70.315, de 30/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212141)<br>
 
 # DECRETO N° 70.315, DE 30 DE DEZEMBRO DE 2025

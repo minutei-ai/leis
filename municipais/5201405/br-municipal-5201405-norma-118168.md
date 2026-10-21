@@ -1,5 +1,3 @@
-# Decreto Numerado nº 394, de 2023-06-16
-
 DECRETO “N” Nº 394 DE 16 DE JUNHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis no Loteamento JARDIM IPÊ, neste município.

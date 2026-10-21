@@ -1,5 +1,3 @@
-# LEI Nº 14.904 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.904 DE 20 DE MAIO DE 2025
 
 Denomina o Restaurante Popular da Liberdade, "Restaurante Popular Alaíde do Feijão”

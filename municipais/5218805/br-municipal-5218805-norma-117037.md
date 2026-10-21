@@ -1,5 +1,3 @@
-# Lei Complementar nº 315, de 2023-10-02
-
 LEI COMPLEMENTAR Nº 315, DE 02 DE OUTUBRO DE 2023
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 6 de maio de 2020.

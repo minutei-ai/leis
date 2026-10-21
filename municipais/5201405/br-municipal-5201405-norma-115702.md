@@ -1,5 +1,3 @@
-# Decreto Numerado nº 460, de 2024-06-14
-
 DECRETO “N” Nº 460 DE 14 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel. O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso da atribuição conferida pelo art. 71, inciso VII, da Lei Orgânica do Município, considerando o Plano Diretor do Município e a delegação de atribuição conferida pelo “Decreto “N” nº 02/2021,

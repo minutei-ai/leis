@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.469, de 2025-06-13
-
 LEI Nº 23.469, DE 13 DE JUNHO DE 2025
 
 Altera a [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020, que dispõe sobre o regime jurídico dos servidores públicos civis do Estado de Goiás, das autarquias e fundações públicas estaduais e dá outras providências.

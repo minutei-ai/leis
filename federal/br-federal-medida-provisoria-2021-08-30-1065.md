@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.065 de 30/08/2021
-
 MEDIDA PROVISÓRIA Nº 1.065, DE 30 DE AGOSTO DE 2021
 
 Dispõe sobre a exploração do serviço de transporte ferroviário, o trânsito e o transporte ferroviários e as atividades desempenhadas pelas administradoras ferroviárias e pelos operadores ferroviários independentes, institui o Programa de Autorizações Ferroviárias, e dá outras providências.

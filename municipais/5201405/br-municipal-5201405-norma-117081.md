@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.192, de 2014-07-02
-
 LEI MUNICIPAL Nº 3.192, DE 02 DE JULHO DE 2014.
 
 Reconhece de Utilidade Pública Municipal a entidade “PROJETO MINHA OPORTUNIDADE - PMO” e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.416, de 2018-06-06
-
 LEI MUNICIPAL N°3.416 DE 06 DE JUNHO DE 2018.
 
 Dispõe sobre a informatização da carteira de vacinação.

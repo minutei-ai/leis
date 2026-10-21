@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.811, de 2025-11-17
-
 DECRETO Nº 10.811, DE 17 DE NOVEMBRO DE 2025
 
 Revoga dispositivos do Regulamento da Secretaria de Estado da Casa Civil, aprovado pelo [Decreto nº 10.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108400 "Abrir Decreto Numerado nº 10389, de 2024 em nova aba"), de 12 de janeiro de 2024.

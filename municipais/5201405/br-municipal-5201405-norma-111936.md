@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.232, de 2001-12-28
-
 Prefeitura Municipal de Aparecida de Goiânia
 
 LEI MUNICIPAL N.º 2.232 DE 28 DE DEZEMBRO DE 2001.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.778, de 2025-12-12
-
 LEI Nº 7.778, DE 12 DE DEZEMBRO DE 2025.
 
 Altera o § 4º, do art.17, e os Anexos I e VIII, da Lei 7.435/2023, e dá outras providências.

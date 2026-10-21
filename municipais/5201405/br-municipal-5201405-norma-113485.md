@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.707, de 2023-04-11
-
 LEI MUNICIPAL Nº 3.707 DE 11 DE ABRIL DE 2023.
 
 Dispõe sobre nomeação da PRAÇA WILMAR LEITE DE AMORIM, no Setor Mansões Paraíso neste município, e dá outras providências.

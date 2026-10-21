@@ -1,5 +1,3 @@
-# Medida Provisória nº 679 de 23/06/2015
-
 MEDIDA PROVISÓRIA Nº 679, DE 23 DE JUNHO DE 2015
 
 Dispõe sobre autorização para a realização de obras e serviços necessários ao fornecimento de energia elétrica temporária para os Jogos Olímpicos e Paraolímpicos de 2016, de que trata a Lei nº 12.035, de 1º de outubro de 2009, e altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa Minha Vida e sobre a regularização fundiária de assentamentos localizados em áreas urbanas, a Lei nº 12.035, de 2009, que institui o Ato Olímpico, e a Lei nº 11.473, de 10 de maio de 2007, que dispõe sobre cooperação federativa no âmbito da segurança pública.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 555, de 2024-07-05
-
 DECRETO “N” Nº 555 DE 05 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

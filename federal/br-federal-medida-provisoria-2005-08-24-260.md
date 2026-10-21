@@ -1,5 +1,3 @@
-# Medida Provisória nº 260 de 24/08/2005
-
 ###MPV-000260-0-000-24-08-2005@@@
 
 MEDIDA PROVISÓRIA Nº 260, DE 24 DE JULHO DE 2005.

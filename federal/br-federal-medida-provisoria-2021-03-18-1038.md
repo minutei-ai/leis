@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.038 de 18/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.038, DE 18 DE MARÇO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania e da Advocacia-Geral da União, no valor de R$ 394.560.026,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.893, de 2026-03-24
-
 LEI Nº 3.893, DE 24 DE MARÇO DE 2026
 
 Dispõe sobre a desafetação de áreas públicas do loteamento Residencial Agenor Modesto, classificando-as como bens dominiais, e dá outras providências.

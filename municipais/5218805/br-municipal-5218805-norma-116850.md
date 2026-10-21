@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.213, de 2021-11-30
-
 LEI Nº 7.213, DE 30 DE NOVEMBRO DE 2021
 
 Reconhece como Utilidade Pública Municipal o “Instituto de Proteção Animal e Meio Ambiente de Rio Verde - AMPARO, e dá outras providencias.

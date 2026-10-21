@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.542, de 2024-09-05
-
 DECRETO Nº 10.542, DE 5 DE SETEMBRO DE 2024<br>
 \- [Revogado pelo Decreto nº 10.545, de 11-9-2024, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109456/decreto-10545).
 

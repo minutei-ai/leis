@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 21 DE 25 DE NOVEMBRO DE 2014
-
 EMENDA CONSTITUCIONAL Nº 21 DE 25 DE NOVEMBRO DE 2014
 
 Acrescenta o art. 104-A à Constituição do Estado da Bahia, instituindo pensão especial para os ex-Governadores, e dá outras providências.

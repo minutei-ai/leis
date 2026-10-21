@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.865, de 2026-02-25
-
 DECRETO Nº 10.865, DE 25 DE FEVEREIRO DE 2026
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750 "Abrir Decreto Numerado nº 10218, de 2023 em nova aba"), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), também de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e o Regulamento da Secretaria de Estado da Segurança Pública – SSP, aprovado pelo [Decreto nº 10.715](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111000 "Abrir Decreto Numerado nº 10715, de 2025 em nova aba"), de 25 de junho de 2025.

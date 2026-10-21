@@ -1,5 +1,3 @@
-# Medida Provisória nº 195 de 29/06/2004
-
 ###MPV-000195-0-000-29-06-2004@@@
 
 MEDIDA PROVISÓRIA Nº 195, DE 29 DE JUNHO 2004

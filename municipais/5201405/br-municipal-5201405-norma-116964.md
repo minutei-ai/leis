@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.160, de 2014-02-25
-
 LEI MUNICIPAL Nº 3.160, DE 25 DE FEVEREIRO DE 2014.
 
 Autoriza o Poder Executivo Municipal a contratar financiamento do PMAT – Programa de Modernização da Administração Tributária e da Gestão dos Setores Sociais Básicos, junto ao Banco Nacional de Desenvolvimento Econômico e Social – BNDES, a oferecer garantias e dá outras providências correlatas.

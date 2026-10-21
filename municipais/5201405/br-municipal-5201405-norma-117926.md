@@ -1,5 +1,3 @@
-# Decreto Numerado nº 199, de 2023-03-24
-
 DECRETO “N” Nº 199 DE 24 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VILA BRASÍLIA, neste município.

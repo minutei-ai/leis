@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.404, de 2024-02-01
-
 DECRETO Nº 10.404 DE 1º DE FEVEREIRO DE 2024
 
 Altera o Regulamento da Inspeção Sanitária e Industrial dos Produtos de Origem Animal no Estado de Goiás, aprovado pelo [Decreto estadual nº 4.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63493), de 9 de julho de 1993.

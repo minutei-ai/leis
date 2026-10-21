@@ -1,5 +1,3 @@
-# Medida Provisória nº 903 de 06/11/2019
-
 MEDIDA PROVISÓRIA Nº 903, DE 6 DE NOVEMBRO DE 2019
 
 Autoriza a prorrogação de contratos por tempo determinado do Ministério da Agricultura, Pecuária e Abastecimento.

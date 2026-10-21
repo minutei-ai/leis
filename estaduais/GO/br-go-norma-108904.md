@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.743, de 2024-06-06
-
 LEI Nº 22.743, DE 6 DE JUNHO DE 2024
 
 Institui o Dia Estadual do Movimentador de Mercadoria e dá outras providências.

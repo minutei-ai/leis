@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.830, de 2025-05-14
-
 LEI Nº 3.830, DE 14 DE MAIO DE 2025 
 
 Autoriza o Chefe do Poder Executivo Municipal a doar frações ideais de imóveis de propriedade do Município de Aparecida de Goiânia e da outras providências. 

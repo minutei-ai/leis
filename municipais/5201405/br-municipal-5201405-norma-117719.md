@@ -1,5 +1,3 @@
-# Decreto Numerado nº 686, de 2023-11-06
-
 DECRETO “N” Nº 686, DE 06 DE NOVEMBRO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Conde dos Arcos neste município como de Interesse Social.

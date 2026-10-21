@@ -1,5 +1,3 @@
-# Decreto Numerado nº 965, de 2024-11-05
-
 DECRETO “N” Nº 965 DE 05 DE NOVEMBRO DE 2024
 
 Dispõe sobre remembramento e desmembramento.

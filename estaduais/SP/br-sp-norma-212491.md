@@ -1,5 +1,3 @@
-# Decreto nº 70.545, de 15/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212491)<br>
 
 # DECRETO N° 70.545, DE 15 DE ABRIL DE 2026

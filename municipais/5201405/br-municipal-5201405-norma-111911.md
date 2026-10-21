@@ -1,5 +1,3 @@
-# Lei Complementar nº 106, de 2015-10-13
-
 LEI COMPLEMENTAR Nº 106, DE 13 DE OUTUBRO DE 2015.
 
 Altera a Lei Municipal nº 1.787, de 01 de julho de 1998 – que “Institui o Código de Edificações do Município de Aparecida de Goiânia” – acrescentando os Artigos 11-A e 11-B, que tratam acerca do procedimento simplificado de aprovação de projetos de habitação unifamiliar, habitação geminada, edificações comerciais, edificações para prestação de serviço e edificações para atendimento coletivo.

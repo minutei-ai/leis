@@ -1,5 +1,3 @@
-# Lei Complementar nº 108, de 2015-11-12
-
 LEI COMPLEMENTAR Nº 108, DE 12 DE NOVEMBRO DE 2015.
 
 Autoriza o Chefe do Poder Executivo Municipal a firmar Termo de Cooperação com o Tribunal de Justiça do Estado de Goiás, visando operacionalizar sistemas eficientes para fins de protocolização, fiscalização, controle, administração e distribuição automática das ações referentes às execuções fiscais, dispõe sobre a arrecadação, transação dos débitos tributários e dá outras providências.

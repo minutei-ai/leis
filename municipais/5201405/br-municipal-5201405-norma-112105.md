@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.430, de 2004-01-05
-
 LEI MUNICIPAL Nº 2.430, DE 05 DE JANEIRO DE 2004.
 
 Altera o Anexo IV (Tabela de Vencimentos), da Lei Municipal n.º 2.229, de 18 de dezembro de 2001, a qual dispõe sobre o Plano de Carreira e Vencimentos dos Servidores Municipais.

@@ -1,5 +1,3 @@
-# LEI Nº 14.879 DE 21 DE MARÇO DE 2025
-
 LEI Nº 14.879 DE 21 DE MARÇO DE 2025
 
 Institui os Programas de Incentivo à Habilitação, denominados CNH da Gente e CNH na Escola, na forma que indica, e dá outras providências.

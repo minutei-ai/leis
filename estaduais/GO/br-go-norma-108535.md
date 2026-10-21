@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.563, de 2024-03-14
-
 LEI Nº 22.563, DE 14 DE MARÇO DE 2024
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.601, de 2024-12-12
-
 DECRETO Nº 10.601, DE 12 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 5.118](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62040), de 17 de setembro de 1999, que dispõe sobre o Conselho Estadual de Trânsito do Estado de Goiás e aprova seu regimento interno.

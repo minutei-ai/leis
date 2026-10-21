@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.716, de 2025-06-26
-
 DECRETO Nº 10.716, DE 26 DE JUNHO DE 2025
 
 Declara a situação de emergência em saúde pública no Estado de Goiás em razão do cenário epidemiológico da Síndrome Respiratória Aguda Grave – SRAG.

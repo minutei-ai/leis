@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.387 de 24/08/2026
-
 MEDIDA PROVISÓRIA Nº 1.387, DE 24 DE AGOSTO DE 2026
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 7.000.000.000,00, para o fim que especifica.

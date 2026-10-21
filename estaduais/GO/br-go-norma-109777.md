@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.576, de 2024-10-29
-
 DECRETO Nº 10.576, DE 29 DE OUTUBRO DE 2024
 
 Altera o [Decreto nº 10.372](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108286), de 22 de dezembro de 2023, que regulamenta a [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 26 de janeiro de 2010, que dispõe sobre as consignações em folha de pagamento dos servidores e militares, ativos e inativos, e pensionistas do Poder Executivo estadual.

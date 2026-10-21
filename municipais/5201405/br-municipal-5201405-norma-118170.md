@@ -1,5 +1,3 @@
-# Decreto Numerado nº 397, de 2023-06-20
-
 DECRETO “N” Nº 397 DE 20 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR SERRA DOURADA 3ª ETAPA, neste município.

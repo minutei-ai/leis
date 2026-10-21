@@ -1,5 +1,3 @@
-# Decreto Numerado nº 218, de 2026-03-16
-
 DECRETO Nº 218, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Rio Grande do Sul, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

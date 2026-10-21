@@ -1,5 +1,3 @@
-# Decreto Numerado nº 496, de 2023-07-28
-
 DECRETO “N” Nº 496 DE 28 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis.

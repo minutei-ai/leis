@@ -1,5 +1,3 @@
-# Lei Complementar nº 92, de 2014-07-31
-
 LEI COMPLEMENTAR Nº 92, DE 31 DE JULHO DE 2014.
 
 Altera e Acrescenta Parágrafos ao art. 80, da Lei Complementar Municipal n° 010, de 20 de Junho de 2005 com suas alterações introduzidas, que trata das alíquotas de contribuição previdenciária e dá outras providências.

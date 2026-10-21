@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.410, de 2024-02-08
-
 DECRETO Nº 10.410, DE 8 DE FEVEREIRO DE 2024
 
 Dispõe sobre os procedimentos e os prazos para a operacionalização das emendas parlamentares individuais no exercício de 2024 e sobre os requisitos de tramitação, adesão, superação de impedimentos técnicos e celebração de convênios e congêneres, em atendimento ao disposto nos §§ 8º a 12 do art. 111 da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).

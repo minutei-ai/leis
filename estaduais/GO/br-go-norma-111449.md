@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.754, de 2025-10-22
-
 LEI Nº 23.754, DE 22 DE OUTUBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Dia Estadual e a Semana Estadual da Segurança e Prevenção de Acidentes no Trabalho.

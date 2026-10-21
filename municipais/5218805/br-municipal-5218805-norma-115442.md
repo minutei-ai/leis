@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.844, de 2026-04-23
-
 LEI Nº 7.844, de 23 de abril de 2026.
 
 Altera a Lei nº 7.775, de 15 de dezembro de 2025 – Plano Plurianual – PPA para o quadriênio 2026-2029, Lei nº 7.661, de 30 de junho de 2025 – Lei de Diretrizes Orçamentárias – LDO para 2026, Lei nº 7.776, de 15 de dezembro de 2025 – Lei Orçamentária Anual – LOA para 2026, e dá outras providências.

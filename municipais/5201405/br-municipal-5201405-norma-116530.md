@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.511, de 2019-10-17
-
 LEI MUNICIPAL Nº 3.511, DE 17 DE OUTUBRO DE 2019
 
 “Dispõe sobre a inclusão do grupo sanguíneo e fator RH no uniforme dos alunos da rede municipal de ensino de Aparecida de Goiânia.”

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.820, de 2026-02-19
-
 LEI Nº 7.820, DE 19 DE FEVEREIRO DE 2026.
 
 Institui o mês de Agosto como o Mês de Conscientização da Campanha “Não dê Esmola, dê um Recomeço”, no âmbito do Município de Rio Verde, e dá outras providências.

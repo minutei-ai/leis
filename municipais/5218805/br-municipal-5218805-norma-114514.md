@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.624, de 2025-04-14
-
 LEI Nº 7.624, DE 24 DE MARÇO DE 2025.
 
 Concede o título de Utilidade Pública Municipal à Sociedade Esportiva e Recreativa Perdigão – SERP e dá outras providências.

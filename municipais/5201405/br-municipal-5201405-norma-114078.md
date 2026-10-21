@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.896, de 2026-04-27
-
 LEI Nº 3.896, DE 27 DE ABRIL DE 2026
 
 Dispõe sobre a criação do “Selo Verde - Empresa Amiga do Meio Ambiente’’, no Município de Aparecida de Goiânia, e dá outras providências.

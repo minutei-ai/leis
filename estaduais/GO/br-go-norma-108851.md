@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.469, de 2024-05-20
-
 DECRETO Nº 10.469, DE 20 DE MAIO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, a área de terras que especifica.

@@ -1,5 +1,3 @@
-# Decreto nº 70.794, de 13/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212889)<br>
 
 # DECRETO N° 70.794, DE 13 DE AGOSTO DE 2026

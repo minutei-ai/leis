@@ -1,5 +1,3 @@
-# Decreto Numerado nº 265, de 2026-03-31
-
 DECRETO Nº 265, DE 31 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 29, situado à Rua Guarujá, no Loteamento Jardim Ipiranga - Continuação, no Município de Aparecida de Goiânia.

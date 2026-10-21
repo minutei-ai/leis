@@ -1,5 +1,3 @@
-# Decreto nº 70.680, de 12/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212734)<br>
 
 # DECRETO N° 70.680, DE 12 DE JUNHO DE 2026

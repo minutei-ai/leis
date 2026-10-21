@@ -1,5 +1,3 @@
-# Decreto Numerado nº 60, de 2024-02-05
-
 DECRETO “N” Nº 60 DE 05 DE FEVEREIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

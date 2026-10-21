@@ -1,5 +1,3 @@
-# Decreto Numerado nº 210, de 2024-04-08
-
 DECRETO “N” Nº 210 DE 08 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

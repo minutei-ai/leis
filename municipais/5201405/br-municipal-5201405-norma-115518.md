@@ -1,5 +1,3 @@
-# Decreto Numerado nº 368, de 2024-05-16
-
 DECRETO “N” Nº 368 DE 16 DE MAIO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

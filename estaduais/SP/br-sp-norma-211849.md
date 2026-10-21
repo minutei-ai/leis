@@ -1,5 +1,3 @@
-# Decreto nº 70.101, de 14/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211849)<br>
 
 # DECRETO N° 70.101, DE 14 DE NOVEMBRO DE 2025

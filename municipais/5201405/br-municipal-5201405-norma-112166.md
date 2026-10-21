@@ -1,5 +1,3 @@
-# Decreto Numerado nº 8, de 2026-01-06
-
 DECRETO Nº 008, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Goiânia, no Loteamento Setor Serra Dourada – 3ª Etapa, no Município de Aparecida de Goiânia.

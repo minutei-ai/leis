@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.203, de 2025-09-09
-
 DECRETO Nº 2.203, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 06, 06A e 07, da Quadra 28, situado à Rua 07, no Loteamento Polo Empresarial Goiás – Etapa IX, no Município de Aparecida de Goiânia.

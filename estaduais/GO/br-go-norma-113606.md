@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.153, de 2026-03-18
-
 LEI Nº 24.153, DE 18 DE MARÇO DE 2026
 
 Estabelece regras a serem atendidas pelos estabelecimentos comerciais nas temporadas de compras black friday ou em outras ofertas promocionais.

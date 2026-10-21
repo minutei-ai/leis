@@ -1,5 +1,3 @@
-# Medida Provisória nº 978 de 04/06/2020
-
 MEDIDA PROVISÓRIA Nº 978, DE 4 DE JUNHO DE 2020
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 60.189.488.452,00, para o fim que especifica, e dá outras providências.

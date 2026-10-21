@@ -1,5 +1,3 @@
-# Lei Complementar nº 48, de 2012-04-12
-
 LEI COMPLEMENTAR Nº 048, DE 12 DE ABRIL DE 2012.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

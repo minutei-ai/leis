@@ -1,5 +1,3 @@
-# Decreto Numerado nº 256, de 2023-04-25
-
 DECRETO “N” Nº 256, DE 25 DE ABRIL DE 2023.
 
 Dispõe sobre a nomeação dos membros do Conselho de Proteção e Defesa dos Animais – CPDA dá outras providências.

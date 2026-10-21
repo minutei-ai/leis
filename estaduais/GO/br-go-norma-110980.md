@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.499, de 2025-06-16
-
 LEI Nº 23.499, DE 16 DE JUNHO DE 2025
 
 Altera a [Lei nº 16.901](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88625), de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás e dá outras providências.

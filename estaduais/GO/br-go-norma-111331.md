@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.692, de 2025-09-29
-
 LEI Nº 23.692, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

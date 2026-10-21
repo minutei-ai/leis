@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.613, de 2024-12-18
-
 DECRETO Nº 10.613, DE 18 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 9.382](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71579), de 8 de janeiro de 2019, que delega ao Secretário de Estado da Segurança Pública competência para a prática dos atos que especifica. 

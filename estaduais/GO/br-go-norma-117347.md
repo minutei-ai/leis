@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.985, de 2026-09-10
-
 DECRETO Nº 10.985, DE 10 DE SETEMBRO DE 2026
 
 Altera o [Decreto nº 6.777](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63206), de 7 de agosto de 2008, que regulamenta a [Lei nº 14.765](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80702), de 27 de abril de 2004, para adequá-lo às Leis [nº 22.585](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108563), de 29 de março de 2024, e [nº 23.582](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111155), de 19 de agosto de 2025.

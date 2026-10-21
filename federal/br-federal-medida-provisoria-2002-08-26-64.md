@@ -1,5 +1,3 @@
-# Medida Provisória nº 64 de 26/08/2002
-
 ###MPV-000064-0-000-26-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 64, DE 26 DE AGOSTO DE 2002

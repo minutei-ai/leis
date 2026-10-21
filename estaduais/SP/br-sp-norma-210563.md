@@ -1,5 +1,3 @@
-# Lei nº 18.079, de 29/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210563)<br>
 
 # LEI N° 18.079, DE 29 DE JANEIRO DE 2025

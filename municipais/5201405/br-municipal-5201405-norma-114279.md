@@ -1,5 +1,3 @@
-# Decreto Numerado nº 341, de 2026-05-06
-
 DECRETO Nº 341, DE 6 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Moraes Cesar e Rua Tanila N. Custódio dos Santos, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

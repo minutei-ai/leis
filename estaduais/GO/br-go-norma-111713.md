@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.824, de 2025-12-04
-
 DECRETO Nº 10.824, DE 4 DE DEZEMBRO DE 2025
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

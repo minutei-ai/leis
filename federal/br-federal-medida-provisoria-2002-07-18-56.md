@@ -1,5 +1,3 @@
-# Medida Provisória nº 56 de 18/07/2002
-
 ###MPV-000056-0-000-18-07-2002@@@
 
 MEDIDA PROVISÓRIA Nº 56, DE 18 DE JULHO DE 2002

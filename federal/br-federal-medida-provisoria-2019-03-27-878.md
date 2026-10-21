@@ -1,5 +1,3 @@
-# Medida Provisória nº 878 de 27/03/2019
-
 MEDIDA PROVISÓRIA Nº 878, DE 27 DE MARÇO DE 2019
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Instituto do Patrimônio Histórico e Artístico Nacional.

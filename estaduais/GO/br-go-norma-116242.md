@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.957, de 2026-07-15
-
 DECRETO Nº 10.957 DE 15 DE JULHO DE 2026
 
 Institui grupo de trabalho destinado à elaboração, à coordenação e ao acompanhamento da agenda oficial das comemorações dos trezentos anos da Cidade de Goiás, designa seus integrantes e revoga o [Decreto nº 10.955](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116151 "Abrir Decreto Numerado nº 10955, de 2026 em nova aba"), de 10 de julho de 2026.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 751, de 2024-09-16
-
 DECRETO “N” Nº 751, DE 16 DE SETEMBRO DE 2024.
 
 Altera o D ecreto “N” nº 721, de 06 de setembro de 2024 que fixa datas do período de redução de alíquota do Imposto sobre Transmissão de Bens Imóveis Intervivos – ITBI, autorizado pela Lei Complementar nº 215, de 09 de agosto de 2023.

@@ -1,5 +1,3 @@
-# LEI Nº 14.751 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.751 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO DESPORTIVA FÊNIX LENDÁRIOS, com sede e foro no município de Feira de Santana.

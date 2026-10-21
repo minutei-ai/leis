@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.557, de 2020-06-09
-
 LEI MUNICIPAL Nº 3.557, DE 09 DE JUNHO DE 2020.
 
 Dispõe sobre a criação da Casa dos Conselhos e dá outras providências.

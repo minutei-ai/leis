@@ -1,5 +1,3 @@
-# LEI Nº 14.767 DE 21 DE AGOSTO DE 2024
-
 LEI Nº 14.767 DE 21 DE AGOSTO DE 2024
 
 Autoriza a constituição de garantia em favor do Estado de Mato Grosso mediante cessão de direitos creditícios do Fundo de Participação dos Estados e do Distrito Federal, na forma que indica.

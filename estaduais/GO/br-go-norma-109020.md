@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.786, de 2024-06-17
-
 LEI Nº 22.786, DE 17 DE JUNHO DE 2024
 
 Institui o Plano Estadual de Cultura de Goiás – PECGO para o decênio 2024-2033.

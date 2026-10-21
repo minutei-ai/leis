@@ -1,5 +1,3 @@
-# Decreto Numerado nº 49, de 2024-01-30
-
 DECRETO “N” Nº 49 DE 30 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

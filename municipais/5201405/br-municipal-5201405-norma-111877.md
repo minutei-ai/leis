@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.828, de 2009-08-24
-
 LEI MUNICIPAL Nº. 2.828, 24 DE AGOSTO DE 2009.
 
 Institui a Prorrogação da Licença à Gestante e à Adotante, e dá outras providências.

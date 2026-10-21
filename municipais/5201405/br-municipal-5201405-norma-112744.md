@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.792, de 2024-08-13
-
 LEI MUNICIPAL Nº 3.792, DE 13 DE AGOSTO DE 2024
 
 Reconhece como Utilidade Pública Municipal a “Associação Dos Feirantes de Aparecida de Goiânia – AFAG” e dá outras providências.

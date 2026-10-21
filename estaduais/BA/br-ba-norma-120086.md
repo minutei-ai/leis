@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 07 DE 18 DE JANEIRO DE 1999
-
 EMENDA CONSTITUCIONAL Nº 07 DE 18 DE JANEIRO DE 1999
 
 Modifica o regime e dispõe sobre princípios e normas da Administração Pública, servidores e agentes políticos, controle de despesas e finanças públicas, sistema de previdência social, estabelece normas de transição e dá outras providências .

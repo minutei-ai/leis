@@ -1,5 +1,3 @@
-# Medida Provisória nº 704 de 23/12/2015
-
 MEDIDA PROVISÓRIA Nº  704, DE 23 DE DEZEMBRO DE 2015
 
 Dispõe sobre fontes de recursos para cobertura de despesas primárias obrigatórias e para pagamento da Dívida Pública Federal.

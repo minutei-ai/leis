@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.345, de 2026-06-12
-
 LEI Nº 24.345, DE 12 DE JUNHO DE 2026
 
 Dá denominação ao próprio público que especifica.

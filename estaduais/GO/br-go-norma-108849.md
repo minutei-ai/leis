@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.692, de 2024-05-15
-
 LEI Nº 22.692, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual dos vencimentos, dos subsídios e dos proventos do pessoal civil e militar, ativo e inativo e dos pensionistas do Poder Executivo estadual, na forma que especifica, e altera a [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826), de 29 de dezembro de 2017.

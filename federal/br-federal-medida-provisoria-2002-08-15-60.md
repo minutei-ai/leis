@@ -1,5 +1,3 @@
-# Medida Provisória nº 60 de 15/08/2002
-
 ###MPV-000060-0-000-15-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 60, DE 15 DE AGOSTO 2002.

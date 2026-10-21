@@ -1,5 +1,3 @@
-# Medida Provisória nº 124 de 11/07/2003
-
 ###MPV-000124-0-000-11-07-2003@@@
 
 MEDIDA PROVISÓRIA Nº 124, DE 11 DE JULHO 2003.

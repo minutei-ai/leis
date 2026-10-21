@@ -1,5 +1,3 @@
-# LCP nº 166, de 30/06/2022
-
 Altera a Lei Complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do Estado de Minas Gerais, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

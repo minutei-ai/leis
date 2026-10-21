@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.447, de 2018-12-13
-
 LEI Nº 3.447, DE 13 DE DEZEMBRO DE 2018
 
 Altera as Leis nº 2.974/2011, nº 3.176/2014 e nº 3.436/2018 e dá outras providências.

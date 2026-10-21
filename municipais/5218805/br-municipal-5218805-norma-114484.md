@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.985, de 2005-06-14
-
 LEI Nº 4.985, DE 14 DE JUNHO DE 2005.
 
 Altera o art. 69 da Lei n. 3.635/98, que reformula o Código de Posturas do Município de Rio Verde e dá outras providências.

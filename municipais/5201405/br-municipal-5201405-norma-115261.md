@@ -1,5 +1,3 @@
-# Lei Complementar nº 195, de 2022-04-13
-
 LEI COMPLEMENTAR N° 195, DE 13 DE ABRIL DE 2022.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 707, de 2024-08-30
-
 DECRETO “N” Nº 707 DE 30 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

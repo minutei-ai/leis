@@ -1,5 +1,3 @@
-# Lei Ordinária nº ., de 2018-07-05
-
 LEI Nº. 6.865, DE 5 DE JULHO DE 2018.
 
 Institui o Programa Municipal de Desenvolvimento Econômico por meio de incentivo à instalação de grandes empreendimentos no território do Município de Rio Verde - GO - PRODEN – RV.

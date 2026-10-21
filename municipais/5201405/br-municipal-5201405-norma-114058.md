@@ -1,5 +1,3 @@
-# Decreto Numerado nº 702, de 2024-08-30
-
 DECRETO “N” Nº 702, DE 30 DE AGOSTO DE 2024.
 
 Autoriza a alienação de área pública, localizada no loteamento Vila Rosa, neste município, caracterizada como inservível por meio de parecer técnico da Comissão de Análise de Áreas Públicas de Aparecida de Goiânia.

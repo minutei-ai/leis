@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.752, de 2025-10-15
-
 LEI Nº 23.752, DE 15 DE OUTUBRO DE 2025
 
 Institui o Selo ASG de incentivo às empresas que invistam em ações e projetos de motivação ambiental, social e de governança.

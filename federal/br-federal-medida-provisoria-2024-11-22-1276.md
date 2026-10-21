@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.276 de 22/11/2024
-
 MEDIDA PROVISÓRIA Nº 1.276, DE 22 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 7.797, de 10 de julho de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-07-10;7797), e a [Lei nº 14.944, de 31 de julho de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-07-31;14944), para dispor sobre medidas para prevenção e combate a incêndios florestais.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.692, de 2022-12-14
-
 LEI MUNICIPAL Nº 3.692 DE 14 DE DEZEMBRO DE 2022.
 
 “Institui o Dia Municipal do Quadrilheiro Junino no Município de Aparecida de Goiânia”.

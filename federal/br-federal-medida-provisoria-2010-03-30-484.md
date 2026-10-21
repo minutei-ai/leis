@@ -1,5 +1,3 @@
-# Medida Provisória nº 484 de 30/03/2010
-
 ###MPV-000484-0-000-30-03-2010@@@
 
 MEDIDA PROVISÓRIA Nº 484, DE 30 DE MARÇO DE 2010.

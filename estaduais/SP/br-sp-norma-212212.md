@@ -1,5 +1,3 @@
-# Decreto nº 70.373, de 05/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212212)<br>
 
 # DECRETO N° 70.373, DE 05 DE FEVEREIRO DE 2026

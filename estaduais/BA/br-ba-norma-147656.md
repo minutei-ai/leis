@@ -1,5 +1,3 @@
-# LEI Nº 14.980 DE 22 DE SETEMBRO DE 2025
-
 LEI Nº 14.980 DE 22 DE SETEMBRO DE 2025
 
 Altera a Lei nº [11.631](https://www.legislabahia.ba.gov.br/documentos/lei-no-11631-de-30-de-dezembro-de-2009), de 30 de dezembro de 2009, na forma que indica.

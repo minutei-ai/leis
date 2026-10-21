@@ -1,5 +1,3 @@
-# Decreto Numerado nº 165, de 2023-03-14
-
 DECRETO “N” Nº 165 DE 14 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento EXPANSUL, neste município.

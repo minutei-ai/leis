@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.190, de 2021-11-08
-
 LEI Nº 7.190, DE 08 DE NOVEMBRO DE 2021.
 
 Dispõe sobre a Intituição e a Inclusão da Semana Municipal de Contador de História no Calendário Oficial de Eventos Educativos - Cultarais no Município de Rio Verde.

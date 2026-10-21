@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.760, de 2025-07-07
-
 DECRETO Nº 1.760, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Gerânios no Loteamento Jardim dos Girassóis, no Município de Aparecida de Goiânia.

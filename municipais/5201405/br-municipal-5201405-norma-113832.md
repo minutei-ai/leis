@@ -1,5 +1,3 @@
-# Decreto Numerado nº 291, de 2023-05-10
-
 DECRETO “N” Nº 291 DE 10 DE MAIO DE 2023.<br>
 (Revogado pelo Decreto "N" nº 456, de 12 de julho de 2023).
 

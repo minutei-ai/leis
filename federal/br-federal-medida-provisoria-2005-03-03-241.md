@@ -1,5 +1,3 @@
-# Medida Provisória nº 241 de 03/03/2005
-
 ###MPV-000241-0-000-03-03-2005@@@
 
 MEDIDA PROVISÓRIA Nº 241, DE 3 DE MARÇO DE 2005

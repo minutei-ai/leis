@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.392, de 2025-05-06
-
 LEI Nº 23.392, DE 6 DE MAIO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

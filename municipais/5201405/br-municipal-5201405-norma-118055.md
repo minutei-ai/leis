@@ -1,5 +1,3 @@
-# Decreto Numerado nº 272, de 2023-04-24
-
 DECRETO “N” Nº 272, DE 24 DE ABRIL DE 2023.<br>
 (Revogado pelo Decreto "N" Nº 463, de 17 de julho de 2023).
 

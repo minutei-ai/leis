@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.002, de 2025-03-07
-
 DECRETO Nº 1.002, DE 07 DE MARÇO DE 2025
 
 Dispõe sobre o remembramento e desmembramento de imóveis no Município de Aparecida de Goiânia.

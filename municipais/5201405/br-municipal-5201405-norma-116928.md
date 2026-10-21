@@ -1,5 +1,3 @@
-# Lei Complementar nº 110, de 2015-12-01
-
 LEI COMPLEMENTAR Nº 110 DE 01 DE DEZEMBRO DE 2015.<br>
 (Declarada Inconstitucional na ADI Nº 449505-44.2015.8.09.0000)
 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.409, de 2024-02-08
-
 DECRETO Nº 10.409, DE 8 DE FEVEREIRO DE 2024
 
 Estabelece, para o exercício de 2024, os limites anuais de empenho e pagamento referentes aos órgãos e às entidades das administrações direta e indireta, bem como das empresas estatais dependentes.

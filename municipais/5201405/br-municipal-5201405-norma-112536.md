@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.369, de 2025-05-09
-
 DECRETO Nº 1.369, DE 9 DE MAIO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Cidade Satélite São Luiz, no Município de Aparecida de Goiânia.

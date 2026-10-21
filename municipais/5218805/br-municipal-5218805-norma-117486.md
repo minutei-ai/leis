@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.142, de 2021-05-06
-
 LEI Nº 7.142, DE 06 DE MAIO DE 2021.
 
 Autoriza a outorga de concessão de direito real de uso de imóvel que menciona.

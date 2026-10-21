@@ -1,5 +1,3 @@
-# Decreto Numerado nº 273, de 2026-04-07
-
 DECRETO Nº 273, DE 7 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento dos Lotes 11 e 12, todos da Quadra 10, situados à Via SC 05, no Loteamento Residencial Aldeia do Parque, no Município de Aparecida de Goiânia.

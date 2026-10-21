@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.453, de 2025-05-28
-
 LEI Nº 23.453, DE 28 DE MAIO DE 2025
 
 Institui a Política Estadual de Valorização e Incentivo ao Uso de Linguagem Simples na Administração Pública.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.886, de 2026-03-25
-
 DECRETO Nº 10.886, DE 25 DE MARÇO DE 2026
 
 Concede as Medalhas Pedro Ludovico Teixeira e de Mérito Policial na Delegacia-Geral da Polícia Civil, da Secretaria de Estado da Segurança Pública, às autoridades que especifica.

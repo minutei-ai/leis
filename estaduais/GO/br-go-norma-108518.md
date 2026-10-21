@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.550, de 2024-03-08
-
 LEI Nº 22.550, DE 8 DE MARÇO DE 2024
 
 Autoriza a aquisição, por doação onerosa por parte do Município de Caldas Novas/GO, do imóvel que especifica.

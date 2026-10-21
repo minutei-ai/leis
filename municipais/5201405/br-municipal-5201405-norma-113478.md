@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.703, de 2023-03-28
-
 LEI MUNICIPAL Nº 3.703 DE 28 DE MARÇO DE 2023.
 
 Reconhece como Utilidade Pública Municipal a Associação de Amigos do Jardim Rosa do Sul (AAJRS), e dá outras providências.

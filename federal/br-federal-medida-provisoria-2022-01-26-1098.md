@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.098 de 26/01/2022
-
 MEDIDA PROVISÓRIA Nº 1.098, DE 26 DE JANEIRO DE 2022
 
 Dispõe sobre procedimentos de suspensão de concessões ou de outras obrigações na hipótese de descumprimento de obrigações multilaterais por membro da Organização Mundial do Comércio e altera a Lei nº 12.270, de 24 de junho de 2010.

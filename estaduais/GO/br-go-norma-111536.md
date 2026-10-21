@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.803, de 2025-11-06
-
 LEI Nº 23.803, DE 6 DE NOVEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira de Indústria, Comércio e Turismo, realizada no Município de Uruaçu/GO.

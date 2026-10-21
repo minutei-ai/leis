@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.234, de 2006-12-26
-
 LEI COMPLEMENTAR Nº 5.234, DE 26 DE DEZEMBRO DE 2006.
 
 <br>

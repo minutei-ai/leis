@@ -1,5 +1,3 @@
-# Decreto Numerado nº 158, de 2024-03-19
-
 DECRETO “N” Nº 158, DE 19 DE MARÇO DE 2024.
 
 Declara ponto facultativo no âmbito da Administração Pública Municipal.

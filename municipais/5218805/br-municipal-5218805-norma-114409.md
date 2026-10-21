@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.654, de 2025-05-26
-
 LEI Nº 7.654, DE 26 DE MAIO DE 2025.
 
 Estabelecer o dia 25 de julho no calendário de datas comemorativas no Município de Rio Verde-GO.

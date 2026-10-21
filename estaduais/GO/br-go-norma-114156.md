@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.250, de 2026-04-29
-
 LEI Nº 24.250, DE 29 DE ABRIL DE 2026
 
 Altera a [Lei nº 13.463](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81306 "Abrir Lei Ordinária nº 13463, de 1999 em nova aba"), de 31 de maio de 1999, que dispõe sobre a Política Estadual da Pessoa Idosa e dá outras providências; e nº [18.338](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90489), de 30 de dezembro de 2013, que dispõe sobre a criação de Delegacias Especializadas no Atendimento ao Idoso – DEAI –, e dá outras providências.

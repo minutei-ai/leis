@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.716, de 2025-09-22
-
 LEI Nº 7.716, DE 22 DE SETEMBRO DE 2025.
 
 Institui o dia 3 de novembro como data oficial do aniversário do Bairro Morada do Sol, no Município de Rio Verde – GO, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.102, de 2026-02-18
-
 LEI Nº 24.102, DE 18 DE FEVEREIRO DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o “Bora de Bike”, realizado no Município de Goiânia/GO.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.248 de 01/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.248, DE 1 DE AGOSTO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de R$ 1.454.799.092,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.437, de 2024-04-09
-
 DECRETO Nº 10.437, DE 9 DE ABRIL DE 2024<br>
 \- [Vide Decreto nº 10.548, de 13-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109467/decreto-10548) - Altera a Estrutura administrativa da SEAD.
 

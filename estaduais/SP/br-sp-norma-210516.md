@@ -1,5 +1,3 @@
-# Decreto nº 69.291, de 03/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210516)<br>
 
 # DECRETO N° 69.291, DE 03 DE JANEIRO DE 2025

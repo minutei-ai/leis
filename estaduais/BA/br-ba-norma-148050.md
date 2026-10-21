@@ -1,5 +1,3 @@
-# LEI Nº 15.048 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.048 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação dos Moradores de Pouso Alegre, com sede e foro no município de Maiquinique.

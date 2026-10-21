@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 24 DE 05 DE ABRIL DE 2017
-
 EMENDA CONSTITUCIONAL Nº 24 DE 05 DE ABRIL DE 2017
 
 Dá nova redação ao § 3º do art. 67 e ao inciso II do art. 71 da Constituição do Estado da Bahia.

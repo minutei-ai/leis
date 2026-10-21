@@ -1,5 +1,3 @@
-# Lei Complementar nº 293, de 2023-03-30
-
 LEI COMPLEMENTAR Nº 293, DE 30 DE MARÇO DE 2023.
 
 Altera a [Lei Complementar nº. 3.968/2000](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), que reformula o Estatuto dos Funcionários do Município de Rio Verde - GO.

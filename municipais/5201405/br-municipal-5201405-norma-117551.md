@@ -1,5 +1,3 @@
-# Decreto Numerado nº 112, de 2022-02-15
-
 DECRETO “N” Nº 112 DE 15 DE FEVEREIRO DE 2022
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no loteamento SETOR TOCANTINS, neste município.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 396, de 2025-06-30
-
 LEI COMPLEMENTAR Nº 396, DE 30 DE JUNHO DE 2025.
 
 Institui o Premia SAEB - Alfa (Sistema de Avaliação da Educação Básica e Programa AlfaMais Goiás), Prêmio por Desempenho no IDEB e Metas do AlfaMais, para os servidores públicos da Secretaria Municipal de Educação de Rio Verde – GO e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3221, de 2014-09-17
-
 LEI MUNICIPAL N° 3.221, DE 17 de setembro de 2014.
 
 Reconhece de Utilidade Pública Municipal a ASSOCIAÇÃO COMUNITÁRIA CULTURAL “LIBERDADE-ACCL”.

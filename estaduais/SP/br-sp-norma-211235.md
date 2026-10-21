@@ -1,5 +1,3 @@
-# Decreto nº 69.738, de 22/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211235)<br>
 
 # DECRETO N° 69.738, DE 22 DE JULHO DE 2025

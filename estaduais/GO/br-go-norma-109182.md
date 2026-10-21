@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.836, de 2024-07-10
-
 LEI Nº 22.836, DE 10 DE JULHO DE 2024
 
 Altera a [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.

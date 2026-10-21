@@ -1,5 +1,3 @@
-# Medida Provisória nº 918 de 03/01/2020
-
 MEDIDA PROVISÓRIA Nº 918, DE 3 DE JANEIRO DE 2020
 
 Cria funções de confiança destinadas à Polícia Federal e extingue cargos em comissão.

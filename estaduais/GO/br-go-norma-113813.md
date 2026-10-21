@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.235, de 2026-04-15
-
 LEI Nº 24.235, DE 15 DE ABRIL DE 2026
 
 Institui o Dia Estadual do Estado Laico.

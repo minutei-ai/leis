@@ -1,5 +1,3 @@
-# Decreto nº 70.054, de 05/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211776)<br>
 
 # DECRETO N° 70.054, DE 05 DE NOVEMBRO DE 2025

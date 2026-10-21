@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.939, de 2025-12-11
-
 LEI Nº 23.939, DE 11 DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

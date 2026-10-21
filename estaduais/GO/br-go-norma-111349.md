@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.709, de 2025-09-30
-
 LEI Nº 23.709, DE 30 DE SETEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

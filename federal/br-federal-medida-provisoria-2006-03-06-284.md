@@ -1,5 +1,3 @@
-# Medida Provisória nº 284 de 06/03/2006
-
 ###MPV-000284-0-000-06-03-2006@@@
 
 MEDIDA PROVISÓRIA Nº 284, DE 6 DE MARÇO DE 2006.

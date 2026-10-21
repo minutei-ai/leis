@@ -1,5 +1,3 @@
-# Medida Provisória nº 906 de 19/11/2019
-
 MEDIDA PROVISÓRIA Nº 906, DE 19 DE NOVEMBRO DE 2019
 
 Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana.

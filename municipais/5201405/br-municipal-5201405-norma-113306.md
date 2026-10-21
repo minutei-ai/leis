@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.322, de 2025-09-29
-
 DECRETO Nº 2.322, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 39, situado à Rua Vasco Reis, no Loteamento Cidade Satélite São Luiz, no Município de Aparecida de Goiânia.

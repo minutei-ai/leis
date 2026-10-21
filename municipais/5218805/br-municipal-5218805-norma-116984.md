@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.182, de 2021-11-06
-
 LEI Nº 7.182, DE 06 DE OUTUBRO DE 2021.
 
 Denomina nome de praça.

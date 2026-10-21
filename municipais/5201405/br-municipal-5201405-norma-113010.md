@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.048, de 2025-08-25
-
 DECRETO Nº 2.048, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, da Quadra 96, situado à Rua 56, no Loteamento Bairro Cardoso Continuação, no Município de Aparecida de Goiânia.

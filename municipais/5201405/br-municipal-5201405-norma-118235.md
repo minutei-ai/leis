@@ -1,5 +1,3 @@
-# Decreto Numerado nº 452, de 2023-07-06
-
 DECRETO “N” Nº 452 DE 06 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no loteamento JARDIM BOA ESPERANÇA, neste município.

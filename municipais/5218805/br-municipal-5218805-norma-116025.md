@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.461, de 2014-12-02
-
 **LEI N. 6.461, DE 2 DE DEZEMBRO DE 2014**
 
 Altera [Lei 5.558/2009](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003), que criou o Programa Bolsa Cultural.

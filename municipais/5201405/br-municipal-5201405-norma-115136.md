@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.386, de 2017-11-22
-
 LEI MUNICIPAL Nº 3.386, DE 22 DE NOVEMBRO 2017.
 
 “Dispõe sobre a criação do Prêmio Melhores do Esporte no Ano, e dá outras providências”.

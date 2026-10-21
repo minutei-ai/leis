@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.604, de 2025-06-18
-
 DECRETO Nº 1.604, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 60 e 61, todos da Quadra 14, situados à Rua Calêndula, no Loteamento Residencial Jardins Versalhes, no Município de Aparecida de Goiânia.

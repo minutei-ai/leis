@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.383, de 2017-10-25
-
 LEI MUNICIPAL Nº 3.383, DE 25 DE OUTUBRO DE 2017.
 
 Reconhece como Utilidade Pública Municipal a ASSOCIAÇÃO DE DOADORES DE SANGUE DO ESTADO DE GOIÁS – ADESG.

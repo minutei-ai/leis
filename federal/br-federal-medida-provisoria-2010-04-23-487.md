@@ -1,5 +1,3 @@
-# Medida Provisória nº 487 de 23/04/2010
-
 ###MPV-000487-0-000-23-04-2010@@@
 
 MEDIDA PROVISÓRIA Nº 487, DE 23 DE ABRIL DE 2010.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.064 de 17/08/2021
-
 MEDIDA PROVISÓRIA Nº 1.064, DE 17 DE AGOSTO DE 2021
 
 Institui o Programa de Venda em Balcão, com o objetivo de promover o acesso do pequeno criador de animais ao estoque público de milho.

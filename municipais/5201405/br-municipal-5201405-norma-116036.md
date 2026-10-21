@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.609, de 2021-05-06
-
 LEI MUNICIPAL Nº 3.609, DE 06 DE MAIO DE 2021.
 
 Dispõe sobre penalidades a serem aplicadas pelo não cumprimento da ordem de vacinação dos grupos prioritários, de acordo com a fase cronológica definida no plano nacional e/ou municipal de imunização contra a Covid-19.

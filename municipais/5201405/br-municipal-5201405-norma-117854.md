@@ -1,5 +1,3 @@
-# Decreto Numerado nº 125, de 2023-02-23
-
 DECRETO “N” Nº 125, DE 23 DE FEVEREIRO DE 2023.
 
 Dispõe sobre nomeação dos integrantes do serviço de apoio administrativo do Fundo Especial Municipal para o Corpo de Bombeiros Militar do Estado de Goiás – FEMBOM/ PREFEITURA MUNICIPAL DE APARECIDA DE GOIÂNIA.

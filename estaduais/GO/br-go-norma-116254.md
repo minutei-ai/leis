@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.467, de 2026-07-16
-
 LEI Nº 24.467, DE 16 DE JULHO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

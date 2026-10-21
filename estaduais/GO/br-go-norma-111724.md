@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.925, de 2025-12-08
-
 LEI Nº 23.925, DE 8 DE DEZEMBRO DE 2025
 
 Abre crédito especial à Secretaria de Estado da Administração, ao Fundo Estadual de Proteção e Defesa do Consumidor – FEDC e aos Encargos Especiais. 

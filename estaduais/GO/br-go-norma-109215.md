@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.865, de 2024-07-16
-
 LEI Nº 22.865, DE 16 DE JULHO DE 2024
 
 Altera a [Lei nº 21.292](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105292), de 6 de abril de 2022, que institui a Política Estadual de Atenção, Cuidados e Proteção da Saúde Mental.

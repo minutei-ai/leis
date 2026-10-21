@@ -1,5 +1,3 @@
-# LEI Nº 15.166 DE 29 DE MAIO DE 2026
-
 LEI Nº 15.166 DE 29 DE MAIO DE 2026
 
 Dispõe sobre a instituição da Gratificação de Atividade em Campo - GAC para os servidores das carreiras de Especialista em Meio Ambiente e Recursos Hídricos e Técnico em Meio Ambiente e Recursos Hídricos, do Grupo Ocupacional Fiscalização e Regulação.

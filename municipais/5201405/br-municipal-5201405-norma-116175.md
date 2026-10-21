@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.536, de 2020-01-07
-
 LEI MUNICPAL Nº 3.536, DE 07 DE JANEIRO DE 2020.
 
 Desafeta bem público situado no loteamento Residencial Santa Vitória, neste Município, e autoriza permuta com imóvel da Igreja Assembleia de Deus – Esperança, situado no Jardim Luz e dá outras providências.

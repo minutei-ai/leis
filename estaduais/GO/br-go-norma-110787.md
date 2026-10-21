@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.701, de 2025-06-02
-
 DECRETO Nº 10.701, DE 2 DE JUNHO DE 2025
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.421, de 2026-07-03
-
 LEI Nº 24.421, DE 3 DE JULHO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

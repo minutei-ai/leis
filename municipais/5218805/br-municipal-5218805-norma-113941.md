@@ -1,5 +1,3 @@
-# Lei Complementar nº 443, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 443, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município.

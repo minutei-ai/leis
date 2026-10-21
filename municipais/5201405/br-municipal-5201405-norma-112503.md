@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.329, de 2025-05-08
-
 DECRETO Nº 1.329, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 32, situado à Rua 120 no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

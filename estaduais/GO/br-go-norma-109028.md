@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.790, de 2024-06-17
-
 LEI Nº 22.790, DE 17 DE JUNHO DE 2024
 
 Dá denominação ao próprio público que especifica.

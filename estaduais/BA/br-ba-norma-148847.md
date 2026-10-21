@@ -1,5 +1,3 @@
-# LEI Nº 15.174 DE 19 DE JUNHO DE 2026
-
 LEI Nº 15.174 DE 19 DE JUNHO DE 2026
 
 Altera a Lei nº [11.352](https://www.legislabahia.ba.gov.br/documentos/lei-no-11352-de-23-de-dezembro-de-2008), de 23 de dezembro de 2008, na forma que indica, e dá outras providências.

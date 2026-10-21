@@ -1,5 +1,3 @@
-# Decreto Numerado nº 417, de 2026-05-25
-
 DECRETO Nº 417, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Alameda Jovita Frias e Rua Júlio Cesar, no Loteamento Villa Deifiore, no Município de Aparecida de Goiânia.

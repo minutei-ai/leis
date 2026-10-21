@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.186 de 11/09/2023
-
 MEDIDA PROVISÓRIA Nº 1.186, DE 11 DE SETEMBRO DE 2023
 
 Dispõe sobre as medidas para o enfrentamento de emergência fitossanitária ou zoossanitária de que trata a [Lei nº 12.873, de 24 de outubro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-10-24;12873), e altera a [Lei nº 8.745, de 9 de dezembro de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-12-09;8745).

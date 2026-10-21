@@ -1,5 +1,3 @@
-# Decreto Numerado nº 23, de 2024-01-18
-
 DECRETO “N” Nº 23 DE 18 DE JANEIRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

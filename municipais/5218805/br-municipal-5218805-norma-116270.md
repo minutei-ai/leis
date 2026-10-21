@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.182, de 2001-10-24
-
 LEI Nº 4.182, DE 24 DE OUTUBRO DE 2001.
 
 Cria o cargo de Agente Municipal de Trânsito e dá outras providências.

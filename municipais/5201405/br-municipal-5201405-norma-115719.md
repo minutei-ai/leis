@@ -1,5 +1,3 @@
-# Decreto Numerado nº 475, de 2024-06-19
-
 DECRETO “N” Nº 475 DE 19 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

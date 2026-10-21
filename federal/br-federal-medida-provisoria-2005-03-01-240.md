@@ -1,5 +1,3 @@
-# Medida Provisória nº 240 de 01/03/2005
-
 ###MPV-000240-0-000-01-03-2005@@@
 
 MEDIDA PROVISÓRIA Nº 240, DE 1º DE MARÇO DE 2005

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.681, de 2025-09-17
-
 LEI Nº 23.681, DE 17 DE SETEMBRO DE 2025
 
 Institui o Dia Estadual do Sistema S e dá outras providências.

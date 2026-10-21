@@ -1,5 +1,3 @@
-# LEI Nº 15.012 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.012 DE 28 DE OUTUBRO DE 2025
 
 Estabelece percentual de revisão geral incidente sobre os vencimentos e gratificações dos cargos efetivos, cargos em comissão e funções gratificadas, proventos e pensões do Tribunal de Contas do Estado da Bahia.

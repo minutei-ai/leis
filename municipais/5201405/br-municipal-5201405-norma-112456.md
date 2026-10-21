@@ -1,5 +1,3 @@
-# Decreto Numerado nº 85, de 2026-01-26
-
 DECRETO Nº 085, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Henrique Ernesto Veiga Jardim, no Loteamento Industrial Santo Antônio, no Município de Aparecida de Goiânia.

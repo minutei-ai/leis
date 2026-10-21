@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.783, de 2025-09-18
-
 DECRETO Nº 10.783, DE 18 DE SETEMBRO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

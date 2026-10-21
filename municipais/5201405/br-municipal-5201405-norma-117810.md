@@ -1,5 +1,3 @@
-# Decreto Numerado nº 102, de 2023-02-09
-
 DECRETO “N” Nº 102 DE 09 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR COMENDADOR WALMOR, neste município.

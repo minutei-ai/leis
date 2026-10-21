@@ -1,5 +1,3 @@
-# Decreto nº 70.648, de 28/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212673)<br>
 
 # DECRETO N° 70.648, DE 28 DE MAIO DE 2026

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.257, de 2015-02-05
-
 LEI MUNICIPAL Nº 3.257, DE 05 DE FEVEREIRO DE 2015.
 
 “Altera a Lei nº 3.250 de 23 de Dezembro de 2014 que aprova o Loteamento VILA IZAURA, neste Município e dá Outras Providências”

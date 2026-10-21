@@ -1,5 +1,3 @@
-# Emenda à Lei Orgânica nº 4, de 2014-03-20
-
 ESTADO DE GOIÁS<br>
 CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA
 

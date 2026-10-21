@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.388, de 2024-01-09
-
 DECRETO Nº 10.388, DE 9 DE JANEIRO DE 2024
 
 Aprova o Regulamento do Departamento Estadual de Trânsito – DETRAN.

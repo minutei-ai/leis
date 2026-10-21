@@ -1,5 +1,3 @@
-# Lei Complementar nº 450, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 450, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei nº 3.635, de 4 de março de 1998 - Código de Posturas do Município de Rio Verde e a Lei nº 5.090, de 28 de dezembro de 2005 - Código Ambiental Municipal, para permitir a concessão onerosa de Relógios Eletrônicos Digitais - REDs.

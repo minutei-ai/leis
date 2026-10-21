@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.089 de 29/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.089, DE 29 DE DEZEMBRO DE 2021
 
 Altera a Lei nº 6.009, de 26 de dezembro de 1973, a Lei nº 7.565, de 19 de dezembro de 1986, e a Lei nº 11.182, de 27 de setembro de 2005, para dispor sobre o transporte aéreo.

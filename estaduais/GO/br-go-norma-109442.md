@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.972, de 2024-09-03
-
 LEI Nº 22.972, DE 3 DE SETEMBRO DE 2024
 
 Altera a [Lei nº 16.296](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87013), de 02 de julho de 2008, que institui o Dia Estadual de Combate ao Abuso Sexual e à Exploração de Crianças e Adolescentes.

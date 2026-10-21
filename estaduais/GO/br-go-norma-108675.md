@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.614, de 2024-04-11
-
 LEI Nº 22.614, DE 11 DE ABRIL DE 2024
 
 Altera dispositivos da [Lei nº 21.880](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107066), de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde.

@@ -1,5 +1,3 @@
-# LEI Nº 15.040 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.040 DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o Fundo Especial de Aperfeiçoamento dos Serviços Policiais - FEASPOL e altera a Lei nº [14.037](https://www.legislabahia.ba.gov.br/documentos/lei-no-14037-de-20-de-dezembro-de-2018), de 20 de dezembro de 2018, na forma que indica, e dá outras providências.

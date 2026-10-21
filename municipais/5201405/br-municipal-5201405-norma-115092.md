@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.717, de 2023-05-24
-
 LEI MUNICIPAL Nº 3.717, DE 24 DE MAIO DE 2023
 
 Dispõe sobre Utilidade Pública do APMF – Unidade Mansões Paraíso, neste Município e dá outras providências.

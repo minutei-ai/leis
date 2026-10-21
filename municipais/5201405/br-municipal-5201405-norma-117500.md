@@ -1,5 +1,3 @@
-# Decreto Numerado nº 962, de 2024-11-05
-
 DECRETO “N” Nº 962 DE 05 DE NOVEMBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

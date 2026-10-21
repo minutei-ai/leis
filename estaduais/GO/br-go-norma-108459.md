@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.407, de 2024-02-05
-
 DECRETO Nº 10.407, DE 5 DE FEVEREIRO DE 2024
 
 Declara situação de emergência nos municípios do Estado de Goiás especificados, em razão dos desastres classificados e codificados como Estiagem – período prolongado de baixa ou nenhuma pluviosidade, em que a perda de umidade do solo é superior à sua reposição – COBRADE 1.4.1.1.0.<br>

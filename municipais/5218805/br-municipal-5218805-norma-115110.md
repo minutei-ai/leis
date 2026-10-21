@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.513, de 2024-05-27
-
 LEI Nº 7.513, DE 27 DE MAIO DE 2024.
 
 Autoriza o Poder Executivo a desafetação de imóveis públicos localizados no Residencial Lázaro Pimenta.

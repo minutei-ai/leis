@@ -1,5 +1,3 @@
-# Decreto Numerado nº 213, de 2024-04-08
-
 DECRETO “N” Nº 213 DE 08 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

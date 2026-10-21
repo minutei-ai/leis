@@ -1,5 +1,3 @@
-# Medida Provisória nº 823 de 09/03/2018
-
 MEDIDA PROVISÓRIA Nº 823, DE 9 DE MARÇO DE 2018
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 190.000.000,00, para os fins que especifica.

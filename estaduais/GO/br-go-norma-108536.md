@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.564, de 2024-03-14
-
 LEI Nº 22.564, DE 14 DE MARÇO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

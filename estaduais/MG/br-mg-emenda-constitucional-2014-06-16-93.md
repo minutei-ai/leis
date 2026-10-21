@@ -1,5 +1,3 @@
-# EMC nº 93, de 16/06/2014
-
 Dá nova redação ao § 1º do art. 128 da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.229, de 2021-12-27
-
 LEI Nº 7.229, DE 27 DE DEZEMBRO DE 2021
 
 Institui o mês de Outubro para a “Campanha Municipal do Outubro Rosa”, dedicada a ação de prevenção ao câncer de mama e à promoção da saúde da mulher, no âmbito do Município de Rio Verde-GO.

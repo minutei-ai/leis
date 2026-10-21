@@ -1,5 +1,3 @@
-# Decreto Numerado nº 485, de 2026-06-17
-
 DECRETO Nº 485, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua X-35, no Loteamento Sítios Santa Luzia Residencial, no Município de Aparecida de Goiânia.

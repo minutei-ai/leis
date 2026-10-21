@@ -1,5 +1,3 @@
-# Lei Complementar nº 243, de 2025-09-24
-
 LEI COMPLEMENTAR Nº 243, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre os percentuais de contribuições repassados ao Regime Próprio de Previdência Social do Município de Aparecida de Goiânia, nos termos do § 1º do art. 80 da Lei Complementar nº 10, de 20 de junho de 2005 e dá outras providências.

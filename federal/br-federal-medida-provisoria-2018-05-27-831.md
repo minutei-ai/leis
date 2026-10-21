@@ -1,5 +1,3 @@
-# Medida Provisória nº 831 de 27/05/2018
-
 MEDIDA PROVISÓRIA Nº 831, DE 27 DE MAIO DE 2018
 
 Altera a [Lei nº 8.029, de 12 de abril de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-04-12;8029), que dispõe sobre a extinção e dissolução de entidades da administração pública federal.

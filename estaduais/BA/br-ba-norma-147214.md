@@ -1,5 +1,3 @@
-# LEI Nº 14.931 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.931 DE 17 DE JUNHO DE 2025
 
 Denomina "Rodovia Paulo Anunciação” o trecho da Rodovia BA-510 que liga Santo Amaro da Purificação à Comunidade de Pedras.

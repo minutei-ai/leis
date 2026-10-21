@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.717, de 1998-10-19
-
 LEI Nº 3.633, DE 19 DE OUTUBRO DE 1998.
 
 Altera Lei n. 3.633/98.

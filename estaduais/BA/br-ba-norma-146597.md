@@ -1,5 +1,3 @@
-# LEI Nº 14.896 DE 13 DE MAIO DE 2025
-
 LEI Nº 14.896 DE 13 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação dos Prestadores de Serviços de Eventos e Similares do Estado da Bahia (ASSINDCORDA), com sede e foro no município de Salvador.

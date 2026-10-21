@@ -1,5 +1,3 @@
-# Lei nº 18.365, de 15/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212011)<br>
 
 # LEI N° 18.365, DE 15 DE DEZEMBRO DE 2025

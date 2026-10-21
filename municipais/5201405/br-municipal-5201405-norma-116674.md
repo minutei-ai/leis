@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.359, de 2017-05-23
-
 LEI MUNICIPAL Nº 3.359, DE 23 DE MAIO DE 2017
 
 Dispõe sobre denominação do nome de Praça MARIA ALVES DA SILVA, no Setor Jardim Tiradentes.

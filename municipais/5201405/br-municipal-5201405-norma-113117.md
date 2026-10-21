@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.710, de 2025-12-02
-
 DECRETO Nº 2.710, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua H-41, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3216, de 2014-09-09
-
 lei municipal nº 3.216, de 09 de setembro de 2014.
 
 Dá nome a Unidade Básica de Saúde – UBS, situado no setor Jardim Riviera, neste município.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 537, de 2026-09-15
-
 DECRETO Nº 537, DE 15 DE SETEMBRO DE 2026<br>
 (Revogado pelo Decreto "N" Nº 538, de 17 de setembro de 2026).
 

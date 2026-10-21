@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.463, de 2024-05-07
-
 DECRETO Nº 10.463, DE 7 DE MAIO DE 2024
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na sexta-feira, 31 de maio de 2024, um dia após a data dedicada à celebração de _Corpus Christi_.

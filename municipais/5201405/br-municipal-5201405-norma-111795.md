@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.868, de 2025-11-24
-
 LEI Nº 3.868, DE 24 DE NOVEMBRO DE 2025
 
 Dispõe sobre o Plano Plurianual para o quadriênio 2026-2029, e dá outras providências.

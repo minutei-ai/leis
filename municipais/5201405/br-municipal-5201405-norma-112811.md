@@ -1,5 +1,3 @@
-# Decreto Numerado nº 135, de 2026-02-10
-
 DECRETO Nº 135, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua 41, no Loteamento Bairro Cardoso – Continuação, no Município de Aparecida de Goiânia.

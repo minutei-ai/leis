@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.392, de 2023-08-28
-
 LEI N° 7.392, DE 28 DE AGOSTO DE 2023.
 
 Denomina Escola Municipal de Ensino Fundamental Jêronymo Ribeiro de Macedo  e dá outras providências. 

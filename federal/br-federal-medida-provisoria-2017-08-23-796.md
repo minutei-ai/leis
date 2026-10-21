@@ -1,5 +1,3 @@
-# Medida Provisória nº 796 de 23/08/2017
-
 MEDIDA PROVISÓRIA Nº 796, DE 23 DE AGOSTO DE 2017
 
 Prorroga o prazo para a utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica, instituído pela [Lei nº 12.599, de 23 de março de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-03-23;12599).

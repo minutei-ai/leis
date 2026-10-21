@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.150 de 23/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.150, DE 23 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa.

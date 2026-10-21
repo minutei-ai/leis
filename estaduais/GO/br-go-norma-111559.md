@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.820, de 2025-11-10
-
 LEI Nº 23.820, DE 10 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

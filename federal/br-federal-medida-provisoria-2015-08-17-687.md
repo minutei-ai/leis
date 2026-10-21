@@ -1,5 +1,3 @@
-# Medida Provisória nº 687 de 17/08/2015
-
 MEDIDA PROVISÓRIA Nº  687, DE 17 DE AGOSTO DE 2015
 
 Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para dispor sobre a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional - Condecine, e a Lei nº 12.529, de 30 de novembro de 2011, para dispor sobre as taxas processuais sobre os processos de competência do Conselho Administrativo de Defesa Econômica - Cade, e autoriza o Poder Executivo federal a atualizar monetariamente o valor das taxas e dos preços estabelecidos pela Lei nº 6.938, de 31 de agosto de 1981.

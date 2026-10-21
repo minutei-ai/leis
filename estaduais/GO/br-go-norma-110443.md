@@ -1,5 +1,3 @@
-# Lei Complementar nº 203, de 2025-02-28
-
 LEI COMPLEMENTAR Nº 203, DE 28 DE FEVEREIRO DE 2025
 
 Altera a [Lei Complementar nº 197](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109502), de 20 de setembro de 2024.

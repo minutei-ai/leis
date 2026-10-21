@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.443, de 2024-04-18
-
 DECRETO Nº 10.443, DE 18 DE ABRIL DE 2024
 
 Altera o [Decreto nº 9.579](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72494), de 12 de dezembro de 2019, que considera a obra de infraestrutura que especifica como prioritária, para efeito de concessão do crédito outorgado estabelecido no art. 12, inciso XVI, alínea "f", do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

@@ -1,5 +1,3 @@
-# Lei nº 18.150, de 03/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210837)<br>
 
 # LEI N° 18.150, DE 03 DE ABRIL DE 2025

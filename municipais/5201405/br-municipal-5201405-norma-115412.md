@@ -1,5 +1,3 @@
-# Decreto Numerado nº 469, de 2026-06-15
-
 DECRETO Nº 469, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Diadema, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

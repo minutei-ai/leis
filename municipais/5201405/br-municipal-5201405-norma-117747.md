@@ -1,5 +1,3 @@
-# Decreto Numerado nº 25, de 2023-01-18
-
 DECRETO “N” Nº 25 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento NOVA OLINDA, neste município.

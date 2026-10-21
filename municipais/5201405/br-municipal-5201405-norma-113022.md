@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.060, de 2025-08-25
-
 DECRETO Nº 2.060, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, da Quadra 03, situado à Avenida Oswaldo Cruz, no Loteamento Parque Montreal, no Município de Aparecida de Goiânia.

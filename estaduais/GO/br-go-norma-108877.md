@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.471, de 2024-05-20
-
 DECRETO Nº 10.471, DE 20 DE MAIO DE 2024
 
 Altera os Anexos V-B e VIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás - RCTE, e o [Decreto nº 10.177](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106382/decreto-10177), de 6 de dezembro de 2022.

@@ -1,5 +1,3 @@
-# LEI Nº 15.103 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.103 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto de Desenvolvimento Humano e Agricultura Familiar da Bahia – IDHAF, com sede e foro no município de Anagé.

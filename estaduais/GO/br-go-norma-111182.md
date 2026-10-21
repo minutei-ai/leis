@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.601, de 2025-08-29
-
 LEI Nº 23.601, DE 29 DE AGOSTO DE 2025
 
 Inclui o evento que especifica no Calendário Cívico, Cultural e Turístico do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.702, de 2025-06-03
-
 DECRETO Nº 10.702, DE 3 DE JUNHO DE 2025
 
 Cria, na Polícia Militar do Estado de Goiás, os batalhões que especifica.

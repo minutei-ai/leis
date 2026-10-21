@@ -1,5 +1,3 @@
-# Decreto Numerado nº 886, de 2024-10-23
-
 DECRETO “N” Nº 886 DE 23 DE OUTUBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

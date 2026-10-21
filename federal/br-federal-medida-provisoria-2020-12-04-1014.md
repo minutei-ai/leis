@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.014 de 04/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.014, DE 4 DE DEZEMBRO DE 2020
 
 Dispõe sobre a organização básica da Polícia Civil do Distrito Federal.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 432, de 2026-05-28
-
 DECRETO Nº 432, DE 28 DE MAIO DE 2026<br>
 (Revogado pelo Decreto nº 442, de 1º de junho de 2026).
 

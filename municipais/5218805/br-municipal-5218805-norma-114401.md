@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.662, de 2025-06-30
-
 LEI Nº 7.662, DE 30 DE JUNHO DE 2025.
 
 Institui o Programa Expedição do Saber, destinado à realização de viagens pedagógicas e culturais para os alunos regularmente matriculados na rede pública municipal de ensino de Rio Verde – Goiás e dá outras providências.

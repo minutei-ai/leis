@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.419, de 2018-06-12
-
 LEI Nº 3.419, DE 12 DE JUNHO DE 2018
 
 Dá nome ao Centro Municipal de Educação Infantil - CMEI - MARIA DE LOURDES PEREIRA, neste município.

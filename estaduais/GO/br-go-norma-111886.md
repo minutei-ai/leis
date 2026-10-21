@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.959, de 2025-12-20
-
 LEI Nº 23.959, DE 20 DE DEZEMBRO DE 2025
 
 Dá denominação ao próprio público que especifica. 

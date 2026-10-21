@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.761, de 2025-11-17
-
 LEI Nº 7.761, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei nº 5.907, de 22 de março de 2011, que define obrigação de pequeno valor para efeito dos §§ 3º e 4º do art. 100 da Constituição Federal.

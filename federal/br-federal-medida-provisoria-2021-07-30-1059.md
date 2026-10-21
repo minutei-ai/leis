@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.059 de 30/07/2021
-
 MEDIDA PROVISÓRIA Nº 1.059, DE 30 DE JULHO DE 2021
 
 Altera a Lei nº 14.124, de 10 de março de 2021, que dispõe sobre as medidas excepcionais relativas à aquisição de vacinas e de insumos e à contratação de bens e serviços de logística, de tecnologia da informação e comunicação, de comunicação social e publicitária e de treinamentos destinados à vacinação contra a covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19.

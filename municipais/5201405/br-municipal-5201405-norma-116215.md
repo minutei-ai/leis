@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.563, de 2020-06-23
-
 LEI MUNICIPAL Nº 3.563, DE 23 DE JUNHO DE 2020.
 
 Dispõe sobre “A Semana de Sensibilização à Perda Gestacional, Neonatal e Infantil,” e dá outras providências.

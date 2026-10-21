@@ -1,5 +1,3 @@
-# Decreto Numerado nº 181, de 2023-03-21
-
 DECRETO “N” Nº 181 DE 21 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO ILDA, neste município.

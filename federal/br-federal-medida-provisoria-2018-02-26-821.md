@@ -1,5 +1,3 @@
-# Medida Provisória nº 821 de 26/02/2018
-
 MEDIDA PROVISÓRIA Nº 821, DE 26 DE FEVEREIRO DE 2018
 
 Altera a [Lei nº 13.502, de 1º de novembro de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-11-01;13502), que dispõe sobre organização básica da Presidência da República e dos Ministérios, para criar o Ministério Extraordinário da Segurança Pública.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.714, de 2023-05-19
-
 LEI MUNICIPAL Nº 3.714, DE 19 DE MAIO DE 2023
 
 Dispõe sobre a criação do Ecoponto de resíduos recicláveis nas áreas de limpeza urbana, neste município e dá outras providências.

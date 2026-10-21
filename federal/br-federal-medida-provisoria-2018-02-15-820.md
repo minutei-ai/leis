@@ -1,5 +1,3 @@
-# Medida Provisória nº 820 de 15/02/2018
-
 MEDIDA PROVISÓRIA Nº 820, DE 15 DE FEVEREIRO DE 2018
 
 Dispõe sobre medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária.

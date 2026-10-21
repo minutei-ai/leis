@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.253, de 2025-02-28
-
 LEI Nº 23.253, DE 28 DE FEVEREIRO DE 2025
 
 Altera a [Lei nº 21.811](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106836), de 14 de março de 2023.

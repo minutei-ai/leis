@@ -1,5 +1,3 @@
-# LCP nº 188, de 02/07/2026
-
 Dispõe sobre o Quadro de Pessoal da Advocacia-Geral do Estado de Minas Gerais e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

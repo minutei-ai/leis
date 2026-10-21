@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.623, de 2025-04-14
-
 LEI Nº 7.623, DE 24 DE MARÇO DE 2025.
 
 Reconhece entidade como Utilidade Pública Municipal e dá outras providências.

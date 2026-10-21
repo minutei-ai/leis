@@ -1,5 +1,3 @@
-# Decreto Numerado nº 483, de 2023-07-24
-
 DECRETO “N” Nº 483 DE 24 DE JULHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóvel no Loteamento CHÁCARAS SÃO PEDRO, neste município.

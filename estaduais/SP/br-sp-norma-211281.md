@@ -1,5 +1,3 @@
-# Decreto nº 69.771, de 07/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211281)<br>
 
 # DECRETO N° 69.771, DE 07 DE AGOSTO DE 2025

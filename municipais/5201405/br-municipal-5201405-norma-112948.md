@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.030, de 2025-08-25
-
 DECRETO Nº 2.030, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Aeroporto Sul, no Município de Aparecida de Goiânia.

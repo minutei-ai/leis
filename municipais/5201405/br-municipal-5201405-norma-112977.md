@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.851, de 2025-12-18
-
 DECRETO Nº 2.851, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Le Mans, no Loteamento Residencial Village Garavelo, no Município de Aparecida de Goiânia.

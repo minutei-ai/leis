@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.752, de 2023-11-08
-
 LEI MUNICIPAL Nº 3.752 DE 08 DE NOVEMBRO DE 2023.
 
 Dispõe sobre a verba indenizatória pelo exercício da atividade parlamentar dos vereadores no âmbito do Poder Legislativo Municipal e dá outras providências.

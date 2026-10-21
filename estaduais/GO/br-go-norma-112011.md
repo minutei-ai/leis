@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.016, de 2025-12-30
-
 LEI Nº 24.016, DE 30 DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

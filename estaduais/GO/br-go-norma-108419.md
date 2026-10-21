@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.405, de 2024-02-02
-
 DECRETO Nº 10.405, DE 2 DE FEVEREIRO DE 2024
 
 Declara a situação de emergência em saúde pública no Estado de Goiás em razão do cenário epidemiológico de Doenças Infecciosas Virais – 1.5.1.1.0 – Arboviroses e dá outras providências.

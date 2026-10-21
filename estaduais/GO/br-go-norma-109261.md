@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.892, de 2024-08-05
-
 LEI Nº 22.892, DE 5 DE AGOSTO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

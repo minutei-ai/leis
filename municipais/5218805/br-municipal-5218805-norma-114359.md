@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.669, de 2025-06-30
-
 LEI Nº 7.669, DE 30 DE JUNHO DE 2025.
 
 Dispõe sobre o Dia do Nutricionista, a ser comemorado anualmente em 31 de agosto, e dá outras providências.

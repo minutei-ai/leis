@@ -1,5 +1,3 @@
-# Decreto Numerado nº 117, de 2026-01-29
-
 DECRETO Nº 117, DE 29 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Turvo, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

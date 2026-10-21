@@ -1,5 +1,3 @@
-# Decreto nº 70.224, de 17/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212023)<br>
 
 # DECRETO N° 70.224, DE 17 DE DEZEMBRO DE 2025

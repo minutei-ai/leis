@@ -1,5 +1,3 @@
-# Decreto nº 69.860, de 10/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211436)<br>
 
 # DECRETO N° 69.860, DE 10 DE SETEMBRO DE 2025

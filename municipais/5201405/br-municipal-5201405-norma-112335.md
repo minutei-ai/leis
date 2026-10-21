@@ -1,5 +1,3 @@
-# Decreto Numerado nº 952, de 2025-02-24
-
 DECRETO Nº 952, DE 24 DE FEVEREIRO DE 2025
 
 Dispõe sobre o remembramento de imóveis no Município de Aparecida de Goiânia.

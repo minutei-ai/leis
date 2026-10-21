@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.561, de 2020-06-23
-
 LEI MUNICIPAL Nº 3.561, DE 23 DE JUNHO DE 2020.
 
 “Institui o Fundo de Crédito Emergencial do Município de Aparecida de Goiânia, criado no contexto das medidas para o enfrentamento econômico da epidemia do vírus COVID-19.”

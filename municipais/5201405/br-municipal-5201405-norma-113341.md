@@ -1,5 +1,3 @@
-# Lei Complementar nº 42, de 2011-11-11
-
 LEI COMPLEMENTAR Nº 042, DE 11 DE NOVEMBRO DE 2011
 
 Institui Regime Especial de Trabalho da Guarda Municipal - R.E.T.G.M, para os integrantes de cargo efetivo da Guarda Municipal e dá outras providências.

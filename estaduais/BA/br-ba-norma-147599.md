@@ -1,5 +1,3 @@
-# LEI Nº 14.968 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.968 DE 08 DE SETEMBRO DE 2025
 
 Altera a Gratificação de Apoio ao Desempenho Fazendário - GDF, na forma que indica, e dá outras providências.

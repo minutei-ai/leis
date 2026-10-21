@@ -1,5 +1,3 @@
-# Decreto nº 69.223, de 23/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210447)<br>
 
 # DECRETO N° 69.223, DE 23 DE DEZEMBRO DE 2024

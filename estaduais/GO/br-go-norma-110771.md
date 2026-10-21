@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.699, de 2025-05-30
-
 DECRETO Nº 10.699, DE 30 DE MAIO DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na sexta-feira, dia 20 de junho de 2025, um dia após a data dedicada à celebração de _Corpus Christi_.

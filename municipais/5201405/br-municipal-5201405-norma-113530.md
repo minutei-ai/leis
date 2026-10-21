@@ -1,5 +1,3 @@
-# Decreto Numerado nº 191, de 2026-03-11
-
 DECRETO Nº 191, DE 11 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua 42, no Loteamento Bairro Independência – 2º Complemento, no Município de Aparecida de Goiânia.

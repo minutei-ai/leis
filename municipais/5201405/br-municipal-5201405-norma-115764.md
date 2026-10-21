@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.911, de 2026-06-23
-
 LEI Nº 3.911, DE 23 DE JUNHO DE 2026
 
 Dispõe sobre a organização do Sistema Municipal de Defesa do Consumidor – SMDC e dá outras providências.

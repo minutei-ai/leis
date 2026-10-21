@@ -1,5 +1,3 @@
-# Medida Provisória nº 46 de 25/06/2002
-
 ###MPV-000046-0-000-25-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 46, DE 25 DE JUNHO DE 2002

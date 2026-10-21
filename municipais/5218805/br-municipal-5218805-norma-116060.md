@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.318, de 2022-12-16
-
 LEI N° 7.318, DE 16 DE DEZEMBRO DE 2022
 
 Altera a [Lei n°. 7.303/2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116058), que autorizou desafetação e alienação de imóvel público.

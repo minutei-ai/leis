@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.819, de 2025-01-15
-
 LEI Nº 3.819, DE 15 DE JANEIRO DE 2025
 
 Reconhece como Utilidade Pública Municipal a Escola Espírita Bezerra de Menezes e dá outras providências.

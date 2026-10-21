@@ -1,5 +1,3 @@
-# Decreto Numerado nº 693, de 2023-11-09
-
 DECRETO “N” Nº 693 DE 09 DE NOVEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

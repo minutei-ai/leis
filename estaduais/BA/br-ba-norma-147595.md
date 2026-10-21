@@ -1,5 +1,3 @@
-# LEI Nº 14.964 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.964 DE 08 DE SETEMBRO DE 2025
 
 Altera a Lei nº [11.051](https://www.legislabahia.ba.gov.br/documentos/lei-no-11051-de-06-de-junho-de-2008), de 06 de junho de 2008, que reestrutura o Grupo Ocupacional Fiscalização e Regulação, criado pela Lei nº [8.889](https://www.legislabahia.ba.gov.br/documentos/lei-no-8889-de-01-de-dezembro-de-2003), de 01 de dezembro de 2003, na forma que indica, e dá outras providências.

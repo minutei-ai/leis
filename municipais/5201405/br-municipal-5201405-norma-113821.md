@@ -1,5 +1,3 @@
-# Decreto Numerado nº 292, de 2026-04-15
-
 DECRETO Nº 292, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Avenida Corindon, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

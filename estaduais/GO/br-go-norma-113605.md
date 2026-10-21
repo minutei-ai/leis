@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.159, de 2026-03-18
-
 LEI Nº 24.159, DE 18 DE MARÇO DE 2026
 
 Cria o Adicional de Responsabilidade Técnica para as atividades de Arquitetura e de Engenharia no âmbito do Poder Executivo do Estado de Goiás.

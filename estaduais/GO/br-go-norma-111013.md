@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.719, de 2025-07-01
-
 DECRETO Nº 10.719, DE 1º DE JULHO DE 2025
 
 Decreta luto oficial pelo falecimento do Cartunista JORGE DOS REIS BRAGA, doravante denominado JORGE BRAGA.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.288, de 2015-11-13
-
 LEI MUNICIPAL Nº 3.288, DE 13 DE NOVEMBRO DE 2015.
 
 Dá nome à Unidade Básica de Saúde do Parque Trindade, neste município.

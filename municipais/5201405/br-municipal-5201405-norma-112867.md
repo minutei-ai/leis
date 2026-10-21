@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.773, de 2025-07-16
-
 DECRETO Nº 1.773, DE 16 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Figueiredo Magalhães no Loteamento Jardim Buriti Sereno no Município de Aparecida de Goiânia.

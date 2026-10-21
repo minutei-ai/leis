@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.737, de 2025-07-24
-
 DECRETO Nº 10.737 DE 24 DE JULHO DE 2025
 
 Concede a Medalha da Ordem do Mérito Tiradentes às autoridades que especifica.

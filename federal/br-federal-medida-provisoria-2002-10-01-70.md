@@ -1,5 +1,3 @@
-# Medida Provisória nº 70 de 01/10/2002
-
 ###MPV-000070-0-000-01-10-2002@@@
 
 MEDIDA PROVISÓRIA Nº 70, DE 1º DE OUTUBRO DE 2002

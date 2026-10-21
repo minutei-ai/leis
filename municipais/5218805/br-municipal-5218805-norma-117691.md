@@ -1,5 +1,3 @@
-# Lei Complementar nº 45, de 2015-10-27
-
 LEI COMPLEMENTAR Nº 45, DE 27 DE OUTUBRO DE 2015.
 
 Reformula Lei nº 3.473/1997, que criou o Fundo Municipal Do Meio Ambiente – FMMAm.

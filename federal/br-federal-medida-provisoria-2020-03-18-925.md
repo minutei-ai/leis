@@ -1,5 +1,3 @@
-# Medida Provisória nº 925 de 18/03/2020
-
 MEDIDA PROVISÓRIA Nº 925, DE 18 DE MARÇO DE 2020
 
 Dispõe sobre medidas emergenciais para a aviação civil brasileira em razão da pandemia da covid-19.

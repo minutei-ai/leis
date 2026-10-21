@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.536, de 2025-11-04
-
 DECRETO Nº 2.536, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Taubaté, no Loteamento Bairro Independência 3º Complemento, no Município de Aparecida de Goiânia.

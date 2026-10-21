@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.580, de 2025-11-05
-
 DECRETO Nº 2.580, DE 5 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 21, situado à Rua Glicerio, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

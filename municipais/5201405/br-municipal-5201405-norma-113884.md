@@ -1,5 +1,3 @@
-# Decreto Numerado nº 192, de 2024-04-01
-
 DECRETO “N” Nº 192, DE 01 DE ABRIL DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidor da Secretaria Municipal de Educação.

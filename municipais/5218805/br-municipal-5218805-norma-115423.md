@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.342, de 2023-03-30
-
 LEI Nº 7.342, DE 30 DE MARÇO DE 2023
 
 Denomina nome Mercado Municipal São Sebastião, que especifica e dá outras providências.

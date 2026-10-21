@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.941, de 2026-06-29
-
 DECRETO Nº 10.941, DE 29 DE JUNHO DE 2026
 
 Institui a Política Estadual Integral de Saúde das Mamas – Goiás Todo Rosa.

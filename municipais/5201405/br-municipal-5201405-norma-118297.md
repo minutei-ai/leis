@@ -1,5 +1,3 @@
-# Decreto Numerado nº 517, de 2023-08-03
-
 DECRETO “N” Nº 517 DE 03 DE AGOSTO DE 2023.
 
 Dispõe sobre remembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 15, de 2008-08-08
-
 LEI COMPLEMENTAR Nº 015 , DE 08 DE AGOSTO DE 2008.
 
 Dispõe sobre a organização da Procuradoria Geral do Município de Aparecida de Goiânia, revogando, no que for incompatível, as Leis nsº 2.229/2001 e 2.555/2005, e dá outras providências.

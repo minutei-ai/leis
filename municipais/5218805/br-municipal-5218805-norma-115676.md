@@ -1,5 +1,3 @@
-# Lei Complementar nº 333, de 2023-12-22
-
 LEI COMPLEMENTAR Nº 333, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a Lei Complementar nº 208, de 06 de maio de 2021, que dispõe sobre o parcelamento do solo para implantação de sítios e chácaras de recreio em Zona Urbana Específica e dá outras providências.

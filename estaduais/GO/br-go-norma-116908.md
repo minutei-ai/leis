@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.977, de 2026-08-25
-
 DECRETO Nº 10.977, DE 25 DE AGOSTO DE 2026
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual no Município de Santa Cruz de Goiás.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.162 de 14/02/2023
-
 MEDIDA PROVISÓRIA Nº 1.162, DE 14 DE FEVEREIRO DE 2023
 
 Dispõe sobre o Programa Minha Casa, Minha Vida, altera a Lei nº 6.015, de 31 de dezembro de 1973, a Lei nº 8.677, de 13 de julho de 1993, a Lei nº 9.514, de 20 de novembro de 1997, a Lei nº 10.188, de 12 de fevereiro de 2001, a Lei nº 11.977, de 7 de julho de 2009, a Lei nº 14.063, de 23 de setembro de 2020, e a Lei nº 14.382, de 27 de junho de 2022.

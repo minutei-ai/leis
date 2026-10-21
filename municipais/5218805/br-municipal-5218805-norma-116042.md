@@ -1,5 +1,3 @@
-# Lei Complementar nº 104, de 2017-11-28
-
 LEI COMPLEMENTAR Nº 104, DE 28 DE NOVEMBRO DE 2017
 
 Aumenta quantitativo do cargo de Agente Comunitário de Saúde.

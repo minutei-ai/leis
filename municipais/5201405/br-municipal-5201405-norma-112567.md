@@ -1,5 +1,3 @@
-# Decreto Numerado nº 101, de 2026-01-28
-
 DECRETO Nº 101, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

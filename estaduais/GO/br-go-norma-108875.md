@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.470, de 2024-05-20
-
 DECRETO Nº 10.470, DE 20 DE MAIO DE 2024
 
 Regulamenta o Programa de Regularização Ambiental - PRA no Estado de Goiás.

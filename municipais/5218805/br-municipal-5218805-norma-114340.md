@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.694, de 2025-08-21
-
 LEI Nº 7.694, DE 21 DE AGOSTO DE 2025.
 
 Institui o Dia “D” Municipal da Cultura e da Poesia, a ser comemorado anualmente no dia 14 de agosto, posterior ao aniversário da cidade de Rio Verde.

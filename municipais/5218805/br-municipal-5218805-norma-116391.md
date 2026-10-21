@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.932, de 2011-05-20
-
 LEI Nº 5932, DE 20 DE MAIO DE 2011.
 
 Aumenta o quantitativo de cargo que menciona.

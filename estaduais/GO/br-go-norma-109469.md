@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.550, de 2024-09-13
-
 DECRETO Nº 10.550, DE 13 DE SETEMBRO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

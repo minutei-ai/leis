@@ -1,5 +1,3 @@
-# Medida Provisória nº 41 de 20/06/2002
-
 ###MPV-000041-0-000-20-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 41, DE 20 DE JUNHO DE 2002

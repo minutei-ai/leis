@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.941, de 2024-08-23
-
 LEI Nº 22.941, DE 23 DE AGOSTO DE 2024
 
 Altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

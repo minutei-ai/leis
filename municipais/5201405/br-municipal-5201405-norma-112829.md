@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.681, de 2025-06-27
-
 DECRETO Nº 1.681, DE 27 DE JUNHO DE 2025
 
 O PREFEITO DE APARECIDA DE GOIÂNIA, no uso das atribuições que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município de Aparecida de Goiânia; art. 300, da Lei Complementar nº 124, de 14 de dezembro de 2016; tendo em vista o disposto na Lei federal nº 6.766, de 19 de dezembro de 1979; na Lei federal nº 10.257, de 10 de julho de 2001; e o contido nos Processos Administrativos nºs 2023.039.347 e 2022.017.386,

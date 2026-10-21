@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.664, de 2025-06-30
-
 LEI Nº 7.664, DE 30 DE JUNHO DE 2025.
 
 Altera a [Lei nº 5.558](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003 "Abrir Lei Ordinária nº 5558, de 2009 em nova aba"), de 24 de março de 2009, que dispõe sobre o Programa Bolsa de Produção Cultural.

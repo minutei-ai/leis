@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.426, de 2018-08-27
-
 LEI MUNICIPAL Nº 3.426, DE 27 DE AGOSTO DE 2018
 
 Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2019.

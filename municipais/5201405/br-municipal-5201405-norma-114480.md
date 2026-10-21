@@ -1,5 +1,3 @@
-# Decreto Numerado nº 386, de 2026-05-14
-
 DECRETO Nº 386, DE 14 DE MAIO DE 2026
 
 Dispõe sobre a aprovação do Loteamento Parque Veiga Jardim, no âmbito do Município de Aparecida de Goiânia.

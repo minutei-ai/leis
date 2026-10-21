@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.523, de 1996-01-03
-
 LEI MUNICIPAL Nº 1.523, DE 03 DE JANEIRO DE 1996.<br>
 (Revogada pela Lei Ordinária nº 3.548, de 6 de abril de 2020)
 

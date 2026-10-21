@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.245 de 18/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.245, DE 18 DE JULHO DE 2024
 
 Aumenta o limite da subvenção econômica de que trata o art. 2º, [caput, da Medida Provisória nº 1.216, de 9 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2024-05-09;1216!cpt).

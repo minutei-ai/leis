@@ -1,5 +1,3 @@
-# Ato do Presidente nº 151, de 02/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211597)<br>
 
 # ATO DO PRESIDENTE N° 151, DE 2025

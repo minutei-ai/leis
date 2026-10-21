@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.396, de 2017-12-13
-
 LEI MUNICIPAL N° 3.396, DE 13 DE DEZEMBRO DE 2017
 
 Cria o Conselho Municipal de Controle Social de Saneamento Básico do Município de Aparecida de Goiânia e dá outras providências.

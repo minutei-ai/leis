@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.661, de 2025-03-27
-
 DECRETO Nº 10.661, DE 27 DE MARÇO DE 2025
 
 Altera o [Decreto nº 10.092](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105643), de 6 de junho de 2022, que dispõe sobre a aplicação da Lei federal nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais – LGPD, no âmbito da administração pública direta e indireta do Poder Executivo estadual.

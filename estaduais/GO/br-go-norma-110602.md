@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.353, de 2025-04-16
-
 LEI Nº 23.353, DE 16 DE ABRIL DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.827, de 2026-03-23
-
 LEI Nº 7.827, DE 23 DE MARÇO DE 2026.
 
 Autoriza a desafetação de área de propriedade do Poder Público objetivando sua posterior afetação ao Sistema Viário da Avenida Flamboyant, de Matrícula nº 94.130.

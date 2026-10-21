@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.603, de 2025-06-18
-
 DECRETO Nº 1.603, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento dos Lotes Mansão nº 16 e nº 17, todos da Quadra B, situados à Avenida Portugal, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

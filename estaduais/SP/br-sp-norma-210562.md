@@ -1,5 +1,3 @@
-# Decreto nº 69.332, de 28/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210562)<br>
 
 # DECRETO N° 69.332, DE 28 DE JANEIRO DE 2025

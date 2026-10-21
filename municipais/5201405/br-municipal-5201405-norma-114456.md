@@ -1,5 +1,3 @@
-# Decreto Numerado nº 50, de 2024-01-31
-
 DECRETO “N” Nº 50 DE 31 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

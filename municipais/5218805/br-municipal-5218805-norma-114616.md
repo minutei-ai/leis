@@ -1,5 +1,3 @@
-# Lei Complementar nº 269, de 2022-12-16
-
 LEI COMPLEMENTAR Nº. 269, DE 16 DE DEZEMBRO DE 2022. 
 
 Altera o artigo 67 da [Lei nº. 3.635/1998](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114411) do Código de Posturas do Município.

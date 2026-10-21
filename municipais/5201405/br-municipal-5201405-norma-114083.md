@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.603, de 2006-08-18
-
 LEI MUNICIPAL Nº 2.603, DE 18 DE AGOSTO DE 2006.
 
 Altera a Lei Municipal n.º 2.470/04, a qual dispõe sobre doação de imóveis, para o Estado de Goiás, situados neste Município, destinados à construção de escolas.

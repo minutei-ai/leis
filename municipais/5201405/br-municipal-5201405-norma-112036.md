@@ -1,5 +1,3 @@
-# Lei Complementar nº 132, de 2017-10-30
-
 LEI COMPLEMENTAR Nº 132, DE 30 DE OUTUBRO DE 2017
 
 Altera a Lei Complementar nº 127/2017, que trata da Estrutura Administrativa do Instituto de Previdência de Aparecida de Goiânia – APARECIDAPREV, e dá outras providências.

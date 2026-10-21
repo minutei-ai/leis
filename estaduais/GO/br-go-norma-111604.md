@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.858, de 2025-11-19
-
 LEI Nº 23.858, DE 19 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual da Indústria Farmacêutica.

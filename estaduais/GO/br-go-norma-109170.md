@@ -1,5 +1,3 @@
-# Lei Complementar nº 194, de 2024-07-05
-
 LEI COMPLEMENTAR Nº 194, DE 5 DE JULHO DE 2024
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157), de 22 de maio de 2023, que institui as Microrregiões de Saneamento Básico – MSBs e suas respectivas estruturas de governança e dá outras providências.

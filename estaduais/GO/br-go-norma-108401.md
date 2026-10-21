@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.390, de 2024-01-12
-
 DECRETO Nº 10.390, DE 12 DE JANEIRO DE 2024
 
 Aprova o Regulamento da Goiás Previdência – GOIASPREV e revoga o [Decreto nº 9.546](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72461), de 28 de outubro de 2019.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.166, de 2021-09-01
-
 LEI Nº 7.166, DE 1º DE SETEMBRO DE 2021.
 
 Altera Lei n. 5.990/2011, que instituiu o Programa Municipal “Lar Solidário”.

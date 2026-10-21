@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2455, de 2004-03-18
-
 LEI MUNICIPAL Nº 2.455, DE 18 DE MARÇO DE 2004.
 
 Declara de utilidade pública, imóveis para fins de desapropriação, desafeta áreas públicas e autoriza doação ao Tribunal de Justiça do Estado de Goiás, situados no loteamentos VILA ALZIRA, JARDIM BOA ESPERANÇA e GOIÂNIA PARK SUL, neste Município.

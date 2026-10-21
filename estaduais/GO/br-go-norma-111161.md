@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.587, de 2025-08-22
-
 LEI Nº 23.587, DE 22 DE AGOSTO DE 2025
 
 Institui o Dia Estadual de Mobilização pelo Fim da Violência contra as Mulheres.

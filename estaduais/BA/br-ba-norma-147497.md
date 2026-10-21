@@ -1,5 +1,3 @@
-# LEI Nº 14.959 DE 07 DE AGOSTO DE 2025
-
 LEI Nº 14.959 DE 07 DE AGOSTO DE 2025
 
 Institui o Programa Bahia Alfabetizada, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.535, de 2024-08-23
-
 DECRETO Nº 10.535, DE 23 DE AGOSTO DE 2024
 
 Altera o [Decreto nº 10.444](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108696), de 19 de abril de 2024, que dispõe sobre a criação do Comitê de Monitoramento e Avaliação das Despesas – CMA no Poder Executivo do Estado de Goiás.

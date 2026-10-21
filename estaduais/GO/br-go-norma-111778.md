@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.928, de 2025-12-10
-
 LEI Nº 23.928, DE 10 DE DEZEMBRO DE 2025
 
 Proíbe a reconstituição do leite em pó de origem importada para venda como leite fluido no Estado de Goiás e estabelece sanções aos infratores.

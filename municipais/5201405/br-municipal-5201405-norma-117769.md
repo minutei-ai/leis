@@ -1,5 +1,3 @@
-# Decreto Numerado nº 46, de 2023-01-24
-
 DECRETO “N” Nº 46 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM BURITI SERENO, neste município.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 76, de 2013-10-22
-
 LEI COMPLEMENTAR Nº 76, DE 22 DE OUTUBRO DE 2013.
 
 Altera os Anexos VI e IX, da Lei Municipal nº 2.606, de 26 de setembro de 2006- Planos de Cargos e Salários dos Servidores da Secretaria Municipal da Educação da Prefeitura Municipal de Aparecida de Goiânia-GO, com as alterações trazidas pelas Leis Complementares nº 35, de 04 de julho de 2011 e nº 60, de 24 de agosto de 2012.

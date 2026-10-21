@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.711, de 2023-05-04
-
 LEI MUNICIPAL Nº 3.711 DE 04 DE MAIO DE 2023.
 
 Torna obrigatória a realização de exames específicos de condicionamento físico para atletas e aspirantes à carreira esportiva, inclusive crianças e adolescentes. 

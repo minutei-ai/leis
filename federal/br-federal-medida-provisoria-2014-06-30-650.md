@@ -1,5 +1,3 @@
-# Medida Provisória nº 650 de 30/06/2014
-
 MEDIDA PROVISÓRIA N°  650, DE 30 DE JUNHO DE 2014
 
 Dispõe sobre a reestruturação da Carreira Policial Federal de que trata a Lei n° 9.266, de 15 de março de 1996, sobre a remuneração da Carreira de Perito Federal Agrário de que trata a Lei n° 10.550, de 13 de novembro de 2002, e dá outras providências.

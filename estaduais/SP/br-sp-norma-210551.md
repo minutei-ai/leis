@@ -1,5 +1,3 @@
-# Decreto nº 69.319, de 22/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210551)<br>
 
 # DECRETO N° 69.319, DE 22 DE JANEIRO DE 2025

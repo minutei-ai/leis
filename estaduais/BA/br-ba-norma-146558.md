@@ -1,5 +1,3 @@
-# LEI Nº 14.890 DE 05 DE MAIO DE 2025
-
 LEI Nº 14.890 DE 05 DE MAIO DE 2025
 
 Altera a estrutura remuneratória dos postos e das graduações da Polícia Militar da Bahia e do Corpo de Bombeiros Militar da Bahia, na forma que indica, e dá outras providências.

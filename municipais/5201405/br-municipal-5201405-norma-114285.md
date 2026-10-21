@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2, de 2024-01-03
-
 DECRETO “N” Nº 02 DE 03 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

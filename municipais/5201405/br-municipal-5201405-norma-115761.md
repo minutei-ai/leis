@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.908, de 2026-06-23
-
 LEI Nº 3.908, DE 23 DE JUNHO DE 2026
 
 Institui a Política Municipal de Apoio Integral a Mulheres em Situação de Violência Doméstica e Familiar no Município de Aparecida de Goiânia e dá outras providências.

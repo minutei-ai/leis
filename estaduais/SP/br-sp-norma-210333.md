@@ -1,5 +1,3 @@
-# Decreto nº 69.141, de 12/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210333)<br>
 
 # DECRETO N° 69.141, DE 12 DE DEZEMBRO DE 2024

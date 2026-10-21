@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.323, de 2026-05-25
-
 LEI Nº 24.323, DE 25 DE MAIO DE 2026
 
 Concede o título de cidadania que especifica.

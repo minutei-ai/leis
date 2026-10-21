@@ -1,5 +1,3 @@
-# Decreto Numerado nº 99, de 2026-01-28
-
 DECRETO Nº 099, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua H-81, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

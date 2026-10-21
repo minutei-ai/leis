@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.598, de 2025-02-24
-
 LEI N° 7.598, DE 24 DE FEVEREIRO DE 2025.
 
 Dispõe sobre o reajuste dos valores das bolsas de preceptoria médica e odontológica.

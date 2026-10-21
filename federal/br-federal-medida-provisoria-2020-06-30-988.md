@@ -1,5 +1,3 @@
-# Medida Provisória nº 988 de 30/06/2020
-
 MEDIDA PROVISÓRIA Nº 988, DE 30 DE JUNHO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 101.600.000.000,00, para o fim que especifica, e dá outras providências.

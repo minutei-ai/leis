@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.884, de 2025-12-30
-
 DECRETO Nº 2.884, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Avenida Conde Francisco Matarazo, no Loteamento Vila Mariana, no Município de Aparecida de Goiânia.

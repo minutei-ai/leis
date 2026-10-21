@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.558, de 2020-06-17
-
 LEI MUNICIPAL Nº 3.558, DE 17 DE JUNHO DE 2020.<br>
 (Revogada pela Lei Ordinária nº 3.660, de 16 de março de 2022).
 

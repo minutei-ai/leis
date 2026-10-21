@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.328 de 16/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.328, DE 16 DE DEZEMBRO DE 2025
 
 Autoriza a destinação de recursos para disponibilizar linhas de financiamento reembolsável a pessoas físicas e jurídicas de direito privado para aquisição de caminhões novos ou seminovos, para renovação de frota, e altera a [Medida Provisória nº 1.314, de 5 de setembro de 2025](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2025-09-05;1314).

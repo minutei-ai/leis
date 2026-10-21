@@ -1,5 +1,3 @@
-# Decreto Numerado nº 348, de 2024-05-10
-
 DECRETO “N” Nº 348 DE 10 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

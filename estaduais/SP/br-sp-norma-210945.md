@@ -1,5 +1,3 @@
-# Decreto nº 69.540, de 16/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210945)<br>
 
 # DECRETO N° 69.540, DE 16 DE MAIO DE 2025

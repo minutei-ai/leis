@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.066 de 02/09/2021
-
 MEDIDA PROVISÓRIA Nº 1.066, DE 2 DE SETEMBRO DE 2021
 
 Prorroga o prazo para recolhimento da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social e de contribuições previdenciárias, a pessoas jurídicas distribuidoras de energia elétrica.

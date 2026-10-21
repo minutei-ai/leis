@@ -1,5 +1,3 @@
-# Decreto Numerado nº 476, de 2026-06-17
-
 DECRETO Nº 476, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 12, 13 e 14, situados à Alameda 3 de Julho, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 47, de 2024-01-30
-
 DECRETO “N” Nº 47 DE 30 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

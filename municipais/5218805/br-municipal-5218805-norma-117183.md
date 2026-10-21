@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.171, de 2021-09-01
-
 LEI Nº  7.171, DE 1º DE SETEMBRO DE 2021.
 
 Autoriza o Poder Executivo a doar imóveis para construção de unidades habitacionais a pessoas carentes que se enquadrem nos critérios e requisitos das Políticas Habitacionais.

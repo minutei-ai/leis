@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.910, de 2026-06-23
-
 LEI Nº 3.910, DE 23 DE JUNHO DE 2026
 
 Dispõe sobre a vedação à nomeação para cargos em comissão e funções de confiança, no âmbito da Administração Pública direta e indireta do Município de Aparecida de Goiânia, de pessoas condenadas por crimes sexuais contra crianças e adolescentes, e dá outras providências.

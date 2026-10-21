@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.524, de 2024-01-03
-
 LEI Nº 22.524, DE 3 DE JANEIRO DE 2024
 
 Dispõe sobre o Plano de Carreira e Remuneração da Secretaria de Estado da Saúde.

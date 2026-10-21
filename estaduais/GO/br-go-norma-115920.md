@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.387, de 2026-06-26
-
 LEI Nº 24.387, DE 26 DE JUNHO DE 2026
 
 Autoriza o Estado de Goiás a alienar e transferir bens imóveis dominicais para a constituição de um ou mais Fundos de Investimento Imobiliário.

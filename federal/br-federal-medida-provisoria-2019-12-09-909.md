@@ -1,5 +1,3 @@
-# Medida Provisória nº 909 de 09/12/2019
-
 MEDIDA PROVISÓRIA Nº 909, DE 9 DE DEZEMBRO DE 2019
 
 Extingue o fundo formado pelas reservas monetárias de que trata o art. 12 da Lei nº 5.143, de 20 de outubro de 1966, e dá outras providências.

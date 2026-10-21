@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.691, de 2025-05-08
-
 DECRETO Nº 10.691 DE 8 DE MAIO DE 2025
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

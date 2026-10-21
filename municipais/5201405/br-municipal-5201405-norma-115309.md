@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.653, de 2022-01-20
-
 LEI MUNICIPAL Nº 3.653, DE 20 DE JANEIRO DE 2022.
 
 Reconhece como Utilidade Pública Municipal a “Associação dos Deficientes de Aparecida de Goiânia” e dá outras providências.

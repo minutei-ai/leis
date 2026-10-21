@@ -1,5 +1,3 @@
-# Decreto Numerado nº 141, de 2026-02-10
-
 DECRETO Nº 141, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Constante Ramos, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

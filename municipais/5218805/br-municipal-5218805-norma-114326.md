@@ -1,5 +1,3 @@
-# Lei Complementar nº 52, de 2015-12-14
-
 LEI COMPLEMENTAR Nº 52, DE 14 DE DEZEMBRO DE 2015.
 
 Revoga Lei n. 6.263/2013  e dispositivo da [Lei 3.968/2000](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114170/lei-ordinaria-3968)\- Estatuto dos Servidores do Município

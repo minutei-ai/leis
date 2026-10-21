@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.572, de 2025-07-11
-
 LEI Nº 23.572, DE 11 DE JULHO DE 2025
 
 Institui a Semana Estadual de Valorização dos Municípios da Chapada dos Veadeiros e dá outras providências.

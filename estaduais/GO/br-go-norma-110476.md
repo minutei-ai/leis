@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.275, de 2025-03-14
-
 LEI Nº 23.275, DE 14 DE MARÇO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a TopAgro – Feira de Agronegócio e o Festival do Cordeiro, realizados no Município de Hidrolândia/GO.

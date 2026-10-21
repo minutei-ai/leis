@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.920, de 2026-06-03
-
 DECRETO Nº 10.920, DE 3 DE JUNHO DE 2026
 
 Altera os [Decretos nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, [nº 10.326](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107828), de 29 de setembro de 2023, e [nº 10.485](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109047), de 26 de junho de 2024.

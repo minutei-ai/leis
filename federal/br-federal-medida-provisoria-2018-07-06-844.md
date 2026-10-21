@@ -1,5 +1,3 @@
-# Medida Provisória nº 844 de 06/07/2018
-
 MEDIDA PROVISÓRIA Nº 844, DE 6 DE JULHO DE 2018
 
 Atualiza o marco legal do saneamento básico e altera a [Lei nº 9.984, de 17 de julho de 2000](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-07-17;9984), para atribuir à Agência Nacional de Águas competência para editar normas de referência nacionais sobre o serviço de saneamento, a [Lei nº 10.768, de 19 de novembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-11-19;10768), para alterar as atribuições do cargo de Especialista em Recursos Hídricos, e a [Lei nº 11.445, de 5 de janeiro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-01-05;11445), para aprimorar as condições estruturais do saneamento básico no País.

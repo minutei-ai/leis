@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.023 de 31/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.023, DE 31 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre o benefício de prestação continuada.

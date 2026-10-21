@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.156, de 2014-01-07
-
 LEI MUNICIPAL Nº 3.156, DE 07 DE JANEIRO DE 2014.
 
 Revoga parcialmente o Art. 3º, da Lei Municipal nº 2.455, de 18 de março de qual declara de utilidade pública imóveis situados no loteamento VILA ALZIRA, neste Município.

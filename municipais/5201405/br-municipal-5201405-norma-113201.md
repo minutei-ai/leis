@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.538, de 2025-11-04
-
 DECRETO Nº 2.538, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento do Lote 01 e Parte da Rua Abilio Alves de Castro, todos da Quadra 96, no Loteamento Vila Rosa, no Município de Aparecida de Goiânia.

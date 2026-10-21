@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.605, de 2025-02-24
-
 LEI Nº 7.605, DE 24 DE FEVEREIRO DE 2025.
 
 Denomina a Clínica da Família do Bairro Gameleira que menciona.

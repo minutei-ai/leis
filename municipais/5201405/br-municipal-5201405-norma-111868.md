@@ -1,5 +1,3 @@
-# Lei Complementar nº 157, de 2018-12-18
-
 LEI COMPLEMENTAR Nº 157, DE 18 DE DEZEMBRO DE 2018
 
 Altera a Lei Complementar nº 003, de 28 de dezembro de 2001, dá outras providências.

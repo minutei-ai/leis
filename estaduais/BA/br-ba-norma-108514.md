@@ -1,5 +1,3 @@
-# LD Nº 69 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 69 DE 03 DE JUNHO DE 1983
 
 Cria o Centro de Desenvolvimento de Recursos Humanos e Organizacionais - CEDRHO e dá outras providências.

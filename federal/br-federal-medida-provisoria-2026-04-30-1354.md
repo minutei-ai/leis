@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.354 de 30/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.354, DE 30 DE ABRIL DE 2026
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 17.000.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.250, de 2025-04-24
-
 DECRETO Nº 1.250, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Gerson Soares da Cunha no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

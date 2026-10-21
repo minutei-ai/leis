@@ -1,5 +1,3 @@
-# Decreto Numerado nº 88, de 2023-02-03
-
 DECRETO “N” Nº 88 DE 03 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

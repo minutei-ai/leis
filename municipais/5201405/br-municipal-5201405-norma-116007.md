@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.914, de 2026-06-30
-
 LEI Nº 3.914, DE 30 DE JUNHO DE 2026
 
 Proíbe a concessão de homenagens a pessoas condenadas por ato de improbidade, crime de corrupção, violações de direitos humanos ou maus-tratos a animais, no âmbito do Município de Aparecida de Goiânia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.171, de 2024-12-26
-
 LEI Nº 23.171, DE 26 DE DEZEMBRO DE 2024
 
 Autoriza a aquisição, por doação onerosa do Município de Jussara/GO, do imóvel que especifica.

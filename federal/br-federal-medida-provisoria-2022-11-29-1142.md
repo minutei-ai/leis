@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.142 de 29/11/2022
-
 MEDIDA PROVISÓRIA Nº 1.142, DE 29 DE NOVEMBRO DE 2022
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Saúde.

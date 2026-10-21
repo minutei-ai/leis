@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1005, de 2024-11-22
-
 DECRETO “N” Nº 1005, DE 22 DE NOVEMBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Bairro Cardoso Continuação, neste município como de Interesse Social.

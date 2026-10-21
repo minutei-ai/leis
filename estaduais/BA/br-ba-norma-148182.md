@@ -1,5 +1,3 @@
-# LEI Nº 15.093 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.093 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Colônia de Pescadores Z-71, com sede e foro no Município de Riachão do Jacuípe.

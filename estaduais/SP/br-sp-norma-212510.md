@@ -1,5 +1,3 @@
-# Decreto nº 70.559, de 28/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212510)<br>
 
 # DECRETO N° 70.559, DE 28 DE ABRIL DE 2026

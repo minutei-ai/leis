@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.908, de 2025-08-07
-
 DECRETO Nº 1.908, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento do Lotes 03 ao 05 e Lotes 16 ao 21, situado à Avenida JI-26 e Rua JI-30, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

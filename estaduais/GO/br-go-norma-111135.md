@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.750, de 2025-08-06
-
 DECRETO Nº 10.750, DE 6 DE AGOSTO DE 2025
 
 Institui, no Estado de Goiás, o Programa Estadual de Cidades Inteligentes.

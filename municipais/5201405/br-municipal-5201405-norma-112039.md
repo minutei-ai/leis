@@ -1,5 +1,3 @@
-# Lei Complementar nº 146, de 2018-09-10
-
 LEI COMPLEMENTAR Nº 146, DE 10 DE SETEMBRO DE 2018
 
 Revoga o §3º do art. 9º da Lei Complementar n° 010/2005, que dispõe sob a adequação do Instituto Previdência de Aparecida de Goiânia - APARECIDAPREV e dá outras providências.

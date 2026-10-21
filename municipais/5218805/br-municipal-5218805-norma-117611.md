@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.340, de 2013-10-21
-
 LEI Nº 6.340, DE 21 DE OUTUBRO DE 2013.
 
 Altera Lei 5.990/2011.

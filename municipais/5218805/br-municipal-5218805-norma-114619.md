@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.600, de 2025-02-24
-
 LEI N° 7.600, DE 24 DE FEVEREIRO DE 2025.
 
 Concede reposição geral anual dos vencimentos dos servidores públicos.

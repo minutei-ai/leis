@@ -1,5 +1,3 @@
-# LEI Nº 15.148 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.148 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação Apostolado da Divina Misericórdia, com sede e foro em Vitória da Conquista.

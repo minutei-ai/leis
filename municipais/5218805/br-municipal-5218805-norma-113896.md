@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.818, de 2026-02-19
-
 LEI Nº 7.818, DE 19 DE FEVEREIRO DE 2026.
 
 Dispõe sobre afixação nos pátios das escolas da rede pública e privada do número do telefone do disque denúncia contra qualquer tipo de violência, abuso e assédio sexual cometido contra menores, e dá outras providências.

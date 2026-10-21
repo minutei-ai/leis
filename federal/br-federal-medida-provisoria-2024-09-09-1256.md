@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.256 de 09/09/2024
-
 MEDIDA PROVISÓRIA Nº 1.256, DE 9 DE SETEMBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, e de Encargos Financeiros da União, no valor de R$ 510.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.753, de 2025-07-07
-
 DECRETO Nº 1.753, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua C-28, no Loteamento Jardim Boa Esperança – Continuação, no Município de Aparecida de Goiânia.

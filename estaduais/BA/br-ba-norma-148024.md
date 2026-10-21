@@ -1,5 +1,3 @@
-# LEI Nº 15.041 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.041 DE 11 DE DEZEMBRO DE 2025
 
 Reajusta a estrutura remuneratória dos cargos em comissão e dos cargos em Regime Especial de Direito Administrativo, Agente Administrativo e Analista Técnico, da Defensoria Pública do Estado da Bahia, na forma que indica, e dá outras providências.

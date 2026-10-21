@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.687, de 2024-05-13
-
 LEI Nº 22.687, DE 13 DE MAIO DE 2024
 
 Institui o Dia Estadual de Conscientização da Doença de Osteogênese Imperfeita.

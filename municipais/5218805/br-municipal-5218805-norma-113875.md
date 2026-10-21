@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.826, de 2026-03-23
-
 LEI Nº 7.826, DE 23 DE MARÇO DE 2026.
 
 Autoriza desafetação e alienação de imóvel público municipal localizado no Bairro São Joaquim, sob a Matrícula nº 25.408.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.437, de 23/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212077)<br>
 
 # LEI COMPLEMENTAR N° 1.437, DE 23 DE DEZEMBRO DE 2025

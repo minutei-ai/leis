@@ -1,5 +1,3 @@
-# Decreto nº 70.310, de 29/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212136)<br>
 
 # DECRETO N° 70.310, DE 29 DE DEZEMBRO DE 2025

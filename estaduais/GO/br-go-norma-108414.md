@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.402, de 2024-02-01
-
 DECRETO Nº 10.402, DE 1º DE FEVEREIRO DE 2024
 
 Desqualifica como organização social, no âmbito do Estado de Goiás, a entidade que especifica

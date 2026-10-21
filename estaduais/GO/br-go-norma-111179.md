@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.598, de 2025-08-29
-
 LEI Nº 23.598, DE 29 DE AGOSTO DE 2025
 
 Abre crédito especial ao Fundo Estadual de Infraestrutura – FUNDEINFRA.

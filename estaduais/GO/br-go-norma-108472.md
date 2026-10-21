@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.546, de 2024-02-27
-
 LEI Nº 22.546, DE 27 DE FEVEREIRO DE 2024
 
 Dá denominação ao próprio público que especifica.

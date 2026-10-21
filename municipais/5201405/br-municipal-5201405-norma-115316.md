@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.662, de 2022-04-11
-
 LEI MUNICIPAL Nº 3.662, DE 11 DE ABRIL DE 2022.
 
 “Dispõe sobre a criação do Programa Auxílio Saúde Suplementar do Servidor Público do Município de Aparecida de Goiânia e dá outras providências”.

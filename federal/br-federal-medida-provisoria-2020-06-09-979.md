@@ -1,5 +1,3 @@
-# Medida Provisória nº 979 de 09/06/2020
-
 MEDIDA PROVISÓRIA Nº 979, DE 9 DE JUNHO DE 2020
 
 Dispõe sobre a designação de dirigentes pro tempore para as instituições federais de ensino durante o período da emergência de saúde pública de importância internacional decorrente da pandemia dacovid-19, de que trata a Lei nº 13.979, de 6 de fevereiro de 2020.

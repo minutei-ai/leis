@@ -1,5 +1,3 @@
-# Lei Complementar nº 192, de 2020-08-31
-
 LEI COMPLEMENTAR Nº 192, DE 31 DE AGOSTO DE 2020
 
 Extingue cargos públicos e estabelece cargos em extinção

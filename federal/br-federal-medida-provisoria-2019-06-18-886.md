@@ -1,5 +1,3 @@
-# Medida Provisória nº 886 de 18/06/2019
-
 MEDIDA PROVISÓRIA Nº 886, DE 18 DE JUNHO DE 2019
 
 Altera a [Lei nº 13.844, de 18 junho de 2019](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2019-06-18;13844), a [Lei nº 8.171, de 17 de janeiro de 1991](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1991-01-17;8171), a [Lei nº 12.897, de 18 de dezembro de 2013](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2013-12-18;12897), a [Lei nº 9.613, de 3 de março de 1998](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1998-03-03;9613), e a [Lei nº 13.334, de 13 de setembro de 2016](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2016-09-13;13334), para dispor sobre a organização básica dos órgãos da Presidência da República e dos Ministérios.

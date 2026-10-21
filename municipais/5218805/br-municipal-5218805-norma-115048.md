@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.533, de 2024-06-24
-
 LEI Nº 7.533, DE 24 DE JUNHO DE 2024.
 
 Institui a Política Municipal de Educação Especial na Perspectiva da Educação Inclusiva e o Atendimento Especializado aos Estudantes Identificados como Altas Habilidades/Superdotação no Município de Rio Verde.

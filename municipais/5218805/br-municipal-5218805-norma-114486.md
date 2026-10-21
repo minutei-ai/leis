@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.103, de 2006-03-03
-
 LEI COMPLEMENTAR Nº 5.103, DE 03 DE MARÇO DE 2006.
 
 Altera a Lei n. 3.635/98. que institui o Código de Posturas.

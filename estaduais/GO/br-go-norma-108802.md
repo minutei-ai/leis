@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.657, de 2024-05-06
-
 LEI Nº 22.657, DE 6 DE MAIO DE 2024
 
 Institui o Dia Estadual do Residente Multiprofissional.

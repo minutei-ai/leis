@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.173, de 2021-09-01
-
 LEI Nº 7.173, DE 1º DE SETEMBRO DE 2021.
 
 Autoriza a FESURV- Universidade de Rio Verde a celebrar convênio com a Universidade do Vale do Rio dos Sinos - Unisinos.

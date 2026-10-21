@@ -1,5 +1,3 @@
-# Decreto Numerado nº 93, de 2024-02-22
-
 DECRETO “N” N° 093, DE 22 DE FEVEREIRO DE 2024.
 
 Nomeia membros para compor o CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE para o biênio 2024-2025.

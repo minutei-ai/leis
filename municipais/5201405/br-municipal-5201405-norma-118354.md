@@ -1,5 +1,3 @@
-# Decreto Numerado nº 600, de 2023-09-13
-
 DECRETO “N” Nº 600 DE 13 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

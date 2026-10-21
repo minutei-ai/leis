@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.873, de 2024-07-24
-
 LEI Nº 22.873, DE 24 DE JULHO DE 2024
 
 Altera as Leis [nº 22.571](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108547) e [nº 22.572](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108546), ambas de 19 de março de 2024, que instituem medidas facilitadoras para que o contribuinte negocie seus débitos com a Fazenda Pública Estadual.

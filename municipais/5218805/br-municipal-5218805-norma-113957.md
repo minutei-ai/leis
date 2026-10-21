@@ -1,5 +1,3 @@
-# Lei Complementar nº 438, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 438, DE 19 DE FEVEREIRO DE 2026.
 
 Cria Zona Urbana Específica para fins de implantação de condomínio de lotes - Fazenda Lage, inscrita na matrícula nº 117.770 do Cartório de Registro de Imóveis de Rio Verde - GO.

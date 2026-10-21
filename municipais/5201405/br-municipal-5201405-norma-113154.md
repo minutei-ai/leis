@@ -1,5 +1,3 @@
-# Decreto Numerado nº 154, de 2026-02-23
-
 DECRETO Nº 154, DE 23 DE FEVEREIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02, 02A e 03, situados à Rua 01, BR-060 e alça de acesso à BR-060, no Loteamento Polo Empresarial Goiás – Etapa XIII, no Município de Aparecida de Goiânia.

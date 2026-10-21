@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.148, de 2025-09-04
-
 DECRETO Nº 2.148, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, da Quadra 68, situado à Rua 5, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

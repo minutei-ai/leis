@@ -1,5 +1,3 @@
-# Lei Complementar nº 380, de 2025-08-21
-
 LEI COMPLEMENTAR Nº 380, DE 21 DE AGOSTO DE 2025.
 
 Altera a Lei Complementar nº 208, de 06 de maio de 2021, que dispõe sobre o parcelamento do solo para implantação de sítios e chácaras de recreio em Zona Urbana Específica.

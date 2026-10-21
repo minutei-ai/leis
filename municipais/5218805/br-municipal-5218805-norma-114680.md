@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.769, de 2010-05-10
-
 LEI COMPLEMENTAR Nº 5.769, DE 10 DE MAIO DE 2010.
 
 Altera a Lei Complementar n. 3.633/98.

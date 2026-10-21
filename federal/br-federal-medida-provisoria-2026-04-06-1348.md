@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.348 de 06/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.348, DE 6 DE ABRIL DE 2026
 
 Altera a [Lei Complementar nº 89, de 18 de fevereiro de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:1997-02-18;89), para dispor sobre as receitas e a destinação de recursos do Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal - FUNAPOL e sobre o auxílio-saúde dos servidores das polícias federais, e a [Lei nº 13.756, de 12 de dezembro de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-12;13756), para ajustar a destinação do produto da arrecadação das apostas de quota fixa.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.779, de 2025-12-15
-
 LEI Nº 7.779, DE 15 DE DEZEMBRO DE 2025.
 
 Autoriza a outorga de concessão de direito real de uso de imóvel que menciona.

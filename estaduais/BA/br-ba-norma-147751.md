@@ -1,5 +1,3 @@
-# LEI Nº 14.983 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.983 DE 30 DE SETEMBRO DE 2025
 
 Cria o Programa de Qualidade de Vida da Mulher Durante o Climatério.

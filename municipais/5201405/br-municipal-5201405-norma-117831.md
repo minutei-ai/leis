@@ -1,5 +1,3 @@
-# Decreto Numerado nº 108, de 2023-02-13
-
 DECRETO “N” Nº 108 DE 13 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados Loteamento MORADA DOS PÁSSAROS, neste município.

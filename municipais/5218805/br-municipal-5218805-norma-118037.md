@@ -1,5 +1,3 @@
-# Lei Complementar nº 44, de 2015-10-27
-
 ~~LEI COMPLEMENTAR Nº 44, DE 27 DE OUTUBRO DE 2015.~~
 
 ~~Dispõe sobre a Política Municipal do Meio Ambiente e dá outras providências.~~

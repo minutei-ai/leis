@@ -1,5 +1,3 @@
-# Decreto nº 70.207, de 15/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211988)<br>
 
 # DECRETO N° 70.207, DE 15 DE DEZEMBRO DE 2025

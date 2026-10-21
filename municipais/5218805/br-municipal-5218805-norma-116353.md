@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.440, de 2008-05-28
-
 LEI COMPLEMENTAR Nº 5.440, DE 28 DE MAIO DE 2008.
 
 Altera a Lei n. 3.853/99, Plano de Cargos e Vencimentos dos Funcionários do Município.

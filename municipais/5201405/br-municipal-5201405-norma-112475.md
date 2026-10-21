@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.241, de 2025-04-16
-
 DECRETO Nº 1.241, DE 16 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua 02 no Loteamento Setor Conde dos Arcos, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.853, de 2026-01-19
-
 DECRETO Nº 10.853, DE 19 DE JANEIRO DE 2026
 
 Altera o [Decreto nº 9.724](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103462), de 7 de outubro de 2020, que regulamenta a [Lei nº 20.787](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103201), de 3 de junho de 2020, que dispõe sobre a adesão do Estado de Goiás aos benefícios fiscais previstos na legislação do Estado de Mato Grosso do Sul.

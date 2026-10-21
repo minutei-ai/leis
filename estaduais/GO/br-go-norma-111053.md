@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.728, de 2025-07-09
-
 DECRETO Nº 10.728, DE 9 DE JULHO DE 2025
 
 Institui o Conselho de Monitoramento e Avaliação de Políticas Públicas do Estado de Goiás – CAP e dá outras providências.

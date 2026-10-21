@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.554, de 2020-05-07
-
 LEI MUNICIPAL Nº 3.554, DE 07 DE MAIO DE 2020.
 
 “Concede novo prazo ao Estado de Goiás, para a construção do Grupo de Investigações de Homicídios – GIH e o Complexo de Delegacias Especializadas no Município de Aparecida de Goiânia. ”

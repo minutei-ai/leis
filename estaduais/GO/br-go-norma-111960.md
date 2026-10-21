@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.975, de 2025-12-23
-
 LEI Nº 23.975, DE 23 DE DEZEMBRO DE 2025
 
 Dispõe sobre a convalidação da utilização do incentivo financeiro-fiscal relativo aos programas que especifica sem o cumprimento de condicionantes previstas na legislação e a extinção do crédito tributário conexo, também altera a [Lei nº 17.664](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89657 "Abrir Lei Ordinária nº 17664, de 2012 em nova aba"), de 14 de junho de 2012.

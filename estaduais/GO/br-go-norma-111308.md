@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.690, de 2025-09-24
-
 LEI Nº 23.690, DE 24 DE SETEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o “Goianésia Rodeio Festival”, realizado no Município de Goianésia/GO.

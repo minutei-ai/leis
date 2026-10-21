@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.401, de 2023-08-28
-
 LEI N° 7.401, DE 28 DE AGOSTO DE 2023.
 
 Institui o mês “Maio Laranja”, destinado ao combate ao abuso e à exploração sexual de crianças e adolescentes no âmbito do Município de Rio Verde e dá outras providências.

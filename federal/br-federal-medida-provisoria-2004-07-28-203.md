@@ -1,5 +1,3 @@
-# Medida Provisória nº 203 de 28/07/2004
-
 ###MPV-000203-0-000-28-07-2004@@@
 
 MEDIDA PROVISÓRIA Nº 203, DE 28 DE JULHO 2004

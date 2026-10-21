@@ -1,5 +1,3 @@
-# Decreto nº 69.659, de 24/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211108)<br>
 
 # DECRETO N° 69.659, DE 24 DE JUNHO DE 2025

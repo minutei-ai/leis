@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.586, de 2025-08-21
-
 LEI Nº 23.586, DE 21 DE AGOSTO DE 2025
 
 Institui a Campanha Estadual de Incentivo às Visitas aos Asilos, Abrigos e Instituições de Longa Permanência de Pessoas Idosas.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.045, de 2011-12-01
-
 LEI COMPLEMENTAR Nº 6.045, DE 1º DE DEZEMBRO DE 2011.
 
 Altera A Lei n. 5.727/09 – Código Tributário Municipal.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 28, de 2023-01-18
-
 DECRETO “N” Nº 28 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento SÍTIOS SANTA LUZIA, neste município.

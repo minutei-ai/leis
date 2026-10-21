@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.240, de 2025-09-18
-
 DECRETO Nº 2.240, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 08 e 09, todos da Quadra 41, situados à Avenida Barão do Rio Branco, no Loteamento Jardim Luz, no Município de Aparecida de Goiânia.

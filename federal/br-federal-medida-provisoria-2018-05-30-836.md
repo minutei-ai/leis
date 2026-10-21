@@ -1,5 +1,3 @@
-# Medida Provisória nº 836 de 30/05/2018
-
 MEDIDA PROVISÓRIA Nº 836, DE 30 DE MAIO DE 2018
 
 Revoga dispositivos da [Lei nº 10.865, de 30 de abril de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-30;10865), e da [Lei nº 11.196, de 21 de novembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-11-21;11196), referentes à tributação especial da Contribuição para o PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social - Cofins, da Contribuição para o PIS/Pasep- Importação e da Cofins-Importação relativa à nafta e a outros produtos destinados a centrais petroquímicas.

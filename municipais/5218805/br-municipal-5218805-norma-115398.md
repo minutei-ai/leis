@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.361, de 2023-05-29
-
 LEI N. 7.361, DE 29 DE MAIO DE 2023
 
 Autoriza o Poder Executivo a alienar imóvel que compõe o Patrimônio Público.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 281, de 2026-04-13
-
 DECRETO Nº 281, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Campo Belo, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

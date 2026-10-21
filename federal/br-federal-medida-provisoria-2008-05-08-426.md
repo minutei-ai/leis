@@ -1,5 +1,3 @@
-# Medida Provisória nº 426 de 08/05/2008
-
 ###MPV-000426-0-000-08-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 426, DE 8 DE MAIO DE 2008.

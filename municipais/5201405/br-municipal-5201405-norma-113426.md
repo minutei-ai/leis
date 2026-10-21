@@ -1,5 +1,3 @@
-# Lei Complementar nº 85, de 2014-06-17
-
 LEI COMPLEMENTAR Nº 85, DE 17 DE JUNHO DE 2014.
 
 Dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da Secretaria Municipal de Saúde de Aparecida de Goiânia – Altera a Lei Municipal nº 2.229 de 18, de dezembro de 2001 e dá outras providências.

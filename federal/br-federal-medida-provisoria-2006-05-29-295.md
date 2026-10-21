@@ -1,5 +1,3 @@
-# Medida Provisória nº 295 de 29/05/2006
-
 ###MPV-000295-0-000-29-05-2006@@@
 
 MEDIDA PROVISÓRIA Nº 295, DE 29 DE MAIO DE 2006.

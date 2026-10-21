@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.062, de 2025-08-29
-
 DECRETO Nº 2.062, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento da Área G-1, situado na Avenida Brasil com a Rua Guatemala e Rua Salvador, no Loteamento Jardim Belo Horizonte, no Município de Aparecida de Goiânia.

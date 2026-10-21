@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.418, de 2025-05-15
-
 LEI Nº 23.418, DE 15 DE MAIO DE 2025
 
 Dá denominação ao próprio público que especifica.

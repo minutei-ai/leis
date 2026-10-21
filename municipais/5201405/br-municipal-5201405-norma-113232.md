@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.446, de 2025-10-15
-
 DECRETO Nº 2.446, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 18, situado à Avenida Andalusita, no Loteamento Pontal Sul, no Município de Aparecida de Goiânia.

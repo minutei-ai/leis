@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.392, de 2024-01-15
-
 DECRETO Nº 10.392, DE 15 DE JANEIRO DE 2024
 
 Altera o [Decreto estadual nº 9.551](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72491), de 12 de novembro de 2019, que regulamenta a [Lei estadual nº 20.361](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100305), de 5 de dezembro de 2018, que estabelece normas sanitárias para a produção e a comercialização de produtos artesanais comestíveis de origem animal no Estado de Goiás, bem como o processo de fiscalização a que alude art. 10-A da Lei federal nº 1.283, de 18 de dezembro de 1950, regulamentado pelo Decreto federal nº 11.099, de 21 de junho de 2022, que revogou o Decreto federal nº 9.918, de 18 de julho de 2019.

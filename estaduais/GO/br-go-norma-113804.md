@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.229, de 2026-04-14
-
 LEI Nº 24.229, DE 14 DE ABRIL DE 2026
 
 Dispõe sobre a regularização fundiária de ocupações de imóveis rurais de domínio do Estado de Goiás não enquadrados como terras devolutas e altera a [Lei nº 20.229](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100164), de 18 de julho de 2018.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 618, de 2023-09-21
-
 DECRETO “N” Nº 618 DE 21 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

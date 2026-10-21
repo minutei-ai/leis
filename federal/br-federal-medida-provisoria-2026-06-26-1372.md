@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.372 de 26/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.372, DE 26 DE JUNHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 550.000.000,00, para o fim que especifica.

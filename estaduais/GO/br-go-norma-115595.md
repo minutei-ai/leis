@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 204, de 2026-05-22
-
 Portaria Orçamentária nº 204/2026 - Economia
 
 **A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da Lei nº 24.019, de 6 de janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de julho de 2025.

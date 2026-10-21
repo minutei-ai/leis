@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 23 DE 16 DE AGOSTO DE 2016
-
 EMENDA CONSTITUCIONAL Nº 23 DE 16 DE AGOSTO DE 2016
 
 Dá nova redação ao § 3º do art. 46 da Constituição do Estado da Bahia.

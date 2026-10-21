@@ -1,5 +1,3 @@
-# Lei Complementar nº 147, de 2018-09-10
-
 LEI COMPLEMENTAR Nº 147, DE 10 DE SETEMBRO DE 2018<br>
 (Revogada pela Lei Complementar nº 204, de 8 de março de 2023).
 

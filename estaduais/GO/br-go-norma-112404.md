@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.855, de 2026-01-23
-
 DECRETO Nº 10.855, DE 23 DE JANEIRO DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera da festa popular de Carnaval e parcialmente depois dela.

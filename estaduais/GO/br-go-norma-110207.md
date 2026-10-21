@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.161, de 2024-12-20
-
 LEI Nº 23.161, DE 19 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 16.434](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87151), de 16 de dezembro de 2008, que estabelece procedimentos para a concessão e aplicação de adiantamento de numerário a servidor público estadual.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.354, de 2025-05-09
-
 DECRETO Nº 1.354, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o remembramento dos Lote 03, 04 e 05, da Quadra 269, situado à Rua H110, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

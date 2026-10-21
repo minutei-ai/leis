@@ -1,5 +1,3 @@
-# Medida Provisória nº 952 de 15/04/2020
-
 MEDIDA PROVISÓRIA Nº 952, DE 15 DE ABRIL DE 2020
 
 Dispõe sobre a prorrogação do prazo para pagamento de tributos incidentes sobre a prestação de serviços de telecomunicações.

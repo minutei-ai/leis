@@ -1,5 +1,3 @@
-# Decreto Numerado nº 155, de 2024-04-14
-
 DECRETO “N” Nº 155 DE 14 DE MARÇO DE 2024
 
 Dispõe sobre remembramento e desmembramento.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.874, de 2026-06-17
-
 LEI Nº 7.874, DE 17 DE JUNHO DE 2026.
 
 Autoriza desafetação e alienação de área pública correspondente à parte do passeio público ocupada por rampa/degrau de acesso ao imóvel localizado na Avenida Presidente Vargas.

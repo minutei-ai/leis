@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.672, de 2022-05-30
-
 LEI MUNICIPAL Nº 3.672 DE 30 DE MAIO DE 2022.
 
 Cria o Programa de “Horta Comunitária Urbana, Periurbana e rural de Agricultura Familiar” no Município de Aparecida de Goiânia e dá outras providências.

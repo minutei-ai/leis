@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.695, de 2025-06-27
-
 DECRETO Nº 1.695, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Avenida Bela Vista, no Loteamento Parque Évora, no Município de Aparecida de Goiânia.

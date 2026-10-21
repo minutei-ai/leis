@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.391 de 11/09/2026
-
 MEDIDA PROVISÓRIA Nº 1.391, DE 11 DE SETEMBRO DE 2026
 
 Autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel e suas correntes, com a finalidade de garantir o fornecimento de óleo diesel e suas correntes em todo o território nacional, enquanto houver instabilidade na oferta de combustíveis decorrentes de conflitos geopolíticos, e dispõe sobre o tratamento tributário dos depósitos a prazo sem emissão de certificado para fins do imposto de que trata a [Lei nº 8.894, de 21 de junho de 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-06-21;8894).

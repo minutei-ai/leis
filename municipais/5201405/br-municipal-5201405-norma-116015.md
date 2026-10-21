@@ -1,5 +1,3 @@
-# Lei Complementar nº 189, de 2021-11-30
-
 LEI COMPLEMENTAR Nº 189, DE 30 DE NOVEMBRO DE 2021.
 
 Altera o § 4º do art. 273 da Lei nº 792, de 07 de dezembro de 1988. (Código de Posturas do Município).

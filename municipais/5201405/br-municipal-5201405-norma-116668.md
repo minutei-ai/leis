@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.353, de 2017-04-20
-
 LEI MUNICIPAL Nº 3.353, DE 20 DE ABRIL DE 2017.
 
 Reconhece de Utilidade Pública a entidade denominada CENTRO DE RECUPERAÇÃO DE ALCOÓLATRAS – CEREA.

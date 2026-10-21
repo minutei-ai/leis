@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.393, de 2025-10-08
-
 DECRETO Nº 2.393, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 68, situado Rua 126, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

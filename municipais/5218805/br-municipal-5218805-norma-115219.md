@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.536, de 2009-02-27
-
 LEI Nº 5.536, DE 27 DE FEVEREIRO DE 2009.
 
 Cria o Conselho Municipal de Agricultura, Pecuária e Abastecimento e dá outras providências.

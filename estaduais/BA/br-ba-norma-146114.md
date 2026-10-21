@@ -1,5 +1,3 @@
-# LEI Nº 14.817 DE 23 DE JANEIRO DE 2025
-
 LEI Nº 14.817 DE 23 DE JANEIRO DE 2025
 
 Altera a estrutura remuneratória dos cargos das carreiras de Analista Universitário e Técnico Universitário, do Grupo Ocupacional Técnico-Específico das Universidades Estaduais, na forma que indica, e dá outras providências.

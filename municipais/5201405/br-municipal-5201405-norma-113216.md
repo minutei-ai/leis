@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.485, de 2025-10-21
-
 DECRETO Nº 2.485, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Dourados, no Loteamento Setor Aeroporto Sul – 2º Etapa, no Município de Aparecida de Goiânia.

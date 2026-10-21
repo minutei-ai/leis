@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.329, de 2023-02-17
-
 LEI N° 7.329, DE 17 DE FEVEREIRO DE 2023
 
 Cria e disciplina o Programa de Concessão de Bolsas de Pesquisa no âmbito do Município de Rio Verde, a ser gerido pela Agência de Regulação dos Serviços Públicos de Saneamento Básico - AMAE.

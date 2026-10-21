@@ -1,5 +1,3 @@
-# Medida Provisória nº 377 de 18/06/2007
-
 ###MPV-000377-0-000-18-06-2007@@@
 
 MEDIDA PROVISÓRIA Nº 377, DE 18 DE JUNHO DE 2007.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 312, de 2026-04-23
-
 DECRETO Nº 312, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua J56, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

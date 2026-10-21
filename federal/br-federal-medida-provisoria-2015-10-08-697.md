@@ -1,5 +1,3 @@
-# Medida Provisória nº 697 de 08/10/2015
-
 MEDIDA PROVISÓRIA Nº 697, DE 8 DE OUTUBRO DE 2015
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça, das Relações Exteriores, dos Transportes, da Defesa e da Integração Nacional, no valor de R$ 950.246.149,00, para os fins que especifica.

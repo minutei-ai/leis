@@ -1,5 +1,3 @@
-# Decreto Numerado nº 257, de 2026-03-26
-
 DECRETO Nº 257, DE 26 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua Rio Grande do Sul, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

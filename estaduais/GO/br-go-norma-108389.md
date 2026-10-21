@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.533, de 2024-01-08
-
 LEI Nº 22.533, DE 8 DE JANEIRO DE 2024
 
 Institui a Política Estadual de Incentivo à Produção de Café de Qualidade no Estado de Goiás e dá outras providências.

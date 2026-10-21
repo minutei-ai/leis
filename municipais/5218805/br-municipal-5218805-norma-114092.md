@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.752, de 2025-11-17
-
 LEI Nº 7.752, DE 17 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal de Conscientização e Combate ao Diabetes no Município de Rio Verde, e dá outras providências.

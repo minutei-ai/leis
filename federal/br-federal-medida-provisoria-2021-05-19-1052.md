@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.052 de 19/05/2021
-
 MEDIDA PROVISÓRIA Nº 1.052, DE 19 DE MAIO DE 2021
 
 Altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 7.827, de 27 de setembro de 1989, a Lei nº 10.177, de 12 de janeiro de 2001, e a Lei nº 9.126, de 10 de novembro de 1995.

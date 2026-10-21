@@ -1,5 +1,3 @@
-# Lei Complementar nº 119, de 2016-01-11
-
 LEI COMPLEMENTAR Nº 119, DE 11 DE JANEIRO DE 2016.
 
 Define a estrutura e estabelece atribuições dos órgãos que compõem o Sistema Municipal de Proteção e Defesa Civil – SIMPDEC; cria o Conselho Municipal de Defesa Civil – COMUDEC e o Fundo Municipal de Proteção e Defesa Civil – FUMPDEC; e revoga a Lei Municipal n° 2.552 de 22 de dezembro de 2005, e o Decreto Municipal n° 106, de 30 de março de 2009 e dá outras providências.

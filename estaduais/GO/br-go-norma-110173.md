@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.611, de 2024-12-18
-
 DECRETO Nº 10.611, DE 18 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e revoga o [Decreto nº 9.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69848), de 5 de dezembro de 2017.

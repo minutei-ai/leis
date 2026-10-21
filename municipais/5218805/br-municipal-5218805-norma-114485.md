@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.006, de 2005-06-09
-
 LEI COMPLEMENTAR Nº 5.006, DE 9 DE JUNHO DE 2005.
 
 Altera a Lei Complementar n. 3.635/1998 – Código de Posturas.

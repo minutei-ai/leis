@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.287, de 2022-08-30
-
 LEI N° 7.287, DE 30 DE AGOSTO DE 2022
 
 Autoriza concessão do prazo de 10 anos para edificação em imóvel doado à União.

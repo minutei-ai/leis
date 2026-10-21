@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.377, de 2023-06-28
-
 LEI Nº 7.377, DE 28 DE JUNHO DE 2023.
 
 <br>

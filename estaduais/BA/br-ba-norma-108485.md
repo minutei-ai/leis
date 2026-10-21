@@ -1,5 +1,3 @@
-# LD Nº 23 DE 10 DE FEVEREIRO DE 1983
-
 LEI DELEGADA Nº 23 DE 10 DE FEVEREIRO DE 1983
 
 Autoriza a instituição de empresa pública, sob a denominação de Complexo Petroquímico de Camaçari - COPEC, e dá outras providências.

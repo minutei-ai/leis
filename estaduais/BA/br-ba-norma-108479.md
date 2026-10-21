@@ -1,5 +1,3 @@
-# LD Nº 15 DE 06 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 15 DE 06 DE ABRIL DE 1981
 
 Estrutura a Superintendência de Administração Geral da Secretaria da Educação e Cultura do Estado e dá outras providências.

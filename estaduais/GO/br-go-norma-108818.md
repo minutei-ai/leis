@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.670, de 2024-05-07
-
 LEI Nº 22.670, DE 7 DE MAIO DE 2024
 
 Assegura a disponibilização de legendagem no conteúdo audiovisual que especifica.

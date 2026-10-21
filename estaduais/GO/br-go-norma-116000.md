@@ -1,5 +1,3 @@
-# Lei Complementar nº 214, de 2026-06-29
-
 LEI COMPLEMENTAR Nº 214, DE 29 DE JUNHO DE 2026
 
 Altera a [Lei Complementar nº 161](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103671 "Abrir Lei Complementar nº 161, de 2020 em nova aba"), de 30 de dezembro de 2020, que dispõe sobre o Regime Próprio de Previdência Social do Estado de Goiás – RPPS/GO.

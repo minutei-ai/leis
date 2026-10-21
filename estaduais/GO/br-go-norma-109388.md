@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.529, de 2024-08-17
-
 DECRETO Nº 10.529, DE 17 DE AGOSTO DE 2024
 
 Retifica o Anexo Único do [Decreto estadual nº 10.505](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109227), de 23 de julho de 2024, que concede a Comenda da Ordem do Mérito Anhanguera às autoridades que especifica.

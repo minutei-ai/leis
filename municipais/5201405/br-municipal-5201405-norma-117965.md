@@ -1,5 +1,3 @@
-# Decreto Numerado nº 210, de 2023-04-03
-
 DECRETO “N” Nº 210 DE 03 DE ABRIL DE 2023.
 
 Declara de utilidade pública, para efeito de instituição de servidão de passagem e desapropriação, a área abaixo especificada e dá outras providências.

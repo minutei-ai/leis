@@ -1,5 +1,3 @@
-# LCP nº 160, de 04/08/2021
-
 Dispõe sobre o pagamento de diárias no âmbito do Estado.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

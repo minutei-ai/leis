@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.265, de 2015-05-29
-
 LEI MUNICIPAL Nº 3.265, DE 29 DE MAIO DE 2015.
 
 Reconhece de Utilidade Pública Municipal a Associação Cultural Atitude Cristã – ACAC e dá outras providências.

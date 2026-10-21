@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.492, de 2024-02-27
-
 LEI Nº 7.492, DE 27 DE FEVEREIRO DE 2024.
 
 Institui a Campanha Anual de Conscientização em Defesa da Criança e do Adolescente contra Crimes Cibernéticos.

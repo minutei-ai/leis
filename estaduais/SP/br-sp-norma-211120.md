@@ -1,5 +1,3 @@
-# Decreto nº 69.661, de 27/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211120)<br>
 
 # DECRETO N° 69.661, DE 27 DE JUNHO DE 2025

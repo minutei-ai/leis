@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.374, de 2017-09-04
-
 LEI MUNICIPAL 3.374, DE 04 DE SETEMBRO DE 2017
 
 “Dispõe sobre denominação de Avenida MISSIONÁRIO DAVI MARTINS DE MIRANDA”

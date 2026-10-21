@@ -1,5 +1,3 @@
-# Lei Complementar nº 67, de 2012-12-31
-
 LEI COMPLEMENTAR Nº 67, DE 31 DE DEZEMBRO DE 2012.
 
 Altera o Código Tributário do Município de Aparecida de Goiânia – Goiás, Lei Complementar nº 46, de 21.12.2011, e dá outras providências.

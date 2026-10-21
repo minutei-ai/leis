@@ -1,5 +1,3 @@
-# Medida Provisória nº 814 de 28/12/2017
-
 MEDIDA PROVISÓRIA Nº 814, DE 28 DE DEZEMBRO DE 2017
 
 Altera a [Lei nº 12.111, de 9 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-09;12111), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados, e a [Lei nº 10.438, de 26 de abril de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-04-26;10438), que dispõe sobre a expansão da oferta de energia elétrica emergencial, recomposição tarifária extraordinária, cria o Programa de Incentivo às Fontes Alternativas de Energia Elétrica - Proinfa e a Conta de Desenvolvimento Energético - CDE e dispõe sobre a universalização do serviço público de energia elétrica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.888, de 2025-12-30
-
 DECRETO Nº 2.888, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Avenida Lindolfo Vellasco e Rua Pará, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

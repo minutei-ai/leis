@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.633, de 2016-08-18
-
 <br>
 **LEI Nº 6.633, DE 18 DE AGOSTO DE 2016**
 

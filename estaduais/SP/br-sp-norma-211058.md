@@ -1,5 +1,3 @@
-# Decreto nº 69.620, de 11/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211058)<br>
 
 # DECRETO N° 69.620, DE 11 DE JUNHO DE 2025

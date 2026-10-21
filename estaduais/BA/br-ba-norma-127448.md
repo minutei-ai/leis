@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 18 DE 30 DE JANEIRO DE 2014
-
 EMENDA CONSTITUCIONAL Nº 18 DE 30 DE JANEIRO DE 2014
 
 Altera os arts. 159 e 160 da Constituição Estadual, tomando obrigatória a execução da Programação Orçamentaria que especifica.

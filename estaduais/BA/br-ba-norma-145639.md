@@ -1,5 +1,3 @@
-# LEI Nº 14.782 DE 27 DE SETEMBRO DE 2024
-
 LEI Nº 14.782 DE 27 DE SETEMBRO DE 2024
 
 Institui o Dia Estadual da Juventude Cristã, e dá outras providências.

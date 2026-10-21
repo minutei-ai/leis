@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.802, de 2026-01-13
-
 LEI Nº 7.802, DE 13 DE JANEIRO DE 2026.
 
 Institui no âmbito do Município de Rio Verde-GO, a Política Municipal de Atenção Integral à Saúde e Qualidade de Vida de Mulheres na Menopausa, e dá outras providências.

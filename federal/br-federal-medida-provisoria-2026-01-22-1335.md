@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.335 de 22/01/2026
-
 MEDIDA PROVISÓRIA Nº 1.335, DE 22 DE JANEIRO DE 2026
 
 Dispõe sobre as medidas relativas à proteção especial à propriedade intelectual e aos direitos de mídia e de marketing, relacionados à realização, no Brasil, da Copa do Mundo Feminina da FIFA 2027.

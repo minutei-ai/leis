@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.516, de 2019-10-28
-
 LEI MUNICIPAL Nº 3.516, DE 28 DE OUTUBRO DE 2019
 
 Dispõe sobre a denominação do CENTRO DE INICIAÇÃO ESPORTIVA JOSE ALVES DE OLIVEIRA, no setor Parque Trindade I, neste município e dá outras providencias. 

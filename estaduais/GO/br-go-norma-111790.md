@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.938, de 2025-12-11
-
 LEI Nº 23.938, DE 11 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual de Incentivo à Literatura Goiana.

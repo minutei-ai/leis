@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.549, de 2020-04-24
-
 LEI MUNICIPAL Nº 3.549, DE 24 DE ABRIL DE 2020.
 
 Revoga a Lei Municipal nº 3.129, de 11 de Dezembro de 2013.

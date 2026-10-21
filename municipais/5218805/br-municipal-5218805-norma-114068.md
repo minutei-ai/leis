@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.781, de 2025-12-15
-
 LEI Nº 7.781, DE 15 DE DEZEMBRO DE 2025.
 
 Autoriza desafetação e alienação de imóvel público por investidura.

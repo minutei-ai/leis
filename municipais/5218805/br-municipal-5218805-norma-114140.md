@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.770, de 2025-11-17
-
 LEI Nº 7.770, DE 17 DE NOVEMBRO DE 2025.
 
 Concede novo prazo para edificação em área objeto de concessão de direito real de uso pela Lei nº 7.142, de 06 de maio de 2021.

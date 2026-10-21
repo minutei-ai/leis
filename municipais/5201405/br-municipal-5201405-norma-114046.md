@@ -1,5 +1,3 @@
-# Decreto Numerado nº 195, de 2019-05-30
-
 DECRETO “N” Nº 195, DE 30 DE MAIO DE 2019<br>
 (Revogado pelo Decreto "N" nº 529, de 15 de julho de 2022).
 

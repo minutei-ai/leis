@@ -1,5 +1,3 @@
-# LEI Nº 15.030 DE 03 DE DEZEMBRO DE 2025
-
 LEI Nº 15.030 DE 03 DE DEZEMBRO DE 2025
 
 Autoriza o Poder Executivo a contratar operação de crédito interno junto ao Banco do Brasil S.A., com garantia da União, na forma que indica, e dá outras providências.

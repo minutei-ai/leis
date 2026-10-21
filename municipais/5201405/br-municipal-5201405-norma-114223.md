@@ -1,5 +1,3 @@
-# Decreto Numerado nº 565, de 2024-07-11
-
 DECRETO “N” Nº 565, DE 11 DE JULHO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Expansul neste município como de Interesse Social.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 393, de 2023-06-16
-
 DECRETO “N” Nº 393 DE 16 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento ROSA DOS VENTOS, neste município.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.436, de 2023-10-23
-
 LEI Nº 7.436, DE 23 DE OUTUBRO DE 2023.
 
 Dispõe sobre a padronização, alinhamento e identificação da fiação aérea no Município de Verde, e dá outras providências. 

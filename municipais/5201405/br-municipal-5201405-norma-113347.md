@@ -1,5 +1,3 @@
-# Lei Complementar nº 197, de 2022-05-24
-
 LEI COMPLEMENTAR MUNICIPAL Nº 197, DE 24 DE MAIO DE 2022
 
 Altera o art. 3º da Lei Complementar Municipal nº 142/2018 que instituiu o adicional de risco de vida para os integrantes da carreira da Guarda Civil Municipal e dá outras providências.

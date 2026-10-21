@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.158, de 2021-06-03
-
 LEI Nº. 7.158, DE 30 DE JUNHO DE 2021.
 
 Cria o Fundo Municipal para Políticas Penais.

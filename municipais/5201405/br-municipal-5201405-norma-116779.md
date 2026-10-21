@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.295, de 2016-01-04
-
 LEI MUNICIPAL Nº 3.295, DE 04 DE JANEIRO DE 2016.
 
 Autoriza a Doação de Bem Público Imóvel no Loteamento Alvorada Sul e dá outras Providências.

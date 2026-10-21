@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.566, de 2020-07-03
-
 LEI MUNICIPAL N° 3.566, DE 03 DE JULHO DE 2020.
 
 “Revoga o inciso I, do Artigo 2º da Lei Municipal nº 2.944, de 15 de Dezembro de 2010. ”

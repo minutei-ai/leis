@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.555, de 2005-12-23
-
 LEI MUNICIPAL N.º 2.555, DE 23 DE DEZEMBRO DE 2005.<br>
 (Revogada pela Lei Complementar nº 125, de 11 de janeiro de 2017).
 

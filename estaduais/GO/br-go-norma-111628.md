@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.876, de 2025-11-28
-
 LEI Nº 23.876, DE 28 DE NOVEMBRO DE 2025
 
 Confere ao Município de Pires do Rio/GO o título de Capital Goiana da Avicultura.

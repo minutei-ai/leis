@@ -1,5 +1,3 @@
-# LEI Nº 15.081 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.081 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Fundação de Apoio à Pesquisa e à Extensão (FAPEX), com sede e foro no Município de Salvador.

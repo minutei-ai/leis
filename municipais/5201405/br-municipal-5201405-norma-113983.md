@@ -1,5 +1,3 @@
-# Decreto Numerado nº 627, de 2024-08-01
-
 DECRETO “N” Nº 627, DE 01 DE AGOSTO DE 2024.
 
 Delega atribuição ao Secretário Municipal de Administração.

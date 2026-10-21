@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.309, de 2022-12-08
-
 LEI N°. 7.309, DE 8 DE DEZEMBRO DE 2022
 
 Dispõe sobre a “Semana Municipal do Empreendedorismo Feminino” no âmbito do município de Rio Verde/GO, e dá outras providências.

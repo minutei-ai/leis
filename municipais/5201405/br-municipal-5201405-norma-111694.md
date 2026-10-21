@@ -1,5 +1,3 @@
-# Lei Orgânica nº , de 2008-12-16
-
 ÍNDICE
 
 <br>

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.486, de 2025-10-21
-
 DECRETO Nº 2.486, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 32, situado à Rua 52, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

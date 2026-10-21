@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.568, de 2020-07-03
-
 LEI MUNICIPAL N° 3.568, DE 03 DE JULHO 2020.
 
 Altera a redação do art. 71, revoga o disposto no art. 73 e altera a redação do art. 76, ambos da Lei Municipal nº 1.397, de 26 maio de 1994, que dispõe sobre a Estrutura e Regulamenta a Guarda Municipal e Adota Outras Providências.

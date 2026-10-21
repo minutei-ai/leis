@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.440, de 2025-05-21
-
 LEI Nº 23.440, DE 21 DE MAIO DE 2025
 
 Institui a Política Estadual de Incentivo ao Esporte e Cultura via Terceiro Setor, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 876 de 13/03/2019
-
 MEDIDA PROVISÓRIA Nº 876, DE 13 DE MARÇO DE 2019
 
 Altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins.

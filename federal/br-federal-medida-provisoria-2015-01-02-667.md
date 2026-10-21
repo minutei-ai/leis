@@ -1,5 +1,3 @@
-# Medida Provisória nº 667 de 02/01/2015
-
 MEDIDA PROVISÓRIA Nº 667, DE 2 DE JANEIRO DE 2015
 
 Abre crédito extraordinário, em favor dos órgãos e empresas estatais, constantes do Projeto de Lei Orçamentária de 2015, no valor de R$ 74.014.218.398,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 614 de 14/05/2013
-
 MEDIDA PROVISÓRIA Nº 614, DE 14 DE MAIO DE 2013
 
 Altera a Lei nº 12.772, de 28 de dezembro de 2012, que dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal; altera a Lei nº 11.526, de 4 de outubro de 2007; e dá outras providências.

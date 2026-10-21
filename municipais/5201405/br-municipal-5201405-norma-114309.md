@@ -1,5 +1,3 @@
-# Decreto Numerado nº 349, de 2026-05-07
-
 DECRETO Nº 349, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Raul Pompeia, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.165 de 20/03/2023
-
 MEDIDA PROVISÓRIA Nº 1.165, DE 20 DE MARÇO DE 2023
 
 Institui a Estratégia Nacional de Formação de Especialistas para a Saúde, no âmbito do Programa Mais Médicos, e altera a Lei nº 12.871, de 22 de outubro de 2013.

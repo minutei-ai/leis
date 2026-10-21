@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.277 de 28/11/2024
-
 MEDIDA PROVISÓRIA Nº 1.277, DE 28 DE NOVEMBRO DE 2024
 
 Institui o Auxílio Extraordinário destinado a pescadoras e pescadores profissionais artesanais beneficiários do Seguro-Desemprego do Pescador Artesanal - Seguro-Defeso cadastrados em Municípios da Região Norte.

@@ -1,5 +1,3 @@
-# LEI Nº 14.996 DE 08 DE OUTUBRO DE 2025
-
 LEI Nº 14.996 DE 08 DE OUTUBRO DE 2025
 
 Dispõe sobre a alteração do nome da Avenida Henry Ford, localizada na BA-535 para Avenida BYD, no Município de Camaçari, Estado da Bahia, e dá outras providências.

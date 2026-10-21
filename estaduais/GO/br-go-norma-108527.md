@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.558, de 2024-03-12
-
 LEI Nº 22.558, DE 12 DE MARÇO DE 2024
 
 Concede o título de cidadania que especifica.

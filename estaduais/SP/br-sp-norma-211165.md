@@ -1,5 +1,3 @@
-# Lei nº 18.175, de 08/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211165)<br>
 
 # LEI N° 18.175, DE 08 DE JULHO DE 2025

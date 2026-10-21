@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.961, de 2025-12-20
-
 LEI Nº 23.961, DE 20 DE DEZEMBRO DE 2025
 
 Dispõe sobre o uso opcional de tecnologias de QR Code e telas digitais para divulgação das informações no âmbito do Estado de Goiás.

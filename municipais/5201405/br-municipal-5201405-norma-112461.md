@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.205, de 2025-04-14
-
 DECRETO Nº 1.205, DE 14 DE ABRIL DE 2025
 
 Declara luto oficial de 03 (três) dias pelo falecimento de Richard Henrique Pereira Campos, Luciene Padilha de Aquino Campos, Raissa Padilha de Aquino Campos e Melissa Padilha de Aquino Campos.

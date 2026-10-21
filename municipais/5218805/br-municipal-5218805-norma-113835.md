@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.840, de 2026-03-23
-
 LEI Nº 7.840, DE 23 DE MARÇO DE 2026.
 
 Denomina nome de rua que especifica e dá outras providências.

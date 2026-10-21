@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.445, de 2023-11-27
-
 LEI Nº 7.445, DE 27 DE NOVEMBRO DE 2023.
 
 Fica o Poder Executivo a autorizado a outorgar permissão de uso de imóvel público.

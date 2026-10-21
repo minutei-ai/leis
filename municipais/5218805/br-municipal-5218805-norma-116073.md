@@ -1,5 +1,3 @@
-# Lei Complementar nº 287, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 287, DE 17 DE FEVEREIRO DE 2023.
 
 <br>

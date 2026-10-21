@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.754, de 2025-12-08
-
 DECRETO Nº 2.754, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, situado à Avenida C-05, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

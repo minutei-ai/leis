@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3251, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.251, 23 DE dezembro de 2014.
 
 Dá nome ao Centro Municipal de Educação Infantil - CMEI do Residencial Andrade Reis, neste município.

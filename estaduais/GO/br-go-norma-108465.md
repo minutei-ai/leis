@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 80, de 2024-02-21
-
 EMENDA CONSTITUCIONAL Nº 80, DE 21 DE FEVEREIRO DE 2024.
 
 Altera os arts. 12 e 46 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).

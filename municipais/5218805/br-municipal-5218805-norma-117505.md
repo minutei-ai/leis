@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.133, de 2021-03-30
-
 LEI Nº 7.133, DE 30 DE MARÇO DE 2021.
 
 Autoriza a desafetação de rua localizada no loteamento Residencial Reserva do Parque

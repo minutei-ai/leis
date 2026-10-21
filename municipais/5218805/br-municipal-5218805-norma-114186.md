@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.733, de 2025-11-12
-
 LEI Nº 7.733, DE 12 DE NOVEMBRO DE 2025.
 
 Dispõe sobre o horário de funcionamento das Distribuidoras de Bebidas Alcoólicas, popularmente conhecidas como “Bebidas Geladas” no âmbito do Município de Rio Verde, e dá outras providências.

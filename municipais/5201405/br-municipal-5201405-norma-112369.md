@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.007, de 2025-03-07
-
 DECRETO Nº 1.007, DE 07 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

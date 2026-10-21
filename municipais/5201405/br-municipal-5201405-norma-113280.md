@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.385, de 2025-10-07
-
 DECRETO Nº 2.385, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 93, situado à Avenida Olavo Costa Campos, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

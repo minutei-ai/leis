@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.259, de 2022-05-03
-
 LEI N° 7.259, DE 3 DE MAIO DE 2022
 
 Altera a Lei n. 6.387/2014, que cria o Programa Bolsa de Produção Desportiva, Cultural, Ciência e Tecnologia de apoio à Juventude, e Lei n. 5.558/2009, que cria o Programa Bolsa de Produção Cultural.

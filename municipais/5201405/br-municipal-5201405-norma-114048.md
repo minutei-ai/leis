@@ -1,5 +1,3 @@
-# Decreto Numerado nº 650, de 2024-08-14
-
 DECRETO “N” Nº 650, DE 14 DE AGOSTO DE 2024.
 
 Dispõe sobre a nomeação e recondução dos membros do Conselho Municipal de Previdência de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 817 de 04/01/2018
-
 MEDIDA PROVISÓRIA Nº 817, DE 4 DE JANEIRO DE 2018
 
 Disciplina o disposto nas Emendas Constitucionais nº 60, de 11 de novembro de 2009, nº 79, de 27 de maio de 2014, e nº 98, de 6 de dezembro de 2017, dispõe sobre as tabelas de salários, vencimentos, soldos e demais vantagens aplicáveis aos servidores civis, aos militares e aos empregados dos ex-Territórios Federais, integrantes do quadro em extinção de que trata o [art. 89 do Ato das Disposições Constitucionais Transitórias](https://normas.leg.br/?urn=urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988!art89) e o [art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1998-06-04;19!art31), e dá outras providências.

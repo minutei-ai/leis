@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.184, de 2025-01-06
-
 LEI Nº 23.184, DE 6 DE JANEIRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Natal de Coração, realizado no Município de Anápolis/GO.

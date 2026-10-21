@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.860, de 2026-01-29
-
 DECRETO Nº 10.860, DE 29 DE JANEIRO DE 2026
 
 Estabelece, para o exercício de 2026, os limites anuais de empenho e pagamento referentes aos órgãos e às entidades das administrações direta e indireta, bem como das empresas estatais dependentes. 

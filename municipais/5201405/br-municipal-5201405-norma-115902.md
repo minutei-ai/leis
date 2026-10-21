@@ -1,5 +1,3 @@
-# Decreto Numerado nº 506, de 2026-06-25
-
 DECRETO Nº 506, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Jasmim, no Loteamento Jardim Rosa do Sul, no Município de Aparecida de Goiânia.

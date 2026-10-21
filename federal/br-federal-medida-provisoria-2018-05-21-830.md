@@ -1,5 +1,3 @@
-# Medida Provisória nº 830 de 21/05/2018
-
 MEDIDA PROVISÓRIA Nº 830, DE 21 DE MAIO DE 2018
 
 Extingue o Fundo Soberano do Brasil, criado pela [Lei nº 11.887, de 24 de dezembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-12-24;11887), e o Conselho Deliberativo do Fundo Soberano do Brasil.

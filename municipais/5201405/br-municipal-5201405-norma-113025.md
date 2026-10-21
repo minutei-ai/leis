@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.063, de 2025-08-29
-
 DECRETO Nº 2.063, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 01/02 e 03/20, todos da Quadra 74-A, situados à Avenida BR-153, Rua 15 e Rua 17, no Loteamento Vila Brasilia - Continuação, no Município de Aparecida de Goiânia.

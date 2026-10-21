@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.838, de 2026-03-23
-
 LEI Nº 7.838, DE 23 DE MARÇO DE 2026.
 
 Reconhece como Utilidade Pública Municipal a Associação de Amigos do Meio Ambiente do Sudoeste Goiano e dá outras providências.

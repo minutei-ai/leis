@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.839, de 2024-07-12
-
 LEI Nº 22.839, DE 12 DE JULHO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 133, de 2026-02-09
-
 DECRETO Nº 133, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Zacarias Alves Lima, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

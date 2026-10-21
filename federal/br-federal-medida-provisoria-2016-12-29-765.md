@@ -1,5 +1,3 @@
-# Medida Provisória nº 765 de 29/12/2016
-
 MEDIDA PROVISÓRIA Nº 765, DE 29 DE DEZEMBRO DE 2016
 
 Altera a remuneração de servidores de ex-Territórios e de servidores públicos federais; reorganiza cargos e carreiras, estabelece regras de incorporação de gratificação de desempenho a aposentadorias e pensões, e dá outras providências.

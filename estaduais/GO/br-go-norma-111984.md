@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.992, de 2025-12-30
-
 LEI Nº 23.992, DE 30 DE DEZEMBRO DE 2025
 
 Estabelece o regime jurídico dos servidores do Poder Judiciário do Estado de Goiás.

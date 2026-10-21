@@ -1,5 +1,3 @@
-# Decreto nº 70.854, de 10/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212957)<br>
 
 # DECRETO N° 70.854, DE 10 DE SETEMBRO DE 2026

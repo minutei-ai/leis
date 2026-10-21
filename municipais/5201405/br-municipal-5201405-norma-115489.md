@@ -1,5 +1,3 @@
-# Decreto Numerado nº 340, de 2024-05-08
-
 DECRETO “N” Nº 340 DE 08 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

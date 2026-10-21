@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.795, de 2025-10-09
-
 DECRETO Nº 10.795, DE 9 DE OUTUBRO DE 2025
 
 Altera o [Decreto nº 9.252](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70644 "Abrir Decreto Numerado nº 9252, de 2018 em nova aba"), de 25 de junho de 2018, que institui o Pacto Goiano pelo Fim da Violência contra a Mulher e a Rede Estadual pelo Fim da Violência contra a Mulher.

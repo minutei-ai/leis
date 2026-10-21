@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.615, de 2024-12-20
-
 DECRETO Nº 10.615, DE 20 DE DEZEMBRO DE 2024
 
 Altera o valor do benefício do Programa Mães de Goiás, previsto na [Lei nº 21.070](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104257), de 9 de agosto de 2021.

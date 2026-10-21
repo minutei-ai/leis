@@ -1,5 +1,3 @@
-# Medida Provisória nº 843 de 05/07/2018
-
 MEDIDA PROVISÓRIA Nº 843, DE 5 DE JULHO DE 2018
 
 Estabelece requisitos obrigatórios para a comercialização de veículos no Brasil, institui o Programa Rota 2030 - Mobilidade e Logística e dispõe sobre o regime tributário de autopeças não produzidas.

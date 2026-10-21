@@ -1,5 +1,3 @@
-# Medida Provisória nº 730 de 08/06/2016
-
 MEDIDA PROVISÓRIA Nº 730, DE 8 DE JUNHO DE 2016
 
 Abre crédito extraordinário, em favor da Justiça Eleitoral, no valor de R$ 150.000.000,00, para o fim que especifica.

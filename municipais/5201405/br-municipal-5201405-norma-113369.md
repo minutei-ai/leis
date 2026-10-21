@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.992, de 2011-10-19
-
 LEI MUNICIPAL Nº. 2.992, DE 19, DE OUTUBRO DE 2011.
 
 Altera o Artigo 23, da Lei Municipal nº 1.397/1994 – que dispõe sobre o Recrutamento para concorrer ao ingresso na carreira de Guarda Municipal da Cidade de Aparecida de Goiânia-GO., e dá outras providências.

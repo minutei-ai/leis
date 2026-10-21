@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.717, de 2025-06-26
-
 DECRETO Nº 10.717, DE 26 DE JUNHO DE 2025
 
 Altera o [decreto nº 10.595](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110116), de 10 de dezembro de 2024, que prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2025.

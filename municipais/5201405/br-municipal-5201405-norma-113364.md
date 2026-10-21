@@ -1,5 +1,3 @@
-# Decreto Numerado nº 162, de 2026-02-26
-
 DECRETO Nº 162, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua Turvo e Rua Guaraciaba, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

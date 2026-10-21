@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.695, de 2023-02-07
-
 LEI MUNICIPAL Nº 3.695, DE 07 DE FEVEREIRO DE 2023.
 
 Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2023 e dá outras previdências.

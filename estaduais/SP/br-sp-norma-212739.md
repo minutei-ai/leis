@@ -1,5 +1,3 @@
-# Lei nº 18.486, de 16/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212739)<br>
 
 # LEI N° 18.486, DE 16 DE JUNHO DE 2026

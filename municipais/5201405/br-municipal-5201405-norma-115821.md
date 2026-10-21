@@ -1,5 +1,3 @@
-# Decreto Numerado nº 556, de 2024-07-09
-
 DECRETO “N” Nº 556 DE 09 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

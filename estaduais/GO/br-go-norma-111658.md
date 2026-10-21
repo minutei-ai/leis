@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.901, de 2025-12-01
-
 LEI Nº 23.901, DE 1º DE DEZEMBRO DE 2025
 
 Institui a Semana Estadual de Sensibilização sobre a Neurofibromatose (doença de von Recklinghausen) e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.168, de 2021-09-01
-
 LEI Nº 7.168, DE 1º DE SETEMBRO DE 2021.
 
 Autoriza o Poder Executivo a outorgar permissão de uso de área pública.

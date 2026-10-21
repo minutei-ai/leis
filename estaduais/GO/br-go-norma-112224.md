@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.039, de 2026-01-14
-
 LEI Nº 24.039, DE 14 DE JANEIRO DE 2026
 
 Institui o Dia Estadual da Natação.

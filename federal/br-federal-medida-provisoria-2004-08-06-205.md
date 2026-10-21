@@ -1,5 +1,3 @@
-# Medida Provisória nº 205 de 06/08/2004
-
 ###MPV-000205-0-000-06-08-2004@@@
 
 MEDIDA PROVISÓRIA Nº 205, DE 6 DE AGOSTO 2004

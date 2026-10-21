@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.239, de 2025-01-20
-
 LEI Nº 23.239, DE 20 DE JANEIRO DE 2025
 
 Dispõe sobre a forma de anúncio dos preços que especifica nos postos de revenda de combustíveis.

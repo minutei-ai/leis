@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.852, de 2024-07-12
-
 LEI Nº 22.852, DE 12 DE JULHO DE 2024
 
 Institui o selo de incentivo a empresas que promovem o voluntariado.

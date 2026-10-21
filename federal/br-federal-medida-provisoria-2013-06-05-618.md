@@ -1,5 +1,3 @@
-# Medida Provisória nº 618 de 05/06/2013
-
 MEDIDA PROVISÓRIA Nº 618, DE 5 DE JUNHO DE 2013
 
 Altera a Lei nº 10.552, de 13 de novembro de 2002, para dispor sobre a concessão de garantia da União a entidades controladas indiretamente pelos entes da Federação; autoriza o aumento do capital social da VALEC - Engenharia, Construções e Ferrovias S.A.; autoriza a União a renegociar condições financeiras e contratuais das operações de crédito com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES que menciona; altera o cálculo da receita líquida real dos Municípios, para adequação à Lei nº 10.527, de 8 de agosto de 2002; autoriza a União a conceder crédito ao BNDES, no montante de até R$ 15.000.000.000,00 (quinze bilhões de reais), em condições financeiras e contratuais que permitam o seu enquadramento como instrumento híbrido de capital e dívida ou elemento patrimonial que venha a substituí-lo na formação do patrimônio de referência; promove ações de cooperação energética com países da América Latina; e dá outras providências.

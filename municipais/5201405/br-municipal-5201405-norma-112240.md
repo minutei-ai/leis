@@ -1,5 +1,3 @@
-# Decreto Numerado nº 57, de 2026-01-19
-
 DECRETO Nº 057, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Londres, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

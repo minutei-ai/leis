@@ -1,5 +1,3 @@
-# Lei Complementar nº 425, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 425, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei Complementar n° 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

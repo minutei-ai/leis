@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 661, de 2024-10-23
-
 Portaria Orçamentária nº 661/2024 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da Lei nº 22.536, de 9 de Janeiro de 2024, conforme processo 202400004035893.

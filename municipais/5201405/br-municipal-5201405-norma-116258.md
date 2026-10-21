@@ -1,5 +1,3 @@
-# Lei Complementar nº 158, de 2019-01-03
-
 LEI COMPLEMENTAR Nº 158, DE 03 DE JANEIRO DE 2019
 
 Dispõe sobre a regulamentação e fiscalização do serviço de transporte remunerado privado individual de passageiros, a exploração intensiva do viário urbano municipal, e dá outras providências.

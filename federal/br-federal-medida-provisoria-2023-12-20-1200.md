@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.200 de 20/12/2023
-
 MEDIDA PROVISÓRIA Nº 1.200, DE 20 DE DEZEMBRO DE 2023
 
 Abre crédito extraordinário, em favor dos Ministérios da Previdência Social, da Saúde e do Desenvolvimento e Assistência Social, Família e Combate à Fome, e de Encargos Financeiros da União, no valor de R$ 93.143.160.563,00, para os fins que especifica.

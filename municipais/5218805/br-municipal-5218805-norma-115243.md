@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.422, de 2023-10-02
-
 LEI Nº 7.422, DE 02 DE OUTUBRO DE 2023.
 
                      <br>

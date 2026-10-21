@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.525, de 2024-06-24
-
 LEI Nº 7.525, DE 24 DE JUNHO DE 2024.
 
 Altera a Lei nº 5.421, de 02 de abril de 2008, que autoriza a desafetação e doação de imóveis que menciona.

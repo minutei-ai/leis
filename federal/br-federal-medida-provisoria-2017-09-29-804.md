@@ -1,5 +1,3 @@
-# Medida Provisória nº 804 de 29/09/2017
-
 MEDIDA PROVISÓRIA Nº 804, DE 29 DE SETEMBRO DE 2017
 
 Altera a [Medida Provisória nº 783, de 31 de maio de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2017-05-31;783), que institui o Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional, e revoga a [Medida Provisória nº 798, de 30 de agosto de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2017-08-30;798).

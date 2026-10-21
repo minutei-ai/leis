@@ -1,5 +1,3 @@
-# Decreto Numerado nº 418, de 2023-06-27
-
 DECRETO “N” Nº 418 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no loteamento POLO EMPRESARIAL GOIÁS-ETAPA IV, neste município.

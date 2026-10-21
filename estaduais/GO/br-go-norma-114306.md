@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.259, de 2026-05-07
-
 LEI Nº 24.259, DE 7 DE MAIO DE 2026
 
 Institui a Política Estadual de Incentivo à Economia da Gamificação.

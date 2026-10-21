@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.720, de 2023-06-12
-
 LEI MUNICIPAL Nº 3.720, DE 12 DE JUNHO DE 2023
 
 Dispõe sobre a concessão da Revisão Geral Anual no vencimento dos Vereadores e Servidores Públicos da Câmara Municipal de Aparecida de Goiânia – GO.

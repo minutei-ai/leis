@@ -1,5 +1,3 @@
-# Decreto Numerado nº 488, de 2026-06-17
-
 DECRETO Nº 488, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 102, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

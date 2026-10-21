@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.635, de 2025-06-23
-
 DECRETO Nº 1.635, DE 23 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Avenida 104, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

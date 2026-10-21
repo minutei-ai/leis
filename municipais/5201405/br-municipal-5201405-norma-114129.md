@@ -1,5 +1,3 @@
-# Decreto Numerado nº 314, de 2026-04-28
-
 DECRETO Nº 314, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua 4, no Loteamento Parque Santa Cecilia – 2ª Etapa, no Município de Aparecida de Goiânia.

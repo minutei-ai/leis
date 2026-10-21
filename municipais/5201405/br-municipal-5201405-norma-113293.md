@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.342, de 2025-10-03
-
 DECRETO Nº 2.342, DE 3 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01/02-A, situado à Rua 25 de Dezembro e Avenida Santa Rita no Loteamento Parque Flamboyant, no Município de Aparecida de Goiânia.

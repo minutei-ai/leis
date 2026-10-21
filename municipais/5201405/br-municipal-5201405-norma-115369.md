@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.686, de 2022-11-11
-
 LEI MUNICIPAL Nº 3.686, DE 11 DE NOVEMBRO DE 2022.
 
 “Dispõe sobre a obrigatoriedade quanto ao acompanhamento por profissional de saúde do sexo feminino durante a realização de exames ou procedimentos que utilizem de sedação ou anestesia que induzam a inconsciência da paciente e à presença de acompanhante durante os exames sensíveis, no município de Aparecida de Goiânia”

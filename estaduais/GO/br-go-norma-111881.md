@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.954, de 2025-12-20
-
 LEI Nº 23.954, DE 20 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495 "Abrir Lei Ordinária nº 21162, de 2021 em nova aba"), de 16 de novembro de 2021, que institui o Programa Bolsa Estudo no âmbito da Secretaria de Estado da Educação e dá outras providências.

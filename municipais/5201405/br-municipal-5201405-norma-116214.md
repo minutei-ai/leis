@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.562, de 2020-07-23
-
 LEI MUNICIPAL Nº 3.652, DE 23 DE JULHO DE 2020.
 
 "Dispõe sobre a denominação da praça JOSÉ EUZEBIO DE SOUZA no Independência Mansões, neste Município e da outras providencias”.

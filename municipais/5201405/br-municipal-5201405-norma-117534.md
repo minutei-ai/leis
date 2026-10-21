@@ -1,5 +1,3 @@
-# Decreto Numerado nº 992, de 2024-11-19
-
 DECRETO “N” Nº 992 DE 19 DE NOVEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

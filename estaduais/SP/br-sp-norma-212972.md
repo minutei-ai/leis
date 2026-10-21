@@ -1,5 +1,3 @@
-# Decreto nº 70.869, de 14/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212972)<br>
 
 # DECRETO N° 70.869, DE 14 DE SETEMBRO DE 2026

@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 41 DE 13 DE JUNHO DE 2014
-
 LEI COMPLEMENTAR Nº 41 DE 13 DE JUNHO DE 2014
 
 Cria a Entidade Metropolitana da Região Metropolitana de Salvador, dispondo sobre sua estrutura de governança e sobre o sistema de planejamento metropolitano, institui o Fundo de Mobilidade e de Modicidade Tarifária do Transporte Coletivo da Região Metropolitana de Salvador - FMTC-RMS, atende o art. 13 da Lei Federal nº 11.445, de 05 de janeiro de 2007, no âmbito da Região Metropolitana de Salvador, autoriza a instituição do Fundo de Desenvolvimento Metropolitano da Região Metropolitana de Salvador - FRMS, e dá outras providências.

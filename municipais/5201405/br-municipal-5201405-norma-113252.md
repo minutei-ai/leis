@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.421, de 2025-10-09
-
 DECRETO Nº 2.421, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 06, situado Rua Vitre, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

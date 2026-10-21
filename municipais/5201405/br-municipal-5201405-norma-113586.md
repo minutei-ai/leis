@@ -1,5 +1,3 @@
-# Decreto Numerado nº 222, de 2026-03-16
-
 DECRETO Nº 222, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua P e Rua dos Cardeais, no Loteamento Morada dos Pássaros, no Município de Aparecida de Goiânia.

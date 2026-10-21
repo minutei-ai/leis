@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.772, de 2025-09-03
-
 DECRETO Nº 10.772 DE 3 DE SETEMBRO DE 2025
 
 Retifica o Anexo Único do [Decreto nº 10.743](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111103), de 29 de julho de 2025, que concede a Comenda da Ordem do Mérito Anhanguera às autoridades que especifica.

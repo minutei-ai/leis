@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.565, de 2025-07-09
-
 LEI Nº 23.565, DE 9 DE JULHO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

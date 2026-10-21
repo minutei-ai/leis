@@ -1,5 +1,3 @@
-# Decreto Numerado nº 312, de 2023-05-16
-
 DECRETO “N” Nº 312 DE 16 DE MAIO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento EXPANSUL, neste município.

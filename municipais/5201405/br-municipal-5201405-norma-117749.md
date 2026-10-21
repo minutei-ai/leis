@@ -1,5 +1,3 @@
-# Decreto Numerado nº 27, de 2023-01-18
-
 DECRETO “N” Nº 27 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VILLA DEIFIORE, neste município.

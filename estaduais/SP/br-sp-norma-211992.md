@@ -1,5 +1,3 @@
-# Decreto Legislativo nº 2.566, de 16/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211992)<br>
 
 # DECRETO LEGISLATIVO N° 2.566, DE 16 DE DEZEMBRO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.633, de 2025-01-31
-
 DECRETO Nº 10.633, DE 31 DE JANEIRO DE 2025
 
 Altera o [Decreto nº 7.076](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/64125), de 10 de março de 2010, que dispõe sobre a opção do Estado de Goiás pelo regime especial de que trata o art. 97 do Ato das Disposições Constitucionais Transitórias, da Carta Republicana.

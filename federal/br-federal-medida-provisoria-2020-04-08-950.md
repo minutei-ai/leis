@@ -1,5 +1,3 @@
-# Medida Provisória nº 950 de 08/04/2020
-
 MEDIDA PROVISÓRIA Nº 950, DE 8 DE ABRIL DE 2020
 
 Dispõe sobre medidas temporárias emergenciais destinadas ao setor elétrico para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente da pandemia de coronavírus (covid-19).

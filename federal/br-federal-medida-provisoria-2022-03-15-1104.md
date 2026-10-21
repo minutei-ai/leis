@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.104 de 15/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.104, DE 15 DE MARÇO DE 2022
 
 Altera a Lei nº 8.929, de 22 de agosto de 1994, que institui a Cédula de Produto Rural, e a Lei nº 13.986, de 7 de abril de 2020, para dispor sobre o Fundo Garantidor Solidário.

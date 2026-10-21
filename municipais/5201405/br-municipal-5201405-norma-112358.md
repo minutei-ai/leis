@@ -1,5 +1,3 @@
-# Decreto Numerado nº 78, de 2026-01-22
-
 DECRETO Nº 078, DE 22 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Rennes, no Loteamento Residencial Village Garavelo 2º Etapa, no Município de Aparecida de Goiânia.

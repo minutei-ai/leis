@@ -1,5 +1,3 @@
-# Decreto nº 69.813, de 21/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211337)<br>
 
 # DECRETO N° 69.813, DE 21 DE AGOSTO DE 2025

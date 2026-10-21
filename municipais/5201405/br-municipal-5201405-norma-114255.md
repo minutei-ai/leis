@@ -1,5 +1,3 @@
-# Decreto Numerado nº 825, de 2024-10-16
-
 DECRETO “N” Nº 825, DE 01 DE OUTUBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Residencial Caraíbas, neste município como de Interesse Social.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.751, de 2025-07-07
-
 DECRETO Nº 1.751, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01, 02, 03 e 04, situados na Rua JI-49 no Loteamento Jardim Ipe, no Município de Aparecida de Goiânia.

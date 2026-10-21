@@ -1,5 +1,3 @@
-# Lei Complementar nº 198, de 2024-10-15
-
 LEI COMPLEMENTAR Nº 198, DE 15 DE OUTUBRO DE 2024.<br>
 \- [Declarada Inconstitucional - ADI nº 6149522-36.2024.8.09.0000](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18651)
 

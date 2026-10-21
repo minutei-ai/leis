@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.589, de 2020-11-20
-
 LEI MUNICIPAL N° 3.589, DE 20 DE NOVEMBRO DE 2020.
 
 “Dispõe sobre a denominação da praça Maria da Guia de Miranda, no Independência Mansões, neste Município e dá outras providências.”

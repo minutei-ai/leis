@@ -1,5 +1,3 @@
-# Decreto Numerado nº 64, de 2023-01-25
-
 DECRETO “N” Nº 64 DE 25 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SÍITIOS DE SANTA LUZIA RESIDENCIAL, neste município.

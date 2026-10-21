@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.792, de 2024-06-17
-
 LEI Nº 22.792, DE 17 DE JUNHO DE 2024
 
 Institui a Política Estadual de Incentivo à Reinserção Social de Pessoas Encontradas após o Desaparecimento.

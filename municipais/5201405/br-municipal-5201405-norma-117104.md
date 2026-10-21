@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3220, de 2014-09-17
-
 LEI MUNICIPAL N° 3.220, DE 17 de setembro de 2014.
 
 Obriga que os serviços de urgência e emergência da rede pública e privada de saúde do município de Aparecida de Goiânia/GO encaminhe Notificação Compulsória dos Casos de Maus Tratos, Suspeita ou Confirmação de Violência contra a Mulher e, dá outras providências.

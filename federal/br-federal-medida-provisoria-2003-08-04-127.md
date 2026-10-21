@@ -1,5 +1,3 @@
-# Medida Provisória nº 127 de 04/08/2003
-
 ###MPV-000127-0-000-04-08-2003@@@
 
 MEDIDA PROVISÓRIA Nº 127, DE 4 DE AGOSTO 2003.

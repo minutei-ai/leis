@@ -1,5 +1,3 @@
-# Decreto Numerado nº 410, de 2023-06-22
-
 DECRETO “N” Nº 410 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM DOS GIRASSOIS, neste município.

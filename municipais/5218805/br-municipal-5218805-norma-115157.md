@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.283, de 2022-06-27
-
 LEI Nº. 7.283, DE 27 DE JUNHO DE 2022.
 
 Institui programa de auxílio alimentação no âmbito da UniRV - Universidade de Rio Verde.

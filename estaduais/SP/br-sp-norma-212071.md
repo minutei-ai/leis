@@ -1,5 +1,3 @@
-# Decreto nº 70.265, de 22/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212071)<br>
 
 # DECRETO N° 70.265, DE 22 DE DEZEMBRO DE 2025

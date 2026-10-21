@@ -1,5 +1,3 @@
-# Lei Complementar nº 228, de 2024-01-09
-
 LEI COMPLEMENTAR Nº 228, DE 09 DE JANEIRO DE 2024.
 
 Institui o Programa de Recadastramento Imobiliário Voluntário, concede isenção parcial ao Imposto sobre a Propriedade Predial Urbana (IPTU), na hipótese em que especifica, e dá outras providências.

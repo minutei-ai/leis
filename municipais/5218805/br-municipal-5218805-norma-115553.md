@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.860, de 2026-05-19
-
 LEI Nº 7.860, DE 19 DE MAIO DE 2026.
 
 Estabelece diretrizes para a divulgação e o compartilhamento de informações sobre animais perdidos ou encontrados no Município de Rio Verde – GO e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 118, de 2016-01-04
-
 LEI COMPLEMENTAR Nº 118, DE 04 DE JANEIRO DE 2016.<br>
 (Revogada pela Lei Complementar nº 167, de 10 de outubro de 2019).
 

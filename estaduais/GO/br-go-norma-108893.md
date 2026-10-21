@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.732, de 2024-06-04
-
 LEI Nº 22.732, DE 4 DE JUNHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

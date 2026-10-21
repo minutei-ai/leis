@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.628, de 2021-10-15
-
 LEI MUNICIPAL Nº 3.628, DE 15 DE OUTUBRO DE 2021.
 
 “Reconhece de Utilidade Pública a entidade denominada PROJETO CAFÉ COM CRISTO.”

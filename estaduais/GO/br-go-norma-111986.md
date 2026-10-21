@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.994, de 2025-12-30
-
 LEI Nº 23.994, DE 30 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 21.837](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106869 "Abrir Lei Ordinária nº 21837, de 2023 em nova aba"), de 27 de março de 2023, que autoriza o parcelamento de créditos tributários e não tributários, no âmbito administrativo do Poder Judiciário do Estado de Goiás.

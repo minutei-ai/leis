@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.876, de 2025-12-11
-
 LEI Nº 3.876, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre a proibição da utilização e distribuição de livros com conteúdo erótico nas escolas municipais de Aparecida de Goiânia-GO e dá outras providências.

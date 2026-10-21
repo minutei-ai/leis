@@ -1,5 +1,3 @@
-# Lei Complementar nº 244, de 2025-10-23
-
 LEI COMPLEMENTAR Nº 244, DE 23 DE OUTUBRO DE 2025
 
 Altera a Lei Complementar nº 149, de 25 de setembro de 2018 e dá outras providências.

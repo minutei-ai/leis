@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.254, de 2022-05-03
-
 LEI N° 7.254, DE 3 DE MAIO DE 2022
 
 Reconhece como Utilidade Pública Municipal a Comunidade Terapêutica Novo Caminho e dá outras providências.

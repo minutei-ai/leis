@@ -1,5 +1,3 @@
-# Medida Provisória nº 757 de 19/12/2016
-
 MEDIDA PROVISÓRIA Nº 757, DE 19 DE DEZEMBRO DE 2016
 
 Institui a Taxa de Controle de Incentivos Fiscais e a Taxa de Serviços em favor da Superintendência da Zona Franca de Manaus - Suframa e dá outras providências.

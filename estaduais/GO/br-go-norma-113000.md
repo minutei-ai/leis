@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.100, de 2026-02-18
-
 LEI Nº 24.100, DE 18 DE FEVEREIRO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

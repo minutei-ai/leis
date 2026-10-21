@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.252 de 12/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.252, DE 12 DE AGOSTO DE 2024
 
 Abre crédito extraordinário, em favor da Justiça Eleitoral e dos Ministérios da Integração e do Desenvolvimento Regional, das Cidades e de Portos e Aeroportos, no valor de R$ 1.625.802.558,00, para os fins que especifica.

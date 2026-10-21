@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 11 DE 28 DE JUNHO DE 2005
-
 EMENDA CONSTITUCIONAL Nº 11 DE 28 DE JUNHO DE 2005
 
 Altera os arts. 4º, 71, 78, 105, 123, 144, 145 e 163 da Constituição do Estado da Bahia e dá outras providências.

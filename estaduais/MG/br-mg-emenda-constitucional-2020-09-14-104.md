@@ -1,5 +1,3 @@
-# EMC nº 104, de 14/09/2020
-
 Altera a Constituição do Estado, a fim de modificar o sistema de previdência social dos servidores públicos civis, estabelecer regras de transição e dar outras providências.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

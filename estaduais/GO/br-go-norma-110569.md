@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.324, de 2025-04-13
-
 LEI Nº 23.324, DE 13 DE ABRIL DE 2025
 
 Institui o Dia Estadual do _Beach Tennis_.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.201, de 2025-09-09
-
 DECRETO Nº 2.201, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, da Quadra K-49, situado à Rua 66, no Loteamento Bairro Independência 3º Complemento, no Município de Aparecida de Goiânia.

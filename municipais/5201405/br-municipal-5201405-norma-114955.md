@@ -1,5 +1,3 @@
-# Decreto Numerado nº 237, de 2024-04-12
-
 DECRETO “N” Nº 237 DE 12 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

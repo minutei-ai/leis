@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.338, de 2025-10-02
-
 DECRETO Nº 2.338, DE 2 DE OUTUBRO DE 2025
 
 Dispõe sobre o procedimento de tramitação dos processos de aditivos contratuais no âmbito da Administração Pública diretas, autárquicas e fundacionais do Município de Aparecida de Goiânia e dá outras providências.

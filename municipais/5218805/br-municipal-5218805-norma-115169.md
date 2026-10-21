@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.482, de 2024-01-23
-
 LEI Nº 7.482, DE 23 DE JANEIRO DE 2024.
 
 Dispõe sobre transação e parcelamento de débitos decorrentes de tributos, multas tributárias e não tributárias do Município de Rio Verde, a fim de atender ao Programa de Recuperação de Créditos Fiscais, doravante denominado de REFIS, e dá outras providências.

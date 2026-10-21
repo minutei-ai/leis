@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.674, de 2025-06-27
-
 **LEI Nº 7.674, DE 27 DE JUNHO DE 2025.**
 
 Altera a Lei nº 7.435/2023, que Dispõe sobre o Plano de Cargos e Remuneração dos Servidores Públicos da Câmara Municipal de Rio Verde - GO.

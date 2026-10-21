@@ -1,5 +1,3 @@
-# LEI Nº 14.999 DE 20 DE OUTUBRO DE 2025
-
 LEI Nº 14.999 DE 20 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a Associação Cultural de Radiodifusão Independente, com sede e foro no município de São Sebastião do Passé.

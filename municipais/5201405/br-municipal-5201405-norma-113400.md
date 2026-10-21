@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.223, de 2025-09-17
-
 DECRETO Nº 2.223, DE 17 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Joaquina Porfiria Jardim da Veiga, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

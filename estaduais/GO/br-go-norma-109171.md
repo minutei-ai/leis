@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.495, de 2024-07-05
-
 DECRETO Nº 10.495, DE 5 DE JULHO DE 2024
 
 Altera o [Decreto nº 9.724](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103462), de 7 de outubro de 2020, que regulamenta a [Lei nº 20.787](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103201), de 3 de junho de 2020, que dispõe sobre a adesão do Estado de Goiás aos benefícios fiscais previstos na legislação do Estado de Mato Grosso do Sul.

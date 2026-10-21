@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.772, de 2025-12-10
-
 DECRETO Nº 2.772, DE 10 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua J-84, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

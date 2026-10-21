@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.573, de 2024-12-02
-
 LEI Nº 7.573, DE 2 DE DEZEMBRO DE 2024.
 
 Denomina nome do Residencial Severino Leão de Macedo, que especifica e dá outras providências.

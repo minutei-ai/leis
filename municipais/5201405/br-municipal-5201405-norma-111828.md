@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.333, de 2016-10-21
-
 LEI MUNICIPAL Nº 3.333, DE 21 DE OUTUBRO DE 2016.
 
 Altera a Lei 3.202, de 31 de Julho de 2014 que Concede isenção das Taxas de Licença para Execução de Obras e Loteamentos ao Estado de Goiás, para o imóvel que especifica, e dá outras providências e dá outras providências.

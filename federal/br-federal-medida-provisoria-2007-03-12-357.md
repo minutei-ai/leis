@@ -1,5 +1,3 @@
-# Medida Provisória nº 357 de 12/03/2007
-
 ###MPV-000357-0-000-12-03-2007@@@
 
 MEDIDA PROVISÓRIA Nº 357, DE 12 DE MARÇO DE 2007.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 419, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 419, DE 31 DE OUTUBRO DE 2025.
 
 Altera a Lei Complementar nº 3.633, de 4 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos.

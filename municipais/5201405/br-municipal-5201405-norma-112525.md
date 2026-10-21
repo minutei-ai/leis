@@ -1,5 +1,3 @@
-# Decreto Numerado nº 95, de 2026-01-27
-
 DECRETO Nº 095, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 22 e 23, todos da Quadra 55, situados à Rua Sapucaia, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

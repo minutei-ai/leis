@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.984, de 2024-09-12
-
 LEI Nº 22.984, DE 12 DE SETEMBRO DE 2024
 
 Dispõe sobre a instituição da remuneração mensal dos membros do Conselho Deliberativo da GOIASPREV – CDG e do Conselho Fiscal da GOIASPREV – CFG, ambos da Goiás Previdência – GOIASPREV.

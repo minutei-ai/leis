@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3324, de 2016-07-22
-
 LEI MUNICIPAL 3.324, DE 22 DE JULHO DE 2016.
 
 “Concede novo prazo para o Instituto Nacional do Seguro Social – INSS, construir uma Agência da Previdência Social no Loteamento Residencial Andrade Reis, neste município.”

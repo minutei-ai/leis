@@ -1,5 +1,3 @@
-# Decreto Numerado nº 433, de 2023-07-04
-
 DECRETO “N” Nº 433 DE 04 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM VENEZA, neste município.

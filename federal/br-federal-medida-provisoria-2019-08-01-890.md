@@ -1,5 +1,3 @@
-# Medida Provisória nº 890 de 01/08/2019
-
 MEDIDA PROVISÓRIA Nº 890, DE 1 DE AGOSTO DE 2019
 
 Institui o Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e autoriza o Poder Executivo federal a instituir serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.

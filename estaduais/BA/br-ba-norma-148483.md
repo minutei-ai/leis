@@ -1,5 +1,3 @@
-# LEI Nº 15.135 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.135 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública a Organização Religiosa Senhor do Bonfim Ilê Axé Odé, com sede e foro no município de Salvador.

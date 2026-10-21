@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.603, de 2021-04-01
-
 LEI MUNICIPAL Nº 3.603, DE 01 DE ABRIL DE 2021.
 
 Institui o Dia Municipal da Marcha para Jesus.

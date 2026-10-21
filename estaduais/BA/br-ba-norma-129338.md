@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 20 DE 30 DE JUNHO DE 2014
-
 EMENDA CONSTITUCIONAL Nº 20 DE 30 DE JUNHO DE 2014
 
 Altera os arts. 46, 48, 77, 105 e 148, acrescenta o art. 148-A e revoga o inciso II do art. 148, todos da Constituição do Estado da Bahia, e dá outras providências.

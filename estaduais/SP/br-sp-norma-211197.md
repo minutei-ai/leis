@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.432, de 16/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211197)<br>
 
 # LEI COMPLEMENTAR N° 1.432, DE 16 DE JULHO DE 2025

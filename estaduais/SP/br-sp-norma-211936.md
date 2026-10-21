@@ -1,5 +1,3 @@
-# Decreto nº 70.158, de 04/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211936)<br>
 
 # DECRETO N° 70.158, DE 04 DE DEZEMBRO DE 2025

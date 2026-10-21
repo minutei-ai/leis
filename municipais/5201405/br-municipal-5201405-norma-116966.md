@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.250, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.250 DE 23 DE DEZEMBRO DE 2014.
 
 Aprova o Loteamento VILA IZAURA, neste Município e dá Outras Providências.

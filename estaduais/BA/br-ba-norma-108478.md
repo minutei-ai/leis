@@ -1,5 +1,3 @@
-# LD Nº 14 DE 06 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 14 DE 06 DE ABRIL DE 1981
 
 Cria a Superintendência do Centro Administrativo da Bahia.

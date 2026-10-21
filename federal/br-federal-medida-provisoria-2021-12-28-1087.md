@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.087 de 28/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.087, DE 28 DE DEZEMBRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 167.288.600,00, para o fim que especifica, e dá outras providências.

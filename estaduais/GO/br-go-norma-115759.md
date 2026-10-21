@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.935, de 2026-06-23
-
 DECRETO Nº 10.935, DE 23 DE JUNHO DE 2026
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual e transfere o feriado consagrado à fundação da Cidade de Goiás para o dia 20 de julho de 2026.

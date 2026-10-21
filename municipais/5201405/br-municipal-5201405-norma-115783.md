@@ -1,5 +1,3 @@
-# Decreto Numerado nº 522, de 2024-06-27
-
 DECRETO “N” Nº 522 DE 27 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

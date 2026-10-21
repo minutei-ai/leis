@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 246, de 2025-10-13
-
 Portaria Orçamentária nº 246/2025 - Economia<br>
  
 

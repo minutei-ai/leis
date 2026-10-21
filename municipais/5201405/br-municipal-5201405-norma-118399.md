@@ -1,5 +1,3 @@
-# Decreto Numerado nº 651, de 2023-10-16
-
 DECRETO “N” Nº 651 DE 16 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

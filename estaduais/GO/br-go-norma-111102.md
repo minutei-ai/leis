@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.746, de 2025-07-31
-
 DECRETO Nº 10.746, DE 31 DE JULHO DE 2025
 
 Concede a Medalha do Mérito Guardião às autoridades que especifica.

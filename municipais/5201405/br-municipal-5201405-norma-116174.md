@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.535, de 2020-01-07
-
 LEI MUNICPAL Nº 3.535, DE 07 DE JANEIRO DE 2020.
 
 Desafeta bens públicos e desapropria imóvel situados nos loteamentos Alvorada Sul, neste Município e autoriza permuta.

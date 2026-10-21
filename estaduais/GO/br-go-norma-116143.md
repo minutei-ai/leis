@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.436, de 2026-07-08
-
 LEI Nº 24.436, DE 8 DE JULHO DE 2026
 
 Altera a denominação do estabelecimento de ensino que especifica.

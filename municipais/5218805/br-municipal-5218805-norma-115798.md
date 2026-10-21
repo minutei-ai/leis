@@ -1,5 +1,3 @@
-# Lei Complementar nº 357, de 2024-06-24
-
 LEI COMPLEMENTAR Nº 357, DE 24 DE JUNHO DE 2024.
 
 Altera a Lei Complementar nº 130, de 03 de julho de 2018.

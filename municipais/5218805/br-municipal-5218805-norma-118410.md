@@ -1,5 +1,3 @@
-# Lei Complementar nº 462, de 2026-08-18
-
 LEI COMPLEMENTAR Nº 462, DE 18 DE AGOSTO DE 2026.
 
 Altera a Lei Complementar nº 401, de 3 de julho de 2025 e a Lei Complementar nº 5.727, de 11 de dezembro de 2009 - Código Tributário do Município de Rio Verde, para uniformizar a aplicação da taxa SELIC como índice de atualização monetária dos créditos tributários e não tributários do Município de Rio Verde.

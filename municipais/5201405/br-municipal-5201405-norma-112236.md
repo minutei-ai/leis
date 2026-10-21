@@ -1,5 +1,3 @@
-# Decreto Numerado nº 53, de 2026-01-19
-
 DECRETO Nº 053, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento da Área A.I 01 – APM - ÁREA INSTITUCIONAL, situado à Avenida Goianazes, no Loteamento Industrial Global Park, no Município de Aparecida de Goiânia.

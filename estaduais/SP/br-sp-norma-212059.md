@@ -1,5 +1,3 @@
-# Decreto nº 70.253, de 22/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212059)<br>
 
 # DECRETO N° 70.253, DE 22 DE DEZEMBRO DE 2025

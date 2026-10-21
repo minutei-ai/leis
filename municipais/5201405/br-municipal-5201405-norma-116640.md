@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.176, de 2014-04-23
-
 LEI MUNICIPAL Nº 3.176, DE 23 DE ABRIL DE 2014
 
 Dispõe sobre a atualização da relação dos medicamentos disponíveis nas farmácias gratuitas pela Secretaria Municipal de Saúde – SMS no site da Prefeitura municipal de Aparecida de Goiânia – GO, e dá outras providências.<br>

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.336 de 06/02/2026
-
 MEDIDA PROVISÓRIA Nº 1.336, DE 6 DE FEVEREIRO DE 2026
 
 Altera a [Lei nº 8.036, de 11 de maio de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036), que dispõe sobre o Fundo de Garantia do Tempo de Serviço.

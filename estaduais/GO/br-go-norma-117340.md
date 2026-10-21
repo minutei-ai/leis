@@ -1,5 +1,3 @@
-# Lei Complementar nº 215, de 2026-09-10
-
 LEI COMPLEMENTAR Nº 215, DE 10 DE SETEMBRO DE 2026
 
 Altera a [Lei Complementar nº 205](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110694), de 19 de maio de 2025, que institui a Política Estadual de Fomento à Inovação em Inteligência Artificial no Estado de Goiás.

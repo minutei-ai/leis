@@ -1,5 +1,3 @@
-# LEI Nº 15.021 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.021 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a Associação Comercial Empresarial e Agrícola de Seabra – ACISE, com sede e foro no município de Seabra.

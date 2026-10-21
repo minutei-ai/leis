@@ -1,5 +1,3 @@
-# Lei Complementar nº 280, de 2023-02-17
-
 **LEI COMPLEMENTAR N. 280, DE 17 DE FEVEREIRO DE 2023.**
 
 Cria Zona Urbana Específica. Fazenda Rancho Feliz

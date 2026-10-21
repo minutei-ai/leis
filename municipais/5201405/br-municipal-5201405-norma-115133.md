@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.741, de 2023-09-29
-
 LEI MUNICIPAL Nº 3.741, DE 29 DE SETEMBRO DE 2023.
 
 Reconhece como Utilidade Pública Municipal a entidade denominada ANAP - ASSOCIAÇÃO NACIONAL AMOR AO PRÓXIMO.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 466 de 29/07/2009
-
 ###MPV-000466-0-000-29-07-2009@@@
 
 MEDIDA PROVISÓRIA Nº 466, DE 29 DE JULHO DE 2009.

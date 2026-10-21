@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.793, de 2025-12-15
-
 LEI Nº 7.793, DE 15 DE DEZEMBRO DE 2025.
 
 Dispõe sobre a criação da Central de Abastecimento do Cinturão Verde - CEACE, e dá outras providências.

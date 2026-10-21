@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.273, de 2013-06-10
-
 LEI COMPLEMENTAR Nº 6.273, DE 10 DE JUNHO DE 2013.
 
 Altera a Lei Complementar n. 3.633/1998.

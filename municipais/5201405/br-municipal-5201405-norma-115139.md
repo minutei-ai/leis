@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.746, de 2023-10-20
-
 LEI MUNICIPAL Nº 3.746, DE 20 DE OUTUBRO DE 2023.
 
 Dispõe sobre a denominação da nova sede da Câmara Municipal de Aparecida de Goiânia - Palácio Léo Mendanha.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.923, de 2026-09-02
-
 LEI Nº 3.923, DE 2 DE SETEMBRO DE 2026
 
 Dispõe sobre a denominação do Centro de Referência Especializado em Assistência Social – CREAS, situado na Alameda Maranata esquina com a Rua Gideão, no Jardim Maranata, em Aparecida de Goiânia e dá outras providencias.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 325, de 2023-12-01
-
 LEI COMPLEMENTAR Nº 325, DE 1º DE DEZEMBRO DE 2023.
 
 Altera as Leis Complementares nºs 4.692/2003, 5.564/2009 e 130/2018.

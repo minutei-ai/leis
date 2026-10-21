@@ -1,5 +1,3 @@
-# Decreto Numerado nº 238, de 2024-04-12
-
 DECRETO “N” Nº 238 DE 12 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

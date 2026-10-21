@@ -1,5 +1,3 @@
-# Medida Provisória nº 45 de 25/06/2002
-
 ###MPV-000045-0-000-25-06-2002@@@
 
 # MEDIDA PROVISÓRIA Nº 45, DE 25 DE JUNHO DE 2002

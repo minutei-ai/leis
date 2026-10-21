@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.638, de 2025-02-06
-
 DECRETO Nº 10.638 DE 6 DE FEVEREIRO DE 2025
 
 Regulamenta a [Lei nº 23.026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109654), de 7 de outubro de 2024, que institui o Programa Bolsa Profissionalizante para os estudantes dos cursos de Educação Profissional e Tecnológica das Escolas do Futuro do Estado de Goiás – EFGs e das Unidades Descentralizadas de Educação Profissional e Inovação – UDEPIs.

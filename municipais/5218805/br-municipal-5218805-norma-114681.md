@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.680, de 2025-06-30
-
 LEI Nº 7.680, DE 30 DE JUNHO DE 2025.
 
 Altera a [Lei nº 7.139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114683 "Abrir Lei Ordinária nº 7139, de 2021 em nova aba"), de 06 de maio de 2021, que dispõe sobre a Política Municipal de Habitação no âmbito do Município de Rio Verde-GO.

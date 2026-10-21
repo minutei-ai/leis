@@ -1,5 +1,3 @@
-# Decreto Numerado nº 359, de 2024-05-13
-
 DECRETO “N” Nº 359, DE 13 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóveis.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.183, de 2014-06-06
-
 LEI MUNICIPAL Nº 3.183, DE 06 DE JUNHO DE 2014.
 
 Dispõe sobre a obrigatoriedade das agências bancárias situadas no Município de Aparecida de Goiânia disponibilizem bebedouros e banheiros aos seus clientes e usuários, e dá outras providências.

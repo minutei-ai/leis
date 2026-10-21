@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.314, de 2022-12-16
-
 LEI N° 7.314, DE 16 DE DEZEMBRO DE 2022.
 
 Institui o Fundo Municipal de Saneamento Básico de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto nº 70.343, de 20/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212170)<br>
 
 # DECRETO N° 70.343, DE 20 DE JANEIRO DE 2026

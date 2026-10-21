@@ -1,5 +1,3 @@
-# LEI Nº 14.936 DE 26 DE JUNHO DE 2025
-
 LEI Nº 14.936 DE 26 DE JUNHO DE 2025
 
 Dispõe sobre a remissão parcial e a redução de juros e multas do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, na forma que indica, e dá outras providências.

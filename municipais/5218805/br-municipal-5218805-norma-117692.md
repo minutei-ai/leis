@@ -1,5 +1,3 @@
-# Lei Complementar nº 299, de 2023-04-28
-
 LEI COMPLEMENTAR Nº 299, DE 28 DE ABRIL DE 2023
 
 Altera a [Lei Complementar nº 45](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117691)/2015, que reformulou o Fundo Municipal do Meio Ambiente-FMMAm e dá outras providências.

@@ -1,5 +1,3 @@
-# LCP nº 178, de 19/12/2024
-
 Institui o Plano Diretor de Desenvolvimento Integrado da Região Metropolitana do Vale do Aço.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

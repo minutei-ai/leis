@@ -1,5 +1,3 @@
-# Decreto Numerado nº 267, de 2026-03-31
-
 DECRETO Nº 267, DE 31 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Cote D Azur, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

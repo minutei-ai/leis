@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.814, de 2025-11-10
-
 LEI Nº 23.814, DE 10 DE NOVEMBRO DE 2025
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

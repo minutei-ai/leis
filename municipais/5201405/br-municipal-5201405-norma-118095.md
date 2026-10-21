@@ -1,5 +1,3 @@
-# Decreto Numerado nº 321, de 2023-05-16
-
 DECRETO “N” Nº 321 DE 16 DE MAIO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento JARDIM BONANÇA, neste município.

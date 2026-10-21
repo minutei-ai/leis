@@ -1,5 +1,3 @@
-# Decreto nº 70.673, de 03/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212708)<br>
 
 # DECRETO N° 70.673, DE 03 DE JUNHO DE 2026

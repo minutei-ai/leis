@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.162, de 2021-09-02
-
 LEI Nº 7.162, DE 02 DE AGOSTO DE 2021.
 
 Autoriza o Poder Executivo a patrocinar Equipes de Rendimento Esportivo.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 458, de 2023-07-12
-
 DECRETO “N” Nº 458 DE 12 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM ESPLANADA, neste município.

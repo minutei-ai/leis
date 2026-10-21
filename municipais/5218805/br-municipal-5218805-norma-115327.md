@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.395, de 2023-08-28
-
 **LEI N° 7.395, DE 28 DE AGOSTO DE 2023.**
 
 Assegura à criança e ao adolescente cujos pais ou responsáveis sejam pessoas com deficiência ou com idade igual ou superior a 60 (sessenta anos) a máxima prioridade de vaga em unidade de rede pública municipal de ensino mais próxima de sua residência, e dá outras providencias.

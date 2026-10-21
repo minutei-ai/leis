@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.541, de 2024-09-05
-
 DECRETO Nº 10.541, DE 5 DE SETEMBRO DE 2024
 
 Dispõe sobre o procedimento de liquidação forçada de imóveis estaduais.

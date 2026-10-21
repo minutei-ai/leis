@@ -1,5 +1,3 @@
-# Lei Complementar nº 168, de 2019-10-22
-
 LEI COMPLEMENTAR Nº 168, DE 22 DE OUTUBRO DE 2019
 
 Institui o Núcleo de Conciliação Fiscal –NCF e Altera a Lei Complementar 125 de 11 de janeiro de 2017, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.394, de 2017-12-11
-
 LEI MUNICIPAL Nº 3.394, DE 11 DE DEZEMBRO DE 2017
 
 Dispõe sobre a desafetação de parte de via pública e de área situadas no Setor Parque Veiga Jardim, autoriza doação ao Estado de Goiás e dá outras providências.

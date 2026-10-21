@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.766, de 2025-12-10
-
 DECRETO Nº 2.766, DE 10 DE DEZEMBRO DE 2025<br>
 (Revogado pelo DECRETO Nº 466, DE 15 DE JUNHO DE 2026).
 

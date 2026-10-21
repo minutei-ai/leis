@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.768, de 2025-12-10
-
 DECRETO Nº 2.768, DE 10 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 45, situado à Rua Maria Ferreira Leal, no Loteamento Jardim Dom Bosco 2ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.833, de 2026-03-23
-
 LEI Nº 7.833, DE 23 DE MARÇO DE 2026.
 
 Institui o Dia do Contador de Histórias a ser celebrado na data de 20 de março no calendário oficial de datas comemorativas do Município de Rio Verde-GO.

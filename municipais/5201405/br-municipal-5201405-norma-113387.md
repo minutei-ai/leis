@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.263, de 2025-09-23
-
 DECRETO Nº 2.263, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 06, situado à Rua Cristal, no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

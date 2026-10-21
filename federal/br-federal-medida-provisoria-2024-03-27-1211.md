@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.211 de 27/03/2024
-
 MEDIDA PROVISÓRIA Nº 1.211, DE 27 DE MARÇO DE 2024
 
 Altera a [Lei nº 14.690, de 3 de outubro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-03;14690), para prorrogar a duração do Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil - Faixa 1.

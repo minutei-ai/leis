@@ -1,5 +1,3 @@
-# Decreto nº 69.712, de 16/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211209)<br>
 
 # DECRETO N° 69.712, DE 16 DE JULHO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.464, de 2024-05-07
-
 DECRETO Nº 10.464, DE 7 DE MAIO DE 2024
 
 Aprova o Regulamento da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável – SEMAD e altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023.

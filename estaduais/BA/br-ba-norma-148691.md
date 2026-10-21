@@ -1,5 +1,3 @@
-# LEI Nº 15.161 DE 25 DE MAIO DE 2026
-
 LEI Nº 15.161 DE 25 DE MAIO DE 2026
 
 Declara a FESTA DO PEDRÃO, realizada no Município de Eunápolis, como Patrimônio Cultural Imaterial do Estado da Bahia.

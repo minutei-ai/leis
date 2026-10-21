@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.617, de 2021-08-24
-
 LEI MUNICIPAL Nº 3.617, DE 24 DE AGOSTO DE 2021.
 
 “Institui nas escolas públicas e privadas no município de Aparecida de Goiânia a semana do Maio Laranja na prevenção do abuso e da exploração sexual de criança e adolescentes”.

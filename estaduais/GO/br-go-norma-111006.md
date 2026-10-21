@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.531, de 2025-06-28
-
 LEI Nº 23.531, DE 28 DE JUNHO DE 2025
 
 Institui o Dia Estadual dos Protetores de Animais.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 380 de 28/06/2007
-
 ###MPV-000380-0-000-28-06-2007@@@
 
 MEDIDA PROVISÓRIA Nº 380, DE 28 DE JUNHO DE 2007.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 499 de 25/08/2010
-
 MEDIDA PROVISÓRIA Nº 499, DE 25 DE AGOSTO DE 2010
 
 Altera a Lei nº 10.683, de 28 de maio de 2003, transforma Funções Comissionadas Técnicas em cargos em comissão, altera as Leis nºs 8.460, de 17 de setembro de 1992, e 11.526, de 4 de outubro de 2007.

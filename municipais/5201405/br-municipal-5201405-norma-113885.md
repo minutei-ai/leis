@@ -1,5 +1,3 @@
-# Decreto Numerado nº 205, de 2024-04-05
-
 DECRETO “N” Nº 205, DE 05 DE ABRIL DE 2024
 
 Altera a composição da Unidade de Execução Municipal – UEM, instituída pelo Decreto “N” nº 233, de 04 de setembro de 2013, e dá outras providências.

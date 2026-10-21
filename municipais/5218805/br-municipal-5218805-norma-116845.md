@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.202, de 2021-11-03
-
 LEI Nº 7.202, DE 03 DE NOVEMBRO DE 2021
 
 Autoriza o Poder Executivo a realizar doação ao Estado de Goiás.

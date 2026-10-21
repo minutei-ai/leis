@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.803, de 2025-10-22
-
 DECRETO Nº 10.803, DE 22 DE OUTUBRO DE 2025
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

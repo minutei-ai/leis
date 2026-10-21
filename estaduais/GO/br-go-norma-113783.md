@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.220, de 2026-04-09
-
 LEI Nº 24.220, DE 9 DE ABRIL DE 2026
 
 Institui o Selo Abraço da Vida – Manobra de Heimlich.

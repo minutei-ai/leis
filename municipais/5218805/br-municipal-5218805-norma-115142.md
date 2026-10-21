@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.491, de 2024-02-27
-
 LEI Nº 7.491, DE 27 DE FEVEREIRO DE 2024.
 
 Cria o Programa de Combate aos Crimes de Pedofilia e Exploração Sexual Infantil nas Redes Públicas de Saúde e Educação em Rio Verde e dá outras providências.

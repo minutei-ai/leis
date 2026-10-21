@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.329, de 2025-09-30
-
 DECRETO Nº 2.329, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 03 e 04, na Quadra 45, situado à Avenida Guatemala, no loteamento Parque das Nações, no Município de Aparecida de Goiânia.

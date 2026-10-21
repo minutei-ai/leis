@@ -1,5 +1,3 @@
-# Lei Complementar nº 68, de 2012-12-31
-
 LEI COMPLEMENTAR Nº 68, DE 31 DE DEZEMBRO DE 2012.
 
 Regulamenta o efetivo masculino e feminino da Guarda Civil Municipal e altera a Lei Municipal 1397/1994, e da outras providências.

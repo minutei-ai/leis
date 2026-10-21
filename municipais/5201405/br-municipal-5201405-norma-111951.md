@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.825, de 2025-02-12
-
 LEI Nº 3.825, 12 DE FEVEREIRO DE 2025
 
 Reconhece como utilidade pública municipal a entidade Associação Comunitária Beneficente Caminho de Jesus.

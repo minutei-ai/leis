@@ -1,5 +1,3 @@
-# Lei Complementar nº 217, de 2023-08-17
-
 LEI COMPLEMENTAR Nº 217, DE 17 DE AGOSTO DE 2023.
 
 Altera a Lei Municipal nº 2.606/2006, Plano de Cargos e Salários dos Servidores da Secretaria de Educação da Prefeitura Municipal de Aparecida de Goiânia e dá outras providências.

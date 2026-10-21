@@ -1,5 +1,3 @@
-# Decreto Numerado nº 134, de 2024-03-12
-
 DECRETO “N” Nº 134, DE 12 DE MARÇO DE 2024.
 
 Dispõe sobre a nomeação dos membros integrantes da Comissão Administrativa de Defesa Prévia – CADEP e dá outras providências.

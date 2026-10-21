@@ -1,5 +1,3 @@
-# Decreto Numerado nº 101, de 2024-02-27
-
 DECRETO “N” Nº 101 DE 27 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

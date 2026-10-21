@@ -1,5 +1,3 @@
-# LD Nº 18 DE 06 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 18 DE 06 DE ABRIL DE 1981
 
 Cria o cargo em comissão, símbolo DAS-5, de Superintendente do Parque Zoobotânico Getúlio Vargas e dá outras providências.

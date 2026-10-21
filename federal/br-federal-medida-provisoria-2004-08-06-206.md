@@ -1,5 +1,3 @@
-# Medida Provisória nº 206 de 06/08/2004
-
 ###MPV-000206-0-000-06-08-2004@@@
 
 MEDIDA PROVISÓRIA Nº 206, DE 6 DE AGOSTO 2004

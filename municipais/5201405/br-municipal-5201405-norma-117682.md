@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1, de 2023-01-09
-
 DECRETO “N” Nº 001, DE 09 DE JANEIRO DE 2023.
 
 Nomeia membros do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento

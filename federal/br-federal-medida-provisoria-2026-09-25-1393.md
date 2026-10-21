@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.393 de 25/09/2026
-
 MEDIDA PROVISÓRIA Nº 1.393, DE 25 DE SETEMBRO DE 2026
 
 Altera a [Lei nº 14.690, de 3 de outubro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-03;14690), para instituir a Modalidade Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil 3.0 e prever a adoção de medidas de promoção do crédito responsável, altera a [Medida Provisória nº 1.373, de 29 de junho de 2026](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-06-29;1373), para estabelecer novo prazo para o Programa Extraordinário de Reequilíbrio Financeiro de Tomadores de Crédito Adimplentes - Desenrola Adimplentes, e dá outras providências.

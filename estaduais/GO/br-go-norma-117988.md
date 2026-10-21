@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.994, de 2026-10-08
-
 DECRETO Nº 10.994, DE 8 DE OUTUBRO DE 2026
 
 Declara de interesse social, para licenciamento ambiental, o barramento que especifica no Município de Rubiataba/GO.

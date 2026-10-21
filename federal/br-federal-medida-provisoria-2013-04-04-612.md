@@ -1,5 +1,3 @@
-# Medida Provisória nº 612 de 04/04/2013
-
 MEDIDA PROVISÓRIA N°\- 612, DE 4 DE ABRIL DE 2013
 
 Reestrutura o modelo jurídico de organização dos recintos aduaneiros de zona secundária, altera a Lei n° 10.865, de 30 de abril de 2004, e a Medida Provisória n° 601, de 28 de dezembro de 2012; reduz a zero as alíquotas da Contribuição para o PIS/PASEP  e da COFINS incidentes sobre as indenizações a que se refere a Lei n° 12.783, de 11 de janeiro de 2013; altera a Lei n° 12.715, de 17 de setembro de 2012, para dispor sobre multa pecuniária pelo descumprimento do Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores - INOVAR-AUTO; e dá outras providências.

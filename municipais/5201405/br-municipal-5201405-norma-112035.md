@@ -1,5 +1,3 @@
-# Lei Complementar nº 127, de 2017-02-24
-
 LEI COMPLEMENTAR Nº 127, DE 24 DE FEVEREIRO DE 2017
 
 Institui a estrutura administrativa do Instituto de Previdência de Aparecida de Goiânia - APARECIDAPREV e dá outras providências.

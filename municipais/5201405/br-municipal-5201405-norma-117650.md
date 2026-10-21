@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1104, de 2024-12-18
-
 DECRETO “N” Nº 1104 DE 18 DE DEZEMBRO DE 2024
 
 Dispõe sobre desmembramento de imóvel.

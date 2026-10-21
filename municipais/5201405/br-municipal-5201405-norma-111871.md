@@ -1,5 +1,3 @@
-# Lei Complementar nº 177, de 2020-09-18
-
 LEI COMPLEMENTAR N° 177, DE 18 DE SETEMBRO DE 2020
 
 Altera a Lei Complementar nº 003 de 28 de dezembro de 2001 que dispõe sobre o estatuto dos servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia.

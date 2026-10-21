@@ -1,5 +1,3 @@
-# Medida Provisória nº 184 de 10/05/2004
-
 ###MPV-000184-0-000-10-05-2004@@@
 
 MEDIDA PROVISÓRIA Nº 184, DE 10 DE MAIO 2004

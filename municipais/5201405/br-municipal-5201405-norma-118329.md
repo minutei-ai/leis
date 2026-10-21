@@ -1,5 +1,3 @@
-# Decreto Numerado nº 568, de 2023-08-29
-
 DECRETO “N” Nº 568 DE 29 DE AGOSTO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 5, de 2002-01-30
-
 LEI COMPLEMENTAR Nº 005, DE 30 DE JANEIRO DE 2002.
 
 “Dispõe sobre o zoneamento, uso e ocupação do solo, na área urbana e rural do Município de Aparecida de Goiânia e estabelece outras providências urbanísticas.”

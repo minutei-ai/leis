@@ -1,5 +1,3 @@
-# Decreto Numerado nº 289, de 2024-04-23
-
 DECRETO “N” Nº 289 DE 23 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

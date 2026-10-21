@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1066, de 2024-12-11
-
 DECRETO “N” Nº 1066 DE 11 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

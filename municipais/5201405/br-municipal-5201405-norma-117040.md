@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3254, de 2014-12-29
-
 LEI MUNICIPAL N° 3.254, DE 29 DE DEZEMBRO DE 2014.
 
 “Dispõe sobre a aprovação do Loteamento de Interesse Social – Residencial Miramar, neste Município e dá Outras Providências”

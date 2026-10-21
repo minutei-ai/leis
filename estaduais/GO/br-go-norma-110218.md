@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.174, de 2024-12-26
-
 LEI Nº 23.174, DE 26 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, Código Tributário do Estado de Goiás.

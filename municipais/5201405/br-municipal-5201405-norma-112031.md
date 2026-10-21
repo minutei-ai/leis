@@ -1,5 +1,3 @@
-# Lei Complementar nº 22, de 2009-12-23
-
 LEI COMPLEMENTAR Nº. 022, DE 23 DE DEZEMBRO DE 2009.
 
 Dispõe sobre o Plano de Custeio do Regime Próprio de Previdência Social do Município de Aparecida de Goiânia-APARECIDAPREV e dá outras providências.

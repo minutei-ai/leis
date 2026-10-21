@@ -1,5 +1,3 @@
-# Decreto Numerado nº 132, de 2024-03-12
-
 DECRETO “N” Nº 132, DE 12 DE MARÇO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Riviera neste município como de Interesse Social.

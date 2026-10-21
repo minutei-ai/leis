@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.938, de 2026-06-29
-
 DECRETO Nº 10.938, DE 29 DE JUNHO DE 2026
 
 Reduz o interstício que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 416, de 2026-05-25
-
 DECRETO Nº 416, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua 14 de Janeiro, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

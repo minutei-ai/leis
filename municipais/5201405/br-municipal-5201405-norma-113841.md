@@ -1,5 +1,3 @@
-# Decreto Numerado nº 721, de 2024-09-06
-
 DECRETO “N” Nº 721, DE 06 DE SETEMBRO DE 2024.
 
 Fixa datas do período de redução de alíquota do Imposto sobre Transmissão de Bens Imóveis Intervivos – ITBI, autorizado pela Lei Complementar nº 215, de 09 de agosto de 2023, e dá outras providências.

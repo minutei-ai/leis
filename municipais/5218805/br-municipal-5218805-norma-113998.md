@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.797, de 2025-12-15
-
 LEI Nº 7.797, DE 15 DE DEZEMBRO DE 2025.
 
 Dispõe sobre a instalação, funcionamento, administração e fiscalização de cemitérios no Município de Rio Verde e dá outras providências.

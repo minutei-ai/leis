@@ -1,5 +1,3 @@
-# Lei Complementar nº 109, de 2015-11-20
-
 LEI COMPLEMENTAR Nº 109, DE 20 DE NOVEMBRO DE 2015.
 
 “Altera a Lei Municipal nº 2.673, de 25 de junho de 2007, e dá outras providências.”

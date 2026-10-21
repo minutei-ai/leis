@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.130, de 2025-09-02
-
 DECRETO Nº 2.130, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 18, situado à Rua 14E, no Loteamento Garavelo Residencial Park, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.253, de 2026-04-29
-
 LEI Nº 24.253, DE 29 DE ABRIL DE 2026
 
 Reconhece o bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

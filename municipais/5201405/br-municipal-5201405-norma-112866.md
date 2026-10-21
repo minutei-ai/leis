@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.772, de 2025-07-16
-
 DECRETO Nº 1.772, DE 16 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua 120 no Loteamento Jardim Miramar no Município de Aparecida de Goiânia.

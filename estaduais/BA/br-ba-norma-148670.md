@@ -1,5 +1,3 @@
-# LEI Nº 15.154 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.154 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação Instituto Artivista, com sede e foro em Salvador.

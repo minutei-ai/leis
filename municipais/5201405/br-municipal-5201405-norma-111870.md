@@ -1,5 +1,3 @@
-# Lei Complementar nº 169, de 2019-10-22
-
 LEI COMPLEMENTAR Nº 169, DE 22 DE OUTUBRO DE 2019
 
 Altera a Lei Complementar nº 003, de 28 de dezembro de 2001, que dispõe sobre o Estatuto dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia, e da outras providências.

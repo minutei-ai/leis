@@ -1,5 +1,3 @@
-# LEI Nº 15.070 DE 19 DE DEZEMBRO DE 2025
-
 LEI Nº 15.070 DE 19 DE DEZEMBRO DE 2025
 
 Altera o art. 54 da Lei nº [6.677](https://www.legislabahia.ba.gov.br/documentos/lei-no-6677-de-26-de-setembro-de-1994), de 26 de setembro de 1994, na forma que indica, e dá outras providências.

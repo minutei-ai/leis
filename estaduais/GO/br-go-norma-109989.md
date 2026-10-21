@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.118, de 2024-11-27
-
 LEI Nº 23.118, DE 27 DE NOVEMBRO DE 2024
 
 Dispõe sobre a promoção por completar os requisitos para a transferência a pedido ou compulsória para a inatividade aos militares do Estado de Goiás, prevista no parágrafo único do art. 14 da Lei federal nº 14.751, de 12 de dezembro de 2023, altera a [Lei nº 20.946](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103673), de 30 de dezembro de 2020, que dispõe essencialmente sobre o Sistema de Proteção Social dos Militares do Estado de Goiás – SPSM/GO, e a [Lei nº 8.000](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88133), de 25 de novembro de 1975, que dispõe essencialmente sobre os critérios e as condições de promoção dos oficiais da ativa da Polícia Militar do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 110, de 2026-01-29
-
 DECRETO Nº 110, DE 29 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 30, situado à Alameda dos Alecrins, no Loteamento Expansul, no Município de Aparecida de Goiânia.

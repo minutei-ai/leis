@@ -1,5 +1,3 @@
-# Medida Provisória nº 841 de 11/06/2018
-
 MEDIDA PROVISÓRIA Nº 841, DE 11 DE JUNHO DE 2018
 
 Dispõe sobre o Fundo Nacional de Segurança Pública e sobre a destinação do produto da arrecadação das loterias.

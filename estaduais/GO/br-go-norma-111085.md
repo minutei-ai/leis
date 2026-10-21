@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.731, de 2025-07-11
-
 DECRETO Nº 10.731, DE 11 DE JULHO DE 2025
 
 Institui o Conselho Gestor do Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte – PPCAAM/GO.

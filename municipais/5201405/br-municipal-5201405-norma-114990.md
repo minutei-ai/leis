@@ -1,5 +1,3 @@
-# Decreto Numerado nº 271, de 2024-04-17
-
 DECRETO “N” Nº 271 DE 17 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

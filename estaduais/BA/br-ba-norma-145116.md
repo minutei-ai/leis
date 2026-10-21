@@ -1,5 +1,3 @@
-# LEI Nº 14.749 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.749 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública o INSTITUTO SOCIAL ANA MARIA SANTOS (INSTITUTO MÃEZONA), com sede e foro no município de Camaçari.

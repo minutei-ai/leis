@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.647, de 2025-05-26
-
 LEI Nº 7.647, DE 26 DE MAIO DE 2025.
 
 Autoriza concessão de Termo de Aceite e dá outras providências.

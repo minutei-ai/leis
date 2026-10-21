@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.092 de 31/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.092, DE 31 DE DEZEMBRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 700.000.000,00, para os fins que especifica, e dá outras providências.

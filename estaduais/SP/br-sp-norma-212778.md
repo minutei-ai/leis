@@ -1,5 +1,3 @@
-# Decreto nº 70.708, de 22/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212778)<br>
 
 # DECRETO N° 70.708, DE 22 DE JUNHO DE 2026

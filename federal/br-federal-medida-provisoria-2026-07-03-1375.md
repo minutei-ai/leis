@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.375 de 03/07/2026
-
 MEDIDA PROVISÓRIA Nº 1.375, DE 3 DE JULHO DE 2026
 
 Amplia o rol de Carreiras e Planos Especiais de Cargos cujos ocupantes fazem jus à indenização de que trata a [Lei nº 12.855, de 2 de setembro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-09-02;12855), altera a [Lei nº 15.367, de 30 de março de 2026](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-30;15367), para admitir que as pessoas de que tratam o [art. 6º da Emenda Constitucional nº 79, de 27 de maio de 2014](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2014-05-27;79!art6), e o [art. 6º da Emenda Constitucional nº 98, de 6 de dezembro de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2017-12-06;98!art6), exerçam o direito de opção de que tratam os art. 52 a art. 54 da referida Lei, e transforma cargos efetivos vagos.

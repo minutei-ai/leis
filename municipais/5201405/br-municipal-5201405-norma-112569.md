@@ -1,5 +1,3 @@
-# Decreto Numerado nº 103, de 2026-01-28
-
 DECRETO Nº 103, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 17 e 18, situados à Rua Tocantins, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

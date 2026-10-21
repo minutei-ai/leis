@@ -1,5 +1,3 @@
-# Decreto Numerado nº 402, de 2026-05-20
-
 DECRETO Nº 402, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Piratininga, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

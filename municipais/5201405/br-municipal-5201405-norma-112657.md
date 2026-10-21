@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.579, de 2025-06-12
-
 DECRETO Nº 1.579, DE 12 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote Mansão nº 12, situado à Avenida Antônio Borges Teixeira, no Loteamento Bairro Independência – Terceiro Complemento, no Município de Aparecida de Goiânia.

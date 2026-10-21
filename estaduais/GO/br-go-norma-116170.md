@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.451, de 2026-07-10
-
 LEI Nº 24.451, DE 10 DE JULHO DE 2026
 
 Institui o Dia Estadual da Mulher Cooperativista.

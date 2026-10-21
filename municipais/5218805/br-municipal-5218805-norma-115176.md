@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.469, de 2023-12-22
-
 LEI Nº 7.469, DE 22 DE DEZEMBRO DE 2023.
 
 Autoriza a outorga de concessão de direito real de uso de imóvel que menciona.

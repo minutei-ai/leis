@@ -1,5 +1,3 @@
-# Decreto Numerado nº 230, de 2026-03-18
-
 DECRETO Nº 230, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 05, 06, 31 e 32, situados à Rua JI-50 e Rua JI-51, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

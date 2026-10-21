@@ -1,5 +1,3 @@
-# Decreto Numerado nº 275, de 2026-04-07
-
 DECRETO Nº 275, DE 7 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Santarém, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

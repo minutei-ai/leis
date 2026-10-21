@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.218 de 11/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.218, DE 11 DE MAIO DE 2024
 
 Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União, e de Operações Oficiais de Crédito, no valor de R$ 12.179.438.240,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 77, de 2024-02-08
-
 DECRETO “N” Nº 77, DE 08 DE FEVEREIRO DE 2024.
 
 Declara utilidade pública para fins de desapropriação de imóveis situados no Loteamento Chácaras Marivânia, no Município de Aparecida de Goiânia.

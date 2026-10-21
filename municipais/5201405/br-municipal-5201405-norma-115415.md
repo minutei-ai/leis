@@ -1,5 +1,3 @@
-# Decreto Numerado nº 472, de 2026-06-15
-
 DECRETO Nº 472, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Couto Magalhães, no Loteamento Vila São Jorge, no Município de Aparecida de Goiânia.

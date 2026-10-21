@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.737, de 2024-06-04
-
 LEI Nº 22.737, DE 4 DE JUNHO DE 2024
 
 Institui o Dia Estadual do Agente Comunitário de Saúde e do Agente de Combate a Endemias.

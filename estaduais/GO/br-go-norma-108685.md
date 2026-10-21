@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.617, de 2024-04-16
-
 LEI Nº 22.617, DE 16 DE ABRIL DE 2024
 
 Institui a Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo.

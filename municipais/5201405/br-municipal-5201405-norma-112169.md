@@ -1,5 +1,3 @@
-# Decreto Numerado nº 11, de 2026-01-07
-
 DECRETO Nº 011, DE 7 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento da área 3, situado na Quinta da Boa Vista – acréscimo, no Município de Aparecida de Goiânia.

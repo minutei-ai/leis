@@ -1,5 +1,3 @@
-# Decreto Numerado nº 23, de 2023-01-18
-
 DECRETO “N” Nº 23 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE ITATIAIA, neste município.

@@ -1,5 +1,3 @@
-# Decreto nº 70.911, de 30/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213014)<br>
 
 # DECRETO N° 70.911, DE 30 DE SETEMBRO DE 2026

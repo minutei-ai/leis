@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.036 de 17/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.036, DE 17 DE MARÇO DE 2021
 
 Altera a Lei nº 14.046, de 24 de agosto de 2020, para dispor sobre medidas emergenciais para atenuar os efeitos da crise decorrente da pandemia da covid-19 nos setores de turismo e de cultura.

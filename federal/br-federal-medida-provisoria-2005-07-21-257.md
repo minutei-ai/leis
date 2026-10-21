@@ -1,5 +1,3 @@
-# Medida Provisória nº 257 de 21/07/2005
-
 ###MPV-000257-0-000-21-07-2005@@@
 
 MEDIDA PROVISÓRIA Nº 257, DE 21 DE JULHO DE 2005.

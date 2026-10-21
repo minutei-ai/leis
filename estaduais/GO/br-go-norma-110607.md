@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.356, de 2025-04-22
-
 LEI Nº 23.356, DE 22 DE ABRIL DE 2025
 
 Abre crédito especial aos Encargos Gerais do Estado.

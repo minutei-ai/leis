@@ -1,5 +1,3 @@
-# Medida Provisória nº 972 de 26/05/2020
-
 MEDIDA PROVISÓRIA Nº 972, DE 26 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 15.900.000.000,00, para o fim que especifica e dá outras providências.

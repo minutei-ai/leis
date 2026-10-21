@@ -1,5 +1,3 @@
-# Medida Provisória nº 875 de 12/03/2019
-
 MEDIDA PROVISÓRIA Nº 875, DE 12 DE MARÇO DE 2019
 
 Institui o Auxílio Emergencial Pecuniário para Famílias Beneficiárias do Programa Bolsa Família e para Beneficiários do Benefício de Prestação Continuada da Assistência Social e da Renda Mensal Vitalícia, residentes no Município de Brumadinho, Estado de Minas Gerais, em decorrência do estado de calamidade pública reconhecido pela Secretaria Nacional de Proteção e Defesa Civil do Ministério do Desenvolvimento Regional.

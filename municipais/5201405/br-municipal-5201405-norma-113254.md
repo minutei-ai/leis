@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.423, de 2025-10-09
-
 DECRETO Nº 2.423, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, da Quadra 29, situado Rua 08, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

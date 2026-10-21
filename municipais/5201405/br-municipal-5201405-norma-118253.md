@@ -1,5 +1,3 @@
-# Decreto Numerado nº 473, de 2023-07-17
-
 DECRETO “N” Nº 473 DE 17 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR SERRA DOURADA - 3ª ETAPA, neste município.

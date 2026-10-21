@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.455, de 2025-06-02
-
 LEI Nº 23.455, DE 2 DE JUNHO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural e artístico goiano.

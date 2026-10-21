@@ -1,5 +1,3 @@
-# Decreto Numerado nº 169, de 2026-03-02
-
 DECRETO Nº 169, DE 2 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua 7-A, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

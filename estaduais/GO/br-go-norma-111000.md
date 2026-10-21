@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.715, de 2025-06-25
-
 DECRETO Nº 10.715, DE 25 DE JUNHO DE 2025
 
 Aprova o Regulamento da Secretaria de Estado da Segurança Pública – SSP.

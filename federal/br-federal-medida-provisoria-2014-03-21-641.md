@@ -1,5 +1,3 @@
-# Medida Provisória nº 641 de 21/03/2014
-
 MEDIDA PROVISÓRIA Nº 641, DE 21 DE MARÇO DE 2014
 
 Altera a Lei nº 10.848, de 15 de março de 2004, que dispõe sobre a comercialização de energia elétrica.

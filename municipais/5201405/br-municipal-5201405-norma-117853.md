@@ -1,5 +1,3 @@
-# Decreto Numerado nº 131, de 2023-03-02
-
 DECRETO “N” Nº 131 DE 02 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

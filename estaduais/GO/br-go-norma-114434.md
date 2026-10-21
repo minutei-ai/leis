@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.262, de 2026-05-13
-
 LEI Nº 24.262, DE 13 DE MAIO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

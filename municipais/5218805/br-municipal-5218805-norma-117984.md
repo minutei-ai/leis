@@ -1,5 +1,3 @@
-# Lei Complementar nº 350, de 2024-05-27
-
 **LEI COMPLEMENTAR Nº 350, DE 27 DE MAIO DE 2024.**
 
 Altera a [Lei Complementar nº 6.074](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117894), de 14 de dezembro de 2011, que traça o Perímetro Urbano do Município de Rio Verde-GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.531, de 2024-06-24
-
 LEI Nº 7.531, DE 24 DE JUNHO DE 2024.
 
 Proíbe as aplicações de sanções aplicadas pelos condomínios, decorrente de perturbação do sossego envolvendo crianças portadoras com o transtorno do espectro autista e Síndrome de Down no Município de Rio Verde.

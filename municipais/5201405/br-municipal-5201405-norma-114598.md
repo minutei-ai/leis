@@ -1,5 +1,3 @@
-# Decreto Numerado nº 84, de 2024-02-20
-
 DECRETO “N” Nº 84 DE 20 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

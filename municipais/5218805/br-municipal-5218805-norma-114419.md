@@ -1,5 +1,3 @@
-# Lei Complementar nº 223, de 2021-09-02
-
 LEI COMPLEMENTAR Nº 223, DE 02 DE SETEMBRO DE 2021.
 
 Dispõe sobre criação de Zona Urbana Específica no município de Rio Verde e dá outras providências.

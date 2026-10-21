@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.034, de 2025-08-25
-
 DECRETO Nº 2.034, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 61, situado à Avenida Dr. Epitacio Saraiva da Cruz, no Loteamento Jardim Dom Bosco 2ª Etapa, no Município de Aparecida de Goiânia.

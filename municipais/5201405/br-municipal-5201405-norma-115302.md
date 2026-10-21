@@ -1,5 +1,3 @@
-# Decreto Numerado nº 465, de 2026-06-12
-
 DECRETO Nº 465, DE 12 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01 ao 08, da Quadra 64, Lotes 06 ao 13, da Quadra 65, Alameda Santos Dumont Parte 2/14A, Lote 01, da Quadra 67, Lotes 01 ao 03, da Quadra 68, Rua Dona Fumia Parte 01, Rua Dona Fumia Parte 02, Rua Brasil Parte 01 e Rua Brasil Parte 02, todos situados à Rua São Zacharias, Rua Jorge Arruk e Avenida 9 de julho, no Loteamento Vila Mariana, no Município de Aparecida de Goiânia.

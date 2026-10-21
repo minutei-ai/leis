@@ -1,5 +1,3 @@
-# Medida Provisória nº 974 de 28/05/2020
-
 MEDIDA PROVISÓRIA Nº 974, DE 28 DE MAIO DE 2020
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Saúde.

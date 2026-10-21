@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3336, de 2016-10-21
-
 LEI MUNICIPAL 3.336, DE 21 DE OUTUBRO DE 2016.
 
 “Institui o “Dia do Fiscal” e dá outras providências.”

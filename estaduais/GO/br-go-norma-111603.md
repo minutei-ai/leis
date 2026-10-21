@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.859, de 2025-11-19
-
 LEI Nº 23.859, DE 19 DE NOVEMBRO DE 2025
 
 Estabelece regras a serem atendidas pelos estabelecimentos comerciais que prestam serviço de hospedagem de animais domésticos.

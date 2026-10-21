@@ -1,5 +1,3 @@
-# LEI Nº 15.137 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.137 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública a Associação Cultural Desportiva Beneficente Salvando Vidas, com sede e foro no município de Salvador.

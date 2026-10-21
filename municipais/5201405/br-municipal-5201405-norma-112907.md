@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.911, de 2025-08-07
-
 DECRETO Nº 1.911, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua das Amendoeiras, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

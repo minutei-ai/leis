@@ -1,5 +1,3 @@
-# LD Nº 11 DE 29 DE DEZEMBRO DE 1980
-
 LEI DELEGADA Nº 11 DE 29 DE DEZEMBRO DE 1980
 
 Dispõe sobre a integração dos empregados de fundações, empresas públicas e sociedades de economia mista nos quadros de pessoal da administração centralizada ou de autarquias, e dá outras providências.

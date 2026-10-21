@@ -1,5 +1,3 @@
-# Lei Complementar nº 144, de 2018-10-29
-
 LEI COMPLEMENTAR N. 144, DE 29 DE OUTUBRO DE 2018.
 
 Altera Lei n. 5.727/2009, que aprova o Código Tributário Municipal.

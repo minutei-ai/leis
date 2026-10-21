@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.244, de 2025-04-21
-
 DECRETO Nº 1.244, DE 21 DE ABRIL DE 2025
 
 Decreta luto oficial pelo falecimento de Sua Santidade JORGE MARIO BERGOGLIO - PAPA FRANCISCO.

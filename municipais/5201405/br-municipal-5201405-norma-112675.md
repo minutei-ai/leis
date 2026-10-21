@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.602, de 2025-06-18
-
 DECRETO Nº 1.602, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Avenida Dr Antonio Lisboa, no Loteamento Parque Rio das Pedras, no Município de Aparecida de Goiânia.

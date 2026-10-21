@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.903, de 2026-06-02
-
 LEI Nº 3.903, DE 2 DE JUNHO DE 2026
 
 Dispõe sobre a divulgação da proibição de venda casada em estabelecimentos comerciais e de prestação de serviços, públicos e privados, no Município de Aparecida de Goiânia, e dá outras providências.

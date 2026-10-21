@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.492, de 2026-08-14
-
 LEI Nº 24.492, DE 14 DE AGOSTO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

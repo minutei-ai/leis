@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.702, de 2025-06-30
-
 DECRETO Nº 1.702, DE 30 DE JUNHO DE 2025
 
 (Tornado sem efeito pelo Decreto nº 2.033, de 25 de agosto de 2025).

@@ -1,5 +1,3 @@
-# LEI Nº 14.897 DE 13 DE MAIO DE 2025
-
 LEI Nº 14.897 DE 13 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação dos Pequenos Produtores Rurais da Fazenda Inácio João, com sede e foro no município de Caém.

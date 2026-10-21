@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.385, de 2026-06-24
-
 LEI Nº 24.385, DE 24 DE junho DE 2026
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 55, de 2023-01-24
-
 DECRETO “N” Nº 55 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL – 2ª ETAPA, neste município.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.283 de 28/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.283, DE 28 DE DEZEMBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 168.268.040,00, para os fins que especifica.

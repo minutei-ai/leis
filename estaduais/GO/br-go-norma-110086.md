@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.127, de 2024-12-02
-
 LEI Nº 23.127, DE 2 DE DEZEMBRO DE 2024
 
 Institui a Política Estadual denominada “Troco Solidário” no âmbito do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 699, de 2023-11-16
-
 DECRETO “N” Nº 699 DE 16 DE NOVEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

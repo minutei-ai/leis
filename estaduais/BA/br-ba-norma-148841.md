@@ -1,5 +1,3 @@
-# LEI Nº 15.172 DE 17 DE JUNHO DE 2026
-
 LEI Nº 15.172 DE 17 DE JUNHO DE 2026
 
 Altera a Lei nº [7.990](https://www.legislabahia.ba.gov.br/documentos/lei-no-7990-de-27-de-dezembro-de-2001), de 27 de dezembro de 2001, a Lei nº [13.201](https://www.legislabahia.ba.gov.br/documentos/lei-no-13201-de-09-de-dezembro-de-2014), de 09 de dezembro de 2014, a Lei nº [14.572](https://www.legislabahia.ba.gov.br/documentos/lei-no-14572-de-25-de-maio-de-2023), de 25 de maio de 2023, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 198, de 2022-06-22
-
 LEI COMPLEMENTAR N° 198, DE 22 DE JUNHO DE 2022.
 
 Altera a Lei Complementar nº 144/2018, que Institui o Regime Especial de Trabalho da Secretaria Municipal de Educação para os integrantes do cargo efetivo de Agente Educativo e dá outras providências, reajustando o valor da gratificação dos respectivos servidores.

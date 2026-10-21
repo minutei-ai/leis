@@ -1,5 +1,3 @@
-# Decreto nº 69.816, de 22/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211350)<br>
 
 # DECRETO N° 69.816, DE 22 DE AGOSTO DE 2025

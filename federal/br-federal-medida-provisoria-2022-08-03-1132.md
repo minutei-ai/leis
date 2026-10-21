@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.132 de 03/08/2022
-
 MEDIDA PROVISÓRIA Nº 1.132, DE 3 DE AGOSTO DE 2022
 
 Dispõe sobre o percentual máximo aplicado para a contratação de operações de crédito com desconto automático em folha de pagamento.

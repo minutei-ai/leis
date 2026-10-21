@@ -1,5 +1,3 @@
-# Decreto Numerado nº 269, de 2023-04-19
-
 DECRETO “N” Nº 269 DE 19 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RETIRO DO BOSQUE, neste município.

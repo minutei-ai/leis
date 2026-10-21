@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.581, de 2025-11-05
-
 DECRETO Nº 2.581, DE 5 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 30, da Quadra 30, situado à Rua Cleópatra, no Loteamento Vila Deifiore, no Município de Aparecida de Goiânia.

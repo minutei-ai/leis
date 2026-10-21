@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.761, de 2025-08-18
-
 DECRETO Nº 10.761, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual no Município de Santa Cruz de Goiás.

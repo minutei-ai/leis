@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.071, de 2024-11-11
-
 LEI Nº 23.071, DE 11 DE NOVEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

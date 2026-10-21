@@ -1,5 +1,3 @@
-# Decreto Numerado nº 81, de 2026-01-26
-
 DECRETO Nº 081, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua 111, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

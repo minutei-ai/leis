@@ -1,5 +1,3 @@
-# Decreto Numerado nº 529, de 2023-08-09
-
 DECRETO “N” Nº 529 DE 09 DE AGOSTO DE 2023.
 
 Dispõe sobre remembramento de imóvel.

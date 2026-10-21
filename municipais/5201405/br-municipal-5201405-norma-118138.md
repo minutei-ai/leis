@@ -1,5 +1,3 @@
-# Decreto Numerado nº 361, de 2023-06-05
-
 DECRETO “N” Nº 361 DE 05 DE JUNHO 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR GARAVELO, neste município.

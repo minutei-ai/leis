@@ -1,5 +1,3 @@
-# Lei Complementar nº 114, de 2015-12-11
-
 LEI COMPLEMENTAR Nº 114, DE 11 DE DEZEMBRO DE 2015
 
 Altera a Lei Municipal nº 792, de 07 de dezembro de 1988 – que Dispõe sobre o Código de Posturas do Município de Aparecida de Goiânia e dá outras providências - disciplinando a distância mínima entre bombas distribuidoras de combustível e estabelecimentos públicos ou particulares e dá outras providências.

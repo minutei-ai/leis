@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.577, de 2025-11-04
-
 DECRETO Nº 2.577, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais no dia 21 de novembro de 2025, em razão do feriado nacional do dia 20 de novembro (Dia Nacional de Zumbi e da Consciência Negra).

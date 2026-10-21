@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.239, de 2022-02-22
-
 LEI N° 7.239, DE 22 DE FEVEREIRO DE 2022
 
 Autoriza a celebração de parceria com a Associação Comercial Indústria e Serviços de Rio Verde - ACIRV.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.851, de 2026-04-23
-
 LEI Nº 7.851, DE 23 DE ABRIL DE 2026.
 
 Institui no Calendário Oficial do Município de Rio Verde a Semana Municipal do Esporte e dá outras providências.

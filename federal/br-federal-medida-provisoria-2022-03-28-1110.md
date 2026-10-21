@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.110 de 28/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.110, DE 28 DE MARÇO DE 2022
 
 Dispõe sobre o Programa de Simplificação do Microcrédito Digital para Empreendedores - SIM Digital e altera as Leis nº 8.212, de 24 de julho de 1991, e a Lei nº 11.196, de 21 de novembro de 2005.

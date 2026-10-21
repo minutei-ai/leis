@@ -1,5 +1,3 @@
-# LEI Nº 14.935 DE 26 DE JUNHO DE 2025
-
 LEI Nº 14.935 DE 26 DE JUNHO DE 2025
 
 Anexos disponíveis no Download

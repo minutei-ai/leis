@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.730, de 2024-06-04
-
 LEI Nº 22.730, DE 4 DE JUNHO DE 2024.
 
 Autoriza a abertura de crédito especial à Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG.

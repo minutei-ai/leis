@@ -1,5 +1,3 @@
-# Decreto nº 70.347, de 27/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212177)<br>
 
 # DECRETO N° 70.347, DE 27 DE JANEIRO DE 2026

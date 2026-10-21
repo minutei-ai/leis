@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.673, de 2022-06-02
-
 LEI MUNICIPAL Nº 3.673 DE 02 DE JUNHO DE 2022.
 
 “Dispõe sobre a obrigatoriedade das concessionárias de veículos instaladas no Município de Aparecida de Goiânia afixarem, em local visível, a lista de doenças, deficiências e necessidades especiais que permitam a compra de veículos com descontos decorrentes da isenção de impostos e dá outras providências.”

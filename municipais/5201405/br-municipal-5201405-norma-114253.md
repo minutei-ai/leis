@@ -1,5 +1,3 @@
-# Decreto Numerado nº 163, de 2024-03-22
-
 DECRETO “N” Nº 163, DE 22 DE MARÇO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Bairro Nova Cidade, neste município como de Interesse Social.

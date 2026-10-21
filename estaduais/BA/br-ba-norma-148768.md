@@ -1,5 +1,3 @@
-# LEI Nº 15.169 DE 11 DE JUNHO DE 2026
-
 LEI Nº 15.169 DE 11 DE JUNHO DE 2026
 
 Autoriza o Poder Executivo a aderir à cooperação financeira com a União, nos termos da Medida Provisória nº 1.349, de 07 de abril de 2026, na forma que indica, e dá outras providências.

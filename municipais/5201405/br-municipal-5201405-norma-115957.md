@@ -1,5 +1,3 @@
-# Decreto Numerado nº 633, de 2024-08-01
-
 DECRETO “N” Nº 633 DE 01 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.158 de 12/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.158, DE 12 DE JANEIRO DE 2023
 
 Altera a Lei nº 9.069, de 29 de junho de 1995, a Lei nº 9.613, de 3 de março de 1998, e a Lei nº 13.974, de 7 de janeiro de 2020, para dispor sobre o Conselho Monetário Nacional e sobre a vinculação administrativa do Conselho de Controle de Atividades Financeiras ao Ministério da Fazenda.

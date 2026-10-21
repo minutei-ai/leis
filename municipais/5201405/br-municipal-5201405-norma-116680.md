@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.362, de 2017-06-12
-
 LEI MUNICIPAL 3.362, DE 12 DE JUNHO DE 2017
 
 Altera a Lei Municipal n° 3.172/2014, que dispõe sobre o Conselho Municipal de Turismo.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 45, de 2024-01-30
-
 DECRETO “N” Nº 45, DE 30 DE JANEIRO DE 2024.
 
 Dispõe sobre a criação do Núcleo Avançado de Conciliação Fiscal – NCF, no âmbito do Município de Aparecida de Goiânia e dá outras providências.

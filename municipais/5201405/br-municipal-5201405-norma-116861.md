@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.921, de 2026-08-24
-
 LEI Nº 3.921, DE 24 DE AGOSTO DE 2026
 
 Institui diretrizes para o acolhimento e a adaptação escolar de alunos com deficiência ou transtornos do neurodesenvolvimento na rede municipal de ensino de Aparecida de Goiânia, e dá outras providências.

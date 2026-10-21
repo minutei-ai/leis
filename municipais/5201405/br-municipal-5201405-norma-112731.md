@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.778, de 2024-03-27
-
 LEI MUNICIPAL Nº 3.778, DE 27 DE MARÇO DE 2024. Autoriza o Município de Aparecida de Goiânia a
 
 conceder revisão geral anual e aumento salarial a quem especifica e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.212, de 2014-08-28
-
 LEI MUNICIPAL Nº 3.212, DE 28 DE AGOSTO DE 2014.
 
 Desafeta áreas públicas que especifica situadas no loteamento “Residencial Caraíbas”, neste Município, autoriza permuta e doação ao Tribunal de Justiça do Estado de Goiás e dá outras providências.

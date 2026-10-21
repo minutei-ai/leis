@@ -1,5 +1,3 @@
-# Decreto Numerado nº 200, de 2026-03-12
-
 DECRETO Nº 200, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua 51, no Loteamento Bairro Independência - 3º Complemento, no Município de Aparecida de Goiânia.

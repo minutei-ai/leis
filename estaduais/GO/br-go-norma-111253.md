@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.780, de 2025-09-15
-
 DECRETO Nº 10.780 , DE 15 DE SETEMBRO DE 2025
 
 Altera o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás, também revoga o [Decreto nº 6.887](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63352), de 2 de abril de 2009, e o [Decreto nº 8.397](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67478), de 25 de junho de 2015.

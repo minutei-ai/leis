@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.769, de 2025-07-10
-
 DECRETO Nº 1.769, DE 10 DE JULHO DE 2025
 
 Dispõe sobre a declaração de utilidade pública, para fins de desapropriação, dos imóveis localizados nos setores Buenos Aires 1ª e 2ª Etapas, Fazenda Santo Antônio – Glebas 1, 2, 3, 4 e 5 no Município de Aparecida de Goiânia.

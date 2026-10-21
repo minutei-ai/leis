@@ -1,5 +1,3 @@
-# LEI Nº 14.889 DE 24 DE ABRIL DE 2025
-
 LEI Nº 14.889 DE 24 DE ABRIL DE 2025
 
 Institui a Política de Transição Energética do Estado da Bahia, o Programa Estadual de Transição Energética - PROTENER, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.726, de 2024-05-29
-
 LEI Nº 22.726, DE 29 DE MAIO DE 2024
 
 [Altera a Lei nº 22.417](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108121), de 25 de novembro de 2023, que dá denominação ao próprio público que especifica.

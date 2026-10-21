@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.237, de 2013-03-18
-
 LEI COMPLEMENTAR Nº 6.237, DE 18 DE MARÇO DE 2013.
 
 Aumenta o quantitativo do cargo de Fiscal de Posturas II.

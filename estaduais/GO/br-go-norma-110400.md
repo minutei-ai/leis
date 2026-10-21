@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.238, de 2025-01-20
-
 LEI Nº 23.238, DE 20 DE JANEIRO DE 2025
 
 Institui a Política Estadual de Incentivo à Implantação de Rotas Hidroviárias de Transporte.

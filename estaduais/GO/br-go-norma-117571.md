@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.988, de 2026-09-21
-
 DECRETO Nº 10.988, DE 21 DE SETEMBRO DE 2026
 
 Altera o [Decreto nº 10.975](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116721), de 14 de agosto de 2026, que concede a Medalha do Mérito Guardião às autoridades que especifica.

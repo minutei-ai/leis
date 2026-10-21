@@ -1,5 +1,3 @@
-# Decreto Numerado nº 14, de 2026-01-08
-
 DECRETO Nº 014, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 16 e 17, Todos da Quadra 23, situados à Avenida Epiacaúba e Rua Ecopocu, no Loteamento Jardim Helvécia, no Município de Aparecida de Goiânia.

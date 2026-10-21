@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.308, de 2025-03-27
-
 LEI Nº 23.308, DE 27 DE MARÇO DE 2025
 
 Altera a [Lei nº 16.476](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87198), de 10 de fevereiro de 2009, que dispõe sobre a Política Estadual de Apoio à Agricultura Urbana e dá outras providências.

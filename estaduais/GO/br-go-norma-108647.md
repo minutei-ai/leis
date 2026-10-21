@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.592, de 2024-04-04
-
 LEI Nº 22.592, DE 4 DE ABRIL DE 2024
 
 Concede o título de cidadania que especifica.

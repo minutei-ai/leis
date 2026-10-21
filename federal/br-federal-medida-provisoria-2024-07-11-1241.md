@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.241 de 11/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.241, DE 11 DE JULHO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública, do Meio Ambiente e Mudança do Clima, e da Defesa, no valor de R$ 137.638.217,00, para os fins que especifica.

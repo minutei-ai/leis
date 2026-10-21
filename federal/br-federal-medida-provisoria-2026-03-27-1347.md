@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.347 de 27/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.347, DE 27 DE MARÇO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 285.000.000,00, para o fim que especifica.

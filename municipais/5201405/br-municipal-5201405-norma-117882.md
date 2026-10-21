@@ -1,5 +1,3 @@
-# Decreto Numerado nº 158, de 2023-03-13
-
 DECRETO “N” Nº 158 DE 13 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PORTO DAS PEDRAS, neste município.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.174, de 2014-04-11
-
 LEI MUNICIPAL Nº 3.174, DE 11 DE ABRIL DE 2014.
 
 Institui a Semana do Empreendedorismo no Município de Aparecida de Goiânia e dá outras providências.

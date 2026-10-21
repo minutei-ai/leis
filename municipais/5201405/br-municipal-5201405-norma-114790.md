@@ -1,5 +1,3 @@
-# Decreto Numerado nº 151, de 2024-03-14
-
 DECRETO “N” Nº 151 DE 14 DE MARÇO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

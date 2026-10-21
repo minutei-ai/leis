@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.491, de 2019-08-15
-
 LEI MUNICIPAL Nº 3.491, DE 15 DE AGOSTO DE 2019
 
 Dispõe sobre a denominação da Praça ANTÔNIO SANTOS MACHADO, no Setor Garavelo, neste Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 92, de 2024-02-22
-
 DECRETO “N” Nº 92 DE 22 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

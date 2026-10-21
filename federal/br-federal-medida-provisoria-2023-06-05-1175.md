@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.175 de 05/06/2023
-
 MEDIDA PROVISÓRIA Nº 1.175, DE 5 DE JUNHO DE 2023
 
 Dispõe sobre mecanismo de desconto patrocinado na aquisição de veículos sustentáveis.

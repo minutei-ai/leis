@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.893, de 2026-04-07
-
 DECRETO Nº 10.893, DE 7 DE ABRIL DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera do feriado nacional de Tiradentes.

@@ -1,5 +1,3 @@
-# EMC nº 99, de 12/03/2019
-
 Altera o art. 54 da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

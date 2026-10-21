@@ -1,5 +1,3 @@
-# Decreto nº 69.670, de 03/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211143)<br>
 
 # DECRETO N° 69.670, DE 03 DE JULHO DE 2025

@@ -1,5 +1,3 @@
-# Lei Complementar nº 246, de 2022-05-27
-
 LEI COMPLEMENTAR Nº 246, DE 27 DE MAIO DE 2022
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020 para autorizar o pagamento de horas extras ao servidor público sob o regime de contratação temporária.

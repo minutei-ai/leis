@@ -1,5 +1,3 @@
-# Decreto nº 69.226, de 23/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210450)<br>
 
 # DECRETO N° 69.226, DE 23 DE DEZEMBRO DE 2024

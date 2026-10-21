@@ -1,5 +1,3 @@
-# Lei Complementar nº 33, de 2011-04-08
-
 LEI COMPLEMENTAR Nº. 033, DE 08 DE ABRIL DE 2011.
 
 Altera dispositivos da Lei Complementar nº 003, de , a qual dispõe sobre o Estatuto dos Servidores do Município de Aparecida de Goiânia e dá outras providências.

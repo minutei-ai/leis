@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.194, de 2014-07-08
-
 LEI MUNICIPAL Nº 3.194, DE 08 DE JULHO DE 2014.
 
 Reconhece de Utilidade Pública Municipal a ASSOCIAÇÃO CASA DO SABER DO ESTADO DE GOIÁS e dá outras providências.

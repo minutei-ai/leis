@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.905, de 2024-08-07
-
 LEI Nº 22.905, DE 7 DE AGOSTO DE 2024
 
 Concede o título de cidadania que especifica.

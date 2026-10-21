@@ -1,5 +1,3 @@
-# Lei Complementar nº 219, de 2023-09-26
-
 **LEI COMPLEMENTAR Nº 219, DE 26 DE SETEMBRO DE 2023**
 
 _Dispõe sobre a adequação do Regime Próprio de Previdência Social de Aparecida de Goiânia – APARECIDAPREV, à Emenda Constitucional nº 103/2019, 113/2022 e 114/2022 e dá outras providências._

@@ -1,5 +1,3 @@
-# Medida Provisória nº 561 de 08/03/2012
-
 ###MPV-000561-0-000-08-03-2012-PUB-01@@@
 
 MEDIDA PROVISÓRIA N° \- 561, DE 8 DE MARÇO DE 2012

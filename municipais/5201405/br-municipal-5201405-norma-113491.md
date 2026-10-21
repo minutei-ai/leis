@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.726, de 2023-07-04
-
 LEI MUNICIPAL Nº 3.726 DE 04 DE JULHO DE 2023.
 
 “Reconhece como utilidade pública municipal a entidade denominada ACBUC – ASSOCIAÇÃO COMUNITÁRIA BENEFICENTE UNIDOS EM CRISTO”.

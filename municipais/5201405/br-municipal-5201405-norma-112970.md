@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.878, de 2025-12-29
-
 DECRETO Nº 2.878, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Prustita, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

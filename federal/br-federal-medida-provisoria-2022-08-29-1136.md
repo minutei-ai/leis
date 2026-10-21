@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.136 de 29/08/2022
-
 MEDIDA PROVISÓRIA Nº 1.136, DE 29 DE AGOSTO DE 2022
 
 Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.

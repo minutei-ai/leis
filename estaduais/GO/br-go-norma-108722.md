@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.627, de 2024-04-26
-
 LEI Nº 22.627, DE 26 DE ABRIL DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Tributo ao Coração de Cristo Rei, realizado no Município de Goiânia/GO.

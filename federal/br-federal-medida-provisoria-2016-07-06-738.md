@@ -1,5 +1,3 @@
-# Medida Provisória nº 738 de 06/07/2016
-
 MEDIDA PROVISÓRIA Nº 738, DE 6 DE JULHO DE 2016
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 1.199.618.070,00, para os fins que especifica.

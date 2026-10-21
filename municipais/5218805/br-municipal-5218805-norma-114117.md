@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.762, de 2025-11-17
-
 LEI Nº 7.762, DE 17 DE NOVEMBRO DE 2025.
 
 Aumenta o índice de suplementação contido na Lei nº 7.579, de 16 de dezembro de 2024, que institui a Lei Orçamentária Anual – LOA para o exercício de 2025.

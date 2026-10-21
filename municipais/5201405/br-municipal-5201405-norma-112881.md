@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.210, de 2025-09-11
-
 DECRETO Nº 2.210, DE 11 DE SETEMBRO DE 2025
 
 Dispõe sobre a aprovação do loteamento denominado Parque das Pedras, no âmbito do Município de Aparecida de Goiânia.

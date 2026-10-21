@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.237, de 2026-04-22
-
 LEI Nº 24.237, DE 22 DE ABRIL DE 2026.
 
 Dispõe sobre a reestruturação dos Quadros de Pessoal dos servidores efetivos da Secretaria da Assembleia Legislativa do Estado de Goiás, altera a [Lei nº 13.460](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81303), de 05 de maio de 1999, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.207 de 27/02/2024
-
 MEDIDA PROVISÓRIA Nº 1.207, DE 27 DE FEVEREIRO DE 2024
 
 Altera a [Lei nº 14.002, de 22 de maio de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-05-22;14002), e a [Lei nº 11.771, de 17 de setembro de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-09-17;11771), para atualizar e aprimorar o regime jurídico a que se submete a Agência Brasileira de Promoção Internacional do Turismo - Embratur.

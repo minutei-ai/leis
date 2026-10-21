@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.225, de 2006-11-24
-
 **LEI COMPLEMENTAR Nº ­­­­5.225, DE 24 DE NOVEMBRO DE 2006.**
 
 <br>

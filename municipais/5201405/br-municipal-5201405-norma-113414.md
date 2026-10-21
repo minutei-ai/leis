@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.235, de 2025-09-18
-
 DECRETO Nº 2.235, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 343, situado à Rua São Francisco Xavier, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

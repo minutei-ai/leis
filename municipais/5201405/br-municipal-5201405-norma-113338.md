@@ -1,5 +1,3 @@
-# Lei Complementar nº 111, de 2015-12-08
-
 LEI COMPLEMENTAR Nº 111, DE 08 DE DEZEMBRO DE 2015.
 
 Institui a estrutura hierárquica da Carreira da Guarda Civil Municipal de Aparecida de Goiânia e dá outras providências.

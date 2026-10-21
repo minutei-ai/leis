@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.227, de 2021-12-27
-
 LEI Nº 7.227, DE 27 DE DEZEMBRO DE 2021
 
 Dispõe sobre a criação do Programa Municipal SEMPRE NOVA EDUCAÇÃO RIO VERDE, que descentraliza a gestão financeira das instituições educacionais públicas municipais, e dá outras providências.

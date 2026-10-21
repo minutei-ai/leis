@@ -1,5 +1,3 @@
-# LD Nº 57 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 57 DE 01 DE JUNHO DE 1983
 
 Reorganiza a Secretaria das Minas e Energia - SME e dá outras providências.

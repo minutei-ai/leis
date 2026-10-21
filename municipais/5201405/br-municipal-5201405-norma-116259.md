@@ -1,5 +1,3 @@
-# Lei Complementar nº 159, de 2019-03-21
-
 LEI COMPLEMENTAR Nº 159, DE 21 DE MARÇO DE 2019
 
 Dispõe sobre isenção de contrapartida financeira de Outorga Onerosa do Direito de Construir, referente à construção das Promotorias de Justiça no Residencial Maria Luíza, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.131 de 28/07/2022
-
 MEDIDA PROVISÓRIA Nº 1.131, DE 28 DE JULHO DE 2022
 
 Abre crédito extraordinário, em favor do Ministério do Trabalho e Previdência e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 10.901.400.000,00, para os fins que especifica.

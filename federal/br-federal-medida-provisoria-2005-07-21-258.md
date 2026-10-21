@@ -1,5 +1,3 @@
-# Medida Provisória nº 258 de 21/07/2005
-
 MEDIDA PROVISÓRIA Nº 258, DE 21 DE JULHO DE 2005.
 
    Dispõe sobre a Administração Tributária Federal e dá outras providências.    

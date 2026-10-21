@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.739, de 2023-09-27
-
 LEI MUNICIPAL N° 3.739, DE 27 DE SETEMBRO DE 2023.
 
 Dispõe sobre a obrigatoriedade da presença de psicólogos nas escolas municipais de Aparecida de Goiânia e dá outras providências.

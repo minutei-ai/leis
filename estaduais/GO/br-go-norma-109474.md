@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.553, de 2024-09-16
-
 DECRETO Nº 10.553, DE 16 DE SETEMBRO DE 2024
 
 Altera o [Decreto nº 10.380](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108305), de 28 de dezembro de 2023, que estabelece os critérios para a fixação da Política de Remuneração, Gratificações, Benefícios e Vantagens dos membros da Diretoria-Executiva e dos Conselhos de Administração e Fiscal das empresas estatais no âmbito do Estado de Goiás.

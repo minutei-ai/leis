@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.187 de 13/09/2023
-
 MEDIDA PROVISÓRIA Nº 1.187, DE 13 DE SETEMBRO DE 2023
 
 Altera a [Lei nº 14.600, de 19 de junho de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-06-19;14600), para criar o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte.

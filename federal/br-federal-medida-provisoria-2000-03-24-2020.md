@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.020 de 24/03/2000
-
 ###MPV-002020-0-000-24-03-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.020, DE 24 DE MARÇO DE 2000.

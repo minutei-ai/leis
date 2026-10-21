@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.111, de 2012-03-19
-
 LEI COMPLEMENTAR Nº. 6.111, DE 19 DE MARÇO DE 2012.
 
 Dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da área fim da Secretaria Municipal de Saúde de Rio Verde e dá outras providências.

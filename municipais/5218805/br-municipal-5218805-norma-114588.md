@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.603, de 2025-02-24
-
 LEI N° 7.603, DE 24 DE FEVEREIRO DE 2025.
 
 Dispõe sobre transposição, transferências e remanejamento de créditos orçamentários no âmbito do Poder Executivo e Legislativo Municipal, no vigente orçamento, e dá outras providências.

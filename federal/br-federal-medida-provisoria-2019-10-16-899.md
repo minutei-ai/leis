@@ -1,5 +1,3 @@
-# Medida Provisória nº 899 de 16/10/2019
-
 MEDIDA PROVISÓRIA Nº 899, DE 16 DE OUTUBRO DE 2019
 
 Dispõe sobre a transação nas hipóteses que especifica.

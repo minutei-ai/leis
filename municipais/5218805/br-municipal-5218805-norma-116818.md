@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.207, de 2021-11-09
-
 LEI Nº 7.207, DE 09 DE NOVEMBRO DE 2021
 
 Inclui no Calendário Oficial dc Eventos do Município de Rio Verde a "Semana Municipal do Atleta Paralímpico".

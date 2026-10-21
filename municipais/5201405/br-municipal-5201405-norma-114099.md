@@ -1,5 +1,3 @@
-# Decreto Numerado nº 870, de 2024-10-14
-
 DECRETO “N” N.º 870, DE 14 DE OUTUBRO DE 2024.
 
 Dispõe sobre a DECLARAÇÃO que certifica a inexistência de imóveis públicos vagos e disponíveis que atendam o objeto da licitação para os casos de aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha no âmbito da administração pública do município de Aparecida de Goiânia, conforme as disposições da Lei Federal 14.133/21.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 306, de 2023-06-23
-
 LEI COMPLEMENTAR Nº 306, DE 23 DE JUNHO DE 2023.
 
 Altera a Lei Complementar n. 5.727/2009 – Código Tributário Municipal para reduzir a alíquota de ITBI em transferência de imóveis financiados pelo Sistema Financeiro Habitacional que menciona.

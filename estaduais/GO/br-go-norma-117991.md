@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.997, de 2026-10-08
-
 DECRETO Nº 10.997, DE 8 DE OUTUBRO DE 2026
 
 Cria o Parque Natural Colaborativo da Serrinha Jornalista Jaime Câmara e revoga os Decretos [nº 8.729](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69313), de 16 de agosto de 2016, e [nº 10.947](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116077), de 3 de julho de 2026.

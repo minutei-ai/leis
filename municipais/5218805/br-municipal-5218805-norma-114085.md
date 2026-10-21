@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.756, de 2025-11-17
-
 LEI Nº 7.756, DE 17 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal de Conscientização e Prevenção ao Câncer de Próstata – Novembro Azul, no Município de Rio Verde – GO, e dá outras providências.

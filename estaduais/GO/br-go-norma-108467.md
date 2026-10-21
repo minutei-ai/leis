@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.411, de 2024-02-23
-
 DECRETO Nº 10.411, DE 23 DE FEVEREIRO DE 2024
 
 Declara de interesse social, para fins de desapropriação, a área de terras que especifica.

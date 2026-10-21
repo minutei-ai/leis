@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.292, de 2025-03-24
-
 LEI Nº 23.292, DE 24 DE MARÇO DE 2025
 
 Estabelece o valor a ser considerado para as contratações de grande vulto no Estado de Goiás.

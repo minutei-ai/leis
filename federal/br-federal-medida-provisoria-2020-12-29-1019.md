@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.019 de 29/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.019, DE 29 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 14.017, de 29 de junho de 2020, para dispor sobre a execução e os prazos para realização das ações emergenciais destinadas ao setor cultural.

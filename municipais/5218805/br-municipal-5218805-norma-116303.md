@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.293, de 2022-09-26
-
 LEI N°. 7.293, DE 26 DE SETEMBRO DE 2022
 
 Dispõe sobre denominação da Orquestra Municipal de Violeiros e Sanfoneiros de Rio Verde - GO.

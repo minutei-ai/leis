@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3340, de 2016-12-12
-
 LEI MUNICIPAL 3.340, DE 12 DE DEZEMBRO DE 2016.
 
 “Dá nome à Unidade Básica de Saúde da Chácara São Pedro, neste Município.”

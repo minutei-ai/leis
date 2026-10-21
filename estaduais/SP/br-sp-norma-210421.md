@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.419, de 27/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210421)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1419-27.12.2024.html)
 

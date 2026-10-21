@@ -1,5 +1,3 @@
-# LEI Nº 15.197 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.197 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação Beneficente Cultural Ugo Meregalli, com sede e foro em Salvador.

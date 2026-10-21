@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.753, de 2025-10-22
-
 LEI Nº 23.753, DE 22 DE OUTUBRO DE 2025
 
 Altera a [Lei nº 15.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023 "Abrir Lei Ordinária nº 15122, de 2005 em nova aba"), de 04 de fevereiro de 2005, que institui o Plano de Carreira e o Quadro Permanente dos Servidores do Tribunal de Contas do Estado de Goiás.

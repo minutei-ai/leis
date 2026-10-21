@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.238, de 2025-09-18
-
 DECRETO Nº 2.238, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra 16, situado à Rua Guarujá, no Loteamento Jardim Ipiranga, no Município de Aparecida de Goiânia.

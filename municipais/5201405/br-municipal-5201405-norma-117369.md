@@ -1,5 +1,3 @@
-# Decreto Numerado nº 856, de 2024-10-10
-
 DECRETO “N” Nº 856 DE 10 DE OUTUBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

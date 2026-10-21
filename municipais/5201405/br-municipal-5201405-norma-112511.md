@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.355, de 2025-05-09
-
 DECRETO Nº 1.355, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 29, situado à Rua Barão de Mesquita no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

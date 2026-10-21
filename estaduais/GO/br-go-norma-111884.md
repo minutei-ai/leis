@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.957, de 2025-12-20
-
 LEI Nº 23.957, DE 20 DE DEZEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Mangaba, realizada no Município de Niquelândia/GO.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 117, de 2023-02-14
-
 DECRETO “N” Nº 117 DE 14 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento MORADA DOS PÁSSAROS, neste município.

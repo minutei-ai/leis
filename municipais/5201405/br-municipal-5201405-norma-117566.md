@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1018, de 2024-11-27
-
 DECRETO “N” Nº 1018 DE 27 DE NOVEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.769, de 2025-12-10
-
 DECRETO Nº 2.769, DE 10 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, da Quadra 21, situado à Rua C-8, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

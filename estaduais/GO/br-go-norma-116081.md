@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.410, de 2026-07-03
-
 lei Nº 24.410, DE 3 DE JULHO DE 2026
 
 Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Cromínia/GO.

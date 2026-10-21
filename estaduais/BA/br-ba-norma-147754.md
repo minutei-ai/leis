@@ -1,5 +1,3 @@
-# LEI Nº 14.986 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.986 DE 30 DE SETEMBRO DE 2025
 
 Denomina Rodovia Ruimar Araújo Santana, o trecho da Rodovia BA-539 que interliga o povoado da Limeira ao povoado de Capinal, na Rodovia BA – 263, no distrito de Cabeceira da Jiboia, município de Vitória da Conquista-BA.

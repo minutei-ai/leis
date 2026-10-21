@@ -1,5 +1,3 @@
-# LEI Nº 15.004 DE 22 DE OUTUBRO DE 2025
-
 LEI Nº 15.004 DE 22 DE OUTUBRO DE 2025
 
 Cria a Secretaria Extraordinária do Sistema Viário Oeste Ponte Salvador-Itaparica, na forma que indica, e dá outras providências.

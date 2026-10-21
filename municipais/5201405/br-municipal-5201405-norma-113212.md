@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.481, de 2025-10-21
-
 DECRETO Nº 2.481, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Miguel Mendes, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

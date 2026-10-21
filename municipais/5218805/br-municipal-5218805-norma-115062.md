@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.520, de 2024-06-24
-
 LEI Nº 7.520, DE 24 DE JUNHO DE 2024.
 
 Denomina nome do Residencial Eleuza Borges da Silva, que especifica e dá outras providências, etc.

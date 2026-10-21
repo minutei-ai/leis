@@ -1,5 +1,3 @@
-# Decreto Numerado nº 586, de 2023-09-05
-
 DECRETO “N” Nº 586 DE 05 DE SETEMBRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.043, de 2026-01-16
-
 LEI Nº 24.043, DE 16 DE JANEIRO DE 2026
 
 Institui o Dia Estadual do Médico Nefrologista.

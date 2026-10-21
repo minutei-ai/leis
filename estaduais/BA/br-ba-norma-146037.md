@@ -1,5 +1,3 @@
-# LEI Nº 14.813 DE 08 DE JANEIRO DE 2025
-
 LEI Nº 14.813 DE 08 DE JANEIRO DE 2025
 
 Anexos disponíveis no Download

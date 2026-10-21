@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.677, de 2025-11-27
-
 DECRETO Nº 2.677, DE 27 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Avenida das Palmeiras, no Loteamento Parque Montreal, no Município de Aparecida de Goiânia.

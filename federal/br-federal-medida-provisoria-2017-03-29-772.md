@@ -1,5 +1,3 @@
-# Medida Provisória nº 772 de 29/03/2017
-
 MEDIDA PROVISÓRIA Nº 772, DE 29 DE MARÇO DE 2017
 
 Altera a [Lei nº 7.889, de 23 de novembro de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-11-23;7889), que dispõe sobre a inspeção sanitária e industrial dos produtos de origem animal.

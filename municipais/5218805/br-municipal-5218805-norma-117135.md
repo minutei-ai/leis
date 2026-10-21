@@ -1,5 +1,3 @@
-# Lei Complementar nº 239, de 2022-04-01
-
 LEI COMPLEMENTAR N° 239, DE 1º DE ABRIL DE 2022
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020.

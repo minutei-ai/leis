@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.421, de 2018-06-19
-
 LEI Nº 3.421, DE 19 DE JUNHO DE 2018
 
 Dispõe sobre denominação da praça GENI RODRIGUES ALVES, no Jardim Buriti Sereno 2ª etapa.

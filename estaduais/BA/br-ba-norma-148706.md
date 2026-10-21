@@ -1,5 +1,3 @@
-# LEI Nº 15.164 DE 29 DE MAIO DE 2026
-
 LEI Nº 15.164 DE 29 DE MAIO DE 2026
 
 Altera a Lei nº [11.056](https://www.legislabahia.ba.gov.br/documentos/lei-no-11056-de-26-de-junho-de-2008), de 26 de junho de 2008, na forma que indica, e dá outras providências.

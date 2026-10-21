@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.291, de 2015-12-07
-
 LEI MUNICIPAL Nº 3.291, DE 07 DE DEZEMBRO DE 2015.
 
 Dispõe sobre o Conselho Municipal de Políticas sobre Drogas do Município de Aparecida de Goiânia, revoga as Leis nº 2.198/01 e nº 2.277/02 e dá outras providências.

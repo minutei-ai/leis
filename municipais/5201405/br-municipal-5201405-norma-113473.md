@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.702, de 2023-03-23
-
 LEI MUNICIPAL Nº 3.702, DE 23 DE MARÇO DE 2023.
 
 Revoga a Lei Municipal 3.594, de 02 de Dezembro de 2020, e Institui nova política de incentivo aos atletas e paratletas praticantes de desportos de rendimento nas modalidades do Programa “Aparecida Compete”, e dá outras providências.

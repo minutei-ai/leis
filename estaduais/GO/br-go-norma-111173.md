@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.770, de 2025-08-26
-
 DECRETO Nº 10.770, DE 26 DE AGOSTO DE 2025
 
 Dispõe sobre a regulamentação e a normatização das Gratificações Educacionais e das Funções Comissionadas Educacionais da Secretaria de Estado da Educação.

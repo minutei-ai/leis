@@ -1,5 +1,3 @@
-# Medida Provisória nº 666 de 30/12/2014
-
 MEDIDA PROVISÓRIA Nº 666, DE 30 DE DEZEMBRO DE 2014
 
 Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União, de Transferências a Estados, Distrito Federal e Municípios, de Operações Oficiais de Crédito e de empresas estatais vinculadas a diversos órgãos, no valor de R$ 20.139.294.891,00, para os fins que especifica.

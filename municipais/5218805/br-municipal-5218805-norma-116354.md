@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.475, de 2008-09-01
-
 LEI Nº 5.475, DE 01 DE SETEMBRO DE 2008.
 
 Autoriza o aumento de quantitativo de cargos que menciona.

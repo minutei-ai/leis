@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.323 de 04/11/2025
-
 MEDIDA PROVISÓRIA Nº 1.323, DE 4 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 10.779, de 25 de novembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-11-25;10779), que dispõe sobre a concessão do benefício de seguro-desemprego, durante o período de defeso, ao pescador profissional que exerce a atividade pesqueira de forma artesanal.

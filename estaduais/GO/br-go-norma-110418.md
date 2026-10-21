@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.634, de 2025-01-31
-
 DECRETO Nº 10.634, DE 31 DE JANEIRO DE 2025
 
 Dispõe sobre os procedimentos relativos às emendas individuais impositivas no Estado de Goiás e revoga o [Decreto nº 10.098](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105660), de 14 de junho de 2022.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.257, de 2022-05-03
-
 LEI N° 7.257, DE 3 DE MAIO DE 2022
 
 Autoriza o Poder Executivo a celebrar Acordo de Cooperação.

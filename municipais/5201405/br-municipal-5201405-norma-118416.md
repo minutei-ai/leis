@@ -1,5 +1,3 @@
-# Decreto Numerado nº 675, de 2023-10-26
-
 DECRETO “N” Nº 675 DE 26 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

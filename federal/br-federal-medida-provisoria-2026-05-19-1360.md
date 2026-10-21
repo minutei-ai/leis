@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.360 de 19/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.360, DE 19 DE MAIO DE 2026
 
 Altera a [Lei nº 9.503, de 23 de setembro de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503) - Código de Trânsito Brasileiro, e a [Lei nº 12.009, de 29 de julho de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-07-29;12009).

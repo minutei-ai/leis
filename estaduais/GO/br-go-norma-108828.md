@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.678, de 2024-05-10
-
 LEI Nº 22.678, DE 10 DE MAIO DE 2024
 
 Confere ao Município de Jandaia-GO o título de "Capital Estadual do Parapente".

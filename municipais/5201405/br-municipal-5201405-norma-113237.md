@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.451, de 2025-10-15
-
 DECRETO Nº 2.451, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, da Quadra 08, situado à Rua Nestor Veiga Jardim, no Loteamento Industrial Santo Antônio, no Município de Aparecida de Goiânia.

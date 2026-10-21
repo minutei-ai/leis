@@ -1,5 +1,3 @@
-# LEI Nº 14.910 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.910 DE 20 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação Comunitária da Grota da Fazendinha e Adjacências, com sede e foro no município de Jacobina.

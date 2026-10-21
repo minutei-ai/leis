@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.608, de 2025-02-24
-
 LEI N° 7.608, DE 24 DE FEVEREIRO DE 2025.
 
 Autoriza o Poder Executivo a conceder patrocínio à Associação Sorriso Verdadeiro.

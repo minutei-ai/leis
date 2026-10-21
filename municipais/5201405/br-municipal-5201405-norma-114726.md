@@ -1,5 +1,3 @@
-# Decreto Numerado nº 410, de 2026-05-21
-
 DECRETO Nº 410, DE 21 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 06 e 15, situados à Rua Waldemar Gomes de Melo e Rua José Antônio Naciff, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

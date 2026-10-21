@@ -1,5 +1,3 @@
-# Medida Provisória nº 663 de 19/12/2014
-
 MEDIDA PROVISÓRIA Nº  663, DE 19 DE DEZEMBRO DE 2014
 
 Altera a Lei nº 12.096, de 24 de novembrode 2009.

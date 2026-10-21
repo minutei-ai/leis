@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.498, de 2025-06-13
-
 LEI Nº 23.498, DE 13 DE JUNHO DE 2025
 
 Altera a [Lei nº 17.866](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89860), de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar do Estado de Goiás e dá outras providências.

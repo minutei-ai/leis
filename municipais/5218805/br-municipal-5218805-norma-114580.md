@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.610, de 2025-02-24
-
 LEI N° 7.610, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a Lei nº 6.387, de 7 de março de 2014, que cria o Programa Bolsa de Produção Desportiva e Cultural de Apoio à Juventude.

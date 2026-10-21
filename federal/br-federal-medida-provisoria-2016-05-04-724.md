@@ -1,5 +1,3 @@
-# Medida Provisória nº 724 de 04/05/2016
-
 MEDIDA PROVISÓRIA Nº 724, DE 4 DE MAIO DE 2016
 
 Altera a [Lei nº 12.651, de 25 de maio de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-05-25;12651), para dispor sobre a extensão dos prazos para inscrição no Cadastro Ambiental Rural e para adesão ao Programa de Regularização Ambiental.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 414, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 414, DE 31 DE OUTUBRO DE 2025.
 
 Altera a [Lei Complementar nº 355](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114398 "Abrir Lei Complementar nº 355, de 2024 em nova aba"), de 27 de maio de 2024, que institui e regulamenta a Academia de Ensino da Guarda Civil de Rio Verde (ACEGRV).

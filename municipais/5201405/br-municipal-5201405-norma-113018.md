@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.056, de 2025-08-25
-
 DECRETO Nº 2.056, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, da Quadra 16, situado à Rua Amaraí, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

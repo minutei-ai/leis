@@ -1,5 +1,3 @@
-# LD Nº 01 DE 16 DE OUTUBRO DE 1968
-
 LEI DELEGADA Nº 01 DE 16 DE OUTUBRO DE 1968
 
 Reestrutura, sob a forma de autarquia, a Junta Comercial do Estado da Bahia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.144, de 2026-03-18
-
 LEI Nº 24.144, DE 18 DE MARÇO DE 2026
 
 Altera a [Lei nº 22.823](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109061 "Abrir Lei Ordinária nº 22823, de 2024 em nova aba"), de 28 de junho de 2024, que dá denominação ao próprio público que especifica.

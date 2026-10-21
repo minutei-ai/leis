@@ -1,5 +1,3 @@
-# Medida Provisória nº 637 de 30/12/2013
-
 MEDIDA PROVISÓRIA Nº 637, DE 30 DE DEZEMBRO DE 2013
 
 Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor de R$ 1.978.600.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 674, de 1987-08-14
-
 LEI MUNICIPAL Nº 674 DE 14 DE AGOSTO DE 1.987
 
 Dispõe sobre Criação das Instituições Sociais Municipais.

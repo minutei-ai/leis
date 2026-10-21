@@ -1,5 +1,3 @@
-# Medida Provisória nº 185 de 13/05/2004
-
 ###MPV-000185-0-000-13-05-2004@@@
 
 MEDIDA PROVISÓRIA Nº 185, DE 13 DE MAIO 2004

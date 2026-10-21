@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.615, de 2025-09-02
-
 LEI Nº 23.615, DE 2 DE SETEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

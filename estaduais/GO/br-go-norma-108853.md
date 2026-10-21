@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.701, de 2024-05-20
-
 LEI Nº 22.701, DE 20 DE MAIO DE 2024
 
 Institui o Dia Estadual do Médico Geriatra no âmbito do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 254, de 2022-06-27
-
 <br>
  
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.741, de 2025-11-12
-
 LEI Nº 7.741, DE 12 DE NOVEMBRO DE 2025.
 
 Institui, no calendário oficial do Município de Rio Verde – GO, o “Mês de Prevenção, Conscientização e Combate à Automutilação em Crianças e Adolescentes”, a ser realizado anualmente no mês de maio, e dá outras providências.

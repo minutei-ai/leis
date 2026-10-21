@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.529, de 2024-06-24
-
 LEI Nº 7.529, DE 24 DE JUNHO DE 2024.
 
 Institui a “Campanha permanente de Conscientização e Combate ao Capacitismo” no Município de Rio Verde.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.805, de 2025-12-15
-
 LEI Nº 7.805, DE 15 DE DEZEMBRO DE 2025.
 
 Inclui no Calendário Oficial de Datas Comemorativas do Município de Rio Verde – GO o “Dia Municipal do Contador”, a ser celebrado anualmente em 22 de setembro, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 33, de 2023-01-18
-
 DECRETO “N” Nº 33 DE 18 DE JANEIRO DE 2023<br>
 (Revogado pelo Decreto "N" Nº 328, de 16 de maio de 2023).
 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 233, de 2013-09-04
-
 DECRETO “N” Nº 233, DE 04 DE SETEMBRO DE 2013. 
 
 Dispõe sobre a criação da Unidade de Execução Municipal do Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros - PNAFM.

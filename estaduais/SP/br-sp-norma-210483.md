@@ -1,5 +1,3 @@
-# Decreto nº 69.258, de 27/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210483)<br>
 
 # DECRETO N° 69.258, DE 27 DE DEZEMBRO DE 2024

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.375, de 2024-03-05
-
 LEI MUNICIPAL Nº 3.775, DE 05 DE MARÇO DE 2024.
 
 Dispõe sobre a denominação da Praça Dinilza Santos da Silva no setor Veiga Jardim I, neste município, e dá outras providências.

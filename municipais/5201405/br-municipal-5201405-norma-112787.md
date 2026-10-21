@@ -1,5 +1,3 @@
-# Decreto Numerado nº 131, de 2026-02-09
-
 DECRETO Nº 131, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua C-7, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

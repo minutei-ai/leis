@@ -1,5 +1,3 @@
-# Decreto Numerado nº 268, de 2023-04-19
-
 DECRETO “N” Nº 268, DE 19 DE ABRIL DE 2023.
 
 Dispõe sobre o enquadramento da empresa Everest Representação Comercial LTDA, ao Programa Municipal de Incentivos Fiscais, e dá outras providências.

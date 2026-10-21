@@ -1,5 +1,3 @@
-# Lei Complementar nº 274, de 2022-12-16
-
 LEI COMPLEMENTAR Nº 274, DE 16 DE DEZEMBRO DE 2022.
 
 Altera a Lei Complementar nº. 5.727, de 11 de dezembro de 2009 (Código Tributário do Município de Rio Verde-GO).

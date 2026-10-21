@@ -1,5 +1,3 @@
-# Lei Complementar nº 100, de 2017-10-02
-
 LEI COMPLEMENTAR Nº 100, DE 02 DE OUTUBRO DE 2017.
 
 Altera a Lei Complementar n. 5.727/2009 que aprovou o Código Tributário do Município de Rio Verde- GO.

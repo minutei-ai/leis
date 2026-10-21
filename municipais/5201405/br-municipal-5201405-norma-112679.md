@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.605, de 2025-06-18
-
 DECRETO Nº 1.605, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento da Chácara 144, situado à Alameda A, no Loteamento Chácara São Pedro, no Município de Aparecida de Goiânia.

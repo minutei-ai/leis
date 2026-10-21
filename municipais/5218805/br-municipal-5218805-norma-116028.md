@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.199, de 2021-11-04
-
 LEI N. 7.199, DE 04 DE NOVEMBRO DE 2021
 
 Altera a Lei 5.558/2009.

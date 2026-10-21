@@ -1,5 +1,3 @@
-# Medida Provisória nº 932 de 31/03/2020
-
 MEDIDA PROVISÓRIA Nº 932, DE 31 DE MARÇO DE 2020
 
 Altera as alíquotas de contribuição aos serviços sociais autônomos que especifica e dá outras providências.

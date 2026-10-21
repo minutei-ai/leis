@@ -1,5 +1,3 @@
-# Medida Provisória nº 842 de 22/06/2018
-
 MEDIDA PROVISÓRIA Nº 842, DE 22 DE JUNHO DE 2018
 
 Altera a [Lei nº 13.340, de 28 de setembro de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-09-28;13340), para conceder rebate para liquidação de operações de crédito rural do Programa Nacional de Fortalecimento da Agricultura Familiar, e revoga dispositivos da [Lei nº 13.606, de 9 de janeiro de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-01-09;13606).

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.139 de 27/10/2022
-
 MEDIDA PROVISÓRIA Nº 1.139, DE 27 DE OUTUBRO DE 2022
 
 Altera a Lei nº 13.999, de 18 de maio de 2020, e a Lei nº 14.161, de 2 de junho de 2021, para flexibilizar as condições de contratação e renegociação das operações do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte - Pronampe.

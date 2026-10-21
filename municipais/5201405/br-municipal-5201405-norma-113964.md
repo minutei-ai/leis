@@ -1,5 +1,3 @@
-# Decreto Numerado nº 485, de 2024-06-20
-
 DECRETO “N” Nº 485, DE 20 DE JUNHO DE 2024.
 
 Declara utilidade pública para fins de desapropriação de imóveis situados no Loteamento Chácaras Marivânia, no Município de Aparecida de Goiânia.

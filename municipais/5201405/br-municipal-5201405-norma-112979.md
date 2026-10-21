@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.853, de 2025-12-18
-
 DECRETO Nº 2.853, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua C-18, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

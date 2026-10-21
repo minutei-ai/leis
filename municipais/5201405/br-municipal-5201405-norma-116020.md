@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.637, de 2007-03-22
-
 LEI MUNICIPAL Nº 2.637, DE 22 DE MARÇO DE 2007.<br>
 (Revogado pela Lei Ordinária nº 3.604, de 9 de abril de 2021).
 

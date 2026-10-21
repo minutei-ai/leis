@@ -1,5 +1,3 @@
-# Lei Complementar nº 136, de 2017-11-27
-
 LEI COMPLEMENTAR Nº 136, DE 27 DE NOVEMBRO DE 2017
 
 Cria a função pública de Colaborador Eventual e altera os Anexos II e III da Lei Complementar nº 125/2017 com suas alterações posteriores.

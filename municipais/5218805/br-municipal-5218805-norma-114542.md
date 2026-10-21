@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.758, de 2010-03-30
-
 LEI COMPLEMENTAR Nº 5.758, DE 18 DE MAIO DE 2010.
 
 Altera a Lei n. 3.635/98, Código de Posturas.

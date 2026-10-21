@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.730, de 2017-07-03
-
 LEI Nº. 6.730, DE 3 DE JULHO DE 2017
 
 Autoriza o Poder Executivo a doar área ao Estado de Goiás.

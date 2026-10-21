@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 84, de 2024-11-14
-
 EMENDA CONSTITUCIONAL Nº 84, DE 14 DE NOVEMBRO DE 2024
 
 Altera o Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Goiás.

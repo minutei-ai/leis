@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.758, de 2025-11-17
-
 LEI Nº 7.758, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei nº 5.706/2010.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 727 de 12/05/2016
-
 MEDIDA PROVISÓRIA Nº 727, DE 12 DE MAIO DE 2016
 
 Cria o Programa de Parcerias de Investimentos - PPI e da outras providências.

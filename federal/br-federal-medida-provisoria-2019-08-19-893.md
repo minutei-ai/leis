@@ -1,5 +1,3 @@
-# Medida Provisória nº 893 de 19/08/2019
-
 MEDIDA PROVISÓRIA Nº 893, DE 19 DE AGOSTO DE 2019
 
 Transforma o Conselho de Controle de Atividades Financeiras na Unidade de Inteligência Financeira.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.869, de 2026-06-19
-
 LEI Nº 7.869, DE 19 DE JUNHO DE 2026.
 
 Inclui a Tecnoshow COMIGO no Calendário Oficial de Festividades Culturais e de Interesse Econômico do Município de Rio Verde - GO, e dá outras providências.

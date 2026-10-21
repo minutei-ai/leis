@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.390, de 2026-06-29
-
 LEI Nº 24.390, DE 29 DE JUNHO DE 2026
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

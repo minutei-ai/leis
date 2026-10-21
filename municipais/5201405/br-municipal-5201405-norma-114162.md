@@ -1,5 +1,3 @@
-# Decreto Numerado nº 274, de 2023-04-24
-
 DECRETO "N" N° 274, DE 24 DE ABRIL DE 2023.
 
 Dispõe sobre aprovação do Loteamento Parque Évora neste Município, e dá outras providências.

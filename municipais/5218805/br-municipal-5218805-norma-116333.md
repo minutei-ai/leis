@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.279, de 2022-06-27
-
 LEI N° 7.279, DE 27 DE JUNHO DE 2022
 
 Autoriza o município de Rio Verde - GO a celebrar Acordo de Cooperação Técnica com o DNIT.

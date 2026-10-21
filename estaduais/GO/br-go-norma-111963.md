@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.978, de 2025-12-23
-
 LEI Nº 23.978, DE 23 DE DEZEMBRO DE 2025
 
 Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Paraúna/GO. 

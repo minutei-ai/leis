@@ -1,5 +1,3 @@
-# Decreto Numerado nº 134, de 2026-02-10
-
 DECRETO Nº 134, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Eldorado, no Loteamento Setor Aeroporto Sul – 3ª Etapa, no Município de Aparecida de Goiânia.

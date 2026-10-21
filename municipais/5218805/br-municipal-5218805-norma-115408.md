@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.346, de 2023-03-30
-
 LEI Nº 7.346, DE 30 DE MARÇO DE 2023
 
 Dispõe sobre a inclusão da Lei nº 11.340/2006 (Lei Maria da Penha) como matéria de ensino de tema transversal nas Escolas Municipais de Rio Verde.

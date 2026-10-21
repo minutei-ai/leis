@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.730, de 2023-08-09
-
 LEI MUNICIPAL Nº 3.730, DE 09 DE AGOSTO DE 2023.
 
 Dispõe sobre a criação do Fundo Municipal Imobiliário do APARECIDA-PREV (FMIAP).

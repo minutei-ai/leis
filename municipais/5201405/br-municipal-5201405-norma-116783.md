@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.300, de 2016-02-04
-
 LEI MUNICIPAL Nº 3.300 DE 04 DE FEVEREIRO DE 2016
 
 Dispõe sobre o “Projeto Uma Criança Uma Árvore” e dá outras providências.

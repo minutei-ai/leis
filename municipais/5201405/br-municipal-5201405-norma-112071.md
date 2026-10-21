@@ -1,5 +1,3 @@
-# Lei Complementar nº 232, de 2024-03-27
-
 LEI COMPLEMENTAR Nº 232, DE 27 DE MARÇO DE 2024.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

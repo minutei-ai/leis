@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.331 de 23/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.331, DE 23 DE DEZEMBRO DE 2025
 
 Autoriza a movimentação da conta vinculada do Fundo de Garantia do Tempo de Serviço, nos termos do disposto no [art. 20 da Lei nº 8.036, de 11 de maio de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036!art20).

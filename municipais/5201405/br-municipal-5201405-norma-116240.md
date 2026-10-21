@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.590, de 2020-11-20
-
 LEI MUNICIPAL N° 3.590, DE 20 DE NOVEMBRO DE 2020.
 
 Altera-se a Lei n° 3.385/2017 que trata do Plano Plurianual (PPA) 2018/2021.

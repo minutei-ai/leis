@@ -1,5 +1,3 @@
-# Lei Complementar nº 421, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 421, DE 31 DE OUTUBRO DE 2025.
 
 Institui e regulamenta a Escola Pública Municipal de Trânsito de Rio Verde – EPTRV.

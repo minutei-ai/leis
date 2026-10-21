@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.544, de 2024-02-23
-
 LEI Nº 22.544, DE 23 DE FEVEREIRO DE 2024
 
 Dispõe sobre o reconhecimento dos bens que especifica como patrimônio cultural imaterial goiano.

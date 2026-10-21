@@ -1,5 +1,3 @@
-# LD Nº 02 DE 01 DE DEZEMBRO DE 1969
-
 LEI DELEGADA Nº 02 DE 01 DE DEZEMBRO DE 1969
 
 Modifica a estrutura do Quadro da Procuradoria Geral do Estado, estabelece critérios de aproveitamento, promoção, acesso e enquadramento e dá outras providências.

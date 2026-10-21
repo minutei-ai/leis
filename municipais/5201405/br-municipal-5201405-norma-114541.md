@@ -1,5 +1,3 @@
-# Decreto Numerado nº 63, de 2024-02-06
-
 DECRETO “N” Nº 63 DE 06 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 855, de 2025-02-19
-
 DECRETO Nº 855, DE 19 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

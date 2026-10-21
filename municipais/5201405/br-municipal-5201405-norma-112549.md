@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.417, de 2025-05-22
-
 DECRETO Nº 1.417, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 04 ao 20 e 24A ao 36, da Quadra 01, situado à Avenida Bartolomeu Bueno da Silva, no Loteamento Setor dos Bandeirantes, no Município de Aparecida de Goiânia.

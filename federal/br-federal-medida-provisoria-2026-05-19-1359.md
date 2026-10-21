@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.359 de 19/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.359, DE 19 DE MAIO DE 2026
 
 Autoriza a União a destinar recursos para disponibilizar linhas de financiamento reembolsável a profissionais de transporte remunerado privado individual de passageiros, taxistas e cooperativas de taxistas, para aquisição de veículos automotores novos que atendam a critérios de sustentabilidade ambiental, social e econômica.

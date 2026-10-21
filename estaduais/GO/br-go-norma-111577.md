@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.832, de 2025-11-14
-
 LEI Nº 23.832, DE 14 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual do Agente de Defesa Ambiental.

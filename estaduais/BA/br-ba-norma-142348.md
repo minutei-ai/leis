@@ -1,5 +1,3 @@
-# EMENDA À CONSTITUIÇÃO Nº 29 DE 26 DE AGOSTO DE 2022
-
 EMENDA À CONSTITUIÇÃO Nº 29 DE 26 DE AGOSTO DE 2022
 
 Modifica os critérios de distribuição da cota municipal do imposto sobre operações Relativas à circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS.

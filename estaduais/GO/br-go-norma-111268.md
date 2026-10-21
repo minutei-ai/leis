@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.673, de 2025-09-16
-
 LEI Nº 23.673, DE 16 DE SETEMBRO DE 2025
 
 Institui o Calendário Estadual de Corridas de Rua e dá outras providências.

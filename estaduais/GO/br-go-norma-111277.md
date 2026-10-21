@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.684, de 2025-09-18
-
 LEI Nº 23.684, DE 18 DE SETEMBRO DE 2025
 
 Regulamenta o § 5º do art. 73 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), que dispõe sobre a designação de comissão de transição de governo para adoção de providências no âmbito da Administração Pública municipal.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.843, de 2025-12-23
-
 DECRETO Nº 10.843, DE 23 DE DEZEMBRO DE 2025
 
 Regulamenta a jornada de trabalho e a carga horária do Professor em função de regência na rede estadual de ensino, nos termos dos arts. 121 a 124 da [Lei nº 13.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81526), de 25 de setembro de 2001, que dispõe sobre o Estatuto e o Plano de Cargos e Vencimentos do Pessoal do Magistério.

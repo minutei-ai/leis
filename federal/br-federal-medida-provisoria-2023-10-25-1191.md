@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.191 de 25/10/2023
-
 MEDIDA PROVISÓRIA Nº 1.191, DE 25 DE OUTUBRO DE 2023
 
 Abre crédito extraordinário em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 259.000.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# LEI Nº 14.763 DE 14 DE AGOSTO DE 2024
-
 LEI Nº 14.763 DE 14 DE AGOSTO DE 2024
 
 Altera a Lei nº [8.966](https://www.legislabahia.ba.gov.br/documentos/lei-no-8966-de-22-de-dezembro-de-2003), de 22 de dezembro de 2003, reestrutura os quadros de Pessoal, Cargos em Comissão e Funções de Confiança do Ministério Público do Estado da Bahia, e dá outras providências.

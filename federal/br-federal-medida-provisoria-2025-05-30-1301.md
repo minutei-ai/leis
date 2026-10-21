@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.301 de 30/05/2025
-
 MEDIDA PROVISÓRIA Nº 1.301, DE 30 DE MAIO DE 2025
 
 Institui o Programa Agora Tem Especialistas, dispõe sobre o Grupo Hospitalar Conceição S.A., altera a [Lei nº 8.080, de 19 de setembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-19;8080), a [Lei nº 8.958, de 20 de dezembro de 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-12-20;8958), a [Lei nº 9.656, de 3 de junho de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656), a [Lei nº 12.732, de 22 de novembro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-11-22;12732), a [Lei nº 12.871, de 22 de outubro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-10-22;12871), e a [Lei nº 13.958, de 18 de dezembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2019-12-18;13958).

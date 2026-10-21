@@ -1,5 +1,3 @@
-# Decreto Numerado nº 284, de 2024-04-23
-
 DECRETO “N” Nº 284 DE 23 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

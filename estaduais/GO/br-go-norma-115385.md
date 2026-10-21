@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.352, de 2026-06-15
-
 LEI Nº 24.352, DE 15 DE JUNHO DE 2026
 
 Altera a [Lei nº 20.097](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99972 "Abrir Lei Ordinária nº 20097, de 2018 em nova aba"), de 28 de maio de 2018, que institui o “Selo Verde Ambiental” e o “Selo Investimento Verde”.

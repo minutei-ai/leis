@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.035, de 2024-10-25
-
 LEI Nº 23.035, DE 25 DE OUTUBRO DE 2024
 
 Altera a [Lei nº 14.586](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81212), de 17 de novembro de 2003, que cria fundos rotativos na Secretaria da Saúde e dá outras providências.

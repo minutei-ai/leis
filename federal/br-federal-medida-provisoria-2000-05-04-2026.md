@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.026 de 04/05/2000
-
 ###MPV-002026-0-000-04-05-2000@@@
 
 medida provisória nº 2.026, de 4 de maio de 2000.

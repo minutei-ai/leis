@@ -1,5 +1,3 @@
-# Medida Provisória nº 646 de 26/05/2014
-
 MEDIDA PROVISÓRIA Nº 646, DE 26 DE MAIO DE 2014
 
 Altera a Lei nº  9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro.

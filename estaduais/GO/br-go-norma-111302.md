@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.787, de 2025-09-24
-
 DECRETO Nº 10.787 , DE 24 DE SETEMBRO DE 2025
 
 Revoga dispositivo do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

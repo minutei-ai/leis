@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.849, de 2009-10-09
-
 LEI MUNICIPAL Nº. 2.849, DE 09 DE OUTUBRO DE 2009.
 
 Abre crédito especial a favor do Fundo Municipal de Assistência Social.

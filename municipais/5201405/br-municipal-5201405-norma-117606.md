@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1059, de 2024-12-11
-
 DECRETO “N” Nº 1059 DE 11 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

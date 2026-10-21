@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.531, de 2019-12-11
-
 LEI MUNICIPAL Nº 3.531, DE 11 DE DEZEMBRO DE 2019
 
 Reconhece de Utilidade Pública Municipal a “ASSOCIAÇÃO AMIGOS DA CASA VERDE” e dá outras providências.

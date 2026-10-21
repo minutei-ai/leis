@@ -1,5 +1,3 @@
-# Medida Provisória nº 827 de 19/04/2018
-
 MEDIDA PROVISÓRIA Nº 827, DE 19 DE ABRIL DE 2018
 
 Altera a [Lei nº 11.350, de 5 de outubro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-10-05;11350), quanto a direitos dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.

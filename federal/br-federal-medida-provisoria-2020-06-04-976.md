@@ -1,5 +1,3 @@
-# Medida Provisória nº 976 de 04/06/2020
-
 MEDIDA PROVISÓRIA Nº 976, DE 4 DE JUNHO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 4.489.224.000,00, para o fim que especifica.

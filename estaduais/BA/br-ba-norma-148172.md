@@ -1,5 +1,3 @@
-# LEI Nº 15.085 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.085 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o CECOE - Centro Educacional Comunitário Evangélico, com sede e foro no município de Nazaré.

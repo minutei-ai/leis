@@ -1,5 +1,3 @@
-# LD Nº 45 DE 26 DE ABRIL DE 1983
-
 LEI DELEGADA Nº 45 DE 26 DE ABRIL DE 1983
 
 Reorganiza a Secretaria da Justiça e dá outras providências.

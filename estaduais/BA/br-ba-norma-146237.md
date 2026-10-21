@@ -1,5 +1,3 @@
-# LEI N° 14.870 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.870 DE 12 DE FEVEREIRO DE 2025
 
 Institui o Dia Estadual de Luta Contra a Medicalização da Educação e da Sociedade, a ser promovido anualmente no dia 11 de novembro.

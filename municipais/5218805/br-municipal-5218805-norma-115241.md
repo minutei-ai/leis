@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.423, de 2023-10-02
-
 LEI Nº 7.423, DE 02 DE OUTUBR0 DE 2023.
 
 Denomina nome de terminal de transporte público que especifica e dá outras providências.

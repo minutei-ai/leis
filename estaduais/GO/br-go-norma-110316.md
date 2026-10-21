@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.186, de 2025-01-06
-
 LEI Nº 23.186, DE 6 DE JANEIRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.741, de 2024-06-06
-
 LEI Nº 22.741, DE 6 DE JUNHO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

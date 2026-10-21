@@ -1,5 +1,3 @@
-# Medida Provisória nº 359 de 16/03/2007
-
 ###MPV-000359-0-000-16-03-2007@@@
 
 MEDIDA PROVISÓRIA Nº 359, DE 16 DE MARÇO DE 2007.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 825 de 27/03/2018
-
 MEDIDA PROVISÓRIA Nº 825, DE 27 DE MARÇO DE 2018
 
 Abre crédito extraordinário, em favor da Presidência da República, no valor de R$ 1.200.000.000,00, para os fins que especifica.

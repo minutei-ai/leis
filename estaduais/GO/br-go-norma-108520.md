@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.552, de 2024-03-08
-
 LEI Nº 22.552, DE 8 DE MARÇO DE 2024<br>
 \- Vide Decreto nº 10.835, de 15-12-2025 - Prorroga a vigência do programa habitacional previsto na [Lei nº 22.552](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108520 "Abrir Lei Ordinária nº 22552, de 2024 em nova aba"), de 8 de março de 2024 para o exercício de 2026. 
 

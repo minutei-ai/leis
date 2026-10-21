@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.723, de 2025-07-07
-
 DECRETO Nº 10.723, DE 7 DE JULHO DE 2025
 
 Concede a Medalha Ordem do Mérito Dom Pedro II às autoridades civis e militares que especifica.

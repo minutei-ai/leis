@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.973, de 2025-12-23
-
 LEI Nº 23.973, DE 23 DE DEZEMBRO DE 2025
 
 Institui o Programa Construindo Campeões no Estado de Goiás.

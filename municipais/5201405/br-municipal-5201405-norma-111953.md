@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.821, de 2025-01-27
-
 LEI MUNICIPAL Nº 3.821, DE 27 DE JANEIRO DE 2025.
 
 Autoriza o parcelamento e reparcelamento dos débitos do Município de Aparecida de Goiânia com seu regime próprio de previdência social-RPPS.

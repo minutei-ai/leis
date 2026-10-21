@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.018, de 2025-12-30
-
 LEI Nº 24.018, DE 30 DE DEZEMBRO DE 2025
 
 Institui a Semana Estadual da Astronomia.

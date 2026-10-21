@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.542, de 2025-11-04
-
 DECRETO Nº 2.542, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Avenida Delfim Moreira, no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

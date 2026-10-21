@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.582, de 2024-12-16
-
 LEI Nº 7.582, DE 16 DE DEZEMBRO DE 2024.
 
 Institui o Serviço de Acolhimento em Família Acolhedora no Município de Rio Verde - GO.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.655, de 2009-09-28
-
 LEI COMPLEMENTAR Nº 5.655, DE 28 DE SETEMBRO 2009.
 
 Altera a Lei n. 3.633/98 – Lei de Parcelamento de Solo Urbano.

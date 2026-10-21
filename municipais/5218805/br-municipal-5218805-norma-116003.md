@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.558, de 2009-03-24
-
 LEI Nº. 5.558, DE 24 DE MARÇO DE 2009.
 
 Cria o Programa Bolsa de Produção Cultural.

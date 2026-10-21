@@ -1,5 +1,3 @@
-# Medida Provisória nº 625 de 02/09/2013
-
 MEDIDA PROVISÓRIA Nº 625, DE 2 DE SETEMBRO DE 2013
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 60.000.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 327, de 2026-05-04
-
 DECRETO Nº 327, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Ortita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

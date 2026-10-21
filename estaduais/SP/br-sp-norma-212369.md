@@ -1,5 +1,3 @@
-# Decreto nº 70.462, de 18/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212369)<br>
 
 # DECRETO N° 70.462, DE 18 DE MARÇO DE 2026

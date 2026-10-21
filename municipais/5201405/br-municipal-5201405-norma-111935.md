@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.190, de 1993-04-23
-
 Prefeitura Municipal de Aparecida de Goiânia
 
 LEI MUNICIPAL Nº 1.190, DE 23 DE ABRIL DE 1993.

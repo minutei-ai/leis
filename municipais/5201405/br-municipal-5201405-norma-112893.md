@@ -1,5 +1,3 @@
-# Decreto Numerado nº 145, de 2026-02-12
-
 DECRETO Nº 145, DE 12 DE FEVEREIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 03A e 03B, todos da Quadra 69, situados à Avenida W-1, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

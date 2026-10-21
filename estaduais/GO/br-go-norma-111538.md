@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.805, de 2025-11-06
-
 LEI Nº 23.805, DE 6 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

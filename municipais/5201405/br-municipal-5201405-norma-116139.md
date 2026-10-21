@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.835, de 2009-09-09
-
 LEI MUNICIPAL Nº 2.835, DE 09 DE SETEMBRO DE 2009.<br>
 (Revogada pela Lei Ordinária nº 3.637, de 15 de dezembro de 2021).
 

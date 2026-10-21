@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.917, de 2025-08-07
-
 DECRETO Nº 1.917, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Marajoara, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

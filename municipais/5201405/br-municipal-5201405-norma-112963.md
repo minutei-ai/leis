@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.045, de 2025-08-25
-
 DECRETO Nº 2.045, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, da Quadra E, situado à Rua Goiânia, no Loteamento Jardim Helvécia Complemento, no Município de Aparecida de Goiânia.

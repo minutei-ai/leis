@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.017, de 2011-12-21
-
 LEI MUNICIPAL Nº 3.017, DE 21 DE DEZEMBRO DE 2011.
 
 Autoriza o Poder Executivo a outorgar concessões remuneradas para a exploração do serviço funerário no município de Aparecida de Goiânia e dá outras providências.

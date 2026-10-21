@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.286, de 2015-11-13
-
 LEI MUNICIPAL Nº 3.286, DE 13 DE NOVEMBRO DE 2015.
 
 Dá nome ao CMEI localizado no Jardim Maranata, neste município.

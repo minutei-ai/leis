@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.852, de 2025-09-05
-
 LEI Nº 3.852, DE 5 DE SETEMBRO DE 2025
 
 Dispõe sobre a autorização do uso alternativo de QR Code ou meios digitais para informações que especifica e dá outras providências.

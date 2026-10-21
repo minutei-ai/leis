@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.171 de 30/04/2023
-
 MEDIDA PROVISÓRIA Nº 1.171, DE 30 DE ABRIL DE 2023
 
 Dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior, altera os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física de que trata o [art. 1º da Lei nº 11.482, de 31 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-31;11482!art1), e altera os valores de dedução previstos no [art. 4º da Lei nº 9.250, de 26 de dezembro de 1995](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1995-12-26;9250!art4).

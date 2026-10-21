@@ -1,5 +1,3 @@
-# Decreto Numerado nº 680, de 2023-10-31
-
 DECRETO “N” Nº 680 DE 31 DE OUTUBRO DE 2023.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 725, de 2024-09-12
-
 DECRETO “N” Nº 725 DE 12 DE SETEMBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

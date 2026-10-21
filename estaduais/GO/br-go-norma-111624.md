@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.872, de 2025-11-28
-
 LEI Nº 23.872, DE 28 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual dos Conciliadores e Mediadores Judiciais e Extrajudiciais e dá outras providências.

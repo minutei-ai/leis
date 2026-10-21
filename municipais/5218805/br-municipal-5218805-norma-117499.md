@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.137, de 2021-03-30
-
 LEI Nº 7.137, DE 30 DE MARÇO DE 2021.
 
 Autoriza aquisição através de doação de imóvel com encargo.

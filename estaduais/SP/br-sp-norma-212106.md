@@ -1,5 +1,3 @@
-# Decreto nº 70.280, de 23/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212106)<br>
 
 # DECRETO N° 70.280, DE 23 DE DEZEMBRO DE 2025

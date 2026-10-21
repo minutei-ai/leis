@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.679, de 2025-06-30
-
 LEI Nº 7.679, DE 30 DE JUNHO DE 2025.
 
 Autoriza o Poder Executivo a conceder patrocínio à Federação das Associações Empreendedoras, Comerciais, Industriais, de Serviços, de Tecnologia, de Turismo e do Terceiro Setor do Estado de Goiás (FACIEST).

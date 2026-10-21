@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.486, de 2024-02-26
-
 LEI Nº 7.486, DE 26 DE FEVEREIRO DE 2024.
 
 Dispõe sobre a aquisição de imóvel pelo IPARV – Instituto de Previdência e Assistência dos Servidores Municipais de Rio Verde - GO.

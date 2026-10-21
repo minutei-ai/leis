@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.940, de 2025-08-08
-
 DECRETO Nº 1.940, DE 8 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 18, 19, 20, 21, 22, 23, 24, 25 e 26, todos da Quadra 103-A, situado à Avenida São Paulo e Rua Tupinambás, no Loteamento Jardim Maria Inês, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LEI Nº 14.912 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.912 DE 27 DE MAIO DE 2025
 
 Denomina Escola Estadual Iracy Marlene da Hora Passos, o colégio de tempo Integral a ser inaugurado no município de Maracás.

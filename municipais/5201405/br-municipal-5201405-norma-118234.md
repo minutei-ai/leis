@@ -1,5 +1,3 @@
-# Decreto Numerado nº 451, de 2023-07-06
-
 DECRETO “N” Nº 451 DE 06 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no loteamento BAIRRO CARDOSO, neste município.

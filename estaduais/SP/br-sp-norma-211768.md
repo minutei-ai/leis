@@ -1,5 +1,3 @@
-# Ato da Mesa nº 29, de 05/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211768)<br>
 
 # ATO DA MESA N° 29/2025, DE 5 DE NOVEMBRO DE 2025

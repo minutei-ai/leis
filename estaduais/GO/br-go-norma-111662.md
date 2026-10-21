@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.822, de 2025-12-02
-
 DECRETO Nº 10.822, DE 2 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

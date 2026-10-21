@@ -1,5 +1,3 @@
-# Decreto Numerado nº 519, de 2024-06-27
-
 DECRETO “N” Nº 519 DE 27 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

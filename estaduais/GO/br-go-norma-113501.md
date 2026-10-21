@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.116, de 2026-03-09
-
 LEI Nº 24.116, DE 9 DE MARÇO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

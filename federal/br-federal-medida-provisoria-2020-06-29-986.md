@@ -1,5 +1,3 @@
-# Medida Provisória nº 986 de 29/06/2020
-
 MEDIDA PROVISÓRIA Nº 986, DE 29 DE JUNHO DE 2020
 
 Estabelece a forma de repasse pela União dos valores a serem aplicados pelos Poderes Executivos locais em ações emergenciais de apoio ao setor cultural durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e as regras para a restituição ou a suplementação por meio de outras fontes próprias de recursos pelos Estados, pelos Municípios ou pelo Distrito Federal.

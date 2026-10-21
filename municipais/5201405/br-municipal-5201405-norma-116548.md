@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.235, de 2014-12-15
-
 LEI MUNICIPAL N° 3.235, DE 15 DE DEZEMBRO DE 2014.
 
 “Estabelece normas e diretrizes para efetivação de matrículas nos Centros Municipais de Ensino Infantil – CMEIS, neste Município.”

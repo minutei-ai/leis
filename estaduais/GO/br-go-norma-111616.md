@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.867, de 2025-11-24
-
 LEI Nº 23.867, DE 24 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 22.874](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109225), de 24 de julho de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2025, e altera o Anexo I – Metas Fiscais da [Lei nº 23.570](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111087), de 10 de julho de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2026.

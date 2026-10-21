@@ -1,5 +1,3 @@
-# Decreto Numerado nº 415, de 2024-06-05
-
 DECRETO “N” Nº 415 DE 05 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

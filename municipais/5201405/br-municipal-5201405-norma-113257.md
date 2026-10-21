@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.426, de 2025-10-09
-
 DECRETO Nº 2.426, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 40, situado à Avenida Beira - Mar, no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

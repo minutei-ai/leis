@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.457, de 2024-04-25
-
 DECRETO Nº 10.457 DE 25 DE ABRIL DE 2024
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

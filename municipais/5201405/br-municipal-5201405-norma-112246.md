@@ -1,5 +1,3 @@
-# Decreto Numerado nº 63, de 2026-01-19
-
 DECRETO Nº 063, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Antenor Cupertino de Barros, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

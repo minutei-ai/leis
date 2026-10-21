@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.209, de 2026-04-08
-
 LEI Nº 24.209, DE 8 DE ABRIL DE 2026
 
 Altera a [Lei nº 16.834](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88550 "Abrir Lei Ordinária nº 16834, de 2009 em nova aba"), de 15 de dezembro de 2009, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.216, de 2021-11-29
-
 LEI Nº 7.216, DE 29 DE NOVEMBRO DE 2021.
 
 Dispõe sobre desmembramento de terrenos urbanos.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.470, de 2023-12-22
-
 LEI Nº 7.470, DE 22 DE DEZEMBRO DE 2023.
 
 Cria o Índice de Segurança das Escolas Municipais-ISEM.

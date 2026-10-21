@@ -1,5 +1,3 @@
-# Lei Complementar nº 36, de 2011-07-07
-
 LEI COMPLEMENTAR Nº. 036, DE 07 DE JULHO DE 2011.<br>
 Revogada pela Lei Complementar nº 125, de 11 de janeiro de 2017.
 

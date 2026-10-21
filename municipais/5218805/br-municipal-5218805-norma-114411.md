@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.635, de 1998-03-04
-
 LEI Nº 3.635, DE 4 DE MARÇO DE 1998.
 
 **CÓDIGO DE POSTURAS**

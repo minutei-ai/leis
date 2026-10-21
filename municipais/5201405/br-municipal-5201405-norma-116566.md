@@ -1,5 +1,3 @@
-# Decreto Numerado nº 532, de 2026-08-07
-
 DECRETO Nº 532, DE 7 DE AGOSTO DE 2026.
 
 Regulamenta o art. 224-C da Lei Complementar nº 124, de 14 de dezembro de 2016.

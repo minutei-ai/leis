@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.131, de 2025-09-02
-
 DECRETO Nº 2.131, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 30, da Quadra 54, situado à Rua Valença, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.940, de 2024-08-23
-
 LEI Nº 22.940, DE 23 DE AGOSTO DE 2024<br>
 \- [Lei com Eficácia suspensa (liminar), nos termos da ADI nº 7885-STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18647)
 

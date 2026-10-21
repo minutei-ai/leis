@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.727, de 2025-10-06
-
 LEI Nº 23.727, DE 6 DE OUTUBRO DE 2025
 
 Autoriza a aquisição, por doação onerosa do Município de Águas Lindas de Goiás/GO, do imóvel que especifica.

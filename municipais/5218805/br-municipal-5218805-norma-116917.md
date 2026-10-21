@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.709, de 2025-10-02
-
 LEI Nº 7.709, DE 2 DE OUTUBRO DE 2025.
 
 Altera a Lei nº 7.435/2023 e dá outras providências.

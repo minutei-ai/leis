@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.554, de 2024-03-12
-
 LEI Nº 22.554, DE 12 DE MARÇO DE 2024
 
 Cria, na estrutura organizacional da Delegacia-Geral da Polícia Civil, a Delegacia Estadual de Atendimento à Vítima de Crimes Raciais e de Intolerância – DEACRI.

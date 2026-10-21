@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.170, de 2014-03-18
-
 LEI MUNICIPAL Nº 3.170, DE 18 DE MARÇO DE 2014.
 
 Institui o “Dia da Proclamação ao Mundo para Família” e dá outras providências.

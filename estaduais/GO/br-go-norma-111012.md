@@ -1,5 +1,3 @@
-# Lei Complementar nº 207, de 2025-07-01
-
 LEI COMPLEMENTAR Nº 207, DE 1º DE JULHO DE 2025
 
 Altera a [Lei Complementar nº 183](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107266), de 22 de junho de 2023, que autoriza a administração pública do Estado de Goiás a abrir créditos adicionais com a utilização, como origem de recursos, da disponibilidade descomprometida com o cancelamento de restos a pagar no exercício.

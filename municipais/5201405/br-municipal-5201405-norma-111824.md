@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.844, de 2025-07-24
-
 LEI Nº 3.844, DE 24 DE JULHO DE 2025
 
 Dispõe sobre a denominação da Praça localizada na APM 23 e APM 24 QD 126 loteamento Jardim Tiradentes, no Setor Jardim Tiradentes neste município, como Praça FERNANDO RITA DA SILVA, e dá outras providências.

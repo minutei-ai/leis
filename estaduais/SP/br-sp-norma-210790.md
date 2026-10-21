@@ -1,5 +1,3 @@
-# Decreto nº 69.435, de 24/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210790)<br>
 
 # DECRETO N° 69.435, DE 24 DE MARÇO DE 2025

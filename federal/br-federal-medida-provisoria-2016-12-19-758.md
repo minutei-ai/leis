@@ -1,5 +1,3 @@
-# Medida Provisória nº 758 de 19/12/2016
-
 MEDIDA PROVISÓRIA Nº 758, DE 19 DE DEZEMBRO DE 2016
 
 Altera os limites do Parque Nacional do Jamanxim e da Área de Proteção Ambiental do Tapajós.

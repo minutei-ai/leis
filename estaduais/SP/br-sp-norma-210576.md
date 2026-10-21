@@ -1,5 +1,3 @@
-# Decreto nº 69.346, de 06/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210576)<br>
 
 # DECRETO N° 69.346, DE 06 DE FEVEREIRO DE 2025

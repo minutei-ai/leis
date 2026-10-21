@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.339, de 2016-11-23
-
 LEI MUNICIPAL Nº 3.339, DE 23 DE NOVEMBRO DE 2016.
 
 Reconhece de Utilidade Pública Municipal a ASSOCIAÇÃO DOS FISCAIS DE APARECIDA DE GOIÂNIA - AFAG.

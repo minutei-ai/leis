@@ -1,5 +1,3 @@
-# Decreto nº 70.328, de 31/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212154)<br>
 
 # DECRETO N° 70.328, DE 31 DE DEZEMBRO DE 2025

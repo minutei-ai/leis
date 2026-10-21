@@ -1,5 +1,3 @@
-# Decreto nº 69.265, de 27/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210490)<br>
 
 # DECRETO N° 69.265, DE 27 DE DEZEMBRO DE 2024

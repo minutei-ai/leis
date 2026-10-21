@@ -1,5 +1,3 @@
-# Decreto Numerado nº 319, de 2026-04-28
-
 DECRETO Nº 319, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Antônio Gomes Pinto, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

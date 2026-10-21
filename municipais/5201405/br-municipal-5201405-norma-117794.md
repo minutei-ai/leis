@@ -1,5 +1,3 @@
-# Decreto Numerado nº 87, de 2023-02-03
-
 DECRETO “N” Nº 87 DE 03 DE FEVEREIRO DE 2023<br>
 (Revogado pelo Decreto Nº 182, de 21 de março de 2023).
 

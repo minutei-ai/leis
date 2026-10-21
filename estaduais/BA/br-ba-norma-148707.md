@@ -1,5 +1,3 @@
-# LEI Nº 15.165 DE 29 DE MAIO DE 2026
-
 LEI Nº 15.165 DE 29 DE MAIO DE 2026
 
 Dispõe sobre o abono extraordinário a ser destinado, exclusivamente no ano de 2026, aos profissionais do Magistério da Educação Básica da Rede Pública do Estado.

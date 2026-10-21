@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.298, de 2025-03-24
-
 LEI Nº 23.298, DE 24 DE MARÇO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

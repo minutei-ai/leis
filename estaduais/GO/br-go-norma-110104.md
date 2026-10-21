@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.143, de 2024-12-06
-
 LEI Nº 23.143, DE 6 DE DEZEMBRO DE 2024
 
 Institui o “Novembrinho Azul Goiano” no âmbito do Estado de Goiás e dá outras providências.

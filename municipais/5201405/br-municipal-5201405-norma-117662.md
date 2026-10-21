@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1116, de 2024-12-18
-
 DECRETO “N” Nº 1116 DE 18 DE DEZEMBRO DE 2024
 
 Dispõe sobre remembramento e desmembramento de imóveis.

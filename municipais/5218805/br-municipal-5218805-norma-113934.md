@@ -1,5 +1,3 @@
-# Lei Complementar nº 444, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 444, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei Complementar nº 4.904, de 28 de fevereiro de 2005, que reestrutura o Quadro de Servidores da FESURV – Universidade de Rio Verde, para extinguir o cargo de Assessor Pedagógico.

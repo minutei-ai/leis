@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.425, de 2025-10-09
-
 DECRETO Nº 2.425, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra 18, situado Rua Amaraí, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

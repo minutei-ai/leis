@@ -1,5 +1,3 @@
-# LCP nº 134, de 07/05/2014
-
 Altera dispositivos da Lei Complementar nº 65, de 16 de janeiro de 2003, que organiza a Defensoria Pública do Estado, define sua competência e dispõe sobre a carreira de Defensor Público, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.386, de 2025-10-08
-
 DECRETO Nº 2.386, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, da Quadra 77, situado à Rua Zacarias Alves Lima, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

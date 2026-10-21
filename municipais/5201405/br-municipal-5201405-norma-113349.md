@@ -1,5 +1,3 @@
-# Lei Complementar nº 209, de 2023-04-20
-
 LEI COMPLEMENTAR Nº 209, DE 20 DE ABRIL DE 2023.
 
 Cria o Código de Ética e Disciplina da Guarda Civil Municipal de Aparecida de Goiânia, Estado de Goiás e dá outras providências. 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.375, de 2017-09-11
-
 LEI MUNICIPAL Nº 3.375, DE 11 DE SETEMBRO DE 2017.
 
 Institui a Semana Municipal do Turismo no município de Aparecida de Goiânia e dá outras providencias.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.549, de 2024-03-08
-
 LEI Nº 22.549, DE 8 DE MARÇO DE 2024
 
 Autoriza a aquisição, por doação onerosa do Município de Caiapônia/GO, dos imóveis que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.315, de 2025-03-31
-
 LEI Nº 23.315, DE 31 DE MARÇO DE 2025
 
 Altera a [Lei nº 16.901](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88625), de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás e dá outras providências.

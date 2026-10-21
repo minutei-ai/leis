@@ -1,5 +1,3 @@
-# LEI Nº 15.110 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.110 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a substituição dos sinais sonoros estridentes nas unidades da rede pública estadual de ensino do Estado da Bahia por música, a fim de não gerar incômodos sensoriais aos alunos com Transtorno do Espectro Autista (TEA).

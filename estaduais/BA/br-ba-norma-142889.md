@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 55 DE 16 DE MAIO DE 2023
-
 LEI COMPLEMENTAR Nº 55 DE 16 DE MAIO DE 2023
 
 Altera a [Lei Complementar nº 34](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-34-de-06-de-fevereiro-de-2009), de 06 de fevereiro de 2009, na forma que indica, e dá outras providências.

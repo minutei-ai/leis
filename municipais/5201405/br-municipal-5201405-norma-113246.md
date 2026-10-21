@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.200, de 2025-09-09
-
 DECRETO Nº 2.200, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 11, situado à Avenida C-1, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LD Nº 56 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 56 DE 01 DE JUNHO DE 1983
 
 Altera dispositivos da [Lei Delegada nº 27 de 10/02/83](https://www.legislabahia.ba.gov.br/documentos/ld-no-27-de-10-de-fevereiro-de-1983#LD_27) e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.927, de 2026-09-10
-
 LEI Nº 3.927, DE 10 DE SETEMBRO DE 2026
 
 Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária do Município de Aparecida de Goiânia para o exercício de 2027.

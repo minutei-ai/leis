@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.490, de 2024-02-26
-
 LEI Nº 7.490, DE 26 DE FEVEREIRO DE 2024.
 
 Autoriza a celebração de parceria com a Associação Comercial, Industrial e Serviços de Rio Verde – ACIRV.

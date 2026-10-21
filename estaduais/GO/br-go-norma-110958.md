@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.495, de 2025-06-13
-
 LEI Nº 23.495, DE 13 DE JUNHO DE 2025
 
 Concede o título de cidadania que especifica.

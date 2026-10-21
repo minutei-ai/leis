@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.804, de 2024-10-17
-
 LEI MUNICIPAL Nº 3.804, DE 17 DE OUTUBRO DE 2024.<br>
 (Revogada pela Lei Ordinária nº 3.894, de 9 de abril de 2026).
 

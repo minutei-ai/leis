@@ -1,5 +1,3 @@
-# Medida Provisória nº 369 de 07/05/2007
-
 ###MPV-000369-0-000-07-05-2007@@@
 
 MEDIDA PROVISÓRIA Nº 369, DE 7 DE MAIO DE 2007.

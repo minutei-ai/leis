@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.371 de 22/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.371, DE 22 DE JUNHO DE 2026
 
 Altera a [Medida Provisória nº 1.354, de 30 de abril de 2026](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-04-30;1354), que abre crédito extraordinário em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, para dar nova redação ao título de ação orçamentária constante de seu Anexo.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.587, de 2025-06-13
-
 DECRETO Nº 1.587, DE 13 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua P-7 e Rua X-18, no Loteamento Sítios Santa Luzia Residencial, no Município de Aparecida de Goiânia.

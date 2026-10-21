@@ -1,5 +1,3 @@
-# LD Nº 55 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 55 DE 01 DE JUNHO DE 1983
 
 Reorganiza a Casa Civil do Gabinete do Governador e dá outras providências.

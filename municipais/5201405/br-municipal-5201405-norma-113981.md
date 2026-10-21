@@ -1,5 +1,3 @@
-# Decreto Numerado nº 611, de 2024-07-29
-
 DECRETO “N” Nº 611, DE 29 DE JULHO DE 2024.
 
 Declara de utilidade pública, para efeito de instituição de servidão de passagem, a área abaixo especificada e dá outras providências.

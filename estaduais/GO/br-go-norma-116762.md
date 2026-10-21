@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 337, de 2026-07-09
-
 Portaria Orçamentária nº 337/2026 - Economia
 
 O Defensor Público-Geral da DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º e inciso IV da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de janeiro de 2026.

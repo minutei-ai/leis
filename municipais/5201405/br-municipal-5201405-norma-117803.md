@@ -1,5 +1,3 @@
-# Decreto Numerado nº 94, de 2023-02-06
-
 DECRETO “N” Nº 094, DE 06 DE FEVEREIRO DE 2023.
 
 Dispõe sobre o enquadramento da empresa JPMA ASSESSORIA ADMINISTRATIVA LTDA., ao Programa Municipal de Incentivos Fiscais, e dá outras providências.

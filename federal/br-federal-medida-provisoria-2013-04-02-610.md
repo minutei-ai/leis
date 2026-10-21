@@ -1,5 +1,3 @@
-# Medida Provisória nº 610 de 02/04/2013
-
 MEDIDA PROVISÓRIA Nº  610, DE 2 DE ABRIL DE 2013
 
 Amplia o valor do Benefício Garantia-Safra para a safra de 2011/2012, amplia o Auxílio Emergencial Financeiro, de que trata a Lei nº 10.954, de 29 de setembro de 2004, relativo aos desastres ocorridos em 2012, autoriza a distribuição de milho para venda a pequenos criadores, nos termos que especifica, altera as Leis nº 12.249, de 11 de junho de 2010 e nº 12.716, de 21 de setembro de 2012, e dá outras providências.

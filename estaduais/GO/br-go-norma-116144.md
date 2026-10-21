@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.950, de 2026-07-08
-
 DECRETO Nº 10.950, DE 8 DE JULHO DE 2026
 
 Dispõe sobre a regulamentação do Conselho Estadual da Mulher – CONEM e revoga os [Decretos nº 6.725](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62473), de 7 de março de 2008, e [nº 9.323](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71521), de 2 de outubro de 2018.

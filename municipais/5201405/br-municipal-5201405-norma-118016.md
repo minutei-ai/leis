@@ -1,5 +1,3 @@
-# Decreto Numerado nº 246, de 2023-04-17
-
 DECRETO “N” Nº 246 DE 17 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR SERRA DOURADA - 3ª ETAPA, neste município. 

@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 17 DE 21 DE AGOSTO DE 2002
-
 LEI COMPLEMENTAR Nº 17 DE 21 DE AGOSTO DE 2002
 
 Dispõe sobre a organização do Ministério Público, altera denominações de cargos da [Lei Complementar nº 11/96](https://www.legislabahia.ba.gov.br/documentos/lc-no-011-de-18-de-janeiro-de-1996#LEI_11) , e dá outras providências:

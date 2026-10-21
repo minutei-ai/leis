@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.079, de 2024-11-13
-
 LEI Nº 23.079, DE 13 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 15.958](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80070), de 18 de janeiro de 2007, que dispõe sobre a Lei Orgânica do Tribunal de Contas dos Municípios do Estado de Goiás.

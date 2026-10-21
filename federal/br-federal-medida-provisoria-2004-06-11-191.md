@@ -1,5 +1,3 @@
-# Medida Provisória nº 191 de 11/06/2004
-
 ###MPV-000191-0-000-11-06-2004@@@
 
 MEDIDA PROVISÓRIA Nº 191, DE 11 DE JUNHO 2004

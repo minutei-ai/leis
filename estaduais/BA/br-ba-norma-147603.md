@@ -1,5 +1,3 @@
-# LEI Nº 14.972 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.972 DE 08 DE SETEMBRO DE 2025
 
 Dispõe sobre a criação e transformação de cargos comissionados, no âmbito do Poder Judiciário do Estado da Bahia e altera o art. 6º da Lei Estadual nº [11.918](https://www.legislabahia.ba.gov.br/documentos/lei-no-11918-de-16-de-junho-de-2010), de 16 de junho de 2010.

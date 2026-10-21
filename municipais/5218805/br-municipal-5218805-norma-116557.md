@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.246, de 2022-04-01
-
 LEI N° 7.246, DE 1º DE ABRIL DE 2022
 
 Autoriza concessão de prazo de edificação em imóvel cedido à Associação dos Nordestinos do Sudoeste Goiano - ASUNG.

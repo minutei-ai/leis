@@ -1,5 +1,3 @@
-# Lei Complementar nº 263, de 2022-09-26
-
 LEI COMPLEMENTAR N°. 263, DE 26 DE SETEMBRO DE 2022
 
 Dispõe sobre o parcelamento do solo urbano do imóvel denominado Residencial Jardim Florença, declarando-o como Zona de Especial de Interesse Social — ZEIS e dá outras providências.

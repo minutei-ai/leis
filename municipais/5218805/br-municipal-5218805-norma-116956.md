@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.186, de 2021-11-04
-
 LEI N. 7.186, DE 04 DE NOVEMBRO DE 2021.
 
 Altera a Lei 6.908/2018, que dispõe sobre os serviços de transporte individual de passageiros por mototáxi no município de Rio Verde.

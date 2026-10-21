@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.379, de 2025-04-30
-
 LEI Nº 23.379, DE 30 DE ABRIL DE 2025
 
 Concede o título de cidadania que especifica.

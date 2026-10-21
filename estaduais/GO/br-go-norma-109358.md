@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.522, de 2024-08-07
-
 DECRETO Nº 10.522, DE 7 DE AGOSTO DE 2024
 
 Desqualifica como organização social de saúde, no Estado de Goiás, a entidade que especifica.

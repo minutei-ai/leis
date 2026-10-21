@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.398, de 2024-01-25
-
 DECRETO Nº 10.398, DE 25 DE JANEIRO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, a área de terras que especifica.

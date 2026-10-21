@@ -1,5 +1,3 @@
-# LD Nº 77 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 77 DE 03 DE JUNHO DE 1983
 
 Dispõe sobre aproveitamento de funcionários oriundos de órgãos ou entidades extintos, transferidos, incorporados ou fundidos, decorrentes da reorganização administrativa do Estado.

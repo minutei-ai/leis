@@ -1,5 +1,3 @@
-# Decreto Numerado nº 385, de 2026-05-14
-
 DECRETO Nº 385, DE 14 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Guarapari, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

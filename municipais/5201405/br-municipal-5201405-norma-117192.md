@@ -1,5 +1,3 @@
-# Decreto Numerado nº 703, de 2024-08-30
-
 DECRETO “N” Nº 703 DE 30 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.042, de 2024-10-29
-
 LEI Nº 23.042, DE 29 DE OUTUBRO DE 2024
 
 Institui o Laboratório de Inovação Goiás – LIGO.

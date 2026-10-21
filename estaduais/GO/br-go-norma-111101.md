@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.745, de 2025-07-29
-
 DECRETO Nº 10.745 , DE 29 DE JULHO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, as obras que especifica, no Município de Santo Antônio de Goiás/GO.

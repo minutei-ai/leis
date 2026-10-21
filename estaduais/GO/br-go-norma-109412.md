@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.947, de 2024-08-26
-
 LEI Nº 22.947, DE 26 DE AGOSTO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

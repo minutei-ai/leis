@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.134 de 25/08/2022
-
 MEDIDA PROVISÓRIA Nº 1.134, DE 25 DE AGOSTO DE 2022
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 2.500.000.000,00, para o fim que especifica.

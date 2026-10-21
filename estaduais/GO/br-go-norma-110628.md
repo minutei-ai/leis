@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.373, de 2025-04-28
-
 LEI Nº 23.373, DE 28 DE ABRIL DE 2025
 
 Concede o título de cidadania que especifica.

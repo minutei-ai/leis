@@ -1,5 +1,3 @@
-# Decreto Numerado nº 394, de 2026-05-19
-
 DECRETO Nº 394, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01, 02, 03, 04, 05 e 06, todos da Quadra C, situados à Avenida Getúlio Vargas e Rua Paraiba, no Loteamento Vila Nossa Senhora de Lourdes, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 236, de 2024-10-01
-
 LEI COMPLEMENTAR Nº 236 DE 01 DE OUTUBRO DE 2024 
 
 Dispõe sobre a política inflacionária dos vencimentos e subsídios dos servidores públicos e agentes políticos dos Poderes Executivo e Legislativo, instituindo a data-base e índice revisional, para fins de revisão geral anual, e dá outras providências.

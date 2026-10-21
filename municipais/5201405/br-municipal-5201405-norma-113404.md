@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.227, de 2025-09-17
-
 DECRETO Nº 2.227, DE 17 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 223/224/225/226/227/15/19/Área I, APM 01 - Destinado a BR 153, APM 02- Destinada a Alameda G, Rua 7 de Julho Parte 01, Praça Tamandaré, Parte 02 da Rua 7 de Julho, no Loteamento Chácara São Pedro, no Município de Aparecida de Goiânia.

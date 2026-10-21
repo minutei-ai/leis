@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.034, de 2024-10-18
-
 LEI Nº 23.034, DE 18 DE OUTUBRO DE 2024
 
 Concede o título de cidadania que especifica.

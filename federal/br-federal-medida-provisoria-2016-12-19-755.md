@@ -1,5 +1,3 @@
-# Medida Provisória nº 755 de 19/12/2016
-
 MEDIDA PROVISÓRIA Nº 755, DE 19 DE DEZEMBRO DE 2016
 
 Altera a [Lei Complementar nº 79, de 7 de janeiro de 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:1994-01-07;79), para dispor sobre a transferência direta de recursos financeiros do Fundo Penitenciário Nacional aos fundos dos Estados e do Distrito Federal, e a [Lei nº 11.473, de 10 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-10;11473), que dispõe sobre a cooperação federativa no âmbito da segurança pública.

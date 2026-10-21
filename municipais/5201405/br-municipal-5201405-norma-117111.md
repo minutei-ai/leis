@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.227, de 2014-10-23
-
 LEI MUNICIPAL Nº 3.227, DE 23 DE OUTUBRO DE 2014.
 
 “Altera a lei 2.517 de 2005 que Autoriza o Poder Executivo a firmar convênios com entidades educacionais, assistenciais, filantrópicas e organizações não governamentais e dá outras providências.”

@@ -1,5 +1,3 @@
-# Lei Complementar nº 316, de 2023-10-02
-
 LEI COMPLEMENTAR Nº 316, DE 02 DE OUTUBRO DE 2023.
 
 Altera a Lei Complementar nº. 3.853/1999, Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

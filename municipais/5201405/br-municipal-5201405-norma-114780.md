@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.687, de 2022-11-11
-
 LEI MUNICIPAL Nº 3.687 DE 11 DE NOVEMBRO DE 2022.
 
 Altera a Lei Municipal 2.472 de 09 de julho de 2004, que “Cria o Parque Industrial Aparecida e o Polo Municipal de Reciclagem”.

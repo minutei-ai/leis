@@ -1,5 +1,3 @@
-# Medida Provisória nº 183 de 30/04/2004
-
 ###MPV-000183-0-000-30-04-2004@@@
 
 MEDIDA PROVISÓRIA Nº 183, DE 30 DE ABRIL 2004

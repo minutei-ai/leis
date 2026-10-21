@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.617, de 2025-02-24
-
 LEI N° 7.617, DE 24 DE FEVEREIRO DE 2025.
 
 Autoriza o Poder Executivo a afetar área pública, inserindo-a no sistema viário do Município.

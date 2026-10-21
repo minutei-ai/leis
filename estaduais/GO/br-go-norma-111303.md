@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.685, de 2025-09-24
-
 LEI Nº 23.685, DE 24 DE SETEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.880, de 2026-06-17
-
 LEI Nº 7.880, DE 17 DE JUNHO DE 2026.
 
 Reestrutura a Política Municipal de Atendimento dos Direitos da Pessoa com Deficiência.

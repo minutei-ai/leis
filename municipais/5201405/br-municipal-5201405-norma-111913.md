@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.831, de 2025-05-15
-
 LEI Nº 3.831, DE 15 DE MAIO DE 2025
 
 Dispõe sobre a atualização dos vencimentos dos servidores do Magistério Público do Município de Aparecida de Goiânia e altera a Lei nº 2.606, de 26 de setembro de 2006, que dispõe sobre o Plano de Cargos e Salários dos Servidores da Secretaria Municipal de Educação.

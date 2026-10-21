@@ -1,5 +1,3 @@
-# Medida Provisória nº 992 de 16/07/2020
-
 MEDIDA PROVISÓRIA Nº 992, DE 16 DE JULHO DE 2020
 
 Dispõe sobre o financiamento a microempresa e empresa de pequeno e médio porte, sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias, sobre o compartilhamento de alienação fiduciária e sobre a dispensa do cumprimento de exigências de demonstração de regularidade fiscal nas operações praticadas pelo Banco Central do Brasil em decorrência do disposto no art. 7º da Emenda Constitucional nº 106, de 7 de maio de 2020, e altera a Lei nº 13.476, de 28 de agosto de 2017, a Lei nº 13.097, de 19 de janeiro de 2015, e a Lei nº 6.015, de 31 de dezembro de 1973.

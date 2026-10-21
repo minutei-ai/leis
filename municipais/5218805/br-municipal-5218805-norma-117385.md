@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.124, de 2021-02-19
-
 LEI Nº 7.124, DE 19 DE FEVEREIRO DE 2021
 
 Autoriza a FESURV - Universidade de Rio Verde a conceder bolsas de estudo.

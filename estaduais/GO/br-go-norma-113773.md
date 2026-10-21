@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.210, de 2026-04-08
-
 LEI Nº 24.210, DE 8 DE ABRIL DE 2026
 
 Institui o Selo de Honra às Famílias Doadoras de Órgãos.

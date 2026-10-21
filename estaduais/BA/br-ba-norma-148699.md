@@ -1,5 +1,3 @@
-# LEI Nº 15.162 DE 27 DE MAIO DE 2026
-
 LEI Nº 15.162 DE 27 DE MAIO DE 2026
 
 Altera a Lei nº [14.391](https://www.legislabahia.ba.gov.br/documentos/lei-no-14391-de-14-de-dezembro-de-2021), de 14 de dezembro de 2021, na forma que indica.

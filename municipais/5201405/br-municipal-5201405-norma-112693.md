@@ -1,5 +1,3 @@
-# Lei Complementar nº 27, de 2010-08-19
-
 Lei COMPLEMENTAR n° 027, de 19 DE AGOSTO de 2010.
 
 Dispõe sobre o piso salarial do profissional de educação e dá outras providências.

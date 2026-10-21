@@ -1,5 +1,3 @@
-# Lei nº 18.432, de 25/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212406)<br>
 
 # LEI N° 18.432, DE 25 DE MARÇO DE 2026

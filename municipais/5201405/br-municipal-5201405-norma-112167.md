@@ -1,5 +1,3 @@
-# Decreto Numerado nº 9, de 2026-01-06
-
 DECRETO Nº 009, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Avenida Antônio Prado, no Loteamento Jardim Cristal, no Município de Aparecida de Goiânia.

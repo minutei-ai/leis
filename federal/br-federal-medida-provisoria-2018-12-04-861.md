@@ -1,5 +1,3 @@
-# Medida Provisória nº 861 de 04/12/2018
-
 MEDIDA PROVISÓRIA Nº 861, DE 4 DE DEZEMBRO DE 2018
 
 Dispõe sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal e altera a [Lei nº 8.934, de 18 de novembro de 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-11-18;8934), que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins.

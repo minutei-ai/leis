@@ -1,5 +1,3 @@
-# LEI Nº 15.159 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.159 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação Desportiva do Bairro da Caixa D’água, com sede e foro em Morro do Chapéu.

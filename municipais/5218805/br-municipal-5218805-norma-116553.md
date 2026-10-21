@@ -1,5 +1,3 @@
-# Lei Complementar nº 305, de 2023-06-28
-
 LEI COMPLEMENTAR Nº 305, DE 28 DE JUNHO DE 2023.
 
 Altera a Lei Complementar nº 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município de Rio Verde, Estado de Goiás.

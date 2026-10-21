@@ -1,5 +1,3 @@
-# Decreto Numerado nº 130, de 2026-02-09
-
 DECRETO Nº 130, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Itaborai, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

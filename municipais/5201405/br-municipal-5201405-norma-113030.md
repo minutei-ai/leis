@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.113, de 2025-09-01
-
 DECRETO Nº 2.113, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Marques de Itú, no Loteamento Parque Real de Goiânia, no Município de Aparecida de Goiânia.

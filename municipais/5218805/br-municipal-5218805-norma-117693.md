@@ -1,5 +1,3 @@
-# Lei Complementar nº 412, de 2025-10-10
-
 LEI COMPLEMENTAR Nº 412, DE 10 DE OUTUBRO DE 2025.
 
 Altera a [Lei Complementar nº 45](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117691), de 27 de outubro de 2015, que dispõe sobre o Fundo Municipal do Meio Ambiente – FMMAm, e a Lei nº 5.090, de 28 de dezembro de 2005 -Código Ambiental Municipal.

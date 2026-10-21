@@ -1,5 +1,3 @@
-# Decreto nº 69.314, de 16/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210542)<br>
 
 # DECRETO N° 69.314, DE 16 DE JANEIRO DE 2025

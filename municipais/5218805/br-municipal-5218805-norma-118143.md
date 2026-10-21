@@ -1,5 +1,3 @@
-# Lei Complementar nº 09, de 2014-05-21
-
 LEI COMPLEMENTAR Nº 09, DE 21 DE MAIO DE 2014.
 
 Altera dispositivos da Lei Complementar n.º 5.727de 11 de dezembro de 2009 - Código Tributário Municipal.

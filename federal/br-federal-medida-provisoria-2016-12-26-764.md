@@ -1,5 +1,3 @@
-# Medida Provisória nº 764 de 26/12/2016
-
 MEDIDA PROVISÓRIA Nº 764, DE 26 DE DEZEMBRO DE 2016
 
 Dispõe sobre a diferenciação de preços de bens e serviços oferecidos ao público, em função do prazo ou do instrumento de pagamento utilizado.

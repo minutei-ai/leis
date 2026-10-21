@@ -1,5 +1,3 @@
-# Decreto Numerado nº 500, de 2024-06-24
-
 DECRETO “N” Nº 500 DE 24 DE JUNHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 995 de 07/08/2020
-
 MEDIDA PROVISÓRIA Nº 995, DE 7 DE AGOSTO DE 2020
 
 Dispõe sobre medidas para reorganização societária e desinvestimentos da Caixa Econômica Federal e de suas subsidiárias.

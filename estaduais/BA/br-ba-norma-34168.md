@@ -1,5 +1,3 @@
-# Constituição do Estado da Bahia de 14 de maio de 1967
-
 CONSTITUIÇÃO DO ESTADO DA BAHIA DE 14 DE MAIO DE 1967
 
 Acompanhada dos textos das Emendas Constitucionais

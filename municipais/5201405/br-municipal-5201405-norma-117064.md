@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.175, de 2014-04-23
-
 LEI MUNICIPAL Nº 3.175, DE 23 DE ABRIL DE 2014.
 
 Institui data comemorativa denominada “Dia Municipal do Povo Romani (cigano)” e dá outras providências.

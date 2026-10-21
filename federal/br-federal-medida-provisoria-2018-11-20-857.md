@@ -1,5 +1,3 @@
-# Medida Provisória nº 857 de 20/11/2018
-
 MEDIDA PROVISÓRIA Nº 857, DE 20 DE NOVEMBRO DE 2018
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 75.280.000,00, para os fins que especifica.

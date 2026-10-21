@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.020, de 2019-12-03
-
 <br>
 **LEI Nº 7.020, DE 03 DE DEZEMBRO DE 2019**
 

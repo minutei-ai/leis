@@ -1,5 +1,3 @@
-# LCP nº 147, de 14/12/2018
-
 Altera a Lei Complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do Ministério Público do Estado e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

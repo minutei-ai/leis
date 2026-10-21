@@ -1,5 +1,3 @@
-# Decreto Numerado nº 22, de 2026-01-12
-
 DECRETO Nº 022, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Montivideu, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

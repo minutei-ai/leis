@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.713, de 2025-09-30
-
 LEI Nº 23.713, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

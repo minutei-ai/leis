@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.532, de 2024-06-24
-
 LEI Nº 7.532, DE 24 DE JUNHO DE 2024.
 
 Dispõe sobre ações que promovam a conscientização, incentivo, cuidado e promoção da saúde mental materna, para atender a Campanha Maio Furta-Cor.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 81, de 2014-02-26
-
 LEI COMPLEMENTAR Nº 81, DE 26 DE FEVEREIRO DE 2014.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

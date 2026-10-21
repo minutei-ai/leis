@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.294, de 2025-03-24
-
 LEI Nº 23.294, DE 24 DE MARÇO DE 2025
 
 Dá denominação ao próprio público que especifica.

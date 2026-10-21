@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.520, de 2024-08-01
-
 DECRETO Nº 10.520, DE 1º DE AGOSTO DE 2024
 
 Altera o [Decreto nº 8.082](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66852), de 30 de janeiro de 2014, que regulamenta a [Lei nº 18.303](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90458), de 30 de dezembro de 2013, para disciplinar os critérios de repasse e execução do Programa Dinheiro Direto nos Quartéis e nas Delegacias (PDDQD).

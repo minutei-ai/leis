@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.265, de 2025-09-23
-
 DECRETO Nº 2.265, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 345, situado à Rua 5-C, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

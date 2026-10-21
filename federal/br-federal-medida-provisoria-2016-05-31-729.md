@@ -1,5 +1,3 @@
-# Medida Provisória nº 729 de 31/05/2016
-
 MEDIDA PROVISÓRIA Nº 729, DE 31 DE MAIO DE 2016
 
 Altera a [Lei nº 12.722, de 3 de outubro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-10-03;12722), que dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil.

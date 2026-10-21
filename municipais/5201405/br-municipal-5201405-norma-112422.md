@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.142, de 2025-03-28
-
 DECRETO Nº 1.142, DE 28 DE MARÇO DE 2025
 
 Autoriza o cancelamento da caução dos lotes em razão da implantação da infraestrutura básica do Loteamento Residencial Aldeia do Parque, localizado neste município.

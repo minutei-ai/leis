@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.043 de 16/04/2021
-
 MEDIDA PROVISÓRIA Nº 1.043, DE 16 DE ABRIL DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 2.693.315.000,00, para os fins que especifica.

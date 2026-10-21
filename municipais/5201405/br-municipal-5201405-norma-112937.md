@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.002, de 2025-08-18
-
 DECRETO Nº 2.002, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 02, 03, 04 e 05, todos da Quadra T, situados à Rua 06, Rodovia BR 153 e Avenida A, no Loteamento Setor Araguaia, no Município de Aparecida de Goiânia.

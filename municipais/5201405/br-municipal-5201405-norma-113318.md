@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.334, de 2025-09-30
-
 DECRETO Nº 2.334, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 31, da Quadra 13, situado à Avenida Iguatemi, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

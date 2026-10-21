@@ -1,5 +1,3 @@
-# EMC nº 113, de 24/04/2023
-
 Altera os arts. 14, 73, 74, 89, 139, 140, 155, 157 e 158 da Constituição do Estado e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.345, de 2023-03-30
-
 LEI Nº 7.345, DE 30 DE MARÇO DE 2023
 
 Criação do aplicativo para uso em dispositivo móvel botão do pânico, para facilitar denúncias de casos de violência contra mulher.

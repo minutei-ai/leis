@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.111 de 30/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.111, DE 30 DE MARÇO DE 2022
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 1.200.000.000,00, para o fim que especifica.

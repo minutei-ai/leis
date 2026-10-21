@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.812, de 2024-12-12
-
 LEI MUNICIPAL Nº 3.812, DE 12 DE DEZEMBRO DE 2024.
 
 Altera a Lei Municipal nº 674, de 14 de agosto de 1987, em seu art. 1º, alínea 'd', que dispõe sobre a criação das Instituições Sociais Municipais.

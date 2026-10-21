@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.673, de 2024-05-09
-
 LEI Nº 22.673, DE 9 DE MAIO DE 2024
 
 Institui a Política Estadual de Conscientização e Tratamento da Afasia e a Semana Estadual de Conscientização sobre a Afasia.

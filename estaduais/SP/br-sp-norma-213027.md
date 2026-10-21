@@ -1,5 +1,3 @@
-# Decreto nº 70.923, de 02/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213027)<br>
 
 # DECRETO N° 70.923, DE 02 DE OUTUBRO DE 2026

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.820, de 2025-12-15
-
 DECRETO Nº 2.820, DE 15 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Moacir Camilo Nascimento, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

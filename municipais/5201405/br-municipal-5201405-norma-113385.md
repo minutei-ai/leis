@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.217, de 2025-09-12
-
 DECRETO Nº 2.217, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 15, situado à Rua 202, no Loteamento Setor Aeroporto Sul, no Município de Aparecida de Goiânia.

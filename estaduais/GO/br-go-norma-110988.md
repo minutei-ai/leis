@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.507, de 2025-06-16
-
 LEI Nº 23.507, DE 16 DE JUNHO DE 2025
 
 Concede o título de cidadania que especifica.

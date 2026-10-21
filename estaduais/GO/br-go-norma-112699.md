@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.066, de 2026-02-04
-
 LEI Nº 24.066, DE 4 DE FEVEREIRO DE 2026
 
 Institui o Dia Estadual do _Airsoft._

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.333, de 2025-09-30
-
 DECRETO Nº 2.333, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, da Quadra 81, situado à Rua Vereador José Fabiano, no Loteamento Setor Serra Dourada 3ª Etapa, no Município de Aparecida de Goiânia.

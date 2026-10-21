@@ -1,5 +1,3 @@
-# Decreto Numerado nº 640, de 2024-08-07
-
 DECRETO "N" N° 640, DE 07 DE AGOSTO DE 2024.
 
 Dispõe sobre aprovação do Loteamento Residencial Village Boulevard, neste Município, e dá outras providências.

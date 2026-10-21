@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.679, de 2025-04-16
-
 DECRETO Nº 10.679, DE 16 DE ABRIL DE 2025
 
 Regulamenta os aspectos técnicos que permitam definir as comunidades rurais para o enquadramento no Programa Estadual de Saneamento Rural, instituído pela [Lei nº 22.384](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108082), de 20 de novembro de 2023.

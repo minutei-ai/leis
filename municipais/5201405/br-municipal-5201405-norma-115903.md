@@ -1,5 +1,3 @@
-# Decreto Numerado nº 507, de 2026-06-25
-
 DECRETO Nº 507, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 02 e 03, todos da Quadra 65, situados à Avenida Nossa Senhora de Lourdes, no Loteamento Vila Santa, no Município de Aparecida de Goiânia.

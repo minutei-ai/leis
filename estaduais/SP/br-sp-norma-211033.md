@@ -1,5 +1,3 @@
-# Decreto nº 69.603, de 09/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211033)<br>
 
 # DECRETO N° 69.603, DE 09 DE JUNHO DE 2025

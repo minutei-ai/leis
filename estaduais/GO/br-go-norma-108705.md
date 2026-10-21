@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.455, de 2024-04-24
-
 DECRETO Nº 10.455, DE 24 DE ABRIL DE 2024
 
 Decreta luto oficial.

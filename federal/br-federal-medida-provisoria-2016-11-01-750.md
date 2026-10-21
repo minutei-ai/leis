@@ -1,5 +1,3 @@
-# Medida Provisória nº 750 de 01/11/2016
-
 MEDIDA PROVISÓRIA Nº 750, DE 1 DE NOVEMBRO DE 2016
 
 Abre crédito extraordinário, em favor da Câmara dos Deputados, do Superior Tribunal de Justiça, da Justiça Federal, da Justiça Militar da União, da Justiça do Trabalho e da Justiça do Distrito Federal e dos Territórios, no valor de R$ 82.562.979,00, para os fins que especifica.

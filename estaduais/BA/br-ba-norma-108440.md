@@ -1,5 +1,3 @@
-# LC Nº 004 DE 03 DE OUTUBRO DE 1991
-
 LEI COMPLEMENTAR Nº 004 DE 03 DE OUTUBRO DE 1991.
 
 Altera a redação do [artigo 4º da Lei Complementar nº 03/90](https://www.legislabahia.ba.gov.br/documentos/lc-no-003-de-05-de-setembro-de-1990#LEI_003_Art__4) .

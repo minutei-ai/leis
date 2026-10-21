@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.203, de 2025-01-09
-
 LEI Nº 23.203, DE 9 DE JANEIRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

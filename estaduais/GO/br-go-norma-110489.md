@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.286, de 2025-03-19
-
 LEI Nº 23.286, DE 19 DE MARÇO DE 2025
 
 Institui o Dia Estadual do Barista.

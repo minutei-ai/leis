@@ -1,5 +1,3 @@
-# Lei nº 18.431, de 25/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212405)<br>
 
 # LEI N° 18.431, DE 25 DE MARÇO DE 2026

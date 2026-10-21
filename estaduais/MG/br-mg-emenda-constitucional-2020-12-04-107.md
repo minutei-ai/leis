@@ -1,5 +1,3 @@
-# EMC nº 107, de 04/12/2020
-
 Altera o art. 161 da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

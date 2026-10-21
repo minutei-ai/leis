@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.093, de 2026-02-13
-
 LEI Nº 24.093, DE 13 DE FEVEREIRO DE 2026
 
 Dá denominação ao próprio público que especifica.

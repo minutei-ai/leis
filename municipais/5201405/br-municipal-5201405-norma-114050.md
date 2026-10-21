@@ -1,5 +1,3 @@
-# Decreto Numerado nº 673, de 2024-08-15
-
 DECRETO “N” Nº 673, DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidora da Secretaria Municipal de Educação.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.943, de 2026-06-29
-
 DECRETO Nº 10.943, DE 29 DE JUNHO DE 2026
 
 Institui o Programa de Residência Jurídica na Procuradoria-Geral do Estado de Goiás.

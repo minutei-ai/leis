@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.521, de 2019-11-04
-
 LEI MUNICIPAL Nº 3.521, DE 04 DE NOVEMBRO DE 2019
 
 Altera a Lei Municipal nº 1.353/94, que instituiu o Código de Processo Administrativo Tributário e Fiscal do Município de Aparecida de Goiânia, e dá outras providências.

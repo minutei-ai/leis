@@ -1,5 +1,3 @@
-# Decreto Numerado nº 592, de 2024-07-23
-
 DECRETO “N” Nº 592 DE 23 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

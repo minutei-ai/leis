@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.047, de 2026-01-21
-
 LEI Nº 24.047, DE 21 DE JANEIRO DE 2026.
 
 Dá denominação ao próprio público que especifica. 

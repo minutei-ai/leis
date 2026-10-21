@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.682, de 2025-09-17
-
 LEI Nº 23.682, DE 17 DE SETEMBRO DE 2025
 
 Institui a Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet.

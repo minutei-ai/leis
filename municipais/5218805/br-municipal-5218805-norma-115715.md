@@ -1,5 +1,3 @@
-# Lei Complementar nº 158, de 2019-06-27
-
 LEI COMPLEMENTAR Nº 158, DE 27 DE JUNHO DE 2019.
 
 <br>

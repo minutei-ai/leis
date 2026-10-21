@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.915, de 2026-06-30
-
 LEI Nº 3.915, DE 30 DE JUNHO DE 2026
 
 Institui o Programa Escudo Feminino, destinado à proteção, capacitação e apoio à autodefesa de mulheres em situação de violência no âmbito do Município de Aparecida de Goiânia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.088 de 29/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.088, DE 29 DE DEZEMBRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 3.501.597.083,00, para o fim que especifica, e dá outras providências.

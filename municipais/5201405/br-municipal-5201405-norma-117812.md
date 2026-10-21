@@ -1,5 +1,3 @@
-# Decreto Numerado nº 61, de 2023-01-25
-
 DECRETO “N” Nº 61 DE 25 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO INDEPENDÊNCIA, neste município.

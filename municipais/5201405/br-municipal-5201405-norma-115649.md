@@ -1,5 +1,3 @@
-# Decreto Numerado nº 413, de 2024-06-05
-
 DECRETO “N” Nº 413 DE 05 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

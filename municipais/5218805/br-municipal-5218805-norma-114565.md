@@ -1,5 +1,3 @@
-# Lei Complementar nº 27, de 2014-12-02
-
 LEI COMPLEMENTAR Nº 27, DE 02 DE DEZEMBRO DE 2014.
 
 Altera a Lei 3.635/98 e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.425, de 2018-08-20
-
 LEI MUNICIPAL Nº 3.425, DE 20 DE AGOSTO DE 2018
 
 Concede nome a praça em homenagem ao Senhor SERGIO NUNES DE MOURA NETO e dá outras providências.

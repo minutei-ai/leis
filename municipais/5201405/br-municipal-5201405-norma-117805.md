@@ -1,5 +1,3 @@
-# Decreto Numerado nº 96, de 2023-02-06
-
 DECRETO “N” Nº 96 DE 06 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel do Loteamento ROSA DOS VENTOS, neste município.

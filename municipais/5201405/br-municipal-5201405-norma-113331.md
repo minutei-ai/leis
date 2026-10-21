@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.310, de 2025-09-24
-
 DECRETO Nº 2.310, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, da Quadra 401, situado à Rua Otacílio Alves de Andrade, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

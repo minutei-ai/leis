@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.418, de 2023-10-02
-
 LEI Nº 7.418, DE 02 DE OUTUBRO DE 2023
 
 Dispõe sobre a aquisição de imóvel pela FESURV – Universidade de Rio Verde.

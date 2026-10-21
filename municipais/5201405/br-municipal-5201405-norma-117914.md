@@ -1,5 +1,3 @@
-# Decreto Numerado nº 187, de 2023-03-21
-
 DECRETO “N” Nº 187 DE 21 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR DOS ESTADOS, neste município.

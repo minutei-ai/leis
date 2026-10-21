@@ -1,5 +1,3 @@
-# Lei Complementar nº 102, de 2015-06-15
-
 LEI COMPLEMENTAR Nº 102, DE 15 DE JUNHO DE 2015.
 
 “Dispõe sobre a redução da alíquota do Imposto Sobre a Transmissão Inter Vivos de Bens Imóveis - ISTI, no período que especifica, e dá outras providências”.

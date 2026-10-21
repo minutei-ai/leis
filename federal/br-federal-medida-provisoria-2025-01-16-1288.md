@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.288 de 16/01/2025
-
 MEDIDA PROVISÓRIA Nº 1.288, DE 16 DE JANEIRO DE 2025
 
 Dispõe sobre medidas para ampliar e garantir a efetividade do sigilo e a não incidência de preço superior, valor ou encargo adicional sobre os pagamentos realizados por meio de arranjo de Pagamentos Instantâneos - Pix, instituído pelo Banco Central do Brasil.

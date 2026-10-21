@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 51, de 2026-02-27
-
 Portaria Orçamentária nº 51/2026 - Economia
 
 **A Procuradoria-Geral de Justiça do Estado de Goiás**, representada pela Superintendente de Gestão Orçamentária e Compras do Ministério Público do Estado de Goiás, com fundamento na Portaria 2025004935171,

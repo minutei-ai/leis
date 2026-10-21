@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.580, de 2024-11-25
-
 DECRETO Nº 10.580, DE 22 DE NOVEMBRO DE 2024
 
 Declara de utilidade pública, com a finalidade de desapropriação e afetação a fins rodoviários, as áreas de terras que especifica.

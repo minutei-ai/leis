@@ -1,5 +1,3 @@
-# Medida Provisória nº 296 de 08/06/2006
-
 ###MPV-000296-0-000-08-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 296, DE 8 DE JUNHO DE 2006.

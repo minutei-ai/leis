@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 15 DE 06 DE MARÇO DE 2013
-
 EMENDA CONSTITUCIONAL Nº 15 DE 06 DE MARÇO DE 2013
 
 Altera a redação do § 1º do art. 88 da Constituição do Estado da Bahia.

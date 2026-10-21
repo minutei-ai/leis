@@ -1,5 +1,3 @@
-# Medida Provisória nº 361 de 28/03/2007
-
 ###MPV-000361-0-000-28-03-2007@@@
 
 MEDIDA PROVISÓRIA Nº 361, DE 28 DE MARÇO DE 2007.

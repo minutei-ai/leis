@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.424, de 2024-03-13
-
 DECRETO Nº 10.424, 13 DE MARÇO DE 2024
 
 Altera os Decretos [nº 9.810](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103782), de 8 de fevereiro de 2021, e [nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946), de 23 de abril de 2021, que autorizam a celebração e a manutenção dos contratos temporários que especificam, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.519, de 2024-06-24
-
 LEI Nº 7.519, DE 24 DE JUNHO DE 2024.
 
 Reconhece como Utilidade Pública Municipal a entidade que menciona e dá outras providências.

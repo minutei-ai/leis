@@ -1,5 +1,3 @@
-# Decreto Numerado nº 475, de 2026-06-15
-
 DECRETO Nº 475, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua C-16, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

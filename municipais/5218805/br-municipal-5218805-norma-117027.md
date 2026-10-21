@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.687, de 2017-03-28
-
 LEI Nº 6.687, DE 28 DE MARÇO DE 2017.
 
 Dispõe sobre o desmembramento de terrenos urbanos e dá outras providências.

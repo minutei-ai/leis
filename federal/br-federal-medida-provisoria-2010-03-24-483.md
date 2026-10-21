@@ -1,5 +1,3 @@
-# Medida Provisória nº 483 de 24/03/2010
-
 ###MPV-000483-0-000-24-03-2010@@@
 
 MEDIDA PROVISÓRIA Nº 483, DE 24 DE MARÇO DE 2010.

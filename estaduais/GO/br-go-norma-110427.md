@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.641, de 2025-02-06
-
 DECRETO Nº 10.641, DE 6 DE FEVEREIRO DE 2025
 
 Regulamenta a [Lei nº 20.954](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103681), de 30 de dezembro de 2020, que dispõe sobre a regularização fundiária de ocupação de imóveis urbanos de domínio do Estado de Goiás e dá outras providências.

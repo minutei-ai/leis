@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.560, de 2015-10-27
-
 LEI N. 6.560, DE 27 DE OUTUBRO DE 2015
 
 Autoriza a Concessão de Direito Real de Uso de Imóvel que especifica e dá outras providências.

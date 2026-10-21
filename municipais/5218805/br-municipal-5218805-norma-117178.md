@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.172, de 2021-09-01
-
 LEI Nº 7.172, DE 1º DE SETEMBRO DE 2021.
 
 Altera Lei n. 6.908/2018 que dispõe sobre o serviço de transporte individual de passageiros por mototáxi no Município de Rio Verde-GO.

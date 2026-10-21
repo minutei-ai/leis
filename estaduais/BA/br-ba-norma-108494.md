@@ -1,5 +1,3 @@
-# LD Nº 40 DE 14 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 40 DE 14 DE MARÇO DE 1983
 
 Reorganiza a Casa Militar do Gabinete do Governador e dá outras providências.

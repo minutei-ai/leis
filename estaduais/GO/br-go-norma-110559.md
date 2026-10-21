@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.672, de 2025-04-07
-
 DECRETO Nº 10.672 , DE 7 DE ABRIL DE 2025
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e o Regimento Interno do Conselho Administrativo Tributário – CAT, aprovado pelo [Decreto nº 6.930](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63840), de 9 de junho de 2009.

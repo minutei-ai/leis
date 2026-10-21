@@ -1,5 +1,3 @@
-# Decreto Numerado nº 308, de 2026-04-23
-
 DECRETO Nº 308, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 35, situado à Rua 14 de Janeiro, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

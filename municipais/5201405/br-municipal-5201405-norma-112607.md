@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.420, de 2025-10-08
-
 DECRETO Nº 2.420, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre a aprovação do loteamento denominado Parque das Pedras, no âmbito do Município de Aparecida de Goiânia.

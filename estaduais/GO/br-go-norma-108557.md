@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.582, de 2024-03-25
-
 LEI Nº 22.582, DE 25 DE MARÇO DE 2024
 
 Altera a [Lei nº 13.591](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81960), de 18 de janeiro de 2000, que institui o Programa de Desenvolvimento Industrial de Goiás – PRODUZIR e o Fundo de Desenvolvimento de Atividades Industriais – FUNPRODUZIR e dá outras providências.

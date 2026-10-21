@@ -1,5 +1,3 @@
-# Decreto Numerado nº 859, de 2024-10-14
-
 DECRETO “N” Nº 859 DE 14 DE OUTUBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.448, de 2023-11-27
-
 LEI Nº 7.448, DE 27 DE NOVEMBRO DE 2023.
 
 Altera a Lei nº. 7.046/2020 e dá outras providências.

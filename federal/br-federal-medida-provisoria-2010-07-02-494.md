@@ -1,5 +1,3 @@
-# Medida Provisória nº 494 de 02/07/2010
-
 ###MPV-000494-0-000-02-07-2010@@@
 
 MEDIDA PROVISÓRIA Nº 494, DE 2 DE JULHO DE 2010.

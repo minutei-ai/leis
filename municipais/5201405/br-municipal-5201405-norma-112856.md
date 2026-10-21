@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.755, de 2025-07-07
-
 DECRETO Nº 1.755, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Mônaco, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

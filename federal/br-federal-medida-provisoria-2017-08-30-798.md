@@ -1,5 +1,3 @@
-# Medida Provisória nº 798 de 30/08/2017
-
 MEDIDA PROVISÓRIA Nº 798, DE 30 DE AGOSTO DE 2017
 
 Altera a [Medida Provisória nº 783, de 31 de maio de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2017-05-31;783), que institui o Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional. O PRESIDENTE DA CÂMARA DOS DEPUTADOS, no exercício do cargo de PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o [art. 62 da Constituição](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art62), adota a seguinte Medida Provisória, com força de lei:

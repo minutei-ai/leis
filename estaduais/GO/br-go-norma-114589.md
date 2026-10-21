@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.911, de 2026-05-18
-
 DECRETO Nº 10.911, DE 18 DE MAIO DE 2026
 
 Dispõe sobre a criação, na Polícia Militar do Estado de Goiás, de unidades policiais militares.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 425, de 2026-05-27
-
 DECRETO Nº 425, DE 27 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Avenida Silvestre Gouveia, no Loteamento Setor Serra Dourada – 2ª Etapa, no Município de Aparecida de Goiânia.

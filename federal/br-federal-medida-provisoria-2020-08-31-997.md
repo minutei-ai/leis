@@ -1,5 +1,3 @@
-# Medida Provisória nº 997 de 31/08/2020
-
 MEDIDA PROVISÓRIA Nº 997, DE 31 DE AGOSTO DE 2020
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 12.000.000.000,00, para o fim que especifica, e dá outras providências.

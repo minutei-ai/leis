@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.910, de 2026-05-18
-
 DECRETO Nº 10.910, DE 18 DE MAIO DE 2026
 
 Estabelece normas de programação e execução orçamentária e financeira, bem como procedimentos contábeis, no âmbito do Estado de Goiás, também revoga os Decretos nº [9.943](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289), de 8 de setembro de 2021, e nº [10.444](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108696), de 19 de abril de 2024.

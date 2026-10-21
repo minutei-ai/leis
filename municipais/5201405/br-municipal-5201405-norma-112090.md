@@ -1,5 +1,3 @@
-# Lei Complementar nº 227, de 2024-01-09
-
 LEI COMPLEMENTAR Nº 227, DE 09 DE JANEIRO DE 2024.
 
 Cria funções gratificadas na Administração Pública Municipal, altera a Lei nº 2.229, de 18 de dezembro de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.909, de 2026-05-13
-
 DECRETO Nº 10.909, DE 13 DE MAIO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Montividiu/GO.

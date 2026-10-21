@@ -1,5 +1,3 @@
-# Medida Provisória nº 112 de 21/03/2003
-
 ###MPV-000112-0-000-21-03-2003@@@
 
 MEDIDA PROVISÓRIA Nº 112, DE 21 DE MARÇO 2003.

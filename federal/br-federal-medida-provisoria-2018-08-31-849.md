@@ -1,5 +1,3 @@
-# Medida Provisória nº 849 de 31/08/2018
-
 MEDIDA PROVISÓRIA Nº 849, DE 31 DE AGOSTO DE 2018
 
 Posterga e cancela aumentos remuneratórios de pessoal civil da administração pública federal para exercícios subsequentes.

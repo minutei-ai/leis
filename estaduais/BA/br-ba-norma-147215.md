@@ -1,5 +1,3 @@
-# LEI Nº 14.932 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.932 DE 17 DE JUNHO DE 2025
 
 Institui a Política Estadual de Fornecimento Gratuito de Medicamentos Formulados de Derivado Vegetal à Base de Canabidiol, em associação com outras substâncias canabinóides, incluindo o Tetrahidrocanabidiol, em caráter de excepcionalidade pelo Poder Executivo nas unidades de saúde pública estadual e privada conveniada ao Sistema Único de Saúde - SUS.

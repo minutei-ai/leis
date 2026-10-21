@@ -1,5 +1,3 @@
-# Lei Complementar nº 88, de 2017-05-30
-
 LEI COMPLEMENTAR Nº 88, DE 30 DE MAIO DE 2017.
 
 Dispõe sobre a criação da Guarda Municipal de Rio Verde e dá outras providências.

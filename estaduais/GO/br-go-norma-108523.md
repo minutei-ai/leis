@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.553, de 2024-03-12
-
 LEI Nº 22.553, DE 12 DE MARÇO DE 2024
 
 Altera a [Lei nº 11.180](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84509), de 19 de abril de 1990, que estabelece modificações no Fundo de Participação e Fomento do Estado de Goiás – FOMENTAR.

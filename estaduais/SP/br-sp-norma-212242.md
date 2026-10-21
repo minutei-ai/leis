@@ -1,5 +1,3 @@
-# Decreto nº 70.383, de 18/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212242)<br>
 
 # DECRETO N° 70.383, DE 18 DE FEVEREIRO DE 2026

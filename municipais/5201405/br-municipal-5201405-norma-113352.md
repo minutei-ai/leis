@@ -1,5 +1,3 @@
-# Lei Complementar nº 160, de 2019-04-12
-
 LEI COMPLEMENTAR Nº 160, DE 12 DE ABRIL DE 2019
 
 Dispõe sobre a alteração a Lei Complementar nº111, de 08 de Outubro de 2015 que Institui a estrutura hierárquica da Carreira da Guarda Civil Municipal de Aparecida de Goiânia e dá outras providências e da Lei Complementar nº 142, de 17 de abril de 2018 que Institui o adicional de risco de vida para os integrantes da carreira da Guarda Civil Municipal e dá outras providências.

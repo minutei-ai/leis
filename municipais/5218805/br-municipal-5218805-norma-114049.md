@@ -1,5 +1,3 @@
-# Lei Complementar nº 448, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 448, 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei nº 3.968, de 31 de agosto de 2000, que dispõe sobre o Estatuto dos Funcionários do Município de Rio Verde – GO.

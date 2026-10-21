@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.668, de 2025-11-19
-
 DECRETO Nº 2.668, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua Diadema, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.777, de 2025-09-08
-
 DECRETO Nº 10.777, DE 8 DE SETEMBRO DE 2025
 
 Decreta luto oficial pelo falecimento de JOEL SANT’ANNA BRAGA.

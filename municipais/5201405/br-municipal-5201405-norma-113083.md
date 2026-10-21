@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.135, de 2025-09-02
-
 DECRETO Nº 2.135, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 25, situado à Rua Concordia, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

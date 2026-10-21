@@ -1,5 +1,3 @@
-# Decreto Numerado nº 530, de 2026-06-26
-
 DECRETO Nº 530, DE 26 DE JUNHO DE 2026
 
 Dispõe sobre o expediente nas repartições públicas municipais nos dias úteis em que houver jogo da Seleção Brasileira de Futebol pela Copa do Mundo da FIFA 2026, nos Estados Unidos, México e Canadá.

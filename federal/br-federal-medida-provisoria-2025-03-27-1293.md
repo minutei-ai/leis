@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.293 de 27/03/2025
-
 MEDIDA PROVISÓRIA Nº 1.293, DE 27 DE MARÇO DE 2025
 
 Altera a [Lei nº 13.954, de 16 de dezembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2019-12-16;13954), para dispor sobre os soldos dos militares das Forças Armadas.

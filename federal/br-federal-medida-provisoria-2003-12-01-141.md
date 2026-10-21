@@ -1,5 +1,3 @@
-# Medida Provisória nº 141 de 01/12/2003
-
 ###MPV-000141-0-000-01-12-2003@@@
 
 MEDIDA PROVISÓRIA Nº 141, DE 1º DE DEZEMBRO 2003.

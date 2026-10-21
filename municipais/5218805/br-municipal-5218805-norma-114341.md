@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.692, de 2025-08-21
-
 LEI Nº 7.692, DE 21 DE AGOSTO DE 2025.
 
 Autoriza a FESURV a conceder o uso de salas para fins de exploração comercial de serviços na Praça de Alimentação da Universidade de Rio Verde – UniRV.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 300, de 2026-04-16
-
 DECRETO Nº 300, DE 16 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02 ao 12 e 14 ao 23, situados à Rua JI-48 e Rua JI-49, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

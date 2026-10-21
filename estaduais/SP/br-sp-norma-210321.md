@@ -1,5 +1,3 @@
-# Decreto nº 69.137, de 09/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210321)<br>
 
 # DECRETO N° 69.137, DE 09 DE DEZEMBRO DE 2024

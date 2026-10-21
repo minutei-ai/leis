@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.209, de 2014-08-19
-
 LEI MUNICIPAL Nº 3.209, DE 19 DE AGOSTO DE 2014.
 
 Altera a Lei Municipal n° 3.154/2013, que dispõe sobre o serviço de transporte individual de passageiros em automóvel de aluguel provido de taxímetro.

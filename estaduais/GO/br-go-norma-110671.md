@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.410, de 2025-05-13
-
 LEI Nº 23.410, DE 13 DE MAIO DE 2025
 
 Institui o Dia Estadual da Advocacia Empresarial e dá outras providências.

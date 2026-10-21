@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.235 de 19/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.235, DE 19 DE JUNHO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 689.689.688,00, para o fim que especifica.

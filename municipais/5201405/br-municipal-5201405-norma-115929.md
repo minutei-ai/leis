@@ -1,5 +1,3 @@
-# Decreto Numerado nº 529, de 2026-06-26
-
 DECRETO Nº 529, DE 26 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento do Lotes 25A, 26A, 27A, 28A, 29A e 30A, todos da Quadra 06, situados à Rua das Magnólias, no Loteamento Parque Primavera, no Município de Aparecida de Goiânia.

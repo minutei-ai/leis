@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.913, de 2025-12-04
-
 LEI Nº 23.913, DE 4 DE DEZEMBRO DE 2025
 
 Institui, no âmbito do Estado de Goiás, a Política Estadual de Valorização das Mulheres na Área de Segurança Pública.

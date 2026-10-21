@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.296, de 2016-01-04
-
 LEI MUNICIPAL Nº 3.296, DE 04 DE JANEIRO DE 2016.
 
 Desafeta as vias públicas situadas no Setor Serra Dourada – 3ª etapa, neste Município, autoriza permuta e dá outras providências.

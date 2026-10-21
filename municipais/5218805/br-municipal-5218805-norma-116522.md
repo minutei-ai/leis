@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.602, de 2025-02-24
-
 LEI N° 7.602, DE 24 DE FEVEREIRO DE 2025.
 
 Altera Lei nº 5.981, de 24 de agosto de 2011, que institui o auxílio-alimentação para os servidores públicos de Rio Verde.

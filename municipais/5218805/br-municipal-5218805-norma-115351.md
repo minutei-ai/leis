@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.383, de 2023-08-28
-
 LEI N° 7.383, DE 28 DE AGOSTO DE 2023.
 
 Denomina Escola Municipal de Ensino Fundamental Professora Marly Moraes Martins e dá outras providências.

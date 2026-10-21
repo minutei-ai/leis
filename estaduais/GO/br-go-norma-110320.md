@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.190, de 2025-01-06
-
 LEI Nº 23.190, DE 6 DE JANEIRO DE 2025
 
 Institui o Dia Estadual do Guia de Turismo.

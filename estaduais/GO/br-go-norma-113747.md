@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.195, de 2026-04-07
-
 LEI Nº 24.195, DE 7 DE ABRIL DE 2026
 
 Institui a Política Estadual do Empreendedorismo Inovador.

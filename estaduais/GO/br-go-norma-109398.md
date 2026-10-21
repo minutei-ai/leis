@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.531, de 2024-08-22
-
 DECRETO Nº 10.531 DE 22 DE AGOSTO DE 2024
 
 Concede as Medalhas de Mérito Policial e de Tempo de Serviço aos policiais civis que especifica da Delegacia-Geral da Polícia Civil – DGPC, da Secretaria de Estado da Segurança Pública.

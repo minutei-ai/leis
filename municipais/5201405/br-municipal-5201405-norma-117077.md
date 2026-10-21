@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.189, de 2014-06-24
-
 LEI MUNICIPAL Nº 3.189, DE 24 DE JUNHO DE 2014.
 
 Dá nome à UBS (Unidade Básica de Saúde) localizada no Jardim Olímpico, neste município e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.491, de 2024-07-04
-
 DECRETO Nº 10.491, DE 4 DE JULHO DE 2024
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo Estadual no Município de Trindade, na data que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.589, de 2024-12-06
-
 DECRETO Nº 10.589, DE 6 DE DEZEMBRO DE 2024
 
 Retifica o [Decreto nº 10.465](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108820), de 10 de maio de 2024, na parte que especifica.

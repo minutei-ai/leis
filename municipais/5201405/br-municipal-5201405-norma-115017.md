@@ -1,5 +1,3 @@
-# Decreto Numerado nº 297, de 2024-04-25
-
 DECRETO “N” Nº 297 DE 25 DE ABRIL DE 2024
 
 Dispõe sobre remembramento de imóveis situados no Loteamento VILA BRASÍLIA, neste município.

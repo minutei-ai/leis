@@ -1,5 +1,3 @@
-# Decreto Numerado nº 864, de 2025-02-19
-
 DECRETO Nº 864, DE 19 DE FEVEREIRO DE 2025<br>
 Revogado pelo Decreto Numerado nº 1.444, de 27 de maio de 2025.
 

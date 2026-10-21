@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.738, de 2025-07-25
-
 DECRETO Nº 10.738, DE 25 DE JULHO DE 2025
 
 Institui o Prêmio de Inovação do Setor Público de Goiás e estabelece as normas e os critérios para a participação no concurso pertinente.

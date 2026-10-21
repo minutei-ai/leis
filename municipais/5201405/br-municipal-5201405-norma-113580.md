@@ -1,5 +1,3 @@
-# Decreto Numerado nº 216, de 2026-03-16
-
 DECRETO Nº 216, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua C-42, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

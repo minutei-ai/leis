@@ -1,5 +1,3 @@
-# LEI Nº 15.000 DE 20 DE OUTUBRO DE 2025
-
 LEI Nº 15.000 DE 20 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a Associação Mansão do Caminho, com sede e foro no município de Salvador.

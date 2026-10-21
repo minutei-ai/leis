@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.197, de 2025-09-09
-
 DECRETO Nº 2.197, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra 08, situado à Rua C-3, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

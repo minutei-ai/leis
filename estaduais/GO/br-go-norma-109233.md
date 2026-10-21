@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.876, de 2024-07-26
-
 LEI Nº 22.876, DE 26 DE JULHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

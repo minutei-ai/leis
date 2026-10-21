@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.243, de 2014-12-22
-
 LEI MUNICIPAL Nº 3.243 DE 22 DE DEZEMBRO DE 2014.
 
 Dispõe sobre a obrigatoriedade da divulgação da capacidade de atendimento, lista nominal das vagas atendidas, total de vagas disponíveis e a lista de espera das vagas para os Centros de Educação Infantil do Município de Aparecida de Goiânia e dá outras providências.

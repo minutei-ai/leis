@@ -1,5 +1,3 @@
-# Decreto Numerado nº 418, de 2026-05-25
-
 DECRETO Nº 418, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua 08, no Loteamento Bairro Cardoso - Continuação, no Município de Aparecida de Goiânia.

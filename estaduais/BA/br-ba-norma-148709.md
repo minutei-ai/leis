@@ -1,5 +1,3 @@
-# LEI Nº 15.167 DE 29 DE MAIO DE 2026
-
 LEI Nº 15.167 DE 29 DE MAIO DE 2026
 
 Dispõe sobre autorização para conversão em pecúnia dos períodos de licença prêmio dos servidores das carreiras civis do Poder Executivo Estadual, na forma que indica, e dá outras providências.

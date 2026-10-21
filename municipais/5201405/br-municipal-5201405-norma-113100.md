@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.773, de 2025-12-10
-
 DECRETO Nº 2.773, DE 10 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Avenida Horácio Honório Soares, no Loteamento Bairro Independência – Segundo Complemento, no Município de Aparecida de Goiânia.

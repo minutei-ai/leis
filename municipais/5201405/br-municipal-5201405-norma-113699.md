@@ -1,5 +1,3 @@
-# Decreto Numerado nº 266, de 2026-03-31
-
 DECRETO Nº 266, DE 31 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 32, situado à Rua Pitágoras, no Loteamento Villa Deifiore, no Município de Aparecida de Goiânia.

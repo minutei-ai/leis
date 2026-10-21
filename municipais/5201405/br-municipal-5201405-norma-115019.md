@@ -1,5 +1,3 @@
-# Decreto Numerado nº 301, de 2024-04-25
-
 DECRETO “N” Nº 301 DE 25 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

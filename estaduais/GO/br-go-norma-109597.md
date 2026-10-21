@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.012, de 2024-09-27
-
 LEI Nº 23.012, DE 27 DE SETEMBRO DE 2024
 
 Altera a [Lei nº 22.093](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107460), de 6 de julho de 2023, que institui a Política de Prevenção e Combate ao Câncer de Ovário e dá outras providências.

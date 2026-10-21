@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.282, de 2025-03-18
-
 LEI Nº 23.282, DE 17 DE MARÇO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

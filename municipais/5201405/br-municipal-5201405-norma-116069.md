@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.218, de 2014-09-15
-
 LEI MUNICIPAL Nº 3.218, DE 15 DE SETEMBRO DE 2014.
 
 Revoga o art. 33 da Lei 3.155 de 27 de fevereiro de 2014, que dispõe sobre o Programa Municipal de Parceria Público-Privada do Município de Aparecida de Goiânia.

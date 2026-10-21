@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.188, de 2021-11-04
-
 LEI N. 7.188, DE 04 DE NOVEMBRO DE 2021.
 
 Autoriza o Poder Executivo a receber doação.

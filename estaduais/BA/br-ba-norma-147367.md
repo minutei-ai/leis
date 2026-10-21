@@ -1,5 +1,3 @@
-# LEI Nº 14.938 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.938 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública o Instituto Desportivo Costa do Descobrimento, com sede e foro no município de Porto Seguro.

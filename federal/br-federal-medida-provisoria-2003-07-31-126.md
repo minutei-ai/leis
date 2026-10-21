@@ -1,5 +1,3 @@
-# Medida Provisória nº 126 de 31/07/2003
-
 ###MPV-000126-0-000-31-07-2003@@@
 
 MEDIDA PROVISÓRIA Nº 126, DE 31 DE JULHO 2003.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.711, de 2025-12-02
-
 DECRETO Nº 2.711, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 09 e 10, todos da Quadra 05, situados à Alameda Alcides de Araújo Romão e Alameda Jaime Câmara, no Loteamento All Park Polo Empresarial, no Município de Aparecida de Goiânia.

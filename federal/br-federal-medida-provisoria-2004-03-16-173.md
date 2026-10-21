@@ -1,5 +1,3 @@
-# Medida Provisória nº 173 de 16/03/2004
-
 ###MPV-000173-0-000-16-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 173, DE 16 DE MARÇO 2004.

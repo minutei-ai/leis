@@ -1,5 +1,3 @@
-# Medida Provisória nº 289 de 07/04/2006
-
 ###MPV-000289-0-000-07-04-2006@@@
 
 MEDIDA PROVISÓRIA Nº 289, DE 7 DE ABRIL DE 2006.

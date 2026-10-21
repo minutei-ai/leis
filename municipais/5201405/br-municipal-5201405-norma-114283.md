@@ -1,5 +1,3 @@
-# Decreto Numerado nº 345, de 2026-05-06
-
 DECRETO Nº 345, DE 6 DE MAIO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à abertura da Rua Castelinho, no Loteamento Expansul, no Município de Aparecida de Goiânia.

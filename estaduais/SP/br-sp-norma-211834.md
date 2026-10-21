@@ -1,5 +1,3 @@
-# Lei nº 18.328, de 14/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211834)<br>
 
 # LEI N° 18.328, DE 14 DE NOVEMBRO DE 2025

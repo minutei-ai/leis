@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.829, de 2025-05-13
-
 LEI Nº 3.829, DE 13 DE MAIO DE 2025
 
 Concede revisão geral anual aos servidores públicos do Município de Aparecida de Goiânia, Autarquias, Fundações Públicas Municipais, nos proventos e pensões dos inativos, nos subsídios dos Agentes Políticos, nos subsídios dos Vereadores e no vencimento dos servidores do Poder Legislativo Municipal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.955, de 2025-12-20
-
 LEI Nº 23.955, DE 20 DE DEZEMBRO DE 2025
 
 Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Vila Nova Futebol Clube. 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.199, de 2025-09-09
-
 DECRETO Nº 2.199, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 92, situado à Rua São Salvador, no Loteamento Jardim Alto Paraíso, no Município de Aparecida de Goiânia.

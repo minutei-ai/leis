@@ -1,5 +1,3 @@
-# Decreto Numerado nº 426, de 2023-07-03
-
 DECRETO “N” Nº 426 DE 03 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL - 2ª ETAPA, neste município.

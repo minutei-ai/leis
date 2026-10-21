@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.297, de 2025-03-24
-
 LEI Nº 23.297, DE 24 DE MARÇO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Internacional das Esmeraldas de Campos Verdes, realizada no Município de Campos Verdes/GO.

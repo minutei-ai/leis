@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.053 de 02/06/2021
-
 MEDIDA PROVISÓRIA Nº 1.053, DE 2 DE JUNHO DE 2021
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 5.000.000.000,00, para o fim que especifica.

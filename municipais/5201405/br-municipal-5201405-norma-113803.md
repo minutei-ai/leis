@@ -1,5 +1,3 @@
-# Decreto Numerado nº 286, de 2026-04-13
-
 DECRETO Nº 286, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01, 02, 03 e 10, da Quadra 03, situado à Avenida Independência, no Loteamento Setor Serra Dourada - 3ª Etapa, no Município de Aparecida de Goiânia.

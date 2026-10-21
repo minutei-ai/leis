@@ -1,5 +1,3 @@
-# Decreto Numerado nº 246, de 2026-03-19
-
 DECRETO Nº 246, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Guarujá, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

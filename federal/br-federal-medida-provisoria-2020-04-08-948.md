@@ -1,5 +1,3 @@
-# Medida Provisória nº 948 de 08/04/2020
-
 MEDIDA PROVISÓRIA Nº 948, DE 8 DE ABRIL DE 2020
 
 Dispõe sobre o cancelamento de serviços, de reservas e de eventos dos setores de turismo e cultura em razão do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19).

@@ -1,5 +1,3 @@
-# Medida Provisória nº 840 de 05/06/2018
-
 MEDIDA PROVISÓRIA Nº 840, DE 5 DE JUNHO DE 2018
 
 Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS.

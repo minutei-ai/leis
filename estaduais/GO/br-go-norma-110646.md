@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.390, de 2025-05-06
-
 LEI Nº 23.390, DE 6 DE MAIO DE 2025
 
 Altera a [Lei nº 21.786](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106703), de 19 de janeiro de 2023, que dispõe sobre a transformação das áreas urbanas em cidades inteligentes, no âmbito do Estado de Goiás.

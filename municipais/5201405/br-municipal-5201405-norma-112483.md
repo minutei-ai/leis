@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.253, de 2025-04-24
-
 DECRETO Nº 1.253, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Bambina no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

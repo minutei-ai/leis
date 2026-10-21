@@ -1,5 +1,3 @@
-# LEI Nº 14.758 DE 26 DE JUNHO DE 2024
-
 LEI Nº 14.758 DE 26 DE JUNHO DE 2024
 
 Altera dispositivos da Lei nº [12.207](https://www.legislabahia.ba.gov.br/documentos/lei-no-12207-de-14-de-abril-de-2011), de 14 de abril de 2011, o Anexo III da Lei nº [13.205](https://www.legislabahia.ba.gov.br/documentos/lei-no-13205-de-17-de-dezembro-de-2014), de 17 de dezembro de 2014, e dá outras providências.

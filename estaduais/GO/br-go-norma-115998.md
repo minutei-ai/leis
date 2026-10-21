@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.402, de 2026-06-29
-
 LEI Nº 24.402, DE 29 DE JUNHO DE 2026
 
 Dispõe sobre a estruturação dos postos de Coronel da Polícia Militar e de Coronel do Corpo de Bombeiros Militar do Estado de Goiás em classes, estabelece critérios para a respectiva progressão funcional e altera as Leis nº [8.000](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88133), de 25 de novembro de 1975, nº [8.033](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88165), de 2 de dezembro de 1975, nº [11.383](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89664), de 28 de dezembro de 1990, nº [11.416](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84183), de 5 de fevereiro de 1991, e nº [15.668](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79712), de 1º de junho de 2006.

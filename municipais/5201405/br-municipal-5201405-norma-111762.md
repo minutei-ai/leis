@@ -1,5 +1,3 @@
-# Lei Complementar nº 65, de 2012-12-31
-
 LEI COMPLEMENTAR Nº 65, DE 31 DE DEZEMBRO DE 2012.
 
 Concede Isenção Tributária da Contribuição de Melhoria para o quadriênio 2009 a 2016.

@@ -1,5 +1,3 @@
-# Decreto nº 69.946, de 10/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211623)<br>
 
 # DECRETO N° 69.946, DE 10 DE OUTUBRO DE 2025

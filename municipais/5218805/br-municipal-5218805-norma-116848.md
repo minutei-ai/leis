@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.211, de 2021-11-30
-
 LEI Nº 7.211, DE 30 DE NOVEMBRO DE 2021
 
 Institui a Semana de Conscientização e Prevenção da doença de Alzheimer, dos dias 16 a 22 de setembro, no município de Rio Verde - GO e dá outras providências.

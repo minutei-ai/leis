@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.099 de 28/01/2022
-
 MEDIDA PROVISÓRIA Nº 1.099, DE 28 DE JANEIRO DE 2022
 
 Institui o Programa Nacional de Prestação de Serviço Civil Voluntário e o Prêmio Portas Abertas.

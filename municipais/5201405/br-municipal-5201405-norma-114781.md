@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.557, de 1996-06-28
-
 LEI MUNICIPAL Nº 1.557 DE 28 DE JUNHO DE1.996.
 
 Concede incentivo fiscal as empresas que especifica e dá outras providencias.

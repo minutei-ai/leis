@@ -1,5 +1,3 @@
-# Decreto Numerado nº 451, de 2026-06-03
-
 DECRETO Nº 451, DE 3 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Avenida Acre, no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

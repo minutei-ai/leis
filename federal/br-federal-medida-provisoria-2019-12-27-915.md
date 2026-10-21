@@ -1,5 +1,3 @@
-# Medida Provisória nº 915 de 27/12/2019
-
 MEDIDA PROVISÓRIA Nº 915, DE 27 DE DEZEMBRO DE 2019
 
 Aprimora os procedimentos de gestão e alienação dos imóveis da União.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.273, de 2025-03-12
-
 LEI Nº 23.273, DE 11 DE MARÇO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Divino Espírito Santo, realizada no Município de Pilar de Goiás/GO.

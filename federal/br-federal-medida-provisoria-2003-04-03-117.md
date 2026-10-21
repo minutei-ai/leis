@@ -1,5 +1,3 @@
-# Medida Provisória nº 117 de 03/04/2003
-
 ###MPV-000117-0-000-03-04-2003@@@
 
 MEDIDA PROVISÓRIA Nº 117, DE 3 DE ABRIL 2003.

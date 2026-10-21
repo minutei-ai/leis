@@ -1,5 +1,3 @@
-# LEI Nº 14.903 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.903 DE 20 DE MAIO DE 2025
 
 Dispõe sobre a obrigatoriedade de afixação em local visível, de placa informando a capacidade de lotação máxima de pessoas em recintos fechados e dá outras providências.

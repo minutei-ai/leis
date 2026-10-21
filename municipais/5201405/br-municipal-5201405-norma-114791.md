@@ -1,5 +1,3 @@
-# Decreto Numerado nº 152, de 2024-04-14
-
 DECRETO “N” Nº 152 DE 14 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

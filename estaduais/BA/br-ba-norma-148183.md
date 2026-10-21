@@ -1,5 +1,3 @@
-# LEI Nº 15.094 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.094 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Associação do Desenvolvimento Comunitário Vale do Jacuípe, com sede e foro no município de Piritiba.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.405, de 2025-05-08
-
 LEI Nº 23.405, DE 8 DE MAIO DE 2025
 
 Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas do Estado de Goiás.

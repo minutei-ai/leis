@@ -1,5 +1,3 @@
-# Decreto nº 70.294, de 29/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212121)<br>
 
 # DECRETO N° 70.294, DE 29 DE DEZEMBRO DE 2025

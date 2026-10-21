@@ -1,5 +1,3 @@
-# Decreto nº 69.299, de 09/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210525)<br>
 
 # DECRETO N° 69.299, DE 09 DE JANEIRO DE 2025

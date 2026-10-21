@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.869, de 2025-12-28
-
 DECRETO Nº 2.869, DE 28 DE DEZEMBRO DE 2025
 
 Declara luto oficial de 03 (três) dias pelo falecimento de Wider Carlos Lopes da Silva, Jéssica Iorrana Ferreira Mendes, Arthur Ferreira Lopes e João Lucas Lopes de Souza.

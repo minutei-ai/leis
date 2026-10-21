@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.637, de 2025-06-23
-
 DECRETO Nº 1.637, DE 23 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Gago Coutinho no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

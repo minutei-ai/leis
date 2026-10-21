@@ -1,5 +1,3 @@
-# Decreto Numerado nº 477, de 2026-06-17
-
 DECRETO Nº 477, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Ilana, no Loteamento Jardim das Acácias, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 360, de 2026-05-08
-
 DECRETO Nº 360, DE 8 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Avenida Domingos de Barros Vellasco, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

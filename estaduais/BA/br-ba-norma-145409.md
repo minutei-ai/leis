@@ -1,5 +1,3 @@
-# LEI Nº 14.764 DE 14 DE AGOSTO DE 2024
-
 LEI Nº 14.764 DE 14 DE AGOSTO DE 2024
 
 Institui o dia 13 de agosto como Dia da Santa Dulce dos Pobres no Estado da Bahia.

@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 26 DE 28 DE JUNHO DE 2006
-
 LEI COMPLEMENTAR Nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006) DE 28 DE JUNHO DE 2006
 
 Ver também:<br>

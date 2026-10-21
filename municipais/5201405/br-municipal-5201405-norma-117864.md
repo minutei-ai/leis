@@ -1,5 +1,3 @@
-# Decreto Numerado nº 144, de 2023-03-06
-
 DECRETO “N” Nº 144 DE 06 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE DAS NAÇÕES, neste município.

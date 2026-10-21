@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.081, de 2024-11-13
-
 LEI Nº 23.081, DE 13 DE NOVEMBRO DE 2024
 
 Institui o Dia Estadual do Estudante Universitário.

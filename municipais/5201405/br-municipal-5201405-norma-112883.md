@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.665, de 1997-11-10
-
 LEI MUNICIPAL Nº 1.665, DE 10 DE NOVEMBRO DE 1997.
 
 Acrescenta inciso ao Art. 5º, da Lei. Municipal nº 1.031/91.

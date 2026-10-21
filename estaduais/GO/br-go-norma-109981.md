@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.112, de 2024-11-26
-
 LEI Nº 23.112, DE 26 DE NOVEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

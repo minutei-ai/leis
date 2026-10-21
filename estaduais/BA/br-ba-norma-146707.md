@@ -1,5 +1,3 @@
-# LEI Nº 14.919 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.919 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação Cultural dos Espadeiros de Senhor do Bonfim, com sede e foro no município de Senhor do Bonfim.

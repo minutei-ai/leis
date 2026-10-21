@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.771, de 2024-02-06
-
 LEI MUNICIPAL Nº 3.771, DE 06 DE FEVEREIRO DE 2024.
 
 Dispõe sobre a criação da Loteria Municipal de Aparecida de Goiânia e dá outras providências.

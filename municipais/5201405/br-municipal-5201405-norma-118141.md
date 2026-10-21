@@ -1,5 +1,3 @@
-# Decreto Numerado nº 363, de 2023-06-05
-
 DECRETO “N” Nº 363 DE 05 DE JUNHO 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento CHÁCARAS SÃO PEDRO, neste município.

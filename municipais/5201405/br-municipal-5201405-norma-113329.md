@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.308, de 2025-09-24
-
 DECRETO Nº 2.308, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, da Quadra K-21, situado à Rua 52, no Loteamento Bairro Independência 3º Complemento, no Município de Aparecida de Goiânia.

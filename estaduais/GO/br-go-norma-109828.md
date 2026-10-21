@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.064, de 2024-11-05
-
 LEI Nº 23.064, DE 5 DE NOVEMBRO 2024
 
 Autoriza a aquisição, por doação onerosa por parte do Município de Porangatu/GO, dos imóveis que especifica.

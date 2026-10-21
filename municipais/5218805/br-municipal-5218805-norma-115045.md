@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.536, de 2024-08-26
-
 LEI Nº 7.536, DE 26 DE AGOSTO DE 2024.
 
 Concede Licença Remunerada.

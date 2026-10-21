@@ -1,5 +1,3 @@
-# Decreto Numerado nº 247, de 2023-04-17
-
 DECRETO “N” Nº 247 DE 17 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO CARDOSO CONTUNUAÇÃO, neste município.

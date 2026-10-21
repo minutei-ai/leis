@@ -1,5 +1,3 @@
-# Decreto Numerado nº 421, de 2026-05-25
-
 DECRETO Nº 421, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 32, situado à Praça A, no Loteamento Setor Aeroporto Sul, no Município de Aparecida de Goiânia.

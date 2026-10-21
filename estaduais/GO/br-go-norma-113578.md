@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.140, de 2026-03-16
-
 LEI Nº 24.140, DE 16 DE MARÇO DE 2026
 
 Regulamenta a utilização controlada da capina química em áreas urbanas no Estado de Goiás e dá outras providências.

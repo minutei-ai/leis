@@ -1,5 +1,3 @@
-# Medida Provisória nº 659 de 10/11/2014
-
 MEDIDA PROVISÓRIA Nº 659, DE 10 DE NOVEMBRO DE 2014
 
 Abre crédito extraordinário, em favor dos Ministérios das Relações Exteriores e da Defesa e de Encargos Financeiros da União, no valor de R$ 1.773.069.612,00, para os fins que especifica.

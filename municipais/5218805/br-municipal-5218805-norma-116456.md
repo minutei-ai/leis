@@ -1,5 +1,3 @@
-# Lei Complementar nº 57, de 2016-03-29
-
 LEI COMPLEMENTAR Nº 57, DE 29 DE MARÇO DE 2016.
 
 Altera o Anexo II da Lei nº 3.853/99.

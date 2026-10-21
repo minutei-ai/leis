@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.595, de 2024-12-10
-
 DECRETO Nº 10.595, DE 10 DE DEZEMBRO DE 2024
 
 Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2025.

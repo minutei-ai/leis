@@ -1,5 +1,3 @@
-# Decreto Numerado nº 91, de 2023-02-03
-
 DECRETO “N” Nº 91 DE 03 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

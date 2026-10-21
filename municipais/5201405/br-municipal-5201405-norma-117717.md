@@ -1,5 +1,3 @@
-# Decreto Numerado nº 491, de 2023-07-27
-
 DECRETO “N” Nº 491, DE 27 JULHO DE 2023.
 
 Dispõe sobre a Regularização Fundiária de Interesse Específico do Loteamento Polo Empresarial Goiás Etapa XIV.

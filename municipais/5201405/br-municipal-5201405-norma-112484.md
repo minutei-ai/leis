@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.254, de 2025-04-24
-
 DECRETO Nº 1.254, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o remembramento dos Lotes Mansão nº 34, 35, 36, 37, 38 e 39, da Quadra B-1, situados à Avenida Caiapós, no Loteamento Expansul, no Município de Aparecida de Goiânia.

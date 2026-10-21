@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 88, de 2025-12-16
-
 EMENDA CONSTITUCIONAL Nº 88, DE 16 DE DEZEMBRO DE 2025.
 
 Altera o Ato das Disposições Constitucionais Transitórias da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152) para instituir o Marco Fiscal da Sustentabilidade – MFS, do Estado de Goiás.

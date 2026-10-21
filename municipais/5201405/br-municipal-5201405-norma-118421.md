@@ -1,5 +1,3 @@
-# Decreto Numerado nº 682, de 2023-11-01
-
 DECRETO “N” Nº 682 DE 01 DE NOVEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

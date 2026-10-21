@@ -1,5 +1,3 @@
-# Lei Complementar nº 184, de 2021-01-04
-
 LEI MUNICIPAL Nº 184, DE 04 DE JANEIRO DE 2021
 
 Autoriza o Poder Executivo a criar a Empresa Pública sob a denominação de Companhia de Distritos Industriais de Aparecida de Goiânia – CODAP e dá outras providências.

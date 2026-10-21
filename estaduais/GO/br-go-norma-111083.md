@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.576, de 2025-07-11
-
 LEI Nº 23.576, DE 11 DE JULHO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Decreto nº 69.513, de 30/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210905)<br>
 
 # DECRETO N° 69.513, DE 30 DE ABRIL DE 2025

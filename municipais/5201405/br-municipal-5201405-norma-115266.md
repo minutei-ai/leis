@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.643, de 2022-01-03
-
 LEI MUNICIPAL Nº 3.643, DE 03 DE JANEIRO DE 2022.
 
 Institui e inclui no Calendário Oficial de Eventos do Munícipio de Aparecida de Goiânia a Semana da Criatividade e Inovação de Aparecida de Goiânia, a ser comemorada na semana compreendida ao Dia Mundial da Criatividade e Inovação (ONU), e dá outras providências. 

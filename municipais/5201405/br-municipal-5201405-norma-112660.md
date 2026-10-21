@@ -1,5 +1,3 @@
-# Decreto Numerado nº 120, de 2026-01-30
-
 DECRETO Nº 120, DE 30 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Avenida V-7, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

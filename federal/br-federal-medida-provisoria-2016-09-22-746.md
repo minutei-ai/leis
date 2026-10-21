@@ -1,5 +1,3 @@
-# Medida Provisória nº 746 de 22/09/2016
-
 MEDIDA PROVISÓRIA Nº 746, DE 22 DE SETEMBRO DE 2016
 
 Institui a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral, altera a [Lei nº 9.394, de 20 de dezembro de 1996](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-20;9394), que estabelece as diretrizes e bases da educação nacional, e a [Lei nº 11.494 de 20 de junho 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-06-20;11494), que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, e dá outras providências.

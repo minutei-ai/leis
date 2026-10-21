@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.251, de 2026-04-29
-
 LEI Nº 24.251, DE 29 DE ABRIL DE 2026
 
 Estabelece regras para a confecção de carimbos de profissionais da área da saúde e dá outras providências.

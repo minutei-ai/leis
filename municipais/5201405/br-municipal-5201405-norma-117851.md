@@ -1,5 +1,3 @@
-# Decreto Numerado nº 129, de 2023-03-01
-
 DECRETO “N” Nº 129 DE 01 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR DOS ESTADOS, neste município.

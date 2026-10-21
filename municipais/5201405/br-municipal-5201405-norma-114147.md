@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1023, de 2024-11-29
-
 DECRETO "N" N° 1023, DE 29 DE NOVEMBRO DE 2024.
 
 Dispõe sobre aprovação do Loteamento Complexo Reunidas Industrial neste Município, e dá outras providências.

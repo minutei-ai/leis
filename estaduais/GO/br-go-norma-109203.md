@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.854, de 2024-07-12
-
 LEI Nº 22.854, DE 12 DE JULHO DE 2024
 
 Altera a [Lei nº 21.877](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107001), de 17 de abril de 2023, que institui o Dia Estadual da Juventude.

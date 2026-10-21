@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.479, de 2024-06-13
-
 DECRETO Nº 10.479, DE 13 DE JUNHO DE 2024
 
 Altera o [Decreto estadual nº 10.412](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108469/decreto-10412), de 23 de fevereiro de 2024, que regulamenta a [Lei estadual nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865/lei-22317), de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual para o quadriênio 2024-2027.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.690, de 2025-08-21
-
 LEI Nº 7.690, DE 21 DE AGOSTO DE 2025.
 
 Autoriza o Poder Executivo a conceder patrocínio ao Sindicato das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informações e Pesquisas do Sudoeste Goiano (SESCON Sudoeste Goiano).

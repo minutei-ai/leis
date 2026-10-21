@@ -1,5 +1,3 @@
-# Medida Provisória nº 779 de 19/05/2017
-
 MEDIDA PROVISÓRIA Nº 779, DE 19 DE MAIO DE 2017
 
 Estabelece critérios para a celebração de aditivos contratuais relativos às outorgas nos contratos de parceria no setor aeroportuário.

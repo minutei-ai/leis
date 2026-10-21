@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.530, de 2026-09-09
-
 LEI Nº 24.530, DE 9 DE SETEMBRO DE 2026
 
 Assegura às pessoas com transtorno do espectro autista – TEA, deficiência intelectual ou deficiência cognitiva a permanência de acompanhante durante internação nos hospitais das redes pública estadual e privada de saúde.

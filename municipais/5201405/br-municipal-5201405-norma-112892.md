@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.902, de 2025-08-05
-
 DECRETO Nº 1.902, DE 5 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua Marselha, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

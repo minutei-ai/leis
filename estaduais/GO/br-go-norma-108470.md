@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.413, de 2024-02-23
-
 DECRETO Nº 10.413 , DE 23 DE FEVEREIRO DE 2024
 
 Altera o [Decreto estadual nº 9.943](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289), de 8 de setembro de 2021, que estabelece normas de programação e execução orçamentária e financeira, também procedimentos contábeis para o Estado de Goiás.

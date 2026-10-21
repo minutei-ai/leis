@@ -1,5 +1,3 @@
-# Decreto nº 70.091, de 12/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211824)<br>
 
 # DECRETO N° 70.091, DE 12 DE NOVEMBRO DE 2025

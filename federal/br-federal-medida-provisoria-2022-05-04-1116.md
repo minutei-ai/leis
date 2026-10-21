@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.116 de 04/05/2022
-
 MEDIDA PROVISÓRIA Nº 1.116, DE 4 DE MAIO DE 2022
 
 Institui o Programa Emprega + Mulheres e Jovens e altera a Lei nº 11.770, de 9 de setembro de 2008, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.

@@ -1,5 +1,3 @@
-# Decreto nº 69.057, de 14/11/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210233)<br>
 
 # DECRETO N° 69.057, DE 14 DE NOVEMBRO DE 2024

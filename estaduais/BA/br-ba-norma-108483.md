@@ -1,5 +1,3 @@
-# LD Nº 19 DE 06 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 19 DE 06 DE ABRIL DE 1981
 
 Cria, na estrutura da Secretaria da Justiça, o "Presídio Regional de Feira de Santana" e dá outras providências.

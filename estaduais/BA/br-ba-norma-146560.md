@@ -1,5 +1,3 @@
-# LEI Nº 14.892 DE 05 DE MAIO DE 2025
-
 LEI Nº 14.892 DE 05 DE MAIO DE 2025
 
 Altera a Lei nº [7.209](https://www.legislabahia.ba.gov.br/documentos/lei-no-7209-de-20-de-novembro-de-1997), de 20 novembro de 1997, que institui o Grupo Ocupacional Serviços Penitenciários da Administração Direta do Estado, na forma que indica, e dá outras providências.

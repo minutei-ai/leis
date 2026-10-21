@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.418, de 2018-06-12
-
 LEI Nº 3418, DE 12 DE JUNHO DE 2018.
 
 <br>

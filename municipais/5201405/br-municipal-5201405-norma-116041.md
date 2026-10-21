@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.611, de 2021-06-15
-
 LEI MUNICIPAL Nº 3.611, DE 15 DE JUNHO DE 2021.
 
 Altera a Lei Municipal nº 1.353, de 24 de março de 1994, que institui o Código de Processo Administrativo Tributário e Fiscal do Município de Aparecida de Goiânia, e dá outras providências.

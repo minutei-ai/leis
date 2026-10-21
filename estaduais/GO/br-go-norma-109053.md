@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.486, de 2024-06-27
-
 DECRETO Nº 10.486, DE 27 DE JUNHO DE 2024
 
 Qualifica como organização social, no Estado de Goiás, a entidade que especifica.

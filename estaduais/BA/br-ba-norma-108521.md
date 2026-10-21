@@ -1,5 +1,3 @@
-# LD Nº 76 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 76 DE 03 DE JUNHO DE 1983
 
 Reorganiza a Secretaria da Agricultura - SEAGRI e dá outras providências.

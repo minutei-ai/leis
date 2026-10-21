@@ -1,5 +1,3 @@
-# Lei Complementar nº 252, de 2022-06-27
-
 LEI COMPLEMENTAR Nº. 252, DE 27 DE JUNHO DE 2022.
 
 Altera [Lei nº. 3.968/2000.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170)

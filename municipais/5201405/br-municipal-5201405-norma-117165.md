@@ -1,5 +1,3 @@
-# Decreto Numerado nº 681, de 2024-08-23
-
 DECRETO “N” Nº 681 DE 23 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

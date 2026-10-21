@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.048, de 2025-03-14
-
 DECRETO Nº 1.048, DE 14 DE MARÇO DE 2025
 
 Dispõe sobre a alteração de destinação de área(s) pública(s) municipal(ais) localizado(s) no Município de Aparecida de Goiânia.

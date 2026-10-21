@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.452, de 2018-12-20
-
 LEI Nº 3.452, DE 20 DE DEZEMBRO DE 2018
 
 Institui o “Programa Empreende Mulher” no Município de Aparecida de Goiânia e dá outras providências.

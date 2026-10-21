@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.385, de 2017-10-30
-
 LEI MUNICIPAL Nº 3.385, DE 30 DE OUTUBRO DE 2017
 
 Dispõe sobre o Plano Plurianual para o quadriênio 2018-2021, e dá outras providências.

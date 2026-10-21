@@ -1,5 +1,3 @@
-# LEI Nº 14.791 DE 06 DE DEZEMBRO DE 2024
-
 LEI Nº 14.791 DE 06 DE DEZEMBRO DE 2024
 
 Altera a Lei nº 7.990, de 27 de dezembro de 2001, na forma que indica.

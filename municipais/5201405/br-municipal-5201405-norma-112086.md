@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.229, de 2001-12-18
-
 LEI MUNICIPAL Nº 2.229, DE 18 DE DEZEMBRO DE 2001
 
 Dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia.

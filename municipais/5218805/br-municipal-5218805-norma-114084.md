@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.757, de 2025-11-17
-
 LEI Nº 7.757, DE 17 DE NOVEMBRO DE 2025.
 
 Institui, no âmbito do Município de Rio Verde, o Dia Municipal da Mulher Rural e dá outras providências.

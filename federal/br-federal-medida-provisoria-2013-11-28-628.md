@@ -1,5 +1,3 @@
-# Medida Provisória nº 628 de 28/11/2013
-
 MEDIDA PROVISÓRIA Nº  628, DE 28 DE NOVEMBRO DE 2013
 
 Constitui fonte adicional de recursos para o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, autoriza a União a encerrar o Fundo de Recuperação Econômica do Estado do Espírito Santo e extingue o Grupo Executivo para a Recuperação Econômica do Estado do Espírito Santo.

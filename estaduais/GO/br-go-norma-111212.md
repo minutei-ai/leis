@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.773, de 2025-09-03
-
 DECRETO Nº 10.773 DE 3 DE SETEMBRO DE 2025
 
 Altera o Anexo VIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.304 de 11/07/2025
-
 MEDIDA PROVISÓRIA Nº 1.304, DE 11 DE JULHO DE 2025
 
 Altera a [Lei nº 9.478, de 6 de agosto de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-08-06;9478), a [Lei nº 10.438, de 26 de abril de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-04-26;10438), a [Lei nº 12.304, de 2 de agosto de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-08-02;12304), a [Lei nº 12.351, de 22 de dezembro de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-12-22;12351), e a [Lei nº 14.182, de 12 de julho de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-07-12;14182).

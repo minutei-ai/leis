@@ -1,5 +1,3 @@
-# Medida Provisória nº 367 de 30/04/2007
-
 ###MPV-000367-0-000-30-04-2007@@@
 
 MEDIDA PROVISÓRIA Nº 367, DE 30 DE ABRIL DE 2007.

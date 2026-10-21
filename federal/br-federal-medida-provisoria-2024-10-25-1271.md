@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.271 de 25/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.271, DE 25 DE OUTUBRO DE 2024
 
 Dispõe sobre as remessas internacionais realizadas por intermédio de empresas de comércio eletrônico e reduz a alíquota do Imposto de Importação incidente sobre medicamentos.

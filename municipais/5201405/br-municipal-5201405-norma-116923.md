@@ -1,5 +1,3 @@
-# Lei Complementar nº 107, de 2015-08-05
-
 LEI COMPLEMENTAR Nº 107, DE 05 DE AGOSTO DE 2015.
 
 Dispõe sobre o Plano Municipal de Educação de Aparecida de Goiânia, referente ao período de 2025.

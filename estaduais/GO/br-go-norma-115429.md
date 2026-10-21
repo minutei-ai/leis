@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 169, de 2026-05-08
-
 Portaria Orçamentária nº 169/2026 - Economia
 
 **A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 6 de janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de julho de 2025.

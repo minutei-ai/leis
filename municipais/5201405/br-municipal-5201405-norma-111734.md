@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.843, de 2025-07-24
-
 LEI Nº 3.843, DE 24 DE JULHO DE 2025
 
 Dispõe sobre alteração da Lei nº 3.095/2013, que cria a Medalha do Mérito Legislativo Norberto José Teixeira no Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.627, de 2021-09-29
-
 LEI MUNICIPAL Nº 3.627, DE 29 DE SETEMBRO DE 2021.
 
 “Alteração do inciso III do Art. 2º da Lei de nº 2.873, de 11 de dezembro de 2009 que dispõe sobre o reconhecimento de Utilidade Pública Municipal.”

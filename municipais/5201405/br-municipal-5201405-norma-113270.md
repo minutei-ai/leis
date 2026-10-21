@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.375, de 2025-10-07
-
 DECRETO Nº 2.375, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Pisa no Loteamento Jardim Florença, no Município de Aparecida de Goiânia.

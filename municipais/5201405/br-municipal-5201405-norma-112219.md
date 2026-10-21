@@ -1,5 +1,3 @@
-# Decreto Numerado nº 46, de 2026-01-14
-
 DECRETO Nº 046, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 14 e 15, situados à Avenida C-5, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

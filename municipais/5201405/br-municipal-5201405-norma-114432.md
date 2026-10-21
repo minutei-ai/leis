@@ -1,5 +1,3 @@
-# Decreto Numerado nº 379, de 2026-05-13
-
 DECRETO Nº 379, DE 13 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Itaborai, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

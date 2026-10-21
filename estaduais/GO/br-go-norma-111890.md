@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.963, de 2025-12-20
-
 LEI Nº 23.963, DE 20 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual de Incentivo à Realização de Eventos Esportivos Verdes.

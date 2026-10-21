@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.760, de 2023-12-11
-
 LEI MUNICIPAL N° 3.760 DE 11 DE DEZEMBRO DE 2023.
 
 Altera a Lei Municipal n° 2.470/04, que desafeta, desapropria e autoriza doação de imóveis, para o Estado de Goiás, situados nos loteamentos PONTAL SUL (VILA OLIVEIRA) e CIDADE VERA CRUZ I, neste Município, destinados à construção de escolas. 

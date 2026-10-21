@@ -1,5 +1,3 @@
-# Decreto Numerado nº 604, de 2023-09-18
-
 DECRETO “N” Nº 604 DE 18 DE SETEMBRO DE 2023.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

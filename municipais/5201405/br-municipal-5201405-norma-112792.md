@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.887, de 2025-12-30
-
 DECRETO Nº 2.887, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua Mirante, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 254, de 2026-03-25
-
 DECRETO Nº 254, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Avenida Libano, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

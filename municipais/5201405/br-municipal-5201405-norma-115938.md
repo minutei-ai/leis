@@ -1,5 +1,3 @@
-# Decreto Numerado nº 612, de 2024-07-30
-
 DECRETO “N” Nº 612 DE 30 DE JULHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

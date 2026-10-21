@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.856, de 2026-01-26
-
 DECRETO Nº 10.856, DE 26 DE JANEIRO DE 2026
 
 Prorroga o prazo previsto no art. 5º do [Decreto nº 10.793](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111364), de 3 de outubro de 2025, que institui o grupo de trabalho destinado à elaboração do Plano de Desenvolvimento do Vale do Araguaia.

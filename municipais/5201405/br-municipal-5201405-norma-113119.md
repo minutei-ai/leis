@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.188, de 2025-09-08
-
 DECRETO Nº 2.188, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua 15-D, no Loteamento Setor Garavelo, no Município de Aparecida de Goiânia.

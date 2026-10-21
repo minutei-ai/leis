@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.292 de 12/03/2025
-
 MEDIDA PROVISÓRIA Nº 1.292, DE 12 DE MARÇO DE 2025
 
 Altera a [Lei nº 10.820, de 17 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-17;10820), que trata sobre as operações de crédito consignado de empregados regidos pela [Consolidação das Leis do Trabalho](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452), aprovada pelo [Decreto-Lei nº 5.452, de 1º de maio de 1943](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452), de trabalhadores regidos pela [Lei nº 5.889, de 8 de junho de 1973](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1973-06-08;5889), e pela [Lei Complementar nº 150, de 1º de junho de 2015](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2015-06-01;150), e de diretores não empregados com direito ao Fundo de Garantia do Tempo de Serviço - FGTS, para dispor sobre a operacionalização das operações de crédito consignado por meio de sistemas ou de plataformas digitais.

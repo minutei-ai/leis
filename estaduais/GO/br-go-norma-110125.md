@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.146, de 2024-12-11
-
 LEI Nº 23.146, DE 11 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 18.064](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90175), de 02 de julho de 2013, que cria unidade especializada no âmbito da Polícia Civil do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 14, de 2023-01-11
-
 DECRETO “N” Nº 14 DE 11 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SÍTIOS SANTA LUZIA RESIDEANCIAL, neste município.

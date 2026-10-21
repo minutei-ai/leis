@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.932, de 2026-06-22
-
 DECRETO Nº 10.932, DE 22 DE JUNHO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Barro Alto/GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.501, de 2019-09-09
-
 LEI MUNICIPAL Nº 3.501 , DE 09 DE SETEMBRO DE 2019
 
 Reconhece como de Utilidade Pública Municipal a “ASSOCIAÇÃO DE ANEMIA FALCIFORME KAROLINY VITÓRIA” e dá outras providências.

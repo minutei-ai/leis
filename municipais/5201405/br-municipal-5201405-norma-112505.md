@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.331, de 2025-05-08
-
 DECRETO Nº 1.331, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 06 ao 11, da Quadra 28, situado à Avenida Rio Verde, no Loteamento Vila Rosa, no Município de Aparecida de Goiânia.

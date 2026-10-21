@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.079, de 2012-02-23
-
 **LEI N. 6.079, DE 23 DE FEVEREIRO DE 2012**
 
 Altera a [Lei n. 5.558](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003 "Abrir Lei Ordinária nº 5558, de 2009 em nova aba")/2009, que cria o Programa Bolsa de Produção Cultural.

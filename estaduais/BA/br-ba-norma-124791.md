@@ -1,5 +1,3 @@
-# LD Nº 46 DE 03 DE MAIO DE 1983
-
 ![](/sites/default/files/images/Revogada.gif)  LEI DELEGADA Nº 46 DE 03 DE MAIO DE 1983
 
 Revogada pelo art. [15](https://www.legislabahia.ba.gov.br/documentos/lei-no-7308-de-02-de-fevereiro-de-1998#art15) da Lei nº 7.308, de 02 de fevereiro de 1998.

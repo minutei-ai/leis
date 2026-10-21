@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.529, de 2025-06-26
-
 LEI Nº 23.529, DE 26 DE JUNHO DE 2025
 
 Altera a [Lei nº 23.428](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110692), de 19 de maio de 2025, para autorizar o Poder Executivo a celebrar contratos e termos aditivos de refinanciamento de dívidas com a União, nos termos da Lei Complementar federal nº 212, de 13 de janeiro de 2025.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 226, de 2026-03-17
-
 DECRETO Nº 226, DE 17 DE MARÇO DE 2026
 
 O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, da Lei Orgânica do Município; nos termos da Lei federal nº 8.142, de 28 de dezembro de 1990; do Decreto federal nº 5.839, de 11 de julho de 2006; da Lei Municipal nº 2.761, de 29 de outubro de 2008; e o contido no Processo Digital nº 2026.024.974, resolve:

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.677, de 2025-09-16
-
 LEI Nº 23.677, DE 16 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

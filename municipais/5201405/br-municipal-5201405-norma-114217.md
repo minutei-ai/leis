@@ -1,5 +1,3 @@
-# Decreto Numerado nº 96, de 2022-02-11
-
 DECRETO “N” Nº 096, DE 11 DE FEVEREIRO DE 2022.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Aeroporto Sul neste município como de Interesse Social.

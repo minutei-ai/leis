@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.309, de 2016-04-18
-
 LEI MUNICIPAL Nº 3.309, DE 18 DE ABRIL DE 2016.
 
 “Dá nome ao CMEI do Setor Internacional Parque, neste Município”.

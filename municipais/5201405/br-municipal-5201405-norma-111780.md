@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.202, de 2014-07-31
-
 LEI MUNICIPAL Nº 3.202, DE 31 DE JULHO DE 2014.
 
 Concede isenção das Taxas de Licença para Execução de Obras e Loteamentos ao Estado de Goiás, para o imóvel que especifica, e dá outras providências.

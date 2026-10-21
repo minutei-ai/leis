@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.276, de 2022-06-27
-
 LEI N° 7.276, DE 27 DE JUNHO DE 2022
 
 Autoriza desafetação e alienação de imóvel público.

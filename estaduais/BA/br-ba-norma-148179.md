@@ -1,5 +1,3 @@
-# LEI Nº 15.090 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.090 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Associação para Promoção do Desenvolvimento Sustentável Humanizado (Instituto Bemmaker), com sede e foro no munícipio de Vitória da Conquista.

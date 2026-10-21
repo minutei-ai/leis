@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.567, de 2024-03-15
-
 LEI Nº 22.567, DE 15 DE MARÇO DE 2024
 
 Altera a [Lei nº 20.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100893), de 26 de dezembro de 2019, que dispõe sobre normas gerais para o Licenciamento Ambiental do Estado de Goiás e dá outras providências.

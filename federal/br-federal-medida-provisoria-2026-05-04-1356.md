@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.356 de 04/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.356, DE 4 DE MAIO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 305.000.000,00, para o fim que especifica.

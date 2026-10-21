@@ -1,5 +1,3 @@
-# Medida Provisória nº 175 de 19/03/2004
-
 ###MPV-000175-0-000-19-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 175, DE 19 DE MARÇO 2004.

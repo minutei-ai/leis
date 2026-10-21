@@ -1,5 +1,3 @@
-# Lei Complementar nº 220, de 2023-10-03
-
 LEI COMPLEMENTAR Nº 220, DE 03 DE OUTUBRO DE 2023.
 
 Altera a definição de becos da Lei Complementar nº 162, de 14 de junho de 2019, e dá outras providências.

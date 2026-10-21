@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.373, de 2017-09-04
-
 LEI MUNICIPAL 3.373, DE 04 DE SETEMBRO DE 2017
 
 Dá nome a Praça de Lazer, “NORBERTO JOSÉ TEIXEIRA” situada na Av. Independência, neste município.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 630, de 2023-10-05
-
 DECRETO “N” Nº 630 DE 05 DE OUTUBRO DE 2023.
 
 Dispõe sobre remembramento de imóveis.

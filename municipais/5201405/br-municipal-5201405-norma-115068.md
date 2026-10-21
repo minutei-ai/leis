@@ -1,5 +1,3 @@
-# Decreto Numerado nº 437, de 2026-06-01
-
 DECRETO Nº 437, DE 1º DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Zacarias Alves Lima, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

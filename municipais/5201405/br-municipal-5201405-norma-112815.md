@@ -1,5 +1,3 @@
-# Decreto Numerado nº 139, de 2026-02-10
-
 DECRETO Nº 139, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote Mansão 10, situado à Alameda Mário Soares Pinheiro, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

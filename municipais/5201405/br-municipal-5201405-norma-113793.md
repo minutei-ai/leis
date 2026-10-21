@@ -1,5 +1,3 @@
-# Decreto Numerado nº 276, de 2026-04-13
-
 DECRETO Nº 276, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua São Paulo, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

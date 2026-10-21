@@ -1,5 +1,3 @@
-# Decreto Numerado nº 21, de 2023-01-18
-
 DECRETO “N” Nº 21 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento CIDADE SATÉLITE SÃO LUIZ, neste município.

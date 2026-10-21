@@ -1,5 +1,3 @@
-# Medida Provisória nº 897 de 01/10/2019
-
 MEDIDA PROVISÓRIA Nº 897, DE 1 DE OUTUBRO DE 2019
 
 Institui o Fundo de Aval Fraterno, dispõe sobre o patrimônio de afetação de propriedades rurais, a Cédula Imobiliária Rural, a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas, e dá outras providências.

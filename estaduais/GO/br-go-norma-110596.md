@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.680, de 2025-04-16
-
 DECRETO Nº 10.680, DE 16 DE ABRIL DE 2025<br>
 \- [Vide Instrução Normativa nº 2/2026](https://legisla.casacivil.go.gov.br/pesquisa_ato_infralegal/sgg/18754/instrucao-normativa-2) - (Regulamento expedido pela SGG).
 

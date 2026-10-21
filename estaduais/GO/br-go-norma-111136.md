@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.751, de 2025-08-07
-
 DECRETO Nº 10.751, DE 7 DE AGOSTO DE 2025
 
 Altera o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás, também revoga o [Decreto nº 9.484](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72396), de 30 de julho de 2019.

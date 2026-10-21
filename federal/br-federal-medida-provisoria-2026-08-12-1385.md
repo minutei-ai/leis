@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.385 de 12/08/2026
-
 MEDIDA PROVISÓRIA Nº 1.385, DE 12 DE AGOSTO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério das Cidades e de Encargos Financeiros da União, no valor de R$ 3.500.000.000,00, para os fins que especifica.

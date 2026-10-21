@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.180, de 2012-08-17
-
 LEI Nº 6.180, DE 17 DE AGOSTO DE 2012.
 
 Insere Parágrafo Único no artigo 69 da Lei n. 3.635, Código de Posturas do Município.

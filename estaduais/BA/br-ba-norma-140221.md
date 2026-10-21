@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 27 DE 16 DE JUNHO DE 2021
-
 EMENDA CONSTITUCIONAL Nº 27 DE 16 DE JUNHO DE 2021
 
 Modifica regras relativas ao Regime Próprio de Previdência Social dos servidores públicos civis do Estado da Bahia, e dá outras providências.

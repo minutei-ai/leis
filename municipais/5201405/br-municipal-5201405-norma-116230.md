@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.584, de 2020-09-21
-
 LEI MUNICIPAL N° 3.584, DE 21 DE SETEMBRO DE 2020.
 
 “Reconhece de Utilidade Pública a entidade denominada COMPANHIA BRASILEIRA DE CAPOEIRA REGIONAL E ARTES MARCIAIS.”

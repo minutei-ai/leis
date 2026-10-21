@@ -1,5 +1,3 @@
-# Decreto Numerado nº 252, de 2026-03-25
-
 DECRETO Nº 252, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 09, 10 e 11, todos da Quadra 05, situados à Avenida Rio Verde, no Loteamento Jardim Helvécia, no Município de Aparecida de Goiânia.

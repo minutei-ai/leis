@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.580, de 2025-06-12
-
 DECRETO Nº 1.580, DE 12 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua C-23 com  a Rua C-10, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.031 de 23/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.031, DE 23 DE FEVEREIRO DE 2021
 
 Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. - Eletrobras e altera a Lei nº 5.899, de 5 de julho de 1973, a Lei nº 9.991, de 24 de julho de 2000, e a Lei nº 10.438, de 26 de abril de 2002.

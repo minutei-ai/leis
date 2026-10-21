@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.958, de 2011-05-19
-
 LEI MUNICIPAL Nº 2.958, DE 19 DE MAIO DE 2011.
 
 Cria Lei de incentivo a cultura no Município de Aparecida de Goiânia, o Conselho Municipal de Cultura, o Conselho Municipal de Cultura, concede benefícios fiscais e dá outras providências.

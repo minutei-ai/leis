@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.900, de 2025-08-05
-
 DECRETO Nº 1.900, DE 5 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua das Verbenas, no Loteamento Expansul, no Município de Aparecida de Goiânia.

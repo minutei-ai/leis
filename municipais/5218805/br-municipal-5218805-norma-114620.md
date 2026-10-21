@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.599, de 2025-02-24
-
 LEI N°7.599, DE 24 DE FEVEREIRO DE 2025.
 
 Autoriza reajuste das perdas salariais e do valor do auxílio-alimentação dos servidores efetivos e comissionados da FESURV - Universidade de Rio Verde.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.027, de 2019-12-16
-
 LEI N. 7.027, DE 16 DE DEZEMBRO DE 2019
 
 Autoriza o Poder Executivo a efetuar pagamento em decorrência de desapropriação de imóveis que menciona e a promover inclusão de novas áreas no PRODEN-RV e dá outras providências.

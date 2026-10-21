@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.145, de 2021-06-10
-
 LEI Nº 7.145, DE 10 DE JUNHO DE 2021.
 
 Reconhece Utilidade Pública Municipal a entidade CLUBE DE TIRO DE RIO VERDE – GOIÁS e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.303, de 2025-09-24
-
 DECRETO Nº 2.303, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra 66, situado à Rua Dr. Antônio Jorge Azzi, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

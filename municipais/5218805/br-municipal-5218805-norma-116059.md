@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.315, de 2022-12-16
-
 LEI N° 7.315, DE 16 DE DEZEMBRO DE 2022.
 
 Autoriza o Poder Executivo a indenizar imóvel, correspondente à desapropriação realizada pelo Município.

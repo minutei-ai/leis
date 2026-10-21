@@ -1,5 +1,3 @@
-# Decreto nº 69.625, de 12/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211063)<br>
 
 # DECRETO N° 69.625, DE 12 DE JUNHO DE 2025

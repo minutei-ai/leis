@@ -1,5 +1,3 @@
-# Constituição do Estado da Bahia de 02 de agosto de 1947
-
 CONSTITUIÇÃO DO ESTADO DA BAHIA DE 02 DE AGOSTO DE 1947
 
 Texto integral acompanhada das Emendas Constitucionais

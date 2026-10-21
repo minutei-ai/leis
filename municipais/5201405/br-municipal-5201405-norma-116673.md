@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.358, de 2017-05-10
-
 LEI MUNICIPAL Nº 3.358, DE 10 DE MAIO DE 2017
 
 Dispõe sobre divulgação mensal pelo PROCON Municipal de lista dos dez estabelecimentos com maior número de reclamações do mês anterior.

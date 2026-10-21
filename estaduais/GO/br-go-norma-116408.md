@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 230, de 2026-06-02
-
 Portaria Orçamentária nº 230/2026 - Economia
 
 **O PROCURADOR GERAL DE JUSTIÇA DO ESTADO DE GOIÁS,** no uso de suas atribuições legais, com fundamento no art. 9º §1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026, representado pela Superintendente de Gestão Orçamentária e Compras, conforme Portaria de Delegação nº 2025004935171,

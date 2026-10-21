@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.914, de 2026-05-21
-
 DECRETO Nº 10.914, DE 21 DE MAIO DE 2026
 
 Altera o Regulamento da Secretaria de Estado da Saúde - SES, aprovado pelo [Decreto nº 10.687](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110624), de 25 de abril de 2025.

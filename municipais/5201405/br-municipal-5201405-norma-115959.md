@@ -1,5 +1,3 @@
-# Decreto Numerado nº 636, de 2024-08-02
-
 DECRETO “N” Nº 636 DE 02 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

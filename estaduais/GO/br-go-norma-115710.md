@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.364, de 2026-06-22
-
 LEI Nº 24.364, DE 22 DE JUNHO DE 2026
 
 Institui a Semana Estadual de Conscientização sobre a Síndrome de Rett.

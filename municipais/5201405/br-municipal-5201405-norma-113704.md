@@ -1,5 +1,3 @@
-# Decreto Numerado nº 269, de 2026-03-31
-
 DECRETO Nº 269, DE 31 DE MARÇO DE 2026
 
 **O PREFEITO DE APARECIDA DE GOIÂNIA**, no uso da atribuição que lhe confere o inciso VII, do art. 71, da Lei Orgânica do Município; tendo em vista o disposto no art. 37, da Constituição Federal; no Decreto nº 52, de 14 de janeiro de 2026; e o contido no Processo nº 2025.423.048:

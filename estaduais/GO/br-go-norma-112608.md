@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.861, de 2026-01-30
-
 DECRETO Nº 10.861, DE 30 DE JANEIRO DE 2026
 
 Institui a Comissão Intergestores Bipartite da Educação do Estado de Goiás – Cibe-GO.

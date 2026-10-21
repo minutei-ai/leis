@@ -1,5 +1,3 @@
-# Decreto Numerado nº 841, de 2024-10-08
-
 DECRETO “N” Nº 841, DE 08 DE OUTUBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Jardim Alto Paraíso, neste município como de Interesse Social.

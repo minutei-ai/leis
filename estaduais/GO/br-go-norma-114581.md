@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.266, de 2026-05-18
-
 LEI Nº 24.266, DE 18 DE MAIO DE 2026
 
 Institui o selo de identificação de veículos que transportam pessoas com Transtorno do Espectro Autista – TEA, na forma que especifica.

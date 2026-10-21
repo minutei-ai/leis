@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.977, de 2024-09-05
-
 LEI Nº 22.977, DE 5 DE SETEMBRO DE 2024
 
 Altera a [Lei nº 16.140](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86552), de 02 de outubro de 2007, que dispõe sobre o Sistema Único de Saúde – SUS, as condições para a promoção, proteção e recuperação da saúde, a organização, regulamentação, fiscalização e o controle dos serviços correspondentes e dá outras providências.

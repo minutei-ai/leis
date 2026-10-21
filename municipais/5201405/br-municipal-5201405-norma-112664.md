@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.581, de 2025-06-12
-
 DECRETO Nº 1.581, DE 12 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua 05, no Loteamento Bairro Independêcia, no Município de Aparecida de Goiânia.

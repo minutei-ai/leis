@@ -1,5 +1,3 @@
-# Decreto Numerado nº 184, de 2023-03-21
-
 DECRETO “N” Nº 184 DE 21 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento QUINTA DA BOA VISTA, neste município.

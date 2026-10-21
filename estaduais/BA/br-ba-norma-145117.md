@@ -1,5 +1,3 @@
-# LEI Nº 14.750 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.750 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO TEATRAL CULTURAL RENASCER (ASTECRE), com sede e foro no município de Feira de Santana.

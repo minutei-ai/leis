@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.121 de 07/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.121, DE 7 DE JUNHO DE 2022
 
 Dispõe sobre o estabelecimento de barreiras sanitárias protetivas de áreas indígenas.

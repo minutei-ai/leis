@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.548, de 2005-12-21
-
 Lei MUNICIPAL Nº 2.548, DE 21 DE DEZEMBRO DE 2005
 
 Introduz novas alterações à Lei Municipal n° 1.171, de 12 de março de 1993, alterada pela Lei Municipal n.° 2.343/02 que dispõe sobre a Política Municipal de Atendimento dos Direitos da Criança e do Adolescente.

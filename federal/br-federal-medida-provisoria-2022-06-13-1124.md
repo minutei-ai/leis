@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.124 de 13/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.124, DE 13 DE JUNHO DE 2022
 
 Altera a Lei nº 13.709, de 14 de agosto de 2018 - Lei Geral de Proteção de Dados Pessoais, transforma a Autoridade Nacional de Proteção de Dados em autarquia de natureza especial e transforma cargos em comissão.

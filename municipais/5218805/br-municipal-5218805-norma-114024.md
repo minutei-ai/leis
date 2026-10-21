@@ -1,5 +1,3 @@
-# Lei Complementar nº 435, de 2025-12-15
-
 LEI COMPLEMENTAR Nº 435, DE 15 DE DEZEMBRO DE 2025.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

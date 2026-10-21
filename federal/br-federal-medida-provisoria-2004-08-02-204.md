@@ -1,5 +1,3 @@
-# Medida Provisória nº 204 de 02/08/2004
-
 ###MPV-000204-0-000-02-08-2004@@@
 
 MEDIDA PROVISÓRIA Nº 204, DE 2 DE AGOSTO 2004

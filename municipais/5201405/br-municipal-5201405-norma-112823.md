@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.634, de 2025-06-23
-
 DECRETO Nº 1.634, DE 23 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Buriti no Loteamento Setor Serra Dourada - 3º Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 318, de 2024-04-30
-
 DECRETO “N” Nº 318 DE 30 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

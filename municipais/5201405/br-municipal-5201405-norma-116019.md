@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.604, de 2021-04-09
-
 LEI MUNICIPAL Nº 3.604 , DE 09 DE ABRIL DE 2021.
 
 Revoga a Lei Nº 2.637/2007 que criou o Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – CACS/ FUNDEB, dando-lhe nova redação.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.824, de 2025-11-10
-
 LEI Nº 23.824, DE 10 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 18.464](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90686 "Abrir Lei Ordinária nº 18464, de 2014 em nova aba"), de 13 de maio de 2014, que dispõe sobre o Plano de Cargos e Remuneração do Quadro Transitório da Secretaria de Estado da Saúde e dá outras providências.

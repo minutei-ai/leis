@@ -1,5 +1,3 @@
-# Medida Provisória nº 616 de 31/05/2013
-
 MEDIDA PROVISÓRIA Nº  616, DE 31 DE MAIO DE 2013
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 2.932.125.346,00, para o fim que especifica.

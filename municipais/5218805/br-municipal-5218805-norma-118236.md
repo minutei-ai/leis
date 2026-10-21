@@ -1,5 +1,3 @@
-# Lei Complementar nº 106, de 2017-12-13
-
 LEI COMPLEMENTAR Nº 106, DE 13 DE DEZEMBRO DE 2017.
 
 Altera a Lei Complementar nº 5.727/2009, que aprovou o Código Tributário do Município de Rio Verde-Goiás, a Lei nº 3.356/96, a Lei nº 5.628/2009 e dá outras providências.

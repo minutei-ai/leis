@@ -1,5 +1,3 @@
-# Decisão da Mesa nº 3.401, de 12/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211313)<br>
 
 # DECISÃO DA MESA N° 3401/2025, DE 12 DE AGOSTO DE 2025 - Composição do Comitê de Gestão Estratégica e Governança, conforme disposto no art. 1°-B, §1°, do Capítulo I-A da Resolução n. 776/1996.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.130, de 2021-03-30
-
 LEI Nº 7.130, DE 30 DE MARÇO DE 2021.
 
      <br>

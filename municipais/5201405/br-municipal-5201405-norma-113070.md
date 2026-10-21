@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.752, de 2025-12-08
-
 DECRETO Nº 2.752, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua 25 de Junho, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.933, de 2025-12-11
-
 LEI Nº 23.933, DE 11 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual de Apoio ao Produtor Rural em razão da Ocorrência de Incêndios em suas Propriedades.

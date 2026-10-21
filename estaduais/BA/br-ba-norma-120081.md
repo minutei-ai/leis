@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 02 DE 12 DE JUNHO DE 1991
-
 EMENDA CONSTITUCIONAL Nº 02 DE 12 DE JUNHO DE 1991
 
 Altera a redação do inciso V, Art. 226 e do Art. 43 do Ato das Disposições Transitórias da Constituição do Estado da Bahia.

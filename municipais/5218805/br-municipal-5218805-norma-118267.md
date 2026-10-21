@@ -1,5 +1,3 @@
-# Lei Complementar nº 187, de 2020-06-29
-
 LEI COMPLEMENTAR N. 187, DE 29 DE JUNHO DE 2020
 
 Altera Lei Complementar n. 5.727/2009, Código Tributário Municipal.

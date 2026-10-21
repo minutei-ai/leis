@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.146, de 2025-09-04
-
 DECRETO Nº 2.146, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 63, situado à Rua C-28, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

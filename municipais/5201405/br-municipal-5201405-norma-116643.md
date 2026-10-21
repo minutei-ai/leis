@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.438, de 2018-10-09
-
 LEI Nº 3.438, DE 09 DE OUTUBRO DE 2018
 
 Altera a Lei n° 3.391, de 28 de novembro de 2017, que institui a Lei Orçamentária Anual de 2018.

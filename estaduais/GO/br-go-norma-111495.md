@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.794, de 2025-11-04
-
 LEI Nº 23.794, DE 4 DE NOVEMBRO DE 2025
 
 Dá denominação ao próprio público que especifica e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 201, de 2022-10-11
-
 LEI COMPLEMENTAR Nº 201, DE 11 DE OUTUBRO DE 2022. Introduz
 
 alterações na Lei Complementar Municipal nº 85, de 17 de junho de 2014, para adequação do Piso Salarial dos Agentes Comunitários de Saúde e Agentes de Combate a Endemias, a partir da Emenda Constitucional nº 120 de 05 de maio de 2022.

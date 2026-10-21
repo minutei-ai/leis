@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.725, de 2023-06-28
-
 LEI MUNICIPAL Nº 3.725, DE 28 DE JUNHO DE 2023.
 
 Reconhece como Utilidade Pública Municipal o INSTITUTO DE ESPECIALIDADES CONCEITO (IEC), e dá outras providências.

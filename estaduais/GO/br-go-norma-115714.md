@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.367, de 2026-06-22
-
 LEI Nº 24.367, DE 22 DE JUNHO DE 2026
 
 Altera a [Lei nº 23.029](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109717 "Abrir Lei Ordinária nº 23029, de 2024 em nova aba"), de 10 de outubro de 2024, que institui a Política Estadual de Proteção e Atenção às Mães Atípicas e a Semana Estadual das Mães Atípicas.

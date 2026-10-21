@@ -1,5 +1,3 @@
-# LEI Nº 15.146 DE 11 DE MAIO DE 2026
-
 LEI Nº 15.146 DE 11 DE MAIO DE 2026
 
 Altera a Lei nº [10.963](https://www.legislabahia.ba.gov.br/documentos/lei-no-10963-de-16-de-abril-de-2008), de 16 de abril de 2008, e a Lei nº [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024), de 23 de abril de 2024, na forma que indica, e dá outras providências.

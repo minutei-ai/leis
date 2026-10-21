@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.190, de 2025-09-08
-
 DECRETO Nº 2.190, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 23, situado à Rua Manuel Preto, no Loteamento Setor dos Bandeirantes, no Município de Aparecida de Goiânia.

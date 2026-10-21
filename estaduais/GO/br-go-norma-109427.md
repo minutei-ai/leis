@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.539, de 2024-08-29
-
 DECRETO Nº 10.539 , DE 29 DE AGOSTO DE 2024
 
 Declara situação de emergência nos municípios do Estado de Goiás que especifica, afetados pelo desastre classificado e codificado como “Incêndio Florestal – Incêndios em áreas não protegidas, com reflexos na qualidade do ar”, caracterizado pela propagação de fogo sem controle em qualquer tipo de vegetação não localizada em área sob proteção legal, com a consequente queda da qualidade do ar, conforme a Classificação e Codificação Brasileira de Desastres – COBRADE 1.4.1.3.2.

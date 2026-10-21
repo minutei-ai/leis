@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.256, de 2015-02-05
-
 LEI MUNICIPAL Nº 3.256, DE 05 DE FEVEREIRO DE 2015.
 
 “Altera a redação dos arts. 2º e 3º da Lei nº 3.160/2014, publicada em 25 do mês de fevereiro do ano de 2014, que “Autoriza o Poder Executivo Municipal a contratar financiamento do PMAT – Programa de Modernização da Administração Tributária e da Gestão dos Setores Sociais Básicos, junto ao Banco Nacional de Desenvolvimento Econômico e Social – BNDES, a oferecer garantias e dá outras providências correlatas”.

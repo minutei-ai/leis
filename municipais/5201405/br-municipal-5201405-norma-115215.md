@@ -1,5 +1,3 @@
-# Decreto Numerado nº 449, de 2026-06-03
-
 DECRETO Nº 449, DE 3 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Gerson Soares da Cunha, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

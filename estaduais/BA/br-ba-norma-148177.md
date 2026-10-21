@@ -1,5 +1,3 @@
-# LEI Nº 15.089 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.089 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Grupo Escoteiro Duque de Caxias, com sede e foro no município de Vitória da Conquista.

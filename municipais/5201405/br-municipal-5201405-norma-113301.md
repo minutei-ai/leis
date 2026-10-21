@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.317, de 2025-09-29
-
 DECRETO Nº 2.317, DE 29 DE SETEMBRO DE 2025.
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Cidade Satélite São Luiz, no Município de Aparecida de Goiânia.

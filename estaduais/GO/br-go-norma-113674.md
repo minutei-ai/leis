@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.887, de 2026-03-25
-
 DECRETO Nº 10.887, DE 25 DE MARÇO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

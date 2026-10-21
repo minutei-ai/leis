@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.119 de 25/05/2022
-
 MEDIDA PROVISÓRIA Nº 1.119, DE 25 DE MAIO DE 2022
 
 Reabre o prazo de opção para o regime de previdência complementar e altera a Lei nº 12.618, de 30 de abril de 2012.

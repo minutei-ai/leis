@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.013, de 2019-10-31
-
 LEI Nº 7.013, DE 31 DE OUTUBRO DE 2019.
 
 Dispõe sobre a concessão de direito real de uso de lotes que compõem o Distrito Municipal de Pequenas Empresas – DIMPE e dá outras providências.

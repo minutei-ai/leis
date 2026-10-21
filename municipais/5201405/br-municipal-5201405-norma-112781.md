@@ -1,5 +1,3 @@
-# Decreto Numerado nº 125, de 2026-02-09
-
 DECRETO Nº 125, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Brasilia, no Loteamento Setor dos Estados, no Município de Aparecida de Goiânia.

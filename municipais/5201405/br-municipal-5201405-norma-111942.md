@@ -1,5 +1,3 @@
-# Lei Complementar nº 47, de 2012-02-13
-
 LEI COMPLEMENTAR Nº 47 DE 13 DE FEVEREIRO DE 2012.
 
 Acrescenta os parágrafos 3º, 4º, 5º, 6º e 7º ao Art. 203, da Lei Municipal nº 792, de 07 de dezembro de 1988.

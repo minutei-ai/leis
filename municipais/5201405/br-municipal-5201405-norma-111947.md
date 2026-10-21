@@ -1,5 +1,3 @@
-# Lei Complementar nº 247, de 2025-12-11
-
 LEI COMPLEMENTAR Nº 247, DE 11 DE DEZEMBRO DE 2025
 
 Altera a Lei Complementar nº 243, de 24 de setembro de 2025 e dá outras providências.

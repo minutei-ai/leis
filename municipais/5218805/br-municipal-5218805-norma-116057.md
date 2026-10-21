@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.317, de 2022-12-16
-
 LEI N° 7.317, DE 16 DE DEZEMBRO DE 2022.
 
 Institui a Semana do Agronegócio no âmbito do Município de Rio Verde, Estado de Goiás, e dá outras providências.

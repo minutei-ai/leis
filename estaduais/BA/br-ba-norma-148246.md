@@ -1,5 +1,3 @@
-# LEI Nº 15.126 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.126 DE 28 DE JANEIRO DE 2026
 
 Torna a Festa do Divino Espírito Santo em Patrimônio Cultural e Imaterial do Estado da Bahia, de fomento, e dá outras providências.

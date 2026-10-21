@@ -1,5 +1,3 @@
-# Medida Provisória nº 955 de 20/04/2020
-
 MEDIDA PROVISÓRIA Nº 955, DE 20 DE ABRIL DE 2020
 
 Revoga a Medida Provisória nº 905, de 11 de novembro de 2019, que institui o Contrato de Trabalho Verde e Amarelo e altera a legislação trabalhista.

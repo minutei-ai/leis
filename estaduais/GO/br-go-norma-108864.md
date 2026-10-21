@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.712, de 2024-05-21
-
 LEI Nº 22.712, DE 21 DE MAIO DE 2024
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

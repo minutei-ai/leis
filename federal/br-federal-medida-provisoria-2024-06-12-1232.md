@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.232 de 12/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.232, DE 12 DE JUNHO DE 2024
 
 Altera a [Lei nº 12.111, de 9 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-09;12111), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados, e a [Lei nº 12.783, de 11 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-11;12783), que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária.

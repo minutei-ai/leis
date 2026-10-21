@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.874, de 2025-11-28
-
 LEI Nº 23.874, DE 28 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

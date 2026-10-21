@@ -1,5 +1,3 @@
-# LEI Nº 15.163 DE 27 DE MAIO DE 2026
-
 LEI Nº 15.163 DE 27 DE MAIO DE 2026
 
 Altera a Lei nº [14.781](https://www.legislabahia.ba.gov.br/documentos/lei-no-14781-de-04-de-setembro-de-2024), de 04 de setembro de 2024, na forma que indica.

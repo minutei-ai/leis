@@ -1,5 +1,3 @@
-# LD Nº 74 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 74 DE 03 DE JUNHO DE 1983
 
 Cria a Comissão Interinstitucional de Ciência e Tecnologia, dispõe sobre o Sistema Estadual Ciência e Tecnologia e dá outras providências.

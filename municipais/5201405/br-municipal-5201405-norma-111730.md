@@ -1,5 +1,3 @@
-# Lei Complementar nº 176, de 2020-08-05
-
 LEI COMPLEMENTAR Nº 176, DE 05 DE AGOSTO DE 2020.
 
 Altera a Lei Complementar nº 124, de 14 de Dezembro de 2016 e Lei Complementar nº 152, de 09 de Outubro de 2018.

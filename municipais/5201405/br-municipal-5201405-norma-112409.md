@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.107, de 2025-03-26
-
 DECRETO Nº 1.107, DE 26 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel localizado no Município de Aparecida de Goiânia.

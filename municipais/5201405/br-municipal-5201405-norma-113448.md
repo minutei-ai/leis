@@ -1,5 +1,3 @@
-# Lei Complementar nº 224, de 2023-12-13
-
 LEI COMPLEMENTAR Nº 224, 13 DE DEZEMBRO DE 2023
 
 Altera a Lei Complementar nº 192, 08 de abril de 2022 e dá outras providências.

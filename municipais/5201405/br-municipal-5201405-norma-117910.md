@@ -1,5 +1,3 @@
-# Decreto Numerado nº 182, de 2023-03-21
-
 DECRETO “N” Nº 182 DE 21 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VEIGA JARDIM - ACRÉSCIMO, neste município.

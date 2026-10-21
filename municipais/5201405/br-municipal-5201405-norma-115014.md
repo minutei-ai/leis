@@ -1,5 +1,3 @@
-# Decreto Numerado nº 294, de 2024-04-23
-
 DECRETO “N” Nº 294 DE 23 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 131, de 2017-10-30
-
 LEI COMPLEMENTAR Nº 131, DE 30 DE OUTUBRO DE 2017.
 
 Altera a [Lei Complementar nº 046](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111755 "Abrir Lei Complementar nº 046, de 2011 em nova aba")/2011, que instituiu o Código Tributário do Município de Aparecida de Goiânia, Goiás, e a Lei Municipal nº 1353/94, que instituiu o Código de Processo Administrativo Fiscal e Tributário do Município de Aparecida de Goiânia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.947, de 2026-07-03
-
 DECRETO Nº 10.947 DE 3 DE JULHO DE 2026<br>
 \- [Revogado pelo Decreto nº 10.997, de 8-10-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117991), art. 6º, II.
 

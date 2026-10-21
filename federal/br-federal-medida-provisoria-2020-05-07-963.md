@@ -1,5 +1,3 @@
-# Medida Provisória nº 963 de 07/05/2020
-
 MEDIDA PROVISÓRIA Nº 963, DE 7 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 5.000.000.000,00, para o fim que especifica.

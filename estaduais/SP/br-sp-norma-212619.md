@@ -1,5 +1,3 @@
-# Decreto nº 70.620, de 19/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212619)<br>
 
 # DECRETO N° 70.620, DE 19 DE MAIO DE 2026

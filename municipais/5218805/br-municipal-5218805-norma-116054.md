@@ -1,5 +1,3 @@
-# Lei Complementar nº 154, de 2019-05-08
-
 LEI COMPLEMENTAR Nº 154, DE 08 DE MAIO DE 2019. 
 
 Altera a Lei Complementar nº 145/2018 e a Lei Complementar nº 6.111/2012 - Plano de Cargos, Carreiras e Vencimentos do Quadro Permanente dos servidores da área da saúde do Município de Rio Verde.

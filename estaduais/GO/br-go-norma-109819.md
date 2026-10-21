@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.058, de 2024-11-04
-
 LEI Nº 23.058, DE 4 DE NOVEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

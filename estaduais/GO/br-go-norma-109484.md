@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.996, de 2024-09-18
-
 LEI Nº 22.996, DE 18 DE setembro DE 2024
 
 Declara de utilidade pública a entidade que especifica.

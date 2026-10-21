@@ -1,5 +1,3 @@
-# Decreto Numerado nº 406, de 2026-05-21
-
 DECRETO Nº 406, DE 21 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 05, 06, 21, 22 e 23, situados à Rua Rio Grande do Sul, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.752, de 2025-07-07
-
 DECRETO Nº 1.752, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02 ao 14 e Lotes 17 ao 24, situados na Rua JI-49 e Rua JI-50 no Loteamento Jardim Ipe, no Município de Aparecida de Goiânia.

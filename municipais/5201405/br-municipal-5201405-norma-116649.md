@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.444, de 2018-11-26
-
 LEI Nº 3.444, DE 26 DE NOVEMBRO DE 2018
 
 Altera a Lei nº 3.355, de 03 de maio de 2017, e dá outras providências.

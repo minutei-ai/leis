@@ -1,5 +1,3 @@
-# Decreto nº 70.350, de 30/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212180)<br>
 
 # DECRETO N° 70.350, DE 30 DE JANEIRO DE 2026

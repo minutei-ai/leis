@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.997, de 2025-08-18
-
 DECRETO Nº 1.997, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, situado à Avenida Perú, no Loteamento Bairro Vera Cruz, no Município de Aparecida de Goiânia.

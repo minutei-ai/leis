@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.487, de 2025-10-21
-
 DECRETO Nº 2.487, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Joaquim Cardoso da Silva, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

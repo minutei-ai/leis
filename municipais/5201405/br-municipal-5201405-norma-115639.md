@@ -1,5 +1,3 @@
-# Decreto Numerado nº 498, de 2026-06-18
-
 DECRETO Nº 498, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Avenida Dona Maria Marques de Abreu e Rua 38, no Loteamento Bairro Independência – 2º Complemento, no Município de Aparecida de Goiânia.

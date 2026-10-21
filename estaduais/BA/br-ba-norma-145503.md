@@ -1,5 +1,3 @@
-# LEI Nº 14.768 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.768 DE 04 DE SETEMBRO DE 2024
 
 Dispõe sobre a outorga ao município de Ipirá, Estado da Bahia, o título de Capital Estadual da Produção Industrial e Artesanal de Calçados e Artefatos de Couro, no âmbito do Estado da Bahia, e dá outras providências.

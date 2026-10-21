@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.943, de 2024-08-26
-
 LEI Nº 22.943, DE 26 DE AGOSTO DE 2024
 
 Institui a Semana Estadual de Conscientização sobre o Transtorno Opositor Desafiador – TOD.

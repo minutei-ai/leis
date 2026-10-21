@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.596, de 2024-04-05
-
 LEI Nº 22.596, DE 5 DE ABRIL DE 2024
 
 Altera a [Lei nº 18.320](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90474), de 30 de dezembro de 2013, para dispor sobre a educação de povos tradicionais e dá outras providências.

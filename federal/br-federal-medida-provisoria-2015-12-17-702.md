@@ -1,5 +1,3 @@
-# Medida Provisória nº 702 de 17/12/2015
-
 MEDIDA PROVISÓRIA Nº 702, DE 17 DE DEZEMBRO DE 2015
 
 Abre crédito extraordinário, em favor dos Ministérios da Saúde, do Trabalho e Emprego e das Cidades e de Encargos Financeiros da União, no valor de R$ 37.579.334.525,00, para os fins que especifica.

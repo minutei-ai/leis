@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.928, de 2011-04-14
-
 LEI Nº 5.928, DE 14 DE ABRIL DE 2011.
 
 Aumenta quantitativo do cargo de Recreador.

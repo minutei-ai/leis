@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.483, de 2025-10-21
-
 DECRETO Nº 2.483, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 02, 03 e 04, todos da Quadra 82, situados à Avenida Libano e Avenida Brasil, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

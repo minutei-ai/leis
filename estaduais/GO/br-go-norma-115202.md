@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.333, de 2026-06-08
-
 LEI Nº 24.333, DE 8 DE JUNHO DE 2026
 
 Altera a [Lei nº 22.003](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107219 "Abrir Lei Ordinária nº 22003, de 2023 em nova aba"), de 13 de junho de 2023, introduz na estrutura administrativa básica do Poder Executivo a Planalto Solar Park S/A – PLANALTO e altera sua denominação e a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), de 16 de fevereiro de 2023.

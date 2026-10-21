@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.692, de 2025-06-27
-
 DECRETO Nº 1.692, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua H-113 no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

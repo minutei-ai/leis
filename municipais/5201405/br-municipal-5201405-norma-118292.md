@@ -1,5 +1,3 @@
-# Decreto Numerado nº 512, de 2023-08-03
-
 DECRETO “N” Nº 512 DE 03 DE AGOSTO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

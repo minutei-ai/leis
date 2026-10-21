@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.154, de 2021-06-10
-
 LEI Nº 7.154, DE 10 DE JUNHO DE 2021.
 
 Denomina nome de Ponte que especifica e dá outras providências.

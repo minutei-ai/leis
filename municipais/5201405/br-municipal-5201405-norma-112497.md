@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.323, de 2025-05-08
-
 DECRETO Nº 1.323, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua Heno Jácomo Perillo no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

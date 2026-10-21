@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.305, de 2025-03-27
-
 LEI Nº 23.305, DE 27 DE MARÇO DE 2025
 
 Altera a [Lei nº 20.358](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100302), de 05 de dezembro de 2018, que dispõe sobre a adoção de medidas de prevenção e de combate ao abuso sexual nos meios de transporte coletivo que especifica.

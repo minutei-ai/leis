@@ -1,5 +1,3 @@
-# Medida Provisória nº 662 de 08/12/2014
-
 MEDIDA PROVISÓRIA Nº 662, DE 8 DE DEZEMBRO DE 2014
 
 Abre crédito extraordinário, em favor da empresa estatal Telecomunicações Brasileiras S.A. - TELEBRÁS, no valor de R$ 404.755.786,00, para os fins que especifica.

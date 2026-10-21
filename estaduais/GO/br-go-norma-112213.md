@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.037, de 2026-01-14
-
 LEI Nº 24.037, DE 14 DE JANEIRO DE 2026
 
 Confere ao Município de Mozarlândia/GO o título de “Terra do Boi”. 

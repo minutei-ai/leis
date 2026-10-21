@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.362 de 25/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.362, DE 25 DE MAIO DE 2026
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 30.000.000.000,00, para o fim que especifica.

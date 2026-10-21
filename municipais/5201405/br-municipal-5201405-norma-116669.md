@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.354, de 2017-05-03
-
 LEI MUNICIPAL Nº 3.354, DE 03 DE MAIO DE 2017
 
 Revoga a Lei nº 2.635, de 15 de março de 2007 e Lei nº 2.783, de 10 de dezembro de 2008.

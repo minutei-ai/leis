@@ -1,5 +1,3 @@
-# Decreto Numerado nº 252, de 2023-04-17
-
 DECRETO “N” Nº 252 DE 17 DE ABRIL DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento RESIDENCIAL JARDINS SEVILHA, neste município.

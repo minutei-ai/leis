@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.084 de 24/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.084, DE 24 DE DEZEMBRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 4.153.017.000,00, para o fim que especifica, e dá outras providências.

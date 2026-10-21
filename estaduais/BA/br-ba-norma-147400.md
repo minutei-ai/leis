@@ -1,5 +1,3 @@
-# LEI Nº 14.956 DE 14 DE JULHO DE 2025
-
 LEI Nº 14.956 DE 14 DE JULHO DE 2025
 
 Altera a Lei nº [11.051](https://www.legislabahia.ba.gov.br/documentos/lei-no-11051-de-06-de-junho-de-2008), de 06 de junho de 2008, na forma que indica.

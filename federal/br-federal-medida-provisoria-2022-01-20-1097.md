@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.097 de 20/01/2022
-
 MEDIDA PROVISÓRIA Nº 1.097, DE 20 DE JANEIRO DE 2022
 
 Abre crédito extraordinário, em favor do Ministério da Infraestrutura, no valor de R$ 418.000.000,00, para o fim que especifica.

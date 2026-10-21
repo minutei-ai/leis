@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.577, de 2020-09-18
-
 LEI MUNICIPAL N° 3.577, DE 18 DE SETEMBRO DE 2020.
 
 Altera a Lei Municipal nº 3.198 de 16 de julho de 2014, que dispõe sobre a criação, composição e competência do Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia – COMPRIR e dá outras providências.

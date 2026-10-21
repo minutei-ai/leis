@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.743, de 2025-11-12
-
 LEI Nº 7.743, DE 12 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal de Sensibilização à perca Gestacional, Neonatal e Infantil e dá outras providências.

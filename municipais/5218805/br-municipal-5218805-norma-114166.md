@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.721, de 2025-11-19
-
 LEI Nº 7.721, DE 31 DE OUTUBRO DE 2025.
 
 Altera a Lei nº 5.990, de 20 de setembro de 2011, que institui o Programa “Lar Solidário”.

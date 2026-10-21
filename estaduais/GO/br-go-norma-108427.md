@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 22, de 2024-01-30
-
 Portaria Orçamentária nº 22/2024 - ECONOMIA
 
 A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no Processo 202320920001534, e nos termos do art. 1º da [Lei nº 22.477](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108241), de 14 de dezembro de 2023, § 2º do art. 112 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152) e § 2º do art. 167 da Constituição Federal,

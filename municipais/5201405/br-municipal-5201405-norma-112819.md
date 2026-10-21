@@ -1,5 +1,3 @@
-# Decreto Numerado nº 143, de 2026-02-10
-
 DECRETO Nº 143, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua X-45, no Loteamento Jardim Olimpico, no Município de Aparecida de Goiânia.

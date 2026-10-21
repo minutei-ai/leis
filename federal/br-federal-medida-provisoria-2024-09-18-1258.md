@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.258 de 18/09/2024
-
 MEDIDA PROVISÓRIA Nº 1.258, DE 18 DE SETEMBRO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública; do Meio Ambiente e Mudança do Clima; do Desenvolvimento Agrário e Agricultura Familiar; da Defesa; da Integração e do Desenvolvimento Regional; do Desenvolvimento e Assistência Social, Família e Combate à Fome; e dos Povos Indígenas, no valor de R$ 514.474.666,00, para os fins que especifica.

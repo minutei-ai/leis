@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.711, de 2025-06-16
-
 DECRETO Nº 10.711, DE 16 DE JUNHO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

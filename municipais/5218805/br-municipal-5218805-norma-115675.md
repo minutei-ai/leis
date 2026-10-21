@@ -1,5 +1,3 @@
-# Lei Complementar nº 307, de 2023-06-28
-
 LEI COMPLEMENTAR Nº 307, DE 28 DE JUNHO DE 2023
 
 Dispõe sobre o parcelamento do solo para implantação de sítios e chácaras de recreio em Zona Urbana Específica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.917, de 2025-12-04
-
 LEI Nº 23.917, DE 4 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual “Meu Primeiro Emprego”.

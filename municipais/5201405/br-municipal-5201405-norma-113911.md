@@ -1,5 +1,3 @@
-# Decreto Numerado nº 298, de 2024-04-24
-
 DECRETO “N” Nº 298, DE 24 DE ABRIL DE 2024.
 
 Dispõe sobre a concessão de PROGRESSÃO FUNCIONAL de Guardas Civis do município de Aparecida de Goiânia-GO.

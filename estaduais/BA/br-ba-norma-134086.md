@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 006 DE 06 DE DEZEMBRO DE 1991
-
 LEI COMPLEMENTAR Nº 006 DE 06 DE DEZEMBRO DE 1991
 
 Nota: O texto atualizado desta Lei encontra-se disponível no endereço: [www.tcm.ba.gov.br/TCM/DiretorioPublicacao/docs/LeiOrgTCM.pdf](http://www.tcm.ba.gov.br/TCM/DiretorioPublicacao/docs/LeiOrgTCM.pdf)

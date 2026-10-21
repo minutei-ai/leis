@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.565, de 2024-10-31
-
 LEI Nº 7.565, DE 31 DE OUTUBRO DE 2024.
 
 Regulamenta a prestação de Assistência Religiosa nos hospitais públicos e privados do Município de Rio Verde - GO.

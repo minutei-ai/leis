@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.758, de 2025-07-07
-
 DECRETO Nº 1.758, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 28, situado à Rua 4 no Loteamento Setor Rio Vermelho, no Município de Aparecida de Goiânia.

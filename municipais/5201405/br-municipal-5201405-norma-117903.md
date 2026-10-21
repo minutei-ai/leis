@@ -1,5 +1,3 @@
-# Decreto Numerado nº 183, de 2023-03-21
-
 DECRETO “N” Nº 183 DE 21 DE MARÇO DE 2023.
 
 Altera o inciso III, do art. 3º, do Decreto “N” Nº 389, de 26 de maio de 2022.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.113, de 2024-11-26
-
 LEI Nº 23.113, DE 26 DE NOVEMBRO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

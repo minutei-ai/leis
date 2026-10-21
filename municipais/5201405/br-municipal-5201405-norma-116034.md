@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.607, de 2021-05-06
-
 LEI MUNICIPAL Nº 3.607, DE 06 DE MAIO DE 2021.
 
 Institui Programa de atenção à saúde mental das vítimas e familiares das vítimas da COVID-19 no Município de Aparecida de Goiânia –GO e dá outras providencias.

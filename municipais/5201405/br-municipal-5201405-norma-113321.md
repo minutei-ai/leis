@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.300, de 2025-09-24
-
 DECRETO Nº 2.300, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, da Quadra 02, situado às Ruas C-11 e C-2, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

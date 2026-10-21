@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.470, de 2026-07-17
-
 LEI Nº 24.470, DE 17 DE JULHO DE 2026
 
 Declara a aviação agrícola como atividade de relevante interesse social, público e econômico e dá outras providências.

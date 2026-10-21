@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.201, de 2025-01-09
-
 LEI Nº 23.201, DE 9 DE JANEIRO DE 2025
 
 Altera a [Lei nº 23.070](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109913), de 11 de novembro de 2024, que dispõe sobre a concessão do benefício da meia-entrada, para eleitores nomeados para atuar nas eleições gerais ou municipais, plebiscitos e referendos, em espetáculos artístico-culturais e esportivos.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.654, de 2025-03-06
-
 DECRETO Nº 10.654, DE 6 DE MARÇO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

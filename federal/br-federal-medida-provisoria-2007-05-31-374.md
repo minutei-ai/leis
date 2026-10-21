@@ -1,5 +1,3 @@
-# Medida Provisória nº 374 de 31/05/2007
-
 ###MPV-000374-0-000-31-05-2007@@@
 
 MEDIDA PROVISÓRIA Nº 374, DE 31 DE MAIO DE 2007.

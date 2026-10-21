@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.666, de 2025-11-19
-
 DECRETO Nº 2.666, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Conde dos Arcos, no Loteamento Nova Olinda, no Município de Aparecida de Goiânia.

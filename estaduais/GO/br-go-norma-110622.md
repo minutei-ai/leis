@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.369, de 2025-04-25
-
 LEI Nº 23.369, DE 25 DE ABRIL DE 2025
 
 Institui o Estatuto da Pessoa com Obesidade.

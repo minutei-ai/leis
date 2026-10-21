@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.298, de 2022-09-26
-
 LEI N°. 7.298, DE 26 DE SETEMBRO DE 2022
 
 Autoriza o Poder Executivo a indenizar imóveis, correspondente à desapropriação realizada pelo Município.

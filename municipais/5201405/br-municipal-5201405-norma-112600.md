@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.454, de 2025-05-27
-
 DECRETO Nº 1.454, DE 27 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Tereza Sônia Mazzocatto, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

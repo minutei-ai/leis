@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 332, de 2025-12-10
-
 Portaria Orçamentária nº 332/2025 - Economia
 
 A Procuradoria-Geral de Justiça do Estado de Goiás, representada pela Superintendente de Gestão Orçamentária e Compras do Ministério Público do Estado de Goiás, com fundamento na Portaria 202500493517,

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.480, de 2025-10-21
-
 DECRETO Nº 2.480, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Dão Barbosa, no Loteamento Jardim Ipiranga, no Município de Aparecida de Goiânia.

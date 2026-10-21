@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.362, de 2025-04-23
-
 LEI Nº 23.362, DE 23 DE ABRIL DE 2025
 
 Institui o Dia Estadual da Mulher Motociclista.

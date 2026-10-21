@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.318 de 17/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.318, DE 17 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 11.196, de 21 de novembro de 2005](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-11-21;11196), para instituir o Regime Especial de Tributação para Serviços de Datacenter - REDATA, e a [Lei nº 15.211, de 17 de setembro de 2025](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-09-17;15211).

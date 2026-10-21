@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.478, de 2024-06-13
-
 DECRETO Nº 10.478, DE 13 DE JUNHO DE 2024
 
 Altera o [Decreto estadual nº 10.444](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108696/decreto-10444), de 19 de abril de 2024, que dispõe sobre a criação do Comitê de Monitoramento e Avaliação das Despesas - CMA no Poder Executivo do Estado de Goiás.

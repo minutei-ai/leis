@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.280 de 23/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.280, DE 23 DE DEZEMBRO DE 2024
 
 Prorroga o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica - Recine, constante da [Lei nº 13.594, de 5 de janeiro de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-01-05;13594), e os benefícios fiscais previstos no [art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1!art44), e nos [art. 1º](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-07-20;8685!art1) e [art. 1º-A da Lei nº 8.685, de 20 de julho de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-07-20;8685!art1-1).

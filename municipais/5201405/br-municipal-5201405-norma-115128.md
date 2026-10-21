@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.737, de 2023-09-27
-
 LEI MUNICIPAL N° 3.737, DE 27 DE SETEMBRO DE 2023.
 
 Institui e estabelece Política Pública Municipal de Proteção, Inclusão e Acompanhamento Educacional dos Alunos com Epilepsia na Rede de Ensino do Município de Aparecida de Goiânia, e dá outras providências.

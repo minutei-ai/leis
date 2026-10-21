@@ -1,5 +1,3 @@
-# Medida Provisória nº 858 de 23/11/2018
-
 MEDIDA PROVISÓRIA Nº 858, DE 23 DE NOVEMBRO DE 2018
 
 Dispõe sobre a extinção da empresa binacional Alcântara Cyclone Space.

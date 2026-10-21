@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.631, de 2024-04-26
-
 LEI Nº 22.631, DE 26 DE ABRIL DE 2024
 
 Institui o Dia Estadual de Conscientização do Câncer de Pele.

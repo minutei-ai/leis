@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.022, de 2024-10-02
-
 LEI Nº 23.022, DE 2 DE OUTUBRO DE 2024
 
 Altera a [Lei nº 21.116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104378), de 05 de outubro de 2021, que institui a cobrança, a título de compensação financeira, pelo uso de equipamento de monitoração eletrônica por acusado, preso ou condenado no âmbito do Estado de Goiás.

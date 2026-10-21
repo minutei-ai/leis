@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.949, de 2025-12-17
-
 LEI Nº 23.949, DE 17 DE DEZEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio natural goiano e dá outras providências.

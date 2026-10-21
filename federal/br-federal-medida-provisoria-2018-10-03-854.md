@@ -1,5 +1,3 @@
-# Medida Provisória nº 854 de 03/10/2018
-
 MEDIDA PROVISÓRIA Nº 854, DE 3 DE OUTUBRO DE 2018
 
 Dispõe sobre a antecipação do pagamento dos honorários periciais nas ações em que o Instituto Nacional do Seguro Social seja parte e que tramitem nos Juizados Especiais Federais.

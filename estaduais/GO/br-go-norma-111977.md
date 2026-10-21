@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.844, de 2025-12-23
-
 DECRETO Nº 10.844, DE 23 DE DEZEMBRO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Rianápolis/GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.422, de 2025-05-15
-
 LEI Nº 23.422, DE 15 DE MAIO DE 2025
 
 Institui o Dia Estadual da Ortodoxia.

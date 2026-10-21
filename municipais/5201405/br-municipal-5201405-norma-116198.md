@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.551, de 2020-05-05
-
 LEI MUNICIPAL Nº 3.551, DE 05 DE MAIO DE 2020.
 
 Altera a Lei Municipal nº 3.527, de 03 de dezembro de 2019, que Estima a receita e fixa a despesa do Município de Aparecida de Goiânia – Go para o exercício de 2020 e dá outras providências.

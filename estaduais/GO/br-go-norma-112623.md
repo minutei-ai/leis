@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.862, de 2026-01-30
-
 DECRETO Nº 10.862, DE 30 DE JANEIRO DE 2026
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

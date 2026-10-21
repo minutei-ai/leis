@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.689, de 2025-08-21
-
 LEI Nº 7.689, DE 21 DE AGOSTO DE 2025.
 
 Dispõe sobre a assistência à saúde prestada pelo IPARV aos Servidores Municipais de Rio Verde e dá outras providências.

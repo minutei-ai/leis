@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.431, de 2025-05-21
-
 LEI Nº 23.431, DE 21 DE MAIO DE 2025
 
 Facilita o pagamento dos débitos relativos à taxa de licenciamento anual de veículo em atraso.

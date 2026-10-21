@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.016 de 04/01/2000
-
 ###MPV-002016-0-000-04-01-2000@@@
 
 medida provisória Nº 2.016-0, de 4 de janeiro de 2000.

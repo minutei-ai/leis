@@ -1,5 +1,3 @@
-# Medida Provisória nº 848 de 16/08/2018
-
 MEDIDA PROVISÓRIA Nº 848, DE 16 DE AGOSTO DE 2018
 
 Altera a [Lei nº 8.036, de 11 de maio de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036), que dispõe sobre o Fundo de Garantia do Tempo de Serviço, para possibilitar a aplicação de recursos em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde.

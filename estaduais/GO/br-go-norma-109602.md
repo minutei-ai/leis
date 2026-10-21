@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.017, de 2024-09-27
-
 LEI Nº 23.017, DE 27 DE SETEMBRO DE 2024
 
 Institui a Semana Estadual de Orientação sobre a Paralisia Cerebral.

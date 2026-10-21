@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3325, de 2016-07-22
-
 LEI MUNICIPAL 3.325, DE 22 DE JULHO DE 2016.
 
 Dispõe sobre o adicional de produtividade dos servidores ocupantes dos cargos de fiscal do PROCON/ Sistema Municipal de defesa do Consumidor.

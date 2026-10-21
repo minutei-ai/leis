@@ -1,5 +1,3 @@
-# Medida Provisória nº 670 de 10/03/2015
-
 MEDIDA PROVISÓRIA Nº 670, DE 10 DE MARÇO DE 2015
 
 Altera a Lei nº 11.482, de 31 de maio de 2007, para dispor sobre os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física; a Lei nº 7.713, de 22 de dezembro de 1988; e a Lei nº 9.250, de 26 de dezembro de 1995.

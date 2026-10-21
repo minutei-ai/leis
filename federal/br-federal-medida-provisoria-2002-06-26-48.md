@@ -1,5 +1,3 @@
-# Medida Provisória nº 48 de 26/06/2002
-
 ###MPV-000048-0-000-26-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 48, DE 26 DE JUNHO DE 2002

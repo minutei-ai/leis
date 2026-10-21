@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.831, de 2025-12-09
-
 DECRETO Nº 10.831, DE 9 DE DEZEMBRO DE 2025
 
 Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2026. 

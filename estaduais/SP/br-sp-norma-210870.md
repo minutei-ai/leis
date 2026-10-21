@@ -1,5 +1,3 @@
-# Decreto nº 69.489, de 16/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210870)<br>
 
 # DECRETO N° 69.489, DE 16 DE ABRIL DE 2025

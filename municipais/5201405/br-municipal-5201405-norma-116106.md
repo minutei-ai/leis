@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.588, de 2020-11-20
-
 LEI MUNICIPAL N° 3.588, DE 20 DE NOVEMBRO DE 2020.
 
 "Dispõe sobre a denominação da praça OLEGARIO JOSE SANTOS no Bairro Independência, neste Município e da outras providencias”.

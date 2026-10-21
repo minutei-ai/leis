@@ -1,5 +1,3 @@
-# Lei Complementar nº 258, de 2022-08-30
-
 LEI COMPLEMENTAR Nº. 258, DE 30 DE AGOSTO DE 2022.
 
 <br>

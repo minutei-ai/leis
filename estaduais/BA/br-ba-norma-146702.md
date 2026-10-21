@@ -1,5 +1,3 @@
-# LEI Nº 14.914 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.914 DE 27 DE MAIO DE 2025
 
 Dispõe sobre a execução do Hino ao Dois de Julho em todos os eventos esportivos realizados no Estado da Bahia.

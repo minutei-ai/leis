@@ -1,5 +1,3 @@
-# Decreto Numerado nº 370, de 2026-05-13
-
 DECRETO Nº 370, DE 13 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua X-63, no Loteamento Setor Tocantins, no Município de Aparecida de Goiânia.

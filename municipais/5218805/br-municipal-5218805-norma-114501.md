@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.630, de 2025-04-14
-
 LEI Nº 7.630, DE 14 DE ABRIL DE 2025.
 
 Autoriza o Poder Executivo a afetar área pública, inserindo-a no sistema viário do Município.

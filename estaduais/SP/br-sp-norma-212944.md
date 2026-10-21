@@ -1,5 +1,3 @@
-# Decreto nº 70.841, de 01/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212944)<br>
 
 # DECRETO N° 70.841, DE 01 DE SETEMBRO DE 2026

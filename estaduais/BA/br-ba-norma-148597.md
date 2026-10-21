@@ -1,5 +1,3 @@
-# LEI Nº 15.144 DE 07 DE MAIO DE 2026
-
 LEI Nº 15.144 DE 07 DE MAIO DE 2026
 
 Denomina “Teatro Carlos Pitta” o teatro integrante do complexo do Centro de Convenções de Feira de Santana.

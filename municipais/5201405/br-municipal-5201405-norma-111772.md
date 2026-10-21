@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.338, de 2002-12-30
-
 **LEI MUNICIPAL Nº 2.338 , DE 30 DE  DEZEMBRO DE 2002**
 
 Institui a Contribuição para Custeio do Serviço de Iluminação Pública-COSIP.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.068 de 06/09/2021
-
 MEDIDA PROVISÓRIA Nº 1.068, DE 6 DE SETEMBRO DE 2021
 
 Altera a Lei nº 12.965, de 23 de abril de 2014, e a Lei nº 9.610, de 19 de fevereiro de 1998, para dispor sobre o uso de redes sociais.

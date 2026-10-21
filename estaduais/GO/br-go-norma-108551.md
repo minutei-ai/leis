@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.576, de 2024-03-22
-
 LEI Nº 22.576, DE 22 DE MARÇO DE 2024
 
 Altera a [Lei nº 16.897](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88611), de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.

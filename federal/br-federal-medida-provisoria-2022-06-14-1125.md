@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.125 de 14/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.125, DE 14 DE JUNHO DE 2022
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.

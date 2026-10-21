@@ -1,5 +1,3 @@
-# Decreto Numerado nº 515, de 2026-06-25
-
 DECRETO Nº 515, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 06 e 07, situados à Avenida Domingos de Barros Vellasco, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

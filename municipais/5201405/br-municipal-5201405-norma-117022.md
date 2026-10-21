@@ -1,5 +1,3 @@
-# Lei Complementar nº 93, de 2014-08-04
-
 LEI COMPLEMENTAR Nº 93, DE 04 DE AGOSTO DE 2014.
 
 “Altera a Lei Complementar Municipal nº 087, de 24 de junho de 2014, que Autorizou o Chefe do Executivo Municipal a firmar Termo de Cooperação com o Tribunal de Justiça do Estado de Goiás, e dá outras providências.”

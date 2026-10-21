@@ -1,5 +1,3 @@
-# Medida Provisória nº 924 de 13/03/2020
-
 MEDIDA PROVISÓRIA Nº 924, DE 13 DE MARÇO DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Educação e da Saúde, no valor de R$ 5.099.795.979,00, para os fins que especifica.

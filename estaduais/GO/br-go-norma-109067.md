@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.489, de 2024-07-02
-
 DECRETO Nº 10.489, DE 2 DE JULHO DE 2024
 
 Aprova o Regulamento da Procuradoria-Geral do Estado – PGE.

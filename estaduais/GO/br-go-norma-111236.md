@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.649, de 2025-09-09
-
 LEI Nº 23.649, DE 9 DE SETEMBRO DE 2025
 
 Dá denominação ao próprio público que especifica.

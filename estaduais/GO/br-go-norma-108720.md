@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.635, de 2024-04-26
-
 LEI Nº 22.635, DE 26 DE ABRIL DE 2024
 
 Altera a [Lei nº 20.854](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103443), de 29 de setembro de 2020, que institui o selo “Empresa Amiga da Mulher” no âmbito do Estado de Goiás.

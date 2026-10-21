@@ -1,5 +1,3 @@
-# Medida Provisória nº 866 de 20/12/2018
-
 MEDIDA PROVISÓRIA Nº 866, DE 20 DE DEZEMBRO DE 2018
 
 Autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A.

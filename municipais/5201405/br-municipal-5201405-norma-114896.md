@@ -1,5 +1,3 @@
-# Decreto Numerado nº 430, de 2026-05-27
-
 DECRETO Nº 430, DE 27 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Domingas Póvoa Borges, no Loteamento Jardim Dom Bosco - 2ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.672, de 2024-05-09
-
 LEI Nº 22.672, DE 9 DE MAIO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

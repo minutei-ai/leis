@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.026 de 06/01/2021
-
 MEDIDA PROVISÓRIA Nº 1.026, DE 6 DE JANEIRO DE 2021
 
 Dispõe sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.624, de 2025-01-10
-
 DECRETO Nº 10.624, DE 10 DE JANEIRO DE 2025
 
 Altera o [Decreto nº 10.251](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106988/decreto-10251), de 14 de abril de 2023, que estabelece regras e diretrizes para a nomeação aos cargos de provimento em comissão para a atuação nos Escritórios de Projetos Setoriais tratados na [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749/lei-21792) e no [Decreto estadual nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750/decreto-10218), ambos de 16 de fevereiro de 2023.

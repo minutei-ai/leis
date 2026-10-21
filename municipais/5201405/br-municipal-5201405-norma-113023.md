@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.061, de 2025-08-29
-
 DECRETO Nº 2.061, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua B, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

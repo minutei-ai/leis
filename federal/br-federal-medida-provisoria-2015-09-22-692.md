@@ -1,5 +1,3 @@
-# Medida Provisória nº 692 de 22/09/2015
-
 MEDIDA PROVISÓRIA Nº 692, DE 22 DE SETEMBRO DE 2015
 
 Altera a Lei nº 8.981, de 20 de janeiro de 1995, para dispor acerca da incidência de imposto sobre a renda na hipótese de ganho de capital em decorrência da alienação de bens e direitos de qualquer natureza, e a Medida Provisória nº 685, de 21 de julho de 2015, que institui o Programa de Redução de Litígios Tributários - PRORELIT.

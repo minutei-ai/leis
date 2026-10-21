@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.560, de 2024-10-31
-
 LEI Nº 7.560, DE 31 DE OUTUBRO DE 2024.
 
 Cria a Política Municipal de Enfrentamento à Violência Doméstica e Familiar contra a Mulher no Município de Rio Verde - Goiás. A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:

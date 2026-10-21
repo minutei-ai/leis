@@ -1,5 +1,3 @@
-# Lei Complementar nº 454, de 2026-03-23
-
 LEI COMPLEMENTAR Nº 454, DE 23 DE MARÇO DE 2026.
 
 Dispõe sobre prazo para registro de instrumentos de transmissão imobiliária vinculados ao recolhimento do Imposto sobre Transmissão de Bens Imóveis “Inter vivos” - ITBI com alíquota reduzida.

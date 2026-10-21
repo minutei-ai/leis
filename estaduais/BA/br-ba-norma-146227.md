@@ -1,5 +1,3 @@
-# LEI N° 14.860 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.860 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre a inclusão de medidas de conscientização, prevenção e combate à ansiedade, à depressão e ao suicídio, no projeto pedagógico elaborado pelas escolas públicas e privadas de educação básica, no âmbito do Estado da Bahia.

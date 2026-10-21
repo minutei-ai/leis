@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.766, de 2023-12-19
-
 LEI MUNICIPAL Nº 3.766 DE 19 DE DEZEMBRO DE 2023.
 
 “Reconhece como Utilidade Pública Municipal a ‘’Recanto Reviver’’ e dá outras providências”.

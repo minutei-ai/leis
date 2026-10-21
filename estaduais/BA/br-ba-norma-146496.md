@@ -1,5 +1,3 @@
-# LEI Nº 14.888 DE 15 DE ABRIL DE 2025
-
 LEI Nº 14.888 DE 15 DE ABRIL DE 2025
 
 Determina que maio será o mês oficial de combate à endometriose.

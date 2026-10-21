@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.547, de 2020-03-31
-
 LEI MUNICIPAL Nº 3.547, DE 31 DE MARÇO DE 2020.
 
 Autoriza o poder executivo a utilizar recursos financeiros oriundos das receitas do fundo municipal de desenvolvimento ambiental sustentável (fumdas), das multas de trânsito e das outras receitas correntes e dá outras providências.

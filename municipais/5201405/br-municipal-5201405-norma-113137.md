@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.722, de 2025-12-03
-
 DECRETO Nº 2.722, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 06 e 07, situados à Rua H132, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 987 de 30/06/2020
-
 MEDIDA PROVISÓRIA Nº 987, DE 30 DE JUNHO DE 2020
 
 Altera a Lei nº 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional.

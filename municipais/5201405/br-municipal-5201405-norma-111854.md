@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.874, de 2025-12-11
-
 LEI Nº 3.874, DE 11 DE DEZEMBRO DE 2025
 
 Institui o Programa “Adote uma Lixeira” no município de Aparecida de Goiânia, e dá outras providências.

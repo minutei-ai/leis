@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.308, de 2026-05-22
-
 LEI Nº 24.308, DE 22 DE MAIO DE 2026
 
 Concede o título de cidadania que especifica.

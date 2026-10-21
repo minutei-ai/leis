@@ -1,5 +1,3 @@
-# Lei Complementar nº 178, de 2020-02-19
-
 LEI COMPLEMENTAR Nº 178, DE 19 DE FEVEREIRO DE 2020.
 
 Altera a Lei Complementar n. 6.111/2012 – Plano de Cargos, Carreiras e Vencimentos do Quadro Permanente de servidores da área da saúde do Município de Rio Verde-GO.

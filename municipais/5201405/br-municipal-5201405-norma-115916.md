@@ -1,5 +1,3 @@
-# Decreto Numerado nº 520, de 2026-06-25
-
 DECRETO Nº 520, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à 5ª Avenida, no Loteamento Setor Aeroporto Sul, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.377 de 16/07/2026
-
 MEDIDA PROVISÓRIA Nº 1.377, DE 16 DE JULHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, da Advocacia-Geral da União, e de Operações Oficiais de Crédito, no valor de R$ 13.285.000.000,00, para os fins que especifica.

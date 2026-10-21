@@ -1,5 +1,3 @@
-# LEI Nº 14.788 DE 19 DE NOVEMBRO DE 2024
-
 LEI Nº 14.788 DE 19 DE NOVEMBRO DE 2024
 
 Autoriza o Poder Executivo a contratar operação de crédito externo, na forma que indica, e dá outras providências.

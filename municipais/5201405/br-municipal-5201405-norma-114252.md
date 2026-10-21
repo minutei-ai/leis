@@ -1,5 +1,3 @@
-# Decreto Numerado nº 103, de 2024-02-27
-
 DECRETO “N” Nº 103, DE 27 DE FEVEREIRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Nova Cidade, neste município como de Interesse Social.

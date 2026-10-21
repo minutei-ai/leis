@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.740, de 2023-09-28
-
 LEI MUNICIPAL Nº 3.740, DE 28 DE SETEMBRO DE 2023.
 
 Institui a Politica Municipal “Vini Jr” de Combate ao Racismo nos Estádios, Ginásios e Arenas Esportivas na Cidade de Aparecida de Goiânia.

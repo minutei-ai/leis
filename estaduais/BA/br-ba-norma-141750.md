@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 52 DE 29 DE JUNHO DE 2022
-
 LEI COMPLEMENTAR Nº 52 DE 29 DE JUNHO DE 2022
 
 Altera a Lei Complementar nº [34](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-34-de-06-de-fevereiro-de-2009), de 06 de fevereiro de 2009, e dá outras providências.

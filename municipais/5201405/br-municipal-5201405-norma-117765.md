@@ -1,5 +1,3 @@
-# Decreto Numerado nº 37, de 2023-01-19
-
 DECRETO “N” Nº 37 DE 19 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL SOLAR GARDEN II, neste município.

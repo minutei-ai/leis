@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.629, de 2025-03-24
-
 LEI Nº 7.629, DE 24 DE MARÇO DE 2025.
 
 Dispõe sobre o recebimento de doações, sem ônus ou encargos, de bens móveis e de serviços efetuadas por pessoas físicas ou jurídicas de direito privado pelos órgãos e entidades da Administração Pública Direta e Indireta Municipal, como também de patrocínios de pessoas físicas ou jurídicas de direito privado a projetos ou eventos públicos promovidos pela Administração Pública Direta e Indireta do Município de Rio Verde.

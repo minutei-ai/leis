@@ -1,5 +1,3 @@
-# Medida Provisória nº 368 de 04/05/2007
-
 ###MPV-000368-0-000-04-05-2007@@@
 
 MEDIDA PROVISÓRIA Nº 368, DE 4 DE MAIO DE 2007.

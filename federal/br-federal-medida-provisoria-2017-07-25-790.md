@@ -1,5 +1,3 @@
-# Medida Provisória nº 790 de 25/07/2017
-
 MEDIDA PROVISÓRIA Nº 790, DE 25 DE JULHO DE 2017
 
 Altera o [Decreto-Lei nº 227, de 28 de fevereiro de 1967](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1967-02-28;227) - Código de Mineração, e a [Lei nº 6.567, de 24 de setembro de 1978](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1978-09-24;6567), que dispõe sobre regime especial para exploração e aproveitamento das substâncias minerais que especifica e dá outras providências.

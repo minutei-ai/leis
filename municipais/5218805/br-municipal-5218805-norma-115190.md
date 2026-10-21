@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.458, de 2023-12-22
-
 LEI Nº 7.458, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a Lei n° 5.907/2011, que define as obrigações de pequeno valor para fins de pagamento por RPV.

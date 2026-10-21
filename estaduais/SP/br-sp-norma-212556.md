@@ -1,5 +1,3 @@
-# Decreto nº 70.586, de 08/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212556)<br>
 
 # DECRETO N° 70.586, DE 08 DE MAIO DE 2026

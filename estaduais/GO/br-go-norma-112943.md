@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.095, de 2026-02-13
-
 LEI Nº 24.095, DE 13 DE FEVEREIRO DE 2026
 
 Institui o Dia Estadual das Artes Marciais e dos Esportes de Combate.

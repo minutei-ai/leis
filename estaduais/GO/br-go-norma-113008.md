@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.104, de 2026-02-19
-
 LEI Nº 24.104, DE 18 DE FEVEREIRO DE 2026
 
 Institui o Dia Estadual do Arquivista.

@@ -1,5 +1,3 @@
-# LEI Nº 15.075 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.075 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Encontro de Ministros Evangélicos de Conquista - EMEC, com sede e foro no município de Vitória da Conquista.

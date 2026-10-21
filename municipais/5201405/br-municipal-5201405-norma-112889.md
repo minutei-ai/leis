@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.899, de 2025-08-05
-
 DECRETO Nº 1.899, DE 5 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Avenida C - 4, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

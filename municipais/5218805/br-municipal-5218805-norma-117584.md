@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.123, de 2021-02-19
-
 LEI Nº 7.123, DE 19 DE FEVEREIRO DE 2021.
 
 Autoriza a aquisição de imóvel que menciona.

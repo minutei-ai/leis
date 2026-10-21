@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.861, de 2026-05-19
-
 LEI Nº 7.861, DE 19 DE MAIO DE 2026.
 
 Estabelece diretrizes gerais para ações de conscientização sobre segurança digital voltadas à população idosa no Município de Rio Verde – GO e dá outras providências.

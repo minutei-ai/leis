@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.819, de 2025-11-28
-
 DECRETO Nº 10.819 DE 28 DE NOVEMBRO DE 2025
 
 Regulamenta, na administração pública estadual direta e indireta, a elaboração, a implantação, a gestão e a execução de projetos de rede de conectividade pública que utilizem tecnologia Wi-Fi (indoor e outdoor).

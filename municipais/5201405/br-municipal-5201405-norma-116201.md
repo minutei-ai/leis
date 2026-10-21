@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.552, de 2020-05-06
-
 LEI MUNICIPAL Nº 3.552, DE 06 DE MAIO DE 2020.
 
 Altera, acrescenta e revoga artigos a que especifica, da Lei Municipal Nº 3.046, de 26 de Junho de 2012, que institui o serviço de transporte de passageiros, “moto taxista” e o transporte de mercadorias, “motoboy”, com o uso de motocicleta no Município de Aparecida de Goiânia – Goiás e dá outras providências.

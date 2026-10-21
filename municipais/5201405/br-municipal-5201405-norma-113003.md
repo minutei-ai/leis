@@ -1,5 +1,3 @@
-# Decreto Numerado nº 152, de 2026-02-19
-
 DECRETO Nº 152, DE 19 DE FEVEREIRO DE 2026
 
 Revoga o Decreto “N” nº 181, de 08 de maio de 2019, que remembra e desmembra imóveis situados no loteamento CHÁCARAS SÃO PEDRO do Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1085, de 2024-12-12
-
 DECRETO “N” Nº 1085 DE 12 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

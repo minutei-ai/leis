@@ -1,5 +1,3 @@
-# LD Nº 67 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 67 DE 01 DE JUNHO DE 1983
 
 Reorganiza a Secretaria da Educação e Cultura e dá outras providências.

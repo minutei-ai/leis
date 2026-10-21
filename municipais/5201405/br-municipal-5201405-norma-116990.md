@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.277, de 2015-10-13
-
 LEI MUNICIPAL Nº 3.277, DE 13 DE OUTUBRO DE 2015.
 
 “Altera a Lei Municipal n° 3.254, de 29 de dezembro de 2014, que dispõe sobre a aprovação do Loteamento de Interesse Social – Residencial Miramar, neste Município e dá Outras Providências”

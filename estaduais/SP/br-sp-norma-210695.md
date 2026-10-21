@@ -1,5 +1,3 @@
-# Decreto nº 69.398, de 07/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210695)<br>
 
 # DECRETO N° 69.398, DE 07 DE MARÇO DE 2025

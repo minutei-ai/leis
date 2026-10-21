@@ -1,5 +1,3 @@
-# Lei Complementar nº 54, de 2015-12-22
-
 **LEI COMPLEMENTAR Nº 54, DE 22 DE DEZEMBRO DE 2015.**
 
 Altera a redação do Código de Posturas e dá outras providências.

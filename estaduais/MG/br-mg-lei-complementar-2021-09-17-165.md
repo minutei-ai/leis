@@ -1,5 +1,3 @@
-# LCP nº 165, de 17/09/2021
-
 Estabelece regras gerais para a concessão de licença-paternidade aos servidores públicos e aos militares do Estado.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

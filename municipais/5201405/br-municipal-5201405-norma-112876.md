@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.870, de 2025-12-29
-
 DECRETO Nº 2.870, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua C-12, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

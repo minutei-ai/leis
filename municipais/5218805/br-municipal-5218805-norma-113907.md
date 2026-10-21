@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.812, de 2026-02-19
-
 LEI Nº 7.812, DE 19 DE FEVEREIRO DE 2026.
 
 Reestrutura o Conselho Municipal de Segurança Alimentar e Nutricional - Consea Municipal, cria a Conferência Municipal de Segurança Alimentar e Nutricional - Comsan Municipal e a Câmara Intersetorial de Segurança Alimentar e Nutricional - Caisan Municipal, no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional - Sisan. 

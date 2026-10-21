@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.948, de 2024-08-26
-
 LEI Nº 22.948, DE 26 DE AGOSTO DE 2024
 
 Institui o Dia Estadual do Nutricionista.

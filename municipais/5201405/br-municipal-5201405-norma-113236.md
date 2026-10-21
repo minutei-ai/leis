@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.450, de 2025-10-15
-
 DECRETO Nº 2.450, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos lotes 17 e 18, da Quadra 06, situados à Rua C-10, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

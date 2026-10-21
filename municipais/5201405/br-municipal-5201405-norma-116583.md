@@ -1,5 +1,3 @@
-# Lei Complementar nº 151, de 2018-10-04
-
 LEI COMPLEMENTAR N° 151, DE 04 DE OUTUBRO DE 2018
 
 Dispõe sobre isenção de contrapartida financeira de Outorga Onerosa do Direito de Construir, referente à construção do novo Fórum no Jardim Maria Inês, e dá outras providências.

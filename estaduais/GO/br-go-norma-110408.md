@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.243, de 2025-01-24
-
 LEI Nº 23.243, DE 24 DE JANEIRO DE 2025
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

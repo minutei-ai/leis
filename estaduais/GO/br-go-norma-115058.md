@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.919, de 2026-06-02
-
 DECRETO Nº 10.919, DE 2 DE JUNHO DE 2026
 
 Decreta luto oficial.

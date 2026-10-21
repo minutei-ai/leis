@@ -1,5 +1,3 @@
-# Decreto Numerado nº 216, de 2023-04-05
-
 DECRETO “N” Nº 216 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM DAS ACÁCIAS, neste município.

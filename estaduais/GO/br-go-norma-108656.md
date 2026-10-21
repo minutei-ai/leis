@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.435, de 2024-04-09
-
 DECRETO Nº 10.435, DE 9 DE ABRIL DE 2024
 
 Reduz o interstício que especifica.

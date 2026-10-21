@@ -1,5 +1,3 @@
-# Decreto Numerado nº 539, de 2026-09-21
-
 DECRETO Nº 539, DE 21 DE SETEMBRO DE 2026
 
 Fixa o período para adesão ao Programa de Recuperação Fiscal – REFIS/PMAG no exercício de 2026 e disciplina os procedimentos para sua operacionalização.

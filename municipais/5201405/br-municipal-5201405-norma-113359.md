@@ -1,5 +1,3 @@
-# Decreto Numerado nº 157, de 2026-02-26
-
 DECRETO Nº 157, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Barata Ribeiro, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

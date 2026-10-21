@@ -1,5 +1,3 @@
-# Decreto Numerado nº 302, de 2026-04-16
-
 DECRETO Nº 302, DE 16 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 05, 06 e 32, situados à Rua JI-51 e Rua JI-52, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

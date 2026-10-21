@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.575, de 2024-03-22
-
 LEI Nº 22.575, DE 22 DE março DE 2024
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás – CTE.

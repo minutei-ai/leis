@@ -1,5 +1,3 @@
-# Lei Complementar nº 207, de 2023-04-14
-
 LEI COMPLEMENTAR Nº 207, DE 14 DE ABRIL DE 2023.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

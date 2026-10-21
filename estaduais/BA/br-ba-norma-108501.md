@@ -1,5 +1,3 @@
-# LD Nº 52 DE 31 DE MAIO DE 1983
-
 LEI DELEGADA Nº 52 DE 31 DE MAIO DE 1983
 
 Dispõe sobre a proteção dos arquivos públicos e privados, e dá outras providências.

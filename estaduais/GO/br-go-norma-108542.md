@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.569, de 2024-03-15
-
 LEI Nº 22.569, DE 15 DE MARÇO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 202, de 2025-02-20
-
 LEI COMPLEMENTAR Nº 202, DE 20 DE FEVEREIRO DE 2025
 
 Altera a [Lei Complementar nº 169](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104731), de 29 de dezembro de 2021, que reformula e disciplina a Rede Metropolitana de Transporte Coletivo da Grande Goiânia, também reestrutura a Câmara Deliberativa de Transportes Coletivos e a Companhia Metropolitana de Transportes Coletivos.

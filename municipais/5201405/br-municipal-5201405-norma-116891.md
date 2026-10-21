@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3334, de 2016-10-21
-
 LEI MUNICIPAL 3.334, DE 21 DE OUTUBRO DE 2016.
 
 “Dá nome de Centro Municipal de Educação Infantil – CMEI JOESLENE MARTINS SILVA ROSA, construído na Área Pública Municipal 02, localizada na confluência das Ruas MG-13 esquina com Alameda João Reis, Setor Madre Germana I, Aparecida de Goiânia – GO, e dá outras providências.”

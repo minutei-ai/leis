@@ -1,5 +1,3 @@
-# Decreto Numerado nº 213, de 2023-04-05
-
 DECRETO “N” Nº 213 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL SOLAR CETRAL PARK, neste município.

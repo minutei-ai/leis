@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.050, de 2025-08-25
-
 DECRETO Nº 2.050, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, da quadra 58, situado à Rua Arco Verde, no Loteamento Setor Aeroporto Sul 2º Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.768, de 2023-12-22
-
 LEI MUNICIPAL Nº 3.768, DE 22 DE DEZEMBRO DE 2023
 
 Institui o Dia Municipal da Advocacia Familiarista no município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LEI Nº 15.050 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.050 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Governador Mangabeira, com sede e foro no município de Governador Mangabeira.

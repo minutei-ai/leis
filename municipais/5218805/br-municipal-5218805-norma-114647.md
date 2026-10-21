@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.176, de 2021-10-05
-
 LEI N° 7.176, DE 05 DE OUTUBRO DE 2021.
 
 Altera a [Lei n. 7.143](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114650 "Abrir Lei Ordinária nº 7143, de 2021 em nova aba")/2021 que dispõe sobre a Regularização Fundiária de Núcleos Urbanos no Município de Rio Verde e dá outras providências

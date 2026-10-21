@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.838, de 2025-06-16
-
 LEI Nº 3.838, DE 16 DE JUNHO DE 2025
 
 Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária do Município de Aparecida de Goiânia para o exercício de 2026.

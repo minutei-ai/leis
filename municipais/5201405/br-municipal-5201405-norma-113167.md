@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.643, de 2025-11-13
-
 DECRETO Nº 2.643, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento da APM Área de Lazer, situado à Alameda Jovita Frias, esquina com a Rua Tito Livio e a Rua Rômulo e Remo, no Loteamento Villa Romana, no Município de Aparecida de Goiânia.

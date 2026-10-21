@@ -1,5 +1,3 @@
-# Decreto Numerado nº 715, de 2024-09-02
-
 DECRETO “N” Nº 715 DE 02 DE SETEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

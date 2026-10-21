@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.186, de 2026-03-30
-
 LEI Nº 24.186, DE 30 DE MARÇO DE 2026
 
 Institui o Programa Estudantes de Atitude como política pública de promoção da participação social, da cidadania ativa e da integridade na rede pública de ensino do Estado de Goiás.

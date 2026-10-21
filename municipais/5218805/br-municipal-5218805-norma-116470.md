@@ -1,5 +1,3 @@
-# Lei Complementar nº 222, de 2021-09-02
-
 LEI COMPLEMENTAR Nº 222, DE 02 DE SETEMBRO DE 2021
 
   <br>

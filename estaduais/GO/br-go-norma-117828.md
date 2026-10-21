@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.562, de 2026-09-30
-
 LEI Nº 24.562, DE 30 DE SETEMBRO DE 2026
 
 Autoriza a aquisição, por doação onerosa do Município de São Domingos/GO, do imóvel que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.141 de 23/03/2001
-
 ###MPV-002141-0-000-23-03-2001@@@
 
 MEDIDA PROVISÓRIA Nº 2.141, DE 23 DE MARÇO DE 2001

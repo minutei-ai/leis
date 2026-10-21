@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.802, de 2024-06-21
-
 LEI Nº 22.802, DE 21 DE JUNHO DE 2024
 
 Dá denominação ao próprio público que especifica.

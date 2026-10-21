@@ -1,5 +1,3 @@
-# Decreto Numerado nº 411, de 2024-05-29
-
 DECRETO “N” Nº 411 DE 29 DE MAIO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 754, de 16 de setembro de 2024).
 

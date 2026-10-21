@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.249 de 02/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.249, DE 2 DE AGOSTO DE 2024
 
 Altera a [Lei nº 14.902, de 27 de junho de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-06-27;14902), que institui o Programa Mobilidade Verde e Inovação - Programa Mover.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 13, de 2024-01-16
-
 DECRETO “N” Nº 13 DE 16 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

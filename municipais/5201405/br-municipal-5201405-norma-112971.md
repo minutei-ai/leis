@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.879, de 2025-12-29
-
 DECRETO Nº 2.879, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua Alagoas, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

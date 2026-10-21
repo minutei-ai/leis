@@ -1,5 +1,3 @@
-# Lei Complementar nº 374, de 2025-01-07
-
 LEI COMPLEMENTAR Nº 374, DE 7 DE JANEIRO DE 2025.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, para criar a Secretaria Municipal de Ciência, Tecnologia e Inovação e a Secretaria Municipal de Desenvolvimento e Mobilidade Urbana, e dá outras providências.

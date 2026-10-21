@@ -1,5 +1,3 @@
-# LEI Nº 14.808 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.808 DE 26 DE DEZEMBRO DE 2024
 
 Altera o art. 2º da Lei nº [14.766](https://www.legislabahia.ba.gov.br/documentos/lei-no-14766-de-21-de-agosto-de-2024), de 21 de agosto de 2024, na forma que indica.

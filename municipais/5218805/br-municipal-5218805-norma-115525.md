@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.855, de 2026-05-19
-
 LEI Nº 7.855, de 19 de maio de 2026..
 
 Altera a Lei nº 6.275, de 10 de junho de 2013, que reformula o sistema de estacionamento rotativo em Rio Verde.

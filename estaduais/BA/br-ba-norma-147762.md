@@ -1,5 +1,3 @@
-# LEI Nº 14.995 DE 08 DE OUTUBRO DE 2025
-
 LEI Nº 14.995 DE 08 DE OUTUBRO DE 2025
 
 Altera a estrutura de cargos em comissão da Secretaria da Segurança Pública - SSP, na forma que indica, e dá outras providências.

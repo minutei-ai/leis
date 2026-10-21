@@ -1,5 +1,3 @@
-# Decreto Numerado nº 321, de 2026-04-28
-
 DECRETO Nº 321, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua Durval Lemes Borges, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

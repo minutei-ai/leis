@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.922, de 2026-06-08
-
 DECRETO Nº 10.922, DE 8 DE JUNHO DE 2026
 
 Autoriza a Procuradoria-Geral do Estado a exercer a representação judicial e a consultoria jurídica da Goiás Tecnologia S/A – GOIASTECNOLOGIA.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.740, de 2025-11-12
-
 LEI Nº 7.740, DE 12 DE NOVEMBRO DE 2025.
 
 Institui o “Dia Municipal do Agricultor”, a ser comemorado anualmente, na última sexta-feira de julho.

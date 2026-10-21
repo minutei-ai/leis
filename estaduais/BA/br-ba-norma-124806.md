@@ -1,5 +1,3 @@
-# LD Nº 68 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 68 DE 03 DE JUNHO DE 1983
 
 Dispõe sobre a reorganização da Empresa Gráfica da Bahia - EGBA e dá outras providências.

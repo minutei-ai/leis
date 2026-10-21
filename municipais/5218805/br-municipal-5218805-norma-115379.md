@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.375, de 2023-06-28
-
 LEI Nº 7.375, DE 28 DE JUNHO DE 2023.
 
 Dispõe sobre a obrigatoriedade das concessionárias de veículos instaladas no município de Rio Verde afixarem, em local visível, à lista de doenças, deficiência e necessidade especiais que permitam a compra de veículos com desconto decorrentes da isenção de impostos e da outras providências.

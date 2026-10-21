@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.848, de 2018-05-30
-
 **LEI Nº 6.848, DE 30 DE MAIO DE 2018**
 
 <br>

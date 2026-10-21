@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.224, de 2025-01-14
-
 LEI Nº 23.224, DE 14 DE JANEIRO DE 2025
 
 <br>

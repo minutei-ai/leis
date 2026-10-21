@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.065, de 2025-08-29
-
 DECRETO Nº 2.065, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Otacilio Alves de Andrade, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

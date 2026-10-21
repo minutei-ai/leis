@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.666, de 2025-06-30
-
 LEI Nº 7.666, DE 30 DE JUNHO DE 2025.
 
 Autoriza a concessão de licença remunerada a docente para cursar doutorado.

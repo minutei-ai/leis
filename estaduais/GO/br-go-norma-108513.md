@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.419, de 2024-03-08
-
 DECRETO Nº 10.419, DE 8 DE MARÇO DE 2024
 
 Altera o [Decreto estadual nº 10.407](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108459), de 5 de fevereiro de 2024, que declara situação de emergência, no âmbito do território estadual, nos Municípios de Acreúna, Amorinópolis, Araguapaz, Arenópolis, Baliza, Bom Jardim de Goiás, Britânia, Caiapônia, Diorama, Guarani de Goiás, Iporá, Israelândia, Ivolândia, Jaupaci, Moiporá, Montes Claros de Goiás, Mozarlândia, Nova Crixás, Palestina de Goiás, Paraúna, Piranhas, Porangatu, Quirinópolis, Santa Helena de Goiás e Turvelândia, em razão dos desastres classificados e codificados como Estiagem – Período prolongado de baixa ou nenhuma pluviosidade, em que a perda de umidade do solo é superior à sua reposição – COBRADE 1.4.1.1.0.

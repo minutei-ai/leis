@@ -1,5 +1,3 @@
-# Lei Complementar nº 296, de 2023-04-28
-
 LEI COMPLEMENTAR Nº 296, DE 28 DE ABRIL DE 2023
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.580, de 2025-08-19
-
 LEI Nº 23.580, DE 19 DE AGOSTO DE 2025
 
 Abre crédito especial ao Fundo de Manutenção e Reaparelhamento da Defensoria Pública do Estado de Goiás – FUNDEPEG.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.738, de 2025-11-12
-
 LEI Nº 7.738, DE 12 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal de Conscientização sobre a Endometriose no Município de Rio Verde-GO e dá outras providências. 

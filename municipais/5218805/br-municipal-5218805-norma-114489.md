@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.235, de 2006-12-26
-
 LEI COMPLEMENTAR Nº 5.235, DE 26 DE DEZEMBRO DE 2006.
 
 Altera a Lei n. 3.635/98, Código de Posturas.

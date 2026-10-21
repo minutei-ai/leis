@@ -1,5 +1,3 @@
-# Lei nº 18.164, de 08/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211154)<br>
 
 # LEI N° 18.164, DE 08 DE JULHO DE 2025

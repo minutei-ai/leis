@@ -1,5 +1,3 @@
-# Decreto nº 70.413, de 02/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212293)<br>
 
 # DECRETO N° 70.413, DE 02 DE MARÇO DE 2026

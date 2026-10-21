@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.636, de 2025-06-23
-
 DECRETO Nº 1.636, DE 23 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua C-7 no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

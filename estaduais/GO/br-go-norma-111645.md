@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.888, de 2025-12-01
-
 LEI Nº 23.888, DE 1º DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

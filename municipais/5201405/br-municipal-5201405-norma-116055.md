@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.521, de 2005-08-05
-
 LEI MUNICIPAL N.º 2.521, DE 05 DE AGOSTO DE 2005.
 
 "Altera redação do art. 79, da Lei Municipal nº 1.353, de 24 de março de 1994."

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 500, de 2026-06-18
-
 DECRETO Nº 500, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento dos Lotes APM 10A, APM 10B, APM 10C e APM 10D, situados à Rua 06, Rua 07 e Rua 09, no Loteamento Jardim Tiradentes, no Município de Aparecida de Goiânia.

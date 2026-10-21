@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.667, de 2025-09-16
-
 LEI Nº 23.667, DE 16 DE SETEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Fenashow, realizada no Município de Pontalina/GO.

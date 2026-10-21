@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.716, de 2025-09-30
-
 LEI Nº 23.716, DE 30 DE SETEMBRO DE 2025
 
 Institui o Dia Estadual do Médico-Veterinário.

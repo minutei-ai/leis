@@ -1,5 +1,3 @@
-# Decreto nº 69.419, de 19/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210746)<br>
 
 # DECRETO N° 69.419, DE 19 DE MARÇO DE 2025

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.859, de 2026-05-19
-
 LEI Nº 7.859, DE 19 DE MAIO DE 2026.
 
 Institui no âmbito do Município de Rio Verde – Goiás o Dezembro Vermelho, dedicado à prevenção, conscientização e combate ao HIV/AIDS e outras Infecções Sexualmente Transmissíveis (ISTs), e dá outras providências.

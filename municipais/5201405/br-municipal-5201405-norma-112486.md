@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.293, de 2025-04-24
-
 DECRETO Nº 1.293, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais no dia 2 de maio de 2025.

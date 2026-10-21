@@ -1,5 +1,3 @@
-# Decreto Numerado nº 381, de 2023-06-13
-
 DECRETO “N” Nº 381 DE 13 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no loteamento ALL PARK POLO EMPRESARIAL, neste município.

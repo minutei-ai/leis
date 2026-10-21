@@ -1,5 +1,3 @@
-# LD Nº 03 DE 01 DE SETEMBRO DE 1971
-
 LEI DELEGADA Nº 03 DE 01 DE SETEMBRO DE 1971
 
 Majora os vencimentos dos membros da Magistratura, do Ministério Público da Justiça Militar, dos Conselheiros do Tribunal de Contas e dá outras providências.

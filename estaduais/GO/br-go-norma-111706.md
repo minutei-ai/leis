@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.916, de 2025-12-04
-
 LEI Nº 23.916, DE 4 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual de Incentivo ao Consumo Consciente e à Logística Reversa Digital.

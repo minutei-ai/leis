@@ -1,5 +1,3 @@
-# Decreto nº 70.636, de 21/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212649)<br>
 
 # DECRETO N° 70.636, DE 21 DE MAIO DE 2026

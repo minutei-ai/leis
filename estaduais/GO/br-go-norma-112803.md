@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.083, de 2026-02-10
-
 LEI Nº 24.083, DE 10 DE FEVEREIRO DE 2026
 
 Confere ao Município de Três Ranchos/GO o título de Capital Goiana do Turismo Náutico.

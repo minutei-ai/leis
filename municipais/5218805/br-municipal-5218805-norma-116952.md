@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.878, de 2026-06-17
-
 LEI Nº 7.878, DE 17 DE JUNHO DE 2026.
 
 Dispõe sobre a desafetação e o parcelamento de solo para fins de loteamento industrial no Município de Rio Verde, visando à sua integração à programas de desenvolvimento econômico.

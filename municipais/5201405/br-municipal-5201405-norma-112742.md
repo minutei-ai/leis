@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.790, de 2024-07-03
-
 LEI MUNICIPAL Nº 3.790, DE 03 DE JULHO DE 2024.
 
 Dispõe sobre o horário de funcionamento dos radares eletrônicos nos semáforos do município de Aparecida de Goiânia e estabelece a não incidência de multa por avançar o semáforo com indicação de sinal vermelho fora do horário estabelecido.

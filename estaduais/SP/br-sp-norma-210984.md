@@ -1,5 +1,3 @@
-# Decreto nº 69.563, de 27/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210984)<br>
 
 # DECRETO N° 69.563, DE 27 DE MAIO DE 2025

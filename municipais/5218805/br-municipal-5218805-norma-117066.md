@@ -1,5 +1,3 @@
-# Lei Complementar nº 310, de 2023-08-28
-
 LEI COMPLEMENTAR N° 310, DE 28 DE AGOSTO DE 2023
 
 Altera a Lei Complementar nº 182, de 6 de maio de 2020

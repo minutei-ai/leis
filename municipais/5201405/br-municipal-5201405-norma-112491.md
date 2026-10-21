@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.317, de 2025-05-08
-
 DECRETO Nº 1.317, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Edilberto Veiga Jardim no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

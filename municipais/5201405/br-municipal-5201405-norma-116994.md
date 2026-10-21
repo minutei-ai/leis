@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.281, de 2015-10-13
-
 LEI MUNICIPAL Nº 3.281, DE 13 DE OUTUBRO DE 2015.
 
 Dá nome a Unidade Básica de Saúde-UBS, situado no Bairro Ilda, neste município.

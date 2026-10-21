@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.681, de 2024-05-10
-
 LEI Nº 22.681, DE 10 DE MAIO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.115, de 2025-09-01
-
 DECRETO Nº 2.115, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 33, situado à Avenida Edson Olegário, no Loteamento Jardim Dom Bosco, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.220 de 15/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.220, DE 15 DE MAIO DE 2024
 
 Cria a Secretaria Extraordinária da Presidência da República para Apoio à Reconstrução do Rio Grande do Sul.

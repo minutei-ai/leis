@@ -1,5 +1,3 @@
-# Lei Complementar nº 190, de 2020-06-29
-
 LEI COMPLEMENTAR Nº 190, DE 29 DE JUNHO DE 2020
 
 Restabelece uma unidade do cargo de motorista de veículos pesados.

@@ -1,5 +1,3 @@
-# LD Nº 29 DE 03 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 29 DE 03 DE MARÇO DE 1983
 
 Cria o Centro de Estatística e Informações - CEI e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.436, de 2024-04-09
-
 DECRETO Nº 10.436, DE 9 DE ABRIL DE 2024
 
 Altera o [Decreto estadual nº 10.070](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105394), de 12 de abril de 2022, que aprova o Regulamento da [Lei estadual nº 20.947](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103674), de 30 de dezembro de 2020, que institui o Passaporte Equestre.

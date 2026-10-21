@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.832, de 2025-12-09
-
 DECRETO Nº 10.832, DE 9 DE DEZEMBRO DE 2025
 
 Prorroga a vigência do Programa Dignidade para o exercício de 2026. 

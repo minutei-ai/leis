@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.449, de 2018-12-18
-
 LEI Nº 3.449, DE 18 DE DEZEMBRO DE 2018
 
 Altera a Lei nº 3.385, de 30 de outubro de 2017, que dispõe sobre o Plano Plurianual para o quadriênio 2018 - 2021 e dá outras providências.

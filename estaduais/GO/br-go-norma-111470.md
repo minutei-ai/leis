@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.805, de 2025-10-28
-
 DECRETO Nº 10.805, DE 28 DE OUTUBRO DE 2025.
 
 Regulamenta a [Lei Complementar nº 33](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101012 "Abrir Lei Complementar nº 33, de 2001 em nova aba"), de 1º de agosto de 2001, e estabelece normas para a elaboração, a redação, a alteração e a consolidação de atos normativos no Poder Executivo estadual.

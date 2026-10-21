@@ -1,5 +1,3 @@
-# Decreto Numerado nº 49, de 2026-01-14
-
 DECRETO Nº 049, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Avenida Uru e Rua Cinelândia, no Loteamento Setor dos Afonsos, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.587, de 2024-12-16
-
 LEI Nº 7.587, DE 16 DE DEZEMBRO DE 2024.
 
 Cria Comenda que menciona.

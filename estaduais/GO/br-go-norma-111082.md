@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.575, de 2025-07-11
-
 LEI Nº 23.575, DE 11 DE JULHO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

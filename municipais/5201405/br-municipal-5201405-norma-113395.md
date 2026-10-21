@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.218, de 2025-09-12
-
 DECRETO Nº 2.218, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Gonçalo Bezerra Lima, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

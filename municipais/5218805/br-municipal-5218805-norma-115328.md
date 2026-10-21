@@ -1,5 +1,3 @@
-# Lei Ordinária nº ., de 2023-08-28
-
 LEI N°. 7.394, DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre transação e parcelamento de débitos decorrentes de multas ambientais lavradas pela Secretaria de Meio Ambiente do Município de Rio Verde e dá outras providências.

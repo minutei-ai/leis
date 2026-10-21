@@ -1,5 +1,3 @@
-# Lei Complementar nº 394, de 2025-08-21
-
 LEI COMPLEMENTAR Nº 394, DE 21 DE AGOSTO DE 2025.
 
 Caracteriza como Zona Urbana Específica, o imóvel rural transcrito no Cartório de Registro de Imóveis – CRI local na matrícula nº 113.941, denominado de Fazenda São Tomaz – Abóboras e São Tomaz, e altera as Leis Complementares nº 223, de 2 de setembro de 2021, nº 225, de 5 de outubro de 2021, nº 226, de 5 de outubro de 2021, nº 341, de 25 de março de 2024, e nº 342, de 25 de março de 2024.

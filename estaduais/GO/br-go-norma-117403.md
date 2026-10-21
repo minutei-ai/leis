@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.539, de 2026-09-16
-
 LEI Nº 24.539, DE 16 DE SETEMBRO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

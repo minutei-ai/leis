@@ -1,5 +1,3 @@
-# Lei Complementar nº 240, de 2025-06-13
-
 LEI COMPLEMENTAR Nº 240, DE 13 DE junho DE 2025
 
 Altera a Lei Complementar nº 144, de 8 de agosto de 2018 para incluir os servidores admitidos por contratos temporários no Regime Especial de Trabalho instituído na Secretaria Municipal de Educação.

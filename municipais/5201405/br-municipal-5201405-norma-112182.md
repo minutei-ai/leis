@@ -1,5 +1,3 @@
-# Decreto Numerado nº 24, de 2026-01-12
-
 DECRETO Nº 024, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua C-38, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 123, de 2016-12-12
-
 LEI COMPLEMENTAR Nº 123, DE 12 DE DEZEMBRO DE 2016
 
 Altera o art. 79, da Lei Complementar Municipal nº 010, de 20 de junho de 2.005, que dispõe sobre a adequação do Regime Próprio de Previdência Social do Município de Aparecida de Goiânia, ás normas introduzidas pela Emenda Constitucional nº 41/03 e dá outras providências.

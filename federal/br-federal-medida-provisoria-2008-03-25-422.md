@@ -1,5 +1,3 @@
-# Medida Provisória nº 422 de 25/03/2008
-
 ###MPV-000422-0-000-25-03-2008@@@
 
 MEDIDA PROVISÓRIA Nº 422, DE 25 DE MARÇO DE 2008.

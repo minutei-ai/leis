@@ -1,5 +1,3 @@
-# Medida Provisória nº 917 de 31/12/2019
-
 MEDIDA PROVISÓRIA Nº 917, DE 31 DE DEZEMBRO DE 2019
 
 Altera a Lei 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 636 de 26/12/2013
-
 MEDIDA PROVISÓRIA Nº  636, DE 26 DE DEZEMBRO DE 2013
 
 Dispõe sobre a liquidação de créditos concedidos aos assentados da reforma agrária, concede remissão nos casos em que especifica e dá outras providências.

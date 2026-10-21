@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 86, de 2025-05-08
-
 EMENDA CONSTITUCIONAL Nº 86, DE 8 DE MAIO DE 2025.
 
 Altera a Constituição do Estado de Goiás.

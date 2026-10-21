@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.475, de 2025-10-17
-
 DECRETO Nº 2.475, DE 17 DE OUTUBRO DE 2025
 
 Autoriza o cancelamento parcial da caução dos lotes em razão das obras do Loteamento Recanto Pinheiros, localizado neste município.

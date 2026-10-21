@@ -1,5 +1,3 @@
-# Decreto Numerado nº 271, de 2026-04-07
-
 DECRETO Nº 271, DE 7 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Conrado de Oliveira, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

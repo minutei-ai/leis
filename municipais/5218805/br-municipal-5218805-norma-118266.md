@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.547, de 2009-02-27
-
 LEI Nº 5.547, DE 27 DE FEVEREIRO DE 2009.
 
 Cria o Programa Bolsa Universitária Complementar a título de auxílio financeiro a ser concedido a estudantes carentes.

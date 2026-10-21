@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.078 de 13/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.078, DE 13 DE DEZEMBRO DE 2021
 
 Dispõe sobre as medidas destinadas ao enfrentamento dos impactos financeiros no setor elétrico decorrentes da situação de escassez hídrica.

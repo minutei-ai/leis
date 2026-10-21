@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.680, de 2003-10-31
-
 <br>
 LEI Nº  4.680, DE 31 DE AGOSTO DE 2003.
 

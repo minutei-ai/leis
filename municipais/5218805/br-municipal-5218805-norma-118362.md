@@ -1,5 +1,3 @@
-# Lei Complementar nº 372, de 2025-01-07
-
 LEI COMPLEMENTAR Nº 372, DE 7 DE JANEIRO DE 2025.
 
 Altera a Lei Complementar nº 5.727, de 11 de dezembro de 2009 - Código Tributário do Município de Rio Verde.

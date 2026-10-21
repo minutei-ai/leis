@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.029, de 2019-12-03
-
 ~~LEI N. 7.023, DE 03 DE DEZEMBRO DE 2019.~~
 
 ~~Altera a Lei 6.684/2017, que dispõe sobre a obrigatoriedade de empresa concessionária de energia elétrica e demais empresas ocupantes a se limitar à ocupação do espaço público dentro das normas aplicáveis)~~

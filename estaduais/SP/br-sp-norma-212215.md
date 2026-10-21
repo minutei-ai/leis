@@ -1,5 +1,3 @@
-# Lei nº 18.396, de 07/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212215)<br>
 
 # LEI N° 18.396, DE 07 DE FEVEREIRO DE 2026

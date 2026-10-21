@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.849, de 2026-01-07
-
 DECRETO Nº 10.849, DE 7 DE JANEIRO DE 2026
 
 Estabelece as diretrizes para o reconhecimento da pessoa com deficiência e da necessidade de cuidados especiais a ela, também regulamenta os critérios e os procedimentos para a fruição do benefício previsto no § 3º do art. 74 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020.

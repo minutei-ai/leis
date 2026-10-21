@@ -1,5 +1,3 @@
-# Lei Complementar nº 212, de 2025-12-30
-
 LEI COMPLEMENTAR Nº 212, DE 30 DE DEZEMBRO DE 2025
 
 Altera a [Lei Complementar nº 169](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104731 "Abrir Lei Complementar nº 169, de 2021 em nova aba"), de 29 de dezembro de 2021, que reformula e disciplina a Rede Metropolitana de Transporte Coletivo da Grande Goiânia, também reestrutura a Câmara Deliberativa de Transportes Coletivos e a Companhia Metropolitana de Transportes Coletivos, e a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

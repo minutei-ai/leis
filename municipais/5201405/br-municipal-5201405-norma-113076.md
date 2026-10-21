@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.758, de 2025-12-08
-
 DECRETO Nº 2.758, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 13, 16, 17 e 18, situados à Rua Ouro Preto e Rua Rio Grande do Norte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

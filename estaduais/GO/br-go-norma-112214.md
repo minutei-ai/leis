@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.038, de 2026-01-14
-
 LEI Nº 24.038, DE 14 DE janeiro DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

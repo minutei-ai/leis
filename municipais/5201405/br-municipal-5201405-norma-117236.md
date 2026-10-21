@@ -1,5 +1,3 @@
-# Decreto Numerado nº 746, de 2024-09-16
-
 DECRETO “N” Nº 746 DE 16 DE SETEMBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

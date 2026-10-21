@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.136, de 2012-05-22
-
 ~~LEI Nº 6.136, DE 22 DE MAIO DE 2012.~~
 
 ~~Dá-se denominação à sede própria do Hospital Materno Infantil e adota outras providências.~~

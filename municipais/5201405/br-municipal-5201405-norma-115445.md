@@ -1,5 +1,3 @@
-# Lei Complementar nº 190, de 2021-12-15
-
 LEI COMPLEMENTAR Nº 190, DE 15 DE DEZEMBRO DE 2021.
 
 “Dispõe sobre a aplicação do Piso Nacional dos Agentes Comunitários de Saúde e dos Agentes de Combate a Endemias da Secretaria Municipal de Saúde de Aparecida de Goiânia, e dá outras providências. ”

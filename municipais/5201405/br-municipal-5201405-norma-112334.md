@@ -1,5 +1,3 @@
-# Decreto Numerado nº 951, de 2025-02-24
-
 DECRETO Nº 951, DE 24 DE FEVEREIRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento de imóveis no Município de Aparecida de Goiânia.

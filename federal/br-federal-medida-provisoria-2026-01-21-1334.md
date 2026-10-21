@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.334 de 21/01/2026
-
 MEDIDA PROVISÓRIA Nº 1.334, DE 21 DE JANEIRO DE 2026
 
 Altera a [Lei nº 11.738, de 16 de julho de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-07-16;11738), para dispor sobre o piso salarial profissional nacional para os profissionais do magistério público da educação básica.

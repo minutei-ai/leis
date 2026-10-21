@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.199, de 2025-01-06
-
 LEI Nº 23.199, DE 6 DE JANEIRO DE 2025
 
 Assegura assistência psicológica e atendimento prioritário à gestante na forma e na situação que especifica.

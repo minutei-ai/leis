@@ -1,5 +1,3 @@
-# Lei Complementar nº 201, de 2025-01-24
-
 LEI COMPLEMENTAR Nº 201, DE 24 DE JANEIRO DE 2025
 
 Altera a [Lei Complementar nº 160](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103687), de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor – FUNDEQ.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 858, de 2024-10-14
-
 DECRETO “N” Nº 858 DE 14 DE OUTUBRO DE 2024.
 
 Regulamenta o Programa de Recadastramento Imobiliário Voluntário instituído pela Lei Complementar nº 228, de 09 de janeiro de 2024, e dá outras providências.

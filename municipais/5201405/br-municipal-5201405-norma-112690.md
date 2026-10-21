@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.671, de 2007-09-13
-
 LEI MUNICIPAL N.º 2.671, DE 25 DE JUNHO DE 2007.
 
 Altera a Lei Municipal nº. 2.606/06 - Plano de Cargos e Salários dos Servidores da Secretaria Municipal da Educação e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 857, de 2024-10-10
-
 DECRETO “N” Nº 857, DE 10 DE OUTUBRO DE 2024.
 
 Regulamenta a Gratificação de Produtividade Fiscal a que fazem jus os servidores ocupantes do cargo de Auditor Fiscal Municipal na Área de Saúde Pública e Fiscal de Saúde Pública (servidores fiscais) e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.237, de 2025-01-19
-
 LEI Nº 23.237, DE 19 DE JANEIRO DE 2025
 
 Altera a [Lei nº 15.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023), de 04 de fevereiro de 2005, que institui o Plano de Carreira e o Quadro Permanente dos Servidores do Tribunal de Contas do Estado de Goiás e dá outras providências.

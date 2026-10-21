@@ -1,5 +1,3 @@
-# Decreto nº 70.674, de 09/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212720)<br>
 
 # DECRETO N° 70.674, DE 09 DE JUNHO DE 2026

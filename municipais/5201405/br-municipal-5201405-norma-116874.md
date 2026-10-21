@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.316, de 2016-05-17
-
 LEI MUNICIPAL Nº 3.316 DE 17 DE MAIO DE 2016.<br>
 Declarada Incostitucional pelo TJ/GO na ADI nº 5236450.85.2017
 

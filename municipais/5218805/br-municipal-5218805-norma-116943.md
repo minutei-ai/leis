@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.870, de 2026-06-19
-
 LEI Nº 7.870, DE 19 DE JUNHO DE 2026.
 
 Concede o Título de Utilidade Pública Municipal ao Instituto Desperta Aviva Brasil e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.724, de 2023-06-28
-
 LEI MUNICIPAL Nº 3.724, DE 28 DE JUNHO DE 2023.
 
 “Reconhece como Utilidade Pública a entidade denominada INSTITUTO LEVANTA-TE E ANDA no Setor Rosa dos Ventos, neste Município”.

@@ -1,5 +1,3 @@
-# LEI Nº 14.925 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.925 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública o Centro Espírita Caminho da Redenção, com sede e foro no município de Salvador.

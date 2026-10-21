@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.704, de 2023-04-05
-
 LEI MUNICIPAL Nº 3.704 DE 05 DE ABRIL DE 2023.
 
 Reconhece como Utilidade Pública Municipal ao “Instituto Evangélico Criação” e dá outras providências.

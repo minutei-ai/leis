@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.803, de 2025-12-15
-
 LEI Nº 7.803, DE 15 DE DEZEMBRO DE 2025.
 
 Institui no âmbito do Município de Rio Verde, o “Dia do Radialista”, a ser comemorado anualmente, e dá outras providências.

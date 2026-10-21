@@ -1,5 +1,3 @@
-# Medida Provisória nº 676 de 17/06/2015
-
 MEDIDA PROVISÓRIA Nº 676, DE 17 DE JUNHO DE 2015
 
 Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social.

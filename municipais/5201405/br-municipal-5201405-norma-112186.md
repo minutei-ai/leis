@@ -1,5 +1,3 @@
-# Decreto Numerado nº 28, de 2026-01-12
-
 DECRETO Nº 028, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Avenida Itamaraty e Rua Catanduva, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

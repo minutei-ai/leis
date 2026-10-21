@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.465, de 2025-06-06
-
 LEI Nº 23.465, DE 6 DE JUNHO DE 2025
 
 Institui a Política Estadual de Atenção Integral à Saúde dos Caminhoneiros e dá outras providências.

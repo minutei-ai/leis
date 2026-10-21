@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.349, de 2025-10-03
-
 DECRETO Nº 2.349, DE 3 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua C-18, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

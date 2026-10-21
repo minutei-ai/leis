@@ -1,5 +1,3 @@
-# Decreto Numerado nº 551, de 2023-08-21
-
 DECRETO “N” Nº 551 DE 21 DE AGOSTO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VILLA ROMANA, neste município.

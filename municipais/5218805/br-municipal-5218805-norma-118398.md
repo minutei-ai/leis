@@ -1,5 +1,3 @@
-# Lei Complementar nº 456, de 2026-04-23
-
 LEI COMPLEMENTAR Nº 456, DE 23 DE ABRIL DE 2026.
 
 Altera a Lei Complementar nº 5.727, de 11 de dezembro de 2009 - Código Tributário do Município de Rio Verde.

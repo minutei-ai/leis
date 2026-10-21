@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.620, de 2025-01-07
-
 DECRETO Nº 10.620, DE 7 DE JANEIRO DE 2025
 
 Institui as obras de infraestrutura de telecomunicações que especifica como prioritárias para a concessão do crédito outorgado estabelecido na alínea "f" do inciso XVI do art. 12 do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266) (Regulamento do Código Tributário Estadual – RCTE), de 29 de dezembro de 1997.

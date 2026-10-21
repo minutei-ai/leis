@@ -1,5 +1,3 @@
-# Medida Provisória nº 824 de 26/03/2018
-
 MEDIDA PROVISÓRIA Nº 824, DE 26 DE MARÇO DE 2018
 
 Altera a [Lei nº 12.787, de 11 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-11;12787), que dispõe sobre a Política Nacional de Irrigação.

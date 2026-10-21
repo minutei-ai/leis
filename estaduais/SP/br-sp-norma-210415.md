@@ -1,5 +1,3 @@
-# Lei nº 18.069, de 23/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210415)<br>
 
 # LEI N° 18.069, DE 23 DE DEZEMBRO DE 2024

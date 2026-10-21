@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.100, de 2024-11-25
-
 LEI Nº 23.100, DE 25 DE NOVEMBRO DE 2024
 
 Institui a Semana Estadual de Incentivo à Mulher na Política e o Dia da Mulher na Política no âmbito do Estado de Goiás.

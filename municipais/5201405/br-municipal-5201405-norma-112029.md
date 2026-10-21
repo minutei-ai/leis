@@ -1,5 +1,3 @@
-# Lei Complementar nº 14, de 2006-12-07
-
 LEI COMPLEMENTAR Nº 014, DE 07 DE DEZEMBRO DE 2006.
 
 Altera a Lei Complementar n.º 010, de 20/06/2005, que dispõe sobre o Plano de Custeio do Regime Próprio de Previdência Social de Aparecida de Goiânia e dá outras providências.

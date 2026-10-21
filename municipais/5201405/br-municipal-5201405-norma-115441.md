@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.693, de 2022-12-16
-
 LEI MUNICIPAL Nº 3.693 DE 16 DE DEZEMBRO DE 2022.
 
 Altera-se a lei municipal nº 3.656, de 02 de março de 2022 que estima a receita e fixa a despesa do município de Aparecida de Goiânia-GO para o exercício de 2022.

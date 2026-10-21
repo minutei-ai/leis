@@ -1,5 +1,3 @@
-# Decreto Numerado nº 62, de 2026-01-19
-
 DECRETO Nº 062, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua R-2, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

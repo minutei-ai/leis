@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.906, de 2026-06-19
-
 LEI Nº 3.906, DE 19 DE JUNHO DE 2026
 
 Institui o Dia Municipal da Secretária e do Secretário no Calendário Oficial do Município de Aparecida de Goiânia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 288 de 30/03/2006
-
 ###MPV-000288-0-000-30-03-2006@@@
 
 MEDIDA PROVISÓRIA Nº 288, DE 30 DE MARÇO DE 2006.

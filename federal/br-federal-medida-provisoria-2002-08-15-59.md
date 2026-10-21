@@ -1,5 +1,3 @@
-# Medida Provisória nº 59 de 15/08/2002
-
 ###MPV-000059-0-000-15-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 59, DE 15 DE AGOSTO DE 2002

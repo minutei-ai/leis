@@ -1,5 +1,3 @@
-# Decreto Numerado nº 52, de 2026-01-14
-
 DECRETO Nº 052, DE 14 DE JANEIRO DE 2026
 
 Autoriza a realização de Concurso Público de Provas e Títulos e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.422, de 2018-06-28
-
 LEI MUNICIPAL Nº 3.422, DE 28 DE JUNHO DE 2018
 
 Dispõe sobre alteração do Decreto Municipal nº 340/1978 sobre a denominação do nome da Praça do Setor Vila Maria, neste município, para chamar “PRAÇA BENTO ALVES FERREIRA”.

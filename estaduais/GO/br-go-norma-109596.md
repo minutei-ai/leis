@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.011, de 2024-09-27
-
 LEI Nº 23.011, DE 27 DE SETEMBRO DE 2024
 
 Autoriza o Poder Público estadual a disponibilizar pagamento por meio de PIX nos eventos que especifica.

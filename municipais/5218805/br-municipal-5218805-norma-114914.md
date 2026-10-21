@@ -1,5 +1,3 @@
-# Lei Complementar nº 373, de 2025-01-07
-
 LEI COMPLEMENTAR Nº 373, DE 7 DE JANEIRO DE 2025.
 
 Altera a Lei Complementar nº 3.633, de 04 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos.

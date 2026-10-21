@@ -1,5 +1,3 @@
-# Lei nº 18.288, de 14/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211659)<br>
 
 # LEI N° 18.288, DE 14 DE OUTUBRO DE 2025

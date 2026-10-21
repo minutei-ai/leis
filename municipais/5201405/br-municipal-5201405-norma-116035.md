@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.608, de 2021-05-10
-
 LEI MUNICIPAL Nº 3.608, DE 10 de MAIO de 2021.
 
 Define as celebrações religiosas como atividades essenciais enquanto perdurar a Situação de Emergência em Saúde Pública e o Estado de Calamidade Pública no Município.

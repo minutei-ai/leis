@@ -1,5 +1,3 @@
-# Medida Provisória nº 375 de 15/06/2007
-
 ###MPV-000375-0-000-15-06-2007@@@
 
 MEDIDA PROVISÓRIA Nº 375, DE 15 DE JUNHO DE 2007.

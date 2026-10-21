@@ -1,5 +1,3 @@
-# Lei Complementar nº 364, de 2024-10-31
-
 LEI COMPLEMENTAR Nº 364, DE 31 DE OUTUBRO DE 2024.
 
 Cria a Zona Urbana Específica Fazenda Monte Alegre Pindaíbas, com a nova denominação de Fazenda São Paulo II, inscrita na matrícula do Cartório de Registro de Imóveis nº 94.363.

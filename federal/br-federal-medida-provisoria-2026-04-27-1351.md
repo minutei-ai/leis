@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.351 de 27/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.351, DE 27 DE ABRIL DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 330.000.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 213, de 2026-05-28
-
 LEI COMPLEMENTAR Nº 213, DE 28 DE MAIO DE 2026
 
 Altera a [Lei Complementar nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990), de 04 de julho de 2006, que dispõe sobre a organização da Procuradoria-Geral do Estado.

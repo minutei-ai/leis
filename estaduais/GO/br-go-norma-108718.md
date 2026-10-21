@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.632, de 2024-04-26
-
 LEI Nº 22.632, DE 26 DE ABRIL DE 2024
 
 Dá denominação ao próprio público que especifica.

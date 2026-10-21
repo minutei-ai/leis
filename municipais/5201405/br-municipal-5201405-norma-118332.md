@@ -1,5 +1,3 @@
-# Decreto Numerado nº 575, de 2023-09-01
-
 DECRETO “N” Nº 575 DE 01 DE SETEMBRO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

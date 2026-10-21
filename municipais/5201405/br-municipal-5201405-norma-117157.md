@@ -1,5 +1,3 @@
-# Decreto Numerado nº 671, de 2024-08-15
-
 DECRETO “N” Nº 671 DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

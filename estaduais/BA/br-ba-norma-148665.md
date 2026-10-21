@@ -1,5 +1,3 @@
-# LEI Nº 15.149 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.149 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública o Instituto Todos por 1, com sede e foro em Salvador.

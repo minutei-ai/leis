@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.528, de 2024-08-20
-
 DECRETO Nº 10.528, DE 20 DE AGOSTO DE 2024
 
 Decreta luto oficial pelo falecimento de SINOMAR FERNANDES DA SILVEIRA.

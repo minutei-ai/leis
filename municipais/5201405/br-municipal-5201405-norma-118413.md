@@ -1,5 +1,3 @@
-# Decreto Numerado nº 671, de 2023-10-24
-
 DECRETO “N” Nº 671 DE 24 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

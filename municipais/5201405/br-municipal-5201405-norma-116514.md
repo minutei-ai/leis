@@ -1,5 +1,3 @@
-# Decreto Numerado nº 531, de 2026-08-04
-
 DECRETO Nº 531, DE 4 DE AGOSTO DE 2026
 
 Delimita Áreas Especiais de Interesse Social – AEIS destinadas à implantação de empreendimentos habitacionais de interesse social.

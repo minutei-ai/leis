@@ -1,5 +1,3 @@
-# Decreto Numerado nº 208, de 2023-03-29
-
 DECRETO “N” Nº 208 DE 29 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM FLORENÇA, neste município.

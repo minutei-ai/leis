@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.159, de 2024-12-18
-
 LEI Nº 23.159 DE 18 DE DEZEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

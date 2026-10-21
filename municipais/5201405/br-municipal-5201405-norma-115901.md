@@ -1,5 +1,3 @@
-# Decreto Numerado nº 505, de 2026-06-25
-
 DECRETO Nº 505, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 17, 18 e 19, todos da Quadra 19, situados à Rua Ana Francisca de Oliveira, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

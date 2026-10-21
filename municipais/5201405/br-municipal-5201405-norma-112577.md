@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.762, de 2025-07-08
-
 DECRETO Nº 1.762, DE 8 DE JULHO DE 2025
 
 Regulamenta no Município de Aparecida de Goiânia as atividades econômicas classificadas como de baixo risco, médio e alto e dá outras providências.

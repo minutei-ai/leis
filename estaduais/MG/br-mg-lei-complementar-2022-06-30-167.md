@@ -1,5 +1,3 @@
-# LCP nº 167, de 30/06/2022
-
 Institui a Procuradoria Jurídica do Tribunal de Contas do Estado e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.571, de 2020-07-03
-
 LEI MUNICIPAL N° 3.571, DE 03 DE JULHO DE 2020.
 
 Dispõe sobre a denominação da Praça Nion Albernaz, situada na Vila Brasília, neste Município e dá outras providências.

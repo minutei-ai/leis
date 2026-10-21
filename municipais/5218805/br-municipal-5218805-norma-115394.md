@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.368, de 2023-06-28
-
 LEI N. 7.368, DE 28 DE JUNHO DE 2023.
 
 Denomina Hospital Materno Infantil de Rio Verde-GO e revoga Lei n. 6.136/2012.

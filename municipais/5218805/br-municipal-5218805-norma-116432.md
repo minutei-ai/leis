@@ -1,5 +1,3 @@
-# Lei Complementar nº 46, de 2015-12-01
-
 LEI COMPLEMENTAR Nº 46, DE 1 DE DEZEMBRO DE 2015.
 
 Altera a Lei Complementar nº 5.225/2006.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.744, de 2025-11-12
-
 LEI Nº 7.744, DE 12 DE NOVEMBRO DE 2025.
 
 Institui o Programa Municipal de Incentivo à Corrida de Rua no município de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.839, de 2026-03-23
-
 LEI Nº 7.839, DE 23 DE MARÇO DE 2026.
 
 Concede o Título de Utilidade Pública Municipal ao Rotary Club de Rio Verde e dá outras providências.

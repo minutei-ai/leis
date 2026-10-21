@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.237, de 2025-09-18
-
 DECRETO Nº 2.237, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 52, da Quadra 31, situado à Rua Borba Gato, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

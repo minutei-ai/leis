@@ -1,5 +1,3 @@
-# Medida Provisória nº 199 de 15/07/2004
-
 ###MPV-000199-0-000-15-07-2004@@@
 
 MEDIDA PROVISÓRIA Nº 199, DE 15 DE JULHO 2004.

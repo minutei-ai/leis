@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.564, de 2025-07-09
-
 LEI Nº 23.564, DE 9 DE JULHO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

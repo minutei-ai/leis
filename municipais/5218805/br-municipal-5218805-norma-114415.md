@@ -1,5 +1,3 @@
-# Lei Complementar nº 342, de 2024-03-25
-
 LEI COMPLEMENTAR Nº 342, DE 25 DE MARÇO DE 2024.
 
 Cria Zona Urbana Específica para implantação de condomínio de lotes - Fazenda São Tomaz - Abóboras "Retiro", inscrita na matrícula do Cartório de Registro de Imóveis nº 93.664.

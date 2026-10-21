@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.815, de 2025-11-10
-
 LEI Nº 23.815, DE 10 DE NOVEMBRO DE 2025
 
 Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica, com suas benfeitorias, à Universidade Estadual de Goiás – UEG. 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.873, de 2026-03-12
-
 DECRETO Nº 10.873, DE 12 DE MARÇO DE 2026
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, para internalizar convênios ICMS e ajustes SINIEF, bem como para regulamentar a [Lei nº 23.924,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111723) de 8 de dezembro de 2025, o [Decreto nº 9.724](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103462), de 7 de outubro de 2020, para regulamentar a [Lei nº 22.478](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108242), de 14 de dezembro de 2023, e o [Decreto nº 10.764](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111152), de 19 de agosto de 2025, para internalizar ajustes SINIEF.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.685, de 2022-11-09
-
 LEI MUNICIPAL Nº 3.685 DE 09 DE NOVEMBRO DE 2022.
 
 Altera-se a Lei Municipal nº 3.657, de 02 de março de 2022 que dispõe sobre o Plano Plurianual para o quadriênio 2022 a 2025.

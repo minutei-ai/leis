@@ -1,5 +1,3 @@
-# Decreto Numerado nº 326, de 2024-04-30
-
 DECRETO “N” Nº 326 DE 30 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

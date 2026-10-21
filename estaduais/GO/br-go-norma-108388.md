@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.532, de 2024-01-08
-
 LEI Nº 22.532, DE 8 DE JANEIRO DE 2024
 
 Dispõe sobre o treinamento de colaboradores das empresas concessionárias de transporte público intermunicipal para atender às pessoas com deficiência ou com mobilidade reduzida.

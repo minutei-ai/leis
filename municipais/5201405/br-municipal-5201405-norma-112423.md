@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.143, de 2025-03-28
-
 DECRETO Nº 1.143, DE 28 DE MARÇO DE 2025.
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Jardim Alto Paraiso no Município de Aparecida de Goiânia.

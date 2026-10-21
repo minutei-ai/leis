@@ -1,5 +1,3 @@
-# Medida Provisória nº 999 de 02/09/2020
-
 MEDIDA PROVISÓRIA Nº 999, DE 2 DE SETEMBRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 67.600.886.209,00, para o fim que especifica, e dá outras providências.

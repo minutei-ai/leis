@@ -1,5 +1,3 @@
-# Medida Provisória nº 9 de 31/10/2001
-
 ###MPV-000009-0-000-31-10-2001@@@
 
 MEDIDA PROVISÓRIA Nº 9, DE 31 DE OUTUBRO DE 2001

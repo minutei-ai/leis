@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.102, de 2024-11-25
-
 LEI Nº 23.102, DE 25 DE NOVEMBRO DE 2024
 
 Institui o Dia Estadual dos Surdos.

@@ -1,5 +1,3 @@
-# LEI Nº 14.762 DE 13 DE AGOSTO DE 2024
-
 LEI Nº 14.762 DE 13 DE AGOSTO DE 2024
 
 Institui o Programa Agente Jovem Ambiental - AJA, na forma que indica, e dá outras providências.

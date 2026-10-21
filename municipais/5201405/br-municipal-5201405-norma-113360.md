@@ -1,5 +1,3 @@
-# Decreto Numerado nº 158, de 2026-02-26
-
 DECRETO Nº 158, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 16, situado à Avenida C-6, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.927, de 2019-02-21
-
 **LEI N. 6.927, DE 21 DE FEVEREIRO DE 2019**
 
 Altera a Lei no 6.815/2018 que concede bolsas a médicos preceptores no internato e na Residência Médica do curso de Medicina.

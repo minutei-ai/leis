@@ -1,5 +1,3 @@
-# Decreto Numerado nº 458, de 2026-06-09
-
 DECRETO Nº 458, DE 9 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Luiz Alves Duarte Ferreira, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

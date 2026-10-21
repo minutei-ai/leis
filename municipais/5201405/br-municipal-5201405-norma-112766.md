@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.814, de 2024-12-12
-
 LEI MUNICIPAL Nº 3.814, DE 12 DE DEZEMBRO DE 2024.
 
 Altera a denominação da escola municipal situada no setor JARDIM IPÊ, neste Município, criada pela Lei Municipal nº 1.786, de 01 de julho de 1998, para Escola Municipal de Educação Integral Jardim Ipê.

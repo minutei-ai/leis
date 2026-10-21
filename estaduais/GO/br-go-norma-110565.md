@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.320, de 2025-04-13
-
 LEI Nº 23.320, DE 13 DE ABRIL DE 2025
 
 Altera a [Lei nº 14.063](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81629), de 26 de dezembro de 2001, que cria a Bolsa Garantia para o fim que especifica.

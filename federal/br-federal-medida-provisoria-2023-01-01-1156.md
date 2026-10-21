@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.156 de 01/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.156, DE 1 DE JANEIRO DE 2023
 
 Dispõe sobre a extinção da Fundação Nacional de Saúde - FUNASA, instituída por autorização da Lei nº 8.029, de 12 de abril de 1990, e a absorção de suas competências, patrimônio e pessoal pela administração pública federal direta.

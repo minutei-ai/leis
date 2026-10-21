@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.229, de 2014-11-19
-
 LEI MUNICIPAL N° 3.229, DE 19 DE NOVEMBRO DE 2014.
 
 “Institui a Semana Outubro Rosa no Município de Aparecida de Goiânia.”

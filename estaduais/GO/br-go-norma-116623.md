@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.971, de 2026-08-11
-
 DECRETO Nº 10.971, DE 11 DE AGOSTO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, as obras que especificam no Município de Goiatuba/GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.572, de 2020-07-03
-
 LEI MUNICIPAL N° 3.572 , DE 03 DE JULHO DE 2020
 
 Dispõe sobre abertura de créditos adicionais de natureza especial no orçamento do exercício de 2020 e dá outras providencias.

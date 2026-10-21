@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.205, de 2021-11-09
-
 LEI Nº 7.205, DE 09 DE NOVEMBRO DE 2021
 
 Denomina nome a Campo de Futebol e dá outras providências.

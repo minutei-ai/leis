@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.542, de 2024-09-16
-
 LEI Nº 7.542, DE 16 DE SETEMBRO DE 2024.
 
 Institui o Dia da Pastoral da Moradia no Município de Rio Verde-Goiás.

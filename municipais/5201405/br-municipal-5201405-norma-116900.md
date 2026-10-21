@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3345, de 2016-12-16
-
 LEI MUNICIPAL 3.345, DE 16 DE DEZEMBRO DE 2016.
 
 Dá nome a ANFITEATRO localizado no Residencial Village Garavelo, neste município e dá outras providências.

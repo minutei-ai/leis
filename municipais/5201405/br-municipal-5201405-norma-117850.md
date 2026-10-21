@@ -1,5 +1,3 @@
-# Decreto Numerado nº 128, de 2023-03-01
-
 DECRETO “N” Nº 128 DE 01 DE MARÇO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM BELO HORIZONTE, neste município.

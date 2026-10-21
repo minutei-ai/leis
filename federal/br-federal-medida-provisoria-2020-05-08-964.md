@@ -1,5 +1,3 @@
-# Medida Provisória nº 964 de 08/05/2020
-
 MEDIDA PROVISÓRIA Nº 964, DE 8 DE MAIO DE 2020
 
 Altera a Lei nº 13.475, de 28 de agosto de 2017, que dispõe sobre o exercício da profissão de tripulante de aeronave, denominado aeronauta.

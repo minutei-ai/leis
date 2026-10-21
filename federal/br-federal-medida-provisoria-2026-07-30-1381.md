@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.381 de 30/07/2026
-
 MEDIDA PROVISÓRIA Nº 1.381, DE 30 DE JULHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.473.000.000,00, para os fins que especifica.

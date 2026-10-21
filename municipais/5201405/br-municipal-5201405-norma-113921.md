@@ -1,5 +1,3 @@
-# Decreto Numerado nº 397, de 2024-05-27
-
 DECRETO “N” Nº 397, DE 27 DE MAIO DE 2024.
 
 Declara ponto facultativo no âmbito da Administração Pública Municipal.

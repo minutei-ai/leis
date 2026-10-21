@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.366, de 2025-04-23
-
 LEI Nº 23.366, DE 23 DE ABRIL DE 2025
 
 Confere ao Município de Cristalina/GO o título de “Capital Goiana da Irrigação”.

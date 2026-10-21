@@ -1,5 +1,3 @@
-# Decreto Numerado nº 621, de 2024-07-30
-
 DECRETO “N” Nº 621 DE 30 DE JULHO DE 2024.
 
 Regulamenta a Lei Municipal nº 3.748, de 23 de outubro de 2023, dispondo sobre a criação do Conselho do Fundo Municipal de Segurança Pública de Aparecida de Goiânia (FMSP) e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 360, de 2024-05-13
-
 DECRETO “N” Nº 360 DE 13 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.408, de 2024-02-06
-
 DECRETO Nº 10.408, DE 6 DE FEVEREIRO DE 2024
 
 Aprova o Regulamento da Secretaria de Estado de Esporte e Lazer – SEL.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 441, de 2023-07-05
-
 DECRETO “N” Nº 441 DE 05 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento SETOR CONDE DOS ARCOS, neste município.

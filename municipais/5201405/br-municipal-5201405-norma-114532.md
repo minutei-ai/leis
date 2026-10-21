@@ -1,5 +1,3 @@
-# Decreto Numerado nº 55, de 2024-02-05
-
 DECRETO “N” Nº 55 DE 05 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

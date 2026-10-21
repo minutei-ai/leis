@@ -1,5 +1,3 @@
-# Lei nº 18.414, de 26/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212286)<br>
 
 # LEI N° 18.414, DE 26 DE FEVEREIRO DE 2026

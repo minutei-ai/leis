@@ -1,5 +1,3 @@
-# LEI Nº 14.963 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.963 DE 08 DE SETEMBRO DE 2025
 
 Altera a estrutura remuneratória dos cargos das carreiras dos Grupos Ocupacionais Artes e Cultura, Comunicação Social, Técnico-Administrativo, Técnico-Específico, Serviços de Apoio Técnico-Administrativo da Procuradoria Geral do Estado, dos cargos das carreiras de Procurador do Estado e Procurador Jurídico, do Grupo Ocupacional Técnico Jurídico, dos cargos das carreiras de Nível de Apoio - NA, do Quadro Especial das Universidades, e dos cargos em comissão, funções comissionadas e gratificadas da Administração direta, autárquica e fundacional do Poder Executivo Estadual, modifica a Lei nº [8.210](https://www.legislabahia.ba.gov.br/documentos/lei-no-8210-de-22-de-marco-de-2002), de 22 de março de 2002, na forma que indica, e dá outras providências.

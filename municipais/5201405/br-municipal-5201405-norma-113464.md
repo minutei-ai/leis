@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.696, de 2023-02-23
-
 LEI MUNICIPAL Nº 3.696 DE 23 DE FEVEREIRO DE 2023.
 
 Dispõe sobre a denominação da Praça Poliesportiva Cleber de Souza Rosa, no Setor Colina Azul, neste município e dá outras providências.

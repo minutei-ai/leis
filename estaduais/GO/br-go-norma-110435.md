@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.648, de 2025-02-20
-
 DECRETO Nº 10.648, DE 20 DE FEVEREIRO DE 2025
 
 Altera a o [Decreto nº 10.241](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106862), de 24 de março de 2023, que regulamenta o Fundo Estadual de Infraestrutura – FUNDEINFRA.

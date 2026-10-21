@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.595, de 2024-04-05
-
 LEI Nº 22.595, DE 5 DE ABRIL DE 2024
 
 Institui a Semana Estadual de Conscientização sobre a Relação entre os Maus-tratos contra os Animais e a Violência Doméstica.

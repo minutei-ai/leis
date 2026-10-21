@@ -1,5 +1,3 @@
-# LEI Nº 14.742 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.742 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO BENEFICENTE E INSTITUTO EDUCACIONAL KAIRÓS (ABIEK), com sede e foro no município de Salvador.

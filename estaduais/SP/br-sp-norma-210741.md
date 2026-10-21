@@ -1,5 +1,3 @@
-# Lei nº 18.121, de 12/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210741)<br>
 
 # LEI N° 18.121, DE 12 DE MARÇO DE 2025

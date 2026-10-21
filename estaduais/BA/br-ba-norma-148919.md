@@ -1,5 +1,3 @@
-# LEI Nº 15.201 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.201 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação Qualidade de Vida, com sede e foro em Serrinha.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 226, de 2021-10-05
-
 LEI COMPLEMENTAR Nº 226, DE 05 DE OUTUBRO DE 2021.
 
 Dispõe sobre criação de Zona Urbana Específica no município de Rio Verde e dá outras providências.

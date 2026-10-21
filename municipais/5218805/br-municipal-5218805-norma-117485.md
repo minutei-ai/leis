@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.144, de 2021-05-06
-
 LEI Nº 7.144, DE 06 DE MAIO DE 2021.
 
 Concede remissão e isenção de taxas ao Transporte Escolar Rural.

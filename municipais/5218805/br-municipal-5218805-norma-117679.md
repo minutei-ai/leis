@@ -1,5 +1,3 @@
-# Lei Complementar nº 300, de 2023-05-29
-
 LEI COMPLEMENTAR Nº 300, DE 29 DE MAIO DE 2023
 
 Altera a [Lei Complementar nº 194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114899)/2020.

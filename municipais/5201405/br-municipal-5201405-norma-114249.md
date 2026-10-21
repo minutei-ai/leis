@@ -1,5 +1,3 @@
-# Decreto Numerado nº 156, de 2024-03-14
-
 DECRETO “N” Nº 156, DE 14 DE MARÇO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Riviera neste município como de Interesse Social.

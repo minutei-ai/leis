@@ -1,5 +1,3 @@
-# LEI Nº 15.049 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.049 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação de Vaqueiros de Terra Nova (ASVAQ-TN), com sede e foro no município de Terra Nova.

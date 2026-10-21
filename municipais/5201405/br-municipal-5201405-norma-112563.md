@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.571, de 2025-06-11
-
 DECRETO Nº 1.571, DE 11 DE JUNHO DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais no dia 20 de junho de 2025.

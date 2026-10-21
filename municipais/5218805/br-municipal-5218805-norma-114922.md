@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.592, de 2024-12-16
-
 LEI Nº 7.592, DE 16 DE DEZEMBRO DE 2024.
 
 Institui o Código Sanitário do Município de Rio Verde - GO e dá outras providências.

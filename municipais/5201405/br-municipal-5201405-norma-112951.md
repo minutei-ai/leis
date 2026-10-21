@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.033, de 2025-08-25
-
 DECRETO Nº 2.033, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 01, 02 e 03, 07, 08, 09 e 10, todos da Quadra 13, situados à Via Perimetral, no Loteamento Residencial Aldeia do Parque, no Município de Aparecida de Goiânia.

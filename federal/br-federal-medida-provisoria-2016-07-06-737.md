@@ -1,5 +1,3 @@
-# Medida Provisória nº 737 de 06/07/2016
-
 MEDIDA PROVISÓRIA Nº 737, DE 6 DE JULHO DE 2016
 
 Altera a [Lei nº 11.473, de 10 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-10;11473), que dispõe sobre a cooperação federativa no âmbito da segurança pública.

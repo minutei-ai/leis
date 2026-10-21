@@ -1,5 +1,3 @@
-# Lei Complementar nº 195, de 2020-12-21
-
 **LEI COMPLEMENTAR Nº 195, DE 21 DE DEZEMBRO DE 2020**
 
 Altera a Lei nº 6.074/2011, que traça o Perímetro Urbano do Município de Rio Verde-GO.

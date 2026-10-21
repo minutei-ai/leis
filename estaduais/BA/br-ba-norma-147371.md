@@ -1,5 +1,3 @@
-# LEI Nº 14.942 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.942 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública a Associação Beneficente Alcance, com sede e foro no município de Guanambi.

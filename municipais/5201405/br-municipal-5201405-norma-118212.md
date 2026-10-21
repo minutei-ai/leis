@@ -1,5 +1,3 @@
-# Decreto Numerado nº 432, de 2023-07-03
-
 DECRETO “N” Nº 432, DE 03 DE JULHO DE 2023.
 
 Dispõe sobre o enquadramento da empresa Venas Corretora de Seguros LTDA - EPP. ao Programa Municipal de Incentivos Fiscais, e dá outras providências.

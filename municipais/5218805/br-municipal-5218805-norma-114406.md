@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.658, de 2025-05-26
-
 LEI Nº 7.658, DE 26 DE MAIO DE 2025.
 
 Institui a data comemorativa do aniversário do Distrito de Lagoa do Bauzinho do Município de Rio Verde, e dá outras providências.

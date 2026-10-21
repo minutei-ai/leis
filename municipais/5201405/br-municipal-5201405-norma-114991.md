@@ -1,5 +1,3 @@
-# Decreto Numerado nº 272, de 2024-04-17
-
 DECRETO “N” Nº 272 DE 17 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

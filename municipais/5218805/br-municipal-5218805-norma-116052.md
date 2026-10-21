@@ -1,5 +1,3 @@
-# Lei Complementar nº 153, de 2019-03-29
-
 LEI COMPLEMENTAR Nº 153, DE 29 DE MARÇO DE 2019.
 
 Altera a Lei Complementar nº 6.111/2012 - Plano de Cargos, Carreiras e Vencimentos do Quadro Permanente dos servidores da área da saúde do Município de Rio Verde.

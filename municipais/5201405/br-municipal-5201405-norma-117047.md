@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3248, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.248, 23 DE dezembro de 2014.
 
 Autoriza o Poder Executivo Municipal a Contratar Financiamento com a Caixa Econômica Federal, a Oferecer Garantias e dá Providências Correlatas.

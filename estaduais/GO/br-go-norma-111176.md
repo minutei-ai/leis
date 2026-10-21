@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.596, de 2025-08-26
-
 LEI Nº 23.596, DE 26 DE AGOSTO DE 2025
 
 Revoga a [Lei nº 18.290](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90421), de 30 de dezembro de 2013, que dispõe sobre a concessão de regime especial de tributação aplicável ao industrial fabricante de biocombustíveis no Estado de Goiás beneficiário do PRODUZIR ou do FOMENTAR. 

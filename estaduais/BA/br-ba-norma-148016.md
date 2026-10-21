@@ -1,5 +1,3 @@
-# LEI N º 15.033 DE 09 DE DEZEMBRO DE 2025
-
 LEI N º 15.033 DE 09 DE DEZEMBRO DE 2025
 
 Denomina Rodovia Vírgilio Vivi Figueira Mendes a rodovia estadual BA-639, que liga a BA-263 ao distrito de Cabeceira da Jibóia, "estrada da Limeira", na zona rural de Vitória da Conquista.

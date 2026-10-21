@@ -1,5 +1,3 @@
-# LEI Nº 15.042 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.042 DE 11 DE DEZEMBRO DE 2025
 
 Eleva a Comarca de Santaluz de entrância inicial para entrância intermediária, na forma que indica, e dá outras providências.

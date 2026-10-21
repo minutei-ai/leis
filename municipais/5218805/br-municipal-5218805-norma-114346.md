@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.688, de 2025-10-31
-
 LEI Nº 7.688, DE 21 DE AGOSTO DE 2025.
 
 Cria o Sistema Compartilhado de Micromobilidade e seu funcionamento em vias e logradouros públicos do Município de Rio Verde, e dá outras providências.

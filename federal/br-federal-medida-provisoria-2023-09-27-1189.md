@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.189 de 27/09/2023
-
 MEDIDA PROVISÓRIA Nº 1.189, DE 27 DE SETEMBRO DE 2023
 
 Autoriza o Poder Executivo federal a conceder subvenção econômica a mutuários que tiveram perdas materiais decorrentes dos eventos climáticos extremos ocorridos em setembro de 2023 e que estejam situados em Municípios do Estado do Rio Grande do Sul que tiveram estado de calamidade pública reconhecido pelo Poder Executivo federal e altera a [Lei nº 13.999, de 18 de maio de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-05-18;13999), que institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte - Pronampe, e a [Lei nº 14.042, de 19 de agosto de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-08-19;14042), para estabelecer nova modalidade do Programa Emergencial de Acesso a Crédito denominada Peac-FGI Crédito Solidário RS.

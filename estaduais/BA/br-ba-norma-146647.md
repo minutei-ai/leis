@@ -1,5 +1,3 @@
-# LEI Nº 14.902 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.902 DE 20 DE MAIO DE 2025
 
 Institui o Estatuto da Mulher Parlamentar e ocupante de cargo ou emprego público no âmbito do Estado da Bahia.

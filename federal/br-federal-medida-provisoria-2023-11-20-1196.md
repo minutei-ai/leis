@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.196 de 20/11/2023
-
 MEDIDA PROVISÓRIA Nº 1.196, DE 20 DE NOVEMBRO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 50.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# EMENDA À CONSTITUIÇÃO Nº 30 DE 29 DE MAIO DE 2023
-
 _Publicado no DOE /Alba_
 
 _Em 30.05.202__3_

@@ -1,5 +1,3 @@
-# LCP nº 139, de 03/05/2016
-
 Dispõe sobre a transformação de cargos de Juiz de Direito em cargos de Juiz de Direito Substituto de Segundo Grau, no âmbito da Justiça Comum Estadual, altera a Lei Complementar nº 59, de 18 de janeiro de 2001, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

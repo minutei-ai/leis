@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.691, de 2022-11-24
-
 LEI MUNICIPAL Nº 3.691 DE 24 DE NOVEMBRO DE 2022.
 
 Dispõe sobre o direito de prioridade de matrícula de irmãos na mesma unidade escolar da rede municipal de educação de Aparecida de Goiânia e revoga a Lei Nº 3.469, de 07 de maio de 2019.

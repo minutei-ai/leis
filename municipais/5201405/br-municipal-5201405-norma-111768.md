@@ -1,5 +1,3 @@
-# Lei Complementar nº 97, de 2014-12-23
-
 LEI COMPLEMENTAR Nº 97, DE 23 DE DEZEMBRO DE 2014. 
 
 Altera as Lei Complementares Municipais nºs 046, de 21 de dezembro de 2011, que instituiu o Código Tributário do Município de Aparecida de Goiânia, Goiás; e 079, de 30 de dezembro de 2013, que aprovou a Planta de Valores Genéricos dos Terrenos e a Tabela de Preços das Construções e Valor da Terra Nua e fixa a zona de influência e a valorização dos imóveis resultante das obras públicas do Município de Aparecida de Goiânia para o exercício fiscal de 2014; e dá outras providências.

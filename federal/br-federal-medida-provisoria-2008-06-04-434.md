@@ -1,5 +1,3 @@
-# Medida Provisória nº 434 de 04/06/2008
-
 ###MPV-000434-0-000-04-06-2008@@@
 
 MEDIDA PROVISÓRIA Nº 434, DE 4 DE JUNHO DE 2008.

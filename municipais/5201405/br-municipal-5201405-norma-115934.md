@@ -1,5 +1,3 @@
-# Decreto Numerado nº 607, de 2024-07-26
-
 DECRETO “N” Nº 607 DE 26 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

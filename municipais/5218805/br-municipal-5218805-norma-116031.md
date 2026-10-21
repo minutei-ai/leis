@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.337, de 2023-03-30
-
 LEI N° 7.337, de 30 DE MaRÇO DE 2023
 
 Altera a [Lei n. 5.558](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003 "Abrir Lei Ordinária nº 5558, de 2009 em nova aba")/2009, que cria o Programa de Produção Cultural.

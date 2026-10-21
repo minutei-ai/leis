@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 61, de 2026-03-05
-
 Portaria Orçamentária nº 61/2026 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 12 da Lei nº 24.019, de 06 de Janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.

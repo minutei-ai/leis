@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.203, de 2021-11-04
-
 LEI Nº 7.203, DE 04 DE NOVEMBRO DE 2021
 
 Autoriza o Poder Executivo a realizar desapropriação e pagamento de indenização de imóvel.

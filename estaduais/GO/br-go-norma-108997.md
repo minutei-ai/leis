@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.776, de 2024-06-10
-
 LEI Nº 22.776, DE 10 DE JUNHO DE 2024
 
 Dá denominação ao próprio público que especifica.

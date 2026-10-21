@@ -1,5 +1,3 @@
-# Decreto nº 70.658, de 29/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212691)<br>
 
 # DECRETO N° 70.658, DE 29 DE MAIO DE 2026

@@ -1,5 +1,3 @@
-# Lei Complementar nº 206, de 2023-04-14
-
 LEI COMPLEMENTAR Nº 206, DE 14 DE ABRIL DE 2023.
 
 Altera a Lei Complementar nº144/2018, que institui Regime Especial de Trabalho da Secretaria de Educação para os integrantes do cargo efetivo de Agente Educativo e a Lei Complementar nº 095/2014, que trata do plano de cargos e salários da Educação e dá outras providências.

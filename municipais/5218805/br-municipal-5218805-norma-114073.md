@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.777, de 2025-12-12
-
 LEI Nº 7.777, DE 12 DE DEZEMBRO DE 2025.
 
 Autoriza a aquisição, por doação com encargo, da Agência Goiana de Infraestrutura e Transportes (GOINFRA), do imóvel que especifica.

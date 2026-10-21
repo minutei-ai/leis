@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.341, de 2023-03-30
-
 LEI Nº 7.341, DE 30 DE MARÇO DE 2023.
 
 Altera a Lei n°4.057/2001.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.861, de 2025-11-19
-
 LEI Nº 23.861, DE 19 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

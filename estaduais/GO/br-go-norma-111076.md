@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.729, de 2025-07-10
-
 DECRETO Nº 10.729, DE 10 DE JULHO DE 2025
 
 Declara situação de emergência no Município de Padre Bernardo/GO, afetado pelo desastre a que se refere a Classificação e Codificação Brasileira de Desastres – COBRADE 2.2.2.2.0, “Derramamento de Produtos Químicos em Ambiente Lacustre, Fluvial, Marinho e Aquífero”.

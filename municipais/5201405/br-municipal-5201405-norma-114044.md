@@ -1,5 +1,3 @@
-# Decreto Numerado nº 649, de 2024-08-14
-
 DECRETO “N” Nº 649, DE 14 DE AGOSTO DE 2024.
 
 Dispõe sobre a nomeação dos membros do Conselho Fiscal do APARECIDAPREV - Instituto de Previdência de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 475, de 2023-07-19
-
 DECRETO “N” Nº 475 DE 19 DE JULHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis no Loteamento JARDIM IPÊ, neste município.

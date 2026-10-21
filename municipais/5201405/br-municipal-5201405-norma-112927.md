@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.992, de 2025-08-18
-
 DECRETO Nº 1.992, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 14, 15, 16 e 17, todos da Quadra 03, situados à Rua C-8, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

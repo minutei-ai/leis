@@ -1,5 +1,3 @@
-# LEI Nº 14.755 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.755 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO PARA O DESENVOLVIMENTO INTEGRADO SOCIAL E SUSTENTÁVEL (ADISS), com sede e foro no município de Camaçari.

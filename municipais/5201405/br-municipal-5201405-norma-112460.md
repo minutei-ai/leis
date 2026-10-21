@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.204, de 2025-04-11
-
 DECRETO Nº 1.204, DE 11 DE ABRIL DE 2025
 
 Estabelece regras de governança aplicáveis às empresas públicas e sociedades de economia mista do Município de Aparecida de Goiânia com a receita operacional bruta inferior a R$90.000.000,00 (noventa milhões de reais) e dá outras providências.

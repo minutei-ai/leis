@@ -1,5 +1,3 @@
-# Lei Complementar nº 343, de 2024-03-25
-
 LEI COMPLEMENTAR Nº 343, DE 25 DE MARÇO DE 2024.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

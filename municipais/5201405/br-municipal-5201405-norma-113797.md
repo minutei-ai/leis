@@ -1,5 +1,3 @@
-# Decreto Numerado nº 280, de 2026-04-13
-
 DECRETO Nº 280, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02, 26 e 27, situados à Rua Belo Horizonte e Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

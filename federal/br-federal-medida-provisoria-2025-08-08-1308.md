@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.308 de 08/08/2025
-
 MEDIDA PROVISÓRIA Nº 1.308, DE 8 DE AGOSTO DE 2025
 
 Dispõe sobre o licenciamento ambiental especial, visando à consecução eficiente e eficaz de atividades e empreendimentos estratégicos, nos termos que especifica.

@@ -1,5 +1,3 @@
-# LD Nº 34 DE 11 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 34 DE 11 DE MARÇO DE 1983
 
 Reorganiza o Departamento de Aviação da Bahia - DAB e dá outras providências.

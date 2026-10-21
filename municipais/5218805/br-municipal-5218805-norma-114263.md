@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.714, de 2025-09-22
-
 LEI Nº 7.714, DE 22 DE SETEMBRO DE 2025.
 
 Estabelecer o dia 7 de abril no calendário de datas comemorativas no Município de Rio Verde GO.

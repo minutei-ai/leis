@@ -1,5 +1,3 @@
-# LEI Nº 14.880 DE 25 DE MARÇO DE 2025
-
 LEI Nº 14.880 DE 25 DE MARÇO DE 2025
 
 Altera a Lei nº 10.963, de 16 de abril de 2008, e a Lei nº 14.668, de 23 de abril de 2024, na forma que indica, e dá outras providências.

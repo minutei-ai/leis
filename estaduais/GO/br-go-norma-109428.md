@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.960, de 2024-08-30
-
 LEI Nº 22.960, DE 30 DE AGOSTO DE 2024
 
 Dá denominação ao próprio público que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.122 de 08/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.122, DE 8 DE JUNHO DE 2022
 
 Reabre o prazo de opção de servidores dos ex-Territórios Federais para serem enquadrados nas carreiras de Finanças e Controle e de Planejamento e Orçamento e o prazo de opção dos servidores ocupantes dos cargos de provimento efetivo da Carreira de Magistério do Ensino Básico dos ex-Territórios para serem enquadrados na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, de que tratam os art. 29 e art. 34 da Lei nº 13.681, de 18 de junho de 2018.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.981, de 2024-09-10
-
 LEI Nº 22.981, DE 10 DE SETEMBRO DE 2024
 
 Abre créditos especiais à Secretaria-Geral de Governo – SGG e cria produtos no Plano Plurianual 2024-2027 – PPA 2024-2027, de que trata a [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 18 de outubro de 2023.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 850 de 10/09/2018
-
 MEDIDA PROVISÓRIA Nº 850, DE 10 DE SETEMBRO DE 2018
 
 Autoriza o Poder Executivo federal a instituir a Agência Brasileira de Museus Abram e dá outras providências.

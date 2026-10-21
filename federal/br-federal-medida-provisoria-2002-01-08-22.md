@@ -1,5 +1,3 @@
-# Medida Provisória nº 22 de 08/01/2002
-
 ###MPV-000022-0-000-08-01-2002@@@
 
 MEDIDA PROVISÓRIA Nº 22, DE 08 DE JANEIRO DE 2002.

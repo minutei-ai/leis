@@ -1,5 +1,3 @@
-# Decreto nº 70.864, de 13/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212967)<br>
 
 # DECRETO N° 70.864, DE 13 DE SETEMBRO DE 2026

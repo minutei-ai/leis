@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.492, de 2024-07-04
-
 DECRETO Nº 10.492, DE 4 DE JULHO DE 2024
 
 Regulamenta o disposto no art. 20 da Lei federal nº 14.133 (Lei de Licitações e Contratos Administrativos), de 1º de abril de 2021, para estabelecer o enquadramento dos bens de consumo adquiridos para suprir as demandas da administração pública direta, autárquica e fundacional do Estado de Goiás, com a vedação da aquisição de bens de luxo, e dá outras providências.

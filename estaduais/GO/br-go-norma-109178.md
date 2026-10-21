@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.498, de 2024-07-08
-
 DECRETO Nº 10.498, DE 8 DE JULHO DE 2024
 
 Altera os [Decretos estaduais nº 9.566](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72476), de 25 de novembro de 2019, que regulamenta a gestão das Funções Comissionadas no âmbito do Poder Executivo estadual, e [nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.  

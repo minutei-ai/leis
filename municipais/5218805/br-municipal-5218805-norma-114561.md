@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.336, de 2013-11-20
-
 LEI COMPLEMENTAR  Nº 6.336, DE 20 DE NOVEMBRO DE 2013.
 
 Altera a redação do inciso XI do artigo 107 do Código de Posturas e dá outras providências.

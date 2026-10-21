@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.392, de 2025-10-08
-
 DECRETO Nº 2.392, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 32, da Quadra 66, situado Rua J-48, no Loteamento Mansões Paraíso, no Município de Aparecida de Goiânia.

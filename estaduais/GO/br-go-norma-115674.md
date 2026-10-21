@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.359, de 2026-06-22
-
 LEI Nº 24.359, DE 22 DE JUNHO DE 2026
 
 Altera a [Lei nº 16.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88613 "Abrir Lei Ordinária nº 16899, de 2010 em nova aba"), de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.

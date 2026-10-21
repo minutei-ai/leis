@@ -1,5 +1,3 @@
-# Medida Provisória nº 381 de 05/07/2007
-
 ###MPV-000381-0-000-05-07-2007@@@
 
 MEDIDA PROVISÓRIA Nº 381, DE 5 DE JULHO DE 2007.

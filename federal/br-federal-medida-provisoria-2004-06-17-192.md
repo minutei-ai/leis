@@ -1,5 +1,3 @@
-# Medida Provisória nº 192 de 17/06/2004
-
 ###MPV-000192-0-000-17-06-2004@@@
 
 MEDIDA PROVISÓRIA Nº 192, DE 17 DE JUNHO 2004

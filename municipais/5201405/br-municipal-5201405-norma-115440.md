@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.335, de 2016-10-21
-
 LEI MUNICIPAL 3.335, DE 21 DE OUTUBRO DE 2016.
 
 “Dá nome à Avenida com início no Jardim Bela Vista, passando pelos Setores Santa Luzia, Residencial Santa Luzia, Chácara São Pedro, Jardim dos Buritis, Vila São Pedro, Vale do Sol e termina na Avenida Santana, no Setor Real Grandeza (Eixo Norte – Sul 1 – NS1).”

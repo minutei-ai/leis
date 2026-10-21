@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.800, de 2025-11-06
-
 LEI Nº 23.800, DE 6 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 19.241](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98552 "Abrir Lei Ordinária nº 19241, de 2016 em nova aba"), de 13 de abril de 2016, que institui a Semana Estadual de Conscientização da Doação de Órgãos e Tecidos.

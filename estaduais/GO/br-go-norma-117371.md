@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.537, de 2026-09-10
-
 LEI Nº 24.537, DE 10 DE SETEMBRO DE 2026
 
 Altera a [Lei nº 23.524](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110993), de 23 de junho de 2025, que cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.

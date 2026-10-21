@@ -1,5 +1,3 @@
-# Lei Complementar nº 221, de 2021-09-02
-
 LEI COMPLEMENTAR Nº 221, 02 DE SETEMBRO DE 2021
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 6 de maio de 2020.

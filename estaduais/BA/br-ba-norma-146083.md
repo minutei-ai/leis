@@ -1,5 +1,3 @@
-# LEI Nº 14.815 DE 21 DE JANEIRO DE 2025
-
 LEI Nº 14.815 DE 21 DE JANEIRO DE 2025
 
 Dispõe sobre a criação de novos Polos de Apoio Presencial do Sistema Universidade Aberta do Brasil, no âmbito do Estado da Bahia, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 749 de 13/10/2016
-
 MEDIDA PROVISÓRIA Nº 749, DE 13 DE OUTUBRO DE 2016
 
 Dispõe sobre a prestação de auxílio financeiro, pela União, aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2016, com o objetivo de fomentar as exportações do País.

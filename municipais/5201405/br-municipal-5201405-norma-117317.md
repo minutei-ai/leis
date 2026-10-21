@@ -1,5 +1,3 @@
-# Decreto Numerado nº 806, de 2024-09-25
-
 DECRETO “N” Nº 806 DE 25 DE SETEMBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

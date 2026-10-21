@@ -1,5 +1,3 @@
-# Decreto Numerado nº 444, de 2026-06-03
-
 DECRETO Nº 444, DE 3 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 07 e 08, situados à Rua Belo Horizonte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

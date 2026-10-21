@@ -1,5 +1,3 @@
-# Lei nº 18.089, de 06/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210600)<br>
 
 # LEI N° 18.089, DE 06 DE FEVEREIRO DE 2025

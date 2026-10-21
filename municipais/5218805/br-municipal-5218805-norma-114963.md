@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.544, de 2024-09-16
-
 LEI Nº 7.544, DE 16 DE SETEMBRO DE 2024.
 
 Denomina nome de parque que especifica e dá outras providências.

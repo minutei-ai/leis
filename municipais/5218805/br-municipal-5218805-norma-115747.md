@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.857, de 2018-07-03
-
 LEI Nº 6.857, DE 03 DE JULHO DE 2018.
 
 Autoriza o Poder Executivo Municipal a outorgar concessão onerosa de uso de áreas públicas localizadas no Aeroporto General Leite de Castro e dá outras providências.

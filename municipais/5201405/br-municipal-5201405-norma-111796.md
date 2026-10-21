@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.867, de 2025-11-19
-
 LEI Nº 3.867, DE 19 DE NOVEMBRO DE 2025
 
 Estima a receita e fixa a despesa do Município de Aparecida de Goiânia – GO para o exercício de 2026 e dá outras providências.

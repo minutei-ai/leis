@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.357, de 2023-05-29
-
 LEI N. 7.357, DE 29 DE MAIO DE 2023
 
 Altera Lei nº. 6.407/2014, que trata de benefícios eventuais.

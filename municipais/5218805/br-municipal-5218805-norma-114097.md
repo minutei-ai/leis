@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.749, de 2025-11-17
-
 LEI Nº 7.749, DE 17 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal de Ciência, Tecnologia e Inovação no município de Rio Verde, e dá outras providências.

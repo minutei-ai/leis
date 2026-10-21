@@ -1,5 +1,3 @@
-# Decreto nº 69.340, de 04/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210570)<br>
 
 # DECRETO N° 69.340, DE 04 DE FEVEREIRO DE 2025

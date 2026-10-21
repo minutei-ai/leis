@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.167, de 2024-12-20
-
 LEI Nº 23.167, DE 20 DE DEZEMBRO DE 2024
 
 Dispõe sobre a organização administrativa do Agrocolégio Estadual Maguito Vilela, altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências, e dá outras providências.

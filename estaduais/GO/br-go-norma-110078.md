@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.586, de 2024-12-02
-
 DECRETO Nº 10.586, DE 2 DE DEZEMBRO DE 2024
 
 Revoga o [Decreto nº 8.966](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69715), de 9 de junho de 2017, que regulamenta o Programa de auxílio-alimentação e hospedagem, instituído pelo art. 7º da [Lei nº 19.658](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98973), de 1º de junho de 2017.

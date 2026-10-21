@@ -1,5 +1,3 @@
-# Lei Complementar nº 6, de 2002-07-11
-
 LEI COMPLEMENTAR Nº 006, DE 11 DE JULHO DE 2002.
 
 Altera o artigo 259 da Lei Complementar nº 003/2001 e revoga a Lei Municipal nº 663/87.

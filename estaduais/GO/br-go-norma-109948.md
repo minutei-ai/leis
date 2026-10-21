@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.093, de 2024-11-21
-
 LEI Nº 23.093, DE 21 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 20.197](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100127), de 06 de julho de 2018, que dispõe sobre o Plano de Cargos e Remuneração do cargo de Técnico em Gestão Pública que integra o Grupo Ocupacional Técnico-Governamental.

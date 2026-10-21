@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.588, de 2024-03-29
-
 LEI Nº 22.588, DE 29 DE MARÇO DE 2024
 
 Altera a [Lei nº 21.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104344), de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências, para instituir a Campanha de Conscientização sobre a Cinomose Canina.

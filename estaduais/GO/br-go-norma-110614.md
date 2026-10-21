@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.363, de 2025-04-23
-
 LEI Nº 23.363, DE 23 DE ABRIL DE 2025
 
 Institui a Política Estadual de Gestão Emocional na Gestação e dá outras providências.

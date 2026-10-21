@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.380, de 2023-06-28
-
 LEI N. 7.380, DE 28 DE JUNHO DE 2023.
 
 Autoriza o Poder Executivo a desafetar e alienar imóvel que compõe o Patrimônio Público.

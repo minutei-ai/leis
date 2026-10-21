@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.751, de 2025-11-17
-
 LEI Nº 7.751, DE 17 DE NOVEMBRO DE 2025.
 
 Institui no Município de Rio Verde-GO a Semana Municipal de Conscientização sobre o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) a ser celebrada anualmente na primeira semana do mês de agosto.

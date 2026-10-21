@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.481, de 2024-01-23
-
 LEI Nº 7.481, DE 23 DE JANEIRO DE 2024.
 
 Autoriza reajuste das perdas salariais dos servidores efetivos e comissionados da FESURV - Universidade de Rio Verde.

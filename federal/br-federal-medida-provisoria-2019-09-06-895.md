@@ -1,5 +1,3 @@
-# Medida Provisória nº 895 de 06/09/2019
-
 MEDIDA PROVISÓRIA Nº 895, DE 6 DE SETEMBRO DE 2019
 
 Altera a [Lei nº 12.933, de 26 de dezembro de 2013](urn:lex:br:federal:lei:2013-12-26;12933), que dispõe sobre o benefício do pagamento de meia-entrada para estudantes, idosos, pessoas com deficiência e jovens de quinze a vinte e nove anos comprovadamente carentes em espetáculos artístico-culturais e esportivos, e dá outras providências.

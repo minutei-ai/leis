@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10, de 2026-01-06
-
 DECRETO Nº 010, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 29, situado à Rua 120, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

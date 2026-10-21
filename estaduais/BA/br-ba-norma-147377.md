@@ -1,5 +1,3 @@
-# LEI Nº 14.948 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.948 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública a Associação dos Agricultores Familiares da Região de São João do Paraíso - AGRIFASP, com sede e foro no município de Mascote.

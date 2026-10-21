@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.793, de 2024-08-21
-
 LEI MUNICIPAL Nº 3.793, DE 21 DE AGOSTO DE 2024.
 
 Dispõe sobre a autorização para abertura de crédito suplementar, alterando os artigos 2º e 4º da Lei Municipal nº 3.764, de 19 de dezembro de 2023, que estima a receita e fixa a despesa do Município de Aparecida de Goiânia para o exercício de 2024.

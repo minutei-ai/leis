@@ -1,5 +1,3 @@
-# LEI Nº 15.104 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.104 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Centro Espírita Seara de Jesus-CESJ, com sede e foro no município de Ibiassucê.

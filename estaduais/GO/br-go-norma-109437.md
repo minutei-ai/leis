@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.967, de 2024-09-03
-
 LEI Nº 22.967, DE 3 DE SETEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

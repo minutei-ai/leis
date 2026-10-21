@@ -1,5 +1,3 @@
-# Decreto nº 70.190, de 08/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211968)<br>
 
 # DECRETO N° 70.190, DE 08 DE DEZEMBRO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 489, de 2026-06-17
-
 DECRETO Nº 489, DE 17 DE JUNHO DE 2026
 
 Regulamenta a Lei nº 3.841, de 22 de julho de 2025, que dispõe sobre o comércio de alimentos em veículos sobre rodas, denominado Cozinha Móvel Sobre Rodas (food truck), no âmbito do Município de Aparecida de Goiânia.

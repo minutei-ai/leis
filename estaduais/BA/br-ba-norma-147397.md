@@ -1,5 +1,3 @@
-# LEI Nº 14.955 DE 14 DE JULHO DE 2025
-
 LEI Nº 14.955 DE 14 DE JULHO DE 2025
 
 Altera a Lei nº [10.845](https://www.legislabahia.ba.gov.br/documentos/lei-no-10845-de-27-de-novembro-de-2007), de 27 de novembro de 2007, para reestruturar as Corregedorias do Poder Judiciário do Estado da Bahia, e dá outras providências.

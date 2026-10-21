@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.578, de 2025-11-04
-
 DECRETO Nº 2.578, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre a criação e composição do Grupo Institucional do Poder Público – GIPP, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.343 de 19/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.343, DE 19 DE MARÇO DE 2026
 
 Altera a [Lei nº 13.703, de 8 de agosto de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-08;13703), para criar a obrigatoriedade de cadastramento da operação de transporte e a geração do Código Identificador da Operação de Transporte - CIOT, e para dispor sobre medidas administrativas para o cumprimento da Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas.

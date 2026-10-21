@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.561, de 2024-09-25
-
 DECRETO Nº 10.561, DE 25 DE SETEMBRO DE 2024
 
 Declara de utilidade pública, para efeito de instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, a área que especifica.

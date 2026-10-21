@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.535, de 2024-08-26
-
 LEI Nº 7.535, DE 26 DE AGOSTO DE 2024.
 
 Concede Licença Remunerada.

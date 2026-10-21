@@ -1,5 +1,3 @@
-# Decreto Numerado nº 53, de 2024-02-02
-
 DECRETO “N” Nº 53, DE 02 DE FEVEREIRO DE 2024.
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais para a Carnaval 2024.

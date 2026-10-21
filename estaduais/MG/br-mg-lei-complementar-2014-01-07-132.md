@@ -1,5 +1,3 @@
-# LCP nº 132, de 07/01/2014
-
 Institui o Regime de Previdência Complementar para os servidores públicos titulares de cargos efetivos dos Poderes do Estado e membros de Poderes, do Ministério Público, do Tribunal de Contas e da Defensoria Pública do Estado de Minas Gerais, fixa o limite máximo para a concessão de aposentadorias e pensões de que trata o art. 40 da Constituição da República, autoriza a criação de entidade fechada de previdência complementar, na forma de fundação, e dá outras providências.
 
 (Vide arts. 18 e 34 da Lei Complementar nº 156, de 22/9/2020.)

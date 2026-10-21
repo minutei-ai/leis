@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.897, de 2026-04-22
-
 DECRETO Nº 10.897, DE 22 DE ABRIL DE 2026
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997, Regulamento do Código Tributário de Goiás – RCTE, e estabelece procedimentos e prazos a serem observados quanto às operações com gás liquefeito de gás natural – GLGN.

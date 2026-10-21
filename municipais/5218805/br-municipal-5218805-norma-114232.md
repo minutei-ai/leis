@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.717, de 2025-09-22
-
 LEI Nº 7.717, DE 22 DE SETEMBRO DE 2025.
 
 Dispõe sobre a criação do Dia do Protetor Independente de Animais e dá outras providências.

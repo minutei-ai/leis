@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.497, de 2026-08-26
-
 LEI Nº 24.497, DE 26 DE AGOSTO DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Encontro Goiano de Terapeutas Ocupacionais, realizado em Goiânia/GO.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 100, de 2015-04-17
-
 LEI COMPLEMENTAR Nº 100, DE 17 DE ABRIL DE 2015.
 
 Altera a Lei Municipal nº 2.555, de 23 de dezembro de 2005, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 213, de 2023-06-12
-
 LEI COMPLEMENTAR MUNICIPAL Nº 213, DE 12 DE JUNHO DE 2023<br>
 (Revogada pela Lei Ordinária Nº 3.820, de 16 de janeiro de 2025).
 

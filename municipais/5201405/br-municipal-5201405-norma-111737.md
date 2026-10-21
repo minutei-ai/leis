@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.456, de 2019-02-15
-
 LEI MUNICIPAL 3.456, DE 15 DE FEVEREIRO DE 2019
 
 Estabelece no âmbito do Município de Aparecida de Goiânia, sanções e penalidades administrativas para aqueles que praticarem maus-tratos aos animais e dá outras providências.

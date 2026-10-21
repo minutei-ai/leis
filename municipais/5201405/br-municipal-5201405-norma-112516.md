@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.360, de 2025-05-09
-
 DECRETO Nº 1.360, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o remembramento do Lote 01 ao 16, da Quadra 06A, situado à Rua MG-10, no Loteamento Conjunto Habitacional Madre Germana – 1º ETAPA, no Município de Aparecida de Goiânia.

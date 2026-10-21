@@ -1,5 +1,3 @@
-# Medida Provisória nº 754 de 19/12/2016
-
 MEDIDA PROVISÓRIA Nº 754, DE 19 DE DEZEMBRO DE 2016
 
 Altera a [Lei nº 10.742, de 6 de outubro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-06;10742), que define normas de regulação para o setor farmacêutico.

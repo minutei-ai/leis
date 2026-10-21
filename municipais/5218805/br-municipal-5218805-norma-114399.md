@@ -1,5 +1,3 @@
-# Lei Complementar nº 369, de 2024-12-16
-
 LEI COMPLEMENTAR Nº 369, DE 16 DE DEZEMBRO DE 2024.
 
 Altera a [Lei Complementar nº 355](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114398 "Abrir Lei Complementar nº 355, de 2024 em nova aba"), de 27 de maio de 2024, que institui e regulamenta a Academia de Ensino da Guarda Civil de Rio Verde (ACEGRV).

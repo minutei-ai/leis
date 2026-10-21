@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.445, de 2025-05-28
-
 LEI Nº 23.445, DE 28 DE MAIO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o _Go Game Festival_, realizado no Município de Goiânia/GO.

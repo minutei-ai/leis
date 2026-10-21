@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.971, de 2025-12-20
-
 LEI Nº 23.971, DE 20 DEZEMBRO DE 2025
 
 Veda a nomeação para cargos em comissão na hipótese que especifica. 

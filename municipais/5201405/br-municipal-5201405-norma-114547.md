@@ -1,5 +1,3 @@
-# Decreto Numerado nº 65, de 2024-02-06
-
 DECRETO “N” Nº 65 DE 06 DE FEVEREIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

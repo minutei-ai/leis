@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.723, de 2025-10-03
-
 LEI Nº 23.723, DE 3 DE OUTUBRO DE 2025
 
 Institui a Política Estadual de Combate ao Suicídio de Crianças e Adolescentes.

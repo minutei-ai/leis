@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.426, de 2025-05-22
-
 DECRETO Nº 1.426, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua 14 de Janeiro no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

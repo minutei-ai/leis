@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.385, de 2023-08-28
-
 LEI N° 7.385, DE 28 DE AGOSTO DE 2023
 
 Denomina prédio que menciona.

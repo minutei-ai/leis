@@ -1,5 +1,3 @@
-# Decreto Numerado nº 455, de 2023-07-12
-
 DECRETO “N” Nº 455, DE 12 DE JULHO DE 2023.
 
 Dispõe sobre a nomeação dos membros integrantes da Comissão Administrativa de Defesa Prévia – CADEP e dá outras providências.

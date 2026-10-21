@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.787, de 2024-06-13
-
 LEI MUNICIPAL Nº 3.787, DE 13 DE JUNHO DE 2024.
 
 Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2025.

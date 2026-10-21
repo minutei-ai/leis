@@ -1,5 +1,3 @@
-# Lei Complementar nº 331, de 2023-12-22
-
 LEI COMPLEMENTAR Nº 331, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a Lei Complementar nº 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

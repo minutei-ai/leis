@@ -1,5 +1,3 @@
-# Medida Provisória nº 119 de 15/05/2003
-
 ###MPV-000119-0-000-15-05-2003@@@
 
 MEDIDA PROVISÓRIA Nº 119, DE 15 DE MAIO 2003.

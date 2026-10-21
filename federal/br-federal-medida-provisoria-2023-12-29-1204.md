@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.204 de 29/12/2023
-
 MEDIDA PROVISÓRIA Nº 1.204, DE 29 DE DEZEMBRO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 314.000.000,00, para os fins que especifica.

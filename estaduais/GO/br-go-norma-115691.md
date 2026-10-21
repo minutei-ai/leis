@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.361, de 2026-06-22
-
 LEI Nº 24.361, DE 22 DE JUNHO DE 2026
 
 Altera a [Lei nº 20.873](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103468 "Abrir Lei Ordinária nº 20873, de 2020 em nova aba"), de 08 de outubro de 2020, que institui a Política de Atenção e Direitos ao Portador de Síndrome da Fibromialgia e Doenças Reumatológicas.

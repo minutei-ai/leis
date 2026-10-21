@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.301, de 2016-02-04
-
 LEI MUNICIPAL Nº 3.301 DE 04 DE FEVEREIRO DE 2016
 
 Dispõe sobre a criação do Sistema Cicloviário do Município de Aparecida de Goiânia e dá outras providências.

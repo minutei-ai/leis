@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.761, de 2023-12-11
-
 LEI MUNICIPAL N° 3.761 DE 11 DE DEZEMBRO DE 2023.
 
 Revoga integralmente as Leis Municipais nº 2.950, de 08 de Abril de 2011 e 3.379, de 13 de Setembro de 2017.

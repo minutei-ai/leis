@@ -1,5 +1,3 @@
-# Decreto Numerado nº 399, de 2024-05-28
-
 DECRETO “N” Nº 399 DE 28 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

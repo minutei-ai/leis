@@ -1,5 +1,3 @@
-# Medida Provisória nº 125 de 30/07/2003
-
 ###MPV-000125-0-000-30-07-2003@@@
 
 MEDIDA PROVISÓRIA Nº 125, DE 30 DE JULHO 2003.

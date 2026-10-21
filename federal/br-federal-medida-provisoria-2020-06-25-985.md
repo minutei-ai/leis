@@ -1,5 +1,3 @@
-# Medida Provisória nº 985 de 25/06/2020
-
 MEDIDA PROVISÓRIA Nº 985, DE 25 DE JUNHO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 300.000.000,00, para o fim que especifica, e dá outras providências.

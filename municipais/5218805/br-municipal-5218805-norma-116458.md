@@ -1,5 +1,3 @@
-# Lei Complementar nº 64, de 2016-05-23
-
 LEI COMPLEMENTAR Nº 64, DE 23 DE MAIO DE 2016.
 
 Altera o Anexo II da Lei n. 3.853/99 que instituiu o Plano de Cargos e Vencimentos do Município de Rio Verde.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.250, de 2025-02-06
-
 LEI Nº 23.250, DE 6 DE FEVEREIRO DE 2025
 
 Altera a [Lei nº 22.512](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108293), de 28 de dezembro de 2023, que dispõe sobre a criação do cargo de Agente de Fiscalização e Examinador de Trânsito no Quadro Permanente dos Servidores do Departamento Estadual de Trânsito – DETRAN e sobre o seu Plano de Carreira e Remuneração e dá outras providências.

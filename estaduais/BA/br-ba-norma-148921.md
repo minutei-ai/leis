@@ -1,5 +1,3 @@
-# LEI Nº 15.202 DE 03 DE JULHO DE 2026
-
 LEI Nº 15.202 DE 03 DE JULHO DE 2026
 
 Institui a Política Estadual de Agricultura Urbana  e Periurbana e o Comitê Gestor Estadual de Agricultura Urbana e Periurbana.

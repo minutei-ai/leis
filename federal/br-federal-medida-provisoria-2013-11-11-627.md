@@ -1,5 +1,3 @@
-# Medida Provisória nº 627 de 11/11/2013
-
 MEDIDA PROVISÓRIA Nº 627, DE 11 DE NOVEMBRO DE 2013
 
 Altera a legislação tributária federal relativa ao Imposto sobre a Renda das Pessoas Jurídicas \- IRPJ, à Contribuição Social sobre o Lucro Líquido - CSLL, à Contribuição para o PIS/PASEP e à Contribuição para o Financiamento da Seguridade Social - COFINS; revoga o Regime Tributário de Transição \- RTT, instituído pela Lei nº 11.941, de 27 de maio de 2009; dispõe sobre a tributação da pessoa jurídica domiciliada no Brasil, com relação ao acréscimo patrimonial decorrente de participação em lucros auferidos no exterior por controladas e coligadas e de lucros auferidos por pessoa física residente no Brasil por intermédio de pessoa jurídica controlada no exterior; e dá outras providências.

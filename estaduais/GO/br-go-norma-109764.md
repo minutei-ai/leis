@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.038, de 2024-10-28
-
 LEI Nº 23.038, DE 28 DE OUTUBRO DE 2024
 
 Altera a [Lei nº 20.795](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103237), de 10 de junho de 2020, que autoriza o Chefe do Poder Executivo a firmar o termo de colaboração que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 497, de 2024-06-24
-
 DECRETO “N” Nº 497 DE 24 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.369 de 18/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.369, DE 18 DE JUNHO DE 2026
 
 Altera a [Lei nº 15.201, de 9 de setembro de 2025](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-09-09;15201), que institui o Programa de Gerenciamento de Benefícios no âmbito do Instituto Nacional do Seguro Social e do Departamento de Perícia Médica Federal da Secretaria de Regime Geral de Previdência Social do Ministério da Previdência Social.

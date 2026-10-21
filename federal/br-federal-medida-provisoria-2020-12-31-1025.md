@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.025 de 31/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.025, DE 31 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência.

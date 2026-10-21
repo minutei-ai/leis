@@ -1,5 +1,3 @@
-# Medida Provisória nº 635 de 26/12/2013
-
 MEDIDA PROVISÓRIA Nº  635, DE 26 DE DEZEMBRO DE 2013
 
 Dispõe sobre a ampliação do valor do Benefício Garantia-Safra para a safra de 2012/2013, sobre a ampliação do Auxílio Emergencial Financeiro relativo aos desastres ocorridos em 2012 e dá outras providências.

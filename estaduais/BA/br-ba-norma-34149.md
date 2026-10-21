@@ -1,5 +1,3 @@
-# Constituição do Estado da Bahia de 02 de julho de 1891 - Texto Consolidado
-
 PROMULGADA EM 02 DE JULHO DE 1891
 
 EM NOME DE DEUS OMNIPOTENTE

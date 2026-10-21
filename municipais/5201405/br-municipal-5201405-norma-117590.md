@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.043, de 2024-12-04
-
 DECRETO “N” Nº 1.043 DE 04 DE DEZEMBRO DE 2024.
 
 Revoga o Decreto “N” nº 574 de 15 de julho de 2024.

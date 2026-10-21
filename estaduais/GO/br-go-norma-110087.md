@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.128, de 2024-12-02
-
 LEI Nº 23.128, DE 2 DE DEZEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

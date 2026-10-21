@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.921, de 2026-06-08
-
 DECRETO Nº 10.921, DE 8 DE JUNHO DE 2026
 
 Regulamenta a [Lei nº 23.597](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177 "Abrir Lei Ordinária nº 23597, de 2025 em nova aba"), de 27 de agosto de 2025, quanto à governança da Autoridade Estadual de Minerais Críticos do Estado de Goiás – AMIC/GO, ao credenciamento de empreendimentos, às Zonas Especiais de Minerais Críticos, ao Fundo Estadual de Desenvolvimento dos Minerais Críticos e aos instrumentos estaduais de fomento, transparência e articulação setorial.

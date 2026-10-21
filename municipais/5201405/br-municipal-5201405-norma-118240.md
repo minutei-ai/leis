@@ -1,5 +1,3 @@
-# Decreto Numerado nº 457, de 2023-07-12
-
 DECRETO “N” Nº 457 DE 12 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento SETOR DOS AFONSOS, neste município.

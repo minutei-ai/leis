@@ -1,5 +1,3 @@
-# Lei Complementar nº 329, de 2023-12-22
-
 LEI COMPLEMENTAR Nº 329, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a [Lei Complementar nº 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), de 31 de agosto de 2000, que reformula o Estatuto dos Funcionários do Município de Rio Verde – GO.

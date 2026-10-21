@@ -1,5 +1,3 @@
-# Decreto Numerado nº 310, de 2024-04-30
-
 DECRETO “N” Nº 310, DE 30 DE ABRIL DE 2024.
 
 Nomeia membros para compor o Conselho Municipal de Políticas sobre drogas de Aparecida de Goiânia – COMPOD – para o biênio 2024-2025 e dá outras providências.

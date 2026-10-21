@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.659, de 2022-03-03
-
 LEI MUNICIPAL Nº 3.659, DE 03 DE MARÇO DE 2022.
 
 Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2022.

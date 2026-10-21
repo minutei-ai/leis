@@ -1,5 +1,3 @@
-# Decreto Numerado nº 417, de 2023-06-27
-
 DECRETO “N” Nº 417 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóvel situado no Loteamento JARDIM CRISTALINO, neste município.

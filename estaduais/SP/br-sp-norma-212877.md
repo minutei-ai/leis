@@ -1,5 +1,3 @@
-# Decreto nº 70.785, de 05/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212877)<br>
 
 # DECRETO N° 70.785, DE 05 DE AGOSTO DE 2026

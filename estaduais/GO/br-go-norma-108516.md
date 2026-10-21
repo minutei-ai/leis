@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.420, de 2024-03-08
-
 DECRETO Nº 10.420, DE 8 DE MARÇO DE 2024
 
 Altera o [Decreto estadual nº 10.202](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106711), de 19 de janeiro de 2023, que alterou o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

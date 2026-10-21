@@ -1,5 +1,3 @@
-# Decreto Numerado nº 45, de 2023-01-23
-
 DECRETO “N” Nº 45, DE 23 DE JANEIRO DE 2023
 
 Nomeia membros do Conselho Municipal de Educação de Aparecida de Goiânia para o quadriênio 2023-2026.

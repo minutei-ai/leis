@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.592, de 2020-11-20
-
 LEI MUNICIPAL Nº 3.592, DE 20 DE NOVEMBRO DE 2020.
 
 Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2021 e dá outras previdências.

@@ -1,5 +1,3 @@
-# Lei nº 18.447, de 28/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212505)<br>
 
 # LEI N° 18.447, DE 28 DE ABRIL DE 2026

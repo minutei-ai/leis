@@ -1,5 +1,3 @@
-# Decreto Numerado nº 20, de 2026-01-08
-
 DECRETO Nº 020, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01, 02, 03 e 04, situados à Avenida Amendoeira, Acesso 01, Avenida São João, Rua 02 e Via de Pedestre 02, no Loteamento Residencial Recanto do Cerrado, no Município de Aparecida de Goiânia.

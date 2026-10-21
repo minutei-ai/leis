@@ -1,5 +1,3 @@
-# Decreto Numerado nº 844, de 2024-10-09
-
 DECRETO “N” Nº 844 DE 09 DE OUTUBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

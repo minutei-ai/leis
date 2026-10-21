@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.150, de 2024-12-11
-
 LEI Nº 23.150, DE 11 DE DEZEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

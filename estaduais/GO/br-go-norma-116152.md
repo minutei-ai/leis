@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.437, de 2026-07-10
-
 LEI Nº 24.437, DE 10 DE JULHO DE 2026
 
 Altera a [Lei nº 23.457](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110891), de 6 de junho de 2025, que autoriza o Poder Executivo a contratar operação de crédito no Banco Interamericano de Desenvolvimento – BID, com a garantia da União.

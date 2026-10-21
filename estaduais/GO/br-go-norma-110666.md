@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.406, de 2025-05-08
-
 LEI Nº 23.406, DE 8 DE MAIO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 396, de 2023-06-20
-
 DECRETO “N” Nº 396 DE 20 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no PERÍMETRO URBANO, neste município.

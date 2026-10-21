@@ -1,5 +1,3 @@
-# Medida Provisória nº 193 de 24/06/2004
-
 ###MPV-000193-0-000-24-06-2004@@@
 
 MEDIDA PROVISÓRIA Nº 193, DE 24 DE JUNHO 2004

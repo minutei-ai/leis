@@ -1,5 +1,3 @@
-# Decreto Numerado nº 253, de 2023-04-14
-
 DECRETO “N” Nº 253 DE 14 DE ABRIL DE 2023.
 
 Institui a Comissão Intersetorial do Programa Vida no Trânsito em Aparecida de Goiânia, nomeia seus respectivos membros e dá outras providências.

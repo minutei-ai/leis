@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.414, de 2026-07-03
-
 LEI Nº 24.414, DE 3 DE JULHO DE 2026
 
 Altera a [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020, que dispõe sobre o regime jurídico dos servidores públicos civis do Estado de Goiás, das autarquias e fundações públicas estaduais, e dá outras providências, e a [Lei nº 18.456](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90668), de 30 de abril de 2014, que dispõe sobre a prevenção e a punição de assédio moral no âmbito da Administração estadual e dá outras providências.

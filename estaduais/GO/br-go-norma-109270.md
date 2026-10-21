@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.888, de 2024-08-05
-
 LEI Nº 22.888, DE 5 DE AGOSTO DE 2024.
 
 Institui o Mês Estadual “Outubro Branco”.

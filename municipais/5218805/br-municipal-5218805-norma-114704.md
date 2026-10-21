@@ -1,5 +1,3 @@
-# Lei Complementar nº 3, de 2014-03-05
-
 LEI COMPLEMENTAR Nº 03, DE 25 DE MARCO DE 2014.
 
 Altera a Lei Complementar n. 3.633/98.

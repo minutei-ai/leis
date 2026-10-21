@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.123, de 2025-09-01
-
 DECRETO Nº 2.123, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento dos Lotes 26/27, situados à Rua Júlio César, no Loteamento Villa Romana, no Município de Aparecida de Goiânia.

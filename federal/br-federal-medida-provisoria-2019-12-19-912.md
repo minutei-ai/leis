@@ -1,5 +1,3 @@
-# Medida Provisória nº 912 de 19/12/2019
-
 MEDIDA PROVISÓRIA Nº 912, DE 19 DE DEZEMBRO DE 2019
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 31.793.585,00, para o fim que especifica.

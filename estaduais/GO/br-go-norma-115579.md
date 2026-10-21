@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 188, de 2026-05-14
-
 Portaria Orçamentária nº 188/2026 - Economia
 
 O Defensor Público-Geral da DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 06 de janeiro de 2026.

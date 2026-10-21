@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.570, de 2024-12-02
-
 LEI Nº 7.570, DE 2 DE DEZEMBRO DE 2024.
 
 Denomina de “Paço Municipal” a nova sede da Prefeitura Municipal de Rio Verde – GO.

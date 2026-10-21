@@ -1,5 +1,3 @@
-# Lei Complementar nº 276, de 2022-12-16
-
 LEI COMPLEMENTAR Nº. 276, DE 16 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 4.223/2001, que institui o quadro de pessoal da Superintendência Municipal de Trânsito e dá outras providências e a Lei nº 3.853/1999, que dispõe sobre o plano de cargos e vencimentos dos servidores públicos municipais de Rio Verde e dá outras providências.

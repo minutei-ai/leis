@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.758, de 2025-08-15
-
 DECRETO Nº 10.758, DE 15 DE AGOSTO DE 2025
 
 Altera os [Decretos nº 3.822](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63202), de 10 de julho de 1992, [nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, [nº 5.265](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61834), de 31 de julho de 2000, [nº 9.724](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103462), de 7 de outubro de 2020, e [nº 9.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104267), de 23 de agosto de 2021, que tratam de matéria tributária.

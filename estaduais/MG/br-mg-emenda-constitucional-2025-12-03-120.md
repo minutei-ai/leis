@@ -1,5 +1,3 @@
-# EMC nº 120, de 03/12/2025
-
 Acrescenta artigo à Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

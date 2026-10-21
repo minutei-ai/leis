@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.446, de 2018-12-13
-
 LEI N° 3.446, DE 13 DE DEZEMBRO DE 2018
 
 Altera a Lei n° 2.861/2009, que institui normas para as Eleições de Gestores nas Unidades de Ensino vinculadas ao sistema educativo do município de Aparecida de Goiânia e dá outras providências.

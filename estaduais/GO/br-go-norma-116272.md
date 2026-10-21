@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.471, de 2026-07-17
-
 LEI Nº 24.471, DE 17 DE JULHO DE 2026
 
 Altera a [Lei nº 16.478](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87211 "Abrir Lei Ordinária nº 16478, de 2009 em nova aba"), de 10 de fevereiro de 2009, que institui a Política Estadual de Desenvolvimento do Turismo Rural.

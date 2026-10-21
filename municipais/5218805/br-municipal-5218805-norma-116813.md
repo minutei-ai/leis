@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.228, de 2021-12-27
-
 LEI Nº 7.228, DE 27 DE DEZEMBRO DE 2021
 
 "Reconhece como utilidade pública municipal a ONG Amar Sem Limites e dá outras providências”.

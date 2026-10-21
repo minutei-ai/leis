@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.168, de 2024-12-20
-
 LEI Nº 23.168, DE 20 DE DEZEMBRO DE 2024
 
 Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.

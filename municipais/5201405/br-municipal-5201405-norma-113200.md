@@ -1,5 +1,3 @@
-# Decreto Orçamentário nº 9, de 2025-01-02
-
 DECRETO Nº 09, DE 2 DE JANEIRO DE 2025
 
 Determina a apuração da regularidade e legalidade das despesas empenhadas e não pagas referentes ao exercício de 2024 e anteriores.

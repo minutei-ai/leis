@@ -1,5 +1,3 @@
-# Medida Provisória nº 4 de 17/10/2001
-
 ###MPV-000004-0-000-17-10-2001@@@
 
 MEDIDA PROVISÓRIA Nº 4, DE 17 DE OUTUBRO DE 2001

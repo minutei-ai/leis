@@ -1,5 +1,3 @@
-# Medida Provisória nº 959 de 29/04/2020
-
 MEDIDA PROVISÓRIA Nº 959, DE 29 DE ABRIL DE 2020
 
 Estabelece a operacionalização do pagamento do Benefício Emergencial de Preservação do Emprego e da Renda e do benefício emergencial mensal de que trata a Medida Provisória nº 936, de 1º de abril de 2020, e prorroga a vacatio legis da Lei nº 13.709, de 14 de agosto de 2018, que estabelece a Lei Geral de Proteção de Dados Pessoais - LGPD.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.386, de 2023-08-28
-
 LEI N° 7.386, DE 28 DE AGOSTO DE 2023.
 
 Dispõe sobre a preferência de vagas para irmãos no mesmo estabelecimento de ensino público no Município de Rio Verde - GO

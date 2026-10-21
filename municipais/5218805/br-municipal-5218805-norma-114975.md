@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.540, de 2024-09-16
-
 LEI Nº 7.540, DE 16 DE SETEMBRO DE 2024.
 
 Institui o Dia Municipal do Movimento Mães que Oram pelos Filhos, no município de Rio Verde-Goiás.

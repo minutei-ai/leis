@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.226, de 2012-12-17
-
 LEI COMPLEMENTAR Nº 6.226, DE 17 DE DEZEMBRO DE 2012.
 
 Altera a Lei n. 3.635/98 – Código de Posturas do Município.

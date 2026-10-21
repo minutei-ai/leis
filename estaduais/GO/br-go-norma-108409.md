@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.397, de 2024-01-25
-
 DECRETO Nº 10.397, DE 25 DE JANEIRO DE 2024
 
 Altera o [Decreto nº 7.531](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65342), de 29 de dezembro de 2011, que institui, na Secretaria de Estado da Segurança Pública, a Medalha da Ordem do Mérito da Segurança Pública Governador Mauro Borges Teixeira.

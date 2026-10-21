@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.418, de 2024-03-06
-
 DECRETO Nº 10.418, DE 6 DE MARÇO DE 2024
 
 Altera o [Decreto estadual nº 9.496](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72409), de 14 de agosto de 2019, que dispõe sobre a concessão de estágio de estudantes no âmbito da administração direta, autárquica e fundacional do Poder Executivo Estadual e dá outras providências.

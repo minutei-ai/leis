@@ -1,5 +1,3 @@
-# Medida Provisória nº 811 de 21/12/2017
-
 MEDIDA PROVISÓRIA Nº 811, DE 21 DE DEZEMBRO DE 2017
 
 Altera a Lei nº 12.304, de 2 de agosto de 2010, que autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Administração de Petróleo e Gás Natural S.A. - Pré-Sal Petróleo S.A. - PPSA e dispõe sobre a política de comercialização de petróleo, gás natural e outros hidrocarbonetos.

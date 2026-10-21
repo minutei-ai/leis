@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.537, de 2020-01-07
-
 LEI MUNICPAL Nº 3.537, DE 07 DE JANEIRO DE 2020.
 
 “Dispõe sobre o RECONHECIMENTO DE UTILIDADE PÚBLICA DA ASSOCIAÇÃO TODOS PARA CRISTO- UM MOVER DE DEUS A SEU FAVOR, neste Município e dá outras providências.”

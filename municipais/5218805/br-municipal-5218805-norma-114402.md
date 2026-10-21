@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.663, de 2025-06-30
-
 LEI Nº 7.663, DE 30 DE JUNHO DE 2025.
 
 Prorroga, até 31 de dezembro de 2025, a vigência do Plano Municipal de Educação,aprovado por meio da Lei nº 6.546, de 16 de junho de 2015.

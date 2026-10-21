@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.149 de 29/05/2001
-
 ###MPV-002149-0-000-29-05-2001@@@
 
 MEDIDA PROVISÓRIA Nº 2.149, DE 29 DE MAIO DE 2001

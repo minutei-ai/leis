@@ -1,5 +1,3 @@
-# Decreto nº 70.300, de 29/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212126)<br>
 
 # DECRETO N° 70.300, DE 29 DE DEZEMBRO DE 2025

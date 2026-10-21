@@ -1,5 +1,3 @@
-# Decreto nº 69.888, de 19/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211543)<br>
 
 # DECRETO N° 69.888, DE 19 DE SETEMBRO DE 2025

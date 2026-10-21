@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.694, de 2024-05-15
-
 LEI Nº 22.694, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas dos Municípios do Estado de Goiás e dá outras providências.

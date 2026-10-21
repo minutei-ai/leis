@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.344 de 19/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.344, DE 19 DE MARÇO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 10.000.000.000,00, para os fins que especifica.

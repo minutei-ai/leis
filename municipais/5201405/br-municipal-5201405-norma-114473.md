@@ -1,5 +1,3 @@
-# Decreto Numerado nº 380, de 2026-05-14
-
 DECRETO Nº 380, DE 14 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01, 02, 03, 04 e Lotes 15, 16, 17 e 18, todos da Quadra 12-B, situados à Rua Safira, Rua Titanita e Alameda Leucita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

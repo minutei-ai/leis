@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 334, de 2024-06-24
-
 Portaria Orçamentária nº 334/2024 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/Fica%20aberto%20%C3%A0%20FUNDO%20ESTADUAL%20DE%20SA%C3%9ADE%20-%20FES,%201%20\(um\)%20cr%C3%A9dito%20suplementar%20no%20valor%20de%20R%24%2029.500,00%20\(vinte%20e%20nove%20mil%20e%20quinhentos%20reais\),%20para%20refor%C3%A7o%20de%20dota%C3%A7%C3%A3o%20consignada%20no%20vigente%20Or%C3%A7amento-Geral%20do%20Estado,%20conforme%20quadro%201,%20que%20acompanha%20esta%20Portaria.), de 9 de Janeiro de 2024, conforme processo 202400004035893.

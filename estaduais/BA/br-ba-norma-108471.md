@@ -1,5 +1,3 @@
-# LD Nº 06 DE 18 DE JANEIRO DE 1972
-
 LEI DELEGADA Nº 06 DE 18 DE JANEIRO DE 1972
 
 [![](#!-- #IMAGES:Republicação.gif --#)](https://www.legislabahia.ba.gov.br/documentos/ld-no-06-de-18-de-janeiro-de-1972#LD_06)

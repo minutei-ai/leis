@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.013 de 03/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.013, DE 3 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 10.480, de 2 de julho de 2002, para prorrogar o prazo de recebimento de gratificações por servidores ou por empregados requisitados pela Advocacia-Geral da União.

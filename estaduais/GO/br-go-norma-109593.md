@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.562, de 2024-09-27
-
 DECRETO Nº 10.562, DE 27 DE SETEMBRO DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica.

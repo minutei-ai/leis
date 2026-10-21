@@ -1,5 +1,3 @@
-# Decreto Numerado nº 39, de 2026-01-13
-
 DECRETO Nº 039, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua 01, no Loteamento Setor Conde dos Arcos, no Município de Aparecida de Goiânia.

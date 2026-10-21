@@ -1,5 +1,3 @@
-# Decreto Numerado nº 616, de 2024-07-31
-
 DECRETO “N” Nº 616 DE 31 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

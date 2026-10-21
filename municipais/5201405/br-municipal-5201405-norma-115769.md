@@ -1,5 +1,3 @@
-# Decreto Numerado nº 508, de 2024-06-27
-
 DECRETO “N” Nº 508 DE 27 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

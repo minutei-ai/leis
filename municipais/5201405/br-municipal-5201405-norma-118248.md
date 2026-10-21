@@ -1,5 +1,3 @@
-# Decreto Numerado nº 465, de 2023-07-17
-
 DECRETO “N” Nº 465 DE 17 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE IBIRAPUERA, neste município.

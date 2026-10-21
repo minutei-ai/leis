@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.707, de 2007-12-18
-
 LEI MUNICIPAL Nº 2.707 DE 18 DE DEZEMBRO DE 2007.
 
 “Institui as Áreas Especiais de Interesse Social - AEIS, bem como as normas para regularização fundiária das áreas ocupadas ou não e Cria o Plano Habitacional de Interesse Social - PHIS, e dá outras.”

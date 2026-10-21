@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.392 de 21/09/2026
-
 MEDIDA PROVISÓRIA Nº 1.392, DE 21 DE SETEMBRO DE 2026
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento e Assistência Social, Família e Combate à Fome e dos Povos Indígenas, no valor de R$ 64.289.400,00, para os fins que especifica.

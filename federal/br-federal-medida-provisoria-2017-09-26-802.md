@@ -1,5 +1,3 @@
-# Medida Provisória nº 802 de 26/09/2017
-
 MEDIDA PROVISÓRIA Nº 802, DE 26 DE SETEMBRO DE 2017
 
 Dispõe sobre o Programa Nacional de Microcrédito Produtivo Orientado.

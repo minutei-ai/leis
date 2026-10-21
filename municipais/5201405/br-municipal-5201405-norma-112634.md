@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.520, de 2025-06-10
-
 DECRETO Nº 1.520, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua Serra Dourada, no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 492 de 29/06/2010
-
 ###MPV-000492-0-000-29-06-2010@@@
 
 MEDIDA PROVISÓRIA Nº 492, DE 29 DE JUNHO DE 2010.

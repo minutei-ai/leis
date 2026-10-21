@@ -1,5 +1,3 @@
-# Lei Complementar nº 4, de 2014-04-15
-
 LEI COMPLEMENTAR Nº 04, DE 15 DE ABRIL DE 2014.
 
 Altera Lei Complementar nº 6.111/2012 - Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da área fim da Secretaria Municipal de Saúde.

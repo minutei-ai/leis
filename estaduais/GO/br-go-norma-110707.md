@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.441, de 2025-05-21
-
 LEI Nº 23.441, DE 21 DE MAIO DE 2025
 
 Institui a Política Estadual de Fomento à Presença Feminina em Carreiras Científicas.

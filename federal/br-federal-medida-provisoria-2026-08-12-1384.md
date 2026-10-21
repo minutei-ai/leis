@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.384 de 12/08/2026
-
 MEDIDA PROVISÓRIA Nº 1.384, DE 12 DE AGOSTO DE 2026
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e Agricultura Familiar e do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 924.985.960,00, para os fins que especifica.

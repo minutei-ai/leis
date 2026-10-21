@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.270, de 2022-05-27
-
 LEI N° 7.270, DE 27 DE MAIO DE 2022
 
 Altera a Lei n°. 7.227/2021, que dispõe sobre a criação do Programa Municipal SEMPRE NOVA EDUCAÇÃO RIO VERDE, que descentraliza a gestão financeira das instituições educacionais públicas municipais e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.594, de 2020-12-02
-
 LEI MUNICIPAL Nº 3.594, DE 02 DE DEZEMBRO DE 2020.<br>
 (Revogada pela Lei Ordinária nº 3.702, de 23 de março de 2023).
 

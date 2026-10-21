@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.857, de 2025-09-26
-
 LEI Nº 3.857, DE 26 DE SETEMBRO DE 2025
 
 Desafeta de sua destinação primitiva a Área Pública Municipal - Lote 24, da Quadra 8, do loteamento Parque Hayala e autoriza a permuta com os imóveis privados que especifica.

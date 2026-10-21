@@ -1,5 +1,3 @@
-# Decreto Numerado nº 19, de 2023-01-12
-
 DECRETO “N” Nº 19 DE 12 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento GARAVELO RESIDENCIAL PARK, neste município.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.371, de 2025-04-28
-
 LEI Nº 23.371, DE 28 DE ABRIL DE 2025
 
 Institui o Selo “Empresa Amiga da Pessoa Idosa” e o Título “Amiga(o) da Pessoa Idosa”.

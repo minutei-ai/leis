@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.927, de 2026-06-15
-
 DECRETO Nº 10.927, DE 15 DE JUNHO DE 2026
 
 Estabelece os limites do Parque Estadual da Serra de Caldas Novas e declara a área de terras especificada como de utilidade pública, para fins de desapropriação, e dá outras providências.

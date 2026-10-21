@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.823, de 2025-01-28
-
 LEI MUNICIPAL Nº 3.823, DE 28 DE JANEIRO DE 2025.
 
 Altera a Lei Municipal nº 3.657/2022, que dispõe sobre o Plano Plurianual (PPA) para o quadriênio 2022/2025, e dá outras providências.

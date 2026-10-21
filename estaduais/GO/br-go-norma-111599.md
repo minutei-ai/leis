@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.863, de 2025-11-19
-
 LEI Nº 23.863, DE 19 DE NOVEMBRO DE 2025
 
 Institui a exigência de implantação do Programa de Integridade pelas empresas e pelas entidades privadas sem fins lucrativos que contratarem ou firmarem ajustes de forma colaborativa com a administração pública do Estado de Goiás e revoga a [Lei nº 20.489](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100700), de 10 de junho de 2019.

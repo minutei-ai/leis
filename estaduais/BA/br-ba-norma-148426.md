@@ -1,5 +1,3 @@
-# LEI Nº 15.128 DE 18 DE MARÇO DE 2026
-
 LEI Nº 15.128 DE 18 DE MARÇO DE 2026
 
 Dispõe sobre a reestruturação administrativa do Poder Judiciário do Estado da Bahia, com a criação de novas unidades e cargos comissionados de apoio técnico-administrativo, e a alteração das Leis Estaduais nº 10.845, de 27 de novembro de 2007, nº 5.516, de 17 de novembro de 1989, e nº 11.918, de 20 de outubro de 2010.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.678, de 2025-09-16
-
 LEI Nº 23.678, DE 16 DE SETEMBRO DE 2025
 
 Institui a Política Estadual de Fomento à Cadeia Produtiva da Uva.

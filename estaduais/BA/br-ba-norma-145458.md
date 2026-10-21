@@ -1,5 +1,3 @@
-# LEI Nº 14.766 DE 21 DE AGOSTO DE 2024
-
 LEI Nº 14.766 DE 21 DE AGOSTO DE 2024
 
 Autoriza o Poder Executivo a contratar operação de crédito interno junto ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, com garantia da União, e dá outras providências.

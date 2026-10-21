@@ -1,5 +1,3 @@
-# Lei Complementar nº 134, de 2018-07-05
-
 <br>
 **LEI COMPLEMENTAR Nº 134, DE 05 DE JULHO DE 2018**
 

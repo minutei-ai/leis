@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.051 de 18/05/2021
-
 MEDIDA PROVISÓRIA Nº 1.051, DE 18 DE MAIO DE 2021
 
 Institui o Documento Eletrônico de Transporte e altera a Lei nº 11.442, de 5 de janeiro de 2007, a Lei nº 13.703, de 8 de agosto de 2018, a Lei nº 10.209, de 23 de março de 2001, e a Lei nº 5.474, de 18 de julho de 1968.

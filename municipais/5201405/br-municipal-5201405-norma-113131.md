@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.194, de 2025-09-08
-
 DECRETO Nº 2.194, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes Mansão 34 e 35, todos da Quadra D, situados à Avenida Marechal Rondon, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

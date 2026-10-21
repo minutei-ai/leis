@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.775, de 2025-07-16
-
 DECRETO Nº 1.775, DE 16 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Turmalina no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

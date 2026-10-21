@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.435, de 2023-10-23
-
 LEI Nº 7.435, DE 23 DE OUTUBRO DE 2023.
 
 Dispõe sobre o Plano de Cargos e Remuneração dos Servidores Públicos da Câmara Municipal de Rio Verde/GO.

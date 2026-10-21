@@ -1,5 +1,3 @@
-# Emenda à Lei Orgânica nº 2, de 2012-09-05
-
 MUNICÍPIO DE APARECIDA DE GOIÂNIA<br>
 CÂMARA MUNICIPAL
 

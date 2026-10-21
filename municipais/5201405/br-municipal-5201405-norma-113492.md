@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.736, de 2023-09-26
-
 LEI MUNICIPAL Nº 3.736, DE 26 DE SETEMBRO DE 2023.
 
 Reconhece como Utilidade Pública Municipal o “INSTITUTO MULHERES DE ALTO VALOR – MAV”.

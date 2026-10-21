@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.370, de 2025-04-28
-
 LEI Nº 23.370, DE 28 DE ABRIL DE 2025
 
 Concede revisão geral anual da remuneração dos servidores da Defensoria Pública do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 164, de 2019-08-23
-
 LEI COMPLEMENTAR Nº 164, DE 23 DE AGOSTO DE 2019
 
 Prorroga o prazo de vigência dos valores da Gratificação Especial por Função Específica constante do Anexo I da Lei Complementar nº 130/2017.

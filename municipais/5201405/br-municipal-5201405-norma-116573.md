@@ -1,5 +1,3 @@
-# Lei Complementar nº 148, de 2018-09-21
-
 LEI COMPLEMENTAR Nº 148, DE 21 DE SETEMBRO DE 2018
 
 Prorroga o prazo de vigência dos valores da Gratificação Especial por Função Específica constante do Anexo I da Lei Complementar nº 130/2017.

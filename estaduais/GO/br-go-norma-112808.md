@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.088, de 2026-02-10
-
 LEI Nº 24.088, DE 10 DE FEVEREIRO DE 2026
 
 Institui a Semana Estadual do Livro Infantil.

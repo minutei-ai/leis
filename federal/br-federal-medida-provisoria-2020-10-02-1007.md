@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.007 de 02/10/2020
-
 MEDIDA PROVISÓRIA Nº 1.007, DE 2 DE OUTUBRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Economia, no valor de R$ 98.270.969,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.046, de 2026-01-21
-
 LEI Nº 24.046, DE 21 DE JANEIRO DE 2026.
 
 Institui o Prêmio Jovens Escritores e dá outras providências.

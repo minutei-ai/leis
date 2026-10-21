@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.444, de 03/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212830)<br>
 
 # LEI COMPLEMENTAR N° 1.444, DE 03 DE JULHO DE 2026

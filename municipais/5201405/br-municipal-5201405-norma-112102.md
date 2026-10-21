@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.339, de 2002-12-30
-
 LEI MUNICIPAL Nº 2.339, DE 30 DE DEZEMBRO DE 2002.
 
 Amplia o quantitativo de cargos nos quadros do Plano de Carreira dos Servidores da Prefeitura Municipal de Aparecida de Goiânia.

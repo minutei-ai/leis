@@ -1,5 +1,3 @@
-# Decreto Numerado nº 50, de 2026-01-14
-
 DECRETO Nº 050, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05-B, situado à Rua X-16, no Loteamento Sítios Santa Luzia Residencial, no Município de Aparecida de Goiânia.

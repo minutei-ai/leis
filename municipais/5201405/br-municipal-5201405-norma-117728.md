@@ -1,5 +1,3 @@
-# Decreto Numerado nº 7, de 2023-01-09
-
 DECRETO “N” Nº 07 DE 09 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BONANÇA, neste município.

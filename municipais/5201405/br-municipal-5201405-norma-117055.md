@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.162, de 2014-02-28
-
 LEI MUNICIPAL Nº 3.162, DE 28 DE FEVEREIRO DE 2014.
 
 Dá nome ao Centro Municipal de Educação Infantil- CMEI, situado no setor Vila Maria, neste município.

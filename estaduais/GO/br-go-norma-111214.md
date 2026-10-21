@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.775, de 2025-09-04
-
 DECRETO Nº 10.775, DE 4 DE SETEMBRO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação e servidão administrativa, as áreas de terras que especifica.

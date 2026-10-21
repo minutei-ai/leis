@@ -1,5 +1,3 @@
-# Decreto Numerado nº 370, de 2024-05-30
-
 DECRETO “N” Nº 370 DE 20 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

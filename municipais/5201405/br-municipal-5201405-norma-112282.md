@@ -1,5 +1,3 @@
-# Decreto Numerado nº 72, de 2026-01-20
-
 DECRETO Nº 072, DE 20 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Córcega, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

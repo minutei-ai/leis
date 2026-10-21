@@ -1,5 +1,3 @@
-# Decreto Numerado nº 543, de 2026-10-09
-
 DECRETO Nº 543, DE 9 DE OUTUBRO DE 2026
 
 Altera o Decreto “N” nº 25, de 19 de janeiro de 2018, que regulamenta a Lei nº 3.017, de 21 de dezembro de 2011, relativa à exploração do serviço funerário no Município de Aparecida de Goiânia.

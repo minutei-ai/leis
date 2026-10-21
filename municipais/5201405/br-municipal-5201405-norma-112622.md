@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.481, de 2025-06-03
-
 DECRETO Nº 1.481, DE 3 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 16 e 17, situados no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.789, de 2025-10-01
-
 DECRETO Nº 10.789, DE 1º DE OUTUBRO DE 2025
 
 Regulamenta no Poder Executivo do Estado de Goiás a [Lei nº 23.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110645), de 6 de maio de 2025, que reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado e de contratos de estágio.

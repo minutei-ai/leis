@@ -1,5 +1,3 @@
-# Medida Provisória nº 201 de 23/07/2004
-
 ###MPV-000201-0-000-23-07-2004@@@
 
 MEDIDA PROVISÓRIA Nº 201, DE 23 DE JULHO 2004

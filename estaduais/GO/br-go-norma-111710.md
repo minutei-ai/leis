@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.920, de 2025-12-04
-
 LEI Nº 23.920, DE 4 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual do Profissional Químico.

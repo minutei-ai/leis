@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 23 DE 27 DE DEZEMBRO DE 2005
-
 LEI COMPLEMENTAR Nº 23 DE 27 DE DEZEMBRO DE 2005
 
 Altera a estrutura de cargos da Procuradoria Geral do Estado e dá outras providências.

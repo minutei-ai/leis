@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.600, de 2025-08-29
-
 LEI Nº 23.600, DE 29 DE AGOSTO DE 2025
 
 Altera a [Lei nº 21.005](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103967), de 14 de maio de 2021, que institui o Programa Estadual de Bioinsumos, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.212, de 2026-04-08
-
 LEI Nº 24.212, DE 8 DE ABRIL DE 2026
 
 Institui a Política Estadual de Promoção do Trabalho Formal.

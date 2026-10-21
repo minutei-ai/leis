@@ -1,5 +1,3 @@
-# Decreto Numerado nº 345, de 2023-05-23
-
 DECRETO “N” Nº 345 DE 23 DE MAIO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis do Loteamento CHÁCARAS SÃO PEDRO, neste município.

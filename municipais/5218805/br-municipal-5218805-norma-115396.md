@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.364, de 2023-05-29
-
 LEI N. 7.364, DE 29 DE MAIO DE 2023
 
 Autoriza a desafetação e alienação de imóvel.

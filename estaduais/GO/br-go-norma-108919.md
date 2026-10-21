@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.476, de 2024-06-06
-
 DECRETO Nº 10.476, DE 6 DE JUNHO DE 2024
 
 Qualifica como organização social, no âmbito do Estado de Goiás, a entidade que especifica.

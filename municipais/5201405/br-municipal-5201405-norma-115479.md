@@ -1,5 +1,3 @@
-# Decreto Numerado nº 487, de 2026-06-17
-
 DECRETO Nº 487, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Francisco de Sá, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.475, de 2019-06-14
-
 LEI MUNICIPAL 3.475, DE 14 DE JUNHO DE 2019
 
 Institui o Programa de Preceptoria em Estágios Curriculares Obrigatórios e Residências Uni e Multiprofissionais.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.697, de 2025-05-23
-
 DECRETO Nº 10.697 , DE 23 DE MAIO DE 2025
 
 Altera os [Decretos nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e [nº 10.150](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106175), de 30 de setembro de 2022, que altera o Anexo IV do Decreto nº 4.852, de 1997.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.747, de 2025-11-12
-
 LEI Nº 7.747, DE 12 DE NOVEMBRO DE 2025.
 
 Dispõe sobre a alteração do artigo 1º da Lei n. 5.664/2009 que prevê a proibição de cigarros e similares.

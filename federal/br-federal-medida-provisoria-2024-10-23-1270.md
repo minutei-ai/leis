@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.270 de 23/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.270, DE 23 DE OUTUBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 87.000.000,00, para o fim que especifica.

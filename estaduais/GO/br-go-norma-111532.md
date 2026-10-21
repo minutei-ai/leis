@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.799, de 2025-11-06
-
 LEI Nº 23.799, DE 6 DE NOVEMBRO DE 2025
 
 Institui a Semana Estadual da Segurança e Prevenção de Acidentes no Trabalho.

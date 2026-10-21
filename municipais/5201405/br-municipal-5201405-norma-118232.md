@@ -1,5 +1,3 @@
-# Decreto Numerado nº 449, de 2023-07-06
-
 DECRETO “N” Nº 449 DE 06 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no loteamento SETOR CONDE DOS ARCOS - COMPLEMENTO, neste município.

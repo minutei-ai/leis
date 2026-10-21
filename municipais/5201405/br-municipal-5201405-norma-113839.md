@@ -1,5 +1,3 @@
-# Decreto Numerado nº 66, de 2024-02-05
-
 DECRETO Nº 66, DE 05 DE FEVEREIRO DE 2024.
 
 Dispõe sobre autorização para Realização de Concurso Público de Provas e Títulos na estrutura da Administração Direta e Indireta e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.147 de 15/05/2001
-
 ###MPV-002147-0-000-15-05-2001@@@
 
 MEDIDA PROVISÓRIA N° 2.147 , DE 15 DE MAIO DE 2001

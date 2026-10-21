@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.427, de 2025-05-22
-
 DECRETO Nº 1.427, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Avenida Andalusita no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

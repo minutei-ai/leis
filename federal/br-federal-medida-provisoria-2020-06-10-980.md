@@ -1,5 +1,3 @@
-# Medida Provisória nº 980 de 10/06/2020
-
 MEDIDA PROVISÓRIA Nº 980, DE 10 DE JUNHO DE 2020
 
 Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações.

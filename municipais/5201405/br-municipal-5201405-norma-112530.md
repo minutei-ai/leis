@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.363, de 2025-05-09
-
 DECRETO Nº 1.363, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, situado à Avenida Jovita Maria de Jesus no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

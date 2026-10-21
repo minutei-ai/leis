@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.460, de 2024-05-02
-
 DECRETO Nº 10.460 , DE 2 DE MAIO DE 2024
 
 Altera os Anexos IX e XII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

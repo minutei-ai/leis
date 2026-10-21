@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.397, de 2017-12-14
-
 LEI MUNICIPAL N° 3.397, DE 14 DE DEZEMBRO DE 2017
 
 Altera a Lei Municipal n° 2.637/2017, que Dispõe sobre a criação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.434, de 2018-09-18
-
 LEI Nº 3.434, DE 18 DE SETEMBRO DE 2018
 
 Concede revisão geral anual, nos termos do artigo 37, X, da Constituição Federal, art. 168 da Lei Orgânica do Município, art. 4º da Lei Complementar Municipal nº 038/2011 e art. 1º da Lei Municipal nº. 3.412/2018, à Câmara Municipal e dá outras providências.

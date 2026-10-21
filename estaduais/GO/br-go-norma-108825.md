@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.675, de 2024-05-09
-
 LEI Nº 22.675, DE 9 DE MAIO DE 2024
 
 Altera a [Lei nº 18.240](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90392), de 28 de novembro de 2013, que dispõe sobre a garantia a todo portador de deficiência, que necessite de cadeira de rodas, da gratuidade do ingresso para o seu acompanhante, em eventos culturais, esportivos e de entretenimento realizados no Estado de Goiás, e dá outras providências.

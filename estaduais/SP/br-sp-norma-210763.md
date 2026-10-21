@@ -1,5 +1,3 @@
-# Lei nº 18.131, de 19/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210763)<br>
 
 # LEI N° 18.131, DE 19 DE MARÇO DE 2025

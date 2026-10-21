@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.248, de 2025-04-24
-
 DECRETO Nº 1.248, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua 4 no Loteamento Setor Araguaia, no Município de Aparecida de Goiânia.

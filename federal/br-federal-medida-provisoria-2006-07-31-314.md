@@ -1,5 +1,3 @@
-# Medida Provisória nº 314 de 31/07/2006
-
 ###MPV-000314-0-000-31-07-2006@@@
 
 MEDIDA PROVISÓRIA Nº 314, DE 31 DE JULHO DE 2006.

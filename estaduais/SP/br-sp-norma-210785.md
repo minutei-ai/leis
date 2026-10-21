@@ -1,5 +1,3 @@
-# Decreto nº 69.432, de 20/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210785)<br>
 
 # DECRETO N° 69.432, DE 20 DE MARÇO DE 2025

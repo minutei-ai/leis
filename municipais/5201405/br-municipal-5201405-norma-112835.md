@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.689, de 2025-06-27
-
 DECRETO Nº 1.689, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 28, situado à Rua Mário Melo no Loteamento Parque Itamaraty, no Município de Aparecida de Goiânia.

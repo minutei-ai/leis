@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.074, de 2026-02-04
-
 LEI Nº 24.074, DE 4 DE FEVEREIRO DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Maio, realizada no Município de Guapó/GO.

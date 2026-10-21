@@ -1,5 +1,3 @@
-# Medida Provisória nº 904 de 11/11/2019
-
 MEDIDA PROVISÓRIA Nº 904, DE 11 DE NOVEMBRO DE 2019
 
 Dispõe sobre a extinção do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores de Vias Terrestres - DPVAT e do Seguro Obrigatório de Danos Pessoais Causados por Embarcações ou por suas Cargas - DPEM, de que trata a alínea "l" do caput do art. 20 do Decreto-Lei nº 73, de 21 de novembro de 1966.

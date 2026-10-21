@@ -1,5 +1,3 @@
-# LEI Nº 14.855 DE 12 DE FEVEREIRO DE 2025
-
 _Publicado no DOE<br>
 Em_ _13.02.2025_
 

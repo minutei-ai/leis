@@ -1,5 +1,3 @@
-# LEI Nº 15.138 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.138 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública o Centro Esportivo Veteranos - CEV, com sede e foro no município de Prado.

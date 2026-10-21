@@ -1,5 +1,3 @@
-# Decreto nº 70.198, de 10/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211978)<br>
 
 # DECRETO N° 70.198, DE 10 DE DEZEMBRO DE 2025

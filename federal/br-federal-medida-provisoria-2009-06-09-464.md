@@ -1,5 +1,3 @@
-# Medida Provisória nº 464 de 09/06/2009
-
 ###MPV-000464-0-000-09-06-2009@@@
 
 MEDIDA PROVISÓRIA Nº 464, DE 9 DE JUNHO DE 2009.

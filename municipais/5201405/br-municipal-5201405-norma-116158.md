@@ -1,5 +1,3 @@
-# Lei Complementar nº 173, de 2020-07-03
-
 LEI COMPLEMENTAR Nº 173 DE 03 DE JULHO DE 2020.
 
 Dispõe sobre alteração da Lei nº 2.229, de 18 de dezembro de 2001, que dispõe sobre o Plano de Carreira e Vencimentos dos servidores da Prefeitura Municipal de Aparecida de Goiânia/GO.

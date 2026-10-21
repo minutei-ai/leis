@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.536, de 2002-12-31
-
 LEI Nº 4.536, DE 31 DE DEZEMBRO DE 2002
 
 Dispõe sobre a Contribuição de Iluminação Pública e de Sistemas de Monitoramento para Segurança e Preservação de Logradouros Públicos e dá outras providências.

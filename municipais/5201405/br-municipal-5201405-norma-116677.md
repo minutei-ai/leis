@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.364, de 2017-06-22
-
 LEI MUNICIPAL 3.364, DE 22 DE JUNHO DE 2017
 
 “Dá nome à Unidade Básica de Saúde, Kleber Jesus Nunes, situada no Setor Cardoso II, neste Município.”

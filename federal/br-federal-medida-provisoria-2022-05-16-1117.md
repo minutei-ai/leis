@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.117 de 16/05/2022
-
 MEDIDA PROVISÓRIA Nº 1.117, DE 16 DE MAIO DE 2022
 
 Altera a Lei nº 13.703, de 8 de agosto de 2018, que institui a Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas.

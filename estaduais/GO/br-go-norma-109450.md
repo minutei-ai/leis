@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.978, de 2024-09-06
-
 LEI Nº 22.978, DE 6 DE SETEMBRO DE 2024
 
 Institui a Política Estadual de Segurança Pública de Prevenção e Combate ao Incêndio Criminoso no Estado de Goiás e cria o tipo penal que especifica.

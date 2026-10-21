@@ -1,5 +1,3 @@
-# Decreto Numerado nº 830, de 2024-10-03
-
 DECRETO “N” Nº 830, DE 03 DE OUTUBRO DE 2024.
 
 Dispõe sobre a delimitação do imóvel APM ÁREA DE LAZER, da quadra 86, situado no loteamento VILLA ROMANA, como ÁREA DE ESPECIAL INTERESSE SOCIAL - AEIS, nos termos do art. 2º da Lei Municipal nº 2.707/2007, e dá outras providências.

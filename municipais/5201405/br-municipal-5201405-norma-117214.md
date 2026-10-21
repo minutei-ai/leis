@@ -1,5 +1,3 @@
-# Decreto Numerado nº 726, de 2024-09-12
-
 DECRETO “N” Nº 726 DE 12 DE SETEMBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

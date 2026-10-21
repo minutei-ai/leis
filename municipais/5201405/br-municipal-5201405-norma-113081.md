@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.761, de 2025-12-09
-
 DECRETO Nº 2.761, DE 9 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Avenida Senador Antônio Ramos Caiado, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

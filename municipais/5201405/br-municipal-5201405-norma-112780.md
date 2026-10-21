@@ -1,5 +1,3 @@
-# Decreto Numerado nº 124, de 2026-02-09
-
 DECRETO Nº 124, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Santo Antônio e Rua São Bernardo, no Loteamento Jardim Alto Paraiso, no Município de Aparecida de Goiânia.

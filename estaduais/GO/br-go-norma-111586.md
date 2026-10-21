@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.841, de 2025-11-14
-
 LEI Nº 23.841, DE 14 DE NOVEMBRO DE 2025
 
 Institui a Política Estadual de Cooperação Luso-Goiana para Inovação e Empreendedorismo.

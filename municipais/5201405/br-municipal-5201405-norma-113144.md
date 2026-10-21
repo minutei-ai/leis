@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.676, de 2025-11-27
-
 DECRETO Nº 2.676, DE 27 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 11, 12, 13 e 14, Todos da Quadra 42, situados à Rua Jassyendy, Avenida Guyraupia e Avenida Rio Verde, no Loteamento Jardim Helvécia, no Município de Aparecida de Goiânia.

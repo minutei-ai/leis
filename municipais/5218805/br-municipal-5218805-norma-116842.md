@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.218, de 2021-11-30
-
 LEI Nº 7.218, DE 30 DE NOVEMBRO DE 2021.
 
 Autoriza o Poder Executivo a realizar repasse financeiro, na forma de patrocínio, ao Sindicato Rural de Rio Verde.

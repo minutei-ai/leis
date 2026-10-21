@@ -1,5 +1,3 @@
-# Medida Provisória nº 61 de 16/08/2002
-
 ###MPV-000061-0-000-16-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 61, DE 16 DE AGOSTO DE 2002

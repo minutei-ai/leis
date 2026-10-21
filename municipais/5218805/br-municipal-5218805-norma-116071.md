@@ -1,5 +1,3 @@
-# Lei Complementar nº 260, de 2022-08-30
-
 LEI COMPLEMENTAR Nº. 260, DE 30 DE AGOSTO DE 2022.
 
 <br>

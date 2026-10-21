@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.149, de 2021-05-31
-
 LEI N. 7.149, DE 31 DE MAIO DE 2021
 
 Altera a Lei n°. 7.013. de 31 de outubro de 2019.

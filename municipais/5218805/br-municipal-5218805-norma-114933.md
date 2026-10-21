@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.563, de 2024-10-31
-
 LEI Nº 7.563, DE 31 DE OUTUBRO DE 2024.
 
 Institui o Dia dos Profissionais Coletores de Materiais Recicláveis no Município de Rio Verde- GO.

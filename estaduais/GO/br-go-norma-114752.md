@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.290, de 2026-05-21
-
 LEI Nº 24.290, DE 21 DE MAIO DE 2026
 
 Concede o título de cidadania que especifica.

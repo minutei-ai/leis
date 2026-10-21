@@ -1,5 +1,3 @@
-# Lei Complementar nº 191, de 2020-06-29
-
 LEI COMPLEMENTAR Nº 191, DE 29 DE JUNHO DE 2020.
 
 Aumenta quantitativo do cargo Técnico em Enfermagem e Enfermeiro Plantonistas.

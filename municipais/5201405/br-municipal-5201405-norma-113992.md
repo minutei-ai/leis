@@ -1,5 +1,3 @@
-# Decreto Numerado nº 639, de 2024-08-06
-
 DECRETO “N” Nº 639, DE 06 DE AGOSTO DE 2024.
 
 Dispõe sobre a liberação parcial dos lotes caucionados do Loteamento Industrial Global Park, neste município.

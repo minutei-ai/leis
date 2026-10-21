@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.796, de 2025-12-15
-
 LEI Nº 7.796, DE 15 DE DEZEMBRO DE 2025.
 
 Altera a Lei nº 7.592, de 16 de dezembro de 2024, que institui o Código Sanitário do Município de Rio Verde – GO.

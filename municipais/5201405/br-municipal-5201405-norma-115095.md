@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.718, de 2023-05-25
-
 LEI MUNICIPAL Nº 3.718 DE 25 DE MAIO DE 2023.
 
 Altera o inciso VI, do art. 2º da Lei Municipal nº 2.873, de 11 de dezembro de 2009.

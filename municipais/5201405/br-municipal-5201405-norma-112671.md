@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.599, de 2025-06-18
-
 DECRETO Nº 1.599, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 34, 35 e 36/40, da Quadra A, situado à Avenida A, no Loteamento Setor Araguaia, no Município de Aparecida de Goiânia.

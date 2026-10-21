@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.313 de 04/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.313, DE 4 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 14.237, de 19 de novembro de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-11-19;14237), para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.586, de 2024-12-16
-
 LEI Nº 7.586, DE 16 DE DEZEMBRO DE 2024.
 
 Altera a Lei nº 6.810, de 26 de fevereiro de 2018, que autoriza a desafetação e permuta de imóveis que menciona.

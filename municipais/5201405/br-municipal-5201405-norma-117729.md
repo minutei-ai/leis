@@ -1,5 +1,3 @@
-# Decreto Numerado nº 8, de 2023-01-09
-
 DECRETO “N” Nº 08 DE 09 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento JARDIM BURITI SERENO, neste município.

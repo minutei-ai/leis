@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.701, de 2025-06-30
-
 DECRETO Nº 1.701, DE 30 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento e desmembramento do Lote 17 e 18, situado à Rua Rosarita Fleury no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

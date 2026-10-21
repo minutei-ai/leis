@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.490, de 2026-08-10
-
 LEI Nº 24.490, DE 10 DE AGOSTO DE 2026
 
 Institui a Política Estadual de Integração das Prioridades Municipais ao Planejamento Governamental.

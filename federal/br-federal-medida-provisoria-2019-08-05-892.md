@@ -1,5 +1,3 @@
-# Medida Provisória nº 892 de 05/08/2019
-
 MEDIDA PROVISÓRIA Nº 892, DE 5 DE AGOSTO DE 2019
 
 Altera a [Lei nº 6.404, de 15 de dezembro de 1976](urn:lex:br:federal:lei:1976-12-15;6404), e a [Lei nº 13.043, de 13 de novembro de 2014](urn:lex:br:federal:lei:2014-11-13;13043), para dispor sobre publicações empresariais obrigatórias.

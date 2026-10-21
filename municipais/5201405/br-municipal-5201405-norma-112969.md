@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.877, de 2025-12-29
-
 DECRETO Nº 2.877, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua 51, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

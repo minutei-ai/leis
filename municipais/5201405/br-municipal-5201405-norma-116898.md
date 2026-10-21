@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3343, de 2016-12-16
-
 LEI MUNICIPAL 3.343, DE 16 DE DEZEMBRO DE 2016.
 
 Dispõe sobre remanejamento de uma área situada no Setor Vila Brasília–Acréscimo, autoriza permuta, desafeta as áreas públicas situadas nos loteamentos Jardim Maria Inês e Residencial Alva Luz, neste Município, e dá outras providências.

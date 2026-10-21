@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.662, de 2025-09-11
-
 LEI Nº 23.662, DE 11 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 537, de 2024-07-04
-
 DECRETO “N” Nº 537 DE 04 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

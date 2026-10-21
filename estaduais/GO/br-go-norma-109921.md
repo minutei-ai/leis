@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.078, de 2024-11-11
-
 LEI Nº 23.078, DE 11 DE NOVEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

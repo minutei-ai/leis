@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.933, de 2024-08-21
-
 LEI Nº 22.933, DE 21 DE AGOSTO DE 2024<br>
 \- [Vide Decreto nº 10.530, de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109394)  (Regulamento).
 

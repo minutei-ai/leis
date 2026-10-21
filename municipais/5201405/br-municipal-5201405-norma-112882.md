@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.031, de 1991-10-24
-
 LEI MUNICIPAL Nº 1.031, DE 24 DE OUTUBRO DE 1991.
 
 Institui o Fundo Municipal de Saúde e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 188, de 2021-10-15
-
 LEI COMPLEMENTAR Nº 188, DE 15 DE OUTUBRO DE 2021.
 
 Altera o art. 230-A da Lei Complementar nº 124, de 14 de dezembro de 2016.

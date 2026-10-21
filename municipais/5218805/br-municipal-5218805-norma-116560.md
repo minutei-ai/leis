@@ -1,5 +1,3 @@
-# Lei Complementar nº 319, de 2023-10-02
-
 LEI COMPLEMENTAR Nº 319, DE 02 DE OUTUBRO DE 2023
 
 Dispõe sobre o Sistema de Cargos e Salários da Carreira de Auditor Fiscal da Receita Municipal e estabelece outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 821, de 2024-09-30
-
 DECRETO “N” Nº 821, DE 30 DE SETEMBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Vila Maria neste município como de Interesse Social.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 122, de 2023-02-17
-
 DECRETO “N” Nº 122 DE 17 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM MONT’ SERRAT, neste município.

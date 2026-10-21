@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.269, de 2025-09-23
-
 DECRETO Nº 2.269, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, da Quadra 30, situado à Rua 7A, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

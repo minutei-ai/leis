@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.409, de 2023-08-28
-
 LEI N° 7.409, DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre a implantação de medidas de informação à gestante e parturiente sobre a Política Nacional de Atenção Obstétrica e Neonatal, visando a proteção destas contra a violência obstétrica no âmbito do Município de Rio Verde e dá outras providências.

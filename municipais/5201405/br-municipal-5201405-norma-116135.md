@@ -1,5 +1,3 @@
-# Lei Ordinária nº 973, de 1991-05-05
-
 LEI MUNICIPAL Nº 973, DE 05 DE MAIO DE 1991.
 
 Denomina o estabelecimento de ensino primário do setor Jardim Olímpico, de Escola Municipal Jardim Olímpico II.

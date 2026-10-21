@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.535, de 2024-01-08
-
 LEI Nº 22.535, DE 8 DE JANEIRO DE 2024
 
 Institui o Dia Estadual da Pamonha Goiana.

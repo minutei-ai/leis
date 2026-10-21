@@ -1,5 +1,3 @@
-# Decreto Numerado nº 145, de 2024-03-14
-
 DECRETO “N” Nº 145 DE 14 DE MARÇO DE 2024
 
 Altera o Decreto “N” n° 627 de 28 de setembro de 2023, que nomeia membros da Comissão Permanente de Avaliação e Desempenho dos Servidores de Carreira da Secretaria Municipal de Saúde de Aparecida de Goiânia/GO.

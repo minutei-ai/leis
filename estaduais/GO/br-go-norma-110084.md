@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.125, de 2024-12-02
-
 LEI Nº 23.125, DE 2 DE DEZEMBRO DE 2024
 
 Institui a Política Estadual “Ronda da Saúde”.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.530, de 2024-01-08
-
 LEI Nº 22.530, DE 8 DE JANEIRO DE 2024
 
 Altera as Leis nºs [14.629](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81255), de 24 de dezembro de 2003, e [14.715](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80659), de 04 de fevereiro de 2004, para dispor sobre a prioridade de matrícula à pessoa com deficiência, mobilidade reduzida ou que tenha quaisquer destas como responsável legal e dá outras providências.

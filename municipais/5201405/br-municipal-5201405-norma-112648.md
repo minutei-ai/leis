@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.525, de 2025-10-28
-
 DECRETO Nº 2.525, DE 28 DE OUTUBRO DE 2025
 
 Regulamenta o Programa de Recuperação Fiscal – REFIS/PMAG, instituído pela Lei Complementar nº 133, de 24 de novembro de 2017.

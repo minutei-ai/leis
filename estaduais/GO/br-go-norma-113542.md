@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.131, de 2026-03-12
-
 LEI Nº 24.131, DE 12 DE MARÇO DE 2026
 
 Concede o título de cidadania que especifica.

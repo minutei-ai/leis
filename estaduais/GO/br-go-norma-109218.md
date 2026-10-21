@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.868, de 2024-07-19
-
 LEI Nº 22.868, DE 19 DE JULHO DE 2024
 
 Concede o título de cidadania que especifica.

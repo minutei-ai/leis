@@ -1,5 +1,3 @@
-# LEI Nº 15.083 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.083 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto de Saúde, Ação e Assistência Social – ISAAS, com sede e foro no município de Vera Cruz.

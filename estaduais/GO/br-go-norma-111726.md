@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.825, de 2025-12-08
-
 DECRETO Nº 10.825, DE 8 DE DEZEMBRO DE 2025
 
 Regulamenta, para o exercício de 2026, o Programa Bolsa-Uniforme, instituído pela nº [22.560](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108532), de 14 de março de 2024.

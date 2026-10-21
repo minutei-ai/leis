@@ -1,5 +1,3 @@
-# Decreto Numerado nº 564, de 2024-07-11
-
 DECRETO “N” Nº 564, DE 11 DE JULHO DE 2024.
 
 Altera o [Decreto 09, de 05 de janeiro de 2017,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113976/decreto-9) que delega poderes aos Secretários Municipais para aprovação e contratação de compra e serviços.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 366, de 2024-12-02
-
 LEI COMPLEMENTAR Nº 366, DE 2 DE DEZEMBRO DE 2024.
 
 Altera a [Lei Complementar nº 194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114899), de 21 de dezembro de 2020, que dispõe sobre o parcelamento do solo em áreas de abrangência de bacias hidrográficas de abastecimento público de água do município de Rio Verde-GO.

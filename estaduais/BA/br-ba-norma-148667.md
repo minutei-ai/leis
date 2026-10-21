@@ -1,5 +1,3 @@
-# LEI Nº 15.151 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.151 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação Comunitária dos Produtores Rurais de Água Branca, Poções, Caldeirão, Renegado e Atoleiro, com sede na localidade Água Branca, Zona Rural do município de Guanambi, e foro em Guanambi.

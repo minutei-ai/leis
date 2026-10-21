@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.047, de 2011-12-01
-
 LEI COMPLEMENTAR Nº 6.047, DE 01 DE DEZEMBRO DE 2011.
 
 Altera o § 3º ao art. 6º da Lei n. 3.633/98, de 04 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos e dá outras providências.

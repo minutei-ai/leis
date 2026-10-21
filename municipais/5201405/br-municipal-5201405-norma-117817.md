@@ -1,5 +1,3 @@
-# Decreto Numerado nº 66, de 2023-01-25
-
 DECRETO “N” Nº 66 DE 25 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento VILA BRASÍLIA, neste município.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.380 de 23/07/2026
-
 MEDIDA PROVISÓRIA Nº 1.380, DE 23 DE JULHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.330.000.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 83, de 2024-08-15
-
 EMENDA CONSTITUCIONAL Nº 83, DE 15 DE AGOSTO DE 2024.
 
 Altera os arts. 97 e 121 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).

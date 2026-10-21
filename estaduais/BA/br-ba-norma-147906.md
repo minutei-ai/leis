@@ -1,5 +1,3 @@
-# LEI Nº 15.015 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.015 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública o Centro Espírita Eurípedes Barsanulfo, com sede e foro no município de São Desidério.

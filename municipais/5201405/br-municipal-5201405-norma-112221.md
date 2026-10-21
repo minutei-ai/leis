@@ -1,5 +1,3 @@
-# Decreto Numerado nº 48, de 2026-01-14
-
 DECRETO Nº 048, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 07 e 08, situados à Rua Campos da Paz, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

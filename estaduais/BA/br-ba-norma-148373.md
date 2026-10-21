@@ -1,5 +1,3 @@
-# LEI Nº 15.127 DE 03 DE MARÇO DE 2026
-
 LEI Nº 15.127 DE 03 DE MARÇO DE 2026
 
 Institui a Política Estadual de Alternativas Penais, na forma que indica, e dá outras providências.

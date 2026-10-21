@@ -1,5 +1,3 @@
-# Lei nº 18.162, de 27/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211117)<br>
 
 # LEI N° 18.162, DE 27 DE JUNHO DE 2025

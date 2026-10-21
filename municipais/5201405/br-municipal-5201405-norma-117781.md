@@ -1,5 +1,3 @@
-# Decreto Numerado nº 71, de 2023-02-01
-
 DECRETO “N” Nº 71 DE 01 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR COLONIAL SUL, neste município.

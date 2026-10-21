@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.963, de 2026-07-24
-
 DECRETO Nº 10.963, DE 24 DE JULHO DE 2026
 
 Institui a Governança de Grandes Eventos no Estado de Goiás e estabelece as diretrizes para o monitoramento e a avaliação da viabilidade institucional.

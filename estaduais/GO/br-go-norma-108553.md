@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.581, de 2024-03-22
-
 LEI Nº 22.581, DE 22 DE MARÇO DE 2024
 
 Altera a [Lei nº 20.253](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100188), de 01 de agosto de 2018, que institui o Estatuto do Portador de Diabetes no Estado de Goiás.

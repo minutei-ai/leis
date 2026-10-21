@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.538, de 2020-01-07
-
 LEI MUNICIPAL Nº 3.538, DE 07 DE JANEIRO DE 2020.
 
 “Altera a Lei nº 3.095, de 17 de Junho de 2013, que cria a Medalha do Mérito Legislativo NORBERTO JOSÉ TEIXEIRA no município de Aparecida de Goiânia e dá outras providências.”

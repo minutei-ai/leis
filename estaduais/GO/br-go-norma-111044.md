@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.561, de 2025-07-09
-
 LEI Nº 23.561, DE 9 DE JULHO DE 2025
 
 Altera a [Lei nº 14.910](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80845), de 11 de agosto de 2004, que dispõe sobre a instituição do Programa de Parcerias Público-Privadas, da constituição da Companhia de Investimentos e Parcerias do Estado de Goiás e dá outras providências.

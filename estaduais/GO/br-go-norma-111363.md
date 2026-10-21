@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.792, de 2025-10-03
-
 DECRETO Nº 10.792, DE 3 DE OUTUBRO DE 2025
 
 Altera o [Decreto nº 10.584](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110076), de 2 de dezembro de 2024, que cria o Grupo Especial de Consolidação e Encerramento da Gestão – GECEG, para a apresentação de relatórios de resultados e impactos de ações, projetos e políticas públicas implementadas pela gestão do Governo do Estado de Goiás entre 2019 e 2026.

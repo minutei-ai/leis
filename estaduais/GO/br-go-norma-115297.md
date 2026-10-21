@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.924, de 2026-06-12
-
 DECRETO Nº 10.924, DE 12 DE JUNHO DE 2026
 
 Altera o Regimento Interno do Conselho Administrativo Tributário – CAT, aprovado pelo [Decreto nº 6.930](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63840), de 9 de junho de 2009.

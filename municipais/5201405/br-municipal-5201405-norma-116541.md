@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.520, de 2019-11-04
-
 LEI MUNICIPAL Nº 3.520, DE 04 DE NOVEMBRO DE 2019
 
 “Institui a semana municipal do legislativo nas instituições de ensino público. ”

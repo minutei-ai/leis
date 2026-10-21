@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.252, de 2025-02-28
-
 LEI Nº 23.252, DE 28 DE FEVEREIRO DE 2025
 
 Altera a [Lei nº 19.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99107), de 24 de julho de 2017, que dispõe sobre a transparência da lista de espera dos pacientes que aguardam exames e intervenções cirúrgicas eletivas na rede estadual de saúde.

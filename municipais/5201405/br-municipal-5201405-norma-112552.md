@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.420, de 2025-05-22
-
 DECRETO Nº 1.420, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua das Cerejeiras no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

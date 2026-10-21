@@ -1,5 +1,3 @@
-# Medida Provisória nº 847 de 31/07/2018
-
 MEDIDA PROVISÓRIA Nº 847, DE 31 DE JULHO DE 2018
 
 Dispõe sobre a concessão de subvenção econômica na comercialização de óleo diesel rodoviário no território nacional, sob a forma de equalização de parte dos custos a que estão sujeitos os distribuidores de óleo diesel, nas importações.

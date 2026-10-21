@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.878, de 2025-11-28
-
 LEI Nº 23.878, DE 28 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual do Corretor de Seguros de Vida.

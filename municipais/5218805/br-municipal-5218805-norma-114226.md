@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.728, de 2025-10-31
-
 LEI Nº 7.728, DE 31 DE OUTUBRO DE 2025.
 
 Institui o Programa “Aluguel Social”, destinado a famílias em situação de vulnerabilidade social.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 31, de 2023-01-18
-
 DECRETO “N” Nº 31 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR CONDE DOS ARCOS-COMPLEMENTO, neste município.

@@ -1,5 +1,3 @@
-# Decreto nº 69.525, de 08/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210924)<br>
 
 # DECRETO N° 69.525, DE 08 DE MAIO DE 2025

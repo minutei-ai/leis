@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.561, de 2024-10-31
-
 LEI Nº 7.561, DE 31 DE OUTUBRO DE 2024.
 
 Dispõe sobre a disponibilidade, em todos os supermercados e congêneres, de adaptação de 5% (cinco por cento) dos carrinhos de compra para utilização por acoplação de casinhas pets para utilização pelos possuidores de cães, gatos e outros animais domésticos no âmbito do Município de Rio Verde – GO e dá outras providências.

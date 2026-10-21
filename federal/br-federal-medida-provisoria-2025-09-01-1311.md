@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.311 de 01/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.311, DE 1 DE SETEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 30.590.400,00, para os fins que especifica.

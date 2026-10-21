@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.882, de 2026-03-19
-
 DECRETO Nº 10.882, DE 19 DE MARÇO DE 2026
 
 Institui o Plano de Prevenção e Controle do Desmatamento, das Queimadas e dos Incêndios Florestais do Estado de Goiás e cria o seu comitê gestor.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.725, de 2025-10-31
-
 LEI Nº 7.725, DE 31 DE OUTUBRO DE 2025.
 
 Autoriza a desafetação e a alienação de imóvel público.

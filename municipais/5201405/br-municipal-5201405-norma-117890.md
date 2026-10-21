@@ -1,5 +1,3 @@
-# Decreto Numerado nº 166, de 2023-03-14
-
 DECRETO “N” Nº 166 DE 14 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL SOLAR CENTRAL PARK, neste município.

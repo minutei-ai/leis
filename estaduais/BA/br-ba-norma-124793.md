@@ -1,5 +1,3 @@
-# LD Nº 51 DE 31 DE MAIO DE 1983
-
 LEI DELEGADA Nº 51 DE 31 DE MAIO DE 1983
 
 Ver também:<br>

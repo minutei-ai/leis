@@ -1,5 +1,3 @@
-# Decreto Numerado nº 221, de 2026-03-16
-
 DECRETO Nº 221, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Cristiano, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.926, de 2000-03-24
-
 LEI Nº 3.926, DE 24 DE MARÇO DE 2000.
 
 Cria cargos.

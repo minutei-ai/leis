@@ -1,5 +1,3 @@
-# Lei Complementar nº 200, de 2024-12-16
-
 LEI COMPLEMENTAR Nº 200, DE 16 DE DEZEMBRO DE 2024
 
 Altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.

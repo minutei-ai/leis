@@ -1,5 +1,3 @@
-# Decreto nº 69.829, de 26/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211363)<br>
 
 # DECRETO N° 69.829, DE 26 DE AGOSTO DE 2025

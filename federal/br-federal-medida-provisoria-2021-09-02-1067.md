@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.067 de 02/09/2021
-
 MEDIDA PROVISÓRIA Nº 1.067, DE 2 DE SETEMBRO DE 2021
 
 Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre o processo de atualização das coberturas no âmbito da saúde suplementar.

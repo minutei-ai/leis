@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.281, de 2025-03-18
-
 LEI Nº 23.281, DE 17 DE MARÇO DE 2025
 
 Confere ao Município de Piracanjuba/GO o título de Capital Goiana das Orquídeas.

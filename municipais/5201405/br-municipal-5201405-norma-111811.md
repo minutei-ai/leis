@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.853, de 2025-09-05
-
 LEI Nº 3.853, DE 5 DE SETEMBRO DE 2025
 
 Institui o Programa Mãe Empreendedora Aparecidense no âmbito do Município de Aparecida de Goiânia e dá outras providências.

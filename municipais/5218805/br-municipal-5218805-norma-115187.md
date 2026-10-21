@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.461, de 2023-12-22
-
 LEI Nº 7.461, DE 22 DE DEZEMBRO DE 2023.
 
 Concede novo prazo para edificação em área objeto de concessão de direito real de uso pela Lei nº 6.801, de 14 de dezembro 2017.

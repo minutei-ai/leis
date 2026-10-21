@@ -1,5 +1,3 @@
-# LEI Nº 14.800 DE 17 DE DEZEMBRO DE 2024
-
 LEI Nº 14.800 DE 17 DE DEZEMBRO DE 2024
 
 Institui o Programa Estadual de Habitação "Minha Casa Minha Vida - Bahia”, na forma que indica, e dá outras providências.

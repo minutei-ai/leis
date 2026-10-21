@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.996, de 2026-10-08
-
 DECRETO Nº 10.996, DE 8 DE OUTUBRO DE 2026
 
 Declara de interesse social, para licenciamento ambiental, os barramentos que especifica, localizados no Município de Abadiânia.

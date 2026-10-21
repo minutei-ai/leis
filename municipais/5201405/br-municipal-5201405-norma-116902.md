@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3348, de 2016-12-28
-
 LEI MUNICIPAL 3.348, DE 28 DE DEZEMBRO DE 2016.
 
 “Dispõe sobre a instalação de sistema de aquecimento de água por energia solar nas edificações novas do Município de Aparecida de Goiânia.”

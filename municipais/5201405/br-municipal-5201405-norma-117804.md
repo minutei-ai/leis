@@ -1,5 +1,3 @@
-# Decreto Numerado nº 95, de 2023-02-06
-
 DECRETO “N” Nº 95 DE 06 DE FEVEREIRO DE 2023
 
 Dispõe sobre remanejamento de imóveis situados no Loteamento VILA NOSSA SENHORA DE LOURDES, neste município.

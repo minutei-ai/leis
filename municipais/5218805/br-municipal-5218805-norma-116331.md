@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.280, de 2022-06-27
-
 LEI N° 7.280, DE 27 DE JUNHO DE 2022
 
 Autoriza o Poder Executivo a desafetar e doar imóveis para construção de unidades habitacionais a pessoas carentes que se enquadrem nos critérios e requisitos das Políticas Habitacionais.

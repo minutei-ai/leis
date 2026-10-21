@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.456, de 2024-04-25
-
 DECRETO Nº 10.456, DE 25 DE ABRIL DE 2024
 
 Altera o [Decreto estadual nº 10.372](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108286), de 22 de dezembro de 2023, que regulamenta a [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 26 de janeiro de 2010, que dispõe sobre as consignações em folha de pagamento dos servidores e militares, ativos e inativos, e pensionistas do Poder Executivo Estadual, e a [Lei estadual nº 22.036](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107253), de 19 de junho de 2023, que proíbe a oferta e a realização de contrato de empréstimo financeiro com idosos por meio de ligação telefônica no âmbito do Estado de Goiás e dá outras providências.

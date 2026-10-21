@@ -1,5 +1,3 @@
-# Decreto Numerado nº 493, de 2023-07-28
-
 DECRETO “N” Nº 493 DE 28 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

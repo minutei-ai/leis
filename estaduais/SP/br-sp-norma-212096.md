@@ -1,5 +1,3 @@
-# Lei nº 18.387, de 06/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212096)<br>
 
 # LEI N° 18.387, DE 06 DE JANEIRO DE 2026

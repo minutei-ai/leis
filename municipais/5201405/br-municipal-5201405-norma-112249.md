@@ -1,5 +1,3 @@
-# Decreto Numerado nº 66, de 2026-01-19
-
 DECRETO Nº 066, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre alienação das áreas públicas inservíveis correspondente a APM 06A da Quadra 51, situada no Loteamento Sítio Santa Luzia, no Município de Aparecida de Goiânia.

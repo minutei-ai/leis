@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.255 de 26/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.255, DE 26 DE AGOSTO DE 2024
 
 Altera a [Lei nº 9.478, de 6 de agosto de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-08-06;9478), e a [Lei nº 14.871, de 28 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-05-28;14871), para autorizar a concessão de quotas diferenciadas de depreciação acelerada para navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados exclusivamente em atividade de cabotagem de petróleo e seus derivados.

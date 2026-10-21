@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.496, de 2024-07-05
-
 DECRETO Nº 10.496 , DE 5 DE JULHO DE 2024
 
 Dispõe sobre a utilização do Cadastro Integrado de Projetos de Investimento – Cipi pelos órgãos e pelas entidades da administração direta e indireta do Estado de Goiás, bem como sua adequação aos prazos, conceitos e definições estabelecidos pelo Decreto federal nº 10.496, de 28 de setembro de 2020, e pela Portaria SEGES/ME nº 25.405, de 23 de dezembro de 2020.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 95, de 2026-03-19
-
 Portaria Orçamentária nº 95/2026 - Economia
 
 O PRESIDENTE do TRIBUNAL DE CONTAS DOS MUNICÍPIOS, no uso de suas atribuições legais, com fundamento no art. 9º § 1º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412 "Abrir Lei Ordinária nº 23246, de 2025 em nova aba"), de 25 de janeiro de 2025.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 188 de 18/05/2004
-
 ###MPV-000188-0-000-18-05-2004@@@
 
 MEDIDA PROVISÓRIA Nº 188, DE 18 DE MAIO 2004

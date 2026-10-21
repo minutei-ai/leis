@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.234, de 2014-12-15
-
 LEI MUNICIPAL N° 3.234, DE 15 DE DEZEMBRO DE 2014.
 
 “Dá nome ao Centro de Artes e Esportes Unificados - CEUs, situado na Praça Major Atanagildo de Queiróz França, do Setor Parque Flamboyant, neste Município.”

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.757, de 2025-12-08
-
 DECRETO Nº 2.757, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 17 e 18, situados à Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

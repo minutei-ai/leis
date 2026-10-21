@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.264, de 2022-05-27
-
 LEI N° 7.264, DE 27 DE MAIO DE 2022
 
 Institui a Semana do Cooperativismo no Calendário Oficial de Eventos do Município de Rio Verde - GO.

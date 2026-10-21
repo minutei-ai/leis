@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.676, de 2025-04-11
-
 DECRETO Nº 10.676, DE 11 DE ABRIL DE 2025
 
 Institui o Programa Estadual de Liberdade Econômica do Ambiente de Negócios do Estado de Goiás – GOIÁS MAIS LIVRE.

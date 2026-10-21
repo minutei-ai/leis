@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 254, de 2024-05-27
-
 Portaria Orçamentária nº 254/2024 - Economia
 
 A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei no 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392/lei-22536), de 9 de Janeiro de 2024, conforme Processo no 202400004035893.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 451, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 451, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei Complementar nº 182, de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, para a extinguir a Secretaria Municipal de Desenvolvimento e Mobilidade Urbana - SMDMU e dá outras providências.

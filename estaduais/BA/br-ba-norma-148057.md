@@ -1,5 +1,3 @@
-# LEI Nº 15.055 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.055 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação Obreiros do Porvir (AOP), com sede e foro no município de Bom Jesus da Lapa.

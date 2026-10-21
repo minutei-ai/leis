@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.011 de 25/11/2020
-
 MEDIDA PROVISÓRIA Nº 1.011, DE 25 DE NOVEMBRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 80.000.000,00, para o fim que especifica.

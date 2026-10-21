@@ -1,5 +1,3 @@
-# Decreto Numerado nº 414, de 2023-06-27
-
 DECRETO “N” Nº 414 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SÍTIOS SANTA LUZIA RESIDENCIAL, neste município.

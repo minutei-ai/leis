@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.833, de 2025-12-16
-
 DECRETO Nº 2.833, DE 16 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 102-A, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

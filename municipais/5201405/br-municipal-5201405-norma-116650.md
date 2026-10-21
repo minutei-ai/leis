@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.355, de 2017-05-03
-
 LEI MUNICIPAL Nº 3.355, DE 03 DE MAIO DE 2017
 
 Autoriza o Poder Executivo, a contratar empréstimo junto a Corporação Andina de Fomento - CAF, com garantia da União, para financiamento de obras no âmbito do PROGRAMA DE RESTRUTURAÇÃO VIÁRIA BACIA DO RIBEIRÃO SANTO ANTÔNIO DE APARECIDA DE GOIÂNIA II.

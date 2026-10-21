@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.322, de 2023-02-17
-
 LEI N° 7.322, DE 17 DE FEVEREIRO DE 2023
 
 Autoriza o Poder Executivo a receber a doção de dois lotes inseridos em áreas de APP

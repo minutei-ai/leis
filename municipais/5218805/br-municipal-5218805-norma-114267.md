@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.710, de 2025-09-22
-
 LEI Nº 7.710, DE 22 DE SETEMBRO DE 2025.
 
 Reconhece como Utilidade Pública Municipal e dá outras providências

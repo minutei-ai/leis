@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.867, de 2026-03-09
-
 DECRETO Nº 10.867, DE 9 DE MARÇO DE 2026
 
 Altera o Regulamento da Controladoria-Geral do Estado – CGE, aprovado pelo [Decreto nº 10.391](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108402 "Abrir Decreto Numerado nº 10391, de 2024 em nova aba"), de 12 de janeiro de 2024.

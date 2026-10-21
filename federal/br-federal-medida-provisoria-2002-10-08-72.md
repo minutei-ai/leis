@@ -1,5 +1,3 @@
-# Medida Provisória nº 72 de 08/10/2002
-
 ###MPV-000072-0-000-08-10-2002@@@
 
 MEDIDA PROVISÓRIA Nº 72, DE 8 DE OUTUBRO DE 2002

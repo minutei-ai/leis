@@ -1,5 +1,3 @@
-# Lei nº 18.419, de 13/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212348)<br>
 
 # LEI N° 18.419, DE 13 DE MARÇO DE 2026

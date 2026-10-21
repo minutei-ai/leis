@@ -1,5 +1,3 @@
-# Decreto nº 70.410, de 27/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212277)<br>
 
 # DECRETO N° 70.410, DE 27 DE FEVEREIRO DE 2026

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.873, de 2025-12-29
-
 DECRETO Nº 2.873, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento Lote 33, situado à Rua C1, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

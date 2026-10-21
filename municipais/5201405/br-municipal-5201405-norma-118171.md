@@ -1,5 +1,3 @@
-# Decreto Numerado nº 398, de 2023-06-20
-
 DECRETO “N” Nº 398 DE 20 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM MARIA INÊS, neste município.

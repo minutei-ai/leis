@@ -1,5 +1,3 @@
-# Decreto Numerado nº 211, de 2023-04-05
-
 DECRETO “N” Nº 211 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento INDUSTRIAL SANTO ANTÔNIO, neste município.

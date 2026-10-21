@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.142, de 2026-03-18
-
 LEI Nº 24.142, DE 18 DE MARÇO DE 2026
 
 Altera a [Lei nº 23.997](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111989 "Abrir Lei Ordinária nº 23997, de 2025 em nova aba"), de 30 de dezembro de 2025, que dá denominação ao próprio público que especifica.

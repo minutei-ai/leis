@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.229, de 2025-09-18
-
 DECRETO Nº 2.229, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, da Quadra 21, situado à Rua Hematita, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.691, de 2025-09-24
-
 LEI Nº 23.691, DE 24 DE SETEMBRO DE 2025
 
 Institui a Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down.

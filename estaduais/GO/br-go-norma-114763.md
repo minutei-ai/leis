@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.299, de 2026-05-21
-
 LEI Nº 24.299, DE 21 DE MAIO DE 2026
 
 Assegura tratamento especializado e multidisciplinar à pessoa com fissura labiopalatina.

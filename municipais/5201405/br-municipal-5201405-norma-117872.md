@@ -1,5 +1,3 @@
-# Decreto Numerado nº 150, de 2023-03-13
-
 DECRETO "N" N° 150, DE 13 DE MARÇO DE 2023<br>
 (Revogado pelo Decreto "N" Nº 274, de 24 de abril de 2023).
 

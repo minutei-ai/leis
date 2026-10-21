@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.458, de 2008-06-20
-
 LEI COMPLEMENTAR Nº 5.458, DE 20 DE JULHO DE 2008.
 
 <br>

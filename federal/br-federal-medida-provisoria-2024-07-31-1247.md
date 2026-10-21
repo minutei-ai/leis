@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.247 de 31/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.247, DE 31 DE JULHO DE 2024
 
 Autoriza o Poder Executivo federal a conceder subvenção econômica, sob a forma de desconto para liquidação ou renegociação de parcelas de operações de crédito rural de custeio, de investimento e de industrialização contratadas por mutuários que tiveram perdas materiais decorrentes dos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do [Decreto Legislativo nº 36, de 7 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2024-05-07;36), em Municípios do Estado do Rio Grande do Sul que tiveram estado de calamidade pública ou situação de emergência reconhecido pelo Poder Executivo federal, e altera a [Lei nº 14.042, de 19 de agosto de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-08-19;14042), que institui o Programa Emergencial de Acesso a Crédito.

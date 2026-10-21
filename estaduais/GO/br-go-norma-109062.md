@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.824, de 2024-06-28
-
 LEI Nº 22.824, DE 28 DE junho DE 2024
 
 Concede o título de cidadania que especifica.

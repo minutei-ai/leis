@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.258, de 2026-05-07
-
 LEI Nº 24.258, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.

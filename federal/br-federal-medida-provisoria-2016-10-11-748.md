@@ -1,5 +1,3 @@
-# Medida Provisória nº 748 de 11/10/2016
-
 MEDIDA PROVISÓRIA Nº 748, DE 11 DE OUTUBRO DE 2016
 
 Altera a [Lei nº 12.587, de 3 de janeiro de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-01-03;12587), que institui as diretrizes da Política Nacional de Mobilidade Urbana.

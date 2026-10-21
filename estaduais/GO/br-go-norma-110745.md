@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.452, de 2025-05-28
-
 LEI Nº 23.452, DE 28 DE MAIO DE 2025
 
 Concede o título de cidadania que especifica.

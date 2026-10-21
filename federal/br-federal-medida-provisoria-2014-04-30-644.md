@@ -1,5 +1,3 @@
-# Medida Provisória nº 644 de 30/04/2014
-
 MEDIDA PROVISÓRIA Nº 644, DE 30 DE ABRIL DE 2014
 
 Altera os valores da tabela do imposto sobre a renda da pessoa física; altera a Lei nº 7.713, de 22 de dezembro de 1988, a Lei nº 9.250, de 26 de dezembro de 1995, e a Lei nº 11.482, de 31 de maio de 2007.

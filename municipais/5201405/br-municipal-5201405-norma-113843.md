@@ -1,5 +1,3 @@
-# Decreto Numerado nº 299, de 2026-04-16
-
 DECRETO Nº 299, DE 16 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Itaborai, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

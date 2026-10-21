@@ -1,5 +1,3 @@
-# Decreto Numerado nº 556, de 2023-08-23
-
 DECRETO “N” Nº 556 DE 23 DE AGOSTO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

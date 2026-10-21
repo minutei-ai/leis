@@ -1,5 +1,3 @@
-# Medida Provisória nº 245 de 06/04/2005
-
 ###MPV-000245-0-000-06-04-2005@@@
 
 MEDIDA PROVISÓRIA Nº 245, DE 6 DE ABRIL DE 2005

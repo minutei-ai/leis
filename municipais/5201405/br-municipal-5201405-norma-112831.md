@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.683, de 2025-06-27
-
 DECRETO Nº 1.683, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Jardim Riviera Município de Aparecida de Goiânia.

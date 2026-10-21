@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.709, de 2023-04-24
-
 LEI MUNICIPAL Nº 3.709, DE 24 DE ABRIL DE 2023.
 
 “Dispõe sobre a obrigatoriedade de instalação e Manutenção de Circuito Fechado de TV-CFTV em estabelecimentos comerciais que prestam atendimentos a animais domésticos no Município de Aparecida de Goiânia”.

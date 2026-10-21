@@ -1,5 +1,3 @@
-# Medida Provisória nº 290 de 12/04/2006
-
 ###MPV-000290-0-000-12-04-2006@@@
 
 MEDIDA PROVISÓRIA Nº 290, DE 12 DE ABRIL DE 2006.

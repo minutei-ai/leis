@@ -1,5 +1,3 @@
-# Decreto Numerado nº 528, de 2026-06-26
-
 DECRETO Nº 528, DE 26 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situados à Rua Bougainville, Rua Espartódia, Rua Jacarandá e Avenida Palmeiras, no Loteamento Residencial Caraíbas, no Município de Aparecida de Goiânia.

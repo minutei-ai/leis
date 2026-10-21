@@ -1,5 +1,3 @@
-# Decreto Numerado nº 466, de 2023-07-17
-
 DECRETO “N” Nº 466 DE 17 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VILA SANTOS DUMONT, neste município.

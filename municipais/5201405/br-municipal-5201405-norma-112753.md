@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.803, de 2024-10-15
-
 LEI MUNICIPAL Nº 3.803, DE 15 DE OUTUBRO DE 2024.
 
 Dispõe sobre a denominação “Ciclovia Edson de Melo Alves”, na Avenida Rio Verde, neste Município e dá outras providências.

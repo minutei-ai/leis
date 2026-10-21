@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.442, de 2018-11-23
-
 LEI Nº 3.442, DE 23 DE NOVEMBRO DE 2018
 
 Dispõe sobre celebração de acordos de irmanamento com municípios e/ou cidades-irmãs e coirmãs pelos poderes do Município de Aparecida de Goiânia e dá outras providências.

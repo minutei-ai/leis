@@ -1,5 +1,3 @@
-# Decreto Numerado nº 293, de 2026-04-15
-
 DECRETO Nº 293, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Avenida Libano, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

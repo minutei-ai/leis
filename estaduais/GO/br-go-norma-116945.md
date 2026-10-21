@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.980, de 2026-08-27
-
 DECRETO Nº 10.980, DE 27 DE AGOSTO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, as obras que especifica no Município de Catalão/GO.

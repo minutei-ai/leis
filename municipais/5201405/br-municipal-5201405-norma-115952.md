@@ -1,5 +1,3 @@
-# Decreto Numerado nº 628, de 2024-08-01
-
 DECRETO “N” Nº 628 01 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

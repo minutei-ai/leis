@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.882, de 2009-12-18
-
 LEI MUNICIPAL N.º 2.882, DE 18 DE DEZEMBRO DE 2009.
 
 Revoga o inciso XX, do artigo 271, da Lei Municipal n.º 2.530, de  10 de outubro de 2005, a qual altera a Lei Municipal 792/88-CÓDIGO DE POSTURAS DO MUNICÍPIO e dá outras providências.

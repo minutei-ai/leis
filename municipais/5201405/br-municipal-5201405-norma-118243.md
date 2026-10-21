@@ -1,5 +1,3 @@
-# Decreto Numerado nº 472, de 2023-07-18
-
 DECRETO “N” Nº 472, DE 18 DE JULHO DE 2023.
 
 Dispõe sobre o expediente administrativo da Administração Pública Municipal direta e indireta nos dias de jogos da Seleção Brasileira Feminina de Futebol durante a Copa do Mundo FIFA 2023.

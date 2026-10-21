@@ -1,5 +1,3 @@
-# Lei Complementar nº 214, de 2023-06-23
-
 LEI COMPLEMENTAR Nº 214 , DE 23 DE JUNHO DE 2023.
 
 Dispõe sobre a criação, composição e competências do Conselho Municipal de Direitos Humanos do Município de Aparecida de Goiânia –Go – CMDH e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.305, de 2016-04-14
-
 LEI MUNICIPAL Nº 3.305, DE 14 DE ABRIL DE 2016.
 
 “Altera a Lei Municipal nº 3.293 de 30 de dezembro de 2015, que Desafeta e doa área localizada no Loteamento Solar Central Park, neste Município e dá outras providências.”

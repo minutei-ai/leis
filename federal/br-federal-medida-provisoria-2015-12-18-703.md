@@ -1,5 +1,3 @@
-# Medida Provisória nº 703 de 18/12/2015
-
 MEDIDA PROVISÓRIA Nº 703, DE 18 DE DEZEMBRO 2015
 
 Altera a Lei nº 12.846, de 1º de agosto de 2013, para dispor sobre acordos de leniência.

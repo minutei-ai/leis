@@ -1,5 +1,3 @@
-# Lei Complementar nº 124, de 2018-05-30
-
 LEI COMPLEMENTAR Nº 124, DE 30 DE MAIO DE 2018.
 
 Altera [Lei 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Servidores do Município de Rio Verde-GO.

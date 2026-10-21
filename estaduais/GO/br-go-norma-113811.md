@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.233, de 2026-04-15
-
 LEI Nº 24.233, DE 15 DE ABRIL DE 2026
 
 Altera a [Lei nº 18.052](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90174 "Abrir Lei Ordinária nº 18052, de 2013 em nova aba"), de 24 de junho de 2013, que dispõe sobre a criação de Delegacias Especializadas no Atendimento à Mulher – DEAM, nas áreas de jurisdição das Delegacias Regionais de Polícia que menciona e dá outras providências.

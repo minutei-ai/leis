@@ -1,5 +1,3 @@
-# LEI Nº 14.799 DE 13 DE DEZEMBRO DE 2024
-
 LEI Nº 14.799 DE 13 DE DEZEMBRO DE 2024
 
 Disciplina a atividade de Instrutoria Interna nos órgãos e entidades do Poder Executivo Estadual, na forma que indica, e dá outras providências.

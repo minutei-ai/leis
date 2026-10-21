@@ -1,5 +1,3 @@
-# LEI Nº 14.783 DE 09 DE OUTUBRO DE 2024
-
 LEI Nº 14.783 DE 09 DE OUTUBRO DE 2024
 
 Institui a Política de Consensualidade no âmbito do Estado da Bahia, e dá outras providências.

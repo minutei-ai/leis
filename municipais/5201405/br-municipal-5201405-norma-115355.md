@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.670, de 2022-05-20
-
 LEI MUNICIPAL Nº 3.670 DE 20 DE MAIO DE 2022.
 
 Autoriza o Município de Aparecida de Goiânia a conceder revisão geral anual no vencimento dos servidores públicos, nos subsídios dos agentes políticos do município, nos subsídios os vereadores e na remuneração dos servidores do Poder Legislativo.

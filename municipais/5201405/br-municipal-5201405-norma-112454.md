@@ -1,5 +1,3 @@
-# Decreto Numerado nº 83, de 2026-01-26
-
 DECRETO Nº 083, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua 51-B, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

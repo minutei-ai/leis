@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.636, de 2025-09-04
-
 LEI Nº 23.636, DE 4 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

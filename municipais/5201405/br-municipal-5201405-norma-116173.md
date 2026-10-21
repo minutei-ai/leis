@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.024, de 2012-04-20
-
 LEI MUNICIPAL N.º 3.024,  DE 20  DE ABRIL DE  2012.
 
 <br>

@@ -1,5 +1,3 @@
-# Lei Complementar nº 197, de 2020-12-21
-
 LEI COMPLEMENTAR Nº 197, DE 21 DE DEZEMBRO DE 2.020
 
 Altera a Lei Complementar 5.727/2009.

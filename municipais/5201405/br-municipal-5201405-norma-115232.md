@@ -1,5 +1,3 @@
-# Decreto Numerado nº 459, de 2026-06-09
-
 DECRETO Nº 459, DE 9 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 10 e 11, todos da Quadra 107, situados à Avenida Maracanã, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

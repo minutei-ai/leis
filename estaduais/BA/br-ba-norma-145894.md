@@ -1,5 +1,3 @@
-# LEI Nº 14.790 DE 06 DE DEZEMBRO DE 2024
-
 LEI Nº 14.790 DE 06 DE DEZEMBRO DE 2024
 
 Altera a Lei nº 7.014, de 04 de dezembro de 1996, na forma que indica.

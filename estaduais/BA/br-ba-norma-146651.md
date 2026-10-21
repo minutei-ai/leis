@@ -1,5 +1,3 @@
-# LEI Nº 14.906 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.906 DE 20 DE MAIO DE 2025
 
 Dispõe sobre o direito de toda mulher a ter acompanhante, pessoa de sua livre escolha, nas consultas e exames em geral, sendo obrigatória a presença quando tratar de procedimentos que utilizem sedação ou anestesia que induzam a inconsciência da paciente ou durante exames sensíveis.

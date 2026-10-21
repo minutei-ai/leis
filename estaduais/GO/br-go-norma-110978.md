@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.522, de 2025-06-17
-
 LEI Nº 23.522, DE 17 DE JUNHO DE 2025
 
 Concede o título de cidadania que especifica.

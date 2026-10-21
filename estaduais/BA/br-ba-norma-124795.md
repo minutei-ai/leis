@@ -1,5 +1,3 @@
-# LD Nº 27 DE 10 DE FEVEREIRO DE 1983
-
 LEI DELEGADA Nº 27 DE 10 DE FEVEREIRO DE 1983
 
 Dispõe sobre a Regionalização Administrativa do Estado da Bahia e dá outras providências.

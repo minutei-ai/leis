@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.232, de 2025-09-18
-
 DECRETO Nº 2.232, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 17, situado à Rua JI-13, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

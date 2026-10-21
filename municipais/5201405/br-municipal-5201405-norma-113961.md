@@ -1,5 +1,3 @@
-# Decreto Numerado nº 483, de 2024-06-19
-
 DECRETO “N” Nº 483, DE 19 DE JUNHO DE 2024.
 
 Dispõe sobre a concessão da PROGRESSÃO VERTICAL ao servidor da Secretaria Municipal da Educação.

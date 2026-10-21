@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.774, de 2025-10-31
-
 LEI Nº 23.774, DE 31 DE OUTUBRO DE 2025
 
 Institui o Programa de Auxílio-Alimentação na Superintendência de Proteção aos Direitos do Consumidor.

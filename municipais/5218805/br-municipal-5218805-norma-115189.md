@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.459, de 2023-12-22
-
 LEI Nº 7.459, DE 22 DE DEZEMBRO DE 2023.
 
 Institui gratuidade no uso do serviço de transporte coletivo urbano municipal para pessoas com deficiência e pessoas acometidas com nefropatia grave, cardiopatia grave, neoplasia maligna, síndrome da imunodeficiência adquirida, anemia congênita e coagulopatia congênita, pessoas em estado de vulnerabilidade social e em dias de eventos públicos municipais e dá outras providências.

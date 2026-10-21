@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.737, de 2025-10-14
-
 LEI Nº 23.737, DE 14 DE OUTUBRO DE 2025
 
 Institui a Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico.

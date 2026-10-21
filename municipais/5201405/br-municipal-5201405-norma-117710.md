@@ -1,5 +1,3 @@
-# Decreto Numerado nº 685, de 2023-11-06
-
 DECRETO “N” Nº 685, DE 06 DE NOVEMBRO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Florença, neste município, como de Interesse Social.

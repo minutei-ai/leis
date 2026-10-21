@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.433, de 2023-10-23
-
 LEI Nº 7.433, DE 23 DE OUTUBRO DE 2023.
 
 Regulamenta pagamento do Fundo de Assistência aos Vereadores (FAV).

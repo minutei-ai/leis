@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.573, de 2025-07-11
-
 LEI Nº 23.573, DE 11 DE JULHO DE 2025
 
 Concede o título de cidadania que especifica.

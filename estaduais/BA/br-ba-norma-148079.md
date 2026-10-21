@@ -1,5 +1,3 @@
-# LEI Nº 15.069 DE 19 DE DEZEMBRO DE 2025
-
 LEI Nº 15.069 DE 19 DE DEZEMBRO DE 2025
 
 Anexos disponíveis no dowmload

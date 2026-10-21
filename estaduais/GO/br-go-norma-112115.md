@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 337, de 2025-12-11
-
 Portaria Orçamentária nº 337/2025 - Economia
 
 O PRESIDENTE da(o) TRIBUNAL DE CONTAS DOS MUNICÍPIOS, no uso de suas atribuições legais, com fundamento no art. 9º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de janeiro de 2025.

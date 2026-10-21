@@ -1,5 +1,3 @@
-# Decreto Numerado nº 9, de 2017-01-05
-
 DECRETO “N” Nº 9, DE 05 DE JANEIRO DE 2017.
 
 Delegação de Poderes aos Secretários Municipais para aprovação e contratação de compra e serviços.

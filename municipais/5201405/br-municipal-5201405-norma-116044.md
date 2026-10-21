@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.353, de 1994-03-24
-
 LEI MUNICIPAL Nº 1.353, DE 24 DE MARÇO DE 1994.
 
 Institui o Código de Processo Administrativo Tributário e Fiscal, cria o Colegiado de Recursos Tributários e dá outras providências.

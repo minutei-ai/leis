@@ -1,5 +1,3 @@
-# Medida Provisória nº 713 de 01/03/2016
-
 MEDIDA PROVISÓRIA Nº 713, DE 1 DE MARÇO DE 2016
 
 Altera a [Lei nº 12.249, de 11 de junho de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-06-11;12249), para dispor sobre o Imposto de Renda Retido na Fonte sobre a remessa de valores destinados à cobertura de gastos pessoais, no exterior, de pessoas físicas residentes no País, em viagens de turismo, negócios, serviços, treinamento ou missões oficiais, e dá outras providências.

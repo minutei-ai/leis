@@ -1,5 +1,3 @@
-# Medida Provisória nº 611 de 04/04/2013
-
 MEDIDA PROVISÓRIA Nº  611, DE 4 DE ABRIL DE 2013
 
 Abre crédito extraordinário, em favor dos Ministérios das Comunicações, do Desenvolvimento Agrário, da Defesa e da Integração Nacional, no valor de R$ 3.969.200.000,00, para os fins que especifica.

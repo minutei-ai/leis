@@ -1,5 +1,3 @@
-# LD Nº 38 DE 14 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 38 DE 14 DE MARÇO DE 1983
 
 Reorganiza a Secretaria do Trabalho e Bem-Estar Social (SETRABES), e dá outras providências.

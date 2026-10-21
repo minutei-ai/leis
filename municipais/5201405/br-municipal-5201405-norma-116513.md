@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.920, de 2026-08-04
-
 LEI Nº 3.920, DE 4 DE AGOSTO DE 2026
 
 Institui o Programa “Adote uma Escola” no âmbito do Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.246, de 2025-01-25
-
 LEI Nº 23.246, DE 25 DE JANEIRO DE 2025
 
 Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2025.

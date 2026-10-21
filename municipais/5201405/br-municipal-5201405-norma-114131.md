@@ -1,5 +1,3 @@
-# Decreto Numerado nº 316, de 2026-04-28
-
 DECRETO Nº 316, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento dos Lotes 09 e 11, todos da Quadra 10, situados à Rua 6 e Avenida Independência, no Loteamento Jardim Monte Cristo, no Município de Aparecida de Goiânia.

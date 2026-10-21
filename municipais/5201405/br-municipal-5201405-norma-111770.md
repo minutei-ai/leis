@@ -1,5 +1,3 @@
-# Lei Complementar nº 120, de 2016-02-04
-
 LEI COMPLEMENTAR Nº 120, DE 04 DE FEVEREIRO DE 2016
 
 Altera a [Lei Complementar nº 046](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111755 "Abrir Lei Complementar nº 046, de 2011 em nova aba"), de 21 de dezembro de 2011, que instituiu o Código Tributário do Município de Aparecida de Goiânia, Goiás, e dá outras providências.

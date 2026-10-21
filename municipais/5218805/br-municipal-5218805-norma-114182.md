@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.736, de 2025-11-12
-
 LEI Nº 7.736, DE 12 DE NOVEMBRO DE 2025.
 
 Institui, no âmbito do Município de Rio Verde GO, a campanha “Crescer Brincando – Por uma Infância Saudável e Menos Conectada”.

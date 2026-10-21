@@ -1,5 +1,3 @@
-# Decreto nº 69.788, de 11/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211295)<br>
 
 # DECRETO N° 69.788, DE 11 DE AGOSTO DE 2025

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.866, de 2025-11-13
-
 LEI Nº 3.866, DE 13 DE NOVEMBRO DE 2025
 
 Institui no âmbito do município de Aparecida de Goiânia o Programa “Vila em Movimento” e dá outras providências.

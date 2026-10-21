@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.688, de 2024-05-14
-
 LEI Nº 22.688, DE 14 DE MAIO DE 2024
 
 Institui o Dia Estadual do Advogado Previdenciário.

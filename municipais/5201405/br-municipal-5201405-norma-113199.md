@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.537, de 2025-11-04
-
 DECRETO Nº 2.537, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 02 e 24, Todos da Quadra 75, situados à Rua Criolita e Rua Titanita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.794, de 2024-08-21
-
 LEI MUNICIPAL Nº 3.794, DE 21 DE AGOSTO DE 2024.
 
 Autoriza o Poder Executivo a contratar operação de crédito com o BANCO DO BRASIL S.A., e dá outras providências.

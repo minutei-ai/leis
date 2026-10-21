@@ -1,5 +1,3 @@
-# Decreto nº 70.505, de 01/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212437)<br>
 
 # DECRETO N° 70.505, DE 01 DE ABRIL DE 2026

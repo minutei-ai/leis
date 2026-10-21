@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.707, de 2025-07-03
-
 DECRETO Nº 1.707, DE 3 DE JULHO DE 2025
 
 Autoriza o cancelamento parcial da caução dos lotes em razão das obras do Loteamento Parque Évora, localizado neste município.

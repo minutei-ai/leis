@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 50 DE 17 DE JUNHO DE 2021
-
 LEI COMPLEMENTAR Nº 50 DE 17 DE JUNHO DE 2021
 
 Altera a [Lei Complementar nº 34](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-34-de-06-de-fevereiro-de-2009), de 06 de fevereiro de 2009, e dá outras providências.

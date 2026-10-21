@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.462, de 2024-05-06
-
 DECRETO Nº 10.462, DE 6 DE MAIO DE 2024
 
 Institui no Corpo de Bombeiros Militar – CBM do Estado de Goiás as medalhas que especifica e dá outras providências.

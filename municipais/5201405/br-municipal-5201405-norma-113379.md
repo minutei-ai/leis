@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.213, de 2025-09-12
-
 DECRETO Nº 2.213, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 16, situado à Rua Assunção, no Loteamento Setor Aeroporto Sul 2ª Etapa, no Município de Aparecida de Goiânia.

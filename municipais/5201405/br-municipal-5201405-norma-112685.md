@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.770, de 2024-01-09
-
 LEI MUNICIPAL Nº 3.770, DE 09 DE JANEIRO DE 2024.
 
 Autoriza o Poder Executivo Municipal a doar área pública situada no loteamento Jardim Alto Paraíso, neste Município, ao Estado de Goiás, tendo como interveniente a Secretaria de Segurança Pública e o Corpo de Bombeiros Militar do Estado de Goiás.

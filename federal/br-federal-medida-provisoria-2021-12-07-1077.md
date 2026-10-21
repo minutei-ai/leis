@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.077 de 07/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.077, DE 7 DE DEZEMBRO DE 2021
 
 Institui o Programa Internet Brasil.

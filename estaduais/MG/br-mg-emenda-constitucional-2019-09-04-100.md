@@ -1,5 +1,3 @@
-# EMC nº 100, de 04/09/2019
-
 Altera o art. 160 da Constituição do Estado e dá outras providências.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

@@ -1,5 +1,3 @@
-# LEI Nº 14.771 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.771 DE 04 DE SETEMBRO DE 2024
 
 Dispõe sobre a prestação de auxílio às pessoas com deficiência e/ou mobilidade reduzida nos supermercados, lojas de departamentos e estabelecimentos congêneres do Estado da Bahia e dá outras providências.

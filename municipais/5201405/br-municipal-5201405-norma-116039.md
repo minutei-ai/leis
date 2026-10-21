@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.596, de 2020-12-21
-
 LEI MUNICIPAL N° 3.596, DE 21 DE DEZEMBRO DE 2020.<br>
 (Revogada pela Lei Ordinária nº 3.610, de 21 de dezembro de 2021)
 

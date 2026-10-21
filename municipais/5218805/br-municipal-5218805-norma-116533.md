@@ -1,5 +1,3 @@
-# Lei Complementar nº 288, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 288, DE 17 DE FEVEREIRO DE 2023.  
 
 Altera a Lei Complementar nº 3.853/1999.

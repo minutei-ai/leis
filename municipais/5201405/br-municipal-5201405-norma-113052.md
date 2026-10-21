@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.818, de 2025-12-15
-
 DECRETO Nº 2.818, DE 15 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua 23 de Março, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

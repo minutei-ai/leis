@@ -1,5 +1,3 @@
-# Decreto nº 70.728, de 26/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212803)<br>
 
 # DECRETO N° 70.728, DE 26 DE JUNHO DE 2026

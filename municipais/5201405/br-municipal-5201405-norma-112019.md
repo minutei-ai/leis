@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.881, de 2025-12-30
-
 LEI Nº 3.881, DE 30 DE DEZEMBRO DE 2025
 
 Institui o “Selo Empresa Amiga da Mulher” para empresas que contratarem mulheres vítimas de violência doméstica e familiar, e dá outras providências.

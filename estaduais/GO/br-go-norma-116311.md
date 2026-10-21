@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.964, de 2026-07-28
-
 DECRETO Nº 10.964, DE 28 DE JULHO DE 2026
 
 Concede a Medalha da Ordem do Mérito Tiradentes às autoridades que especifica.

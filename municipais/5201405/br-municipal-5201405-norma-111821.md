@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.847, de 2025-08-27
-
 LEI Nº 3.847, DE 27 DE AGOSTO DE 2025
 
 Dispõe sobre a obrigatoriedade da garantia de representatividade religiosa equitativa em eventos de caráter público e dá outras providências.

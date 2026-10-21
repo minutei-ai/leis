@@ -1,5 +1,3 @@
-# Decreto Numerado nº 622, de 2024-07-31
-
 DECRETO “N” Nº 622 DE 31 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

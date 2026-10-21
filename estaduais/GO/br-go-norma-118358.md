@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.998, de 2026-10-19
-
 DECRETO Nº 10.998, DE 19 DE OUTUBRO DE 2026
 
 Desqualifica como organização social – OSS da Saúde, no Estado de Goiás, o Instituto de Gestão e Humanização – IGH

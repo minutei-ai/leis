@@ -1,5 +1,3 @@
-# Medida Provisória nº 178 de 31/03/2004
-
 ###MPV-000178-0-000-31-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 178, DE 31 DE MARÇO 2004.

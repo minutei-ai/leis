@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.352 de 28/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.352, DE 28 DE ABRIL DE 2026
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 5.000.000.000,00, para o fim que especifica.

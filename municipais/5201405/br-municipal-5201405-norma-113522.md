@@ -1,5 +1,3 @@
-# Decreto Numerado nº 183, de 2026-03-10
-
 DECRETO Nº 183, DE 10 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Álvaro Alvim, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

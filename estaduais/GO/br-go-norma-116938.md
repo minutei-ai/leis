@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.499, de 2026-08-27
-
 LEI Nº 24.499, DE 27 DE AGOSTO DE 2026
 
 Institui a Política Estadual de Fomento à Exploração Estratégica de Terras Raras.

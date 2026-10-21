@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.852, de 2025-11-19
-
 LEI Nº 23.852, DE 19 DE NOVEMBRO DE 2025
 
 Confere ao Município de Três Ranchos o título de “Capital Goiana da Pesca Esportiva”. 

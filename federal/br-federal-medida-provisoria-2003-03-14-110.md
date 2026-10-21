@@ -1,5 +1,3 @@
-# Medida Provisória nº 110 de 14/03/2003
-
 ###MPV-000110-0-000-14-03-2003@@@
 
 MEDIDA PROVISÓRIA Nº 110, DE 14 DE MARÇO 2003.

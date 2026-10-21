@@ -1,5 +1,3 @@
-# Decreto Numerado nº 708, de 2024-08-30
-
 DECRETO “N” Nº 708 DE 30 DE AGOSTO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 846, de 10 de outubro de 2024).
 

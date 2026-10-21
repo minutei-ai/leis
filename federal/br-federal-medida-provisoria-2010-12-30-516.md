@@ -1,5 +1,3 @@
-# Medida Provisória nº 516 de 30/12/2010
-
 MEDIDA PROVISÓRIA nº 516, DE 30 DE DEZEMBRO DE 2010
 
 Dispõe sobre o salário mínimo a partir de 1º de janeiro de 2011.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.674, de 2022-06-28
-
 LEI MUNICIPAL Nº 3.674, DE 28 DE JUNHO DE 2022
 
 Dispõe sobre a implantação de Ponto Eletrônico, para Médicos e demais profissionais da Rede Municipal de Saúde de Aparecida de Goiânia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.453, de 2025-05-27
-
 DECRETO Nº 1.453, DE 27 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento da Chácara nº 178, situado à Alameda A, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

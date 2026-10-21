@@ -1,5 +1,3 @@
-# LEI Nº 15.177 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.177 DE 1º DE JULHO DE 2026
 
 Institui, no currículo das escolas estaduais, conteúdo programático voltado à prevenção da gravidez precoce.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.763, de 2025-11-17
-
 LEI Nº 7.763, DE 17 DE NOVEMBRO DE 2025.
 
 Autoriza o Poder Executivo a conceder premiações a participantes de competições esportivas do Município de Rio Verde e dá outras providências.

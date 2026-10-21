@@ -1,5 +1,3 @@
-# LEI Nº 15.145 DE 11 DE MAIO DE 2026
-
 LEI Nº 15.145 DE 11 DE MAIO DE 2026
 
 Altera a Lei Estadual nº [8.902](https://www.legislabahia.ba.gov.br/documentos/lei-no-8902-de-18-de-dezembro-de-2003), de 18 de dezembro de 2003, para estruturar, no âmbito da Assembleia Legislativa, a Diretoria de Comunicação Institucional da Presidência, na forma que indica, e dá outras providências.

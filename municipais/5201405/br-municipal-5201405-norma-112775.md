@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.800, de 2024-10-01
-
 LEI MUNICIPAL Nº 3.800, DE 01 DE OUTUBRO DE 2024.
 
 Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO, para o exercício de 2025 e dá outras previdências.

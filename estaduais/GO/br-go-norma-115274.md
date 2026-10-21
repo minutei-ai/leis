@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.925, de 2026-06-12
-
 DECRETO Nº 10.925, DE 12 DE JUNHO DE 2026
 
 Dispõe sobre o expediente nas repartições públicas estaduais nos dias úteis em que houver jogo da Seleção Brasileira de Futebol pela Copa do Mundo da FIFA 2026, nos Estados Unidos, México e Canadá.

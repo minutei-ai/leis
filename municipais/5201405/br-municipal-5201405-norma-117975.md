@@ -1,5 +1,3 @@
-# Decreto Numerado nº 219, de 2023-04-05
-
 DECRETO “N” Nº 219 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR COLONIAL SUL, neste município.

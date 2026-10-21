@@ -1,5 +1,3 @@
-# Decreto Numerado nº 359, de 2026-05-08
-
 DECRETO Nº 359, DE 8 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua C-11, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

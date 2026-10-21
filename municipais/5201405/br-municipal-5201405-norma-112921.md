@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.941, de 2025-08-08
-
 DECRETO Nº 1.941, DE 8 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua R-2 e Rua R-5, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.299, de 2016-02-04
-
 LEI MUNICIPAL Nº 3.299, DE 04 DE FEVEREIRO DE 2016.
 
 Dá nome à Unidade Básica de Saúde do Setor Andrade Reis, neste município.

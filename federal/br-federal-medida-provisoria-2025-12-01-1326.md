@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.326 de 01/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.326, DE 1 DE DEZEMBRO DE 2025
 
 Dispõe sobre o reajuste da remuneração das forças de segurança pública do Distrito Federal, da remuneração da Polícia Militar e do Corpo de Bombeiros Militar dos ex-Territórios Federais e do antigo Distrito Federal e do valor do auxílio-moradia dos militares que especifica e sobre a extinção de cargos efetivos vagos.

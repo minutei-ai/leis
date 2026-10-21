@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.967, de 2026-07-28
-
 DECRETO Nº 10.967, DE 28 DE JULHO DE 2026
 
 Cria, na Secretaria de Estado de Ciência, Tecnologia e Inovação, a Comissão Especial de Avaliação do Ensino Superior Mantido pelo Estado de Goiás.

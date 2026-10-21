@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.367, de 2025-05-09
-
 DECRETO Nº 1.367, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Páscoa no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

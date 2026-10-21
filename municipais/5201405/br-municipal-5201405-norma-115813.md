@@ -1,5 +1,3 @@
-# Decreto Numerado nº 548, de 2024-07-04
-
 DECRETO “N” Nº 548 DE 04 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

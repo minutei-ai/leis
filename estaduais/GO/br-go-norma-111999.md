@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.848, de 2025-12-30
-
 DECRETO Nº 10.848, DE 30 DE DEZEMBRO DE 2025
 
 Institui o Comitê Estadual de Enfrentamento ao Desaparecimento de Pessoas.

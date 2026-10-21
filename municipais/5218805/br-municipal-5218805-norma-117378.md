@@ -1,5 +1,3 @@
-# Lei Complementar nº 188, de 2020-12-21
-
 LEI COMPLEMENTAR Nº 188, DE 21 DE DEZEMBRO DE 2020
 
 Altera a [Lei Complementar nº 88](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117370), de 30 de maio de 2017, que dispõe sobre a criação da Guarda Municipal de Rio Verde.

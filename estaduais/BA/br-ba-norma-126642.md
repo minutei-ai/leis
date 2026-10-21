@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 37 DE 10 DE JULHO DE 2013
-
 LEI COMPLEMENTAR Nº 37 DE 10 DE JULHO DE 2013
 
 Altera dispositivo da Lei Complementar nº 11, de 18 de janeiro de 1996.

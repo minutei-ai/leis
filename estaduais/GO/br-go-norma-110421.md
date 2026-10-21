@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.637, de 2025-02-04
-
 DECRETO Nº 10.637, DE 4 DE FEVEREIRO DE 2025<br>
 [\- Revogado pelo Decreto n° 10.815, de 26-11-2025, art. 12.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111618)
 

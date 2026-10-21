@@ -1,5 +1,3 @@
-# LEI Nº 14.761 DE 07 DE AGOSTO DE 2024
-
 LEI Nº 14.761 DE 07 DE AGOSTO DE 2024
 
 Dispõe sobre a redução de multas e acréscimos moratórios de débitos fiscais do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, na forma que indica, e dá outras providências.

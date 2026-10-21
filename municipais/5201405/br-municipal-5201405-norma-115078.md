@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.379, de 2017-09-13
-
 LEI MUNICIPAL 3.379, DE 13 DE SETEMBRO DE 2017<br>
 ​​​​​​​(Revogada pela Lei Ordinária nº 3.761, de 11 de dezembro de 2023).
 

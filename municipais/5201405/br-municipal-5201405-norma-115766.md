@@ -1,5 +1,3 @@
-# Decreto Numerado nº 503, de 2024-06-25
-
 DECRETO “N” Nº 503 DE 25 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

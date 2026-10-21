@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.388, de 2025-05-05
-
 LEI Nº 23.388, DE 5 DE MAIO DE 2025
 
 Altera a [Lei nº 21.626](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106323), de 9 de novembro de 2022, que autoriza execução e conclusão do objeto de emendas parlamentares.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 217, de 2024-04-08
-
 DECRETO “N” Nº 217 DE 08 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

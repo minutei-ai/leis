@@ -1,5 +1,3 @@
-# Decreto nº 69.850, de 04/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211408)<br>
 
 # DECRETO N° 69.850, DE 04 DE SETEMBRO DE 2025

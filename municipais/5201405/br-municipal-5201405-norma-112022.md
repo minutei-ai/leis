@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.884, de 2025-12-30
-
 LEI Nº 3.884, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre a denominação da Pista de Skate localizada ao lado da Praça Dom Pedro, na Avenida Domingos Martins com a Rua Luiz XV, no Setor Parque Real de Goiânia, em Aparecida de Goiânia, como Pista de Skate ANDERSON CARLOS VIEIRA BATISTA, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.981, de 2011-08-24
-
 LEI Nº. 5.981, DE 24 DE AGOSTO DE 2011.
 
 <br>

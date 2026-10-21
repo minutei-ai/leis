@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.956, de 2026-07-13
-
 DECRETO Nº 10.956, DE 13 DE JULHO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Turvânia/GO.

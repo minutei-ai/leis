@@ -1,5 +1,3 @@
-# Decreto Numerado nº 178, de 2023-03-20
-
 DECRETO “N” Nº 178 DE 20 DE MARÇO DE 2023.<br>
 (Revogado pelo Decreto "N" Nº 455, de 12 de julho de 2023).
 

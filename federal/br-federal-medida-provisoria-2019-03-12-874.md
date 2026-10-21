@@ -1,5 +1,3 @@
-# Medida Provisória nº 874 de 12/03/2019
-
 MEDIDA PROVISÓRIA Nº 874, DE 12 DE MARÇO DE 2019
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 1.368.600,00, para o fim que especifica.

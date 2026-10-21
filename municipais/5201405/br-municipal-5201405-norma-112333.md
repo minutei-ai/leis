@@ -1,5 +1,3 @@
-# Decreto Numerado nº 950, de 2025-02-24
-
 DECRETO Nº 950, DE 24 DE FEVEREIRO DE 2025<br>
 (Revogado pelo Decreto nº 2.037, de 25 de agosto de 2025).
 

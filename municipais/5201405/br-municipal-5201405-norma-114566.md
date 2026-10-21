@@ -1,5 +1,3 @@
-# Decreto Numerado nº 79, de 2024-02-09
-
 DECRETO “N” Nº 79 DE 09 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

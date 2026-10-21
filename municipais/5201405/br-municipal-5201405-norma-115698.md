@@ -1,5 +1,3 @@
-# Decreto Numerado nº 456, de 2024-06-13
-
 DECRETO “N” Nº 456 DE 13 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

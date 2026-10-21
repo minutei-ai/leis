@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.347, de 2023-03-30
-
 LEI Nº 7.347, DE 30 DE MARÇO DE 2023
 
 Reconhece Utilidade Pública Municipal e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.611, de 2024-04-11
-
 LEI Nº 22.611, DE 11 DE ABRIL DE 2024
 
 Institui o selo “Cidade Amiga do Autista”.

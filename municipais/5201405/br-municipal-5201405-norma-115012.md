@@ -1,5 +1,3 @@
-# Decreto Numerado nº 292, de 2024-04-23
-
 DECRETO “N” Nº 292 DE 23 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

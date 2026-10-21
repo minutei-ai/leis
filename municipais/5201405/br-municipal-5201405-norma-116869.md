@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.312, de 2016-04-19
-
 LEI MUNICIPAL Nº 3.312, DE 19 DE ABRIL DE 2016.
 
 “Dá nome à Praça SEBASTIÃO CARDOSO DOS SANTOS FILHO, no Bairro Cidade Vera Cruz I, em Aparecida de Goiânia - GO”.

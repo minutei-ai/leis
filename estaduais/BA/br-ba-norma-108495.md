@@ -1,5 +1,3 @@
-# LD Nº 41 DE 14 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 41 DE 14 DE MARÇO DE 1983
 
 Exclui as agências oficiais de crédito do sistema de processamento de dados do Estado e dá outras providências.

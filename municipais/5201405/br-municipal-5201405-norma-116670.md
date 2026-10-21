@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.368, de 2017-07-11
-
 LEI MUNICIPAL Nº 3.368, DE 11 DE JULHO DE 2017
 
 “Dá nome à Praça Mafalda José da Rocha, situada no Setor Cidade Vera Cruz II, neste município.”

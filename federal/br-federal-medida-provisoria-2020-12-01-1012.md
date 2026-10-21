@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.012 de 01/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.012, DE 1 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 12.343, de 2 de dezembro de 2010, que institui o Plano Nacional de Cultura - PNC e cria o Sistema Nacional de Informações e Indicadores Culturais - SNIIC, para ampliar o prazo de vigência do PNC.

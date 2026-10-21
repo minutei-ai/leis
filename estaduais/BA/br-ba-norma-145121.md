@@ -1,5 +1,3 @@
-# LEI Nº 14.754 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.754 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO MARES DE JUDÔ, com sede e foro no município de Eunápolis.

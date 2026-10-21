@@ -1,5 +1,3 @@
-# Decreto Numerado nº 491, de 2024-06-21
-
 DECRETO “N” Nº 491 DE 21 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# LEI Nº 15.019 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.019 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública o Instituto Social e Cultural Ativa Vale, com sede e foro no município de Salvador.

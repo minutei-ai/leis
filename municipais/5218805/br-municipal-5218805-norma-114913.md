@@ -1,5 +1,3 @@
-# Lei Complementar nº 363, de 2024-06-24
-
 LEI COMPLEMENTAR Nº 363, DE 24 DE JUNHO DE 2024.
 
 Altera a Lei Complementar nº 3.633, de 04 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos.

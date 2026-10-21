@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.584, de 2024-12-02
-
 DECRETO Nº 10.584, DE 2 DE DEZEMBRO DE 2024
 
 Dispõe sobre a criação do Grupo Especial de Consolidação e Encerramento da Gestão – GECEG, para a apresentação de relatórios de resultados e impactos de ações, projetos e políticas públicas implementadas pela gestão do Governo do Estado de Goiás entre 2019 e 2026.

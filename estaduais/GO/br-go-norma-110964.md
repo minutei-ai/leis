@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.709, de 2025-06-16
-
 DECRETO Nº 10.709, DE 16 DE JUNHO DE 2025
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual e transfere o feriado consagrado à fundação da Cidade de Goiás para o dia 28 de julho de 2025.

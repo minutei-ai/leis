@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.044 de 27/04/2021
-
 MEDIDA PROVISÓRIA Nº 1.044, DE 27 DE ABRIL DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Economia, no valor de R$ 9.977.701.233,00, para o fim que especifica.

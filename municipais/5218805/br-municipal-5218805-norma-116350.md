@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.264, de 2007-03-26
-
 LEI COMPLEMENTAR Nº 5.264, DE 26 DE MARÇO DE 2007
 
 Altera a Lei n. 5.225/2006.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 523, de 2024-06-27
-
 DECRETO “N” Nº 523 DE 27 DE JUNHO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóvel.

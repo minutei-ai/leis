@@ -1,5 +1,3 @@
-# Medida Provisória nº 760 de 22/12/2016
-
 MEDIDA PROVISÓRIA Nº 760, DE 22 DE DEZEMBRO DE 2016
 
 Altera a [Lei nº 12.086, de 6 de novembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-11-06;12086), que dispõe sobre os militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal.

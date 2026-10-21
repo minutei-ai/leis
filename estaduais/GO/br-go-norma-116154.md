@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.439, de 2026-07-10
-
 LEI Nº 24.439, DE 10 DE julho DE 2026
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

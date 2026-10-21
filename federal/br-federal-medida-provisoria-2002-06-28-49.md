@@ -1,5 +1,3 @@
-# Medida Provisória nº 49 de 28/06/2002
-
 ###MPV-000049-0-000-28-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 49, DE 28 DE JUNHO DE 2002

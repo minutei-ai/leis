@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.635, de 2021-11-12
-
 LEI MUNICIPAL Nº 3.635, DE 12 DE NOVEMBRO DE 2021.
 
 Dispõe sobre a proibição de taxa de esgoto em locais sem acesso à rede coletora de esgoto no Município de Aparecida de Goiânia.

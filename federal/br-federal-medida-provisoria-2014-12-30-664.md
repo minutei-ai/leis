@@ -1,5 +1,3 @@
-# Medida Provisória nº 664 de 30/12/2014
-
 MEDIDA PROVISÓRIA Nº 664, DE 30 DE DEZEMBRO DE 2014
 
 Altera as Leis nº 8.213, de 24 de julho de 1991, nº 10.876, de 2 junho de 2004, nº 8.112, de 11 de dezembro de 1990, e a Lei nº 10.666, de 8 de maio de 2003.

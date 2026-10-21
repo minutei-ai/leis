@@ -1,5 +1,3 @@
-# EMC nº 112, de 24/04/2023
-
 Altera os arts. 13, 53 e 160 da Constituição do Estado e acrescenta os arts. 159 e 160 ao Ato das Disposições Constitucionais Transitórias.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

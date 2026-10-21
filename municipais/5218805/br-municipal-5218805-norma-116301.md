@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.294, de 2022-09-26
-
 LEI N. 7.294 DE 26 DE SETEMBRO DE 2022
 
 Reconhece como Utilidade Pública Municipal a “ASSOCIAÇÃO HABITACIONAL E ESPORTIVA DE RIO VERDE/GO”, sociedade civil de responsabilidade limitada, sem fins lucrativos, constituída em Assembléia Geral e aprovado seu Estatuto, dispõe sobre programas habitacionais e projetos para crianças, jovens e adultos, através de atividades esportivas, no âmbito do município de Rio Verde/GO, e dá outras providências

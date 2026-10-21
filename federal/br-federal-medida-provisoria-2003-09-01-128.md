@@ -1,5 +1,3 @@
-# Medida Provisória nº 128 de 01/09/2003
-
 ###MPV-000128-0-000-01-09-2003@@@
 
 MEDIDA PROVISÓRIA Nº 128, DE 1º DE SETEMBRO 2003.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 187, de 2026-03-11
-
 DECRETO Nº 187, DE 11 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua R-10, Rua R-3 e Rua 10, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

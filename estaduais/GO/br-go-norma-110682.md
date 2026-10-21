@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.421, de 2025-05-15
-
 LEI Nº 23.421, DE 15 DE MAIO DE 2025
 
 Confere ao Município de Trombas/GO o título de “Capital do Rodeio do Norte Goiano”.

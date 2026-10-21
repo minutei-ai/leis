@@ -1,5 +1,3 @@
-# Lei Complementar nº 249, de 2026-06-18
-
 LEI COMPLEMENTAR Nº 249, DE 18 DE JUNHO DE 2026
 
 Altera a Lei Complementar nº 124, de 14 de dezembro de 2016, que instituiu o Plano Diretor do Município de Aparecida de Goiânia.

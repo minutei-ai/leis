@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.682, de 2025-06-27
-
 DECRETO Nº 1.682, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Jardim das Cascatas Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.242, de 2022-04-01
-
 LEI Nº 7.242, DE 1º DE ABRIL DE 2022
 
 Autoriza o Poder Executivo a custear despesas em apoio a evento esportivo.

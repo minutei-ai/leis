@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.284 de 28/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.284, DE 28 DE DEZEMBRO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento, Indústria, Comércio e Serviços; do Desenvolvimento Agrário e Agricultura Familiar; da Integração e do Desenvolvimento Regional; do Desenvolvimento e Assistência Social, Família e Combate à Fome; e das Cidades; e de Operações Oficiais de Crédito, no valor de R$ 357.443.320,00, para os fins que especifica.

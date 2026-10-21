@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.782, de 2025-12-15
-
 LEI Nº 7.782, DE 15 DE DEZEMBRO DE 2025.
 
 Prorroga, até 31 de dezembro de 2026, a vigência do Plano Municipal de Educação, aprovado por meio da Lei nº 6.546, de 16 de junho de 2015.

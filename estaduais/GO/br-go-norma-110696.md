@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.430, de 2025-05-21
-
 LEI Nº 23.430, DE 21 DE MAIO DE 2025
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás – CTE e possibilita o pagamento parcelado da Taxa de Licenciamento Anual de Veículo.

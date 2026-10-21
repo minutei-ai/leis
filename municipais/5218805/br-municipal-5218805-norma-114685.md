@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.169, de 2021-09-01
-
 LEI Nº 7.169, DE 1º DE SETEMBRO DE 2021.
 
 Institui Alvará Social de Construção, Habite-se social e dá outras providências.

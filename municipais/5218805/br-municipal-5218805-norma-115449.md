@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.340, de 2023-03-30
-
 LEI Nº 7.340, DE 30 DE MARÇO DE 2023
 
 Denomina a Unidade Básica de Saúde do Residencial Canaã que menciona.

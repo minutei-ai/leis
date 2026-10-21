@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.749, de 2025-10-14
-
 LEI Nº 23.749, DE 14 DE OUTUBRO DE 2025.
 
 Estabelece o prazo de vida útil para veículos utilizados no transporte escolar no Estado de Goiás.

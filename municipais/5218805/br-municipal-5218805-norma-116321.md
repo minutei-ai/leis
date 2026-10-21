@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.286, de 2022-08-30
-
 LEI N° 7.286, DE 30 DE AGOSTO DE 2022
 
 Altera a Lei n°. 7.210/2021 que institui Programa de aquisição e distribuição de bilhetes de Transporte Coletivo Público.

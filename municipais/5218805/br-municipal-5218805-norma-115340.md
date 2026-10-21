@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.388, de 2023-08-28
-
 LEI Nº 7.388, DE 28 DE AGOSTO DE 2023
 
 Denomina pontilhão que está sendo construído na Avenida Natalícia de Mesquita.

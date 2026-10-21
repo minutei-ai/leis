@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.771, de 2025-11-17
-
 LEI Nº 7.771, DE 17 DE NOVEMBRO DE 2025.
 
 Dispõe sobre a concessão de auxílio-moradia aos médicos-residentes vinculados aos Programas de Residência Médica da Universidade de Rio Verde – UniRV, em conformidade com o Decreto Federal nº 12.681, de 20 de outubro de 2025, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.640, de 2025-04-14
-
 LEI Nº 7.640, DE 14 DE ABRIL DE 2025.
 
 Denomina de “José Batista da Silva” (In Santomim) o Salão Social do Distrito de Ouroana.

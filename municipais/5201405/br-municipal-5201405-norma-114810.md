@@ -1,5 +1,3 @@
-# Decreto Numerado nº 182, de 2024-03-26
-
 DECRETO “N” Nº 182 DE 26 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

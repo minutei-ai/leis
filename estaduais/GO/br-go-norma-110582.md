@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.337, de 2025-04-13
-
 LEI Nº 23.337, DE 13 DE ABRIL DE 2025
 
 Concede o título de cidadania que especifica.

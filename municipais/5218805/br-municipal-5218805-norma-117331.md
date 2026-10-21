@@ -1,5 +1,3 @@
-# Lei Complementar nº 326, de 2023-11-27
-
 LEI COMPLEMENTAR Nº 326, DE 27 DE NOVEMBRO DE 2023.
 
 Altera a Lei Complementar nº 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

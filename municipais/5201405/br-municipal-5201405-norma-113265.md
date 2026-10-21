@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.434, de 2025-10-09
-
 DECRETO Nº 2.434, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 63, situado à Rua Coronel José Bezerra Leite, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

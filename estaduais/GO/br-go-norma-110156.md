@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.606, de 2024-12-16
-
 DECRETO Nº 10.606, DE 16 DE DEZEMBRO DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 540, de 2026-09-24
-
 DECRETO Nº 540, DE 24 DE SETEMBRO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação, as áreas que especifica, destinadas à duplicação da Avenida Tanner de Melo.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.360, de 2025-04-22
-
 LEI Nº 23.360, DE 22 DE ABRIL DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 620 de 12/06/2013
-
 MEDIDA PROVISÓRIA N°\- 620, DE 12 DE JUNHO DE 2013
 
 Altera a Lei n° 12.793, de 2 de abril de 2013, para dispor sobre o financiamento de bens de consumo duráveis a beneficiários do Programa Minha Casa Minha Vida, constitui fonte adicional de recursos para a Caixa Econômica Federal, altera a Lei n° 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, para prever prazo de aplicação das sanções previstas na Lei n° 8.078, de 11 de setembro de 1990, e dá outras providências.

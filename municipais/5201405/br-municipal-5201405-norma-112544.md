@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.407, de 2025-05-21
-
 DECRETO Nº 1.407, DE 21 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Avenida Augustus no Loteamento Villa Romana, no Município de Aparecida de Goiânia.

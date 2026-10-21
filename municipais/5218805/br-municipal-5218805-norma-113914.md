@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.810, de 2026-02-19
-
 **Lei nº 7810, DE 19 DE FEVEREIRO DE 2026.** 
 
 Autoriza o Poder Executivo a conceder o uso de área localizada no Paço Municipal para fins de exploração de atividade comercial de alimentação.

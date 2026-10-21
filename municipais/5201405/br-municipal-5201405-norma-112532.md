@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.365, de 2025-05-09
-
 DECRETO Nº 1.365, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua 01 no Loteamento Setor Rio Vermelho, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LEI Nº 14.779 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.779 DE 04 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a Associação Servos de Kadosh, com sede e foro no município de Dias D’ávila.

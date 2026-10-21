@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.270, de 2015-07-02
-
 LEI MUNICIPAL Nº 3.270, DE 02 DE JULHO DE 2015.
 
 Desafeta e doa o lote área localizado no Parque Trindade, neste Município, ao ESTADO DE GOIÁS e dá outras providências.

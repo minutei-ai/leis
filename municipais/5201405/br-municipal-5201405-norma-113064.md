@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.806, de 2025-12-11
-
 DECRETO Nº 2.806, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 12 e 17, situados à Avenida Domingos de Barros Vellasco e Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

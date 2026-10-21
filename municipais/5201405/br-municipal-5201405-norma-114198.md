@@ -1,5 +1,3 @@
-# Decreto Numerado nº 468, de 2024-06-17
-
 DECRETO “N” Nº 468, DE 17 DE JUNHO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 907, de 30 de outubro de 2024).
 

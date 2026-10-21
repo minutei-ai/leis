@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.968, de 2025-12-20
-
 LEI Nº 23.968, DE 20 DE DEZEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

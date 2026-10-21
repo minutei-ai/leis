@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.801, de 2026-01-13
-
 LEI Nº 7.801, DE 13 DE JANEIRO DE 2026.
 
 Institui a Política Municipal de Atenção à Saúde Mental do Homem no Município de Rio Verde-GO, e dá outras providências.

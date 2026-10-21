@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.430, de 2018-09-10
-
 LEI MUNICIPAL Nº 3.430, DE 10 DE SETEMBRO DE 2018
 
 Dá nome a Quadra coberta da escola municipal José Moreira Gontijo, (Quadra Justino Moreira dos Santos), no Setor Jardim Dom Bosco I, em Aparecida de Goiânia-Go.

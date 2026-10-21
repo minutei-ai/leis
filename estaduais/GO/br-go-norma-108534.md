@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.562, de 2024-03-14
-
 LEI Nº 22.562, DE 14 DE MARÇO DE 2024
 
 Altera a [Lei nº 19.767](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99078), de 18 de julho de 2017, que institui a Política Estadual de Compra da Produção da Agricultura Familiar.

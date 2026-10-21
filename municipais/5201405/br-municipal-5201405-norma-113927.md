@@ -1,5 +1,3 @@
-# Decreto Numerado nº 449, de 2024-06-11
-
 DECRETO “N” Nº 449, DE 11 DE JUNHO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidora da Secretaria Municipal de Educação.

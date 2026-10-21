@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.508, de 2024-04-29
-
 LEI Nº 7.508, DE 29 DE ABRIL DE 2024.
 
 Reconhece como Utilidade Pública Municipal e dá outras providências.

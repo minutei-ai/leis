@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.478, de 2025-10-21
-
 DECRETO Nº 2.478, DE 21 DE
 
 OUTUBRO DE 2025

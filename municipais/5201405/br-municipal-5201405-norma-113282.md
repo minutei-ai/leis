@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.387, de 2025-10-08
-
 DECRETO Nº 2.387, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, da Quadra 77, situado à Rua Wilton Pinheiro de Lima e Rua Osório Arantes, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

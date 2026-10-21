@@ -1,5 +1,3 @@
-# Resolução da Alesp nº 948, de 12/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212229)<br>
 
 # RESOLUÇÃO N° 948, DE 12 DE FEVEREIRO DE 2026

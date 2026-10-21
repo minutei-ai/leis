@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.343, de 2025-10-03
-
 DECRETO Nº 2.343, DE 3 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 07 e 08, todos da Quadra 34, situado à Rua José Arimatéia e silva, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

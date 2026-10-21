@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.217 de 09/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.217, DE 9 DE MAIO DE 2024
 
 Autoriza a Companhia Nacional de Abastecimento a importar arroz beneficiado ou em casca para o enfrentamento das consequências sociais e econômicas decorrentes de eventos climáticos extremos no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 204, de 2026-03-12
-
 DECRETO Nº 204, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua 126, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

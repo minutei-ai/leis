@@ -1,5 +1,3 @@
-# Decreto Numerado nº 196, de 2024-04-05
-
 DECRETO “N” Nº 196 DE 05 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

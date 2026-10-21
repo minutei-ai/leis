@@ -1,5 +1,3 @@
-# Lei Complementar nº 2, de 2001-12-12
-
 LEI COMPLEMENTAR Nº 002, DE 12 DE DEZEMBRO DE 2001.
 
 Dispõe sobre o Estatuto dos Servidores do Magistério Público do Município de Aparecida de Goiânia.

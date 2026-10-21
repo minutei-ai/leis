@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.180, de 2021-11-05
-
 LEI Nº 7.180, DE 05 DE OUTUBRO DE 2021.
 
 Reconhece como Utilidade Pública Municipal a “A Cooperativa de Trabalho dos Catadores de Material de Reciclagem em Geral do Sudoeste Goiano – Coop-Recicla” e dá outras providências.

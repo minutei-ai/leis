@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.980, de 2024-09-06
-
 LEI Nº 22.980, DE 6 DE SETEMBRO DE 2024
 
 Altera a [Lei nº 16.488](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87214), de 10 de fevereiro de 2009, que institui a Política Estadual de Incentivo ao Aproveitamento da Energia Solar.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.096 de 20/01/2022
-
 MEDIDA PROVISÓRIA Nº 1.096, DE 20 DE JANEIRO DE 2022
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Regional, no valor de R$ 550.000.000,00, para o fim que especifica.

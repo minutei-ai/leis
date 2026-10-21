@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.588, de 2024-12-06
-
 DECRETO Nº 10.588, DE 6 DE DEZEMBRO DE 2024
 
 Implanta o adicional no Bônus por Resultado de que trata o art. 7º da [Lei nº 22.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108736), de 30 de abril de 2024.

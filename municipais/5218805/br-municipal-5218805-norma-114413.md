@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.192, de 2001-12-14
-
 LEI Nº 4.192, DE 14 DE DEZEMBRO DE 2001.
 
 Altera o art. 58 da Lei n. 3.635/98, que reformula<br>

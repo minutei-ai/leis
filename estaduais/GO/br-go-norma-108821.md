@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.671, de 2024-05-09
-
 LEI Nº 22.671, DE 9 DE MAIO DE 2024
 
 Autoriza a aquisição, por doação onerosa por parte do Município de Goianira/GO, do imóvel que especifica.

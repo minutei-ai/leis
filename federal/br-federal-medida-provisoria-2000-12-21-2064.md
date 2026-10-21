@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.064 de 21/12/2000
-
 ###MPV-002064-0-000-21-12-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.064, DE 21 DE dezembro DE 2000.

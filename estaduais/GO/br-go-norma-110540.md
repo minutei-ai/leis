@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.311, de 2025-03-31
-
 LEI Nº 23.311, DE 31 DE MARÇO DE 2025
 
 Altera a [Lei nº 18.673](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90937), de 21 de novembro de 2014, que dispõe sobre os serviços de transporte rodoviário intermunicipal de passageiros no Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.750, de 2025-10-15
-
 LEI Nº 23.750, DE 15 DE OUTUBRO DE 2025
 
 Altera a [Lei nº 21.219](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104724 "Abrir Lei Ordinária nº 21219, de 2021 em nova aba"), de 29 de dezembro de 2021, que estabelece regras e critérios para a reforma e a construção de unidades habitacionais do Programa Pra Ter Onde Morar, no âmbito das ações sociais suplementares, em conformidade com o art. 1º da [Lei nº 14.469](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81094), de 16 de julho de 2003, que institui o Fundo de Proteção Social do Estado de Goiás – PROTEGE GOIÁS, e a [Lei nº 22.552](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108520), de 8 de março de 2024, que autoriza a concessão de subsídio aos beneficiários de programas habitacionais realizados em parceria com o Governo Federal, por intermédio da Caixa Econômica Federal, do Banco do Brasil ou de outras instituições financeiras credenciadas pelo Ministério das Cidades, para a aquisição de unidades habitacionais no Estado de Goiás.

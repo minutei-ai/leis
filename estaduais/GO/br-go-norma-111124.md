@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 137, de 2025-07-24
-
 Portaria Orçamentária nº 137/2025 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025, conforme processo 202500004012626.

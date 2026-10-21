@@ -1,5 +1,3 @@
-# Decreto Numerado nº 443, de 2024-06-11
-
 DECRETO “N” Nº 443 DE 11 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

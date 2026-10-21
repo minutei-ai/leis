@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.808, de 2026-02-19
-
 LEI Nº 7.808, DE 19 DE FEVEREIRO DE 2026.
 
 Autoriza a FESURV – Universidade de Rio Verde (UniRV) a destinar recursos financeiros para fomento a programas de inovação e empreendedorismo tecnológico, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.915, de 2024-08-08
-
 LEI Nº 22.915, DE 8 DE AGOSTO DE 2024
 
 Institui a Campanha Estadual de Orientação à Pessoa Idosa contra Fraudes Financeiras.

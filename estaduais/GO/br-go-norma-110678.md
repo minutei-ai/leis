@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.417, de 2025-05-15
-
 LEI Nº 23.417, DE 15 DE MAIO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

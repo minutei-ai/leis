@@ -1,5 +1,3 @@
-# Lei Complementar nº 233, de 2024-04-12
-
 LEI COMPLEMENTAR Nº 233, DE 12 DE ABRIL DE 2024
 
 Altera e acrescenta dispositivos à Lei nº 2.577 de 09 de maio de 2006, alterada pela Lei Complementar nº 156, de 03 de dezembro de 2018, que autoriza a consignação em folha de pagamento, mediante a celebração de convênios entre Instituições Financeiras e/ou Entidades de Classe e o Município de Aparecida de Goiânia-GO.

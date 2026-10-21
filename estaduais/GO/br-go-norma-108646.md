@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.432, de 2024-04-05
-
 DECRETO Nº 10.432, DE 5 DE ABRIL DE 2024
 
 Qualifica como organização social de cultura, no âmbito do Estado de Goiás, a entidade que especifica.

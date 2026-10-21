@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.723, de 2025-12-03
-
 DECRETO Nº 2.723, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Juvenal de Barros, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.949, de 2026-07-06
-
 DECRETO Nº 10.949, DE 6 DE JULHO DE 2026
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750 "Abrir Decreto Numerado nº 10218, de 2023 em nova aba"), de 16 de fevereiro de 2023, o Regulamento da Secretaria de Estado da Casa Civil, aprovado pelo [Decreto nº 10.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108400 "Abrir Decreto Numerado nº 10389, de 2024 em nova aba"), de 12 de janeiro de 2024, e o Regulamento da Secretaria-Geral de Governo, aprovado pelo [Decreto nº 10.355](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108173 "Abrir Decreto Numerado nº 10355, de 2023 em nova aba"), de 5 de dezembro de 2023.

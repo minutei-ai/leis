@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.538, de 2024-01-12
-
 LEI Nº 22.538, DE 12 DE JANEIRO DE 2024
 
 Institui a Campanha Estadual de Incentivo à Realização do _Check-up_ Feminino.

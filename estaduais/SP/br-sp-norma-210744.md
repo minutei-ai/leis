@@ -1,5 +1,3 @@
-# Ato da Mesa nº 10, de 13/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210744)<br>
 
 # ATO DA MESA N° 10/2025, DE 13 DE MARÇO DE 2025

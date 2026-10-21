@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.641, de 2025-04-14
-
 LEI Nº 7.641, DE 14 DE ABRIL DE 2025.
 
 Dispõe sobre a instituição do Dia da Equoterapia, a ser celebrado anualmente no dia 09 de agosto, e dá outras providências.

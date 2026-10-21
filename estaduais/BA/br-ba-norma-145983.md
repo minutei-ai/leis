@@ -1,5 +1,3 @@
-# LEI Nº 14.806 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.806 DE 26 DE DEZEMBRO DE 2024
 
 Altera a Lei nº [12.373](https://www.legislabahia.ba.gov.br/documentos/lei-no-12373-de-23-de-dezembro-de-2011), de 23 de dezembro de 2011, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1021, de 2024-11-27
-
 DECRETO “N” Nº 1021 DE 27 DE NOVEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto nº 70.604, de 13/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212598)<br>
 
 # DECRETO N° 70.604, DE13 DE MAIO DE 2026

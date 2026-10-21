@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.163 de 28/02/2023
-
 MEDIDA PROVISÓRIA Nº 1.163, DE 28 DE FEVEREIRO DE 2023
 
 Reduz alíquotas de contribuições incidentes sobre operações realizadas com gasolina, álcool, gás natural veicular e querosene de aviação.

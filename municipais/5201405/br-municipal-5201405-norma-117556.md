@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1008, de 2024-11-21
-
 DECRETO “N” Nº 1008 DE 21 DE NOVEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

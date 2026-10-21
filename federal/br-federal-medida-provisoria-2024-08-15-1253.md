@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.253 de 15/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.253, DE 15 DE AGOSTO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 308.250.000,00, para os fins que especifica.

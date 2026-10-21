@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.518, de 2025-06-10
-
 DECRETO Nº 1.518, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua Benedita Leal Pôvoa, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

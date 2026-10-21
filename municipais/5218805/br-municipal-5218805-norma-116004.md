@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.601, de 2009-05-26
-
 **LEI N. 5.601, DE 26 DE MAIO DE 2009**
 
 Altera [Lei n. 5.558](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003 "Abrir Lei Ordinária nº 5558, de 2009 em nova aba")/2009.

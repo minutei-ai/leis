@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.855, de 2025-09-18
-
 LEI Nº 3.855, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre a reserva de assentos preferenciais em praças de alimentação no Município de Aparecida de Goiânia e dá outras providências.

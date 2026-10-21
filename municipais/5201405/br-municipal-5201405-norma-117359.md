@@ -1,5 +1,3 @@
-# Decreto Numerado nº 846, de 2024-10-10
-
 DECRETO “N” Nº 846 DE 10 DE OUTUBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

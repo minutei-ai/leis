@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.592, de 2024-12-10
-
 DECRETO Nº 10.592, DE 10 DE DEZEMBRO DE 2024
 
 Prorroga a vigência do Programa Dignidade para o exercício de 2025.

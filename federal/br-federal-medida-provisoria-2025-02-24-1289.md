@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.289 de 24/02/2025
-
 MEDIDA PROVISÓRIA Nº 1.289, DE 24 DE FEVEREIRO DE 2025
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 4.177.883.185,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 04 DE 03 DE JUNHO DE 1994
-
 EMENDA CONSTITUCIONAL Nº 04 DE 03 DE JUNHO DE 1994
 
 Dá nova redação ao art. 94 e incisos I e II da Constituição do Estado.

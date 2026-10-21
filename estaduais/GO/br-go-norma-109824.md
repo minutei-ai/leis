@@ -1,5 +1,3 @@
-# Lei Complementar nº 199, de 2024-11-04
-
 LEI COMPLEMENTAR Nº 199, DE 4 DE NOVEMBRO DE 2024
 
 Altera a [Lei Complementar nº 139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101126), de 22 de janeiro de 2018, que dispõe sobre a Região Metropolitana de Goiânia, o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, cria o Instituto de Planejamento Metropolitano e dá outras providências.

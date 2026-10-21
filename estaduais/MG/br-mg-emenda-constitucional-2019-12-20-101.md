@@ -1,5 +1,3 @@
-# EMC nº 101, de 20/12/2019
-
 Acrescenta o art. 160-A à Constituição do Estado, a fim de disciplinar a transferência a municípios de recursos estaduais decorrentes de programações incluídas na Lei Orçamentária Anual por emendas individuais, de blocos e de bancadas e dá outras providências.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

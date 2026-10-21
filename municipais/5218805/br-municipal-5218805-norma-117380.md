@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.156, de 2021-06-30
-
 LEI Nº 7.156, DE 30 DE JUNHO DE 2021.
 
 Institui diretrizes para as metas e as prioridades da Administração Pública Municipal, incluindo as despesas de capital, orientando a elaboração da Lei Orçamentárias e dispondo sobre as alterações na legislação tributária, para o exercício financeiro de 2022 e dá outras providências. 

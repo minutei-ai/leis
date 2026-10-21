@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.387, de 2024-01-09
-
 DECRETO Nº 10.387, DE 9 DE JANEIRO DE 2024
 
 Aprova o Regulamento da Secretaria de Estado da Retomada.

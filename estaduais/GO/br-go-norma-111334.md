@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.695, de 2025-09-29
-
 LEI Nº 23.695, DE 29 DE SETEMBRO DE 2025
 
 Institui a Política Estadual de Fomento e Incentivo aos Cursos Sociais, Populares e Comunitários.

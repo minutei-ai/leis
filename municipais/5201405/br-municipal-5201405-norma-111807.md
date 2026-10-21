@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.856, de 2025-09-23
-
 LEI Nº 3.856, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre leitura bíblica como recurso paradidático nas Escolas Públicas e Particulares do Município de Aparecida de Goiânia.

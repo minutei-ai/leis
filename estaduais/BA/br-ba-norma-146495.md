@@ -1,5 +1,3 @@
-# LEI Nº 14.887 DE 15 ABRIL DE 2025
-
 LEI Nº 14.887 DE 15 ABRIL DE 2025
 
 Institui e inclui no calendário oficial de eventos do Estado da Bahia, o Mês Maio Furta-cor, dedicado às ações de conscientização, incentivo ao cuidado e promoção da saúde mental materna, e dá outras providências.

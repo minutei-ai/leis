@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.229, de 2025-01-16
-
 LEI Nº 23.229, DE 16 DE JANEIRO DE 2025
 
 <br>

@@ -1,5 +1,3 @@
-# LEI Nº 14.949 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.949 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública a Organização Religiosa Ilê Alaketú Asé Ayrá Igbonã, com sede e foro no município de Coração de Maria.

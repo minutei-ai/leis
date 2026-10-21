@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.145, de 2025-09-04
-
 DECRETO Nº 2.145, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, da Quadra 52, situado à Rua Moacir Camilo Nascimento, no Loteamento Jardim Dom Bosco 2ª etapa, no Município de Aparecida de Goiânia.

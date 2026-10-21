@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.054 de 08/06/2021
-
 MEDIDA PROVISÓRIA Nº 1.054, DE 8 DE JUNHO DE 2021
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública, da Defesa e da Cidadania, no valor de R$ 235.348.850,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.301, de 2022-09-26
-
 LEI N°. 7.301, DE 26 DE SETEMBRO DE 2022
 
 Institui a “Semana Municipal de Mobilização dos Homens pelo fim da violência contra a Mulher, denominada Campanha Laço Branco”, no âmbito do Município de Rio Verde-GO, e dá outras providências.

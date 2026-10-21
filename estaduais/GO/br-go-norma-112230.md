@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.042, de 2026-01-16
-
 LEI Nº 24.042, DE 16 DE JANEIRO DE 2026
 
 Assegura ao consumidor o direito de receber, em meio físico, faturas e boletos emitidos por concessionárias e permissionárias de serviços públicos no âmbito do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.612, de 2021-06-24
-
 LEI MUNICIPAL Nº 3.612, DE 24 DE JUNHO DE 2021.
 
 Altera a Lei Municipal nº. 3.155, de 30 de dezembro de 2013 que dispõe sobre o Programa Municipal de Parceria Público-Privada, cria o Comitê Gestor de Parceria PúblicoPrivada no Município de Aparecida de Goiânia – CGPPP - e autoriza o Poder Executivo a instituir o Fundo de Garantia de Parceria Público-Privada Municipal.

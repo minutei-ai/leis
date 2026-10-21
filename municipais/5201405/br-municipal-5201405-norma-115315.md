@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.661, de 2022-03-16
-
 LEI MUNICIPAL Nº 3.661 DE 16 DE MARÇO DE 2022.
 
 Dispõe sobre a denominação da UBS IRNALDO DE SOUZA LACERDA, no Mansões Paraíso, neste Município e dá outras providências.

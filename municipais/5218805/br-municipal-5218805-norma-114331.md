@@ -1,5 +1,3 @@
-# Lei Complementar nº 128, de 2018-07-03
-
 LEI COMPLEMENTAR Nº 128, DE 03 DE JULHO DE 2018.
 
 <br>

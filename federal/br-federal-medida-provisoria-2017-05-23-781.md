@@ -1,5 +1,3 @@
-# Medida Provisória nº 781 de 23/05/2017
-
 MEDIDA PROVISÓRIA Nº 781, DE 23 DE MAIO DE 2017
 
 Altera a [Lei Complementar nº 79, de 7 de janeiro de 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:1994-01-07;79), para dispor sobre a transferência de recursos financeiros do Fundo Penitenciário Nacional, e a [Lei nº 11.473, de 10 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-10;11473), para permitir que os servidores que menciona prestem serviços, em caráter excepcional e voluntário, à Força Nacional de Segurança Pública, e dá outras providências.

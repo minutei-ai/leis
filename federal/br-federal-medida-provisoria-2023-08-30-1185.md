@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.185 de 30/08/2023
-
 MEDIDA PROVISÓRIA Nº 1.185, DE 30 DE AGOSTO DE 2023
 
 Dispõe sobre o crédito fiscal decorrente de subvenção para a implantação ou a expansão de empreendimento econômico.

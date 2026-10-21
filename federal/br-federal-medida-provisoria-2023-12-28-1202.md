@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.202 de 28/12/2023
-
 MEDIDA PROVISÓRIA Nº 1.202, DE 28 DE DEZEMBRO DE 2023
 
 Revoga os benefícios fiscais de que tratam o [art. 4º da Lei nº 14.148, de 3 de maio de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-05-03;14148!art4), e os art. 7º a [art. 10 da Lei nº 12.546, de 14 de dezembro de 2011](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-12-14;12546!art10), desonera parcialmente a contribuição previdenciária sobre a folha de pagamento, revoga a alíquota reduzida da contribuição previdenciária aplicável a determinados Municípios e limita a compensação de créditos decorrentes de decisões judiciais transitadas em julgado.

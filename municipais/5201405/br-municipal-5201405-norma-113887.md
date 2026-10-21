@@ -1,5 +1,3 @@
-# Decreto Numerado nº 206, de 2024-04-05
-
 DECRETO “N” Nº 206, DE 05 DE ABRIL DE 2024.
 
 Dispõe sobre a concessão de PROGRESSÃO VERTICAL aos servidores da Secretaria Municipal de Educação de Aparecida de Goiânia.

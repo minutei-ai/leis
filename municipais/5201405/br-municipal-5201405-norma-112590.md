@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.337, de 2025-10-02
-
 DECRETO Nº 2.337, DE 2 DE OUTUBRO DE 2025
 
 Aprova o Regimento Interno do Gabinete do Prefeito do Município de Aparecida de Goiânia.

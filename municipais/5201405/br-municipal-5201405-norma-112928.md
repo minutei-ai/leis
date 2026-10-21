@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.993, de 2025-08-18
-
 DECRETO Nº 1.993, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Benedita Leal Póvoa, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

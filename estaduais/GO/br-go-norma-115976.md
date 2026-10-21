@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.388, de 2026-06-29
-
 LEI Nº 24.388, DE 29 DE JUNHO DE 2026
 
 Concede o título de cidadania que especifica.

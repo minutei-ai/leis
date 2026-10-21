@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.094, de 2024-11-25
-
 LEI Nº 23.094, DE 25 DE NOVEMBRO DE 2024
 
 Autoriza a aquisição, por doação onerosa da União, do imóvel que especifica.

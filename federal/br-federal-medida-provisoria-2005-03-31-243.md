@@ -1,5 +1,3 @@
-# Medida Provisória nº 243 de 31/03/2005
-
 ###MPV-000243-0-000-31-03-2005@@@
 
 MEDIDA PROVISÓRIA Nº 243, DE 31 DE MARÇO DE 2005

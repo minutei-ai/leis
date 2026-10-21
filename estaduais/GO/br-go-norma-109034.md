@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.799, de 2024-06-21
-
 LEI Nº 22.799, DE 21 DE JUNHO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

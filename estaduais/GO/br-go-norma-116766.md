@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 342, de 2026-07-13
-
 Portaria Orçamentária nº 342/2026 - Economia
 
 O PRESIDENTE do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de janeiro de 2026.

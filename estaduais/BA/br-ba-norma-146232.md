@@ -1,5 +1,3 @@
-# LEI N° 14.865 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.865 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre a obrigatoriedade de reserva de 10% das vagas para idosos, autistas e para pessoas com mobilidade reduzida, nas embarcações utilizadas como transporte de passageiros e veículos hidroviários no Estado da Bahia, e dá outras providências.

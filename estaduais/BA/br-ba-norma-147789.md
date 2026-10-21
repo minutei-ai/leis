@@ -1,5 +1,3 @@
-# LEI Nº 15.007 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.007 DE 28 DE  OUTUBRO DE 2025
 
 Declara de utilidade pública o CRE – Idoso – Casa de Repouso para Idosos, com sede e foro no município de Senhor do Bonfim.

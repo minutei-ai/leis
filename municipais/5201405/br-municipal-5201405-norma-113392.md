@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.268, de 2025-09-23
-
 DECRETO Nº 2.268, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, da Quadra 42, situado à Rua Edson Nunes, no Loteamento Real Grandeza – 2ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.113, de 2006-03-06
-
 LEI Nº 5.113, DE 06 DE MARÇO DE 2006.
 
 Autoriza a realização de concurso público e aumento de quantitativo de cargos que menciona.

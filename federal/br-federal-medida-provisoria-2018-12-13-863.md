@@ -1,5 +1,3 @@
-# Medida Provisória nº 863 de 13/12/2018
-
 MEDIDA PROVISÓRIA Nº 863, DE 13 DE DEZEMBRO DE 2018
 
 Altera a [Lei nº 7.565, de 19 de dezembro de 1986](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1986-12-19;7565), que dispõe sobre o Código Brasileiro de Aeronáutica.

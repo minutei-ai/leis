@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.500, de 2024-04-01
-
 LEI Nº 7.500, DE 1º DE ABRIL DE 2024.
 
 Reconhece entidade como Utilidade Pública Municipal e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.721, de 2023-06-23
-
 LEI MUNICIPAL Nº 3.721 DE 23 DE JUNHO DE 2023.
 
 Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2024.

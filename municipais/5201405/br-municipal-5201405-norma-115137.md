@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.744, de 2023-10-19
-
 LEI MUNICIPAL N° 3.744, DE 19 DE OUTUBRO DE 2023.
 
 Obriga os condomínios residenciais e comerciais a comunicarem aos órgãos de segurança pública a ocorrência ou indícios de maus-tratos aos animais, na forma que especifica.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.421, de 26/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210977)<br>
 
 # LEI COMPLEMENTAR N° 1.421, DE 26 DE MAIO DE 2025

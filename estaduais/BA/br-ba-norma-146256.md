@@ -1,5 +1,3 @@
-# LEI Nº 14.877 DE 14 DE FEVEREIRO DE 2025
-
 LEI Nº 14.877 DE 14 DE FEVEREIRO DE 2025
 
 Autoriza o Poder Executivo a instituir a BAHIA FILMES - Companhia de Audiovisual do Estado da Bahia, e dá outras providências.

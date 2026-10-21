@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.680, de 2022-09-26
-
 LEI MUNICIPAL Nº 3.680 DE 26 DE SETEMBRO DE 2022.
 
 “Dispõe sobre a denominação à Escola de Música DELCIDES ALVES FORTES, situada no Setor Central, neste Município, e dá outras providências.”

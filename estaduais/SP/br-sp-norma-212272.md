@@ -1,5 +1,3 @@
-# Decreto nº 70.407, de 26/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212272)<br>
 
 # DECRETO N° 70.407, DE 26 DE FEVEREIRO DE 2026

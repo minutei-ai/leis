@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.269 de 22/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.269, DE 22 DE OUTUBRO DE 2024
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 5.000.000.000,00, para o fim que especifica.

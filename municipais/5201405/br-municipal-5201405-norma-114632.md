@@ -1,5 +1,3 @@
-# Decreto Numerado nº 388, de 2026-05-19
-
 DECRETO Nº 388, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Avenida Nossa Senhora de Fátima, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

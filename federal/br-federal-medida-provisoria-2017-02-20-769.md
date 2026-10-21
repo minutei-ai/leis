@@ -1,5 +1,3 @@
-# Medida Provisória nº 769 de 20/02/2017
-
 MEDIDA PROVISÓRIA Nº 769, DE 20 DE FEVEREIRO DE 2017
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 100.000.000,00, para os fins que especifica.

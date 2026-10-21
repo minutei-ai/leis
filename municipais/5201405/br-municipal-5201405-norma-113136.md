@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.721, de 2025-12-03
-
 DECRETO Nº 2.721, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 01-04A, 05, 06, 07 e 08, Todos da Quadra C-11A, situados à Avenida Joaquim Barbosa, Rua Guarujá e Rua Paraná, no Loteamento Jardim Cristalino, no Município de Aparecida de Goiânia.

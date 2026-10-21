@@ -1,5 +1,3 @@
-# Decreto Numerado nº 400, de 2026-05-20
-
 DECRETO Nº 400, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Francisca da Cruz Macedo, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

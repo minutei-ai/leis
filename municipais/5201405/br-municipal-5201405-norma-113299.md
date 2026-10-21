@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.348, de 2025-10-03
-
 DECRETO Nº 2.348, DE 3 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Avenida João Guilherme de Miranda, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

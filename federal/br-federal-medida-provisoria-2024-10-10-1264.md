@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.264 de 10/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.264, DE 10 DE OUTUBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 80.401.340,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.378, de 2025-10-07
-
 DECRETO Nº 2.378, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Silva Braga no Loteamento Setor dos Bandeirantes, no Município de Aparecida de Goiânia.

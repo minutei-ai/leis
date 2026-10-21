@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.348, de 2025-04-16
-
 LEI Nº 23.348, DE 16 DE ABRIL DE 2025
 
 Institui a Política Estadual de Alimentação Dietética.

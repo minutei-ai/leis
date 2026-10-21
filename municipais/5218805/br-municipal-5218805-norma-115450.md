@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.339, de 2023-03-30
-
 LEI Nº 7.339, DE 30 DE MARÇO DE 2023
 
 Autoriza o Poder Executivo a desafetar imóveis e doá-los ao Estado de Goiás. 

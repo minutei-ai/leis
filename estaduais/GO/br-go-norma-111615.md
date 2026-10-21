@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.813, de 2025-11-24
-
 DECRETO Nº 10.813, DE 24 DE NOVEMBRO DE 2025
 
 Considera as obras de infraestrutura que especifica prioritárias para a autorização da concessão do crédito outorgado estabelecido na alínea “f” do inciso XVI do art. 12 do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

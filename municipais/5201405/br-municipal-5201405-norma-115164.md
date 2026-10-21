@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.767, de 2023-12-22
-
 LEI MUNICIPAL Nº 3.767, DE 22 DE DEZEMBRO DE 2023
 
 Dispõe sobre a vedação de circulação de cães de médio, grande e gigante porte, sem coleira, guia curta de condução e focinheira, em locais públicos e com grande circulação de pessoas, no âmbito do município de Aparecida de Goiânia-GO e dá outras providências.

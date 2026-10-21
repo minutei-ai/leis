@@ -1,5 +1,3 @@
-# LD Nº 30 DE 03 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 30 DE 03 DE MARÇO DE 1983
 
 Autoriza a instituição de empresa pública, sob a denominação de Companhia de Desenvolvimento e Ação Regional - CAR e dá outras providências.

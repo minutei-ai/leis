@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.394, de 2026-06-29
-
 LEI Nº 24.394, DE 29 DE JUNHO DE 2026
 
 Altera a [Lei nº 16.897](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88611 "Abrir Lei Ordinária nº 16897, de 2010 em nova aba"), de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.083 de 24/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.083, DE 24 DE DEZEMBRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 6.412.000.000,00, para os fins que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.179, de 2021-11-05
-
 LEI Nº 7.179, DE 05 DE OUTUBRO DE 2021.
 
 Reconhece entidade como utilidade pública municipal e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 182, de 2020-05-06
-
 LEI COMPLEMENTAR Nº. 182, DE 06 DE MAIO DE 2020.
 
 Dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, define Órgãos e Entidades que a integram e o seu quadro de Cargos de Confiança (CC), Cargos de Provimento em Comissão (DAS) e Funções Gratificadas (FG).

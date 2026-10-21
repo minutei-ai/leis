@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.295, de 2025-03-24
-
 LEI Nº 23.295, DE 24 DE MARÇO DE 2025
 
 Altera a [Lei nº 17.139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89215), de 27 de agosto de 2010, que institui o Estatuto do Portador de Câncer no Estado de Goiás.

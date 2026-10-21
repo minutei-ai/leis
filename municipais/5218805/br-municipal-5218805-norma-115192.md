@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.456, de 2023-12-22
-
 LEI Nº 7.456, DE 22 DE DEZEMBRO DE 2023.
 
 Autoriza desafetação e alienação de imóvel público por investidura.

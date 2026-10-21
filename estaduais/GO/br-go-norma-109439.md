@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.969, de 2024-09-03
-
 LEI Nº 22.969, DE 3 DE SETEMBRO DE 2024
 
 Estabelece diretrizes para a promoção e o fomento do turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista – TEA e seus familiares e dá outras providências.

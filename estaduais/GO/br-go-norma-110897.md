@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.463, de 2025-06-06
-
 LEI Nº 23.463, DE 6 DE JUNHO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

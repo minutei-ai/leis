@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.879, de 2025-12-30
-
 LEI Nº 3.879, DE 30 DE DEZEMBRO DE 2025
 
 Reconhece como Utilidade Pública municipal o "Instituto Art In Dance” e dá outras providências.

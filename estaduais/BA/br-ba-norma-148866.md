@@ -1,5 +1,3 @@
-# LEI Nº 15.176 DE 25 DE JUNHO DE 2026
-
 LEI Nº 15.176 DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o Programa Estadual de Organizações Sociais, na forma que indica, e dá outras providências.

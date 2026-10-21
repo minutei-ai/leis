@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.448, de 2025-05-27
-
 DECRETO Nº 1.448, DE 27 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua 03, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia. 

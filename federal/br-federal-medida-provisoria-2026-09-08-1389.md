@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.389 de 08/09/2026
-
 MEDIDA PROVISÓRIA Nº 1.389, DE 8 DE SETEMBRO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica.

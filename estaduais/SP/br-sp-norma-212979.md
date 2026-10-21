@@ -1,5 +1,3 @@
-# Decreto nº 70.876, de 16/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212979)<br>
 
 # DECRETO N° 70.876, DE 16 DE SETEMBRO DE 2026

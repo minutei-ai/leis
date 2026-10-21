@@ -1,5 +1,3 @@
-# Decreto nº 70.204, de 12/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211984)<br>
 
 # DECRETO N° 70.204, DE 12 DE DEZEMBRO DE 2025

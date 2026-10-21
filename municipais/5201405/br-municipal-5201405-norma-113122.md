@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.714, de 2025-12-02
-
 DECRETO Nº 2.714, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 10, 11, 12, 13, 14 e 15, todos da Quadra 29, situados à Avenida 8-E com Rua 3-E, no Loteamento Garavelo Residencial Park, no Município de Aparecida de Goiânia.

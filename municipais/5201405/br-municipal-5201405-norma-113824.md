@@ -1,5 +1,3 @@
-# Decreto Numerado nº 295, de 2026-04-15
-
 DECRETO Nº 295, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Avenida Santa Cruz, no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

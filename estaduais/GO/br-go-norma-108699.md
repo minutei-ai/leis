@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.451, de 2024-04-22
-
 DECRETO Nº 10.451, DE 22 DE ABRIL DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica.

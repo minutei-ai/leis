@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.597, de 2025-08-27
-
 LEI Nº 23.597, DE 27 DE AGOSTO DE 2025
 
 Institui a Autoridade Estadual de Minerais Críticos do Estado de Goiás – AMIC/GO, altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e cria o Fundo Estadual de Desenvolvimento dos Minerais Críticos – FEDMC.

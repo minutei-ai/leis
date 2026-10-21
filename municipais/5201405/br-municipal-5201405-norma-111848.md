@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.877, de 2025-12-15
-
 LEI Nº 3.877, DE 15 DE DEZEMBRO DE 2025
 
 Altera a Lei nº 3.838, de 16 de junho de 2025, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2026.

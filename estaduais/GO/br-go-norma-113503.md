@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.869, de 2026-03-09
-
 DECRETO Nº 10.869, DE 9 DE MARÇO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Caldas Novas/GO.

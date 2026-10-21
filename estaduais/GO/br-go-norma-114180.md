@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.899, de 2026-04-30
-
 DECRETO Nº 10.899, DE 30 DE ABRIL DE 2026
 
 Regulamenta os arts. 15, incisos II, V e VI, alínea “b”, e 23, incisos II, V e VI, da [Lei nº 21.231](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104746), de 10 de janeiro de 2022, para disciplinar os critérios de definição do valor do depósito em conta específica vinculada ao fundo de que trata o art. 85-A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, para o cumprimento de obrigações de compensação florestal e, quando for cabível, de compensação por danos ambientais relativas a áreas rurais situadas no Estado de Goiás.

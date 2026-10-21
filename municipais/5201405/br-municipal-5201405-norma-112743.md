@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.791, de 2024-07-16
-
 LEI MUNICIPAL Nº 3.791, DE 16 DE JULHO DE 2024.
 
 Dispõe sobre a denominação da Praça SPIRIDIÃO FERREIRA DA CRUZ no Jardim Itapuã Primeira Etapa, neste Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.046, de 2012-06-26
-
 LEI MUNICIPAL Nº 3.046, DE 26 DE JUNHO DE 2012.
 
 Institui o serviço de transporte de passageiros, “moto taxista” e o transporte de mercadorias, “motoboy”, com o uso de motocicleta no Município de Aparecida de Goiânia – Goiás e dá outras providências.

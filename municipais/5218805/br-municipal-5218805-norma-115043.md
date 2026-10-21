@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.537, de 2024-08-26
-
 LEI Nº 7.537, DE 26 DE AGOSTO DE 2024.
 
 Reconhece como Utilidade Pública Municipal a Associação Inovar de Truco Regional de Goiás.

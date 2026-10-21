@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.758, de 2025-10-28
-
 LEI Nº 23.758, DE 28 DE OUTUBRO DE 2025
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 58 de 13/08/2002
-
 ###MPV-000058-0-000-13-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 58, DE 13 DE AGOSTO DE 2002

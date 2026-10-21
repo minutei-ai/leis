@@ -1,5 +1,3 @@
-# Lei Complementar nº 291, de 2023-03-30
-
 LEI COMPLEMENTAR Nº 291, DE 30 DE MARÇO DE 2023
 
 Altera a Lei Complementar nº 182/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal e a Lei Complementar nº 88/2017, que dispõe sobre a criação da Guarda Municipal de Rio Verde.

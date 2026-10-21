@@ -1,5 +1,3 @@
-# Lei Ordinária nº 792, de 1988-12-07
-
 LEI MUNICIPAL Nº 792, DE 07 DEZEMBRO DE 1988.
 
 Cria novo Código de Posturas do Município de Aparecida de Goiânia e da outras providências.

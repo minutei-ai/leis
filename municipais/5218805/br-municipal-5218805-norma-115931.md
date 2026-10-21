@@ -1,5 +1,3 @@
-# Lei Complementar nº 360, de 2024-06-24
-
 LEI COMPLEMENTAR Nº 360, DE 24 DE JUNHO DE 2024.
 
 Dispõe sobre a estruturação do Plano de Carreira dos Docentes no âmbito da Universidade de Rio Verde.

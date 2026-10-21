@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.050 de 18/05/2021
-
 MEDIDA PROVISÓRIA Nº 1.050, DE 18 DE MAIO DE 2021
 
 Altera a Lei nº 7.408, de 25 de novembro de 1985, e a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro.

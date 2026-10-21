@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.184, de 2025-09-08
-
 DECRETO Nº 2.184, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 40, da Quadra 47, situado à Rua 102, no Loteamento Jardim Tropical, no Município de Aparecida de Goiânia.

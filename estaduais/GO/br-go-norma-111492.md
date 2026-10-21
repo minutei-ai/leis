@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.791, de 2025-11-03
-
 LEI Nº 23.791, DE 3 DE NOVEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

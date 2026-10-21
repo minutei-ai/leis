@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.192, de 2025-09-08
-
 DECRETO Nº 2.192, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 05 e 06, todos da Quadra 13, situados à Rua Genserico Alves Vilarinho, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

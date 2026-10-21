@@ -1,5 +1,3 @@
-# Lei Complementar nº 161, de 2019-10-30
-
 LEI COMPLEMENTAR Nº 161, DE 30 DE AGOSTO DE 2019.
 
 Altera a Lei Complementar 5.727/2009 que aprovou o Código Tributário do Município de Rio Verde-GO.

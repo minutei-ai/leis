@@ -1,5 +1,3 @@
-# Decreto Numerado nº 166, de 2026-03-02
-
 DECRETO Nº 166, DE 2 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua 110, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

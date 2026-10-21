@@ -1,5 +1,3 @@
-# Decreto Numerado nº 508, de 2026-06-25
-
 DECRETO Nº 508, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Evangelina, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

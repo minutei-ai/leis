@@ -1,5 +1,3 @@
-# Medida Provisória nº 783 de 31/05/2017
-
 MEDIDA PROVISÓRIA Nº 783, DE 31 DE MAIO DE 2017
 
 Institui o Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.144, de 2012-05-22
-
 ~~LEI Nº 6.144, DE 22 DE MAIO DE 2012.~~
 
 ~~Altera Lei n. 5.990/2011.~~

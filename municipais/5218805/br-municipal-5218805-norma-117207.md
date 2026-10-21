@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.170, de 2021-09-01
-
 LEI Nº 7.170, DE 1º DE SETEMBRO DE 2021.
 
 Autoriza a FESURV – Universidade de Rio Verde a conceder licença remunerada e dá outras providências.

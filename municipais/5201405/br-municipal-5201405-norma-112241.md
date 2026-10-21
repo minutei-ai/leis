@@ -1,5 +1,3 @@
-# Decreto Numerado nº 58, de 2026-01-19
-
 DECRETO Nº 058, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Guaporé, no Loteamento Nova Olinda, no Município de Aparecida de Goiânia.

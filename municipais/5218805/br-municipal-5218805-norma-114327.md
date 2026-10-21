@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.684, de 2009-11-04
-
 LEI Nº 5.684, DE 04 DE NOVEMBRO DE 2009.
 
 Altera o Estatuto dos Servidores

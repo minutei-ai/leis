@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.496, de 2024-04-01
-
 LEI Nº 7.496, DE 1º DE ABRIL DE 2024.
 
 Dispõe sobre a criação do serviço público de Loteria no Município de Rio Verde e dá outras providências.

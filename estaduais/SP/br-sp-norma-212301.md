@@ -1,5 +1,3 @@
-# Decreto nº 70.420, de 04/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212301)<br>
 
 # DECRETO N° 70.420, DE 04 DE MARÇO DE 2026

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.088, de 2024-11-21
-
 LEI Nº 23.088, DE 21 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 14.248](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81810), de 29 de julho de 2002, que dispõe sobre a Política Estadual de Resíduos Sólidos e dá outras providências.

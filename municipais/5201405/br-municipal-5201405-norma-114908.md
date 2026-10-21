@@ -1,5 +1,3 @@
-# Decreto Numerado nº 225, de 2024-04-10
-
 DECRETO “N” Nº 225 DE 10 DE ABRIL DE 2024.
 
 Dispõe sobre remanejamento de imóveis.

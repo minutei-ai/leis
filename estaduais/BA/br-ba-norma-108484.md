@@ -1,5 +1,3 @@
-# LD Nº 20 DE 07 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 20 DE 07 DE ABRIL DE 1981
 
 Autoriza a criação da Bahia-Álcool-Empreendimentos Energéticos e Agroindustriais S.A.

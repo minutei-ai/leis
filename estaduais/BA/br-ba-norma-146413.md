@@ -1,5 +1,3 @@
-# LEI Nº 14.881 DE 25 DE MARÇO DE 2025
-
 LEI Nº 14.881 DE 25 DE MARÇO DE 2025
 
 Altera o Quadro Especial de Cargos em Comissão da Casa Civil, na forma que indica, e dá outras providências.

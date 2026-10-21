@@ -1,5 +1,3 @@
-# Decreto Numerado nº 106, de 2026-01-28
-
 DECRETO Nº 106, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Duque de Caxias, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

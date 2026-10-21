@@ -1,5 +1,3 @@
-# LEI Nº 15.086 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.086 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto Social Projeto Culturart Isca, com sede e foro no Município de Jequié.

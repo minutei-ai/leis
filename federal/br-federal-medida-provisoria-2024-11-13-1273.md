@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.273 de 13/11/2024
-
 MEDIDA PROVISÓRIA Nº 1.273, DE 13 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 14.724, de 14 de novembro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-11-14;14724), para dispor sobre novo prazo de vigência do Programa de Enfrentamento à Fila da Previdência Social - PEFPS.

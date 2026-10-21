@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.252, de 2026-04-29
-
 LEI Nº 24.252, DE 29 DE ABRIL DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano e dá outras providências.

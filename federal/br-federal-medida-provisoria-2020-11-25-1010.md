@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.010 de 25/11/2020
-
 MEDIDA PROVISÓRIA Nº 1.010, DE 25 DE NOVEMBRO DE 2020
 
 Isenta os consumidores dos Municípios do Estado do Amapá abrangidos pelo estado de calamidade pública do pagamento da fatura de energia elétrica referente aos últimos trinta dias e altera a Lei nº 10.438, de 26 de abril de 2002.

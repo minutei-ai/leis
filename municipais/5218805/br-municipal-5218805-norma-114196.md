@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.722, de 2025-10-31
-
 LEI Nº 7.722, DE 31 DE OUTUBRO DE 2025.
 
 Institui o Programa Municipal de Capacitação de Servidores – Capacita Servidor, destinado à qualificação profissional de servidores efetivos, e dá outras providências.

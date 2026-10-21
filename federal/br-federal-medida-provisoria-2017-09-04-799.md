@@ -1,5 +1,3 @@
-# Medida Provisória nº 799 de 04/09/2017
-
 MEDIDA PROVISÓRIA Nº 799, DE 4 DE SETEMBRO DE 2017
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 47.000.000,00, para os fins que especifica.

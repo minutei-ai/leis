@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.956, de 2011-05-02
-
 LEI MUNICIPAL  Nº 2.956, DE  02 DE MAIO DE 2011.
 
                         <br>

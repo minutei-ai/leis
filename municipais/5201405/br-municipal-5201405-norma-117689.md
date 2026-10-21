@@ -1,5 +1,3 @@
-# Decreto Numerado nº 656, de 2023-10-16
-
 DECRETO "N" N° 656, DE 16 DE OUTUBRO DE 2023.<br>
 (Revogado pelo Decreto "N" Nº 668, de 23 de outubro de 2023).
 

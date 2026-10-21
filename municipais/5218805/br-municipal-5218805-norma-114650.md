@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.143, de 2021-05-31
-
 LEI Nº 7.143, DE 31 DE MAIO DE 2021.
 
 Dispõe sobre a Regularização Fundiária de Núcleos Urbanos no Município de Rio Verde e dá outras providências

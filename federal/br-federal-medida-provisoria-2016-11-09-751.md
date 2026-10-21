@@ -1,5 +1,3 @@
-# Medida Provisória nº 751 de 09/11/2016
-
 MEDIDA PROVISÓRIA Nº 751, DE 9 DE NOVEMBRO DE 2016
 
 Cria o Programa Cartão Reforma e dá outras providências.

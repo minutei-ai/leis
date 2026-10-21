@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.930, de 2026-06-22
-
 DECRETO Nº 10.930, DE 22 DE JUNHO DE 2026
 
 Revoga o [Decreto nº 5.080](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62004), de 28 de julho de 1999, que institui o Conselho Gestor do Parque Ecológico de Preservação Ambiental e Florestal Ulysses Guimarães e do Parque dos Ipês.

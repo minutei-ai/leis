@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.211, de 2014-08-27
-
 LEI MUNICIPAL Nº 3.211, DE 27 DE AGOSTO DE 2014.
 
 Assegura às pessoas com idade igual ou superior a 60 (sessenta) anos o acesso gratuito a eventos sociais e culturais administrados pelo Poder Publico Municipal e dá outras providências.

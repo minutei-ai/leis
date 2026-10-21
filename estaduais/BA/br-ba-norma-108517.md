@@ -1,5 +1,3 @@
-# LD Nº 72 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 72 DE 03 DE JUNHO DE 1983
 
 Reorganiza a Loteria do Estado da Bahia - LOTEBA e dá outras providências.

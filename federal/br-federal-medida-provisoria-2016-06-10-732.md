@@ -1,5 +1,3 @@
-# Medida Provisória nº 732 de 10/06/2016
-
 MEDIDA PROVISÓRIA Nº 732, DE 10 DE JUNHO DE 2016
 
 Limita o reajuste das receitas patrimoniais decorrentes da atualização da planta de valores, para efeito do cálculo do valor do domínio pleno do terreno a que se refere o [art. 1º, § 1º, do Decreto-Lei nº 2.398, de 21 de dezembro de 1987](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1987-12-21;2398!art1_par1).

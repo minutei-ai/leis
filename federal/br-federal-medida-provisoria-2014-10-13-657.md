@@ -1,5 +1,3 @@
-# Medida Provisória nº 657 de 13/10/2014
-
 MEDIDA PROVISÓRIA Nº 657, DE 13 DE OUTUBRO DE 2014
 
 Altera a Lei nº  9.266, de 15 de março de 1996, que reorganiza as classes da Carreira Policial Federal, fixa a remuneração dos cargos que as integram e dá outras providências.

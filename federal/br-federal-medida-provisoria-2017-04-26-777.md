@@ -1,5 +1,3 @@
-# Medida Provisória nº 777 de 26/04/2017
-
 MEDIDA PROVISÓRIA Nº 777, DE 26 DE ABRIL DE 2017
 
 Institui a Taxa de Longo Prazo - TLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante e dá outras providências.

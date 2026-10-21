@@ -1,5 +1,3 @@
-# Emenda à Lei Orgânica nº 6, de 2019-11-07
-
 ESTADO DE GOIÁS<br>
 CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA
 

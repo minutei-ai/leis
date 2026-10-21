@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.603, de 2024-04-09
-
 LEI Nº 22.603, DE 9 DE ABRIL DE 2024
 
 Declara de utilidade pública a entidade que especifica.

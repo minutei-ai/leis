@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3925, de 2026-09-02
-
 LEI Nº 3.925, DE 2 DE SETEMBRO DE 2026
 
 <br>

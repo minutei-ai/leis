@@ -1,5 +1,3 @@
-# Medida Provisória nº 668 de 30/01/2015
-
 MEDIDA PROVISÓRIA Nº 668, DE 30 DE JANEIRO DE 2015
 
 Altera a Lei nº 10.865, de 30 de abril de 2004, para elevar alíquotas da Contribuição para o PIS/PASEP-Importação e da COFINS- Importação, e dá outras providências.

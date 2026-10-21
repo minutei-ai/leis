@@ -1,5 +1,3 @@
-# Decreto Numerado nº 720, de 2024-09-06
-
 DECRETO “N” Nº 720, DE 06 DE SETEMBRO DE 2024.
 
 Fixa prazo para adesão ao Programa de Recuperação Fiscal – REFIS/PMAG, instituído pela Lei Complementar nº 133, de 24 de novembro de 2017, e dá outras providências.

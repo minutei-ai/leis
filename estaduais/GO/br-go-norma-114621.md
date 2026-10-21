@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.913, de 2026-05-18
-
 DECRETO Nº 10.913 DE 18 DE MAIO DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na sexta-feira, dia 5 de junho de 2026, um dia após a data dedicada à celebração de _Corpus Christi_.

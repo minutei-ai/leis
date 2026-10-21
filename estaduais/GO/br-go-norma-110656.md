@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.400, de 2025-05-06
-
 LEI Nº 23.400, DE 6 DE MAIO DE 2025
 
 Altera a [Lei nº 22.048](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107270), de 22 de junho de 2023, que institui a Política Estadual de Incentivo ao Desenvolvimento de Pessoas com Altas Habilidades ou Superdotação (PEAHS) e dá outras providências.

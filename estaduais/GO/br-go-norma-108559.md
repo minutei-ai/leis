@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.429, de 2024-03-25
-
 DECRETO Nº 10.429, DE 25 DE MARÇO DE 2024<br>
 \- [Vide Lei nº 21.090, de 16-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104305/lei-21090) \- Dispõe sobre a criação do fundo rotativo da Secretaria de Indústria, Comércio e Serviços,
 

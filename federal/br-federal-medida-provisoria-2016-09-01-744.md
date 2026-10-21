@@ -1,5 +1,3 @@
-# Medida Provisória nº 744 de 01/09/2016
-
 MEDIDA PROVISÓRIA Nº 744, DE 1 DE SETEMBRO DE 2016
 
 Altera a [Lei nº 11.652, de 7 de abril de 2008](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2008-04-07;11652), que institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta e autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC.

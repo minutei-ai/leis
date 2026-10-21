@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.255, de 2007-03-08
-
 LEI COMPLEMENTAR Nº 5.255, DE 08 DE MARÇO DE 2007.
 
 Altera a Lei n. 3.635/98, Código de Posturas.

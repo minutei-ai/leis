@@ -1,5 +1,3 @@
-# Decreto Numerado nº 188, de 2026-03-11
-
 DECRETO Nº 188, DE 11 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Idelfonso Dutra Alvim, no Loteamento Parque Trindade, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.915, de 2025-08-07
-
 DECRETO Nº 1.915, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 14, no Loteamento Bairro Independência 2º Complemento, no Município de Aparecida de Goiânia.

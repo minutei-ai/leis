@@ -1,5 +1,3 @@
-# LD Nº 36 DE 11 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 36 DE 11 DE MARÇO DE 1983
 
 Reorganiza o Instituto de Terras da Bahia - INTERBA e dá outras providências.

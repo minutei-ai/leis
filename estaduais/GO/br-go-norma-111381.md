@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.725, de 2025-10-06
-
 LEI Nº 23.725, DE 6 DE OUTUBRO DE 2025
 
 Autoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação – SEDUC, o Prêmio Matemática Enem.

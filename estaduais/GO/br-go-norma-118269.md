@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.565, de 2026-10-15
-
 LEI Nº 24.565, DE 15 DE OUTUBRO DE 2026
 
 Concede o título de cidadania que especifica.

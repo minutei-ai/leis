@@ -1,5 +1,3 @@
-# Ato da Mesa nº 8, de 13/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210723)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2025/compilacao-ato.da.mesa-8-13.03.2025.html)
 

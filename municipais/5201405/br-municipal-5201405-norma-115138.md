@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.745, de 2023-10-19
-
 LEI MUNICIPAL N° 3.745, DE 19 DE OUTUBRO DE 2023.
 
 Dispõe sobre o fornecimento de água e alimentos aos animais de rua em espaços públicos no município de Aparecida de Goiânia.

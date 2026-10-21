@@ -1,5 +1,3 @@
-# LCP nº 141, de 13/12/2016
-
 Altera dispositivos da Lei Complementar nº 65, de 16 de janeiro de 2003, que organiza a Defensoria Pública do Estado, define sua competência e dispõe sobre a carreira do Defensor Público.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 76, de 2023-02-01
-
 DECRETO “N” Nº 76 DE 01 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento QUINTA DA BOA VISTA, neste município.

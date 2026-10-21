@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.410, de 2018-04-17
-
 LEI MUNICIPAL Nº 3.410, DE 17 DE ABRIL DE 2018
 
 Altera a Lei n° 3.115/2013, que autoriza o Poder Executivo Municipal a doar imóveis ao FUNDO DE ARRENDAMENTO RESIDENCIAL-FAR.

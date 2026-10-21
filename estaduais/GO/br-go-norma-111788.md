@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.936, de 2025-12-11
-
 LEI Nº 23.936, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

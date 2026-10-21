@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.815, de 2024-12-12
-
 LEI MUNICIPAL Nº 3.815, DE 12 DEZEMBRO DE 2024.
 
 Cria e denomina o Centro Municipal de Educação Infantil - CMEI Rotary Club, situado na Rua Visconde de Macaé, S/N, Jardim Maria Inês, Aparecida de Goiânia-GO, e dá outras providências.

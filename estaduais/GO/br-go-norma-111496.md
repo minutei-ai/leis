@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.795, de 2025-11-05
-
 LEI Nº 23.795, DE 4 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

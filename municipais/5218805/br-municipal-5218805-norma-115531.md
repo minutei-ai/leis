@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.275, de 2013-06-10
-
 LEI Nº. 6.275, DE 10 DE JUNHO DE 2013.
 
 Reformula o sistema de estacionamento rotativo em Rio Verde.

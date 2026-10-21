@@ -1,5 +1,3 @@
-# LEI Nº 15.182 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.182 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação Dignolar de Reparo e Apoio Social (ADRAS), com sede e foro em Salvador.

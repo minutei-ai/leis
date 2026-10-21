@@ -1,5 +1,3 @@
-# LEI Nº 14.952 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.952 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública a Associação de Pais e Amigos do Autista de Itabuna – AMA ITABUNA, com sede e foro no município de Itabuna.

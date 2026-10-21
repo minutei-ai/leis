@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.709, de 2024-05-21
-
 LEI Nº 22.709, DE 21 DE MAIO DE 2024
 
 Altera a [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612/lei-16898), de 26 de janeiro de 2010, que dispõe sobre as consignações em folha de pagamento dos servidores e militares, ativos e inativos, e pensionistas do Poder Executivo Estadual.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 445, de 2024-06-12
-
 DECRETO “N” Nº 445 DE 12 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

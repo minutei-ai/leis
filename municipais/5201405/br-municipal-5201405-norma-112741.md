@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.789, de 2024-06-20
-
 LEI MUNICIPAL Nº 3.789, DE 20 DE JUNHO DE 2024.
 
 Dispõe sobre a denominação da Praça EUDOCIO MARTINS DE SOUZA localizada no Setor Vila São Jorge, neste município, e dá outras providências.

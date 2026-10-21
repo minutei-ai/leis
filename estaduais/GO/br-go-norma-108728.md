@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.641, de 2024-04-29
-
 LEI Nº 22.641, DE 29 DE ABRIL DE 2024
 
 Altera a [Lei nº 18.052](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90174), de 24 de junho de 2013, para criar, na Delegacia-Geral da Polícia Civil, da Secretaria de Estado da Segurança Pública, a Delegacia Especializada no Atendimento à Mulher – DEAM de São Luís de Montes Belos/GO, e dá outras providências.

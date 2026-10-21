@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.527, de 2024-08-16
-
 DECRETO Nº 10.527, DE 16 DE AGOSTO DE 2024
 
 Desqualifica como organização social, no âmbito do Estado de Goiás, a entidade que especifica.

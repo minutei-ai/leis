@@ -1,5 +1,3 @@
-# Decreto Numerado nº 346, de 2026-05-07
-
 DECRETO Nº 346, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 23, 24, 25 e 26, todos da Quadra 44, situados à Rua do Ingá, no Loteamento Parque Primavera, no Município de Aparecida de Goiânia.

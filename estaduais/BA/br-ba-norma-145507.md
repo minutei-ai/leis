@@ -1,5 +1,3 @@
-# LEI Nº 14.772 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.772 DE 04 DE SETEMBRO DE 2024
 
 Institui o Dia Estadual da Consciência sobre a Síndrome de Down.

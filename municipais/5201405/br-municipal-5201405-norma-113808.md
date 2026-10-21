@@ -1,5 +1,3 @@
-# Decreto Numerado nº 287, de 2026-04-14
-
 DECRETO Nº 287, DE 14 DE ABRIL DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais na véspera do feriado nacional de Tiradentes.

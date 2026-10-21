@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.623, de 2025-01-10
-
 DECRETO Nº 10.623, DE 10 DE JANEIRO DE 2025
 
 Regulamenta, para os exercícios de 2024 e 2025, o Programa Bolsa Estudo, instituído pela [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495/lei-21162), de 16 de novembro de 2021.

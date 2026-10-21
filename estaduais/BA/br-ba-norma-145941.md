@@ -1,5 +1,3 @@
-# LEI Nº 14.798 DE 13 DE DEZEMBRO DE 2024
-
 LEI Nº 14.798 DE 13 DE DEZEMBRO DE 2024
 
 Dispõe sobre o equacionamento do déficit atuarial do Fundo Previdenciário dos Servidores Públicos do Estado da Bahia - BAPREV, e dá outras providências.

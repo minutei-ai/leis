@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.447, de 2023-11-27
-
 LEI Nº 7.447, DE 27 DE NOVEMBRO DE 2023.
 
 Autoriza a outorga de concessão de direito real de uso de imóvel que menciona.

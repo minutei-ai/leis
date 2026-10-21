@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.714, de 2025-09-30
-
 LEI Nº 23.714, DE 30 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 20.735](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100958), de 17 de janeiro de 2020, que institui a Política Estadual de Incentivo à Prática de Compostagem.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 113, de 2015-12-11
-
 LEI COMPLEMENTAR Nº 113, DE 11 DE DEZEMBRO DE 2015.
 
 Aprova a Planta de Valores Genéricos dos Terrenos e a Tabela de Preços das Construções do Município de Aparecida de Goiânia para o exercício fiscal de 2016.

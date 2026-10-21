@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.115 de 28/04/2022
-
 MEDIDA PROVISÓRIA Nº 1.115, DE 28 DE ABRIL DE 2022
 
 Altera a Lei nº 7.689, de 15 de dezembro de 1988, que institui a contribuição social sobre o lucro das pessoas jurídicas.

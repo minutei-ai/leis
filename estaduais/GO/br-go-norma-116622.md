@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.970, de 2026-08-11
-
 DECRETO Nº 10.970, DE 11 DE AGOSTO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Morrinhos/GO.

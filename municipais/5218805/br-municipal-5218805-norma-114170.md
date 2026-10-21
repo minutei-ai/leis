@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.968, de 2000-08-31
-
 LEI Nº. 3.968, DE 31 DE AGOSTO DE 2000.
 
 Reformula o Estatuto dos Funcionários do Município de Rio Verde - GO, e dá outras providências.

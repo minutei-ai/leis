@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.649, de 1997-10-21
-
 LEI MUNICIPAL Nº 1.649, DE 21 DE OUTUBRO DE 1997.
 
 Modifica a Lei Municipal nº 1.397/94, que dispõe sobre a Guarda Municipal.

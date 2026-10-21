@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.816, de 2025-11-27
-
 DECRETO Nº 10.816, DE 27 DE NOVEMBRO DE 2025
 
 Regulamenta a [Lei nº 23.290](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110516), de 24 de março de 2025, que estabelece as diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria entre o Estado de Goiás e a iniciativa privada.

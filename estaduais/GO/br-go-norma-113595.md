@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.143, de 2026-03-18
-
 LEI Nº 24.143, DE 18 DE MARÇO DE 2026
 
 Altera a [Lei nº 14.531](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81156 "Abrir Lei Ordinária nº 14531, de 2003 em nova aba"), de 17 de setembro de 2003, que altera a denominação de Escola Estadual que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.197, de 2014-07-16
-
 LEI MUNICIPAL Nº 3.197, DE 16 DE JULHO DE 2014.
 
 “Autoriza o Poder Executivo Municipal a firmar convênio com a CIA DE DANÇAS FOLCLÓRICAS RAÍZES DE GOIÁS e dá outras providências”.

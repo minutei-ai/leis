@@ -1,5 +1,3 @@
-# Medida Provisória nº 429 de 12/05/2008
-
 ###MPV-000429-0-000-12-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 429, DE 12 DE MAIO DE 2008.

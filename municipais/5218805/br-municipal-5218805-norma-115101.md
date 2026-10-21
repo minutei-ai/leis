@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.517, de 2024-06-24
-
 LEI Nº 7.517, DE 24 DE JUNHO DE 2024.
 
 Altera a [Lei nº 7.013](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115105 "Abrir Lei Ordinária nº 7013, de 2019 em nova aba"), de 31 de outubro de 2019, que dispõe sobre a concessão de direito real de uso de lotes que compõem o Distrito Municipal de Pequenas Empresas – DIMPE.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.238, de 2014-12-15
-
 LEI MUNICIPAL N° 3.238, DE 15 DE DEZEMBRO DE 2014.
 
 Altera a Lei Municipal n° 3.167 de 13 de março de 2014, que Desafeta, Remaneja e Autoriza Permuta e Compensação Financeira de Áreas Públicas Situadas no Mansões Paraíso e dá Outras Providências.

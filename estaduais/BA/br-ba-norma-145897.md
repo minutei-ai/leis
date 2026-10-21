@@ -1,5 +1,3 @@
-# LEI Nº 14.793 DE 06 DE DEZEMBRO DE 2024
-
 LEI Nº 14.793 DE 06 DE DEZEMBRO DE 2024
 
 Altera a Lei nº 14.318, de 12 de julho de 2021, na forma que indica.

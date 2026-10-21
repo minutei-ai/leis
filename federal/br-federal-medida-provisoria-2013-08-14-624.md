@@ -1,5 +1,3 @@
-# Medida Provisória nº 624 de 14/08/2013
-
 MEDIDA PROVISÓRIA Nº  624, DE 14 DE AGOSTO DE 2013
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.648.000.000,00, para os fins que especifica.

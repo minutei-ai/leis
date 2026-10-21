@@ -1,5 +1,3 @@
-# LD Nº 16 DE 06 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 16 DE 06 DE ABRIL DE 1981
 
 Cria e extingue entidades da Administração descentralizada e dá outras providências.

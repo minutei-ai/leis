@@ -1,5 +1,3 @@
-# Decreto Numerado nº 553, de 2024-07-05
-
 DECRETO “N” Nº 553 DE 05 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

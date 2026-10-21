@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.909, de 2024-08-07
-
 LEI Nº 22.909, DE 7 DE AGOSTO DE 2024
 
 Concede o título de cidadania que especifica.

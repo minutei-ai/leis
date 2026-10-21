@@ -1,5 +1,3 @@
-# Decreto Numerado nº 696, de 2024-08-28
-
 DECRETO “N” Nº 696 DE 28 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

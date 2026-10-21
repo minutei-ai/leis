@@ -1,5 +1,3 @@
-# Decreto Numerado nº 235, de 2026-03-18
-
 DECRETO Nº 235, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Pires do Rio, no Loteamento Setor Jardim Luz, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 775 de 06/04/2017
-
 MEDIDA PROVISÓRIA Nº 775, DE 6 DE ABRIL DE 2017
 
 Altera a [Lei nº 12.810, de 15 de maio de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-05-15;12810), para dispor sobre a constituição de gravames e ônus sobre ativos financeiros e valores mobiliários objeto de registro ou de depósito centralizado.

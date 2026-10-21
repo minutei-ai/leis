@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.301, de 2025-09-24
-
 DECRETO Nº 2.301, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, da Quadra 21, situado à Rua Guanabara, no Loteamento Jardim Ipiranga, no Município de Aparecida de Goiânia.

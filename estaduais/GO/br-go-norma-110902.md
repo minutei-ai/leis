@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.468, de 2025-06-10
-
 LEI Nº 23.468, DE 10 DE JUNHO DE 2025
 
 Concede o título de cidadania que especifica.

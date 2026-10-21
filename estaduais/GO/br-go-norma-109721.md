@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.570, de 2024-10-10
-
 DECRETO Nº 10.570, DE 10 DE OUTUBRO DE 2024
 
 Dispõe sobre a convalidação de procedimentos e a alteração do prazo para o pagamento do imposto, nas hipóteses que especifica.

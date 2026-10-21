@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.740, de 2025-07-29
-
 DECRETO Nº 10.740, DE 29 DE JULHO DE 2025
 
 Concede as Medalhas Pedro Ludovico Teixeira, de Mérito Policial e de Tempo de Serviço na Superintendência de Polícia Técnico-Científica, da Secretaria de Estado da Segurança Pública, às autoridades que especifica.

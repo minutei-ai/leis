@@ -1,5 +1,3 @@
-# EMC nº 95, de 11/07/2017
-
 Altera o art. 116 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

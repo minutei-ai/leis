@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.872, de 2025-12-29
-
 DECRETO Nº 2.872, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Marajoara, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

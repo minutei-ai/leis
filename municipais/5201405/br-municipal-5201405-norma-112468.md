@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.212, de 2025-04-14
-
 DECRETO Nº 1.212, DE 14 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua das Avenças no Loteamento Expansul, no Município de Aparecida de Goiânia.

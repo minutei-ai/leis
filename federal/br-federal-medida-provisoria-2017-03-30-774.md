@@ -1,5 +1,3 @@
-# Medida Provisória nº 774 de 30/03/2017
-
 MEDIDA PROVISÓRIA Nº 774, DE 30 DE MARÇO DE 2017
 
 Dispõe sobre a contribuição previdenciária sobre a receita bruta.

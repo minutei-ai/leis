@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.471, de 2025-06-13
-
 LEI Nº 23.471, DE 13 DE JUNHO DE 2025
 
 Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.583, de 2025-08-19
-
 LEI Nº 23.583, DE 19 DE AGOSTO DE 2025
 
 Autoriza o repasse financeiro do Estado de Goiás ao Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, a título de subvenção econômica, no exercício de 2025.

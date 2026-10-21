@@ -1,5 +1,3 @@
-# LEI Nº 15.077 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.077 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Ministério de Adoração Profética Internacional (MAPI), com sede e foro no município de Salvador.

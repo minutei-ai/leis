@@ -1,5 +1,3 @@
-# Decreto Numerado nº 69, de 2026-01-20
-
 DECRETO Nº 069, DE 20 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Frederico Bertoldo Ribeiro, no Loteamento Nova Olinda – 2º Complemento, no Município de Aparecida de Goiânia.

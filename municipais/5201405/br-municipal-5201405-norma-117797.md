@@ -1,5 +1,3 @@
-# Decreto Numerado nº 90, de 2023-02-03
-
 DECRETO “N” Nº 90 DE 03 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE TRINDADE, neste município.

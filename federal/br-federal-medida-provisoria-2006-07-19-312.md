@@ -1,5 +1,3 @@
-# Medida Provisória nº 312 de 19/07/2006
-
 ###MPV-000312-0-000-19-07-2006@@@
 
 MEDIDA PROVISÓRIA Nº 312, DE 19 DE JULHO DE 2006.

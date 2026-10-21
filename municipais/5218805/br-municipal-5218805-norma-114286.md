@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.222, de 2001-12-14
-
 <br>
 LEI Nº 4.222, de 14 de dezembro de 2001.
 

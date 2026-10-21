@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.825, de 2026-03-23
-
 LEI Nº 7.825, DE 23 DE MARÇO DE 2026.
 
 Autoriza a desafetação de área pública e sua dação em pagamento para fins de indenização por desapropriação de imóvel destinado à ampliação do complexo viário Contorno Nordeste.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.597, de 2024-04-05
-
 LEI Nº 22.597, DE 5 DE ABRIL DE 2024
 
 Institui o “Selo Pró-Mulher”.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 172, de 2025-08-20
-
 Portaria Orçamentária nº 172/2025 - Economia
 
 O PROCURADOR GERAL DE JUSTIÇA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º § 1º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de janeiro de 2025, representado pela Superintendente de Gestão Orçamentária e Compras, conforme Portaria de Delegação nº 2025004935171,

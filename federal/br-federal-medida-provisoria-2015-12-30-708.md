@@ -1,5 +1,3 @@
-# Medida Provisória nº 708 de 30/12/2015
-
 MEDIDA PROVISÓRIA Nº 708, DE 30 DE DEZEMBRO 2015
 
 Autoriza a União a reincorporar os trechos de rodovias federais transferidos aos Estados e ao Distrito Federal por força da Medida Provisória nº 82, de 7 de dezembro de 2002.

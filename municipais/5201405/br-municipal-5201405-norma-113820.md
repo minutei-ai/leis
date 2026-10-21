@@ -1,5 +1,3 @@
-# Decreto Numerado nº 291, de 2026-04-15
-
 DECRETO Nº 291, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Avenida Alfredo Nasser, no Loteamento Jardim Riviera, no Município de Aparecida de Goiânia.

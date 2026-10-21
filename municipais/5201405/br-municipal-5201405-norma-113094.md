@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.140, de 2025-09-04
-
 DECRETO Nº 2.140, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 08 e 36, todos da Quadra 335, situados à Rua São Francisco Xavier e Rua São Salvador, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

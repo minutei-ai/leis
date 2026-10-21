@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.784, de 2025-11-03
-
 LEI Nº 23.784, DE 3 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 245, de 2025-10-13
-
 Portaria Orçamentária nº 245/2025 - Economia
 
 <br>

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.926, de 2024-08-13
-
 LEI Nº 22.926, DE 13 DE aGOSTO DE 2024
 
 Concede o título de cidadania que especifica.

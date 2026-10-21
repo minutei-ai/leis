@@ -1,5 +1,3 @@
-# Decreto Numerado nº 52, de 2023-01-24
-
 DECRETO “N” Nº 52 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BOA ESPERANÇA, neste município.

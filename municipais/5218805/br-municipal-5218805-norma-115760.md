@@ -1,5 +1,3 @@
-# Lei Complementar nº 286, de 2023-02-17
-
 LEI COMPLEMENTAR N° 286, DE 17 DE FEVEREIRO DE 2023
 
 Cria Zona Urbana Específica.

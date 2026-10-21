@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.895, de 2024-08-05
-
 LEI Nº 22.895, DE 5 DE AGOSTO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Expoagro realizada no Município de Joviânia/GO.

@@ -1,5 +1,3 @@
-# LEI Nº 15.106 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.106 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a denominação da BA-0649 de "Rodovia Governador Roberto Santos”, e dá outras providências.

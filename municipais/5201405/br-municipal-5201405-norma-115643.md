@@ -1,5 +1,3 @@
-# Decreto Numerado nº 502, de 2026-06-19
-
 DECRETO Nº 502, DE 19 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento da Área 01 da Quadra 45, Área Pública da Quadra 46 e Avenida Brasil (Parte 01), situadas à Rua 9E, Rua 4E e Avenida 8E, no Loteamento Garavelo Residencial Park, no Município de Aparecida de Goiânia.

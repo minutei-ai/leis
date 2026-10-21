@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.255, de 2026-04-29
-
 LEI Nº 24.255, DE 29 DE ABRIL DE 2026
 
 Institui, no Estado de Goiás, a Rota Gastronômica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 874, de 2024-10-16
-
 DECRETO “N” Nº 874, DE 16 DE OUTUBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Vila Maria neste município como de Interesse Social.

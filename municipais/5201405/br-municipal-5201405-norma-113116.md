@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.709, de 2025-12-02
-
 DECRETO Nº 2.709, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote Mansão nº 22, situado à Avenida Presidente Vargas, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

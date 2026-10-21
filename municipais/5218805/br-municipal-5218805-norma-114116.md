@@ -1,5 +1,3 @@
-# Lei Complementar nº 427, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 427, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei nº 3.968, de 31 de agosto de 2000, que dispõe sobre o Estatuto dos Funcionários do Município de Rio Verde – GO.

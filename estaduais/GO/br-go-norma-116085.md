@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.413, de 2026-07-03
-
 LEI Nº 24.413, DE 3 DE JULHO DE 2026
 
 Dispõe sobre a repartição do limite global anual de despesas primárias do Estado de Goiás, nos termos do § 5º do art. 7º da Lei Complementar federal nº 212, de 13 de janeiro de 2025, e do § 4º do art. 41 do Ato das Disposições Constitucionais Transitórias da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).

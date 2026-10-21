@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.882, de 2025-11-28
-
 LEI Nº 23.882, DE 28 DE NOVEMBRO DE 2025
 
 Dispõe sobre medidas de prevenção à fraude com cartões de débito ou crédito conhecida como “golpe da maquininha quebrada”.

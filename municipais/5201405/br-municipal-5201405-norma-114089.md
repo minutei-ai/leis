@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.753, de 2008-08-25
-
 LEI MUNICIPAL Nº 2.753, DE 25 DE AGOSTO DE 2008.
 
 Desafeta e doa imóveis situados no loteamento denominado VILA OLIVEIRA, neste Município, para o SENAI.

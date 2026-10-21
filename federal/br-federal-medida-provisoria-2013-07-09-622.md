@@ -1,5 +1,3 @@
-# Medida Provisória nº 622 de 09/07/2013
-
 MEDIDA PROVISÓRIA Nº 622, DE 9 DE JULHO DE 2013
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 380.000.000,00, para viabilizar o pagamento de subvenção econômica às unidades industriais produtoras de etanol combustível da Região Nordeste.

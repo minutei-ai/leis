@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.031, de 2024-10-14
-
 LEI Nº 23.031, DE 14 DE OUTUBRO DE 2024
 
 Institui o Dia Estadual de Conscientização e Enfrentamento da Doença de Chagas.

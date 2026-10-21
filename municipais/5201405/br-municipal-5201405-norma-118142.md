@@ -1,5 +1,3 @@
-# Decreto Numerado nº 364, de 2023-06-05
-
 DECRETO “N” Nº 364 DE 05 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento denominado VILA BRASÍLIA - CONTINUAÇÃO, neste município.

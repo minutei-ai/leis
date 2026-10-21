@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.654, de 2009-09-01
-
 LEI Nº 5.654, DE 01 DE SETEMBRO DE 2009.
 
 Altera as Leis n. 3.968/2000 e 3.978/2000.<br>

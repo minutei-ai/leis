@@ -1,5 +1,3 @@
-# Decreto nº 69.203, de 20/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210409)<br>
 
 # DECRETO N° 69.203, DE 20 DE DEZEMBRO DE 2024

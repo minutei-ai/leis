@@ -1,5 +1,3 @@
-# Medida Provisória nº 249 de 04/05/2005
-
 ###MPV-000249-0-000-04-05-2005@@@
 
 MEDIDA PROVISÓRIA Nº 249, DE 4 DE MAIO DE 2005

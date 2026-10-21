@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.669, de 2024-05-07
-
 LEI Nº 22.669, DE 7 DE MAIO DE 2024
 
 Assegura a realização de rastreamento dos sinais precoces do Transtorno do Espectro Autista – TEA, na forma que especifica.

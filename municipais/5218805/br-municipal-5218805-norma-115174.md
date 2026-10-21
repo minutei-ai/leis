@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.480, de 2024-01-23
-
 LEI Nº 7.480, DE 23 DE JANEIRO DE 2024.
 
 Concede reposição geral anual dos vencimentos dos servidores públicos e dos subsídios dos agentes públicos municipais.

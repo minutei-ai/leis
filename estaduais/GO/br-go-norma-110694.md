@@ -1,5 +1,3 @@
-# Lei Complementar nº 205, de 2025-05-19
-
 LEI COMPLEMENTAR Nº 205, DE 19 DE MAIO DE 2025
 
 Institui a Política Estadual de Fomento à Inovação em Inteligência Artificial no Estado de Goiás.

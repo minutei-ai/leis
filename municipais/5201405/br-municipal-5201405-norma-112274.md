@@ -1,5 +1,3 @@
-# Decreto Numerado nº 839, de 2025-02-18
-
 DECRETO Nº 839, DE 18 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis) nos termos do art. 320 do Plano Diretor.

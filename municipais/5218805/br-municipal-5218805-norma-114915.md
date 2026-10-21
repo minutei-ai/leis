@@ -1,5 +1,3 @@
-# Lei Complementar nº 392, de 2025-08-25
-
 LEI COMPLEMENTAR Nº 392, DE 25 DE AGOSTO DE 2025.
 
 Altera a Lei Complementar nº 3.633, de 4 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos e dá outras providências.

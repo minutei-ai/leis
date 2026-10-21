@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.909, de 2025-12-30
-
 DECRETO Nº 2.909, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Bem Dominical 03, situado à Avenida Maria Elias Lisboa Santos e Rua da Lagoa, no Loteamento Parque Industrial Aparecida Vice-Presidente José de Alencar, no Município de Aparecida de Goiânia.

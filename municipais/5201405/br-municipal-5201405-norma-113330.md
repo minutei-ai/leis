@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.309, de 2025-09-24
-
 DECRETO Nº 2.309, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 20, situado à Rua Maria Luiza de Almeida, no Loteamento Setor Serra Dourada – 2ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.869, de 2025-07-29
-
 DECRETO Nº 1.869, DE 29 DE JULHO DE 2025
 
 Dispõe sobre a aprovação do loteamento Parque Industrial Aparecida Vice-Presidente José de Alencar – 1º Complemento, Lote 1-B, situado na Fazenda Santo Antônio, lugar denominado “Lagoa”, no âmbito do Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.515, de 2019-10-28
-
 LEI MUNICIPAL Nº 3.515, DE 28 DE OUTUBRO DE 2019
 
 Institui a “SEMANA MUNICIPAL DE INCENTIVO À DOAÇÃO DE ÓRGÃOS”, e dá outras providências. 

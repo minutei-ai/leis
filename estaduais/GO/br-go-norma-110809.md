@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.705, de 2025-06-04
-
 DECRETO Nº 10.705, DE 4 DE JUNHO DE 2025
 
 Regulamenta a concessão das medalhas da Polícia Civil do Estado de Goiás instituídas pela [Lei nº 11.781](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84056), de 28 de julho de 1992, e revoga o [Decreto nº 4.784](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62253), de 25 de abril de 1997.

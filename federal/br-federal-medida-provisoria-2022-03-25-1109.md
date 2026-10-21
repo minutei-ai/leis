@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.109 de 25/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.109, DE 25 DE MARÇO DE 2022
 
 Autoriza o Poder Executivo federal a dispor sobre a adoção, por empregados e empregadores, de medidas trabalhistas alternativas e sobre o Programa Emergencial de Manutenção do Emprego e da Renda, para enfrentamento das consequências sociais e econômicas de estado de calamidade pública em âmbito nacional ou em âmbito estadual, distrital ou municipal reconhecido pelo Poder Executivo federal.

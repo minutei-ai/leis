@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.917, de 2026-07-13
-
 LEI Nº 3.917, DE 13 DE JULHO DE 2026
 
 Dispõe sobre a denominação da “PRAÇA VALDIVINO CANDIDO DA SILVA”, localizada no loteamento Cidade Satélite São Luiz, no município de Aparecida de Goiânia.

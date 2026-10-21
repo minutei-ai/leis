@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.248, de 2025-01-31
-
 LEI Nº 23.248, DE 31 DE JANEIRO DE 2025
 
 Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.

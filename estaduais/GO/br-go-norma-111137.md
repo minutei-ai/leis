@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.752, de 2025-08-07
-
 DECRETO Nº 10.752, DE 7 DE AGOSTO DE 2025
 
 Altera o [Decreto nº 9.878](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103997), de 8 de junho de 2021, que autoriza a Secretaria de Estado de Esporte e Lazer – SEEL, a celebrar e manter os contratos temporários que especifica, e o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

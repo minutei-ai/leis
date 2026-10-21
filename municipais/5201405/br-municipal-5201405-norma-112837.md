@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.691, de 2025-06-27
-
 DECRETO Nº 1.691, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Jupaboca no Loteamento Jardim Helvécia, no Município de Aparecida de Goiânia.

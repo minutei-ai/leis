@@ -1,5 +1,3 @@
-# Decreto Numerado nº 796, de 2024-09-24
-
 DECRETO “N” Nº 796 DE 24 DE SETEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

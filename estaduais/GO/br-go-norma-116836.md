@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 384, de 2026-07-31
-
 Portaria Orçamentária nº 384/2026 - Economia
 
 O Presidente do TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no Art. 9º, § 1º, da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 6 de janeiro de 2026

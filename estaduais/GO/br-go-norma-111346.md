@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.706, de 2025-09-30
-
 LEI Nº 23.706, DE 30 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

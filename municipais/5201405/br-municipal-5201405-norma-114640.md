@@ -1,5 +1,3 @@
-# Decreto Numerado nº 395, de 2026-05-19
-
 DECRETO Nº 395, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes Mansão nº 15, 16 e 17, todos da Quadra 25-A, situados à Avenida Venâncio Aires e Rua Tangará, no Loteamento Jardim Cristal, no Município de Aparecida de Goiânia.

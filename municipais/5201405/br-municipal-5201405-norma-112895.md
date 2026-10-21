@@ -1,5 +1,3 @@
-# Decreto Numerado nº 146, de 2026-02-12
-
 DECRETO Nº 146, DE 12 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 23, situado à Avenida Joviano Dias da Silva, no Loteamento Parque Itamaraty, no Município de Aparecida de Goiânia.

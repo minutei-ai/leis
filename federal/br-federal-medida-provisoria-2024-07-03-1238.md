@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.238 de 03/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.238, DE 3 DE JULHO DE 2024
 
 Abre crédito extraordinário, em favor de diversos órgãos do Poder Judiciário, no valor de R$ 1.348.356.276,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 672 de 24/03/2015
-
 MEDIDA PROVISÓRIA Nº 672, DE 24 DE MARÇO DE 2015
 
 Dispõe sobre a política de valorização do salário mínimo para o período de 2016 a 2019.

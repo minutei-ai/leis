@@ -1,5 +1,3 @@
-# Decreto Numerado nº 181, de 2026-03-10
-
 DECRETO Nº 181, DE 10 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 24, situado à Avenida São Francisco, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

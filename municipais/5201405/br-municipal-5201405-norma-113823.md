@@ -1,5 +1,3 @@
-# Decreto Numerado nº 294, de 2026-04-15
-
 DECRETO Nº 294, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua General Glicério, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

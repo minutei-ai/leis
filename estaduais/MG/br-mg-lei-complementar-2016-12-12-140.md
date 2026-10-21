@@ -1,5 +1,3 @@
-# LCP nº 140, de 12/12/2016
-
 Autoriza a Assembleia Legislativa do Estado de Minas Gerais a criar entidade de previdência complementar, dispõe sobre o processo de extinção do Instituto de Previdência do Legislativo do Estado de Minas Gerais – Iplemg – e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

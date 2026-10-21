@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.701, de 2025-08-21
-
 LEI Nº 7.701, DE 21 DE AGOSTO DE 2025.
 
 Reconhece como Utilidade Pública Municipal a Associação Clube da Saudade de Rio Verde - GOIÁS.

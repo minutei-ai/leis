@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.641, de 2025-09-04
-
 LEI Nº 23.641, DE 4 DE SETEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

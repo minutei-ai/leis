@@ -1,5 +1,3 @@
-# Resolução nº 1, de 2024-04-25
-
 RESOLUÇÃO Nº 1/2024, DE 25 DE ABRIL DE 2024
 
 Dispõe sobre as medidas necessárias para execução do [Decreto nº 10.444](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108696), de 19 de abril de 2024.

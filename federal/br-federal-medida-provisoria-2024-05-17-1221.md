@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.221 de 17/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.221, DE 17 DE MAIO DE 2024
 
 Dispõe sobre medidas excepcionais para a aquisição de bens e a contratação de obras e de serviços, inclusive de engenharia, destinados ao enfrentamento de impactos decorrentes de estado de calamidade pública.

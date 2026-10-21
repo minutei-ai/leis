@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.953, de 2024-08-28
-
 LEI Nº 22.953, DE 28 DE AGOSTO DE 2024
 
 Institui a Semana Estadual das Cidades Inteligentes e dá outras providências.

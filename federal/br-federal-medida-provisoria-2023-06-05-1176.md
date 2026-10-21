@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.176 de 05/06/2023
-
 MEDIDA PROVISÓRIA Nº 1.176, DE 5 DE JUNHO DE 2023
 
 Institui o Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil e altera a [Lei nº 12.087, de 11 de novembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-11-11;12087).

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.708, de 2025-06-16
-
 DECRETO Nº 10.708, DE 16 DE JUNHO DE 2025
 
 Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.521, de 2024-06-24
-
 LEI Nº 7.521, DE 24 DE JUNHO DE 2024.
 
 Dispõe sobre a implementação da ciência de Análise do Comportamento Aplicada (ABA) para crianças e adolescentes, do ensino fundamental e médio, com autismo nas escolas da rede pública de ensino do Município de Rio Verde.

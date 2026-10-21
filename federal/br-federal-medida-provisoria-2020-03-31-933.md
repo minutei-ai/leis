@@ -1,5 +1,3 @@
-# Medida Provisória nº 933 de 31/03/2020
-
 MEDIDA PROVISÓRIA Nº 933, DE 31 DE MARÇO DE 2020
 
 Suspende, pelo prazo que menciona, o ajuste anual de preços de medicamentos para o ano de 2020.

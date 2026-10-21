@@ -1,5 +1,3 @@
-# Lei Complementar nº 20, de 2014-08-19
-
 **LEI COMPLEMENTAR Nº** **20, DE 19 DE AGOSTO DE 2014.**
 
 Altera [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Funcionários do Município.

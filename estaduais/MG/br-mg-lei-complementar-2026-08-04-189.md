@@ -1,5 +1,3 @@
-# LCP nº 189, de 04/08/2026
-
 Revoga dispositivo da Lei Complementar nº 65, de 16 de janeiro de 2003, que organiza a Defensoria Pública do Estado, define sua competência e dispõe sobre a carreira de Defensor Público e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

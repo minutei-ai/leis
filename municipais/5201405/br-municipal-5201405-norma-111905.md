@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.835, de 2025-06-06
-
 LEI Nº 3.835, DE 6 DE JUNHO DE 2025 
 
 Estabelece normas sobre a execução de políticas de saúde no âmbito da Vigilância Ambiental, Epidemiológica, Saúde do Trabalhador, Controle de Zoonoses e Vigilância Sanitária no Município de Aparecida de Goiânia e dá outras providências. 

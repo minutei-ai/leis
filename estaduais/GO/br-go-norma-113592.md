@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.879, de 2026-03-18
-
 DECRETO Nº 10.879, DE 18 DE MARÇO DE 2026
 
 Qualifica como organização social de saúde, no âmbito do Estado de Goiás, a entidade que especifica.

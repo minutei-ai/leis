@@ -1,5 +1,3 @@
-# Decreto Numerado nº 232, de 2024-04-11
-
 DECRETO “N” Nº 232, DE 11 DE ABRIL DE 2024.
 
 Declara utilidade pública para fins de desapropriação imóvel situado no Loteamento Jardim Alto Paraiso, no Município de Aparecida de Goiânia.

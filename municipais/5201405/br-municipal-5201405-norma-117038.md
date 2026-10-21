@@ -1,5 +1,3 @@
-# Decreto Numerado nº 536, de 2026-09-01
-
 DECRETO Nº 536, DE 1º DE SETEMBRO DE 2026
 
 Declara luto oficial no Município de Aparecida de Goiânia.

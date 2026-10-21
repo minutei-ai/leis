@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.851, de 2026-01-07
-
 DECRETO Nº 10.851, DE 7 DE JANEIRO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

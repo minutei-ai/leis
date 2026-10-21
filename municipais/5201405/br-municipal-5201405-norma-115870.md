@@ -1,5 +1,3 @@
-# Decreto Numerado nº 580, de 2024-07-15
-
 DECRETO “N” Nº 580 DE 15 DE JULHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# LEI Nº 15.120 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.120 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a obrigatoriedade de reserva de vagas de pontos de recarga para veículos elétricos e híbridos em shoppings centers de porte médio ou superior no Estado da Bahia.

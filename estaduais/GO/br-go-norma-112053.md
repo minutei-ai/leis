@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.850, de 2026-01-07
-
 DECRETO Nº 10.850, DE 7 DE JANEIRO DE 2026
 
 Regulamenta o Conselho de Usuários dos Serviços Públicos do Estado de Goiás, conforme dispõe a [Lei nº 20.846](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103353), de 2 de setembro de 2020. 

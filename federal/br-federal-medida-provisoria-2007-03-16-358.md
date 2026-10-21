@@ -1,5 +1,3 @@
-# Medida Provisória nº 358 de 16/03/2007
-
 ###MPV-000358-0-000-16-03-2007@@@
 
 MEDIDA PROVISÓRIA Nº 358, DE 16 DE MARÇO DE 2007.

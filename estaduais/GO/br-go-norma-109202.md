@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.853, de 2024-07-12
-
 LEI Nº 22.853, DE 12 DE JULHO DE 2024
 
 Altera a [Lei nº 21.505](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105802), de 14 de julho de 2022, que institui a Política Estadual de Estímulo ao Empreendedorismo Feminino.

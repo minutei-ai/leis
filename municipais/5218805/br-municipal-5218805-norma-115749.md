@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.084, de 2020-06-03
-
 LEI N°. 7.084, DE 03 DE JUNHO DE 2020
 
 Altera a Lei n°. 7.013, de 31 de outubro de 2019.

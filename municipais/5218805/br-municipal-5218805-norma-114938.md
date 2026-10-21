@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.555, de 2024-10-31
-
 LEI Nº 7.555, DE 31 DE OUTUBRO DE 2024.
 
 Autoriza a desafetação de área de propriedade do Poder Público objetivando a dação em pagamento em razão de desapropriação.

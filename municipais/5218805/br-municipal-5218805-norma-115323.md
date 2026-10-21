@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.399, de 2023-08-28
-
 LEI N° 7.399, DE 28 DE AGOSTO DE 2023.
 
 Dispõe sobre a inclusão de conceitos de empreendedorismo e noções de cidadania na rede municipal de ensino, e dá outras providências.

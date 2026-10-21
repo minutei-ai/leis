@@ -1,5 +1,3 @@
-# Lei Complementar nº 161, de 2019-05-29
-
 LEI COMPLEMENTAR Nº 161, DE 29 DE MAIO DE 2019
 
 Revoga dispositivos das Leis Complementares nº 125/2017 e 136/2017.

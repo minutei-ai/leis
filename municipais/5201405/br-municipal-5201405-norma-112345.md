@@ -1,5 +1,3 @@
-# Decreto Numerado nº 969, de 2025-02-27
-
 DECRETO Nº 969, DE 27 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

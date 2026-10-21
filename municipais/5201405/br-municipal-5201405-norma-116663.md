@@ -1,5 +1,3 @@
-# Lei Complementar nº 128, de 2017-05-18
-
 LEI COMPLEMENTAR Nº 128, DE 18 DE MAIO DE 2017.
 
 “Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências”.

@@ -1,5 +1,3 @@
-# LEI Nº 15.170 DE 12 DE JUNHO DE 2026
-
 LEI Nº 15.170 DE 12 DE JUNHO DE 2026
 
 Altera os arts. 38 e 315 da Lei nº [10.845](https://www.legislabahia.ba.gov.br/documentos/lei-no-10845-de-27-de-novembro-de-2007), de 27 de novembro de 2007, para ampliar o número de Desembargadores do Tribunal de Justiça do Estado da Bahia, e dispõe sobre a criação de cargos de Diretor de Secretaria de Câmara, Secretário-Adjunto de Câmara, Supervisor Administrativo de Cartório Integrado, Assessor de Desembargador e Assistente de Gabinete, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.056 de 05/07/2021
-
 MEDIDA PROVISÓRIA Nº 1.056, DE 5 DE JULHO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 20.272.300.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 896 de 06/09/2019
-
 MEDIDA PROVISÓRIA Nº 896, DE 6 DE SETEMBRO DE 2019
 
 Altera a [Lei nº 8.666, de 21 de junho de 1993](urn:lex:br:federal:lei:1993-06-21;8666), a [Lei nº 10.520, de 17 de julho de 2002](urn:lex:br:federal:lei:2002-07-17;10520), a [Lei nº 11.079, de 30 de dezembro de 2004](urn:lex:br:federal:lei:2004-12-30;11079), e a [Lei nº 12.462, de 4 de agosto de 2011](urn:lex:br:federal:lei:2011-08-04;12462), para dispor sobre a forma de publicação dos atos da administração pública.

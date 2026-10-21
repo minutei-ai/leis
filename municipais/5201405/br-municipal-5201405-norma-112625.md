@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.513, de 2025-06-10
-
 DECRETO Nº 1.513, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Sabiás, no Loteamento Jardim das Acácias, no Município de Aparecida de Goiânia.

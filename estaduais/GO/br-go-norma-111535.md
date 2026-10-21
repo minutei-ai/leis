@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.802, de 2025-11-06
-
 LEI Nº 23.802, DE 6 DE NOVEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Gastronômico Josephina’s, realizado no Município de Niquelândia/GO.

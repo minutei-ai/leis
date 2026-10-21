@@ -1,5 +1,3 @@
-# Decreto Numerado nº 805, de 2024-09-25
-
 DECRETO "N" N° 805, DE 25 DE SETEMBRO DE 2024.
 
 Altera o Decreto “N” nº 274, de 24 de abril de 2023 que dispõe sobre aprovação do Loteamento Parque Évora neste Município, e dá outras providências.

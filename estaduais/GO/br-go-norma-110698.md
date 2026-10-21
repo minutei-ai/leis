@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.432, de 2025-05-21
-
 LEI Nº 23.432, DE 21 DE MAIO DE 2025
 
 Altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

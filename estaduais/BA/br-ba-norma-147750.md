@@ -1,5 +1,3 @@
-# LEI Nº 14.982 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.982 DE 30 DE SETEMBRO DE 2025
 
 Altera a Lei nº [14.453](https://www.legislabahia.ba.gov.br/documentos/lei-no-14453-de-01-de-fevereiro-de-2022), de 01 de fevereiro de 2022, na forma que indica.

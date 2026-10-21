@@ -1,5 +1,3 @@
-# LD Nº 61 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 61 DE 01 DE JUNHO DE 1983
 
 Reorganiza o Departamento das Municipalidades e dá outras providências.

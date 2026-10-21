@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.634, de 2021-11-05
-
 LEI MUNICIPAL Nº 3.634, DE 05 DE NOVEMBRO DE 2021.
 
 Altera a Lei Municipal nº 973-1991 e estabelece a nova denominação de Escola Municipal Professora Cristine Maria de Sousa, no Setor Tocantins.

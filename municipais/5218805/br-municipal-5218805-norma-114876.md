@@ -1,5 +1,3 @@
-# Lei Complementar nº 118, de 2018-03-27
-
 LEI COMPLEMENTAR Nº 118, DE 27 DE MARÇO DE 2018.
 
 Altera a Lei n. 3.633/98, que dispõe sobre o parcelamento do solo para fins urbanos.

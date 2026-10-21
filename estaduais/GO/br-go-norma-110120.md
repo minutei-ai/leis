@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.591, de 2024-12-10
-
 DECRETO Nº 10.591, DE 10 DE DEZEMBRO DE 2024
 
 Dispõe sobre a regulamentação do Fundo de Compensação Ambiental – FCA, do Fundo de Conversão de Multas – FCM e do Fundo de Recursos Hídricos – FRH. 

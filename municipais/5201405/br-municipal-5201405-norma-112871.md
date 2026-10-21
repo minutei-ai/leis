@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.848, de 2025-07-23
-
 DECRETO Nº 1.848, DE 23 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua Amarai, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

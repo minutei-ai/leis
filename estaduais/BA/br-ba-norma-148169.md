@@ -1,5 +1,3 @@
-# LEI Nº 15.082 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.082 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Associação de Instituição Comunitária Inspirando Vida, com sede e foro no Município de Maragojipe.

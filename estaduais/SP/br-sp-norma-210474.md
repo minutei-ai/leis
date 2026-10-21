@@ -1,5 +1,3 @@
-# Decreto nº 69.249, de 26/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210474)<br>
 
 # DECRETO N° 69.249, DE 26 DE DEZEMBRO DE 2024

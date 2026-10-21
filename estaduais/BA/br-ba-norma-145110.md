@@ -1,5 +1,3 @@
-# LEI Nº 14.743 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.743 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO MUTUIPENSE DE PAIS E AMIGOS DE CRIANÇAS ESPECIAIS (AMPACE), com sede e foro no município de Mutuípe.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.091, de 2024-11-21
-
 LEI Nº 23.091, DE 21 DE NOVEMBRO DE 2024
 
 Institui o Dia Estadual do Psicanalista.

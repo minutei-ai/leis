@@ -1,5 +1,3 @@
-# Lei Complementar nº 390, de 2025-05-26
-
 LEI COMPLEMENTAR Nº 390, DE 26 DE MAIO DE 2025.
 
 Altera a Lei Complementar nº 6.111, de 19 de março de 2012, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da área fim da Secretaria Municipal de Saúde de Rio Verde e dá outras providências.

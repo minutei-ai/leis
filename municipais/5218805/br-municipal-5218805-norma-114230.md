@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.719, de 2025-11-12
-
 LEI Nº 7.719, DE 12 DE NOVEMBRO DE 2025.
 
 Institui a Cota para o Exercício da Atividade Parlamentar (CEAP) no âmbito da Câmara Municipal de Rio Verde e dá outras providências.

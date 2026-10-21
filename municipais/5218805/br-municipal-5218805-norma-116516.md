@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.253, de 2022-04-01
-
 LEI N. 7.253, DE 1º DE ABRIL DE 2022
 
 Concede Licença Remunerada.

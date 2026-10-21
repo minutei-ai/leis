@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.319, de 2025-09-29
-
 DECRETO Nº 2.319, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, da Quadra 60, situado à Rua Célio Campos de Freitas, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

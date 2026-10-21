@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.526, de 2025-06-25
-
 LEI Nº 23.526, DE 25 DE JUNHO DE 2025
 
 Institui o Dia Estadual da Fraternidade Feminina da Maçonaria.

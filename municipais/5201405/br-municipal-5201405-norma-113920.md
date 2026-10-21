@@ -1,5 +1,3 @@
-# Decreto Numerado nº 388, de 2024-05-23
-
 DECRETO “N” Nº 388, DE 23 DE MAIO DE 2024.
 
 Autoriza a alienação de área pública, localizada no loteamento Jardim Eldorado, neste município, caracterizada como inservível por meio de parecer técnico da Comissão de Análise de Áreas Públicas de Aparecida de Goiânia e dá outras providências.

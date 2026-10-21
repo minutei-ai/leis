@@ -1,5 +1,3 @@
-# Lei Ordinária nº 786, de 1988-10-18
-
 LEI MUNICIPAL Nº 786, DE 18 DE OUTUBRO DE 1988.<br>
 (Revogada pela Lei Ordinária nº 3.632, de 21 de outubro de 2021).
 

@@ -1,5 +1,3 @@
-# Lei Complementar nº 267, de 2022-11-25
-
 LEI COMPLEMENTAR Nº 267, DE 25 DE NOVEMBRO DE 2022.
 
 Altera a Lei Complementar nº. 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 207, de 2023-03-29
-
 DECRETO “N” Nº 207 DE 29 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO ITAPOÃ, neste município.

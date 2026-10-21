@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.158, de 2026-03-18
-
 LEI Nº 24.158, DE 18 DE MARÇO DE 2026
 
 Concede o título de cidadania que especifica.

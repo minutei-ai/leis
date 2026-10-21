@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.129, de 2013-12-11
-
 LEI MUNICIPAL Nº 3.129, DE 11 DE DEZEMBRO DE 2013.<br>
 (Revogada pela Lei Ordinária nº 3.549, de 24 de abril de 2020).
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.103, de 2026-02-18
-
 LEI Nº 24.103, DE 18 DE FEVEREIRO DE 2026
 
 Institui o Dia Estadual do Meteorologista.

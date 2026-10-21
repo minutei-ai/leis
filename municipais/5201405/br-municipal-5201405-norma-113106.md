@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.147, de 2025-09-04
-
 DECRETO Nº 2.147, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, da Quadra 60, situado à Rua L-19, no Loteamento Papillon Park Complemento, no Município de Aparecida de Goiânia.

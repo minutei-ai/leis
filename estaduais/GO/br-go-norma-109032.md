@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.797, de 2024-06-21
-
 LEI Nº 22.797, DE 21 DE JUNHO DE 2024
 
 Altera a [Lei nº 14.711](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80655), de 30 de janeiro de 2004, que institui, no Gabinete Militar da Governadoria, a Medalha do Guardião.

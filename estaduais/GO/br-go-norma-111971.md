@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.986, de 2025-12-23
-
 LEI Nº 23.986, DE 23 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual da Fundação da Aldeia Bdeburè da Etnia Iny.

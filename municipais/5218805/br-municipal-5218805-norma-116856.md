@@ -1,5 +1,3 @@
-# Lei Ordinária nº ., de 2021-11-30
-
 LEI Nº 7.215, DE 30 DE NOVEMBRO DE 2021
 
 Cria e regulamenta a Taxa de Regulação, Controle e Fiscalização referente aos serviços de gerenciamento de resíduos sólidos urbanos - TRCF devida à Agência Municipal de Regulação dos Serviços de Água e Esgotos de Rio Verde - AMAE/RIO VERDE, instituída pela Lei Complementar Municipal nº 130, de 29 de junho de 2018, na forma que indica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 638 de 17/01/2014
-
 MEDIDA PROVISÓRIA Nº 638, DE 17 DE JANEIRO DE 2014
 
 Altera a Lei nº 12.715, de 17 de setembro de 2012, que institui o Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores - Inovar-Auto.

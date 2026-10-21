@@ -1,5 +1,3 @@
-# Medida Provisória nº 929 de 25/03/2020
-
 MEDIDA PROVISÓRIA Nº 929, DE 25 DE MARÇO DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Ciência, Tecnologia, Inovações e Comunicações, das Relações Exteriores, da Defesa e da Cidadania, no valor de R$ 3.419.598.000,00, para os fins que especifica.

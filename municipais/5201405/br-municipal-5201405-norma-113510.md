@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.598, de 2006-07-11
-
 LEI MUNICIPAL N.º 2.598, DE 11 DE JULHO DE 2006.
 
 “Regulamenta o artigo 19, § 2º, da Lei n° 1.332/93-CTM, que dispõe sobre a Comissão Elaboradora da Planta de Valores Genéricos dos Terrenos e Preços das Construções e dá outras providências”.

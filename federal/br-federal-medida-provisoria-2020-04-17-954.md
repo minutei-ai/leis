@@ -1,5 +1,3 @@
-# Medida Provisória nº 954 de 17/04/2020
-
 MEDIDA PROVISÓRIA Nº 954, DE 17 DE ABRIL DE 2020
 
 Dispõe sobre o compartilhamento de dados por empresas de telecomunicações prestadoras de Serviço Telefônico Fixo Comutado e de Serviço Móvel Pessoal com a Fundação Instituto Brasileiro de Geografia e Estatística, para fins de suporte à produção estatística oficial durante a situação de emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19), de que trata a Lei nº 13.979, de 6 de fevereiro de 2020.

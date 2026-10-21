@@ -1,5 +1,3 @@
-# Decreto Numerado nº 296, de 2024-04-24
-
 DECRETO “N” Nº 296 DE 24 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

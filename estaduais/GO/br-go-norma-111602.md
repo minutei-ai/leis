@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.860, de 2025-11-19
-
 LEI Nº 23.860, DE 19 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual do Procurador Municipal e dá outras providências.

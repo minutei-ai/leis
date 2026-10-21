@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.951, de 2019-05-08
-
 LEI N. 6.951, DE 08 DE MAIO DE 2019
 
 Altera denominação de unidades de ensino que menciona.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.760, de 2025-08-15
-
 DECRETO Nº 10.760 DE 15 DE AGOSTO DE 2025
 
 Revoga o [Decreto nº 9.976](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104414), de 28 de outubro de 2021, que dispõe sobre as diretrizes para o credenciamento pelo Departamento Estadual de Trânsito – DETRAN/GO de entidades, médicos e psicólogos para a finalidade que especifica.

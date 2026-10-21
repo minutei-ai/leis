@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.728, de 2008-04-17
-
 LEI MUNICIPAL Nº 2.728, DE 17 DE ABRIL DE 2008.
 
 Cria a Ouvidoria da Secretaria Municipal de Defesa Social, Guarda Municipal, e dá outras providências.

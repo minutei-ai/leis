@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.037, de 2025-08-25
-
 DECRETO Nº 2.037, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 08 e 09, todos da Quadra 107, situado à Rua Viterita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

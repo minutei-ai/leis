@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.408, de 2023-08-28
-
 **LEI N° 7.408, DE 28 DE AGOSTO DE 2023**
 
 Regulamenta as estradas rurais municipais, faixa de domínio e autoriza o Poder Executivo Municipal a executar serviços de conservação e manutenção das estradas rurais para fins de escoamento da produção agrícola, pecuária e transporte escolar, e dá outras providências.

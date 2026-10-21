@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.726, de 2025-10-31
-
 LEI Nº 7.726, DE 31 DE OUTUBRO DE 2025.
 
 Institui, em caráter excepcional e temporário, o Programa de Incentivo à Recuperação Ambiental, dispondo sobre a concessão de desconto para quitação de multas por infrações ambientais mediante conversão em serviços de preservação, melhoria e recuperação do meio ambiente, e dá outras providências.

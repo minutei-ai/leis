@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.424, de 2025-10-09
-
 DECRETO Nº 2.424, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, da Quadra 80, situado Rua Cote D’ Azur, no Loteamento Residencial Village Garavelo – 2ª Etapa, no Município de Aparecida de Goiânia.

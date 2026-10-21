@@ -1,5 +1,3 @@
-# Medida Provisória nº 24 de 23/01/2002
-
 ###MPV-000024-0-000-23-01-2002@@@
 
 MEDIDA PROVISÓRIA No 24, DE 23 DE JANEIRO DE 2002.

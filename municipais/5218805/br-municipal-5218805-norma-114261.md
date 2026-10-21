@@ -1,5 +1,3 @@
-# Lei Complementar nº 4.113, de 2001-08-14
-
 LEI complementar Nº 4.113, DE 14 DE agosto DE 2001.
 
 Altera a [Lei n. 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170 "Abrir Lei Ordinária nº 3968, de 2000 em nova aba")/2000.

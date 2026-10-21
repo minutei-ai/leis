@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.067, de 2024-11-08
-
 LEI Nº 23.067, DE 8 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 15.640](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79682), de 02 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.257, de 2025-03-07
-
 LEI Nº 23.257, DE 7 DE MARÇO DE 2025
 
 Concede o título de cidadania que especifica.

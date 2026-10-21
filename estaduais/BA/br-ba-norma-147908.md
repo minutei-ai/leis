@@ -1,5 +1,3 @@
-# LEI Nº 15.017 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.017 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a Associação Comunitária dos Moradores do Povoado dos Cochos, com sede e foro no município de Queimadas.

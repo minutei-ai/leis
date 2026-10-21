@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.525, de 2024-01-03
-
 LEI Nº 22.525, DE 3 DE JANEIRO DE 2024
 
 Dispõe sobre a afixação de placa informativa, na forma e nos locais que especifica.

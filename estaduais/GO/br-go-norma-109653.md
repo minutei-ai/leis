@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.027, de 2024-10-07
-
 LEI Nº 23.027, DE 7 DE OUTUBRO DE 2024
 
 Altera a [Lei nº 19.952](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99815), de 29 de dezembro de 2017, que institui o Programa Bolsa-Artista e dá outras providências.

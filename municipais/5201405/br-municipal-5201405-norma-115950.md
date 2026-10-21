@@ -1,5 +1,3 @@
-# Decreto Numerado nº 625, de 2024-07-31
-
 DECRETO “N” Nº 625 DE 31 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

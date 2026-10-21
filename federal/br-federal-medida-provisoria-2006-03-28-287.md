@@ -1,5 +1,3 @@
-# Medida Provisória nº 287 de 28/03/2006
-
 ###MPV-000287-0-000-28-03-2006@@@
 
 MEDIDA PROVISÓRIA Nº 287, DE 28 DE MARÇO DE 2006.

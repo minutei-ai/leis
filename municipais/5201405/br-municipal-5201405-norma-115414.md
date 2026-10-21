@@ -1,5 +1,3 @@
-# Decreto Numerado nº 471, de 2026-06-15
-
 DECRETO Nº 471, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua dos Cardeais, no Loteamento Morada dos Pássaros, no Município de Aparecida de Goiânia.

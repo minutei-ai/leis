@@ -1,5 +1,3 @@
-# LEI Nº 14.794 DE 06 DE DEZEMBRO DE 2024
-
 LEI Nº 14.794 DE 06 DE DEZEMBRO DE 2024
 
 Denomina a Rodovia localizada entre Ibirataia e Ipiaú, na região cacaueira da Bahia, como "Rodovia Jorge Abdon Fair”, na forma que indica, e dá outras providências.

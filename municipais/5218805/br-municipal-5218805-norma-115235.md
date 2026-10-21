@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.432, de 2023-10-23
-
 LEI Nº 7.432, DE 23 DE OUTUBRO DE 2023.
 
 Autoriza o poder executivo a contratar cursos com as entidades do Sistema S e disponibilizar de forma gratuita à comunidade do município de Rio Verde, e dá outras providências.

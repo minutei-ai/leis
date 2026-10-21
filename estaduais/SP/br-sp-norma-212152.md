@@ -1,5 +1,3 @@
-# Decreto nº 70.326, de 31/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212152)<br>
 
 # DECRETO N° 70.326, DE 31 DE DEZEMBRO DE 2025

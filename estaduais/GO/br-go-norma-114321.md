@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.906, de 2026-05-07
-
 DECRETO Nº 10.906, DE 7 DE MAIO DE 2026
 
 Estabelece diretrizes para a realização de cerimônias no Poder Executivo do Estado de Goiás. 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 134, de 2023-03-03
-
 DECRETO "N" N° 134 DE 03 DE MARÇO DE 2023.
 
 Aprova a Regularização Fundiária Urbana de imóveis públicos do Loteamento Jardim Tiradentes, neste município, como de Interesse Social.

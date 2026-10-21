@@ -1,5 +1,3 @@
-# Decreto nº 70.035, de 30/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211735)<br>
 
 # DECRETO N° 70.035, DE 30 DE OUTUBRO DE 2025

@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 005 DE 04 DE DEZEMBRO DE 1991
-
 LEI COMPLEMENTAR Nº 005 DE 04 DE DEZEMBRO DE 1991
 
 Com as alterações da [Lei Complementar nº 12](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-12-de-29-de-setembro-de-1997), de 29 de setembro de 1997. Consolidação publicada no D.O.E. de 30.09.97

@@ -1,5 +1,3 @@
-# LEI Nº 15.064 DE 19 DE DEZEMBRO DE 2025
-
 LEI Nº 15.064 DE 19 DE DEZEMBRO DE 2025
 
 Altera a Lei nº 8.902, de 18 de dezembro de 2003, para estruturar, no âmbito da Assembleia Legislativa, a Assistência Jurídica da Presidência e a Procuradoria Especial da Mulher.

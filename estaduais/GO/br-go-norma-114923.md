@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.916, de 2026-05-25
-
 DECRETO Nº 10.916, DE 25 DE MAIO DE 2026
 
 Desqualifica como organização social de Desenvolvimento Tecnológico e de Educação Profissional e Tecnológica, no Estado de Goiás, a entidade que especifica.

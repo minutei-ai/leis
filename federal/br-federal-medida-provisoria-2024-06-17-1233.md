@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.233 de 17/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.233, DE 17 DE JUNHO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Fazenda, das Cidades, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, no valor de R$ 17.587.897.059,00, para os fins que especifica.

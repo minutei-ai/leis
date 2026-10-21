@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.353, de 2025-05-09
-
 DECRETO Nº 1.353, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 14 ao 16, da Quadra 112, situado à Rua Célia Câmara, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

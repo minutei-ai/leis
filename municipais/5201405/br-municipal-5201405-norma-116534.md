@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.514, de 2019-10-28
-
 LEI MUNICIPAL Nº 3.514, DE 28 DE OUTUBRO DE 2019
 
 Dispõe sobre a denominação da Praça JOÃO CLAUDINO DA SILVA, no Setor Parque Rio das Pedras, neste Município e dá outras providências. 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.045, de 2026-01-21
-
 LEI Nº 24.045, DE 21 DE JANEIRO DE 2026.
 
 Dispõe sobre a Carteira de Identificação Estudantil Digital – CIEGO, no âmbito do Estado de Goiás, e dá outras providências.

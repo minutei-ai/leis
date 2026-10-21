@@ -1,5 +1,3 @@
-# LEI Nº 15.039 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.039 DE 11 DE DEZEMBRO DE 2025
 
 Autoriza o Poder Executivo a aderir ao Programa de Pleno Pagamento de Dívidas dos Estados - PROPAG, de que trata a Lei Complementar Federal nº 212, de 13 de janeiro de 2025, e a celebrar contratos e termos aditivos de contratos de refinanciamento de dívidas com a União, no âmbito do PROPAG.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 507, de 2024-06-25
-
 DECRETO “N” Nº 507, DE 25 DE JUNHO DE 2024.
 
 Altera o artigo 1° do [Decreto n° 096 de 11 de fevereiro de 2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114217/decreto-96) e dá outras providências.

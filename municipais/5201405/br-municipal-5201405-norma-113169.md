@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.645, de 2025-11-13
-
 DECRETO Nº 2.645, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento das APM-02, APM-03 e APM-04, da Quadra 02, Quadra 03 e Quadra 04, situadas à Rua Dona Alzira e Rua Lucilia Viana Parte 1, no Loteamento Residencial Agenor Modesto, no Município de Aparecida de Goiânia.

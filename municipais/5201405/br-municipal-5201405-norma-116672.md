@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.357, de 2017-05-10
-
 LEI MUNICIPAL Nº 3.357, DE 10 DE MAIO DE 2017
 
 Institui a Semana Novembro Azul no Município de Aparecida de Goiânia.

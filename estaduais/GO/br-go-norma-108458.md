@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.406, de 2024-02-05
-
 DECRETO Nº 10.406, DE 5 DE FEVEREIRO DE 2024
 
 Altera o [Decreto estadual nº 8.390](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67467), de 10 de junho de 2015, que dispõe sobre o Conselho de Desenvolvimento do Estado – CDE/FCO, previsto no art. 39, inciso II, e número 1 da alínea “x” do Anexo I da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701), de 25 de junho de 2019, e dá outras providências.

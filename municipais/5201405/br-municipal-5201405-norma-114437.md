@@ -1,5 +1,3 @@
-# Decreto Numerado nº 27, de 2024-01-22
-
 DECRETO “N” Nº 27 DE 22 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

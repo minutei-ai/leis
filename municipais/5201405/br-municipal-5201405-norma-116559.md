@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.258, de 1993-09-03
-
 LEI MUNICIPAL Nº 1.258, DE 03 DE SETEMBRO DE 1993.
 
 Declara de Utilidade Pública e autoriza desapropriar imóveis no Setor Jardim Eldorado e dá outras providências.

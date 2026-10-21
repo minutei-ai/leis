@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.579, de 2016-02-24
-
 **LEI N. 6.579, DE 24 DE FEVEREIRO DE 2016**
 
 Altera o artigo 1º e insere o artigo 1-A e paragrafo único, na Lei nº 6560/2015 que autorizou a Concessão de Direito Real de Uso de área que especifica e dá outras providências.

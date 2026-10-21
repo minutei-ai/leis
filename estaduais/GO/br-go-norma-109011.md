@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.780, de 2024-06-11
-
 LEI Nº 22.780, DE 11 DE JUNHO DE 2024
 
 Autoriza a aquisição, por doação onerosa do Município de Caldas Novas/GO, do imóvel que especifica.

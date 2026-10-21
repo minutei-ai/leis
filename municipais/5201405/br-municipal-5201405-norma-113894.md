@@ -1,5 +1,3 @@
-# Decreto Numerado nº 244, de 2024-04-12
-
 DECRETO “N” Nº 244, DE 12 DE ABRIL DE 2024.
 
 Dispõe sobre a criação do Conselho Municipal de Mobilidade e Transporte de Aparecida de Goiânia, nos termos da Lei Municipal nº 3.728 de 09 de agosto de 2023 e dá outras providências.

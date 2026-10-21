@@ -1,5 +1,3 @@
-# LEI Nº 15.116 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.116 DE 28 DE JANEIRO DE 2026
 
      Institui palestras de conscientização da importância da doação de órgãos nas escolas da Rede Estadual de Ensino, e dá outras providências.

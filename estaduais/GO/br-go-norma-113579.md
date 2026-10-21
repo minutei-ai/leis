@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.878, de 2026-03-16
-
 DECRETO Nº 10.878, DE 16 DE MARÇO DE 2026
 
 Altera o [Decreto nº 7.911](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66360), de 26 de junho de 2013, que institui o Programa Passe Livre Estudantil – PLE e estabelece seu regulamento.

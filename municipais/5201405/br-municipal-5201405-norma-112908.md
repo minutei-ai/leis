@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.912, de 2025-08-07
-
 DECRETO Nº 1.912, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Maria Luiza de Almeida, no Loteamento Setor Serra Dourada 2º Etapa, no Município de Aparecida de Goiânia.

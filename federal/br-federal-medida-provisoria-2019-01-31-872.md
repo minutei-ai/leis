@@ -1,5 +1,3 @@
-# Medida Provisória nº 872 de 31/01/2019
-
 MEDIDA PROVISÓRIA Nº 872, DE 31 DE JANEIRO DE 2019
 
 Altera a Lei nº 10.480, de 2 de julho de 2002, para prorrogar o prazo de recebimento de gratificações pelos servidores ou empregados requisitados pela Advocacia-Geral da União, e a Lei nº 11.473, de 10 de maio de 2007, que dispõe sobre cooperação federativa no âmbito da segurança pública.

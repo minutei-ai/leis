@@ -1,5 +1,3 @@
-# Decreto Numerado nº 48, de 2024-01-30
-
 DECRETO “N” Nº 48 DE 30 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

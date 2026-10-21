@@ -1,5 +1,3 @@
-# Decreto nº 70.549, de 17/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212496)<br>
 
 # DECRETO N° 70.549, DE 17 DE ABRIL DE 2026

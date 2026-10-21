@@ -1,5 +1,3 @@
-# Medida Provisória nº 432 de 27/05/2008
-
 ###MPV-000432-0-000-27-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 432, DE 27 DE MAIO DE 2008.

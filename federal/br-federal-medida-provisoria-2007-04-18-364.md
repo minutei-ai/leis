@@ -1,5 +1,3 @@
-# Medida Provisória nº 364 de 18/04/2007
-
 ###MPV-000364-0-000-18-04-2007@@@
 
 MEDIDA PROVISÓRIA Nº 364, DE 18 DE ABRIL DE 2007.

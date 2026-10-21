@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.750, de 2023-11-08
-
 LEI MUNICIPAL Nº 3.750, DE 08 DE NOVEMBRO DE 2023.
 
 Altera a lei municipal nº 3.657, de 02 de março de 2022, que dispoe sobre o plano plurianual para o quadrienio 2022 a 2025, a lei municipal n° 3.695 de 07 de fevereiro de 2023, que dispoe sobre o orçamento anual de 2023, e abertura de cretidos especiais, e dá outras providências.

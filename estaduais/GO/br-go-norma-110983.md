@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.502, de 2025-06-16
-
 LEI Nº 23.502, DE 16 DE JUNHO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a chegada do Sino _Vox Patris_ no Município de Trindade/GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.790, de 2025-12-15
-
 LEI Nº 7.790, DE 15 DE DEZEMBRO DE 2025.
 
 Altera o art. 4º da Lei nº 7.771, de 17 de novembro de 2025, que dispõe sobre a concessão de auxílio-moradia aos médicos-residentes vinculados aos Programas de Residência Médica da Universidade de Rio Verde - UniRV.

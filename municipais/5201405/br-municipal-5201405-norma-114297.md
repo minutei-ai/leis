@@ -1,5 +1,3 @@
-# Decreto Numerado nº 8, de 2024-01-11
-
 DECRETO “N” Nº 08 DE 11 DE JANEIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

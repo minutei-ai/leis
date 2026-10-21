@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.080, de 2024-11-13
-
 LEI Nº 23.080, DE 13 DE NOVEMBRO DE 2024
 
 Institui a Semana Estadual de Divulgação e Conscientização sobre o Planejamento Sucessório e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.733, de 2023-08-22
-
 LEI MUNICIPAL Nº 3.733, DE 22 DE AGOSTO DE 2023.
 
 Concede remissão do Imposto Sobre a Propriedade Territorial Urbana (ITU) e do Imposto Sobre a Propriedade Predial Urbana (IPTU) à Companhia de Desenvolvimento Econômico do Estado de Goiás (CODEGO) referente aos imóveis de sua propriedade.

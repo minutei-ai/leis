@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.862, de 2024-07-16
-
 LEI Nº 22.862, DE 16 DE JULHO DE 2024
 
 Concede o título de cidadania que especifica.

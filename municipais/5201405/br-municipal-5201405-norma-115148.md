@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.753, de 2023-11-20
-
 LEI MUNICIPAL Nº 3.753, DE 20 DE NOVEMBRO DE 2023.
 
 Dispõe sobre reconhecimento das pessoas portadoras de doença renal crônica e transplantados como pessoas com os mesmos direitos para fins de atendimento prioritário nos serviços públicos e privados e dá outras providências.

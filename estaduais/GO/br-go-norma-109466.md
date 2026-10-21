@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.982, de 2024-09-12
-
 LEI Nº 22.982, DE 12 DE SETEMBRO DE 2024
 
 Abre crédito especial à Secretaria de Estado de Desenvolvimento Social – SEDS e cria produto no Plano Plurianual para o quadriênio 2024-2027.

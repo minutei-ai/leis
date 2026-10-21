@@ -1,5 +1,3 @@
-# Decreto Numerado nº 282, de 2023-04-25
-
 DECRETO “N” Nº 282 DE 25 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR RESIDENCIAL CAMPOS ELISIOS, neste município.

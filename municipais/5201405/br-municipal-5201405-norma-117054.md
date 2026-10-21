@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.159, de 2014-02-21
-
 LEI MUNICIPAL Nº 3.159, DE 21 DE FEVEREIRO DE 2014.
 
 Dispõe sobre a denominação, emplacamento e numeração das vias públicas, institui a obrigatoriedade da colocação de numeração predial e de caixa receptora de correspondência em cada domicílio do Município e dá outras providências.

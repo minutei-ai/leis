@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.965, de 2025-12-20
-
 LEI Nº 23.965, DE 20 DE DEZEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho dos Amigos Feirantes, realizada no Município de Aparecida de Goiânia/GO.

@@ -1,5 +1,3 @@
-# LEI Nº 14.967 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.967 DE 08 DE SETEMBRO DE 2025
 
 Altera a Lei nº [11.376](https://www.legislabahia.ba.gov.br/documentos/lei-no-11376-de-05-de-fevereiro-de-2009), de 05 de fevereiro de 2009, que reestrutura o Grupo Ocupacional Obras Públicas, criado pela Lei nº [8.889](https://www.legislabahia.ba.gov.br/documentos/lei-no-8889-de-01-de-dezembro-de-2003), de 01 de dezembro de 2003, na forma que indica, e dá outras providências.

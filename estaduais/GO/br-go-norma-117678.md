@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.989, de 2026-09-25
-
 DECRETO Nº 10.989, DE 25 DE SETEMBRO DE 2026
 
 Institui o Serviço Social Autônomo Centro Profissionalizante Paulo Vargas e designa os membros provisórios de seu Conselho Deliberativo.

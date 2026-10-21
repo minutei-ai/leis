@@ -1,5 +1,3 @@
-# Decreto Numerado nº 480, de 2023-07-24
-
 DECRETO “N” Nº 480 DE 24 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR RESIDENCIAL CAMPOS ALISIOS, neste município.

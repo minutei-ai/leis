@@ -1,5 +1,3 @@
-# Decreto Numerado nº 527, de 2024-07-01
-
 DECRETO “N” Nº 527, DE 01 DE JULHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

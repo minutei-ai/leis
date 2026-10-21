@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.152 de 28/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.152, DE 28 DE DEZEMBRO DE 2022
 
 Altera a legislação do Imposto sobre a Renda das Pessoa Jurídicas - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL para dispor sobre as regras de preços de transferência.

@@ -1,5 +1,3 @@
-# LEI Nº 15.034 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.034 DE 11 DE DEZEMBRO DE 2025
 
 Altera a Lei nº [9.528](https://www.legislabahia.ba.gov.br/documentos/lei-no-9528-de-22-de-junho-de-2005), de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais, e dá outras providências.

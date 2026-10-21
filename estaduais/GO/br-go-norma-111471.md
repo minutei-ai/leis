@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.772, de 2025-10-31
-
 LEI Nº 23.772, DE 31 DE outubro DE 2025
 
 Dá denominação ao próprio público que especifica. 

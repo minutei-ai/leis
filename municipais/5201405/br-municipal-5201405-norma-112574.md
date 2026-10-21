@@ -1,5 +1,3 @@
-# Decreto Numerado nº 108, de 2026-01-28
-
 DECRETO Nº 108, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Lirida Callou Araruna, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.049 de 14/05/2021
-
 MEDIDA PROVISÓRIA Nº 1.049, DE 14 DE MAIO DE 2021
 
 Cria a Autoridade Nacional de Segurança Nuclear e altera a Lei nº 4.118, de 27 de agosto de 1962, a Lei nº 6.189, de 16 de dezembro de 1974, a Lei nº 8.691, de 28 de julho de 1993, a Lei nº 9.765, de 17 de dezembro de 1998, a Lei nº 6.453, de 17 de outubro de 1977, e a Lei nº 10.308, de 20 de novembro de 2001.

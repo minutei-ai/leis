@@ -1,5 +1,3 @@
-# Medida Provisória nº 913 de 20/12/2019
-
 MEDIDA PROVISÓRIA Nº 913, DE 20 DE DEZEMBRO DE 2019
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Agricultura, Pecuária e Abastecimento.

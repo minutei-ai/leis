@@ -1,5 +1,3 @@
-# LEI Nº 15.014 DE 19 DE NOVEMBRO DE 2025
-
 **LEI Nº 15.014 DE 19 DE NOVEMBRO DE 2025**
 
 Altera o artigo 4º-A da Lei nº 12.371, de 21 de dezembro de 2011, na forma que indica.

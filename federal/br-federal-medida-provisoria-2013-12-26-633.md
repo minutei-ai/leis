@@ -1,5 +1,3 @@
-# Medida Provisória nº 633 de 26/12/2013
-
 MEDIDA PROVISÓRIA Nº 633, DE 26 DE DEZEMBRO DE 2013
 
 Altera a Lei nº 12.096, de 24 de novembro de 2009, que autoriza a concessão de subvenção econômica sob a modalidade de equalização de taxas de juros pela União, acrescenta o art. 1º-A à Lei nº 12.409, de 25 de maio de 2011, que autoriza o Fundo de Compensação de Variações Salariais - FCVS, a assumir direitos e obrigações do Seguro Habitacional do Sistema Financeiro da Habitação - SH/SFH e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.231, de 2025-09-18
-
 DECRETO Nº 2.231, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 10 e 23, todos da Quadra 07-C, situados à Alameda E-7, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

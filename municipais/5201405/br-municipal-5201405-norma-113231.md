@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.445, de 2025-10-15
-
 DECRETO Nº 2.445, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento dos lotes 07, 08, 09, 10, 11, 12, 13, 14, e 15, da Quadra 249, situados à Rua 21 de Abril, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

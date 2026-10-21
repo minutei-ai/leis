@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.502, de 2019-09-17
-
 LEI MUNICIPAL Nº 3.502, DE 17 DE SETEMBRO DE 2019<br>
 (Revogada pela Lei Ordinária nº 3.594, de 2 de dezembro de 2020).
 

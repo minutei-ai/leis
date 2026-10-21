@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.378, de 2017-09-11
-
 LEI MUNICIPAL 3.378, DE 11 DE SETEMBRO DE 2017
 
 Dispõe sobre denominação de nome à Unidade Básica de Saúde – UBS Colina Azul, situada no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.294 de 11/04/2025
-
 MEDIDA PROVISÓRIA Nº 1.294, DE 11 DE ABRIL DE 2025
 
 Altera os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física de que trata o [art. 1º da Lei nº 11.482, de 31 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-31;11482!art1).

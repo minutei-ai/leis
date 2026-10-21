@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.875, de 2026-03-13
-
 DECRETO Nº 10.875, DE 13 DE MARÇO DE 2026
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual no Município de Rio Verde/GO durante a semana de realização da Feira de Tecnologia em Agronegócio – Tecnoshow.

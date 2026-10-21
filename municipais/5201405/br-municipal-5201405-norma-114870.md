@@ -1,5 +1,3 @@
-# Decreto Numerado nº 423, de 2026-05-25
-
 DECRETO Nº 423, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 22 e 23, situados à Rua Rio Grande do Norte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

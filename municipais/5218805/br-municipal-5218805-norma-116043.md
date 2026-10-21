@@ -1,5 +1,3 @@
-# Lei Complementar nº 145, de 2018-12-17
-
 LEI COMPLEMENTAR Nº 145, DE 17 DE DEZEMBRO DE 2018.
 
 Altera a Lei Complementar nº 6.111/2012 – Plano de Cargos, Carreiras e Vencimentos do Quadro Permanente dos servidores da área da saúde do Município de Rio Verde.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 50, de 2023-01-24
-
 DECRETO “N” Nº 50 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BONANÇA neste município.

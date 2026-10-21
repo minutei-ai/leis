@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.216 de 09/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.216, DE 9 DE MAIO DE 2024
 
 Autoriza o Poder Executivo federal a conceder subvenção econômica a mutuários que tiveram perdas materiais nas áreas afetadas pelos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do disposto no [Decreto Legislativo nº 36, de 7 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2024-05-07;36); altera a [Lei nº 13.999, de 18 de maio de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-05-18;13999), e a [Lei nº 14.042, de 19 de agosto de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-08-19;14042); autoriza o Poder Executivo federal a conceder subvenção econômica para constituição de escritórios de projetos; estabelece normas para facilitação de acesso a crédito, tendo em vista os efeitos negativos decorrentes de desastres naturais; e dá outras providências.

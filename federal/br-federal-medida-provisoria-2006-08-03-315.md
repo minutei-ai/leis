@@ -1,5 +1,3 @@
-# Medida Provisória nº 315 de 03/08/2006
-
 ###MPV-000315-0-000-03-08-2006@@@
 
 MEDIDA PROVISÓRIA Nº 315, DE 3 DE AGOSTO DE 2006.

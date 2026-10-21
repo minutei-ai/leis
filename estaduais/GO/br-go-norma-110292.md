@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.619, de 2024-12-27
-
 DECRETO Nº 10.619, DE 27 DE DEZEMBRO DE 2024
 
 Convoca a 4ª Conferência Estadual dos Direitos das Pessoas Lésbicas, _Gays_, Bissexuais, Travestis, Transexuais, _Queers_, Intersexos, Assexuais e Outras – LGBTQIA+, também as conferências regionais e municipais.

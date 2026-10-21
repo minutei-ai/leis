@@ -1,5 +1,3 @@
-# Medida Provisória nº 894 de 04/09/2019
-
 MEDIDA PROVISÓRIA Nº 894, DE 4 DE SETEMBRO DE 2019
 
 Institui pensão especial destinada a crianças com microcefalia decorrente do Zika Vírus, nascidas entre 1º de janeiro de 2015 e 31 de dezembro de 2018, beneficiárias do Benefício de Prestação Continuada.

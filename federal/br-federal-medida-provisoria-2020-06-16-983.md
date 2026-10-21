@@ -1,5 +1,3 @@
-# Medida Provisória nº 983 de 16/06/2020
-
 MEDIDA PROVISÓRIA Nº 983, DE 16 DE JUNHO DE 2020
 
 Dispõe sobre as assinaturas eletrônicas em comunicações com entes públicos e em questões de saúde e sobre as licenças de softwares desenvolvidos por entes públicos.

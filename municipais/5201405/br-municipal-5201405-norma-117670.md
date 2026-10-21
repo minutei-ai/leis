@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1123, de 2024-12-18
-
 DECRETO “N” Nº 1123 DE 18 DE DEZEMBRO DE 2024
 
 Dispõe sobre remembramento de imóveis.

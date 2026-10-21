@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.546, de 2020-03-31
-
 LEI MUNICIPAL Nº 3.546, DE 31 DE MARÇO DE 2020
 
 Institui Programa de Incentivo Fiscal, mediante redução de alíquota do ISSQN, às atividades econômicas que especifica.

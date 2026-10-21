@@ -1,5 +1,3 @@
-# Decreto nº 70.757, de 14/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212840)<br>
 
 # DECRETO N° 70.757, DE 14 DE JULHO DE 2026

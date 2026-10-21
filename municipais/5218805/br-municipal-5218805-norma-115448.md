@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.850, de 2026-04-23
-
 LEI Nº 7.850, DE 23 DE ABRIL DE 2026.
 
 Dispõe sobre a denominação de praça pública no Município de Rio Verde - GO, e dá outras providências.

@@ -1,5 +1,3 @@
-# LEI Nº 14.796 DE 13 DE DEZEMBRO DE 2024
-
 LEI Nº 14.796 DE 13 DE DEZEMBRO DE 2024
 
 Autoriza a doação de imóvel ao Fundo de Arrendamento Residencial - FAR, para fins de construção de unidades habitacionais de interesse social, na forma que indica.

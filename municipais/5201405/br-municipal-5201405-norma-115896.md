@@ -1,5 +1,3 @@
-# Decreto Numerado nº 604, de 2024-07-23
-
 DECRETO “N” Nº 604 DE 23 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

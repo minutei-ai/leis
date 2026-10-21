@@ -1,5 +1,3 @@
-# Medida Provisória nº 853 de 25/09/2018
-
 MEDIDA PROVISÓRIA Nº 853, DE 25 DE SETEMBRO DE 2018
 
 Reabre o prazo de opção para o regime de previdência complementar de que trata o [§ 7º do art. 3º da Lei nº 12.618, de 30 de abril de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-04-30;12618!art3_par7).

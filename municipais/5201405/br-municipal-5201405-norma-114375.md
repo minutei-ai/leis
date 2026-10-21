@@ -1,5 +1,3 @@
-# Decreto Numerado nº 366, de 2026-05-08
-
 DECRETO Nº 366, DE 8 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Cristiano Teixeira da Silva, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.839, de 2025-06-27
-
 LEI Nº 3.839, DE 27 DE JUNHO DE 2025 
 
 Estabelece normas para a proteção, promoção e incentivo à prática da capoeira no município de Aparecida de Goiânia e dá outras providências.

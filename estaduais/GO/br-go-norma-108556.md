@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.580, de 2024-03-22
-
 LEI Nº 22.580, DE 22 DE MARÇO DE 2024
 
 Institui a Política Estadual de Proteção aos “Órfãos do Feminicídio”.

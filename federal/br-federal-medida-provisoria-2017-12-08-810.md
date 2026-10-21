@@ -1,5 +1,3 @@
-# Medida Provisória nº 810 de 08/12/2017
-
 MEDIDA PROVISÓRIA Nº 810, DE 8 DE DEZEMBRO DE 2017
 
 Altera a [Lei nº 8.248, de 23 de outubro de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-23;8248), e a [Lei nº 8.387, de 30 de dezembro de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-12-30;8387), e dá outras providências.

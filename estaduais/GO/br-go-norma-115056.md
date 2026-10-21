@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.329, de 2026-06-01
-
 LEI Nº 24.329, DE 1º DE JUNHO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

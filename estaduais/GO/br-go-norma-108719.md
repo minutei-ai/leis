@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.633, de 2024-04-26
-
 LEI Nº 22.633, DE 26 DE ABRIL DE 2024
 
 Altera a [Lei nº 20.097](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99972), de 28 de maio de 2018, que institui o “Selo Verde Ambiental” e o “Selo Investimento Verde”.

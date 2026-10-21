@@ -1,5 +1,3 @@
-# Lei Complementar nº 440, de 2025-12-15
-
 LEI COMPLEMENTAR Nº 440, DE 15 DE DEZEMBRO DE 2025.
 
 Altera a Lei nº 5.090, de 28 de dezembro de 2005 - Código Ambiental Municipal.

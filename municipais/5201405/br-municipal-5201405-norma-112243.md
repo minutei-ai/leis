@@ -1,5 +1,3 @@
-# Decreto Numerado nº 60, de 2026-01-19
-
 DECRETO Nº 060, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua da Estrada, no Loteamento Setor Ocidente - Vila Brasília, no Município de Aparecida de Goiânia.

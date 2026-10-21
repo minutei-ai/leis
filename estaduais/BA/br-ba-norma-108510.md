@@ -1,5 +1,3 @@
-# LD Nº 62 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 62 DE 01 DE JUNHO DE 1983
 
 Transforma o Instituto Bahiano do Fumo em Instituto Baiano de Fomento Agrícola e dá outras providências.

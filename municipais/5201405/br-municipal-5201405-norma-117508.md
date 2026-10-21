@@ -1,5 +1,3 @@
-# Decreto Numerado nº 993, de 2024-11-19
-
 DECRETO “N” Nº 993 DE 19 DE NOVEMBRO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 993, de 18 de junho de 2026).
 

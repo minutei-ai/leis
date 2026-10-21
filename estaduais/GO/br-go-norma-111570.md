@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.808, de 2025-11-12
-
 DECRETO Nº 10.808, DE 12 DE NOVEMBRO DE 2025
 
 Concede a Medalha da Ordem do Mérito Tiradentes às corporações militares que especifica.

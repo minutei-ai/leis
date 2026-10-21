@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.599, de 2025-08-29
-
 LEI Nº 23.599, DE 29 DE AGOSTO DE 2025
 
 Altera as [Leis nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020, [nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, e [nº 22.526](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108382), de 5 de janeiro de 2024, e dá outras providências.

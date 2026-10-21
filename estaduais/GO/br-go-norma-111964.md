@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.979, de 2025-12-23
-
 LEI Nº 23.979, DE 23 DE DEZEMBRO DE 2025
 
 Autoriza a transferência de titularidade das ações que especifica.

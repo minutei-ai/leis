@@ -1,5 +1,3 @@
-# Lei Complementar nº 191, de 2021-12-16
-
 LEI COMPLEMENTAR Nº 191, DE 16 DE DEZEMBRO DE 2021.
 
 Institui o Regime de Previdência Complementar no âmbito do Município de Aparecida de Goiânia-Goiás; fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição Federal; autoriza a adesão a plano de benefícios de previdência complementar; e dá outras providências.

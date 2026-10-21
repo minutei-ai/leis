@@ -1,5 +1,3 @@
-# LD Nº 54 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 54 DE 01 DE JUNHO DE 1983
 
 Cria o Conselho de Desenvolvimento do Estado e o Conselho Estadual de Planejamento e dá outras providências.

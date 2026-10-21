@@ -1,5 +1,3 @@
-# LEI Nº 14.778 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.778 DE 04 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a Associação Tempo de Crescer, com sede e foro no município de Ubaíra.

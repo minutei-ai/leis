@@ -1,5 +1,3 @@
-# LD Nº 26 DE 10 DE FEVEREIRO DE 1983
-
 LEI DELEGADA Nº 26 DE 10 DE FEVEREIRO DE 1983
 
 Altera a estrutura da Secretaria da Fazenda e dá outras providências.

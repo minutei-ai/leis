@@ -1,5 +1,3 @@
-# Decreto Numerado nº 700, de 2023-11-16
-
 DECRETO “N” Nº 700 DE 16 DE NOVEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

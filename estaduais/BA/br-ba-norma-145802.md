@@ -1,5 +1,3 @@
-# LEI Nº 14.787 DE 07 DE NOVEMBRO DE 2024
-
 LEI Nº 14.787 DE 07 DE NOVEMBRO DE 2024
 
 Autoriza o Poder Executivo a contratar operação de crédito interno, junto à Caixa Econômica Federal - CEF, com garantia da União, na forma que indica, e dá outras providências.

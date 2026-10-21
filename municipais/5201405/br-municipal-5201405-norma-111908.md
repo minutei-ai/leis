@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.208, de 1993-05-17
-
 Prefeitura Municipal de Aparecida de Goiânia 
 
 lEI MUNICIPAL Nº 1.208, DE 17 DE MAIO DE 1993.<br>

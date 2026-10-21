@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.864, de 2026-02-18
-
 DECRETO Nº 10.864, DE 18 DE FEVEREIRO DE 2026
 
 Homologa o Regimento Interno do Comitê Estadual de Gestão de Incêndios Florestais, instituído pelo [Decreto nº 9.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104213 "Abrir Decreto Numerado nº 9909, de 2021 em nova aba"), de 20 de julho de 2021.

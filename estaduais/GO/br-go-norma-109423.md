@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.957, de 2024-08-28
-
 LEI Nº 22.957, DE 28 DE AGOSTO DE 2024
 
 Concede o título de cidadania que especifica.

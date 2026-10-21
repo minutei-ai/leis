@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.647, de 2025-02-19
-
 DECRETO Nº 10.647, DE 19 DE FEVEREIRO DE 2025
 
 Estabelece, para o exercício de 2025, os limites anuais de empenho e pagamento referentes aos órgãos e às entidades das administrações direta e indireta, bem como das empresas estatais dependentes.

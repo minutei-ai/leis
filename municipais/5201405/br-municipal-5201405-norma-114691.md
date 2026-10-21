@@ -1,5 +1,3 @@
-# Decreto Numerado nº 399, de 2026-05-20
-
 DECRETO Nº 399, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua 05-C, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

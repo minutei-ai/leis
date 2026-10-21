@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.557, de 2024-09-18
-
 DECRETO Nº 10.557 , DE 18 DE SETEMBRO DE 2024
 
 Declara de utilidade pública, para efeito de desapropriação e instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

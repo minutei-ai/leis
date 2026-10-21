@@ -1,5 +1,3 @@
-# LEI Nº 15.038 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.038 DE 11 DE DEZEMBRO DE 2025
 
 Autoriza o Poder Executivo a contratar operação de crédito interno junto à Caixa Econômica Federal - CEF, com garantia da União, e dá outras providências.

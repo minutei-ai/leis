@@ -1,5 +1,3 @@
-# Decreto nº 69.622, de 12/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211060)<br>
 
 # DECRETO N° 69.622, DE 12 DE JUNHO DE 2025

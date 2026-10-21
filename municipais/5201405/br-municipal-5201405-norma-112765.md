@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.689, de 2022-11-18
-
 LEI MUNICIPAL Nº 3.689 DE 18 DE NOVEMBRO DE 2022.
 
 Dispõe sobre a denominação do CMEI Joaquim Gonçalves Oliveira, no Comendador Walmor neste Município e dá outras providências.

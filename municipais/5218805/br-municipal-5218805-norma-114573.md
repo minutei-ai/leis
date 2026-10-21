@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.627, de 2025-03-24
-
 LEI Nº 7.627, DE 24 DE MARÇO DE 2025.
 
 Reconhece modalidades esportivas como integrantes do Calendário Esportivo do Município.

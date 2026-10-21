@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3188, de 2014-06-23
-
 LEI MUNICIPAL Nº 3.188, DE 23 de junho de 2014.
 
 Dispõe sobre o cancelamento de valores constantes do ativo realizável no Balanço Patrimonial do Exercício de 2012.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 845 de 20/07/2018
-
 MEDIDA PROVISÓRIA Nº 845, DE 20 DE JULHO DE 2018
 
 Institui o Fundo Nacional de Desenvolvimento Ferroviário.

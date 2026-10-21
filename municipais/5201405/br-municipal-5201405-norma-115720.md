@@ -1,5 +1,3 @@
-# Decreto Numerado nº 476, de 2024-06-19
-
 DECRETO “N” Nº 476 DE 19 DE JUNHO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóvel.

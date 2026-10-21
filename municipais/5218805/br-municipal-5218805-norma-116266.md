@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.304, de 2022-11-25
-
 LEI N°. 7.304, DE 25 DE NOVEMBRO DE 2022
 
 Autoriza o Poder Executivo Municipal a transferir recursos financeiros através da celebração de Termo de Fomento a entidade sem fins lucrativos.

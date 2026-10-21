@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.664, de 2025-11-19
-
 DECRETO Nº 2.664, DE 19 DE NOVEMBRO DE 2025
 
 Institui servidão administrativa sobre áreas de propriedade do Município de Aparecida de Goiânia, para fins de implantação de rede de drenagem pluvial, e dá outras providências.

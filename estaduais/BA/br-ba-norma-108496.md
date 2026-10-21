@@ -1,5 +1,3 @@
-# LD Nº 44 DE 29 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 44 DE 29 DE MARÇO DE 1983
 
 Autoriza, na forma que indica, a introdução de modificações nos estatutos sociais da Empresa de Turismo da Bahia S.A. - BAHIATURSA e dá outras providências.

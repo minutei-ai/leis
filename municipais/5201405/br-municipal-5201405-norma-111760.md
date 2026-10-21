@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.748, de 2023-10-23
-
 LEI MUNICIPAL Nº 3.748, DE 23 DE OUTUBRO DE 2023
 
 Dispõe sobre a criação do Fundo Municipal de Segurança Pública de Aparecida de Goiânia (FMSP) e dá outras providências.

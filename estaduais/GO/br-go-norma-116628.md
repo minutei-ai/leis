@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.974, de 2026-08-11
-
 DECRETO Nº 10.974, DE 11 DE AGOSTO DE 2026
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), da mesma data, que estabelece a organização administrativa básica do Poder Executivo, e o Regulamento da Secretaria de Estado da Administração – SEAD, aprovado pelo [Decreto nº 10.437](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108665), de 9 de abril de 2024.

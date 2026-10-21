@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.732, de 2008-04-23
-
 LEI MUNICIPAL Nº. 2.732, DE 23 DE ABRIL DE 2008.
 
 Dá nova alteração ao anexo X, da Lei Municipal nº 2.606, de 26 de setembro de 2006- Plano de Cargos e Salários dos Servidores da Secretaria Municipal de Educação e dá providências.

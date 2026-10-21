@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.872, de 2026-03-10
-
 DECRETO Nº 10.872, DE 10 DE MARÇO DE 2026
 
 Institui a Política Estadual de Energia e estabelece sua estrutura de governança e as diretrizes de implementação.

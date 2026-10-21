@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.193, de 2021-11-08
-
 LEI Nº 7.193, DE 08 DE NOVEMBRO DE 2021
 
 Institui a Semana da Adoção Responsável de Animais no Município de Rio Verde-GO e dá outras providências.

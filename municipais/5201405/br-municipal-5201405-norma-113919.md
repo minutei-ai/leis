@@ -1,5 +1,3 @@
-# Decreto Numerado nº 343, de 2024-05-08
-
 DECRETO “N” Nº 343, DE 08 DE MAIO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidora da Secretaria Municipal de Educação.

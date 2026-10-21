@@ -1,5 +1,3 @@
-# Medida Provisória nº 490 de 07/06/2010
-
 ###MPV-000490-0-000-07-06-2010@@@
 
 MEDIDA PROVISÓRIA Nº 490, DE 7 DE JUNHO DE 2010.

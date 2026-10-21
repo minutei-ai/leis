@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.067, de 2025-08-29
-
 DECRETO Nº 2.067, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento de imóvel, localizado na Rua 105, Quadra 20, Lote 16, do Loteamento Alvorada Oeste, no Município de Aparecida de Goiânia.

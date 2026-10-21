@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.706, de 2023-04-11
-
 LEI MUNICIPAL Nº 3.706, DE 11 DE ABRIL DE 2023.
 
 Prorroga o prazo mencionado no caput da Lei Municipal 3.379 de 13 de setembro de 2017, para a edificação da sede administrativa das Promotorias de Justiça no Município de Aparecida de Goiânia e dá outras providências.

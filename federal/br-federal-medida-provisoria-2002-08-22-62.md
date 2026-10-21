@@ -1,5 +1,3 @@
-# Medida Provisória nº 62 de 22/08/2002
-
 ###MPV-000062-0-000-22-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 62, DE 22 DE AGOSTO DE 2002

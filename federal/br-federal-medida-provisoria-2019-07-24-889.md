@@ -1,5 +1,3 @@
-# Medida Provisória nº 889 de 24/07/2019
-
 MEDIDA PROVISÓRIA Nº 889, DE 24 DE JULHO DE 2019
 
 Altera a [Lei Complementar nº 26, de 11 de setembro de 1975](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei.complementar:1975-09-11;26), para dispor sobre a possibilidade de movimentação das contas do Programa de Integração Social - PIS e do Programa de Formação do Patrimônio do Servidor Público - Pasep, e a [Lei nº 8.036, de 11 de maio de 1990](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1990-05-11;8036), para instituir a modalidade de saque-aniversário no Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.669, de 2022-05-19
-
 LEI MUNICIPAL Nº 3.669, DE 19 DE MAIO DE 2022.
 
 Dispõe sobre o Sistema Municipal de Cultura de Aparecida de Goiânia, seus princípios, objetivos, estrutura, organização, gestão, interrelações entre os seus componentes, recursos humanos, financiamento e dá outras providências.

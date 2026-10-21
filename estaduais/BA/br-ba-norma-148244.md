@@ -1,5 +1,3 @@
-# LEI Nº 15.124 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.124 DE 28 DE JANEIRO DE 2026
 
 Outorga ao município de Porto Seguro o título de "Capital Baiana do Turismo”, e dá outras providências.

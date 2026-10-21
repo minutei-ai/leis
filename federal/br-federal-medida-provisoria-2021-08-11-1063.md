@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.063 de 11/08/2021
-
 MEDIDA PROVISÓRIA Nº 1.063, DE 11 DE AGOSTO DE 2021
 
 Altera a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 9.718, de 27 de novembro de 1998, para dispor sobre as operações de compra e venda de álcool, a comercialização de combustíveis por revendedor varejista e a incidência da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins nas referidas operações.

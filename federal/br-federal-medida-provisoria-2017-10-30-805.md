@@ -1,5 +1,3 @@
-# Medida Provisória nº 805 de 30/10/2017
-
 MEDIDA PROVISÓRIA Nº 805, DE 30 DE OUTUBRO DE 2017
 
 Posterga ou cancela aumentos remuneratórios para os exercícios subsequentes, altera a [Lei nº 8.112, de 11 de dezembro de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-11;8112), que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, e a [Lei nº 10.887, de 18 de junho de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-06-18;10887), quanto à alíquota da contribuição social do servidor público e a outras questões.

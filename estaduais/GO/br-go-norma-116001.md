@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.404, de 2026-06-29
-
 LEI Nº 24.404, DE 29 DE JUNHO DE 2026
 
 Altera a [Lei nº 17.866](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89860), de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar do Estado de Goiás e dá outras providências.

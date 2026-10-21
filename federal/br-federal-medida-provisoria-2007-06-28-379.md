@@ -1,5 +1,3 @@
-# Medida Provisória nº 379 de 28/06/2007
-
 ###MPV-000379-0-000-28-06-2007@@@
 
 MEDIDA PROVISÓRIA Nº 379, DE 28 DE JUNHO DE 2007.

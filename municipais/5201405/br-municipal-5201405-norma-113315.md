@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.331, de 2025-09-30
-
 DECRETO Nº 2.331, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 15, situado à Rua Assunção, no Loteamento Setor Aeroporto Sul 2ª Etapa, no Município de Aparecida de Goiânia.

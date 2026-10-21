@@ -1,5 +1,3 @@
-# Decreto Numerado nº 306, de 2023-05-16
-
 DECRETO “N” Nº 306 DE 16 DE MAIO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento PARQUE IBIRAPUERA, neste município.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.543, de 2024-02-15
-
 LEI Nº 22.543, DE 15 DE FEVEREIRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

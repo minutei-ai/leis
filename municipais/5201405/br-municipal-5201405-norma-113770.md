@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.352, de 2017-04-20
-
 LEI MUNICIPAL Nº 3.352, DE 20 DE ABRIL DE 2017.<br>
 (Revogada pela Lei Ordinária nº 3.548, de 6 de abril de 2020)
 

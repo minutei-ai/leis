@@ -1,5 +1,3 @@
-# Decreto Numerado nº 572, de 2024-07-11
-
 DECRETO “N” Nº 572 DE 11 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

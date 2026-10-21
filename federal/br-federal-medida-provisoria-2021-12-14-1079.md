@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.079 de 14/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.079, DE 14 DE DEZEMBRO DE 2021
 
 Dispõe sobre a prorrogação excepcional de prazos de isenção, de redução a zero de alíquotas ou de suspensão de tributos em regimes especiais de drawback.

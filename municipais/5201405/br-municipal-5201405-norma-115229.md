@@ -1,5 +1,3 @@
-# Decreto Numerado nº 456, de 2026-06-09
-
 DECRETO Nº 456, DE 9 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 43, situado à Rua Júlio Cesar, no Loteamento Villa Deifiore, no Município de Aparecida de Goiânia.

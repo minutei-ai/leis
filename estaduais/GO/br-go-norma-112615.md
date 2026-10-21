@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.055, de 2026-01-30
-
 LEI Nº 24.055, DE 30 DE JANEIRO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

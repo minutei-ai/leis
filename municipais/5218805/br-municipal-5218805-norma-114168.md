@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.792, de 2025-12-15
-
 LEI Nº 7.792, DE 15 DE DEZEMBRO DE 2025.
 
 Autoriza a concessão de licença remunerada a docente para cursar pós-doutorado.

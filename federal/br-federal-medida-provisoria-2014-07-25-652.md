@@ -1,5 +1,3 @@
-# Medida Provisória nº 652 de 25/07/2014
-
 MEDIDA PROVISÓRIA Nº 652, DE 25 DE JULHO DE 2014
 
 Cria o Programa de Desenvolvimento da Aviação Regional.

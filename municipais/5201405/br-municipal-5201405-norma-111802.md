@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.862, de 2025-10-14
-
 LEI Nº 3.862, DE 14 DE OUTUBRO DE 2025
 
 Institui o ‘Selo Amigo do Idoso’ para empresas que contratarem pessoas com idade igual ou superior a 60 anos e dá outras providencias.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 83, de 2014-03-20
-
 LEI COMPLEMENTAR Nº 83, DE 20 DE MARÇO DE 2014.
 
 Altera a Lei Complementar nº 003/2001, que dispõe sobre o Estatuto dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia, Lei Complementar 015/2008, que dispõe sobre a Organização da Procuradoria Geral do Município, e Lei Complementar nº 064/2012, que altera a Estrutura Organizacional da Prefeitura, e dá outras providências no tocante às disposições referentes à Comissão Disciplinar do Município.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 301, de 2026-04-16
-
 DECRETO Nº 301, DE 16 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 08 e 09, situados à Rua JI-52, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia. O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município; tendo em vista o disposto na Lei federal nº 6.766, de 19 de dezembro de 1979; na Lei Complementar nº 124, de 14 de dezembro de 2016; e no contido no Processo nº 2025.438.465,

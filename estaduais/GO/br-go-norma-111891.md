@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.964, de 2025-12-20
-
 LEI Nº 23.964, DE 20 DE DEZEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica com patrimônio cultural imaterial goiano.

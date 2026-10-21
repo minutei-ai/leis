@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.610, de 2024-12-18
-
 DECRETO Nº 10.610 , DE 18 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 10.089](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105598), de 17 de maio de 2022, que dispõe sobre a transferência de crédito acumulado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS na situação que especifica.

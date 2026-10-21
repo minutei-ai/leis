@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.402, de 2018-01-29
-
 LEI MUNICIPAL Nº 3.402, DE 29 DE JANEIRO DE 2018
 
 Altera as Leis nos 3.385/2017 e 3.391/2017.

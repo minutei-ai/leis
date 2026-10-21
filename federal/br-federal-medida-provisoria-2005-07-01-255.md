@@ -1,5 +1,3 @@
-# Medida Provisória nº 255 de 01/07/2005
-
 ###MPV-000255-0-000-01-07-2005@@@
 
 MEDIDA PROVISÓRIA Nº 255, DE 1º DE JULHO DE 2005.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 29, de 2026-01-12
-
 DECRETO Nº 029, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 38, situado à Rua Dona Adelaide Monclar, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

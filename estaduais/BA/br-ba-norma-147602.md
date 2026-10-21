@@ -1,5 +1,3 @@
-# LEI Nº 14.971 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.971 DE 08 DE SETEMBRO DE 2025
 
 Dispõe sobre remissão e redução de multas e acréscimos moratórios de débitos tributários do Imposto sobre a Propriedade de Veículos Automotores - IPVA, remissão parcial de débitos tributários da Taxa de Licenciamento Anual de Veículos Automotores na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 25, de 2018-01-19
-
 DECRETO “N” Nº 25, DE 19 DE JANEIRO DE 2018
 
 Regulamenta a Lei Municipal nº 3.017, de 21 de dezembro de 2011, que autoriza o Poder Executivo a outorgar concessões remuneradas para a exploração do serviço funerário no Município de Aparecida de Goiânia e dá outras providências.

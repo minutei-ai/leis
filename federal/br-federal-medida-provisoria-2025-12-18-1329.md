@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.329 de 18/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.329, DE 18 DE DEZEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 59.356.642,00, para os fins que especifica.

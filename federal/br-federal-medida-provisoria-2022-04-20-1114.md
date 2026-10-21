@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.114 de 20/04/2022
-
 MEDIDA PROVISÓRIA Nº 1.114, DE 20 DE ABRIL DE 2022
 
 Altera a Lei nº 11.977, de 7 de julho de 2009, a Lei nº 14.118, de 12 de janeiro de 2021, a Lei nº 12.087, de 11 de novembro de 2009, e a Lei nº 14.042, de 19 de agosto de 2020, que dispõem sobre o Fundo Garantidor de Habitação Popular, a participação da União em fundos garantidores de risco de crédito para micro, pequenas e médias empresas, e o Programa Emergencial de Acesso a Crédito.

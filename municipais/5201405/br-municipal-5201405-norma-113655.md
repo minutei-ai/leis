@@ -1,5 +1,3 @@
-# Decreto Numerado nº 250, de 2026-03-25
-
 DECRETO Nº 250, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Campo Grande, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

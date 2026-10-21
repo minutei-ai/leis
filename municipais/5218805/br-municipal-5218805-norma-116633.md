@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.116, de 2020-12-21
-
 LEI Nº 7.116, DE 21 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 5.907/2011, que define as obrigações de pequeno valor para fins de pagamento por RPV.

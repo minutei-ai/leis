@@ -1,5 +1,3 @@
-# Lei Complementar nº 262, de 2022-09-26
-
 LEI COMPLEMENTAR Nº 262, DE 26 DE SETEMBRO DE 2022.
 
 Extingue o cargo de Agente de Proteção da Aviação Civil - APAC.

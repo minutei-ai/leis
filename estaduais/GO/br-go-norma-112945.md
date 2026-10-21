@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.097, de 2026-02-13
-
 LEI Nº 24.097, DE 13 DE FEVEREIRO DE 2026
 
 Veda a realização, a contratação, o apoio ou o patrocínio aos eventos ou às manifestações artísticas que especifica. 

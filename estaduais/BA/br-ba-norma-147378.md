@@ -1,5 +1,3 @@
-# LEI Nº 14.950 DE 1º DE JULHO DE 20255
-
 LEI Nº 14.950 DE 1º DE JULHO DE 20255
 
 Declara de utilidade pública a Associação Bicharada de Itabuna, com sede e foro no município de Itabuna.

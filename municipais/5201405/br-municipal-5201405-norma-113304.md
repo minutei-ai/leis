@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.320, de 2025-09-29
-
 DECRETO Nº 2.320, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, da Quadra 154, situado à Avenida Duque de Caxias, no Loteamento Setor Garavelo, no Município de Aparecida de Goiânia.

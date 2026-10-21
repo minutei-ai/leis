@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.703, de 2024-05-20
-
 LEI Nº 22.703, DE 20 DE MAIO DE 2024
 
 Institui a Política Estadual contra o Etarismo e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 438, de 2024-06-10
-
 DECRETO “N” Nº 438 DE 10 DE JUNHO DE 2024.<br>
 (Revogado pelo Decreto "N" nº 616, de 31 de julho de 2024).
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.950, de 2024-08-28
-
 LEI Nº 22.950, DE 28 DE AGOSTO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Sebastião, realizada no Município de Silvânia/GO.

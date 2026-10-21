@@ -1,5 +1,3 @@
-# LD Nº 59 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 59 DE 01 DE JUNHO DE 1983
 
 Altera a [Lei Delegada nº 42, de 17 de março de 1983](https://www.legislabahia.ba.gov.br/documentos/ld-no-42-de-17-de-marco-de-1983#LD_42) , e dá outras providências.

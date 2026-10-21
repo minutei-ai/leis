@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.677, de 2022-09-13
-
 LEI MUNICIPAL Nº 3.677 DE 13 DE SETEMBRO DE 2022.
 
 Dispõe sobre a denominação da Praça Miguel Frutuoso Duarte no Jardim Alto Paraíso neste município e dá outras providências.

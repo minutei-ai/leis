@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.377, de 2025-10-07
-
 DECRETO Nº 2.377, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 14 e 15, Todos da Quadra 21, situado à Avenida Rio Branco, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

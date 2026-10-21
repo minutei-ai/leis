@@ -1,5 +1,3 @@
-# Medida Provisória nº 172 de 10/03/2004
-
 ###MPV-000172-0-000-10-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 172, DE 10 DE MARÇO 2004.

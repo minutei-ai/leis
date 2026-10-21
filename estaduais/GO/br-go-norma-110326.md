@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.196, de 2025-01-06
-
 LEI Nº 23.196, DE 6 DE JANEIRO DE 2025
 
 Assegura direitos, nas unidades da rede pública estadual de saúde, à mulher que sofra perda gestacional ou neonatal.

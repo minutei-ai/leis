@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.609, de 2025-02-24
-
 LEI N° 7.609, DE 24 DE FEVEREIRO DE 2025.
 
 Autoriza a desafetação de áreas de propriedade do Poder Público objetivando a dação em pagamento em razão de desapropriação.

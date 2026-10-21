@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.722, de 2025-07-07
-
 DECRETO Nº 10.722, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o cálculo e a divulgação anual da estimativa do Resultado Fiscal Estrutural do Estado de Goiás, sob a responsabilidade do Instituto Mauro Borges de Pesquisa e Política Econômica.

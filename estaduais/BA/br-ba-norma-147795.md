@@ -1,5 +1,3 @@
-# LEI Nº 15.013 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.013 DE 28 DE OUTUBRO DE 2025
 
 Estabelece percentual a título de revisão geral anual incidente sobre os vencimentos e gratificações dos cargos efetivos, cargos em comissão, funções gratificadas, proventos e pensões dos servidores do Tribunal de Contas dos Municípios do Estado da Bahia.

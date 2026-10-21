@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.560, de 2024-03-14
-
 LEI Nº 22.560, DE 14 DE MARÇO DE 2024
 
 Institui o Programa Bolsa-Uniforme na Polícia Militar do Estado de Goiás.

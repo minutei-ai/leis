@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3223, de 2014-10-09
-
 LEI MUNICIPAL 3.223, DE 09 DE OUTUBRO DE 2014.
 
 Dispõe sobre a obrigatoriedade de leitor ótico para conferência de lançamento de consumo no âmbito dos estabelecimentos comerciais situados no Município de Aparecida de Goiânia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.009, de 2025-12-30
-
 LEI Nº 24.009, DE 30 DE DEZEMBRO DE 2025
 
 Dá denominação ao próprio público que especifica.

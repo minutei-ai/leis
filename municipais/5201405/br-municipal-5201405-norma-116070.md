@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.381, de 2017-09-22
-
 LEI MUNICIPAL Nº 3.381, DE 21 DE SETEMBRO DE 2017
 
 Altera a Lei Municipal nº 3.155, de 30 de dezembro de 2013, que dispõe sobre o Programa Municipal de Parceria Público-Privada, cria o Comitê Gestor de Parceria Público-Privada no Município de Aparecida de Goiânia – CGPPP – e autoriza o Poder Executivo a instituir o Fundo de Garantia de Parceria Público-Privada Municipal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.878, de 2025-12-15
-
 LEI Nº 3.878, DE 15 DE DEZEMBRO DE 2025
 
 Desafeta e autoriza a doação de Área Pública Municipal ao Estado de Goiás, para a finalidade que especifica. 

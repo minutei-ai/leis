@@ -1,5 +1,3 @@
-# LEI Nº 14.966 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.966 DE 08 DE SETEMBRO DE 2025
 
 Altera a Lei nº [11.367](https://www.legislabahia.ba.gov.br/documentos/lei-no-11367-de-02-de-fevereiro-de-2009), de 02 de fevereiro de 2009, na forma que indica, e dá outras providências.

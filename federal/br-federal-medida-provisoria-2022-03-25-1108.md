@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.108 de 25/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.108, DE 25 DE MARÇO DE 2022
 
 Dispõe sobre o pagamento de auxílio-alimentação de que trata o § 2º do art. 457 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e altera a Lei nº 6.321, de 14 de abril de 1976, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1943.

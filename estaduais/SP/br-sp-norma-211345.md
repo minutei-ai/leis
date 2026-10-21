@@ -1,5 +1,3 @@
-# Lei nº 18.182, de 21/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211345)<br>
 
 # LEI N° 18.182, DE 21 DE AGOSTO DE 2025

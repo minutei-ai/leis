@@ -1,5 +1,3 @@
-# Decreto Numerado nº 74, de 2024-02-09
-
 DECRETO “N” Nº 74 DE 09 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

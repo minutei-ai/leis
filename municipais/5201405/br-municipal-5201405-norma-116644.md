@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.439, de 2018-10-18
-
 LEI Nº 3.439, DE 18 DE OUTUBRO DE 2018
 
 Reconhece de Utilidade Pública Municipal o NÚCLEO ESPÍRITA CRISTÃO EURÍPEDES BARSANULFO e dá outras providências.

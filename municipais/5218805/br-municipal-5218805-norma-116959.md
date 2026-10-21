@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.890, de 2026-08-18
-
 **LEI Nº 7.890, DE 18 DE AGOSTO DE 2026.**
 
 Autoriza desafetação e alienação de imóvel público por investidura, localizado no Bairro Martins.

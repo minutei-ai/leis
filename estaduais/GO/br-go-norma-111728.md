@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.827, de 2025-12-08
-
 DECRETO Nº 10.827, DE 8 DE DEZEMBRO DE 2025
 
 Regulamenta a [Lei nº 23.864](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111612), de 24 de novembro de 2025, que cria o Programa Estadual de Inclusão ao Esporte – PRÓ-GOIÁS ESPORTE, vinculado à Secretaria de Estado de Esporte e Lazer – SEEL.

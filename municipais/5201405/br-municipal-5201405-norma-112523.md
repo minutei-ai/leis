@@ -1,5 +1,3 @@
-# Decreto Numerado nº 93, de 2026-01-27
-
 DECRETO Nº 093, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Lirida Callou Araruna, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

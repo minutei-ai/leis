@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.654, de 2022-01-27
-
 LEI MUNICIPAL Nº 3.654, DE 27 DE JANEIRO DE 2022.
 
 Institui no Município de Aparecida de Goiânia, a Semana Municipal do Lixo Zero.

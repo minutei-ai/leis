@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.810, de 2024-06-26
-
 LEI Nº 22.810, DE 26 DE JUNHO DE 2024
 
 Estabelece o dever de informação ao consumidor sobre a política de cancelamento e reembolso de pacote turístico.

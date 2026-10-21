@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.338, de 2016-11-09
-
 LEI MUNICIPAL Nº 3.338, DE 09 DE NOVEMBRO DE 2016.
 
 Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária para o exercício de 2017 e dá outras providências.

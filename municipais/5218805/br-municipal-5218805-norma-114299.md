@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.595, de 2009-05-26
-
 <br>
 LEI complementar Nº  5.595, DE 26 DE MAIO DE 2009.
 

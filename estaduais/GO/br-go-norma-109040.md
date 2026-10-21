@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.808, de 2024-06-25
-
 LEI Nº 22.808, DE 25 DE JUNHO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho, realizada no Município de Jataí/GO.

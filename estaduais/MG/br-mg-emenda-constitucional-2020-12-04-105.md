@@ -1,5 +1,3 @@
-# EMC nº 105, de 04/12/2020
-
 Dá nova redação ao inciso IX do caput do art. 10 e acrescenta o § 5º ao art. 231 da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

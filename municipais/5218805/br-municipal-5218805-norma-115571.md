@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.320, de 2023-02-17
-
 LEI N° 7.320, DE 17 DE FEVEREIRO DE 2023
 
 Autoriza o Poder Executivo a conceder o direito real de uso à Cooperativa de Trabalho dos Catadores de Material de Reciclagem em Geral do sudoeste Goiano.

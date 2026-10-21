@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.458, de 2024-04-30
-
 DECRETO Nº 10.458, DE 30 DE ABRIL DE 2024
 
 Institui o Bônus por Resultado aos profissionais da educação e aos servidores administrativos lotados na Secretaria de Estado da Educação, com o pagamento no mês de dezembro de 2024.

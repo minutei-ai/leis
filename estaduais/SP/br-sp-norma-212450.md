@@ -1,5 +1,3 @@
-# Decreto nº 70.518, de 07/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212450)<br>
 
 # DECRETO N° 70.518, DE 07 DE ABRIL DE 2026

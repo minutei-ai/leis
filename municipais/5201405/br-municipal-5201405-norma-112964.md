@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.046, de 2025-08-25
-
 DECRETO Nº 2.046, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, da Quadra 17, situado à Avenida A, no Loteamento Setor Conde dos Arcos, no Município de Aparecida de Goiânia.

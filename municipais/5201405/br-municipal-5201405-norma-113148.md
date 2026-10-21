@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.680, de 2025-11-27
-
 DECRETO Nº 2.680, DE 27 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua Sapucaia, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

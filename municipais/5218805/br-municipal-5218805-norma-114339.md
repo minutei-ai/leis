@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.702, de 2025-10-31
-
 LEI Nº 7.702, DE 21 DE AGOSTO DE 2025.
 
 Dispõe sobre a denominação do ginásio de esportes localizado na Praça do Bairro Serpró, no Município de Rio Verde – GOIÁS, como “Ginásio De Esportes Ricardo Romualdo Pereira Macedo” e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.103 de 15/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.103, DE 15 DE MARÇO DE 2022
 
 Dispõe sobre a emissão de Letra de Risco de Seguro por meio de Sociedade Seguradora de Propósito Específico, as regras gerais aplicáveis à securitização de direitos creditórios e à emissão de Certificados de Recebíveis, e a flexibilização do requisito de instituição financeira para a prestação do serviço de escrituração e de custódia de valores mobiliários.

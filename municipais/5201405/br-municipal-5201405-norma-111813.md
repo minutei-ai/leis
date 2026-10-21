@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.851, de 2025-09-05
-
 LEI Nº 3.851, DE 5 DE SETEMBRO DE 2025
 
 Institui a Política Municipal de Arborização Urbana no município de Aparecida de Goiânia e estabelece diretrizes para sua implementação e dá outras providências.

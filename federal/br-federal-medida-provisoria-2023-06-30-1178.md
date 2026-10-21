@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.178 de 30/06/2023
-
 MEDIDA PROVISÓRIA Nº 1.178, DE 30 DE JUNHO DE 2023
 
 Altera a [Medida Provisória nº 1.175, de 5 de junho de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2023-06-05;1175), para ampliar os recursos disponíveis para desconto patrocinado na aquisição de automóvel ou veículo comercial leve sustentável novo, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.532, de 2025-10-29
-
 DECRETO Nº 2.532, DE 29 DE OUTUBRO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Retiro do Bosque no Município de Aparecida de Goiânia.

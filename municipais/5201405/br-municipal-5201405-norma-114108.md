@@ -1,5 +1,3 @@
-# Decreto Numerado nº 906, de 2024-10-29
-
 DECRETO “N” Nº 906, DE 29 DE OUTUBRO DE 2024.
 
 Altera o Decreto “N” nº 412 de 29 de maio de 2024 que trata da nomeação e recondução de membros do Conselho Municipal de Previdência de Aparecida de Goiânia. 

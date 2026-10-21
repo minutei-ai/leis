@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.496, de 2005-03-04
-
 lei municipal nº 2.496, de 04 de março de 2005.
 
 Altera o Anexo I, da Lei Municipal Mº 2.229/01, a qual dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia. 

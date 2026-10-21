@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.965, de 2024-09-02
-
 LEI Nº 22.965, DE 2 DE SETEMBRO DE 2024
 
 Dispõe sobre o regime jurídico dos servidores públicos do Ministério Público do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 2 de 24/09/2001
-
 ###MPV-000002-0-000-24-09-2001@@@
 
 MEDIDA PROVISÓRIA Nº 2, DE 24 DE SETEMBRO DE 2001.

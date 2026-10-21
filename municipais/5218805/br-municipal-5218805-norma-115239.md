@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.426, de 2023-10-02
-
 LEI N° 7.426, DE O2 DE OUTUBRO DE 2023.<br>
       
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.172, de 2024-12-26
-
 LEI Nº 23.172, DE 26 DE DEZEMBRO DE 2024
 
 Dá denominação ao próprio público que especifica.

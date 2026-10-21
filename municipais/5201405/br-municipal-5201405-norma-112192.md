@@ -1,5 +1,3 @@
-# Decreto Numerado nº 34, de 2026-01-13
-
 DECRETO Nº 034, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 28, situado à Avenida Rui Barbosa, no Loteamento Parque Montreal, no Município de Aparecida de Goiânia.

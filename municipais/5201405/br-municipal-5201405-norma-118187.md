@@ -1,5 +1,3 @@
-# Decreto Numerado nº 407, de 2023-06-22
-
 DECRETO “N” Nº 407 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

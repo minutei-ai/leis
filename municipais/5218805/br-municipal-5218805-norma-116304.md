@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.292, de 2022-09-08
-
 LEI N°. 7.292, DE 8 DE SETEMBRO DE 2022
 
 Autoriza o Poder Executivo a indenizar imóveis, corresponde à desapropriação realizada pelo Município.

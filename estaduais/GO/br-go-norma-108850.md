@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.468, de 2024-05-20
-
 DECRETO Nº 10.468, DE 20 DE MAIO DE 2024
 
 Dispõe sobre a aplicação do procedimento de _due diligence_ nas contratações realizadas pela administração pública direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

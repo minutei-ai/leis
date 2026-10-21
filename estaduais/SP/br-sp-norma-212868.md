@@ -1,5 +1,3 @@
-# Decreto nº 70.780, de 04/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212868)<br>
 
 # DECRETO N° 70.780, DE 04 DE AGOSTO DE 2026

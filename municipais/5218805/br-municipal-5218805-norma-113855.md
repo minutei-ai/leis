@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.842, de 2026-03-23
-
 LEI Nº 7.842, DE 23 DE MARÇO DE 2026.
 
 Dispõe sobre a instituição do “Dia Municipal do Forró” no município de Rio Verde – GO, e dá outras providências.

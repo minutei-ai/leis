@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.788, de 2025-12-15
-
 LEI Nº 7.788, DE 15 DE DEZEMBRO DE 2025.
 
 Altera a Lei nº 7.582, de 16 de dezembro de 2024, que institui o Serviço de Acolhimento em Família Acolhedora no Município de Rio Verde – GO.

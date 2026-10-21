@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.598, de 2020-12-21
-
 LEI MUNICIPAL Nº 3.598, DE 21 DE DEZEMBRO DE 2020.
 
 "Autoriza o Poder Executivo a contratar em Parceria Público-Privada – PPP, precedida de licitação na modalidade de concorrência, a concessão de serviços de Iluminação Pública no Município de Aparecida de Goiânia, nos termos da Lei nº 11.079, de 30 de dezembro de 2004 e Lei nº 8.987, de 13 de fevereiro de 1995 e dá outras providências."

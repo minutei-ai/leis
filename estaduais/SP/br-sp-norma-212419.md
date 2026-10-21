@@ -1,5 +1,3 @@
-# Decreto nº 70.497, de 30/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212419)<br>
 
 # DECRETO N° 70.497, DE 30 DE MARÇO DE 2026

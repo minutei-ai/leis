@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.208, de 2014-08-15
-
 LEI MUNICIPAL Nº 3.208, DE 15 DE AGOSTO DE 2014.
 
 Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária para o exercício de 2015 e dá outras providências.

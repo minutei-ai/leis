@@ -1,5 +1,3 @@
-# Decreto Numerado nº 656, de 2024-08-15
-
 DECRETO “N” Nº 656 DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 683, de 2023-11-06
-
 DECRETO “N” Nº 683, DE 06 DE NOVEMBRO DE 2023.<br>
 (Revogado pelo Decreto "N" Nº 163, de 22 de março de 2024).
 

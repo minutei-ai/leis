@@ -1,5 +1,3 @@
-# Decreto Numerado nº 264, de 2026-03-31
-
 DECRETO Nº 264, DE 31 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Avenida Topásio, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

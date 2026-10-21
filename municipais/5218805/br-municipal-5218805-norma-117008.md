@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.896, de 2026-08-18
-
 **LEI Nº 7.896, DE 18 DE AGOSTO DE 2026.**
 
 Autoriza desafetação e alienação de imóvel público localizado no Parque Solar do Agreste, sob a Matrícula nº 112.783.

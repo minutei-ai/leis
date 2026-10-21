@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.410, de 2023-08-28
-
 **LEI N° 7.410, DE 28 DE AGOSTO DE 2023.**
 
 Dispõe sobre a obrigatoriedade de instalação de sistema de segurança e monitoramento por câmeras de vídeo nas áreas externas das instituições bancárias, financeiras, lotéricas, correspondentes bancários e demais estabelecimentos que tenham caixa eletrônico, banco 24 horas ou que possuam agências ou postos de atendimento localizados no município de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# LEI Nº 15.067 DE 19 DE DEZEMBRO DE 2025
-
 LEI Nº 15.067 DE 19 DE DEZEMBRO DE 2025
 
 Autoriza o Poder Executivo a contratar operação de crédito interno, na forma que indica, e dá outras providências.

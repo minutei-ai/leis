@@ -1,5 +1,3 @@
-# Decreto Numerado nº 109, de 2026-01-29
-
 DECRETO Nº 109, DE 29 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua 126, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

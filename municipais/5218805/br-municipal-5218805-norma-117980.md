@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.809, de 2010-06-16
-
 LEI COMPLEMENTAR Nº  5.809, DE 16 DE JUNHO DE 2010.
 
 Altera a Lei Complementar n. 5.727/2009,Código Tributário do Município.

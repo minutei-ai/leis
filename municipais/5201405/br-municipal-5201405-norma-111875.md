@@ -1,5 +1,3 @@
-# Lei Complementar nº 210, de 2023-05-25
-
 LEI COMPLEMENTAR N° 210, DE 25 DE MAIO DE 2023.
 
 Altera o art. 58 da Lei Complementar nº 003, de 28 de dezembro de 2001, que dispõe sobre o Estatuto dos Servidores da Prefeitura de Aparecida de Goiânia.

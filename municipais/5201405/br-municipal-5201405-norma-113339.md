@@ -1,5 +1,3 @@
-# Lei Complementar nº 20, de 2009-10-27
-
 LEI COMPLEMENTAR Nº 020, DE 27 DE OUTUBRO DE 2009.<br>
 (Revogada pela Lei Complementar nº 023, de 24 de junho de 2010)
 

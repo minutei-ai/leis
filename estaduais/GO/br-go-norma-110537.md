@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.662, de 2025-03-31
-
 DECRETO Nº 10.662, DE 31 DE MARÇO DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), da mesma data, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

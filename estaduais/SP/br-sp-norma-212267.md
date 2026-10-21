@@ -1,5 +1,3 @@
-# Decreto nº 70.402, de 26/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212267)<br>
 
 # DECRETO N° 70.402, DE 26 DE FEVEREIRO DE 2026

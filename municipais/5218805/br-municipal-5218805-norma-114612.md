@@ -1,5 +1,3 @@
-# Lei Complementar nº 102, de 2017-09-28
-
 LEI COMPLEMENTAR Nº 102, DE 28 DE NOVEMBRO DE 2017.
 
 Altera a Lei n. 3.635/1998.

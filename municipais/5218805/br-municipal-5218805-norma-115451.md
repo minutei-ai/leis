@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.338, de 2023-03-30
-
 LEI Nº 7.338, DE 30 DE MARÇO DE 2023
 
 Altera a denominação das unidades escolares pertencentes à Rede Pública Municipal de Educação de Rio Verde/GO.

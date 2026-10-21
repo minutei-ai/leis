@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.382, de 2025-04-30
-
 LEI Nº 23.382, DE 30 DE ABRIL DE 2025
 
 Altera a [Lei nº 12.121](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83514), de 5 de outubro de 1993, que concede estímulos especiais aos doadores voluntários e sistemáticos de sangue e aos doadores voluntários de medula óssea e de órgãos, domiciliados no Estado de Goiás, nas condições que especifica.

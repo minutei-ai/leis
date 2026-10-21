@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.074 de 11/11/2021
-
 MEDIDA PROVISÓRIA Nº 1.074, DE 11 DE NOVEMBRO DE 2021
 
 Altera a Lei nº 14.113, de 25 de dezembro de 2020, para dispor sobre a disponibilização de informações e dados contábeis, orçamentários e fiscais pelos entes federativos.

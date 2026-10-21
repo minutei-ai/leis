@@ -1,5 +1,3 @@
-# EMC nº 109, de 12/07/2021
-
 Altera o art. 161 da Constituição do Estado e acrescenta os arts. 156 e 157 ao Ato das Disposições Constitucionais Transitórias da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

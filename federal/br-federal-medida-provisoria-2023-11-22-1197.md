@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.197 de 22/11/2023
-
 MEDIDA PROVISÓRIA Nº 1.197, DE 22 DE NOVEMBRO DE 2023
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 879.245.007,00, para o fim que especifica.

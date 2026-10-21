@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.456, de 2025-10-16
-
 DECRETO Nº 2.456, DE 16 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, da Quadra 128, situado à Rua Rio Grande do Sul com a Avenida dos Imigrantes, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

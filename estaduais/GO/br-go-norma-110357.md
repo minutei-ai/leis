@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.209, de 2025-01-09
-
 LEI Nº 23.209, DE 9 DE JANEIRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o “Goiânia Art Déco Festival”, realizado no Município de Goiânia/GO.

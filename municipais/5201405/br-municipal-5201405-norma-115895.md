@@ -1,5 +1,3 @@
-# Decreto Numerado nº 603, de 2024-07-24
-
 DECRETO “N” Nº 603 DE 24 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

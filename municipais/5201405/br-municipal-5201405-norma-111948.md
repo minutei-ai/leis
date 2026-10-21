@@ -1,5 +1,3 @@
-# Lei Complementar nº 248, de 2025-12-11
-
 LEI COMPLEMENTAR Nº 248, DE 11 DE dezembro DE 2025
 
 Altera dispositivos da Lei Complementar nº 46, de 21 de dezembro de 2011, que institui o Código Tributário do Município de Aparecida de Goiânia, e dá outras providências.

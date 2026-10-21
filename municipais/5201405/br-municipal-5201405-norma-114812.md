@@ -1,5 +1,3 @@
-# Decreto Numerado nº 184, de 2024-03-24
-
 DECRETO “N” Nº 184 DE 24 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

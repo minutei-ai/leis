@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.743, de 2025-07-29
-
 DECRETO Nº 10.743, DE 29 DE JULHO DE 2025
 
 Confere a Comenda da Ordem do Mérito Anhanguera às autoridades que especifica.

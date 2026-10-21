@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.081 de 20/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.081, DE 20 DE DEZEMBRO DE 2021
 
 Autoriza o Poder Executivo federal a doar imunizantes contra a covid-19 a outros países em caráter de cooperação humanitária internacional.

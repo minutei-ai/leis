@@ -1,5 +1,3 @@
-# LEI Nº 14.818 DE 23 DE JANEIRO DE 2025
-
 LEI Nº 14.818 DE 23 DE JANEIRO DE 2025
 
 Reajusta os vencimentos dos cargos da carreira do Magistério Público das Universidades Estaduais, na forma que indica, e dá outras providências.

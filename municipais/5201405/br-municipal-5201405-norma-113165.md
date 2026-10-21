@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.673, de 2025-11-19
-
 DECRETO Nº 2.673, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Avenida Edilberto Veiga Jardim, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LEI Nº 15.096 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.096 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto Amigos de Santo André - IASA, com sede e foro no município de Santa Cruz de Cabrália.

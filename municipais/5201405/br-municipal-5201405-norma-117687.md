@@ -1,5 +1,3 @@
-# Decreto Numerado nº 645, de 2023-10-11
-
 DECRETO "N" N° 645 DE 11 DE OUTUBRO DE 2023.
 
 Dispõe sobre aprovação do Loteamento Industrial ZILLI – II, neste Município, e dá outras providências.

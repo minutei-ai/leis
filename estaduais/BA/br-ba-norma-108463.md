@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR N° 30 DE 03 DE JANEIRO DE 2008
-
 LEI COMPLEMENTAR N° 30 DE 03 DE JANEIRO DE 2008
 
 Dispõe sobre a inclusão dos municípios de São Sebastião do Passé e Mata de São João na Região Metropolitana de Salvador, e dá outras providências.

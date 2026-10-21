@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.390, de 2017-11-27
-
 LEI MUNICIPAL Nº 3.390, DE 27 DE NOVEMBRO DE 2017
 
 Institui o Dia Municipal da Juventude e dá outras providências.

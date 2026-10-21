@@ -1,5 +1,3 @@
-# Decreto Numerado nº 365, de 2024-05-13
-
 DECRETO “N” Nº 365 DE 13 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

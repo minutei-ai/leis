@@ -1,5 +1,3 @@
-# Decreto Numerado nº 140, de 2023-03-06
-
 DECRETO “N” Nº 140 DE 06 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM ESPLANADA, neste município.

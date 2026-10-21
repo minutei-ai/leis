@@ -1,5 +1,3 @@
-# LEI Nº 14.944 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.944 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública a União Espírita Brumadense, com sede e foro no município de Brumado.

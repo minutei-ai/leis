@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.996, de 2025-08-18
-
 DECRETO Nº 1.996, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua C-43 e Rua C-29, no Loteamento Jardim Boa Esperança – Continuação, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.570, de 2020-07-03
-
 LEI MUNICIPAL N° 3.570, DE 03 DE JULHO DE 2020.
 
 Dispõe sobre a denominação do Parque Alcina Gomes de Abreu, situado na Vila Sul, neste Município e dá outras providências.

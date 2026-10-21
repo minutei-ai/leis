@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.700, de 2024-05-20
-
 LEI Nº 22.700, DE 20 DE MAIO DE 2024
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

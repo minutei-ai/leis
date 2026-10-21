@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.589, de 2025-11-06
-
 DECRETO Nº 2.589, DE 6 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Edson Nunes, no Loteamento Real Grandeza 2ª Etapa, no Município de Aparecida de Goiânia.

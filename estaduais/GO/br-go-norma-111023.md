@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.546, de 2025-07-03
-
 LEI Nº 23.546, DE 3 DE JULHO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

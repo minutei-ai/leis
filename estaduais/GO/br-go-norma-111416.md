@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.796, de 2025-10-09
-
 DECRETO Nº 10.796 , DE 9 DE OUTUBRO DE 2025
 
 Altera o Regimento Interno do Conselho Administrativo Tributário – CAT, aprovado pelo [Decreto nº 6.930](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63840 "Abrir Decreto Numerado nº 6930, de 2009 em nova aba"), de 9 de junho de 2009.

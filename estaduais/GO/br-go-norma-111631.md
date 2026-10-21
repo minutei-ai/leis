@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.879, de 2025-11-28
-
 LEI Nº 23.879, DE 28 DE NOVEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 865 de 20/12/2018
-
 MEDIDA PROVISÓRIA Nº 865, DE 20 DE DEZEMBRO DE 2018
 
 Abre crédito extraordinário, em favor da Presidência da República, no valor de R$ 225.710.000,00, para os fins que especifica.

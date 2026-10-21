@@ -1,5 +1,3 @@
-# Lei nº 18.443, de 02/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212444)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/compilacao-lei-18443-02.04.2026.html)
 

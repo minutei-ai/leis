@@ -1,5 +1,3 @@
-# Medida Provisória nº 767 de 06/01/2017
-
 MEDIDA PROVISÓRIA Nº 767, DE 6 DE JANEIRO DE 2017
 
 Altera a [Lei nº 8.213, de 24 de julho de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213), que dispõe sobre os Planos de Benefícios da Previdência Social, e a [Lei nº 11.907, de 2 de fevereiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-02-02;11907), que dispõe sobre a reestruturação da composição remuneratória da Carreira de Perito Médico Previdenciário e da Carreira de Supervisor Médico-Pericial, e institui o Bônus Especial de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade.

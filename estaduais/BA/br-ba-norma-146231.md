@@ -1,5 +1,3 @@
-# LEI N° 14.864 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.864 DE 12 DE FEVEREIRO DE 2025
 
 Fica instituída a Semana Estadual de Conscientização sobre o Autismo, e dá outras providências.

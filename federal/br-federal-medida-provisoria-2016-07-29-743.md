@@ -1,5 +1,3 @@
-# Medida Provisória nº 743 de 29/07/2016
-
 MEDIDA PROVISÓRIA Nº 743, DE 29 DE JULHO DE 2016
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 789.947.044,00, para fim que especifica.

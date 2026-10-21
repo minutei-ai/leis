@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.951, de 1999-08-16
-
 Prefeitura Municipal de Aparecida de Goiânia
 
 LEI MUNCIPAL Nº 1.951, DE 16 DE AGOSTO DE 1.999.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.489, de 2019-07-23
-
 LEI MUNICIPAL Nº 3.489, DE 23 DE JULHO DE 2019
 
 Dispõe sobre a denominação do Viaduto da Avenida São Paulo com a Avenida Rudá localizada na Vila Brasília, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.762, de 2025-08-18
-
 DECRETO Nº 10.762, DE 18 DE AGOSTO DE 2025
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

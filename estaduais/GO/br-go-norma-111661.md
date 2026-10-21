@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.904, de 2025-12-01
-
 LEI Nº 23.904, DE 1º DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

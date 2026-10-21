@@ -1,5 +1,3 @@
-# Decreto Numerado nº 93, de 2023-02-01
-
 DECRETO “N” Nº 93 DE 01 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento VILLA ROMANA, neste município.

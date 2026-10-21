@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.407, de 2018-04-05
-
 LEI MUNICIPAL Nº 3.407, DE 05 DE ABRIL DE 2018
 
 Dispõe sobre alteração da denominação do nome da Praça João de P. Teixeira, situada na Avenida Ademar de Barros, com Rua F no Jardim Itapuã, para chamar “PRAÇA JOÃO ELIAS SOBRINHO”.

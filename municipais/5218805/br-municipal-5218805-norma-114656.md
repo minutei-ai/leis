@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.224, de 2001-12-14
-
 LEI Nº 4.224, DE 14 DE DEZEMBRO DE 2001.
 
 Modifica a Lei n. 3.633, de 04 de março de 1998 - Lei de Parcelamento do Solo Urbano.

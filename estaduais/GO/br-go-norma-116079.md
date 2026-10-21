@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.408, de 2026-07-03
-
 LEI Nº 24.408, DE 3 DE JULHO DE 2026
 
 Autoriza o Poder Executivo estadual a instituir a Agência Goiana de Promoção de Investimentos, Competitividade e Inovação – INVEST GO.

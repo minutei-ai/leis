@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.444, de 2024-04-19
-
 DECRETO Nº 10.444, DE 19 DE ABRIL DE 2024<br>
 \- [Revogado pelo Decreto nº 10.910, de 18-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114578), art.75.
 

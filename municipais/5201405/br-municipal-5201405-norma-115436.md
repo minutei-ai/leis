@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.683, de 2022-11-09
-
 LEI MUNICIPAL Nº 3.683 DE 09 DE NOVEMBRO DE 2022.
 
 Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2023.

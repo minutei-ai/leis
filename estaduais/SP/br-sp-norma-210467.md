@@ -1,5 +1,3 @@
-# Decreto nº 69.242, de 26/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210467)<br>
 
 # DECRETO N° 69.242, DE 26 DE DEZEMBRO DE 2024

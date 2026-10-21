@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.808, de 2025-12-11
-
 DECRETO Nº 2.808, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Doutor Edilberto da Veiga Jardim, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

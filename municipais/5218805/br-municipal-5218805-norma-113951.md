@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.806, de 2026-02-19
-
 LEI Nº 7.806, DE 19 DE FEVEREIRO DE 2026.
 
 Cria as unidades de ensino EMEF “Jerônymo Ribeiro de Macedo”, EMEF “Manoel Terra Dias Júnior”, EAME “Professor Waldyr Emrich Portilho” e dá outras providências.

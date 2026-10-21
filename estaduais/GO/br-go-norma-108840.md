@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.689, de 2024-05-14
-
 LEI Nº 22.689, DE 14 DE MAIO DE 2024
 
 Altera a [Lei nº 13.463](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81306), de 31 de maio de 1999, que dispõe sobre a Política estadual do idoso e dá outras providências, para prever a oferta, pelo Poder Público, de cursos de inclusão digital para idosos.

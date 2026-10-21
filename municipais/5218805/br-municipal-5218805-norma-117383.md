@@ -1,5 +1,3 @@
-# Lei Complementar nº 308, de 2023-08-28
-
 LEI COMPLEMENTAR Nº 308, DE 28 DE AGOSTO DE 2023
 
 Altera a [Lei Complementar nº 88](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117370)/2017 que dispõe sobre a criação da Guarda Municipal de Rio Verde.

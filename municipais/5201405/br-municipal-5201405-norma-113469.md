@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.698, de 2023-03-08
-
 LEI MUNICIPAL N° 3.698, DE 08 DE MARÇO DE 2023.
 
 Desafeta e autoriza permuta de imóvel situado no loteamento Bairro Independência – 1º Complemento – Setor das Mansões, neste Município, com Arquidiocese de Goiânia.

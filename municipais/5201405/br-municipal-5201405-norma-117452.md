@@ -1,5 +1,3 @@
-# Decreto Numerado nº 950, de 2024-11-04
-
 DECRETO “N” Nº 950, DE 04 DE NOVEMBRO DE 2024.
 
 Institui a Comissão de Transição Governamental, no âmbito do Município de Aparecida de Goiânia-GO, e designa seus membros.

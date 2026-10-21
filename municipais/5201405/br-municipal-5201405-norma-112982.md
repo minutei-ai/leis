@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.856, de 2025-12-18
-
 DECRETO Nº 2.856, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Brasília e Rua Portugal, no Loteamento Setor Aeroporto Sul – 2ª Etapa, no Município de Aparecida de Goiânia.

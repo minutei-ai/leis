@@ -1,5 +1,3 @@
-# LEI Nº 15.032 DE 09 DE DEZEMBRO DE 2025
-
 LEI Nº 15.032 DE 09 DE DEZEMBRO DE 2025
 
 Denomina João Hipólito Rodrigues o trecho que liga a BA-148 ao distrito de Catolés, no município de Abaíra.

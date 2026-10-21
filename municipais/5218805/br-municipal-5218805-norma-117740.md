@@ -1,5 +1,3 @@
-# Lei Complementar nº 38, de 2015-09-02
-
 LEI COMPLEMENTAR Nº 38, DE 2 DE SETEMBRO DE 2015.
 
 Cria cargos, define o regime jurídico dos servidores da UniRV e dá outras providências.

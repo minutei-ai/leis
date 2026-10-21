@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.753, de 2025-08-08
-
 DECRETO Nº 10.753, DE 8 DE AGOSTO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de São Francisco de Goiás/GO.

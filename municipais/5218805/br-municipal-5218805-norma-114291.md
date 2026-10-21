@@ -1,5 +1,3 @@
-# Lei Complementar nº 4.835, de 2004-06-05
-
 LEI complementar Nº  4.835, DE 05 DE JUNHO DE 2004.
 
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170).

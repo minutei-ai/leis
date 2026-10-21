@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.885, de 2025-12-30
-
 LEI Nº 3.885, DE 30 DE DEZEMBRO DE 2025
 
 Institui o Aparecida Show (Rodeio Show) de Aparecida de Goiânia como Patrimônio Cultural, Artístico e Imaterial do Município de Aparecida de Goiânia e dá outras providências.

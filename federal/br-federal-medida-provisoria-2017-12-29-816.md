@@ -1,5 +1,3 @@
-# Medida Provisória nº 816 de 29/12/2017
-
 MEDIDA PROVISÓRIA Nº 816, DE 29 DE DEZEMBRO DE 2017
 
 Cria cargos em comissão para compor os Conselhos de Supervisão dos Regimes de Recuperação Fiscal dos Estados e do Distrito Federal.

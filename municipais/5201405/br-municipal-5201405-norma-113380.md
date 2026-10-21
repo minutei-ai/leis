@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.214, de 2025-09-12
-
 DECRETO Nº 2.214, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 06, situado à Rua Esmeralda, no Loteamento Parque Trindade III, no Município de Aparecida de Goiânia.

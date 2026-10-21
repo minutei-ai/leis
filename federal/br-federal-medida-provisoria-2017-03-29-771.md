@@ -1,5 +1,3 @@
-# Medida Provisória nº 771 de 29/03/2017
-
 MEDIDA PROVISÓRIA Nº 771, DE 29 DE MARÇO DE 2017
 
 Transforma a Autoridade Pública Olímpica - APO na Autoridade de Governança do Legado Olímpico - AGLO e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 239, de 2026-03-19
-
 DECRETO Nº 239, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 26 e 27, situados à Avenida Domingos de Barros Vellasco, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

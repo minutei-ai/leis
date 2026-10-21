@@ -1,5 +1,3 @@
-# Lei Complementar nº 4.612, de 2003-05-20
-
 LEI COMPLEMENTAR Nº 4.612, DE 20 DE MAIO DE 2003.
 
 Modifica a Lei 4.561 de 01/03/2003 que dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Fiscalização Tributária, do Município de Rio Verde.

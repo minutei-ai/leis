@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.415, de 2023-10-02
-
 LEI N. 7.415, DE 02 DE OUTUBRO DE 2023
 
 Autoriza a outorga de concessão de direito real de uso de imóvel que menciona.

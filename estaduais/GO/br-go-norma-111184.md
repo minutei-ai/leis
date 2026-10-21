@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.603, de 2025-08-29
-
 LEI Nº 23.603, DE 29 DE AGOSTO DE 2025
 
 Institui o Dia Estadual do Profissional de Logística.

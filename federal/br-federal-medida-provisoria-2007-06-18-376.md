@@ -1,5 +1,3 @@
-# Medida Provisória nº 376 de 18/06/2007
-
 ###MPV-000376-0-000-18-06-2007@@@
 
 MEDIDA PROVISÓRIA Nº 376, DE 18 DE JUNHO DE 2007.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.821, de 2025-11-10
-
 LEI Nº 23.821, DE 10 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 21.781](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106698 "Abrir Lei Ordinária nº 21781, de 2023 em nova aba"), de 16 de janeiro de 2023, que estabelece normas que visam à prevenção do desaparecimento de crianças e adolescentes, em suplementação ao Estatuto da Criança e do Adolescente.

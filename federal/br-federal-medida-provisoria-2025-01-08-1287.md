@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.287 de 08/01/2025
-
 MEDIDA PROVISÓRIA Nº 1.287, DE 8 DE JANEIRO DE 2025
 
 Institui apoio financeiro à pessoa com deficiência decorrente de síndrome congênita associada à infecção pelo vírus Zika.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 879 de 24/04/2019
-
 MEDIDA PROVISÓRIA Nº 879, DE 24 DE ABRIL DE 2019
 
 Altera a Lei nº 10.438, de 26 de abril de 2002, e a Lei nº 12.111, de 9 de dezembro de 2009.

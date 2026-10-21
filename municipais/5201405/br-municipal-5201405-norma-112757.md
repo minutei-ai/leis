@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.808, de 2024-12-03
-
 LEI MUNICIPAL Nº 3.808, DE 3 DE DEZEMBRO DE 2024
 
 Reconhece como Utilidade Pública Municipal a “AÇÃO NACIONAL DE DESENVOLVIMENTO E SUSTENTABILIDADE – ANDES”, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 283, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 283, DE 17 DE FEVEREIRO DE 2023
 
 Altera a Lei Complementar nº 182/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, define Órgãos e Entidades que a integram e o seu quadro de Cargos de Confiança (CC), Cargos de Provimento em Comissão (DAS) e Funções Gratificadas (FG).

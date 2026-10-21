@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.624, de 2024-04-18
-
 LEI Nº 22.624, DE 18 DE ABRIL DE 2024
 
 Proíbe a participação de crianças e adolescentes nos eventos que especifica.

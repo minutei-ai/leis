@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.501, de 2026-08-27
-
 LEI Nº 24.501, DE 27 DE AGOSTO DE 2026
 
 Institui a Política Estadual de Prevenção, Conscientização e Atenção Integral à Ludopatia.

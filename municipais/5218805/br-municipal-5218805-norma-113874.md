@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.829, de 2026-03-23
-
 LEI Nº 7.829, DE 23 DE MARÇO DE 2026.
 
 Estabelece as infrações, sanções, competência fiscalizatória e procedimentos na fiscalização do cumprimento das normas relativas ao Serviço de Inspeção Municipal de Produtos de Origem Animal (SIM/POA), altera a Lei nº 7.592, de 16 de dezembro de 2024, que institui o Código Sanitário do Município de Rio Verde – GO, e dá outras providências**.**

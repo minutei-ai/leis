@@ -1,5 +1,3 @@
-# Lei Complementar nº 317, de 2023-10-16
-
 LEI COMPLEMENTAR Nº 317, DE 16 DE OUTUBRO DE 2023.
 
 Altera a Lei Complementar n° 3633/98.

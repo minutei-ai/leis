@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.797, de 2025-11-06
-
 LEI Nº 23.797, DE 6 DE NOVEMBRO DE 2025
 
 Abre crédito especial ao Corpo de Bombeiros Militar do Estado de Goiás.

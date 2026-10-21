@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.288, de 2022-08-30
-
 LEI N° 7.288, DE 30 DE AGOSTO DE 2022
 
 Autoriza o Poder Executivo a realizar dação em pagamento de imóvel como indenização de desapropriação amigável.

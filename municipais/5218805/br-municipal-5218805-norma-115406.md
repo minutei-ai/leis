@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.350, de 2023-04-28
-
 LEI N° 7.350, DE 28 DE ABRIL DE 2023.
 
 Dispõe sobre a obrigatoriedade de hospitais públicos e privados conveniados ao Sistema único de Saúde - SUS afixarem informativos sobre os direitos da gestante e acompanhante durante o trabalho de pré-parto, parto e pós- parto no âmbito do Município de Rio Verde- Goiás.

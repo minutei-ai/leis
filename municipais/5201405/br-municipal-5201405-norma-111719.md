@@ -1,5 +1,3 @@
-# Lei Complementar nº 215, de 2023-08-09
-
 LEI COMPLEMENTAR Nº 215, DE 09 DE AGOSTO DE 2023.
 
 Institui redução de alíquota para o Imposto sobre a Transmissão de Bens Imóveis (ITBI) por período determinado, altera a [Lei Complementar nº 046](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111755 "Abrir Lei Complementar nº 046, de 2011 em nova aba"), de 21 de dezembro de 2011 e a Lei Municipal nº 2.233, de 28 de dezembro de 2001 e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.794, de 1998-08-27
-
 LEI MUNICIPAL Nº 1.794, DE 27 DE AGOSTO DE 1998.
 
 Autoriza o Executivo Municipal a adquirir os imóveis que especifica, para finalidades diversas.

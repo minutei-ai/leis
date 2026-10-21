@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.324 de 06/11/2025
-
 MEDIDA PROVISÓRIA Nº 1.324, DE 6 DE NOVEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 230.380.000,00, para o fim que especifica.

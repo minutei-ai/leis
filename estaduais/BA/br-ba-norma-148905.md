@@ -1,5 +1,3 @@
-# LEI Nº 15.187 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.187 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação de Desenvolvimento Comunitário dos Produtores Rurais da Ladeira, com sede e foro em Paripiranga.

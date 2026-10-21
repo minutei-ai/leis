@@ -1,5 +1,3 @@
-# Decreto nº 70.194, de 10/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211974)<br>
 
 # DECRETO N° 70.194, DE 10 DE DEZEMBRO DE 2025

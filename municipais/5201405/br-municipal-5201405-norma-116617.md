@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.428, de 2018-09-10
-
 LEI Nº 3.428, DE 10 DE SETEMBRO DE 2018
 
 Dispõe sobre a proibição de divulgação, exibição ou acesso de crianças e adolescentes a imagens, músicas, textos, materiais de cunho sexual, pornográficos ou obscenos e em outdoors no Município de Aparecida de Goiânia, e dá outras providências.

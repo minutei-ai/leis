@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.585, de 2024-03-29
-
 LEI Nº 22.585, DE 29 DE MARÇO DE 2024
 
 Altera a [Lei nº 14.765](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80702), de 27 de abril de 2004, que concede passe livre aos idosos maiores de sessenta anos no sistema de transporte coletivo rodoviário intermunicipal.

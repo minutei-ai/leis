@@ -1,5 +1,3 @@
-# Decreto Numerado nº 356, de 2024-05-13
-
 DECRETO “N” Nº 356, DE 13 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóveis.

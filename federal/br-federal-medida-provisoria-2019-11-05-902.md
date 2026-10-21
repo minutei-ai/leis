@@ -1,5 +1,3 @@
-# Medida Provisória nº 902 de 05/11/2019
-
 MEDIDA PROVISÓRIA Nº 902, DE 5 DE NOVEMBRO DE 2019
 
 Altera a Lei nº 5.895, de 19 de junho de 1973, que autoriza o Poder Executivo a transformar a autarquia Casa da Moeda em empresa pública, a Lei nº 4.502, de 30 de novembro de 1964, que dispõe sobre o Imposto de Consumo e reorganiza a Diretoria de Rendas Internas, a Lei nº 11.488, de 15 de junho de 2007, que cria o Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura - REIDI, reduz para vinte e quatro meses o prazo mínimo para utilização dos créditos da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS decorrentes da aquisição de edificações e amplia o prazo para pagamento de impostos e contribuições, e a Lei nº 12.995, de 18 de junho de 2014, que prorroga o prazo para a destinação de recursos aos Fundos Fiscais de Investimentos e altera a legislação tributária federal.

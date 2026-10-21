@@ -1,5 +1,3 @@
-# Medida Provisória nº 813 de 26/12/2017
-
 MEDIDA PROVISÓRIA Nº 813, DE 26 DE DEZEMBRO DE 2017
 
 Altera a [Lei Complementar nº 26, de 11 de setembro de 1975](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:1975-09-11;26), para dispor sobre a possibilidade de movimentação da conta do Programa de Integração Social - PIS e do Programa de Formação do Patrimônio do Servidor Público - PASEP.

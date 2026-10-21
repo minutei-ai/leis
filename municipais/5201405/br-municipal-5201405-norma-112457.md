@@ -1,5 +1,3 @@
-# Decreto Numerado nº 86, de 2026-01-26
-
 DECRETO Nº 086, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Esmaltita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

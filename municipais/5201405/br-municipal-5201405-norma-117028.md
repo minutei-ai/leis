@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2988, de 2011-09-27
-
 LEI MUNICIPAL Nº. 2.988, DE 27 DE SETEMBRO DE 2011.
 
 “Altera a Lei Municipal nº 2.691, de 05 de outubro de 2007 e dá outras providências.”

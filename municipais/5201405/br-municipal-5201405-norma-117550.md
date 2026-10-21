@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.689, de 2012-11-01
-
 DECRETO “N” Nº 1.689, DE 01 DE NOVEMBRO DE 2012.
 
 Declara de utilidade pública, para efeito de desapropriação a área que especifica e dá outras providências.

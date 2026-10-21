@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.135, de 2021-03-03
-
 LEI Nº 7.135, DE 30 DE MARÇO DE 2021.
 
 Concede Licença Remunerada.

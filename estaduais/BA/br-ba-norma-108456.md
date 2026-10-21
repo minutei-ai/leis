@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 22 DE 16 DE DEZEMBRO DE 2005
-
 LEI COMPLEMENTAR Nº 22 DE 16 DE DEZEMBRO DE 2005
 
 Altera dispositivos da [Lei Complementar Nº 11/1996](https://www.legislabahia.ba.gov.br/documentos/lc-no-011-de-18-de-janeiro-de-1996#LEI_11) e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 938 de 02/04/2020
-
 MEDIDA PROVISÓRIA Nº 938, DE 2 DE ABRIL DE 2020
 
 Dispõe sobre a prestação de apoio financeiro pela União aos entes federativos que recebem recursos do Fundo de Participação dos Estados - FPE e do Fundo de Participação dos Municípios - FPM, com o objetivo de mitigar as dificuldades financeiras decorrentes do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19).

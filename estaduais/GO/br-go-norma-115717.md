@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.928, de 2026-06-22
-
 DECRETO Nº 10.928, DE 22 DE JUNHO DE 2026
 
 Altera o [Decreto nº 10.287](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107467 "Abrir Decreto Numerado nº 10287, de 2023 em nova aba"), de 10 de julho de 2023, que dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), de 16 de fevereiro de 2023, na área de inovação da gestão e dos serviços públicos, designa essa área como Rede TransformaGOV, bem como institui o Observatório de Inovação em Políticas Públicas do Estado de Goiás e o Hub Goiás.

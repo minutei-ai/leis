@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.205, de 2014-08-08
-
 LEI MUNICIPAL Nº 3.205, DE 08 DE AGOSTO DE 2014.<br>
 (Revogada pela Lei Ordinária nº 3.889, de 19 de janeiro de 2026).
 

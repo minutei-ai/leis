@@ -1,5 +1,3 @@
-# Decreto Numerado nº 638, de 2024-08-02
-
 DECRETO “N” Nº 638, 02 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

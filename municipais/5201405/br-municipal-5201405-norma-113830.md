@@ -1,5 +1,3 @@
-# Decreto Numerado nº 20, de 2024-01-18
-
 DECRETO “N” Nº 20, DE 18 DE JANEIRO DE 2024.<br>
 (Revogado pelo  Decreto “N” Nº 135, de 12 de março de 2024).
 

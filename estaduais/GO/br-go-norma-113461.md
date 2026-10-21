@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 5, de 2026-01-26
-
 Portaria Orçamentária nº 5/2026 - Economia
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412 "Abrir Lei Ordinária nº 23246, de 2025 em nova aba"), de 25 de janeiro de 2025.

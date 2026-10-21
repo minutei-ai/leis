@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.063, de 2024-11-05
-
 LEI Nº 23.063, DE 5 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás – CTE, e a [Lei nº 16.469](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98683), de 19 de janeiro de 2009, que regula o processo administrativo tributário e dispõe sobre os órgãos vinculados ao julgamento administrativo de questões de natureza tributária.

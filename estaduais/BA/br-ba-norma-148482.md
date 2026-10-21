@@ -1,5 +1,3 @@
-# LEI Nº 15.134 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.134 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública o Instituto Pinheiro, com sede e foro no município de Salvador.

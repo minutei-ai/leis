@@ -1,5 +1,3 @@
-# Lei Complementar nº 3.853, de 1999-09-22
-
 LEI COMPLEMENTAR Nº 3.853, DE 22 DE SETEMBRO DE 1999
 
 Dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município e dá outras providências.

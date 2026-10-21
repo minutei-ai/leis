@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.503, de 2024-04-29
-
 LEI Nº 7.503, DE 29 DE ABRIL DE 2024.
 
 Altera Lei n. 5.990, de 22 de setembro de 2011, que instituiu o Programa Municipal “Lar Solidário”.

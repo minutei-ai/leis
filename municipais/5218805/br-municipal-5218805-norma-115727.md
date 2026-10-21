@@ -1,5 +1,3 @@
-# Lei Complementar nº 173, de 2019-12-03
-
 <br>
 LEI COMPLEMENTAR Nº 173, DE 03 DE DEZEMBRO 2019
 

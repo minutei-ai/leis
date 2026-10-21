@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.865, de 2025-11-13
-
 LEI Nº 3.865, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre a denominação do Centro Municipal de Educação Infantil – CMEI Primeira-dama MARIA LAURA LEAL VIANA, situado na Rua Angélica Frias, Rua Clóvis Coelho com a Rua Euripedes F. Santos, Qd. 95, APM 7, Setor Vila Romana, no município de Aparecida de Goiânia-GO, e dá outras providências.

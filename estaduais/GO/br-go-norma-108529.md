@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.422, de 2024-03-13
-
 DECRETO Nº 10.422, DE 13 DE MARÇO DE 2024
 
 Declara de interesse social, para licenciamento ambiental, a obra que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.324, de 2025-09-29
-
 DECRETO Nº 2.324, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, da Quadra 11, situado à Avenida Elson Veiga Camargo, no Loteamento Industrial Santo Antônio, no Município de Aparecida de Goiânia.

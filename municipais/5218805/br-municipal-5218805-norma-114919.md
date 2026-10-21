@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.574, de 2024-12-02
-
 LEI Nº 7.574, DE 2 DE DEZEMBRO DE 2024.
 
 Reconhece como Utilidade Pública Municipal e dá outras providências.

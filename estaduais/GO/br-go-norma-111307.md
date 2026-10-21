@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.689, de 2025-09-24
-
 LEI Nº 23.689, DE 24 DE SETEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Marco Zero do Estado de Goiás, realizada no Distrito de Buenolândia, no Município de Goiás/GO.

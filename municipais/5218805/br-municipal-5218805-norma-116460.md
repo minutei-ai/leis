@@ -1,5 +1,3 @@
-# Lei Complementar nº 121, de 2018-05-02
-
 LEI COMPLEMENTAR N. 121, DE 02 DE MAIO DE 2018
 
 Aumenta quantitativo de cargo que menciona.

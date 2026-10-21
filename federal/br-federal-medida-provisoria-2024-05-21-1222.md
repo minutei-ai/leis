@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.222 de 21/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.222, DE 21 DE MAIO DE 2024
 
 Dispõe sobre a prestação de apoio financeiro pela União aos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública reconhecido pelo Poder Executivo federal.

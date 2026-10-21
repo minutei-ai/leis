@@ -1,5 +1,3 @@
-# Decreto Numerado nº 102, de 2026-01-28
-
 DECRETO Nº 102, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua Wilson de Santana Coutinho, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

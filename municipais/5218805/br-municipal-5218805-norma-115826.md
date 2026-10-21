@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.358, de 2023-05-29
-
 LEI N° 7.358, DE 29 DE MAIO DE 2023.
 
 Altera a Lei n°. 7.046/2020 e dá outras providências.

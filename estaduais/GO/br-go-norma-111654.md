@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.897, de 2025-12-01
-
 LEI Nº 23.897, DE 1º DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

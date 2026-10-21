@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.846, de 2025-07-22
-
 DECRETO Nº 1.846, DE 22 DE JULHO DE 2025
 
 Dispõe sobre a aprovação do remembramento que incluiu a Chácara 92, Chácara 91E, Quadras 91, 91A, 91B, 91C, 91D, Rua 1, Rua 2, Rua 3, Rua 4, Rua 5, Avenida Henrique Coe Neto, Avenida Paulo Régio Jayme Guimarães e parte da Alameda 14 de Julho, Chácaras São Pedro e posterior Loteamento residencial convencional com lotes comerciais e residenciais, no âmbito do Município de Aparecida de Goiânia.

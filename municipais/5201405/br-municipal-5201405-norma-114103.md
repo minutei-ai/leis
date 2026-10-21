@@ -1,5 +1,3 @@
-# Decreto Numerado nº 389, de 2022-05-26
-
 DECRETO “N” N° 389, DE 26 DE MAIO DE 2022.
 
 Dispõe sobre a criação e regulamentação do Comitê de Investimento no âmbito do Instituto de Previdência Social do Município de Aparecida de Goiânia, e dá outras providências.

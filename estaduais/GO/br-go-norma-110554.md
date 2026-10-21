@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.318, de 2025-04-02
-
 LEI Nº 23.318, DE 2 DE ABRIL DE 2025
 
 Concede o título de cidadania que especifica.

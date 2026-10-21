@@ -1,5 +1,3 @@
-# Medida Provisória nº 29 de 07/02/2002
-
 ###MPV-000029-0-000-07-02-2002@@@
 
 MEDIDA PROVISÓRIA No 29, DE 7 DE FEVEREIRO 2002.

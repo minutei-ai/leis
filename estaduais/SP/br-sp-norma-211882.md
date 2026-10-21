@@ -1,5 +1,3 @@
-# Lei nº 18.339, de 24/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211882)<br>
 
 # LEI N° 18.339, DE 24 DE NOVEMBRO DE 2025

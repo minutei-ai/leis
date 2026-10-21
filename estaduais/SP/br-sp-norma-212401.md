@@ -1,5 +1,3 @@
-# Decreto nº 70.491, de 25/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212401)<br>
 
 # DECRETO N° 70.491, DE 25 DE MARÇO DE 2026

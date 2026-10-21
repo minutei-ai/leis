@@ -1,5 +1,3 @@
-# Decreto Numerado nº 33, de 2024-01-24
-
 DECRETO “N” Nº 33 DE 24 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

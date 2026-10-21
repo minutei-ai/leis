@@ -1,5 +1,3 @@
-# Decreto Numerado nº 405, de 2024-05-29
-
 DECRETO “N” Nº 405 DE 29 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

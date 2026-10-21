@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.630, de 2021-10-15
-
 LEI MUNICIPAL Nº 3.630, DE 15 DE OUTUBRO DE 2021.
 
 Dispõe sobre progressão dos servidores da Secretaria Municipal de Saúde de Aparecida de Goiânia.

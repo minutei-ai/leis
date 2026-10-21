@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.488, de 2024-02-26
-
 LEI Nº 7.488, DE 26 DE FEVEREIRO DE 2024.
 
 Dispõe sobre transposição, transferências e remanejamento de créditos orçamentários no âmbito do Poder Executivo e Legislativo Municipal e dá outras providências.

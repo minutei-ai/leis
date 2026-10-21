@@ -1,5 +1,3 @@
-# Decreto Numerado nº 661, de 2023-10-18
-
 DECRETO “N” Nº 661 DE 18 DE OUTUBRO DE 2023.
 
 Dispõe sobre remembramento de imóvel.

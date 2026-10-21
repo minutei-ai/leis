@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.880, de 2026-03-18
-
 DECRETO Nº 10.880, DE 18 DE MARÇO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

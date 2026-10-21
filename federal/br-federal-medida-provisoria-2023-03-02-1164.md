@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.164 de 02/03/2023
-
 MEDIDA PROVISÓRIA Nº 1.164, DE 2 DE MARÇO DE 2023
 
 Institui o Programa Bolsa Família e altera a [Lei nº 8.742, de 7 de dezembro de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-12-07;8742), que dispõe sobre a organização da Assistência Social, e a [Lei nº 10.820, de 17 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-17;10820), que dispõe sobre a autorização para desconto em folha de pagamento.

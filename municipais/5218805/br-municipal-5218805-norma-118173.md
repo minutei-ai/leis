@@ -1,5 +1,3 @@
-# Lei Complementar nº 19, de 2014-08-19
-
 LEI COMPLEMENTAR Nº 19 , DE 19 DE AGOSTO DE 2014.
 
 <br>

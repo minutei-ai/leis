@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.180 de 14/07/2023
-
 MEDIDA PROVISÓRIA Nº 1.180, DE 14 DE JULHO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 280.000.000,00, para o fim que especifica.

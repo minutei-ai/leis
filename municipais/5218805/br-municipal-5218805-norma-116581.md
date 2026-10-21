@@ -1,5 +1,3 @@
-# Lei Complementar nº 416, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 416, DE 31 DE OUTUBRO DE 2025.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.390 de 08/09/2026
-
 MEDIDA PROVISÓRIA Nº 1.390, DE 8 DE SETEMBRO DE 2026
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 375.000.000,00, para o fim que especifica.

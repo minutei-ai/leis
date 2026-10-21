@@ -1,5 +1,3 @@
-# Decreto nº 69.486, de 14/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210864)<br>
 
 # DECRETO N° 69.486, DE 14 DE ABRIL DE 2025

@@ -1,5 +1,3 @@
-# Medida Provisória nº 196 de 02/07/2004
-
 ###MPV-000196-0-000-02-07-2004@@@
 
 MEDIDA PROVISÓRIA Nº 196, DE 2 DE JULHO 2004

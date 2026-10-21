@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.082 de 22/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.082, DE 22 DE DEZEMBRO DE 2021
 
 Altera a Lei Complementar nº 79, de 7 de janeiro de 1994, para dispor sobre o percentual mínimo do repasse obrigatório da União aos fundos dos Estados, do Distrito Federal e dos Municípios.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 759 de 22/12/2016
-
 MEDIDA PROVISÓRIA Nº 759, DE 22 DE DEZEMBRO DE 2016
 
 Dispõe sobre a regularização fundiária rural e urbana, sobre a liquidação de créditos concedidos aos assentados da reforma agrária e sobre a regularização fundiária no âmbito da Amazônia Legal, institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de imóveis da União, e dá outras providências.

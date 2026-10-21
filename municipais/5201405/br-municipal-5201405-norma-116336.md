@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.454, de 2019-01-03
-
 LEI Nº 3.454, DE 03 DE JANEIRO DE 2019
 
 Dispõe sobre o alinhamento e a retirada de fios em desuso e desordenados existentes em postes de energia elétrica e dá outras providências.

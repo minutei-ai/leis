@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.164, de 2014-02-27
-
 LEI MUNICIPAL Nº 3.164 DE 27 DE FEVEREIRO DE 2014.
 
 Proíbe a fabricação, a venda, a comercialização e a distribuição, a qualquer título, de armas de brinquedo, na circunscrição do Município de Aparecida de Goiânia/Goiás, e dá outras providências.

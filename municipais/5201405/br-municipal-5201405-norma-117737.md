@@ -1,5 +1,3 @@
-# Decreto Numerado nº 16, de 2023-01-11
-
 DECRETO “N” Nº 16 DE 11 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM MIRAMAR, neste município.

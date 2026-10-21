@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.686, de 2025-06-27
-
 DECRETO Nº 1.686, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento da Área 01 e Área 03, da Quadra 05, situado à Avenida Orcalino Luiz Ribeiro, no Loteamento Residencial Santa Vitoria, no Município de Aparecida de Goiânia.

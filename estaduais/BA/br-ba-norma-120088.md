@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 10 DE 24 DE JULHO DE 2003
-
 EMENDA CONSTITUCIONAL Nº 10 DE 24 DE JULHO DE 2003
 
 Altera o art. 71, inciso V, da Constituição do Estado da Bahia.

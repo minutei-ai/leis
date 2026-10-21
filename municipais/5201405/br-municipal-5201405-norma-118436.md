@@ -1,5 +1,3 @@
-# Decreto Numerado nº 702, de 2023-11-16
-
 DECRETO “N” Nº 702 DE 16 DE NOVEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

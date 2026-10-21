@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.725, de 2025-12-03
-
 DECRETO Nº 2.725, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua 7, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

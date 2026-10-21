@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.274, de 2022-06-13
-
 LEI N° 7.274, DE 13 DE JUNHO DE 2022
 
 Inclui o Dia do Ciclista no Calendário Oficial do Município de Rio Verde - GO e dá outras providências.

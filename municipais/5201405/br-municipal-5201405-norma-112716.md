@@ -1,5 +1,3 @@
-# Lei Complementar nº 35, de 2011-07-04
-
 LEI COMPLEMENTAR Nº 035, DE 04 DE JULHO DE 2011.
 
 Altera os anexos VI e IX, a Lei Municipal nº 2.606, de 26 de setembro de 2006 – planos de cargos e salários dos servidores da Secretaria Municipal da Educação da Prefeitura Municipal de Aparecida de Goiânia-GO.

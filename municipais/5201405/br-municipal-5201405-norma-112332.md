@@ -1,5 +1,3 @@
-# Decreto Numerado nº 77, de 2026-01-21
-
 DECRETO Nº 077, DE 21 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento da Área 04, situada na Quinta da Boa Vista - Acréscimo, no Município de Aparecida de Goiânia.

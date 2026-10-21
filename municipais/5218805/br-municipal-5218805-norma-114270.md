@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.964, de 2019-05-29
-
 LEI Nº 6.964, DE 29 DE MAIO DE 2019.
 
 Dispõe sobre a qualificação de entidades como organizações sociais municipais, sem fins lucrativos, na área da saúde e dá outras providências.

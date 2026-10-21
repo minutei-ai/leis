@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.586, de 2020-11-19
-
 LEI MUNICIPAL N° 3.586, DE 19 DE NOVEMBRO DE 2020.
 
 “Institui benefício assistencial voltado a mitigar o impacto social e financeiro aos profissionais prestadores de serviço de saúde credenciados afastados por interesse de saúde pública em enfrentamento à COVID-19”.

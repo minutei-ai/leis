@@ -1,5 +1,3 @@
-# Decreto Numerado nº 247, de 2024-04-15
-
 DECRETO “N” Nº 247 DE 15 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1072, de 2024-12-11
-
 DECRETO “N” Nº 1072 DE 11 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

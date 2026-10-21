@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.397, de 1994-05-26
-
 Lei Municipal nº 1.397 de 26 de Maio de 1994.
 
 Estrutura e regulamenta a Guarda Municipal e adota outras Providências. Faço saber que a Câmara Municipal de Aparecida de Goiânia, Goiás, aprovou e Eu, Prefeito Municipal, sanciono a seguinte Lei:

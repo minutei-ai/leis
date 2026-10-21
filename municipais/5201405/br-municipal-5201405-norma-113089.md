@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.138, de 2025-09-02
-
 DECRETO Nº 2.138, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Lirida Callou Araruna, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 495, de 2026-06-18
-
 DECRETO Nº 495, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 13, situado à 5º Avenida, no Loteamento Setor Aeroporto Sul, no Município de Aparecida de Goiânia.

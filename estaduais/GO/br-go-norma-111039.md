@@ -1,5 +1,3 @@
-# Lei Complementar nº 208, de 2025-07-07
-
 LEI COMPLEMENTAR Nº 208, DE 7 DE JULHO DE 2025
 
 Dispõe sobre a regulamentação do Fundo de Estabilização Econômica de Goiás – FEG.

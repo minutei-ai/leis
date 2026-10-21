@@ -1,5 +1,3 @@
-# Decreto Numerado nº 120, de 2023-02-17
-
 DECRETO “N” Nº 120 DE 17 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE REAL DE GOIÂNIA, neste município.

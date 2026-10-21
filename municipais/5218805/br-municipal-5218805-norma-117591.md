@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.122, de 2021-02-19
-
 LEI Nº 7.122, DE 19 DE FEVEREIRO DE 2021.
 
 Autoriza aquisição através de doação de imóvel com encargo.

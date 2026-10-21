@@ -1,5 +1,3 @@
-# Decreto Numerado nº 480, de 2026-06-17
-
 DECRETO Nº 480, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Ilara e Rua Henrique de Bastos Curado, no Loteamento Jardim das Acácias, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 656 de 07/10/2014
-
 MEDIDA PROVISÓRIA Nº 656, DE 7 DE OUTUBRO DE 2014
 
 Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre a receita de vendas e na importação de partes utilizadas em aerogeradores, prorroga benefícios, altera o art. 46 da Lei nº 12.715, de 17 de setembro de 2012, que dispõe sobre a devolução ao exterior ou a destruição de mercadoria estrangeira cuja importação não seja autorizada, e dá outras providências.

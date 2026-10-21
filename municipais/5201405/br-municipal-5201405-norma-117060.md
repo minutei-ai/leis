@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.168, de 2014-03-18
-
 LEI MUNICIPAL Nº 3.168, DE 18 DE MARÇO DE 2014.
 
 Reconhece de Utilidade Pública Municipal a ASSOCIAÇÃO COMUNITÁRIA “LAPIDANDO TESOUROS” e dá outras providências.

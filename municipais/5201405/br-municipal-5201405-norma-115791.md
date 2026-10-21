@@ -1,5 +1,3 @@
-# Decreto Numerado nº 529, de 2024-07-02
-
 DECRETO “N” Nº 529 DE 02 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

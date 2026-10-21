@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.298, de 2016-01-28
-
 LEI MUNICIPAL Nº 3.298, DE 28 DE JANEIRO DE 2016.
 
 Autoriza o Poder Executivo a Celebrar Termo Aditivo ao Contrato nº 0012/1999 – Contrato de Confissão, Consolidação e Refinanciamento de dívidas que, entre si, celebram a União, representada pelo Banco do Brasil S/A, e o Município de Aparecida de Goiânia, com interveniência do Banco do Brasil S.A., Caixa Econômica Federal e Banco do Estado de Goiás S.A, firmado com a União ao amparo da Medida Provisória nº 2.185-35, de 24 de agosto de 2001, e suas edições anteriores, para alteração das condições nele estabelecidas, nos Termos da Lei Complementar nº 148, de 25 de novembro de 2014, regulamentada pelo Decreto nº 8.616 de 29 de dezembro de 2015.

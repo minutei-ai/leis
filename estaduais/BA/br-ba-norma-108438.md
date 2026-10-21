@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 002 DE 04 DE MAIO DE 1990
-
 LEI COMPLEMENTAR Nº 002 DE 04 DE MAIO DE 1990.
 
 Estabelece os requisitos para criação de Municípios e Distritos, e dá outras providências.

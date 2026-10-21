@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.335, de 2025-04-13
-
 LEI Nº 23.335, DE 13 DE ABRIL DE 2025
 
 Institui a Política Estadual de Incentivo à Educação e à Capacitação no Setor Mineral.

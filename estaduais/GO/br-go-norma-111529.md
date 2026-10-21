@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.796, de 2025-11-06
-
 LEI Nº 23.796, DE 6 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 14.750](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80689 "Abrir Lei Ordinária nº 14750, de 2004 em nova aba"), de 22 de abril de 2004, a [Lei nº 19.677](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98998 "Abrir Lei Ordinária nº 19677, de 2017 em nova aba"), de 13 de junho de 2017, a [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412 "Abrir Lei Ordinária nº 23246, de 2025 em nova aba"), de 25 de janeiro de 2025, e a [Lei nº 23.570](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111087 "Abrir Lei Ordinária nº 23570, de 2025 em nova aba"), de 10 de julho de 2025.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.986, de 2024-09-12
-
 LEI Nº 22.986, DE 12 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

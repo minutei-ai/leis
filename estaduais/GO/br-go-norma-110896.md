@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.462, de 2025-06-06
-
 LEI Nº 23.462, DE 6 DE JUNHO DE 2025
 
 Institui a Política Estadual de Incubação Social e dá outras providências.

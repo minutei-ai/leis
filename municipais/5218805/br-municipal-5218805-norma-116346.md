@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.247, de 2007-03-08
-
 LEI COMPLEMENTAR Nº 5.247, DE 08 DE MARÇO DE 2007.
 
 Cria o cargo de Auxiliar de Radiologia.

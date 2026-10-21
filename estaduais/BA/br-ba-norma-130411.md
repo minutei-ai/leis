@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 22 DE 28 DE DEZEMBRO DE 2015
-
 EMENDA CONSTITUCIONAL Nº 22 DE 28 DE DEZEMBRO DE 2015
 
 Modifica o regime de concessão da vantagem pessoal em razão do exercício de cargo de provimento temporário e revoga o art. 39, o inciso XXVIII do art. 41 e o § 2º do art. 140, todos da Constituição Estadual, e dá outras providências.

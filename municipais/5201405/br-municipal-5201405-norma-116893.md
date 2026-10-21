@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3337, de 2016-11-08
-
 LEI MUNICIPAL 3.337, DE 08 DE NOVEMBRO DE 2016.
 
 Institui a Semana Municipal da Conscientização da Hemoglobinopatia "S" ou Doença Falciforme.

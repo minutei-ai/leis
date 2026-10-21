@@ -1,5 +1,3 @@
-# LEI Nº 14.947 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.947 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública o Núcleo de Apoio aos Militares Anistiados Políticos - NAMAPS-BA, com sede e foro no município de Salvador.

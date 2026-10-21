@@ -1,5 +1,3 @@
-# LEI N° 14.867 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.867 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre a obrigatoriedade de realizar nos recém-nascidos o Teste do Olhinho ou Teste do Reflexo Vermelho, nas maternidades e nos hospitais públicos e da Rede Credenciada no SUS.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.433, de 2018-09-18
-
 LEI Nº 3.433, DE 18 DE SETEMBRO DE 2018
 
 Dispõe sobre a divulgação da escala dos médicos e odontólogos que estejam lotados nas unidades de saúde do Município de Aparecida de Goiânia, e dá outras providências.

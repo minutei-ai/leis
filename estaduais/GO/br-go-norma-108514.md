@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.547, de 2024-03-07
-
 LEI Nº 22.547, DE 7 DE março DE 2024
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

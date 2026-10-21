@@ -1,5 +1,3 @@
-# LEI Nº 14.987 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.987 DE 30 DE SETEMBRO DE 2025
 
 Denomina Geraldo Pereira Ramos, a Rodovia BR-030, no trecho estadualizado que liga a localidade de Julião ao Distrito de Canabrava, em Malhada (BA), numa extensão de 38,5 km.

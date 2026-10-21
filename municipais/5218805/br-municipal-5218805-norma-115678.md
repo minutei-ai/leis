@@ -1,5 +1,3 @@
-# Lei Complementar nº 409, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 409, DE 31 DE OUTUBRO DE 2025.
 
 Altera a Lei Complementar nº 208, de 06 de maio de 2021, que dispõe sobre o parcelamento do solo para implantação de sítios e chácaras de recreio em Zona Urbana Específica.

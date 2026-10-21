@@ -1,5 +1,3 @@
-# Decreto nº 70.693, de 17/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212762)<br>
 
 # DECRETO N° 70.693, DE 17 DE JUNHO DE 2026

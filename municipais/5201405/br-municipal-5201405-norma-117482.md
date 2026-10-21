@@ -1,5 +1,3 @@
-# Decreto Numerado nº 538, de 2026-09-17
-
 DECRETO Nº 538, DE 17 DE SETEMBRO DE 2026
 
 Aprova o Projeto de Regularização Fundiária Urbana de Interesse Social – Reurb-S incidente sobre imóveis da Quadra 25 do Loteamento Jardim Florença, no Município de Aparecida de Goiânia, e dá outras providências.

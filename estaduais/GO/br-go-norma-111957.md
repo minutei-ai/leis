@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.972, de 2025-12-23
-
 LEI Nº 23.972, DE 23 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 20.846](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103353 "Abrir Lei Ordinária nº 20846, de 2020 em nova aba"), de 02 de setembro de 2020, que institui a Política Estadual de Atendimento ao Cidadão.

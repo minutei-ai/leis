@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.506, de 2019-10-10
-
 LEI MUNICIPAL Nº 3.506, DE 10 DE OUTUBRO DE 2019
 
 “Dispõe sobre a denominação da Praça OSMAR RODRIGUES DE OLIVEIRA, no Setor Jardim Riviera, neste Município e dá outras providências.”

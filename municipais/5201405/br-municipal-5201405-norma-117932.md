@@ -1,5 +1,3 @@
-# Decreto Numerado nº 206, de 2023-03-29
-
 DECRETO “N” Nº 206 DE 29 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE MONTREAL, neste município.

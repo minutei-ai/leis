@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.021 de 30/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.021, DE 30 DE DEZEMBRO DE 2020
 
 Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2021.

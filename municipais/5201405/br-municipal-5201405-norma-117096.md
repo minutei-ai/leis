@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.213, de 2014-08-28
-
 LEI MUNICIPAL Nº 3.213, DE 28 DE AGOSTO DE 2014.
 
 “Aprova o Loteamento RESIDENCIAL VILLAGE GARAVELO CONTINUAÇÃO, Neste Município e dá Outras Providências”

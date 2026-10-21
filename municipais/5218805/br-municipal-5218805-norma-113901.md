@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.814, de 2026-02-19
-
 LEI Nº 7.814, DE 19 DE FEVEREIRO DE 2026.
 
 Institui o Dia Municipal da Colheita no Município de Rio Verde-GO e dá outras providências.

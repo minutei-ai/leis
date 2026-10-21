@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.194, de 2025-01-06
-
 LEI Nº 23.194, DE 6 DE JANEIRO DE 2025
 
 Institui o “Selo Estadual Goiás sem Dengue”.

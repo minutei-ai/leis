@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.893, de 2024-08-05
-
 LEI Nº 22.893, DE 5 DE AGOSTO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Cavalgada Cavaleiros de Sant’Ana, realizada no Município de Uruaçu/GO.

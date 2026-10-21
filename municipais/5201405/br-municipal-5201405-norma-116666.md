@@ -1,5 +1,3 @@
-# Lei Complementar nº 134, de 2017-11-27
-
 LEI COMPLEMENTAR Nº 134, DE 27 DE NOVEMBRO DE 2017
 
 Altera o Anexo V da Lei Municipal nº 2.229/2001, que dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia.

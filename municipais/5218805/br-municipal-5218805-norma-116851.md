@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.198, de 2021-11-09
-
 LEI Nº 7.198, DE 09 DE NOVEMBRO DE 2021.
 
 Institui o “Dia Municipal do Doador de Sangue e Plaquetas"  e a “Semana Municipal de Incentivo à Doação de Sangue e Plaquetas”, no âmbito do município de Rio Verde-GO e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 133, de 2017-11-24
-
 LEI COMPLEMENTAR Nº 133, DE 24 DE NOVEMBRO DE 2017.
 
 Institui o Programa de Recuperação Fiscal REFIS/PMAG.

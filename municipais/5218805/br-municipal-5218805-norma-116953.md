@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.879, de 2026-06-17
-
 LEI Nº 7.879, DE 17 DE JUNHO DE 2026.
 
 Autoriza a alienação de imóvel público municipal rural denominado Fazenda Granja Escola.

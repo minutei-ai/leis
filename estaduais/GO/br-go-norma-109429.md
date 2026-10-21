@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.961, de 2024-08-30
-
 LEI Nº 22.961, DE 30 DE AGOSTO DE 2024
 
 Institui a Política Estadual de Diagnóstico e Tratamento da Escoliose e dá outras providências.

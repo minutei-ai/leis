@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.666, de 1997-11-13
-
 LEI MUNICIPAL Nº 1.666 DE 13 DE NOVEMBRO DE 1997.<br>
 (Revogada pela Lei Ordinária nº 3.671, de 24 de maio de 2022).
 

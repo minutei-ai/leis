@@ -1,5 +1,3 @@
-# Decreto Numerado nº 101, de 2023-02-07
-
 DECRETO “N” Nº 101 DE 07 DE FEVEREIRO DE 2023
 
 Dispõe sobre remanejamento de imóveis situados no loteamento SETOR ARAGUAIA - ACRÉSCIMO, neste município.

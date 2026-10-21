@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.840, de 2025-11-14
-
 LEI Nº 23.840, DE 14 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual da Conservação do Cerrado no Estado de Goiás.

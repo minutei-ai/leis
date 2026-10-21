@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.532, de 2024-08-22
-
 DECRETO Nº 10.532, DE 22 DE AGOSTO DE 2024
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual no Município de Santa Cruz de Goiás.

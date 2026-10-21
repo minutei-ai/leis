@@ -1,5 +1,3 @@
-# Decreto Numerado nº 128, de 2024-03-08
-
 DECRETO “N” Nº 128 DE 08 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

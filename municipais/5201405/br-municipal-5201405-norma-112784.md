@@ -1,5 +1,3 @@
-# Decreto Numerado nº 128, de 2026-02-09
-
 DECRETO Nº 128, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 32, situado à Rua Rio Grande do Norte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

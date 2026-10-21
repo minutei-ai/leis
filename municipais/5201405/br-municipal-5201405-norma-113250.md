@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.459, de 2025-10-16
-
 DECRETO Nº 2.459, DE 16 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento do Lote 26 e 27, da Quadra 123, situado à Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

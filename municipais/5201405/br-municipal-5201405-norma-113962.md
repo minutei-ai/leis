@@ -1,5 +1,3 @@
-# Decreto Numerado nº 484, de 2024-06-19
-
 DECRETO “N” Nº 484, DE 19 DE JUNHO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidor da Secretaria Municipal da Educação.

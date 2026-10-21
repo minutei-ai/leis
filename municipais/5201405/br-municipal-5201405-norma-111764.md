@@ -1,5 +1,3 @@
-# Lei Complementar nº 73, de 2013-09-27
-
 LEI COMPLEMENTAR Nº. 73, DE 27 DE SETEMBRO DE 2013.
 
 Altera o Código Tributário do Município de Aparecida de Goiânia – Goiás, Lei Complemantar n. 46 de 21.12.2011, e dá outras providências.

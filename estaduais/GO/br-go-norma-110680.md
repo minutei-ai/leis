@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.419, de 2025-05-15
-
 LEI Nº 23.419, DE 15 DE MAIO DE 2025
 
 Institui o Dia Estadual do Advogado Eleitoralista.

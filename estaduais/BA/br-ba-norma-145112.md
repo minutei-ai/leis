@@ -1,5 +1,3 @@
-# LEI Nº 14.745 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.745 DE 25 DE JUNHO DE 2024
 
  Declara de utilidade pública a ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE MARAGOGIPE (APAE), com sede e foro no município de Maragogipe.

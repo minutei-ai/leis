@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.216, de 2025-09-12
-
 DECRETO Nº 2.216, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 30, situado à Rua 4 de Fevereiro com Alameda das Campinas, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.452, de 2023-12-12
-
 LEI Nº 7.452, DE 12 DE DEZEMBRO DE 2023.
 
 Aumenta o índice de suplementação contido na Lei nº 7.312, de 16 de dezembro de 2022, Lei Orçamentária Anual – LOA para o exercício de 2023.

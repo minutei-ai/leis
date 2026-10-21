@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.704, de 2024-05-20
-
 LEI Nº 22.704, DE 20 DE MAIO DE 2024
 
 Institui o selo “Empresa Amiga da Inclusão”.

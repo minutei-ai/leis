@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 32, de 2026-02-10
-
 Portaria Orçamentária nº 32/2026 - Economia
 
 A **Procuradoria-Geral de Justiça do Estado de Goiás**, representada pela Superintendente de Gestão Orçamentária e Compras do Ministério Público do Estado de Goiás, com fundamento na Portaria 2025004935171,

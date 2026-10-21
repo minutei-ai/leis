@@ -1,5 +1,3 @@
-# LEI Nº 15.099 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.099 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Movimento de Organização Comunitária (MOC), com sede e foro no município de Feira de Santana.

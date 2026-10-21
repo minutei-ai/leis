@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.786, de 1998-07-01
-
 LEI MUNICIPAL Nº 1.786, DE 01 DE JULHO DE 1.998.
 
 Cria, autoriza o funcionamento e denomina escola municipal, situada no setor JARDIM IPÊ, neste Município.

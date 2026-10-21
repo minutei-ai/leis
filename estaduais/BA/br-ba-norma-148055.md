@@ -1,5 +1,3 @@
-# LEI Nº 15.053 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.053 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação Centro de Educação Infantil João Paulo II – Creche João Paulo II, com sede e foro no município de Salvador.

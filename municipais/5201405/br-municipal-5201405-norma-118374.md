@@ -1,5 +1,3 @@
-# Decreto Numerado nº 615, de 2023-09-20
-
 DECRETO “N” Nº 615 DE 20 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

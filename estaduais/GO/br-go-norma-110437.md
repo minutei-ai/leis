@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.650, de 2025-02-25
-
 DECRETO Nº 10.650, DE 25 DE FEVEREIRO DE 2025
 
 Altera o [Decreto nº 10.433](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108654), de 8 de abril de 2024, que institui a Política Estadual de Governança das Empresas Estatais do Estado de Goiás.

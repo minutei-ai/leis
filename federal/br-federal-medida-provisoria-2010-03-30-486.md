@@ -1,5 +1,3 @@
-# Medida Provisória nº 486 de 30/03/2010
-
 ###MPV-000486-0-000-30-03-2010@@@
 
 MEDIDA PROVISÓRIA Nº 486, DE 30 DE MARÇO DE 2010.

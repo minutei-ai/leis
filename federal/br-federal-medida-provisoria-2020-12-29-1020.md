@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.020 de 29/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.020, DE 29 DE DEZEMBRO DE 2020
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 10.193.233.748,00, para o fim que especifica, e dá outras providências.

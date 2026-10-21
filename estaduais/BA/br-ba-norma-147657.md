@@ -1,5 +1,3 @@
-# LEI Nº 14.981 DE 22 DE SETEMBRO DE 2025
-
 LEI Nº 14.981 DE 22 DE SETEMBRO DE 2025
 
 Dispõe sobre o abono extraordinário a ser destinado, exclusivamente no ano de 2025, aos profissionais do Magistério da Educação Básica da Rede Pública do Estado, na forma que indica, e dá outras providências.

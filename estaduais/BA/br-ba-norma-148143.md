@@ -1,5 +1,3 @@
-# LEI Nº 15.072 DE 13 DE JANEIRO DE 2026
-
 LEI Nº 15.072 DE 13 DE JANEIRO DE 2026
 
 Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2026.

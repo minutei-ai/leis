@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.751, de 2017-10-03
-
 LEI Nº 6.751, DE 03 DE OUTUBRO DE 2017
 
 Altera Lei nº 5.981/2011, que instituiu Auxílio alimentação.

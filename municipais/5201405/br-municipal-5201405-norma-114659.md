@@ -1,5 +1,3 @@
-# Decreto Numerado nº 105, de 2024-03-04
-
 DECRETO “N” Nº 105 DE 04 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

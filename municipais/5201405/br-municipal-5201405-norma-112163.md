@@ -1,5 +1,3 @@
-# Decreto Numerado nº 5, de 2026-01-06
-
 DECRETO Nº 005, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua 08, no Loteamento Residencial Cândido Queiroz, no Município de Aparecida de Goiânia.

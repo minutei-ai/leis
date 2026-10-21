@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.030, de 2024-10-14
-
 LEI Nº 23.030, DE 14 DE OUTUBRO DE 2024
 
 Institui a Semana Estadual de Conscientização e Prevenção do Traumatismo Cranioencefálico – TCE.

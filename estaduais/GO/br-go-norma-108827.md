@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.677, de 2024-05-10
-
 LEI Nº 22.677, DE 10 DE MAIO DE 2024
 
 Estabelece sanções administrativas em casos de invasão de propriedades privadas, na forma que especifica.

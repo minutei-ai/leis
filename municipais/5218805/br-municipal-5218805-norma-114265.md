@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.712, de 2025-10-31
-
 LEI Nº 7.712, DE 22 DE SETEMBRO DE 2025
 
 Dispõe sobre denominação de ponte sobre o Rio Boa Vista, e dá outras providências.

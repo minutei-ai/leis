@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.826, de 2025-03-28
-
 LEI Nº 3.826, DE 28 DE MARÇO DE 2025
 
 Autoriza o Chefe do Poder Executivo Municipal a transferir ao Estado de Goiás o trecho rodoviário municipal que especifica.

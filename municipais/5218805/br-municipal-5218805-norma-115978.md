@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.366, de 2023-06-28
-
 Lei Nº 7.366, DE 28 DE JUNHO DE 2023
 
 Altera a Lei nº 6.815/2018, que autoriza a concessão de bolsas a médicos preceptores A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.305 de 14/07/2025
-
 MEDIDA PROVISÓRIA Nº 1.305, DE 14 DE JULHO DE 2025
 
 Dispõe sobre a isenção da cobrança da taxa de verificação inicial e subsequente de taxímetro.

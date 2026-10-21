@@ -1,5 +1,3 @@
-# Lei Complementar nº 204, de 2023-03-08
-
 LEI COMPLEMENTAR Nº 204, DE 08 DE MARÇO DE 2023.
 
 Revoga a Lei Complementar n° 147 de 10 de setembro de 2018 e dá outras providências.

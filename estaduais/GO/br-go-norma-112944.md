@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.096, de 2026-02-13
-
 LEI Nº 24.096, DE 13 DE FEVEREIRO DE 2026
 
 Institui a Política Estadual de Apoio Psicossocial e Psicopedagógico para Alunos em Situação de Vulnerabilidade Social.

@@ -1,5 +1,3 @@
-# Decreto nº 69.283, de 31/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210508)<br>
 
 # DECRETO N° 69.283, DE 31 DE DEZEMBRO DE 2024

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.511, de 2025-06-04
-
 DECRETO Nº 1.511, DE 4 DE JUNHO DE 2025 Autoriza o cancelamento da caução dos lotes em razão da conclusão das obras do Loteamento Jardim Bellagio, localizado neste município. O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, incisos III e VII, da Lei Orgânica do Município; considerando o disposto na Lei Complementar nº 124/2016; Lei Complementar nº 226/2023; e o contido no Processo Administrativo nº 2018.195.793,
 
 **DECRETA:**

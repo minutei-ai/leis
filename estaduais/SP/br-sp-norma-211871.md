@@ -1,5 +1,3 @@
-# Decreto nº 70.119, de 19/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211871)<br>
 
 # DECRETO N° 70.119, DE 19 DE NOVEMBRO DE 2025

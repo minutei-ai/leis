@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.603, de 2024-12-16
-
 DECRETO Nº 10.603, DE 16 DE DEZEMBRO DE 2024.
 
 Aprova o Estatuto da Universidade Estadual de Goiás – UEG.

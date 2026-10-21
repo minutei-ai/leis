@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.800, de 2010-05-16
-
 LEI COMPLEMENTAR Nº 5.800, DE 16 DE MAIO DE 2010.
 
 Altera Lei n. 3.635/98, Código de Posturas do Município.

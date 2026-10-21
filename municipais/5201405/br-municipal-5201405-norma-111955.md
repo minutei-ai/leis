@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.818, de 2025-01-15
-
 LEI Nº 3.818, DE 15 DE JANEIRO DE 2025
 
 Reconhece como Utilidade Pública Municipal a ASSOCIAÇÃO DA FAMÍLIA GOIANA (AFAGO), e dá outras providências.

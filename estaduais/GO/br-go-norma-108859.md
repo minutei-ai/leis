@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.707, de 2024-05-20
-
 LEI Nº 22.707, DE 20 DE MAIO DE 2024
 
 Institui o Dia Estadual do Samba e estabelece medidas para sua promoção e difusão no Estado de Goiás.

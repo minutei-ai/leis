@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.106, de 2026-02-19
-
 LEI Nº 24.106, DE 19 DE FEVEREIRO DE 2026.
 
 Confere ao Município de Montividiu/GO o título de “Capital Estadual dos Grãos”. 

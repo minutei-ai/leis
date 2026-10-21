@@ -1,5 +1,3 @@
-# Medida Provisória nº 705 de 23/12/2015
-
 MEDIDA PROVISÓRIA Nº 705, DE 23 DE DEZEMBRO DE 2015
 
 Altera a Lei nº 12.722, de 3 de outubro de 2012, que dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil.

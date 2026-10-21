@@ -1,5 +1,3 @@
-# Medida Provisória nº 428 de 12/05/2008
-
 ###MPV-000428-0-000-12-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 428, DE 12 DE MAIO DE 2008.

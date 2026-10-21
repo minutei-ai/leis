@@ -1,5 +1,3 @@
-# LCP nº 157, de 06/01/2021
-
 Altera a Lei Complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do Estado de Minas Gerais.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

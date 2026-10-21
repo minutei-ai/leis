@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.367, de 2017-06-27
-
 LEI MUNICIPAL Nº 3.367, DE 27 DE JUNHO DE 2017
 
 “Reconhece de Utilidade Pública Municipal o Instituto Esperança”.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 115, de 2026-01-29
-
 DECRETO Nº 115, DE 29 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Avenida Walkyria, no Loteamento Vila Santos Dumont, no Município de Aparecida de Goiânia.

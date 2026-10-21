@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.720, de 2025-11-12
-
 LEI Nº 7.720, DE 12 DE NOVEMBRO DE 2025.
 
 Altera a Lei nº 7.434 e 7.435/2023 e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.428, de 2025-10-09
-
 DECRETO Nº 2.428, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 28, da Quadra 60, situado à Rua Maria Luiza Póvoa da Cruz, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

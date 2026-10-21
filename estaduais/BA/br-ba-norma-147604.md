@@ -1,5 +1,3 @@
-# LEI Nº 14.973 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.973 DE 08 DE SETEMBRO DE 2025
 
 Dispõe sobre a criação de cargos de provimento em comissão no âmbito do Poder Judiciário do Estado da Bahia.

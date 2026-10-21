@@ -1,5 +1,3 @@
-# Medida Provisória nº 921 de 07/02/2020
-
 MEDIDA PROVISÓRIA Nº 921, DE 7 DE FEVEREIRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 11.287.803,00, para os fins que especifica.

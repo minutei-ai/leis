@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.283, de 2015-11-10
-
 LEI MUNICIPAL Nº 3.283, DE 10 DE NOVEMBRO DE 2015.
 
 Dá nome ao CMEI do Setor Village Garavelo, neste Município.

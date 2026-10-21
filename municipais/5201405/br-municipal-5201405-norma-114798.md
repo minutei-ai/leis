@@ -1,5 +1,3 @@
-# Decreto Numerado nº 169, de 2024-03-25
-
 DECRETO “N” Nº 169 DE 25 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

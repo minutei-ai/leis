@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.528, de 2019-12-09
-
 LEI MUNICIPAL Nº 3.528, DE 09 DE DEZEMBRO DE 2019.
 
 Altera a Lei Municipal nº 2.470, de 25 de junho de 2004, que Desafeta, desapropria e autoriza doação de imóveis para o Estado de Goias, SITUADO NOS LOTEAMENTOS Pontal Sul (Vila Oliveira) e Cidade Vera Cruz I neste Município, destinados à construção de escolas.

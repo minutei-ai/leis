@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.029, de 2024-10-10
-
 LEI Nº 23.029, DE 10 DE OUTUBRO DE 2024
 
 Institui a Política Estadual de Proteção e Atenção às Mães Atípicas e a Semana Estadual das Mães Atípicas.

@@ -1,5 +1,3 @@
-# Decreto nº 70.130, de 26/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211895)<br>
 
 # DECRETO N° 70.130, DE 26 DE NOVEMBRO DE 2025

@@ -1,5 +1,3 @@
-# Lei Complementar nº 91, de 2017-06-20
-
 LEI COMPLEMENTAR Nº 91, DE 20 DE JUNHO DE 2017.
 
 Altera o Anexo II da Lei 3.853/1999 – Plano de Cargos e Vencimentos.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 711 de 18/01/2016
-
 MEDIDA PROVISÓRIA Nº 711, DE 18 DE JANEIRO DE 2016
 
 Abre crédito extraordinário, em favor de diversos órgãos dos Poderes Legislativo e Judiciário, da Defensoria Pública da União e do Ministério Público da União, no valor de R$ 419.460.681,00, para os fins que especifica.

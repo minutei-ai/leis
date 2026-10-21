@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.642, de 2025-02-06
-
 DECRETO Nº 10.642, DE 6 DE FEVEREIRO DE 2025
 
 Dispõe sobre a criação, na Polícia Militar do Estado de Goiás, do 56º Batalhão de Polícia Militar.

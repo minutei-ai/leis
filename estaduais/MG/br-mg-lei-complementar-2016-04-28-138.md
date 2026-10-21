@@ -1,5 +1,3 @@
-# LCP nº 138, de 28/04/2016
-
 Dispõe sobre a licença para tratamento de saúde dos servidores atingidos pela decisão do Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade nº 4.876 e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

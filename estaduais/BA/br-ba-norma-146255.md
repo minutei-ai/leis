@@ -1,5 +1,3 @@
-# LEI Nº 14.876 DE 12 DE FEVEREIRO DE 2025
-
 LEI Nº 14.876 DE 12 DE FEVEREIRO DE 2025
 
 Denomina Rodovia Lucas Caribé a BA-528, rodovia estadual localizada na Região Metropolitana de Salvador, também conhecida como Estrada do Derba.

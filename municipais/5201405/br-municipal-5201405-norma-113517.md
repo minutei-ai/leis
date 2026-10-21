@@ -1,5 +1,3 @@
-# Decreto Numerado nº 178, de 2026-03-10
-
 DECRETO Nº 178, DE 10 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua Itaipú, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

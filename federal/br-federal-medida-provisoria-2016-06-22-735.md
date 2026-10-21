@@ -1,5 +1,3 @@
-# Medida Provisória nº 735 de 22/06/2016
-
 MEDIDA PROVISÓRIA Nº 735, DE 22 DE JUNHO DE 2016
 
 Altera as [Leis nº 5.655, de 20 de maio de 1971](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-05-20;5655), nº [10.438, de 26 de abril de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-04-26;10438), nº [12.783, de 11 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-11;12783), nº [9.074, de 7 de julho de 1995](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1995-07-07;9074), e nº [9.491, de 9 de setembro de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-09;9491), e dá outras providências.

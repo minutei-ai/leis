@@ -1,5 +1,3 @@
-# Medida Provisória nº 1 de 19/09/2001
-
 ###MPV-000001-0-000-19-09-2001@@@
 
 MEDIDA PROVISÓRIA Nº 1, DE 19 DE SETEMBRO DE 2001

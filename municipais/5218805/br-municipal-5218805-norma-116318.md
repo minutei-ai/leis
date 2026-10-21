@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.256, de 2022-05-03
-
 LEI N° 7.256, DE 3 DE MAIO DE 2022
 
 Altera a Lei n. 7.210/2021.

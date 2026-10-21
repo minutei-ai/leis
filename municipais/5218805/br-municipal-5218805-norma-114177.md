@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.739, de 2025-11-12
-
 LEI Nº 7.739, DE 12 DE NOVEMBRO DE 2025.
 
 Reconhece como Utilidade Pública Municipal a “Cooperativa Mista dos Agricultores Familiares Economia Solidária e Produção Agroecológica de Rio Verde e Região – COOPAF” e dá outras providências.

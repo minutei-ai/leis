@@ -1,5 +1,3 @@
-# Decreto Numerado nº 97, de 2023-02-06
-
 DECRETO “N” Nº 97 DE 06 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento de imóveis do Loteamento JARDIM TIRADENTES, neste município.

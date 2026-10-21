@@ -1,5 +1,3 @@
-# Medida Provisória nº 496 de 19/07/2010
-
 ###MPV-000496-0-000-19-07-2010@@@
 
 MEDIDA PROVISÓRIA Nº 496, DE 19 DE JULHO DE 2010.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 297, de 2026-04-15
-
 DECRETO Nº 297, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 47, situado à Avenida Brasil, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

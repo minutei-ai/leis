@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.123, de 2026-03-11
-
 LEI Nº 24.123, DE 11 DE MARÇO DE 2026.
 
 Altera a [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965), de 12 de maio de 2017, que dispõe sobre a criação de Colégios da Polícia Militar do Estado de Goiás – CPMG – nos municípios que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.638, de 2021-12-15
-
 LEI MUNICIPAL Nº 3.638, DE 15 DE DEZEMBRO DE 2021.
 
 Altera o §1º do art. 7º da Lei Municipal n° 2.761/2008 que instituiu o Conselho Municipal de Saúde. 

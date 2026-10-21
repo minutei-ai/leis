@@ -1,5 +1,3 @@
-# Lei Complementar nº 457, de 2026-04-23
-
 LEI COMPLEMENTAR Nº 457, DE 23 DE ABRIL DE 2026.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

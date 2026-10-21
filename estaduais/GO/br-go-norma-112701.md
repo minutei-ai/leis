@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.068, de 2026-02-04
-
 LEI Nº 24.068, DE 4 DE FEVEREIRO DE 2026
 
 Dá denominação ao próprio público que especifica.

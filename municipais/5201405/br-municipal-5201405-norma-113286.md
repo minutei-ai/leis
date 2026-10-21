@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.391, de 2025-10-08
-
 DECRETO Nº 2.391, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 23, da Quadra 68, situado Rua Catanduva, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 20, de 2023-01-18
-
 DECRETO “N” Nº 20 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RETIRO DO BOSQUE, neste município.

@@ -1,5 +1,3 @@
-# LD Nº 65 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 65 DE 01 DE JUNHO DE 1983
 
 Autoriza a criação da Fundação Instituto de Radiodifusão Educativa da Bahia - IRDEB e dá outras providências.

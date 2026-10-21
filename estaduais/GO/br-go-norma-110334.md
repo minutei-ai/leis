@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.621, de 2025-01-07
-
 DECRETO Nº 10.621, DE 7 DE JANEIRO DE 2025
 
 Dispõe sobre prazos processuais previstos na [Lei nº 16.469](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98683), de 19 de janeiro de 2009, que regula o processo administrativo tributário e dispõe sobre os órgãos vinculados ao julgamento administrativo de questões de natureza tributária, e na Lei federal nº 13.105 (Código de Processo Civil), de 16 de março de 2015.

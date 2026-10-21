@@ -1,5 +1,3 @@
-# Lei nº 18.153, de 02/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210998)<br>
 
 # LEI N° 18.153, DE 02 DE JUNHO DE 2025

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.682, de 2025-06-30
-
 LEI Nº 7.682, DE 30 DE JUNHO DE 2025.
 
 Reconhece entidade como Utilidade Pública Municipal e dá outras providências.

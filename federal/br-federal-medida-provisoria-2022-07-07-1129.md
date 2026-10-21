@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.129 de 07/07/2022
-
 MEDIDA PROVISÓRIA Nº 1.129, DE 7 DE JULHO DE 2022
 
 Altera a Lei nº 12.343, de 2 de dezembro de 2010, para ampliar o período de vigência do Plano Nacional de Cultura.

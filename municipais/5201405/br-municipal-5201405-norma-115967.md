@@ -1,5 +1,3 @@
-# Decreto Numerado nº 646, de 2024-08-09
-
 DECRETO “N” Nº 646, DE 09 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóveis.

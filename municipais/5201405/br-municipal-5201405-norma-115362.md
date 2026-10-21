@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.676, de 2022-07-08
-
 LEI MUNICIPAL Nº 3.676 DE 08 DE JULHO DE 2022.
 
 “Reconhece como Utilidade Pública Municipal a “Organização de Mulheres em Ação Vila Delfiore - OMAVIDE” e dá outras providências.

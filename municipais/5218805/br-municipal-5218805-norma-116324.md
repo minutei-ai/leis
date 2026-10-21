@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.284, de 2022-06-27
-
 LEI N° 7.284, DE 27 DE JUNHO DE 2022
 
 Cria comenda que menciona.

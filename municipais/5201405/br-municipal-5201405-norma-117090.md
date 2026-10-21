@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.206, de 2014-08-08
-
 LEI MUNICIPAL Nº 3.206, DE 08 DE AGOSTO DE 2014.
 
 Dá nome ao Centro Municipal de Educação Infantil – CMEI, situado no Jardim Bonança, neste município.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 103, de 2015-07-17
-
 LEI COMPLEMENTAR Nº 103, DE 17 DE JULHO DE 2015.
 
 Altera o caput do art. 74 da Lei Complementar n° 005, de 30 de janeiro de 2002 e acrescenta seus parágrafos 1º a 6º.

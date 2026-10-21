@@ -1,5 +1,3 @@
-# LEI Nº 15.139 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.139 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública a Associação das Mulheres do Bairro da CONCIC - AMBAC, com sede e foro no município de Itaberaba.

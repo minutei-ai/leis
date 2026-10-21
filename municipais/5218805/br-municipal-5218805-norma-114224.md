@@ -1,5 +1,3 @@
-# Lei Complementar nº 422, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 422, DE 31 DE OUTUBRO DE 2025.
 
 Cria Zona Urbana Específica para fins de implantação de condomínio de lotes - Fazenda São Tomaz Abóbora e Retiro, inscrita na matrícula nº 110.882 do Cartório de Registro de Imóveis de Rio Verde - GO.

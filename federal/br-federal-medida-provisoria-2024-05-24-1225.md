@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.225 de 24/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.225, DE 24 DE MAIO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Agricultura e Pecuária e do Desenvolvimento Agrário e Agricultura Familiar, no valor de R$ 6.698.923.000,00, para os fins que especifica.

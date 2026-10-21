@@ -1,5 +1,3 @@
-# Medida Provisória nº 75 de 24/10/2002
-
 MEDIDA PROVISÓRIA Nº 75, DE 24 DE OUTUBRO DE 2002
 
 Altera a Legislação Tributária Federal, e dá outras providências.

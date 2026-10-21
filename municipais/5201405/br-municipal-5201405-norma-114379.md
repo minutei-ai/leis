@@ -1,5 +1,3 @@
-# Decreto Numerado nº 15, de 2024-01-17
-
 DECRETO “N” Nº 15 DE 17 DE JANEIRO DE 2024.<br>
 (Revogado pelo Decreto “N” Nº 474 de 19 de junho de 2024).
 

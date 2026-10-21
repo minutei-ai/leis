@@ -1,5 +1,3 @@
-# LEI Nº 15.108 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.108 DE 28 DE JANEIRO DE 2026
 
  Denomina "Júlio César de Queiroz Teixeira” o anel viário de Xique-Xique que liga a BA-052, conhecida como Estrada do Feijão, à BA-160.

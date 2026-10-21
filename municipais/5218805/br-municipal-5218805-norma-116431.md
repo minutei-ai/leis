@@ -1,5 +1,3 @@
-# Lei Complementar nº 40, de 2015-09-02
-
 LEI COMPLEMENTAR Nº  40 , DE 02 DE SETEMBRO DE 2015.
 
  <br>

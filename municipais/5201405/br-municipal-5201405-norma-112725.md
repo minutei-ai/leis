@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.772, de 2024-03-01
-
 LEI MUNICIPAL Nº 3.772, DE 01 DE MARÇO DE 2024.
 
 Reconhece como utilidade pública Municipal a entidade denominada Associação Lar doce Lar.

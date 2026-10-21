@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.727, de 2023-08-09
-
 LEI MUNICIPAL Nº 3.727, DE 09 DE AGOSTO DE 2023
 
 Dispõe sobre a criação do Fundo Municipal de Cultura – FMC e revoga os arts. 48 e 51 da Lei Municipal nº 3.669, de 19 de maio de 2022, que dispõe sobre o Sistema Municipal de Cultura de Aparecida de Goiânia, seus princípios objetivos, estrutura, organização, gestão, interrelações entre os seus componentes, recursos humanos, financiamento e dá outras providências.

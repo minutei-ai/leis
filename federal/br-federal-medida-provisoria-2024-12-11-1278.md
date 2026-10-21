@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.278 de 11/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.278, DE 11 DE DEZEMBRO DE 2024
 
 Autoriza a União a participar de fundo que tenha por finalidade apoiar a requalificação e a recuperação de infraestruturas nas áreas afetadas por eventos climáticos extremos e apoiar empreendimentos de infraestrutura relacionados à mitigação e à adaptação às mudanças climáticas.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 680 de 06/07/2015
-
 MEDIDA PROVISÓRIA Nº 680, DE 6 DE JULHO DE 2015
 
 Institui o Programa de Proteção ao Emprego e dá outras providências.

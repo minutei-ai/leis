@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.877, de 2026-06-17
-
 LEI Nº 7.877, DE 17 DE JUNHO DE 2026.
 
 Altera a Lei nº 7.793, de 15 de dezembro de 2025, que dispõe sobre a criação da Central de Abastecimento do Cinturão Verde - CEACE.

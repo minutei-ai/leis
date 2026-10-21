@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.699, de 2023-03-08
-
 LEI MUNICIPAL N° 3.699, DE 08 DE MARÇO DE 2023.
 
 Dispõe sobre a homenagem e dá nome a sede do edifício do APARECIDAPREV, em nome Sebastião Ramoncito Nunes, e dá outras providências.

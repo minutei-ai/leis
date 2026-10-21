@@ -1,5 +1,3 @@
-# Decreto nº 69.383, de 26/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210678)<br>
 
 # DECRETO N° 69.383, DE 26 DE FEVEREIRO DE 2025

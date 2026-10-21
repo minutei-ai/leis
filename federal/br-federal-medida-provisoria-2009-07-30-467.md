@@ -1,5 +1,3 @@
-# Medida Provisória nº 467 de 30/07/2009
-
 ###MPV-000467-0-000-30-07-2009@@@
 
 MEDIDA PROVISÓRIA Nº 467, DE 30 DE JULHO DE 2009.

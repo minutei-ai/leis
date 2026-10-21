@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.539, de 2020-01-16
-
 LEI MUNICIPAL Nº 3.539, DE 16 DE JANEIRO DE 2020.
 
 “Reconhece de Utilidade Pública Municipal a “Organização de Voluntárias Ladies do Bem” e dá outras providências.”

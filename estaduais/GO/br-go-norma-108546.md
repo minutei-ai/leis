@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.572, de 2024-03-19
-
 LEI Nº 22.572, DE 19 DE MARÇO DE 2024
 
 Institui medidas facilitadoras para que o contribuinte negocie seus débitos relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS; altera a [Lei nº 22.460](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108221), de 12 de dezembro de 2023, que altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, Código Tributário do Estado de Goiás – CTE; e dá outras providências.

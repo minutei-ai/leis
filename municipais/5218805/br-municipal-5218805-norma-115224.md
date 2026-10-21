@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.437, de 2023-10-23
-
 LEI Nº 7.437, DE 23 DE OUTUBRO DE 2023.
 
 Altera o artigo 4º da Lei nº 6.951/2019, passando a denominar-se Centro Municipal de Educação Infantil CMEI - Professora Terezinha Vieira de Oliveira e dá outras providências.

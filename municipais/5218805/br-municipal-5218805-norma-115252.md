@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.413, de 2023-08-28
-
 **LEI N° 7.413, DE 28 DE AGOSTO DE 2023.**
 
 Institui, no Calendário Oficial de Eventos no âmbito do Município de Rio Verde o Dia de Combate à Intolerância Religiosa e dá outras providências.

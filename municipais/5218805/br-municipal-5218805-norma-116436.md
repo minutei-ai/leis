@@ -1,5 +1,3 @@
-# Lei Complementar nº 51, de 2015-12-14
-
 LEI COMPLEMENTAR Nº 51 ,DE 14 DE DEZEMBRO DE 2015.
 
 Altera Lei 3.853/1999 com posteriores alterações e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 298, de 2026-04-16
-
 DECRETO Nº 298, DE 16 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento do Lotes Mansão 01, 02, 03, 04, 05, 06, 07 e 08, situados à Rua da Independência, Rua Dom Pedro I e Rua do Imperador, no Loteamento Jardim Imperial, no Município de Aparecida de Goiânia.

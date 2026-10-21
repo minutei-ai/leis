@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.213, de 2026-04-08
-
 LEI Nº 24.213, DE 8 DE ABRIL DE 2026
 
 Institui o Dia Estadual do Cinegrafista e dá outras providências.

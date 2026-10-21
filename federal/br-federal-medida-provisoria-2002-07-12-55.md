@@ -1,5 +1,3 @@
-# Medida Provisória nº 55 de 12/07/2002
-
 ###MPV-000055-0-000-12-07-2002@@@
 
 MEDIDA PROVISÓRIA Nº 55, DE 12 DE JULHO DE 2002

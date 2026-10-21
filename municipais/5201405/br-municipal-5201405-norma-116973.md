@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.263, de 2015-05-22
-
 LEI MUNICIPAL Nº 3.263, DE 22 DE MAIO DE 2015.
 
 Dá nome à Unidade Básica de Saúde (UBS), situado no Setor Campos Elíseos, neste município.

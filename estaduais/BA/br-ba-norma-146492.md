@@ -1,5 +1,3 @@
-# LEI Nº 14.884 DE 15 DE ABRIL DE 2025
-
 LEI Nº 14.884 DE 15 DE ABRIL DE 2025
 
 Dispõe sobre a Política Estadual de Assistência aos Filhos (as) de Mulheres Apenadas, e dá outras providências.

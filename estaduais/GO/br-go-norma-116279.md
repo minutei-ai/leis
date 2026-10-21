@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.475, de 2026-07-24
-
 LEI Nº 24.475, DE 24 DE JULHO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.238, de 2002-01-17
-
 LEI Nº 4.238, DE 17 DE JANEIRO DE 2002.
 
 Altera quantitativo de cargos que menciona e autoriza a realização de concurso público.

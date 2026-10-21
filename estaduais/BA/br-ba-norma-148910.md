@@ -1,5 +1,3 @@
-# LEI Nº 15.192 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.192 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação Beneficente e Cultural Filarmônica e Orquestra Clássica Popular de Jequié, com sede e foro em Jequié.

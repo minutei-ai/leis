@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.608, de 2024-04-11
-
 LEI Nº 22.608, DE 11 DE ABRIL DE 2024
 
 Altera a [Lei nº 7.371](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90051), de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.

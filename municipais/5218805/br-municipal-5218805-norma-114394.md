@@ -1,5 +1,3 @@
-# Lei Complementar nº 415, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 415, DE 31 DE OUTUBRO DE 2025.
 
 Altera a [Lei nº 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170 "Abrir Lei Ordinária nº 3968, de 2000 em nova aba"), de 31 de agosto de 2000, que dispõe sobre o Estatuto dos Funcionários do Município de Rio Verde – GO.

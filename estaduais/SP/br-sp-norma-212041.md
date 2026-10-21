@@ -1,5 +1,3 @@
-# Decreto nº 70.235, de 19/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212041)<br>
 
 # DECRETO N° 70.235, DE 19 DE DEZEMBRO DE 2025

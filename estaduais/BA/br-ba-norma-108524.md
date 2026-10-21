@@ -1,5 +1,3 @@
-# LD Nº 79 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 79 DE 03 DE JUNHO DE 1983
 
 Autoriza o Poder Executivo a instituir a Fundação Centro Estadual de Planejamento Agrícola-CEPA e dá outras providências.

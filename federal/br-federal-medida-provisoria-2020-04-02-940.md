@@ -1,5 +1,3 @@
-# Medida Provisória nº 940 de 02/04/2020
-
 MEDIDA PROVISÓRIA Nº 940, DE 2 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 9.444.373.172,00, para os fins que especifica.

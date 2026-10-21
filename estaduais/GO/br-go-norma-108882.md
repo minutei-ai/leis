@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.722, de 2024-05-28
-
 LEI Nº 22.722, DE 28 DE MAIO DE 2024
 
 Institui o Dia Estadual do Romeiro de Nossa Senhora da Penha e dá outras providências.

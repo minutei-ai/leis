@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.183, de 2021-11-06
-
 LEI Nº 7.183, DE 06 DE OUTUBRO DE 2021.
 
 Denomina nome de Avenida que especifica e dá outras providências, etc.

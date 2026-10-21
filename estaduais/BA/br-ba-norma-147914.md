@@ -1,5 +1,3 @@
-# LEI Nº 15.023 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.023 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a Associação Integrada Tocando a Vida com Amor - AITVA, com sede e foro no município de Santo Antônio de Jesus.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.039, de 2024-10-28
-
 LEI Nº 23.039, DE 28 DE OUTUBRO DE 2024
 
 Abre crédito especial à Secretaria de Estado do Entorno do Distrito Federal – SEDF.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 56, de 2023-01-24
-
 DECRETO “N” Nº 56 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre remanejamento de imóveis situados no Loteamento RESIDENCIAL JARDIM MARSELHA, neste município.

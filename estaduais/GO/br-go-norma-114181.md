@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.900, de 2026-04-30
-
 DECRETO Nº 10.900, DE 30 DE ABRIL DE 2026
 
 Altera o [Decreto nº 10.860](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112578), de 29 de janeiro de 2026, que estabelece, para o exercício de 2026, os limites anuais de empenho e pagamento referentes aos órgãos e às entidades das administrações direta e indireta, bem como das empresas estatais dependentes.

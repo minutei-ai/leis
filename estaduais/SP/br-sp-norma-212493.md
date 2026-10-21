@@ -1,5 +1,3 @@
-# Decreto nº 70.547, de 15/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212493)<br>
 
 # DECRETO N° 70.547, DE 15 DE ABRIL DE 2026

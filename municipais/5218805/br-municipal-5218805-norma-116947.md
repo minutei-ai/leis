@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.872, de 2026-06-17
-
 LEI Nº 7.872, DE 17 DE JUNHO DE 2026.
 
 Institui a Política Municipal de Incentivo à Mobilidade Elétrica Sustentável no âmbito do Município de Rio Verde.

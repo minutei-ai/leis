@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.277, de 2022-06-27
-
 LEI N° 7.277, DE 27 DE JUNHO DE 2022
 
 Concede Licença Remunerada.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.145 de 02/05/2001
-
 ###MPV-002145-0-000-02-05-2001@@@
 
 MEDIDA PROVISÓRIA N° 2.145, DE 2 DE MAIO DE 2001

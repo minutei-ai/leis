@@ -1,5 +1,3 @@
-# Lei Complementar nº 126, de 2017-02-22
-
 LEI COMPLEMENTAR Nº 126, DE 22 DE FEVEREIRO DE 2017
 
 Institui o Contrato de Gestão e o Conselho de Eficácia de Gestão no âmbito do Poder Executivo, altera a Lei Complementar nº 003/2001 quanto à concessão de gratificações e adicionais e o Anexo III da Lei Complementar nº 125/2017, e dá outras providências.

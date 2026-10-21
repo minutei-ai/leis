@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.918, de 2026-05-25
-
 DECRETO Nº 10.918, DE 25 DE MAIO DE 2026
 
 Desqualifica como organização social, no Estado de Goiás, a Fundação Antares de Ensino Superior, Pós-Graduação, Pesquisa e Extensão – FAESPE.

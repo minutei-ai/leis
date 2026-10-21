@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.991, de 2026-10-07
-
 DECRETO Nº 10.991, DE 7 DE OUTUBRO DE 2026
 
 Qualifica como prioritária a obra de infraestrutura rodoviária que especifica, para a concessão de crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, nos termos da alínea "f" do inciso XVI do art. 12 do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266) (Regulamento do Código Tributário do Estado de Goiás), de 29 de dezembro de 1997.

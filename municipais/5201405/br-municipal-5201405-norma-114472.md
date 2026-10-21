@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.902, de 2026-05-14
-
 LEI Nº 3.902, DE 14 DE MAIO DE 2026
 
 Dispõe sobre a criação da Escola Municipal Campos Elísios.

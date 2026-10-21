@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.598, de 2024-12-11
-
 DECRETO Nº 10.598, DE 11 DE DEZEMBRO DE 2024<br>
 \- [Vide Lei nº 20.756, de 28-1-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979/lei-20756), art. 66, II - Competência para movimentação (disposição) de servidor.   
 

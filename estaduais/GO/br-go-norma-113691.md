@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.185, de 2026-03-30
-
 LEI Nº 24.185, DE 30 DE MARÇO DE 2026
 
 Altera a [Lei nº 19.179](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98359 "Abrir Lei Ordinária nº 19179, de 2015 em nova aba"), de 29 de dezembro de 2015, que institui o regime de previdência complementar no âmbito do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.787, de 2025-12-15
-
 LEI Nº 7.787, DE 15 DE DEZEMBRO DE 2025.
 
 Autoriza a desafetação de área de propriedade do Poder Público objetivando a dação em pagamento em razão de desapropriações.

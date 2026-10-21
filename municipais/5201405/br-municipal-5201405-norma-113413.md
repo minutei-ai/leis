@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.234, de 2025-09-18
-
 DECRETO Nº 2.234, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 125, situado à Rua Célia Câmara, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

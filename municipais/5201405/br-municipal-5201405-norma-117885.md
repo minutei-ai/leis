@@ -1,5 +1,3 @@
-# Decreto Numerado nº 161, de 2023-03-14
-
 DECRETO “N” Nº 161 DE 14 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL-2ª ETAPA, neste município.

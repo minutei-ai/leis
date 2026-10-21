@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.444, de 2023-11-27
-
 LEI Nº 7.444, DE 27 DE NOVEMBRO DE 2023.
 
 Autoriza o Município a realizar Termo de Colaboração, por meio de transferência de recursos financeiros, entre a Administração Pública Municipal e o Instituto Videira de Rio Verde.

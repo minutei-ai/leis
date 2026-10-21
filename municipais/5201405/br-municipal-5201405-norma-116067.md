@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.155, de 2013-12-30
-
 LEI MUNICIPAL Nº 3.155, DE 30 DE DEZEMBRO DE 2013.
 
 Dispõe sobre o Programa Municipal de Parceria Público-Privada, cria o Comitê Gestor de Parceria Público-Privada do Município de Aparecida de Goiânia – CGPPP – e autoriza o Poder Executivo a instituir o Fundo de Garantia de Parceria Público-Privada Municipal – FGPPPM.

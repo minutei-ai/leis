@@ -1,5 +1,3 @@
-# Decreto Numerado nº 84, de 2026-01-26
-
 DECRETO Nº 084, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 29, situado à Rua Rodrigo Veiga Gouthier, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

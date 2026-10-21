@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.882, de 2025-12-30
-
 LEI Nº 3.882, DE 30 DE DEZEMBRO DE 2025
 
 Institui a Política Municipal de Monitoramento de Preços de Combustíveis no Município de Aparecida de Goiânia e dá outras providências.

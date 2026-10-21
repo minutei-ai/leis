@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.200, de 2025-01-09
-
 LEI Nº 23.200, DE 9 DE JANEIRO DE 2025
 
 Dá denominação ao próprio público que especifica.

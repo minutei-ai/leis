@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.233, de 2014-12-15
-
 LEI MUNICIPAL N° 3.233, DE 15 DE DEZEMBRO DE 2014.
 
 “Dá nome ao Centro de Artes e Esportes Unificados - CEUs, situado na Praça A02 da Avenida V-5, Cidade Vera Cruz II, neste Município.”

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.414, de 2024-02-27
-
 DECRETO Nº 10.414, DE 27 DE FEVEREIRO DE 2024
 
 Altera o [Decreto estadual nº 9.696](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103279), de 15 de julho de 2020, que regulamenta a [Lei estadual nº 20.490](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100692), de 14 de junho de 2019, que institui o Fundo Estadual do Trabalho – FET e dá outras providências.

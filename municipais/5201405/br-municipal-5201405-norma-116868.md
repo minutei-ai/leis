@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.311, de 2016-04-19
-
 LEI MUNICIPAL Nº 3.311, DE 19 DE ABRIL DE 2016.
 
 “Dá nome à Praça JEROLINO TEIXEIRA GOMES no Bairro Cidade Vera Cruz I, em Aparecida de Goiânia - GO”.

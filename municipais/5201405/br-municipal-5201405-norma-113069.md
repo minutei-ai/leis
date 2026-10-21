@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.751, de 2025-12-08
-
 DECRETO Nº 2.751, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Zeolitas, no Loteamento Pontal Sul - Acréscimo, no Município de Aparecida de Goiânia.

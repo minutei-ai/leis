@@ -1,5 +1,3 @@
-# Decreto Numerado nº 228, de 2023-04-10
-
 DECRETO “N” Nº 228 DE 10 DE ABRIL DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento ALL PARK POLO EMPRESARIAL, neste município.

@@ -1,5 +1,3 @@
-# LEI Nº 14.908 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.908 DE 20 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação dos Produtores de Leite do Sudoeste da Bahia, com sede e foro no município de Vitória da Conquista.

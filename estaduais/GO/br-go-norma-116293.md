@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.962, de 2026-07-24
-
 DECRETO Nº 10.962, DE 24 DE JULHO DE 2026
 
 Declara emergência ambiental no Estado de Goiás no ano de 2026 em razão da alta probabilidade de ocorrência de incêndios florestais.

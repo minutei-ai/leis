@@ -1,5 +1,3 @@
-# Decreto Numerado nº 122, de 2026-01-30
-
 DECRETO Nº 122, DE 30 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Santa Cruz, no Loteamento Bairro Independência – 3 º Complemento, no Município de Aparecida de Goiânia.

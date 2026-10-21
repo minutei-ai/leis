@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.390, de 2023-08-28
-
 LEI N. 7.390, DE 28 DE AGOSTO DE 2023
 
 Autoriza a desafetação de área localizada no Residencial Canaã II.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.726, de 2025-07-09
-
 DECRETO Nº 10.726, DE 9 DE JULHO DE 2025
 
 Altera o [Decreto nº 10.348](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108110), de 21 de novembro de 2023, que institui o Pacto Goiás Sem Racismo.

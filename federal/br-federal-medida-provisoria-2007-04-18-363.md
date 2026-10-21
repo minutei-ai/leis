@@ -1,5 +1,3 @@
-# Medida Provisória nº 363 de 18/04/2007
-
 ###MPV-000363-0-000-18-04-2007@@@
 
 MEDIDA PROVISÓRIA Nº 363, DE 18 DE ABRIL DE 2007.

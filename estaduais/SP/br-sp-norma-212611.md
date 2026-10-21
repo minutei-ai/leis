@@ -1,5 +1,3 @@
-# Decreto nº 70.617, de 13/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212611)<br>
 
 # DECRETO N° 70.617, DE 13 DE MAIO DE 2026

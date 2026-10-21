@@ -1,5 +1,3 @@
-# Decreto Numerado nº 255, de 2026-03-25
-
 DECRETO Nº 255, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Rio Azul, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

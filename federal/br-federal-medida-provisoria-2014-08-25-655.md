@@ -1,5 +1,3 @@
-# Medida Provisória nº 655 de 25/08/2014
-
 MEDIDA PROVISÓRIA Nº 655, DE 25 DE AGOSTO DE 2014
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 5.400.000.000,00, para o fim que especifica.

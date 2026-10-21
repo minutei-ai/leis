@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.717, de 2025-12-02
-
 DECRETO Nº 2.717, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Sergipe, no Loteamento Setor Santo André, no Município de Aparecida de Goiânia.

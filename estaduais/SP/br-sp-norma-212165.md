@@ -1,5 +1,3 @@
-# Decreto nº 70.337, de 12/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212165)<br>
 
 # DECRETO N° 70.337, DE 12 DE JANEIRO DE 2026

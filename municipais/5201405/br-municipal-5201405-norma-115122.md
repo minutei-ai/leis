@@ -1,5 +1,3 @@
-# Decreto Numerado nº 443, de 2026-06-02
-
 DECRETO Nº 443, DE 2 DE JUNHO DE 2026
 
 Altera a caracterização de imóveis específicos do Loteamento Parque Évora e dá outras providências.

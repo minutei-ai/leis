@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.358 de 13/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.358, DE 13 DE MAIO DE 2026
 
 Autoriza a concessão de subvenção econômica aos produtores e importadores de combustíveis derivados de petróleo, com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio, e altera Medida a Provisória nº 1.355, de 4 de maio de 2026.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 326, de 2026-05-04
-
 DECRETO Nº 326, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Alameda dos Gansos, no Loteamento Parque Floresta, no Município de Aparecida de Goiânia.

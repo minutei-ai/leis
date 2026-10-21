@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.773, de 2024-03-01
-
 LEI MUNICIPAL Nº 3.773, DE 01 DE MARÇO DE 2024.
 
 Institui a Política Municipal de Incentivo à Prática de Esportes para Idosos e dá outras providências.

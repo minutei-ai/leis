@@ -1,5 +1,3 @@
-# Decreto Numerado nº 412, de 2023-06-22
-
 DECRETO “N” Nº 412 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no SETOR GARAVELO, neste município.

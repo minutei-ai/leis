@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.892, de 2026-04-07
-
 DECRETO Nº 10.892, DE 7 DE ABRIL DE 2026
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

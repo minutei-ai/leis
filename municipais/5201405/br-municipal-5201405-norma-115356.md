@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.671, de 2022-05-24
-
 LEI MUNICIPAL Nº 3.671 DE 24 DE MAIO DE 2022.
 
 Revoga a Lei Municipal nº 1.666, de 13 de novembro de 1997 e dá outras providências.

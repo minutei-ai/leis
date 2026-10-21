@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.379, de 2003-06-16
-
 LEI MUNICIPAL Nº 2.379, DE 16 DE JUNHO DE 2003.
 
 Altera dispositivos da Lei Municipal nº 2.229, de 18/12/01, que dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia.

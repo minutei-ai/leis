@@ -1,5 +1,3 @@
-# Medida Provisória nº 365 de 23/04/2007
-
 ###MPV-000365-0-000-23-04-2007@@@
 
 MEDIDA PROVISÓRIA Nº 365, DE 23 DE ABRIL DE 2007.

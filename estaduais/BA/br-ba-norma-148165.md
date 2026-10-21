@@ -1,5 +1,3 @@
-# LEI Nº 15.078 DE 19 DE JENEIRO DE 2026
-
 LEI Nº 15.078 DE 19 DE JENEIRO DE 2026
 
 Declara de utilidade pública a Instituição Lar Santo Antônio de Pádua, com sede e foro no Município de Salvador.

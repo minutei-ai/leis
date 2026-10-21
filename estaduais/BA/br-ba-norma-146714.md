@@ -1,5 +1,3 @@
-# LEI Nº 14.926 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.926 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública o Instituto Rodrigo Toralles, com sede e foro no município de Salvador.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 208, de 2023-04-20
-
 LEI COMPLEMENTAR Nº 208, DE 20 DE ABRIL DE 2023.
 
 Dispõe sobre a criação da “Patrulha Guardiã Maria da Penha” no âmbito do Município de Aparecida de Goiânia e dá outras providências. 

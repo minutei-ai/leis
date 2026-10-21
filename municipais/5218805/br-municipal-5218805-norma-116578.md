@@ -1,5 +1,3 @@
-# Lei Complementar nº 377, de 2025-02-03
-
 LEI COMPLEMENTAR Nº 377, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município de Rio Verde.

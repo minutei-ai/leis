@@ -1,5 +1,3 @@
-# Decreto Numerado nº 451, de 2024-06-12
-
 DECRETO “N” Nº 451, DE 12 DE JUNHO DE 2024.
 
 Dispõe sobre a retirada da Destinação Específica de imóvel público localizado no loteamento denominado GARAVELO RESIDENCIAL PARK.

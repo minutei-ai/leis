@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.143 de 12/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.143, DE 12 DE DEZEMBRO DE 2022
 
 Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2023.

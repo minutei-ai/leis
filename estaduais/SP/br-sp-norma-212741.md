@@ -1,5 +1,3 @@
-# Lei nº 18.488, de 16/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212741)<br>
 
 # LEI N° 18.488, DE 16 DE JUNHO DE 2026

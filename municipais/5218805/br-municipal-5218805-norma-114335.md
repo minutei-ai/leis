@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.698, de 2025-08-21
-
 LEI N° 7.698, DE 21 DE AGOSTO DE 2025.
 
 Institui o “Dia Municipal de Conscientização e Enfrentamento à Fibromialgia” no município de Rio Verde, a ser comemorado, anualmente, no dia 12 de maio, e dá outras providências.

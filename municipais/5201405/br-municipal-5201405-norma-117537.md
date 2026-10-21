@@ -1,5 +1,3 @@
-# Decreto Numerado nº 995, de 2024-11-19
-
 DECRETO “N” Nº 995 DE 19 DE NOVEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

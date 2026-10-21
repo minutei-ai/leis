@@ -1,5 +1,3 @@
-# Decreto Numerado nº 278, de 2026-04-13
-
 DECRETO Nº 278, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 12, 13 e 14, situados à Rua Eng Luiz Pargendler, no Loteamento Setor Santo André, no Município de Aparecida de Goiânia.

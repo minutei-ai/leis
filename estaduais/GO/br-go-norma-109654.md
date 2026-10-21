@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.026, de 2024-10-07
-
 LEI Nº 23.026, DE 7 DE OUTUBRO DE 2024<br>
 \- [Vide Decreto nº 10.638, de 6-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110424/decreto-10638) - (Regulamenta esta Lei).
 

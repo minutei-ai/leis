@@ -1,5 +1,3 @@
-# Decreto Numerado nº 862, de 2025-02-19
-
 DECRETO Nº 862, DE 19 DE FEVEREIRO DE 2025<br>
 Revogado pelo Decreto Numerado nº 1.446, de 27 de maio de 2025.
 

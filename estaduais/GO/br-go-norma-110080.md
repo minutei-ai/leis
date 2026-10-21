@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.121, de 2024-12-02
-
 LEI Nº 23.121, DE 2 DE DEZEMBRO DE 2024
 
 Institui o Dia Estadual do Adventismo e dá outras providências.

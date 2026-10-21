@@ -1,5 +1,3 @@
-# Decreto Numerado nº 19, de 2026-01-08
-
 DECRETO Nº 019, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Diadema, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei nº 18.064, de 18/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210388)<br>
 
 # LEI N° 18.064, DE 18 DE DEZEMBRO DE 2024

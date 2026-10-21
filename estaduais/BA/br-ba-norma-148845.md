@@ -1,5 +1,3 @@
-# LEI Nº 15.173 DE 18 DE JUNHO DE 2026
-
 LEI Nº 15.173 DE 18 DE JUNHO DE 2026
 
 Dispõe sobre a Política Estadual de Pagamento por Serviços Ambientais e o Programa Estadual de Pagamento por Serviços Ambientais, na forma que indica, e dá outras providências.

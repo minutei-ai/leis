@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.244, de 2022-04-01
-
 LEI N. 7.244, DE 1º DE ABRIL DE 2022
 
 Altera Lei n. 7.210/2021.

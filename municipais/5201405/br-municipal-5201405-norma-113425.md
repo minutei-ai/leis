@@ -1,5 +1,3 @@
-# Lei Complementar nº 211, de 2023-05-25
-
 LEI COMPLEMENTAR N° 211, DE 25 DE MAIO DE 2023.
 
 Altera a Lei Complementar nº 085, de 17 de junho de 2014, e autoriza, excepcionalmente, a Progressão na carreira dos servidores da saúde, abrangidos pela referida norma.

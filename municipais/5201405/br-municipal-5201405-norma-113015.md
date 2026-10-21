@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.053, de 2025-08-25
-
 DECRETO Nº 2.053, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra I, situado à Rua Nerópolis, no Loteamento Jardim Helvécia - Complemento, no Município de Aparecida de Goiânia.

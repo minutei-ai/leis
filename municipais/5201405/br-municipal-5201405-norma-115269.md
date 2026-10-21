@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.646, de 2022-01-17
-
 LEI MUNICIPAL Nº 3.646, DE 17 DE JANEIRO DE 2022.
 
 Autoriza o Poder Executivo a conceder abono salarial a todos os trabalhadores lotados na Secretaria Municipal de Educação de Aparecida de Goiânia.

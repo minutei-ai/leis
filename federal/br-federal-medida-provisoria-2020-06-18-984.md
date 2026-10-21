@@ -1,5 +1,3 @@
-# Medida Provisória nº 984 de 18/06/2020
-
 MEDIDA PROVISÓRIA Nº 984, DE 18 DE JUNHO DE 2020
 
 Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, e a Lei nº 10.671, de 15 de maio de 2003, que dispõe sobre o Estatuto de Defesa do Torcedor, e dá outras providências, em razão da emergência de saúde pública de importância internacional decorrente da pandemia da covid-19, de que trata a Lei nº 13.979, de 6 de fevereiro de 2020.

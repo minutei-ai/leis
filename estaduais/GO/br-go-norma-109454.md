@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.544, de 2024-09-10
-
 DECRETO Nº 10.544, DE 10 DE SETEMBRO DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que específica.

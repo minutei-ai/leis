@@ -1,5 +1,3 @@
-# Decreto Numerado nº 41, de 2026-01-13
-
 DECRETO Nº 041, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 51-A, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

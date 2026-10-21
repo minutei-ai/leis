@@ -1,5 +1,3 @@
-# LD Nº 42 DE 17 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 42 DE 17 DE MARÇO DE 1983
 
 Cria o Departamento de Transportes e Terminais - DTT e dá outras providências.

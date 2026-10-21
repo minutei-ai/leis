@@ -1,5 +1,3 @@
-# Decreto Numerado nº 303, de 2026-04-23
-
 DECRETO Nº 303, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Avenida Domitila Lobo, no Loteamento Residencial Caraibas, no Município de Aparecida de Goiânia.

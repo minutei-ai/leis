@@ -1,5 +1,3 @@
-# Decreto Numerado nº 238, de 2026-03-19
-
 DECRETO Nº 238, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 24 e 25, situados à Rua Rio Vermelho, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

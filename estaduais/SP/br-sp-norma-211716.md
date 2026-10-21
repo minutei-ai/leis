@@ -1,5 +1,3 @@
-# Decreto nº 70.020, de 21/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211716)<br>
 
 # DECRETO N° 70.020, DE 21 DE OUTUBRO DE 2025

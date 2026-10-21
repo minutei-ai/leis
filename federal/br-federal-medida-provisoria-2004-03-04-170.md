@@ -1,5 +1,3 @@
-# Medida Provisória nº 170 de 04/03/2004
-
 ###MPV-000170-0-000-04-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 170, DE 4 DE MARÇO 2004.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 453, de 2023-07-11
-
 DECRETO “N” Nº 453 DE 11 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no loteamento VILA OLIVEIRA, neste município.

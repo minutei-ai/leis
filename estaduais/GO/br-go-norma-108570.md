@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.591, de 2024-03-29
-
 LEI Nº 22.591, DE 29 DE MARÇO DE 2024
 
 Altera a [Lei nº 21.676](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106395), de 9 de dezembro de 2022, que institui a Política Estadual pela Primeira Infância e dá outras providências.

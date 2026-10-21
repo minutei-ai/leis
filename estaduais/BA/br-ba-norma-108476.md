@@ -1,5 +1,3 @@
-# LD Nº 12 DE 30 DE DEZEMBRO DE 1980
-
 LEI DELEGADA Nº 12 DE 30 DE DEZEMBRO DE 1980
 
 Extingue e cria entidades de Administração Descentralizada e dá outras providências.

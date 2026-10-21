@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.581, de 2025-08-19
-
 LEI Nº 23.581, DE 19 DE AGOSTO DE 2025
 
 Abre crédito especial à Diretoria-Geral de Polícia Penal – DGPP e ao Fundo Penitenciário Estadual – FUNPES.

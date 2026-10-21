@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.382, de 2017-09-22
-
 LEI MUNICIPAL Nº 3.382, DE 22 DE SETEMBRO DE 2017
 
 “Altera nome de Praça situada no Bairro Hilda, neste município.”

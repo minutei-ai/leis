@@ -1,5 +1,3 @@
-# Decreto Numerado nº 86, de 2023-02-03
-
 DECRETO “N” Nº 86 DE 03 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM MARIA INÊS, neste município.

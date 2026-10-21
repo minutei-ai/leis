@@ -1,5 +1,3 @@
-# Decreto Numerado nº 659, de 2024-08-15
-
 DECRETO “N” Nº 659 DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

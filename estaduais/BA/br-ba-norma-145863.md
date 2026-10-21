@@ -1,5 +1,3 @@
-# LEI Nº 14.789 DE 22 DE NOVEMBRO DE 2024
-
 LEI Nº 14.789 DE 22 DE NOVEMBRO DE 2024
 
 Dispõe sobre a autorização para concessão de subvenção econômica a empresas de transporte aéreo, na forma que indica.

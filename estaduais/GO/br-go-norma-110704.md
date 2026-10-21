@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.438, de 2025-05-21
-
 LEI Nº 23.438, DE 21 DE MAIO DE 2025<br>
 \- [Revogada pela Lei nº 23.720, de 3-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111365), art. 2º.
 

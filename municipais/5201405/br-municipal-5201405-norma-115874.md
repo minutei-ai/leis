@@ -1,5 +1,3 @@
-# Decreto Numerado nº 584, de 2024-07-17
-
 DECRETO “N” Nº 584 DE 17 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

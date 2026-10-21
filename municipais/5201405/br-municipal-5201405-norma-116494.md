@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.492, de 2019-08-16
-
 LEI MUNICIPAL Nº 3.492, DE 16 DE AGOSTO DE 2019
 
 Altera a Lei Municipal nº 2.175, de 08 de junho de 2001, que “Declara de utilidade pública para fins de desapropriação, imóveis situados no loteamento JARDIM DAS ACÁCIAS, neste Município, para expansão industrial e autoriza sua doação”.

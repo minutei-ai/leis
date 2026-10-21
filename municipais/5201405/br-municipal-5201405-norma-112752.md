@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.802, de 2024-10-09
-
 LEI MUNICIPAL Nº 3.802, DE 09 DE OUTUBRO DE 2024.
 
 Autoriza o Chefe do Poder Executivo a celebrar Termo de Cooperação Técnica com a União via Superintendência Regional de Departamento de Polícia Federal em Goiás, objetivando viabilizar a concessão de porte de arma de fogo aos integrantes da Guarda Civil Municipal de Aparecida de Goiânia-GO, e dá outras providencias.

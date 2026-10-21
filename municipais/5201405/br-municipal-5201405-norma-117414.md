@@ -1,5 +1,3 @@
-# Decreto Numerado nº 876, de 2024-10-16
-
 DECRETO “N” Nº 876 DE 16 DE OUTUBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

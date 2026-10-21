@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.072 de 01/10/2021
-
 MEDIDA PROVISÓRIA Nº 1.072, DE 1 DE OUTUBRO DE 2021
 
 Dispõe sobre a alteração da forma de cálculo da Taxa de Fiscalização dos mercados de títulos e valores mobiliários e altera a Lei nº 7.940, de 20 de dezembro de 1989, que institui a Taxa de Fiscalização dos mercados de títulos e valores mobiliários, e a Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.

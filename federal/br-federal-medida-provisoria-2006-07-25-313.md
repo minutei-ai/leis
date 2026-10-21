@@ -1,5 +1,3 @@
-# Medida Provisória nº 313 de 25/07/2006
-
 ###MPV-000313-0-000-25-07-2006@@@
 
 MEDIDA PROVISÓRIA Nº 313, DE 25 DE JULHO DE 2006.

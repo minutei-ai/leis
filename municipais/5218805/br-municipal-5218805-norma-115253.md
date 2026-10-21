@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.412, de 2023-08-28
-
 **LEI N° 7.412, DE 28 DE AGOSTO DE 2023.**
 
 Institui a Política Municipal de Transparência em Obras Públicas no âmbito do Município de Rio Verde e dá outras providências.

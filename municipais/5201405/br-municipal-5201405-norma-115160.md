@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.763, de 2023-12-18
-
 LEI MUNICIPAL Nº 3.763 DE 18 DE DEZEMBRO DE 2023.
 
 Dispõe sobre denominação da praça JUAREZ FLAVIO DE LIMA na Avenida Igualdade no Setor Garavelo.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.452, de 2024-04-23
-
 DECRETO Nº 10.452 , DE 23 DE ABRIL DE 2024
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 788 de 24/07/2017
-
 MEDIDA PROVISÓRIA Nº 788, DE 24 DE JULHO DE 2017
 
 Dispõe sobre a restituição de valores creditados em instituição financeira por ente público em favor de pessoa falecida.

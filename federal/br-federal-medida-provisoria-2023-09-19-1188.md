@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.188 de 19/09/2023
-
 MEDIDA PROVISÓRIA Nº 1.188, DE 19 DE SETEMBRO DE 2023
 
 Abre crédito extraordinário, em favor dos Ministérios da Defesa, da Integração e do Desenvolvimento Regional e do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 360.900.000,00, para os fins que especifica.

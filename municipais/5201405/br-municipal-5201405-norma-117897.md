@@ -1,5 +1,3 @@
-# Decreto Numerado nº 174, de 2023-03-16
-
 DECRETO “N” Nº 174 DE 16 DE MARÇO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento EXPANSUL, neste município.

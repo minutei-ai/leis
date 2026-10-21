@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.496, de 2019-09-06
-
 LEI MUNICIPAL Nº 3.496, DE 06 DE SETEMBRO DE 2019<br>
 (Revogada pela Lei Ordinária nº 3.502, de 17 de setembro de 2019).
 

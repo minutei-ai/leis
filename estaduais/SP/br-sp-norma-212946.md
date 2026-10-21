@@ -1,5 +1,3 @@
-# Decreto nº 70.843, de 03/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212946)<br>
 
 # DECRETO N° 70.843, DE 03 DE SETEMBRO DE 2026

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.667, de 2024-05-07
-
 LEI Nº 22.667, DE 7 DE MAIO DE 2024
 
 Institui o Dia Estadual de Combate ao Etarismo e dá outras providências.

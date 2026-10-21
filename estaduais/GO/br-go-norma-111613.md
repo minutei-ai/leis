@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.865, de 2025-11-24
-
 LEI Nº 23.865, DE 24 DE NOVEMBRO DE 2025
 
 Autoriza a integralização de capital social da Companhia de Desenvolvimento Econômico de Goiás – CODEGO e dá outras providências. 

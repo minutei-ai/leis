@@ -1,5 +1,3 @@
-# LD Nº 33 DE 11 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 33 DE 11 DE MARÇO DE 1983
 
 Dispõe sobre o planejamento e a administração da Região Metropolitana de Salvador e dá outras providências.

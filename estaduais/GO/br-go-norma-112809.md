@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.089, de 2026-02-10
-
 LEI Nº 24.089, DE 10 DE FEVEREIRO DE 2026
 
 Altera a [Lei nº 19.197](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98380), de 07 de janeiro de 2016, que institui a Política Estadual de Atenção Integral aos Portadores de Fibromialgia.

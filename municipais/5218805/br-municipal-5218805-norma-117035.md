@@ -1,5 +1,3 @@
-# Lei Complementar nº 332, de 2023-12-22
-
 LEI COMPLEMENTAR Nº 332, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, define Órgãos e Entidades que a integram e o seu quadro de Cargos de Confiança (CC), Cargos de Provimento em Comissão (DAS) e Funções Gratificadas (FG).

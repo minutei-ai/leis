@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.424, de 2025-05-22
-
 DECRETO Nº 1.424, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 30, situado à Rua São Januário no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

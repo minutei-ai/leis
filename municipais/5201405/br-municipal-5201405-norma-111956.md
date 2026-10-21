@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.817, de 2025-01-15
-
 LEI Nº 3.817, DE 15 DE JANEIRO DE 2025
 
 Dispõe sobre a criação de um Sistema de Logística Reversa para Resíduos Eletrônicos em Aparecida de Goiânia.

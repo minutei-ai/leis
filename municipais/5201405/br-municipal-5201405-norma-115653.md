@@ -1,5 +1,3 @@
-# Decreto Numerado nº 417, de 2024-06-05
-
 DECRETO “N” Nº 417 DE 05 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

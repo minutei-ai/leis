@@ -1,5 +1,3 @@
-# LEI Nº 15.175 DE 19 DE JUNHO DE 2026
-
 LEI Nº 15.175 DE 19 DE JUNHO DE 2026
 
 Dispõe sobre as diretrizes orçamentárias para o exercício de 2027, na forma que indica, e dá outras providências.

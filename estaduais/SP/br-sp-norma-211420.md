@@ -1,5 +1,3 @@
-# Lei nº 18.214, de 08/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211420)<br>
 
 # LEI N° 18.214, DE 08 DE SETEMBRO DE 2025

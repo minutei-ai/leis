@@ -1,5 +1,3 @@
-# Decreto Numerado nº 430, de 2023-07-03
-
 DECRETO “N” Nº 430 DE 03 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento BAIRRO CARDOSO, neste município.

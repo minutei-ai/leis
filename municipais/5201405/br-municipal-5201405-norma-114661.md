@@ -1,5 +1,3 @@
-# Decreto Numerado nº 107, de 2024-03-05
-
 DECRETO “N” Nº 107 DE 05 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

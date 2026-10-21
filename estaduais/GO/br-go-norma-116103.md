@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.424, de 2026-07-06
-
 LEI Nº 24.424, DE 6 DE JULHO DE 2026
 
 Institui a Política Estadual de Estímulo à Prática Esportiva nas Escolas.

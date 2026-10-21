@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.330, de 2025-09-30
-
 DECRETO Nº 2.330, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 51, situado à Rua C-18, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 12, de 2023-01-09
-
 DECRETO “N” Nº 12 DE 09 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento PARQUE REAL DE GOIÂNIA, neste município.

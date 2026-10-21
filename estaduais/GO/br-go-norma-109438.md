@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.968, de 2024-09-03
-
 LEI Nº 22.968, DE 3 DE SETEMBRO DE 2024
 
 Altera a [Lei nº 16.497](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87206), de 10 de fevereiro de 2009, que institui a Política Estadual sobre Mudanças Climáticas.

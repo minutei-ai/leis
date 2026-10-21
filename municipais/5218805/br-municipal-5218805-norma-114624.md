@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.615, de 2025-02-24
-
 LEI N° 7.615, DE 24 DE FEVEREIRO DE 2025.
 
 Autoriza a desafetação e a alienação de imóvel público.

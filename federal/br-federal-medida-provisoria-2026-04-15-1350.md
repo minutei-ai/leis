@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.350 de 15/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.350, DE 15 DE ABRIL DE 2026
 
 Altera a [Lei nº 11.977, de 7 de julho de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-07-07;11977), para aprimorar o Fundo Garantidor da Habitação Popular.

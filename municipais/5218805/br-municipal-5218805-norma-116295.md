@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.300, de 2022-09-26
-
 LEI N°. 7.300, DE 26 DE SETEMBRO DE 2022
 
 Reconhece entidade como Utilidade Pública Municipal e dá outras providências.

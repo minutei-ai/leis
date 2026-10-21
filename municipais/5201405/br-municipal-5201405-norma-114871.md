@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.716, de 2023-05-23
-
 LEI MUNICIPAL Nº 3.716, DE 23 DE MAIO DE 2023.
 
 Concede isenção das taxas necessárias à aprovação, implantação e execução do Distrito Agroindustrial Norberto Teixeira pela CODEGO em Aparecida de Goiânia.

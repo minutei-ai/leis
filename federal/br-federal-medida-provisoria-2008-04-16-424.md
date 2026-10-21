@@ -1,5 +1,3 @@
-# Medida Provisória nº 424 de 16/04/2008
-
 ###MPV-000424-0-000-16-04-2008@@@
 
 MEDIDA PROVISÓRIA Nº 424, DE 16 DE ABRIL DE 2008.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.175, de 2001-06-08
-
 LEI MUNICIPAL N° 2.175, DE 08 DE JUNHO DE 2001.
 
 Declara de utilidade pública para fins de desapropriação, imóveis situados no loteamento JARDIM DAS ACÁCIAS, neste Município, para expansão industrial e autoriza sua doação.

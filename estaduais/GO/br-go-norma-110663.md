@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.690, de 2025-05-08
-
 DECRETO Nº 10.690, DE 8 DE MAIO DE 2025
 
 Altera os Decretos [nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e [nº 10.192](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106592), de 2 de janeiro de 2023.

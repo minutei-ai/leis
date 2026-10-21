@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.643, de 2025-04-14
-
 LEI Nº 7.643, DE 14 DE ABRIL DE 2025.
 
 Estabelecer o dia 1º de setembro no calendário de datas comemorativas no Município de Rio Verde-GO.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 438 de 01/08/2008
-
 ###MPV-000438-0-000-01-08-2008@@@
 
 MEDIDA PROVISÓRIA Nº 438, DE 1º DE AGOSTO DE 2008.

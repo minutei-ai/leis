@@ -1,5 +1,3 @@
-# Decreto Numerado nº 159, de 2026-02-26
-
 DECRETO Nº 159, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Marajoara, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

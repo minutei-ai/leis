@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.871, de 2025-11-28
-
 LEI Nº 23.871, DE 28 DE NOVEMBRO DE 2025
 
 Autoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica. 

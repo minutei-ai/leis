@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.407, de 2026-07-03
-
 LEI Nº 24.407, DE 3 DE JULHO DE 2026
 
 Dispõe sobre a licença remunerada para o desempenho de mandato classista nas carreiras da segurança pública do Estado de Goiás e estabelece requisitos, limites e regras de controle, e revoga dispositivos da [Lei nº 11.416](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84183), de 5 de fevereiro de 1991, e da [Lei nº 14.657](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80603), de 8 de janeiro de 2004.

@@ -1,5 +1,3 @@
-# LD Nº 04 DE 16 DE DEZEMBRO DE 1971
-
 LEI DELEGADA Nº 04 DE 16 DE DEZEMBRO DE 1971
 
 Majora vencimentos do Pessoal do Tribunal de Justiça e do Tribunal de Contas do Estado.

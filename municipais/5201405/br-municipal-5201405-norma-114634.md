@@ -1,5 +1,3 @@
-# Decreto Numerado nº 390, de 2026-05-19
-
 DECRETO Nº 390, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 30, situado à Rua Valença, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

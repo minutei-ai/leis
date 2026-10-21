@@ -1,5 +1,3 @@
-# Decreto Numerado nº 80, de 2026-01-26
-
 DECRETO Nº 080, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Carlos Magno, no Loteamento Villa Romana, no Município de Aparecida de Goiânia.

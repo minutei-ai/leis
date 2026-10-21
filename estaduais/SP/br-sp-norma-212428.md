@@ -1,5 +1,3 @@
-# Decreto nº 70.512, de 02/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212428)<br>
 
 # DECRETO N° 70.512, DE 02 DE ABRIL DE 2026

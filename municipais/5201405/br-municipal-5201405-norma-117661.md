@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1115, de 2024-12-18
-
 DECRETO “N” Nº 1115 DE 18 DE DEZEMBRO DE 2024
 
 Dispõe sobre desmembramento de imóvel.

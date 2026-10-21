@@ -1,5 +1,3 @@
-# Medida Provisória nº 923 de 02/03/2020
-
 MEDIDA PROVISÓRIA Nº 923, DE 2 DE MARÇO DE 2020
 
 Altera a Lei nº 5.768, de 20 de dezembro de 1971, que dispõe sobre a distribuição gratuita de prêmios, mediante sorteio, vale-brinde ou concurso, a título de propaganda, e estabelece normas de proteção à poupança popular.

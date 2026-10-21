@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.664, de 2025-03-31
-
 DECRETO Nº 10.664, DE 31 DE MARÇO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Taquaral de Goiás/GO.

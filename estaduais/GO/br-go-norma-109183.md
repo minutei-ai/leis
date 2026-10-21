@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.837, de 2024-07-10
-
 LEI Nº 22.837, DE 10 DE JULHO DE 2024
 
 Institui a Campanha Estadual de Valorização dos Agricultores Goianos.

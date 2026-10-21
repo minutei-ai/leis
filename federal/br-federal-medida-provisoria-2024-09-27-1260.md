@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.260 de 27/09/2024
-
 MEDIDA PROVISÓRIA Nº 1.260, DE 27 DE SETEMBRO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Agricultura e Pecuária, da Ciência, Tecnologia e Inovação, do Desenvolvimento Agrário e Agricultura Familiar, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, no valor de R$ 1.659.821.159,00, para os fins que especifica.

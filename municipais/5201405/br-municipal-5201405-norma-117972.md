@@ -1,5 +1,3 @@
-# Decreto Numerado nº 217, de 2023-04-05
-
 DECRETO “N” Nº 217 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL – 2ª ETAPA, neste município.

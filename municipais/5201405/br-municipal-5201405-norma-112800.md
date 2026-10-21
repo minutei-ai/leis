@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.657, de 2022-03-02
-
 LEI MUNICIPAL Nº 3.657, DE 02 DE MARÇO DE 2022.
 
 Dispõe sobre o Plano Plurianual para o quadriênio 2022-2025, e dá outras providências. FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:

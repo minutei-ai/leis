@@ -1,5 +1,3 @@
-# Decreto Numerado nº 174, de 2026-03-03
-
 DECRETO Nº 174, DE 3 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 05 ao 09 e Lotes 16 ao 20, situados à Rua JI-51 e Rua JI-50, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.621, de 2025-03-24
-
 LEI Nº 7.621, DE 24 DE MARÇO DE 2025.
 
 Autoriza o Poder Executivo a afetar área pública, inserindo-a no sistema viário do Município.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 142, de 2018-04-17
-
 LEI COMPLEMENTAR Nº 142, DE 17 DE ABRIL DE 2018
 
 Institui o adicional de risco de vida para os integrantes da carreira da Guarda Civil Municipal e dá outras providências.

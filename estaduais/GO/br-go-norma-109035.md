@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.800, de 2024-06-21
-
 LEI Nº 22.800, DE 21 DE JUNHO DE 2024
 
 Confere ao Município de Cristalina/GO o título de Capital Goiana dos Cristais.

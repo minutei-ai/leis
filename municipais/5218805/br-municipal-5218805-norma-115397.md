@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.363, de 2023-05-29
-
 LEI Nº 7.363, DE 29 DE MAIO DE 2023.
 
 Reconhece entidade como Utilidade Pública e dá outras providências.

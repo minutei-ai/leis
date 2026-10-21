@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.178, de 2026-03-26
-
 LEI Nº 24.178, DE 26 DE MARÇO DE 2026
 
 Concede a revisão geral anual dos vencimentos, dos subsídios e dos proventos do pessoal civil e militar, ativo e inativo, e dos pensionistas do Poder Executivo estadual, na forma que especifica, e altera a [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826), de 29 de dezembro de 2017.

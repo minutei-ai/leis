@@ -1,5 +1,3 @@
-# Decreto Numerado nº 229, de 2024-04-10
-
 DECRETO “N” Nº 229 DE 10 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

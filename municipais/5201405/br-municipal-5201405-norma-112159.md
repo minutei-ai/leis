@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1, de 2026-01-06
-
 DECRETO Nº 001, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Araponga, no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

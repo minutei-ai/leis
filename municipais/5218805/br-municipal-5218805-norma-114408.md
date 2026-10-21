@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.656, de 2025-05-26
-
 LEI Nº 7.656, DE 26 DE MAIO DE 2025.
 
 Dispõe sobre a instituição do Dia Municipal do Terço dos Homens no Município de Rio Verde – GO e dá outras providências.

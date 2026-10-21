@@ -1,5 +1,3 @@
-# Decreto Numerado nº 657, de 2023-10-17
-
 DECRETO “N” Nº 657, DE 17 DE OUTUBRO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Nova Era, neste município como de Interesse Social.

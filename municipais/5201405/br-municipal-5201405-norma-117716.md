@@ -1,5 +1,3 @@
-# Decreto Numerado nº 610, de 2023-09-19
-
 DECRETO “N” Nº 610, DE 19 DE SETEMBRO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Parque Montreal neste município como de Interesse Social.

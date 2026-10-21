@@ -1,5 +1,3 @@
-# LEI Nº 15.119 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.119 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a obrigatoriedade de capacitação dos agentes de segurança pública em combate ao racismo, violência de gênero e outras formas de discriminação e preconceito, no Estado da Bahia.

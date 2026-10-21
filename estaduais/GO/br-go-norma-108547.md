@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.571, de 2024-03-19
-
 LEI Nº 22.571, DE 19 DE MARÇO DE 2024
 
 Institui medidas facilitadoras para o contribuinte negociar seus débitos relativos ao Imposto sobre a Propriedade de Veículos Automotores – IPVA e ao Imposto sobre a Transmissão _Causa Mortis_ e Doação de Quaisquer Bens ou Direitos – ITCD.

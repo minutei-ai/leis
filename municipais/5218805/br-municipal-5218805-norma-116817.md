@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.209, de 2021-11-09
-
 LEI Nº 7.209, DE 09 DE NOVEMBRO DE 2021
 
 Denomina nome de Rua.

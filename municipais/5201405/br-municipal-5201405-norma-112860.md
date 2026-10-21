@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.759, de 2025-07-07
-
 DECRETO Nº 1.759, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Leopoldo Miguez no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto nº 70.354, de 02/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212184)<br>
 
 # DECRETO N° 70.354, DE 02 DE FEVEREIRO DE 2026

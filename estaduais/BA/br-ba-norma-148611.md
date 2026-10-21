@@ -1,5 +1,3 @@
-# LEI Nº 15.147 DE 15 DE MAIO DE 2026
-
 LEI Nº 15.147 DE 15 DE MAIO DE 2026
 
 Autoriza o Poder Executivo a prestar contragarantia à União em operação de crédito interno a ser celebrada entre a Empresa Baiana de Águas e Saneamento S.A. - EMBASA e a Caixa Econômica Federal - CEF, na forma que indica, e dá outras providências.

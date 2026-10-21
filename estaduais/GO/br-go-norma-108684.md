@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.616, de 2024-04-16
-
 LEI Nº 22.616, DE 16 DE ABRIL DE 2024
 
 Proíbe o ingresso de representantes de agências de modelos no ambiente escolar, na forma que especifica.

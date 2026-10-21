@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.902, de 2026-05-04
-
 DECRETO Nº 10.902, DE 4 DE MAIO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, as obras que especifica no Município de Quirinópolis/GO.

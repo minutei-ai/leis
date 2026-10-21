@@ -1,5 +1,3 @@
-# LEI Nº 15.046 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.046 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação da Orquestra Juvenil Itinerante do Projeto e Escola de Música Cidadã (ORJI EMURC), com sede e foro no município de Catu.

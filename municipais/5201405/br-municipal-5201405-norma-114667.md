@@ -1,5 +1,3 @@
-# Decreto Numerado nº 112, de 2024-03-05
-
 DECRETO “N” Nº 112 DE 05 DE MARÇO DE 2024
 
 Dispõe sobre remembramento e desmembramento de imóveis.

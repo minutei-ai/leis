@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.859, de 2018-07-03
-
 **LEI N. 6.859, DE 03 DE JULHO DE 2018**
 
 <br>

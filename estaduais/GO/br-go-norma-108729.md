@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.642, de 2024-04-29
-
 LEI Nº 22.642, DE 29 DE ABRIL DE 2024
 
 Altera a [Lei nº 21.835](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106867), de 27 de março de 2023, que institui a Política Estadual de Incentivo à Agroindústria e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.433, de 2025-05-21
-
 LEI Nº 23.433, DE 21 DE MAIO DE 2025
 
 Dispõe sobre a mudança de denominação do estabelecimento de ensino que especifica.

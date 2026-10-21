@@ -1,5 +1,3 @@
-# LEI Nº 14.882 DE 31 DE MARÇO DE 2025
-
 LEI Nº 14.882 DE 31 DE MARÇO DE 2025
 
 Institui a Política Estadual de Proteção e Defesa Civil, o Sistema Estadual de Proteção e Defesa Civil, o Conselho Estadual de Proteção e Defesa Civil, cria o Cadastro Estadual de Municípios com áreas suscetíveis a seca e estiagem, e dá outras providências.

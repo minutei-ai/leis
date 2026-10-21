@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.346, de 2026-06-12
-
 LEI Nº 24.346, DE 12 DE JUNHO DE 2026
 
 Institui a Política Estadual de Incentivo ao Esporte para Crianças e Adolescentes em Situação de Vulnerabilidade Social.

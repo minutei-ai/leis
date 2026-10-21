@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.041 de 30/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.041, DE 30 DE MARÇO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 5.324.320.142,00, para os fins que especifica.

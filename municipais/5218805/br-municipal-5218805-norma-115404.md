@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.352, de 2023-04-28
-
 ~~LEI N° 7.352, DE 28 DE ABRIL DE 2023.~~
 
 ~~Denomina PROFESSORA TEREZINHA VIEIRA DE OLIVEIRA e dá outras providências.~~

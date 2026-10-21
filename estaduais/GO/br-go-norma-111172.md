@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.769, de 2025-08-26
-
 DECRETO Nº 10.769 DE 26 DE AGOSTO DE 2025
 
 Altera o [Decreto nº 5.737](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61279), de 21 de março de 2003, que regulamenta a [Lei nº 13.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81523), de 24 de julho de 2001, e o [Decreto nº 6.777](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63206), de 7 de agosto de 2008, que regulamenta a [Lei nº 14.765](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80702), de 27 de abril de 2004.

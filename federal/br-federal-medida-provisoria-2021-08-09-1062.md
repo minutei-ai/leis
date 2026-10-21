@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.062 de 09/08/2021
-
 MEDIDA PROVISÓRIA Nº 1.062, DE 9 DE AGOSTO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 9.102.436.262,00, para os fins que especifica.

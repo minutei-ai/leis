@@ -1,5 +1,3 @@
-# LEI Nº 15.171 DE 12 DE JUNHO DE 2026
-
 LEI Nº 15.171 DE 12 DE JUNHO DE 2026
 
 Altera o art. 11 da Lei nº [11.918](https://www.legislabahia.ba.gov.br/documentos/lei-no-11918-de-16-de-junho-de-2010), de 16 de junho de 2010, para acrescentar o § 2º e renumerar o seu parágrafo único, na forma que indica.

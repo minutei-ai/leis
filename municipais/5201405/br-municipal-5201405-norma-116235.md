@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.600, de 2020-12-21
-
 LEI MUNICIPAL N° 3.600, DE 21 DE DEZEMBRO DE 2020.
 
 “Institui no calendário municipal de Aparecida de Goiânia o dia da luta das pessoas com deficiência.”

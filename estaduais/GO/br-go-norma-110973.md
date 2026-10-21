@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.517, de 2025-06-17
-
 LEI Nº 23.517, DE 17 DE JUNHO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

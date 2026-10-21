@@ -1,5 +1,3 @@
-# Medida Provisória nº 701 de 08/12/2015
-
 MEDIDA PROVISÓRIA Nº 701, DE 8 DE DEZEMBRO DE 2015
 
 Altera a Lei nº 6.704, de 26 de outubro de 1979, para dispor sobre o Seguro de Crédito à Exportação; a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 11.281, de 20 de fevereiro de 2006, para dispor sobre o Fundo de Garantia à Exportação; a Lei nº 12.712, de 30 de agosto de 2012, para dispor sobre a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF; e o Decreto-Lei nº 857, de 11 de setembro de 1969, para dispor sobre a moeda de pagamento de obrigações exequíveis no Brasil.

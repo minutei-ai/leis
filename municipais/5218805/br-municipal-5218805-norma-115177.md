@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.468, de 2023-12-22
-
 LEI Nº 7.468, DE 22 DE DEZEMBRO DE 2023.
 
 Autoriza a desafetação e a outorga de concessão especial de uso de imóvel que menciona.

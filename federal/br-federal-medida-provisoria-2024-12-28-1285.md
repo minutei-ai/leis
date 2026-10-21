@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.285 de 28/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.285, DE 28 DE DEZEMBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Pesca e Aquicultura, no valor de R$ 553.261.047,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.329, de 2016-07-27
-
 LEI MUNICIPAL Nº 3.329, DE 27 DE JULHO DE 2016
 
 “Dá nome a Unidade Básica de Saúde localizada em frente à Avenida Coronel Eduardo Augusto de Barros, Área E, Loteamento Expansul, neste Município.”

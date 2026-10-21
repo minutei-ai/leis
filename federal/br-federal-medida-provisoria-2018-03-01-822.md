@@ -1,5 +1,3 @@
-# Medida Provisória nº 822 de 01/03/2018
-
 MEDIDA PROVISÓRIA Nº 822, DE 1 DE MARÇO DE 2018
 
 Altera a [Lei nº 9.430, de 27 de dezembro de 1996](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-27;9430), para dispor sobre a dispensa de retenção de tributos federais na aquisição de passagens aéreas pelos órgãos ou entidades da administração pública federal.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.325 de 24/11/2025
-
 MEDIDA PROVISÓRIA Nº 1.325, DE 24 DE NOVEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Agrário e Agricultura Familiar, no valor de R$ 190.000.000,00, para os fins que especifica.

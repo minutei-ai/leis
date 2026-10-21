@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.256, de 2025-02-28
-
 LEI Nº 23.256, DE 28 DE FEVEREIRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival da Cachaça, realizado em Olhos d’Água, no Município de Alexânia/GO.

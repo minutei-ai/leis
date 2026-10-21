@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.069 de 13/09/2021
-
 MEDIDA PROVISÓRIA Nº 1.069, DE 13 DE SETEMBRO DE 2021
 
 Altera a Medida Provisória nº 1.063, de 11 de agosto de 2021, a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 9.718, de 27 de novembro de 1998, para dispor sobre a comercialização de combustíveis por revendedor varejista.

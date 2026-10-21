@@ -1,5 +1,3 @@
-# Decreto Numerado nº 595, de 2023-09-13
-
 DECRETO “N” Nº 595 DE 13 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.384, de 2023-08-28
-
 LEI N° 7.384, DE 28 DE AGOSTO DE 2023.
 
 Dispõe sobre alteração do nome do Centro de Equoterapia MEGA, no Município de Rio Verde - GO.

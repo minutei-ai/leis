@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.400, de 2023-08-28
-
 LEI N° 7.400, DE 28 DE AGOSTO DE 2023.
 
 Dispõe sobre o direito de toda mulher a ter acompanhante, pessoa de sua livre escolha, nas consultas e exames, inclusive os ginecológicos, nos estabelecimentos públicos e privados no âmbito do Município de Rio Verde e dá outras providências.

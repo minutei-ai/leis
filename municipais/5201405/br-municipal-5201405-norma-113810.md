@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.297, de 2015-12-21
-
 LEI MUNICIPAL Nº 3.297, DE 21 DE DEZEMBRO DE 2015.
 
 Institui o Plano Municipal de Saneamento – Resíduos Sólidos – de Aparecida de Goiânia e dá outras providências.

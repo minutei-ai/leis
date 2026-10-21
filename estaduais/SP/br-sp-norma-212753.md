@@ -1,5 +1,3 @@
-# Decreto nº 70.688, de 16/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212753)<br>
 
 # DECRETO N° 70.688, DE 16 DE JUNHO DE 2026

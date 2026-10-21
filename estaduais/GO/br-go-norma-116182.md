@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.453, de 2026-07-13
-
 LEI Nº 24.453, DE 13 DE JULHO DE 2026
 
 Altera a [Lei nº 22.524](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108379 "Abrir Lei Ordinária nº 22524, de 2024 em nova aba"), de 3 de janeiro de 2024, que dispõe sobre o Plano de Carreira e Remuneração da Secretaria de Estado da Saúde.

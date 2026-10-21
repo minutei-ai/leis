@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.216, de 2012-12-17
-
 **LEI COMPLEMENTAR Nº 6216/2012, DE 17 DE DEZEMBRO DE 2012**
 
 Altera a Lei nº 6.074/11 - Perímetro Urbano do Município de Rio Verde-GO.

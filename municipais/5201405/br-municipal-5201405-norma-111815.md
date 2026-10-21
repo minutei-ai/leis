@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.849, de 2025-09-05
-
 LEI Nº 3.849, DE 5 DE SETEMBRO DE 2025
 
 Reconhece como Utilidade Pública Municipal a Agência de Desenvolvimento, Inovação e Sustentabilidade do Coração Goiano – ADESGO, e dá outras providências. 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2691, de 2007-10-05
-
 LEI MUNICIPAL N.º 2.691, DE 05 DE OUTUBRO DE 2007.
 
 “Dispõe sobre o adicional de produtividade dos servidores ocupantes do cargo de Agente de Trânsito e Transportes da Superintendência Municipal de Trânsito e Transportes de Aparecida de Goiânia e dá outras providências.”

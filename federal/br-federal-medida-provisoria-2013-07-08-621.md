@@ -1,5 +1,3 @@
-# Medida Provisória nº 621 de 08/07/2013
-
 MEDIDA PROVISÓRIA Nº 621, DE 8 DE JULHO DE 2013
 
 Institui o Programa Mais Médicos e dá outras providências.

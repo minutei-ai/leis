@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.820, de 2025-11-28
-
 DECRETO Nº 10.820, DE 28 DE NOVEMBRO DE 2025
 
 Altera o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177 "Abrir Decreto Numerado nº 10499, de 2024 em nova aba"), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

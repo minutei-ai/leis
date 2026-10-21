@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.721, de 2025-10-03
-
 LEI Nº 23.721, DE 3 DE OUTUBRO DE 2025
 
 Institui o Dia Estadual do Agente de Viagem e dá outras providências.

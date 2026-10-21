@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.048 de 10/05/2021
-
 MEDIDA PROVISÓRIA Nº 1.048, DE 10 DE MAIO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 5.500.071.904,00, para os fins que especifica.

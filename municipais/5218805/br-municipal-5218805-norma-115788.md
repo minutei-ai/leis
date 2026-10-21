@@ -1,5 +1,3 @@
-# Lei Complementar nº 338, de 2024-02-26
-
 LEI COMPLEMENTAR Nº 338, DE 26 DE FEVEREIRO DE 2024.
 
 Altera a Lei Complementar nº 130, de 03 de julho de 2018.

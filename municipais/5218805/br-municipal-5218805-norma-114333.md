@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.696, de 2025-08-21
-
 LEI N° 7.696, DE 21 DE AGOSTO DE 2025.
 
 Estabelece o dia 30 de outubro no calendário de datas comemorativas no Município de Rio Verde-GO.

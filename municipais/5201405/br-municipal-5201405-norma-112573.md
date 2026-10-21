@@ -1,5 +1,3 @@
-# Decreto Numerado nº 107, de 2026-01-28
-
 DECRETO Nº 107, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua L-24, no Loteamento Papillon Park Complemento, no Município de Aparecida de Goiânia.

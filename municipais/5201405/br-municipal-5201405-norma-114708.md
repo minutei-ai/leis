@@ -1,5 +1,3 @@
-# Decreto Numerado nº 125, de 2024-03-08
-
 DECRETO “N” Nº 125 DE 08 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

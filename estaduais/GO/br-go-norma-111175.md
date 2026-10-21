@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.766, de 2025-08-25
-
 DECRETO Nº 10.766, DE 25 DE AGOSTO DE 2025
 
 Altera o Regulamento da Secretaria de Estado da Casa Civil, aprovado pelo [Decreto nº 10.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108400), de 12 de janeiro de 2024.

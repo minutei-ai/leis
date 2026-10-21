@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.564, de 2020-06-23
-
 LEI MUNICIPAL Nº 3.564, DE 23 DE JUNHO DE 2020.
 
 Dispõe sobre a denominação do Centro de Saúde Raquel Abreu de Araújo no Setor Papillon Park, neste Município e dá outras providências.

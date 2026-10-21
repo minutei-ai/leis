@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.866, de 2025-11-24
-
 LEI Nº 23.866, DE 24 DE NOVEMBRO DE 2025
 
 Dispõe sobre a contratação por tempo determinado para atender à necessidade temporária das empresas públicas e das sociedades de economia mista, também revoga a [Lei nº 13.196](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82289), de 29 de dezembro de 1997.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 102, de 2024-02-27
-
 DECRETO “N” Nº 102 DE 27 DE FEVEREIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

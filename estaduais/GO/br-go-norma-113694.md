@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.188, de 2026-03-30
-
 LEI Nº 24.188, DE 30 DE MARÇO DE 2026
 
 Altera a [Lei nº 14.226](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81789 "Abrir Lei Ordinária nº 14226, de 2002 em nova aba"), de 8 de julho de 2002, que reajusta os valores das pensões especiais que especifica, dispõe sobre a concessão de pensões especiais às pessoas irradiadas ou contaminadas que trabalharam na descontaminação da área acidentada com o Césio 137, na vigilância do Depósito Provisório em Abadia de Goiás e no atendimento de saúde às vítimas diretas do acidente e dá outras providências, também revoga as leis indicadas.

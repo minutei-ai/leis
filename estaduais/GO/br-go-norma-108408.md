@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.396, de 2024-01-23
-
 DECRETO Nº 10.396, DE 23 DE JANEIRO DE 2024
 
 Aprova o Regulamento da Vice-Governadoria.

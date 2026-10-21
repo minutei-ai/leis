@@ -1,5 +1,3 @@
-# Decreto nº 69.334, de 29/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210608)<br>
 
 # DECRETO N° 69.334, DE 29 DE JANEIRO DE 2025

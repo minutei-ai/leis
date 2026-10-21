@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.746, de 2025-11-12
-
 LEI Nº 7.746, DE 12 DE NOVEMBRO DE 2025.
 
 Institui a “Campanha Permanente de Conscientização sobre a Preservação do Patrimônio Público Escolar” nas unidades de ensino da rede municipal de Rio Verde.

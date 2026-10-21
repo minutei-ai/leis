@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.092, de 2024-11-21
-
 LEI Nº 23.092, DE 21 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 18.482](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90705), de 19 de maio de 2014, substituindo a expressão “idoso” por “pessoa idosa”, e a [Lei nº 13.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81526), de 25 de setembro de 2001, que dispõe sobre o Estatuto e o Plano de Cargos e Vencimentos do Pessoal do Magistério.

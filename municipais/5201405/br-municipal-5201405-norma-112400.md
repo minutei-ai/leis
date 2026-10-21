@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.064, de 2025-03-20
-
 DECRETO Nº 1.064, DE 20 DE MARÇO DE 2025
 
 Dispõe sobre o remembramento de imóveis no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.640, de 2025-02-06
-
 DECRETO Nº 10.640, DE 6 DE FEVEREIRO DE 2025
 
 Altera o [Decreto nº 9.931](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104274), de 31 de agosto de 2021, que autoriza a Secretaria de Estado de Indústria, Comércio e Serviços – SIC a celebrar e manter os contratos temporários que especifica.

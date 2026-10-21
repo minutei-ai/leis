@@ -1,5 +1,3 @@
-# Medida Provisória nº 305 de 29/06/2006
-
 ###MPV-000305-0-000-29-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 305, DE 29 DE JUNHO DE 2006.

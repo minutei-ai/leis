@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.720, de 2025-12-03
-
 DECRETO Nº 2.720, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Neca Luiz, no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

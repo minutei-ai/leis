@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.085, de 2024-11-18
-
 LEI Nº 23.085, DE 18 DE NOVEMBRO DE 2024
 
 Institui o Dia Estadual da Diálise e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto nº 70.795, de 18/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212892)<br>
 
 # DECRETO N° 70.795, DE 18 DE AGOSTO DE 2026

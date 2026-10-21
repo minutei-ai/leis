@@ -1,5 +1,3 @@
-# Lei nº 18.090, de 26/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210657)<br>
 
 # LEI N° 18.090, DE 26 DE FEVEREIRO DE 2025

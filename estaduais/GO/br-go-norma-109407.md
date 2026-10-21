@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.942, de 2024-08-26
-
 LEI Nº 22.942, DE 26 DE AGOSTO DE 2024
 
 Concede o título de cidadania que especifica.

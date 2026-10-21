@@ -1,5 +1,3 @@
-# Medida Provisória nº 961 de 06/05/2020
-
 MEDIDA PROVISÓRIA Nº 961, DE 6 DE MAIO DE 2020
 
 Autoriza pagamentos antecipados nas licitações e nos contratos, adequa os limites de dispensa de licitação e amplia o uso do Regime Diferenciado de Contratações Públicas - RDC durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020.

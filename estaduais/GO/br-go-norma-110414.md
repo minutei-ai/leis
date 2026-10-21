@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.631, de 2025-01-27
-
 DECRETO Nº 10.631, DE 27 DE JANEIRO DE 2025
 
 Altera o [Decreto nº 10.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108812), de 6 de maio de 2024, que institui no Corpo de Bombeiros Militar – CBM do Estado de Goiás as medalhas que especifica e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.042 de 14/04/2021
-
 MEDIDA PROVISÓRIA Nº 1.042, DE 14 DE ABRIL DE 2021
 
 Simplifica a gestão de cargos em comissão e de funções de confiança, autoriza o Poder Executivo federal a transformar, sem aumento de despesa, cargos em comissão, funções de confiança e gratificações, prevê os Cargos Comissionados Executivos - CCE e as Funções Comissionadas Executivas - FCE e altera a Lei nº 13.844, de 18 de junho de 2019, para dispor sobre secretarias.

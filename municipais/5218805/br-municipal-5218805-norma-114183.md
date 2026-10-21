@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.735, de 2025-11-12
-
 LEI Nº 7.735, DE 12 DE NOVEMBRO DE 2025.
 
 Institui, no âmbito do Município de Rio Verde, o “Agosto Lilás”, mês dedicado à conscientização pelo fim da violência contra a mulher, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.697, de 2025-06-30
-
 DECRETO Nº 1.697, DE 30 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 28, situado à Alameda Dom Abel Ribeiro Camelo no Loteamento Parque Trindade, no Município de Aparecida de Goiânia.

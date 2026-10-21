@@ -1,5 +1,3 @@
-# Medida Provisória nº 244 de 04/04/2005
-
 ###MPV-000244-0-000-04-04-2005@@@
 
 MEDIDA PROVISÓRIA Nº 244, DE 4 DE ABRIL DE 2005

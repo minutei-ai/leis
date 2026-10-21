@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.545, de 2024-09-11
-
 DECRETO Nº 10.545, DE 11 DE SETEMBRO DE 2024
 
 Suspende, no ano de 2024, independentemente do horário, a participação de alunos e servidores da rede pública estadual de ensino em quaisquer desfiles e eventos cívico-militares da Secretaria de Estado da Educação – SEDUC e dos Colégios Estaduais da Polícia Militar de Goiás – CEPMGs.

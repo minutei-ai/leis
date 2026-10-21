@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.200, de 2014-07-16
-
 LEI MUNICIPAL Nº 3.200, DE 16 DE JULHO DE 2014.<br>
 (Revogada pela Lei Ordinária nº 3.553, de 6 de maio de 2020).
 

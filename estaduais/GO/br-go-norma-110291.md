@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.618, de 2024-12-27
-
 DECRETO Nº 10.618, DE 27 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 10.341](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108074), de 13 de novembro de 2023, que autoriza a Secretaria de Estado da Saúde – SES a celebrar e manter os contratos temporários que especifica.

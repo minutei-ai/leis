@@ -1,5 +1,3 @@
-# Lei Complementar nº 11, de 2005-12-23
-
 LEI COMPLEMENTAR N° 011, DE 23 DE DEZEMBRO DE 2005.
 
 Dispõe sobre a adequação do Regime Próprio de Previdência Social de Aparecida de Goiânia à Emenda Constitucional n. 47/05 e dá outras providências.

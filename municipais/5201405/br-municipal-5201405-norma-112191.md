@@ -1,5 +1,3 @@
-# Decreto Numerado nº 33, de 2026-01-13
-
 DECRETO Nº 033, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua W-4, no Loteamento Vale do Sol Gleba 2, no Município de Aparecida de Goiânia.

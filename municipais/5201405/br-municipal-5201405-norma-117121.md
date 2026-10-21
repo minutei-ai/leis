@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.237, de 2014-12-15
-
 LEI MUNICIPAL Nº 3.237, DE 15 DE DEZEMBRO DE 2014.
 
 “Dá nome ao Centro Comunitário, situado no Jardim Tiradentes, neste Município.”

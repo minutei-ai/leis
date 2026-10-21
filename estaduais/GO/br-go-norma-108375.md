@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 719, de 2023-12-28
-
 Portaria Orçamentária nº 719/2023 - Economia
 
 A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 21.760](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106538/lei-21760), de 29 de dezembro de 2022, conforme Processo nº 202300004005884.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.265, de 2026-05-18
-
 LEI Nº 24.265, DE 18 DE MAIO DE 2026
 
 Institui a Política Estadual de Atenção à Saúde Mental dos Profissionais da Saúde Pública e institui a Semana Estadual de Saúde Mental dos Profissionais da Saúde Pública.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 34, de 2025-03-10
-
 <br>
 Portaria Orçamentária nº 34/2025 - Economia
 

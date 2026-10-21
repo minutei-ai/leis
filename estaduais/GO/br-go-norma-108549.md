@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.574, de 2024-03-19
-
 LEI Nº 22.574, DE 19 DE MARÇO DE 2024
 
 Revoga a [Lei nº 22.482](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108255), de 22 de dezembro de 2023, que dispõe sobre o exercício do controle externo pela Assembleia Legislativa do Estado de Goiás.

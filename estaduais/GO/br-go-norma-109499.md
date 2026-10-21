@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.007, de 2024-09-20
-
 LEI Nº 23.007, DE 20 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

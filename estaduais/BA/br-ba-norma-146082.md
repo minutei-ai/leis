@@ -1,5 +1,3 @@
-# LEI Nº 14.814 DE 21 DE JANEIRO DE 2025
-
 LEI Nº 14.814 DE 21 DE JANEIRO DE 2025
 
 Cria a Delegacia Especializada de Combate ao Racismo e à Intolerância Religiosa no Estado da Bahia - DECRIN, na estrutura do Departamento de Proteção à Mulher, Cidadania e Pessoas Vulneráveis, da Polícia Civil do Estado da Bahia - PCBA, na forma que indica, e dá outras providências.

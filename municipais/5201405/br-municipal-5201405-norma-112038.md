@@ -1,5 +1,3 @@
-# Lei Complementar nº 145, de 2018-09-10
-
 LEI COMPLEMENTAR Nº 145, DE 10 DE SETEMBRO DE 2018
 
 Altera os requisitos de provimento do cargo efetivo de Assessor Jurídico, constante do Anexo III da Lei Complementar n° 127/2017, que institui a estrutura administrativa do Instituto de Previdência de Aparecida de Goiânia - APARECIDAPREV e dá outras providências.

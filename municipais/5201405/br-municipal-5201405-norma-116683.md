@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.370, de 2017-08-14
-
 LEI MUNICIPAL Nº 3.370, DE 14 DE AGOSTO DE 2017
 
 “Dá nome à Unidade Básica de Saúde - UBS MARIA DA GLÓRIA COSTA VIEIRA, situada no Conjunto Cruzeiro do Sul, neste Município.”

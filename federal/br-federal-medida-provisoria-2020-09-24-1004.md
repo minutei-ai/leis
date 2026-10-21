@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.004 de 24/09/2020
-
 MEDIDA PROVISÓRIA Nº 1.004, DE 24 DE SETEMBRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 2.513.700.000,00, para o fim que especifica, e dá outras providências.

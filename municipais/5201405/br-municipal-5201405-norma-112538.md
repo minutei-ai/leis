@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.401, de 2025-05-21
-
 DECRETO Nº 1.401, DE 21 DE MAIO DE 2025
 
 Dispõe sobre o remembramento dos Lote 16 ao 19, da Quadra 66, situado à Avenida Guyraupia, no Loteamento Jardim Helvecia, no Município de Aparecida de Goiânia.

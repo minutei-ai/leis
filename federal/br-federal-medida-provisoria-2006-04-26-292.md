@@ -1,5 +1,3 @@
-# Medida Provisória nº 292 de 26/04/2006
-
 ###MPV-000292-0-000-26-04-2006@@@
 
 MEDIDA PROVISÓRIA Nº 292, DE 26 DE ABRIL DE 2006.

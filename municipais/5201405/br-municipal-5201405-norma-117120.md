@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.236, de 2014-12-15
-
 LEI MUNICIPAL Nº 3.236, DE 15 DE DEZEMBRO DE 2014.
 
 Revogar a Lei Municipal nº 1.605, de 18 de dezembro de Lei Municipal nº 1.239, de 29 de junho de 1993 e a Lei Municipal nº 1.569, de 18 de setembro de 1996.

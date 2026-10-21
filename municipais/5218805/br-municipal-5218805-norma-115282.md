@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.404, de 2023-08-28
-
 LEI N° 7.404, DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre a publicação dos atos dos Conselhos Municipais e Comitês do Poder Executivo no site Oficial do Município.

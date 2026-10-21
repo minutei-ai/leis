@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.659, de 2025-03-17
-
 DECRETO Nº 10.659, DE 17 DE MARÇO DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera da Sexta-feira Santa.

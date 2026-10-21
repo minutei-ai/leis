@@ -1,5 +1,3 @@
-# Decreto Numerado nº 516, de 2023-08-03
-
 DECRETO “N” Nº 516 DE 03 DE AGOSTO DE 2023.
 
 Dispõe sobre remembramento de imóvel.

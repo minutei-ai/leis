@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.161, de 2021-07-06
-
 LEI Nº 7.161, DE 06 DE JULHO DE 2021.
 
 Reconhece como Utilidade Pública Municipal o “Observatório de Rio Verde” e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 368, de 2026-05-13
-
 DECRETO Nº 368, DE 13 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Visconde de Laguna, no Loteamento Parque Real de Goiânia, no Município de Aparecida de Goiânia.

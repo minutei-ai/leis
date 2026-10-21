@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.080, de 2026-02-04
-
 LEI Nº 24.080, DE 4 DE FEVEREIRO DE 2026
 
 Altera a [Lei nº 22.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107660), de 16 de agosto de 2023, que institui a Política Estadual de Incentivo ao Turismo Local.

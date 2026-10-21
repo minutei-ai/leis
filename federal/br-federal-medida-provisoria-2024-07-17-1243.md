@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.243 de 17/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.243, DE 17 DE JULHO DE 2024
 
 Abre crédito extraordinário, em favor da Justiça do Trabalho e do Ministério Público da União, no valor de R$ 27.163.242,00, para os fins que especifica.

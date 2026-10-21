@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.039, de 2025-08-25
-
 DECRETO Nº 2.039, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 37, da Quadra 05, situado à Rua Guarapari, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

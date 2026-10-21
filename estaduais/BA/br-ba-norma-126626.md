@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 17 DE 28 DE JUNHO DE 2013
-
 EMENDA CONSTITUCIONAL Nº 17 DE 28 DE JUNHO DE 2013
 
 Acresce o § 3º ao art. 14 da Constituição do Estado da Bahia para definir requisitos de investidura em cargo público efetivo ou comissionado.

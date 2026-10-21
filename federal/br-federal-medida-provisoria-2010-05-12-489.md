@@ -1,5 +1,3 @@
-# Medida Provisória nº 489 de 12/05/2010
-
 ###MPV-000489-0-000-12-05-2010@@@
 
 MEDIDA PROVISÓRIA Nº 489, DE 12 DE MAIO DE 2010.

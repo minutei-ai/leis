@@ -1,5 +1,3 @@
-# Decreto Numerado nº 13, de 2026-01-08
-
 DECRETO Nº 013, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Rio Azul, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

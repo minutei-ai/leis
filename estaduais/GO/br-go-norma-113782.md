@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.219, de 2026-04-09
-
 LEI Nº 24.219, DE 9 DE ABRIL DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

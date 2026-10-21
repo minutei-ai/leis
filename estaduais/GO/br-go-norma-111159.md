@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.765, de 2025-08-21
-
 DECRETO Nº 10.765, DE 21 DE AGOSTO DE 2025
 
 Retifica o [Decreto nº 10.737](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111094), de 24 de julho de 2025, que concede a Medalha da Ordem do Mérito Tiradentes às autoridades que especifica.

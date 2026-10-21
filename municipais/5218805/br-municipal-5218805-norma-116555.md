@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.250, de 2022-04-01
-
 LEI N°. 7.250, DE 1ºDE ABRIL DE 2022
 
 Autoriza o Poder Executivo a realizar desapropriação e pagamento de indenização de imóvel.

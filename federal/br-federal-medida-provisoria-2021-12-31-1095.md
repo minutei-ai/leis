@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.095 de 31/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.095, DE 31 DE DEZEMBRO DE 2021
 
 Revoga dispositivos da Lei nº 10.865, de 30 de abril de 2004, e da Lei nº 11.196, de 21 de novembro de 2005, referentes à tributação especial da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social - Cofins, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação relativa à nafta e a outros produtos destinados a centrais petroquímicas.

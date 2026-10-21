@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.251, de 2025-04-24
-
 DECRETO Nº 1.251, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Santa Edivirges no Loteamento Jardim Alto Paraiso, no Município de Aparecida de Goiânia.

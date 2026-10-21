@@ -1,5 +1,3 @@
-# Decreto Numerado nº 243, de 2026-03-19
-
 DECRETO Nº 243, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 09 e 10, situados à Rua Josefina Veiga Jubé, no Loteamento Industrial Santo Antônio, no Município de Aparecida de Goiânia.

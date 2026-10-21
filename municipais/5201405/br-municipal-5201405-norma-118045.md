@@ -1,5 +1,3 @@
-# Decreto Numerado nº 258, de 2023-04-19
-
 DECRETO “N” Nº 258 DE 19 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL SOLAR CENTRAL PARK, neste município.

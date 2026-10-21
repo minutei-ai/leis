@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.511, de 2024-05-27
-
 LEI Nº 7.511, DE 27 DE MAIO DE 2024.
 
 Reconhece como Utilidade Pública Municipal a Associação Rio Verdense de som automotivo – ARSA.

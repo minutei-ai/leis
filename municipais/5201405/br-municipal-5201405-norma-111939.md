@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.628, de 2006-12-22
-
 Lei municipal nº 2.628, de 22 de dezembro de 2006
 
 Altera o inciso “V” e o § 4.º, todos do art. 273, da Lei Municipal n.º 792, de 07 de dezembro de 1988 (Código de Posturas do Município).

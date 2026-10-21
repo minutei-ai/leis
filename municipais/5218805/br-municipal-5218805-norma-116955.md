@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.908, de 2018-12-13
-
 LEI Nº. 6.908, DE 13 DE DEZEMBRO DE 2018
 
 Dispõe sobre o serviço de transporte individual de passageiros por mototáxi no Município de Rio Verde - GO e dá outras providências

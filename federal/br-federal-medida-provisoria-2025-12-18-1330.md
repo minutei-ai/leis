@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.330 de 18/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.330, DE 18 DE DEZEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério do Meio Ambiente e Mudança do Clima, no valor de R$ 60.460.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.309 de 13/08/2025
-
 MEDIDA PROVISÓRIA Nº 1.309, DE 13 DE AGOSTO DE 2025
 
 Institui, no âmbito do Poder Executivo federal, o Plano Brasil Soberano e o Comitê de Acompanhamento das Relações Comerciais com os Estados Unidos da América, altera a [Lei nº 6.704, de 26 de outubro de 1979](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1979-10-26;6704), a [Lei nº 9.818, de 23 de agosto de 1999](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-08-23;9818), a [Lei nº 11.281, de 20 de fevereiro de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-02-20;11281), a [Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712), a [Lei nº 13.999, de 18 de maio de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-05-18;13999), e a [Lei nº 14.042, de 19 de agosto de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-08-19;14042).

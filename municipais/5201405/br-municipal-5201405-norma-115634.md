@@ -1,5 +1,3 @@
-# Decreto Numerado nº 493, de 2026-06-18
-
 DECRETO Nº 493, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua C-22, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

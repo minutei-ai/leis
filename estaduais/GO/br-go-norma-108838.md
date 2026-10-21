@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.466, de 2024-05-14
-
 DECRETO Nº 10.466, DE 14 DE MAIO DE 2024
 
 Dispõe sobre a atividade e a estrutura de ouvidoria no Poder Executivo do Estado de Goiás.

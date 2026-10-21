@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.230, de 2025-09-18
-
 DECRETO Nº 2.230, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra 22, situado à Rua Hematita, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

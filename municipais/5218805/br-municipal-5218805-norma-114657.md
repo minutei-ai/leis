@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.169, de 2006-08-15
-
 LEI COMPLEMENTAR Nº 5.169, DE 15 DE AGOSTO DE 2006.
 
 Altera a Lei n. 3.633/98.

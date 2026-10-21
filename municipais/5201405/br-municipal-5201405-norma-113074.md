@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.756, de 2025-12-08
-
 DECRETO Nº 2.756, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 06, 07 e 25, situados à Rua Rio de Janeiro e Rua Belo Horizonte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

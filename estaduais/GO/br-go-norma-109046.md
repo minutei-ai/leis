@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.484, de 2024-06-26
-
 DECRETO Nº 10.484, DE 26 DE JUNHO DE 2024
 
 Regulamenta as fases dos concursos públicos para o ingresso no cargo de Policial Penal, previstas no art. 5º da [Lei estadual nº 14.237](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81800), de 8 de julho de 2002, e revoga o [Decreto estadual nº 9.454](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72152), de 24 de junho de 2019.

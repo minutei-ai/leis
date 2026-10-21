@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.191, de 2021-11-08
-
 LEI Nº 7.191, DE 08 DE NOVEMBRO DE 2021
 
 Institui no âmbito municipal a Honraria Policial e Agentes de Destaque do Ano  e dá outras providências.

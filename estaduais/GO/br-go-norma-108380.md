@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.381, de 2024-01-04
-
 DECRETO Nº 10.381 DE 4 DE JANEIRO DE 2024
 
 Retifica o Anexo Único do [Decreto nº 10.278](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107284), de 28 de junho de 2023, que concede a Medalha da Ordem do Mérito Dom Pedro II às autoridades civis e militares que especifica.

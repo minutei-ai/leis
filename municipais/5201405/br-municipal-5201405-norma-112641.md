@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.526, de 2025-06-11
-
 DECRETO Nº 1.526, DE 11 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Avenida Dona Maria Pereira Dias, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

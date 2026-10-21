@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.494, de 2019-08-23
-
 LEI MUNICIPAL Nº 3.494, DE 23 DE AGOSTO DE 2019
 
 Desafeta bens públicos e desapropria imóvel situados nos loteamentos Jardim Belo Horizonte, neste Município e autoriza permuta.

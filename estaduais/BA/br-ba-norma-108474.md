@@ -1,5 +1,3 @@
-# LD Nº 10 DE 04 DE NOVEMBRO DE 1980
-
 LEI DELEGADA Nº 10 DE 04 DE NOVEMBRO DE 1980
 
 Autoriza a criação da Empresa de Produtos Farmacêuticos da Bahia - BAHIAFARMA e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.905, de 2026-06-18
-
 LEI Nº 3.905, DE 18 DE JUNHO DE 2026
 
 Autoriza o Poder Executivo a doar imóvel de propriedade do Município de Aparecida de Goiânia ao Estado de Goiás e dá outras providências.

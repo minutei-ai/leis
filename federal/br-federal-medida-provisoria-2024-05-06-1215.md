@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.215 de 06/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.215, DE 6 DE MAIO DE 2024
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Saúde.

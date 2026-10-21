@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1025, de 2024-12-04
-
 DECRETO “N” Nº 1025 DE 04 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.668, de 2025-04-01
-
 DECRETO Nº 10.668 DE 1º DE ABRIL DE 2025
 
 Delega competência ao Secretário de Estado da Educação para a prática do ato que especifica e dá outras providências.

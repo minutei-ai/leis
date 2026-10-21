@@ -1,5 +1,3 @@
-# Decreto Numerado nº 499, de 2026-06-18
-
 DECRETO Nº 499, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua 51, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

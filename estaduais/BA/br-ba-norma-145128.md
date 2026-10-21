@@ -1,5 +1,3 @@
-# LEI Nº 14.757 DE 26 DE JUNHO DE 2024
-
 LEI Nº 14.757 DE 26 DE JUNHO DE 2024
 
 Ver também:<br>

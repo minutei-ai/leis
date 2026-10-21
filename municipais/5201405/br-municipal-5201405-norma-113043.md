@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.126, de 2025-09-02
-
 DECRETO Nº 2.126, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 344, de 2024-04-01
-
 LEI COMPLEMENTAR Nº 344, DE 1º DE ABRIL DE 2024.
 
 Altera a [Lei Complementar nº 6.093](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116679), de 19 de março de 2012, que reformula a Lei nº 3.853/1999 e dá outras providências.

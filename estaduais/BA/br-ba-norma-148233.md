@@ -1,5 +1,3 @@
-# LEI N º 15.112 DE 28 DE JANEIRO DE 2026
-
 LEI N º 15.112 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a proibição da reconstituição de leite em pó e outros derivados, quando de origem importada, no âmbito do Estado da Bahia, e dá outras providências.

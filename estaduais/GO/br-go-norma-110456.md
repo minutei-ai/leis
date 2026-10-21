@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.263, de 2025-03-07
-
 LEI Nº 23.263, DE 7 DE MARÇO DE 2025
 
 Altera a [Lei nº 18.385](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90529), de 10 de janeiro de 2014, que declara de utilidade pública a entidade que especifica.

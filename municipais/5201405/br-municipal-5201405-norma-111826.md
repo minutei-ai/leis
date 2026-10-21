@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.841, de 2025-07-22
-
 LEI Nº 3.841, DE 22 DE JULHO DE 2025
 
 Dispõe sobre as diretrizes gerais para a instalação e funcionamento de veículos automotores ou rebocados adaptados como cozinhas móveis (food trucks) nos logradouros públicos do Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 258, de 2026-03-26
-
 DECRETO Nº 258, DE 26 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01 e 01A, todos da Quadra 03, situados à Rua 11 e Rua 01, no Loteamento Polo Empresarial Goiás – Etapa V, no Município de Aparecida de Goiânia.

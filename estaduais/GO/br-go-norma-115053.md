@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.326, de 2026-06-01
-
 LEI Nº 24.326, DE 1º DE JUNHO DE 2026
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

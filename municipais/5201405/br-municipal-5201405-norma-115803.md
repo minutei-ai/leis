@@ -1,5 +1,3 @@
-# Decreto Numerado nº 539, de 2024-07-04
-
 DECRETO “N” Nº 539 DE 04 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

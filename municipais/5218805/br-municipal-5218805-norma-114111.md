@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.772, de 2025-11-17
-
 LEI Nº 7.772, DE 17 DE NOVEMBRO DE 2025.
 
 Autoriza o Poder Executivo Municipal a doar áreas de sua propriedade para o Fundo de Arrendamento Residencial – FAR ou ao Programa Minha Casa Minha Vida.

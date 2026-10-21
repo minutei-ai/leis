@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.333 de 07/01/2026
-
 MEDIDA PROVISÓRIA Nº 1.333, DE 7 DE JANEIRO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 250.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 245, de 2025-10-30
-
 LEI COMPLEMENTAR Nº 245, DE 30 DE OUTUBRO DE 2025
 
 Institui a Gratificação de Incentivo à Produtividade para os Agentes Comunitários de Saúde e dá outras providências.

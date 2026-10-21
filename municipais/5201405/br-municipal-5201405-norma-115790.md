@@ -1,5 +1,3 @@
-# Decreto Numerado nº 528, de 2024-06-27
-
 DECRETO “N” Nº 528 DE 02 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

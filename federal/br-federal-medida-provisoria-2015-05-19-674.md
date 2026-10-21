@@ -1,5 +1,3 @@
-# Medida Provisória nº 674 de 19/05/2015
-
 MEDIDA PROVISÓRIA Nº  674, DE 19 DE MAIO DE 2015
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário, da Defesa e da Integração Nacional, no valor de R$ 904.756.882,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 446, de 2023-07-06
-
 DECRETO “N” Nº 446 DE 06 DE JULHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóvel no loteamento VILA NOSSA SENHORA DE LOURDES, neste município.

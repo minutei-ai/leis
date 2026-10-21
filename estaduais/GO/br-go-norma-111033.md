@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.556, de 2025-07-03
-
 LEI Nº 23.556, DE 3 DE JULHO DE 2025
 
 Concede o título de cidadania que especifica.

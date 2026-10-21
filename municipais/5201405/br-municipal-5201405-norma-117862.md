@@ -1,5 +1,3 @@
-# Decreto Numerado nº 142, de 2023-03-06
-
 DECRETO “N” Nº 142 DE 06 DE MARÇO DE 2023<br>
 (Revogado pelo Decreto "N" Nº 361, de 5 de junho de 2023).
 

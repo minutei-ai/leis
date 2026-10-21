@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.950, de 2011-04-08
-
 LEI MUNICIPAL Nº 2.950, DE 08 DE ABRIL DE 2011.<br>
 (Revogada pela Lei Ordinária nº 3.761, de 11 de dezembro de 2023).
 

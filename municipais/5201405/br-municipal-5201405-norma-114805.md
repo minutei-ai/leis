@@ -1,5 +1,3 @@
-# Decreto Numerado nº 178, de 2024-03-25
-
 DECRETO “N” Nº 178 DE 25 DE MARÇO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

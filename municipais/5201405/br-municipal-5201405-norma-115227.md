@@ -1,5 +1,3 @@
-# Decreto Numerado nº 454, de 2026-06-09
-
 DECRETO Nº 454, DE 9 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 28, situado à Rua Francisco Cardoso de Souza, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 818, de 2024-09-30
-
 DECRETO “N” Nº 818 DE 30 DE SETEMBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

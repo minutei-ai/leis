@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.643, de 2025-02-07
-
 DECRETO Nº 10.643, DE 7 DE FEVEREIRO DE 2025
 
 Altera o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.519, de 2024-08-01
-
 DECRETO Nº 10.519 DE 1º DE AGOSTO DE 2024
 
 Retifica o Anexo Único do [Decreto estadual nº 10.512](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109246), de 30 de julho de 2024, que concede a Medalha de Mérito Guardião.

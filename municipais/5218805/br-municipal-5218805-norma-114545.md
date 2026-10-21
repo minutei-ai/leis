@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.975, de 2011-08-24
-
 LEI Nº 5.975, DE 24 DE AGOSTO DE 2011.
 
 Altera a Lei n.º  3.635/1998.

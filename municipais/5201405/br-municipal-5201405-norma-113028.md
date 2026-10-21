@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.066, de 2025-08-29
-
 DECRETO Nº 2.066, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 124, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

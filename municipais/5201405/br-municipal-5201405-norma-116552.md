@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.533, de 2019-12-11
-
 LEI MUNICIPAL Nº 3.533, DE 11 DE DEZEMBRO DE 2019.
 
 Institui o Programa Bolsa Atleta Aparecidense e dá outras providências.

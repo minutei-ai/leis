@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.664, de 2025-09-16
-
 LEI Nº 23.664, DE 16 DE SETEMBRO DE 2025
 
 Reorganiza a estrutura administrativa básica da Fundação de Amparo à Pesquisa de Goiás – FAPEG e de seu Conselho Superior, e dá outras providências.

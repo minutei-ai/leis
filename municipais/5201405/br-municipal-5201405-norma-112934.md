@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.999, de 2025-08-18
-
 DECRETO Nº 1.999, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 03 ao 14 e 17 ao 25, situados à Rua JI-52 e Rua JI-51, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

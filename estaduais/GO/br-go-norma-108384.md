@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.528, de 2024-01-05
-
 LEI Nº 22.528, DE 5 DE JANEIRO DE 2024
 
 Dispõe sobre a extinção dos cargos que especifica e disciplina o aproveitamento dos servidores do Quadro Permanente do extinto Instituto de Assistência dos Servidores Públicos do Estado de Goiás – IPASGO, e dá outras providências.

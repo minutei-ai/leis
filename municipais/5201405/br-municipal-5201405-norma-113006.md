@@ -1,5 +1,3 @@
-# Decreto Numerado nº 153, de 2026-02-19
-
 DECRETO Nº 153, DE 19 DE FEVEREIRO DE 2026
 
 Dispõe sobre a alteração da nomenclatura de áreas integrantes da Fazenda Santo Antônio, que passam a denominar-se Jardim Repouso Complemento, no Município de Aparecida de Goiânia.

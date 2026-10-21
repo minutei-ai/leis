@@ -1,5 +1,3 @@
-# Medida Provisória nº 837 de 30/05/2018
-
 MEDIDA PROVISÓRIA Nº 837, DE 30 DE MAIO DE 2018
 
 Institui indenização ao integrante da Carreira de Policial Rodoviário Federal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.211, de 2025-01-09
-
 LEI Nº 23.211, DE 9 DE JANEIRO DE 2025
 
 Autoriza a criação de sistema de Endereçamento Rural Digital no âmbito do Estado de Goiás.

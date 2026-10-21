@@ -1,5 +1,3 @@
-# Lei nº 18.158, de 27/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211113)<br>
 
 # LEI N° 18.158, DE 27 DE JUNHO DE 2025

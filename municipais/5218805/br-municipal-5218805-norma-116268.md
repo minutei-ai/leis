@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.061, de 2001-03-22
-
 **REVOGADA PELA LEI 4711/2003**
 
 <br>

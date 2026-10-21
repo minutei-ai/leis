@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.558, de 2026-09-30
-
 LEI Nº 24.558, DE 30 DE SETEMBRO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

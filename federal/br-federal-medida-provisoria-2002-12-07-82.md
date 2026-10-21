@@ -1,5 +1,3 @@
-# Medida Provisória nº 82 de 07/12/2002
-
 ###MPV-000082-0-000-07-12-2002@@@
 
 MEDIDA PROVISÓRIA N. 82 – DE 7 DE DEZEMBRO DE 2002

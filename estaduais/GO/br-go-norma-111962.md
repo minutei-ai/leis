@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.977, de 2025-12-23
-
 LEI Nº 23.977, DE 23 DE DEZEMBRO DE 2025
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

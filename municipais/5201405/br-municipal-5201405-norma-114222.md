@@ -1,5 +1,3 @@
-# Decreto Numerado nº 763, de 2024-09-16
-
 DECRETO “N” Nº 763, DE 16 DE SETEMBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóvel púbico do Loteamento Cidade Satélite São Luiz, neste Município como de Interesse Social.

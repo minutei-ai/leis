@@ -1,5 +1,3 @@
-# Decreto Numerado nº 131, de 2024-03-08
-
 DECRETO “N” Nº 131, DE 08 DE MARÇO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Setor Santo André neste município como de Interesse Social.

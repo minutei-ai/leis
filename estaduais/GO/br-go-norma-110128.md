@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.149, de 2024-12-11
-
 LEI Nº 23.149, DE 11 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 19.305](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98615), de 13 de maio de 2016, que institui a Semana Estadual de Prevenção e Combate à Doença Renal.

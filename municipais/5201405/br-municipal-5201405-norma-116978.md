@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.268, de 2015-06-09
-
 LEI MUNICIPAL Nº 3.268, DE 09 DE JUNHO DE 2015.
 
 Institui o dia 20 de outubro como o “Dia de Combate à Gravidez na Adolescência” e dá outras providências.

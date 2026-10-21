@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.523, de 2024-06-24
-
 LEI Nº 7.523, DE 24 DE JUNHO DE 2024.
 
 Torna obrigatória a Divulgação dos Malefícios dos Dispositivos Eletrônicos para Fumar (DEF) em Eventos no Município de Rio Verde.

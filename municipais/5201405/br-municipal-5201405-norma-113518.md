@@ -1,5 +1,3 @@
-# Decreto Numerado nº 179, de 2026-03-10
-
 DECRETO Nº 179, DE 10 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Belo Horizonte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

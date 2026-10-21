@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.016 de 17/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.016, DE 17 DE DEZEMBRO DE 2020
 
 Dispõe sobre a renegociação extraordinária no âmbito do Fundo Constitucional de Financiamento do Norte, do Fundo Constitucional de Financiamento do Nordeste e do Fundo Constitucional de Financiamento do Centro-Oeste.

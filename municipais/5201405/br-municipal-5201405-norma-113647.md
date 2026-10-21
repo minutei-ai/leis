@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.731, de 2008-04-23
-
 LEI MUNICIPAL Nº. 2.731, DE 23 DE ABRIL DE 2008.
 
 Cria o Parque Municipal da Criança, o Parque Municipal Ecológico Paraíso e uma Praça de Esportes.

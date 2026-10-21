@@ -1,5 +1,3 @@
-# Medida Provisória nº 328 de 01/11/2006
-
 ###MPV-000328-0-000-01-11-2006@@@
 
 MEDIDA PROVISÓRIA No- 328, DE 1o- DE NOVEMBRO DE 2006

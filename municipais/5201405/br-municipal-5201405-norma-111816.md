@@ -1,5 +1,3 @@
-# Lei Complementar nº 237, de 2025-02-19
-
 LEI COMPLEMENTAR Nº 237, DE 19 DE FEVEREIRO DE 2025
 
 Altera as Leis Complementares nº 219, de 26 de setembro de 2023 e 010, de 20 de junho de 2005, para dispor sobre regras de transição dos servidores em atividade antes da publicação da reforma da previdência do Município de Aparecida de Goiânia -GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.838, de 2024-07-10
-
 LEI Nº 22.838, DE 10 DE JULHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

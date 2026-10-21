@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.313, de 2025-09-24
-
 DECRETO Nº 2.313, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 01, 30, 31 e 32, todos da Quadra X, situado à Alameda C e Alameda D, no Loteamento Setor Araguaia - Acréscimo, no Município de Aparecida de Goiânia.

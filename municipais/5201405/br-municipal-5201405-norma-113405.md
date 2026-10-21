@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.228, de 2025-09-17
-
 DECRETO Nº 2.228, DE 17 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento da Chácara 213A e Chácara 213B, situado na Alameda D, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

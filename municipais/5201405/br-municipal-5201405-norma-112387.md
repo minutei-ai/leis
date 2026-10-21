@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.052, de 2025-03-19
-
 DECRETO Nº 1.052, DE 19 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel, localizado no Município de Aparecida de Goiânia.

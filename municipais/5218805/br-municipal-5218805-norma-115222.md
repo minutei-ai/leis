@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.440, de 2023-10-31
-
 <br>
 LEI Nº 7.440, DE 31 DE OUTUBRO DE 2023.
 

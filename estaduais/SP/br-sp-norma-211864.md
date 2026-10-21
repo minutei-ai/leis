@@ -1,5 +1,3 @@
-# Decreto nº 70.114, de 18/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211864)<br>
 
 # DECRETO N° 70.114, DE 18 DE NOVEMBRO DE 2025

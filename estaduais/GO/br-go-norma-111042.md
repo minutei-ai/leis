@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.724, de 2025-07-08
-
 DECRETO Nº 10.724, DE 8 DE JULHO DE 2025
 
 Altera o [Decreto nº 10.623](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110376), de 10 de janeiro de 2025, que regulamenta, para os exercícios de 2024 e 2025, o Programa Bolsa Estudo, instituído pela [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495), de 16 de novembro de 2021, e revoga dispositivo do [Decreto nº 10.639](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110425), de 6 de fevereiro de 2025, que institui, na Secretaria de Estado da Educação – SEDUC, o Auxílio-Locomoção ao Gestor Escolar, nos termos do art. 11 da [Lei nº 23.167](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110198), de 20 de dezembro de 2024.

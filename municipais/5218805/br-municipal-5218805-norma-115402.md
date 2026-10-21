@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.355, de 2023-05-29
-
 LEI N. 7.355, DE 29 DE MAIO DE 2023
 
 Autoriza a outorga de concessão de direito real de uso de imóvel que menciona.

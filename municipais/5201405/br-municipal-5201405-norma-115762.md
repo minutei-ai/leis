@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.909, de 2026-06-23
-
 LEI Nº 3.909, DE 23 DE JUNHO DE 2026
 
 Fica instituído o Programa RAMPA – Rede de Apoio às Mães e Pais Atípicos, com diretrizes voltadas à orientação, atenção e promoção de políticas públicas voltadas às famílias atípicas no Município de Aparecida de Goiânia, e institui a Semana da Maternidade e Paternidade Atípica.

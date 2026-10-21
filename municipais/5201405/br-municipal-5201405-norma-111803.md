@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.861, de 2025-10-14
-
 LEI Nº 3.861, DE 14 DE OUTUBRO DE 2025
 
 Institui o ‘Selo Amigo da Juventude’ e dá outras providências para empresas que contratarem jovens em seu primeiro emprego.

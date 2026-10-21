@@ -1,5 +1,3 @@
-# Medida Provisória nº 970 de 25/05/2020
-
 MEDIDA PROVISÓRIA Nº 970, DE 25 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Saúde e da Cidadania, no valor de R$ 29.058.260.654,00, para os fins que especifica e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.426, de 2024-03-15
-
 DECRETO Nº 10.426, DE 15 DE MARÇO DE 2024
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera da Sexta-feira Santa.

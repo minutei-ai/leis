@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.336, de 2025-04-11
-
 LEI Nº 23.336, DE 13 DE ABRIL DE 2025
 
 Institui o Selo “Cidade Destaque na Saúde”.

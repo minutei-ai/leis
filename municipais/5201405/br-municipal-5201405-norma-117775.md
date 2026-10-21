@@ -1,5 +1,3 @@
-# Decreto Numerado nº 53, de 2023-01-24
-
 DECRETO “N” Nº 53 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR SERRA DOURADA – 2ª ETAPA, neste município.

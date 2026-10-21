@@ -1,5 +1,3 @@
-# Decreto Numerado nº 355, de 2024-05-13
-
 DECRETO “N” Nº 355, DE 13 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóveis.

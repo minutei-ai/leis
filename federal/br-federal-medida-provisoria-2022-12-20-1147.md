@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.147 de 20/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.147, DE 20 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 14.148, de 3 de maio de 2021, que instituiu o Programa Emergencial de Retomada do Setor de Eventos - Perse, e reduz a zero por cento as alíquotas da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins incidentes sobre as receitas decorrentes da atividade de transporte aéreo regular de passageiros.

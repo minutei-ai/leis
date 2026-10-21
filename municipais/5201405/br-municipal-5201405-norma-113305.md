@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.321, de 2025-09-29
-
 DECRETO Nº 2.321, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 06, situado à Rua 24 de Outubro, no Loteamento Parque Flamboyant, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.932, de 2024-08-15
-
 LEI Nº 22.932, DE 15 DE AGOSTO DE 2024
 
 Estabelece prazo para encerramento das atividades de extração e beneficiamento do amianto da variedade crisotila, conforme a [Lei nº 20.514](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100717), de 16 de julho de 2019, e dá outras providências.

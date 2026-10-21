@@ -1,5 +1,3 @@
-# Decreto Numerado nº 240, de 2026-03-19
-
 DECRETO Nº 240, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua 68, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

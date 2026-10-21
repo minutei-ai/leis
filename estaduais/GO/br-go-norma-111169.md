@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.593, de 2025-08-25
-
 LEI Nº 23.593, DE 25 DE AGOSTO DE 2025
 
 Prorroga, até 31 de dezembro de 2025, a vigência do Plano Estadual de Educação, aprovado pela [Lei nº 18.969](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/93357), de 22 de julho de 2015.

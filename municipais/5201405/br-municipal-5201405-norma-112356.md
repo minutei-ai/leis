@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.177, de 2014-05-07
-
 LEI MUNICIPAL 3.177, DE 07 DE MAIO DE 2014.
 
 Altera o artigo 10, da Lei Municipal nº 2.548, de 21 de dezembro de 2005, que dispõe sobre a Política Municipal de Atendimento dos Direitos da Criança e do Adolescente.

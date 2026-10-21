@@ -1,5 +1,3 @@
-# Lei nº 18.460, de 11/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212578)<br>
 
 # LEI N° 18.460, DE 11 DE MAIO DE 2026

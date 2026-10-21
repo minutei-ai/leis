@@ -1,5 +1,3 @@
-# LEI Nº 15.071 DE 08 DE JANEIRO DE 2026
-
 LEI Nº 15.071 DE 08 DE JANEIRO DE 2026
 
 Veda, no âmbito do Estado da Bahia, a utilização do nome de pessoas que participaram da ditadura militar para nomear prédios, obras e equipamentos públicos.

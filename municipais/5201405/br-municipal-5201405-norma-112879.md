@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.874, de 2025-08-01
-
 DECRETO Nº 1.874, DE 1º DE AGOSTO DE 2025
 
 Dispõe sobre a aprovação do loteamento Residencial Nice, situado na Fazenda Santo Antônio, no âmbito do Município de Aparecida de Goiânia.

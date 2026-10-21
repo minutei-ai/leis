@@ -1,5 +1,3 @@
-# Medida Provisória nº 809 de 01/12/2017
-
 MEDIDA PROVISÓRIA Nº 809, DE 1 DE DEZEMBRO DE 2017
 
 Altera a [Lei nº 11.516, de 28 de agosto de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-08-28;11516), que dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, e a [Lei nº 7.957, de 20 de dezembro de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-12-20;7957), que dispõe sobre a tabela de Pessoal do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama.

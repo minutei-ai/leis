@@ -1,5 +1,3 @@
-# Decreto Numerado nº 426, de 2026-05-27
-
 DECRETO Nº 426, DE 27 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua 14 e Rua 12-A, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

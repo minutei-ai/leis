@@ -1,5 +1,3 @@
-# Lei Complementar nº 179, de 2020-12-02
-
 LEI COMPLEMENTAR N° 179, DE 02 DE DEZEMBRO DE 2020
 
 Altera a Lei Complementar nº 152, de 09 de Outubro de 2018.

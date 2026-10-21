@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.450, de 2026-07-10
-
 LEI Nº 24.450, DE 10 DE JULHO DE 2026
 
 Concede o título de cidadania que especifica.

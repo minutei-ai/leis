@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.715, de 2025-09-22
-
 LEI Nº 7.715, DE 22 DE SETEMBRO DE 2025.
 
 Institui o "Dia Municipal da Guarda Patrimonial" no Município de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.880, de 2025-12-30
-
 LEI Nº 3.880, DE 30 DE DEZEMBRO DE 2025.
 
 Dispõe sobre orientações de primeiros socorros durante o acompanhamento do pré-natal realizado nas unidades de saúde pública e privada.

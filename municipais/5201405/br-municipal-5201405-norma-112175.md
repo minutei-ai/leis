@@ -1,5 +1,3 @@
-# Decreto Numerado nº 17, de 2026-01-08
-
 DECRETO Nº 017, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes Mansão 01, 02, 03, 04, 05, 06, 07 e 08, todos da Quadra 12, situados à Rua da Independência, Rua Dom Pedro I e Rua do Imperador, no Loteamento Jardim Imperial, no Município de Aparecida de Goiânia.

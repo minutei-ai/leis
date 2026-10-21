@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.828, de 2025-05-08
-
 LEI ORDINÁRIA Nº 3.828, DE 8 DE MAIO DE 2025
 
 Altera a Lei nº 2.861, de 13 de novembro de 2009, que institui normas para a gestão democrática nas unidades escolares e Centros Municipais de Educação Infantil do sistema educativo do Município de Aparecida de Goiânia.

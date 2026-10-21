@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.148, de 2024-12-11
-
 LEI Nº 23.148, DE 11 DE DEZEMBRO DE 2024
 
 Institui a Política Estadual de Apadrinhamento Afetivo de Pessoas Idosas.

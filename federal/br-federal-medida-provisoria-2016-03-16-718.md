@@ -1,5 +1,3 @@
-# Medida Provisória nº 718 de 16/03/2016
-
 MEDIDA PROVISÓRIA Nº 718, DE 16 DE MARÇO DE 2016
 
 Altera a [Lei nº 9.615, de 24 de março de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-03-24;9615), que institui normas gerais sobre desporto, para dispor sobre o controle de dopagem, a [Lei nº 12.780, de 9 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-09;12780), que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e dá outras providências.

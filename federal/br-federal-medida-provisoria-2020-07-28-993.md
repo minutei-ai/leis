@@ -1,5 +1,3 @@
-# Medida Provisória nº 993 de 28/07/2020
-
 MEDIDA PROVISÓRIA Nº 993, DE 28 DE JULHO DE 2020
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Instituto Nacional de Colonização e Reforma Agrária - INCRA.

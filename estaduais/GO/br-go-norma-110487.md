@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.284, de 2025-03-18
-
 LEI Nº 23.284, DE 17 DE MARÇO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Baile do Rubi, realizado no Município de Aparecida de Goiânia/GO.

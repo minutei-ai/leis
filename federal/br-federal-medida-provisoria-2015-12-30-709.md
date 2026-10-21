@@ -1,5 +1,3 @@
-# Medida Provisória nº 709 de 30/12/2015
-
 MEDIDA PROVISÓRIA Nº 709, DE 30 DE DEZEMBRO DE 2015
 
 Abre crédito extraordinário, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Saúde, da Cultura, do Esporte, da Defesa, da Integração Nacional e do Turismo, da Secretaria de Aviação Civil, da Secretaria de Portos e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.318.639.330,00, para os fins que especifica.

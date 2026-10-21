@@ -1,5 +1,3 @@
-# Decreto Numerado nº 373, de 2026-05-13
-
 DECRETO Nº 373, DE 13 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua 15 de Novembro, no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

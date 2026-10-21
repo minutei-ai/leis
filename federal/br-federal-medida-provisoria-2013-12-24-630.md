@@ -1,5 +1,3 @@
-# Medida Provisória nº 630 de 24/12/2013
-
 MEDIDA PROVISÓRIA Nº 630, DE 24 DE DEZEMBRO DE 2013
 
 Altera a Lei nº  12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas - RDC e dá outras providências.

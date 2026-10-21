@@ -1,5 +1,3 @@
-# Decreto Numerado nº 469, de 2024-06-18
-
 DECRETO “N” Nº 469, DE 18 DE JUNHO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL ao servidor da Secretaria Municipal da Educação.

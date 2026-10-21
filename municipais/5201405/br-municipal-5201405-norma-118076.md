@@ -1,5 +1,3 @@
-# Decreto Numerado nº 300, de 2023-05-16
-
 DECRETO “N” Nº 300 DE 16 DE MAIO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM DAS HORTÊNCIAS, neste município.

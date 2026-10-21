@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.572, de 2025-06-12
-
 DECRETO Nº 1.572, DE 12 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua Cel Manoel Saraiva da Cruz, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

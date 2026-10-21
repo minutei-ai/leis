@@ -1,5 +1,3 @@
-# Medida Provisória nº 302 de 29/06/2006
-
 ###MPV-000302-0-000-29-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 302, DE 29 DE JUNHO DE 2006.

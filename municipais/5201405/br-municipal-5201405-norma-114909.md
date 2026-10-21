@@ -1,5 +1,3 @@
-# Decreto Numerado nº 226, de 2024-04-10
-
 DECRETO “N” Nº 226 DE 10 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

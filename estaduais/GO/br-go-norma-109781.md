@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.045, de 2024-10-29
-
 LEI Nº 23.045, DE 29 DE OUTUBRO DE 2024
 
 Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa ao Município de Caldazinha/GO, os imóveis que especifica.

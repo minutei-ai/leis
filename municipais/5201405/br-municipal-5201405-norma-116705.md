@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.395, de 2017-12-12
-
 LEI MUNICIPAL Nº 3.395 DE 12 DE DEZEMBRO DE 2017.
 
 Dispõe sobre o atendimento preferencial às pessoas que perderam entes de 1º grau de parentesco, mediante comprovação nos locais que especifica, no âmbito do Município de Aparecida de Goiânia e dá outras providências.

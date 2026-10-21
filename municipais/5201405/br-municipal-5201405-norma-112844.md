@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.698, de 2025-06-30
-
 DECRETO Nº 1.698, DE 30 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua das Andorinhas no Loteamento Morada dos Pássaros, no Município de Aparecida de Goiânia.

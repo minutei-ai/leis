@@ -1,5 +1,3 @@
-# Decreto Numerado nº 4, de 2026-01-06
-
 DECRETO Nº 004, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Alameda 3 de Julho, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

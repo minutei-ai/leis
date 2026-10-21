@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.057 de 06/07/2021
-
 MEDIDA PROVISÓRIA Nº 1.057, DE 6 DE JULHO DE 2021
 
 Institui o Programa de Estímulo ao Crédito e dispõe sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias.

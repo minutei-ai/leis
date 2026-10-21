@@ -1,5 +1,3 @@
-# Medida Provisória nº 939 de 02/04/2020
-
 MEDIDA PROVISÓRIA Nº 939, DE 2 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 16.000.000.000,00, para os fins que especifica.

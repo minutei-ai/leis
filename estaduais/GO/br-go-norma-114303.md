@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.257, de 2026-05-07
-
 LEI Nº 24.257, DE 7 DE MAIO DE 2026
 
 Autoriza a doação de veículos automotores de propriedade do Estado de Goiás aos municípios goianos, que assumirão os devidos encargos.

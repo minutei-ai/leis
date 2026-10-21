@@ -1,5 +1,3 @@
-# Medida Provisória nº 869 de 27/12/2018
-
 MEDIDA PROVISÓRIA Nº 869, DE 27 DE DEZEMBRO DE 2018
 
 Altera a [Lei nº 13.709, de 14 de agosto de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709), para dispor sobre a proteção de dados pessoais e para criar a Autoridade Nacional de Proteção de Dados, e dá outras providências.

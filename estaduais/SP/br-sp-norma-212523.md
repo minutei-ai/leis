@@ -1,5 +1,3 @@
-# Ato do Presidente nº 55, de 30/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212523)<br>
 
 # ATO DO PRESIDENTE N° 55, DE 30 DE ABRIL DE 2026

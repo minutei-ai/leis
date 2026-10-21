@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.578, de 2024-12-02
-
 LEI Nº 7.578, DE 2 DE DEZEMBRO DE 2024.
 
 Institui o Dia do Encontro de Casais com Cristo ECC no Município de Rio Verde.

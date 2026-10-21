@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.055, de 2024-11-04
-
 LEI Nº 23.055, DE 4 DE NOVEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

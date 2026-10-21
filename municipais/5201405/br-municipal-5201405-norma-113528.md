@@ -1,5 +1,3 @@
-# Decreto Numerado nº 189, de 2026-03-11
-
 DECRETO Nº 189, DE 11 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua Catanduva, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

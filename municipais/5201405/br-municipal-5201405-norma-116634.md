@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.431, de 2018-09-17
-
 LEI Nº 3.431, DE 17 DE SETEMBRO DE 2018
 
 Dispõe sobre a obrigatoriedade da divulgação de listagens de pacientes que aguardam por consultas com especialistas, exames e cirurgias na rede pública municipal de Aparecida de Goiânia, e dá outras providências.

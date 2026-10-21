@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.644, de 2025-09-08
-
 LEI Nº 23.644, DE 8 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 19.749](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99063), de 17 de julho de 2017, que estabelece sanções administrativas em caso de utilização de bomba de abastecimento adulterada nos postos revendedores de combustíveis, e a [Lei nº 22.666](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108811), de 6 de maio de 2024, que institui a Política Estadual Combustíveis de Goiás.

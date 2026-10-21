@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.913, de 2026-06-25
-
 LEI Nº 3.913, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre a implantação do Polo de Apoio Presencial da Universidade Aberta do Brasil – UAB, a ser sediado no Centro Municipal de Educação Profissional, no âmbito do município de Aparecida de Goiânia, e dá outras providências.

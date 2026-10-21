@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.382, de 2023-06-28
-
 LEI N. 7.382, DE 28 DE JUNHO DE 2023
 
 Altera a [Lei n. 7.143](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114650 "Abrir Lei Ordinária nº 7143, de 2021 em nova aba")/2021 que dispõe sobre a Regularização Fundiária de Núcleos Urbanos no Município de Rio Verde e dá outras providências.

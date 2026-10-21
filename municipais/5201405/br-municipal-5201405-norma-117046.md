@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3247, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.247, 23 DE dezembro de 2014.
 
 Dispõe sobre autorização para receber as obras do Parque Municipal Elmar Arantes Cabral em dação em pagamento por conta de tributos municipais gerados em decorrência da outorga onerosa do direito de construir.

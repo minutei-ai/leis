@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.803, de 2024-06-25
-
 LEI Nº 22.803, DE 25 DE JUNHO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Folclórica do Povoado Barreirão, realizada no Município de Campos Belos/GO.

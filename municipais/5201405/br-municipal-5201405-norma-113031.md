@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.114, de 2025-09-01
-
 DECRETO Nº 2.114, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Avenida C-5, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

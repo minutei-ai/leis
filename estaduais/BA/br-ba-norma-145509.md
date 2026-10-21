@@ -1,5 +1,3 @@
-# LEI Nº 14.774 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.774 DE 04 DE SETEMBRO DE 2024
 
 Determina que pessoas feridas em acidente de trânsito sejam levadas, pelo Corpo de Bombeiros ou SAMU (Serviço de Atendimento Móvel de Urgência), para hospitais conveniados aos seus planos de saúde.

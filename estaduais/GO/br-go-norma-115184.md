@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.332, de 2026-06-03
-
 LEI Nº 24.332, DE 3 DE JUNHO DE 2026
 
 Altera a [Lei nº 21.116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104378), de 05 de outubro de 2021, que institui a cobrança, a título de compensação financeira, pelo uso de equipamento de monitoração eletrônica por acusado, preso ou condenado no âmbito do Estado de Goiás.

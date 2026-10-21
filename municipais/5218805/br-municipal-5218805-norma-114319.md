@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.695, de 2025-08-21
-
 LEI N° 7.695, DE 21 DE AGOSTO DE 2025.
 
 Institui a Campanha Permanente de Prevenção e Combate às Amputações em Pacientes Diabéticos no Município de Rio Verde - GO e dá outras providências.

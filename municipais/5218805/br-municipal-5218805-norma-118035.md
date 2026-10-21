@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.034, de 2019-12-20
-
 LEI Nº. 7.034, DE 20 DE DEZEMBRO DE 2019
 
 Autoriza a concessão administrativa de bem público que menciona e dá outras providências

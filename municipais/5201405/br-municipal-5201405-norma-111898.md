@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.787, de 1998-07-01
-
 LEI MUNICIPAL Nº. 1.787, DE 01 DE JULHO DE 1998.
 
 [Revogada pela Lei Complementar nº 171, de 21 de novembro de 2019.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111916) 

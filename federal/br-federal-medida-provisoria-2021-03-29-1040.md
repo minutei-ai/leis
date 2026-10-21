@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.040 de 29/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.040, DE 29 DE MARÇO DE 2021
 
 Dispõe sobre a facilitação para abertura de empresas, a proteção de acionistas minoritários, a facilitação do comércio exterior, o Sistema Integrado de Recuperação de Ativos, as cobranças realizadas pelos conselhos profissionais, a profissão de tradutor e intérprete público, a obtenção de eletricidade e a prescrição intercorrente na Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.583, de 2024-12-16
-
 LEI Nº 7.583, DE 16 DE DEZEMBRO DE 2024.
 
 Cria a Taxa de Regulação, Controle e Fiscalização – TRCF dos serviços públicos de saneamento básico, devida à Agência de Regulação dos Serviços Públicos de Saneamento Básico – AMAE, referente às atividades de regulação, controle e fiscalização exercidas pela AMAE nos municípios pertencentes à Microrregião de Saneamento Básico do Oeste do Estado de Goiás, instituída pela Lei Estadual nº 182, de 23 de maio de 2023.

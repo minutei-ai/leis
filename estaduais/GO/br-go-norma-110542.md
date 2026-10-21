@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.313, de 2025-03-31
-
 LEI Nº 23.313, DE 31 DE MARÇO DE 2025
 
 Institui a Semana Estadual de Conscientização sobre Perdas e Desperdício Alimentar.

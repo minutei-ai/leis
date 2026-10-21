@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.989, de 2025-12-30
-
 LEI Nº 23.989, DE 30 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 14.376](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81941 "Abrir Lei Ordinária nº 14376, de 2002 em nova aba"), de 27 de dezembro de 2002, que dispõe sobre o Regimento de Custas e Emolumentos da Justiça do Estado de Goiás.

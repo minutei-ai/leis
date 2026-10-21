@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.854, de 2026-05-19
-
 LEI Nº 7.854, de 19 de maio de 2026.
 
 Autoriza a desafetação de áreas de propriedade do Poder Público objetivando sua posterior afetação ao Sistema Viário da Rua das Chácaras.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.098, de 2000-06-15
-
 LEI MUNICIPAL Nº 2.098, DE 15 DE JUNHO DE 2000.
 
 Desafeta e autoriza doações de imóveis no loteamento denominado Residencial Maria Luiza, nesta cidade, ao TRIBUNAL DE JUSTIÇA e a PROCURADORIA GERAL DE JUSTIÇA DO ESTADO DE GOIÁS e dá outras providência.

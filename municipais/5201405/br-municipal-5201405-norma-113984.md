@@ -1,5 +1,3 @@
-# Decreto Numerado nº 229, de 2018-08-16
-
 DECRETO “N” Nº 229, DE 16 DE AGOSTO DE 2018<br>
 (Revogado pelo Decreto“N” Nº 627, de 01 de agosto de 2024)
 

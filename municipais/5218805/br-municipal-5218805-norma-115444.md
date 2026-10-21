@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.847, de 2026-04-23
-
 LEI Nº 7.847, DE 23 DE ABRIL DE 2026.
 
 Institui a Semana Municipal da Cidadania Digital no Município de Rio Verde – GO e dá outras providências.

@@ -1,5 +1,3 @@
-# LEI Nº 15.168 DE 08 DE JUNHO DE 2026
-
 LEI Nº 15.168 DE 08 DE JUNHO DE 2026
 
 Dispõe sobre o direito à instalação de estação de recarga individual para veículos elétricos em edificações residenciais e comerciais no Estado da Bahia, e dá outras providências.

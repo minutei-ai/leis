@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.886, de 2025-12-30
-
 LEI Nº 3.886, DE 30 DE DEZEMBRO DE 2025
 
 Torna obrigatória a oferta de turmas femininas em projetos esportivos que recebam recursos do poder público no município de Aparecida de Goiânia e dá outras providências.

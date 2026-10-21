@@ -1,5 +1,3 @@
-# Lei Complementar nº 99, de 2014-12-29
-
 LEI COMPLEMENTAR Nº 99, DE 29 DE DEZEMBRO DE 2014.
 
 Altera o § 2º do Artigo 160 da Lei Complementar Municipal nº 792 de 07 de dezembro de 1988.

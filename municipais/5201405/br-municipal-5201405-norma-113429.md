@@ -1,5 +1,3 @@
-# Lei Complementar nº 130, de 2017-08-21
-
 LEI COMPLEMENTAR Nº 130, DE 21 DE AGOSTO DE 2017
 
 Altera a Lei Complementar Municipal nº 085/2014, institui Regime Especial de Trabalho dos servidores efetivos da Secretaria Municipal de Saúde e cria a gratificação de produtividade para os agentes comunitários de saúde.

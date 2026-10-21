@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.806, de 2024-11-13
-
 LEI MUNICIPAL Nº 3.806, DE 13 DE NOVEMBRO DE 2024.
 
 Autoriza o Poder Executivo a doar quantia à Câmara Municipal de Aparecida de Goiânia, cria encargo para sua aplicação, e dá outras providências.

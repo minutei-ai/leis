@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.451, de 2023-11-27
-
 LEI Nº 7.451, DE 27 DE NOVEMBRO DE 2023.
 
 Autoriza o Poder Executivo a fornecer transporte aos integrantes da Banda Marcial AJA, para participar do Campeonato Brasileiro de Bandas.

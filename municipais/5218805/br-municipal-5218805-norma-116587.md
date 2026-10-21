@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.237, de 2022-02-22
-
 LEI Nº 7.237, DE 22 DE FEVEIRO DE 2022
 
 Dispõe sobre transposição, transferências e remanejamento de créditos orçamentários no âmbito do Poder Executivo e Legislativo Municipal, no vigente orçamento e dá outras providências.

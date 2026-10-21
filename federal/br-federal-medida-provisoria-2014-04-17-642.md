@@ -1,5 +1,3 @@
-# Medida Provisória nº 642 de 17/04/2014
-
 MEDIDA PROVISÓRIA Nº 642, DE 17 DE ABRIL DE 2014
 
 Abre crédito extraordinário, em favor do Ministério da Defesa e de Operações Oficiais de Crédito, no valor de R$ 5.100.000.000,00, para os fins que especifica.

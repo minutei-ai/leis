@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.202, de 2012-11-26
-
 LEI COMPLEMENTAR Nº 6.202, DE 26 DE NOVEMBRO DE 2012.
 
 Altera A Lei n. 5.727/09 Consolidada com a Lei Complementar nº6.045/01/12/2011 – Código Tributário Municipal.

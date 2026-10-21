@@ -1,5 +1,3 @@
-# LEI Nº 15.092 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.092 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto de Promoção do Bem (SEMENTE), com sede no município de Ilhéus.

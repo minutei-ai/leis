@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.687, de 2025-04-25
-
 DECRETO Nº 10.687, DE 25 DE ABRIL DE 2025
 
 Aprova o Regulamento da Secretaria de Estado da Saúde – SES.

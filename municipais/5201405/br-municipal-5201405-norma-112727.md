@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.774, de 2024-03-05
-
 LEI MUNICIPAL Nº 3.774, DE 05 DE MARÇO DE 2024
 
 Dispõe sobre a substituição do pictograma atual de sinalização indicativa representado por uma pessoa curvada de bengala, em vagas, assentos, filas, e outros que realizem serviços prioritários à pessoa idosa e dá outras providências.

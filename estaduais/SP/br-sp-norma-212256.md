@@ -1,5 +1,3 @@
-# Decreto nº 70.394, de 24/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212256)<br>
 
 # DECRETO N° 70.394, DE 24 DE FEVEREIRO DE 2026

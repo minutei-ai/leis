@@ -1,5 +1,3 @@
-# Lei Complementar nº 4.723, de 2003-11-28
-
 LEI complementar Nº  4.723, DE 28 DE NOVEMBRO DE 2003.
 
 <br>

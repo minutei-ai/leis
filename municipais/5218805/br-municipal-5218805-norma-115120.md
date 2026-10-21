@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.499, de 2024-04-01
-
 LEI Nº 7.499, DE 1º DE ABRIL DE 2024.
 
 Denomina nome do Residencial Edson Vieira de Paiva, que especifica e dá outras providências, etc.

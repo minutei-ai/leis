@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.638, de 2024-04-29
-
 LEI Nº 22.638, DE 29 DE ABRIL DE 2024
 
 Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a [Lei estadual nº 22.490](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108264), de 22 de dezembro de 2023.

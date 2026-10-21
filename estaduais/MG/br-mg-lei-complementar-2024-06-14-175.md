@@ -1,5 +1,3 @@
-# LCP nº 175, de 14/06/2024
-
 Altera a Lei Complementar nº 171, de 9 de maio de 2023, que dispõe sobre a transposição e a transferência dos saldos constantes dos Fundos de Saúde dos municípios, provenientes de repasses da Secretaria de Estado de Saúde, e de saldos financeiros resultantes de parcerias e convênios firmados com o Estado, e dá outras providências, a Lei nº 13.317, de 24 de setembro de 1999, que contém o Código de Saúde do Estado de Minas Gerais, e a Lei nº 15.474, de 28 de janeiro de 2005, que altera a Lei nº 13.317, de 24 de setembro de 1999, que contém o Código de Saúde do Estado de Minas Gerais, cria gratificação de função, institui prêmio de produtividade e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

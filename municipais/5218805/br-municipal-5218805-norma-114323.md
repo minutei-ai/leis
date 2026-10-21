@@ -1,5 +1,3 @@
-# Lei Complementar nº 5, de 2014-04-15
-
 **LEI COMPLEMENTAR Nº 05, DE 15 ABRIL DE 2014.**
 
 Altera dispositivos da [Lei nº 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170) – Estatuto dos Funcionários do Município de Rio Verde.

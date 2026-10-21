@@ -1,5 +1,3 @@
-# Decreto Numerado nº 506, de 2024-06-25
-
 DECRETO “N” Nº 506, DE 25 DE JUNHO DE 2024.
 
 Dispõe sobre a aprovação da Regularização Fundiária Urbana Específica – REURB-E de área situada na parte integrante da Fazenda Santo Antônio, identificada como Loteamento Polo Empresarial Goiás Etapa 01B, neste município.

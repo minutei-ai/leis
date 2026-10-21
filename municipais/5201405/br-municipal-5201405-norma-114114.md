@@ -1,5 +1,3 @@
-# Decreto Numerado nº 966, de 2024-11-08
-
 DECRETO “N” Nº 966 DE 08 DE NOVEMBRO DE 2024.
 
 Altera o Decreto “N” Nº 720, de 06 de setembro de 2024, para fins de PRORROGAR o Programa de Recuperação Fiscal – REFIS/PMAG-2024, instituído pela Lei Complementar nº 133, de 24 de novembro de 2017, e dá outras providências.

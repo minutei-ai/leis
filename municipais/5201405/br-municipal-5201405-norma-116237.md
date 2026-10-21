@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.597, de 2020-12-21
-
 LEI MUNICIPAL N° 3.597, DE 21 DE DEZEMBRO DE 2020.
 
 “Dispõe sobre a denominação da PRAÇA GERALDA SEVERINA, no Setor Jardim dos Buritis, neste Município e dá outras providências.”

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.420, de 2018-06-19
-
 LEI Nº 3.420, DE 19 DE JUNHO DE 2018
 
 Reconhece como de Utilidade Pública Municipal o “Centro de Educação Infantil Missionária Simei Santos” e dá outras providências.

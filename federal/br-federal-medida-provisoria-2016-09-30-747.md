@@ -1,5 +1,3 @@
-# Medida Provisória nº 747 de 30/09/2016
-
 MEDIDA PROVISÓRIA Nº 747, DE 30 DE SETEMBRO DE 2016
 
 Altera a Leiº 5.785, de 23 de junho de 1972, para dispor sobre o processo de renovação do prazo das concessões e permissões dos serviços de radiodifusão.

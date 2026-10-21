@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.545, de 2026-09-16
-
 LEI Nº 24.545, DE 16 DE SETEMBRO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

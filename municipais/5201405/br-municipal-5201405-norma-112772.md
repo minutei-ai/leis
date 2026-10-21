@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.805, de 2024-11-12
-
 LEI MUNICIPAL Nº 3.805, DE 12 DE NOVEMBRO DE 2024.
 
 Institui no Município de Aparecida de Goiânia-GO o “Serviço de Acolhimento em Família Acolhedora”, que visa propiciar o acolhimento familiar de crianças e adolescentes afastados do convívio familiar, por decisão judicial.

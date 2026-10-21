@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.669, de 2025-04-02
-
 DECRETO Nº 10.669, DE 2 DE ABRIL DE 2025
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

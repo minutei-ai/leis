@@ -1,5 +1,3 @@
-# LEI Nº 15.020 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.020 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a Associação do Grupo de Artesões do Povoado de Almas - AGAPA, com sede e foro no município de Conceição do Coité.

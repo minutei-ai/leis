@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.424, de 2004-01-05
-
 LEI MUNICIPAL Nº 2.424, DE 05 DE JANEIRO DE 2004.
 
 Dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal, e dá outras providências.

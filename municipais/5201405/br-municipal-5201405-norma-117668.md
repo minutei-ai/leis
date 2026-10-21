@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1121, de 2024-12-19
-
 DECRETO “N” Nº 1121 DE 19 DE DEZEMBRO DE 2024
 
 Dispõe sobre remembramento de imóveis.

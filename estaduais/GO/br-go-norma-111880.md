@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.839, de 2025-12-19
-
 DECRETO Nº 10.839, DE 19 DE DEZEMBRO DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750 "Abrir Decreto Numerado nº 10218, de 2023 em nova aba"), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), também de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e os Anexos III e IV do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925 "Abrir Decreto Numerado nº 9842, de 2021 em nova aba"), de 30 de março de 2021, que define os municípios que sediarão as unidades regionais dos órgãos que especifica, integrantes da Secretaria de Estado da Segurança Pública, e fixa as respectivas circunscrições.

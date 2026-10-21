@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.134, de 2025-09-02
-
 DECRETO Nº 2.134, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra 26, situado à Rua Bonsucesso, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.164, de 2026-03-24
-
 LEI Nº 24.164, DE 24 DE MARÇO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

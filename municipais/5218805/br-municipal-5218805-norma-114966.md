@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.541, de 2024-09-16
-
 LEI Nº 7.541, DE 16 DE SETEMBRO DE 2024.
 
 Altera a Lei 6.588/2016, para incluir, dentre as orientações para o combate à Dengue, a aquisição de dispositivos de controle do Vetor.

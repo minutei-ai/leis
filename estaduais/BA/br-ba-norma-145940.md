@@ -1,5 +1,3 @@
-# LEI Nº 14.797 DE 13 DE DEZEMBRO DE 2024
-
 LEI Nº 14.797 DE 13 DE DEZEMBRO DE 2024
 
 Eleva a Comarca de Luís Eduardo Magalhães de entrância intermediária para entrância final e dá outras providências.

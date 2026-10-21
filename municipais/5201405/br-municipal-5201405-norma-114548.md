@@ -1,5 +1,3 @@
-# Decreto Numerado nº 68, de 2024-02-08
-
 DECRETO “N” Nº 68 DE 08 DE FEVEREIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

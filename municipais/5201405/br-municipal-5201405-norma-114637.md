@@ -1,5 +1,3 @@
-# Decreto Numerado nº 393, de 2026-05-19
-
 DECRETO Nº 393, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Bolivar, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

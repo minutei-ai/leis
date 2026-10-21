@@ -1,5 +1,3 @@
-# LEI Nº 15.063 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.063 DE 18 DE DEZEMBRO DE 2025
 
 Altera a Lei nº 12.911, de 11 de outubro de 2013, na forma que indica.

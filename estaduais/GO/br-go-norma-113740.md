@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.191, de 2026-04-03
-
 LEI Nº 24.191, DE 3 DE ABRIL DE 2026
 
 Concede revisão geral anual da remuneração dos servidores públicos efetivos ativos, inativos e seus pensionistas da Assembleia Legislativa do Estado de Goiás, na forma que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.946, de 2026-07-01
-
 DECRETO Nº 10.946, DE 1º DE JULHO DE 2026
 
 Concede a Medalha Ordem do Mérito Dom Pedro II às autoridades civis e militares que especifica.

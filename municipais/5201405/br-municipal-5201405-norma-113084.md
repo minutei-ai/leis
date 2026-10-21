@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.763, de 2025-12-09
-
 DECRETO Nº 2.763, DE 9 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 35, situado à Rua 7-A, no Loteamento Setor Conde dos Arcos – Complemento, no Município de Aparecida de Goiânia.

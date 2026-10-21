@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.630, de 2024-04-26
-
 LEI Nº 22.630, DE 26 DE ABRIL DE 2024
 
 Dispõe sobre a afixação da placa informativa que especifica nos órgãos da administração pública estadual.

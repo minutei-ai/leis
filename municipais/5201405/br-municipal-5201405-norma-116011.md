@@ -1,5 +1,3 @@
-# Lei Complementar nº 140, de 2017-12-14
-
 LEI COMPLEMENTAR N° 140, DE 14 DE DEZEMBRO DE 2017<br>
 (Revogada pela Lei Complementar nº 185, de 11 de março de 2021).
 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.536, de 2024-08-26
-
 DECRETO Nº 10.536 DE 26 DE AGOSTO DE 2024
 
 Concede a Medalha da Ordem do Mérito da Segurança Pública Governador Mauro Borges Teixeira à autoridade que especifica.

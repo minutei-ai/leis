@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.937, de 2024-08-21
-
 LEI Nº 22.937, DE 21 DE AGOSTO DE 2024
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Ipameri/GO.

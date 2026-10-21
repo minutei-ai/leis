@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.898, de 2025-08-05
-
 DECRETO Nº 1.898, DE 5 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua C-22, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

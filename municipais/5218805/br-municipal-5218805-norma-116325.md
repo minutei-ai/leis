@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.780, de 2004-03-30
-
 LEI Nº 4.780, DE 30 DE MARÇO DE 2004.
 
 Altera quantitativos de cargos que menciona.

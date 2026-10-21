@@ -1,5 +1,3 @@
-# Decreto Legislativo nº 2.556, de 11/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210329)<br>
 
 # DECRETO LEGISLATIVO N° 2.556, DE 11 DE DEZEMBRO DE 2024

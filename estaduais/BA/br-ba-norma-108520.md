@@ -1,5 +1,3 @@
-# LD Nº 75 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 75 DE 03 DE JUNHO DE 1983
 
 Reorganiza o Grupo Executivo de Erradicação da Febre Aftosa na Bahia-GERFAB, sob a denominação de Instituto Biológico da Bahia e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto nº 69.498, de 23/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210879)<br>
 
 # DECRETO N° 69.498, DE 23 DE ABRIL DE 2025

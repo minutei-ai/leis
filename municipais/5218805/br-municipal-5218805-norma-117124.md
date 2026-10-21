@@ -1,5 +1,3 @@
-# Lei Complementar nº 259, de 2022-08-30
-
 LEI COMPLEMENTAR Nº 259, DE 30 DE AGOSTO DE 2022
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, define Órgãos e Entidades que a integram e o seu quadro de Cargos de Confiança (CC), Administração Pública Municipal, define Órgãos e Entidades que Cargos de Provimento em Comissão (DAS) e Funções Gratificadas (FG).

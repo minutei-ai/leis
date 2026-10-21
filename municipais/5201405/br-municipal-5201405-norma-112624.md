@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.512, de 2025-06-10
-
 DECRETO Nº 1.512, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, situado à Avenida 103, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

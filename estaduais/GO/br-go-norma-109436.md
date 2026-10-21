@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.966, de 2024-09-03
-
 LEI Nº 22.966, DE 3 DE setembro DE 2024
 
 Concede o título de cidadania que especifica.

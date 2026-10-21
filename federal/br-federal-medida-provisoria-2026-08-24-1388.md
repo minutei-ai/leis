@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.388 de 24/08/2026
-
 MEDIDA PROVISÓRIA Nº 1.388, DE 24 DE AGOSTO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.152.000.000,00, para o fim que especifica.

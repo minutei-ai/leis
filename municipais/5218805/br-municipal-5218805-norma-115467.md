@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.324, de 2023-02-17
-
 LEI N° 7.324, DE 17 DE FEVEREIRO DE 2023
 
 Concede reposição geral anual e atualiza o piso do vencimento municipal dos professores.

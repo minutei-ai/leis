@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.693, de 2025-08-21
-
 **Lei nº 7693, DE 21 DE AGOSTO DE 2025.**
 
 Institui a Semana Municipal de Conscientização sobre Doenças Raras no Município de Rio Verde GO e dá outras providências.

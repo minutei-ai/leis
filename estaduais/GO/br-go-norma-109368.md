@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.523, de 2024-08-09
-
 DECRETO Nº 10.523, DE 9 DE AGOSTO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

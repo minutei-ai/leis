@@ -1,5 +1,3 @@
-# Decreto Numerado nº 228, de 2026-03-18
-
 DECRETO Nº 228, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 23 e 24, situados à Rua JI-51, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

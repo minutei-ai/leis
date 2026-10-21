@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.119, de 2025-09-01
-
 DECRETO Nº 2.119, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 28, situado à Alameda Córrego do Ouro e Rua União, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

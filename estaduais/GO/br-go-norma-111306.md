@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.688, de 2025-09-24
-
 LEI Nº 23.688, DE 24 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

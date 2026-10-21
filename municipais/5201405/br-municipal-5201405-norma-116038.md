@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.610, de 2021-06-15
-
 LEI MUNICIPAL Nº 3.610, DE 15 DE JUNHO DE 2021.
 
 “Revoga a Lei Municipal nº 3.596 de 21 de Dezembro de 2020”.

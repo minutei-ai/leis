@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.720, de 2024-05-28
-
 LEI Nº 22.720, DE 28 DE MAIO DE 2024
 
 Altera a [Lei nº 16.901](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88625), de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás.

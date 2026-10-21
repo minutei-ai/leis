@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.159 de 12/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.159, DE 12 DE JANEIRO DE 2023
 
 Altera a Lei nº 10.637, de 30 de dezembro de 2002, e a Lei nº 10.833, de 29 de dezembro de 2003, para excluir o Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS da incidência e da base de cálculo dos créditos da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.522, de 2024-06-24
-
 LEI Nº 7.522, DE 24 DE JUNHO DE 2024.
 
 Denomina nome de praça que especifica e dá outras providências.

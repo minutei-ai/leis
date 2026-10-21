@@ -1,5 +1,3 @@
-# Medida Provisória nº 812 de 26/12/2017
-
 MEDIDA PROVISÓRIA Nº 812, DE 26 DE DEZEMBRO DE 2017
 
 Altera a [Lei nº 7.827, de 27 de setembro de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-09-27;7827), que regulamenta o art. 159, inciso I, alínea “c”, da [Constituição Federal](https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988), e institui o Fundo Constitucional de Financiamento do Norte - FNO, o Fundo Constitucional de Financiamento do Nordeste - FNE e o Fundo Constitucional de Financiamento do Centro-Oeste - FCO, e a [Lei nº 10.177, de 12 de janeiro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-01-12;10177), que dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste.

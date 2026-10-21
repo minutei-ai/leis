@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.807, de 2025-11-03
-
 DECRETO Nº 10.807 DE 3 DE NOVEMBRO DE 2025
 
 Dispõe sobre normas para o encerramento da execução orçamentária, ﬁnanceira e contábil do exercício ﬁnanceiro de 2025.

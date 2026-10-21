@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.886, de 2009-12-22
-
 LEI MUNICIPAL Nº. 2.886, DE 22 DE DEZEMBRO DE 2009.
 
 Doa imóvel público situado no loteamento denominado Vale do Sol, Gleba “05”, neste Município, para a COOCAP-COOPERATIVA DOS CATADORES DE LIXO DE APARECIDA DE GOIÂNIA LTDA.

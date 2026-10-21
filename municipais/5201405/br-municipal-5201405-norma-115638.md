@@ -1,5 +1,3 @@
-# Decreto Numerado nº 497, de 2026-06-18
-
 DECRETO Nº 497, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua R-2, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

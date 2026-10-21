@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.955, de 2024-08-28
-
 LEI Nº 22.955, DE 28 DE AGOSTO DE 2024
 
 Altera a [Lei nº 20.472](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100674), de 06 de maio de 2019, que dispõe sobre a política estadual de estímulo, incentivo e promoção ao desenvolvimento regional de _startups_ e dá outras providências.

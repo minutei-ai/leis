@@ -1,5 +1,3 @@
-# Decreto Numerado nº 264, de 2024-04-16
-
 DECRETO “N” Nº 264 DE 16 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

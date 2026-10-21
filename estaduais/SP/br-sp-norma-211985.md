@@ -1,5 +1,3 @@
-# Decreto nº 70.205, de 12/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211985)<br>
 
 # DECRETO N° 70.205, DE 12 DE DEZEMBRO DE 2025

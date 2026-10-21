@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.888, de 2026-03-27
-
 DECRETO Nº 10.888, DE 27 DE MARÇO DE 2026
 
 Institui a edição revista, atualizada e ampliada do _[Manual de Redação do Governo do Estado de Goiás](https://goias.gov.br/casacivil/wp-content/uploads/sites/47/2026/03/Nova-Edicao-do-Manual-de-Redacao-do-Governo-do-Estado-de-Goias.pdf)._

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.153, de 2021-06-10
-
 LEI Nº 7.153, DE 10 DE JUNHO DE 2021.
 
 Denomina nome de Complexo Poliesportivo no município de Rio Verde Goiás, que especifica e dá outras providências.

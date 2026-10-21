@@ -1,5 +1,3 @@
-# Decreto nº 70.397, de 24/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212259)<br>
 
 # DECRETO N° 70.397, DE 24 DE FEVEREIRO DE 2026

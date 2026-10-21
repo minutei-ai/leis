@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.868, de 2026-03-09
-
 DECRETO Nº 10.868, DE 9 DE MARÇO DE 2026
 
 Aprova o Regulamento da Agência Goiana de Infraestrutura e Transportes – GOINFRA e revoga o [Decreto nº 10.213](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106743 "Abrir Decreto Numerado nº 10213, de 2023 em nova aba"), de 7 de fevereiro de 2023.

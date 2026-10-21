@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.035 de 05/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.035, DE 5 DE MARÇO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Infraestrutura, no valor de R$ 275.000.000,00, para os fins que especifica.

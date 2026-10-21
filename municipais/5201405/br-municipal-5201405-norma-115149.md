@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.754, de 2023-11-28
-
 LEI MUNICIPAL Nº 3.754, DE 28 DE NOVEMBRO DE 2023.
 
 Institui, no calendário oficial de datas e eventos do município de Aparecida de Goiânia, o Dia do Grupo Calebe Universal, a ser comemorado anualmente no dia 1° de outubro.

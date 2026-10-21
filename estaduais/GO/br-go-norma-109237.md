@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.880, de 2024-07-26
-
 LEI Nº 22.880, DE 26 DE JULHO DE 2024
 
 Institui, no Estado de Goiás, o Ano do Centenário da Festa do Senhor Bom Jesus, realizada no Município de Aragarças/GO, e dá outras providências.

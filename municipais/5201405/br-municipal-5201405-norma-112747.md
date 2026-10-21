@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.796, de 2024-09-10
-
 LEI MUNICIPAL Nº 3.796, DE 10 DE SETEMBRO DE 2024
 
 Reconhece como Utilidade Pública Municipal a Associação Esportiva Lona Voleibol e dá outras providências.

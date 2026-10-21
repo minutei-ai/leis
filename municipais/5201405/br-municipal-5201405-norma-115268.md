@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.645, de 2022-01-17
-
 LEI MUNICIPAL Nº 3.645, DE 17 DE JANEIRO DE 2022.
 
 Institui o “Dia do Nordestino” e a “Semana da Nordestinidade” no município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.356, de 2017-05-03
-
 LEI MUNICIPAL Nº 3.356, DE 03 DE MAIO DE 2017
 
 Institui o “Dia do Despertar Ambiental” e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 235, de 2024-08-22
-
 LEI COMPLEMENTAR N° 235, DE 22 DE AGOSTO DE 2024.
 
 Alteram os arts. 14, caput e 15, § 2º, da Lei Complementar Municipal Nº 191, de 16 de dezembro de 2021, para definir expressamente alíquota de contribuição do patrocinador referente ao regime de previdência complementar no âmbito do Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 179 de 01/04/2004
-
 ###MPV-000179-0-000-01-04-2004@@@
 
 MEDIDA PROVISÓRIA Nº 179, DE 1º DE ABRIL 2004.

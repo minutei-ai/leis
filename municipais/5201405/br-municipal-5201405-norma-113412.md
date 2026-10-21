@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.233, de 2025-09-18
-
 DECRETO Nº 2.233, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 18, situado à Rua 102, no Loteamento Alvorada Oeste, no Município de Aparecida de Goiânia.

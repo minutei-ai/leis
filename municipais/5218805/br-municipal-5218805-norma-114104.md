@@ -1,5 +1,3 @@
-# Lei Complementar nº 431, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 431, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei Complementar nº 5.727, de 11 de dezembro de 2009 - Código Tributário do Município de Rio Verde.

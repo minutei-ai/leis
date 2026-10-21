@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.394 de 25/09/2026
-
 MEDIDA PROVISÓRIA Nº 1.394, DE 25 DE SETEMBRO DE 2026
 
 Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a [Lei nº 14.790, de 29 de dezembro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-12-29;14790).

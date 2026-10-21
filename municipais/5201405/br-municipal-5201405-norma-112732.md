@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.779, de 2024-04-03
-
 LEI MUNICIPAL Nº 3.779, DE 03 DE ABRIL DE 2024.
 
 Institui no Calendário Oficial de Eventos do Município de Aparecida de Goiânia-GO, o Dia do Cooperativismo.

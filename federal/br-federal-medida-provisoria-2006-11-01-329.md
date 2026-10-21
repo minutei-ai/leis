@@ -1,5 +1,3 @@
-# Medida Provisória nº 329 de 01/11/2006
-
 ###MPV-000329-0-000-01-11-2006@@@
 
 MEDIDA PROVISÓRIA No- 329, DE 1o- DE NOVEMBRO DE 2006

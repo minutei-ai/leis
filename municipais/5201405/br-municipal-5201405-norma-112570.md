@@ -1,5 +1,3 @@
-# Decreto Numerado nº 104, de 2026-01-28
-
 DECRETO Nº 104, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Avenida R-1, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

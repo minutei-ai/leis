@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.308, de 2016-04-18
-
 LEI MUNICIPAL Nº 3.308, DE 18 DE ABRIL DE 2016.
 
 “Dá nome ao CMEI (Centro Educacional Infantil) localizado no Bairro Pontal Sul, em Aparecida de Goiânia-GO”.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.847, de 2025-07-23
-
 DECRETO Nº 1.847, DE 23 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua José Lourenço Dias com Avenida Edilberto Veiga Jardim, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

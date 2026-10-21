@@ -1,5 +1,3 @@
-# Medida Provisória nº 962 de 06/05/2020
-
 MEDIDA PROVISÓRIA Nº 962, DE 6 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Ciência, Tecnologia, Inovações e Comunicações e das Relações Exteriores, no valor de R$ 418.800.000,00, para os fins que especifica.

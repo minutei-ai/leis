@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.826, de 2024-07-04
-
 LEI Nº 22.826, DE 4 DE JULHO DE 2024
 
 Altera a [Lei nº 14.308](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81870), de 12 de novembro de 2002, que institui o Programa de Incentivo ao Atleta de Rendimento – PRÓ-ATLETA e dá outras providências.

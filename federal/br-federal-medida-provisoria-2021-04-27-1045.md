@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.045 de 27/04/2021
-
 MEDIDA PROVISÓRIA Nº 1.045, DE 27 DE ABRIL DE 2021
 
 Institui o Novo Programa Emergencial de Manutenção do Emprego e da Renda e dispõe sobre medidas complementares para o enfrentamento das consequências da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19) no âmbito das relações de trabalho.

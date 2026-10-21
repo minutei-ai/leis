@@ -1,5 +1,3 @@
-# Decreto Numerado nº 233, de 2026-03-18
-
 DECRETO Nº 233, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua dos Girassois, no Loteamento Expansul, no Município de Aparecida de Goiânia.

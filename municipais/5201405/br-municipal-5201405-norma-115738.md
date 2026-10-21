@@ -1,5 +1,3 @@
-# Decreto Numerado nº 495, de 2024-06-24
-
 DECRETO “N” Nº 495 DE 24 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

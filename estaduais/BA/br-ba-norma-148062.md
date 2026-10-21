@@ -1,5 +1,3 @@
-# LEI Nº 15.060 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.060 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Fundação Otávia Simões, com sede e foro no município de Valente.

@@ -1,5 +1,3 @@
-# LD Nº 07 DE 23 DE MARÇO DE 1972
-
 LEI DELEGADA Nº 07 DE 23 DE MARÇO DE 1972
 
 Majora vencimentos das categorias funcionais que indica e dá outras providências.

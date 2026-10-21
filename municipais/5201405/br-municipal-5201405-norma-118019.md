@@ -1,5 +1,3 @@
-# Decreto Numerado nº 248, de 2023-04-17
-
 DECRETO “N” Nº 248 DE 17 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM IPIRANGA - CONTINUAÇÃO, neste município.

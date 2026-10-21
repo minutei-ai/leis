@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.350, de 2017-03-13
-
 LEI MUNICIPAL Nº 3.350, DE 13 DE MARÇO DE 2017.
 
 Altera as Leis Municipais nos 3.179/2014 e 3.180/2014, que tratam, respectivamente, da Câmara Intersetorial de Segurança Alimentar e Nutricional (CAISAN) e do Conselho Municipal de Segurança Alimentar e Nutricional (COMSAN).

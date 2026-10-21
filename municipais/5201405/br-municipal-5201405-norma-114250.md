@@ -1,5 +1,3 @@
-# Decreto Numerado nº 193, de 2024-04-01
-
 DECRETO “N” Nº 193, DE 01 DE ABRIL DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Riviera neste município como de Interesse Social.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 144, de 2026-02-12
-
 DECRETO Nº 144, DE 12 DE FEVEREIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 14, 15 e 16, situados à Avenida C-5 e Rua C-18, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

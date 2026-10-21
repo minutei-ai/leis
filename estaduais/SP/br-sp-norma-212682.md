@@ -1,5 +1,3 @@
-# Decreto nº 70.664, de 29/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212682)<br>
 
 # DECRETO N° 70.664, DE 29 DE MAIO DE 2026

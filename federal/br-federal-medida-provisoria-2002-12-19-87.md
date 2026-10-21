@@ -1,5 +1,3 @@
-# Medida Provisória nº 87 de 19/12/2002
-
 ###MPV-000087-0-000-19-12-2002@@@
 
 MEDIDA PROVISÓRIA Nº 87, DE 19 DE DEZEMBRO 2002.

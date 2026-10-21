@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.605, de 2025-08-29
-
 LEI Nº 23.605, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

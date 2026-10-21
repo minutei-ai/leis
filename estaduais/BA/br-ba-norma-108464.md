@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 31 DE 06 DE JUNHO DE 2008
-
 LEI COMPLEMENTAR Nº 31 DE 06 DE JUNHO DE 2008
 
 Altera a Lei Complementar nº 11, de 18 de janeiro de 1996, que institui a Lei Orgânica do Ministério Público do Estado da Bahia, e dá outras providências.

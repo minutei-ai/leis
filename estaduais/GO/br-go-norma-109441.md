@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.971, de 2024-09-03
-
 LEI Nº 22.971, DE 3 DE SETEMBRO DE 2024
 
 Institui a Política Estadual de Incentivo ao Desenvolvimento dos Municípios Goianos e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 412, de 2024-05-29
-
 DECRETO “N” Nº 412, DE 29 DE MAIO DE 2024.
 
 Nomeia e Reconduz membros do Conselho Municipal de Previdência, representantes do Poder Executivo.

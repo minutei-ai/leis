@@ -1,5 +1,3 @@
-# Decreto Numerado nº 587, de 2024-07-18
-
 DECRETO “N” Nº 587 DE 18 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 52 de 04/07/2002
-
 ###MPV-000052-0-000-04-07-2002@@@
 
 MEDIDA PROVISÓRIA N° 52, DE 4 DE JULHO DE 2002

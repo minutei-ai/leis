@@ -1,5 +1,3 @@
-# Decreto Numerado nº 467, de 2023-07-12
-
 DECRETO “N” Nº 467 DE 12 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento VILA OLIVEIRA, neste município.

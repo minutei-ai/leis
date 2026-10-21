@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.094 de 31/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.094, DE 31 DE DEZEMBRO DE 2021
 
 Altera a Lei nº 11.371, de 28 de novembro de 2006, para dispor sobre a redução na alíquota do imposto sobre a renda incidente sobre as operações que menciona.

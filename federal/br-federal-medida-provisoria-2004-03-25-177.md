@@ -1,5 +1,3 @@
-# Medida Provisória nº 177 de 25/03/2004
-
 ###MPV-000177-0-000-25-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 177, DE 25 DE MARÇO 2004.

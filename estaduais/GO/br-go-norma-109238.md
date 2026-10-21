@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.881, de 2024-07-26
-
 LEI Nº 22.881, DE 26 DE JULHO DE 2024
 
 Institui a Semana da Arte Goiana.

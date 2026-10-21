@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.799, de 2024-10-04
-
 LEI MUNICIPAL Nº 3.799, DE 04 DE OUTUBRO DE 2024.
 
 Dispõe sobre a denominação da PRAÇA ROMILDA DA SILVA, localizada no setor Itamarati, neste Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 642, de 2023-10-06
-
 DECRETO “N” Nº 642 DE 06 DE OUTUBRO DE 2023
 
 Dispõe sobre remembramento e desmembramento.

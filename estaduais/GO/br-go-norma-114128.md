@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.241, de 2026-04-28
-
 LEI Nº 24.241, DE 28 DE ABRIL DE 2026
 
 Abre crédito especial à Diretoria-Geral de Polícia Penal, à Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária e à Indústria Química do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 431 de 14/05/2008
-
 ###MPV-000431-0-000-14-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 431, DE 14 DE MAIO DE 2008.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 335, de 2026-05-06
-
 DECRETO Nº 335, DE 6 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua Professor Guerreiro Ramos, no Loteamento Jardim Riviera, no Município de Aparecida de Goiânia.

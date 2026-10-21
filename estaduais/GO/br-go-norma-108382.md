@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.526, de 2024-01-05
-
 LEI Nº 22.526, DE 5 DE JANEIRO DE 2024
 
 Institui o Centro de Atendimento Educacional Florescer e altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências; a [Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 06 de junho de 2018, que dispõe sobre o processo de seleção democrática de gestor de unidade escolar da rede pública estadual da educação básica; a [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral, e dá outras providências; e a [Lei nº 15.255](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79859), de 15 de julho de 2005, que cria as unidades escolares que indica e dá outras providências.

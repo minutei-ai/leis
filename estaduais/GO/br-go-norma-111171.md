@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.768, de 2025-08-25
-
 DECRETO Nº 10.768 , DE 26 DE AGOSTO DE 2025
 
 Institui o conselho gestor e regulador referido no § 1º do art. 2º do [Decreto nº 9.130](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70056), de 29 de dezembro de 2017, que dispõe sobre o Programa Estadual de Pagamento por Serviços Ambientais – PEPSA e dá outras providências.

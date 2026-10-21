@@ -1,5 +1,3 @@
-# Medida Provisória nº 688 de 18/08/2015
-
 MEDIDA PROVISÓRIA Nº 688, DE 18 DE AGOSTO DE 2015
 
 Dispõe sobre a repactuação do risco hidrológico de geração de energia elétrica, institui a bonificação pela outorga e altera a Lei nº 10.848, de 15 de março de 2004, que dispõe sobre a comercialização de energia elétrica, a Lei nº 12.783, 11 de janeiro de 2013, que dispõe sobre as concessões de energia elétrica, e a Lei nº 9.478, de 6 de agosto de 1997, que institui o Conselho Nacional de Política Energética.

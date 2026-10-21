@@ -1,5 +1,3 @@
-# Lei Complementar nº 445, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 445, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei Complementar nº 6.111, de 19 de março de 2012, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da área fim da Secretaria Municipal de Saúde de Rio Verde e dá outras providências.

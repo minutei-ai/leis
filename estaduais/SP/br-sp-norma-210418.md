@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.417, de 26/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210418)<br>
 
 # LEI COMPLEMENTAR N° 1.417, DE 26 DE DEZEMBRO DE 2024

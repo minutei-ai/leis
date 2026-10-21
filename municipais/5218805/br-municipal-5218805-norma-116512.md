@@ -1,5 +1,3 @@
-# Lei Complementar nº 279, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 279, DE 17 DE FEVEREIRO DE 2023
 
 Revoga os arts. 6º a 8º da Lei Complementar nº. 5.225/2006 e altera a Lei Complementar nº 3.853/1999 – Plano de Cargos e Vencimentos dos Servidores do Município de Rio Verde

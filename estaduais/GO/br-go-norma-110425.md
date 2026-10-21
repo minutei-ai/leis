@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.639, de 2025-02-06
-
 DECRETO Nº 10.639, DE 6 DE FEVEREIRO DE 2025
 
 Institui, na Secretaria de Estado da Educação – SEDUC, o Auxílio-Locomoção ao Gestor Escolar, nos termos do art. 11 da [Lei nº 23.167](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110198), de 20 de dezembro de 2024.

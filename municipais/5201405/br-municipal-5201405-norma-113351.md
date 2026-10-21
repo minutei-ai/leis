@@ -1,5 +1,3 @@
-# Lei Complementar nº 129, de 2017-06-26
-
 LEI COMPLEMENTAR Nº 129, 26 DE JUNHO DE 2017.
 
 Altera a Lei nº 3.338/2016 e as Leis Complementares nº 111/2015 e nº 126/2017, viabilizando a criação de cargos da Guarda Civil Municipal e dá outras providências.

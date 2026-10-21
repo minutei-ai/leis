@@ -1,5 +1,3 @@
-# LEI Nº 14.933 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.933 DE 17 DE JUNHO DE 2025
 
 Institui a "Semana de Conscientização à Criança e ao Adolescente quanto ao Uso das Redes Sociais”, a realizar-se na segunda semana do mês de outubro.

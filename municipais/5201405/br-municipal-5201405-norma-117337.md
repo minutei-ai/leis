@@ -1,5 +1,3 @@
-# Decreto Numerado nº 831, de 2024-10-03
-
 DECRETO “N” Nº 831 DE 03 DE OUTUBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

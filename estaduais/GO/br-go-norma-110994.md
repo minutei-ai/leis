@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.713, de 2025-06-23
-
 DECRETO Nº 10.713, DE 23 DE JUNHO DE 2025
 
 Destina o repasse de recurso extraordinário ao Cofinanciamento Estadual da Assistência Social no exercício de 2025.

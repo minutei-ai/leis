@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.239, de 2014-12-15
-
 LEI MUNICIPAL N° 3.239, DE 15 DE DEZEMBRO DE 2014.
 
 Autoriza o Poder Executivo Municipal a alienar área pública ao FUNDO DE ARRENDAMENTO RESIDENCIAL-FAR.

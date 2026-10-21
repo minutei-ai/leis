@@ -1,5 +1,3 @@
-# Lei Complementar nº 201, de 2021-02-19
-
 LEI COMPLEMENTAR Nº 201, DE 19 DE FEVEREIRO DE 2021
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020, cria a Secretaria Municipal de Habitação e dá outras providências.

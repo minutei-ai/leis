@@ -1,5 +1,3 @@
-# Lei Complementar nº 14, de 2014-06-10
-
 **LEI COMPLEMENTAR Nº 14/2014, DE 10 DE JUNHO DE 2014**
 
 Altera a Lei nº 6.074/11 — Perímetro Urbano do Município de Rio Verde-GO.

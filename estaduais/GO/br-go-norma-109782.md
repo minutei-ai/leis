@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.046, de 2024-10-29
-
 LEI Nº 23.046, DE 29 DE OUTUBRO DE 2024.
 
 Autoriza a Secretaria de Estado da Educação a instituir, anualmente, o Festival de Arte Educativo de Goiás – FAEGO na rede estadual de ensino.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 259, de 2026-03-26
-
 DECRETO Nº 259, DE 26 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 03 e 04, situados à Rua R-10 e Rua R-21, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 450, de 2026-06-03
-
 DECRETO Nº 450, DE 3 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Doutor Edilberto da Veiga Jardim, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 691 de 31/08/2015
-
 MEDIDA PROVISÓRIA Nº 691, DE 31 DE AGOSTO DE 2015
 
 Dispõe sobre a administração, a alienação, a transferência de gestão de imóveis da União e seu uso para a constituição de fundos.

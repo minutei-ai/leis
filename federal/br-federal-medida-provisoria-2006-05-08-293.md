@@ -1,5 +1,3 @@
-# Medida Provisória nº 293 de 08/05/2006
-
 ###MPV-000293-0-000-08-05-2006@@@
 
 MEDIDA PROVISÓRIA Nº 293, DE 8 DE MAIO DE 2006.

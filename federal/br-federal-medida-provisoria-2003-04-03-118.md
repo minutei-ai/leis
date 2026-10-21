@@ -1,5 +1,3 @@
-# Medida Provisória nº 118 de 03/04/2003
-
 ###MPV-000118-0-000-03-04-2003@@@
 
 MEDIDA PROVISÓRIA N° 118, DE 3 DE ABRIL 2003.

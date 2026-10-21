@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.201 de 21/12/2023
-
 MEDIDA PROVISÓRIA Nº 1.201, DE 21 DE DEZEMBRO DE 2023
 
 Concede remissão total dos créditos tributários relativos às importações de produtos automotivos da República do Paraguai ao amparo do Regime de Origem do Mercosul, nas condições que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.508, de 2024-07-25
-
 DECRETO Nº 10.508 DE 25 DE JULHO DE 2024
 
 Concede a Medalha da Ordem do Mérito Tiradentes às autoridades que especifica.

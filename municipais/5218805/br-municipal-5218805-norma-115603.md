@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.863, de 2026-05-19
-
 LEI Nº 7.863, DE 19 DE MAIO DE 2026.
 
 Institui a Semana Municipal da Capoeira no âmbito do Município de Rio Verde e dá outras providências.

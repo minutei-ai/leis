@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.547, de 2024-09-16
-
 LEI Nº 7.547, DE 16 DE SETEMBRO DE 2024.
 
 Denomina nome PONTE DO RIO CABELEIRA que especifica e dá outras providências.

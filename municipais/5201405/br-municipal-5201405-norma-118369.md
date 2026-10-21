@@ -1,5 +1,3 @@
-# Decreto Numerado nº 609, de 2023-09-18
-
 DECRETO “N” Nº 609 DE 18 DE SETEMBRO DE 2023
 
 Dispõe sobre remembramento e desmembramento.

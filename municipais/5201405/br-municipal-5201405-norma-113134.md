@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.719, de 2025-12-03
-
 DECRETO Nº 2.719, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua Capitão Inácio da Silva Brandão, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

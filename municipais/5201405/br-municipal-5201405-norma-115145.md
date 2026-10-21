@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.751, de 2023-11-08
-
 LEI MUNICIPAL Nº 3.751, DE 08 DE NOVEMBRO DE 2023.
 
 Reconhece como Utilidade Pública Municipal o “INSTITUTO AGROVIDA”.

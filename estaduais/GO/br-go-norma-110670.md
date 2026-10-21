@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.409, de 2025-05-13
-
 LEI Nº 23.409, DE 13 DE MAIO DE 2025
 
 Institui o Dia Estadual do Advogado Municipalista.

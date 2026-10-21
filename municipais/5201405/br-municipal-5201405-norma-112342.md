@@ -1,5 +1,3 @@
-# Decreto Numerado nº 966, de 2025-02-25
-
 DECRETO Nº 966, DE 25 DE FEVEREIRO DE 2025
 
 Dispõe sobre ponto facultativo nas repartições públicas municipais na véspera da festa popular de Carnaval e parcialmente depois dela.

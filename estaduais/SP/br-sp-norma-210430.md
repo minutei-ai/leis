@@ -1,5 +1,3 @@
-# Decreto nº 69.206, de 23/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210430)<br>
 
 # DECRETO N° 69.206, DE 23 DE DEZEMBRO DE 2024

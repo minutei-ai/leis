@@ -1,5 +1,3 @@
-# Decreto Numerado nº 425, de 2023-06-27
-
 DECRETO “N” Nº 425, DE 27 DE JUNHO DE 2023<br>
 (Revogado pelo Decreto "N" Nº 665, de 19 de outubro de 2023).
 

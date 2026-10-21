@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1088, de 2024-12-12
-
 DECRETO “N” Nº 1088 DE 12 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# LEI Nº 14.929 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.929 DE 17 DE JUNHO DE 2025
 
 Institui o dia 15 de julho como o "Dia Estadual da Juventude Rural”, e dá outras providências.

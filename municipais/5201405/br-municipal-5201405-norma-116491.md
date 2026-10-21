@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.490, de 2019-07-30
-
 LEI MUNICIPAL Nº 3.490 , DE 30 DE JULHO DE 2019
 
 Dispõe sobre a permissão para a visitação de animais domésticos e de estimação em hospitais da rede pública e privada, contratados e conveniados que integram o Sistema Único de Saúde (SUS), no âmbito do Município de Aparecida de Goiânia e dá outras providências.

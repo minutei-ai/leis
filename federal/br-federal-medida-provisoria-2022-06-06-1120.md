@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.120 de 06/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.120, DE 6 DE JUNHO DE 2022
 
 Transforma Funções Gratificadas em Cargos Comissionados de Direção e Cargos Comissionados de Gerência Executiva destinados à Agência Nacional de Transportes Aquaviários - ANTAQ e altera a Lei nº 10.233, de 5 de junho de 2001.

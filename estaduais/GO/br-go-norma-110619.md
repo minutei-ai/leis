@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.685, de 2025-04-23
-
 DECRETO Nº 10.685, DE 23 DE ABRIL DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), também de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e o Regulamento da Secretaria de Estado da Economia – ECONOMIA, aprovado pelo [Decreto nº 10.516](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109252), de 31 de julho de 2024, bem como revoga o [Decreto nº 6.995](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/64040), de 4 de setembro de 2009.

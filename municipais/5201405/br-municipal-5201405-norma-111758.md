@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.747, de 2023-10-23
-
 LEI MUNICIPAL Nº 3.747, DE 23 DE OUTUBRO DE 2023
 
 Dispõe sobre a criação do Fundo Municipal de Saneamento Básico de Aparecida de Goiânia - FMSB e dá outras providências.

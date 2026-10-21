@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.667, de 2025-06-30
-
 LEI Nº 7.667, DE 30 DE JUNHO DE 2025.
 
 Institui a Semana Municipal da Mulher Empreendedora e da Liderança Feminina no Município de Rio Verde GO.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.246, de 2007-03-08
-
 LEI COMPLEMENTAR Nº 5.246, DE 08 DE MARÇO DE 2007.
 
 Altera a Leis Complementar n. 3.853/99.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.449, de 2025-10-15
-
 DECRETO Nº 2.449, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos lotes 19 e 20, da Quadra 06, situados à Rua C-10, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

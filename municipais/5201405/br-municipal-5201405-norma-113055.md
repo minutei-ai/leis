@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.821, de 2025-12-15
-
 DECRETO Nº 2.821, DE 15 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Imperatriz, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

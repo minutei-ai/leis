@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.736, de 2024-06-04
-
 LEI Nº 22.736, DE 4 DE JUNHO DE 2024
 
 Dá denominação ao próprio público que especifica.

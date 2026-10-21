@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.755, de 2025-11-17
-
 LEI Nº 7.755, DE 17 DE NOVEMBRO DE 2025.
 
 Institui no Calendário Oficial do Município de Rio Verde o “Dia do Condutor de Ambulância” e dá outras providências.

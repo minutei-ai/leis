@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.558, de 2024-09-20
-
 DECRETO Nº 10.558, DE 20 DE SETEMBRO DE 2024
 
 Altera o Anexo XI do [Decreto nº 10.490](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109169), de 4 de julho de 2024, que declara de utilidade pública, para efeito de instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.854, de 2026-01-23
-
 DECRETO Nº 10.854, DE 23 DE JANEIRO DE 2026
 
 Altera o [Decreto nº 9.843](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103913), de 30 de março de 2021, que regulamenta a [Lei nº 20.957](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103684), de 4 de janeiro de 2021, que institui o Programa Universitário do Bem – PROBEM.

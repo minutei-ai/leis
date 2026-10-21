@@ -1,5 +1,3 @@
-# Decreto Numerado nº 355, de 2026-05-07
-
 DECRETO Nº 355, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua Nevada, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

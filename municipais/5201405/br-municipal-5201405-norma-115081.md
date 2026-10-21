@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.243, de 2002-01-18
-
 LEI MUNICIPAL Nº 2.243, DE 18 DE JANEIRO DE 2002.
 
 Autoriza substituir imóveis doado para Procuradoria Geral de Justiça do Estado de Goiás e dá outras providencias.

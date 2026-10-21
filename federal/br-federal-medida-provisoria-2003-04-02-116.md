@@ -1,5 +1,3 @@
-# Medida Provisória nº 116 de 02/04/2003
-
 ###MPV-000116-0-000-02-04-2003@@@
 
 MEDIDA PROVISÓRIA Nº 116, DE 2 DE ABRIL 2003.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.712, de 2025-06-16
-
 DECRETO Nº 10.712, DE 16 DE JUNHO DE 2025
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do [Código Tributário do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836) – RCTE.

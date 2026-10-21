@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.335, de 2025-09-30
-
 DECRETO Nº 2.335, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, da Quadra 49, situado à Rua Zenith Sisterdi Bezerra, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

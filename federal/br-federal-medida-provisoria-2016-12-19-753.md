@@ -1,5 +1,3 @@
-# Medida Provisória nº 753 de 19/12/2016
-
 MEDIDA PROVISÓRIA Nº 753, DE 19 DE DEZEMBRO DE 2016
 
 Altera a [Lei nº 13.254, de 13 de janeiro de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-01-13;13254), para dispor sobre compartilhamento de recursos.

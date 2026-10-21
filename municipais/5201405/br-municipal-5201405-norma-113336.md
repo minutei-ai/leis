@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.315, de 2025-09-24
-
 DECRETO Nº 2.315, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua Luiz Olegário de Jesus no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

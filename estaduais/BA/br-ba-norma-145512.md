@@ -1,5 +1,3 @@
-# LEI Nº 14.777 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.777 DE 04 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a Federação Baiana de Desportos dos Surdos (FBDS), com sede e foro no município de Salvador.

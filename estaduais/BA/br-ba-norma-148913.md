@@ -1,5 +1,3 @@
-# LEI Nº 15.195 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.195 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação Amigos do Oeste da Bahia (AMOB), com sede e foro em Barreiras.

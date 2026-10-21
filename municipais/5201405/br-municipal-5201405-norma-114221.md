@@ -1,5 +1,3 @@
-# Decreto Numerado nº 824, de 2024-10-01
-
 DECRETO “N” Nº 824, DE 01 DE OUTUBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Cidade Livre, neste município como de Interesse Social.

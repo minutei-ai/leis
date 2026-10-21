@@ -1,5 +1,3 @@
-# Decreto Numerado nº 212, de 2024-04-08
-
 DECRETO “N” Nº 212 DE 08 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

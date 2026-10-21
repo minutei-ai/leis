@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.976, de 2024-09-05
-
 LEI Nº 22.976, DE 5 DE SETEMBRO DE 2024
 
 Institui a Política Estadual de Incentivo à Educação Empreendedora e dá outras providências.

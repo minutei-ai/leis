@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.980, de 2025-12-23
-
 LEI Nº 23.980, DE 23 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual da Fundação da Aldeia Jatobá da Etnia Avá-Canoeiro.

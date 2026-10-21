@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.158, de 2025-04-02
-
 DECRETO Nº 1.158, DE 02 DE ABRIL DE 2025
 
 Dispõe sobre a aprovação do loteamento denominado Distrito Agroindustrial Norberto Teixeira, no âmbito do Município de Aparecida de Goiânia.

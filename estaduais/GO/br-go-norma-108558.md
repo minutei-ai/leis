@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.428, de 2024-03-25
-
 DECRETO Nº 10.428, DE 25 DE MARÇO DE 2024
 
 Altera os Decretos estaduais [nº 5.265](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61834), de 31 de julho de 2000, que aprova o Regulamento do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR, e [nº 9.724](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103462), de 7 de outubro de 2020, que regulamenta a [Lei nº 20.787](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103201), de 3 de junho de 2020, que dispõe sobre o PROGOIÁS.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.894, de 2026-04-15
-
 DECRETO Nº 10.894, DE 15 DE ABRIL DE 2026
 
 Institui o Bônus por Resultado e o Bônus por Resultado do Índice de Desenvolvimento da Educação Básica – IDEB, com os pagamentos até dezembro de 2026, aos profissionais da educação e aos servidores administrativos lotados na Secretaria de Estado da Educação.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 59, de 2023-01-25
-
 DECRETO “N” Nº 59 DE 25 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento QUINTA DA BOA VISTA, neste município.

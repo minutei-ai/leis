@@ -1,5 +1,3 @@
-# Medida Provisória nº 372 de 22/05/2007
-
 ###MPV-000372-0-000-22-05-2007@@@
 
 MEDIDA PROVISÓRIA Nº 372, DE 22 DE MAIO DE 2007.

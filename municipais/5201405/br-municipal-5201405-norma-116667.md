@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.351, de 2017-03-20
-
 LEI MUNICIPAL Nº 3.351, DE 20 DE MARÇO DE 2017.
 
 Dispõe sobre denominação da Praça JOSÉ ALFAIX, no Jardim Buriti Sereno - 4ª Etapa.

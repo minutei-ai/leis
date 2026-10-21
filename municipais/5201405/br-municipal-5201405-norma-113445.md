@@ -1,5 +1,3 @@
-# Lei Complementar nº 222, de 2023-10-16
-
 LEI COMPLEMENTAR Nº 222, DE 16 DE OUTUBRO DE 2023.
 
 Altera a Lei Complementar nº 184, de 04 de janeiro de 2021, que Autoriza o Poder Executivo a criar a Empresa Pública sob a denominação de Companhia de Distritos Industriais de Aparecida de Goiânia – CODAP e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.425, de 2025-05-15
-
 LEI Nº 23.425, DE 15 DE MAIO DE 2025
 
 Concede o título de cidadania que especifica.

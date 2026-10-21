@@ -1,5 +1,3 @@
-# LEI Nº 15.073 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.073 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Grupo Escoteiro Jequitibá 52/BA, com sede e foro em Santo Antônio de Jesus.

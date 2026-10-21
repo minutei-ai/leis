@@ -1,5 +1,3 @@
-# LEI Nº 14.960 DE 03 DE SETEMBRO DE 2025
-
 LEI Nº 14.960 DE 03 DE SETEMBRO DE 2025
 
 **Autoriza o Poder Executivo a contratar operação de crédito externo, com garantia da União, junto ao Banco Internacional para Reconstrução e Desenvolvimento - BIRD, na forma que indica, e dá outras providências.**

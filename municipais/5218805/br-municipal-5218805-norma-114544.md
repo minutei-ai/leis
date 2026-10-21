@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.947, de 2011-06-14
-
 LEI COMPLEMENTAR Nº 5.947, DE 14 DE JUNHO DE 2011.
 
 Altera Lei n. 3.635/98.

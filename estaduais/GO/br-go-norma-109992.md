@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.119, de 2024-11-27
-
 LEI Nº 23.119, DE 27 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 21.480](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105767), de 30 de junho de 2022, que institui a Política Estadual para a População em Situação de Rua.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.939, de 2024-08-21
-
 LEI Nº 22.939, DE 21 DE AGOSTO DE 2024
 
 Dispõe sobre a mudança de denominação dos estabelecimentos de ensino da rede estadual de educação que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.836, de 2025-12-17
-
 DECRETO Nº 10.836, DE 17 DE DEZEMBRO DE 2025
 
 Dispõe sobre as competências da Controladoria-Geral do Estado e da Secretaria de Estado da Saúde na fiscalização das parcerias firmadas com entidades do terceiro setor na área da saúde pública.

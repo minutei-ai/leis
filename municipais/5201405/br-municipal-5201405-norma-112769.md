@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.990, de 2011-10-19
-
 LEI MUNICIPAL Nº. 2.990, DE 19 DE OUTUBRO DE 2011.
 
 Desafeta e doa os lotes 01 ao 32, da quadra 300 e parte da Avenida Marechal Rondon, localizados no loteamento Jardim Buriti Sereno, ao ESTADO DE GOIÁS e dá outras providências.

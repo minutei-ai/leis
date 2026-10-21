@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.457, de 2025-05-28
-
 DECRETO Nº 1.457, DE 28 DE MAIO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Bairro Nova Cidade no Município de Aparecida de Goiânia.

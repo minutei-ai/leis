@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.058, de 2026-01-30
-
 LEI Nº 24.058, DE 30 DE JANEIRO DE 2026
 
 Dá denominação ao próprio público que especifica. 

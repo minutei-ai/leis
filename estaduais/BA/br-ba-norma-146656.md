@@ -1,5 +1,3 @@
-# LEI Nº 14.911 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.911 DE 20 DE MAIO DE  2025
 
 Declara de utilidade pública a Associação dos Produtores Rurais de Vereda, Povoado de Lagoa D'anta e seus Familiares (APRPLD), com sede e foro no município de Vitória da Conquista.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 577, de 2023-09-01
-
 DECRETO “N” Nº 577 DE 01 DE SETEMBRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 768 de 02/02/2017
-
 MEDIDA PROVISÓRIA Nº 768, DE 2 DE FEVEREIRO DE 2017
 
 Cria a Secretaria-Geral da Presidência da República e o Ministério dos Direitos Humanos, altera a [Lei nº 10.683, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10683), que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

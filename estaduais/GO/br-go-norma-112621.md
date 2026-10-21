@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.061, de 2026-01-30
-
 LEI Nº 24.061, DE 30 DE JANEIRO DE 2026
 
 Institui o Dia Estadual das Santas Casas e dos Hospitais Filantrópicos.

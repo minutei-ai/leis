@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.683, de 2025-04-22
-
 DECRETO Nº 10.683 , DE 22 DE ABRIL DE 2025
 
 Altera o [Decreto nº 9.891](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104094), de 22 de junho de 2021, que institui o Plano Estadual de Mitigação/Adaptação às Mudanças Climáticas e Sustentabilidade na Agropecuária.

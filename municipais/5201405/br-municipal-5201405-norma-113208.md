@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.477, de 2025-10-21
-
 DECRETO Nº 2.477, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Tamboril, Rua Flamboyant, Rua Espartodia e Rua Manguba, no Loteamento Residencial Caraibas, no Município de Aparecida de Goiânia.

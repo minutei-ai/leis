@@ -1,5 +1,3 @@
-# Medida Provisória nº 437 de 29/07/2008
-
 ###MPV-000437-0-000-29-07-2008@@@
 
 MEDIDA PROVISÓRIA Nº 437, DE 29 DE JULHO DE 2008.

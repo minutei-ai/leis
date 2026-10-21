@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.593, de 2025-11-06
-
 DECRETO Nº 2.593, DE 6 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Apinagés, no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

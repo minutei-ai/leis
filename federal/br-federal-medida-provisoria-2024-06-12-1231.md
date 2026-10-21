@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.231 de 12/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.231, DE 12 DE JUNHO DE 2024
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 124.060.365,00, para o fim que especifica.

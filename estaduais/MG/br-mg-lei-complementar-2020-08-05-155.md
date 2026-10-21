@@ -1,5 +1,3 @@
-# LCP nº 155, de 05/08/2020
-
 Altera os §§ 1º e 2º do art. 5º da Lei Complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do Ministério Público do Estado e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

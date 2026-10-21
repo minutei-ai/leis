@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.192 de 01/11/2023
-
 MEDIDA PROVISÓRIA Nº 1.192, DE 1 DE NOVEMBRO DE 2023
 
 Institui o Auxílio Extraordinário destinado a pescadores e pescadoras profissionais artesanais beneficiários do Seguro-Desemprego do Pescador Artesanal - Seguro Defeso cadastrados em Municípios da Região Norte.

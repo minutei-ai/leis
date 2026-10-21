@@ -1,5 +1,3 @@
-# Medida Provisória nº 898 de 15/10/2019
-
 MEDIDA PROVISÓRIA Nº 898, DE 15 DE OUTUBRO DE 2019
 
 Altera a Lei nº 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família, para dispor sobre o pagamento do benefício financeiro relativo ao mês de dezembro de 2019 como abono natalino.

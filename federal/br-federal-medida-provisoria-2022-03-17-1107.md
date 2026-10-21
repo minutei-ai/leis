@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.107 de 17/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.107, DE 17 DE MARÇO DE 2022
 
 Institui o Programa de Simplificação do Microcrédito Digital para Empreendedores - SIM Digital e altera a Lei nº 8.212, de 24 de julho de 1991, a Lei nº 11.196, de 21 de novembro de 2005, a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 8.036, de 11 de maio de 1990, e a Lei nº 13.636, de 20 de março de 2018, para estabelecer medidas de estímulo ao empreendedorismo popular e à formalização dos pequenos negócios.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 176, de 2026-03-10
-
 DECRETO Nº 176, DE 10 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 06, 08 e 09, situados à Rua da Liberdade e Rua Lopes Quintas, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.742, de 2025-11-12
-
 LEI Nº 7.742, DE 12 DE NOVEMBRO DE 2025.
 
 Dispõe sobre o reconhecimento da importância da Aviação Agrícola para o desenvolvimento econômico, social e ambiental do Município de Rio Verde – GO, declara a atividade como de relevante interesse público e institui o Dia Municipal da Aviação Agrícola.

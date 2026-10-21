@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.449, de 2025-05-27
-
 DECRETO Nº 1.449, DE 27 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Manoel da Cunha Rêgo Madruga, no Loteamento Vila Maria, no Município de Aparecida de Goiânia. 

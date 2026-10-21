@@ -1,5 +1,3 @@
-# Decreto nº 69.305, de 09/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210532)<br>
 
 # DECRETO N° 69.305, DE 09 DE JANEIRO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 280, de 2024-04-17
-
 DECRETO “N” Nº 280 DE 17 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

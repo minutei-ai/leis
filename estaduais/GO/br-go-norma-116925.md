@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.495, de 2026-08-26
-
 LEI Nº 24.495, DE 26 DE AGOSTO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

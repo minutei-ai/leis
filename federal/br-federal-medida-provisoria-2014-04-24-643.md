@@ -1,5 +1,3 @@
-# Medida Provisória nº 643 de 24/04/2014
-
 MEDIDA PROVISÓRIA Nº 643, DE 24 DE ABRIL DE 2014
 
 Altera a Lei nº 9.648, de 27 de maio de 1998, para dispor sobre o mandato de Diretor-Geral do Operador Nacional do Sistema Elétrico - ONS.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.146, de 2026-03-18
-
 LEI Nº 24.146, DE 18 DE MARÇO DE 2026
 
 Autoriza a aquisição, por doação onerosa do Município de Jaraguá/GO, do imóvel que especifica.

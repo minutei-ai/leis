@@ -1,5 +1,3 @@
-# Lei Complementar nº 289, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 289, DE 17 DE FEVEREIRO DE 2023.
 
 Altera a [Lei Complementar nº 44](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118037)/2015, que dispõe sobre a Política Municipal de Meio Ambiente e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.682, de 2025-04-22
-
 DECRETO Nº 10.682, DE 22 DE ABRIL DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais no dia 2 de maio de 2025, em decorrência do feriado nacional de 1º de maio (Dia Internacional do Trabalho).

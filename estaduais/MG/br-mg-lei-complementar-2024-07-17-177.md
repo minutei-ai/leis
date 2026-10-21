@@ -1,5 +1,3 @@
-# LCP nº 177, de 17/07/2024
-
 Acrescenta artigo à Lei Complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do Estado de Minas Gerais.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

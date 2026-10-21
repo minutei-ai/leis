@@ -1,5 +1,3 @@
-# Decreto Numerado nº 70, de 2023-02-01
-
 DECRETO “N” Nº 70 DE 01 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento BAIRRO INDEPENDÊNCIA – 1º COMPLEMENTO - SETOR DAS MANSÕES, neste município.

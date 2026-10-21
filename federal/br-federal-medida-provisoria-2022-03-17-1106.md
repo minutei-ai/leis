@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.106 de 17/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.106, DE 17 DE MARÇO DE 2022
 
 Altera a Lei nº 10.820, de 17 de dezembro de 2003, para ampliar a margem de crédito consignado aos segurados do Regime Geral de Previdência Social e para autorizar a realização de empréstimos e financiamentos mediante crédito consignado para beneficiários do Benefício de Prestação Continuada e de programas federais de transferência de renda, e a Lei nº 13.846, de 18 de julho de 2019, para dispor sobre a restituição de valores aos cofres públicos.

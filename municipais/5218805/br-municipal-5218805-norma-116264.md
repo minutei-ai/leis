@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.306, de 2022-12-08
-
 LEI N°. 7.306, DE 8 DE DEZEMBRO DE 2022
 
 Institui o dia municipal de conscientização da violência contra a pessoa idosa no município de rio verde - goiás e dá outras providências.

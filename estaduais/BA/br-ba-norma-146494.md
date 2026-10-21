@@ -1,5 +1,3 @@
-# LEI Nº 14.886 DE 15 DE ABRIL DE 2025
-
 LEI Nº 14.886 DE 15 DE ABRIL DE 2025
 
 Institui o Programa Estadual de Cuidados para Pessoas com Fibromialgia – PCPF, no Estado da Bahia.

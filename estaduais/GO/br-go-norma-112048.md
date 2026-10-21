@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.020, de 2026-01-07
-
 LEI Nº 24.020, DE 7 DE JANEIRO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.242, de 2014-12-22
-
 LEI MUNICIPAL Nº 3.242 DE 22 DE DEZEMBRO DE 2014
 
 INSTITUI o Programa Municipal “Adote uma Escola” no Município de Aparecida de Goiânia.

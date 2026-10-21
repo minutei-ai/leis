@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.644, de 2024-04-29
-
 LEI Nº 22.644, DE 29 DE ABRIL DE 2024
 
 Autoriza o Poder Executivo a celebrar contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos no Estado de Goiás (_Naming Rights_).

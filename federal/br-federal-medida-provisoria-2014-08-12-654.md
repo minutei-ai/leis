@@ -1,5 +1,3 @@
-# Medida Provisória nº 654 de 12/08/2014
-
 MEDIDA PROVISÓRIA Nº 654, DE 12 DE AGOSTO DE 2014
 
 Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor de R$ 1.304.652.399,00, para os fins que especifica.

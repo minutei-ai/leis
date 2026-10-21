@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.585, de 2020-10-14
-
 LEI MUNICIPAL N° 3.585, DE 14 DE OUTUBRO DE 2020.
 
 “Torna obrigatório o franqueamento à visitação da cozinha e dependências afins de restaurantes, bares, hotéis, e similares aos seus usuários no município de Aparecida de Goiânia, e dá outras providências.”

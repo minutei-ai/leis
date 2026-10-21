@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.802, de 2025-12-11
-
 DECRETO Nº 2.802, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre ponto facultativo nas repartições públicas municipais nos dias 24, 26 e 31 de dezembro de 2025 e 2 de janeiro de 2026, em razão das comemorações do Natal e do Ano Novo.

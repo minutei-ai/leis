@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.192, de 2021-11-08
-
 LEI Nº 7.192, DE 08 DE NOVEMBRO DE 2021.
 
 Institui o Dia Municipal em memória às vítimas da COVID-19 e dá outras providências.

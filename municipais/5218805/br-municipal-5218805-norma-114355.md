@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.673, de 2025-06-30
-
 LEI Nº 7.673, DE 30 DE JUNHO DE 2025.
 
 Denomina de Trailer Odontológico Dr. Rosulino Campos Brasileiro de Minas o Trailer Odontológico Municipal de Rio Verde – GO.

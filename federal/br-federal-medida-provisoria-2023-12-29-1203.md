@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.203 de 29/12/2023
-
 MEDIDA PROVISÓRIA Nº 1.203, DE 29 DE DEZEMBRO DE 2023
 
 Dispõe sobre a criação das Carreiras de Especialista em Indigenismo, de Técnico em Indigenismo, e de Tecnologia da Informação, define o órgão supervisor e altera a remuneração do cargo de Analista Técnico de Políticas Sociais, de que trata a [Lei nº 12.094, de 19 de novembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-11-19;12094), e altera a remuneração das Carreiras e do Plano Especial de Cargos da Agência Nacional de Mineração, de que trata a [Lei nº 11.046, de 27 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-27;11046).

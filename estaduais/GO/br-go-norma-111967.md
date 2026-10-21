@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.982, de 2025-12-23
-
 LEI Nº 23.982, DE 23 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual da Fundação da Aldeia Buridina da Etnia Iny.

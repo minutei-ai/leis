@@ -1,5 +1,3 @@
-# Decreto nº 70.886, de 18/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213000)<br>
 
 # DECRETO N° 70.886, DE 18 DE SETEMBRO DE 2026

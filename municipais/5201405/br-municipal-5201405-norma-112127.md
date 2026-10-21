@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.682, de 2007-08-23
-
 LEI MUNICIPAL Nº 2.682, DE 23 DE AGOSTO DE 2007.
 
 Altera dispositivo da Lei Municipal n.º 2.229, de 18/12/2001, alterada pela Lei Municipal nº. 2.543, de 08/12/2005 e dá outras providências.

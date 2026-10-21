@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.319, de 2007-08-21
-
 LEI Nº 5.319, DE 21 DE AGOSTO DE 2007.
 
 Altera o art. 4º, inciso III da Lei n. 3.635/98, que reformula o Código de Posturas do Município.

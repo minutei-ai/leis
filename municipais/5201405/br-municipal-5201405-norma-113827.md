@@ -1,5 +1,3 @@
-# Decreto Numerado nº 3, de 2024-01-03
-
 DECRETO “N” Nº 03, DE 03 DE JANEIRO DE 2024.
 
 Dispõe sobre a prorrogação da validade das portarias mencionadas na Lei Complementar nº 203, de 09 de fevereiro de 2023, e no Decreto Regulamentador nº 103, de 10 de fevereiro de 2023, até 31 de dezembro de 2024, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.156, de 2026-03-18
-
 LEI Nº 24.156, DE 18 DE MARÇO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

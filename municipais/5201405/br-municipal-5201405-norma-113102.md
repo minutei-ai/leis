@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.143, de 2025-09-04
-
 DECRETO Nº 2.143, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, da Quadra 405, situado à Rua 5-B, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

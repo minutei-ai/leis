@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.784, de 2024-06-13
-
 LEI Nº 22.784, DE 13 DE JUNHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

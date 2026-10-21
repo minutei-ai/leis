@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.333, de 2023-03-30
-
 LEI Nº 7.333, DE 30 DE MARÇO DE 2023.
 
 Autoriza as organizações da sociedade civil que mantiverem parceria com o Município de Rio Verde - GO a remunerarem servidor ou empregado público e inclui parágrafo único no art. 97 da Lei 7.275, de 27 de junho de 2022 – Lei de Diretrizes Orçamentárias.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.543, de 2025-07-03
-
 LEI Nº 23.543, DE 3 DE JULHO DE 2025.
 
 Autoriza a municipalização do trecho rodoviário que especifica.

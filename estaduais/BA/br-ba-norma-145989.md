@@ -1,5 +1,3 @@
-# LEI Nº 14.812 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.812 DE 26 DE DEZEMBRO DE 2024
 
 Institui a Política de Mobilidade Inter-Regional e Intrarregional do Estado da Bahia, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.498, de 2025-10-22
-
 DECRETO Nº 2.498, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Avenida Frutal, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

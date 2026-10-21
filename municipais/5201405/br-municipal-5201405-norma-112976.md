@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.850, de 2025-12-18
-
 DECRETO Nº 2.850, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua Wilson de Santana Coutinho, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

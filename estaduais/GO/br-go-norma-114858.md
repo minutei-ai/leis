@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.917, de 2026-05-25
-
 DECRETO Nº 10.917, DE 25 DE MAIO DE 2026
 
 Desqualifica como organização social, no Estado de Goiás, o Instituto Brasileiro de Cultura, Educação, Desporto e Saúde – IBRACEDS. 

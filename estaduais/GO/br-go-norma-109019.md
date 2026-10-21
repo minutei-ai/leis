@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.785, de 2024-06-17
-
 LEI Nº 22.785, DE 17 DE JUNHO DE 2024
 
 Abre crédito adicional especial à Secretaria de Estado da Infraestrutura – SEINFRA e cria produtos no PPA 2024/2027.

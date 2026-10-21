@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.571, de 2024-10-18
-
 DECRETO Nº 10.571, DE 18 DE OUTUBRO DE 2024
 
 Altera o [Decreto nº 9.165](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70348), de 16 de fevereiro de 2018, que estabelece normas de autorização de uso do Ginásio de Esportes Goiânia Arena, disciplina sua cobrança e dá outras providências.

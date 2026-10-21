@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.416, de 2026-07-03
-
 LEI Nº 24.416, DE 3 DE JULHO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio natural goiano.

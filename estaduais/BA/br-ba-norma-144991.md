@@ -1,5 +1,3 @@
-# EMENDA À CONSTITUIÇÃO Nº 32, DE 28 DE NOVEMBRO DE 2023
-
 EMENDA À CONSTITUIÇÃO N.º 32, DE 28 DE NOVEMBRO DE 2023
 
 Altera os arts. 18, 19 e 26 da Constituição do Estado da Bahia, e dá outras providências.

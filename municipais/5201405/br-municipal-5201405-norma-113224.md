@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.493, de 2025-10-22
-
 DECRETO Nº 2.493, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Curiós, no Loteamento Jardim das Acácias, no Município de Aparecida de Goiânia.

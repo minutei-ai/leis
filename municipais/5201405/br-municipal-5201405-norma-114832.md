@@ -1,5 +1,3 @@
-# Decreto Numerado nº 211, de 2024-04-08
-
 DECRETO “N” Nº 211 DE 08 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

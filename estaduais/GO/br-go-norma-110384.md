@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.228, de 2025-01-14
-
 LEI Nº 23.228, DE 14 DE JANEIRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o “Carnaval Antigo”, realizado no Município de Caldas Novas/GO.

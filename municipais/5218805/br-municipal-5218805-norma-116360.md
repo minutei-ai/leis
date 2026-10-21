@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.625, de 2009-06-26
-
 LEI Nº 5.625, DE 26 DE JUNHO DE 2009.
 
 Autoriza o aumento de quantitativo de cargos que menciona.

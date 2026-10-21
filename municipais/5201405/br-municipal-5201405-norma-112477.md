@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.243, de 2025-04-16
-
 DECRETO Nº 1.243, DE 16 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Francisco Cardoso de Souza no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

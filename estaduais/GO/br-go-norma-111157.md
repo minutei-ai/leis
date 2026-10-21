@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.584, de 2025-08-19
-
 LEI Nº 23.584, DE 19 DE AGOSTO DE 2025
 
 Altera a [Lei nº 20.846](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103353), de 2 de setembro de 2020, que institui a Política Estadual de Atendimento ao Cidadão e cria o Programa SIMPLIFICA GOIÁS.

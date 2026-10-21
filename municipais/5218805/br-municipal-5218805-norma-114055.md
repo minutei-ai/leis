@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.795, de 2025-12-15
-
 LEI Nº 7.795, DE 15 DE DEZEMBRO DE 2025.
 
 Institui o Sistema Municipal de Proteção e Defesa Civil de Rio Verde – SIMPDEC-RV e dá outras providências.

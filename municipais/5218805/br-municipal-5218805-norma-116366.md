@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.273, de 2022-06-13
-
 LEI N° 7.273, DE 13 DE JUNHO DE 2022
 
 Reconhece Utilidade Pública Municipal e das outras providências.

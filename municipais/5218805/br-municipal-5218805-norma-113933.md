@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.809, de 2026-02-19
-
 LEI Nº 7.809, DE 19 DE FEVEREIRO DE 2026.
 
 Concede reposição geral anual aos vencimentos dos servidores públicos da Administração Pública e da Câmara Municipal de Rio Verde – Goiás, e autoriza o Poder Executivo a elevar os vencimentos e subsídios inferiores ao salário-mínimo federal para o ano de 2026.

@@ -1,5 +1,3 @@
-# LEI Nº 14.965 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.965 DE 08 DE SETEMBRO DE 2025
 
 Altera a Lei nº [11.366](https://www.legislabahia.ba.gov.br/documentos/lei-no-11366-de-29-de-janeiro-de-2009), de 29 de janeiro de 2009, que reestrutura o Grupo Ocupacional Gestão Pública, na forma que indica, e dá outras providências.

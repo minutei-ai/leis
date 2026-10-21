@@ -1,5 +1,3 @@
-# Decreto Numerado nº 724, de 2024-09-12
-
 DECRETO “N” Nº 724 DE 12 DE SETEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

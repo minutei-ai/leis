@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.317, de 2016-05-17
-
 LEI MUNICIPAL Nº 3.317 DE 17 DE MAIO DE 2016.
 
 DISPÕE sobre a obrigatoriedade da realização de cursos para profissionais que estejam atuando nos Centro Municipais de Educação Infantil – CMEIs e demais unidades escolares de educação infantil da rede pública do Município de Aparecida de Goiânia – GO, a fim de detectar vítimas de violência sexual infantil e dá outras providências.

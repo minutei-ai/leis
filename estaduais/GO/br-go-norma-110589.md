@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.678, de 2025-04-16
-
 DECRETO Nº 10.678, DE 16 DE ABRIL DE 2025
 
 Institui a Política de Governança de Tecnologia da Informação e da Comunicação – PGTIC e revoga o [Decreto nº 8.800](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69542), de 10 de novembro de 2016, e o [Decreto nº 9.461](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72159), de 9 de julho de 2019.

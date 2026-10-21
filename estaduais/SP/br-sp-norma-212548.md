@@ -1,5 +1,3 @@
-# Decreto nº 70.583, de 05/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212548)<br>
 
 # DECRETO N° 70.583, DE 05 DE MAIO DE 2026

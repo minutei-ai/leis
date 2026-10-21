@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.696, de 2025-05-23
-
 DECRETO Nº 10.696, DE 23 DE MAIO DE 2025
 
 Altera a denominação do estabelecimento de ensino que especifica.

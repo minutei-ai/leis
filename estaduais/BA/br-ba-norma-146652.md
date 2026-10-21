@@ -1,5 +1,3 @@
-# LEI Nº 14.907 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.907 DE 20 DE MAIO DE 2025
 
 Denomina Escola Estadual Antônio Ramayana Tapioca Pombo, a nova instituição de ensino em tempo integral a ser inaugurada no município de Mata de São João.

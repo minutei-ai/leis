@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.412, de 2026-07-03
-
 LEI Nº 24.412, DE 3 DE JULHO DE 2026
 
 Cria e denomina o estabelecimento de ensino que especifica.

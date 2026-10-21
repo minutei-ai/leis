@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.869, de 2025-11-26
-
 LEI Nº 23.869, DE 26 DE NOVEMBRO DE 2025
 
 Institui o Campeonato Goiano de Futebol de Várzea no Estado de Goiás.

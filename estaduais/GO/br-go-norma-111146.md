@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.759, de 2025-08-15
-
 DECRETO Nº 10.759, DE 15 DE AGOSTO DE 2025
 
 Regulamenta o Conselho Consultivo de Liberdade Econômica – CCLE, instituído pelo art. 10 da [Lei nº 22.612](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108673), de 11 de abril de 2024.

@@ -1,5 +1,3 @@
-# LEI Nº 15.181 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.181 DE 1º DE JULHO DE 2026
 
 Dispõe sobre a denominação do trecho da Rodovia BA-617, compreendido entre o município de Caculé e o município de Ibiassucê, passando a denominar-se Rodovia Prefeito Vitor Hugo Figueiredo Santos.

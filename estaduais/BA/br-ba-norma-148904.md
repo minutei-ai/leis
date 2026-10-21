@@ -1,5 +1,3 @@
-# LEI Nº 15.186 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.186 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Associação Beneficente Amigos do Povo, com sede e foro em Itatim.

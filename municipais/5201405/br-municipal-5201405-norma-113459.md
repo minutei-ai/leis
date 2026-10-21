@@ -1,5 +1,3 @@
-# Lei Complementar nº 225, de 2023-12-14
-
 LEI COMPLEMENTAR Nº 225, DE 14 DE DEZEMBRO DE 2023
 
 Desafeta áreas públicas e autoriza o Município de Aparecida de Goiânia a realizar doação para programas habitacionais, e dá outras providencias.

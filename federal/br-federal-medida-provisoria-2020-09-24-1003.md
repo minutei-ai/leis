@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.003 de 24/09/2020
-
 MEDIDA PROVISÓRIA Nº 1.003, DE 24 DE SETEMBRO DE 2020
 
 Autoriza o Poder Executivo federal a aderir ao Instrumento de Acesso Global de Vacinas Covid-19- Covax Facility.

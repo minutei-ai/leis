@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.214 de 29/04/2024
-
 MEDIDA PROVISÓRIA Nº 1.214, DE 29 DE ABRIL DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 369.000.000,00, para o fim que especifica.

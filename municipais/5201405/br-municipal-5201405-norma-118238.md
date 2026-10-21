@@ -1,5 +1,3 @@
-# Decreto Numerado nº 454, de 2023-07-11
-
 DECRETO “N” Nº 454 DE 11 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM FLORENÇA, neste município.

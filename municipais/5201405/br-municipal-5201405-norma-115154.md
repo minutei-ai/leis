@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.758, de 2023-12-06
-
 LEI MUNICIPAL Nº 3.758 DE 06 DE DEZEMBRO DE 2023.
 
 Reconhece como utilidade pública Municipal a “Serviços especiais de proteção ambiental – SEPA” e dá outras providências.

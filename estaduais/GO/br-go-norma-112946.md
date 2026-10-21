@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.863, de 2026-02-13
-
 DECRETO Nº 10.863, DE 13 DE FEVEREIRO DE 2026
 
 Altera o [Decreto nº 7.808](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66074), de 26 de fevereiro de 2013, que estabelece normas de autorização de uso dos espaços do Centro Cultural Oscar Niemeyer, disciplina a sua cobrança e dá outras providências.

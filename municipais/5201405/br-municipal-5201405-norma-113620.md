@@ -1,5 +1,3 @@
-# Decreto Numerado nº 236, de 2026-03-18
-
 DECRETO Nº 236, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Centauro, no Loteamento Setor Jardim Luz, no Município de Aparecida de Goiânia.

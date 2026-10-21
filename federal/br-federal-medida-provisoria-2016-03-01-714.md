@@ -1,5 +1,3 @@
-# Medida Provisória nº 714 de 01/03/2016
-
 MEDIDA PROVISÓRIA Nº 714, DE 1 DE MARÇO DE 2016
 
 Extingue o Adicional de Tarifa Aeroportuária e altera a [Lei nº 5.862, de 12 de dezembro de 1972](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1972-12-12;5862), e a [Lei nº 7.565, de 19 de dezembro de 1986](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1986-12-19;7565).

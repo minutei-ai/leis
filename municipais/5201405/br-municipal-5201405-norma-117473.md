@@ -1,5 +1,3 @@
-# Decreto Numerado nº 942, de 2024-11-04
-
 DECRETO “N” Nº 942 DE 04 DE NOVEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto nº 70.650, de 28/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212675)<br>
 
 # DECRETO N° 70.650, DE 28 DE MAIO DE 2026

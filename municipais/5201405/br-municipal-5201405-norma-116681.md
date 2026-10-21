@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.172, de 2014-04-08
-
 LEI MUNICIPAL Nº 3.172, DE 08 DE ABRIL DE 2014.
 
 Dispõe sobre a criação, composição e competências do Conselho Municipal de Turismo, e dá outras providências.

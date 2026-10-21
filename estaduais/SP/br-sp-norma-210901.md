@@ -1,5 +1,3 @@
-# Decreto nº 69.509, de 30/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210901)<br>
 
 # DECRETO N° 69.509, DE 30 DE ABRIL DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.507, de 2024-07-24
-
 DECRETO Nº 10.507, DE 24 DE JULHO DE 2024
 
 Retifica o Anexo Único do [Decreto estadual nº 6.952](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63862), de 13 de julho de 2009, que concede Medalha de Tempo de Serviço aos militares que especifica.

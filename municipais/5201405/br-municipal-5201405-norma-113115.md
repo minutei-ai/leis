@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.187, de 2025-09-08
-
 DECRETO Nº 2.187, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02 ao 10, situados a Rua JI-51 e Rua JI-50, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

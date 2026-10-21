@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.727, de 2009-12-11
-
 LEI COMPLEMENTAR Nº 5.727, DE 11 DE DEZEMBRO DE 2009.
 
 Aprova o novo Código Tributário do Município de Rio Verde e dá outras providências.

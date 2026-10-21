@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.962, de 2024-08-30
-
 LEI Nº 22.962, DE 30 DE AGOSTO DE 2024
 
 Altera a [Lei nº 22.084](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107324), de 3 de julho de 2023, que institui a Política Estadual de Apoio à População Migrante.

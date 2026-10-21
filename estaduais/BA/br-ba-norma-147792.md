@@ -1,5 +1,3 @@
-# LEI Nº 15.010 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.010 DE 28 DE OUTUBRO DE 2025
 
 Altera a Lei nº [14.799](https://www.legislabahia.ba.gov.br/documentos/lei-no-14799-de-13-de-dezembro-de-2024), de 13 de dezembro de 2024, na forma que indica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.121, de 2021-02-19
-
 LEI Nº 7.121, DE 19 DE FEVEREIRO DE 2021.
 
 Altera a Lei n. 5.990/2013.

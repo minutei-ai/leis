@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.400, de 2018-01-09
-
 LEI MUNICIPAL Nº 3.400, DE 09 DE JANEIRO DE 2018
 
 Dispõe sobre a obrigatoriedade dos alunos das Escolas situadas neste Município, que estiverem cursando o Nível Fundamental, de cantar o Hino Municipal antes do início das aulas em Aparecida de Goiânia – GO.

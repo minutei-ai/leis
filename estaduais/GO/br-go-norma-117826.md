@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.560, de 2026-09-30
-
 LEI Nº 24.560, DE 30 DE SETEMBRO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

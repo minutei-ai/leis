@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.487, de 2024-07-01
-
 DECRETO Nº 10.487, DE 1º DE JULHO DE 2024
 
 Concede a Medalha Ordem do Mérito Dom Pedro II às autoridades civis e militares que especifica.

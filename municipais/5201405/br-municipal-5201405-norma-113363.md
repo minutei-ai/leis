@@ -1,5 +1,3 @@
-# Decreto Numerado nº 161, de 2026-02-26
-
 DECRETO Nº 161, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento dos Lotes 37/38, situados à Alameda Wilton Pinheiro com Rua Paulo de Tarso Naca, no Loteamento Parque Trindade II, no Município de Aparecida de Goiânia.

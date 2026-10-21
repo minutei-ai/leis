@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.960, de 2026-07-21
-
 DECRETO Nº 10.960 DE 21 DE JULHO DE 2026
 
 Confere a Comenda da Ordem do Mérito Anhanguera às autoridades que especifica.

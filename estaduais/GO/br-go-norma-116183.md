@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.454, de 2026-07-13
-
 LEI Nº 24.454, DE 13 DE JULHO DE 2026
 
 Dispõe sobre a obrigatoriedade de divulgação das informações relativas às obras públicas estaduais e revoga a [Lei nº 20.726](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100930 "Abrir Lei Ordinária nº 20726, de 2020 em nova aba"), de 15 de janeiro de 2020, que institui a obrigatoriedade de divulgação das informações referentes às obras públicas paralisadas no âmbito estadual.

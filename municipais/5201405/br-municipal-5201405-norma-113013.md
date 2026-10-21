@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.051, de 2025-08-25
-
 DECRETO Nº 2.051, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 291, situado à Rua Rio das Flores, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

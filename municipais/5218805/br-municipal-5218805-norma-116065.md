@@ -1,5 +1,3 @@
-# Lei Complementar nº 251, de 2022-06-27
-
 LEI COMPLEMENTAR Nº. 251, DE 27 DE JUNHO DE 2022.
 
 <br>

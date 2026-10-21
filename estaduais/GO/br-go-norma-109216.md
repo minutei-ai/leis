@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.866, de 2024-07-16
-
 LEI Nº 22.866, DE 16 DE JULHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

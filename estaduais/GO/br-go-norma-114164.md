@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.256, de 2026-04-29
-
 LEI Nº 24.256, DE 29 DE ABRIL DE 2026
 
 Altera a [Lei nº 20.464](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100666 "Abrir Lei Ordinária nº 20464, de 2019 em nova aba"), de 22 de abril de 2019, que estabelece as normas para a promoção da acessibilidade de pessoas com mobilidade reduzida no Estado de Goiás.

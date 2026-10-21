@@ -1,5 +1,3 @@
-# LEI Nº 15.028 DE 26 DE NOVEMBRO DE 2025
-
 LEI Nº 15.028 DE 26 DE NOVEMBRO DE 2025
 
 Eleva a Comarca de Morro do Chapéu de entrância inicial para entrância intermediária, na forma que indica, e dá outras providências.

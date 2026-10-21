@@ -1,5 +1,3 @@
-# Decreto Numerado nº 380, de 2023-06-13
-
 DECRETO “N” Nº 380, DE 13 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento denominado JARDIM MONT’ SERRAT, neste município.

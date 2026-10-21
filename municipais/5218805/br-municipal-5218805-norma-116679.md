@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.093, de 2012-03-19
-
 LEI COMPLEMENTAR N. 6.093, 19 DE MARÇO DE 2012.
 
 Reformula a Lei nº. 3.853/99 - Plano de Cargos e Vencimentos dos servidores públicos municipais de Rio Verde.

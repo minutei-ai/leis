@@ -1,5 +1,3 @@
-# LD Nº 70 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 70 DE 03 DE JUNHO DE 1983
 
 Reorganiza o Departamento de Edificações Públicas - DEP, e dá outras providências.

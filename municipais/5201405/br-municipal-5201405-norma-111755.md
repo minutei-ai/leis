@@ -1,5 +1,3 @@
-# Lei Complementar nº 46, de 2011-12-21
-
 **Lei Complementar nº 46, DE 21 DE DEZEMBRO DE 2011.**
 
 Institui o Código Tributário do Município de Aparecida de Goiânia – Goiás, e dá outras providências.

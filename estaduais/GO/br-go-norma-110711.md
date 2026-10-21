@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.694, de 2025-05-21
-
 DECRETO Nº 10.694, DE 21 DE MAIO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

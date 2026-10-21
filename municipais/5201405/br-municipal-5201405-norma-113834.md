@@ -1,5 +1,3 @@
-# Decreto Numerado nº 44, de 2024-01-25
-
 DECRETO “N” Nº 44, DE 25 DE JANEIRO DE 2024.
 
 Nomeia membros para compor o CONSELHO MUNICIPAL DOS DIREITOS DA MULHER e dá outras providências.

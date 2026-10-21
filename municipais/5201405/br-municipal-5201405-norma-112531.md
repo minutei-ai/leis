@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.364, de 2025-05-09
-
 DECRETO Nº 1.364, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Travessa Befançon no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

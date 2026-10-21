@@ -1,5 +1,3 @@
-# Medida Provisória nº 991 de 15/07/2020
-
 MEDIDA PROVISÓRIA Nº 991, DE 15 DE JULHO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Mulher, da Família e dos Direitos Humanos, no valor de R$ 160.000.000,00, para os fins que especifica.

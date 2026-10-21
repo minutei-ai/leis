@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.926, de 2025-12-08
-
 LEI Nº 23.926, DE 8 DE DEZEMBRO DE 2025
 
 Autoriza a aquisição, por doação onerosa do Município de Bom Jesus/GO, do imóvel que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.087, de 2026-02-10
-
 LEI Nº 24.087, DE 10 DE FEVEREIRO DE 2026
 
 Institui, no Estado de Goiás, a Rota do Açafrão.

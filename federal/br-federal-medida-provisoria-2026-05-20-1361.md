@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.361 de 20/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.361, DE 20 DE MAIO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 75.344.207,00, para o fim que especifica.

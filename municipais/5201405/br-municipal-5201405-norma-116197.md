@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.550, de 2020-05-05
-
 LEI MUNICIPAL Nº 3.550, DE 05 DE MAIO DE 2020.
 
 Dispõe sobre o atendimento preferencial e sobre a utilização de vagas de estacionamento preferenciais aos portadores de fibromialgia. 

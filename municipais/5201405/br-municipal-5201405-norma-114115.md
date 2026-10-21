@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1042, de 2024-12-05
-
 DECRETO “N” Nº 1042, DE 05 DE DEZEMBRO DE 2024.
 
 Declara ponto facultativo no âmbito da Administração Pública Municipal.

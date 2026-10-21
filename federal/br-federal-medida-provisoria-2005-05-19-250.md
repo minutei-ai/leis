@@ -1,5 +1,3 @@
-# Medida Provisória nº 250 de 19/05/2005
-
 ###MPV-000250-0-000-19-05-2005@@@
 
 MEDIDA PROVISÓRIA Nº 250, DE 19 DE MAIO DE 2005

@@ -1,5 +1,3 @@
-# Medida Provisória nº 491 de 23/06/2010
-
 ###MPV-000491-0-000-23-06-2010@@@
 
 MEDIDA PROVISÓRIA Nº 491, DE 23 DE JUNHO DE 2010.

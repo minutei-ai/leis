@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.912, de 2026-06-24
-
 LEI Nº 3.912, DE 24 DE JUNHO DE 2026
 
 Reconhece a Festa do Milho dos Amigos Feirantes como Patrimônio Cultural Imaterial do Município de Aparecida de Goiânia e dá outras providências.

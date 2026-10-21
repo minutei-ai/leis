@@ -1,5 +1,3 @@
-# Decreto Numerado nº 111, de 2026-01-29
-
 DECRETO Nº 111, DE 29 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 13 e 14, todos da Quadra 58-B, situados à Rua 39-A e Avenida Bela Vista, no Loteamento Vila Santo Antônio - Acréscimo, no Município de Aparecida de Goiânia.

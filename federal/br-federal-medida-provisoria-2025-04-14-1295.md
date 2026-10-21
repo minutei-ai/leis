@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.295 de 14/04/2025
-
 MEDIDA PROVISÓRIA Nº 1.295, DE 14 DE ABRIL DE 2025
 
 Dispõe sobre transferência e cessão de ativos dos Estados à União, o Fundo de Equalização Federativa e o Fundo Garantidor Federativo, e aplicação dos recursos decorrentes da adesão dos Estados ao Programa de Pleno Pagamento de Dívidas dos Estados - Propag, instituído pela [Lei Complementar nº 212, de 13 de janeiro de 2025](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-13;212).

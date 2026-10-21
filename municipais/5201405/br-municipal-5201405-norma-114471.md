@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.901, de 2026-05-14
-
 LEI Nº 3.901, DE 14 DE MAIO DE 2026
 
 Estabelece o Piso Salarial dos Profissionais da Educação do Município de Aparecida de Goiânia e dá outras providências.

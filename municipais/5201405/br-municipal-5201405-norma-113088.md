@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.137, de 2025-09-02
-
 DECRETO Nº 2.137, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Lages, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

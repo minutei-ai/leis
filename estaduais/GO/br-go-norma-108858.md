@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.706, de 2024-05-20
-
 LEI Nº 22.706, DE 20 DE MAIO DE 2024
 
 Altera a [Lei nº 18.242](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90394), de 28 de novembro de 2013, que institui o Dia Estadual de Conscientização do Autismo.

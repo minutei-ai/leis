@@ -1,5 +1,3 @@
-# Decreto nº 69.568, de 30/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210990)<br>
 
 # DECRETO N° 69.568, DE 30 DE MAIO DE 2025

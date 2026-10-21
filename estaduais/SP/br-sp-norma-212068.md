@@ -1,5 +1,3 @@
-# Decreto nº 70.262, de 22/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212068)<br>
 
 # DECRETO N° 70.262, DE 22 DE DEZEMBRO DE 2025

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.714, de 2024-05-21
-
 LEI Nº 22.714, DE 21 DE MAIO DE 2024
 
 Concede o título de cidadania que especifica.

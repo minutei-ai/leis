@@ -1,5 +1,3 @@
-# Decreto Numerado nº 253, de 2024-04-15
-
 DECRETO “N” Nº 253 DE 15 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

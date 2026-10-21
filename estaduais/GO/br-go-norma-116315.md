@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.966, de 2026-07-28
-
 DECRETO Nº 10.966, DE 28 DE JULHO DE 2026
 
 Altera o [Decreto nº 10.356](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108211), de 8 de dezembro de 2023, que dispõe sobre a aplicação da Lei federal nº 13.019, de 31 de julho de 2014, que estabelece o regime jurídico das parcerias com organizações da sociedade civil – OSCs, no âmbito da Secretaria de Estado da Saúde de Goiás.

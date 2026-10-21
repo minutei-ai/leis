@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.749, de 2025-08-06
-
 DECRETO Nº 10.749, DE 6 DE AGOSTO DE 2025
 
 Altera o [Decreto nº 10.490](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109169), de 4 de julho de 2024, que declara de utilidade pública, para efeito de instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.848, de 2026-04-23
-
 LEI Nº 7.848, DE 23 DE ABRIL DE 2026.
 
 Institui a obrigatoriedade de disponibilização de carrinhos adaptados para pessoas com deficiência física ou mobilidade reduzida - cadeirantes, em grandes supermercados e hipermercados no Município de Rio Verde-GO.

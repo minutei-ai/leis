@@ -1,5 +1,3 @@
-# Medida Provisória nº 726 de 12/05/2016
-
 MEDIDA PROVISÓRIA Nº 726, DE 12 DE MAIO DE 2016
 
 Altera e revoga dispositivos da [Lei nº 10.683, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10683), que dispõe sobre a organização da Presidência da República e dos Ministérios.

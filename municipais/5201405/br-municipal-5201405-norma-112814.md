@@ -1,5 +1,3 @@
-# Decreto Numerado nº 138, de 2026-02-10
-
 DECRETO Nº 138, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Avenida Brasil, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

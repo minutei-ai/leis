@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.703, de 2009-12-01
-
 LEI COMPLEMENTAR N. 5.703, DE 01 DE DEZEMBRO DE 2009
 
 Dispõe acerca dos direitos e deveres, bem como define penalidade e procedimento administrativo disciplinar aplicável aos Agentes de Trânsito de Rio Verde/GO, e dá outras providências.

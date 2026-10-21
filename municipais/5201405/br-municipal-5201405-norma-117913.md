@@ -1,5 +1,3 @@
-# Decreto Numerado nº 186, de 2023-03-22
-
 DECRETO “N” Nº 186 DE 22 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PORTO DAS PEDRAS, neste município.

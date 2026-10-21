@@ -1,5 +1,3 @@
-# Decreto Numerado nº 323, de 2026-04-30
-
 DECRETO Nº 323, DE 30 DE ABRIL DE 2026
 
 Dispõe sobre a aprovação do Loteamento Setor Deville, no âmbito do Município de Aparecida de Goiânia.

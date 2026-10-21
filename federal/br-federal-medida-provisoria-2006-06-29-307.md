@@ -1,5 +1,3 @@
-# Medida Provisória nº 307 de 29/06/2006
-
 ###MPV-000307-0-000-29-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 307, DE 29 DE JUNHO DE 2006.

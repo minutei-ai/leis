@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.491, de 2026-08-14
-
 LEI Nº 24.491, DE 14 DE AGOSTO DE 2026
 
 Altera a [Lei nº 23.983](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111968), de 23 de dezembro de 2025, que institui medidas facilitadoras para o contribuinte negociar seus débitos relacionados aos impostos estaduais.

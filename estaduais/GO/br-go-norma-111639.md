@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.818, de 2025-11-28
-
 DECRETO Nº 10.818, DE 28 DE NOVEMBRO DE 2025
 
 Institui a Comissão Intersetorial do Programa Bolsa Família no Estado de Goiás.

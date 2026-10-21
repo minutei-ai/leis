@@ -1,5 +1,3 @@
-# Lei Complementar nº 207, de 2021-05-06
-
 LEI COMPLEMENTAR Nº 207, DE 06 DE MAIO DE 2021.
 
 Altera Lei Complementar n. 5.727/2009 - Código Tributário Municipal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.418, de 2026-07-03
-
 LEI Nº 24.418, DE 3 DE JULHO DE 2026
 
 Autoriza o Poder Executivo a instituir o Serviço Social Autônomo Centro Profissionalizante Paulo Vargas.

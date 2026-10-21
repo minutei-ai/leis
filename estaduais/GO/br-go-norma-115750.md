@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.929, de 2026-06-22
-
 DECRETO Nº 10.929, DE 22 DE JUNHO DE 2026
 
 Dispõe sobre o atendimento a condicionantes para a fruição de benefícios fiscais vinculadas a incentivos fiscais federais.

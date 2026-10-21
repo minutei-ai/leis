@@ -1,5 +1,3 @@
-# Decreto Numerado nº 89, de 2026-01-27
-
 DECRETO Nº 089, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua R-14 e Rua R-15, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

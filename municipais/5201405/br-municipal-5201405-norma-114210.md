@@ -1,5 +1,3 @@
-# Decreto Numerado nº 332, de 2026-05-04
-
 DECRETO Nº 332, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua Araguari e Rua Pedrinópolis, no Loteamento Bairro Cardoso, no Município de Aparecida de Goiânia.

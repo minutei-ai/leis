@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.027 de 01/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.027, DE 1 DE FEVEREIRO DE 2021
 
 Dispõe sobre o estabelecimento de barreiras sanitárias protetivas de áreas indígenas.

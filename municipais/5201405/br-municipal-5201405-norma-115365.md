@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.679, de 2022-09-20
-
 LEI MUNICIPAL Nº 3.679 DE 20 DE SETEMBRO DE 2022.
 
 Institui o Dia Municipal do Agente de Trânsito e Transporte, neste município, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 84, de 2017-06-30
-
 LEI COMPLEMENTAR N. 84, DE 30 DE JUNHO DE 2017
 
 Altera a Lei 5.727/2009 que reformulou o Código Tributário Municipal.

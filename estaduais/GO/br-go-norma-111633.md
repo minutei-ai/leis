@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.881, de 2025-11-28
-
 LEI Nº 23.881, DE 28 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 7.371](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90051 "Abrir Lei Ordinária nº 7371, de 1971 em nova aba"), de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.

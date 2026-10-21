@@ -1,5 +1,3 @@
-# Decreto Numerado nº 333, de 2024-05-07
-
 DECRETO “N” Nº 333 DE 07 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.001, de 2011-09-22
-
 **LEI N. 6.001, DE 22 DE SETEMBRO DE 2011**
 
 Altera a [Lei n. 5.558](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003 "Abrir Lei Ordinária nº 5558, de 2009 em nova aba")/2009.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.222, de 2014-09-24
-
 LEI MUNICIPAL N° 3.222, DE 24 DE SETEMBRO DE 2014.
 
 Altera o § 2° do artigo 5°, da Lei Municipal n° 3.115 de 30 de setembro de 2013, que Autoriza o Poder Executivo Municipal a doar imóveis ao Fundo de Arrendamento Residencial – FAR .

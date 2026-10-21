@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.630, de 2025-01-23
-
 DECRETO Nº 10.630. DE 23 DE JANEIRO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica, no Munícipio de Rio Quente/GO.

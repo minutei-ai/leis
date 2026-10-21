@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.439, de 2024-04-12
-
 DECRETO Nº 10.439 DE 12 DE ABRIL DE 2024
 
 Concede a Medalha de Mérito “Soldado do Fogo” à militar que especifica.

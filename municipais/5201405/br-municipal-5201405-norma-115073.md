@@ -1,5 +1,3 @@
-# Decreto Numerado nº 441, de 2026-06-01
-
 DECRETO Nº 441, DE 1º DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Avenida Dona Maria Marques de Abreu, no Loteamento Bairro Independência 2º Complemento, no Município de Aparecida de Goiânia.

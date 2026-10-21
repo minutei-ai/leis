@@ -1,5 +1,3 @@
-# LEI Nº 14.985 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.985 DE 30 DE SETEMBRO DE 2025
 
 Denomina PONTE JUSSEMAR CORDEIRO SILVA, in memoriam, a ponte que vai interligar o trecho da BA-220 à cidade de Uauá/BA, a qual está sendo construída sobre o rio Vaza-Barris.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.314, de 2026-05-25
-
 LEI Nº 24.314, DE 25 DE MAIO DE 2026
 
 Autoriza o Poder Executivo a conceder à empresa Taboca Energia S/A o direito real de uso do bem imóvel público estadual que especifica, para a implantação da Pequena Central Hidrelétrica – PCH Taboca.

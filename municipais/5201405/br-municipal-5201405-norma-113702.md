@@ -1,5 +1,3 @@
-# Decreto Numerado nº 268, de 2026-03-31
-
 DECRETO Nº 268, DE 31 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 16 e 45, situados à Viela E com Viela A, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

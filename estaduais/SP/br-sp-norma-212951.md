@@ -1,5 +1,3 @@
-# Decreto nº 70.848, de 09/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212951)<br>
 
 # DECRETO N° 70.848, DE 09 DE SETEMBRO DE 2026

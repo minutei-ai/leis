@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.729, de 2017-07-03
-
 <br>
 **LEI Nº 6.729, DE 3 DE JULHO DE 2017**
 

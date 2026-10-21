@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.414, de 2025-05-15
-
 LEI Nº 23.414, DE 15 DE MAIO DE 2025
 
 Confere ao Município de Niquelândia/GO o título de Capital Goiana do Minério de Níquel.

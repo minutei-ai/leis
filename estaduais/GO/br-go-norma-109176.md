@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.833, de 2024-07-08
-
 LEI Nº 22.833, DE 8 DE JULHO DE 2024<br>
 \- [Vide Ação Direta de Inconstitucionalidade nº 6.888/STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18799).
 

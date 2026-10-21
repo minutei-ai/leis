@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.319 de 17/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.319, DE 17 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 15.211, de 17 de setembro de 2025](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-09-17;15211), para dispor sobre a vigência do Estatuto Digital da Criança e do Adolescente.

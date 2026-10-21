@@ -1,5 +1,3 @@
-# Decreto Numerado nº 542, de 2026-10-09
-
 DECRETO Nº 542, DE 9 DE OUTUBRO DE 2026
 
 Transfere o feriado consagrado ao Dia do Servidor Público para o dia 30 de outubro de 2026.

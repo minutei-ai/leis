@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.401, de 2026-06-29
-
 LEI Nº 24.401, DE 29 DE JUNHO DE 2026
 
 Subdivide a Classe Especial da carreira de Delegado de Polícia do Quadro Permanente de pessoal da Delegacia-Geral da Polícia Civil, altera a [Lei nº 15.397](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80486 "Abrir Lei Ordinária nº 15397, de 2005 em nova aba"), de 22 de setembro de 2005, e a [Lei nº 16.901](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88625 "Abrir Lei Ordinária nº 16901, de 2010 em nova aba"), de 26 de janeiro de 2010.

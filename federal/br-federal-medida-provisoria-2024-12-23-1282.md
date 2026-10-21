@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.282 de 23/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.282, DE 23 DE DEZEMBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério das Cidades, no valor de R$ 6.500.000.000,00, para o fim que especifica.

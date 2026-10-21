@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.198, de 2025-01-06
-
 LEI Nº 23.198, DE 6 DE JANEIRO DE 2025
 
 Institui o Dia Estadual da Eficiência Energética.

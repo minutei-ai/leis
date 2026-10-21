@@ -1,5 +1,3 @@
-# Decreto Numerado nº 322, de 2026-04-28
-
 DECRETO Nº 322, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua C-27, no Loteamento Jardim Boa Esperança - Continuação, no Município de Aparecida de Goiânia.

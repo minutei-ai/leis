@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.269, de 2015-07-02
-
 LEI MUNICIPAL Nº 3.269, DE 02 DE JULHO DE 2015.
 
 Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária para o exercício de 2016 e dá outras providências.

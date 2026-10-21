@@ -1,5 +1,3 @@
-# Decreto Numerado nº 37, de 2026-01-13
-
 DECRETO Nº 037, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Avenida R-1, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

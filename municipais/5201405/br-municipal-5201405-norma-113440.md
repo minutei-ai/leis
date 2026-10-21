@@ -1,5 +1,3 @@
-# Lei Complementar nº 212, de 2023-05-25
-
 LEI COMPLEMENTAR N° 212, DE 25 DE MAIO DE 2023.
 
 Institui a Carreira dos Auditores Fiscais do município de Aparecida de Goiânia e dá outras providências.

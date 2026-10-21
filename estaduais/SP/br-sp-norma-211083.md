@@ -1,5 +1,3 @@
-# Decreto nº 69.642, de 17/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211083)<br>
 
 # DECRETO N° 69.642, DE 17 DE JUNHO DE 2025

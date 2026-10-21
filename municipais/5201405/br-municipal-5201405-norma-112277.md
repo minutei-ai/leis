@@ -1,5 +1,3 @@
-# Decreto Numerado nº 67, de 2026-01-20
-
 DECRETO Nº 067, DE 20 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 11, 12, 13 e 14, situados à Rua dos Tico-Ticos e Rua R-14, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

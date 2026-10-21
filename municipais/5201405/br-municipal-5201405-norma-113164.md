@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.672, de 2025-11-19
-
 DECRETO Nº 2.672, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Professor Moacir Monclar Brandão com Rua Coronel José Bezerra Leite, no Loteamento Jardim Dom Bosco -2ª Etapa, no Município de Aparecida de Goiânia.

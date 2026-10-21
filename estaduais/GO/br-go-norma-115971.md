@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.937, de 2026-06-29
-
 DECRETO Nº 10.937, DE 29 DE JUNHO DE 2026
 
 Cria o Parque Natural Colaborativo Jardim Ingá e declara de interesse social, para fins de desapropriação, as áreas de terras que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 289, de 2026-04-15
-
 DECRETO Nº 289, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 30, situado à Rua Guarujá, no Loteamento Jardim Ipiranga – Continuação, no Município de Aparecida de Goiânia.

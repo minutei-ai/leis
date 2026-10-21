@@ -1,5 +1,3 @@
-# Decreto Numerado nº 685, de 2024-08-26
-
 DECRETO “N” Nº 685 DE 26 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

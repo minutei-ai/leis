@@ -1,5 +1,3 @@
-# LEI Nº 15.131 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.131 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública a Associação dos Produtores e Moradores do Povoado do Pinheiro, com sede e foro no município de Conceição da Feira.

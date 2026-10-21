@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.450, de 2024-04-22
-
 DECRETO Nº 10.450, DE 22 DE ABRIL DE 2024
 
 Estabelece os procedimentos, os atos e a documentação necessários à privatização de empresas estatais controladas pelo Poder Executivo do Estado de Goiás.

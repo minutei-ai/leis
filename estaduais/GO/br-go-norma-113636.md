@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.883, de 2026-03-19
-
 DECRETO Nº 10.883, DE 19 DE MARÇO DE 2026
 
 Institui o Comitê da Bacia Hidrográfica dos Afluentes Goianos Integrados dos Rios Tocantins e São Francisco – CBH AGITOS.

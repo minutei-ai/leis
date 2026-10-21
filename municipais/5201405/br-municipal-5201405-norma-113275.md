@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.380, de 2025-10-07
-
 DECRETO Nº 2.380, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua J-80, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

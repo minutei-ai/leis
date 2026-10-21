@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.037 de 18/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.037, DE 18 DE MARÇO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 42.575.600.000,00, para o fim que especifica, e dá outras providências.

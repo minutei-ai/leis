@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.124, de 2012-04-23
-
 LEI COMPLEMENTAR Nº 6.124,DE 23 DE ABRIL DE 2012.
 
 Altera a Lei n. 5.727/09, Código Tributário Municipal.

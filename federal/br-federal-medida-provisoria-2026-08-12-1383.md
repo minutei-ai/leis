@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.383 de 12/08/2026
-
 MEDIDA PROVISÓRIA Nº 1.383, DE 12 DE AGOSTO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 360.000.000,00, para o fim que especifica.

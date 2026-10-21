@@ -1,5 +1,3 @@
-# Lei Complementar nº 428, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 428, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei Complementar nº 182, de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

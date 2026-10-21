@@ -1,5 +1,3 @@
-# LEI Nº 15.097 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.097 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto Popular do Recôncavo, com sede e foro no município de Saubara.

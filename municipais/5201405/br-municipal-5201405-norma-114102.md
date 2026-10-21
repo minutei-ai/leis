@@ -1,5 +1,3 @@
-# Decreto Numerado nº 892, de 2024-10-23
-
 DECRETO “N” N° 892, DE 23 DE OUTUBRO DE 2024.
 
 Altera o Decreto "N" nº 389, de 26 de maio de 2022, para modificar a composição do Comitê de Investimentos do Instituto de Previdência Social do Município de Aparecida de Goiânia – APARECIDAPREV, e dá outras providências.

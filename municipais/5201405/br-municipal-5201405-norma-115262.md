@@ -1,5 +1,3 @@
-# Lei Complementar nº 196, de 2022-04-26
-
 LEI COMPLEMENTAR N° 196, DE 26 DE ABRIL DE 2022.
 
 Institui a Carreira dos Auditores Fiscais Tributários da Secretaria da Fazenda do Município de Aparecida de Goiânia e dá outras providências.

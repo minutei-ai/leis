@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.652, de 2025-05-26
-
 LEI Nº 7.652, DE 26 DE MAIO DE 2025.
 
 Dispõe sobre transação e parcelamento de débitos decorrentes de tributos, rendas, preço público, multas tributárias e não tributárias e demais créditos do Município de Rio Verde, a fim de atender ao Programa de Recuperação de Créditos Fiscais, doravante denominado de REFIS, e dá outras providências.

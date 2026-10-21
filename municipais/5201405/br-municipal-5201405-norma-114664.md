@@ -1,5 +1,3 @@
-# Decreto Numerado nº 110, de 2024-03-05
-
 DECRETO “N” Nº 110 DE 05 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

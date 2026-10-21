@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.764, de 2025-10-28
-
 LEI Nº 23.764, DE 28 DE outubro DE 2025
 
 Concede o título de cidadania que especifica.

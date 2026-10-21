@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.234, de 2026-04-15
-
 LEI Nº 24.234, DE 15 DE ABRIL DE 2026
 
 Declara de utilidade pública a entidade que especifica.

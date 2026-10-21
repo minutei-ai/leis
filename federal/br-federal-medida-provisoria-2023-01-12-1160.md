@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.160 de 12/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.160, DE 12 DE JANEIRO DE 2023
 
 Dispõe sobre a proclamação do resultado do julgamento, na hipótese de empate na votação no âmbito do Conselho Administrativo de Recursos Fiscais, e sobre a conformidade tributária no âmbito da Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda e altera a Lei nº 13.988, de 14 de abril de 2020, para dispor sobre o contencioso administrativo fiscal de baixa complexidade.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.524, de 2019-11-21
-
 LEI MUNICIPAL Nº 3.524, DE 21 DE NOVEMBRO DE 2019.
 
 “Dispõe sobre a denominação do Campo Society Sintético do Centro Olímpico HUGO MOREIRA MAGALHÃES, situado à Rua 08, área Pública, Setor Conde dos Arcos, Aparecida de Goiânia – GO, e dá outras providências.”

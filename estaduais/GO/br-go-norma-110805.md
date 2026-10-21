@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 27, de 2025-02-25
-
 Portaria Orçamentária nº 27/2025 - Economia<br>
  
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.226, de 2014-10-23
-
 LEI MUNICIPAL Nº 3.226, DE 23 DE OUTUBRO DE 2014.
 
 Dá nome à Unidade Básica de Saúde do Residencial Cândido Queiroz, neste município.

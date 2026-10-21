@@ -1,5 +1,3 @@
-# Decreto Numerado nº 287, de 2023-05-03
-
 DECRETO “N” Nº 287 DE 03 DE MAIO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

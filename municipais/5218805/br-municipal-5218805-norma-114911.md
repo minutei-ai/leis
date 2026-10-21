@@ -1,5 +1,3 @@
-# Lei Complementar nº 245, de 2022-05-27
-
 LEI COMPLEMENTAR Nº. 245, DE 27 DE MAIO DE 2022.
 
 Altera a Lei Complementar nº. 3.633/1998 que dispõe sobre o parcelamento do solo para fins urbanos.

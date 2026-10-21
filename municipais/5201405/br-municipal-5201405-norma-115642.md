@@ -1,5 +1,3 @@
-# Decreto Numerado nº 501, de 2026-06-19
-
 DECRETO Nº 501, DE 19 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento da Área Sem Denominação, situada na Rua das Guarirobas, Rua dos Limoeiros, Rua dos Palmitos, Rua das Laranjeiras, Avenida Newton Marques Ferreira, Avenida Bartolomeu Bueno e nas Quadras 03, 04, 05, 14, 15, 16, no Loteamento Vila Cruzeiro do Sul, no Município de Aparecida de Goiânia.

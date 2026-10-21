@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.030 de 22/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.030, DE 22 DE FEVEREIRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Regional, no valor de R$ 450.000.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# LEI Nº 15.179 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.179 DE 1º DE JULHO DE 2026
 
 Proíbe às farmácias e drogarias a exigência do CPF do consumidor, no ato da compra, sem informar de forma adequada e clara, a concessão de descontos, no Estado da Bahia, e dá outras providências.

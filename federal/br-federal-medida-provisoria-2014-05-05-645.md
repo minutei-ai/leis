@@ -1,5 +1,3 @@
-# Medida Provisória nº 645 de 05/05/2014
-
 MEDIDA PROVISÓRIA Nº 645, DE 5 DE MAIO DE 2014
 
 Dispõe sobre a ampliação do Auxílio Emergencial Financeiro relativo aos desastres ocorridos em 2012.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 657, de 2024-08-15
-
 DECRETO “N” Nº 657 DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.018 de 18/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.018, DE 18 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 5.070, de 7 de julho de 1966, para dispor sobre o valor da Taxa de Fiscalização de Instalação, a Lei nº 11.652, de 7 de abril de 2008, para dispor sobre o valor da Contribuição para o Fomento da Radiodifusão Pública, e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para dispor sobre o valor da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional.

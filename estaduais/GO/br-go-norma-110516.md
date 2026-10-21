@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.290, de 2025-03-24
-
 LEI Nº 23.290, DE 24 DE MARÇO DE 2025
 
 Estabelece as diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria entre o Estado de Goiás e a iniciativa privada.

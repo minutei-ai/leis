@@ -1,5 +1,3 @@
-# LEI Nº 15.141 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.141 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública a Sociedade Espírita Verdade e Vida, com sede e foro no município de Cruz das Almas-BA.

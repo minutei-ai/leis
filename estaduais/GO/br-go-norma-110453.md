@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.260, de 2025-03-07
-
 LEI Nº 23.260, DE 7 DE MARÇO DE 2025
 
 Institui o Dia Estadual do Profissional de Limpeza Urbana.

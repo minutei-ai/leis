@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.248, de 2002-01-30
-
 **LEI MUNICIPAL Nº 2.248, DE 30 DE JANEIRO DE 2002.**
 
 Dispõe sobre a criação do Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS) e dá outras providências.

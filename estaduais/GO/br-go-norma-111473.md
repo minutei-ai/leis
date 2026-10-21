@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.773, de 2025-10-31
-
 LEI Nº 23.773, DE 31 DE OUTUBRO DE 2025
 
 Institui o Fundo Estadual de Gestão e Monitoramento dos Recursos do Propag.

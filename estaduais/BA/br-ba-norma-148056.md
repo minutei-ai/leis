@@ -1,5 +1,3 @@
-# LEI Nº 15.054 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.054 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública o Centro Espírita André Luiz (CEAL), com sede e foro no município de Livramento de Nossa Senhora.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.316 de 16/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.316, DE 16 DE SETEMBRO DE 2025
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 12.000.000.000,00, para o fim que especifica.

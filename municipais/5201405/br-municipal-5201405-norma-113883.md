@@ -1,5 +1,3 @@
-# Decreto Numerado nº 177, de 2024-03-25
-
 DECRETO “N” Nº 177, DE 25 DE MARÇO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidor da Secretaria Municipal de Educação.

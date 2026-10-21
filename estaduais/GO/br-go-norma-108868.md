@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.473, de 2024-05-22
-
 DECRETO Nº 10.473, DE 22 DE MAIO DE 2024
 
 Altera o [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946/decreto-9853), de 23 de abril de 2021, que autoriza a Secretaria de Estado da Educação - SEDUC a celebrar e manter os contratos temporários que especifica.

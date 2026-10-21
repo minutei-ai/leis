@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.306, de 2016-04-14
-
 LEI MUNICIPAL Nº 3.306, DE 14 DE ABRIL DE 2016.
 
 Desafeta as áreas públicas situadas no loteamento Alvorada Sul, neste Município, autoriza permuta e dá outras providências.

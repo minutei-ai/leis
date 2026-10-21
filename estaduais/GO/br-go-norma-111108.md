@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.748, de 2025-08-04
-
 DECRETO Nº 10.748, DE 4 DE AGOSTO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

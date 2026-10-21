@@ -1,5 +1,3 @@
-# Lei Complementar nº 19, de 2009-06-25
-
 LEI COMPLEMENTAR N° 019, DE 25 DE JUNHO DE 2009.
 
 Altera o § 1º, do art. 71, da LEI COMPLEMENTAR nº 010 de 2005, a qual dispõe sobre a adequação do regime próprio de previdência social de Aparecida de Goiânia à Emenda Constitucional nº 41/03 e dá outras providências.

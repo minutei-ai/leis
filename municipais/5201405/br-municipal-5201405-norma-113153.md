@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.685, de 2025-11-27
-
 DECRETO Nº 2.685, DE 27 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 12, 13 e 01-04, todos da Quadra U, situados à Avenida A, Alameda C e Alameda D, no Loteamento Setor Araguaia Acréscimo, no Município de Aparecida de Goiânia.

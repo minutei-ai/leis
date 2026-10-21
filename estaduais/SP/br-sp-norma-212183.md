@@ -1,5 +1,3 @@
-# Decreto nº 70.353, de 02/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212183)<br>
 
 # DECRETO N° 70.353, DE 02 DE FEVEREIRO DE 2026

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.539, de 2024-08-26
-
 LEI Nº 7.539, DE 26 DE AGOSTO DE 2024.
 
 Dispõe sobre a fixação do subsídio dos agentes políticos, Prefeito, Vice-Prefeito, Vereadores e Secretários do Município de Rio Verde-GO, nos termos dos artigos 29, VI, “b”, e 37, X, da Constituição Federal para a legislatura de 2025 a 2028, e dá outras providências.

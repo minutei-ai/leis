@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.531, de 2026-09-10
-
 LEI Nº 24.531, DE 10 DE SETEMBRO DE 2026
 
 Altera a [Lei nº 15.640](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79682), de 2 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.

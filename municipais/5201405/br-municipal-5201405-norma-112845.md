@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.699, de 2025-06-30
-
 DECRETO Nº 1.699, DE 30 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento da Área II, situado à Rua X-54 no Loteamento Jardim Olimpico, no Município de Aparecida de Goiânia.

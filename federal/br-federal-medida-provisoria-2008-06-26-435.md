@@ -1,5 +1,3 @@
-# Medida Provisória nº 435 de 26/06/2008
-
 ###MPV-000435-0-000-26-06-2008@@@
 
 MEDIDA PROVISÓRIA Nº 435, DE 26 DE JUNHO DE 2008.

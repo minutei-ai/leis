@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.992, de 2026-10-08
-
 DECRETO Nº 10.992, DE 8 DE OUTUBRO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Nova Aurora/GO.

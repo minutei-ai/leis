@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.234 de 18/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.234, DE 18 DE JUNHO DE 2024
 
 Altera a [Medida Provisória nº 1.230, de 7 de junho de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2024-06-07;1230), para dispor sobre a elegibilidade para recebimento do Apoio Financeiro destinado às trabalhadoras e aos trabalhadores domésticos e às pescadoras e aos pescadores profissionais artesanais em Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecidos pelo Poder Executivo federal.

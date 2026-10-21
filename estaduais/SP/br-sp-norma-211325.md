@@ -1,5 +1,3 @@
-# Decreto nº 69.806, de 15/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211325)<br>
 
 # DECRETO N° 69.806, DE 15 DE AGOSTO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 51, de 2026-01-14
-
 DECRETO Nº 051, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 15 e 16, todos da Quadra 03-C, situados à Alameda do Bosque, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

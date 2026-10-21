@@ -1,5 +1,3 @@
-# LD Nº 43 DE 17 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 43 DE 17 DE MARÇO DE 1983
 
 Reorganiza a Secretaria dos Transportes e Comunicações e dá outras providências.

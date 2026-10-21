@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.890, de 2026-03-30
-
 DECRETO Nº 10.890, DE 30 DE MARÇO DE 2026
 
 Altera o [Decreto nº 6.883](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108708 "Abrir Decreto Numerado nº 6883, de 2009 em nova aba"), de 12 de março de 2009, que regulamenta o Fundo de Proteção Social do Estado de Goiás – PROTEGE GOIÁS.

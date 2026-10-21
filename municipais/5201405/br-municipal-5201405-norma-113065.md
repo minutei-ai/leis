@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.807, de 2025-12-11
-
 DECRETO Nº 2.807, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 10, 11 e 12, todos da Quadra 399-A, situados a Rua 5-D, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

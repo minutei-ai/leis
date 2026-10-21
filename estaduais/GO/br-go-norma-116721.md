@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.975, de 2026-08-14
-
 DECRETO Nº 10.975, DE 14 DE AGOSTO DE 2026
 
 Concede a Medalha do Mérito Guardião às autoridades que especifica.

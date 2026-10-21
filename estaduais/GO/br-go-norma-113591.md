@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.141, de 2026-03-17
-
 LEI Nº 24.141, DE 17 DE MARÇO DE 2026.
 
 Dispõe sobre a estadualização do trecho rodoviário que especifica.

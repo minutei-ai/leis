@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.281, de 2022-06-27
-
 LEI N°. 7.281, DE 27 DE JUNHO DE 2022
 
 Autoriza o Poder Executivo a doar imóvel ao Estado de Goiás para a construção da sede da 8a Delegacia Regional de Polícia Civil de Rio Verde.

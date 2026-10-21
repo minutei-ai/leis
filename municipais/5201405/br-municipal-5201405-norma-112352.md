@@ -1,5 +1,3 @@
-# Decreto Numerado nº 976, de 2025-02-26
-
 DECRETO Nº 976, DE 26 DE FEVEREIRO DE 2025<br>
 Revogado pelo Decreto Numerado nº 1.447, de 27 de maio de 2025.
 

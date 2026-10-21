@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.632, de 2021-10-21
-
 LEI MUNICIPAL Nº 3.632, DE 21 DE OUTUBRO DE 2021.
 
 Revoga a Lei Municipal nº 786 de 18 de outubro 1988 que Dispõe sobre a doação da área no loteamento Colina Azul e dá outras providencias. 

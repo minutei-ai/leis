@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.383, de 2024-01-09
-
 DECRETO Nº 10.383 , DE 9 DE JANEIRO DE 2024
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

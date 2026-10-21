@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.801, de 2025-10-21
-
 DECRETO Nº 10.801, DE 21 DE OUTUBRO DE 2025
 
 Regulamenta o Programa de Incentivo ao Atleta de Rendimento – PRÓ-GOIÁS ATLETA, instituído pela [Lei nº 23.523](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110992 "Abrir Lei Ordinária nº 23523, de 2025 em nova aba"), de 23 de junho de 2025.

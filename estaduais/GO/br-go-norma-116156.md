@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.443, de 2026-07-10
-
 LEI Nº 24.443, DE 10 DE JULHO DE 2026
 
 Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2027.

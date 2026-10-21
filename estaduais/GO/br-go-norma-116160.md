@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.442, de 2026-07-10
-
 LEI Nº 24.442, DE 10 DE JULHO DE 2026
 
 Altera a [Lei nº 13.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82287), de 26 de dezembro de 1997, que trata de matéria tributária, e revoga dispositivo da [Lei nº 19.754](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99066), de 17 de julho de 2017, que institui o Cadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Estaduais (CADIN ESTADUAL).

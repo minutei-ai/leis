@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.721, de 2025-07-07
-
 DECRETO Nº 10.721, DE 7 DE JULHO DE 2025
 
 Altera o [Decreto nº 9.810](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103782), de 8 de fevereiro de 2021, que autoriza a Agência Goiana de Infraestrutura e Transportes – GOINFRA a celebrar e/ou manter os contratos temporários que especifica, bem como o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás, também revoga o [Decreto nº 9.648](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103099), de 13 de abril de 2020, e o [Decreto nº 9.896](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104174), de 1º de julho de 2021, que autorizam a GOINFRA a celebrar e manter os contratos temporários que especifica.

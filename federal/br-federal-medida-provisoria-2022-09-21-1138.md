@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.138 de 21/09/2022
-
 MEDIDA PROVISÓRIA Nº 1.138, DE 21 DE SETEMBRO DE 2022
 
 Altera a Lei nº 12.249, de 11 de junho de 2010, para dispor sobre a alíquota do imposto sobre a renda retido na fonte incidente sobre as operações a que se refere.

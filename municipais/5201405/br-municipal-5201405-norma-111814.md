@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.850, de 2025-09-05
-
 LEI Nº 3.850, DE 5 DE SETEMBRO DE 2025
 
 Dispõe sobre a garantia opcional ao cidadão de doar ração para cães ou gatos em substituição ao alimento não perecível exigido como condição de acesso a eventos promovidos ou apoiados pelo Poder Público Municipal.

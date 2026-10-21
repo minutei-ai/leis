@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.903, de 2026-05-05
-
 DECRETO Nº 10.903, DE 5 DE MAIO DE 2026
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e o [Decreto nº 10.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108460), de 6 de fevereiro de 2024, que aprova o Regulamento da Secretaria de Estado de Esporte e Lazer.<br>

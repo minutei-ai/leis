@@ -1,5 +1,3 @@
-# LEI Nº 14.747 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.747 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a CASA DE ACOLHIMENTO AO PACIENTE ONCOLÓGICO DO SUDOESTE DA BAHIA (CAPOS), com sede e foro no município de Vitória da Conquista.

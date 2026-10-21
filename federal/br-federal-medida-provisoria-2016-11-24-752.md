@@ -1,5 +1,3 @@
-# Medida Provisória nº 752 de 24/11/2016
-
 MEDIDA PROVISÓRIA Nº 752, DE 24 DE NOVEMBRO DE 2016
 
 Dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica e dá outras providências.

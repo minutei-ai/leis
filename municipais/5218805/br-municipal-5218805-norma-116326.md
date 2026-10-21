@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.811, de 2004-05-18
-
 LEI Nº 4.811, DE 18 DE MAIO DE 2004.
 
 Altera a Lei 3.853/99, Plano de Cargos e Vencimentos dos Funcionários do Município.

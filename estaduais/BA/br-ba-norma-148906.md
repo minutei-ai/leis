@@ -1,5 +1,3 @@
-# LEI Nº 15.188 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.188 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública a Academia de Ciências da Bahia, com sede e foro em Salvador.

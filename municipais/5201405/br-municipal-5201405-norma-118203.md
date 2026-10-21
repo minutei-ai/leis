@@ -1,5 +1,3 @@
-# Decreto Numerado nº 423, de 2023-06-27
-
 DECRETO “N” Nº 423 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóvel situado no Loteamento JARDIM DAS CASCATAS, neste município.

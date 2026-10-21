@@ -1,5 +1,3 @@
-# Decreto Numerado nº 334, de 2026-05-04
-
 DECRETO Nº 334, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua J-19, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

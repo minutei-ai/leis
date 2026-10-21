@@ -1,5 +1,3 @@
-# LEI Nº 15.018 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.018 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a Filarmônica Lyra Popular de Mucugê - FLPM, com sede e foro no município de Mucugê.

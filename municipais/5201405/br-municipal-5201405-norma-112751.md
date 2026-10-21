@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.801, de 2024-10-03
-
 LEI MUNICIPAL Nº 3.801, DE 03 DE OUTUBRO DE 2024.
 
 Reconhece como Utilidade Pública Municipal o INSTITUTO BRASA VIVA e dá outras providências.

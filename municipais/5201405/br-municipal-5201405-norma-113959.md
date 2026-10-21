@@ -1,5 +1,3 @@
-# Decreto Numerado nº 470, de 2024-06-18
-
 DECRETO “N” Nº 470, DE 18 DE JUNHO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidor da Secretaria Municipal de Educação.

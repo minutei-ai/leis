@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.105, de 2025-03-26
-
 DECRETO Nº 1.105, DE 26 DE MARÇO DE 2025
 
 Dispõe sobre o remembramento de imóveis no Município de Aparecida de Goiânia.

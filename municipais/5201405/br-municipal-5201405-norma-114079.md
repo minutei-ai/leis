@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.897, de 2026-04-27
-
 LEI Nº 3.897, DE 27 DE ABRIL DE 2026
 
 Dispõe sobre a aceitação de receitas médicas emitidas por profissionais não vinculados ao Sistema Único de Saúde – SUS, para o fornecimento de medicamentos pela rede pública no Município de Aparecida de Goiânia, nos termos da Relação Nacional de Medicamentos Essenciais - RENAME.

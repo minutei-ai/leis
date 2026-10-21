@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.588, de 2025-08-22
-
 LEI Nº 23.588, DE 22 DE AGOSTO DE 2025
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, os imóveis que especifica ao Município de Amorinópolis/GO.

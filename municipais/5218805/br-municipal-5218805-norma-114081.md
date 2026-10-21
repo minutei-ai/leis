@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.759, de 2025-11-17
-
 LEI Nº 7.759, DE 17 DE NOVEMBRO DE 2025.
 
 Reconhece entidade como Utilidade Pública Municipal e dá outras providências.

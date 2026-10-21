@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.513, de 2019-10-22
-
 LEI MUNICIPAL Nº 3.513, DE 22 DE OUTUBRO DE 2019<br>
 (Revogado pela Lei Ordinária nº 3.518, de 1 de novembro de 2019).
 

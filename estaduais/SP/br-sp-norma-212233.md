@@ -1,5 +1,3 @@
-# Lei nº 18.402, de 13/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212233)<br>
 
 # LEI N° 18.402, DE 13 DE FEVEREIRO DE 2026

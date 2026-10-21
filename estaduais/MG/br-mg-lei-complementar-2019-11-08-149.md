@@ -1,5 +1,3 @@
-# LCP nº 149, de 08/11/2019
-
 Altera a Lei Complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do Estado de Minas Gerais, para unificar os Quadros de Pessoal das Justiças de Primeira e Segunda Instâncias, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

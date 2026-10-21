@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.284, de 2015-11-13
-
 LEI MUNICIPAL Nº 3.284, DE 13 DE NOVEMBRO DE 2015.
 
 “Revoga a Lei Municipal nº 2.797 de 30 de Dezembro de 2008 e Aprova o Loteamento RESIDENCIAL SANTA VITÓRIA, neste Município e dá Outras Providências”.

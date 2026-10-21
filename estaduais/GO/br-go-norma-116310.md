@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.488, de 2026-07-28
-
 LEI Nº 24.488, DE 28 DE JULHO DE 2026
 
 Institui a Campanha Estadual de Conscientização e Combate à Aporofobia nas escolas das redes pública e privada de ensino.

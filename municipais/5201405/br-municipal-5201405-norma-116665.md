@@ -1,5 +1,3 @@
-# Lei Complementar nº 139, de 2017-12-14
-
 LEI COMPLEMENTAR Nº 139, DE 14 DE DEZEMBRO DE 2017
 
 Acrescenta o inciso IV ao art. 18 da Lei Complementar n° 95/2014.

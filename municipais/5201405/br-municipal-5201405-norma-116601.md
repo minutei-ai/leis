@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.412, de 2018-04-27
-
 LEI MUNICIPAL Nº 3.412, DE 27 DE ABRIL DE 2018
 
 Concede revisão geral anual, nos termos do artigo 37, X, da Constituição Federal e art. 168 da Lei Orgânica do Município, aos servidores do Poder Executivo e dá outras providências.

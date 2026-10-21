@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.102, de 2025-03-21
-
 DECRETO Nº 1.102, DE 21 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel, localizado no Município de Aparecida de Goiânia.

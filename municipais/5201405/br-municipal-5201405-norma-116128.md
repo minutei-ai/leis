@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.629, de 2021-10-15
-
 LEI MUNICIPAL Nº 3.629, DE 15 DE OUTUBRO DE 2021.
 
 “Dispõe sobre a denominação da Praça ARACI ROCHA DA SILVA, no Marista Sul, neste município e dá outras providências.”

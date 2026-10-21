@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.109, de 2012-03-19
-
 LEI Nº 6.109, DE 19 DE MARÇO DE 2012.
 
 Altera Lei n. 5.990/2011.

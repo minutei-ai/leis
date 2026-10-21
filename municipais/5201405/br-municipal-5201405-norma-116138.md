@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.637, de 2021-12-15
-
 LEI MUNICIPAL Nº 3.637, DE 15 DE DEZEMBRO DE 2021.
 
 Revoga a Lei Municipal 2.835, de 09 de setembro de 2009 que "Concede Título de Cidadão Aparecidense ao Senhor HENRIQUE DE CAMPOS MEIRELLES”.

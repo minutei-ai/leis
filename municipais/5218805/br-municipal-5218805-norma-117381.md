@@ -1,5 +1,3 @@
-# Lei Complementar nº 389, de 2025-05-26
-
 LEI COMPLEMENTAR Nº 389, DE 26 DE MAIO DE 2025.
 
 Altera a [Lei Complementar nº 88](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117370), de 30 de março de 2017, que dispõe sobre a criação da Guarda Municipal de Rio Verde.

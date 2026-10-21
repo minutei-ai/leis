@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.814, de 2024-06-28
-
 LEI Nº 22.814, DE 28 DE JUNHO DE 2024
 
 Altera o Protocolo de Intenções do Consórcio Interestadual de Desenvolvimento do Brasil Central, ratificado pela [Lei estadual nº 19.020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/96016), de 30 de setembro de 2015.

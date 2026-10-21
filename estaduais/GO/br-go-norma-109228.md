@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.506, de 2024-07-24
-
 DECRETO Nº 10.506, DE 24 DE JULHO DE 2024
 
 Retifica o [Decreto estadual nº 5.820](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61357), de 26 de agosto de 2003, que concede a Medalha de Tempo de Serviço que especifica; o [Decreto estadual nº 6.617](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62364), de 25 de abril de 2007, que concede a Medalha de Tempo de Serviço aos militares que especifica; o [Decreto estadual nº 7.413](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/64702), de 29 de julho de 2011, que dispõe sobre os agraciados com a Medalha da Ordem do Mérito Tiradentes, da Polícia Militar do Estado de Goiás; e o [Decreto estadual nº 8.126](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67007), de 20 de março de 2014, que concede a medalha de Tempo de Serviço aos Militares que especifica.

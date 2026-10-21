@@ -1,5 +1,3 @@
-# Decreto Numerado nº 358, de 2026-05-08
-
 DECRETO Nº 358, DE 8 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Diadema, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

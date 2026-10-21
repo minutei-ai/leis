@@ -1,5 +1,3 @@
-# Medida Provisória nº 693 de 30/09/2015
-
 MEDIDA PROVISÓRIA Nº 693, DE 30 DE SETEMBRO DE 2015
 
 Altera a Lei nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e altera a Lei nº 10.593, de 6 de dezembro de 2002, para dispor sobre o porte de arma de fogo institucional pelos servidores integrantes da Carreira de Auditoria da Receita Federal do Brasil.

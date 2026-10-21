@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.008 de 26/10/2020
-
 MEDIDA PROVISÓRIA Nº 1.008, DE 26 DE OUTUBRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 228.000.000,00, para o fim que especifica, e dá outras providências.

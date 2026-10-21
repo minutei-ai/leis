@@ -1,5 +1,3 @@
-# Lei Complementar nº 194, de 2020-12-21
-
 LEI COMPLEMENTAR Nº 194, DE 21 DE DEZEMBRO DE 2020.
 
 Dispõe sobre o parcelamento do solo em áreas de abrangência de bacias hidrográficas de abastecimento público de água do município de Rio Verde-GO e dá outras providências.

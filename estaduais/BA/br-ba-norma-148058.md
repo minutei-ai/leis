@@ -1,5 +1,3 @@
-# LEI Nº 15.056 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.056 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação de Promoção e Assistência a Infância e Juventude (ASPAIJ), com sede e foro no município de Anagé.

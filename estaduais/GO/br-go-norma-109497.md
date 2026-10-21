@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.005, de 2024-09-20
-
 LEI Nº 23.005, DE 20 DE SETEMBRO DE 2024
 
 Abre crédito especial ao Fundo Estadual de Assistência Social – FEAS e cria produto no Plano Plurianual do Estado de Goiás – PPA para o quadriênio 2024-2027, de que trata a [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 18 de outubro de 2023.

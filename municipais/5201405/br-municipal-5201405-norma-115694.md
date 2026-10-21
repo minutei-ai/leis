@@ -1,5 +1,3 @@
-# Decreto Numerado nº 452, de 2024-06-13
-
 DECRETO “N” Nº 452 DE 13 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

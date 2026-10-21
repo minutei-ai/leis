@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.526, de 2019-11-21
-
 LEI MUNICIPAL Nº 3.526, DE 21 DE NOVEMBRO DE 2019.
 
 “Dispõe sobre a denominação da praça “MARCÍLIO JUNIOR MENDES FERREIRA”, no Setor American Park e dá outras providências.”

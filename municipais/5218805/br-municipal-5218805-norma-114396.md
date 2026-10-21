@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.651, de 2025-05-26
-
 LEI Nº 7.651, DE 26 DE MAIO DE 2025.
 
 Autoriza a concessão do auxílio-fardamento aos Agentes de Trânsito, Guardas Civis Municipais e Fiscais de Posturas do Município de Rio Verde e dá outras providências.

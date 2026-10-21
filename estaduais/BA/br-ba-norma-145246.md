@@ -1,5 +1,3 @@
-# LEI Nº 14.759 DE 09 DE JULHO DE 2024
-
 LEI Nº 14.759 DE 09 DE JULHO DE 2024
 
 Dá ao trecho da BA-937, que faz interligação entre a rodovia BR-030 e o Distrito de Pajeú dos Ventos, no Município de Caetité, a denominação de Rodovia Edivaldo Lopes Teixeira - Didi de Aroeiras.

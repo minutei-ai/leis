@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.341 de 12/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.341, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o prazo de isenção, redução ou suspensão de tributos previstos nos regimes aduaneiros especiais de drawback no caso de importação de cacau.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.210, de 2021-11-04
-
 LEI N° 7.210, DE 04 DE NOVEMBRO DE 2021
 
 Autoriza o Poder Executivo a instituir programa de aquisição e distribuição de bilhetes do transporte público coletivo com a finalidade de atender a famílias em estado de vulnerabilidade social e servidores públicos efetivos.

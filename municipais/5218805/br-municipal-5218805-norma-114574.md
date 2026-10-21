@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.619, de 2025-03-24
-
 LEI Nº 7.619, DE 24 DE MARÇO DE 2025.
 
 Altera o art. 1º da Lei nº 7.570, de 2 de dezembro de 2024, que denomina de “Paço Municipal” a nova sede da Prefeitura Municipal de Rio Verde - GO.

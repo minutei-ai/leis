@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3346, de 2016-12-16
-
 LEI MUNICIPAL 3.346, DE 16 DE DEZEMBRO DE 2016.
 
 “Dispõe sobre a criação de Centros Municipais de Educação Infantil – CMEIS, neste município, conforme especificados abaixo e dá outras providências”.

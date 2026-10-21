@@ -1,5 +1,3 @@
-# Lei Complementar nº 193, de 2022-04-11
-
 LEI COMPLEMENTAR Nº 193 DE 11 DE ABRIL DE 2022.
 
 Dispõe sobre o Plano de Cargos, Carreira e Remuneração dos Servidores da Fiscalização de Trânsito e Transporte do Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.155 de 01/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.155, DE 1 DE JANEIRO DE 2023
 
 Institui o Adicional Complementar do Programa Auxílio Brasil e do Programa Auxílio Gás dos Brasileiros.

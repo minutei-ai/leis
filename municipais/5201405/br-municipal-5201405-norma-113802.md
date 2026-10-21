@@ -1,5 +1,3 @@
-# Decreto Numerado nº 285, de 2026-04-13
-
 DECRETO Nº 285, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 22 e 23, situados à Rua X-17, no Loteamento Bairro Cardoso - Continuação, no Município de Aparecida de Goiânia.

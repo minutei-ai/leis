@@ -1,5 +1,3 @@
-# LEI Nº 15.059 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.059 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais (APAE), com sede e foro no município de Livramento de Nossa Senhora.

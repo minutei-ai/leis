@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 164, de 2025-08-14
-
 Portaria Orçamentária nº 164/2025 - Economia
 
 O PROCURADOR GERAL DE JUSTIÇA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º § 1º da Lei nº 23.246, de 25 de janeiro de 2025, representado pela Superintendente de Gestão Orçamentária e Compras, conforme Portaria de Delegação nº 2025004935171,

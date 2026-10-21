@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.373 de 29/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.373, DE 29 DE JUNHO DE 2026
 
 Institui o Programa Extraordinário de Reequilíbrio Financeiro de Tomadores de Crédito Adimplentes - Desenrola Adimplentes e dá outras providências.

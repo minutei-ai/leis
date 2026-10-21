@@ -1,5 +1,3 @@
-# Decreto Numerado nº 165, de 2026-02-26
-
 DECRETO Nº 165, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 23, situado à Rua Reno, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

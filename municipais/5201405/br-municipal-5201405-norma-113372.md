@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.202, de 2025-09-09
-
 DECRETO Nº 2.202, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, da Quadra 63, situado à Rua Rodeio, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

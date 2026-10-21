@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.761, de 2025-07-07
-
 DECRETO Nº 1.761, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Delta e Rua Juruá no Loteamento Internacional Park, no Município de Aparecida de Goiânia.

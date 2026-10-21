@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.417, de 2023-10-02
-
 LEI Nº 7.417, DE 02 DE OUTUBRO DE 2023.
 
 Institui o Programa Juro Zero que autoriza o Poder Executivo apoiar o acesso ao crédito em condições adequadas aos microempreendedores e pequenos produtores rurais do município de Rio Verde com o objetivo de fomentar o desenvolvimento local com geração de emprego e renda.

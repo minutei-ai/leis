@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.652, de 2022-01-18
-
 LEI MUNICIPAL Nº 3.652, DE 18 DE JANEIRO DE 2022.
 
 Institui a cobrança por danos causados ao patrimônio público e ao meio ambiente aos condutores sob a influência de álcool em acidente de trânsito no município de Aparecida de Goiânia e dá outras providências.

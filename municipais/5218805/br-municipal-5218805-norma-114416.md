@@ -1,5 +1,3 @@
-# Lei Complementar nº 341, de 2024-03-25
-
 LEI COMPLEMENTAR N° 341, DE 25 DE MARÇO DE 2024.
 
 Cria Zona Urbana Específica para implantação de condomínio de lotes - Fazenda São Tomaz - Abóboras "Retiro", inscrita na matrícula do Cartório de Registro de Imóveis nº 93.663.

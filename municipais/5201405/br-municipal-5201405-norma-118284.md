@@ -1,5 +1,3 @@
-# Decreto Numerado nº 505, de 2023-07-03
-
 DECRETO “N” Nº 505 DE 03 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

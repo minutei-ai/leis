@@ -1,5 +1,3 @@
-# Medida Provisória nº 427 de 09/05/2008
-
 ###MPV-000427-0-000-09-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 427, DE 9 DE MAIO DE 2008.

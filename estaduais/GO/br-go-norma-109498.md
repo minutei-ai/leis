@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.006, de 2024-09-20
-
 LEI Nº 23.006, DE 20 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

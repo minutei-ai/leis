@@ -1,5 +1,3 @@
-# Decreto Numerado nº 142, de 2026-02-10
-
 DECRETO Nº 142, DE 10 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua Turmalina, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

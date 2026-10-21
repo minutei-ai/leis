@@ -1,5 +1,3 @@
-# Decreto Numerado nº 681, de 2023-11-01
-
 DECRETO “N” Nº 681 DE 01 DE NOVEMBRO DE 2023.
 
 Dispõe sobre remembramento de imóveis.

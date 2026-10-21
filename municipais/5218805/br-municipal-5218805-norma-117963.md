@@ -1,5 +1,3 @@
-# Lei Complementar nº 210, de 2021-05-06
-
 **LEI COMPLEMENTAR Nº 210, DE 06 DE MAIO DE 2021**
 
 Altera as Leis Complementares nº 6.167/2012 e 6.074/2011.

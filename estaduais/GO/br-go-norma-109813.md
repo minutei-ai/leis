@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.052, de 2024-11-04
-
 LEI Nº 23.052, DE 4 DE NOVEMBRO DE 2024
 
 Dispõe sobre a concessão de patrocínios na forma que especifica.

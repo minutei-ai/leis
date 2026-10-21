@@ -1,5 +1,3 @@
-# Decreto Numerado nº 277, de 2026-04-13
-
 DECRETO Nº 277, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento dos Lotes 09 e 10, todos da Quadra 40, situados à Avenida Chile, no Loteamento Jardim Belo Horizonte, no Município de Aparecida de Goiânia.

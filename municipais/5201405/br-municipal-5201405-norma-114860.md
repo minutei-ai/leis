@@ -1,5 +1,3 @@
-# Decreto Numerado nº 413, de 2026-05-25
-
 DECRETO Nº 413, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Avenida Edilberto Veiga Jardim, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

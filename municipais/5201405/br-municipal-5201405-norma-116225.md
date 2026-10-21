@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.578, de 2020-09-21
-
 LEI MUNICIPAL N° 3.578, DE 21 DE SETEMBRO DE 2020.
 
 “Dispõe sobre a denominação “PRAÇA CINCO ESTRELAS”, no Setor Santo André, neste município e dá outras providências.”

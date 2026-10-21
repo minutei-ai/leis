@@ -1,5 +1,3 @@
-# Lei Complementar nº 292, de 2023-03-30
-
 LEI COMPLEMENTAR Nº 292, DE 30 DE MARÇO DE 2023.
 
 Altera a Lei nº 6.111/2012, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores da Saúde.

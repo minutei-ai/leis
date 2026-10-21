@@ -1,5 +1,3 @@
-# LEI Nº 15.155 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.155 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação IC+ Amparar Mulher, com sede e foro em Salvador.

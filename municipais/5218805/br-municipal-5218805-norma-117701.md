@@ -1,5 +1,3 @@
-# Lei Complementar nº 423, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 423, DE 31 DE OUTUBRO DE 2025.
 
 Altera a Lei Complementar nº 5.703, de 1º de dezembro de 2009, que dispõe sobre os direitos e deveres, define penalidades e procedimento administrativo disciplinar aplicável aos Agentes de Trânsito de Rio Verde/GO.

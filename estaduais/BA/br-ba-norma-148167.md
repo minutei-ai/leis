@@ -1,5 +1,3 @@
-# LEI Nº 15.080 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.080 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Associação Grupo Bicho do Mato, com sede e foro no município de Ibicoara.

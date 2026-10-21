@@ -1,5 +1,3 @@
-# Decreto Numerado nº 362, de 2026-05-08
-
 DECRETO Nº 362, DE 8 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Avenida C-05, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

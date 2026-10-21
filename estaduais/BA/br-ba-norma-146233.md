@@ -1,5 +1,3 @@
-# LEI N° 14.866 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.866 DE 12 DE FEVEREIRO DE 2025
 
 Institui a Semana Estadual de Prevenção à Violência contra à Criança e ao Adolescente no Estado da Bahia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.816, de 2024-12-12
-
 LEI MUNICIPAL Nº 3.816, DE 12 DE DEZEMBRO DE 2024.
 
 Altera a Lei Municipal nº 3.573, de 09 de julho de 2020 que dispõe sobre a Transferência definitiva de áreas cedidas ou concedidas para empresas situadas nos Polos Empresariais/Industriais do Município de Aparecida de Goiânia.

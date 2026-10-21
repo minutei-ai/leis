@@ -1,5 +1,3 @@
-# Lei Complementar nº 121, de 2016-04-14
-
 LEI COMPLEMENTAR Nº 121, DE 14 DE ABRIL DE 2016.
 
 Dispõe sobre a regulamentação do Agente de Trânsito e Transportes no Município de Aparecida de Goiânia e dá outras providências.

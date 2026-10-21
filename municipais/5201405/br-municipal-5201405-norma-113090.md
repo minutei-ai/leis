@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.139, de 2025-09-02
-
 DECRETO Nº 2.139, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua Piratininga e Rua Augusta, no Loteamento Nova Olinda – 1º Complemento, no Município de Aparecida de Goiânia.

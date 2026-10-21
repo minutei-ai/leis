@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.524, de 2024-08-09
-
 DECRETO Nº 10.524, DE 9 DE AGOSTO DE 2024
 
 Institui o Fórum Goiano de Mudanças Climáticas e Desenvolvimento Sustentável e revoga o [Decreto estadual nº 8.652](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69068), de 19 de maio de 2016.

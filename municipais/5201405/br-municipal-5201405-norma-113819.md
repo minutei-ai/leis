@@ -1,5 +1,3 @@
-# Decreto Numerado nº 290, de 2026-04-15
-
 DECRETO Nº 290, DE 15 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Avenida Republica, no Loteamento Setor Garavelo, no Município de Aparecida de Goiânia.

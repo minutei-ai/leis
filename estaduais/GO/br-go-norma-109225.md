@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.874, de 2024-07-24
-
 LEI Nº 22.874, DE 24 DE JULHO DE 2024
 
 Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2025 e dá outras providências.

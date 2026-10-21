@@ -1,5 +1,3 @@
-# Decreto Numerado nº 321, de 2024-04-30
-
 DECRETO “N” Nº 321, DE 30 DE ABRIL DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL dos servidores da Secretaria Municipal de Educação de Aparecida de Goiânia.

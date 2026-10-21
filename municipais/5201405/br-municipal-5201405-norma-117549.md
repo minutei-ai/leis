@@ -1,5 +1,3 @@
-# Decreto Numerado nº 160, de 2024-03-20
-
 DECRETO “N” Nº 160 DE 20 DE MARÇO DE 2024.
 
 Altera o art. 1º Decreto nº 1.689, de 01 de novembro de 2012, que declarou de utilidade pública, para efeito de desapropriação as áreas destinadas ao Centro de Reservação Cidade Satélite São Luiz, que integra o Sistema de Abastecimento de Água de Aparecida de Goiânia-GO.

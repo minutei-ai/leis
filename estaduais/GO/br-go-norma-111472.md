@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.806, de 2025-10-31
-
 DECRETO Nº 10.806, DE 31 DE OUTUBRO DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais no dia 21 de novembro de 2025, em razão do feriado nacional do dia 20 de novembro (Dia Nacional de Zumbi e da Consciência Negra).

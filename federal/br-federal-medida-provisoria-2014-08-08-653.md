@@ -1,5 +1,3 @@
-# Medida Provisória nº 653 de 08/08/2014
-
 MEDIDA PROVISÓRIA Nº 653, DE 8 DE AGOSTO DE 2014
 
 Altera a Lei nº 13.021, de 8 de agosto de 2014, que dispõe sobre o exercício e a fiscalização das atividades farmacêuticas.

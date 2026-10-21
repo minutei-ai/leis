@@ -1,5 +1,3 @@
-# Decreto nº 70.125, de 24/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211888)<br>
 
 # DECRETO N° 70.125, DE 24 DE NOVEMBRO DE 2025

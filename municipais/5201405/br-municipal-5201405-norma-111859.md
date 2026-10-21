@@ -1,5 +1,3 @@
-# Lei Complementar nº 3, de 2001-12-28
-
 LEI COMPLEMENTAR Nº 003, DE 28 DE DEZEMBRO DE 2001.
 
 Dispõe sobre o Estatuto dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia.

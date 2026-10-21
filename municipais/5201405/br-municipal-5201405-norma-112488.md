@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.314, de 2025-05-08
-
 DECRETO Nº 1.314, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua C-9 no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

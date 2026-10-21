@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.497, de 2019-09-09
-
 LEI MUNICIPAL Nº 3.497, DE 09 DE SETEMBRO DE 2019
 
 “Dispõe sobre a denominação da Praça MIGUEL RODRIGUES DE ALMEIDA, na Cidade Livre, neste município e dá outras providências.”

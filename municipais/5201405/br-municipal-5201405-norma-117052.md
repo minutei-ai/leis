@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.158, de 2014-01-20
-
 LEI MUNIICPAL Nº 3.158, DE 20 DE JANEIRO DE 2014.
 
 Altera a Lei Municipal n° 2.873/2009, que dispõe sobre o reconhecimento de utilidade pública municipal.

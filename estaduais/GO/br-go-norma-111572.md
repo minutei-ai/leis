@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.827, de 2025-11-13
-
 LEI Nº 23.827, DE 13 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

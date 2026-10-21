@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.605, de 2021-04-19
-
 LEI MUNICIPAL Nº 3.605, DE 19 ABRIL DE 2021.
 
 Dispõe sobre a denominação da Cidade Administrativa localizada no Loteamento Solar Central Park, neste Município, e dá outras providências.

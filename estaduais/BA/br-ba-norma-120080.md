@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 01 DE 05 DE JULHO DE 1990
-
 EMENDA CONSTITUCIONAL Nº 01 DE 05 DE JULHO DE 1990
 
 Altera a redação do inciso VIII, Art. 161 da Constituição do Estado da Bahia.

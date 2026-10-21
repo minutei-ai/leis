@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.495, de 2024-03-25
-
 LEI Nº 7.495, DE 25 DE MARÇO DE 2024.
 
 Concede Licença Remunerada.

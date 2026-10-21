@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.853, de 2026-04-23
-
 LEI Nº 7.853, DE 23 DE ABRIL DE 2026.
 
 Dispõe sobre a obrigatoriedade de sinalização em braile nas botoeiras dos elevadores de passageiros e de cargas nos edifícios do Município de Rio Verde-Goiás, e dá outras providências.

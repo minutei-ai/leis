@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.607, de 2025-09-01
-
 LEI Nº 23.607, DE 1º DE SETEMBRO DE 2025
 
 Reconhece o javali (_Sus scrofa_) e seus híbridos como espécie exótica invasora no Estado de Goiás, também institui normas para o controle populacional e o manejo sustentável da espécie em todas as suas formas, linhagens, raças e diferentes graus de cruzamento, em âmbito estadual.

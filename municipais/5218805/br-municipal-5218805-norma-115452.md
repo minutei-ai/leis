@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.334, de 2023-03-30
-
 LEI Nº 7.334, DE 30 DE MARÇO DE 2023.
 
 Dispõe sobre a criação de ossário no Cemitério Municipal São Sebastião e Cemitério Municipal São Miguel.

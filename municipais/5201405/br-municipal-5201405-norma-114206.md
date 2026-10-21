@@ -1,5 +1,3 @@
-# Decreto Numerado nº 328, de 2026-05-04
-
 DECRETO Nº 328, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 24, 25 e 26, situados à Rua Rio Grande do Norte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

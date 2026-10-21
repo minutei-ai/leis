@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.982, de 2019-08-30
-
 **LEI N. 6.982, DE 30 DE AGOSTO DE 2019**
 
 Altera a Lei no. 6.815/2018 que autorizou a concessão de bolsas a médicos preceptores.

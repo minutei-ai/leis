@@ -1,5 +1,3 @@
-# Medida Provisória nº 780 de 19/05/2017
-
 MEDIDA PROVISÓRIA Nº 780, DE 19 DE MAIO DE 2017
 
 Institui o Programa de Regularização de Débitos não Tributários junto às autarquias e fundações públicas federais e à Procuradoria-Geral Federal e dá outras providências.

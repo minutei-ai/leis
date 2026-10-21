@@ -1,5 +1,3 @@
-# Decreto Numerado nº 198, de 2026-03-12
-
 DECRETO Nº 198, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 102, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

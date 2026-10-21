@@ -1,5 +1,3 @@
-# Decreto Numerado nº 881, de 2024-10-17
-
 DECRETO “N” Nº 881 DE 17 DE OUTUBRO DE 2024<br>
 (Revogado pelo Decreto "N" Nº 903, de 24 de outubro de 2024).
 

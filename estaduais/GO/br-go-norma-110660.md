@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.404, de 2025-05-06
-
 LEI Nº 23.404, DE 6 DE MAIO DE 2025
 
 Institui o Dia Estadual do Jornalista.

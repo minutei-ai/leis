@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.543, de 2020-03-13
-
 LEI MUNICIPAL Nº 3.543, DE 13 DE MARÇO DE 2020
 
 Dispõe sobre a denominação da UBS DIOLINO OLIVEIRA DA SILVA, no Setor Nova Olinda, neste Município e dá outras providências.

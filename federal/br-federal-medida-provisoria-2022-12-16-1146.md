@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.146 de 16/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.146, DE 16 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 5.809, de 10 de outubro de 1972, quanto ao fator de conversão da retribuição básica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.661, de 2007-05-16
-
 LEI MUNICIPAL Nº 2.661, DE 16 DE MAIO DE 2007
 
 Dá nova redação ao § 2.º, do art. 2.º, da Lei Municipal n.º 2.472/2004 (Cria o PARQUE INDUSTRIAL APARECIDA e o POLO MUNICIPAL DE RECICLAGEM).

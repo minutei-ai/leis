@@ -1,5 +1,3 @@
-# Lei Complementar nº 105, de 2015-10-08
-
 LEI COMPLEMENTAR Nº 105 DE 08 DE OUTUBRO DE 2015.
 
 [Revogada pela Lei Complementar nº 171, de 21 de novembro de 2019.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111916)

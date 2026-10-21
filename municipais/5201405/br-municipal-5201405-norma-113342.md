@@ -1,5 +1,3 @@
-# Lei Complementar nº 54, de 2012-06-15
-
 LEI COMPLEMENTAR Nº 54, DE 15 DE JUNHO DE 2012.<br>
 (Revogada pela Lei Complementar nº 125, de 11 de janeiro de 2017).
 

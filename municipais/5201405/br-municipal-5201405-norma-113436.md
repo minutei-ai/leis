@@ -1,5 +1,3 @@
-# Decreto Numerado nº 171, de 2026-03-02
-
 DECRETO Nº 171, DE 2 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

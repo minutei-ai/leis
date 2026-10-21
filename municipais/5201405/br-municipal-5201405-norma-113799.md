@@ -1,5 +1,3 @@
-# Decreto Numerado nº 282, de 2026-04-13
-
 DECRETO Nº 282, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Vicente de Paula Souza, no Loteamento Setor Serra Dourada – 3ª Etapa, no Município de Aparecida de Goiânia.

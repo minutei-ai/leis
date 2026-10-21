@@ -1,5 +1,3 @@
-# Decreto Numerado nº 248, de 2026-03-19
-
 DECRETO Nº 248, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social referente ao Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

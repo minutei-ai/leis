@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.969, de 2025-12-20
-
 LEI Nº 23.969, DE 20 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual do Historiador Goiano e dá outras providências.

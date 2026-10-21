@@ -1,5 +1,3 @@
-# Lei Complementar nº 86, de 2014-06-23
-
 LEI COMPLEMENTAR Nº 86, DE 23 DE JUNHO DE 2014.
 
 “Altera a Lei Municipal nº 2.691, de 05 de outubro de 2007, que dispõe sobre o adicional de produtividade dos servidores ocupantes do cargo de Agente de Trânsito e Transporte de Aparecida de Goiânia e dá outras providências.”

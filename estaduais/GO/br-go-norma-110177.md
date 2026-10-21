@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.156, de 2024-12-18
-
 LEI Nº 23.156, DE 18 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 21.164](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104503), de 19 de novembro de 2021, que dispõe sobre a comercialização e distribuição de produtos ópticos no varejo no âmbito do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.582, de 2020-09-21
-
 LEI MUNICIPAL N° 3.582, DE 21 DE SETEMBRO DE 2020.
 
 “Reconhece como Utilidade Pública Municipal a “Associação Projetando o Amanhã” e dá outras providências.”

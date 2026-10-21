@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.028 de 09/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.028, DE 9 DE FEVEREIRO DE 2021
 
 Estabelece normas para facilitação de acesso a crédito e mitigação dos impactos econômicos decorrentes da pandemia da covid-19.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 545, de 2026-10-19
-
 DECRETO Nº 545, DE 19 DE OUTUBRO DE 2026
 
 Dispõe sobre a aprovação do Loteamento Condomínio Vinhas Galícia, no âmbito do Município de Aparecida de Goiânia.

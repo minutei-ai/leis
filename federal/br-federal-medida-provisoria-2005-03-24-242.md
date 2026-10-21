@@ -1,5 +1,3 @@
-# Medida Provisória nº 242 de 24/03/2005
-
 ###MPV-000242-0-000-24-03-2005@@@
 
 MEDIDA PROVISÓRIA Nº 242, DE 24 DE MARÇO DE 2005

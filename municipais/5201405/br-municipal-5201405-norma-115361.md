@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.675, de 2022-06-28
-
 LEI MUNICIPAL Nº 3.675, DE 28 DE JUNHO DE 2022
 
 Dispõe sobre a concessão da Revisão Geral anual no vencimento dos Servidores públicos e Vereadores da Câmara Municipal de Aparecida de Goiânia – GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.271, de 2015-07-02
-
 LEI MUNICIPAL Nº 3.271, DE 02 DE JULHO DE 2015.
 
 Desafeta e doa o lote localizado no Parque Flamboyant, neste Município, e dá outras providências.

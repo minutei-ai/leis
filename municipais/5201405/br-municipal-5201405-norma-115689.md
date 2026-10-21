@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.080, de 2000-04-14
-
 LEI MUNICIPAL N.º 2.080-A, DE 14 DE ABRIL DE 2000.
 
 Cria o Programa Municipal de Incentivos Fiscais, para o Município de Aparecida de Goiânia e adota outras providências.

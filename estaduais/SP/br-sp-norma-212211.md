@@ -1,5 +1,3 @@
-# Decreto nº 70.372, de 05/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212211)<br>
 
 # DECRETO N° 70.372, DE 05 DE FEVEREIRO DE 2026

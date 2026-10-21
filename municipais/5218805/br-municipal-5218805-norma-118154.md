@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.496, de 1997-05-14
-
 LEI Nº 3.496, DE 14 DE MAIO DE 1997.
 
 Institui o Conselho Municipal de Educação do Município de Rio Verde - COMERV e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.860, de 2009-11-13
-
 LEI MUNICIPAL N.º 2.860, DE 13 DE NOVEMBRO DE 2009.
 
 Autoriza o Executivo Municipal a desenvolver ações para implementar o PROGRAMA DE SUBSÍDIO À HABITAÇÃO DE INTERESSE SOCIAL  - PSH, criado pela Medida Provisória nº 2.212, de 30/08/2001, regulamentada pelo Decreto nº 4.156 de 11/03/2002,  nas condições definidas pela Portaria Conjunta nº. 05, de 09 de dezembro de 2008, da Secretaria Nacional da Habitação.

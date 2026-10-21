@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.990, de 2011-09-20
-
 LEI Nº. 5.990, DE 20 DE SETEMBRO DE 2011
 
 Institui o Programa “Lar Solidário” e dá outras providências.

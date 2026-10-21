@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.935, de 2024-08-21
-
 LEI Nº 22.935, DE 21 DE AGOSTO DE 2024
 
 Dispõe sobre a convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal sem o cumprimento de condicionantes previstas na legislação tributária, bem como a extinção de crédito tributário conexo.

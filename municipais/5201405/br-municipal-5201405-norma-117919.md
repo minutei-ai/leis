@@ -1,5 +1,3 @@
-# Decreto Numerado nº 192, de 2023-03-24
-
 DECRETO “N” Nº 192 DE 24 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO CARDOSO CONTINUAÇÃO, neste município.

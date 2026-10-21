@@ -1,5 +1,3 @@
-# Medida Provisória nº 120 de 11/06/2003
-
 ###MPV-000120-0-000-11-06-2003@@@
 
 MEDIDA PROVISÓRIA Nº 120, DE 11 DE JUNHO 2003.

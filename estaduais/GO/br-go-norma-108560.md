@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.430, de 2024-03-27
-
 DECRETO Nº 10.430, DE 27 DE MARÇO DE 2024
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual no Município de Rio Verde/GO durante a semana de realização da Feira de Tecnologia em Agronegócio – Tecnoshow.

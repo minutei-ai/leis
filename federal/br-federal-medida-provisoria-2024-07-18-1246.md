@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.246 de 18/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.246, DE 18 DE JULHO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 230.891.005,00, para os fins que especifica.

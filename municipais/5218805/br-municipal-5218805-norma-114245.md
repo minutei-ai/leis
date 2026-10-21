@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.684, de 2017-04-17
-
 ~~LEI Nº 6.684, DE 17 DE ABRIL DE 2017.~~
 
 ~~Dispõe sobre a obrigatoriedade da empresa concessionária de serviço público de distribuição de energia elétrica e demais empresas ocupantes a se limitar à ocupação do espaço público dentro do que estabelece as normas técnicas aplicáveis e promover a regularização e a retirada dos fios inutilizados, em vias públicas de Rio Verde – Goiás e dá outras providências.~~

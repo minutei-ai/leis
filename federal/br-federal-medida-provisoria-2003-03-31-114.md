@@ -1,5 +1,3 @@
-# Medida Provisória nº 114 de 31/03/2003
-
 ###MPV-000114-0-000-31-03-2003@@@
 
 MEDIDA PROVISÓRIA Nº 114, DE 31 DE MARÇO 2003.

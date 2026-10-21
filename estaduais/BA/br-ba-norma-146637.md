@@ -1,5 +1,3 @@
-# LEI Nº 14.900 DE 16 DE MAIO DE 2025
-
 LEI Nº 14.900 DE 16 DE MAIO DE 2025
 
 Institui o "Dia S de valorização e reconhecimento do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendizagem Comercial (Senac)” no Calendário Oficial de Eventos do Estado da Bahia.

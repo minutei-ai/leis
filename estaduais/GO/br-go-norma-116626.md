@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.973, de 2026-08-11
-
 DECRETO Nº 10.973, DE 11 DE AGOSTO DE 2026
 
 Dispõe sobre o cumprimento do fator de desconto contratual que especifica no âmbito do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR durante o período de restrição de atividades imposto pela pandemia da covid-19.

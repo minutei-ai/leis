@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.385, de 2024-01-09
-
 DECRETO Nº 10.385, DE 9 DE JANEIRO DE 2024
 
 Institui, no exercício de 2024, a Gratificação de Estímulo à Efetiva Regência de Classe – GEERC e a Gratificação de Coordenação Pedagógica – GRATCP na Secretaria de Estado da Educação – SEDUC, , em conformidade com as Leis estaduais [nº 13.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81526), de 25 de setembro de 2001, e [nº 21.793](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106754), de 17 de fevereiro de 2023.

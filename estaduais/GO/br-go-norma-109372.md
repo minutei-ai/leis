@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.921, de 2024-08-13
-
 LEI Nº 22.921, DE 13 DE AGOSTO DE 2024
 
 Concede o título de cidadania que especifica.

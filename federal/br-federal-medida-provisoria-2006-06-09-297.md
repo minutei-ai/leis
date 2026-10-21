@@ -1,5 +1,3 @@
-# Medida Provisória nº 297 de 09/06/2006
-
 ###MPV-000297-0-000-09-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 297, DE 9 DE JUNHO DE 2006.

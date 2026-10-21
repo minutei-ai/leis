@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.217, de 2014-09-09
-
 LEI MUNICIPAL Nº 3.217, DE 09 DE SETEMBRO DE 2014.
 
 Dispõe sobre a disponibilização ao cidadão do cronograma físico-financeiro de todas as obras públicas executadas, no âmbito do Município de Aparecida de Goiânia e dá outras providências.

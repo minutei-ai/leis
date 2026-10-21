@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.380, de 2017-09-21
-
 LEI MUNICIPAL Nº 3.380, DE 21 DE SETEMBRO DE 2017
 
 Altera a Lei de Diretrizes Orçamentárias de 2017 – Lei nº 3.338/2016, viabilizando a instituir o Regime Especial de Trabalho dos Servidores Efetivos da Estratégia de Saúde da Família e do NASF – Núcleo de Apoio a Família – e regulamentar a gratificação de produtividade para os agentes comunitários de saúde.

@@ -1,5 +1,3 @@
-# Decreto nº 70.451, de 12/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212338)<br>
 
 # DECRETO N° 70.451, DE 12 DE MARÇO DE 2026

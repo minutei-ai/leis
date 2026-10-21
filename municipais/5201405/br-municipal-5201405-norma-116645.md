@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.440, de 2018-10-18
-
 LEI Nº 3.440, DE 18 DE OUTUBRO DE 2018
 
 Dispõe sobre o ensino de temas transversais de educação nas escolas da rede pública Municipal.

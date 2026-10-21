@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.318, de 2016-05-18
-
 LEI MUNICIPAL Nº 3.318, DE 18 DE MAIO DE 2016.
 
 “Institui o “Dia do Agente de Proteção do Juizado de Infância e Juventude de Aparecida de Goiânia – Goiás” e dá outras providências.”

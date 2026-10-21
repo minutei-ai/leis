@@ -1,5 +1,3 @@
-# Lei Complementar nº 294, de 2023-03-30
-
 LEI COMPLEMENTAR Nº 294, DE 30 DE MARÇO DE 2023.
 
 Altera a Lei Complementar nº 6.167/2012, que dispõe sobre o parcelamento do solo com fins urbanos em zona rural sob a forma de condomínio de lotes, e, ainda, as Tabelas I e II da Lei Complementar 5478/2008, que dispõem sobre o uso e ocupação do solo urbano - zoneamento da sede do Município.

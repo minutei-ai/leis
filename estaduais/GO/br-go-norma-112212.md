@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.036, de 2026-01-14
-
 LEI Nº 24.036, DE 14 DE JANEIRO DE 2026
 
 Disciplina o uso de som automotivo no âmbito do Estado de Goiás.

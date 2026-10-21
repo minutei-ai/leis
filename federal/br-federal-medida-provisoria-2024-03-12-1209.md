@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.209 de 12/03/2024
-
 MEDIDA PROVISÓRIA Nº 1.209, DE 12 DE MARÇO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública; do Meio Ambiente e Mudança do Clima; do Desenvolvimento Agrário e Agricultura Familiar; da Defesa; do Desenvolvimento e Assistência Social, Família e Combate à Fome; da Pesca e Aquicultura; dos Direitos Humanos e da Cidadania; e dos Povos Indígenas, no valor de R$ 1.062.231.956,00, para os fins que especifica.

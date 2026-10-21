@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.791, de 2024-06-17
-
 LEI Nº 22.791, DE 17 DE JUNHO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Sagrada Família, realizada no Município de Goiânia/GO.

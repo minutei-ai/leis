@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.412, de 2025-05-13
-
 LEI Nº 23.412, DE 13 DE MAIO DE 2025
 
 Institui o Dia Estadual de Conscientização da Síndrome de Angelman e dá outras providências.

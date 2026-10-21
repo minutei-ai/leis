@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.812, de 2025-11-10
-
 LEI Nº 23.812, DE 10 DE NOVEMBRO DE 2025
 
 Abre crédito especial à Polícia Civil.

@@ -1,5 +1,3 @@
-# LEI Nº 15.203 DE 14 DE AGOSTO DE 2026
-
 LEI Nº 15.203 DE 14 DE AGOSTO DE 2026
 
 Institui o Selo Distribuição Legal - "Quem se Importa, Ganha”, no âmbito do Estado da Bahia, destinado ao reconhecimento institucional de empresas do setor de distribuição e abastecimento que adotem práticas de legalidade empresarial, governança corporativa, responsabilidade social e sustentabilidade ambiental, e dá outras providências.

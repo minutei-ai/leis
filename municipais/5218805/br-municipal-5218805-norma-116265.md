@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.305, de 2022-12-06
-
 LEI N°. 7.305, DE 6 DE DEZEMBRO DE 2022
 
 Dispõe sobre princípios e diretrizes para a elaboração e implementação das políticas públicas para a primeira infância no Município de Rio Verde - GO e sobre o Plano Municipal para a Primeira Infância e dá outras providências.

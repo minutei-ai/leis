@@ -1,5 +1,3 @@
-# Lei nº 18.360, de 15/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212001)<br>
 
 # LEI N° 18.360, DE 15 DE DEZEMBRO DE 2025

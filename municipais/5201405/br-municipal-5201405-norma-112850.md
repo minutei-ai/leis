@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.749, de 2025-07-07
-
 DECRETO Nº 1.749, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Silva Braga no Loteamento Setor dos Bandeirantes, no Município de Aparecida de Goiânia.

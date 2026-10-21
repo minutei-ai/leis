@@ -1,5 +1,3 @@
-# Lei nº 18.190, de 01/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211391)<br>
 
 # LEI N° 18.190, DE 01 DE SETEMBRO DE 2025

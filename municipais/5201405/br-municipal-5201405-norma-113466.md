@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.697, de 2023-03-01
-
 LEI MUNICIPAL Nº 3.697 DE 01 DE MARÇO DE 2023.
 
 Reconhece como Utilidade Pública Municipal o Instituto Caravana Au Móvel-Icam e dá outras providências.

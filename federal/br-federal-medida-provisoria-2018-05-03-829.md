@@ -1,5 +1,3 @@
-# Medida Provisória nº 829 de 03/05/2018
-
 MEDIDA PROVISÓRIA Nº 829, DE 3 DE MAIO DE 2018
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Cultura, do Ministério do Desenvolvimento Social e do Ministério da Ciência, Tecnologia, Inovações e Comunicações.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.833, de 2025-12-10
-
 DECRETO Nº 10.833, DE 10 DE DEZEMBRO DE 2025
 
 Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2026.

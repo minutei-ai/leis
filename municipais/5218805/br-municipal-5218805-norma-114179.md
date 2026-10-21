@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.737, de 2025-11-12
-
 LEI Nº 7.737, DE 12 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal de Conscientização e Defesa dos Direitos das Pessoas com Nanismo – “João Henrique Cazanga Marquiori” no Município de Rio Verde e dá outras providências.

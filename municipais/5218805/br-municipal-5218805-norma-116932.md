@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.655, de 2016-12-22
-
 LEI Nº. 6.655, DE 22 DE DEZEMBRO DE 2016
 
 Dispõe sobre a criação do Conselho Municipal dos Direitos da Mulher e dá outras providências

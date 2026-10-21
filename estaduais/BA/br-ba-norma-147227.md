@@ -1,5 +1,3 @@
-# LEI Nº 14.934 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.934 DE 17 DE JUNHO DE 2025
 
 Institui a "Semana de Prevenção e Combate à Automutilação” nas escolas públicas de ensino fundamental no Estado da Bahia.

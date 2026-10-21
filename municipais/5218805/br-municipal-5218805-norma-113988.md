@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.804, de 2025-12-15
-
 LEI Nº 7.804, DE 15 DE DEZEMBRO DE 2025.
 
 Institui, no âmbito do Município de Rio Verde – GO, a Campanha “Junho Verde”, dedicada à conscientização e educação ambiental para a preservação dos recursos naturais, e dá outras providências.

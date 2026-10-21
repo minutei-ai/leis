@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.891, de 2024-08-05
-
 LEI Nº 22.891, DE 5 DE AGOSTO DE 2024
 
 Institui o Dia Estadual do Gerontólogo.

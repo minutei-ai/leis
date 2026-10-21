@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.939, de 2019-05-08
-
 LEI Nº 6.939, DE 08 DE MAIO DE 2019.
 
 Institui o Fundo Municipal de Desenvolvimento Econômico Sustentável e dá outras providências.

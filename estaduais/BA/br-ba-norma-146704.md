@@ -1,5 +1,3 @@
-# LEI Nº 14.916 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.916 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública a Casa do Caminho – Pronto Atendimento Espírita, com sede e foro no município de Salvador.

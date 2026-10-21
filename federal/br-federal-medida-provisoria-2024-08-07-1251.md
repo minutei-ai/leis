@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.251 de 07/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.251, DE 7 DE AGOSTO DE 2024
 
 Altera a [Lei nº 7.713, de 22 de dezembro de 1988](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1988-12-22;7713), para incluir entre os rendimentos isentos do imposto de renda os prêmios pagos a atletas ou paratletas olímpicos, nas hipóteses que especifica.

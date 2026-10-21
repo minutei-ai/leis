@@ -1,5 +1,3 @@
-# LEI Nº 15.031 DE 09 DE DEZEMBRO DE 2025
-
 LEI Nº 15.031 DE 09 DE DEZEMBRO DE 2025
 
 Dispõe sobre a outorga ao Município de Rio Real, o título de "Capital Estadual da Laranja”, no âmbito do Estado da Bahia, e dá outras providências.

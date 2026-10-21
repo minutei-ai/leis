@@ -1,5 +1,3 @@
-# Medida Provisória nº 862 de 04/12/2018
-
 MEDIDA PROVISÓRIA Nº 862, DE 4 DE DEZEMBRO DE 2018
 
 Altera a [Lei nº 13.089, de 12 de janeiro de 2015](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-01-12;13089), que institui o Estatuto da Metrópole.

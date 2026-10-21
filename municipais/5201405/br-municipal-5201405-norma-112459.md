@@ -1,5 +1,3 @@
-# Decreto Numerado nº 88, de 2026-01-26
-
 DECRETO Nº 088, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Brasil, no Loteamento Aeroporto Sul – 2ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.140, de 2021-05-06
-
 LEI N° 7.140, DE 06 DE MAIO DE 2021
 
 Altera a Lei n° 6.865/2018, que institui o Programa Municipal de Desenvolvimento Econômico por meio de incentivo à instalação de grandes empreendimentos no território do Município de Rio Verde-GO - PRODEN-RV.

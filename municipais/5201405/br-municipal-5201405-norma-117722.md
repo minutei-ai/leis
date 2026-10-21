@@ -1,5 +1,3 @@
-# Decreto Numerado nº 378, de 2023-06-12
-
 DECRETO “N” Nº 378 DE 12 DE JUNHO DE 2023.
 
 Declara de utilidade pública, para efeito de instituição de servidão de passagem e desapropriação, as áreas abaixo especificadas e outras providências.

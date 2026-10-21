@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.819, de 2010-08-27
-
 LEI COMPLEMENTAR Nº 5.819, DE 27 DE AGOSTO DE 2010.
 
 Altera a Lei  n. 3.633/98.

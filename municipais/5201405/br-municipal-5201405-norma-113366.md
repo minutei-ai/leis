@@ -1,5 +1,3 @@
-# Decreto Numerado nº 164, de 2026-02-26
-
 DECRETO Nº 164, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Antônio Olegário de Jesus, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

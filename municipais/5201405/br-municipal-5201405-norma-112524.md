@@ -1,5 +1,3 @@
-# Decreto Numerado nº 94, de 2026-01-27
-
 DECRETO Nº 094, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua 5 de Maio, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.866, de 2026-06-17
-
 LEI Nº 7.866, DE 17 DE JUNHO DE 2026.
 
 Dispõe sobre a criação do “Coral Municipal Amanda Campos”, vinculado à Secretaria Municipal de Cultura.

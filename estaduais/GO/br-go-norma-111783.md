@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.931, de 2025-12-11
-
 LEI Nº 23.931, DE 11 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

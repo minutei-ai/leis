@@ -1,5 +1,3 @@
-# Decreto Numerado nº 621, de 2023-09-28
-
 DECRETO “N” Nº 621 DE 28 DE SETEMBRO DE 2023.
 
 Dispõe sobre remembramento de imóveis.

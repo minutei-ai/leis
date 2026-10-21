@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.438, de 06/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212088)<br>
 
 # LEI COMPLEMENTAR N° 1.438, DE 06 DE JANEIRO DE 2026

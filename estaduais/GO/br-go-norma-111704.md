@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.914, de 2025-12-04
-
 LEI Nº 23.914, DE 4 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual do Movimento Legendários e dispõe sobre o reconhecimento do Movimento Legendários como patrimônio cultural imaterial goiano.

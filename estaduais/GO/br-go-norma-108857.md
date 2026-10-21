@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.705, de 2024-05-20
-
 LEI Nº 22.705, DE 20 DE MAIO DE 2024
 
 Altera a [Lei nº 21.995](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107210), de 6 de junho de 2023, que institui a Política Estadual “Mulher Qualificada e Valorizada para o Mercado de Trabalho”.

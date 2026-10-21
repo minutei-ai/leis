@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.391, de 2024-01-12
-
 DECRETO Nº 10.391, DE 12 DE JANEIRO DE 2024<br>
 \- [Vide Decreto nº 10.692, de 12-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110667/decreto-10692) - Altera a estrutura administrativa da CGE.
 

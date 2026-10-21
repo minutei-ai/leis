@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.524, de 2024-06-24
-
 LEI Nº 7.524, DE 24 DE JUNHO DE 2024.
 
 Altera a Lei nº 3.656, de 23 de abril de 1998, que autoriza a desafetação e doação de imóvel que menciona.

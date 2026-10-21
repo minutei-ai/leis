@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.150, de 2021-05-31
-
 LEI Nº 7.150, DE 31 DE MAIO DE 2021.
 
 Autoriza a desafetação, a alienação ou a dação em pagamento de área localizada no Jardim Presidente.

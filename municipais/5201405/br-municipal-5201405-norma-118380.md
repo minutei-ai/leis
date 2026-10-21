@@ -1,5 +1,3 @@
-# Decreto Numerado nº 622, de 2023-09-28
-
 DECRETO “N” Nº 622 DE 28 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

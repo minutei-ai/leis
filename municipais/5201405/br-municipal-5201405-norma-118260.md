@@ -1,5 +1,3 @@
-# Decreto Numerado nº 482, de 2023-07-24
-
 DECRETO “N” Nº 482 DE 24 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL, neste município.

@@ -1,5 +1,3 @@
-# LD Nº 73 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 73 DE 03 DE JUNHO DE 1983
 
 Reorganiza a Secretaria da Fazenda do Estado da Bahia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.272, de 2025-03-12
-
 LEI Nº 23.272, DE 11 DE MARÇO DE 2025
 
 Institui o Dia Estadual de Conscientização sobre a Enterocolite Necrosante.

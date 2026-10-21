@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.619, de 2021-08-25
-
 LEI MUNICIPAL Nº 3.619, DE 25 DE AGOSTO DE 2021.
 
 Dispõe sobre a denominação da UBS – Unidade Básica de Saúde Santa Luzia em Aparecida de Goiânia, em homenagem a Nilson de Paula Ribeiro, e dá outras providências.

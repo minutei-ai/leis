@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.309, de 2025-03-31
-
 LEI Nº 23.309, DE 31 DE MARÇO DE 2025
 
 Concede revisão geral anual da remuneração dos servidores do Ministério Público do Estado de Goiás.

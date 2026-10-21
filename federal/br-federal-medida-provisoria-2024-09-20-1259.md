@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.259 de 20/09/2024
-
 MEDIDA PROVISÓRIA Nº 1.259, DE 20 DE SETEMBRO DE 2024
 
 Dispõe sobre medidas excepcionais para concessão de colaboração financeira reembolsável e não reembolsável à União, aos Estados e ao Distrito Federal, para apoio a ações de prevenção e combate à ocorrência de queimadas irregulares e de incêndios florestais.

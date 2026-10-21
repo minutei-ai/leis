@@ -1,5 +1,3 @@
-# Lei Complementar nº 303, de 2023-06-28
-
 LEI COMPLEMENTAR Nº 303, DE 28 DE JUNHO DE 2023
 
 Altera a Lei Complementar nº 4.904/2005 e a [Lei Complementar nº 38](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117740)/2015 para criar e aumentar quantitativo de cargos que menciona.

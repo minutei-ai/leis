@@ -1,5 +1,3 @@
-# Decreto Numerado nº 877, de 2025-02-20
-
 DECRETO Nº 877, DE 20 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

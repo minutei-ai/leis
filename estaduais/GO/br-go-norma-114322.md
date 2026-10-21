@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.907, de 2026-05-07
-
 DECRETO Nº 10.907, DE 7 DE MAIO DE 2026
 
 Altera o [Decreto nº 6.883](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108708), de 12 de março de 2009, que regulamenta o Fundo de Proteção Social do Estado de Goiás – PROTEGE GOIÁS.

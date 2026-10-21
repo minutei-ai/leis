@@ -1,5 +1,3 @@
-# Lei Complementar nº 239, de 2025-05-14
-
 LEI COMPLEMENTAR Nº 239, DE 14 DE MAIO DE 2025
 
 Altera a [Lei Complementar nº 46](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111755 "Abrir Lei Complementar nº 46, de 2011 em nova aba"), de 21 de dezembro de 2011, que institui o Código Tributário do Município de Aparecida de Goiânia e dá outras providências.

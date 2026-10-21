@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.319, de 2016-05-19
-
 LEI MUNICIPAL Nº 3.319, DE 19 DE MAIO DE 2016.
 
 Reconhece de Utilidade Pública ao ROTARY CLUB DE APARECIDA.

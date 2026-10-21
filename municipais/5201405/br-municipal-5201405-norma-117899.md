@@ -1,5 +1,3 @@
-# Decreto Numerado nº 175, de 2023-03-16
-
 DECRETO “N” Nº 175 DE 16 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM ALTO PARAÍSO, neste município.

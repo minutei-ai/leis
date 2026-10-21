@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 26, de 2026-02-06
-
 Portaria Orçamentária nº 26/2026 - Economia
 
 O Presidente do **TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS**, no uso de suas atribuições legais, com fundamento no art. 9º, § 1º,da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 6 de janeiro de 2026.

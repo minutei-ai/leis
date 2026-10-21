@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.230, de 2021-12-27
-
 LEI Nº 7.230, DE 27 DE DEZEMBRO DE 2021
 
 “Denomina nome de ponte que especifica e dá outras providências.”

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.316, de 2025-04-02
-
 LEI Nº 23.316, DE 2 DE ABRIL DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Marcha para Jesus, realizada no Município de Goiânia/GO.

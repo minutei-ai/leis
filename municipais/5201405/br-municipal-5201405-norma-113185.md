@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.588, de 2025-11-06
-
 DECRETO Nº 2.588, DE 6 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua 8, no Loteamento Residencial Candido de Queiroz, no Município de Aparecida de Goiânia.

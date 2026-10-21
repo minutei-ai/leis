@@ -1,5 +1,3 @@
-# Medida Provisória nº 855 de 13/11/2018
-
 MEDIDA PROVISÓRIA Nº 855, DE 13 DE NOVEMBRO DE 2018
 
 Dispõe sobre o reconhecimento de direito a recursos associados às concessões de distribuição incluídas pelo [art. 8º da Lei nº 12.783, de 11 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-11;12783!art8), altera a [Lei nº 10.438, de 26 de abril de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-04-26;10438), e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.278, de 2022-06-27
-
 LEI N° 7.278, DE 27 DE JUNHO DE 2022
 
 Altera a Lei n°. 7.210/2021 que concede bilhetes para transporte coletivo.

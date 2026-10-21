@@ -1,5 +1,3 @@
-# Medida Provisória nº 6 de 23/10/2001
-
 ###MPV-000006-0-000-23-10-2001@@@
 
 MEDIDA PROVISÓRIA Nº 6, DE 23 DE OUTUBRO DE 2001

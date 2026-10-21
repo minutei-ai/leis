@@ -1,5 +1,3 @@
-# Decreto Numerado nº 111, de 2023-02-13
-
 DECRETO “N” Nº 111 DE 13 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM HELVÉCIA, neste município.

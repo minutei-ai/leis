@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.326, de 2025-09-29
-
 DECRETO Nº 2.326, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, da Quadra 10, situado à Rua 03, no Loteamento Setor Rio Vermelho, no Município de Aparecida de Goiânia.

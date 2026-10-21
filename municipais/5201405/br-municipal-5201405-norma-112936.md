@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.001, de 2025-08-18
-
 DECRETO Nº 2.001, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01, 02, 23 e 24, situados na Rua Maria de Oliveira Cardoso e Rua Onofre Pureza Lemes, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

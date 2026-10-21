@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.364 de 01/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.364, DE 1 DE JUNHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 49.200.000,00, para o fim que especifica.

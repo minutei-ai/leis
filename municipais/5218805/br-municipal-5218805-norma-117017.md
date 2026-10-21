@@ -1,5 +1,3 @@
-# Lei Complementar nº 375, de 2025-02-24
-
 LEI COMPLEMENTAR Nº 375, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

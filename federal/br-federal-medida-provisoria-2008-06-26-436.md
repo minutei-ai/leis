@@ -1,5 +1,3 @@
-# Medida Provisória nº 436 de 26/06/2008
-
 ###MPV-000436-0-000-26-06-2008@@@
 
 MEDIDA PROVISÓRIA Nº 436, DE 26 DE JUNHO DE 2008.

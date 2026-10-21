@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.493, de 2019-09-20
-
 LEI MUNICIPAL Nº 3.493, DE 20 DE AGOSTO DE 2019
 
 Autoriza o Poder Executivo doar bem móvel de propriedade do Município, considerado inservível para a Administração Pública.

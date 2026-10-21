@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.915, de 2026-05-21
-
 DECRETO Nº 10.915 DE 21 DE MAIO DE 2026
 
 Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.

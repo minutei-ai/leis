@@ -1,5 +1,3 @@
-# Lei Complementar nº 202, de 2022-10-14
-
 LEI COMPLEMENTAR Nº 202, DE 14 DE OUTUBRO DE 2022.
 
 Dispõe sobre a vedação de nomeação na Administração Pública Direta e Indireta de Aparecida de Goiânia de pessoas condenadas pela Lei Federal n. º 11.340 de 7 de agosto de 2006. 

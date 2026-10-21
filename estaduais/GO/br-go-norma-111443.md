@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.799, de 2025-10-20
-
 DECRETO Nº 10.799, DE 20 DE OUTUBRO DE 2025
 
 Altera o Apêndice II do Anexo VIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

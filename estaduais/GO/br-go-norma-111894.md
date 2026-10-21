@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.967, de 2025-12-20
-
 LEI Nº 23.967, DE 20 DE DEZEMBRO DE 2025
 
 Confere ao Município de Cumari/GO o título de “Capital Estadual da Pimenta”.

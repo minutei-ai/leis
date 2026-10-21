@@ -1,5 +1,3 @@
-# Lei Complementar nº 455, de 2026-04-23
-
 LEI COMPLEMENTAR Nº 455, DE 23 ABRIL DE 2026.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município.

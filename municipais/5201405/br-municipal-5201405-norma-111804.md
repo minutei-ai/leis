@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.860, de 2025-10-14
-
 LEI Nº 3.860, DE 14 DE OUTUBRO DE 2025
 
 Institui a Política Municipal de Corredores Verdes Urbanos no município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.595, de 2020-12-18
-
 LEI MUNICIPAL N° 3.595, DE 18 DE DEZEMBRO DE 2020.
 
 Altera a Lei Municipal nº 3.527, de 03 de Dezembro de 2019 que Dispõe sobre orçamento anual de 2020 e a Lei Municipal nº 3.592, de 20 de Novembro de 2020 que Dispõe sobre orçamento anual de 2021.

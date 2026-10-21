@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.240, de 2025-01-20
-
 LEI Nº 23.240, DE 20 DE JANEIRO DE 2025
 
 Altera a [Lei nº 21.202](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104692), de 16 de dezembro de 2021, que institui a Política Estadual de Divulgação da Lei Maria da Penha nas Escolas e a Semana Estadual Escolar de Combate à Violência contra a Mulher.

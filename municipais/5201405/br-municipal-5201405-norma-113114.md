@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.708, de 2025-12-02
-
 DECRETO Nº 2.708, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 09 e 10, todos da Quadra 06, situados à Rua Lauro Taveira e Rua Antônio de Pádua Afonso Borges, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

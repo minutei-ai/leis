@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.817, de 2025-11-28
-
 DECRETO Nº 10.817, DE 28 DE NOVEMBRO DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750 "Abrir Decreto Numerado nº 10218, de 2023 em nova aba"), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), também de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e o Regulamento da Secretaria de Estado da Economia – ECONOMIA, aprovado pelo [Decreto nº 10.516](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109252 "Abrir Decreto Numerado nº 10516, de 2024 em nova aba"), de 31 de julho de 2024.

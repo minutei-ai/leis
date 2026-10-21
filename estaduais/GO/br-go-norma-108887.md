@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.727, de 2024-05-29
-
 LEI Nº 22.727, DE 29 DE MAIO DE 2024
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

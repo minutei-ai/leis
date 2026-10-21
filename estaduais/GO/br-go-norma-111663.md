@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.905, de 2025-12-02
-
 LEI Nº 23.905, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre a prestação de assistência religiosa nas entidades hospitalares públicas e privadas e demais locais que especifica.

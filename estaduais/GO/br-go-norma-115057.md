@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.330, de 2026-06-01
-
 LEI Nº 24.330, DE 1º DE JUNHO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

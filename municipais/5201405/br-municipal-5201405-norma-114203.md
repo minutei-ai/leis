@@ -1,5 +1,3 @@
-# Decreto Numerado nº 325, de 2026-05-04
-
 DECRETO Nº 325, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua 2, no Loteamento Setor Conde dos Arcos, no Município de Aparecida de Goiânia.

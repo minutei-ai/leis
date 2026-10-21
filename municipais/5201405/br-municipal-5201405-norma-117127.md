@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.244, de 2014-12-23
-
 LEI MUNICIPAL N° 3.244, DE 23 DE DEZEMBRO DE 2014.
 
 Dispõe sobre a proibição do Fornecimento e Comercialização de Bebidas alcoólicas ou não, em Recipientes de Vidro, onde haja Eventos Públicos no Âmbito do Município de Aparecida de Goiânia – GO.

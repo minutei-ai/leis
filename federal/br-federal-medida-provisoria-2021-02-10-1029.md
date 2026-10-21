@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.029 de 10/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.029, DE 10 DE FEVEREIRO DE 2021
 
 Altera a Lei nº 13.475, de 28 de agosto de 2017, que dispõe sobre o exercício da profissão de tripulante de aeronave, denominado aeronauta.

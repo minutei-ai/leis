@@ -1,5 +1,3 @@
-# Medida Provisória nº 690 de 31/08/2015
-
 MEDIDA PROVISÓRIA Nº 690, DE 31 DE AGOSTO DE 2015
 
 Dispõe sobre a incidência do Imposto sobre Produtos Industrializados - IPI sobre as bebidas classificadas nas posições 22.04, 22.05, 22.06 e 22.08, exceto o código 2208.90.00 Ex 01, da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, altera a Lei nº 9.430, de 27 de dezembro de 1996, quanto à legislação do Imposto sobre a Renda de Pessoa Jurídica, e revoga os arts. 28 a 30 da Lei nº 11.196, de 21 de novembro de 2005, que dispõem sobre o Programa de Inclusão Digital.

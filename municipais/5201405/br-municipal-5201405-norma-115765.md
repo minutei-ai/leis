@@ -1,5 +1,3 @@
-# Decreto Numerado nº 502, de 2024-06-25
-
 DECRETO “N” Nº 502 DE 25 DE JUNHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

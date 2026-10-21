@@ -1,5 +1,3 @@
-# Medida Provisória nº 103 de 01/01/2003
-
 ###MPV-000103-0-000-01-01-2003@@@
 
 MEDIDA PROVISÓRIA N. 103 – DE 1° DE JANEIRO DE 2003

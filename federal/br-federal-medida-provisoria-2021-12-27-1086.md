@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.086 de 27/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.086, DE 27 DE DEZEMBRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Infraestrutura, no valor de R$200.000.000,00, para o fim que especifica.

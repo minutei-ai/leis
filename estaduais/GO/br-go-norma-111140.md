@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.754, de 2025-08-11
-
 DECRETO Nº 10.754, DE 11 DE AGOSTO DE 2025
 
 Fixa o valor da Unidade de Honorários Dativos – UHD, de que trata o inciso I do art. 4º da [Lei nº 9.785](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85643), de 7 de outubro de 1985, que regula a prestação, no Estado de Goiás, dos serviços de assistência judiciária e de defensoria dativa e dá outras providências, e revoga o [Decreto nº 8.654](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69066), de 20 de maio de 2016.

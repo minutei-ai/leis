@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.587, de 2025-11-06
-
 DECRETO Nº 2.587, DE 6 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua 68, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.391, de 2017-11-28
-
 LEI MUNICIPAL Nº 3.391, DE 28 DE NOVEMBRO 2017.
 
 DA ESTIMATIVA DA RECEITA Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2018 e dá outras previdências.

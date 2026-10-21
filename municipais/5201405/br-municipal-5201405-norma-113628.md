@@ -1,5 +1,3 @@
-# Decreto Numerado nº 244, de 2026-03-19
-
 DECRETO Nº 244, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Baviera, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

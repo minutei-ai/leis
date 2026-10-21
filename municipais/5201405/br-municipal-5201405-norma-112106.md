@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.447, de 2004-03-12
-
 LEI MUNICIPAL N.º 2.447, DE 12 DE MARÇO DE 2004.
 
 Cria cargo e altera dispositivos do Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia-Lei Municipal n.º 2.229/01.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.184 de 28/08/2023
-
 MEDIDA PROVISÓRIA Nº 1.184, DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre a tributação de aplicações em fundos de investimento no País.

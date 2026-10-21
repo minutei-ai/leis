@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.886, de 2025-12-30
-
 DECRETO Nº 2.886, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua Diadema, no Loteamento Jardim Himalaia, no Município de Aparecida de Goiânia.

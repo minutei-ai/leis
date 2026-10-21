@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.221, de 2021-11-30
-
 LEI Nº 7.221, DE 30 DE NOVEMBRO DE 2021
 
 Institui o Agosto Laranja - Mês da Pessoa com Deficiência, no Município de Rio Verde-GO e dá outras providências.

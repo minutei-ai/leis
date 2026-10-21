@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.570, de 2024-03-15
-
 LEI Nº 22.570, DE 15 DE MARÇO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival do Limão Taiti.

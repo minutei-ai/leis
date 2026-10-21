@@ -1,5 +1,3 @@
-# Decreto Numerado nº 208, de 2024-04-05
-
 DECRETO “N” Nº 208, DE 05 DE ABRIL DE 2024.
 
 Dispõe sobre a concessão da Progressão Vertical aos servidores da Secretaria Municipal de Educação de Aparecida de Goiânia.

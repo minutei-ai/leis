@@ -1,5 +1,3 @@
-# Decreto Numerado nº 42, de 2026-01-14
-
 DECRETO Nº 042, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Valence, no Loteamento Residencial Village Garavelo – 2ª Etapa, no Município de Aparecida de Goiânia.

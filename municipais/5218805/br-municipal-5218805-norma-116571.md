@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.240, de 2022-04-01
-
 LEI N° 7.240, DE 22 DE FEVEREIRO DE 2022
 
 Concede reposição geral anual da remuneração dos servidores e dos subsídios dos Vereadores da Câmara Municipal de Rio Verde e dá outras providências.

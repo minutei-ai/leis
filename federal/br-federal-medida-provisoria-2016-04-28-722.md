@@ -1,5 +1,3 @@
-# Medida Provisória nº 722 de 28/04/2016
-
 MEDIDA PROVISÓRIA Nº  722, DE 28 DE ABRIL DE 2016
 
 Abre crédito extraordinário, em favor da Presidência da República e do Ministério do Esporte, no valor de R$ 180.000.000,00, para os fins que especifica.

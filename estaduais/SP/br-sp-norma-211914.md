@@ -1,5 +1,3 @@
-# Decreto nº 70.136, de 01/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211914)<br>
 
 # DECRETO N° 70.136, DE 01 DE DEZEMBRO DE 2025

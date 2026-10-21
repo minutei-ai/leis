@@ -1,5 +1,3 @@
-# Decreto Numerado nº 25, de 2026-01-12
-
 DECRETO Nº 025, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 28, situado à Rua Frei João Batista Vogel, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 241, de 2022-04-01
-
 LEI COMPLEMENTAR Nº 241, DE 1º DE ABRIL DE 2022.
 
 <br>

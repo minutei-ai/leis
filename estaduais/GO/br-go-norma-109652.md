@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.028, de 2024-10-07
-
 LEI Nº 23.028, DE 7 DE OUTUBRO DE 2024
 
 Altera a [Lei nº 21.003](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103962), de 05 de maio de 2021, que cria o Programa Crédito Social e dá outras providências.

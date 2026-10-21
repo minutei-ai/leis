@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.345, de 2025-10-03
-
 DECRETO Nº 2.345, DE 3 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Montivideu, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

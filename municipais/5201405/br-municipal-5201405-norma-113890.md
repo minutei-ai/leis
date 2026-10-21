@@ -1,5 +1,3 @@
-# Decreto Numerado nº 231, de 2024-04-11
-
 DECRETO “N” Nº 231, DE 11 DE ABRIL DE 2024.
 
 Afeta como via pública, área, parte integrante da Fazenda Fazendinha, neste município.

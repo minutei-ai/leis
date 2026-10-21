@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.572, de 2024-12-02
-
 LEI Nº 7.572, DE 2 DE DEZEMBRO DE 2024.
 
 Denomina de “Hospital Municipal Universitário de Rio Verde” o novo Hospital Municipal Universitário.

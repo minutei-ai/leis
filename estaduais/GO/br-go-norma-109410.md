@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.945, de 2024-08-26
-
 LEI Nº 22.945, DE 26 DE AGOSTO DE 2024
 
 Confere ao Município de Jaraguá o título de Capital Goiana das Confecções.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.407, de 2014-04-15
-
 LEI N. 6.407, DE 15 DE ABRIL DE 2014.
 
 Define, normatiza e regulamenta os benefícios eventuais no âmbito do Município de Rio Verde.

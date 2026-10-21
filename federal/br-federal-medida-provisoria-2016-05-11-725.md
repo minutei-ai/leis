@@ -1,5 +1,3 @@
-# Medida Provisória nº 725 de 11/05/2016
-
 MEDIDA PROVISÓRIA Nº 725, DE 11 DE MAIO DE 2016
 
 Altera a [Lei nº. 11.076, de 30 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-30;11076), que dispõe sobre o Certificado de Depósito Agropecuário - CDA, o Warrant Agropecuário - WA, o Certificado de Direitos Creditórios do Agronegócio - CDCA, a Letra de Crédito do Agronegócio - LCA e o Certificado de Recebíveis do Agronegócio - CRA, e dá outras providências.

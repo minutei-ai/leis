@@ -1,5 +1,3 @@
-# Decreto Numerado nº 908, de 2024-10-30
-
 DECRETO “N” Nº 908, DE 30 DE OUTUBRO DE 2024.
 
 Altera o Decreto “N” nº 904 de 24 de outubro de 2004, que fixa prazo para o Recadastramento Imobiliário Voluntário, no exercício de 2024, conforme dispõe a Lei Complementar nº 228, de 09 de janeiro de 2024, e o Decreto “N” nº 858, de 14 de outubro de 2024, e dá outras providências.

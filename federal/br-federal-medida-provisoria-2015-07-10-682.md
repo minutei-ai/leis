@@ -1,5 +1,3 @@
-# Medida Provisória nº 682 de 10/07/2015
-
 MEDIDA PROVISÓRIA Nº 682, DE 10 DE JULHO DE 2015
 
 Altera a Lei nº 12.712, de 30 de agosto de 2012, para estabelecer que a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF ficará encarregada da gestão do Fundo de Estabilidade do Seguro Rural - FESR até a completa liquidação das obrigações deste Fundo.

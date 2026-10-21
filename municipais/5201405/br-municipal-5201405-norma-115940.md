@@ -1,5 +1,3 @@
-# Decreto Numerado nº 614, de 2024-07-30
-
 DECRETO “N” Nº 614 DE 30 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

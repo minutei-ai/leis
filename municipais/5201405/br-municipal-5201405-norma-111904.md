@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.836, de 2025-06-10
-
 LEI Nº 3.836, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre reconhecer como utilidade pública municipal a entidade o Instituto Ajax Esporte Educacional e Cultural de Goiás.

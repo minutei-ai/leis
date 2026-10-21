@@ -1,5 +1,3 @@
-# Constituição do Estado da Bahia de 05 de outubro de 1989
-
 CONSTITUIÇÃO DO ESTADO DA BAHIA DE 05 DE OUTUBRO DE 1989
 
 PREÂMBULO

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.579, de 2020-09-21
-
 LEI MUNICIPAL N° 3.579, DE 21 DE SETEMBRO DE 2020.
 
 “Dispõe sobre a denominação da Praça JOSE DOS PASSOS SOUZA, no Cidade Vera Cruz II, neste Município e dá outras providencias.”

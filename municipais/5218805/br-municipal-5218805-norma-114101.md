@@ -1,5 +1,3 @@
-# Lei Complementar nº 432, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 432, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei nº 6.335/2013, que dispõe sobre a Planta de Valores Genéricos dos Terrenos e Tabela de Preços de Construções, e dá outras providências.

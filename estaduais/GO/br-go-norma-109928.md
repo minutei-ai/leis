@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.578, de 2024-11-13
-
 DECRETO Nº 10.578, DE 13 DE NOVEMBRO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.525, de 2025-06-25
-
 LEI Nº 23.525, DE 25 DE JUNHO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

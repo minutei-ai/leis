@@ -1,5 +1,3 @@
-# Decreto Numerado nº 511, de 2026-06-25
-
 DECRETO Nº 511, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 22, situado à Rua C-10, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

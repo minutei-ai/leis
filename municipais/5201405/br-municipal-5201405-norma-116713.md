@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.180, de 2014-05-26
-
 LEI MUNICIPAL Nº 3.180, DE 26 DE MAIO DE 2014.
 
 Dispõe sobre as competências, a composição e o funcionamento do Conselho Municipal de Segurança Alimentar e Nutricional (COMSAN) de Aparecida de Goiânia, Estado de Goiás, no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional –SISAN.

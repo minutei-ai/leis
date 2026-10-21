@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.916, de 2024-08-08
-
 LEI Nº 22.916, DE 8 DE AGOSTO DE 2024
 
 Institui o Dia do Esporte nas escolas da rede pública estadual de ensino.

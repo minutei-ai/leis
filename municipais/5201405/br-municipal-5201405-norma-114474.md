@@ -1,5 +1,3 @@
-# Decreto Numerado nº 381, de 2026-05-14
-
 DECRETO Nº 381, DE 14 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 09, 10 e 11, situados à Rua Maria Luiza Póvoa da Cruz e Rua Prof. Alpheu da Veiga Jardim, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

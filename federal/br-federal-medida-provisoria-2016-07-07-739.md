@@ -1,5 +1,3 @@
-# Medida Provisória nº 739 de 07/07/2016
-
 MEDIDA PROVISÓRIA Nº 739, DE 7 DE JULHO DE 2016
 
 Altera a [Lei nº 8.213, de 24 de julho de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213), que dispõe sobre os Planos de Benefícios da Previdência Social, e institui o Bônus Especial de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade.

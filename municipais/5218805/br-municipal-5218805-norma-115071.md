@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.526, de 2024-06-24
-
 LEI Nº 7.526, DE 24 DE JUNHO DE 2024.
 
 Autoriza o Poder Executivo a afetar área pública, inserindo-a no Sistema Viário do Município.

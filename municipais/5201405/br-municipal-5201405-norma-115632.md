@@ -1,5 +1,3 @@
-# Decreto Numerado nº 491, de 2026-06-18
-
 DECRETO Nº 491, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua Maceió, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.676, de 2024-05-09
-
 LEI Nº 22.676, DE 9 DE MAIO DE 2024
 
 Institui a Política Estadual de Proteção à Saúde Bucal da Pessoa com Deficiência.

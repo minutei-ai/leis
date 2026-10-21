@@ -1,5 +1,3 @@
-# LEI Nº 14.899 DE 13 DE MAIO DE 2025
-
 LEI Nº 14.899 DE 13 DE MAIO DE 2025
 
 Autoriza o Poder Executivo a contratar operação de crédito interno com instituições financeiras nacionais, com garantia da União, na forma que indica, e dá outras providências.

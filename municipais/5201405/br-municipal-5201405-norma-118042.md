@@ -1,5 +1,3 @@
-# Decreto Numerado nº 254, de 2023-04-17
-
 DECRETO "N" Nº 254, DE 17 DE ABRIL DE 2023.
 
 Designa os membros que irão compor a Unidade de Gerenciamento do Programa Unidade de Implementação do Projeto- PIU do Programa de Infraestrutura de Aparecida 100 anos e dá outras providências.

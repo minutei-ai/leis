@@ -1,5 +1,3 @@
-# Medida Provisória nº 35 de 27/03/2002
-
 ###MPV-000035-0-000-27-03-2002@@@
 
 MEDIDA PROVISÓRIA Nº 35, DE 27 DE MARÇO DE 2002

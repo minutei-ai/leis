@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.565, de 2020-06-23
-
 LEI MUNICIPAL Nº 3.565, DE 23 DE JUNHO DE 2020.
 
 “Dispõe sobre a denominação da Praça GISLAYNE TIMÓTEO OLIVEIRA BASTOS, situada no Jardim Alto Paraíso, neste Município, e dá outras providências.”

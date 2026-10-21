@@ -1,5 +1,3 @@
-# LEI Nº 15.193 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.193 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública o Movimento de Inclusão e Qualificação da Pessoa com Deficiência (MIQUEI), com sede e foro em Barreiras.

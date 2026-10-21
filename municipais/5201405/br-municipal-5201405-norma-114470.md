@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.900, de 2026-05-14
-
 LEI Nº 3.900, DE 14 DE MAIO DE 2026.
 
 Concede revisão geral anual aos servidores da Administração Direta, das Autarquias e das Fundações Públicas do Município, aos servidores do Poder Legislativo, aos agentes políticos do Poder Executivo, aos Vereadores, aos inativos e pensionistas, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 922 de 28/02/2020
-
 MEDIDA PROVISÓRIA Nº 922, DE 28 DE FEVEREIRO DE 2020
 
 Altera a Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, a Lei nº 10.820, de 17 de dezembro de 2003, que dispõe sobre a autorização para desconto de prestações em folha de pagamento, a Lei nº 13.334, de 13 de setembro de 2016, que cria o Programa de Parcerias de Investimentos - PPI, e a Lei nº 13.844, de 18 de junho de 2019, que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios.

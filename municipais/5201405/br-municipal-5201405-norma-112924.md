@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.989, de 2025-08-18
-
 DECRETO Nº 1.989, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 01, situado à Avenida Crisólito, no Loteamento Parque Évora, no Município de Aparecida de Goiânia.

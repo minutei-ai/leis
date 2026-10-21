@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.230 de 07/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.230, DE 7 DE JUNHO DE 2024
 
 Institui Apoio Financeiro com o objetivo de enfrentar a calamidade pública e as suas consequências sociais e econômicas decorrentes de eventos climáticos no Estado do Rio Grande do Sul, destinado aos trabalhadores com vínculo formal de emprego.

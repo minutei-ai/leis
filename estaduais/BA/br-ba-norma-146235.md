@@ -1,5 +1,3 @@
-# LEI N° 14.868 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.868 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre campanha educativa, visando conscientizar as mulheres das vantagens advindas da prática de atividades físicas adequadas, durante o período de gestação, instituindo o “Projeto Grávidas Ativas” no Estado da Bahia, na forma que especifica.

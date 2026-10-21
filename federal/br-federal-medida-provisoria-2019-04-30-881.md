@@ -1,5 +1,3 @@
-# Medida Provisória nº 881 de 30/04/2019
-
 MEDIDA PROVISÓRIA Nº 881, DE 30 DE ABRIL DE 2019
 
 Institui a Declaração de Direitos de Liberdade Econômica, estabelece garantias de livre mercado, análise de impacto regulatório, e dá outras providências.

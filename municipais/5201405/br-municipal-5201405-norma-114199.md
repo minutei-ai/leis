@@ -1,5 +1,3 @@
-# Decreto Numerado nº 907, de 2024-10-30
-
 DECRETO “N” Nº 907, DE 30 DE OUTUBRO DE 2024.
 
 Dispõe sobre aprovação do parcelamento de solo na modalidade loteamento da Área Remanescente - Quadra 21-A - Centro - Perímetro Urbano, no Município de Aparecida de Goiânia, Estado de Goiás.

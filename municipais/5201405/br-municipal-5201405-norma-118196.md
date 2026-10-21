@@ -1,5 +1,3 @@
-# Decreto Numerado nº 415, de 2023-06-27
-
 DECRETO “N” Nº 415 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BOA ESPERANÇA, neste município.

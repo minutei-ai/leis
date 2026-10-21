@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.609, de 2024-12-18
-
 DECRETO Nº 10.609, DE 18 DE DEZEMBRO DE 2024
 
 Dispõe sobre a governança no compartilhamento de dados na administração pública estadual e institui o Comitê de Governança de Dados Estadual – CGDE.

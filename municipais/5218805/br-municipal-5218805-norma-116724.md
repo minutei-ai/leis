@@ -1,5 +1,3 @@
-# Lei Complementar nº 272, de 2022-12-16
-
 LEI COMPLEMENTAR Nº 272, DE 16 DE DEZEMBRO DE 2022.
 
 Altera a Lei Complementar n° 3.853/1999, Plano de Cargos e Vencimentos dos Servidores do Município de Rio Verde-GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.507, de 2019-10-10
-
 LEI MUNICIPAL Nº 3.507, DE 10 DE OUTUBRO DE 2019
 
 “Dispõe sobre a desafetação e autorização de alienação da Área Pública Municipal 15 – APM situada no Loteamento ALL PARK POLO EMPRESARIAL, neste Município.”

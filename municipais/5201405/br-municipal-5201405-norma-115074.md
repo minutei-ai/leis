@@ -1,5 +1,3 @@
-# Decreto Numerado nº 442, de 2026-06-01
-
 DECRETO Nº 442, DE 1º DE JUNHO DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais nos dias 4 e 5 de junho de 2026, em razão da celebração de Corpus Christi.

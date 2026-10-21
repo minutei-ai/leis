@@ -1,5 +1,3 @@
-# Decreto Numerado nº 185, de 2023-03-21
-
 DECRETO “N” Nº 185 DE 21 DE MARÇO DE 2023
 
 Dispõe sobre remembramento de imóvelis situados no Loteamento JARDIM HELVÉCIA, neste município.

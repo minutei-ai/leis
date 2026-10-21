@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.956, de 2025-12-20
-
 LEI Nº 23.956, DE 20 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 23.428](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110692 "Abrir Lei Ordinária nº 23428, de 2025 em nova aba"), de 19 de maio de 2025, para autorizar o Poder Executivo a ceder à União os recebíveis oriundos da compensação financeira relativa ao fluxo de recursos do Fundo Nacional de Desenvolvimento Regional – FNDR.

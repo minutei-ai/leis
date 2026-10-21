@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.195 de 13/11/2023
-
 MEDIDA PROVISÓRIA Nº 1.195, DE 13 DE NOVEMBRO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério da Previdência Social, no valor de R$ 300.000.000,00, para o fim que especifica.

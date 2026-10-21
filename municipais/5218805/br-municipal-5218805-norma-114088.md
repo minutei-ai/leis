@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.754, de 2025-11-17
-
 LEI Nº 7.754, DE 17 DE NOVEMBRO DE 2025.
 
 Institui o Dia Municipal do Atleta no Município de Rio Verde – GO, e dá outras providências.

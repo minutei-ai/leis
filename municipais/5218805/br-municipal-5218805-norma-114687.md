@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.331, de 2023-02-17
-
 LEI Nº 7.331, DE 17 DE FEVEREIRO DE 2023.
 
 Autoriza a “FESURV – Universidade de Rio Verde a celebrar convênio com o Município de Rio Verde.

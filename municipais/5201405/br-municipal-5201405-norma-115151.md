@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.756, de 2023-11-28
-
 LEI MUNICIPAL Nº 3.756, DE 28 DE NOVEMBRO DE 2023.
 
 Institui ao calendário Municipal de Aparecida de Goiânia, o dia do Clube dos Desbravadores da igreja Adventista do Sétimo Dia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 187, de 2024-03-24
-
 DECRETO “N” Nº 187 DE 26 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

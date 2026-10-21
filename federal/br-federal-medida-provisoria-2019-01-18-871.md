@@ -1,5 +1,3 @@
-# Medida Provisória nº 871 de 18/01/2019
-
 MEDIDA PROVISÓRIA Nº 871, DE 18 DE JANEIRO DE 2019
 
 Institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.281 de 23/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.281, DE 23 DE DEZEMBRO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia, do Meio Ambiente e Mudança do Clima, e de Portos e Aeroportos, no valor de R$ 233.200.194,00, para os fins que especifica.

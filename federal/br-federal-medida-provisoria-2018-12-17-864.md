@@ -1,5 +1,3 @@
-# Medida Provisória nº 864 de 17/12/2018
-
 MEDIDA PROVISÓRIA Nº 864, DE 17 DE DEZEMBRO DE 2018
 
 Dispõe sobre a transferência de recursos financeiros pela União ao Estado de Roraima para auxiliar nas ações relativas à intervenção federal, com o objetivo de pôr termo a grave comprometimento da ordem pública.

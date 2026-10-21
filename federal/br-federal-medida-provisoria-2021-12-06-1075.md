@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.075 de 06/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.075, DE 6 DE DEZEMBRO DE 2021
 
 Altera a Lei nº 11.096, de 13 de janeiro de 2005, e a Lei nº 11.128, de 28 de junho de 2005, para dispor sobre o Programa Universidade para Todos.

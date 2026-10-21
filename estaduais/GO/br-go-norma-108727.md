@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.640, de 2024-04-29
-
 LEI Nº 22.640, DE 29 DE ABRIL DE 2024
 
 Dispõe sobre medida de alerta e prevenção dos riscos decorrentes da queima do carvão vegetal.

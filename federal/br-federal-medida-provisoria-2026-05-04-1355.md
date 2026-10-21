@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.355 de 04/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.355, DE 4 DE MAIO DE 2026
 
 Institui o Programa Extraordinário de Reequilíbrio Financeiro das Famílias - Novo Desenrola Brasil, dispõe sobre a transferência de recursos ao Fundo de Garantia de Operações, e altera a [Lei nº 12.087, de 11 de novembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-11-11;12087), a [Lei nº 14.467, de 16 de novembro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-11-16;14467), a [Lei nº 14.509, de 27 de dezembro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-12-27;14509), a [Lei nº 13.999, de 18 de maio de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-05-18;13999), a [Lei nº 10.260, de 12 de julho de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-07-12;10260), a [Lei nº 8.213, de 24 de julho de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213), e a [Lei nº 10.820, de 17 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-17;10820).

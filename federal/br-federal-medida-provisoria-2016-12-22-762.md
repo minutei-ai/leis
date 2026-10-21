@@ -1,5 +1,3 @@
-# Medida Provisória nº 762 de 22/12/2016
-
 MEDIDA PROVISÓRIA N° 762, DE 22 DE DEZEMBRO DE 2016
 
 Altera a Lei nº 11.482, de 31 de maio de 2007, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante - AFRMM previsto no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997.

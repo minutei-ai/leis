@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.085 de 27/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.085, DE 27 de dezembro de 2021
 
 Dispõe sobre o Sistema Eletrônico dos Registros Públicos - SERP, de que trata o art. 37 da Lei nº 11.977, de 7 de julho de 2009, e altera a Lei nº 4.591, de 16 de dezembro de 1964, a Lei nº 6.015, de 31 de dezembro de 1973, a Lei nº 6.766, de 19 de dezembro de 1979, a Lei nº 8.935, de 18 de novembro de 1994, a Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, a Lei nº 11.977, de 2009, a Lei nº 13.097, de 19 de janeiro de 2015, e a Lei nº 13.465, de 11 de julho de 2017.

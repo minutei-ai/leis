@@ -1,5 +1,3 @@
-# Medida Provisória nº 695 de 02/10/2015
-
 MEDIDA PROVISÓRIA Nº  695, DE 2 DE OUTUBRO DE 2015
 
 Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a adquirirem participação nos termos e condições previstos no art. 2º da Lei nº  11.908, de 3 de março de 2009, e dá outras providências.

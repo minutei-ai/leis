@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.162, de 2026-03-24
-
 LEI Nº 24.162, DE 24 DE MARÇO DE 2026
 
 Dá denominação ao próprio público que especifica. 

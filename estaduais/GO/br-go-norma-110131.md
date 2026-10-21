@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.599, de 2024-12-11
-
 DECRETO Nº 10.599, DE 11 DE DEZEMBRO DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica.

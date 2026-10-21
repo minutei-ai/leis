@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.504, de 2008-11-07
-
 LEI COMPLEMENTAR Nº 5.504, DE 07 DE NOVEMBRO DE 2008.
 
 Altera o inciso XII do art. 6º da Lei Complementar n. 3.633 e revoga Lei Complementar n. 5.483/2008.

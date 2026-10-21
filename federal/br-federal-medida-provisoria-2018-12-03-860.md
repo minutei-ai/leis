@@ -1,5 +1,3 @@
-# Medida Provisória nº 860 de 03/12/2018
-
 MEDIDA PROVISÓRIA Nº 860, DE 3 DE DEZEMBRO DE 2018
 
 Autoriza a doação de recursos financeiros para o Alto Comissariado das Nações Unidas para Refugiados e para a Organização Internacional para as Migrações para fins de acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária.

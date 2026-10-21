@@ -1,5 +1,3 @@
-# Lei Complementar nº 34, de 2011-05-02
-
 LEI COMPLEMENTAR Nº 034, DE 02 DE MAIO DE 2011.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.540, de 2024-02-01
-
 LEI Nº 22.540, DE 1º DE FEVEREIRO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Padroeira de Nossa Senhora Imaculada Conceição, realizada no Município de Novo Gama.

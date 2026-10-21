@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.809, de 2025-12-11
-
 DECRETO Nº 2.809, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 03 e 04, Todos da Quadra 185, situados à Avenida Princesa Izabel, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

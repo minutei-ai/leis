@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.613, de 2024-04-11
-
 LEI Nº 22.613, DE 11 DE ABRIL DE 2024
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jataí/GO.

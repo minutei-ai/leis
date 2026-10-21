@@ -1,5 +1,3 @@
-# Lei Complementar nº 452, de 2026-03-23
-
 LEI COMPLEMENTAR Nº 452, DE 23 DE MARÇO DE 2026.
 
 Altera a Lei Complementar nº 182, de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

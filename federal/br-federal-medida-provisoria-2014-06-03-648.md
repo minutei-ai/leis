@@ -1,5 +1,3 @@
-# Medida Provisória nº 648 de 03/06/2014
-
 MEDIDA PROVISÓRIA Nº 648, DE 3 DE JUNHO DE 2014
 
 Altera a Lei nº 4.117, de 27 de agosto de 1962, e dispõe sobre a flexibilização do horário de transmissão do programa oficial de informações dos Poderes da República, durante a Copa do Mundo FIFA 2014.

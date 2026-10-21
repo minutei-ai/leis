@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.885, de 2025-12-30
-
 DECRETO Nº 2.885, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Monte Libano, no Loteamento Jardim Maranata, no Município de Aparecida de Goiânia.

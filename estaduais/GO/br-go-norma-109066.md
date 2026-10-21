@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.488, de 2024-07-02
-
 DECRETO Nº 10.488, DE 2 DE JULHO DE 2024
 
 Abre créditos adicionais especiais à Polícia Militar do Estado de Goiás.

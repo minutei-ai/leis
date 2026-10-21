@@ -1,5 +1,3 @@
-# Decreto nº 70.492, de 26/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212414)<br>
 
 # DECRETO N° 70.492, DE 26 DE MARÇO DE 2026

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.166, de 2014-03-13
-
 LEI MUNICIPAL Nº 3.166, DE 13 DE MARÇO DE 2014.
 
 Autoriza o Poder Executivo a ceder na forma de Concessão de Uso, área pública municipal localizada no Loteamento Bairro Independência - 1° Complemento – Setor das Mansões, neste município, ao Grupo Espírita Francisco de Assis.

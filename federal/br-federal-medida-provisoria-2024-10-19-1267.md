@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.267 de 19/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.267, DE 19 DE OUTUBRO DE 2024
 
 Dispõe sobre operações do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte - Pronampe com beneficiários que tiveram prejuízos causados pela interrupção do fornecimento de energia elétrica na Região Metropolitana de São Paulo, Estado de São Paulo, no mês de outubro de 2024.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.080 de 16/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.080, DE 16 DE DEZEMBRO DE 2021
 
 Altera a Lei Complementar nº 89, de 18 de fevereiro de 1997, que institui o Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal - FUNAPOL, e dá outras providências.

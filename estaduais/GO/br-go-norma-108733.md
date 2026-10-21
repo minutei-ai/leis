@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.646, de 2024-04-29
-
 LEI Nº 22.646, DE 29 DE ABRIL DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Terezópolis de Goiás/GO.

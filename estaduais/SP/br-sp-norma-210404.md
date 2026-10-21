@@ -1,5 +1,3 @@
-# Decreto nº 69.179, de 18/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210404)<br>
 
 # DECRETO N° 69.179, DE 18 DE DEZEMBRO DE 2024

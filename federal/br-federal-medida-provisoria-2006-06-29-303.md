@@ -1,5 +1,3 @@
-# Medida Provisória nº 303 de 29/06/2006
-
 ###MPV-000303-0-000-29-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 303, DE 29 DE JUNHO DE 2006.

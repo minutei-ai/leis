@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.514, de 2024-05-24
-
 LEI Nº 7.514, DE 24 DE MAIO DE 2024.
 
 Institui a Semana Cultural Judaica no Calendário Oficial do Município de Rio Verde.

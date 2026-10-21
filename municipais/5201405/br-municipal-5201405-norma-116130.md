@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.631, de 2021-10-21
-
 LEI MUNICIPAL Nº 3.631, DE 21 DE OUTUBRO DE 2021.
 
 “Altera a Lei nº 2.861/2009, que institui normas para as eleições de gestores na unidades de ensino vinculadas ao sistema educativo do município de Aparecida de Goiânia.”

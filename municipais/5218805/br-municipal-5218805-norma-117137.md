@@ -1,5 +1,3 @@
-# Lei Complementar nº 211, de 2021-05-31
-
 LEI COMPLEMENTAR Nº 211, DE 31 DE MAIO DE 2021
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 6 de maio de 2020.

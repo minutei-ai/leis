@@ -1,5 +1,3 @@
-# Lei Complementar nº 96, de 2014-11-22
-
 LEI COMPLEMENTAR Nº, 096 DE 22 DE NOVEMBRO DE 2014.
 
 Acrescenta os Parágrafos 5º, 6º e 7º ao artigo 372 da Lei n° 792/88 (Código de Posturas) e dá outras providências.

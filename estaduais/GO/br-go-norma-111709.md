@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.919, de 2025-12-04
-
 LEI Nº 23.919, DE 4 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual “Parques de Goiás”, para promover a proteção ambiental, o turismo sustentável e a visibilidade dos parques estaduais de Goiás.

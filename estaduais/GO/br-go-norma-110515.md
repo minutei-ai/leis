@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.289, de 2025-03-24
-
 LEI Nº 23.289, DE 24 DE MARÇO DE 2025
 
 Altera a [Lei nº 19.092](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/97084), de 06 de novembro de 2015, que autoriza a alienação, mediante doação onerosa, do imóvel que especifica, de propriedade do Estado de Goiás, e dá outras providências.

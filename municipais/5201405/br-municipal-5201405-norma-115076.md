@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.705, de 2023-04-11
-
 LEI MUNICIPAL Nº 3.705, DE 11 DE ABRIL DE 2023.
 
 Altera a Lei Municipal nº 3.702, de 23 de março de 2023, que Institui nova política de incentivo aos atletas e paratletas praticantes de desportos de rendimento nas modalidades do Programa “Aparecida Compete”, e dá outras providências. 

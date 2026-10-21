@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.731, de 2024-06-04
-
 LEI Nº 22.731, DE 4 DE JUNHO DE 2024
 
 Institui o Dia Estadual do Romeiro do Divino Pai Eterno e dá outras providências.

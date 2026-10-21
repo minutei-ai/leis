@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.934, de 2024-08-21
-
 LEI Nº 22.934, DE 21 DE AGOSTO DE 2024<br>
 \- [Revogada pela Lei nº 24.159, de 18-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113605), art. 7°.
 

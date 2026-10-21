@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.291 de 06/03/2025
-
 MEDIDA PROVISÓRIA Nº 1.291, DE 6 DE MARÇO DE 2025
 
 Altera a [Lei nº 12.351, de 22 de dezembro de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-12-22;12351), para aperfeiçoar os mecanismos disponíveis ao Fundo Social para enfrentar os desafios socioeconômicos do País.

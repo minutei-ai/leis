@@ -1,5 +1,3 @@
-# LD Nº 64 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 64 DE 01 DE JUNHO DE 1983
 
 Dispõe sobre o Quadro de Pessoal do Conselho de Contas dos Municípios e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 474, de 2026-06-15
-
 DECRETO Nº 474, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Dão Barbosa, no Loteamento Jardim Ipiranga, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.189, de 2021-11-03
-
 LEI Nº 7.189, DE 03 DE NOVEMBRO DE 2021.
 
 Dispõe sobre transação e parcelamento de débitos decorrentes de tributos, multas tributárias e não tributárias do Município de Rio Verde, a fim de atender o Programa de Recuperação de Créditos Fiscal doravante denominado de REFIS, e dá outras providências.

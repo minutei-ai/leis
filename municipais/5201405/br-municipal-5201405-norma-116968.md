@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.258, de 2015-03-16
-
 LEI MUNICIPAL Nº 3.258, DE 16 DE MARÇO DE 2015.
 
 Dá nome à Praça situada no loteamento Jardim Cascata, neste município.

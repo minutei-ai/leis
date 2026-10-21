@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.307 de 18/07/2025
-
 MEDIDA PROVISÓRIA Nº 1.307, DE 18 DE JULHO DE 2025
 
 Altera a [Lei nº 11.508, de 20 de julho de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-07-20;11508), e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.381, de 2025-10-07
-
 DECRETO Nº 2.381, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 8, da Quadra 59, situado à Rua Constante Ramos, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

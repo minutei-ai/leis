@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.384, de 2024-01-09
-
 DECRETO Nº 10.384 , DE 9 DE JANEIRO DE 2024
 
 Institui o Comitê Estratégico Interinstitucional para Transformação do Nordeste Goiano – CEITNG para criar e implementar projetos de inovação e desenvolvimento sustentável para a Região do Nordeste Goiano.

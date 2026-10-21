@@ -1,5 +1,3 @@
-# Decreto Numerado nº 662, de 2023-10-18
-
 DECRETO “N” Nº 662 DE 18 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

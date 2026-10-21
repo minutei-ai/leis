@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.326, de 2023-02-17
-
 LEI N° 7.326, DE 17 DE FEVEREIRO DE 2023
 
 Concede reposição geral anual dos vencimentos dos servidores e dos subsídios dos vereadores da Câmara Municipal de Rio Verde - Goiás e dá outras providências.

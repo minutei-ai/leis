@@ -1,5 +1,3 @@
-# Decreto Numerado nº 73, de 2023-02-01
-
 DECRETO “N” Nº 73 DE 01 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL ALVALUZ, neste município.

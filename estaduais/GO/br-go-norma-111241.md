@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.654, de 2025-09-09
-
 LEI Nº 23.654, DE 9 DE SETEMBRO DE 2025
 
 Institui a Política de Conscientização sobre a Depressão na Pessoa Idosa no âmbito do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.707, de 2025-06-13
-
 DECRETO Nº 10.707, DE 13 DE JUNHO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

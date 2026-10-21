@@ -1,5 +1,3 @@
-# Decreto Numerado nº 688, de 2023-11-06
-
 DECRETO “N” Nº 688 06 DE NOVEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

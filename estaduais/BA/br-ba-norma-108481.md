@@ -1,5 +1,3 @@
-# LD Nº 17 DE 06 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 17 DE 06 DE ABRIL DE 1981
 
 Cria o cargo de Superintendente do Centro de Administração Agrícola da Bahia, a ser implantado na área do Parque de Exposições Agropecuárias do Estado, e dá outras providências.

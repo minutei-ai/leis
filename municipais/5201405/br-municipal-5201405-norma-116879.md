@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.321, de 2016-06-07
-
 LEI MUNICIPAL Nº 3.321 de 07 de junho de 2016.
 
 Dispõe sobre a presença de doulas nas maternidades, casas de partos e estabelecimentos hospitalares congêneres, na rede pública e privada do Município de Aparecida de Goiânia.

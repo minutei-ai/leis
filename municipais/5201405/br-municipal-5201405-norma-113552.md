@@ -1,5 +1,3 @@
-# Decreto Numerado nº 201, de 2026-03-12
-
 DECRETO Nº 201, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua R-21, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

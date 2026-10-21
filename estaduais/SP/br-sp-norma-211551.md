@@ -1,5 +1,3 @@
-# Decreto nº 69.896, de 22/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211551)<br>
 
 # DECRETO N° 69.896, DE 22 DE SETEMBRO DE 2025

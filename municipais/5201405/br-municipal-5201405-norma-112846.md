@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.700, de 2025-06-30
-
 DECRETO Nº 1.700, DE 30 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua 67 no Loteamento Bairro Independência 3º Complemento, no Município de Aparecida de Goiânia.

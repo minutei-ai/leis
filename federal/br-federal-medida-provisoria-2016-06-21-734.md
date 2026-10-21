@@ -1,5 +1,3 @@
-# Medida Provisória nº 734 de 21/06/2016
-
 MEDIDA PROVISÓRIA Nº  734, DE 21 DE JUNHO DE 2016
 
 Dispõe sobre a prestação de apoio financeiro pela União ao Estado do Rio de Janeiro para auxiliar nas despesas com Segurança Pública do Estado do Rio de Janeiro decorrentes dos Jogos Olímpicos e Paraolímpicos - Rio 2016.

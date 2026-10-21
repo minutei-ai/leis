@@ -1,5 +1,3 @@
-# LEI Nº 15.129 DE 25 DE MARÇO DE 2026
-
 LEI Nº 15.129 DE 25 DE MARÇO DE 2026
 
 Reajusta os vencimentos e vantagens dos cargos efetivos e dos cargos em comissão, no âmbito do Poder Judiciário do Estado da Bahia, na forma que indica, e dá outras providências.

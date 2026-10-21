@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.982, de 2011-09-12
-
 LEI MUNICIPAL Nº 2.982, DE 12 DE SETEMBRO DE 2011.<br>
 (Revogada Pela Lei Ordinária nº 3.576, de 18 de setembro de 2020).
 

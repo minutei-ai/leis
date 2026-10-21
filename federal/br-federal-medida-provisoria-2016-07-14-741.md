@@ -1,5 +1,3 @@
-# Medida Provisória nº 741 de 14/07/2016
-
 MEDIDA PROVISÓRIA Nº 741, DE 14 DE JULHO DE 2016
 
 Altera a [Lei nº 10.260, de 12 de julho de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-07-12;10260), que dispõe sobre o Fundo de Financiamento ao estudante do Ensino Superior.

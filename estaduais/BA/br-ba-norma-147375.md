@@ -1,5 +1,3 @@
-# LEI Nº 14.946 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.946 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública o Instituto Social Amor e Vida, com sede e foro no município de Salvador.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.667, de 2022-05-16
-
 LEI MUNICIPAL Nº 3.667, DE 16 DE MAIO DE 2022.
 
 Altera a Lei Municipal nº 3.366 de 26 de junho de 2017, que dispõe sobre o acesso à informação previsto no inciso XXXIII artigo 5º, no inciso II do §3 do artigo 37 e no §2º do artigo 216 da Constituição Federal e na Lei nº 12.527/2011 sobre a instituição do Conselho Municipal da Transparência, Controle Social e Prevenção à Corrupção e sobre regulamentação Municipal da Lei nº 12.846/2013. 

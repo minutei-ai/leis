@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.257 de 16/09/2024
-
 MEDIDA PROVISÓRIA Nº 1.257, DE 16 DE SETEMBRO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Previdência Social, da Saúde e do Desenvolvimento e Assistência Social, Família e Combate à Fome e de Encargos Financeiros da União e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 5.131.822.721,00, para os fins que especifica.

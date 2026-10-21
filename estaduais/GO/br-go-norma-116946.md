@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.981, de 2026-08-27
-
 DECRETO Nº 10.981, DE 27 DE AGOSTO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

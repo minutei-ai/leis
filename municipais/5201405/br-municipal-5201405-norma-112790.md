@@ -1,5 +1,3 @@
-# Decreto Numerado nº 123, de 2026-02-09
-
 DECRETO Nº 123, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre ponto facultativo nas repartições públicas municipais na véspera da festa popular de Carnaval e parcialmente depois dela.

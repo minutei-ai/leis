@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.113 de 20/04/2022
-
 MEDIDA PROVISÓRIA Nº 1.113, DE 20 DE ABRIL DE 2022
 
 Altera a Lei nº 8.213, de 24 de julho de 1991, e a Lei nº 13.846, de 18 de junho de 2019, para dispor sobre o fluxo de análise de benefícios previdenciários e assistenciais sob avaliação do Instituto Nacional do Seguro Social, da Perícia Médica Federal e do Conselho de Recursos da Previdência Social.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 228, de 2021-11-04
-
 LEI COMPLEMENTAR Nº 228, DE 04 DE NOVEMBRO DE 2021.
 
 Altera Lei Complementar n. 5.727/2009 – Código Tributário Municipal.

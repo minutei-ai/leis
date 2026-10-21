@@ -1,5 +1,3 @@
-# Lei Complementar nº 69, de 2013-02-20
-
 LEI COMPLEMENTAR Nº. 69, DE 20 DE FEVEREIRO DE 2013.
 
 Dispõe sobre a admissão de estrangeiros no município de Aparecida de Goiânia e dá outras providências.

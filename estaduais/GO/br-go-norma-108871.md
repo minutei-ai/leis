@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.717, de 2024-05-22
-
 LEI Nº 22.717, DE 22 DE MAIO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

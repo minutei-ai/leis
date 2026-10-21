@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.002 de 23/09/2020
-
 MEDIDA PROVISÓRIA Nº 1.002, DE 23 DE SETEMBRO DE 2020
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 10.000.000.000,00, para o fim que especifica, e dá outras providências.

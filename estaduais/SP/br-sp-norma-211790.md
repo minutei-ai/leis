@@ -1,5 +1,3 @@
-# Decreto nº 70.068, de 07/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211790)<br>
 
 # DECRETO N° 70.068, DE 07 DE NOVEMBRO DE 2025

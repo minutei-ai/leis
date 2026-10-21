@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.545, de 2020-03-31
-
 LEI MUNICIPAL Nº 3.545, DE 31 DE MARÇO DE 2020.
 
 Prorroga o prazo de interposição de recursos nos processos administrativos municipais.

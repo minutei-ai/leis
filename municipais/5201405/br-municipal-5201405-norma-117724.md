@@ -1,5 +1,3 @@
-# Decreto Numerado nº 3, de 2023-01-09
-
 DECRETO “N” Nº 03 DE 09 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL, neste município.

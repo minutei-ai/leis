@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.126 de 15/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.126, DE 15 DE JUNHO DE 2022
 
 Revoga a Lei nº 14.125, de 10 de março de 2021, que dispõe sobre a responsabilidade civil relativa a eventos adversos pós-vacinação contra a covid-19 e sobre a aquisição e distribuição de vacinas por pessoas jurídicas de direito privado.

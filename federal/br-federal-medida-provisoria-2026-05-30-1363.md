@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.363 de 30/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.363, DE 30 DE MAIO DE 2026
 
 Autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel de uso rodoviário no País, no valor de R$ 1,12 (um real e doze centavos) por litro comercializado, com o objetivo de estabilizar preço e oferta, de modo a garantir o abastecimento nacional do referido combustível, em decorrência do choque de oferta derivado do conflito bélico no Oriente Médio.

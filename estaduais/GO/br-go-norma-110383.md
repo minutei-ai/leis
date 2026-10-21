@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.227, de 2025-01-14
-
 LEI Nº 23.227, DE 14 DE JANEIRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

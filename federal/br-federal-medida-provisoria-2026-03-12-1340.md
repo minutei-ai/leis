@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.340 de 12/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.340, DE 12 DE MARÇO DE 2026
 
 Autoriza a concessão de subvenção econômica à comercialização de óleo diesel de uso rodoviário no território nacional por produtores e importadores de óleo diesel, dispõe sobre o imposto de exportação sobre óleo diesel e altera a [Lei nº 9.847, de 26 de outubro de 1999](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-10-26;9847).

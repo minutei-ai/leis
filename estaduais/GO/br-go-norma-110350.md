@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.202, de 2025-01-09
-
 LEI Nº 23.202, DE 9 DE JANEIRO DE 2025
 
 Institui a Política Estadual de Fiscalização de Meio Ambiente e Recursos Hídricos.

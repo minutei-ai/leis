@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.196, de 2014-07-16
-
 LEI MUNICPAL Nº 3.196, DE 16 DE JULHO DE 2014.
 
 Altera a Lei Municipal nº 2.470, de 25 de junho de 2004, alterada pela Lei Municipal 2.603, de 18 de agosto de 2006, que dispõe sobre doação de imóveis para o Estado de Goiás, situados neste Município, destinados à construção de escolas.

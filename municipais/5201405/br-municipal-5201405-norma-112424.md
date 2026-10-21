@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.144, de 2025-03-31
-
 DECRETO Nº 1.144, DE 31 DE MARÇO DE 2025<br>
 (Revogado pelo Decreto Nº 2.210, de 11 de setembro de 2025)
 

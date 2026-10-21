@@ -1,5 +1,3 @@
-# Decreto Numerado nº 44, de 2026-01-14
-
 DECRETO Nº 044, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua J-60, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

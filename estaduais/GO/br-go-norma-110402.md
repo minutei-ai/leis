@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.628, de 2025-01-20
-
 DECRETO Nº 10.628, DE 20 DE JANEIRO DE 2025
 
 Proíbe reservatórios, barragens e diques de qualquer natureza no leito do Rio dos Bois, para preservar as espécies aquáticas.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.213 de 22/04/2024
-
 MEDIDA PROVISÓRIA Nº 1.213, DE 22 DE ABRIL DE 2024
 
 Institui o Programa Acredita no Primeiro Passo, o Programa de Mobilização de Capital Privado Externo e Proteção Cambial - Programa Eco Invest Brasil, altera a [Lei nº 13.999, de 18 de maio de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-05-18;13999), para instituir o Programa de Crédito e Financiamento de Dívidas de Microempreendedores Individuais e Microempresas - Procred 360, institui o Programa de Renegociação de Dívidas de Microempreendedores Individuais - MEIs, Microempresas e Empresas de Pequeno Porte - Desenrola Pequenos Negócios, altera a [Medida Provisória nº 2.196-3, de 24 de agosto de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-08-24;2196-3), a [Lei nº 10.735, de 11 de setembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-09-11;10735), a [Lei nº 12.087, de 11 de novembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-11-11;12087), e a [Lei nº 14.042, de 19 de agosto de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-08-19;14042), e dá outras providências.

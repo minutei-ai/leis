@@ -1,5 +1,3 @@
-# Decreto Numerado nº 467, de 2026-06-15
-
 DECRETO Nº 467, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua 204, no Loteamento Setor Aeroporto Sul, no Município de Aparecida de Goiânia.

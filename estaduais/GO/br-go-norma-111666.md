@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.908, de 2025-12-02
-
 LEI Nº 23.908, DE 2 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

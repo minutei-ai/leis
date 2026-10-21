@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.798, de 2024-06-21
-
 LEI Nº 22.798, DE 21 DE JUNHO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Tomate, realizada no Município de Goianápolis/GO.

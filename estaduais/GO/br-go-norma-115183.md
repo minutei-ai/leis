@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.331, de 2026-06-03
-
 LEI Nº 24.331, DE 3 DE JUNHO DE 2026
 
 Altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e a [Lei nº 16.921](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88636), de 08 de fevereiro de 2010, que dispõe sobre o Plano de Cargos e Remuneração dos cargos que integram o Grupo Ocupacional Gestor Governamental.

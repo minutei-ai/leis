@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.230, de 2026-04-14
-
 LEI Nº 24.230, DE 14 DE ABRIL DE 2026
 
 Institui o Dia Estadual da Escuta Protegida de Crianças e Adolescentes Vítimas ou Testemunhas de Violência.

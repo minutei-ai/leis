@@ -1,5 +1,3 @@
-# Decreto Numerado nº 374, de 2023-06-06
-
 DECRETO “N” Nº 374, DE 06 DE JUNHO DE 2023.
 
 Dispõe sobre aprovação do Parcelamento de Solo Loteamento Cidade Verde Aparecida, neste Município, e dá outras providências.

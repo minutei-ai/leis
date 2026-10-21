@@ -1,5 +1,3 @@
-# Decreto Numerado nº 176, de 2024-03-25
-
 DECRETO “N” Nº 176, DE 25 DE MARÇO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidor da Secretaria Municipal de Educação.

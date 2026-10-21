@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.587, de 2024-12-03
-
 DECRETO Nº 10.587, DE 3 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 9.164](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70347), de 16 de fevereiro de 2018, que regulamenta o Programa Bolsa-Artista, instituído pela [Lei nº 19.952](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99815), de 29 de dezembro de 2017.

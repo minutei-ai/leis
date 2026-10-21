@@ -1,5 +1,3 @@
-# Decreto Numerado nº 583, de 2024-07-17
-
 DECRETO “N” Nº 583 DE 17 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

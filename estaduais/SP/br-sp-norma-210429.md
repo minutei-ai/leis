@@ -1,5 +1,3 @@
-# Lei nº 18.078, de 03/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210429)<br>
 
 # LEI N° 18.078, DE 03 DE JANEIRO DE 2025

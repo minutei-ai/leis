@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.443, de 2004-03-01
-
 LEI MUNICIPAL N.º 2.443, DE 1º DE MARÇO DE 2004.
 
 “Dispõe sobre o transporte escolar no âmbito do Município de Aparecida de Goiânia”.

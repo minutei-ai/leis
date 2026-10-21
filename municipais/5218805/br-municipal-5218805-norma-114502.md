@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.625, de 2025-04-14
-
 LEI Nº 7.625, DE 24 DE MARÇO DE 2025.
 
 Reconhece Como Utilidade Pública Municipal a Casa da Amizade do Rotary Club de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.131, de 2021-03-30
-
 LEI N. 7.131, DE 30 DE MARÇO DE 2021
 
 Altera [Lei n. 7013](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115105 "Abrir Lei Ordinária nº 7013, de 2019 em nova aba")/2019.

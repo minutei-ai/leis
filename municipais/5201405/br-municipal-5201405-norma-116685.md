@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.372, de 2017-08-22
-
 LEI MUNICIPAL Nº 3.372, DE 22 DE AGOSTO DE 2017.
 
 Reconhece de Utilidade Pública Municipal a “Posto de Auxílio Espírita Aparecida (PAE)” e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 347, de 2026-05-07
-
 DECRETO Nº 347, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Francisco Lauro dos Santos, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

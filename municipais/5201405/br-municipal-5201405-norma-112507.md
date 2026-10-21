@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.352, de 2025-05-08
-
 DECRETO Nº 1.352, DE 08 DE MAIO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Jardim Florença no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 97, de 2026-01-27
-
 DECRETO Nº 097, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua 14E e Rua 15E, no Loteamento Garavelo Residencial Park, no Município de Aparecida de Goiânia.

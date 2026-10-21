@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.662, de 2024-05-06
-
 LEI Nº 22.662, DE 6 DE MAIO DE 2024
 
 Confere ao Município de Terezópolis de Goiás/GO o título de "Capital Gastronômica de Goiás".

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.875, de 2026-06-19
-
 LEI Nº 7.875, DE 19 DE JUNHO DE 2026.
 
 Reconhece como Utilidade Pública Municipal o Terreiro de Umbanda Caboclo das Sete Encruzilhadas (T.U.C.S.E) e dá outras providências.

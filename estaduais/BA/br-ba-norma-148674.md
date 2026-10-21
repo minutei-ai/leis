@@ -1,5 +1,3 @@
-# LEI Nº 15.158 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.158 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação Comercial e Industrial de Macaúbas (ACIMAC), com sede e foro em Macaúbas.

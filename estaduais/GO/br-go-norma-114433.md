@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.261, de 2026-05-13
-
 LEI Nº 24.261, DE 13 DE MAIO DE 2026
 
 Autoriza o Poder Executivo a transferir para a União o domínio dos trechos rodoviários que especifica.

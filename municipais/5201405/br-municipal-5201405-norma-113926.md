@@ -1,5 +1,3 @@
-# Decreto Numerado nº 448, de 2024-06-11
-
 DECRETO “N” Nº 448, DE 11 DE JUNHO DE 2024.
 
 Dispõe sobre a concessão da PROGRESSÃO VERTICAL aos servidores da Secretaria Municipal da Educação.

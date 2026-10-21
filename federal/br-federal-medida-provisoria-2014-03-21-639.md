@@ -1,5 +1,3 @@
-# Medida Provisória nº 639 de 21/03/2014
-
 MEDIDA PROVISÓRIA Nº 639, DE 21 DE MARÇO DE 2014
 
 Autoriza o Banco Central do Brasil a alienar à Companhia de Desenvolvimento Urbano da Região do Porto do Rio de Janeiro S.A. - CDURP os imóveis que especifica.

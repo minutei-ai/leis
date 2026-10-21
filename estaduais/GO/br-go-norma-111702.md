@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.912, de 2025-12-04
-
 LEI Nº 23.912, DE 4 DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

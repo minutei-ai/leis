@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.811, de 2024-06-26
-
 LEI Nº 22.811, DE 26 DE JUNHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

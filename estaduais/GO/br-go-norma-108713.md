@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.628, de 2024-04-26
-
 LEI Nº 22.628, DE 26 DE ABRIL DE 2024
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.370, de 2023-06-28
-
 LEI N. 7.370, DE 28 DE JUNHO DE 2023.
 
 Autoriza conceder patrocínio à Federação de Motociclismo do Estado de Goiás.

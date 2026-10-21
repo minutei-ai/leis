@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.205 de 30/12/2023
-
 MEDIDA PROVISÓRIA Nº 1.205, DE 30 DE DEZEMBRO DE 2023
 
 Institui o Programa Mobilidade Verde e Inovação - Programa MOVER.

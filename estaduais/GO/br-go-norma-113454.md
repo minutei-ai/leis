@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.108, de 2026-03-06
-
 LEI Nº 24.108, DE 6 DE MARÇO DE 2026
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

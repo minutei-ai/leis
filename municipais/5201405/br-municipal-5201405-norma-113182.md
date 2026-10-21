@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.585, de 2025-11-06
-
 DECRETO Nº 2.585, DE 6 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua 20, no Loteamento Jardim Bonança, no Município de Aparecida de Goiânia.

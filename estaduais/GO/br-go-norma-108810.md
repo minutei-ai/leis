@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.665, de 2024-05-06
-
 LEI Nº 22.665, DE 6 DE MAIO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

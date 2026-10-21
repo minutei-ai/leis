@@ -1,5 +1,3 @@
-# LEI Nº 15.008 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.008 DE 28 DE  OUTUBRO DE 2025
 
     Declara de utilidade pública o Instituto Cultural Beneficente Steve Biko, com sede e foro no município de Salvador.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.278, de 2015-10-13
-
 LEI MUNICIPAL Nº 3.278, DE 13 DE OUTUBRO DE 2015.
 
 Derroga o inciso VIII, do art. 1º da Lei Municipal n.º 2.727, de 07 de abril de 2008, que trata de desapropriação de lotes situados no loteamento SETOR BANDEIRANTES, neste Município.

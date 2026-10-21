@@ -1,5 +1,3 @@
-# Decreto Numerado nº 620, de 2023-09-28
-
 DECRETO “N” Nº 620 DE 28 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

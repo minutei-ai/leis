@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.389, de 2024-01-12
-
 DECRETO Nº 10.389, DE 12 DE JANEIRO DE 2024
 
 Aprova o Regulamento da Secretaria de Estado da Casa Civil.

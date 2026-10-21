@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.495, de 2025-10-22
-
 DECRETO Nº 2.495, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua Comendador Adibo Aires, no Loteamento Vila Mariana, no Município de Aparecida de Goiânia.

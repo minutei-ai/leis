@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.415, de 2026-07-03
-
 LEI Nº 24.415, DE 3 DE JULHO DE 2026
 
 Dá denominação ao próprio público que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 174 de 18/03/2004
-
 ###MPV-000174-0-000-18-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 174, DE 18 DE MARÇO 2004.

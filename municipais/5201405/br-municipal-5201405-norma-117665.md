@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1119, de 2024-12-19
-
 DECRETO “N” Nº 1119 DE 19 DE DEZEMBRO DE 2024
 
 Dispõe sobre remembramento e desmembramento de imóveis.

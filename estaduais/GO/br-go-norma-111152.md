@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.764, de 2025-08-19
-
 DECRETO Nº 10.764 , DE 19 DE AGOSTO DE 2025
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

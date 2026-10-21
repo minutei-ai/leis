@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.495, de 2019-08-23
-
 LEI MUNICIPAL Nº 3.495, DE 23 DE AGOSTO DE 2019
 
 Revoga a Lei Municipal nº 835, de 27 de Junho de 1989.

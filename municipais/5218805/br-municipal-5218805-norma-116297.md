@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.299, de 2022-09-26
-
 LEI N°. 7.299, DE 26 DE SETEMBRO DE 2022
 
 Dispõe sobre instituir no calendário oficial do Município de Rio Verde - GO, o “dia do rodeio” e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.589, de 2025-08-22
-
 LEI Nº 23.589, DE 22 DE AGOSTO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

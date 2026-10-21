@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.413, de 2025-05-15
-
 LEI Nº 23.413, DE 15 DE MAIO DE 2025
 
 Altera a [Lei nº 16.168](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86708), de 11 de dezembro de 2007, que dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado de Goiás.

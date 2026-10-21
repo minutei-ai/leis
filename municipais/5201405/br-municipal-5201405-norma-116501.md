@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.498, de 2019-09-09
-
 LEI MUNICIPAL Nº 3.498 , DE 09 DE SETEMBRO DE 2019
 
 Dispõe sobre a alteração da Lei Municipal N° 3.154, de 27 de fevereiro de 2014, que dispõe o serviço de transporte individual de passageiros em automóvel de aluguel provido de taxímetro, no Município de Aparecida de Goiânia – Goiás, e dá outras providências.

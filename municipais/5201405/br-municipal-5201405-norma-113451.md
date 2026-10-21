@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.569, de 2020-07-03
-
 LEI MUNICIPAL N° 3.569 , DE 03 DE JULHO DE 2020.<br>
 (Revogada pela Lei Ordinária nº 3.667, de 16 de maio de 2022).
 

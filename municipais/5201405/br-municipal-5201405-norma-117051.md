@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.157, de 2014-01-10
-
 LEI MUNICIPAL Nº 3.157, DE 10 DE JANEIRO DE 2014.
 
 Estabelece prazo para atendimento ao usuário com relação aos serviços bancários, congêneres e cartórios e revoga a Lei Municipal nº 2.940-2010.

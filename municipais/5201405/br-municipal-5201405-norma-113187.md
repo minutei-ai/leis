@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.590, de 2025-11-06
-
 DECRETO Nº 2.590, DE 6 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Pedro Américo, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

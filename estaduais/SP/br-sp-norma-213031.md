@@ -1,5 +1,3 @@
-# Decreto nº 70.926, de 14/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213031)<br>
 
 # DECRETO N° 70.926, DE 14 DE OUTUBRO DE 2026

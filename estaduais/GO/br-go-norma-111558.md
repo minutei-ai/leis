@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.819, de 2025-11-10
-
 LEI Nº 23.819, DE 10 DE NOVEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

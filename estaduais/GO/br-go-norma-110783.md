@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.700, de 2025-06-02
-
 DECRETO Nº 10.700, DE 2 DE JUNHO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

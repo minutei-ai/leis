@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.465, de 2024-05-10
-
 DECRETO Nº 10.465, DE 10 DE MAIO DE 2024
 
 Retifica o inciso III do Anexo Único do [Decreto nº 8.000](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66578), de 20 de setembro de 2013, o qual dispôs sobre o enquadramento do pessoal anistiado que especifica.

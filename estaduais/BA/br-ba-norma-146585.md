@@ -1,5 +1,3 @@
-# LEI Nº 14.894 DE 09 DE MAIO DE 2025
-
 LEI Nº 14.894 DE 09 DE MAIO DE 2025
 
 Autoriza o Poder Executivo a contratar operação de crédito interno junto à Caixa Econômica Federal - CEF, com garantia da União, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.016, de 2019-11-13
-
 LEI Nº 7.016, DE 13 DE NOVEMBRO DE 2019
 
 Altera a Lei nº 6.865/2018. 

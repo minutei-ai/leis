@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.320, de 2016-06-07
-
 LEI MUNICIPAL N° 3.320 DE 07 DE JUNHO DE 2016.
 
 Condiciona o funcionamento de bares, distribuidoras de bebidas, supermercados, postos de combustíveis, boates e similares que vendam bebidas alcoólicas, a instalação de circuito de câmeras de monitoramento.

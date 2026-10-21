@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.022 de 31/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.022, DE 31 DE DEZEMBRO DE 2020
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Saúde.

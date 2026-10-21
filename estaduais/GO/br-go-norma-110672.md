@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.411, de 2025-05-13
-
 LEI Nº 23.411, DE 13 DE MAIO DE 2025
 
 Institui o Dia Estadual do Neuropediatra e dá outras providências.

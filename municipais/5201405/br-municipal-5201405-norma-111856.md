@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.861, de 2009-11-13
-
 LEI MUNICIPAL Nº. 2.861, DE 13 DE NOVEMBRO DE 2009.
 
 Institui normas para as Eleições de Gestores nas Unidades de Ensino vinculadas ao sistema educativo do município de Aparecida de Goiânia e dá outras providências.<br>

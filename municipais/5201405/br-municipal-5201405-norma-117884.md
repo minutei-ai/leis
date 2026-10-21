@@ -1,5 +1,3 @@
-# Decreto Numerado nº 160, de 2023-03-14
-
 DECRETO “N” Nº 160 DE 14 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO CARDOSO - CONTINUÇÃO, neste município.

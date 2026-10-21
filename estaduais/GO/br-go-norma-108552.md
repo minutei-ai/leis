@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.577, de 2024-03-22
-
 LEI Nº 22.577, DE 22 DE MARÇO DE 2024
 
 Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.

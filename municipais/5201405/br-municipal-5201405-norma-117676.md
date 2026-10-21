@@ -1,5 +1,3 @@
-# Lei Complementar nº 251, de 2026-09-23
-
 LEI COMPLEMENTAR Nº 251, DE 23 DE SETEMBRO DE 2026
 
 Dispõe sobre a redução temporária das alíquotas do Imposto sobre a Transmissão de Bens Imóveis (ITBI) no âmbito do Município de Aparecida de Goiânia.

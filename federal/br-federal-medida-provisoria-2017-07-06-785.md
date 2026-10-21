@@ -1,5 +1,3 @@
-# Medida Provisória nº 785 de 06/07/2017
-
 MEDIDA PROVISÓRIA Nº 785, DE 6 DE JULHO DE 2017
 
 Altera a [Lei nº 10.260, de 12 de julho de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-07-12;10260), a [Lei Complementar nº 129, de 8 de janeiro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2009-01-08;129), a [Medida Provisória nº 2.156-5, de 24 de agosto de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-08-24;2156-5), a [Medida Provisória nº 2.157-5, de 24 de agosto de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-08-24;2157-5), a [Lei nº 7.827, de 27 de setembro de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-09-27;7827), a [Lei nº 9.394, de 20 de dezembro de 1996](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-20;9394), a [Lei nº 8.958, de 20 de dezembro de 1994](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-12-20;8958), e dá outras providências.

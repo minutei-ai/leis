@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.990, de 2019-09-23
-
 **LEI N° 6.990, DE 23 DE SETEMBRO DE 2019**
 
 Altera a Lei n° 6.865/2018.

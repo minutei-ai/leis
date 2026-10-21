@@ -1,5 +1,3 @@
-# Medida Provisória nº 806 de 30/10/2017
-
 MEDIDA PROVISÓRIA Nº 806, DE 30 DE OUTUBRO DE 2017
 
 Dispõe sobre o Imposto sobre a Renda incidente sobre as aplicações em fundos de investimento.

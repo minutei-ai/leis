@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.259, de 2015-04-06
-
 LEI MUNICIPAL Nº 3.259, DE 06 DE ABRIL DE 2015.
 
 Reconhece de Utilidade Pública Municipal o CENTRO DE APOIO AOS DEFICIENTES FISICOS DO ESTADO DE GOIÁS-CADEGO.

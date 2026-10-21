@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.885, de 2024-07-30
-
 LEI Nº 22.885, DE 30 DE JULHO DE 2024
 
 Dá denominação ao próprio público que especifica.

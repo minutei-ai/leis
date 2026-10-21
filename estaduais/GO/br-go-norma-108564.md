@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.586, de 2024-03-29
-
 LEI Nº 22.586, DE 29 DE MARÇO DE 2024
 
 Institui a Campanha “Vida Animal”, no âmbito do Estado de Goiás, e dá outras providências.

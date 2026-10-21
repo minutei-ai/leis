@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.070, de 2024-11-11
-
 LEI Nº 23.070, DE 11 DE NOVEMBRO DE 2024
 
 Dispõe sobre a concessão do benefício da meia-entrada, para eleitores nomeados para atuar nas eleições gerais ou municipais, plebiscitos e referendos, em espetáculos artístico-culturais e esportivos.

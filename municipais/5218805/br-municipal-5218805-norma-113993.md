@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.798, de 2025-12-15
-
 LEI Nº 7.798, DE 15 DE DEZEMBRO DE 2025. 
 
 Reconhece a importância do Engenheiro Agrônomo para o desenvolvimento econômico, social e ambiental do Município de Rio Verde – GO, declara a profissão de relevante interesse público e institui o Dia Municipal do Engenheiro Agrônomo.

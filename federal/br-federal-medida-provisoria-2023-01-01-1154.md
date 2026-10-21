@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.154 de 01/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.154, DE 1 DE JANEIRO DE 2023
 
 Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios.

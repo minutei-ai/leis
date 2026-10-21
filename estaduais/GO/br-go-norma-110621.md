@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.368, de 2025-04-24
-
 LEI Nº 23.368, DE 24 DE ABRIL DE 2025
 
 Concede o título de cidadania que especifica.

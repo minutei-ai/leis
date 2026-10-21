@@ -1,5 +1,3 @@
-# Lei Complementar nº 191, de 2024-04-11
-
 LEI COMPLEMENTAR Nº 191, DE 11 DE ABRIL DE 2024
 
 Altera a [Lei Complementar nº 130](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101117), de 11 de julho de 2017, que dispõe sobre a Reorganização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros, observadas as regras gerais previstas na Lei Complementar nº 80, de 12 de janeiro de 1994, e suas alterações, bem como as regras atinentes previstas na Constituição Federal e dá outras providências.

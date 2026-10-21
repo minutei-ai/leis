@@ -1,5 +1,3 @@
-# Lei Complementar nº 411, de 2025-10-10
-
 LEI COMPLEMENTAR Nº 411, DE 10 DE OUTUBRO DE 2025.
 
 Reestrutura o Conselho Municipal do Meio Ambiente – COMMAm, alinha suas atribuições aos Objetivos de Desenvolvimento Sustentável - ODS da Organização das Nações Unidas - ONU, integra as políticas de esporte, lazer, bem-estar animal e a promoção da sadia qualidade de vida no âmbito do Sistema Municipal de Meio Ambiente, e o Conselho Municipal do Meio Ambiente – COMMAm, alinha suas atribuições aos Objetivos de Desenvolvimento Sustentável - ODS da Organização das Nações Unidas - ONU, integra as políticas de esporte, lazer, bem-estar animal e a promoção da sadia qualidade de vida no âmbito do Sistema Municipal de Meio Ambiente, e altera a Lei nº 5.090, de 28 de dezembro de 2005 - Código Ambiental Municipal.

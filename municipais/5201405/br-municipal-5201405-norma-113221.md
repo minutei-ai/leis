@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.490, de 2025-10-22
-
 DECRETO Nº 2.490, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Avenida Buenos Aires, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

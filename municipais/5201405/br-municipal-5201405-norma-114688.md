@@ -1,5 +1,3 @@
-# Decreto Numerado nº 396, de 2026-05-20
-
 DECRETO Nº 396, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Xingu, no Loteamento Vila Brasilia, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.479, de 2024-01-08
-
 LEI Nº 7.479, DE 08 DE JANEIRO DE 2024.
 
 Altera a [Lei nº 7.435](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116907)[/2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116907) e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.734, de 2009-12-04
-
 LEI COMPLEMENTAR Nº 5.734, DE 04 DE DEZEMBRO DE 2009.
 
 Altera a Lei n. 3.635/98, Código de Posturas do Município.

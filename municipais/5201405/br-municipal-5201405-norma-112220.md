@@ -1,5 +1,3 @@
-# Decreto Numerado nº 47, de 2026-01-14
-
 DECRETO Nº 047, DE 14 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 28, situado à Rua Waldir José Medeiros, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

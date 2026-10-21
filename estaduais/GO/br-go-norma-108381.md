@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.382, de 2024-01-05
-
 DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 \- [Revogado pelo Decreto nº 10.770, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111173/decreto-10770), art. 23, I. Efeitos funcionais e financeiros a partir de 1º-9-2025.
 

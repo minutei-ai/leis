@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.532, de 2019-12-11
-
 LEI MUNICIPAL Nº 3.532, DE 11 DE DEZEMBRO DE 2019.
 
 Autoriza o Poder Executivo Municipal doar a quantia a Câmara Municipal de Aparecida de Goiânia e dá outras providencias.

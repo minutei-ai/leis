@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.609, de 2024-04-11
-
 LEI Nº 22.609, DE 11 DE ABRIL DE 2024
 
 Altera a [Lei nº 21.518](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105961), de 26 de julho de 2022, que institui a Política Estadual de Redução do Desperdício de Alimentos.

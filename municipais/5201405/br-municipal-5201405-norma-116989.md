@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.276, de 2015-10-13
-
 LEI MUNICIPAL Nº 3.276, DE 13 DE OUTUBRO DE 2015.
 
 Altera o Artigo 1° da Lei Municipal n° 1.325 de 14 de Dezembro de 1993, no qual altera dispositivos da Lei Municipal n° 1.310, de 17 de novembro de 1993.

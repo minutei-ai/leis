@@ -1,5 +1,3 @@
-# Lei Complementar nº 34, de 2015-07-01
-
 LEI COMPLEMENTAR Nº 34, DE 01 DE JULHO DE 2015.
 
 <br>

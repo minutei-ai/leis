@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.566, de 2024-10-31
-
 LEI Nº 7.566, DE 31 DE OUTUBRO DE 2024.
 
 Reconhece como Utilidade Pública Municipal a Igreja de Deus em Rio Verde.

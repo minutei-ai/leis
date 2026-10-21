@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.425, de 2024-03-14
-
 DECRETO Nº 10.425, DE 14 DE MARÇO DE 2024
 
 Aprova o Regulamento da Secretaria de Estado da Cultura – SECULT.

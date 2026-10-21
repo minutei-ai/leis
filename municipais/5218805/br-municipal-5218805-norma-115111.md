@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.510, de 2024-05-27
-
 LEI Nº 7.510, DE 27 DE MAIO DE 2024.
 
 Altera a Lei nº 7.226, de 20 de dezembro de 2021 – Plano Plurianual – PPA para o quadriênio 2022-2025, Lei nº 7.365, de 28 de junho de 2023 – Lei de Diretrizes Orçamentárias – LDO para 2024, Lei nº 7.454, de 22 de dezembro de 2023 – Lei Orçamentária Anual – LOA para 2024, e dá outras providências.

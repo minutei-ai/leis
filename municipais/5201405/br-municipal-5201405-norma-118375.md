@@ -1,5 +1,3 @@
-# Decreto Numerado nº 617, de 2023-09-21
-
 DECRETO “N” Nº 617 DE 21 DE SETEMBRO DE 2023.<br>
 (Revogado pelo Decreto "N" nº 500, de 24 de junho de 2024).
 

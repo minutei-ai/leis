@@ -1,5 +1,3 @@
-# Lei Complementar nº 80, de 2014-02-27
-
 LEI COMPLEMENTAR Nº 080, DE 27 DE FEVEREIRO DE 2014.
 
 Dispõe sobre a coleta, transporte e destinação final de resíduos sólidos em geral e institui a obrigatoriedade da separação e destinação final de resíduos sólidos no Município de Aparecida de Goiânia e altera o artigo 122 da Lei Municipal nº 792, de 7 de dezembro de 1988, Código de Posturas do Município de Aparecida de Goiânia e dá outras providências.

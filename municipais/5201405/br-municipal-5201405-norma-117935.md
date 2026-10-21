@@ -1,5 +1,3 @@
-# Decreto Numerado nº 209, de 2023-04-04
-
 DECRETO “N” Nº 209 DE 04 DE ABRIL DE 2023.
 
 Declara ponto facultativo no âmbito da Administração Pública Municipal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.729, de 2025-10-31
-
 LEI Nº 7.729, DE 31 DE OUTUBRO DE 2025.
 
 Autoriza o Poder Executivo a doar as edificações e benfeitorias que compõem o Centro de Convenções Municipal Lauro Martins à FESURV – Universidade de Rio Verde, e dá outras providências.

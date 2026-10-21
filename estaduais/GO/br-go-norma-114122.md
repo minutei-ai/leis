@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.240, de 2026-04-28
-
 LEI Nº 24.240, DE 28 DE ABRIL DE 2026
 
 Altera as [Leis nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás, e nº [20.787](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103201), de 03 de junho de 2020, que institui o programa PROGOIÁS, e revoga dispositivo da [Lei nº 14.244](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81806), de 29 de julho de 2002, que institui o incentivo Apoio à Instalação e Expansão de Empresas Operadoras de Logística de Distribuição de Produtos no Estado de Goiás – LOGPRODUZIR.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.171, de 2026-03-26
-
 LEI Nº 24.171, DE 26 DE MARÇO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.187, de 2025-01-06
-
 LEI Nº 23.187, DE 6 DE JANEIRO DE 2025
 
 Institui a Política Estadual de Atenção, Cuidados e Proteção da Saúde de Cuidadores de Pessoas com Deficiência ou Doenças Graves.

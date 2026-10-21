@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.646, de 2025-05-26
-
 LEI Nº 7.646, DE 26 DE MAIO DE 2025.
 
 Altera a [Lei nº 7.143](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114650 "Abrir Lei Ordinária nº 7143, de 2021 em nova aba"), de 31 de maio de 2021, que dispõe sobre a Regularização Fundiária de Núcleos Urbanos no Município de Rio Verde.

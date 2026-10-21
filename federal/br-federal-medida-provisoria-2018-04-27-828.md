@@ -1,5 +1,3 @@
-# Medida Provisória nº 828 de 27/04/2018
-
 MEDIDA PROVISÓRIA Nº 828, DE 27 DE ABRIL DE 2018
 
 Altera a [Lei nº 13.606, de 9 de janeiro de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-01-09;13606), para prorrogar o prazo de adesão ao Programa de Regularização Tributária Rural - PRR para 30 de maio de 2018.

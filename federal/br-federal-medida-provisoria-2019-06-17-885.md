@@ -1,5 +1,3 @@
-# Medida Provisória nº 885 de 17/06/2019
-
 MEDIDA PROVISÓRIA Nº 885, DE 17 DE JUNHO DE 2019
 
 Altera a [Lei nº 7.560, de 19 de dezembro de 1986](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1986-12-19;7560), para alterar disposições acerca do Fundo Nacional Antidrogas, a [Lei nº 11.343, de 23 de agosto de 2006](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2006-08-23;11343), que estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas, e a [Lei nº 8.745, de 9 de dezembro de 1993](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1993-12-09;8745), que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.

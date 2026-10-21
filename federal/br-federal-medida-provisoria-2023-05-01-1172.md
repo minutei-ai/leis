@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.172 de 01/05/2023
-
 MEDIDA PROVISÓRIA Nº 1.172, DE 1 DE MAIO DE 2023
 
 Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de maio de 2023.

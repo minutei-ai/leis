@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 09 DE 28 DE MAIO DE 2003
-
 EMENDA CONSTITUCIONAL Nº 09 DE 28 DE MAIO DE 2003
 
 Altera o caput do art. 140 da Constituição do Estado da Bahia, suprime o § 1º do referido artigo e o art. 11 do Ato das Disposições Constitucionais Transitórias.

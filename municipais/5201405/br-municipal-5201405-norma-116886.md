@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.330, de 2016-09-16
-
 LEI MUNICIPAL Nº 3.330, DE 16 DE SETEMBRO DE 2016.
 
 Dá nome à Praça situada na Avenida Brasil, Rua 8 e Rua 7, Quadra 11, Setor Brasicon, neste município.

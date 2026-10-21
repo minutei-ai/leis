@@ -1,5 +1,3 @@
-# Lei Complementar nº 163, de 2019-06-24
-
 LEI COMPLEMENTAR Nº 163, DE 24 DE JUNHO DE 2019
 
 Altera o Art. 99 da Lei Complementar 003, de 28 de Dezembro de 2001.

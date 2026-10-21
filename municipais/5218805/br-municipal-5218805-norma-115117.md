@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.502, de 2024-04-29
-
 LEI Nº 7.502, DE 29 DE ABRIL DE 2024.
 
 Autoriza a desafetação e a dação em pagamento de imóvel de propriedade do Município.

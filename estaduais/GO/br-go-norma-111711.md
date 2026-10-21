@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.921, de 2025-12-04
-
 LEI Nº 23.921, DE 4 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

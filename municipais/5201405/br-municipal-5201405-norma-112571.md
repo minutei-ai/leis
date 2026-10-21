@@ -1,5 +1,3 @@
-# Decreto Numerado nº 105, de 2026-01-28
-
 DECRETO Nº 105, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua C-1, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

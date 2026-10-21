@@ -1,5 +1,3 @@
-# Lei Complementar nº 408, de 2025-09-22
-
 LEI COMPLEMENTAR Nº 408, DE 22 DE SETEMBRO DE 2025.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

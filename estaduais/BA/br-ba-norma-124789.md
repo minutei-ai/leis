@@ -1,5 +1,3 @@
-# LD Nº 39 DE 14 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 39 DE 14 DE MARÇO DE 1983
 
 Reorganiza a Secretaria da Indústria e Comércio - SIC e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.421, de 2025-05-22
-
 DECRETO Nº 1.421, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento da Chácara de recreio 88, situado à Rua 10-A esquina com Avenida 102, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

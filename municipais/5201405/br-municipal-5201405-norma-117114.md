@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.230, de 2014-11-19
-
 LEI MUNICIPAL N° 3.230, DE 19 DE NOVEMBRO DE 2014.
 
 Dá nome à CMEI (Centro Municipal de Educação Infantil) localizado no Setor Marista Sul, neste município e dá outras providências.

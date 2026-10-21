@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.354, de 2023-04-28
-
 LEI N° 7.354, DE 28 DE ABRIL DE 2023
 
 Denomina nome de rua que especifica e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 356, de 2026-05-07
-
 DECRETO Nº 356, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 13, situado à Avenida Jackson Abrão, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

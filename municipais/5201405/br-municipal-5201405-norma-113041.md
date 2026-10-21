@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.124, de 2025-09-01
-
 DECRETO Nº 2.124, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Barita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

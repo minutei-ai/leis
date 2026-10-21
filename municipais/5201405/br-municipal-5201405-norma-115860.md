@@ -1,5 +1,3 @@
-# Decreto Numerado nº 570, de 2024-07-11
-
 DECRETO “N” Nº 570 DE 11 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

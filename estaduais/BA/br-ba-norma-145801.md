@@ -1,5 +1,3 @@
-# LEI Nº 14.786 DE 05 DE NOVEMBRO DE 2024
-
 LEI Nº 14.786 DE 05 DE NOVEMBRO DE 2024
 
 Denomina Ondumar Ferreira Borges (Ondumar Marabá) o Aeroporto da Cidade de Luís Eduardo Magalhães-BA e dá outras providências.

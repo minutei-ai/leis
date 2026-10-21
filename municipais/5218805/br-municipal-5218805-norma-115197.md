@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.449, de 2023-11-27
-
 LEI Nº 7.449, DE 27 DE NOVEMBRO DE 2023.
 
 Altera as Leis nº 7.226, de 20 de dezembro de 2021, Plano Plurianual – PPA para o quadriênio 2022-2025 e alteração, Lei nº 7.275, de 27 de junho de 2022 e alteração, Lei de Diretrizes Orçamentária – LDO para 2022, Lei nº 7.312 de 16 de dezembro de 2022, Lei Orçamentária Anual – LOA para 2023, e dá outras providências.

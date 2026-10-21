@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1107, de 2024-12-18
-
 DECRETO “N” Nº 1107 DE 18 DE DEZEMBRO DE 2024
 
 Dispõe sobre desmembramento de imóvel.

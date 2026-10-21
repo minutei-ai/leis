@@ -1,5 +1,3 @@
-# Decreto Numerado nº 701, de 2024-08-29
-
 DECRETO “N” Nº 701, DE 29 DE AGOSTO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidora da Secretaria Municipal de Educação.

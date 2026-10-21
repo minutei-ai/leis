@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.349 de 07/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.349, DE 7 DE ABRIL DE 2026
 
 Institui o Regime Emergencial de Abastecimento Interno de Combustíveis e altera a [Medida Provisória nº 1.340, de 12 de março de 2026](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-12;1340), a [Lei nº 9.847, de 26 de outubro de 1999](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-10-26;9847), e a [Lei nº 12.462, de 4 de agosto de 2011](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-08-04;12462).

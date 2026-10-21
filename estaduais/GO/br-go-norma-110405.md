@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.241, de 2025-01-21
-
 LEI Nº 23.241, DE 21 DE JANEIRO DE 2025
 
 Dispõe sobre a prorrogação de prazos indicados nas Leis que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.804, de 2010-06-16
-
 LEI Nº 5.804, DE 16 DE JUHNO DE 2010.
 
 Altera quantitativo do cargo de Nutricionista.

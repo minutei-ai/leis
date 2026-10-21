@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.710, de 2025-06-16
-
 DECRETO Nº 10.710, DE 16 DE JUNHO DE 2025
 
 Regulamenta a [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual – PPA para o quadriênio 2024-2027, e revoga o [Decreto nº 10.412](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108469), de 23 de fevereiro de 2024.

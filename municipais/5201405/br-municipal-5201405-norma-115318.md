@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.664, de 2022-04-29
-
 LEI MUNICIPAL Nº 3.664, DE 29 DE ABRIL DE 2022.
 
 “Fica instituído o dia do profissional de saúde no município de Aparecida de Goiânia e dá outras providências”.

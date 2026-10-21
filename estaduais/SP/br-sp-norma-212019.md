@@ -1,5 +1,3 @@
-# Decreto nº 70.220, de 17/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212019)<br>
 
 # DECRETO N° 70.220, DE 17 DE DEZEMBRO DE 2025

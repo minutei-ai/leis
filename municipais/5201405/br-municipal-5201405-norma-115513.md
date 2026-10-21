@@ -1,5 +1,3 @@
-# Decreto Numerado nº 372, de 2024-05-20
-
 DECRETO “N” Nº 372 DE 20 DE MAIO DE 2024.<br>
 (Revogado pelo Decreto “N” Nº 587 de 18 de julho de 2024).
 

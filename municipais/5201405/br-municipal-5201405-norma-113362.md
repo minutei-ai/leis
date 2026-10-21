@@ -1,5 +1,3 @@
-# Decreto Numerado nº 160, de 2026-02-26
-
 DECRETO Nº 160, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Montivideu, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

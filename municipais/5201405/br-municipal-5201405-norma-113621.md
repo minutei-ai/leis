@@ -1,5 +1,3 @@
-# Decreto Numerado nº 237, de 2026-03-19
-
 DECRETO Nº 237, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01, 02 e 03, todos da Quadra 88, situados à Avenida Cianita e Avenida Diamante, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

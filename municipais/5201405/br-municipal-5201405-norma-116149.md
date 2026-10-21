@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.641, de 2021-12-28
-
 LEI MUNICIPAL Nº 3.641, DE 28 DE DEZEMBRO DE 2021.
 
 “Cria o Programa “SOS Idosos Desaparecidos” no Município de Aparecida de Goiânia, e dá outras providências.”

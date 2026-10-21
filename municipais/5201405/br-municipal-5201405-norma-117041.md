@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3253, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.253, DE .
 
 Dispõe sobre a obrigatoriedade dos Hotéis, Pensões, Motéis, Flats ou similares, localizados no Município de Aparecida de Goiânia – GO, que ofereçam serviços de hospedagem, deverão disponibilizar para seus hóspedes, sem qualquer acréscimo no preço da hospedagem, uma alimentação diferenciada, a partir da elaboração de um plano nutricional adequado, para Portadores de Diabetes e dá outras providências.

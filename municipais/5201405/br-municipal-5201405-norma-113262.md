@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.431, de 2025-10-09
-
 DECRETO Nº 2.431, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, da Quadra 62, situado à Rua Dr. Antônio Felix da Silva, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

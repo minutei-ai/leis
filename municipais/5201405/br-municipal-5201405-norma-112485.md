@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.255, de 2025-04-24
-
 DECRETO Nº 1.255, DE 24 DE ABRIL DE 2025
 
 Dispõe sobre o remembramento das Chácaras 411-A e 411-B, situadas na Rua 3 no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

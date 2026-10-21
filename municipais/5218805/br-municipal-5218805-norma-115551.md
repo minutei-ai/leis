@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.858, de 2026-05-19
-
 LEI Nº 7.858, DE 19 DE MAIO DE 2026.
 
 Institui a Semana Municipal de Conscientização do Meio Ambiente e da Reciclagem.

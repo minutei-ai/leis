@@ -1,5 +1,3 @@
-# Decreto Numerado nº 121, de 2026-01-30
-
 DECRETO Nº 121, DE 30 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Comendador, no Loteamento Vila Mariana, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 900 de 17/10/2019
-
 MEDIDA PROVISÓRIA Nº 900, DE 17 DE OUTUBRO DE 2019
 
 Autoriza a União, por intermédio do Ministério do Meio Ambiente, a contratar instituição financeira para criar e gerir fundo privado constituído por recursos decorrentes da conversão de multa de que trata o art. 72, § 4º, da Lei nº 9.605, de 12 de fevereiro de 1998, e dá outras providências.

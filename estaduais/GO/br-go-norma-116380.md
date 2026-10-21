@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 266, de 2026-06-19
-
 Portaria Orçamentária nº 266/2026 - Economia
 
 O PRESIDENTE ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º §1ºda [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026.

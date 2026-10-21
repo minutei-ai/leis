@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.031, de 2026-01-14
-
 LEI Nº 24.031, DE 14 DE janeiro DE 2026
 
 Dá denominação ao próprio público que especifica. 

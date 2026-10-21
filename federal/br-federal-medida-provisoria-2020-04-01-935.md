@@ -1,5 +1,3 @@
-# Medida Provisória nº 935 de 01/04/2020
-
 MEDIDA PROVISÓRIA Nº 935, DE 1 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Economia, no valor de R$ 51.641.629.500,00, para os fins que especifica.

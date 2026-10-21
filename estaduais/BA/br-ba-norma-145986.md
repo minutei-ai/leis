@@ -1,5 +1,3 @@
-# LEI Nº 14.809 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.809 DE 26 DE DEZEMBRO DE 2024
 
 Altera o Quadro de Cargos de Carreira e o Quadro Organizacional das Procuradorias e Promotorias de Justiça do Ministério Público do Estado da Bahia e dá outras providências.

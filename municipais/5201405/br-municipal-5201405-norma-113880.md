@@ -1,5 +1,3 @@
-# Decreto Numerado nº 164, de 2024-03-22
-
 DECRETO “N” Nº 164, DE 22 DE MARÇO DE 2024.
 
 Dispõe sobre a nomeação dos membros d o Conselho Municipal de Desenvolvimento Ambiental Sustentável – COMDAS e dá outras providências.

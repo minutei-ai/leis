@@ -1,5 +1,3 @@
-# LEI Nº 15.051 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.051 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública o Instituto de Educação, Cultura e Diversidade (IECD), com sede e foro no município de Saubara.

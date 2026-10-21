@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.297 de 16/04/2025
-
 MEDIDA PROVISÓRIA Nº 1.297, DE 16 DE ABRIL DE 2025
 
 Abre crédito extraordinário, em favor do Supremo Tribunal Federal, no valor de R$ 27.441.492,00, para o fim que especifica.

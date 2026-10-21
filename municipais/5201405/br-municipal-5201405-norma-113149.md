@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.681, de 2025-11-27
-
 DECRETO Nº 2.681, DE 27 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 10, 11 e 12, Todos da Quadra 84, situados à Rua 3-C com Rodovia GIN-08, no Loteamento Setor Garavelo, no Município de Aparecida de Goiânia.

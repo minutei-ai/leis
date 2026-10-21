@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.024 de 02/05/2000
-
 ###MPV-002024-0-000-02-05-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.024, DE 2 DE MAIO DE 2000.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.870, de 2025-11-28
-
 LEI Nº 3.870, DE 28 DE NOVEMBRO DE 2025
 
 Altera as Leis nº 3.747, de 23 de outubro de 2023; nº 3.728, de 9 de agosto de 2023; nº 3.748, de 23 de outubro de 2023; nº 3.727, de 9 de agosto de 2023; nº 2.859, de 13 de novembro de 2009; nº 2.248, de 30 de janeiro de 2002; nº 2.338, de 30 de dezembro de 2002; e nº 3.548, de 6 de abril de 2020; e dá outras providências.

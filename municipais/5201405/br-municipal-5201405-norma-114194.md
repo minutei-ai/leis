@@ -1,5 +1,3 @@
-# Decreto Numerado nº 324, de 2026-04-30
-
 DECRETO Nº 324, DE 30 DE ABRIL DE 2026
 
 Dispõe sobre a aprovação da Regularização Fundiária Urbana Específica – REURB-E de gleba situada na BR-153, LOTE 6/8 do Setor Expansul II, Aparecida de Goiânia-GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.674, de 2024-05-09
-
 LEI Nº 22.674, DE 9 DE MAIO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Expoagro, realizada no Município de Campos Belos/GO.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 220, de 2026-03-16
-
 DECRETO Nº 220, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Estaurolita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

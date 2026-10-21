@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.546, de 2024-09-16
-
 LEI Nº 7.546, DE 16 DE SETEMBRO DE 2024.
 
 Denomina a Unidade Básica de Saúde (UBS) localizada no Bairro Nilson Veloso no Município de Rio Verde-GO.

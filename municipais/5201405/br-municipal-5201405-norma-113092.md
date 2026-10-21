@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.767, de 2025-12-10
-
 DECRETO Nº 2.767, DE 10 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 14, situado à Rua 512, no Loteamento Jardim Mont Serrat, no Município de Aparecida de Goiânia.

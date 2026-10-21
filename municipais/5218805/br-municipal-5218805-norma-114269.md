@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.723, de 2025-10-31
-
 LEI Nº 7.723, DE 31 DE OUTUBRO DE 2025.
 
 Altera a [Lei nº 6.964](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114270 "Abrir Lei Ordinária nº 6964, de 2019 em nova aba"), de 29 de maio de 2019, que dispõe sobre a qualificação de entidades como organizações sociais municipais, sem fins lucrativos, na área da saúde.

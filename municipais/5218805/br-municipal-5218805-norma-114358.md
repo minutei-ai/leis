@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.670, de 2025-06-30
-
 LEI Nº 7.670, DE 30 DE JUNHO DE 2025.
 
 Institui no âmbito do Município de Rio Verde GO, o “Junho Violeta” como mês dedicado à conscientização sobre a prevenção da violência contra a pessoa idosa.

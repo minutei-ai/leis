@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.738, de 2025-10-14
-
 LEI Nº 23.738, DE 14 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

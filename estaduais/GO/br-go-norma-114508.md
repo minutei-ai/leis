@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 116, de 2026-04-09
-
 Portaria Orçamentária nº 116/2026 - Economia
 
 A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alíneas "a" e "c" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 06 de Janeiro de 2026, conforme processo nº 202600004006506.

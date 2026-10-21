@@ -1,5 +1,3 @@
-# Medida Provisória nº 519 de 30/12/2010
-
 MEDIDA PROVISÓRIA nº 519, DE 30 DE DEZEMBRO DE 2010
 
 Autoriza o Poder Executivo a doar estoques públicos de alimentos para assistência humanitária internacional.

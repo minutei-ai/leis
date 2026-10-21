@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.907, de 2011-03-22
-
 LEI Nº 5.907, DE 22 DE MARÇO DE 2011
 
 Define obrigação de pequeno valor para efeito dos §§ 3º e 4º do art. 100 da Constituição Federal.

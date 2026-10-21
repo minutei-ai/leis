@@ -1,5 +1,3 @@
-# Decreto Numerado nº 486, de 2026-06-17
-
 DECRETO Nº 486, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Avenida Acre, no Loteamento Setor Colonial Sul, no Município de Aparecida de Goiânia.

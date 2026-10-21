@@ -1,5 +1,3 @@
-# Decreto Numerado nº 6, de 2024-01-11
-
 DECRETO “N” Nº 06 DE 11 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

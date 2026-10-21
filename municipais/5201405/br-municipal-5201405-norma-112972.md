@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.868, de 2025-12-23
-
 DECRETO Nº 2.868, DE 23 DE DEZEMBRO DE 2025
 
 Dispõe sobre a aprovação da Regularização Fundiária Urbana Específica – REURB-E da Área 02, da BR-153, no Jardim Rio Grande Continuação, Município de Aparecida de Goiânia.

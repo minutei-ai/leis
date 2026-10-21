@@ -1,5 +1,3 @@
-# Decreto Numerado nº 135, de 2024-03-12
-
 DECRETO “N” Nº 135, DE 12 DE MARÇO DE 2024.
 
 Dispõe sobre a alteração do Decreto 456 de 12 de julho de 2023, que versa sobre os membros integrantes da Junta Administrativa de Recursos de Infrações – JARI e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.483, de 2024-01-23
-
 LEI Nº 7.483, DE 23 DE JANEIRO DE 2024
 
 Concede reposição geral anual dos vencimentos dos servidores e dos subsídios dos Vereadores da Câmara Municipal de Rio Verde - Goiás e dá outras providências.

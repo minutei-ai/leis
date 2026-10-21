@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.201, de 2021-11-04
-
 LEI Nº 7.201, DE 04 DE NOVEMBRO DE 2021.
 
 Institui o Regime de Previdência Complementar no âmbito do Município de Rio Verde, altera a Lei nº 5.304/2007 e dá outras providências.

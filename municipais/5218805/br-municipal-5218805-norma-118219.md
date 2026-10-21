@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.544, de 1997-08-11
-
 **LEI Nº 3.544/97, DE 11 DE AGOSTO DE 1997**
 
 Altera Lei nº 3.496/97.

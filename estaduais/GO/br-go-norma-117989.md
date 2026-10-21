@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.995, de 2026-10-08
-
 DECRETO Nº 10.995, DE 8 DE OUTUBRO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, os barramentos que especifica no Município de Pirenópolis.

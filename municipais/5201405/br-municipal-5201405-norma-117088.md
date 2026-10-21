@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.203, de 2014-07-31
-
 LEI MUNICIPAL Nº 3.203, DE 31 DE JULHO DE 2014.
 
 Altera – Acrescenta e Renumera dispositivos que especifica da Lei Municipal nº 2.248, de 30 de janeiro de 2002, que Dispõe sobre a Criação do Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS) e dá outras providências.

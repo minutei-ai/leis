@@ -1,5 +1,3 @@
-# Decreto Numerado nº 313, de 2026-04-24
-
 DECRETO Nº 313, DE 24 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento das Chácaras de Recreio nº 49-51, 52 e 53, situadas à Alameda das Nações, no Loteamento Setor Buenos Aires – 2ª Etapa, no Município de Aparecida de Goiânia.

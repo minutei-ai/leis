@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.877, de 2025-11-28
-
 LEI Nº 23.877, DE 28 DE NOVEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraial das Abóboras, realizado no Município de Rio Verde/GO.

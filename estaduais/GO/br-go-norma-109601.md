@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.016, de 2024-09-27
-
 LEI Nº 23.016, DE 27 DE SETEMBRO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

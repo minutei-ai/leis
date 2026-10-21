@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.167, de 2021-09-01
-
 LEI Nº 7.167, DE 1º DE SETEMBRO DE 2021.
 
 Institui o programa de fomento à produção artesanal de cerveja e sua comercialização no âmbito do município de Rio Verde-GO.

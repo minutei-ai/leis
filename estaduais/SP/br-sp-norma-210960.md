@@ -1,5 +1,3 @@
-# Decreto nº 69.550, de 22/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210960)<br>
 
 # DECRETO N° 69.550, DE 22 DE MAIO DE 2025

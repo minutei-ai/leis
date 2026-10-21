@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 199, de 2024-04-26
-
 Portaria Orçamentária nº 199/2024 - Economia
 
 A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "b" e art. 11 da  [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392/lei-22536), de 9 de Janeiro de 2024, conforme Processo nº 202400004001986.

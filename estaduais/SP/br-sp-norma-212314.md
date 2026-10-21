@@ -1,5 +1,3 @@
-# Decreto nº 70.430, de 10/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212314)<br>
 
 # DECRETO N° 70.430, DE 10 DE MARÇO DE 2026

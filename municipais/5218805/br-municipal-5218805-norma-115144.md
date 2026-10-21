@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.484, de 2024-02-26
-
 ~~LEI Nº 7.484, DE 26 DE FEVEREIRO DE 2024.~~
 
 ~~Concede auxílio-moradia aos médicos-residentes do Programa de Residência Médica da Universidade de Rio Verde.~~

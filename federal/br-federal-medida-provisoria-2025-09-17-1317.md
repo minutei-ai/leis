@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.317 de 17/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.317, DE 17 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 13.709, de 14 de agosto de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709), para tratar da Agência Nacional de Proteção de Dados, a [Lei nº 10.871, de 20 de maio de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-05-20;10871), para criar a Carreira de Regulação e Fiscalização de Proteção de Dados, transforma cargos no âmbito do Poder Executivo federal, e dá outras providências.

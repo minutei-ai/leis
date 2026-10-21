@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.840, de 2025-12-20
-
 DECRETO Nº 10.840, DE 20 DE DEZEMBRO DE 2025
 
 Altera o [Decreto nº 9.900](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104182 "Abrir Decreto Numerado nº 9900, de 2021 em nova aba"), de 7 de julho de 2021, que dispõe sobre o procedimento administrativo para a realização de pesquisa de preços para aquisição de bens e contratação de serviços em geral, no âmbito da administração pública estadual direta, autárquica e fundacional.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 67, de 2024-02-06
-
 DECRETO “N” Nº 67 DE 06 DE FEVEREIRO DE 2024.<br>
 (Revogado pelo Decreto "N" nº 164, de 22 de março de 2024).
 

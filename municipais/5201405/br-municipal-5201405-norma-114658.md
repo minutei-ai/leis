@@ -1,5 +1,3 @@
-# Decreto Numerado nº 104, de 2024-03-04
-
 DECRETO “N” Nº 104 DE 04 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.958, de 2024-08-28
-
 LEI Nº 22.958, DE 28 DE AGOSTO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

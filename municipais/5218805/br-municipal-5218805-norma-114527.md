@@ -1,5 +1,3 @@
-# Lei Complementar nº 383, de 2025-03-24
-
 LEI COMPLEMENTAR Nº 383, DE 24 DE MARÇO DE 2025.
 
 Concede isenção de ITBI a empreendimentos habitacionais formalizados no âmbito do Programa de Arrendamento Residencial (PAR) localizados no Bairro Maranata.

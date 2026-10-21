@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.166 de 22/03/2023
-
 MEDIDA PROVISÓRIA Nº 1.166, DE 22 DE MARÇO DE 2023
 
 Institui o Programa de Aquisição de Alimentos e altera a Lei nº 12.512, de 14 de outubro de 2011, e a Lei nº 14.133, de 1º de abril de 2021.

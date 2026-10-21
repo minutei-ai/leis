@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.127 de 24/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.127, DE 24 DE JUNHO DE 2022
 
 Altera a Lei nº 9.636, de 15 de maio de 1998, para modificar a forma de reajuste das receitas patrimoniais da União decorrentes da atualização da planta de valores.

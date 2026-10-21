@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.604, de 2025-08-29
-
 LEI Nº 23.604, DE 29 DE AGOSTO DE 2025
 
 Institui o Mês Estadual “Julho Neon”, dedicado à democratização do acesso à saúde bucal, e dá outras providências.

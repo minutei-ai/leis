@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.842, de 2025-11-14
-
 LEI Nº 23.842, DE 14 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 7.308](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89988 "Abrir Lei Ordinária nº 7308, de 1971 em nova aba"), de 07 de maio de 1971, que dispõe sobre denominação de próprios estaduais e dá outras providências.

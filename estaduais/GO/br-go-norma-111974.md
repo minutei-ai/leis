@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.846, de 2025-12-28
-
 DECRETO Nº 10.846, DE 28 DE DEZEMBRO DE 2025
 
 Institui, exclusivamente para o exercício de 2026, a Gratificação de Estímulo à Efetiva Regência de Classe – GEERC e a Gratificação de Coordenação Pedagógica – GRATCP na Secretaria de Estado da Educação – SEDUC, em conformidade com as [Leis nº 13.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81526), de 25 de setembro de 2001, [nº 21.793](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106754), de 17 de fevereiro de 2023, e [nº 23.068](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109911), de 11 de novembro de 2024.

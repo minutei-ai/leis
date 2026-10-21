@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.406, de 2025-05-21
-
 DECRETO Nº 1.406, DE 21 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Norbéquio Silvestre das Chagas no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

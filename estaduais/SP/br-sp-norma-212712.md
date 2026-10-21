@@ -1,5 +1,3 @@
-# Lei nº 18.477, de 09/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212712)<br>
 
 # LEI N° 18.477, DE 09 DE JUNHO DE 2026

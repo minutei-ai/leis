@@ -1,5 +1,3 @@
-# Lei Complementar nº 28, de 2010-09-20
-
 LEI COMPLEMENTAR Nº 028, DE 20 DE SETEMBRO DE 2010.
 
 Altera o anexo X, da Lei Municipal nº 2.606, de 26 de setembro de 2006 – Planos de Cargos e Salários dos Servidores da Secretaria Municipal da Educação de Aparecida de Goiânia e dá outras providências.

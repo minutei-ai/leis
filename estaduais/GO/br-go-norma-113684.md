@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.181, de 2026-03-27
-
 LEI Nº 24.181, DE 27 DE MARÇO DE 2026
 
 Concede o título de cidadania que especifica.

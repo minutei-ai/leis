@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.690, de 2022-11-23
-
 LEI MUNICIPAL Nº 3.690 DE 23 DE NOVEMBRO DE 2022.
 
 Reconhece como Utilidade Pública Municipal “LIONS CLUBE DE GOIÂNIA MARISTA”, e dá outras providências.

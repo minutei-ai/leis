@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.678, de 2025-11-27
-
 DECRETO Nº 2.678, DE 27 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Avenida Rio Branco, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

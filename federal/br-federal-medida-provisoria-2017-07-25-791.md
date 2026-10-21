@@ -1,5 +1,3 @@
-# Medida Provisória nº 791 de 25/07/2017
-
 MEDIDA PROVISÓRIA Nº 791, DE 25 DE JULHO DE 2017
 
 Cria a Agência Nacional de Mineração e extingue o Departamento Nacional de Produção Mineral.

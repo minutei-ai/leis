@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.983, de 2025-12-23
-
 LEI Nº 23.983, DE 23 DE DEZEMBRO DE 2025
 
 Institui medidas facilitadoras para o contribuinte negociar seus débitos relacionados aos impostos estaduais.

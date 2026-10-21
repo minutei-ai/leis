@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.831, de 2025-12-16
-
 DECRETO Nº 2.831, DE 16 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua 07, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

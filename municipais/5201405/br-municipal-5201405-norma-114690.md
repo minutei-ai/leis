@@ -1,5 +1,3 @@
-# Decreto Numerado nº 398, de 2026-05-20
-
 DECRETO Nº 398, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua 126, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

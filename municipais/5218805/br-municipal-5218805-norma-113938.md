@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.807, de 2026-02-19
-
 LEI Nº 7.807, DE 19 DE FEVEREIRO DE 2026.
 
 Autoriza a revisão geral anual dos vencimentos e do valor do auxílio-alimentação dos servidores efetivos e comissionados da FESURV – Universidade de Rio Verde.

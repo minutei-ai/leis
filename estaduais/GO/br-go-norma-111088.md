@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.733, de 2025-07-14
-
 DECRETO Nº 10.733, DE 14 DE JULHO DE 2025
 
 Declara a caducidade do [Decreto nº 10.027](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105067), de 1º de fevereiro de 2022, que qualificou, como organização social de saúde, no âmbito do Estado de Goiás, o Centro de Gestão Integrada – CGI

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1099, de 2024-12-12
-
 DECRETO “N” Nº 1099 DE 12 DE DEZEMBRO DE 2024
 
 Dispõe sobre remembramento de imóveis.

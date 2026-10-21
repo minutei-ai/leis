@@ -1,5 +1,3 @@
-# Decreto Numerado nº 70, de 2026-01-20
-
 DECRETO Nº 070, DE 20 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua C-9, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

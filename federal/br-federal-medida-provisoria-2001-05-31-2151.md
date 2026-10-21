@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.151 de 31/05/2001
-
 ###MPV-002151-0-000-31-05-2001@@@
 
 MEDIDA PROVISÓRIA Nº  2.151, DE 31 DE MAIO DE 2001

@@ -1,5 +1,3 @@
-# Medida Provisória nº 121 de 25/06/2003
-
 ###MPV-000121-0-000-25-06-2003@@@
 
 MEDIDA PROVISÓRIA Nº 121, DE 25 DE JUNHO 2003.

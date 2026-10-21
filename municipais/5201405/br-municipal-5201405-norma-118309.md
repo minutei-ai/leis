@@ -1,5 +1,3 @@
-# Decreto Numerado nº 534, de 2023-09-11
-
 DECRETO “N” Nº 534 DE 11 DE SETEMBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

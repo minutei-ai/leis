@@ -1,5 +1,3 @@
-# Decreto Numerado nº 450, de 2023-07-06
-
 DECRETO “N” Nº 450 DE 06 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no loteamento PAPILLON PARK, neste município.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.899, de 2026-04-30
-
 LEI Nº 3.899, DE 30 DE ABRIL DE 2026
 
 Reconhece o Movimento Flashback como Patrimônio Cultural Material e Imaterial do Município de Aparecida de Goiânia e dá outras providências.

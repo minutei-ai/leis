@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.404, de 2008-03-04
-
 LEI COMPLEMENTAR Nº 5.404, DE 04 DE MARÇO DE 2008.
 
 Acrescenta o § 3º ao art. 6º da Lei n. 3.633/98, de 04 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos e dá outras providências.

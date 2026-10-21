@@ -1,5 +1,3 @@
-# Decreto Numerado nº 92, de 2023-02-03
-
 DECRETO “N” Nº 92 DE 03 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel do Loteamento BAIRRO ITAPOÃ, neste município.

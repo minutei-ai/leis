@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.658, de 2022-03-02
-
 LEI MUNICIPAL Nº 3.658 DE 02 DE MARÇO DE 2022.
 
 “Concede revisão geral anual, nos termos do artigo 37, X, da Constituição Federal, art. 168 da Lei Orgânica do Município, art. 4º da Lei Complementar Municipal nº 038/2011, art. 1º da Lei Municipal nº. 3.412/2018 e Lei Municipal nº 3.434/2018, à Câmara Municipal e dá outras providências.”

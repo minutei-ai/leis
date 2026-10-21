@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.002, de 2024-09-19
-
 LEI Nº 23.002, DE 19 DE setembro DE 2024
 
 Concede o título de cidadania que especifica.

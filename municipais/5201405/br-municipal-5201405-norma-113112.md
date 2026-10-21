@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.185, de 2025-09-08
-
 DECRETO Nº 2.185, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 08, 09 e 10, todos da Quadra 09, situados à Rua 6 e Rua Aurélio Rodrigues da Silva, no Loteamento Jardim Bonança, no Município de Aparecida de Goiânia.

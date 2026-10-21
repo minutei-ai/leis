@@ -1,5 +1,3 @@
-# Lei Complementar nº 359, de 2024-06-24
-
 LEI COMPLEMENTAR Nº 359, DE 24 DE JUNHO DE 2024.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município de Rio Verde.

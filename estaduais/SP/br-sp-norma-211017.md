@@ -1,5 +1,3 @@
-# Decreto nº 69.582, de 05/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211017)<br>
 
 # DECRETO N° 69.582, DE 05 DE JUNHO DE 2025

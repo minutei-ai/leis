@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.386 de 24/08/2026
-
 MEDIDA PROVISÓRIA Nº 1.386, DE 24 DE AGOSTO DE 2026
 
 Dispõe sobre a prorrogação excepcional dos prazos de suspensão de tributos previstos no regime aduaneiro especial de drawback suspensão, de que trata o [art. 12 da Lei nº 11.945, de 4 de junho de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-06-04;11945!art12), para atos concessórios cujo cumprimento dos compromissos de exportação seja comprovadamente afetado pela aplicação de tarifas adicionais, diferenciadas por país de origem, sobre exportações brasileiras aos Estados Unidos da América.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.872, de 2024-07-19
-
 LEI Nº 22.872, DE 19 DE JULHO DE 2024
 
 Institui a Política Estadual “Jovem Monitor Cultural”.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.142 de 29/03/2001
-
 ###MPV-002142-0-000-29-03-2001@@@
 
 MEDIDA PROVISÓRIA Nº 2.142, DE 29 DE MARÇO DE 2001

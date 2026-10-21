@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.873, de 2009-12-11
-
 LEI MUNICIPAL Nº. 2.873, DE 11 DE DEZEMBRO DE 2009.
 
 Dispõe sobre o Reconhecimento de Utilidade Pública Municipal.

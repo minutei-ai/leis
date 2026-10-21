@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.190 de 27/09/2023
-
 MEDIDA PROVISÓRIA Nº 1.190, DE 27 DE SETEMBRO DE 2023
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 400.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.384, de 2025-10-07
-
 DECRETO Nº 2.384, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra B-22, situado à Rua C-46, no Loteamento Jardim Boa Esperança - Continuação, no Município de Aparecida de Goiânia.

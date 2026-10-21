@@ -1,5 +1,3 @@
-# Lei Complementar nº 172, de 2020-07-03
-
 LEI COMPLEMENTAR Nº 172 , DE 03 DE JULHO DE 2020.
 
 Dispõe sobre a alteração do § 1º do art. 2º da Lei Complementar Municipal nº 127/17, alterada pela Lei Complementar Municipal nº 145/18, assim como do seu anexo II.

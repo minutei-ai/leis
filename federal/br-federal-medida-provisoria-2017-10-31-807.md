@@ -1,5 +1,3 @@
-# Medida Provisória nº 807 de 31/10/2017
-
 MEDIDA PROVISÓRIA Nº 807, DE 31 DE OUTUBRO DE 2017
 
 Altera a [Lei nº 13.496, de 24 de outubro de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-10-24;13496), que institui o Programa Especial de Regularização Tributária - Pert na Secretaria da Receita Federal do Brasil e na Procuradoria-Geral da Fazenda Nacional.

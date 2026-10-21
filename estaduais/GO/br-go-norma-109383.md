@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.525, de 2024-08-13
-
 DECRETO Nº 10.525, DE 13 DE AGOSTO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.813, de 2025-11-10
-
 LEI Nº 23.813, DE 10 DE NOVEMBRO DE 2025
 
 Autoriza a aquisição, por doação onerosa, por parte do Município de Hidrolândia/GO, do imóvel que especifica.

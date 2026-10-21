@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.297, de 2026-05-21
-
 LEI Nº 24.297, DE 21 DE MAIO DE 2026
 
 Altera a [Lei nº 22.133](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107512), de 21 de julho de 2023, que institui o Dia Estadual do Sociólogo.

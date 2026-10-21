@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.353 de 30/04/2026
-
 MEDIDA PROVISÓRIA Nº 1.353, DE 30 DE ABRIL DE 2026
 
 Altera a [Lei nº 14.042, de 19 de agosto de 2020](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2020-08-19;14042), para autorizar a União a aumentar a sua participação no Fundo Garantidor para Investimentos - FGI, e autoriza a destinação de recursos para disponibilizar linhas de financiamento reembolsável a pessoas físicas ou jurídicas de direito privado para aquisição de caminhões, caminhões-tratores, ônibus, micro-ônibus ou implementos rodoviários, desde que os veículos atendam a critérios de sustentabilidade ambiental, social e econômica.

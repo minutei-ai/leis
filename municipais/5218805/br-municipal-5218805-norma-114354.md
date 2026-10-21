@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.675, de 2025-06-30
-
 LEI Nº 7.675, DE 30 DE JUNHO DE 2025.
 
 Dispõe sobre a denominação de prédio público e dá outras providências.

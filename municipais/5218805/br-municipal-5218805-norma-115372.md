@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.379, de 2023-06-28
-
 LEI Nº 7.379, DE 28 DE JUNHO DE 2023.
 
 Reconhece como Utilidade Pública Municipal a Associação Esportiva Para Integração Cultural.

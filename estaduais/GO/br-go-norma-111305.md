@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.687, de 2025-09-24
-
 LEI Nº 23.687, DE 24 DE SETEMBRO DE 2025
 
 Institui a Política Estadual de Atenção Integral à Doença de Huntington e o Dia Estadual de Conscientização sobre a Doença de Huntington.

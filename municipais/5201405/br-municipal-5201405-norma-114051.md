@@ -1,5 +1,3 @@
-# Decreto Numerado nº 674, de 2024-08-15
-
 DECRETO “N” Nº 674, DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidora da Secretaria Municipal de Educação.

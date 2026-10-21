@@ -1,5 +1,3 @@
-# Medida Provisória nº 109 de 11/03/2003
-
 ###MPV-000109-0-000-11-03-2003@@@
 
 MEDIDA PROVISÓRIA Nº 109, DE 11 DE MARÇO 2003.

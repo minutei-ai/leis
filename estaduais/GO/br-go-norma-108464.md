@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 79, de 2024-02-21
-
 EMENDA CONSTITUCIONAL Nº 79, DE 21 DE FEVEREIRO DE 2024.
 
 Altera o Ato das Disposições Constitucionais Transitórias da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).

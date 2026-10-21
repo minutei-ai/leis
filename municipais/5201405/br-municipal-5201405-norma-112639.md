@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.525, de 2025-06-11
-
 DECRETO Nº 1.525, DE 11 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua H-134 e Avenida V-4, no Loteamento Cidade Vera Cruz, no Município de Aparecida de Goiânia.

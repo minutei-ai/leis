@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.182, de 2014-06-05
-
 LEI MUNICIPAL Nº 3.182, DE 05 DE JUNHO DE 2014.
 
 Institui data comemorativa denominada “Dia Municipal dos Povos e Comunidades Matriz Africanas de Aparecida de Goiânia-GO”, e dá outras providências.

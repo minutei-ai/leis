@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.955, de 2026-07-10
-
 **DECRETO Nº 10.955 DE 10 DE JULHO DE 2026**<br>
 \- [Revogado pelo Decreto nº 10.957, de 15-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116242), art. 11.
 

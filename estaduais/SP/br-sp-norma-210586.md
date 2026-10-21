@@ -1,5 +1,3 @@
-# Lei nº 18.082, de 06/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210586)<br>
 
 # LEI N° 18.082, DE 06 DE FEVEREIRO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.815, de 2025-11-26
-
 DECRETO Nº 10.815, DE 26 DE NOVEMBRO DE 2025
 
 Institui e regulamenta, na Secretaria de Estado da Educação – SEDUC, o Prêmio Redação Enem, direcionado aos resultados obtidos na prova de Redação do Exame Nacional do Ensino Médio – Enem, aplicado exclusivamente no ano de 2025.

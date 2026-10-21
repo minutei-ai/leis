@@ -1,5 +1,3 @@
-# Ato do Presidente nº 143, de 07/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213030)<br>
 
 # ATO DO PRESIDENTE N° 143, DE 2026

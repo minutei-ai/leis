@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.342 de 17/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.342, DE 17 DE MARÇO DE 2026
 
 Abre crédito extraordinário em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome e do Ministério das Cidades; de Encargos Financeiros da União; e de Operações Oficiais de Crédito, no valor de R$ 1.305.000.000,00, para os fins que especifica.

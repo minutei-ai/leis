@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.229 de 06/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.229, DE 6 DE JUNHO DE 2024
 
 Dispõe sobre a prestação de apoio financeiro pela União aos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública reconhecido pelo Poder Executivo federal que não tenham sido contemplados pela [Medida Provisória nº 1.222, de 21 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2024-05-21;1222).

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 422, de 2023-06-27
-
 DECRETO “N” Nº 422 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento GARAVELO RESIDENCIAL PARK, neste município.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 473, de 2026-06-15
-
 DECRETO Nº 473, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 23, situado à Avenida 2º Radial, no Loteamento Bairro Cardoso - Continuação, no Município de Aparecida de Goiânia.

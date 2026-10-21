@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.164, de 2025-04-04
-
 DECRETO Nº 1.164, DE 04 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento de imóvel, localizado no Município de Aparecida de Goiânia.

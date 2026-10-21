@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.144, de 2025-09-04
-
 DECRETO Nº 2.144, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, da Quadra 65, situado à Rua Helio Siqueira, no Loteamento Setor Serra Dourada 3ª etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 304, de 2026-04-23
-
 DECRETO Nº 304, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua R-2, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

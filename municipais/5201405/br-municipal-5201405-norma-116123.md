@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.041, de 2012-06-15
-
 LEI MUNICIPAL Nº 3.041, DE 15 DE JUNHO DE 2012.
 
 “Altera o nome da Rua Mucuri para Avenida VEREADOR VAGNER DA SILVA FERREIRA”

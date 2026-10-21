@@ -1,5 +1,3 @@
-# Medida Provisória nº 649 de 05/06/2014
-
 MEDIDA PROVISÓRIA Nº 649, DE 5 DE JUNHO DE 2014
 
 Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor quanto à carga tributária incidente sobre mercadorias e serviços.

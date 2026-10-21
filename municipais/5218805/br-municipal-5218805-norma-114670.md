@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.483, de 2008-10-29
-
 LEI COMPLEMENTAR Nº 5.483, DE 29 DE OUTUBRO DE 2008.
 
 Altera o art. 6º, Parágrafo Único, Inciso XII da Lei Complementar nº. 3.633/1998 que menciona.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 808 de 14/11/2017
-
 MEDIDA PROVISÓRIA Nº 808, DE 14 DE NOVEMBRO DE 2017
 
 Altera a [Consolidação das Leis do Trabalho](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452) - CLT, aprovada pelo [Decreto-Lei nº 5.452, de 1º de maio de 1943](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452).

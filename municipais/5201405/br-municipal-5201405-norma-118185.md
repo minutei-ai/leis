@@ -1,5 +1,3 @@
-# Decreto Numerado nº 406, de 2023-06-22
-
 DECRETO “N” Nº 406 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR COLONIAL SUL, neste município.

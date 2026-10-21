@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.713, de 2023-05-04
-
 LEI MUNICIPAL Nº 3.713 DE 04 DE MAIO DE 2023.
 
 “Dispõe sobre a obrigatoriedade de Hospitais veterinário privados de Aparecida de Goiânia, exibirem tabela de preços dos serviços prestados, na forma que menciona e dá outras providências”

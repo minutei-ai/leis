@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.523, de 2023-12-29
-
 LEI Nº 22.523, DE 29 DE DEZEMBRO DE 2023
 
 Altera a [Lei nº 13.460](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81303), de 05 de maio de 1999, que fixa a tabela de vencimentos dos cargos constantes do Quadro de Pessoal da Secretaria da Assembleia Legislativa do Estado de Goiás e a dos Quadros de Pessoal da Procuradoria Geral da Assembleia Legislativa do Estado de Goiás.

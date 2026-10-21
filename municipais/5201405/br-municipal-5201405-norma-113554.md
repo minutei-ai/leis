@@ -1,5 +1,3 @@
-# Decreto Numerado nº 203, de 2026-03-12
-
 DECRETO Nº 203, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua C.11, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

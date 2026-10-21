@@ -1,5 +1,3 @@
-# Decreto Numerado nº 541, de 2026-09-29
-
 DECRETO Nº 541, DE 29 DE SETEMBRO DE 2026
 
 Altera o Anexo do Decreto nº 324, de 30 de abril de 2026, que aprovou a Regularização Fundiária Urbana de Interesse Específico – Reurb-E da gleba situada na BR-153, denominada Lote 6/8, no loteamento Setor Expansul II, no Município de Aparecida de Goiânia.

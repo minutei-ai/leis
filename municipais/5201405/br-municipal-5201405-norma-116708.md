@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.398, de 2017-12-18
-
 LEI MUNICIPAL Nº 3.398, DE 18 DE DEZEMBRO DE 2017
 
 “Altera a Lei Municipal n° 1.794/98, que autoriza o Executivo Municipal a adquirir imóveis que especifica, para finalidades diversas.”

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.539, de 2024-02-01
-
 LEI Nº 22.539, DE 1º FEVEREIRO DE 2024
 
 Concede o título de cidadania que especifica.

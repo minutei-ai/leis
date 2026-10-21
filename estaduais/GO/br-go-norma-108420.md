@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.403, de 2024-02-01
-
 DECRETO Nº 10.403, DE 1º DE FEVEREIRO DE 2024
 
 Aprova o Regulamento da Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária – EMATER.

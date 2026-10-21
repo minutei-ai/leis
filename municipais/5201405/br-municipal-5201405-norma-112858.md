@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.757, de 2025-07-07
-
 DECRETO Nº 1.757, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Catalão no Loteamento Setor Comendador Walmor, no Município de Aparecida de Goiânia.

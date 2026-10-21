@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.919, de 2026-07-13
-
 LEI Nº 3.919, DE 13 DE JULHO DE 2026
 
 Institui o Fluxo Diferenciado de Atendimento para Crianças Neurodivergentes no âmbito do Sistema Único de Saúde (SUS) no Município de Aparecida de Goiânia.

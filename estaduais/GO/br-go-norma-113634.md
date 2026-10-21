@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.881, de 2026-03-19
-
 DECRETO Nº 10.881, DE 19 DE MARÇO DE 2026
 
 Regulamenta, de modo excepcional e específico, a [Lei nº 22.503](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108277), de 22 de dezembro de 2023, para disciplinar as condições de ingresso e consumo de alimentos e bebidas, além de eventuais medidas administrativas, no evento esportivo internacional de motociclismo MotoGP™ – Grande Prêmio de Goiás.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 368, de 2024-12-02
-
 LEI COMPLEMENTAR Nº 368, DE 2 DE DEZEMBRO DE 2024.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município de Rio Verde.

@@ -1,5 +1,3 @@
-# LEI Nº 15.022 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.022 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a Federação Baiana de Karatê Interestilos, com sede e foro no município de Salvador.

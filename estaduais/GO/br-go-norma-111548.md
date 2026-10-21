@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.810, de 2025-11-07
-
 LEI Nº 23.810, DE 7 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 22.552](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108520 "Abrir Lei Ordinária nº 22552, de 2024 em nova aba"), de 8 de março de 2024, que autoriza a concessão de subsídio aos beneficiários de programas habitacionais realizados em parceria com o Governo Federal, por intermédio da Caixa Econômica Federal, do Banco do Brasil ou de outras instituições financeiras credenciadas pelo Ministério das Cidades, para a aquisição de unidades habitacionais no Estado de Goiás, e estabelece novas regras referentes aos percentuais do subsídio para o pagamento integral em substituição financeira às prestações devidas pelas famílias beneficiárias e fixa valores para a complementação dos investimentos globais destinados à produção dos empreendimentos contratados com recursos do Fundo de Arrendamento Residencial – FAR.

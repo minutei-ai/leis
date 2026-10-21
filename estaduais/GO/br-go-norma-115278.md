@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.348, de 2026-06-12
-
 LEI Nº 24.348, DE 12 DE JUNHO DE 2026
 
 Altera a [Lei nº 20.297](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100240), de 02 de outubro de 2018, que dispõe sobre a realização, em crianças, de exame destinado a detectar deficiência auditiva, e dá outras providências.

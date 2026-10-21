@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.525, de 2019-11-21
-
 LEI MUNICIPAL Nº 3.525, DE 21 DE NOVEMBRO DE 2019
 
 “Dispõe sobre a denominação da Praça José Luiz de Deus, no Setor Vila Brasília, neste Município e dá outras providências.”

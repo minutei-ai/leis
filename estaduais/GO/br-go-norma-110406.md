@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.242, de 2025-01-23
-
 LEI Nº 23.242, DE 23 DE JANEIRO DE 2025
 
 Dispõe sobre normas relativas à exploração direta ou mediante concessão dos serviços locais de gás canalizado no Estado de Goiás e dá outras providências.

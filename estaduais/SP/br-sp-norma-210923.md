@@ -1,5 +1,3 @@
-# Ato do Presidente nº 57, de 06/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210923)<br>
 
 # ATO DO PRESIDENTE N° 57, DE 06 DE MAIO DE 2025

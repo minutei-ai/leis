@@ -1,5 +1,3 @@
-# Decreto Numerado nº 467, de 2024-06-14
-
 DECRETO “N” Nº 467, DE 14 DE JUNHO DE 2024.
 
 Dispõe sobre a liberação parcial dos lotes caucionados do Loteamento Jardins Bellagio e Condomínios Edílicos Jardim Bellagio 1 e 2, neste município.

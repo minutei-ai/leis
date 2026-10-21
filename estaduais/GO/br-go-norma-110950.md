@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.487, de 2025-06-13
-
 LEI Nº 23.487, DE 13 DE JUNHO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

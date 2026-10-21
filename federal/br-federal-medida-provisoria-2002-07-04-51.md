@@ -1,5 +1,3 @@
-# Medida Provisória nº 51 de 04/07/2002
-
 ###MPV-000051-0-000-04-07-2002@@@
 
 MEDIDA PROVISÓRIA Nº 51, DE 4 DE JULHO DE 2002

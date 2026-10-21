@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.056, de 2012-07-12
-
 LEI MUNICIPAL Nº 3.056, DE 12 DE JULHO DE 2012.
 
 Dispõe sobre a qualificação de entidades como organizações sociais municipais e dá outras providências.

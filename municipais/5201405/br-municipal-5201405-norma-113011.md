@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.049, de 2025-08-25
-
 DECRETO Nº 2.049, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, da Quadra 27, situado à Rua C-7, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

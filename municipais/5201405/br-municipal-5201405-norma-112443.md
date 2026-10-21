@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.176, de 2025-04-10
-
 DECRETO Nº 1.176, DE 10 DE ABRIL DE 2025<br>
 (Revogado pelo Decreto Numerado nº 1.481, de 3 de junho de 2025)
 

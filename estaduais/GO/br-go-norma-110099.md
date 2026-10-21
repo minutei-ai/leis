@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.138, de 2024-12-06
-
 LEI Nº 23.138, DE 6 DE DEZEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

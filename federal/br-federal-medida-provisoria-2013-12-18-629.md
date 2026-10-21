@@ -1,5 +1,3 @@
-# Medida Provisória nº 629 de 18/12/2013
-
 MEDIDA PROVISÓRIA Nº\- 629, DE 18 DE DEZEMBRO DE 2013
 
 Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2013, com o objetivo de fomentar as exportações do País.

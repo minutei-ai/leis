@@ -1,5 +1,3 @@
-# Lei Complementar nº 124, de 2016-12-14
-
 LEI COMPLEMENTAR Nº 124 DE 14 DE DEZEMBRO DE 2016.
 
 Institui o Plano Diretor e estabelece princípios, políticas, estratégias e instrumentos para o desenvolvimento municipal, o uso, a ocupação e o parcelamento do solo urbano, o sistema viário e para o cumprimento da Função Social da Cidade e da Propriedade no Município de Aparecida de Goiânia e dá outras providências.

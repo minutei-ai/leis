@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.821, de 2025-12-01
-
 DECRETO Nº 10.821, DE 1º DE DEZEMBRO DE 2025
 
 Dispõe sobre ponto facultativo nas repartições públicas estaduais nos dias 24, 26 e 31 de dezembro de 2025 e 2 de janeiro de 2026, em razão das comemorações do Natal e do Ano Novo.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 138, de 2017-12-14
-
 LEI COMPLEMENTAR Nº 138, DE 14 DE DEZEMBRO DE 2017
 
 Prorroga o prazo de vigência dos valores da Gratificação Especial por Função Específica constante do Anexo I da Lei Complementar nº 130/2017.

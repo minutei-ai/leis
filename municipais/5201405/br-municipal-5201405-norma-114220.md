@@ -1,5 +1,3 @@
-# Decreto Numerado nº 194, de 2024-04-01
-
 DECRETO “N” Nº 194, DE 01 DE ABRIL DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Bairro Independência neste município como de Interesse Social.

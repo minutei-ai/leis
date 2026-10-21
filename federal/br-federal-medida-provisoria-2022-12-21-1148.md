@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.148 de 21/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.148, DE 21 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 12.973, de 13 de maio de 2014, para ampliar o prazo de vigência do crédito presumido e do regime de consolidação.

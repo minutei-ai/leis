@@ -1,5 +1,3 @@
-# Medida Provisória nº 181 de 12/04/2004
-
 ###MPV-000181-0-000-12-04-2004@@@
 
 MEDIDA PROVISÓRIA Nº 181, DE 12 DE ABRIL 2004

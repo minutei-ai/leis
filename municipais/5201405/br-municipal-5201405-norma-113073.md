@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.755, de 2025-12-08
-
 DECRETO Nº 2.755, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua 14 de Janeiro, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

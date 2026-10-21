@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.834, de 2025-12-16
-
 DECRETO Nº 2.834, DE 16 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Pindorama, no Loteamento Internacional Park, no Município de Aparecida de Goiânia.

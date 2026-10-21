@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.280, de 2025-03-18
-
 LEI Nº 23.280, DE 17 DE março DE 2025
 
 Confere ao Município de Terezópolis de Goiás/GO o título de Capital Estadual do Requeijão.

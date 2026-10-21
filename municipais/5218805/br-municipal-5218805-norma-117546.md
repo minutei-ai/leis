@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.129, de 2021-03-17
-
 LEI N° 7.129, DE 17 DE MARÇO DE 2021.
 
 Dispõe sobre a criação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Conselho do FUNDEB e dá outras providências.

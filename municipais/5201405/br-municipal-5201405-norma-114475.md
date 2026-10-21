@@ -1,5 +1,3 @@
-# Decreto Numerado nº 382, de 2026-05-14
-
 DECRETO Nº 382, DE 14 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Dr. Antônio Felix da Silva, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

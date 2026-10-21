@@ -1,5 +1,3 @@
-# Decreto Numerado nº 447, de 2023-07-06
-
 DECRETO “N” Nº 447 DE 06 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no loteamento PONTAL SUL ACRÉSCIMO, neste município.

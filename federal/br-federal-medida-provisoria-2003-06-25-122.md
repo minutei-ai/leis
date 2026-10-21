@@ -1,5 +1,3 @@
-# Medida Provisória nº 122 de 25/06/2003
-
 ###MPV-000122-0-000-25-06-2003@@@
 
 MEDIDA PROVISÓRIA Nº 122, DE 25 DE JUNHO 2003.       

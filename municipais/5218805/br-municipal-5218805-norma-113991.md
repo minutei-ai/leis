@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.799, de 2025-12-15
-
 LEI Nº 7.799, DE 15 DE DEZEMBRO DE 2025.
 
 Institui no Município de Rio Verde o Dia Municipal do Radiologista e dá outras providências.

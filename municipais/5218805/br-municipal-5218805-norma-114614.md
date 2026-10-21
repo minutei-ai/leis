@@ -1,5 +1,3 @@
-# Lei Complementar nº 140, de 2018-10-29
-
 LEI COMPLEMENTAR Nº 140, DE 29 DE OUTUBRO DE 2018.
 
 Altera a Lei n. 3.635/1998, que aprova o Código de Posturas.

@@ -1,5 +1,3 @@
-# Decreto nº 70.450, de 11/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212337)<br>
 
 # DECRETO N° 70.450, DE 11 DE MARÇO DE 2026

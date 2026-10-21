@@ -1,5 +1,3 @@
-# Decreto Numerado nº 7, de 2026-01-06
-
 DECRETO Nº 007, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua 51, no Loteamento Bairro Independência - 3º Complemento, no Município de Aparecida de Goiânia.

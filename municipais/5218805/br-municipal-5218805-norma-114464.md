@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.642, de 2025-04-14
-
 LEI Nº 7.642, DE 14 DE ABRIL DE 2025.
 
 Concede o Título de Utilidade Pública Municipal ao Rotary Club de Rio Verde – Maurício de Nassau e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.904, de 2026-06-12
-
 LEI Nº 3.904, DE 12 DE JUNHO DE 2026
 
 Dispõe sobre a Gratificação de Produtividade aos servidores ocupantes do cargo de Médico Perito Previdenciário do Instituto de Previdência dos Servidores de Aparecida de Goiânia – APARECIDAPREV e dá outras providências.

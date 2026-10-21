@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.192, de 2026-04-03
-
 LEI Nº 24.192, DE 3 DE ABRIL DE 2026
 
 Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas dos Municípios do Estado de Goiás.

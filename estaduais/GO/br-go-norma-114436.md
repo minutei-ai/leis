@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.264, de 2026-05-13
-
 LEI Nº 24.264, DE 13 DE MAIO DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Maior Inter – Interatléticas da Universidade Federal de Goiás, realizado no Município de Goiânia/GO.

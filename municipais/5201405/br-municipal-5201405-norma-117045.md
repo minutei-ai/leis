@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.245, de 2014-12-23
-
 LEI MUNICIPAL N° 3.245, DE 23 DE DEZEMBRO DE 2014.<br>
 (Revogada pela Lei Ordinária nº 3.393, de 6 de dezembro de 2017).
 

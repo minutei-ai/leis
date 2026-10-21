@@ -1,5 +1,3 @@
-# Medida Provisória nº 34 de 06/03/2002
-
 ###MPV-000034-0-000-06-03-2002@@@
 
 MEDIDA PROVISÓRIA Nº 34, DE 6 DE MARÇO DE 2002

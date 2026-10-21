@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.637, de 2025-04-14
-
 LEI Nº 7.637, DE 14 DE ABRIL DE 2025.
 
 Dispõe sobre denominação de ponte localizada na região da Lage e dá outras providências.

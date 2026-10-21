@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.394, de 2025-10-08
-
 DECRETO Nº 2.394, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento do Lote 21, 22 e 23, da Quadra N, situado à Rua 04 e Rua 09, no Loteamento Setor Araguaia, no Município de Aparecida de Goiânia.

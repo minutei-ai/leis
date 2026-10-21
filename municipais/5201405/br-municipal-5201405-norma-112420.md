@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.140, de 2025-03-28
-
 DECRETO Nº 1.140, DE 28 DE MARÇO DE 2025
 
 Dispõe sobre a aprovação do remanejamento da Chácara nº 01 da Quadra 91-E, Chácara nº 92, lotes 01 ao 13 da Quadra 91, lotes 01 ao 16 da Quadra 91-A, lotes 01 ao 16 da Quadra 91-B, lotes 01 ao 16 da Quadra 92-C, lotes 01 ao 16 da Quadra 92-D, Rua 1, Rua 2, Rua 3, Rua 4, Rua 5, Alameda 14 de Julho, Avenida Henrique Coe Neto e Avenida Paulo Regio Jayme Guimarães, localizados no loteamento Chácaras São Pedro, no âmbito do Município de Aparecida de Goiânia.

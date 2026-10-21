@@ -1,5 +1,3 @@
-# Lei Complementar nº 271, de 2022-12-16
-
 LEI COMPLEMENTAR Nº 271, DE 16 DE DEZEMBRO DE 2022
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal.

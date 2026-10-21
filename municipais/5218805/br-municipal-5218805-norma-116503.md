@@ -1,5 +1,3 @@
-# Lei Complementar nº 275, de 2022-12-16
-
 LEI COMPLEMENTAR Nº. 275 DE 16 DE DEZEMBRO DE 2022.
 
 Altera a Lei n. 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município e dá outras providências.

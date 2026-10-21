@@ -1,5 +1,3 @@
-# Decreto Numerado nº 365, de 2026-05-08
-
 DECRETO Nº 365, DE 8 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua dos Carajás, no Loteamento Jardim Ipanema, no Município de Aparecida de Goiânia.

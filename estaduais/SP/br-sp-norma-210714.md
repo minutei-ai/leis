@@ -1,5 +1,3 @@
-# Decreto nº 69.412, de 11/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210714)<br>
 
 # DECRETO N° 69.412, DE 11 DE MARÇO DE 2025

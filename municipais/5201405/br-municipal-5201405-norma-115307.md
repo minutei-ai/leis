@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.599, de 2020-12-21
-
 LEI MUNICIPAL Nº 3.599, DE 21 DE DEZEMBRO DE 2020
 
 “Autoriza o Poder Executivo a contratar empréstimo junto a Instituição Financeira, com garantia da União, para financiamento de obras no âmbito do PROGRAMA DE INFRAESTRUTURA DE APARECIDA 100 ANOS”.

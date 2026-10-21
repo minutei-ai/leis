@@ -1,5 +1,3 @@
-# Decreto Numerado nº 616, de 2023-09-21
-
 DECRETO “N” Nº 616, DE 21 DE SETEMBRO DE 2023.
 
 Nomeia os conselheiros do Colegiado de Recursos Tributários para o biênio de 2023/2024, e dá outras providências.

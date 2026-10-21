@@ -1,5 +1,3 @@
-# Medida Provisória nº 38 de 14/05/2002
-
 ###MPV-000038-0-000-14-05-2002@@@
 
 MEDIDA PROVISÓRIA Nº 38, DE 14 DE MAIO DE 2002

@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 05 DE 06 DE SETEMBRO DE 1994
-
 EMENDA CONSTITUCIONAL Nº 05, DE 06 DE SETEMBRO DE 1994
 
 Altera a redação do § 3º do art. 67 da Constituição Estadual e dá outras providências.

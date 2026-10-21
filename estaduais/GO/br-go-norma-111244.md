@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.657, de 2025-09-09
-
 LEI Nº 23.657, DE 9 DE SETEMBRO DE 2025
 
 Estabelece a Política Estadual de Gerenciamento Adequado de Resíduos Sólidos gerados em eventos e dá outras providências.

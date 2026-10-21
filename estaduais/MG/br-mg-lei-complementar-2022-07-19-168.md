@@ -1,5 +1,3 @@
-# LCP nº 168, de 19/07/2022
-
 Altera a Lei nº 5.301, de 16 de outubro de 1969, que contém o Estatuto dos Militares do Estado de Minas Gerais, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

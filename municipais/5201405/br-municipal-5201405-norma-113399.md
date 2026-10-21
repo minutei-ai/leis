@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.222, de 2025-09-16
-
 DECRETO Nº 2.222, DE 16 DE SETEMBRO DE 2025 O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município,
 
 **DECRETA:**

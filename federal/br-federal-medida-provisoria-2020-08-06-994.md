@@ -1,5 +1,3 @@
-# Medida Provisória nº 994 de 06/08/2020
-
 MEDIDA PROVISÓRIA Nº 994, DE 6 DE AGOSTO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 1.994.960.005,00, para o fim que especifica, e dá outras providências.

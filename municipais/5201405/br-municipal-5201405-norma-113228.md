@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.497, de 2025-10-22
-
 DECRETO Nº 2.497, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua 101, no Loteamento Jardim Tropical, no Município de Aparecida de Goiânia.

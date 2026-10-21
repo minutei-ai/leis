@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.677, de 2025-06-30
-
 LEI Nº 7.677, DE 30 DE JUNHO DE 2025.
 
 Autoriza a desafetação e doação de imóvel que menciona para o Estado de Goiás.

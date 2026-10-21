@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.165, de 2021-09-02
-
 LEI Nº 7.165, DE 02 DE AGOSTO DE  2021.
 
 Autoriza o Município a repactuar a destinação de operação de crédito e dá outras providências.

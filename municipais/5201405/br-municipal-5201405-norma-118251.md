@@ -1,5 +1,3 @@
-# Decreto Numerado nº 469, de 2023-07-17
-
 DECRETO “N” Nº 469 DE 17 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PAPILLON PARK, neste município.

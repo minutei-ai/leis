@@ -1,5 +1,3 @@
-# Decreto nº 70.359, de 04/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212198)<br>
 
 # DECRETO N° 70.359, DE 04 DE FEVEREIRO DE 2026

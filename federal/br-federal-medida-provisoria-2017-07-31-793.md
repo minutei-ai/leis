@@ -1,5 +1,3 @@
-# Medida Provisória nº 793 de 31/07/2017
-
 MEDIDA PROVISÓRIA Nº 793, DE 31 DE JULHO DE 2017
 
 Institui o Programa de Regularização Tributária Rural junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.

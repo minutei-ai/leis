@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.291, de 2025-03-24
-
 LEI Nº 23.291, DE 24 DE MARÇO DE 2025<br>
 \- [Lei com Eficácia suspensa (liminarmente), nos termos da ADI nº 7885-STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18647).
 

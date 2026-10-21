@@ -1,5 +1,3 @@
-# Decreto Numerado nº 935, de 2024-11-01
-
 DECRETO “N” Nº 935, DE 01 DE NOVEMBRO DE 2024.
 
 Designa membros para comporem a Comissão Elaboradora da Planta de Valores Genéricos dos Terrenos Urbanos e Rurais, o Valor da Terra Nua, e a Tabela dos Preços das Construções, para o exercício fiscal de 2025, e dá outras providências.

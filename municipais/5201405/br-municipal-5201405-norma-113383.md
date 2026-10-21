@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.260, de 2025-09-19
-
 DECRETO Nº 2.260, DE 19 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento das Áreas Mansões 01, 02, 03, 04, 05, 06, 07 e 08, todos da Quadra B, situado à Avenida W e Rua J-48, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

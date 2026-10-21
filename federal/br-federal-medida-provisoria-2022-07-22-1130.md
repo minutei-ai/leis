@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.130 de 22/07/2022
-
 MEDIDA PROVISÓRIA Nº 1.130, DE 22 DE JULHO DE 2022
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania e de Encargos Financeiros da União, no valor de R$ 27.094.524.171, para o fim que especifica.

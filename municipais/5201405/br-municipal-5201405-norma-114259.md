@@ -1,5 +1,3 @@
-# Decreto Numerado nº 822, de 2024-10-01
-
 DECRETO “N” Nº 822, DE 01 DE OUTUBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Setor Serra Dourada – 3ª Etapa, neste município como de Interesse Social.

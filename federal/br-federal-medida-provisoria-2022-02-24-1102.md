@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.102 de 24/02/2022
-
 MEDIDA PROVISÓRIA Nº 1.102, DE 24 DE FEVEREIRO DE 2022
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Regional, no valor de R$ 479.866.600,00, para o fim que especifica.

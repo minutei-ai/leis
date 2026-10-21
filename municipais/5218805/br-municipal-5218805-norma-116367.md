@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.272, de 2022-06-13
-
 LEI N° 7.272, DE 13 DE JUNHO DE 2022
 
 Denomina a Praça Pública que menciona.

@@ -1,5 +1,3 @@
-# LCP nº 133, de 05/02/2014
-
 Altera a Lei Complementar nº 102, de 17 de janeiro de 2008, que dispõe sobre a organização do Tribunal de Contas e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

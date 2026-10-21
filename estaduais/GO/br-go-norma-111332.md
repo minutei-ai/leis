@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.693, de 2025-09-29
-
 LEI Nº 23.693, DE 29 DE SETEMBRO DE 2025
 
 Institui a Semana Estadual de Acessibilidade.

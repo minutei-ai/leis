@@ -1,5 +1,3 @@
-# Lei Complementar nº 181, de 2020-05-06
-
 LEI COMPLEMENTAR Nº 181, DE 06 DE MAIO DE 2020.
 
 <br>

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.105 de 17/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.105, DE 17 DE MARÇO DE 2022
 
 Dispõe sobre a possibilidade de movimentação da conta vinculada do Fundo de Garantia do Tempo de Serviço - FGTS.

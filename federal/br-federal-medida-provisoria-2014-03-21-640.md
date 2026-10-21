@@ -1,5 +1,3 @@
-# Medida Provisória nº 640 de 21/03/2014
-
 MEDIDA PROVISÓRIA Nº 640, DE 21 DE MARÇO DE 2014
 
 Cria, em caráter temporário, as Funções Comissionadas de Grandes Eventos - FCGE e extingue Funções Comissionadas Técnicas - FCT.

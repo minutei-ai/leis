@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.090 de 30/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.090, DE 30 DE DEZEMBRO DE 2021
 
 Estabelece os requisitos e as condições para realização das transações resolutivas de litígio relativas à cobrança de créditos do Fundo de Financiamento Estudantil - Fies e altera a Lei nº 10.260, de 12 de julho de 2001, a Lei nº 10.522, de 19 de julho de 2002, e a Lei nº 12.087, de 11 de novembro de 2009.

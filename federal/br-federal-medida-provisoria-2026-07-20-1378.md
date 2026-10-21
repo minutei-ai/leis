@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.378 de 20/07/2026
-
 MEDIDA PROVISÓRIA Nº 1.378, DE 20 DE JULHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério da Previdência Social, no valor de R$ 547.000.000,00, para o fim que especifica.

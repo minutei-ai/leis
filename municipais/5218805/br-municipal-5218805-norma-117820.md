@@ -1,5 +1,3 @@
-# Lei Complementar nº 85, de 2017-05-03
-
 LEI COMPLEMENTAR Nº 85, de 03 de maio de 2017
 
 Aumenta quantitativo de cargos que menciona.

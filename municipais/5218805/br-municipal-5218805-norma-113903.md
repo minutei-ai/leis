@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.828, de 2026-03-23
-
 LEI Nº 7.828, DE 23 DE MARÇO DE 2026.
 
 Altera a [Lei nº 6.865](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114167 "Abrir Lei Ordinária nº 6865, de 2018 em nova aba"), de 5 de julho de 2018, que institui o Programa Municipal de Desenvolvimento Econômico por meio de incentivo à instalação de grandes empreendimentos no território do Município de Rio Verde – GO – PRODEN – RV.

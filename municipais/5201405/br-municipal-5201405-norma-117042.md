@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3252, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.252, DE 23 de dezembro de 2014.
 
 Altera a Lei Municipal n° 3.181/2014 e dá outras providências.

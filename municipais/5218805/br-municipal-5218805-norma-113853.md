@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.841, de 2026-03-23
-
 LEI Nº 7.841, DE 23 DE MARÇO DE 2026.
 
 Institui no Município de Rio Verde-GO a Semana Municipal da Caridade e Missão – Irmã Maria Pia e Dom Miguel Pedro Mundo, e dá outras providências.

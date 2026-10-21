@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.396, de 2025-05-06
-
 LEI Nº 23.396, DE 6 DE MAIO DE 2025
 
 Concede o título de cidadania que especifica.

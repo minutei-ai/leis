@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.420, de 2025-05-15
-
 LEI Nº 23.420, DE 15 DE MAIO DE 2025
 
 Confere ao Município de Anápolis/GO o título de Capital Goiana da Indústria.

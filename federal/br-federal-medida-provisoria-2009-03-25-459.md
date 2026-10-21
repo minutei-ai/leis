@@ -1,5 +1,3 @@
-# Medida Provisória nº 459 de 25/03/2009
-
 ###MPV-000459-0-000-25-03-2009@@@
 
 MEDIDA PROVISÓRIA Nº 459, DE 25 DE MARÇO DE 2009.

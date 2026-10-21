@@ -1,5 +1,3 @@
-# Decreto Numerado nº 958, de 2025-02-24
-
 DECRETO Nº 958, DE 24 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

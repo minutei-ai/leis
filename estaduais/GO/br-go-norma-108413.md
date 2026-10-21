@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.401, de 2024-02-01
-
 DECRETO Nº 10.401, DE 1º DE FEVEREIRO DE 2024
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera da festa popular de Carnaval e parcialmente depois dela.

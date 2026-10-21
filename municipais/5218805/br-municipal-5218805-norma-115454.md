@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.332, de 2023-02-17
-
 LEI N° 7.332, DE 17 DE FEVEREIRO DE 2023.
 
 Autoriza o Poder Executivo a desafetar área e doá-la ao Estado de Goiás.

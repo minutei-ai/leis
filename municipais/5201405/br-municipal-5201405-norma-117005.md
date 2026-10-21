@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.293, de 2015-12-30
-
 LEI MUNICIPAL N° 3.293 DE 30 DE DEZEMBRO DE 2015.
 
 Desafeta e doa área localizada na Gleba A2-Residencial Solar Central Park – Continuação, neste Município, à ACIAG e dá outras providências.<br>

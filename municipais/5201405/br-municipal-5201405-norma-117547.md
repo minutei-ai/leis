@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1004, de 2024-11-21
-
 DECRETO “N” Nº 1004, DE 21 DE NOVEMBRO DE 2024.
 
 Dispõe sobre aprovação do Parcelamento de Solo Loteamento Recanto Pinheiros, neste Município, e dá outras providências.

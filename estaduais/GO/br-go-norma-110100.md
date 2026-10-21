@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.139, de 2024-12-06
-
 LEI Nº 23.139, DE 6 DE DEZEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

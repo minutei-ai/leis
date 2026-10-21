@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.639, de 2025-06-23
-
 DECRETO Nº 1.639, DE 23 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Joaquim Cardoso da Silva no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

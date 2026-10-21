@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.671, de 2025-06-30
-
 LEI Nº 7.671, DE 30 DE JUNHO DE 2025.
 
 Institui o Dia Municipal do Fisioterapeuta e Terapeuta Ocupacional no âmbito do Município de Rio Verde e dá outras providências.

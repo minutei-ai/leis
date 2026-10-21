@@ -1,5 +1,3 @@
-# LEI Nº 14.905 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.905 DE 20 DE MAIO DE 2025
 
 Dispõe sobre a Política Estadual de Conscientização da Segurança e Educação para o Trânsito e Convivência Harmônica entre os Meios de Transportes Terrestres de Veículos Automotores e Ferroviários utilizados para o deslocamento de pessoas e cargas, no âmbito do estado da Bahia, e dá outras  providências.

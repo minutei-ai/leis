@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.858, de 2025-12-18
-
 DECRETO Nº 2.858, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Francisco Antônio Bastos, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

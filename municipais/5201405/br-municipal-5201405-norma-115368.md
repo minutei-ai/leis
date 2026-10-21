@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.682, de 2022-10-21
-
 LEI MUNICIPAL N° 3.682, DE 21 DE OUTUBRO DE 2022
 
 Dispõe sobre a denominação da Unidade Básica de Saúde (UBS) DOMINGOS COELHO DE MORAIS, situada no Setor Expansul, neste Município, e dá outras providências.

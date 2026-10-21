@@ -1,5 +1,3 @@
-# Lei Complementar nº 192, de 2022-04-08
-
 LEI COMPLEMENTAR Nº 192 DE 08 DE ABRIL DE 2022.
 
 Institui a carreira dos Procuradores do Município de Aparecida de Goiânia e dá outras providências.

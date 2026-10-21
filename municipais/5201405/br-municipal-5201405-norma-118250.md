@@ -1,5 +1,3 @@
-# Decreto Numerado nº 468, de 2023-07-17
-
 DECRETO “N” Nº 468 DE 17 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento CIDADE VERA CRUZ, neste município.

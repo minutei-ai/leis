@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.699, de 2025-08-21
-
 LEI N° 7.699, DE 21 DE AGOSTO DE 2025.
 
 Reconhece entidade como Utilidade Pública Municipal e dá outras providências.

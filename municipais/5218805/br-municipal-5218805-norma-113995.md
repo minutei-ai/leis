@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.789, de 2025-12-15
-
 LEI Nº 7.789, DE 15 DE DEZEMBRO DE 2025.
 
 Institui o Programa Orgulho Rio-verdense (Bolsa-Atleta) no Município de Rio Verde - Goiás e dá outras providências.

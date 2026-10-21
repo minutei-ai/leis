@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.530, de 2005-10-10
-
 LEI MUNICIPAL N.º 2.530, DE 10 DE OUTUBRO DE 2005.
 
 Altera os artigos n.ºs. 271 e 273, da Lei Municipal n.º 792, de 07/12/88, que dispõe sobre o Código de Posturas do Município.

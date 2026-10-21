@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.071 de 22/09/2021
-
 MEDIDA PROVISÓRIA Nº 1.071, DE 22 DE SETEMBRO DE 2021
 
 Reduz as alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público e da Contribuição Social para o Financiamento da Seguridade Social, incidentes na importação do milho.

@@ -1,5 +1,3 @@
-# LD Nº 37 DE 14 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 37 DE 14 DE MARÇO DE 1983
 
 Cria a Superintendência de Desportos do Estado da Bahia - SUDESB e dá outras providências.

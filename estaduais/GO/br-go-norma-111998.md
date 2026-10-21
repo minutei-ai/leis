@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.847, de 2025-12-30
-
 DECRETO Nº 10.847, DE 30 DE DEZEMBRO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Vianópolis/GO.

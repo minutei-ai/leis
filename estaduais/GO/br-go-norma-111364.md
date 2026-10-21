@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.793, de 2025-10-03
-
 DECRETO Nº 10.793, DE 3 DE OUTUBRO DE 2025<br>
 [\- Vide Decreto n° 10.856, de 26-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112448) - Prorroga o prazo previsto no art. 5° para 31 de julho de 2026.
 

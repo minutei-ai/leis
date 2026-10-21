@@ -1,5 +1,3 @@
-# Decreto Numerado nº 124, de 2023-02-17
-
 DECRETO “N” Nº 124 DE 17 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

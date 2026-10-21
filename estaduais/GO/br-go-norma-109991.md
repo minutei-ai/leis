@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.582, de 2024-11-27
-
 DECRETO Nº 10.582, DE 27 DE NOVEMBRO DE 2024
 
 Dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2024.

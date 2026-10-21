@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.759, de 2025-12-08
-
 DECRETO Nº 2.759, DE 8 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02, 04, 05, 25, 26 e 27, situados à Rua Ouro Preto e Rua Itaipu, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

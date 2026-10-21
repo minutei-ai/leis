@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.279, de 2015-10-13
-
 LEI MUNICIPAL Nº 3.279, DE 13 DE OUTUBRO DE 2015.<br>
 (Revogada pela Lei Ordinária nº 3.540, de 10 de março de 2020).
 

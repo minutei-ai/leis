@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 16 DE 28 DE JUNHO DE 2013
-
 EMENDA CONSTITUCIONAL Nº 16 DE 28 DE JUNHO DE 2013
 
 Altera a redação do caput do art. 67 da Constituição do Estado da Bahia.

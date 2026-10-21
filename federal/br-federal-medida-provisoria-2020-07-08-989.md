@@ -1,5 +1,3 @@
-# Medida Provisória nº 989 de 08/07/2020
-
 MEDIDA PROVISÓRIA Nº 989, DE 8 DE JULHO DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Educação, da Saúde e da Cidadania, no valor de R$ 348.347.886,00, para os fins que especifica.

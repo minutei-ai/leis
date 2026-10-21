@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.393, de 2017-12-06
-
 LEI MUNICIPAL Nº 3.393, DE 06 DE DEZEMBRO DE 2017
 
 Dispõe sobre a proibição de empinar pipas e similares, com a utilização de linha cortante, cerol, vidro moído e chilena e, fabricação, industrialização, comercialização e utilização de qualquer tipo de linha cortante na atividade recreativa brincadeira de soltar pipa e similares no Município de Aparecida de Goiânia.

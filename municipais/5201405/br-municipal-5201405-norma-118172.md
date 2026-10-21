@@ -1,5 +1,3 @@
-# Decreto Numerado nº 399, de 2023-06-20
-
 DECRETO “N” Nº 399 DE 20 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM IPIRANGA, neste município.

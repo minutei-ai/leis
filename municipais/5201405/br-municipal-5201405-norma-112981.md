@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.855, de 2025-12-18
-
 DECRETO Nº 2.855, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Avenida Frutal, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

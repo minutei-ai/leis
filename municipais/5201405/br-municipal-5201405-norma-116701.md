@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.389, de 2017-11-22
-
 LEI MUNICIPAL Nº 3.389, DE 22 DE NOVEMBRO 2017.
 
 Dispõe sobre autorização para realização de Chamamento Público para fomento do desporto municipal educacional e de rendimento.

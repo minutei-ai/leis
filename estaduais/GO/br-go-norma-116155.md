@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.440, de 2026-07-10
-
 LEI Nº 24.440, DE 10 DE JULHO DE 2026
 
 Dispõe sobre a adesão complementar do Estado de Goiás aos benefícios fiscais previstos na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a [Lei nº 16.671](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88381), de 23 de julho de 2009.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 324, de 2023-11-27
-
 LEI COMPLEMENTAR Nº 324, DE 27 DE NOVEMBRO DE 2023.
 
 Altera o Anexo Único da [Lei Complementar nº 38](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117740), de 2 de setembro de 2015.

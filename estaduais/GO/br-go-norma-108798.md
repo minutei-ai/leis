@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.653, de 2024-05-06
-
 LEI Nº 22.653, DE 6 DE MAIO DE 2024
 
 Regulamenta a compensação financeira mensal decorrente do não recolhimento da mensalidade para o padrão de conforto Básico do Ipasgo Saúde dos titulares servidores aposentados e pensionistas remunerados pelos cofres públicos estaduais, de que trata o inciso IV do art. 27 da [Lei estadual nº 21.880](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107066), de 20 de abril de 2023.

@@ -1,5 +1,3 @@
-# Decreto Legislativo nº 2.559, de 18/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210627)<br>
 
 # DECRETO LEGISLATIVO N° 2.559, DE 18 DE FEVEREIRO DE 2025

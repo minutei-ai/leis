@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.518, de 2024-07-31
-
 DECRETO Nº 10.518, DE 31 DE JULHO DE 2024
 
 Retifica o Anexo Único do [Decreto estadual nº 10.512](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109246), de 30 de julho de 2024, que concedeu a Medalha do Mérito Guardião às autoridades que especifica.

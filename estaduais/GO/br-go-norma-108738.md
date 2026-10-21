@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.651, de 2024-04-30
-
 LEI Nº 22.651, DE 30 DE ABRIL DE 2024
 
 Confere ao Município de Jaraguá o título de “Capital Estadual do Voo Livre”.

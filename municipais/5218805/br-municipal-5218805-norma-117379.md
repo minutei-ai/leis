@@ -1,5 +1,3 @@
-# Lei Complementar nº 202, de 2021-02-19
-
 LEI COMPLEMENTAR Nº 202, DE 19 DE FEVEREIRO DE 2021
 
 Altera [Lei Complementar nº 88](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117370)/2017.

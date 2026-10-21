@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.606, de 2024-04-09
-
 LEI Nº 22.606, DE 9 DE ABRIL DE 2024
 
 Altera a [Lei nº 19.037](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/96033), de 08 de outubro de 2015, que institui a Política Estadual de Aleitamento Materno.

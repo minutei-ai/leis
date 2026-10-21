@@ -1,5 +1,3 @@
-# Decreto Numerado nº 251, de 2023-04-17
-
 DECRETO “N” Nº 251 DE 17 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento INDUSTRIAL SANTO ANTÔNIO, neste município.

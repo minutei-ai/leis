@@ -1,5 +1,3 @@
-# Decreto nº 70.752, de 03/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212831)<br>
 
 # DECRETO N° 70.752, DE 03 DE JULHO DE 2026

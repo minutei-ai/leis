@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.842, de 2025-12-23
-
 DECRETO Nº 10.842, DE 23 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública, para fins de desapropriação, o Edifício Condomínio Goiânia Corporate Financial Center, que especifica.

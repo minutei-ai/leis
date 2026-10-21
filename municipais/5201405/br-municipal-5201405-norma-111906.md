@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.834, de 2025-05-28
-
 LEI Nº 3.834, DE 28 DE MAIO DE 2025
 
 Dispõe sobre a denominação da Praça localizada na Rua 514, Quadra 20A, Jardim Mont Serrat, no município de Aparecida de Goiânia-GO, como Praça CONSTÂNCIA DE SOUZA SANTOS, e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.141 de 18/11/2022
-
 MEDIDA PROVISÓRIA Nº 1.141, DE 18 DE NOVEMBRO DE 2022
 
 Dispõe sobre as regras especiais para a contratação de pessoal, por tempo determinado, para a realização do Censo Demográfico de 2022.

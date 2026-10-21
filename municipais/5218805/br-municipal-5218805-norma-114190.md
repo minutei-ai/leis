@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.731, de 2025-11-12
-
 LEI Nº 7.731, DE 12 DE NOVEMBRO DE 2025.
 
 Reconhece entidade como Utilidade Pública Municipal a Associação Cristã de Homens em Missão – ACHEM e dá outras providências.

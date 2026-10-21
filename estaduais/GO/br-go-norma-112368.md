@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.044, de 2026-01-21
-
 LEI Nº 24.044, DE 21 DE JANEIRO DE 2026.
 
 Institui o Dia Estadual do Optometrista e dá outras providências.

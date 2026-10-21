@@ -1,5 +1,3 @@
-# Decreto Numerado nº 162, de 2024-03-20
-
 DECRETO “N” Nº 162, DE 20 DE MARÇO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Florença, neste município, como de Interesse Social.

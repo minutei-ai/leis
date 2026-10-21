@@ -1,5 +1,3 @@
-# Decreto Numerado nº 119, de 2026-01-30
-
 DECRETO Nº 119, DE 30 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 33, situado à Rua Guarujá, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

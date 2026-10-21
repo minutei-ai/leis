@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.289, de 2015-11-13
-
 LEI MUNICIPAL Nº 3.289, DE 13 DE NOVEMBRO DE 2015.
 
 Proíbe o ingresso ou permanência de pessoas utilizando capacete ou qualquer tipo de cobertura que oculte a face, nos estabelecimentos comerciais, públicos ou abertos ao público.

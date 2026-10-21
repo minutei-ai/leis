@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.853, de 2025-11-19
-
 LEI Nº 23.853, DE 19 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás – CTE.

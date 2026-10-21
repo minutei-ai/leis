@@ -1,5 +1,3 @@
-# LEI Nº 14.989 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.989 DE 30 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a Associação dos Pequenos Produtores Rurais Aquicultores Quilombola da Pedra Branca, Vagido e Forte, com sede e foro no município de Igrapiúna.

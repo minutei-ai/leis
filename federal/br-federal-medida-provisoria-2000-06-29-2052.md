@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.052 de 29/06/2000
-
 ###MPV-002052-0-000-29-06-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.052, DE 29 DE JUNHO DE 2000.

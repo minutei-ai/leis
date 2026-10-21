@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.340, de 2025-04-13
-
 LEI Nº 23.340, DE 13 DE ABRIL DE 2025
 
 Institui a Política Estadual de Hemoterapia Animal.

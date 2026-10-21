@@ -1,5 +1,3 @@
-# Emenda à Lei Orgânica nº 7, de 2024-02-06
-
 ESTADO DE GOIÁS<br>
 CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA/GO
 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.279, de 2025-03-18
-
 LEI Nº 23.279, DE 17 DE MARÇO DE 2025
 
 Institui o Dia Estadual do Milho.

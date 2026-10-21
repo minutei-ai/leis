@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.352, de 2025-05-09
-
 DECRETO Nº 1.352, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o remembramento e remembramento dos Lote 10 e 11, da Quadra 67, situado à Rua Marquez de Sapucai, no Loteamento Nova Olinda – 2º Complemento, no Município de Aparecida de Goiânia.

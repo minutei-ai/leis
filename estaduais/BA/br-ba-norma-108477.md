@@ -1,5 +1,3 @@
-# LD Nº 13 DE 18 DE MARÇO DE 1981
-
 LEI DELEGADA Nº 13 DE 18 DE MARÇO DE 1981
 
 Cria na Secretaria da Educação e Cultura o Centro de Estudos Supletivos de Narandiba e dá outras providências.

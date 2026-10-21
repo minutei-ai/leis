@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.398, de 2023-08-28
-
 LEI N° 7.398, DE 28 DE AGOSTO DE 2023.
 
 Dispõe sobre a criação do Programa de Conectividade Municipal para as escolas públicas no município de Rio Verde.

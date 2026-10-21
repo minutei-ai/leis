@@ -1,5 +1,3 @@
-# Decreto nº 69.159, de 17/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210356)<br>
 
 # DECRETO N° 69.159, DE 17 DE DEZEMBRO DE 2024

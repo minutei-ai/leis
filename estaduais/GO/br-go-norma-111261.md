@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.669, de 2025-09-16
-
 LEI Nº 23.669, DE 16 DE SETEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

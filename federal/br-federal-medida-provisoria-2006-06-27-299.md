@@ -1,5 +1,3 @@
-# Medida Provisória nº 299 de 27/06/2006
-
 ###MPV-000299-0-000-27-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 299, DE 27 DE JUNHO DE 2006.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1050, de 2024-12-10
-
 DECRETO “N” Nº 1050 DE 10 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei nº 18.390, de 22/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212175)<br>
 
 # LEI N° 18.390, DE 22 DE JANEIRO DE 2026

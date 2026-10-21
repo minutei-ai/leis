@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.358, de 2025-04-22
-
 LEI Nº 23.358, DE 22 DE ABRIL DE 2025
 
 Institui a Política Estadual de Incentivo à Leitura.

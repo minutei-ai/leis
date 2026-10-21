@@ -1,5 +1,3 @@
-# Decreto Numerado nº 126, de 2023-02-27
-
 DECRETO “N” Nº 126, DE 27 DE FEVEREIRO DE 2023.
 
 Declara de utilidade pública, para efeito de desapropriação a área abaixo especificada, no loteamento Chácara Bela Vista, neste município e dá outras providências.

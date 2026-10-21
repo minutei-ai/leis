@@ -1,5 +1,3 @@
-# Decreto Numerado nº 205, de 2023-03-29
-
 DECRETO “N” Nº 205 DE 29 DE MARÇO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento JARDIM OLÍMPICO, neste município.

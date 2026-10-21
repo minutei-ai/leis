@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.868, de 2026-06-19
-
 LEI Nº 7.868, DE 19 DE JUNHO DE 2026.
 
 Dispõe sobre as diretrizes de incentivo ao descarte adequado e à conscientização ambiental acerca dos resíduos eletrônicos e tecnológicos no Município de Rio Verde-GO, e dá outras providências.

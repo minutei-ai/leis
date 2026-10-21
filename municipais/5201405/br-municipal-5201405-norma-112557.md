@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.425, de 2025-05-22
-
 DECRETO Nº 1.425, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua São Salvador com à Rua São Gabriel, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

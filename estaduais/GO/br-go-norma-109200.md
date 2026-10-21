@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.851, de 2024-07-12
-
 LEI Nº 22.851, DE 12 DE JULHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

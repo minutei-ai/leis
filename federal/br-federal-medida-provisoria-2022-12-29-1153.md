@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.153 de 29/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.153, DE 29 DE DEZEMBRO DE 2022
 
 Dispõe sobre a prorrogação da exigência do exame toxicológico periódico, altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, altera a Lei nº 11.442, de 5 de janeiro de 2007, quanto ao seguro de cargas, e altera a Lei nº 11.539, de 8 de novembro de 2007, quanto às cessões de Analistas de Infraestrutura e Especialistas em Infraestrutura Sênior.

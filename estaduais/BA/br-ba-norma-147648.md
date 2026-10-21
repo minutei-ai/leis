@@ -1,5 +1,3 @@
-# LEI Nº 14.979 DE 18 DE SETEMBRO DE 2025
-
 LEI Nº 14.979 DE 18 DE SETEMBRO DE 2025
 
 Institui o Dia Estadual dos Secretários Municipais de Saúde do Estado da Bahia, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.448, de 2018-12-14
-
 LEI N° 3.448, DE 14 DE DEZEMBRO DE 2018
 
 Altera a Lei 3.418 de 12 de junho de 2018, que dispõe sobre a proibição de cobrança de taxa de religação para restabelecer o fornecimento de água e esgoto ao consumidor no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2168, de 2001-04-20
-
 LEI MUNICIPAL N.º 2.168, DE 20 DE ABRIL DE 2001.
 
 Cria denomina e autoriza funcionamento das escolas Municipais que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.559, de 2025-07-08
-
 LEI Nº 23.559, DE 8 DE JULHO DE 2025
 
 Altera a [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495), de 16 de novembro de 2021, que institui o Programa Bolsa Estudo no âmbito da Secretaria de Estado da Educação e dá outras providências, e revoga dispositivo da [Lei nº 23.167](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110198), de 20 de dezembro de 2024, que dispõe sobre a organização administrativa do Agrocolégio Estadual Maguito Vilela, altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

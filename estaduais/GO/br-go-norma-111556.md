@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.817, de 2025-11-10
-
 LEI Nº 23.817, DE 10 DE NOVEMBRO DE 2025
 
 Dispõe sobre a garantia de prioridade de tramitação dos procedimentos investigatórios em sede de inquérito policial que visam à apuração e responsabilização de crimes contra a pessoa idosa.

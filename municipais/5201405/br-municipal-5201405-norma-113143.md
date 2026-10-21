@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.675, de 2025-11-27
-
 DECRETO Nº 2.675, DE 27 DE NOVEMBRO DE 2025
 
 O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município; nos termos da Lei federal nº 13.465 de 11 de julho de 2017; do Decreto federal nº 9.310, de 15 de março de 2018; e o contido no Processo nº 2021.283.369 e 2024.036.390,

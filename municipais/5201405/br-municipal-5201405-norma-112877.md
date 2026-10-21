@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.871, de 2025-12-29
-
 DECRETO Nº 2.871, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua das Figueiras, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

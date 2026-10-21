@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.370 de 19/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.370, DE 19 DE JUNHO DE 2026
 
 Altera a [Lei nº 12.871, de 22 de outubro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-10-22;12871), a [Lei nº 3.268, de 30 de setembro de 1957](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1957-09-30;3268), a [Lei nº 6.932, de 7 de julho de 1981](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1981-07-07;6932), a [Lei nº 13.959, de 18 de dezembro de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2019-12-18;13959), e a [Lei nº 10.861, de 14 de abril de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-14;10861), para dispor sobre o Exame Nacional de Avaliação da Formação Médica.

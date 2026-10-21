@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.803, de 2025-12-11
-
 DECRETO Nº 2.803, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua 68, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

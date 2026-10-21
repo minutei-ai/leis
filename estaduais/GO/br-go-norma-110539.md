@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.310, de 2025-03-31
-
 LEI Nº 23.310, DE 31 DE MARÇO DE 2025
 
 Institui a Política Estadual de Valorização dos Profissionais da Música e cria o Selo “Estabelecimento Amigo do Músico” no Estado de Goiás.

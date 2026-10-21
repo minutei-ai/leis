@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.696, de 2024-05-15
-
 LEI Nº 22.696, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas do Estado de Goiás, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.427, de 2018-08-27
-
 LEI MUNICIPAL Nº 3.427, DE 27 DE AGOSTO DE 2018.
 
 Dispõe sobre isenção aos doadores de sangue ou medula óssea do pagamento de taxas de inscrição nos concursos públicos e processos seletivos do Município de Aparecida de Goiânia.

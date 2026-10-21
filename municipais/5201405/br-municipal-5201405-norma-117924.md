@@ -1,5 +1,3 @@
-# Decreto Numerado nº 191, de 2023-03-24
-
 DECRETO “N” Nº 191 DE 24 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM ALTO PARAÍSO, neste município.

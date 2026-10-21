@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.032 de 24/02/2021
-
 MEDIDA PROVISÓRIA Nº 1.032, DE 24 DE FEVEREIRO DE 2021
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 2.861.205.000,00, para os fins que especifica.

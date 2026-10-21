@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.136, de 2025-09-02
-
 DECRETO Nº 2.136, DE 2 DESETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 98, situado à Avenida 104, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

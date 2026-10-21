@@ -1,5 +1,3 @@
-# Lei Complementar nº 430, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 430, DE 17 DE NOVEMBRO DE 2025.
 
 Revoga o art. 49 da Lei Complementar nº 88, de 30 de maio de 2017.

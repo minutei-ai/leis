@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.700, de 2025-08-21
-
 **LEI N° 7.700, DE 21 DE AGOSTO DE 2025.**
 
 Dispõe sobre denominação de ponte sobre o Ribeirão Formoso, e dá outras providências.

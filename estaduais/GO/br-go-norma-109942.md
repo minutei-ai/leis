@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.087, de 2024-11-21
-
 LEI Nº 23.087, DE 21 DE NOVEMBRO DE 2024
 
 Institui medidas facilitadoras para o contribuinte negociar seus débitos relacionados aos créditos tributários e não tributários constituídos em favor da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR, nas condições e nas situações mencionadas, e dá outras providências.

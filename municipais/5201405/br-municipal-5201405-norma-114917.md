@@ -1,5 +1,3 @@
-# Decreto Numerado nº 228, de 2024-04-10
-
 DECRETO “N” Nº 228 DE 10 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.601, de 2025-06-18
-
 DECRETO Nº 1.601, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua C-14, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

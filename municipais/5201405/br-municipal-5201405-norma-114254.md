@@ -1,5 +1,3 @@
-# Decreto Numerado nº 377, de 2024-05-20
-
 DECRETO “N” Nº 377, DE 20 DE MAIO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Bairro Nova Cidade, neste município como de Interesse Social.

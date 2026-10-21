@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.876, de 2026-03-13
-
 DECRETO Nº 10.876, DE 13 DE MARÇO DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera da Sexta-feira Santa.

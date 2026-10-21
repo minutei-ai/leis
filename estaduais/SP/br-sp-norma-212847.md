@@ -1,5 +1,3 @@
-# Decreto nº 70.763, de 17/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212847)<br>
 
 # DECRETO N° 70.763, DE 17 DE JULHO DE 2026

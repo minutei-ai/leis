@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.652, de 2025-11-13
-
 DECRETO Nº 2.652, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Cidade Livre, no Município de Aparecida de Goiânia.

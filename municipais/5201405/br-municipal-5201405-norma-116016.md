@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.601, de 2021-03-17
-
 LEI MUNICIPAL Nº 3.601, DE 17 DE MARÇO DE 2021.
 
 Ratifica protocolo de intenções firmado entre Municipios brasileiros, com a finalidade de adquirir vacinas para combate à pandemia do coronavirus, medicamentos, insumos e equipamentos na área da saúde.

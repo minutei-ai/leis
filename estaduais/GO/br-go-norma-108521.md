@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.421, de 2024-03-12
-
 DECRETO Nº 10.421, DE 12 DE MARÇO DE 2024
 
 Altera o [Decreto estadual nº 3.822](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63202), de 10 de julho de 1992, que baixa o Regulamento do Fundo de Participação e Fomento à Industrialização do Estado de Goiás – FOMENTAR.

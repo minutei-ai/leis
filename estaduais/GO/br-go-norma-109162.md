@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.494, de 2024-07-04
-
 DECRETO Nº 10.494, DE 4 DE JULHO DE 2024
 
 Retifica o Anexo Único do [Decreto nº 10.196](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106692), de 5 de janeiro de 2023, que concede a Medalha da Ordem do Mérito da Segurança Pública Governador Mauro Borges Teixeira às autoridades civis e militares que especifica.

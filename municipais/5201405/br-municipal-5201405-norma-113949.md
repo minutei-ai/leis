@@ -1,5 +1,3 @@
-# Decreto Numerado nº 307, de 2026-04-23
-
 DECRETO Nº 307, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 01, situado à Rua Porto Belo e Rua Vitória, no Loteamento Ponta Sul - Acréscimo, no Município de Aparecida de Goiânia.

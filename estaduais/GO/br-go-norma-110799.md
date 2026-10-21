@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.456, de 2025-06-03
-
 LEI Nº 23.456, DE 3 DE JUNHO DE 2025
 
 Redefine os limites do Parque Estadual de Paraúna e dá outras providências.

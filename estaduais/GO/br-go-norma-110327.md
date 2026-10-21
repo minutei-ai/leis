@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.197, de 2025-01-06
-
 LEI Nº 23.197, DE 6 DE JANEIRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

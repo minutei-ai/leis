@@ -1,5 +1,3 @@
-# Decreto nº 69.743, de 22/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211240)<br>
 
 # DECRETO N° 69.743, DE 22 DE JULHO DE 2025

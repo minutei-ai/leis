@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.262, de 2015-04-17
-
 LEI MUNICIPAL Nº 3.262, DE 17 DE ABRIL DE 2015.
 
 Dá nome a Praça de Esportes, Cultura e Lazer, situada no setor Jardim Tiradentes, neste município.

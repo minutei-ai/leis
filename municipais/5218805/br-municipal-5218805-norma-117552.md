@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.126, de 2021-02-19
-
 LEI Nº 7.126, DE 19 DE FEVEREIRO DE 2021.
 
 Extingue ônus que gravam imóveis que menciona.

@@ -1,5 +1,3 @@
-# Decreto Legislativo nº 2.562, de 08/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210843)<br>
 
 # DECRETO LEGISLATIVO N° 2.562, DE 08 DE ABRIL DE 2025

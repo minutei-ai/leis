@@ -1,5 +1,3 @@
-# Decreto Numerado nº 240, de 2024-04-12
-
 DECRETO “N” Nº 240 DE 12 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

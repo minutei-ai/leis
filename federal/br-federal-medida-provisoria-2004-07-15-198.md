@@ -1,5 +1,3 @@
-# Medida Provisória nº 198 de 15/07/2004
-
 ###MPV-000198-0-000-15-07-2004@@@
 
 MEDIDA PROVISÓRIA Nº 198, DE 15 DE JULHO 2004.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.223, de 2025-01-10
-
 LEI Nº 23.223, DE 10 DE JANEIRO DE 2025
 
 Dá denominação ao próprio público que especifica.

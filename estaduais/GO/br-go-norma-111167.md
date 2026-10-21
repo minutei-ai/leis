@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.767, de 2025-08-25
-
 DECRETO Nº 10.767, DE 25 DE AGOSTO DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo.

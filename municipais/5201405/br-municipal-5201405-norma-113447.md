@@ -1,5 +1,3 @@
-# Lei Complementar nº 223, de 2023-11-01
-
 LEI COMPLEMENTAR N° 223, DE 01 DE NOVEMBRO DE 2023.
 
 Dispõe sobre a regulamentação no Município de Aparecida de Goiânia do repasse da assistência financeira complementar da União destinada ao cumprimento do piso salarial nacional de enfermeiros, técnicos e auxiliares de enfermagem e parteiras, de que trata a Lei Federal nº 14.434, de 4 de agosto de 2022.

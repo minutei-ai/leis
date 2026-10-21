@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.582, de 2025-08-19
-
 LEI Nº 23.582, DE 19 DE AGOSTO DE 2025
 
 Altera a [Lei nº 14.765](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80702), de 27 de abril de 2004, que concede passe livre aos idosos maiores de sessenta anos no sistema de transporte coletivo rodoviário intermunicipal.

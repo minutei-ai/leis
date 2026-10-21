@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.437, de 2025-05-21
-
 LEI Nº 23.437, DE 21 DE MAIO DE 2025
 
 Dispõe sobre a adesão complementar do Estado de Goiás aos benefícios fiscais previstos na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.

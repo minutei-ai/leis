@@ -1,5 +1,3 @@
-# Decreto Numerado nº 149, de 2026-02-12
-
 DECRETO Nº 149, DE 12 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua Luiz Olegário de Jesus, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

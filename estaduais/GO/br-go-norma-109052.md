@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.813, de 2024-06-27
-
 LEI Nº 22.813, DE 27 DE JUNHO DE 2024
 
 \- [Vide Decreto nº 10.915, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114774) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado no Município de Trindade.<br>

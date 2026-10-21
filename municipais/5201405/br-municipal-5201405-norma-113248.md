@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.457, de 2025-10-16
-
 DECRETO Nº 2.457, DE 16 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, da Quadra 125, situado à Avenida Domingos de Barros Vellasco, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

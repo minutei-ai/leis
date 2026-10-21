@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.466, de 2026-07-16
-
 LEI Nº 24.466, DE 16 DE JULHO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

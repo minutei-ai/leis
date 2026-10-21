@@ -1,5 +1,3 @@
-# Decreto Numerado nº 488, de 2023-07-27
-
 DECRETO “N” Nº 488 DE 27 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

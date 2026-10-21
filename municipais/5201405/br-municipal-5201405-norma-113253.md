@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.422, de 2025-10-09
-
 DECRETO Nº 2.422, DE 9 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra 113, situado Rua Santa Paula, no Loteamento Jardim Alto Paraíso, no Município de Aparecida de Goiânia.

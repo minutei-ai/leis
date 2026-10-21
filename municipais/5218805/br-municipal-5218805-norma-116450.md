@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.269, de 2022-05-27
-
 LEI N° 7.269, DE 27 DE MAIO DE 2022
 
 Altera a Lei nº 6.730/2017.

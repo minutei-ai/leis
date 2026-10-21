@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.213, de 2025-04-14
-
 DECRETO Nº 1.213, DE 14 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua C-17 no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 990 de 09/07/2020
-
 MEDIDA PROVISÓRIA Nº 990, DE 9 DE JULHO DE 2020
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 3.000.000.000,00, para o fim que especifica, e dá outras providências.

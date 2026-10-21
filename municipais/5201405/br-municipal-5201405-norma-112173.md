@@ -1,5 +1,3 @@
-# Decreto Numerado nº 15, de 2026-01-08
-
 DECRETO Nº 015, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 945 de 04/04/2020
-
 MEDIDA PROVISÓRIA Nº 945, DE 4 DE ABRIL DE 2020
 
 Dispõe sobre medidas temporárias em resposta à pandemia decorrente da covid-19 no âmbito do setor portuário e sobre a cessão de pátios sob administração militar.

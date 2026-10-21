@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.396 de 09/10/2026
-
 MEDIDA PROVISÓRIA Nº 1.396, DE 9 DE OUTUBRO DE 2026
 
 Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.

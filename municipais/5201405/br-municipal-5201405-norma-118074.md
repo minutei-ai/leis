@@ -1,5 +1,3 @@
-# Decreto Numerado nº 298, de 2023-05-16
-
 DECRETO “N” Nº 298 DE 16 DE MAIO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL SOLAR CENTRAL PARK, neste município.

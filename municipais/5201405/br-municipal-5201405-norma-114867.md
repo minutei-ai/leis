@@ -1,5 +1,3 @@
-# Decreto Numerado nº 420, de 2026-05-25
-
 DECRETO Nº 420, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Asti, no Loteamento Jardim Florença, no Município de Aparecida de Goiânia.

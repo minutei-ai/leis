@@ -1,5 +1,3 @@
-# LD Nº 53 DE 31 DE MAIO DE 1983
-
 LEI DELEGADA Nº 53 DE 31 DE MAIO DE 1983
 
 Cria a Secretaria da Comunicação Social e dá outras providências.

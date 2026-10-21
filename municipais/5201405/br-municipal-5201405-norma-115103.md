@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.722, de 2023-06-23
-
 LEI MUNICIPAL Nº 3.722 DE 23 DE JUNHO DE 2023.
 
 Dispõe sobre a nomeação da PRAÇA MARIA DOS SANTOS, no Setor Ana Rosa neste Município, e dá outras providências.

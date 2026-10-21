@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.755, de 2023-11-28
-
 LEI MUNICIPAL Nº 3.755, DE 28 DE NOVEMBRO DE 2023.
 
 Institui no Município de Aparecida de Goiânia, o Dia do Jovem Cristão e dá outras providências.

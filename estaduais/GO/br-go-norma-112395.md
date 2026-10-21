@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.048, de 2026-01-21
-
 LEI Nº 24.048, DE 21 DE JANEIRO DE 2026.
 
 Altera a [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965 "Abrir Lei Ordinária nº 19651, de 2017 em nova aba"), de 12 de maio de 2017, que dispõe sobre a criação de Colégios da Polícia Militar do Estado de Goiás – CPMG – nos municípios que especifica, e dá outras providências.

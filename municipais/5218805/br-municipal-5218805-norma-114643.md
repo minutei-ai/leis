@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.335, de 2023-03-30
-
 LEI Nº 7.335, DE 30 DE MARÇO DE 2023
 
 Altera a [Lei nº. 7.143/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114650/lei-7143), que dispõe sobre a Regularização Fundiária de Núcleos Urbanos no Município de Rio Verde.

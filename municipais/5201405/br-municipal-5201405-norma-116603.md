@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.414, de 2018-05-10
-
 LEI MUNICIPAL Nº 3.414, DE 10 DE MAIO DE 2018
 
 Dispõe sobre denominação do Centro Municipal de Educação Infantil - CMEI - Parque Primavera, neste Município.

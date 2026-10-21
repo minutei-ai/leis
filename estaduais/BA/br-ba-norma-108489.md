@@ -1,5 +1,3 @@
-# LD Nº 31 DE 03 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 31 DE 03 DE MARÇO DE 1983
 
 Ver também:<br>

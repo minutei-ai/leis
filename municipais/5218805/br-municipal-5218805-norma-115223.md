@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.439, de 2023-10-30
-
 LEI Nº 7.439, DE 30 DE OUTUBRO DE 2023.
 
 Autoriza o Poder Executivo a repassar recursos recebidos da União para cumprimento da Assistência Financeira Complementar de que trata a Emenda Constitucional 127/2022.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.566, de 2024-10-08
-
 DECRETO Nº 10.566, DE 8 DE OUTUBRO DE 2024
 
 Transfere o feriado consagrado ao Dia do Servidor Público para o dia 1º de novembro de 2024.

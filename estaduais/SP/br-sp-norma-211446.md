@@ -1,5 +1,3 @@
-# Decreto nº 69.867, de 15/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211446)<br>
 
 # DECRETO N° 69.867, DE 15 DE SETEMBRO DE 2025

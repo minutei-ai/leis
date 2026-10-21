@@ -1,5 +1,3 @@
-# LEI Nº 14.990 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.990 DE 30 DE SETEMBRO DE 2025
 
 Declara de utilidade pública o Grupo Cáritas Salvador, com sede e foro no município de Salvador.

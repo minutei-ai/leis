@@ -1,5 +1,3 @@
-# LEI Nº 14.773 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.773 DE 04 DE SETEMBRO DE 2024
 
 Denomina Boileau Dantas Wanderley Filho, a estrada do Eixo Ímpar, no trecho que liga o entroncamento da BR-349 até a Agrovila 07, no Município de Serra do Ramalho - BA.

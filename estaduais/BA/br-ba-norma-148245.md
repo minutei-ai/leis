@@ -1,5 +1,3 @@
-# LEI Nº 15.125 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.125 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a prevenção e o combate à adultização e à sexualização de crianças no Estado da Bahia, estabelece diretrizes e veda o patrocínio e apoio a eventos que promovam tais práticas.

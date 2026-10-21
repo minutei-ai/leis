@@ -1,5 +1,3 @@
-# Medida Provisória nº 433 de 27/05/2008
-
 ###MPV-000433-0-000-27-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 433, DE 27 DE MAIO DE 2008.

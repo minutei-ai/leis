@@ -1,5 +1,3 @@
-# Decreto Numerado nº 76, de 2026-01-21
-
 DECRETO Nº 076, DE 21 DE JANEIRO DE 2026
 
 Revoga o Decreto “N” nº 181, de 17 de maio de 2019, que instituiu a Comissão de Regularização Fundiária Urbana – CReurb do Município de Aparecida de Goiânia.

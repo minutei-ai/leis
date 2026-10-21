@@ -1,5 +1,3 @@
-# Decreto nº 69.402, de 07/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210699)<br>
 
 # DECRETO N° 69.402, DE 07 DE MARÇO DE 2025

@@ -1,5 +1,3 @@
-# Medida Provisória nº 430 de 14/05/2008
-
 ###MPV-000430-0-000-14-05-2008@@@
 
 MEDIDA PROVISÓRIA Nº 430, DE 14 DE MAIO DE 2008.

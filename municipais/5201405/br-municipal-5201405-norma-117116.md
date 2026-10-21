@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.232, de 2014-12-08
-
 LEI MUNICIPAL N° 3.232, DE 08 DE DEZEMBRO DE 2014.<br>
 (Efeitos suspensos pela Liminar anexada).
 

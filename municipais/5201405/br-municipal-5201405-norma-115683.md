@@ -1,5 +1,3 @@
-# Decreto Numerado nº 440, de 2024-06-11
-
 DECRETO “N” Nº 440 DE 11 DE JUNHO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

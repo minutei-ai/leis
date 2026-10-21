@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.159, de 2025-04-02
-
 DECRETO Nº 1.159, DE 02 DE ABRIL DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais na véspera da Sexta-feira Santa.

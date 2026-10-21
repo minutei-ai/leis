@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.533, de 2025-07-01
-
 LEI Nº 23.533, DE 1º DE JULHO DE 2025
 
 Altera a [Lei nº 20.976](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103915), de 30 de março de 2021, que cria e denomina as Escolas do Futuro do Estado de Goiás – EFGs e os Colégios Tecnológicos do Estado de Goiás – COTECs e dá outras providências.

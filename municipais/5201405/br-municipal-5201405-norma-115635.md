@@ -1,5 +1,3 @@
-# Decreto Numerado nº 494, de 2026-06-18
-
 DECRETO Nº 494, DE 18 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Zenith Sisterdi Bezerra, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

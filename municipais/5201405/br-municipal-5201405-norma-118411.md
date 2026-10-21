@@ -1,5 +1,3 @@
-# Decreto Numerado nº 669, de 2023-10-23
-
 DECRETO “N” Nº 669 DE 23 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

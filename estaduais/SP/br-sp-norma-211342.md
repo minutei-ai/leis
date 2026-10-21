@@ -1,5 +1,3 @@
-# Lei nº 18.179, de 21/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211342)<br>
 
 # LEI N° 18.179, DE 21 DE AGOSTO DE 2025

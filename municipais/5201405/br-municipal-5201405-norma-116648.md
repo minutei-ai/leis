@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.443, de 2018-11-23
-
 LEI Nº 3.443, DE 23 DE NOVEMBRO DE 2018
 
 Fica instituída a Semana Comemorativa do Espiritismo no Município de aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 239, de 2024-04-12
-
 DECRETO “N” Nº 239 DE 12 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

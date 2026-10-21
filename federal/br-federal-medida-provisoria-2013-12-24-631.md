@@ -1,5 +1,3 @@
-# Medida Provisória nº 631 de 24/12/2013
-
 MEDIDA PROVISÓRIA Nº  631, DE 24 DE DEZEMBRO DE 2013
 
 Altera a Lei nº 12.340, de 1º de dezembro de 2010, que dispõe sobre as transferências de recursos da União aos órgãos e entidades dos Estados, Distrito Federal e Municípios para a execução de ações de resposta e recuperação nas áreas atingidas por desastre e sobre o Fundo Especial para Calamidades Públicas.

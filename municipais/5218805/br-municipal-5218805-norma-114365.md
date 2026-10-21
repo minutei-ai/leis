@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.665, de 2025-06-30
-
 LEI Nº 7.665, DE 30 DE JUNHO DE 2025.
 
 Reconhece como festas tradicionais do Município de Rio Verde/GO os eventos que menciona.

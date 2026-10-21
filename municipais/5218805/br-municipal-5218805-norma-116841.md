@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.219, de 2021-11-30
-
 LEI Nº 7.219, DE 30 DE NOVEMBRO DE 2021
 
 Institui a Semana Municipal da Juventude Rural e da Diversificação Rural no Município de Rio Verde e dá outras providências.

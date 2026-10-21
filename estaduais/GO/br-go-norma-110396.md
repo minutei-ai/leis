@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.627, de 2025-01-16
-
 DECRETO Nº 10.627, DE 16 DE JANEIRO DE 2025
 
 Regulamenta, para o exercício de 2025, o Programa Bolsa-Uniforme, instituído pela [Lei nº 22.560](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108532/lei-22560), de 14 de março de 2024.

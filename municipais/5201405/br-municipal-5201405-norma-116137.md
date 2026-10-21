@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.636, de 2021-12-13
-
 LEI MUNICIPAL Nº 3.636, DE 13 DE DEZEMBRO DE 2021.
 
 Desafeta área pública e autoriza doação para o Estado de Goiás para legalização de escola situada no Bairro Nova Cidade. 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.278, de 2025-03-18
-
 LEI Nº 23.278, DE 17 DE MARÇO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São José, realizada no Município de Niquelândia/GO.

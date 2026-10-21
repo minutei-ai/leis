@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.951, de 2024-08-28
-
 LEI Nº 22.951, DE 28 DE AGOSTO DE 2024
 
 Dá denominação ao próprio público que especifica.

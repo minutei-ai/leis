@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.840, de 2025-07-03
-
 LEI Nº 3.840, DE 3 DE JULHO DE 2025
 
 Dispõe sobre a Concessão de Direito Real de Uso – CDRU de imóveis públicos no âmbito do Município de Aparecida de Goiânia.

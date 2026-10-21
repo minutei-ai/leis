@@ -1,5 +1,3 @@
-# Decreto Numerado nº 668, de 2023-10-23
-
 DECRETO "N" N° 668, DE 23 DE OUTUBRO DE 2023.
 
 Dispõe sobre aprovação do Loteamento Reserva Andrade Reis, neste Município e dá outras providências.

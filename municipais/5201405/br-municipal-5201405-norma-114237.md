@@ -1,5 +1,3 @@
-# Decreto Numerado nº 789, de 2024-09-24
-
 DECRETO “N” Nº 789, DE 24 DE SETEMBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Jardim Alto Paraiso neste município como de Interesse Social.

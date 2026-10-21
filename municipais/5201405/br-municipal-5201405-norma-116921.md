@@ -1,5 +1,3 @@
-# Lei Complementar nº 104, de 2015-07-20
-
 LEI COMPLEMENTAR Nº 104, DE 20 DE JULHO DE 2015.
 
 “Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências”.

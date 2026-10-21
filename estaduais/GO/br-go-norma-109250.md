@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.517, de 2024-07-31
-
 DECRETO Nº 10.517, DE 31 DE JULHO DE 2024
 
 Altera o [Decreto nº 10.188](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106544), de 30 de dezembro de 2022, que regulamenta a apuração do Índice de Participação dos Municípios – IPM, com base nos critérios de saúde, referente à entrega dos 5% (cinco por cento) do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS pertencentes aos municípios, na forma da Lei [Complementar estadual nº 177](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106018), de 24 de agosto de 2022.

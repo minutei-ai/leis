@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.567, de 2020-07-03
-
 LEI MUNICIPAL N° 3.567, DE 03 DE JULHO 2020.
 
 Cria a Unidade de Acolhimento Institucional para Crianças do Município de Aparecida de Goiânia.

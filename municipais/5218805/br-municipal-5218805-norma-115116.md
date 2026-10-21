@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.504, de 2024-04-29
-
 LEI Nº 7.504, DE 29 DE ABRIL DE 2024.
 
 Altera a Lei nº 6.823, de 27 de março de 2018, e autoriza o Poder Executivo a afetar área pública.

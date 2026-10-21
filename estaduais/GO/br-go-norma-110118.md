@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.593, de 2024-12-10
-
 DECRETO Nº 10.593, DE 10 DE DEZEMBRO DE 2024
 
 Prorroga a vigência do Programa de Volta para Casa para o exercício de 2025.

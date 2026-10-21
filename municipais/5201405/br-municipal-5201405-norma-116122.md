@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.622, de 2021-09-10
-
 LEI MUNICIPAL Nº 3.622, DE 10 DE SETEMBRO DE 2021.
 
 “Altera a lei municipal nº 3.041, de 15 de junho de 2012 que Dispõe sobre a alteração do nome da Rua Mucuri para Avenida VEREADOR VAGNER DA SILVA FERREIRA. ”

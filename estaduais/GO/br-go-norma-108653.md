@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.598, de 2024-04-05
-
 LEI Nº 22.598, DE 5 DE ABRIL DE 2024
 
 Institui a Política Estadual de Apoio aos Catadores de Materiais Recicláveis.

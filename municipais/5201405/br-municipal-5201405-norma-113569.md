@@ -1,5 +1,3 @@
-# Decreto Numerado nº 209, de 2026-03-13
-
 DECRETO Nº 209, DE 13 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua General Luiz de Camargo, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

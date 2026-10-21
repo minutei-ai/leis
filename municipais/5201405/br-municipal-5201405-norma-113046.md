@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.129, de 2025-09-02
-
 DECRETO Nº 2.129, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra 22, situado à Avenida B, no Loteamento Setor Marista Sul, no Município de Aparecida de Goiânia.

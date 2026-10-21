@@ -1,5 +1,3 @@
-# LEI Nº 14.922 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.922 DE 27 DE MAIO DE 2025
 
 Declara de Utilidade Pública a Associação de Mulheres Agricultoras de Saúde - BA – AMAS, com sede e foro no município de Saúde/BA.

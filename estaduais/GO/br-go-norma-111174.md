@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.595, de 2025-08-26
-
 LEI Nº 23.595, DE 26 DE AGOSTO DE 2025
 
 Altera as Leis [nº 15.255](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79859), de 15 de julho de 2005, [nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 06 de junho de 2018, [nº 20.422](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100363), de 07 de março de 2019, [nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020, [nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, [nº 21.085](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104298), de 13 de setembro de 2021, [nº 21.316](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105421), de 4 de maio de 2022, [nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, [nº 22.526](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108382), de 5 de janeiro de 2024, e [nº 23.167](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110198), de 20 de dezembro de 2024, e dá outras providências.

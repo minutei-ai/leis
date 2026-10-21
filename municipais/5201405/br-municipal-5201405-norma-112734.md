@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.782, de 2024-04-23
-
 LEI MUNICIPAL Nº 3.782, DE 23 DE ABRIL DE 2024
 
 Reconhecer como Utilidade Pública Municipal a “ASSOCIAÇÃO CASA DE RECUPERAÇÃO ESPERANÇA DE VIDA” e dá outras providências.

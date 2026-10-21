@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.413, de 2018-05-03
-
 LEI MUNICIPAL Nº 3.413, DE 03 DE MAIO DE 2018
 
 Dispõe sobre a denominação da Praça DIONÍZIO QUARESMA DA SILVA, no Parque das Nações, neste Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.420, de 2023-10-02
-
 LEI Nº 7.420, DE 02 DE OUTUBRO DE 2023.
 
 Autoriza desafetação e imóvel público.

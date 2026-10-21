@@ -1,5 +1,3 @@
-# Decreto Numerado nº 260, de 2026-03-26
-
 DECRETO Nº 260, DE 26 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 29, situado à Avenida Maracanã, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

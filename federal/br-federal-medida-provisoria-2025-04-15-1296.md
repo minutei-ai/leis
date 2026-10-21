@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.296 de 15/04/2025
-
 MEDIDA PROVISÓRIA Nº 1.296, DE 15 DE ABRIL DE 2025
 
 Institui o Programa de Gerenciamento de Benefícios no âmbito do Instituto Nacional do Seguro Social e do Departamento de Perícia Médica Federal da Secretaria de Regime Geral de Previdência Social do Ministério da Previdência Social.

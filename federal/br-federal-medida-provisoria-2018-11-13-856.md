@@ -1,5 +1,3 @@
-# Medida Provisória nº 856 de 13/11/2018
-
 MEDIDA PROVISÓRIA Nº 856, DE 13 DE NOVEMBRO DE 2018
 
 Delega à Agência Nacional de Energia Elétrica - Aneel a responsabilidade pela contratação de prestador emergencial e temporário do serviço público de distribuição de energia elétrica.

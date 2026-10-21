@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.694, de 2023-01-12
-
 LEI MUNICIPAL Nº 3.694 DE 12 DE JANEIRO DE 2023.
 
 Institui a Campanha Municipal de Incentivo à doação de cabelo a Pessoas Carentes em Tratamento de Câncer no âmbito do Município de Aparecida de Goiânia e dá outras providências.

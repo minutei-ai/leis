@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.144 de 14/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.144, DE 14 DE DEZEMBRO DE 2022
 
 Abre crédito extraordinário em favor do Ministério do Trabalho e Previdência, no valor de R$ 7.564.496.198,00, para o fim que especifica.

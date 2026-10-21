@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.174 de 12/05/2023
-
 MEDIDA PROVISÓRIA Nº 1.174, DE 12 DE MAIO DE 2023
 
 Institui o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.024, de 2024-10-07
-
 LEI Nº 23.024, DE 7 DE OUTUBRO DE 2024
 
 Institui a Política “Feiras de Orgânicos”, para incentivar e fomentar as feiras livres de produtos orgânicos no Estado de Goiás.

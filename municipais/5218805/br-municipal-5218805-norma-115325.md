@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.397, de 2023-08-28
-
 LEI N° 7.397, DE 28 DE AGOSTO DE 2023.
 
 Estabelece prioridade de atendimento para pessoas que realizam tratamento de quimioterapia, radioterapia, hemodiálise, ileostomia, urostomia, gastrostomia, traqueostomia ou utilizem bolsa de colostomia, e dá outras providências.

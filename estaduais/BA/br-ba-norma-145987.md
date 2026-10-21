@@ -1,5 +1,3 @@
-# LEI Nº 14.810 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.810 DE 26 DE DEZEMBRO DE 2024
 
 Autoriza o Poder Executivo a prestar contragarantia à União em operação de crédito interno a ser celebrada entre a Empresa Baiana de Águas e Saneamento S.A. - EMBASA e a Caixa Econômica Federal - CEF, e dá outras providências.

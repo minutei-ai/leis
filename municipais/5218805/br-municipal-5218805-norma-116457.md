@@ -1,5 +1,3 @@
-# Lei Complementar nº 62, de 2016-04-12
-
 LEI COMPLEMENTAR Nº 62, DE 12 DE ABRIL DE 2016.
 
 Altera Lei n. 3.853/1999, que instituiu o Plano de cargos e Vencimentos que menciona.

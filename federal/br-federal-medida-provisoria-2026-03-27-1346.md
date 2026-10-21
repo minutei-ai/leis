@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.346 de 27/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.346, DE 27 DE MARÇO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Agrário e Agricultura Familiar e de Operações Oficiais de Crédito, no valor de R$ 20.429.000,00, para os fins que especifica.

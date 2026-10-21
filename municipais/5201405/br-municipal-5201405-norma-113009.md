@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.047, de 2025-08-25
-
 DECRETO Nº 2.047, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 22, da Quadra 42, situado à Rua José Arantes Costa, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

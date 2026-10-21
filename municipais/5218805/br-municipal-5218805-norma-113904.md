@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.823, de 2026-03-23
-
 LEI Nº 7.823, DE 23 DE MARÇO DE 2026.
 
 Altera a [Lei nº 5.981](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114169 "Abrir Lei Ordinária nº 5981, de 2011 em nova aba"), de 24 de agosto de 2011, que dispõe sobre o auxílio-alimentação para os servidores públicos de Rio Verde.

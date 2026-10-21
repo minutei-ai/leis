@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.286 de 31/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.286, DE 31 DE DEZEMBRO DE 2024
 
 Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, altera as regras do Sistema de Desenvolvimento na Carreira, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências.

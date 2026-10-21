@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.337 de 06/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.337, DE 6 DE MARÇO DE 2026
 
 Autoriza a utilização do superávit financeiro do Fundo Social de que trata a [Lei nº 12.351, de 22 de dezembro de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-12-22;12351), para disponibilização de linhas de financiamento para pessoas físicas ou jurídicas afetadas pelos eventos climáticos ocorridos, em fevereiro e março de 2026, nos Municípios que tiveram estado de calamidade pública reconhecido pelo Poder Executivo federal.

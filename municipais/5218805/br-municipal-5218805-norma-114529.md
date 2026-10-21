@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.622, de 2025-03-24
-
 LEI Nº 7.622, DE 24 DE MARÇO DE 2025.
 
 Dispõe sobre as regras para a constituição e normas gerais de funcionamento de ambiente regulatório experimental, denominado Sandbox Rio Verde.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 409, de 2023-06-22
-
 DECRETO “N” Nº 409 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO CARDOSO, neste município.

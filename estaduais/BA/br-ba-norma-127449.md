@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 19 DE 12 DE MARÇO DE 2014
-
 EMENDA CONSTITUCIONAL Nº 19 DE 12 DE MARÇO DE 2014
 
 Dá nova redação ao art. 204 da Constituição do Estado da Bahia.

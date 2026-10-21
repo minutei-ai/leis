@@ -1,5 +1,3 @@
-# Medida Provisória nº 931 de 30/03/2020
-
 MEDIDA PROVISÓRIA Nº 931, DE 30 DE MARÇO DE 2020
 
 Altera a Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, a Lei nº 5.764, de 16 de dezembro de 1971, e a Lei nº 6.404, de 15 de dezembro de 1976, e dá outras providências.

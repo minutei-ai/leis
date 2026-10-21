@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.728, de 2025-10-10
-
 LEI Nº 23.728, DE 10 DE OUTUBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

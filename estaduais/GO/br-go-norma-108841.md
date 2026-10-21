@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.467, de 2024-05-15
-
 DECRETO Nº 10.467, DE 15 DE MAIO DE 2024
 
 Decreta luto oficial pelo falecimento de OTONIEL MACHADO CARNEIRO.

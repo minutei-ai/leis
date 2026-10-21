@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.444, de 2025-10-15
-
 DECRETO Nº 2.444, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, da Quadra 27, situado à Rua Comboriu, no Loteamento Pontal Sul Acréscimo, no Município de Aparecida de Goiânia.

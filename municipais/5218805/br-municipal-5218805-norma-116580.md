@@ -1,5 +1,3 @@
-# Lei Complementar nº 395, de 2025-06-30
-
 LEI COMPLEMENTAR Nº 395, DE 30 DE JUNHO DE 2025.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município de Rio Verde.

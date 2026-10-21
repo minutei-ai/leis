@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.494, de 2025-10-22
-
 DECRETO Nº 2.494, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 23, situado à Rua Eliezer Loureiro da Cunha, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

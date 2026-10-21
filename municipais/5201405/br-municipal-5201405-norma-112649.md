@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.573, de 2025-06-12
-
 DECRETO Nº 1.573, DE 12 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Cel Manoel Saraiva da Cruz, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

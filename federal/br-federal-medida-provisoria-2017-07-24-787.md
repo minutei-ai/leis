@@ -1,5 +1,3 @@
-# Medida Provisória nº 787 de 24/07/2017
-
 MEDIDA PROVISÓRIA Nº 787, DE 24 DE JULHO DE 2017
 
 Autoriza a desapropriação, em favor da União, do imóvel que especifica, localizado no Município de João Neiva, Estado do Espírito Santo.

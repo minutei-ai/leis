@@ -1,5 +1,3 @@
-# Medida Provisória nº 498 de 29/07/2010
-
 ###MPV-000498-0-000-29-07-2010@@@
 
 MEDIDA PROVISÓRIA Nº 498, DE 29 DE JULHO DE 2010.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.521, de 2023-12-28
-
 LEI Nº 22.521, DE 28 DE DEZEMBRO DE 2023
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

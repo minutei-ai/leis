@@ -1,5 +1,3 @@
-# Decreto Numerado nº 404, de 2026-05-20
-
 DECRETO Nº 404, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 31 e 32, situados à Rua 104, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

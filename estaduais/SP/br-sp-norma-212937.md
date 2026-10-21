@@ -1,5 +1,3 @@
-# Decreto nº 70.834, de 27/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212937)<br>
 
 # DECRETO N° 70.834, DE 27 DE AGOSTO DE 2026

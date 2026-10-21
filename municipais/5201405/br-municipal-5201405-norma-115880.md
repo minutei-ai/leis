@@ -1,5 +1,3 @@
-# Decreto Numerado nº 590, de 2024-07-23
-
 DECRETO “N” Nº 590 DE 23 DE JULHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 98, de 2026-01-27
-
 DECRETO Nº 098, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Turvo, no Loteamento Pontal Sul - Acréscimo, no Município de Aparecida de Goiânia.

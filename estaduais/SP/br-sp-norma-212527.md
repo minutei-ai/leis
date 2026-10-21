@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.442, de 05/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212527)<br>
 
 # LEI COMPLEMENTAR N° 1.442, DE 05 DE MAIO DE 2026

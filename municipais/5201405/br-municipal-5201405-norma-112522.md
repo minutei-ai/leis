@@ -1,5 +1,3 @@
-# Decreto Numerado nº 92, de 2026-01-27
-
 DECRETO Nº 092, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua das Laranjeiras, no Loteamento Nova Olinda 1º Complemento, no Município de Aparecida de Goiânia.

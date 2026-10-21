@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 14 DE 17 DE JUNHO DE 2010
-
 EMENDA CONSTITUCIONAL Nº 14 DE 17 DE JUNHO DE 2010
 
 Dá nova redação ao art. 156 da Constituição do Estado da Bahia

@@ -1,5 +1,3 @@
-# Lei Complementar nº 115, de 2015-12-09
-
 LEI COMPLEMENTAR Nº 115, DE 09 DE DEZEMBRO DE 2015.
 
 “Altera a Lei Complementar nº 105 de 08 de Outubro de 2015, que Institui o Alvará de Aceite e Levantamento no Município de Aparecida de Goiânia e dá outras providências.”

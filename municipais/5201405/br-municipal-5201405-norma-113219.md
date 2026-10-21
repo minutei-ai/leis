@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.488, de 2025-10-22
-
 DECRETO Nº 2.488, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua dos Kalapalos, no Loteamento Jardim Ipanema, no Município de Aparecida de Goiânia.

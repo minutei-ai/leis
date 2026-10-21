@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.540, de 2020-03-10
-
 LEI MUNICIPAL Nº 3.540, DE 10 DE MARÇO DE 2020.
 
 “Concede novo prazo para o Estado de Goiás concluir obras de Escolas Estaduais neste Município.”

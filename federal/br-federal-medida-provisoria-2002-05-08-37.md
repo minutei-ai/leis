@@ -1,5 +1,3 @@
-# Medida Provisória nº 37 de 08/05/2002
-
 ###MPV-000037-0-000-08-05-2002@@@
 
 MEDIDA PROVISÓRIA Nº 37, DE 8 DE MAIO DE 2002

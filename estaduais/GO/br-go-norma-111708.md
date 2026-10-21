@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.918, de 2025-12-04
-
 LEI Nº 23.918, DE 4 DE DEZEMBRO DE 2025
 
 Institui a Semana Estadual do Uso Racional de Medicamentos e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 234, de 2026-03-18
-
 DECRETO Nº 234, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Avenida 106, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

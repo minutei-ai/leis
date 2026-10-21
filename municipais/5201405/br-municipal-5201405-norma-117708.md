@@ -1,5 +1,3 @@
-# Decreto Numerado nº 594, de 2023-09-15
-
 DECRETO “N” Nº 594, DE 15 DE SETEMBRO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóvel púbico do Loteamento Jardim das Cascatas neste município como de Interesse Social.

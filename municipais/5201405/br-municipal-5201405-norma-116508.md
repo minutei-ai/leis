@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.508, de 2019-10-10
-
 LEI MUNICIPAL Nº 3.508, DE 10 DE OUTUBRO DE 2019
 
 “Dispõe sobre a denominação de praça de esportes, localizado no Setor Expansul, e dá outras providências.”

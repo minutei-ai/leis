@@ -1,5 +1,3 @@
-# Lei Complementar nº 282, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 282, DE 17 DE FEVEREIRO DE 2023.
 
 Altera a Lei nº 6.111/2012, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da área fim da Secretaria Municipal de Saúde de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.287, de 2015-11-13
-
 LEI MUNICIPAL Nº 3.287, DE 13 DE NOVEMBRO DE 2015.
 
 “Dá nome ao CMEI localizado na Vila Delfiori, neste município.”

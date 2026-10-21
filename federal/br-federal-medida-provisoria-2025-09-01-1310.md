@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.310 de 01/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.310, DE 1 DE SETEMBRO DE 2025
 
 Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 30.000.000.000,00, para o fim que especifica.

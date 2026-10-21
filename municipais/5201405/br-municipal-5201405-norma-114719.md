@@ -1,5 +1,3 @@
-# Decreto Numerado nº 138, de 2024-03-14
-
 DECRETO “N” Nº 138 DE 14 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

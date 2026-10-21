@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.094, de 2013-06-11
-
 LEI MUNICIPAL Nº 3.094, DE 11 DE JUNHO DE 2013.
 
 Reconhece de Utilidade Pública Municipal a ASSOCIAÇÃO CULTURAL CIA DE DANÇAS FOLCLORICAS RAIZES DE GOIÁS e dá outras providências.

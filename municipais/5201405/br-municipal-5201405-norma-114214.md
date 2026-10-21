@@ -1,5 +1,3 @@
-# Decreto Numerado nº 471, de 2024-06-18
-
 DECRETO “N” Nº 471 DE 18 DE JUNHO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 718, de 2 de setembro de 2024).
 

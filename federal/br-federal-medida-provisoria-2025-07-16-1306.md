@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.306 de 16/07/2025
-
 MEDIDA PROVISÓRIA Nº 1.306, DE 16 DE JULHO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério da Previdência Social, no valor de R$ 3.312.824.545,00, para o fim que especifica.

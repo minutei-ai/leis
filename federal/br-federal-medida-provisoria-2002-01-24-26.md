@@ -1,5 +1,3 @@
-# Medida Provisória nº 26 de 24/01/2002
-
 ###MPV-000026-0-000-24-01-2002@@@
 
 MEDIDA PROVISÓRIA No 26, DE 24 DE JANEIRO DE 2002.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.649, de 2025-05-26
-
 LEI Nº 7.649, DE 26 DE MAIO DE 2025.
 
 Altera a denominação das ruas que menciona e dá outras providências.

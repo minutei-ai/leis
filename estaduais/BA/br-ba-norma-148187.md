@@ -1,5 +1,3 @@
-# LEI Nº 15.098 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.098 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública o Instituto Novo Horizonte, com sede e foro no município de Novo Horizonte.

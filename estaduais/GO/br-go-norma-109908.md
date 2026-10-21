@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.066, de 2024-11-08
-
 LEI Nº 23.066, DE 8 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 13.463](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81306), de 31 de maio de 1999, que dispõe sobre a Política estadual do idoso e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.813, de 2024-12-12
-
 LEI MUNICIPAL Nº 3.813, DE 12 DE DEZEMBRO DE 2024.
 
 Altera o artigo 1º da lei municipal nº 3.689, de 18 de novembro de 2022, que dispõe sobre a denominação do CMEI Joaquim Gonçalves Oliveria, nesta municipalidade.

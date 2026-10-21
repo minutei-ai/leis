@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.896, de 2025-08-04
-
 DECRETO Nº 1.896, DE 4 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 02 e 03, situados à Rua 5, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

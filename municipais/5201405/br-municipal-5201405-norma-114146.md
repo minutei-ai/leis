@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1074, de 2024-12-11
-
 DECRETO “N” Nº 1074, DE 11 DE DEZEMBRO DE 2024.
 
 Dispõe sobre aprovação do Parcelamento de Solo Loteamento de Uso Misto Cidade do Amanhã Aparecida, neste Município, e dá outras providências.

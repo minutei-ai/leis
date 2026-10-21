@@ -1,5 +1,3 @@
-# Decreto nº 69.682, de 08/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211169)<br>
 
 # DECRETO N° 69.682, DE 08 DE JULHO DE 2025

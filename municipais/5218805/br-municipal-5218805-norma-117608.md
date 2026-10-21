@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.590, de 2024-12-16
-
 LEI Nº 7.590, DE 16 DE DEZEMBRO DE 2024.
 
 Altera Lei nº 5.990, de 22 de setembro de 2011, que instituiu o Programa Municipal “Lar Solidário”.

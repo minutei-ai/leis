@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.932, de 2025-12-11
-
 LEI Nº 23.932, DE 11 DE DEZEMBRO DE 2025
 
 Institui o Dia Estadual do Devoto do Divino Pai Eterno e dá outras providências.

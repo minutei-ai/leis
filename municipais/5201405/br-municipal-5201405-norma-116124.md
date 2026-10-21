@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.624, de 2021-09-21
-
 LEI MUNICIPAL Nº 3.624, DE 21 DE SETEMBRO DE 2021.
 
 “Dispõe sobre a denominação da PRAÇA JOÃO GONÇALVES ROLIM no Setor Garavelo neste Município e dá outras providências. ”

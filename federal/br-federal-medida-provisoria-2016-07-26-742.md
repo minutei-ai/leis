@@ -1,5 +1,3 @@
-# Medida Provisória nº 742 de 26/07/2016
-
 MEDIDA PROVISÓRIA Nº 742, DE 26 DE JULHO DE 2016
 
 Dispõe sobre a flexibilização do horário de transmissão do programa oficial de informações dos Poderes da República, durante a realização dos Jogos Olímpicos e Paralímpicos Rio 2016.

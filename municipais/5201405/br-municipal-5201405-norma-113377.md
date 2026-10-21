@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.211, de 2025-09-12
-
 DECRETO Nº 2.211, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 29, situado à Rua 18 de Agosto, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

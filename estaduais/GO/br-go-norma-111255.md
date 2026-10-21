@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.782, de 2025-09-16
-
 DECRETO Nº 10.782, DE 16 DE SETEMBRO DE 2025
 
 Altera o [Decreto nº 10.748](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111108), de 4 de agosto de 2025, que declara de utilidade pública, para fins de desapropriação, em favor da Agência Goiana de Infraestrutura e Transportes – GOINFRA, as áreas de terras que especifica.

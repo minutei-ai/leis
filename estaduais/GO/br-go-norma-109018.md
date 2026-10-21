@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.480, de 2024-06-13
-
 DECRETO Nº 10.480, DE 13 DE JUNHO DE 2024
 
 Altera o [Decreto estadual nº 7.998](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66545/decreto-7998), de 13 de setembro de 2013, que regulamenta, no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional (SISAN), a Câmara Intersetorial de Segurança Alimentar e Nutricional em Goiás (CAISAN-GO).

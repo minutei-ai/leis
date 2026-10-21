@@ -1,5 +1,3 @@
-# Medida Provisória nº 700 de 08/12/2015
-
 MEDIDA PROVISÓRIA Nº 700, DE 8 DE DEZEMBRO DE 2015
 
 Altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, que dispõe sobre desapropriações por utilidade pública, e a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos, e dá outras providências.

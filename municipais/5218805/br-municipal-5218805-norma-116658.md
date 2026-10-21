@@ -1,5 +1,3 @@
-# Lei Complementar nº 234, de 2021-12-27
-
 LEI COMPLEMENTAR Nº 234, DE 27 DE DEZEMBRO DE 2021
 
 Altera a Lei Complementar Municipal nº 3.853/1999.

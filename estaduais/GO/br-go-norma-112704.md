@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.071, de 2026-02-04
-
 LEI Nº 24.071, DE 4 DE FEVEREIRO DE 2026
 
 Altera a [Lei nº 17.696](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89751), de 04 de julho de 2012, que institui a Semana de Combate ao Bullying e ao Cyberbullying nas escolas da rede pública e privada da Educação Básica do Estado de Goiás.

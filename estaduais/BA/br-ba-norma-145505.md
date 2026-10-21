@@ -1,5 +1,3 @@
-# LEI Nº 14.770 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.770 DE 04 DE SETEMBRO DE 2024
 
 Institui o dia 02 de agosto como o Dia Estadual de Culto à Ancestralidade.

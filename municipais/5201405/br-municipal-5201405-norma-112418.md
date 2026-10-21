@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.116, de 2025-03-27
-
 DECRETO Nº 1.116, DE 27 DE MARÇO DE 2025
 
 Dispõe sobre o remembramento de imóveis no Município de Aparecida de Goiânia.

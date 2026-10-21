@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.994, de 2025-08-18
-
 DECRETO Nº 1.994, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua 67, no Loteamento Bairro Independência 3º Complemento, no Município de Aparecida de Goiânia.

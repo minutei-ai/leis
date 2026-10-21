@@ -1,5 +1,3 @@
-# LEI Nº 14.978 DE 17 DE SETEMBRO DE 2025
-
 LEI Nº 14.978 DE 17 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a Associação de Moradores Unidos Venceremos do Bairro do Baixio, com sede e foro no município de Mata de São João.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.345 de 24/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.345, DE 24 DE MARÇO DE 2026
 
 Altera a [Lei nº 9.818, de 23 de agosto de 1999](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-08-23;9818), e a [Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712), para fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação.

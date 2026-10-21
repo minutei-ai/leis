@@ -1,5 +1,3 @@
-# Lei Complementar nº 170, de 2019-11-04
-
 LEI COMPLEMENTAR Nº 170, DE 04 DE NOVEMBRO DE 2019
 
 “Altera a [Lei Complementar nº 046](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111755 "Abrir Lei Complementar nº 046, de 2011 em nova aba"), de 21 de dezembro de 2011, que instituiu o Código Tributário do Município de Aparecida de Goiânia; a [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), de 30 de outubro de 2017 e Revoga os Capítulos I e II do Título III da Lei nº 792, de 07 de dezembro de 1988, que institui o Código de Posturas do Município de Aparecida de Goiânia, e dá outras providências.”

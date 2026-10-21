@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 25 DE 30 DE MARÇO DE 2006
-
 LEI COMPLEMENTAR Nº 25 DE 30 DE MARÇO DE 2006
 
 Altera a [Lei nº 8.207, de 04 de fevereiro de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8207-de-04-de-fevereiro-de-2002#LO_8_207) e a [Lei Complementar nº 23, de 27 de dezembro de 2005](https://www.legislabahia.ba.gov.br/documentos/lc-no-23-de-27-de-dezembro-de-2005#LEI_23) , na forma que indica, e dá outras providências.

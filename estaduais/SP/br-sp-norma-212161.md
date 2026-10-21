@@ -1,5 +1,3 @@
-# Decreto nº 70.335, de 12/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212161)<br>
 
 # DECRETO N° 70.335, DE 12 DE JANEIRO DE 2026

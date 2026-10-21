@@ -1,5 +1,3 @@
-# LD Nº 66 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 66 DE 01 DE JUNHO DE 1983
 
 Cria a Universidade do Estado da Bahia - UNEB e dá outras providências.

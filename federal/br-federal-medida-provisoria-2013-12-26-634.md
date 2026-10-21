@@ -1,5 +1,3 @@
-# Medida Provisória nº 634 de 26/12/2013
-
 MEDIDA PROVISÓRIA Nº \- 634, DE 26 DE DEZEMBRO DE 2013
 
 Prorroga o prazo para a destinação de recursos aos Fundos Fiscais de Investimentos, altera a legislação tributária federal, e dá outras providências.

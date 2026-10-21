@@ -1,5 +1,3 @@
-# Decreto Numerado nº 217, de 2026-03-16
-
 DECRETO Nº 217, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 41, situado à Rua Cosme Velho, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

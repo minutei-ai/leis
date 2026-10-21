@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.313, de 2016-05-10
-
 LEI MUNICIPAL Nº 3.313, DE 10 DE MAIO DE 2016.
 
 INCLUI no calendário oficial do Município de Aparecida de Goiânia, o Dia Municipal do Profissional Optometrista, a ser realizado no dia 06 de março anualmente.

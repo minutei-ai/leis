@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.655, de 2025-11-13
-
 DECRETO Nº 2.655, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, da Quadra 190, situado à Rua Lopes Quintas, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

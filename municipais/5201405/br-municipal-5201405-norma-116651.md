@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.445, de 2018-12-07
-
 LEI Nº 3.445, DE 07 DE DEZEMBRO DE 2018
 
 Dispõe sobre o comércio de artigos de conveniência em farmácias e drogarias no âmbito do Município de Aparecida de Goiânia e, dá outras providências.

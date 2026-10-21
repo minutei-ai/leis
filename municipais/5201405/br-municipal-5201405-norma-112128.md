@@ -1,5 +1,3 @@
-# Lei Complementar nº 77, de 2013-12-13
-
 LEI COMPLEMENTAR Nº 77, DE 13 DE DEZEMBRO DE 2013.
 
 Altera Anexo IV da Lei Municipal n° 2.229/01 que dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia e dá outras providências.

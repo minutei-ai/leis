@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.376, de 2017-09-11
-
 LEI MUNICIPAL 3.376, DE 11 DE SETEMBRO DE 2017
 
 Altera a Lei nº 3.198/2014, que dispõe sobre a criação, composição e competências do Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia – COMPIR e dá outras providências.

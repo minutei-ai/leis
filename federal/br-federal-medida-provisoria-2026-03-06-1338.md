@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.338 de 06/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.338, DE 6 DE MARÇO DE 2026
 
 Institui Apoio Financeiro destinado às famílias residentes em áreas efetivamente atingidas que tiveram dano material ou perda de bens nos Municípios da Zona da Mata do Estado de Minas Gerais com estado de calamidade pública reconhecido pelo Poder Executivo federal.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.801, de 2024-06-21
-
 LEI Nº 22.801, DE 21 DE JUNHO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do AGRO + Negócios, realizada no Município de Santa Helena de Goiás/GO.

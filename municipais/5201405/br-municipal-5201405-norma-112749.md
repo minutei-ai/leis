@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.798, de 2024-09-25
-
 LEI MUNICIPAL Nº 3.798, DE 25 DE SETEMBRO DE 2024.
 
 Dispõe sobre a denominação da Praça Benedita de Souza Mendes, no Mansões Paraiso, neste Município e dá outras providências.

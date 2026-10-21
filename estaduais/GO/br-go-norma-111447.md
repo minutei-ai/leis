@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.802, de 2025-10-22
-
 DECRETO Nº 10.802, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre os critérios e os procedimentos gerais para a evolução funcional dos servidores nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

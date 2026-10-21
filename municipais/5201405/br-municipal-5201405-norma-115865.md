@@ -1,5 +1,3 @@
-# Decreto Numerado nº 575, de 2024-07-15
-
 DECRETO “N” Nº 575 DE 15 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

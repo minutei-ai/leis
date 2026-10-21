@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.384, de 2025-04-30
-
 LEI Nº 23.384, DE 30 DE ABRIL DE 2025
 
 Institui a Política Estadual Escolas da Cultura.

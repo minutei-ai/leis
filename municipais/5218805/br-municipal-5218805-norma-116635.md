@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.235, de 2022-02-22
-
 LEI Nº 7.235, DE 22 DE FEVERIRO DE 2022 
 
 Altera Lei nº 5.907/2011 que define obrigação de pequeno valor.

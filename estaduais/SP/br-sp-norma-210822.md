@@ -1,5 +1,3 @@
-# Decreto nº 69.460, de 28/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210822)<br>
 
 # DECRETO N° 69.460, DE 28 DE MARÇO DE 2025

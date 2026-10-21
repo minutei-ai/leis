@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.596, de 2024-12-10
-
 DECRETO Nº 10.596, DE 10 DE DEZEMBRO DE 2024
 
 Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2025 _._

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.527, de 2019-12-03
-
 LEI Nº 3.527, DE 03 DE DEZEMBRO DE 2019
 
 Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2020 e dá outras previdências.

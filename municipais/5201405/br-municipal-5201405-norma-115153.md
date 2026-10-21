@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.757, de 2023-11-30
-
 LEI MUNICIPAL Nº 3.757 DE 30 DE NOVEMBRO DE 2023.
 
 Reconhece como utilidade pública Municipal a entidade denominada Posto de Assistência Cascata de Luz.

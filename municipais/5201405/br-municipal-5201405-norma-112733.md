@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.780, de 2024-04-03
-
 LEI MUNICIPAL Nº 3.780, DE 03 DE ABRIL DE 2024.
 
 Dispõe sobre a alteração do nome da Organização Hospitalar Garavelo LTDA. “Hospital Garavelo” para Maternidade Maria da Cruz Gomes Santana.

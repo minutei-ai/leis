@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.436, de 2018-10-02
-
 LEI Nº 3.436, DE 02 DE OUTUBRO DE 2018
 
 Institui a obrigatoriedade de estabelecimentos públicos voltados ao ensino ou recreação infantil e fundamental a capacitarem seu corpo docente e funcional em noções básicas de primeiros socorros.<br>

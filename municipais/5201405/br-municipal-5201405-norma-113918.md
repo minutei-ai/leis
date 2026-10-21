@@ -1,5 +1,3 @@
-# Decreto Numerado nº 332, de 2024-05-07
-
 DECRETO “N” Nº 332, DE 07 DE MAIO DE 2024.
 
 Declara utilidade pública para fins de desapropriação, de imóvel situado no loteamento Terra Prometida, destinado a construção de CMEI, neste Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.669, de 2025-11-19
-
 DECRETO Nº 2.669, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

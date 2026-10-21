@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.041, de 2026-01-14
-
 LEI Nº 24.041, DE 14 DE JANEIRO DE 2026
 
 Altera a [Lei nº 21.021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104004 "Abrir Lei Ordinária nº 21021, de 2021 em nova aba"), de 08 de junho de 2021, que institui a Política Estadual “Goiás Gera Emprego e Renda”, e dá outras providências.

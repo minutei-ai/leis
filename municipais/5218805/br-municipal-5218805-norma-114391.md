@@ -1,5 +1,3 @@
-# Lei Complementar nº 340, de 2024-02-26
-
 LEI COMPLEMENTAR Nº 340, DE 26 DE FEVEREIRO DE 2024.
 
 Altera a [Lei Complementar nº 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), de 31 de agosto de 2000, que dispõe sobre o Estatuto dos Servidores do Município de Rio Verde – GO.

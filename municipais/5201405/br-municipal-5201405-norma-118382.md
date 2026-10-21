@@ -1,5 +1,3 @@
-# Decreto Numerado nº 629, de 2023-10-05
-
 DECRETO “N” Nº 629 DE 05 DE OUTUBRO DE 2023.
 
 Dispõe sobre remembramento de imóveis.

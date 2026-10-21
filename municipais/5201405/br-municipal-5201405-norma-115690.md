@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.421, de 2003-12-31
-
 LEI MUNICIPAL Nº 2.421-A DE 31 DE DEZEMBRO DE 2003.
 
 Estabelece alíquota do ISSQN-Imposto Sobre Serviços de Qualquer Natureza, para a concessão de incentivos fiscais.

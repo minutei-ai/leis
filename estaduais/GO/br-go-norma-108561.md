@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.583, de 2024-03-27
-
 LEI Nº 22.583, DE 27 DE MARÇO DE 2024
 
 Altera a [Lei nº 21.449](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105648), de 6 de junho de 2022, que estabelece controle na comercialização dos produtos ácidos, cáusticos ou corrosivos nos casos que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 112, de 2015-12-11
-
 LEI COMPLEMENTAR Nº 112, DE 11 DE DEZEMBRO DE 2015<br>
 (Revogado pela Lei Complementar nº 127, de 24 de fevereiro de 2017).
 

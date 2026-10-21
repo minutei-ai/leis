@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.594, de 2025-01-07
-
 LEI Nº 7.594, DE 7 DE JANEIRO DE 2025.
 
 Altera a [Lei nº 7.139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114683 "Abrir Lei Ordinária nº 7139, de 2021 em nova aba"), de 06 de maio de 2021, que dispõe sobre a Política Municipal de Habitação no âmbito do Município de Rio Verde-GO.

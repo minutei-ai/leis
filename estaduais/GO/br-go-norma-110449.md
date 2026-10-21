@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.655, de 2025-03-07
-
 DECRETO Nº 10.655, DE 7 DE MARÇO DE 2025
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Corumbaíba/GO.

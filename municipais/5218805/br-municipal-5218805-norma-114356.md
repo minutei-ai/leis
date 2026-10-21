@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.672, de 2025-06-30
-
 LEI Nº 7.672, DE 30 DE JUNHO DE 2025.
 
 Concede o título de utilidade pública municipal à associação dos tenistas de Rio Verde - ATRV e dá outras providências.

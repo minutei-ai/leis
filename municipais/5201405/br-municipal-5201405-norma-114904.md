@@ -1,5 +1,3 @@
-# Decreto Numerado nº 223, de 2024-04-09
-
 DECRETO “N” Nº 223 DE 09 DE ABRIL DE 2024
 
 Dispõe sobre remembramento e desmembramento.

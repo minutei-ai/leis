@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.689, de 2025-05-06
-
 DECRETO Nº 10.689, DE 6 DE MAIO DE 2025
 
 Dispõe sobre a criação, na Polícia Militar do Estado de Goiás, dos batalhões que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 880 de 30/04/2019
-
 MEDIDA PROVISÓRIA Nº 880, DE 30 DE ABRIL DE 2019
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 223.853.000,00, para os fins que especifica.

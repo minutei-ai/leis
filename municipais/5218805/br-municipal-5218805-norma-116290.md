@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.302, de 2022-11-03
-
 LEI N°. 7.302, DE 3 DE NOVEMBRO DE 2022
 
 Autoriza o Poder Executivo a instituir Servidão de Passagem à empresa CEREAL COMÉRCIO, EXPORTAÇÃO E REPRESENTAÇÃO AGROPECUÁRIA S/A.

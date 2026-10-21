@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.215, de 2025-09-12
-
 DECRETO Nº 2.215, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, da Quadra 79, situado à Rua Boulevards, no Loteamento Residencial Village Garavelo – 2ª Etapa, no Município de Aparecida de Goiânia.

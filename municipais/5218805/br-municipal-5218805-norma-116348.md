@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.262, de 2007-03-26
-
 LEI COMPLEMENTAR Nº 5.262, DE 26 DE MARÇO DE 2007.
 
 Cria o cargo de Eletricista de Linha Viva.

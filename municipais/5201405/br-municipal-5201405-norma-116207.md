@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.560, de 2020-06-23
-
 LEI MUNICIPAL Nº 3.560, DE 23 DE JUNHO DE 2020.
 
 Altera a Lei Municipal nº 2.443/2004, que institui o serviço de transporte escolar no Município de Aparecida de Goiânia, e dá outras providências.

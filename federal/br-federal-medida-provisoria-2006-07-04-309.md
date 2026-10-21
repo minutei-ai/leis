@@ -1,5 +1,3 @@
-# Medida Provisória nº 309 de 04/07/2006
-
 ###MPV-000309-0-000-04-07-2006@@@
 
 MEDIDA PROVISÓRIA Nº 309, DE 4 DE JULHO DE 2006.

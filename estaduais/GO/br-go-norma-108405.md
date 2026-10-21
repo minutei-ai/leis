@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.393, de 2024-01-15
-
 DECRETO Nº 10.393, DE 15 DE JANEIRO DE 2024
 
 Prorroga por 180 (cento e oitenta) dias a vigência do [Decreto estadual nº 10.297](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107545), de 2 de agosto de 2023, que decretou situação de emergência zoossanitária no Estado de Goiás, de forma preventiva, para a mitigação do risco da influenza aviária de alta patogenicidade.

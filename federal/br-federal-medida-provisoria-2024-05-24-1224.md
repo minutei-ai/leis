@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.224 de 24/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.224, DE 24 DE MAIO DE 2024
 
 Autoriza modalidade de venda de arroz beneficiado importado pela Companhia Nacional de Abastecimento para enfrentamento das consequências sociais e econômicas decorrentes de eventos climáticos extremos no Estado do Rio Grande do Sul.

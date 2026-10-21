@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.249, de 2007-03-08
-
 LEI COMPLEMENTAR Nº 5.249, DE 08 DE MARÇO DE 2007.
 
 <br>

@@ -1,5 +1,3 @@
-# Medida Provisória nº 728 de 23/05/2016
-
 MEDIDA PROVISÓRIA Nº 728, DE 23 DE MAIO DE 2016
 
 Revoga dispositivos da [Medida Provisória nº 726, de 12 de maio de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2016-05-12;726), restabelece dispositivos da [Lei nº 10.683, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10683), e cria as Secretarias Especiais dos Direitos da Pessoa com Deficiência e do Patrimônio Histórico e Artístico Nacional.

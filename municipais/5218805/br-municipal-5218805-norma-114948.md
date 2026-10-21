@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.545, de 2024-09-16
-
 LEI Nº 7.545, DE 16 DE SETEMBRO DE 2024.
 
 Denomina nome de creche que específica e dá outras providências.

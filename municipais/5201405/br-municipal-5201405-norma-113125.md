@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.716, de 2025-12-02
-
 DECRETO Nº 2.716, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua São Marcos, no Loteamento Jardim Alto Paraiso, no Município de Aparecida de Goiânia.

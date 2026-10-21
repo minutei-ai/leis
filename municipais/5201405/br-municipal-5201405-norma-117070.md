@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.924, de 2026-09-02
-
 LEI Nº 3.924, DE 2 DE SETEMBRO DE 2026
 
 Reconhece como Utilidade Pública Municipal o “Instituto Escola Sebastião Alves de Paula-IESAP”, e dá outras providências.

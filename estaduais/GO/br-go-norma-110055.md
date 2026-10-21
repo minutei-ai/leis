@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.583, de 2024-12-02
-
 DECRETO Nº 10.583, DE 2 DE DEZEMBRO DE 2024
 
 Dispõe sobre ponto facultativo nas repartições públicas estaduais nos dias 23, 24, 30 e 31 de dezembro de 2024, antevésperas e vésperas do Natal e do Ano Novo, respectivamente.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 220, de 2021-09-01
-
 LEI COMPLEMENTAR Nº 220, DE 1º DE SETEMBRO DE 2021.
 
 Altera a Lei Complementar n. 3.633/1998.

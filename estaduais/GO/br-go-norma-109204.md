@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.502, de 2024-07-12
-
 DECRETO Nº 10.502, DE 12 DE JULHO DE 2024
 
 Altera o Estatuto Social da Fundação de Previdência Complementar do Brasil Central – PREVCOMBrC, constante do Anexo Único do [Decreto nº 8.974](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69720), de 12 de junho de 2017.

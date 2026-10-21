@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.542, de 2026-09-16
-
 LEI Nº 24.542, DE 16 DE SETEMBRO DE 2026
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# LEI Nº 14.961 DE 05 DE SETEMBRO DE 2025
-
 LEI Nº 14.961 DE 05 DE SETEMBRO DE 2025
 
 Altera a Lei nº [11.370](https://www.legislabahia.ba.gov.br/documentos/lei-no-11370-de-04-de-fevereiro-de-2009), de 04 de fevereiro de 2009, na forma que indica, e dá outras providências.

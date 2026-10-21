@@ -1,5 +1,3 @@
-# Decreto Numerado nº 544, de 2023-08-22
-
 DECRETO “N” Nº 544 DE 22 DE AGOSTO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

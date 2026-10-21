@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1080, de 2024-12-12
-
 DECRETO “N” Nº 1080 DE 12 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

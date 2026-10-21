@@ -1,5 +1,3 @@
-# Lei Complementar nº 137, de 2017-12-12
-
 LEI COMPLEMENTAR Nº 137, DE 12 DE DEZEMBRO DE 2017
 
 Altera os arts. 3º e 27 da Lei Complementar n° 125/2017.

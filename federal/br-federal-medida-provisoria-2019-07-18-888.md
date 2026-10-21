@@ -1,5 +1,3 @@
-# Medida Provisória nº 888 de 18/07/2019
-
 MEDIDA PROVISÓRIA Nº 888, DE 18 DE JULHO DE 2019
 
 Altera a [Lei nº 13.328, de 29 de julho de 2016](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2016-07-29;13328), para dispor sobre as requisições de pessoal para a Defensoria Pública da União.

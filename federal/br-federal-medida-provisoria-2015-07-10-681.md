@@ -1,5 +1,3 @@
-# Medida Provisória nº 681 de 10/07/2015
-
 MEDIDA PROVISÓRIA Nº 681, DE 10 DE JULHO DE 2015
 
 Altera a Lei nº 10.820, de 17 de dezembro de 2003, a Lei nº 8.213, de 24 de julho de 1991, e a Lei nº 8.112, de 11 de dezembro de 1990, para dispor sobre desconto em folha de valores destinados ao pagamento de cartão de crédito.

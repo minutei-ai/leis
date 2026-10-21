@@ -1,5 +1,3 @@
-# LEI Nº 14.803 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.803 DE 26 DE DEZEMBRO DE 2024
 
 Altera a Lei nº [6.677](https://www.legislabahia.ba.gov.br/documentos/lei-no-6677-de-26-de-setembro-de-1994), de 26 de setembro de 1994, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.128, de 2025-09-02
-
 DECRETO Nº 2.128, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 13, situado à Rua Saracá, no Loteamento Vila Alzira, no Município de Aparecida de Goiânia.

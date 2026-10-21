@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.251, de 2022-04-01
-
 LEI Nº 7.251, DE 1º DE ABRIL DE 2022
 
 Dispõe sobre a retirada de veículos abandonados nas vias públicas do Município de Rio Verde-GO e dá outras providências.

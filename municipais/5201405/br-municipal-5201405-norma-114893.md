@@ -1,5 +1,3 @@
-# Decreto Numerado nº 428, de 2026-05-27
-
 DECRETO Nº 428, DE 27 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Wanderley Schmaltz, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

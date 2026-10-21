@@ -1,5 +1,3 @@
-# Medida Provisória nº 834 de 29/05/2018
-
 MEDIDA PROVISÓRIA Nº 834, DE 29 DE MAIO DE 2018
 
 Altera a [Lei nº 13.606, de 9 de janeiro de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-01-09;13606), para prorrogar o prazo de adesão ao Programa de Regularização Tributária Rural para 30 de outubro de 2018.

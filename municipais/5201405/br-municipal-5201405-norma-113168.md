@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.644, de 2025-11-13
-
 DECRETO Nº 2.644, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento da A.P.M 04 e A.P.M 04A, situados à Avenida Itália, Rua Ravena e Avenida São Francisco, no Loteamento Jardim Florença, no Município de Aparecida de Goiânia.

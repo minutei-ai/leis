@@ -1,5 +1,3 @@
-# Lei Complementar nº 10, de 2005-06-20
-
 LEI COMPLEMENTAR N.° 010, DE 20 DE JUNHO DE 2005.
 
 Dispõe sobre a adequação do Regime Próprio de Previdência Social de Aparecida de Goiânia à Emenda Constitucional nº 41/03 e dá outras providências.

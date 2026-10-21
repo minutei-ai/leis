@@ -1,5 +1,3 @@
-# LEI Nº 14.918 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.918 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública o Centro de Cultura e Arte do Cedro, com sede e foro no município de Conceição do Coité.

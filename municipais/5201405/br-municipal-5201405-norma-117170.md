@@ -1,5 +1,3 @@
-# Decreto Numerado nº 683, de 2024-08-23
-
 DECRETO “N” Nº 683 DE 23 DE AGOSTO DE 2024
 
 Dispõe sobre remembramento e desmembramento.

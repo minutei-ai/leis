@@ -1,5 +1,3 @@
-# Decreto Numerado nº 103, de 2023-02-10
-
 DECRETO “N” Nº, 103 DE 10 FEVEREIRO DE 2023.
 
 Dispõe sobre a Regulamentação da Lei Complementar Municipal nº. 203, de 09 de fevereiro de 2023 que “Dispõe sobre a Estrutura Organizacional Administrativa do Poder Executivo do Município de Aparecida de Goiânia/GO, estabelece o modelo de gestão, revoga dispositivos da Lei Complementar nº 183/21, e dá outras providências”.

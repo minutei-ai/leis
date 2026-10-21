@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.074, de 2011-12-14
-
 LEI COMPLEMENTAR Nº 6.074, DE 14 DE DEZEMBRO DE 2011
 
 Dispõe sobre o perímetro urbano do município de Rio Verde - GO e dá outras providências.

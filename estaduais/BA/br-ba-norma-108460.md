@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 27 DE 28 DE JUNHO DE 2006
-
 LEI COMPLEMENTAR Nº 27 DE 28 DE JUNHO DE 2006
 
 Altera dispositivos da [Lei Complementar nº 005, de 04.12.1991](https://www.legislabahia.ba.gov.br/documentos/lc-no-005-de-04-de-dezembro-de-1991#LEI_005) , e da [Lei nº 7.879, de 29.06.2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7879-de-29-de-junho-de-2001#LO_7_879) , e dá outras providências.

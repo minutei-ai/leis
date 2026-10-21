@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.431, de 2024-03-29
-
 DECRETO Nº 10.431, DE 29 DE MARÇO DE 2024
 
 Dispõe sobre a qualificação para o reconhecimento pelo poder público estadual de organizações como Conselhos Comunitários de Segurança e Defesa Social – CONSEGs na perspectiva da segurança comunitária e revoga o [Decreto nº 6.249](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/60990), de 20 de setembro de 2005.

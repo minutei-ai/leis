@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.884, de 2024-07-26
-
 LEI Nº 22.884, DE 26 DE JULHO DE 2024
 
 Altera a [Lei nº 21.855](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106896), de 11 de abril de 2023, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.

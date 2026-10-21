@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.629, de 2025-06-18
-
 DECRETO Nº 1.629, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua 2, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

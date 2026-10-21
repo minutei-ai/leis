@@ -1,5 +1,3 @@
-# Decreto Numerado nº 364, de 2024-05-13
-
 DECRETO “N” Nº 364 DE 13 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

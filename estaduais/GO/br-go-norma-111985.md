@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.993, de 2025-12-30
-
 LEI Nº 23.993, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre a estrutura administrativa permanente do Tribunal de Justiça do Estado de Goiás, estabelece suas unidades e respectivas competências, altera dispositivos da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655 "Abrir Lei Ordinária nº 17663, de 2012 em nova aba"), de 14 de junho de 2012, que dispõe sobre a reestruturação da Carreira dos Servidores do Poder Judiciário do Estado de Goiás, e dá outras providências.

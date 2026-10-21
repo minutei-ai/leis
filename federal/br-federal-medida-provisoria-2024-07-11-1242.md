@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.242 de 11/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.242, DE 11 DE JULHO DE 2024
 
 Autoriza o Poder Executivo federal a transferir recursos financeiros destinados a reformas em escolas públicas da educação básica com comprometimento estrutural decorrente de eventos climáticos no Estado do Rio Grande do Sul.

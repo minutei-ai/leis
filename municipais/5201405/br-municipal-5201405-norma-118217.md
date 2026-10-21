@@ -1,5 +1,3 @@
-# Decreto Numerado nº 438, de 2023-07-04
-
 DECRETO “N” Nº 438 DE 04 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR CONDE DOS ARCOS-COMPLEMENTO, neste município.

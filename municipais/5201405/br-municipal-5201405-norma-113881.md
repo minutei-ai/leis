@@ -1,5 +1,3 @@
-# Decreto Numerado nº 165, de 2024-03-22
-
 DECRETO “N” Nº 165 DE 22 DE MARÇO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidor da Secretaria Municipal de Educação.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.815, de 2018-02-26
-
 LEI Nº 6.815, DE 26 DE FEVEREIRO DE 2018.
 
 Concede bolsas a médicos que compõem o quadro clínico das Instituições Conveniadas com a Universidade de Rio Verde para atuarem como preceptores dos acadêmicos no internato e na Residência Médica do curso de Medicina.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 89, de 2014-07-02
-
 LEI COMPLEMENTAR Nº 89, DE 02 DE JULHO DE 2014. CRIA VAGA DO CARGO QUE ESPECIFICA E
 
 Altera anexo VIII da lei nº 2229/2001, que dispõe sobre o plano de carreira e vencimentos dos servidores da prefeitura municipal de aparecida de goiânia com as respectivas alterações e dá outras providências.

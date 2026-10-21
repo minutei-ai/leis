@@ -1,5 +1,3 @@
-# Decreto Numerado nº 281, de 2019-08-02
-
 DECRETO “N” Nº 281, DE 02 DE AGOSTO DE 2019
 
 Altera o Decreto “N” nº 25 de 19 de Janeiro de 2018, que Regulamenta a Lei Municipal nº 3.017, de 21 de dezembro de 2011, que autoriza o Poder Executivo a outorgar concessões remuneradas para a exploração do serviço funerário no Município de Aparecida de Goiânia e dá outras providências.

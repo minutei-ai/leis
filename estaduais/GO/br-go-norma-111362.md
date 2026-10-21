@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.791, de 2025-10-01
-
 DECRETO Nº 10.791, DE 1º DE OUTUBRO DE 2025
 
 Desqualifica como organização social de saúde, no Estado de Goiás, o Instituto Gênnesis – Gestão em Saúde, Educação e Tecnologia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.118, de 2025-09-01
-
 DECRETO Nº 2.118, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Domiciano de Faria Pereira, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

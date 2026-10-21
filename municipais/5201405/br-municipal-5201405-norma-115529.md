@@ -1,5 +1,3 @@
-# Decreto Numerado nº 380, de 2024-05-22
-
 DECRETO “N” Nº 380 DE 22 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

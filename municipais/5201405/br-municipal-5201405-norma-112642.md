@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.527, de 2025-06-11
-
 DECRETO Nº 1.527, DE 11 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Domingos Jorge Velho, no Loteamento Setor dos Bandeirantes, no Município de Aparecida de Goiânia.

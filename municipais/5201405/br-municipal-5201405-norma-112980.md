@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.854, de 2025-12-18
-
 DECRETO Nº 2.854, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua 03, no Loteamento Bairro Independência, no Município de Aparecida de Goiânia.

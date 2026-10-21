@@ -1,5 +1,3 @@
-# Decreto Numerado nº 538, de 2024-07-04
-
 DECRETO “N” Nº 538 DE 04 DE JULHO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

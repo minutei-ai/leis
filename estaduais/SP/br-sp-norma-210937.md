@@ -1,5 +1,3 @@
-# Decreto Legislativo nº 2.563, de 14/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210937)<br>
 
 # DECRETO LEGISLATIVO N° 2.563, DE 14 DE MAIO DE 2025

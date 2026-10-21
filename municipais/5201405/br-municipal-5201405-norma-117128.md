@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.246, de 2014-12-23
-
 LEI MUNICIPAL N° 3.246, DE 23 DE DEZEMBRO DE 2014
 
 “Dispõe sobre Plano Municipal de Promoção, Proteção e Defesa dos Direitos da Criança e Adolescente e dá outras providências.”

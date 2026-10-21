@@ -1,5 +1,3 @@
-# Medida Provisória nº 832 de 27/05/2018
-
 MEDIDA PROVISÓRIA Nº 832, DE 27 DE MAIO DE 2018
 
 Institui a Política de Preços Mínimos do Transporte Rodoviário de Cargas.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 845, de 2024-10-09
-
 DECRETO “N” Nº 845 DE 09 DE OUTUBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

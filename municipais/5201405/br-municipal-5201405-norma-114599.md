@@ -1,5 +1,3 @@
-# Decreto Numerado nº 85, de 2024-02-21
-
 DECRETO “N” Nº 85 DE 21 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

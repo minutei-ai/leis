@@ -1,5 +1,3 @@
-# Decreto Numerado nº 884, de 2025-02-21
-
 DECRETO Nº 884, DE 21 DE FEVEREIRO DE 2025.
 
 Dispõe sobre a criação do Gabinete de Gestão Integrada Municipal – GGI-M, no âmbito do Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LEI Nº 15.088 DE 19 DE JANEIRO DE 2026
-
 LEI Nº 15.088 DE 19 DE JANEIRO DE 2026
 
 Declara de utilidade pública a Associação das Donas de Casa do Estado da Bahia, com sede e foro no município de Jequié.

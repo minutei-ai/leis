@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.046, de 2020-02-19
-
 **LEI N 7.046, DE 19 DE FEVEREIRO DE 2020**
 
 Concede reposição geral anual dos vencimentos dos servidores efetivos e dos subsidios dos vereadores da Câmara Municipal de Rio Verde-GO, e dá outras providências, etc.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.303, de 2025-03-27
-
 LEI Nº 23.303, DE 27 DE MARÇO DE 2025
 
 Institui a Política Estadual de Incentivo à Prática do _Beach Tennis_.

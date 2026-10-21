@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.112 de 31/03/2022
-
 MEDIDA PROVISÓRIA Nº 1.112, DE 31 DE MARÇO DE 2022
 
 Institui o Programa de Aumento da Produtividade da Frota Rodoviária no País - Renovar e altera a Lei nº 9.478, de 6 de agosto de 1997, a Lei nº 9.503, de 23 de setembro de 1997, a Lei nº 10.336, de 19 de dezembro de 2001, e a Lei nº 11.080, de 30 de dezembro de 2004.

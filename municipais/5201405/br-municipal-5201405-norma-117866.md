@@ -1,5 +1,3 @@
-# Decreto Numerado nº 135, de 2023-03-06
-
 DECRETO “N” Nº 135 DE 06 DE MARÇO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento QUINTA DA BOA VISTA, neste município.

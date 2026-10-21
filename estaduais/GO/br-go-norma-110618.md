@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.684, de 2025-04-23
-
 DECRETO Nº 10.684, DE 23 DE ABRIL DE 2025
 
 Institui o Bônus por Resultado, com o pagamento até dezembro de 2025, aos profissionais da educação e aos servidores administrativos lotados na Secretaria de Estado da Educação.

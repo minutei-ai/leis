@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.322 de 31/10/2025
-
 MEDIDA PROVISÓRIA Nº 1.322, DE 31 DE OUTUBRO DE 2025
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito da Fundação Instituto Brasileiro de Geografia e Estatística e do Ministério da Gestão e da Inovação em Serviços Públicos

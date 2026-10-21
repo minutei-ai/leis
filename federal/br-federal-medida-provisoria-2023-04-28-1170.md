@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.170 de 28/04/2023
-
 MEDIDA PROVISÓRIA Nº 1.170, DE 28 DE ABRIL DE 2023
 
 Altera a remuneração de servidores e de empregados públicos do Poder Executivo federal.

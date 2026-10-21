@@ -1,5 +1,3 @@
-# Decreto Numerado nº 156, de 2026-02-26
-
 DECRETO Nº 156, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua T-3, no Loteamento Vila São Manoel, no Município de Aparecida de Goiânia.

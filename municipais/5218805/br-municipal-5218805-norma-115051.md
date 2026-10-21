@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.530, de 2024-06-24
-
 LEI Nº 7.530, DE 24 DE JUNHO DE 2024.
 
 Institui no âmbito do Município de Rio Verde, o Mês da Conscientização da Doença de Parkinson denominado "Tulipa Vermelha, e dá outras providências.

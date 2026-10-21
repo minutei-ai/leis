@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.621, de 2021-09-10
-
 LEI MUNICIPAL Nº 3.621, DE 10 DE SETEMBRO DE 2021.
 
 “Dispõe sobre a instalação de espaço de convivência para animais de estimação – PET PLACE.”

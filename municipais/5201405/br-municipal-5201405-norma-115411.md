@@ -1,5 +1,3 @@
-# Decreto Numerado nº 468, de 2026-06-15
-
 DECRETO Nº 468, DE 15 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Dr. Edilberto da Veiga Jardim, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

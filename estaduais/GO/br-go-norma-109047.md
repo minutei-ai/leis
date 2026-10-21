@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.485, de 2024-06-26
-
 DECRETO Nº 10.485, DE 26 DE JUNHO DE 2024
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e o [Decreto nº 10.326](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107828), de 29 de setembro de 2023.

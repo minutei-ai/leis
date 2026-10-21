@@ -1,5 +1,3 @@
-# Decreto Numerado nº 571, de 2024-07-11
-
 DECRETO “N” Nº 571 DE 11 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

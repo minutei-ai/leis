@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.678, de 2022-09-20
-
 LEI MUNICIPAL Nº 3.678 DE 20 DE SETEMBRO DE 2022.
 
 “Institui o Dia Municipal do Administrador, neste Município, e dá outras providências.”

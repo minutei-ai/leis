@@ -1,5 +1,3 @@
-# LEI Nº 14.816 DE 22 DE JANEIRO DE 2025
-
 LEI Nº 14.816 DE 22 DE JANEIRO DE 2025
 
 Altera as Leis nº [11.370](https://www.legislabahia.ba.gov.br/documentos/lei-no-11370-de-04-de-fevereiro-de-2009), de 04 de fevereiro de 2009, nº [11.369](https://www.legislabahia.ba.gov.br/documentos/lei-no-11369-de-02-de-fevereiro-de-2009), de 02 de fevereiro de 2009 e nº [11.613](https://www.legislabahia.ba.gov.br/documentos/lei-no-11613-de-06-de-novembro-de-2009), de 06 de novembro de 2009, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.811, de 2024-12-12
-
 LEI MUNICIPAL Nº 3.811, DE 12 DE DEZEMBRO DE 2024.
 
 Dispõe sobre a criação e denominação da Escola Municipal de Educação Integral Darcy Ribeiro e dá outras providências.

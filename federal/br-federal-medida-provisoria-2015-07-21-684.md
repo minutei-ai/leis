@@ -1,5 +1,3 @@
-# Medida Provisória nº 684 de 21/07/2015
-
 MEDIDA PROVISÓRIA Nº 684, DE 21 DE JULHO DE 2015
 
 Altera a Lei nº 13.019, de 31 de julho de 2014, que estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não transferências de recursos financeiros, entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público; define diretrizes para a política de fomento e de colaboração com organizações da sociedade civil; institui o termo de colaboração e o termo de fomento; e altera as Leis nºs 8.429, de 2 de junho de 1992, e 9.790, de 23 de março de 1999.

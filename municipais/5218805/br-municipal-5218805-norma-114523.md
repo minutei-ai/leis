@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.626, de 2025-03-24
-
 LEI Nº 7.626, DE 24 DE MARÇO DE 2025.
 
 Autoriza a criação da “Rota do Agro Rio Verde Goiás” e dá outras providências.

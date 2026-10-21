@@ -1,5 +1,3 @@
-# Medida Provisória nº 859 de 26/11/2018
-
 MEDIDA PROVISÓRIA Nº 859, DE 26 DE NOVEMBRO DE 2018
 
 Altera a [Lei nº 8.036, de 11 de maio de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036), que dispõe sobre o Fundo de Garantia do Tempo de Serviço, para viabilizar a aplicação de recursos do Fundo em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde.

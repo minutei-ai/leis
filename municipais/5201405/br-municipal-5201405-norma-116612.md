@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.423, de 2018-06-28
-
 LEI MUNICIPAL Nº 3.423, DE 28 DE JUNHO DE 2018
 
 Reconhece como Utilidade Publica Municipal a ASSOCIAÇÃO SERRA DAS AREIAS – ASA.

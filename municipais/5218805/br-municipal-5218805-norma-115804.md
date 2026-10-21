@@ -1,5 +1,3 @@
-# Lei Complementar nº 413, de 2025-10-31
-
 LEI COMPLEMENTAR Nº 413, DE 31 DE OUTUBRO DE 2025.
 
 Altera a Lei Complementar nº 130, de 3 de julho de 2018, que dispõe sobre a criação da Agência de Regulação dos Serviços Públicos de Saneamento Básico - AMAE.

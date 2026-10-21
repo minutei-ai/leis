@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.439, de 13/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212347)<br>
 
 # LEI COMPLEMENTAR N° 1.439, DE 13 DE MARÇO DE 2026

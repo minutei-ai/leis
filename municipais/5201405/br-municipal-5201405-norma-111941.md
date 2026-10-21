@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.964, de 2011-06-13
-
 LEI MUNICIPAL Nº 2.964, DE 13 DE JUNHO DE 2011.
 
 Torna Obrigatório no Município de Aparecida de Goiânia a construção de desnível nas calçadas em lugares de grande aglomeração, e dá outras providências.

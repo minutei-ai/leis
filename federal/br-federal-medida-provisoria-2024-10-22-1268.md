@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.268 de 22/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.268, DE 22 DE OUTUBRO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública, da Saúde, do Meio Ambiente e Mudança do Clima, do Desenvolvimento Agrário e Agricultura Familiar, da Integração e do Desenvolvimento Regional, do Desenvolvimento e Assistência Social, Família e Combate à Fome, e da Pesca e Aquicultura, no valor de R$ 938.458.061,00, para os fins que especifica.

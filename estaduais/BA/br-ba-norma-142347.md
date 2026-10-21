@@ -1,5 +1,3 @@
-# EMENDA À CONSTITUIÇÃO Nº 28 DE 28 DE DEZEMBRO DE 2021
-
 EMENDA À CONSTITUIÇÃO Nº 28 DE 28 DE DEZEMBRO DE 2021
 
 Altera o § 5º do art. 67 da Constituição do Estado da Bahia.

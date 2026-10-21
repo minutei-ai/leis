@@ -1,5 +1,3 @@
-# Decreto nº 70.768, de 27/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212855)<br>
 
 # DECRETO N° 70.768, DE 27 DE JULHO DE 2026

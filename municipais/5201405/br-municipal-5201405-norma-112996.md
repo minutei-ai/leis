@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.835, de 2025-12-16
-
 DECRETO Nº 2.835, DE 16 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Guaporé, no Loteamento Nova Olinda, no Município de Aparecida de Goiânia.

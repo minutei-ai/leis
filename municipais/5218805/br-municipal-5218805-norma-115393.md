@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.369, de 2023-06-28
-
 LEI N. 7.369, DE 28 DE JUNHO DE 2023.
 
 Autoriza patrocínio da Associação Goiana de Automobilismo.

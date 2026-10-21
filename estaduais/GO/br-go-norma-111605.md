@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.857, de 2025-11-19
-
 LEI Nº 23.857, DE 19 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

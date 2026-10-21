@@ -1,5 +1,3 @@
-# Decreto Numerado nº 155, de 2026-02-23
-
 DECRETO Nº 155, DE 23 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

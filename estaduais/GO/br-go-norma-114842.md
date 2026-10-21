@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.312, de 2026-05-25
-
 LEI Nº 24.312, DE 25 DE MAIO DE 2026
 
 Altera a denominação do estabelecimento de ensino que especifica.

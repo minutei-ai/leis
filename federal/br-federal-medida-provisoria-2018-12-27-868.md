@@ -1,5 +1,3 @@
-# Medida Provisória nº 868 de 27/12/2018
-
 MEDIDA PROVISÓRIA Nº 868, DE 27 DE DEZEMBRO DE 2018
 
 Atualiza o marco legal do saneamento básico e altera a [Lei nº 9.984, de 17 de julho de 2000](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-07-17;9984), para atribuir à Agência Nacional de Águas competência para editar normas de referência nacionais sobre o serviço de saneamento; a [Lei nº 10.768, de 19 de novembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-11-19;10768), para alterar as atribuições do cargo de Especialista em Recursos Hídricos; a [Lei nº 11.445, de 5 de janeiro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-01-05;11445), para aprimorar as condições estruturais do saneamento básico no País; e a [Lei nº 13.529, de 4 de dezembro de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-12-04;13529), para autorizar a União a participar de fundo com a finalidade exclusiva de financiar serviços técnicos especializados.

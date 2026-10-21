@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.647, de 2025-09-09
-
 LEI Nº 23.647, DE 9 DE SETEMBRO DE 2025
 
 Institui o Dia Estadual do Bombeiro Militar Veterano e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.237 de 03/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.237, DE 3 DE JULHO DE 2024
 
 Abre crédito extraordinário, em favor da Justiça Federal, da Defensoria Pública da União, do Ministério do Trabalho e Emprego, e de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00, para os fins que especifica.

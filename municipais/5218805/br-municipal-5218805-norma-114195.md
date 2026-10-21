@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.730, de 2025-10-31
-
 LEI Nº 7.730, DE 31 DE OUTUBRO DE 2025.
 
 Autoriza a desafetação e doação de imóvel que menciona para o Estado de Goiás.

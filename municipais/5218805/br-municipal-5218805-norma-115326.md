@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.396, de 2023-08-28
-
 LEI Nº 7.396, DE 28 DE AGOSTO DE 2023.
 
 Institui e inclui no Calendário Oficial do município de Rio Verde - Goiás, o Dia dos Vicentinos, e dá outras providências. 

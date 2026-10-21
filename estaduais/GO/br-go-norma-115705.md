@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.362, de 2026-06-22
-
 LEI Nº 24.362, DE 22 DE JUNHO DE 2026
 
 Confere ao Município de Goiás/GO o título de “Capital Estadual da Reforma Agrária”.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.654, de 2025-11-13
-
 DECRETO Nº 2.654, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos lotes 01, 02, 03, 04, 05, 06 e 16, da Quadra 201, situados à Avenida Liberdade com a Rua da Matriz e Rua Mato Grosso, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

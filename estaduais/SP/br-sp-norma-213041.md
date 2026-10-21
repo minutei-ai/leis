@@ -1,5 +1,3 @@
-# Decreto nº 70.932, de 19/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213041)<br>
 
 # DECRETO N° 70.932, DE 19 DE OUTUBRO DE 2026

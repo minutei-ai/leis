@@ -1,5 +1,3 @@
-# Decreto nº 69.362, de 19/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210637)<br>
 
 # DECRETO N° 69.362, DE 19 DE FEVEREIRO DE 2025

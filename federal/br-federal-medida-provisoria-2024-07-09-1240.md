@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.240 de 09/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.240, DE 9 DE JULHO DE 2024
 
 Altera a [Lei nº 7.565, de 19 de dezembro de 1986](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1986-12-19;7565) - Código Brasileiro de Aeronáutica.

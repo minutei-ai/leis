@@ -1,5 +1,3 @@
-# LD Nº 25 DE 10 DE FEVEREIRO DE 1983
-
 LEI DELEGADA Nº 25 DE 10 DE FEVEREIRO DE 1983
 
 Dispõe sobre a reorganização do gabinete da Vice-Governadoria do Estado.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.118 de 17/05/2022
-
 MEDIDA PROVISÓRIA Nº 1.118, DE 17 DE MAIO DE 2022
 
 Altera a Lei Complementar nº 192, de 11 de março de 2022, que define os combustíveis sobre os quais incidirá uma única vez o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, ainda que as operações se iniciem no exterior.

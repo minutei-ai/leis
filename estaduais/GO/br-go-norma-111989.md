@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.997, de 2025-12-30
-
 LEI Nº 23.997, DE 30 DE DEZEMBRO DE 2025
 
 Cria e denomina o estabelecimento de ensino que especifica.<br>

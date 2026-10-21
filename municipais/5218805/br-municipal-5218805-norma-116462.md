@@ -1,5 +1,3 @@
-# Lei Complementar nº 160, de 2019-08-30
-
 LEI COMPLEMENTAR Nº 160, DE 30 DE AGOSTO DE 2019
 
 Extingue cargos públicos e estabelece cargos em extinção.

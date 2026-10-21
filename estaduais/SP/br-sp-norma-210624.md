@@ -1,5 +1,3 @@
-# Decreto nº 69.357, de 14/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210624)<br>
 
 # DECRETO N° 69.357, DE 14 DE FEVEREIRO DE 2025

@@ -1,5 +1,3 @@
-# LCP nº 159, de 30/07/2021
-
 Dispõe sobre a instituição e a gestão de aglomerações urbanas e microrregiões no Estado.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

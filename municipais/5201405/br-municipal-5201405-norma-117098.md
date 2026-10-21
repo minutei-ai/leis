@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3215, de 2014-09-09
-
 LEI MUNICIPAL N° 3.215, DE 09 DE SETEMBRO DE 2014.
 
 Dá nome ao Centro Municipal de Educação Infantil- CMEI, situado no Bairro Independência, neste município.

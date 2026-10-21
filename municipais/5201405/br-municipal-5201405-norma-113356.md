@@ -1,5 +1,3 @@
-# Lei Complementar nº 66, de 2012-12-31
-
 LEI COMPLEMENTAR Nº 66, DE 31 DE DEZEMBRO DE 2012.
 
 Altera o Anexo I, da Lei Municipal nº 2.229/2001, que dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura, alterada pela Lei Municipal nº. 2.496/2005 e altera a Lei Complementar Municipal nº. 042/2011.

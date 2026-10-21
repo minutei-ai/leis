@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.963, de 2024-08-30
-
 LEI Nº 22.963, DE 30 DE AGOSTO DE 2024
 
 Estabelece diretrizes para a integração dos municípios goianos ao Sistema Nacional de Trânsito.

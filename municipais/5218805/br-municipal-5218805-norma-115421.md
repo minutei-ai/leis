@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.343, de 2023-03-30
-
 LEI Nº 7.343, DE 30 DE MARÇO DE 2023
 
 Dispõe sobre denominação da Extensão do CRAS Santa Cruz, no Distrito de Riverlândia.

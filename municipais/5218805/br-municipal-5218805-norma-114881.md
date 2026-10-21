@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.589, de 2024-12-16
-
 LEI Nº 7.589, DE 16 DE DEZEMBRO DE 2024.
 
 Dispõe sobre a denominação de ponte localizada na comunidade rural Campo Limpo do Rio Preto e dá outras providências.

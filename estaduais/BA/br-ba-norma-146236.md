@@ -1,5 +1,3 @@
-# LEI N° 14.869 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.869 DE 12 DE FEVEREIRO DE 2025
 
 Cria a Carteira de Identificação do Autista (CIA), para a pessoa diagnosticada com Transtorno do Espectro Autista (TEA).

@@ -1,5 +1,3 @@
-# Lei nº 18.468, de 27/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212667)<br>
 
 # LEI N° 18.468, DE 27 DE MAIO DE 2026

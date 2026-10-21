@@ -1,5 +1,3 @@
-# Decreto Numerado nº 191, de 2024-04-01
-
 DECRETO “N” Nº 191 DE 01 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

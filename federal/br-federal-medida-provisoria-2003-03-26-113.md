@@ -1,5 +1,3 @@
-# Medida Provisória nº 113 de 26/03/2003
-
 ###MPV-000113-0-000-26-03-2003@@@
 
 MEDIDA PROVISÓRIA N° 113, DE 26 DE MARÇO 2003.

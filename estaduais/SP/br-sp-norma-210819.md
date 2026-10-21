@@ -1,5 +1,3 @@
-# Decreto nº 69.450, de 27/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210819)<br>
 
 # DECRETO N° 69.450, DE 27 DE MARÇO DE 2025

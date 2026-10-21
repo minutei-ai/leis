@@ -1,5 +1,3 @@
-# LEI Nº 15.107 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.107 DE 28 DE JANEIRO DE 2026
 
 Institui a Política Estadual "Vini Jr.” de Combate ao Racismo em estádios e arenas esportivas do Estado da Bahia.

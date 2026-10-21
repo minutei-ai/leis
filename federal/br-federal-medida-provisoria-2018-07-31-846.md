@@ -1,5 +1,3 @@
-# Medida Provisória nº 846 de 31/07/2018
-
 MEDIDA PROVISÓRIA Nº 846, DE 31 DE JULHO DE 2018
 
 Altera a [Medida Provisória nº 841, de 11 de junho de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2018-06-11;841), que dispõe sobre o Fundo Nacional de Segurança Pública e sobre a destinação do produto da arrecadação das loterias, a [Lei nº 9.615, de 24 de março de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-03-24;9615), que institui normas gerais sobre desporto, e a [Lei nº 11.473, de 10 de maio de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-05-10;11473), que dispõe sobre cooperação federativa no âmbito da segurança pública.

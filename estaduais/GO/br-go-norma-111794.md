@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.834, de 2025-12-11
-
 DECRETO Nº 10.834, DE 11 DE DEZEMBRO DE 2025
 
 Altera o Código de Ética e Conduta Profissional do Servidor e da Alta Administração da administração pública direta, autárquica e fundacional do Poder Executivo estadual, instituído pelo [Decreto nº 9.837](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103904), de 23 de março de 2021.

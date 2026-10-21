@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.336, de 2025-09-30
-
 DECRETO Nº 2.336, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua X-04 no Loteamento Sítios Santa Luzia, no Município de Aparecida de Goiânia.

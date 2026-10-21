@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.657, de 2025-03-14
-
 DECRETO Nº 10.657, DE 14 DE MARÇO DE 2025
 
 Institui a Ouvidoria da Mulher Servidora, canal especial de atendimento vinculado à Subcontroladoria de Governo Aberto e Ouvidoria-Geral, da Controladoria-Geral do Estado – CGE, e a Rede Estadual de Ouvidorias da Mulher no Poder Executivo estadual.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.611, de 2025-02-24
-
 LEI N° 7.611, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a Lei nº 5.558, de 24 de março de 2009, que cria o Programa Bolsa de Produção Cultural.

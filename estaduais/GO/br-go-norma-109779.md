@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.043, de 2024-10-29
-
 LEI Nº 23.043, DE 29 DE OUTUBRO DE 2024<br>
 \- [Vide Decreto nº 10.637, de 4-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110421) - Institui e regulamenta, na Secretaria de Estado da Educação – SEDUC, o Prêmio Redação Enem.
 

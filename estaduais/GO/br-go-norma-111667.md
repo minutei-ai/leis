@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.823, de 2025-12-04
-
 DECRETO Nº 10.823, DE 4 DE DEZEMBRO DE 2025
 
 Altera o [Decreto nº 10.634](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110418 "Abrir Decreto Numerado nº 10634, de 2025 em nova aba"), de 31 de janeiro de 2025, que dispõe sobre os procedimentos relativos às emendas individuais impositivas no Estado de Goiás e revoga o [Decreto nº 10.098](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105660 "Abrir Decreto Numerado nº 10098, de 2022 em nova aba"), de 14 de junho de 2022.

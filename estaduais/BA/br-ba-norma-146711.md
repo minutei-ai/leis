@@ -1,5 +1,3 @@
-# LEI Nº 14.923 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.923 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação Protetora dos Animais Desamparados – Associação Pets do Coração, com sede e foro no município de Santa Maria da Vitória.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.602, de 2025-11-07
-
 DECRETO Nº 2.602, DE 7 DE NOVEMBRO DE 2025
 
 Prorroga o prazo de adesão ao Programa de Recuperação Fiscal – REFIS/PMAG.

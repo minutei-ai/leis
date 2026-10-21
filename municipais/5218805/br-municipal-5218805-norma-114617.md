@@ -1,5 +1,3 @@
-# Lei Complementar nº 3.633, de 1998-03-03
-
 LEI COMPLEMENTAR N. º 3.633 DE 4 DE MARÇO DE 1998.
 
 Dispõe sobre o parcelamento do solo para fins urbanos e dá outras providências.

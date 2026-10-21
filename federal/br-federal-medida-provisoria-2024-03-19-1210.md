@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.210 de 19/03/2024
-
 MEDIDA PROVISÓRIA Nº 1.210, DE 19 DE MARÇO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Justiça e Segurança Pública, no valor de R$ 30.157.034,00, para os fins que especifica.

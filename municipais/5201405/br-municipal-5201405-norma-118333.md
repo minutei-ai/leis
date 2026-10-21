@@ -1,5 +1,3 @@
-# Decreto Numerado nº 576, de 2023-09-01
-
 DECRETO “N” Nº 576 DE 01 DE SETEMBRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis.

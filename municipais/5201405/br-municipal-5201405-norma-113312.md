@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.328, de 2025-09-30
-
 DECRETO Nº 2.328, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 41, da Quadra 57, situado à Avenida Frutal, no Loteamento Setor Conde dos Arcos - Complemento, no Município de Aparecida de Goiânia.

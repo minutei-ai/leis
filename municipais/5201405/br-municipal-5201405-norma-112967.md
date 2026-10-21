@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.875, de 2025-12-29
-
 DECRETO Nº 2.875, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 49, situado à Rua Provença, no Loteamento Setor Residencial Campos Elisios, no Município de Aparecida de Goiânia.

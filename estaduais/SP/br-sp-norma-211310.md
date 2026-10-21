@@ -1,5 +1,3 @@
-# Decreto nº 69.800, de 12/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211310)<br>
 
 # DECRETO N° 69.800, DE 12 DE AGOSTO DE 2025

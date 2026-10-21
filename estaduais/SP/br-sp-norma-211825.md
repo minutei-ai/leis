@@ -1,5 +1,3 @@
-# Decreto nº 70.092, de 12/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211825)<br>
 
 # DECRETO N° 70.092, DE 12 DE NOVEMBRO DE 2025

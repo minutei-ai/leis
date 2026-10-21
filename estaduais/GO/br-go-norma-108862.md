@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.710, de 2024-05-21
-
 LEI Nº 22.710, DE 21 DE MAIO DE 2024
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Itaguari/GO.

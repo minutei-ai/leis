@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.821, de 2026-03-23
-
 LEI Nº 7.821, DE 23 DE MARÇO DE 2026.
 
 Dispõe sobre a criação do Conselho Municipal do Esporte - CME e do Fundo Municipal do Esporte - FME.

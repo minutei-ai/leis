@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.063, de 2025-03-20
-
 DECRETO Nº 1.063, DE 20 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel, localizado no Município de Aparecida de Goiânia.

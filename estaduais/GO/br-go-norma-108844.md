@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.697, de 2024-05-15
-
 LEI Nº 22.697, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.

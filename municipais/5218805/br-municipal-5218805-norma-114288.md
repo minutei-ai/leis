@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.472, de 2002-08-20
-
 LEI Nº 4.472, de 20 agosto de 2002.
 
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Funcionários do Município de Rio Verde.

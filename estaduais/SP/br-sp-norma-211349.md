@@ -1,5 +1,3 @@
-# Lei nº 18.186, de 22/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211349)<br>
 
 # LEI N° 18.186, DE 22 DE AGOSTO DE 2025

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.875, de 2025-12-11
-
 LEI Nº 3.875, DE 11 DE DEZEMBRO DE 2025
 
 Denomina-se complexo viário MAGUITO VILELA, o viaduto (trincheira) localizado na Avenida das Nações, e dá outras providências.

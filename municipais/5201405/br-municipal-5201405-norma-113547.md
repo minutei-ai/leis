@@ -1,5 +1,3 @@
-# Decreto Numerado nº 196, de 2026-03-12
-
 DECRETO Nº 196, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua 10, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

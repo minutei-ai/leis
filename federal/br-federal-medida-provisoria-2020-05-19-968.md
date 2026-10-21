@@ -1,5 +1,3 @@
-# Medida Provisória nº 968 de 19/05/2020
-
 MEDIDA PROVISÓRIA Nº 968, DE 19 DE MAIO DE 2020
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Justiça e Segurança Pública.

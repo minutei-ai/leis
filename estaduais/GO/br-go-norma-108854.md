@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.702, de 2024-05-20
-
 LEI Nº 22.702, DE 20 DE MAIO DE 2024
 
 Institui a Campanha Estadual de Prevenção ao Câncer de Tireoide.

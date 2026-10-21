@@ -1,5 +1,3 @@
-# Decreto nº 70.026, de 28/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211722)<br>
 
 # DECRETO N° 70.026, DE 28 DE OUTUBRO DE 2025

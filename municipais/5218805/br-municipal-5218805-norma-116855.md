@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.214, de 2021-11-30
-
 LEI Nº 7.214, DE 30 DE NOVEMBRO DE 2021
 
 Reconhece Entidade Pública Municipal e dá outras providências.

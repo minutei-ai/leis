@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.548, de 2024-09-16
-
 LEI Nº 7.548, DE 16 DE SETEMBRO DE 2024.
 
 Denomina a “Praça da Vila Mariana” no Município de Rio Verde-GO, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 48, de 2016-03-22
-
 LEI COMPLEMENTAR Nº 48, DE 22 DE MARÇO DE 2016.
 
 Altera a Lei Complementar n. 3.633/98 e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto nº 69.537, de 15/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210942)<br>
 
 # DECRETO N° 69.537, DE 15 DE MAIO DE 2025

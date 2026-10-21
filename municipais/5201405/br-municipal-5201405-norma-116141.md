@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.761, de 2008-10-29
-
 LEI MUNICIPAL Nº 2.761, DE 29 DE OUTUBRO DE 2008
 
 Dá nova redação à Lei Municipal nº 1.061/92 que instituiu o Conselho Municipal de Saúde.

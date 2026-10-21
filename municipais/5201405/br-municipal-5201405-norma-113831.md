@@ -1,5 +1,3 @@
-# Decreto Numerado nº 456, de 2023-07-12
-
 DECRETO “N” Nº 456, DE 12 DE JULHO DE 2023.
 
 Dispõe sobre a nomeação dos membros integrantes da Junta Administrativa de Recursos de Infrações – Jari e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.913, de 2025-08-07
-
 DECRETO Nº 1.913, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Onofre Pureza Lemes, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

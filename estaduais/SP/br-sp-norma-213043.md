@@ -1,5 +1,3 @@
-# Decreto nº 70.934, de 19/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213043)<br>
 
 # DECRETO N° 70.934, DE 19 DE OUTUBRO DE 2026

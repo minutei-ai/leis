@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.522, de 2023-12-28
-
 LEI Nº 22.522, DE 28 DE DEZEMBRO DE 2023
 
 Institui o Dia Estadual do Associativismo.

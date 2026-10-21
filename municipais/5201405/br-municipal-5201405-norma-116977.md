@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.267, de 2015-06-08
-
 LEI MUNICIPAL Nº 3.267, DE 08 DE JUNHO DE 2015.
 
 Dá nome à Unidade Básica de Saúde do Setor Independência Mansões, neste município.

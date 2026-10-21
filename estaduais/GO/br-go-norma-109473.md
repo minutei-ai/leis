@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.554, de 2024-09-16
-
 DECRETO Nº 10.554, DE 16 DE SETEMBRO DE 2024
 
 Altera o [Decreto nº 10.433](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108654), de 8 de abril de 2024, que institui a Política Estadual de Governança das Empresas Estatais do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 720 de 29/03/2016
-
 MEDIDA PROVISÓRIA Nº 720, DE 29 DE MARÇO DE 2016
 
 Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2015, com o objetivo de fomentar as exportações do País.

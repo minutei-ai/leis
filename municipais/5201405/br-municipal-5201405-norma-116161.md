@@ -1,5 +1,3 @@
-# Lei Complementar nº 175, de 2020-07-03
-
 LEI COMPLEMENTAR N° 175, DE 03 DE JULHO DE 2020.
 
 “Dispõe sobre execução indireta, mediante Contratação, de serviços inerentes ás atividades Complementares da Administração pública Municipal direta, autarquia e funcional e dá outras providências”.

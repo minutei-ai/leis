@@ -1,5 +1,3 @@
-# Decreto nº 70.734, de 26/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212809)<br>
 
 # DECRETO N° 70.734, DE 26 DE JUNHO DE 2026

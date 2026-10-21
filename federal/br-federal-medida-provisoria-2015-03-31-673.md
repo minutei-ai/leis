@@ -1,5 +1,3 @@
-# Medida Provisória nº 673 de 31/03/2015
-
 MEDIDA PROVISÓRIA Nº 673, DE 31 DE MARÇO DE 2015
 
 Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e dá outras providências.

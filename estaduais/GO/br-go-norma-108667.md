@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.607, de 2024-04-09
-
 LEI Nº 22.607, DE 9 DE ABRIL DE 2024
 
 Dá denominação ao próprio público que especifica.

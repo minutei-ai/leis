@@ -1,5 +1,3 @@
-# Lei Ordinária nº 993, de 1991-07-03
-
 LEI MUNICIPAL Nº 993, DE 03 DE JULHO DE 1991.
 
 Dispõe sobre a denominação da Escola Municipal Nova Olinda, situada no setor Nova Olinda.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 406, de 2025-08-21
-
 LEI COMPLEMENTAR Nº 406, DE 21 DE AGOSTO DE 2025.
 
 Cria Zona Urbana Específica para fins de implantação de condomínio de lotes - Fazenda Lage, lugar Furna, inscrita na matrícula nº 92.068 do Cartório de Registro de Imóveis de Rio Verde - GO.

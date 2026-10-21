@@ -1,5 +1,3 @@
-# Medida Provisória nº 717 de 16/03/2016
-
 MEDIDA PROVISÓRIA Nº 717, DE 16 DE MARÇO DE 2016
 
 Cria o cargo de Ministro de Estado Chefe do Gabinete Pessoal do Presidente da República, altera a [Lei nº 10.683, de 28 de maio de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-28;10683), e dá outras providências.

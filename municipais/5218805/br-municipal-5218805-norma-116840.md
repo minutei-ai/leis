@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7220, de 2021-11-30
-
 LEI Nº 7.220, DE 30 DE NOVEMBRO DE 2021.
 
 Reconhece como Utilidade Pública Municipal a Associação Esportiva de Rio Verde - AERV e dá outras providências.

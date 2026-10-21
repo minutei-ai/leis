@@ -1,5 +1,3 @@
-# Medida Provisória nº 66 de 29/08/2002
-
 MEDIDA PROVISÓRIA Nº 66, DE 29 DE AGOSTO DE 2002
 
 Dispõe sobre a não cumulatividade na cobrança da contribuição para os Programas de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (Pasep), nos casos que especifica; sobre os procedimentos para desconsideração de atos ou negócios jurídicos, para fins tributários; sobre o pagamento e o parcelamento de débitos tributários federais, a compensação de créditos fiscais, a declaração de inaptidão de inscrição de pessoas jurídicas, a legislação aduaneira, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 199, de 2022-06-24
-
 LEI COMPLEMENTAR N° 199, DE 24 DE JUNHO DE 2022.
 
 Altera o caput e o § 1º da Lei Complementar nº 003, de 28 de dezembro de 2001, que dispõe sobre o Estatuto dos Servidores da Prefeitura de Aparecida de Goiânia.

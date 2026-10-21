@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.879, de 2024-07-26
-
 LEI Nº 22.879, DE 26 DE JULHO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

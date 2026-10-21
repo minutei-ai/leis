@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 1, de 2026-01-21
-
 Portaria Orçamentária nº 1/2026 - Economia<br>
 \- [Revogada parcialmente pela Portaria nº 27, de 13 de fevereiro de 2026 (ECONOMIA](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18797)).
 

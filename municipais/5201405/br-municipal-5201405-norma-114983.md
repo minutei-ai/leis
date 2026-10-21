@@ -1,5 +1,3 @@
-# Decreto Numerado nº 263, de 2024-04-16
-
 DECRETO “N” Nº 263 DE 16 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.862, de 2026-05-19
-
 LEI Nº 7.862, DE 19 DE MAIO DE 2026.
 
 Dispõe sobre denominação de estrada vicinal, e dá outras providências.

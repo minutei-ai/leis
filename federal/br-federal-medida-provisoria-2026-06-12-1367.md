@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.367 de 12/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.367, DE 12 DE JUNHO DE 2026
 
 Abre crédito extraordinário, em favor do Ministério do Meio Ambiente e Mudança do Clima, no valor de R$ 337.483.432,00, para os fins que especifica.

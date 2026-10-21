@@ -1,5 +1,3 @@
-# Medida Provisória nº 920 de 30/01/2020
-
 MEDIDA PROVISÓRIA Nº 920, DE 30 DE JANEIRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Regional, no valor de R$ 892.000.000,00, para os fins que especifica.

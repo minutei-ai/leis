@@ -1,5 +1,3 @@
-# LEI Nº 14.941 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.941 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública  a Associação Mãos que Trabalham, com sede e foro no município de Santo Antônio de Jesus.

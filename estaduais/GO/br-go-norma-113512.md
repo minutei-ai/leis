@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.871, de 2026-03-10
-
 DECRETO Nº 10.871, DE 10 DE MARÇO DE 2026
 
 Denomina os espaços da Universidade Estadual de Goiás – UEG que especifica. 

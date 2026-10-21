@@ -1,5 +1,3 @@
-# Lei Complementar nº 23, de 2010-06-24
-
 LEI COMPLEMENTAR Nº. 023, DE 24 DE JUNHO DE 2010.<br>
 (Revogada pela Lei Complementar nº 125, de 11 de janeiro de 2017).
 

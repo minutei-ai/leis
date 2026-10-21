@@ -1,5 +1,3 @@
-# Decreto nº 70.329, de 31/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212155)<br>
 
 # DECRETO N° 70.329, DE 31 DE DEZEMBRO DE 2025

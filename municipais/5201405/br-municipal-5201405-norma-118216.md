@@ -1,5 +1,3 @@
-# Decreto Numerado nº 437, de 2023-07-04
-
 DECRETO “N” Nº 437 DE 04 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM DOM BOSCO – 2ª ETAPA, neste município.

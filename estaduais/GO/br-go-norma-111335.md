@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.696, de 2025-09-29
-
 LEI Nº 23.696, DE 29 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 20.517](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100720), de 19 de julho de 2019, que dispõe sobre a instituição de programa de mediação escolar nas escolas públicas e privadas de Educação Básica do Estado de Goiás.

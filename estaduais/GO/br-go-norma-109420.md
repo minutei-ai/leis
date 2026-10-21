@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.954, de 2024-08-28
-
 LEI Nº 22.954, DE 28 DE AGOSTO DE 2024
 
 Dispõe sobre o dever de retirada, pelo proprietário, dos bens móveis por ele entregues aos prestadores de serviços de assistência técnica.

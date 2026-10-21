@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.837, de 2025-11-14
-
 LEI Nº 23.837, DE 14 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

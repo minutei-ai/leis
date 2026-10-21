@@ -1,5 +1,3 @@
-# Decreto nº 69.306, de 10/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210533)<br>
 
 # DECRETO N° 69.306, DE 10 DE JANEIRO DE 2025

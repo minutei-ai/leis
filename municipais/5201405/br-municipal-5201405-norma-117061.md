@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.169, de 2014-03-18
-
 LEI MUNICIPAL Nº 3.169, DE 18 DE MARÇO DE 2014.
 
 Institui e Inclui no Calendário Oficial De Eventos de Aparecida de Goiânia o “Dia do Obreiro Universal”.

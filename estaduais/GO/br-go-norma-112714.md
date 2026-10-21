@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.081, de 2026-02-04
-
 LEI Nº 24.081, DE 4 DE FEVEREIRO DE 2026
 
 Institui o Dia Estadual de Reconhecimento e Lembrança das Vítimas do Genocídio do Povo Armênio.

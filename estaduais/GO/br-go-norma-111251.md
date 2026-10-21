@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.779, de 2025-09-11
-
 DECRETO Nº 10.779, DE 11 DE SETEMBRO DE 2025
 
 Declara de utilidade pública, com a finalidade de desapropriação e afetação a fins rodoviários, as áreas de terras que especifica.

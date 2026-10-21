@@ -1,5 +1,3 @@
-# LEI Nº 14.883 DE 07 DE ABRIL DE 2025
-
 LEI Nº 14.883 DE 07 DE ABRIL DE 2025
 
 Dispõe sobre a autorização para concessão de subvenção econômica a empresas operadoras do Subsistema de Transporte Rodoviário Metropolitano de Passageiros, na forma que indica.

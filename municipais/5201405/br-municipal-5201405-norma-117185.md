@@ -1,5 +1,3 @@
-# Decreto Numerado nº 698, de 2024-08-28
-
 DECRETO “N” Nº 698 28 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

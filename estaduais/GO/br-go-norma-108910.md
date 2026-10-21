@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.749, de 2024-06-06
-
 LEI Nº 22.749, DE 6 DE JUNHO DE 2024
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 197 de 07/07/2004
-
 ###MPV-000197-0-000-07-07-2004@@@
 
 MEDIDA PROVISÓRIA Nº 197, DE 7 DE JULHO 2004.

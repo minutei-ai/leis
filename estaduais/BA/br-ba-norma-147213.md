@@ -1,5 +1,3 @@
-# LEI Nº 14.930 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.930 DE 17 DE JUNHO DE 2025
 
 Institui o Dia Estadual da Ordem DeMolay a ser comemorado, anualmente, no dia 18 de março.

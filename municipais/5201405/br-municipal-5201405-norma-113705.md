@@ -1,5 +1,3 @@
-# Decreto Numerado nº 270, de 2026-03-31
-
 DECRETO Nº 270, DE 31 DE MARÇO DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas municipais na véspera da Sexta-feira Santa.

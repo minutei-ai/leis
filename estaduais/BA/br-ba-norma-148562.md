@@ -1,5 +1,3 @@
-# LEI Nº 15.143 DE 04 DE MAIO DE 2026
-
 LEI Nº 15.143 DE 04 DE MAIO DE 2026
 
 Reconhece a Língua Brasileira de Sinais - Libras como meio legal de comunicação e expressão constituída por um sistema linguístico de transmissão de ideias e fatos no Estado da Bahia, e dá outras providências.

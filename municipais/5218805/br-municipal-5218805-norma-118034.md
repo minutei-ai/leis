@@ -1,5 +1,3 @@
-# Lei Complementar nº 312, de 2023-08-28
-
 LEI COMPLEMENTAR Nº 312, DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de caráter excepcional e de interesse público, no âmbito da educação pública do Ensino Superior do Município de Rio Verde-GO.

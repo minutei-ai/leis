@@ -1,5 +1,3 @@
-# Medida Provisória nº 773 de 29/03/2017
-
 MEDIDA PROVISÓRIA Nº 773, DE 29 DE MARÇO DE 2017
 
 Estabelece prazo para a correção dos valores referentes ao percentual de aplicação mínimo obrigatório de que trata o [caput do art. 69 da Lei nº 9.394, de 20 de dezembro de 1996](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-20;9394!art69_cpt), para os recursos recebidos em decorrência da [Lei nº 13.254, de 13 de janeiro de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-01-13;13254).

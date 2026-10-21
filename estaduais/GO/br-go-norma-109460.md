@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.988, de 2024-09-12
-
 LEI Nº 22.988, DE 12 DE SETEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

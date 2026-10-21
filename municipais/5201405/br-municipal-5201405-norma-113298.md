@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.347, de 2025-10-03
-
 DECRETO Nº 2.347, DE 3 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, situado à Avenida Coarapucui, no Loteamento Jardim Helvécia, no Município de Aparecida de Goiânia.

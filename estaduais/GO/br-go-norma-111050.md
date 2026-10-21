@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.725, de 2025-07-09
-
 DECRETO Nº 10.725, DE 9 DE JULHO DE 2025
 
 Declara a situação de emergência ambiental no Estado de Goiás no ano de 2025 em razão da alta probabilidade de ocorrência de incêndios florestais.

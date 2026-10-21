@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.236, de 2025-09-18
-
 DECRETO Nº 2.236, DE 18 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, da Quadra 39, situado à Rua X-16 e Rua P-12, no Loteamento Sítios Santa Luzia Residencial, no Município de Aparecida de Goiânia.

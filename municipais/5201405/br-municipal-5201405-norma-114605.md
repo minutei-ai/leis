@@ -1,5 +1,3 @@
-# Decreto Numerado nº 90, de 2024-02-21
-
 DECRETO “N” Nº 90 DE 21 DE JANEIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

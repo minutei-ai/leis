@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.807, de 2024-11-29
-
 LEI MUNICIPAL Nº 3.807, DE 29 DE NOVEMBRO DE 2024
 
 Dispõe sobre Utilidade Pública da Umeag – União de moradores evangélicos de Aparecida de Goiânia, neste Município e dá outras providências.

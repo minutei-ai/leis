@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.001 de 15/09/2020
-
 MEDIDA PROVISÓRIA Nº 1.001, DE 15 DE SETEMBRO DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Educação e da Cidadania, no valor de R$ 264.866.289,00, para os fins que especifica, e dá outras providências.

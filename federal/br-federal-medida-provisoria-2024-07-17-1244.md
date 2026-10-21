@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.244 de 17/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.244, DE 17 DE JULHO DE 2024
 
 Abre crédito extraordinário, em favor dos Ministérios da Gestão e da Inovação em Serviços Públicos, do Desenvolvimento Agrário e Agricultura Familiar, e da Integração e do Desenvolvimento Regional; do Banco Central do Brasil; e de Encargos Financeiros da União, no valor de R$ 1.253.601.800,00, para os fins que especifica.

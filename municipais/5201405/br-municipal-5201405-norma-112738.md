@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.786, de 2024-06-07
-
 LEI MUNICIPAL Nº 3.786, DE 07 DE JUNHO DE 2024
 
 Altera a Lei Municipal 2.316/2002, que instituiu o Dia do Feirante no Município de Aparecida de Goiânia e dá outras providências.

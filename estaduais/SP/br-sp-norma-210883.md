@@ -1,5 +1,3 @@
-# Decreto nº 69.500, de 25/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210883)<br>
 
 # DECRETO N° 69.500, DE 25 DE ABRIL DE 2025

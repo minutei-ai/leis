@@ -1,5 +1,3 @@
-# LEI Nº 14.795 DE 13 DE DEZEMBRO DE 2024
-
 LEI Nº 14.795 DE 13 DE DEZEMBRO DE 2024
 
 Altera o Anexo I da Lei nº [14.647](https://www.legislabahia.ba.gov.br/documentos/lei-no-14647-de-26-de-dezembro-de-2023), de 26 de dezembro de 2023, na forma que indica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.360, de 2017-05-23
-
 LEI MUNICIPAL Nº 3.360, DE 23 DE MAIO DE 2017
 
 Reconhece de Utilidade Pública Municipal a entidade denominada CENTRO ESPÍRITA A CAMINHO DA LUZ.

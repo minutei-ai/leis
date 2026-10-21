@@ -1,5 +1,3 @@
-# Lei Complementar nº 335, de 2023-12-22
-
 LEI COMPLEMENTAR Nº 335, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a Lei Complementar nº 130, de 03 de julho de 2018.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.060 de 04/08/2021
-
 MEDIDA PROVISÓRIA Nº 1.060, DE 4 DE AGOSTO DE 2021
 
 Altera a Lei nº 14.172, de 10 de junho de 2021, que dispõe sobre a garantia de acesso à internet, com fins educacionais, a alunos e a professores da educação básica pública.

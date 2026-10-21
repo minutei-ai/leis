@@ -1,5 +1,3 @@
-# LEI Nº 14.927 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.927 DE 17 DE JUNHO DE 2025
 
 Dispõe sobre a promoção da alimentação adequada e saudável no ambiente escolar por meio da educação alimentar e nutricional e da regulação da distribuição, comercialização e comunicação mercadológica de alimentos e bebidas nas unidades escolares das redes pública e privada de educação básica do estado da Bahia.

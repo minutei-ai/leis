@@ -1,5 +1,3 @@
-# Decreto nº 70.740, de 02/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212817)<br>
 
 # DECRETO N° 70.740, DE 02 DE JULHO DE 2026

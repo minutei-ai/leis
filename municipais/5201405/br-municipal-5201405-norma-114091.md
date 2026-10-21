@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.555, de 2020-05-07
-
 LEI MUNICIPAL Nº 3.555, DE 07 DE MAIO DE 2020.
 
 Altera a Lei Municipal n° 2.470/04, desapropria e autoriza doação de imóveis, para o Estado de Goiás, situados nos loteamentos PONTAL SUL (VILA OLIVEIRA) e CIDADE VERA CRUZ I, neste Município, destinados à construção de escolas. 

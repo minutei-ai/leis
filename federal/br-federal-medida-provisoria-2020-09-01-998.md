@@ -1,5 +1,3 @@
-# Medida Provisória nº 998 de 01/09/2020
-
 MEDIDA PROVISÓRIA Nº 998, DE 1 DE SETEMBRO DE 2020
 
 Altera a Lei nº 9.991, de 24 de julho de 2000, a Lei nº 5.655, de 20 de maio de 1971, o Decreto-Lei nº 1.383, de 26 de dezembro de 1974, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 10.848, de 15 de março de 2004, a Lei nº 12.111, de 9 de dezembro de 2009, e a Lei nº 12.783, de 11 de janeiro de 2013, transfere para a União as ações de titularidade da Comissão Nacional de Energia Nuclear representativas do capital social das Indústrias Nucleares do Brasil S.A. e da Nuclebrás Equipamentos Pesados S.A e dá outras providências.

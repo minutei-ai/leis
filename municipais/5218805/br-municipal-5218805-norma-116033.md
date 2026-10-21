@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.507, de 2024-04-29
-
 LEI N° 7.507, DE 29 DE ABRIL DE 2024.
 
 Altera a [Lei n° 5.558](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003 "Abrir Lei Ordinária nº 5558, de 2009 em nova aba"), de 24 de março de 2009, que cria o Programa Bolsa de Produção Cultural.

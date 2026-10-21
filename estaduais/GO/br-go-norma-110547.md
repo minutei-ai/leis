@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.663, de 2025-03-31
-
 DECRETO Nº 10.663, DE 31 DE MARÇO DE 2025
 
 Altera o [Decreto nº 9.939](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104285), de 8 de setembro de 2021, que autoriza a Secretaria de Estado de Desenvolvimento Social – SEDS a celebrar e manter os contratos temporários que especifica, e o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

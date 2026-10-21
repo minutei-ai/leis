@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.178, de 2014-05-26
-
 LEI MUNICIPAL Nº 3.178, DE 26 DE MAIO DE 2014.
 
 Cria os componentes do Município de Aparecida de Goiânia, Estado de Goiás, no Sistema Nacional de Segurança Alimentar, define parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional e dá outras providências.

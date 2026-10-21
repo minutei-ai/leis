@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.155, de 2021-06-15
-
 LEI Nº 7.155, DE 15 DE JUNHO DE 2021.
 
 Altera nome de Rua que especifica e dá outras providências.

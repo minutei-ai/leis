@@ -1,5 +1,3 @@
-# Decreto nº 69.914, de 30/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211582)<br>
 
 # DECRETO N° 69.914, DE 30 DE SETEMBRO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.415, de 2024-02-28
-
 DECRETO Nº 10.415, DE 28 DE FEVEREIRO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, a área de terras que especifica.

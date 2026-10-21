@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.864, de 2025-11-13
-
 LEI Nº 3.864, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre alteração da Lei nº 3.700, de 14 de março de 2023, para incluir o Programa "Cine Azul e Cultura Acessível" como política pública de inclusão cultural para pessoas com Transtorno do Espectro Autista (TEA), no âmbito do município de Aparecida de Goiânia.

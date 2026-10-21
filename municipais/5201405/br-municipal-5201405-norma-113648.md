@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.581, de 2020-09-21
-
 LEI MUNICIPAL Nº 3.581, DE 21 DE SETEMBRO DE 2020.
 
 Dispõe sobre Alteração da Lei Municipal nº 2.731/2008, que nominou o Parque da Criança, no Setor Mansões Paraíso, neste município, para chamar “PARQUE DA CRIANÇA MURILO SOARES RODRIGUES”.

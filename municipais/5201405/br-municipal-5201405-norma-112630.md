@@ -1,5 +1,3 @@
-# Lei Complementar nº 226, de 2023-12-14
-
 LEI COMPLEMENTAR N° 226, DE 14 DE DEZEMBRO DE 2023.
 
 Define critérios e parâmetros urbanísticos para a implantação de infraestrutura de suporte de redes telecomunicações em Aparecida de Goiânia.

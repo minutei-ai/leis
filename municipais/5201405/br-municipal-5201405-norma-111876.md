@@ -1,5 +1,3 @@
-# Lei Complementar nº 203, de 2023-02-09
-
 LEI COMPLEMENTAR Nº 203, DE 09 DE FEVEREIRO DE 2023.
 
 Dispõe sobre a Estrutura Organizacional Administrativa do Poder Executivo do Município de Aparecida de Goiânia/GO, estabelece o modelo de gestão, revoga dispositivos da Lei Complementar nº 183/21, e dá outras providências.

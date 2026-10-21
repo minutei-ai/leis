@@ -1,5 +1,3 @@
-# Medida Provisória nº 615 de 17/05/2013
-
 MEDIDA PROVISÓRIA Nº 615, DE 17 DE MAIO DE 2013
 
 Autoriza o pagamento de subvenção econômica aos produtores da safra 2011/2012 de cana-de-açúcar e de etanol da região Nordeste e o financiamento da renovação e implantação de canaviais com equalização da taxa de juros; dispõe sobre os arranjos de pagamento e as instituições de pagamento integrantes do Sistema de Pagamentos Brasileiro - SPB; altera a Lei nº 12.783, de 11 de janeiro de 2013, para autorizar a União a emitir, sob a forma de colocação direta, em favor da Conta de Desenvolvimento Energético - CDE, títulos da dívida pública mobiliária federal; e dá outras providências.

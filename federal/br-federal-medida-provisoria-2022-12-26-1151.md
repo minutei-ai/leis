@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.151 de 26/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.151, DE 26 DE DEZEMBRO DE 2022
 
 Altera a Lei nº 11.284, de 2 de março de 2006, que dispõe sobre a gestão de florestas públicas para a produção sustentável, a Lei nº 11.516, de 28 de agosto de 2007, que dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, a Lei nº 12.114, de 9 de dezembro de 2009, que cria o Fundo Nacional sobre Mudança do Clima, e dá outras providências.

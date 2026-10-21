@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.712, de 2023-05-03
-
 LEI MUNICIPAL Nº 3.712 DE 03 DE MAIO DE 2023.
 
 “Institui, no âmbito do Município de Aparecida de Goiânia, o Mês Maio Furta-cor, dedicado às Ações de Conscientização, Incentivo ao Cuidado e Promoção da Saúde Mental Materna”.

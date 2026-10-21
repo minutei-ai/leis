@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.846, de 2025-07-24
-
 LEI Nº 3.846, DE 24 DE JULHO DE 2025
 
 Dispõe sobre diretrizes para a instalação de câmeras de segurança em locais de descartes de lixos irregulares no município de Aparecida de Goiânia e dá outras providências.

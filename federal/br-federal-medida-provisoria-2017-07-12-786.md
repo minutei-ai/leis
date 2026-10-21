@@ -1,5 +1,3 @@
-# Medida Provisória nº 786 de 12/07/2017
-
 MEDIDA PROVISÓRIA Nº 786, DE 12 DE JULHO DE 2017
 
 Dispõe sobre a participação da União em fundo de apoio à estruturação e ao desenvolvimento de projetos de concessões e parcerias público-privadas, altera a [Lei nº 11.578, de 26 de novembro 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-26;11578), que dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e a [Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712), que autoriza o Poder Executivo a criar a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF.

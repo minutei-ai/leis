@@ -1,5 +1,3 @@
-# Decreto Numerado nº 569, de 2023-08-29
-
 DECRETO “N” Nº 569 DE 29 DE AGOSTO DE 2023
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# EMC nº 102, de 20/12/2019
-
 Acrescenta o art. 59-A à Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

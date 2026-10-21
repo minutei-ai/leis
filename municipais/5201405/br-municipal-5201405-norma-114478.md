@@ -1,5 +1,3 @@
-# Decreto Numerado nº 384, de 2026-05-14
-
 DECRETO Nº 384, DE 14 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01 ao 11, situados à Rua Florianópolis, Rua Curitiba, Avenida Brasil e Avenida Santiago, no Loteamento Jardim Belo Horizonte, no Município de Aparecida de Goiânia.

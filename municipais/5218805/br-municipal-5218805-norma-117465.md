@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.147, de 2021-05-31
-
 LEI Nº 7.147, DE 31 DE MAIO DE  2021.
 
 Autoriza desafetação de imóveis do Patrimônio Municipal e doação que menciona.

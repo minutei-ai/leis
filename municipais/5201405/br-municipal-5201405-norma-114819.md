@@ -1,5 +1,3 @@
-# Decreto Numerado nº 195, de 2024-04-04
-
 DECRETO “N” Nº 195 DE 04 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

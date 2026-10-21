@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.694, de 2025-06-27
-
 DECRETO Nº 1.694, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua J84 no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

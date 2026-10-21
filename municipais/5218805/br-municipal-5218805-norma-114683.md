@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.139, de 2021-05-06
-
 LEI Nº 7.139, DE 06 DE MAIO DE 2021.
 
 Dispõe sobre a Política Municipal de Habitação no âmbito do Município de Rio Verde-GO e dá outras providências.

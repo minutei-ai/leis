@@ -1,5 +1,3 @@
-# Medida Provisória nº 683 de 13/07/2015
-
 MEDIDA PROVISÓRIA Nº 683, DE 13 DE JULHO DE 2015
 
 Institui o Fundo de Desenvolvimento Regional e Infraestrutura e o Fundo de Auxílio à Convergência das Alíquotas do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, com a finalidade de facilitar o comércio interestadual e estimular o investimento produtivo e o desenvolvimento regional.

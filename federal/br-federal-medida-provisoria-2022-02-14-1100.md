@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.100 de 14/02/2022
-
 MEDIDA PROVISÓRIA Nº 1.100, DE 14 DE FEVEREIRO DE 2022
 
 Altera a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 9.718, de 27 de novembro de 1998, para promover ajustes na cobrança da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins incidentes sobre a cadeia de produção e de comercialização de etanol hidratado combustível.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 173, de 2026-03-02
-
 DECRETO Nº 173, DE 2 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua C, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.124, de 2024-12-02
-
 LEI Nº 23.124, DE 2 DE DEZEMBRO DE 2024
 
 Institui a Política Estadual de Informação e Assistência às Pessoas com Doenças Autoimunes.

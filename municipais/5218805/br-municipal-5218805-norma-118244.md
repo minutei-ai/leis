@@ -1,5 +1,3 @@
-# Lei Complementar nº 126, de 2018-05-30
-
 LEI COMPLEMENTAR Nº 126, DE 30 DE MAIO DE 2018.
 
 Altera a Lei Complementar nº 5.727/2009 que aprovou o Código Tributário do Município de Rio Verde-GO e estabelece regras transitórias para aplicação da Lei Complementar nº 120, de 02 de maio de 2018.

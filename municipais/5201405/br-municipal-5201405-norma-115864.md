@@ -1,5 +1,3 @@
-# Decreto Numerado nº 574, de 2024-07-15
-
 DECRETO “N” Nº 574 DE 15 DE JULHO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 1.043, de 4 de dezembro de 2024).
 

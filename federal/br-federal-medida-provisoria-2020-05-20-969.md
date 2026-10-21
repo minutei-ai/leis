@@ -1,5 +1,3 @@
-# Medida Provisória nº 969 de 20/05/2020
-
 MEDIDA PROVISÓRIA Nº 969, DE 20 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 10.000.000.000,00, para os fins que especifica, e dá outras providências.

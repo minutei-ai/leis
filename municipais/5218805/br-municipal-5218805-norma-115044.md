@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.534, de 2024-08-26
-
 LEI Nº 7.534, DE 26 DE AGOSTO DE 2024.
 
 Institui o Dia do Movimento de Cursilho de Cristandade no Município de Rio Verde.

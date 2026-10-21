@@ -1,5 +1,3 @@
-# Decreto Numerado nº 256, de 2026-03-25
-
 DECRETO Nº 256, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 23, situado à Rua Francisco de Sá, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

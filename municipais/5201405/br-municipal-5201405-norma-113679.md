@@ -1,5 +1,3 @@
-# Decreto Numerado nº 261, de 2026-03-26
-
 DECRETO Nº 261, DE 26 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 09, situado à Rua C-8, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

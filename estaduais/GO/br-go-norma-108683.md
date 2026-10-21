@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.619, de 2024-04-16
-
 LEI Nº 22.619, DE 16 DE ABRIL DE 2024
 
 Dispõe sobre as penalidades administrativas aplicáveis em razão de atos discriminatórios ou ofensivos contra a mulher, praticados em estádios de futebol, ginásios e demais locais onde são realizados eventos esportivos no âmbito do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 149, de 2019-02-20
-
 LEI COMPLEMENTAR N. 149, DE 20 DE FEVEREIRO DE 2019
 
 <br>

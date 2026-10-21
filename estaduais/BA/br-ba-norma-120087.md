@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 08 DE 20 DE DEZEMBRO DE 2000
-
 EMENDA CONSTITUCIONAL Nº 08 DE 20 DE DEZEMBRO DE 2000
 
 Dá nova redação ao § 3º, do artigo 67 e o Inciso II, do artigo 71, da Constituição do Estado.

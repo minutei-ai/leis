@@ -1,5 +1,3 @@
-# Decreto nº 69.733, de 18/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211230)<br>
 
 # DECRETO N° 69.733, DE 18 DE JULHO DE 2025

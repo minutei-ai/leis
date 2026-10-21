@@ -1,5 +1,3 @@
-# Medida Provisória nº 712 de 29/01/2016
-
 MEDIDA PROVISÓRIA Nº 712, DE 29 DE JANEIRO DE 2016
 
 Dispõe sobre a adoção de medidas de vigilância em saúde quando verificada situa- ção de iminente perigo à saúde pública pela presença do mosquito transmissor do Vírus da Dengue, do Vírus Chikungunya e do Zika Vírus.

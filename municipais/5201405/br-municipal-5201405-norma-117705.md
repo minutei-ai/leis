@@ -1,5 +1,3 @@
-# Decreto Numerado nº 224, de 2023-04-05
-
 DECRETO “N” Nº 224, DE 05 DE ABRIL DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Chácara São Pedro, neste município como de Interesse Social.

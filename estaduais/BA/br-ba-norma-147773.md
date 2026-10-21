@@ -1,5 +1,3 @@
-# LEI Nº 15.003 DE 21 DE OUTUBRO DE 2025
-
 LEI Nº 15.003 DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre a vedação da diferenciação de elevadores no âmbito do Estado da Bahia e dá outras providências.

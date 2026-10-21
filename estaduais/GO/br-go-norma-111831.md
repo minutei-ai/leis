@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.943, de 2025-12-17
-
 LEI Nº 23.943, DE 17 DE DEZEMBRO DE 2025
 
 Dá denominação ao próprio público que especifica. 

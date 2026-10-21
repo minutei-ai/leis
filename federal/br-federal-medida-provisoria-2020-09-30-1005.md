@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.005 de 30/09/2020
-
 MEDIDA PROVISÓRIA Nº 1.005, DE 30 DE SETEMBRO DE 2020
 
 Dispõe sobre o estabelecimento de barreiras sanitárias protetivas de áreas indígenas.

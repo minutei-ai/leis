@@ -1,5 +1,3 @@
-# Lei Complementar nº 426, de 2025-11-17
-
 LEI COMPLEMENTAR Nº 426, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei Complementar nº 319, de 2 de outubro de 2023, que dispõe sobre o Sistema de Cargos e Salários da Carreira de Auditor Fiscal da Receita Municipal.

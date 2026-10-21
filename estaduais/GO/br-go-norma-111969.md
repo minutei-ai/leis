@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.984, de 2025-12-23
-
 LEI Nº 23.984, DE 23 DE DEZEMBRO DE 2025
 
 Regionaliza os Centros de Atendimento Socioeducativo do Estado de Goiás. 

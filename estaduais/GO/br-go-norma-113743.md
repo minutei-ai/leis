@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.193, de 2026-04-03
-
 LEI Nº 24.193, DE 3 DE ABRIL DE 2026
 
 Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.

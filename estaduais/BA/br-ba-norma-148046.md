@@ -1,5 +1,3 @@
-# LEI Nº 15.044 DE 17 DE DEZEMBRO DE 2025
-
 LEI Nº 15.044 DE 17 DE DEZEMBRO DE 2025
 
 Altera a denominação da Praça das Artes, Cultura e Memória, situada no Bairro do Pelourinho, no Município de Salvador, na forma que indica.

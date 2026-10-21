@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.444, de 2025-05-28
-
 LEI Nº 23.444, DE 28 DE MAIO DE 2025
 
 Altera a [Lei nº 14.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80844), de 09 de agosto de 2004, que institui o Fundo Especial de Modernização e Aprimoramento Funcional do Ministério Público do Estado de Goiás – FUNEMP-GO e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.516, de 2024-07-31
-
 DECRETO Nº 10.516, DE 31 DE JULHO DE 2024<br>
 \- [Vide Decreto nº 10.685, de 23-4-2025](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685) - Altera a estrutura administrativa da ECONOMIA.<br>
 \- [Vide Decreto nº 10.509, de 26-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109231/decreto-10509) - Altera a estrutura administrativa da ECONOMIA.

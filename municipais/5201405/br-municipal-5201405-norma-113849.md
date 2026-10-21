@@ -1,5 +1,3 @@
-# Decreto Numerado nº 82, de 2024-02-20
-
 DECRETO “N” Nº 82, DE 20 DE FEVEREIRO DE 2024.
 
 Autoriza a alienação de área pública, localizada no Setor Araguaia – Acréscimo, neste município, caracterizada como inservível por meio de parecer técnico da Comissão de Análise de Áreas Públicas de Aparecida de Goiânia e dá outras providências.

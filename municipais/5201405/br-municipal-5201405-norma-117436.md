@@ -1,5 +1,3 @@
-# Decreto Numerado nº 903, de 2024-10-24
-
 DECRETO “N” Nº 903 DE 24 DE OUTUBRO DE 2024
 
 Dispõe sobre remembramento e desmembramento.

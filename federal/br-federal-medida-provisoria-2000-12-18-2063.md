@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.063 de 18/12/2000
-
 MEDIDA PROVISÓRIA Nº 2.063, DE 18 DE DEZEMBRO DE 2000
 
 Define normas de regulação para o setor de medicamentos, institui a Fórmula Paramétrica de Reajuste de Preços de Medicamentos - FPR, cria a Câmara de Medicamentos e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.428, de 2023-10-02
-
 LEI Nº 7.428, DE 02 DE OUTUBRO DE 2023.
 
 Dispõe sobre o combate ao desperdício de alimentos e a doação de excedentes de refeições prontas para o consumo.

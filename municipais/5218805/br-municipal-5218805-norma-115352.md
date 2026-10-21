@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.381, de 2023-06-28
-
 LEI N. 7.381, DE 28 DE JUNHO DE 2023
 
 Autoriza a desafetação e afetação de imóvel do Patrimônio Público.

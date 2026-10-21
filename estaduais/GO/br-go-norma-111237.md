@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.650, de 2025-09-09
-
 LEI Nº 23.650, DE 9 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

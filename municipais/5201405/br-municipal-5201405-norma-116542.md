@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.522, de 2019-11-04
-
 LEI MUNICIPAL Nº 3.522, DE 04 DE NOVEMBRO DE 2019
 
 “Institui o Programa de Educação Fiscal do Município de Aparecida de Goiânia – PEFAG, e dá outras providências.”

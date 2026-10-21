@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.163, de 2024-12-20
-
 LEI Nº 23.163, DE 19 DE dezembro DE 2024
 
 Altera a [Lei nº 19.191](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98371), de 29 de dezembro de 2015, que dispõe sobre os emolumentos dos serviços notariais e de registro e dá outras providências.

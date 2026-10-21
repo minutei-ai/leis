@@ -1,5 +1,3 @@
-# LEI Nº 15.002 DE 20 DE OUTUBRO DE 2025
-
 LEI Nº 15.002 DE 20 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a Associação dos Aquicultores e Pequenos Agricultores de Ibiaçú, com sede e foro no município de Maraú.

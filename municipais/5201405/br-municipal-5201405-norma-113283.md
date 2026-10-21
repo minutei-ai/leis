@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.388, de 2025-10-08
-
 DECRETO Nº 2.388, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 26, da Quadra 48, situado à Rua 103, no Loteamento Jardim Tropical, no Município de Aparecida de Goiânia.

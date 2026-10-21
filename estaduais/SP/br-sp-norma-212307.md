@@ -1,5 +1,3 @@
-# Decreto nº 70.426, de 10/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212307)<br>
 
 # DECRETO N° 70.426, DE 10 DE MARÇO DE 2026

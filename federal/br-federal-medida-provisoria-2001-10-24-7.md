@@ -1,5 +1,3 @@
-# Medida Provisória nº 7 de 24/10/2001
-
 ###MPV-000007-0-000-24-10-2001@@@
 
 MEDIDA PROVISÓRIA Nº 7, DE 24 DE OUTUBRO DE 2001

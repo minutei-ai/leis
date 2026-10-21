@@ -1,5 +1,3 @@
-# Lei Complementar nº 441, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 441, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a Lei Complementar nº 5.727, de 11 de dezembro de 2009 - Código Tributário do Município de Rio Verde.

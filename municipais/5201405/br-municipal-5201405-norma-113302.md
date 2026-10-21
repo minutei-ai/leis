@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.318, de 2025-09-29
-
 DECRETO Nº 2.318, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 15 e 16, da Quadra 152, situado à Avenida Marechal Rondon, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

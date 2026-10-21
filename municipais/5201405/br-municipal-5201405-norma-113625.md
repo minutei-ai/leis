@@ -1,5 +1,3 @@
-# Decreto Numerado nº 241, de 2026-03-19
-
 DECRETO Nº 241, DE 19 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua Maria de Oliveira Cardoso, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

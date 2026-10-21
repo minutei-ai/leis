@@ -1,5 +1,3 @@
-# Medida Provisória nº 789 de 25/07/2017
-
 MEDIDA PROVISÓRIA Nº 789, DE 25 DE JULHO DE 2017
 
 Altera a [Lei nº 7.990, de 28 de dezembro de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-12-28;7990), e a [Lei nº 8.001, de 13 de março de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-03-13;8001), para dispor sobre a Compensação Financeira pela Exploração de Recursos Minerais.

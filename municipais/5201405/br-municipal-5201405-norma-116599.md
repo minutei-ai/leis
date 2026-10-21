@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.115, de 2013-09-30
-
 LEI MUNICIPAL Nº. 3.115, DE 30 DE SETEMBRO DE 2013
 
 Autoriza o Poder Executivo Municipal a doar imóveis ao FUNDO DE ARRENDAMENTO RESIDENCIAL-FAR.

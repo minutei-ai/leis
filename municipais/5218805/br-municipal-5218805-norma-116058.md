@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.303, de 2022-11-03
-
 LEI N°. 7.303, DE 3 DE NOVEMBRO DE 2022
 
 Autoriza desafetação e alienação de imóvel público por investidura.

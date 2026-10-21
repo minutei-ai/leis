@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.534, de 2024-01-08
-
 LEI Nº 22.534, DE 8 DE JANEIRO DE 2024
 
 Altera a [Lei nº 20.097](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99972), de 28 de maio de 2018, que institui, no Estado de Goiás, o “Selo Verde Ambiental”.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.659, de 2024-05-06
-
 LEI Nº 22.659, DE 6 DE MAIO DE 2024
 
 Assegura a disponibilização de pódio adaptado nas competições esportivas que especifica.

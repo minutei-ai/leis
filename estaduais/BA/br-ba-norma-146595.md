@@ -1,5 +1,3 @@
-# LEI Nº 14.895 DE 13 DE MAIO DE 2025
-
 LEI Nº 14.895 DE 13 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação Centro Espiritualista Porto das Amizades, com sede e foro no município de Lauro de Freitas.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.047, de 2000-01-24
-
 LEI MUNICIPAL Nº 2.047, DE 24 DE JANEIRO DE 2000.
 
 Altera redação do Art. 79, da Lei Municipal nº 1.353, de 24 de março de 1994.

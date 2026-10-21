@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.848, de 2025-08-29
-
 LEI Nº 3.848, DE 29 DE AGOSTO DE 2025
 
 Dispõe sobre a criação da Carteira do Diabético no município de Aparecida de Goiânia.

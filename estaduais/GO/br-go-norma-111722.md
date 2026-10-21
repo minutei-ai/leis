@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.923, de 2025-12-08
-
 <br>
 LEI Nº 23.923, DE 8 DE DEZEMBRO DE 2025
 

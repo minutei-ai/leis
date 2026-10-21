@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.312 de 01/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.312, DE 1 DE SETEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 83.500.000,00, para o fim que especifica.

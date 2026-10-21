@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.472, de 2024-05-21
-
 DECRETO Nº 10.472, DE 21 DE MAIO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, a área de terras que especifica.

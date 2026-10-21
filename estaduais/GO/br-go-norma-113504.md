@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.117, de 2026-03-09
-
 LEI Nº 24.117, DE 9 DE MARÇO DE 2026
 
 Concede o título de cidadania que especifica.

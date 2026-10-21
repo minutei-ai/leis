@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.607, de 2025-02-24
-
 LEI N° 7.607, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a [Lei nº 7.417](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114698 "Abrir Lei Ordinária nº 7417, de 2023 em nova aba"), de 02 de outubro de 2023, que institui o Programa Juro Zero autorizando o Poder Executivo apoiar o acesso ao crédito em condições adequadas aos microempreendedores e pequenos produtores rurais do município de Rio Verde com o objetivo de fomentar o desenvolvimento local com geração de emprego e renda.

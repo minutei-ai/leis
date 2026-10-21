@@ -1,5 +1,3 @@
-# Medida Provisória nº 623 de 19/07/2013
-
 MEDIDA PROVISÓRIA Nº 623, DE 19 DE JULHO DE 2013
 
 Altera a Lei nº 12.844, de 19 de julho de 2013, para dispor sobre operações de crédito rural relativas a empreendimentos localizados na área de abrangência da Superintendência de Desenvolvimento do Nordeste - SUDENE.

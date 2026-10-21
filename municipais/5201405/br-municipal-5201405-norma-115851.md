@@ -1,5 +1,3 @@
-# Decreto Numerado nº 559, de 2024-07-10
-
 DECRETO “N” Nº 559 DE 10 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

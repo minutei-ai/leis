@@ -1,5 +1,3 @@
-# Medida Provisória nº 873 de 01/03/2019
-
 MEDIDA PROVISÓRIA Nº 873, DE 1º DE MARÇO DE 2019
 
 Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a contribuição sindical, e revoga dispositivo da Lei nº 8.112, de 11 de dezembro de 1990.

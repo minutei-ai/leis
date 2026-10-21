@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.307, de 2025-09-24
-
 DECRETO Nº 2.307, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 29, da Quadra 06, situado à Travessa Avion, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

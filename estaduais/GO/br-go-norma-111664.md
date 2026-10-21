@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.906, de 2025-12-02
-
 LEI Nº 23.906, DE 2 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual “Terceira Idade em Ação”.

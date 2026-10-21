@@ -1,5 +1,3 @@
-# LEI Nº 14.994 DE 08 DE OUTUBRO DE 2025
-
 LEI Nº 14.994 DE 08 DE OUTUBRO DE 2025
 
 Altera a Lei nº [13.729](https://www.legislabahia.ba.gov.br/documentos/lei-no-13729-de-05-de-julho-de-2017), de 05 de julho de 2017, na forma que indica, e dá outras providências.

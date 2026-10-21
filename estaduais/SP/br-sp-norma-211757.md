@@ -1,5 +1,3 @@
-# Lei nº 18.308, de 31/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211757)<br>
 
 # LEI N° 18.308, DE 31 DE OUTUBRO DE 2025

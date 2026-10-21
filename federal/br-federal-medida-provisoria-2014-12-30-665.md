@@ -1,5 +1,3 @@
-# Medida Provisória nº 665 de 30/12/2014
-
 MEDIDA PROVISÓRIA Nº 665, DE 30 DE DEZEMBRO DE 2014
 
 Altera a Lei nº 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial e institui o Fundo de Amparo ao Trabalhador - FAT, altera a Lei nº 10.779, de 25 de novembro de 2003, que dispõe sobre o seguro desemprego para o pescador artesanal, e dá outras providências.

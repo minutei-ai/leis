@@ -1,5 +1,3 @@
-# LEI Nº 14.765 DE 20 DE AGOSTO DE 2024
-
 LEI Nº 14.765 DE 20 DE AGOSTO DE 2024
 
 Institui a meia entrada para profissionais do magistério e trabalhadores(as) em unidades de ensino, nos estabelecimentos que promovam lazer, entretenimento e estimulem a difusão cultural.

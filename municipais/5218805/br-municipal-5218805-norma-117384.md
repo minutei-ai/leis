@@ -1,5 +1,3 @@
-# Lei Complementar nº 268, de 2022-11-25
-
 LEI COMPLEMENTAR Nº 268, DE 25 DE NOVEMBRO DE 2022
 
 Altera a [Lei Complementar nº 88](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117370)/2017, de 30 de maio de 2017, que dispõe sobre a criação da Guarda Civil Municipal de Rio Verde - GO.

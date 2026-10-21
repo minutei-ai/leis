@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.707, de 2025-12-02
-
 DECRETO Nº 2.707, DE 2 DE DEZEMBRO DE 2025
 
 Regulamenta o art. 103, parágrafo único, o art. 104, § 4º, e o art. 113, da Lei Complementar nº 046, de 21 de dezembro de 2011, relativamente à Nota Fiscal de Serviços Eletrônica (NFS-e), às declarações eletrônicas de prestadores e tomadores de serviços, e dá outras providências.

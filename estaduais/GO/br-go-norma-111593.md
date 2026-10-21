@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.848, de 2025-11-14
-
 LEI Nº 23.848, DE 14 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 17.034](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88867 "Abrir Lei Ordinária nº 17034, de 2010 em nova aba"), de 02 de junho de 2010, que regulamenta o pagamento de precatórios, por intermédio de acordo direto com os credores, e fixa o limite para requisições de pequeno valor.

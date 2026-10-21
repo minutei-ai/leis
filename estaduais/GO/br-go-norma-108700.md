@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.448, de 2024-04-19
-
 DECRETO Nº 10.448, DE 19 DE ABRIL DE 2024
 
 Altera o [Decreto estadual nº 8.465](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67545), de 5 de outubro de 2015, que regulamenta o controle de frequência do servidor da administração direta, autárquica e fundacional do Poder Executivo, e o [Decreto estadual nº 9.802](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103717), de 26 de janeiro de 2021, que dispõe sobre a regulamentação dos procedimentos que envolvem a execução, a estruturação, a organização, a padronização e a gestão da folha de pagamento na administração direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

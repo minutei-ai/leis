@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.795, de 2024-06-17
-
 LEI Nº 22.795, DE 17 DE JUNHO DE 2024
 
 Altera a [Lei nº 20.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100132), de 05 de julho de 2018, que institui a Política Estadual para o Sistema Integrado de Informações de Violência Contra a Mulher, denominado Observatório Estadual da Violência Contra a Mulher.

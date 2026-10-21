@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.236 de 28/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.236, DE 28 DE JUNHO DE 2024
 
 Altera o [Decreto-Lei nº 1.804, de 3 de setembro de 1980](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1980-09-03;1804), que dispõe sobre tributação simplificada das remessas postais internacionais, e a [Lei nº 14.902, de 27 de junho de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-06-27;14902), que institui o Programa Mobilidade Verde e Inovação (Programa Mover).

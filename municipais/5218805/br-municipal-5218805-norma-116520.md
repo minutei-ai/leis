@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.157, de 2021-06-30
-
 LEI Nº 7.157, DE 30 DE JUNHO DE 2021
 
 Altera a Lei n°. 5.981/2011, que institui o auxílio alimentação para os servidores públicos de Rio Verde e dá outras providências.

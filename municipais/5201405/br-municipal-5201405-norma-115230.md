@@ -1,5 +1,3 @@
-# Decreto Numerado nº 457, de 2026-06-09
-
 DECRETO Nº 457, DE 9 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 09 e 10, situados à Rua Vereador Jerônimo Pereira, no Loteamento Setor Serra Dourada - 3ª Etapa, no Município de Aparecida de Goiânia.

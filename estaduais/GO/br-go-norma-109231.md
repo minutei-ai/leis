@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.509, de 2024-07-26
-
 DECRETO Nº 10.509, DE 26 DE JULHO DE 2024
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo.

@@ -1,5 +1,3 @@
-# Decreto nº 70.289, de 26/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212115)<br>
 
 # DECRETO N° 70.289, DE 26 DE DEZEMBRO DE 2025

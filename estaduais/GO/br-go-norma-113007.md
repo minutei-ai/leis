@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.105, de 2026-02-18
-
 LEI Nº 24.105, DE 18 DE FEVEREIRO DE 2026
 
 Institui o Mês Estadual de Defesa da Cultura Goiana.

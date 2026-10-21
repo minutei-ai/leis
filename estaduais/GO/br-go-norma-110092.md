@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.134, de 2024-12-06
-
 LEI Nº 23.134, DE 6 DE DEZEMBRO DE 2024
 
 Confere ao Município de Campos Verdes/GO o título de "Capital Estadual das Esmeraldas".

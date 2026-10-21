@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.210, de 2014-08-22
-
 LEI MUNICIPAL Nº 3.210, DE 22 DE AGOSTO DE 2014.
 
 Altera a Lei Municipal nº 2.861/2009, que institui normas para a gestão democrática nas Unidades Escolares e Centros Municipais de Educação Infantil – CMEIs.

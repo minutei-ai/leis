@@ -1,5 +1,3 @@
-# Medida Provisória nº 851 de 10/09/2018
-
 MEDIDA PROVISÓRIA Nº 851, DE 10 DE SETEMBRO DE 2018
 
 Autoriza a administração pública a firmar instrumentos de parceria e termos de execução de programas, projetos e demais finalidades de interesse público com organizações gestoras de fundos patrimoniais e dá outras providências.

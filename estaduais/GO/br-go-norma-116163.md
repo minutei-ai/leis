@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.445, de 2026-07-10
-
 LEI Nº 24.445, DE 10 DE julho DE 2026
 
 Concede o título de cidadania que especifica.

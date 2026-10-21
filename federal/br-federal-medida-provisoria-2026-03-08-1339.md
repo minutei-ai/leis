@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.339 de 08/03/2026
-
 MEDIDA PROVISÓRIA Nº 1.339, DE 8 DE MARÇO DE 2026
 
 Abre crédito extraordinário em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 266.512.000,00, para os fins que especifica.

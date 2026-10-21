@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.575, de 2024-12-02
-
 LEI Nº 7.575, DE 2 DE DEZEMBRO DE 2024.
 
 Denomina Centro de Referência de Assistência Social – CRAS Dalila Jayme Martins, e dá outras providências.

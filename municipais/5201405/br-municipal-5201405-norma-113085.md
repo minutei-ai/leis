@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.764, de 2025-12-09
-
 DECRETO Nº 2.764, DE 9 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Avenida Ruy Brasil Cavalcante, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

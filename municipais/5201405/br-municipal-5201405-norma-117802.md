@@ -1,5 +1,3 @@
-# Decreto Numerado nº 83, de 2023-02-02
-
 DECRETO “N” Nº 83 DE 02 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento VILA MARIANA, neste município.

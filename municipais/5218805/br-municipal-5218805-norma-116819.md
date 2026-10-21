@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.206, de 2021-11-09
-
 LEI Nº 7.206, DE 09 DE NOVEMBRO DE 2021
 
 Dispõe sobre denominação de Praça Pública no Município de Rio Verde- GO.

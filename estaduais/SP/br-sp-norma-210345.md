@@ -1,5 +1,3 @@
-# Decreto nº 69.149, de 12/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210345)<br>
 
 # DECRETO N° 69.149, DE 12 DE DEZEMBRO DE 2024

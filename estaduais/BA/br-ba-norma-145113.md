@@ -1,5 +1,3 @@
-# LEI Nº 14.746 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.746 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE UNA (APAE), com sede e foro no município de Una.

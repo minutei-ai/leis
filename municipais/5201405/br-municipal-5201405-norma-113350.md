@@ -1,5 +1,3 @@
-# Lei Complementar nº 221, de 2023-10-04
-
 LEI COMPLEMENTAR Nº 221, DE 04 DE OUTUBRO DE 2023.
 
 Dispõe, no âmbito do Município de Aparecida de Goiânia, sobre a criação e regulamentação do PROGRAMA DE JORNADA ESPECIAL DE SEGURANÇA – PJES – para a Guarda Civil Municipal.

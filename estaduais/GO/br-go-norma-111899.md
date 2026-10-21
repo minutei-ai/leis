@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.970, de 2025-12-20
-
 LEI Nº 23.970, DE 20 DE DEZEMBRO DE 2025
 
 Institui a Campanha Estadual “Rede de Proteção: Diga Não ao Abuso Infantil” e dá outras providências.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 719 de 29/03/2016
-
 MEDIDA PROVISÓRIA Nº 719, DE 29 DE MARÇO DE 2016
 
 Altera a [Lei nº 10.820, de 17 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-17;10820), que dispõe sobre a autorização para desconto de prestações em folha de pagamento; a [Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712), e a [Lei nº 8.374, de 30 de dezembro de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-12-30;8374), para dispor sobre o Seguro Obrigatório de Danos Pessoais causados por embarcações ou por sua carga; e a [Lei nº 13.259, de 16 de março de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-03-16;13259), para dispor sobre a dação em pagamento de bens imóveis como forma de extinção do crédito tributário inscrito em dívida ativa da União.

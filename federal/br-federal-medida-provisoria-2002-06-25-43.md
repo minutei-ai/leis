@@ -1,5 +1,3 @@
-# Medida Provisória nº 43 de 25/06/2002
-
 ###MPV-000043-0-000-25-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 43, DE 25 DE JUNHO DE 2002

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.076 de 07/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.076, DE 7 DE DEZEMBRO DE 2021
 
 Institui o Benefício Extraordinário destinado às famílias beneficiárias do Programa Auxílio Brasil, de que trata a Medida Provisória nº 1.061, de 9 de agosto de 2021.

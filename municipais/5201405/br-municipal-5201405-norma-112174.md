@@ -1,5 +1,3 @@
-# Decreto Numerado nº 16, de 2026-01-08
-
 DECRETO Nº 016, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01, 02, 29 e 30, todos situados à Rua Ebenézer, Rua Galileia e Rua Peniel, no Loteamento Jardim Maranata, no Município de Aparecida de Goiânia.

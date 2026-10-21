@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.455, de 2025-05-27
-
 DECRETO Nº 1.455, DE 27 DE MAIO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 05 e 06, situados na Avenida Independência, no Loteamento Setor Serra Dourada 3º Etapa, no Município de Aparecida de Goiânia.

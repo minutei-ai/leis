@@ -1,5 +1,3 @@
-# Medida Provisória nº 286 de 08/03/2006
-
 ###MPV-000286-0-000-08-03-2006@@@
 
 MEDIDA PROVISÓRIA Nº 286, DE 8 DE MARÇO DE 2006.

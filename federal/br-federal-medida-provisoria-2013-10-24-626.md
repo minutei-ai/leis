@@ -1,5 +1,3 @@
-# Medida Provisória nº 626 de 24/10/2013
-
 MEDIDA PROVISÓRIA Nº  626, DE 24 DE OUTUBRO DE 2013
 
 Abre crédito extraordinário, em favor de  Operações Oficiais de Crédito, no valor de R$ 2.531.486.253,00, para o fim que especifica.

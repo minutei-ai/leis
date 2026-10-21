@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.296, de 2002-08-20
-
 Prefeitura Municipal de Aparecida de Goiânia<br>
 LEI MUNICIPAL N.º 2.296, DE 20 DE AGOSTO DE 2002.
 

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 527, de 2026-06-26
-
 DECRETO Nº 527, DE 26 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 09 e 10, todos da Quadra 152, situados à Avenida Marechal Rondon, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

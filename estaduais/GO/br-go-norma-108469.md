@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.412, de 2024-02-23
-
 DECRETO Nº 10.412, DE 23 DE FEVEREIRO DE 2024<br>
 \- [Revogado pelo Decreto nº 10.710, de 16-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110965), art. 29.
 

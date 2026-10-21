@@ -1,5 +1,3 @@
-# Decreto Numerado nº 716, de 2024-09-02
-
 DECRETO “N” Nº 716 DE 02 DE SETEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei nº 18.143, de 20/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210775)<br>
 
 # LEI N° 18.143, DE 20 DE MARÇO DE 2025

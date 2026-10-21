@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.653, de 2025-03-06
-
 DECRETO Nº 10.653, DE 6 DE MARÇO DE 2025
 
 Institui a Plataforma Central de Acompanhamento da Execução Orçamentária das emendas federais impositivas e não impositivas, para assegurar a transparência, o controle e a rastreabilidade dos recursos destinados pelo Orçamento da União ao Estado de Goiás.

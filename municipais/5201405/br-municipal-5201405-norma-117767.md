@@ -1,5 +1,3 @@
-# Decreto Numerado nº 57, de 2023-01-25
-
 DECRETO “N” Nº 57, DE 25 DE JANEIRO DE 2023.
 
 Dispõe sobre a nomeação dos integrantes do Conselho Diretor do Fundo Especial Municipal para o Corpo de Bombeiros Militar do Estado de Goiás – FEMBOM/Aparecida de Goiânia.

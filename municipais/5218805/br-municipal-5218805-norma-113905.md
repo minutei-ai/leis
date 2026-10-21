@@ -1,5 +1,3 @@
-# Lei Complementar nº 453, de 2026-03-23
-
 LEI COMPLEMENTAR Nº 453, DE 23 DE MARÇO DE 2026.
 
 Altera a Lei Complementar nº 3.853, de 22 de setembro de 1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores de Rio Verde.

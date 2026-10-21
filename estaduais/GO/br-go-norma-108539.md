@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.566, de 2024-03-15
-
 LEI Nº 22.566, DE 15 DE MARÇO DE 2024
 
 Institui o Dia Estadual do Atleta Paralímpico.

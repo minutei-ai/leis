@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.374, de 2023-06-28
-
 LEI Nº 7.374, DE 28 DE JUNHO DE 2023.
 
 Institui o Dia da Corrida e Caminhada Pela Inclusão no Calendário Municipal de Eventos de Rio Verde dá outras providências.

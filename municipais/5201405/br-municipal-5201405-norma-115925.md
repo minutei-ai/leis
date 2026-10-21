@@ -1,5 +1,3 @@
-# Decreto Numerado nº 525, de 2026-06-26
-
 DECRETO Nº 525, DE 26 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Dr. Antônio Jorge Azzi, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

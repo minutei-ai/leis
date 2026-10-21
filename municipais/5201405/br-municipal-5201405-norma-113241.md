@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.196, de 2025-09-09
-
 DECRETO Nº 2.196, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 23, da Quadra K-52, situado à Alameda Leocita, no Loteamento Bairro Independência 3º complemento, no Município de Aparecida de Goiânia.

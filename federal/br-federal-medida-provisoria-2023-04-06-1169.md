@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.169 de 06/04/2023
-
 MEDIDA PROVISÓRIA Nº 1.169, DE 6 DE ABRIL DE 2023
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 24.000.000,00, para o fim que especifica.

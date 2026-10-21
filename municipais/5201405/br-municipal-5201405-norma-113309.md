@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.325, de 2025-09-29
-
 DECRETO Nº 2.325, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 26, da Quadra 03, situado à Rua 10, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

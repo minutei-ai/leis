@@ -1,5 +1,3 @@
-# Decreto Numerado nº 445, de 2026-06-03
-
 DECRETO Nº 445, DE 3 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 03, 04, 25 e 26, situados à Rua Rio Grande do Norte e Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

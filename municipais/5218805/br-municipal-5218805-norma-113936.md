@@ -1,5 +1,3 @@
-# Lei Complementar nº 447, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 447, DE 19 DE FEVEREIRO DE 2026.
 
 Altera a [Lei Complementar nº 3.633](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114617 "Abrir Lei Complementar nº 3633, de 1998 em nova aba"), de 4 de março de 1998, que dispõe sobre o parcelamento do solo para fins urbanos.

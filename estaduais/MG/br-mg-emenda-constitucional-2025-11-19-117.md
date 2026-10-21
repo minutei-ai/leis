@@ -1,5 +1,3 @@
-# EMC nº 117, de 19/11/2025
-
 Acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição do Estado.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

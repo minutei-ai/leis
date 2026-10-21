@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.734, de 2023-09-25
-
 LEI MUNICIPAL Nº 3.734, DE 25 DE SETEMBRO DE 2023.
 
 Dispõe sobre a nomeação da Praça Francisco Beserra da Silva, no Parque das Nações, neste município, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 358, de 2024-06-24
-
 LEI COMPLEMENTAR Nº 358, DE 24 DE JUNHO DE 2024.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774), de 06 de maio de 2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, Cargos de Confiança (CC), Cargos de Provimento em Comissão (DAS) e Funções Gratificadas (FG).

@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.021 de 03/04/2000
-
 ###MPV-002021-0-000-03-04-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.021, DE 3 DE ABRIL DE 2000.

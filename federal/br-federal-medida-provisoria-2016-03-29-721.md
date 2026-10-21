@@ -1,5 +1,3 @@
-# Medida Provisória nº 721 de 29/03/2016
-
 MEDIDA PROVISÓRIA Nº 721, DE 29 DE MARÇO DE 2016
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.950.000.000,00, para o fim que especifica.

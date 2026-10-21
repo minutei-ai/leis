@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.711, de 2025-09-23
-
 LEI Nº 7.711, DE 22 DE SETEMBRO DE 2025.
 
 Institui o “Dia Municipal do Plantio” no Município de Rio Verde e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.287, de 2025-03-24
-
 LEI Nº 23.287, DE 24 DE MARÇO DE 2025
 
 Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás, e revoga a [Lei nº 23.173](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110217), de 26 de dezembro de 2024.

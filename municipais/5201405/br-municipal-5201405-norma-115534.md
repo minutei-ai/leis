@@ -1,5 +1,3 @@
-# Decreto Numerado nº 384, de 2024-05-22
-
 DECRETO “N” Nº 384 DE 22 DE MAIO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

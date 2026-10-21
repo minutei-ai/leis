@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.332, de 2025-09-30
-
 DECRETO Nº 2.332, DE 30 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, da Quadra 33, situado à Avenida Sabiá, no Loteamento Jardim Riviera, no Município de Aparecida de Goiânia.

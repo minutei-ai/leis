@@ -1,5 +1,3 @@
-# Medida Provisória nº 647 de 28/05/2014
-
 MEDIDA PROVISÓRIA Nº 647, DE 28 DE MAIO DE 2014
 
 Dispõe sobre a adição obrigatória de biodiesel ao óleo diesel comercializado ao consumidor final, e dá outras providências.

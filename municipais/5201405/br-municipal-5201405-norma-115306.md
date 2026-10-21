@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.650, de 2022-01-17
-
 LEI MUNICIPAL Nº 3.650, DE 17 DE JANEIRO DE 2022.
 
 Altera a Lei Municipal nº 3.599 de 21 de dezembro de 2020 que dispõe sobre a autoriza o Poder Executivo a contratar operação de crédito externo junto ao NEW DEVELOPMENT BANK - NDB, com a garantia da União e dá outras providências.

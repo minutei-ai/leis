@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.892, de 2026-08-18
-
 **LEI Nº 7.892, DE 18 DE AGOSTO DE 2026.**
 
 Autoriza a desafetação de áreas de propriedade do Poder Público objetivando sua posterior afetação ao Sistema Viário da Alameda Paulo Roberto Cunha.

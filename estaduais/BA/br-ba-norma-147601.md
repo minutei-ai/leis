@@ -1,5 +1,3 @@
-# LEI Nº 14.970 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.970 DE 08 DE SETEMBRO DE 2025
 
 Altera a Lei nº [13.467](https://www.legislabahia.ba.gov.br/documentos/lei-no-13467-de-23-de-dezembro-de-2015), de 23 de dezembro de 2015, na forma que indica, e dá outras providências.

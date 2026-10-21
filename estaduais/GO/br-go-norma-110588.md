@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.681, de 2025-04-21
-
 DECRETO Nº 10.681, DE 21 DE ABRIL DE 2025
 
 Decreta luto oficial pelo falecimento de Sua Santidade JORGE MARIO BERGOGLIO – PAPA FRANCISCO.

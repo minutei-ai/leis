@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.254, de 2026-04-29
-
 LEI Nº 24.254, DE 29 DE ABRIL DE 2026
 
 Institui a Política Estadual de Incentivo à Música.

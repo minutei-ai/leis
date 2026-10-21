@@ -1,5 +1,3 @@
-# Decreto Numerado nº 300, de 2024-04-25
-
 DECRETO “N” Nº 300, DE 25 DE ABRIL DE 2024.
 
 Dispõe sobre a concessão de PROGRESSÃO FUNCIONAL de Guardas Civis do município de Aparecida de Goiânia-GO.

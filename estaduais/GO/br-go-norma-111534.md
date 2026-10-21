@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.801, de 2025-11-06
-
 LEI Nº 23.801, DE 6 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual da Segurança e Prevenção de Acidentes no Trabalho.

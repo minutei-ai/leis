@@ -1,5 +1,3 @@
-# Decreto nº 70.712, de 26/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212787)<br>
 
 # DECRETO N° 70.712, DE 26 DE JUNHO DE 2026

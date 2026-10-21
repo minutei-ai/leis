@@ -1,5 +1,3 @@
-# Medida Provisória nº 311 de 13/07/2006
-
 ###MPV-000311-0-000-13-07-2006@@@
 
 MEDIDA PROVISÓRIA Nº 311, DE 13 DE JULHO DE 2006.

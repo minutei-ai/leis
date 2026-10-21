@@ -1,5 +1,3 @@
-# Medida Provisória nº 706 de 28/12/2015
-
 MEDIDA PROVISÓRIA Nº  706, DE 28 DE DEZEMBRO DE 2015
 
 Altera a Lei nº 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica.

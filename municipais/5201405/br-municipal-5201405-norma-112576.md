@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.685, de 2025-06-27
-
 DECRETO Nº 1.685, DE 27 DE JUNHO DE 2025
 
 Declara de utilidade pública, para efeito de instituição de servidão de passagem, a área abaixo especificada e da outras providências.

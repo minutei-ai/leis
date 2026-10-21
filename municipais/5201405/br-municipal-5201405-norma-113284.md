@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.389, de 2025-10-08
-
 DECRETO Nº 2.389, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra 108, situado à Rua Granada, no Loteamento Pontal Sul, no Município de Aparecida de Goiânia.

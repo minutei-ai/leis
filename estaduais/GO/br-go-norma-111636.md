@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.884, de 2025-11-28
-
 LEI Nº 23.884, DE 28 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual de Proteção dos Mananciais e Nascentes.

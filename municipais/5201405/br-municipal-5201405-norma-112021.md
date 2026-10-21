@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.883, de 2025-12-30
-
 LEI Nº 3.883, DE 30 DE DEZEMBRO DE 2025.
 
 Dispõe sobre a denominação de via pública como “LIOMAR JOSÉ MODESTO DE SOUSA” no Setor Serra Dourada III, neste município, e dá outras providências.

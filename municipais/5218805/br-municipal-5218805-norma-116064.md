@@ -1,5 +1,3 @@
-# Lei Complementar nº 243, de 2022-04-01
-
 LEI COMPLEMENTAR Nº 243, DE 1º DE ABRIL DE 2022.
 
 Altera a Lei Complementar nº 6.111/2012, criando e alterando cargos.

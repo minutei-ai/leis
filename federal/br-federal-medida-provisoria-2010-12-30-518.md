@@ -1,5 +1,3 @@
-# Medida Provisória nº 518 de 30/12/2010
-
 MEDIDA PROVISÓRIA n° 518, DE 30 DE DEZEMBRO DE 2010
 
 Disciplina a formação e consulta a bancos de dados com informações de adimplemento , de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito.

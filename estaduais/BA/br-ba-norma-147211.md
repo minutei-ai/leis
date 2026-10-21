@@ -1,5 +1,3 @@
-# LEI Nº 14.928 DE 17 DE JUNHO DE 2025
-
 LEI Nº 14.928 DE 17 DE JUNHO DE 2025
 
 Denomina "Ednaldo Manoel Dos Santos”, a Via BA-250, no trecho que liga o município de Gandu ao município de Ituberá.

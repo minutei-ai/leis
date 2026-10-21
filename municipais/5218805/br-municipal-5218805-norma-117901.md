@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.175, de 2012-07-16
-
 **LEI COMPLEMENTAR Nº 6.175/2012, DE 16 DE JULHO DE 2012**
 
 Altera as Leis Complementares nº 5.318 e 6.074/2011.

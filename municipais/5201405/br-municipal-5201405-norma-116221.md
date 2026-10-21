@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.574, de 2020-07-09
-
 LEI MUNICIPAL N° 3.574, DE 09 DE JULHO DE 2020.
 
 “Dispõe sobre a obrigatoriedade dos administradores de bares, casas de shows, restaurantes e estabelecimentos similares a adotarem medidas de segurança, que visem à proteção das mulheres em suas dependências. ”

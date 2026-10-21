@@ -1,5 +1,3 @@
-# LEI Nº 14.891 DE 05 DE MAIO DE 2025
-
 LEI Nº 14.891 DE 05 DE MAIO DE 2025
 
 Altera a estrutura remuneratória dos cargos das carreiras de Delegado de Polícia Civil, Escrivão de Polícia Civil, Investigador de Polícia Civil, Perito Técnico de Polícia Civil, Perito Criminal de Polícia Civil, Perito Médico Legista de Polícia Civil e Perito Odonto-Legal de Polícia Civil, na forma que indica, e dá outras providências.

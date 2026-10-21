@@ -1,5 +1,3 @@
-# Lei Complementar nº 205, de 2023-03-08
-
 LEI COMPLEMENTAR Nº 205, DE 08 DE MARÇO DE 2023.
 
 Altera o art. 42 da Lei Complementar Municipal n. º 111/2015 que institui a estrutura hierárquica da Carreira da Guarda Civil Municipal de Aparecida de Goiânia.

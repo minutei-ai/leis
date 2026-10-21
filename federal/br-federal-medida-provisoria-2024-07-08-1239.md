@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.239 de 08/07/2024
-
 MEDIDA PROVISÓRIA Nº 1.239, DE 8 DE JULHO DE 2024
 
 Altera a [Lei nº 7.957, de 20 de dezembro de 1989](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-12-20;7957), para dispor sobre o prazo de recontratação de pessoal por tempo determinado para atender aos casos de prevenção, controle e combate de incêndios florestais.

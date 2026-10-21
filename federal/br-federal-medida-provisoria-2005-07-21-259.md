@@ -1,5 +1,3 @@
-# Medida Provisória nº 259 de 21/07/2005
-
 ###MPV-000259-0-000-21-07-2005@@@
 
 MEDIDA PROVISÓRIA Nº 259, DE 21 DE JULHO DE 2005.

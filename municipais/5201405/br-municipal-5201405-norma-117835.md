@@ -1,5 +1,3 @@
-# Decreto Numerado nº 106, de 2023-02-13
-
 DECRETO “N” Nº 106 DE 13 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM HELVÉCIA, neste município.

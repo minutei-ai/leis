@@ -1,5 +1,3 @@
-# Decreto Numerado nº 24, de 2024-01-18
-
 DECRETO “N” Nº 24, DE 18 DE JANEIRO DE 2024.
 
 Dispõe sobre a aprovação de regularização fundiária urbana – REURB, por meio de remembramento e desmembramento de imóveis situados no loteamento Jardim Florença nos termos da Lei Federal nº 13.465/2017, neste município.

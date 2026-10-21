@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.633, de 2025-04-14
-
 LEI Nº 7.633, DE 14 DE ABRIL DE 2025.
 
 Autoriza a outorga de concessão de direito real de uso dos imóveis que menciona.

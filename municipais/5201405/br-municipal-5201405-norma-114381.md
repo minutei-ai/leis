@@ -1,5 +1,3 @@
-# Decreto Numerado nº 18, de 2024-01-17
-
 DECRETO “N” Nº 18 DE 17 DE JANEIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 121, de 2023-02-17
-
 DECRETO “N” Nº 121 DE 17 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PAPILON PARK, neste município.

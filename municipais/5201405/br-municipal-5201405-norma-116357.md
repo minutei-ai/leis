@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.471, de 2019-05-28
-
 LEI Nº 3.471, DE 28 DE MAIO DE 2019
 
 Reconhece como Utilidade Pública Municipal a ASSOCIAÇÃO RESGATAR e dá outras providências.

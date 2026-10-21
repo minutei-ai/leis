@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.249, de 2025-02-06
-
 LEI Nº 23.249, DE 6 DE FEVEREIRO DE 2025
 
 Altera a [Lei nº 16.434](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87151), de 16 de dezembro de 2008, que estabelece procedimentos para a concessão e aplicação de adiantamento de numerário a servidor público estadual.

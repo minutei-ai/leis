@@ -1,5 +1,3 @@
-# Decreto Numerado nº 115, de 2023-02-14
-
 DECRETO “N” Nº 115 DE 14 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE DAS NAÇÕES, neste município.

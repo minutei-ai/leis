@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.330, de 2025-05-08
-
 DECRETO Nº 1.330, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado à Avenida Dona Maria Pereira Dias no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

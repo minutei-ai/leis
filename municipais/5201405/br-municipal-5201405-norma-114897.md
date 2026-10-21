@@ -1,5 +1,3 @@
-# Decreto Numerado nº 431, de 2026-05-27
-
 DECRETO Nº 431, DE 27 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua R-2, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

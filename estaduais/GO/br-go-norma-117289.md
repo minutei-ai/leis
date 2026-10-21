@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.984, de 2026-09-09
-
 DECRETO Nº 10.984, DE 9 DE SETEMBRO DE 2026
 
 Qualifica como prioritária a obra de infraestrutura rodoviária que especifica, para a concessão de crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, nos termos da alínea "f" do inciso XVI do art. 12 do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

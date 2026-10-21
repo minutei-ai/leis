@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.306, de 2025-03-27
-
 LEI Nº 23.306, DE 27 DE MARÇO DE 2025
 
 Institui o Mês de Conscientização sobre a Importância de Libras nas Escolas no Estado de Goiás.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.272, de 2002-05-23
-
 LEI MUNICIPAL Nº 2.272, DE 23 DE MAIO DE 2002.
 
 Introduz alterações na Lei Municipal nº 2.229, de 18 de dezembro de 2001, que dispõe sobre o Plano de Cargos e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia.

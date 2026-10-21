@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.470, de 2004-06-25
-
 LEI MUNICIPAL Nº 2.470, DE 25 DE JUNHO DE 2004.
 
 Desafeta, desapropria e autoriza doação de imóveis, para o Estado de Goiás, situados nos loteamentos PONTAL SUL (VILA OLIVEIRA) e CIDADE VERA CRUZ I, neste Município, destinados à construção de escolas.

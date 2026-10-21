@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.432, de 2018-09-17
-
 LEI Nº 3.432, DE 17 DE SETEMBRO DE 2018
 
 <br>

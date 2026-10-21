@@ -1,5 +1,3 @@
-# Decreto Numerado nº 251, de 2026-03-25
-
 DECRETO Nº 251, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Rio Grande do Norte e Avenida José de Oliveira Cozzetti, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

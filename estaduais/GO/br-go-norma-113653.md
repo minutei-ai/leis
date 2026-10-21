@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.166, de 2026-03-25
-
 LEI Nº 24.166, DE 25 DE março DE 2026
 
 Altera as Leis nº [13.251](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82796), de 14 de janeiro de 1998, e nº [17.501](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89494), de 22 de dezembro de 2011.

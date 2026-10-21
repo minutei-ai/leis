@@ -1,5 +1,3 @@
-# Decreto Numerado nº 529, de 2022-07-15
-
 DECRETO “N” Nº 529, DE 15 DE JULHO DE 2022.<br>
 (Revogado pelo Decreto“N” Nº 649, de 14 de agosto de 2024).
 

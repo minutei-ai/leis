@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.238, de 2026-04-23
-
 LEI Nº 24.238, DE 23 DE ABRIL DE 2026
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 117, de 2025-06-30
-
 Portaria Orçamentária nº 117/2025 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alíneas "a", "c" e "f" e art. 12 da Lei nº 23.246, de 25 de Janeiro de 2025.

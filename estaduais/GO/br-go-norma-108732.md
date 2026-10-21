@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.645, de 2024-04-29
-
 LEI Nº 22.645, DE 29 DE ABRIL DE 2024
 
 Institui a Política Estadual do Emprego Apoiado no Estado de Goiás.

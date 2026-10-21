@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.227, de 2026-04-10
-
 LEI Nº 24.227, DE 10 DE ABRIL DE 2026
 
 Institui o Circuito Estadual das Folias e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.590, de 2024-12-10
-
 DECRETO Nº 10.590, DE 10 DE DEZEMBRO DE 2024
 
 Regulamenta, para o exercício de 2025, a [Lei nº 21.073](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104260), de 9 de agosto de 2021, que cria o incentivo à alfabetização, destinado a premiar as escolas públicas da rede estadual e municipal de ensino, de acordo com os resultados no Índice de Desenvolvimento da Educação do Estado de Goiás na Alfabetização – IDEGO-Alfa e no Sistema de Avaliação Educacional do Estado de Goiás – SAEGO.

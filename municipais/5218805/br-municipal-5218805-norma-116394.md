@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.028, de 2011-10-28
-
 LEI COMPLEMENTAR Nº 6.028, DE 28 DE OUTUBRO DE 2011.
 
 Altera o Anexo II da Lei n. 3.853/1999.

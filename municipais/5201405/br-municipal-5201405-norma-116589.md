@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.401, de 2018-01-12
-
 LEI MUNICIPAL Nº 3.401, DE 12 DE JANEIRO DE 2018
 
 Cria o Conselho Municipal da Juventude, revoga a Lei n° 2.984/2011 e dá outras providências.

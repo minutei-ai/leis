@@ -1,5 +1,3 @@
-# Decreto Numerado nº 494, de 2024-06-24
-
 DECRETO “N” Nº 494 DE 24 DE JUNHO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 740, de 12 de setembro de 2024).
 

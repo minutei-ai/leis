@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.804, de 2025-10-28
-
 DECRETO Nº 10.804, DE 28 DE OUTUBRO DE 2025
 
 Altera o [Decreto nº 10.280](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107307 "Abrir Decreto Numerado nº 10280, de 2023 em nova aba"), de 30 de junho de 2023, que regulamenta os arts. 16 e 49 da [Lei nº 13.123](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82217), de 16 de julho de 1997, que estabelece normas de orientação à política estadual de recursos hídricos, bem como ao sistema integrado de gerenciamento de recursos hídricos.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.721, de 2024-05-28
-
 LEI Nº 22.721, DE 28 DE MAIO DE 2024
 
 Institui o Dia Estadual da Agroindústria e dá outras providências.

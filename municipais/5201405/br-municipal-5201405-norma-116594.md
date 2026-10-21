@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.406, de 2018-04-05
-
 LEI MUNICIPAL Nº 3.406, DE 05 DE ABRIL DE 2018
 
 Dá nome a Praça, situada no Jardim Maria Inês, neste município.

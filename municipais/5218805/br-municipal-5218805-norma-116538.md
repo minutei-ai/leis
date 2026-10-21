@@ -1,5 +1,3 @@
-# Lei Complementar nº 290, de 2023-03-30
-
 LEI COMPLEMENTAR Nº 290, DE 30 DE MARÇO DE 2023
 
 Altera a Lei nº 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município e dá outras providências

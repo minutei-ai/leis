@@ -1,5 +1,3 @@
-# Decreto nº 69.465, de 03/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210838)<br>
 
 # DECRETO N° 69.465, DE 03 DE ABRIL DE 2025

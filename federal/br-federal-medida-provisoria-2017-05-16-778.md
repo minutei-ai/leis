@@ -1,5 +1,3 @@
-# Medida Provisória nº 778 de 16/05/2017
-
 MEDIDA PROVISÓRIA Nº 778, DE 16 DE MAIO DE 2017
 
 Dispõe sobre o parcelamento de débitos junto à Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios.

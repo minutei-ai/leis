@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.813, de 2026-02-19
-
 **LEI Nº 7.813, DE 19 DE FEVEREIRO DE 2026.**
 
 Autoriza o cancelamento das cláusulas de inalienabilidade e reversibilidade incidentes sobre imóvel doado à Associação Brasileira de Odontologia Regional de Rio Verde, previstas na Lei nº 2.399, de 13 de outubro de 1988

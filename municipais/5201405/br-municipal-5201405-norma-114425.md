@@ -1,5 +1,3 @@
-# Decreto Numerado nº 372, de 2026-05-13
-
 DECRETO Nº 372, DE 13 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Panamá, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

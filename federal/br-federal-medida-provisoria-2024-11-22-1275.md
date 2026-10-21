@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.275 de 22/11/2024
-
 MEDIDA PROVISÓRIA Nº 1.275, DE 22 DE NOVEMBRO DE 2024
 
 Abre crédito extraordinário, em favor da Defensoria Pública da União e dos Ministérios do Planejamento e Orçamento, e da Integração e do Desenvolvimento Regional, no valor de R$ 118.206.027,00, para os fins que especifica.

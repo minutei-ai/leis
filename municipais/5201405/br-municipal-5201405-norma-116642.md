@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.437, de 2018-10-09
-
 LEI Nº 3.437, DE 09 DE OUTUBRO DE 2018
 
 Desafeta e autoriza permuta de parte da via pública situada no Setor Conde dos Arcos - Complemento e dá outras providências.

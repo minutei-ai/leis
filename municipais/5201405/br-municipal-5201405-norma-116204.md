@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.974, de 2011-07-07
-
 LEI MUNICIPAL Nº 2.974, DE 07 DE JULHO DE 2011.
 
 “Institui o Fundo Especial de Reaparelhamento da Câmara Municipal de Aparecida de Goiânia e dá outras providências”.

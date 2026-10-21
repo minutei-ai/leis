@@ -1,5 +1,3 @@
-# Decreto Numerado nº 444, de 2024-06-11
-
 DECRETO “N” Nº 444 DE 11 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

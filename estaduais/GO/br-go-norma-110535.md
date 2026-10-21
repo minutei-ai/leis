@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.307, de 2025-03-27
-
 LEI Nº 23.307, DE 27 DE MARÇO DE 2025
 
 Institui o Selo “Empresa Amiga do Bem-Estar Animal”.

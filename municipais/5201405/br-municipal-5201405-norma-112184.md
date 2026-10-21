@@ -1,5 +1,3 @@
-# Decreto Numerado nº 26, de 2026-01-12
-
 DECRETO Nº 026, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07/08, situado à Rua Arivestino Jonas Dias, no Loteamento Setor Serra Dourada 3ª Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.994, de 2024-09-18
-
 LEI Nº 22.994, DE 18 DE SETEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

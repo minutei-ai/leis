@@ -1,5 +1,3 @@
-# Decreto Numerado nº 462, de 2024-06-14
-
 DECRETO “N” Nº 462 DE 14 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

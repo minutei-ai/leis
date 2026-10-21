@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.816, de 2010-08-27
-
 LEI Nº 5.816, de 27 de agosto de 2010.
 
 Altera a [Lei n. 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170 "Abrir Lei Ordinária nº 3968, de 2000 em nova aba")/2000, Estatuto dos Funcionários do Município de Rio Verde.

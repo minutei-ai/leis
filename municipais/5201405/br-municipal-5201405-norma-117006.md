@@ -1,5 +1,3 @@
-# Decreto Numerado nº 535, de 2026-08-31
-
 DECRETO Nº 535, DE 31 DE AGOSTO DE 2026
 
 Dispõe sobre os procedimentos simplificados e autodeclaratórios para a emissão do Alvará de Construção Simplificado e da Certidão de Conclusão de Obras (CCO) no âmbito do Município de Aparecida de Goiânia e dá outras providências.

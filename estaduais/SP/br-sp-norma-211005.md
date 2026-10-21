@@ -1,5 +1,3 @@
-# Decreto nº 69.571, de 04/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211005)<br>
 
 # DECRETO N° 69.571, DE 04 DE JUNHO DE 2025

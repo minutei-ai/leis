@@ -1,5 +1,3 @@
-# Lei Complementar nº 171, de 2019-11-21
-
 LEI COMPLEMENTAR Nº 171, DE 21 DE NOVEMBRO DE 2019
 
 Institui o Código de Obras e Edificações do Município de Aparecida de Goiânia e dá outras providências.

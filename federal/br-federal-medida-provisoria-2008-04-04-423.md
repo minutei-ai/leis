@@ -1,5 +1,3 @@
-# Medida Provisória nº 423 de 04/04/2008
-
 ###MPV-000423-0-000-04-04-2008@@@
 
 MEDIDA PROVISÓRIA Nº 423, DE 4 DE ABRIL DE 2008.

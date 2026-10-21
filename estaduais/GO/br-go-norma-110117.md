@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.594, de 2024-12-10
-
 DECRETO Nº 10.594, DE 10 DE DEZEMBRO DE 2024
 
 Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2025.

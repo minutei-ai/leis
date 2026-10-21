@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.724, de 2025-10-03
-
 LEI Nº 23.724, DE 3 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.585, de 2016-02-24
-
 <br>
 **LEI Nº 6.585/2016, DE 24 DE FEVEREIRO DE 2016**
 

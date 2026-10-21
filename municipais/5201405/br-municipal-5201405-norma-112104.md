@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.428, de 2004-01-05
-
 LEI MUNICIPAL Nº 2.428, DE 05 DE JANEIRO DE 2004.
 
 Amplia o quantitativo de cargos e carga horária, nos quadros do Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida.

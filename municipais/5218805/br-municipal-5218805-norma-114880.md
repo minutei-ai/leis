@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.591, de 2024-12-16
-
 LEI Nº 7.591, DE 16 DE DEZEMBRO DE 2024.
 
 Dispõe no âmbito do Município de Rio Verde-GO sobre a criação de aplicativo para denunciar maus tratos de animais e dá outras providências.

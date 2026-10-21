@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.589, de 2024-03-29
-
 LEI Nº 22.589, DE 29 DE MARÇO DE 2024
 
 Altera a [Lei nº 19.075](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/96752), de 27 de outubro de 2015, que institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista e estabelece diretrizes para sua consecução.

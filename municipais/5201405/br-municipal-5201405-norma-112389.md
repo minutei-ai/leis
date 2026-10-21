@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.054, de 2025-03-19
-
 DECRETO Nº 1.054, DE 19 DE MARÇO DE 2025
 
 Dispõe sobre o remembramento e desmembramento de imóveis no Município de Aparecida de Goiânia.

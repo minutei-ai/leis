@@ -1,5 +1,3 @@
-# LD Nº 50 DE 27 DE MAIO DE 1983
-
 LEI DELEGADA Nº 50 DE 27 DE MAIO DE 1983
 
 Reorganiza a Secretaria do Saneamento e Recursos Hídricos - SSRH e dá outras providências.

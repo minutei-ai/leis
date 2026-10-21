@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.756, de 2025-08-13
-
 DECRETO Nº 10.756, DE 13 DE AGOSTO DE 2025
 
 Dispõe sobre a transferência de crédito acumulado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS decorrentes de exportações nas situações que especifica e dá outras providências.

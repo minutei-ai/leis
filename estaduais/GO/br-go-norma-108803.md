@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.658, de 2024-05-06
-
 LEI Nº 22.658, DE 6 DE MAIO DE 2024
 
 Dá denominação ao próprio público que especifica.

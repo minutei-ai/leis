@@ -1,5 +1,3 @@
-# Medida Provisória nº 957 de 24/04/2020
-
 MEDIDA PROVISÓRIA Nº 957, DE 24 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 500.000.000,00, para o fim que especifica.

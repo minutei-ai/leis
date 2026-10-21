@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 222, de 2025-09-25
-
 Portaria Orçamentária nº 222/2025 - Economia
 
 O DEFENSOR PÚBLICO-GERAL da DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º e inciso IV da [Lei nº 23.246, de 25 de janeiro de 2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412 "Abrir Lei Ordinária nº 23246, de 2025 em nova aba").

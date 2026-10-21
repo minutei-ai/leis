@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.312, de 2025-09-24
-
 DECRETO Nº 2.312, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Camassari e Rua da Praça Camassari no Loteamento Jardim Helvécia, no Município de Aparecida de Goiânia.

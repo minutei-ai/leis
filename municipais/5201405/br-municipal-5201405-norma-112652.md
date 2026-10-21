@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.576, de 2025-06-12
-
 DECRETO Nº 1.576, DE 12 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Francisco Lauro dos Santos, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

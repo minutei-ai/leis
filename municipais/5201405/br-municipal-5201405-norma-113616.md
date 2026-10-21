@@ -1,5 +1,3 @@
-# Decreto Numerado nº 232, de 2026-03-18
-
 DECRETO Nº 232, DE 18 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 01, 11, 12, 13, 14 e 15, todos da Quadra 14, situados à Rua Geny de Barros Loyola e Avenida Dr. Heitor de Morais Fleury, no Loteamento Terra Prometida, no Município de Aparecida de Goiânia.

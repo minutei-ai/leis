@@ -1,5 +1,3 @@
-# Decreto Numerado nº 249, de 2026-03-25
-
 DECRETO Nº 249, DE 25 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua R-10, no Loteamento Parque Ibirapuera, no Município de Aparecida de Goiânia.

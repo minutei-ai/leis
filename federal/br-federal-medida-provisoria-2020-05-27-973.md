@@ -1,5 +1,3 @@
-# Medida Provisória nº 973 de 27/05/2020
-
 MEDIDA PROVISÓRIA Nº 973, DE 27 DE MAIO DE 2020
 
 Altera a Lei nº 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação.

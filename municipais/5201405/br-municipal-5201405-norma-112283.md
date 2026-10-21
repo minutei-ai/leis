@@ -1,5 +1,3 @@
-# Decreto Numerado nº 73, de 2026-01-20
-
 DECRETO Nº 073, DE 20 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Normandia, no Loteamento Residencial Village Garavelo – 2º Etapa, no Município de Aparecida de Goiânia.

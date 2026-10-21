@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.771, de 2025-12-10
-
 DECRETO Nº 2.771, DE 10 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Cupertino Durão, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

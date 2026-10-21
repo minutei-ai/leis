@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.006 de 01/10/2020
-
 MEDIDA PROVISÓRIA Nº 1.006, DE 1 DE OUTUBRO DE 2020
 
 Aumenta a margem de crédito consignado dos titulares de benefícios de aposentadoria e pensão do Regime Geral de Previdência Social durante o período da pandemia de covid-19.

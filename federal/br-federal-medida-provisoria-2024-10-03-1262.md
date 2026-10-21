@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.262 de 03/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.262, DE 3 DE OUTUBRO DE 2024
 
 Institui o Adicional da Contribuição Social sobre o Lucro Líquido, no processo de adaptação da legislação brasileira às Regras Globais Contra a Erosão da Base Tributária - Regras GloBE, e dá outras providências.

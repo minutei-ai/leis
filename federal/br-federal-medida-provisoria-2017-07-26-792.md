@@ -1,5 +1,3 @@
-# Medida Provisória nº 792 de 26/07/2017
-
 MEDIDA PROVISÓRIA Nº 792, DE 26 DE JULHO DE 2017
 
 Institui, no âmbito do Poder Executivo federal, o Programa de Desligamento Voluntário, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública federal direta, autárquica e fundacional.

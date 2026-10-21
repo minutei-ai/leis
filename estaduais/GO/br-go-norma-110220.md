@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.617, de 2024-12-26
-
 DECRETO Nº 10.617, DE 26 DE DEZEMBRO DE 2024
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e o [Decreto nº 10.460](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108743), de 2 maio de 2024.

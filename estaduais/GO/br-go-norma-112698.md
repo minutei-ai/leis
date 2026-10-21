@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.065, de 2026-02-04
-
 LEI Nº 24.065, DE 4 DE FEVEREIRO DE 2026
 
 Institui a Semana Estadual de Valorização do Jiu-Jitsu.

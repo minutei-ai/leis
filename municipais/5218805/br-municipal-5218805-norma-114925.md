@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.568, de 2024-12-02
-
 LEI Nº 7.568, DE 2 DE DEZEMBRO DE 2024.
 
 Cria o Projeto “Natal Social - Padrinhos e Madrinhas do Natal”, no Município de Rio Verde – GO.

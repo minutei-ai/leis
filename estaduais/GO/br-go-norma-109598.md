@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.013, de 2024-09-27
-
 LEI Nº 23.013, DE 27 DE SETEMBRO DE 2024
 
 Confere ao Município de Itaguaru/GO o título de Capital Goiana da Banana.

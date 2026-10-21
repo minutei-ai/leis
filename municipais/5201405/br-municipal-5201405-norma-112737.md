@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.785, de 2024-06-03
-
 LEI MUNICIPAL Nº 3.785, DE 03 DE JUNHO DE 2024.
 
 Dispõe sobre utilidade pública da ASAG – Associação de Surdos de Aparecida de Goiânia, neste município e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.459, de 2024-05-02
-
 DECRETO Nº 10.459, DE 2 DE MAIO DE 2024
 
 Desqualifica como organização social de saúde, no âmbito do Estado de Goiás, a entidade que especifica.

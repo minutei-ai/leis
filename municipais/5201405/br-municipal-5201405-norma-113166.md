@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.658, de 2025-11-18
-
 DECRETO Nº 2.658, DE 18 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento da Área Industrial 11, situado à Avenida Coemitanga, no Loteamento Bairro Cardoso - Continuação, no Município de Aparecida de Goiânia.

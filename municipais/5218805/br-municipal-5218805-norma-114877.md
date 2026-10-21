@@ -1,5 +1,3 @@
-# Lei Complementar nº 122, de 2018-05-02
-
 LEI COMPLEMENTAR Nº 122, DE 02 DE MAIO DE 2018.
 
 Altera a Lei n. 3.633/98, que dispõe sobre o parcelamento do solo para fins urbanos.

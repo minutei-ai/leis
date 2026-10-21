@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.435, de 2018-10-01
-
 LEI Nº 3.435, DE 01 DE OUTUBRO DE 2018
 
 Altera a ementa e o artigo da Lei 3.176, de 23 de abril de 2014, e dá outras providências.

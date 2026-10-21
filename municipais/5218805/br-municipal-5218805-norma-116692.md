@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.220, de 2006-11-20
-
 LEI COMPLEMENTAR  Nº 5.220, DE 20 DE NOVEMBRO DE 2006.
 
 Altera a Lei Complementar nº 3.853/99.

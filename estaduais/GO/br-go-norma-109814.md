@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.053, de 2024-11-04
-
 LEI Nº 23.053, DE 4 DE NOVEMBRO DE 2024
 
 Institui o Dia Estadual do Mesário da Justiça Eleitoral e dá outras providências.

@@ -1,5 +1,3 @@
-# LEI Nº 14.984 DE 30 DE SETEMBRO DE 2025
-
 LEI Nº 14.984 DE 30 DE SETEMBRO DE 2025
 
 Denomina RODOVIA LEONI FERREIRA DOS SANTOS, o trecho da rodovia BA – 262 (projetada) que interliga o Distrito de Bate-pé ao Distrito de Pradoso, no município de Vitória da Conquista.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 317, de 2026-04-28
-
 DECRETO Nº 317, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o remembramento dos Lotes 06 ao 13, todos da Quadra 12-B, situados à Rua Safira, Rua Mica e Alameda Leucita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

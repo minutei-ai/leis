@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.344, de 2023-03-30
-
 LEI Nº 7.344, DE 30 DE MARÇO DE 2023
 
 Institui no Município de Rio Verde a Semana Municipal de Valorização da Vida e Prevenção ao Suicídio e dá outras providências.

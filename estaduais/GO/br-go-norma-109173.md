@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.831, de 2024-07-05
-
 LEI Nº 22.831, DE 5 DE JULHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

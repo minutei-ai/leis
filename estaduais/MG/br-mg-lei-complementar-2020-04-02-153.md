@@ -1,5 +1,3 @@
-# LCP nº 153, de 02/04/2020
-
 Altera a Lei nº 5.301, de 16 de outubro de 1969, que contém o Estatuto dos Militares do Estado de Minas Gerais.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

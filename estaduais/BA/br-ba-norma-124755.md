@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 13 DE 18 DE AGOSTO DE 2009
-
 EMENDA CONSTITUCIONAL Nº 13 DE 18 DE AGOSTO DE 2009
 
 Dá nova redação ao art. 39 da Constituição do Estado da Bahia.

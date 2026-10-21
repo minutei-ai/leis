@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.404, de 2018-03-06
-
 LEI MUNICIPAL Nº 3.404, DE 06 DE MARÇO DE 2018
 
 Altera as Leis nos 3.363/2017, 3.385/2017 e 3.391/2017.

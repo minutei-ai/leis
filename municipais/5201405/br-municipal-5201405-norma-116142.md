@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.640, de 2021-12-27
-
 LEI MUNICIPAL Nº 3.640, DE 27 DE DEZEMBRO DE 2021.
 
 Dispõe sobre a denominação do Campo de futebol CLAUDIONOR ALTO DE OLIVEIRA (NONÔ BRASIL), no Bairro Independência, neste Município e dá outras providências.

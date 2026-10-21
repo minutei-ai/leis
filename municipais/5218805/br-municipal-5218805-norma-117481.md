@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.146, de 2021-05-31
-
 LEI Nº 7.146, DE 31 DE MAIO DE 2021.
 
 Autoriza o Município a realizar Termo de Colaboração que menciona.

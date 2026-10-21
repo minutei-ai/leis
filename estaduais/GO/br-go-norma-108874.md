@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.691, de 2024-05-14
-
 LEI Nº 22.691, DE 14 DE MAIO DE 2024.
 
 Dispõe sobre a obrigatoriedade de inclusão de leite na merenda escolar das unidades educacionais da rede pública estadual.

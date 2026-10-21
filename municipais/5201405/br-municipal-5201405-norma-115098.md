@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.719, de 2023-05-25
-
 LEI MUNICIPAL Nº 3.719, DE 25 DE MAIO DE 2023.
 
 Dispõe sobre o incentivo de bolsa moradia, bolsa alimentação e ajuda de custo aos médicos participantes dos Programas Mais Médicos para o Brasil e Médicos pelo Brasil, e dá outras providências.

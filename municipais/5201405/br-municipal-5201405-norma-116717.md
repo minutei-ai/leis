@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.365, de 2017-06-26
-
 LEI MUNICIPAL Nº 3.365, DE 26 DE JUNHO DE 2017.
 
 Altera disposições orçamentárias contidas nas Leis Municipais nº 3.149, de 20 de dezembro de 2013, que dispõe sobre o Plano Plurianual para o quadriênio 2014-2017 e dá outras providências, e nº 3.347, de 19 de dezembro de 2016, que estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO, para o exercício financeiro de 2017, e dá outras providências.

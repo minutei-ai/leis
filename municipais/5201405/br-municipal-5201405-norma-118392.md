@@ -1,5 +1,3 @@
-# Decreto Numerado nº 639, de 2023-10-05
-
 DECRETO “N” Nº 639 DE 05 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.820, de 2025-01-16
-
 LEI MUNICIPAL Nº 3.820, DE 16 DE JANEIRO DE 2025.
 
 Dispõe sobre a estrutura administrativa da Câmara Municipal de Aparecida de Goiânia e dá outras providências.

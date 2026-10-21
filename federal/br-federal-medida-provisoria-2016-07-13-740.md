@@ -1,5 +1,3 @@
-# Medida Provisória nº 740 de 13/07/2016
-
 MEDIDA PROVISÓRIA Nº 740, DE 13 DE JULHO DE 2016
 
 Abre crédito extraordinário, em favor da Justiça do Trabalho, no valor de R$ 353.771.447,00, para os fins que especifica.

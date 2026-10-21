@@ -1,5 +1,3 @@
-# Decreto Numerado nº 186, de 2026-03-11
-
 DECRETO Nº 186, DE 11 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 30, situado à Rua J18, no Loteamento Mansões Paraiso, no Município de Aparecida de Goiânia.

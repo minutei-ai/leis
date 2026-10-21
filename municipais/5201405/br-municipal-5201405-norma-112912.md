@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.916, de 2025-08-07
-
 DECRETO Nº 1.916, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, situado à Rua dos Pinheiros e Rua dos Abêtos, no Loteamento Jardim Maria Inês, no Município de Aparecida de Goiânia.

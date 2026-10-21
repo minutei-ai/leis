@@ -1,5 +1,3 @@
-# Decreto nº 70.375, de 07/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212219)<br>
 
 # DECRETO N° 70.375, DE 07 DE FEVEREIRO DE 2026

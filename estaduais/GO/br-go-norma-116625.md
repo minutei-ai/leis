@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.972, de 2026-08-11
-
 DECRETO Nº 10.972, DE 11 DE AGOSTO DE 2026
 
 Altera o [Decreto nº 10.960](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116275), de 21 de julho de 2026, que confere a Comenda da Ordem do Mérito Anhanguera às autoridades que especifica.

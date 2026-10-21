@@ -1,5 +1,3 @@
-# Medida Provisória nº 766 de 04/01/2017
-
 MEDIDA PROVISÓRIA Nº 766, DE 4 DE JANEIRO DE 2017
 
 Institui o Programa de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.

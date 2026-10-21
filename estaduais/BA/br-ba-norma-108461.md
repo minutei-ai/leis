@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 28 DE 14 DE DEZEMBRO DE 2006
-
 LEI COMPLEMENTAR Nº 28 DE 14 DE DEZEMBRO DE 2006
 
 Altera dispositivos da Lei Complementar nº 6, de 06.12.91, das Leis nº 7.976, de 03.12.01, 8.262, de 06.06.02, e 8.642, de 21.07.03, e dá outras providências.

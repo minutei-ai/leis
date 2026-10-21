@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.116, de 2025-09-01
-
 DECRETO Nº 2.116, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 1 e 2, Todos da Quadra 151, situados na Alameda A, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

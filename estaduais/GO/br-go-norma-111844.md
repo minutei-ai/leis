@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.837, de 2025-12-17
-
 DECRETO Nº 10.837, DE 17 DE DEZEMBRO DE 2025
 
 Altera o [Decreto nº 9.922](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104261), de 10 de agosto de 2021, que reorganiza o Complexo Estadual de Serviços de Saúde de Goiás, insere novas unidades e padroniza a nomenclatura dos respectivos equipamentos públicos.

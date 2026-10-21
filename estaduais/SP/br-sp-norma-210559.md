@@ -1,5 +1,3 @@
-# Decreto nº 69.330, de 27/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210559)<br>
 
 # DECRETO N° 69.330, DE 27 DE JANEIRO DE 2025

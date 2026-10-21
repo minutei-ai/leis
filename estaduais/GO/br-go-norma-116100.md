@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.948, de 2026-07-03
-
 DECRETO Nº 10.948, DE 3 DE JULHO DE 2026
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

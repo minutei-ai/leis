@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.628, de 2025-03-24
-
 LEI Nº 7.628, DE 24 DE MARÇO DE 2025.
 
 Altera o art. 1º da [Lei nº 7.597](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114626 "Abrir Lei Ordinária nº 7597, de 2025 em nova aba"), de 24 de fevereiro de 2025, que concede licença remunerada a docente para cursar doutorado.

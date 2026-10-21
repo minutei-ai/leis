@@ -1,5 +1,3 @@
-# Medida Provisória nº 493 de 02/07/2010
-
 ###MPV-000493-0-000-02-07-2010@@@
 
 MEDIDA PROVISÓRIA Nº 493, DE 2 DE JULHO DE 2010.

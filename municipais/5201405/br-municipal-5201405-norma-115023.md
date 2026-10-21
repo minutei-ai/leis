@@ -1,5 +1,3 @@
-# Decreto Numerado nº 306, de 2024-04-25
-
 DECRETO “N” Nº 306 DE 25 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

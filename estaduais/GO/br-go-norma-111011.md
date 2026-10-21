@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.536, de 2025-07-01
-
 LEI Nº 23.536, DE 1º DE JULHO DE 2025
 
 Abre crédito especial à Polícia Militar – PM e à Universidade Estadual de Goiás – UEG.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.376, de 2025-10-07
-
 DECRETO Nº 2.376, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Maitaca no Loteamento Colina Azul, no Município de Aparecida de Goiânia.

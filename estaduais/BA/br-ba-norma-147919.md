@@ -1,5 +1,3 @@
-# LEI Nº 15.029 DE 26 DE NOVEMBRO DE 2025
-
 LEI Nº 15.029 DE 26 DE NOVEMBRO DE 2025
 
 Cria o Cargo de Auditor do Tribunal de Contas do Estado da Bahia, altera dispositivos da Lei nº 13.192 de 06 de novembro de 2014, e dá outras providências.

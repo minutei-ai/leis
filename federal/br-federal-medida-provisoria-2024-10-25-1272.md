@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.272 de 25/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.272, DE 25 DE OUTUBRO DE 2024
 
 Autoriza o Poder Executivo federal a conceder subvenção econômica, sob a forma de desconto, em operações de crédito rural contratadas no período de 6 a 22 de setembro de 2024, dispõe sobre a comissão de que trata o [art. 3º da Medida Provisória nº 1.247, de 31 de julho de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2024-07-31;1247!art3), e altera a [Lei nº 8.427, de 27 de maio de 1992](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1992-05-27;8427), e a [Lei nº 14.981, de 20 de setembro de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-09-20;14981).

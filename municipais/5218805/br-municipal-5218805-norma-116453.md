@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.261, de 2022-05-03
-
 LEI N° 7.261, DE 3 DE MAIO DE 2022
 
 Institui o dia 09 de julho como o dia dos colecionadores, atiradores e caçadores e reconhece no âmbito do município de Rio Verde - GO, suas atividades como relevância social, por contribuir para a manutenção da cultura e desporto racional e local, conforme os termos do artigo 10, da Lei Federal n° 10.826/03.

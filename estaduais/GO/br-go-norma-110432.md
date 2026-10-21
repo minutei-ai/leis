@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.646, de 2025-02-12
-
 DECRETO Nº 10.646, DE 12 DE FEVEREIRO DE 2025
 
 Altera o Regulamento do Fundo de Participação e Fomento à Industrialização do Estado de Goiás – FOMENTAR, baixado pelo [Decreto nº 3.822](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63202), de 10 de julho de 1992, e o Regulamento do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR, aprovado pelo [Decreto nº 5.265](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61834), de 31 de julho de 2000.

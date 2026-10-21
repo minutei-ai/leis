@@ -1,5 +1,3 @@
-# Decreto nº 69.710, de 16/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211207)<br>
 
 # DECRETO N° 69.710, DE 16 DE JULHO DE 2025

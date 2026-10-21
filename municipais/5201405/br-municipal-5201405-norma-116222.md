@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.575, de 2020-09-18
-
 LEI MUNICIPAL N° 3.575, DE 18 DE SETEMBRO DE 2020.
 
 “Institui o Prêmio de Merecimento Cultural e/ou Turístico, que será conferido a entidades ou pessoas físicas por êxito alcançado, relevantes serviços prestados, ou feitos extraordinários realizados pelo desenvolvimento do Município de Aparecida de Goiânia.”

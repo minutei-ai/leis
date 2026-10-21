@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.010, de 2024-09-27
-
 LEI Nº 23.010, DE 27 DE SETEMBRO DE 2024
 
 Institui o Dia Estadual do Neurocirurgião.

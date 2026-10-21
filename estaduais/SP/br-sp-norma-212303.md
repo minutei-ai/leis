@@ -1,5 +1,3 @@
-# Decreto nº 70.422, de 05/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212303)<br>
 
 # DECRETO N° 70.422, DE 05 DE MARÇO DE 2026

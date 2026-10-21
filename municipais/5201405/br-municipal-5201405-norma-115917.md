@@ -1,5 +1,3 @@
-# Decreto Numerado nº 521, de 2026-06-25
-
 DECRETO Nº 521, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11-13, situado à Rua 03, no Loteamento Bairro Independência, no Município de Aparecida de Goiânia.

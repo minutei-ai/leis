@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.656, de 2022-03-02
-
 LEI MUNICIPAL Nº 3.656, DE 02 DE MARÇO DE 2022.
 
 Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2022 e dá outras previdências.

@@ -1,5 +1,3 @@
-# Decreto nº 70.917, de 02/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213021)<br>
 
 # DECRETO N° 70.917, DE 02 DE OUTUBRO DE 2026

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.279 de 16/12/2024
-
 MEDIDA PROVISÓRIA Nº 1.279, DE 16 DE DEZEMBRO DE 2024
 
 Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 120.000.000,00, para o fim que especifica.

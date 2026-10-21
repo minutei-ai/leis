@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.736, de 2025-07-21
-
 DECRETO Nº 10.736, DE 21 DE JULHO DE 2025
 
 Altera o Anexo Único do [Decreto nº 10.590](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110121), de 10 de dezembro de 2024, que regulamenta, para o exercício de 2025, a [Lei nº 21.073](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104260), de 9 de agosto de 2021.

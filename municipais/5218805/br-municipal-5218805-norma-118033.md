@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.005, de 2011-09-22
-
 LEI COMPLEMENTAR Nº 6.005, DE 22 DE SETEMBRO DE 2011.
 
 Altera a Lei Complementar n. 5.727/09 – Código Tributário Municipal.

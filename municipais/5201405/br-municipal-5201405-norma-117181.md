@@ -1,5 +1,3 @@
-# Decreto Numerado nº 694, de 2024-08-28
-
 DECRETO “N” Nº 694 DE 28 DE AGOSTO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 723, de 12 de setembro de 2024).
 

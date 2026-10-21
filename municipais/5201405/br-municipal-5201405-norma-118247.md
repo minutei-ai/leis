@@ -1,5 +1,3 @@
-# Decreto Numerado nº 464, de 2023-07-17
-
 DECRETO “N” Nº 464 DE 17 DE JULHO DE 2023<br>
 (Revogado pelo Decreto "N" Nº 551, de 21 de agosto de 2023).
 

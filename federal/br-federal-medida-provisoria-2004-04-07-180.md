@@ -1,5 +1,3 @@
-# Medida Provisória nº 180 de 07/04/2004
-
 ###MPV-000180-0-000-07-04-2004@@@
 
 MEDIDA PROVISÓRIA Nº 180, DE 7 DE ABRIL 2004.

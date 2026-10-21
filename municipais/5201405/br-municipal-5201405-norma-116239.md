@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.593, de 2020-12-02
-
 LEI MUNICIPAL N° 3.593, DE 02 DE DEZEMBRO DE 2020.<br>
 (Revogada pela Lei Ordinária nº 3.805, de 12 de novembro de 2024).
 

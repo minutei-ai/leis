@@ -1,5 +1,3 @@
-# Medida Provisória nº 731 de 10/06/2016
-
 MEDIDA PROVISÓRIA Nº 731, DE 10 DE JUNHO DE 2016
 
 Dispõe sobre a extinção de cargos em comissão do Grupo-Direção e Assessoramento Superiores e a criação de funções de confiança denominadas Funções Comissionadas do Poder Executivo.

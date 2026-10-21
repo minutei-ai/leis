@@ -1,5 +1,3 @@
-# Medida Provisória nº 40 de 14/06/2002
-
 ###MPV-000040-0-000-14-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 40, DE 14 DE JUNHO DE 2002

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.020, de 2024-09-30
-
 LEI Nº 23.020, DE 30 DE SETEMBRO DE 2024
 
 Altera a Lei nº 20.247, de 30 de julho de 2018, que cria a campanha de conscientização “IMPOSTO DE RENDA DO BEM”.

@@ -1,5 +1,3 @@
-# LEI Nº 14.969 DE 08 DE SETEMBRO DE 2025
-
 LEI Nº 14.969 DE 08 DE SETEMBRO DE 2025
 
 Estabelece o Quadro de Cargos de provimento permanente do Magistério Público das Universidades do Estado da Bahia, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 144, de 2018-08-08
-
 LEI COMPLEMENTAR Nº 144, DE 08 DE AGOSTO DE 2018
 
 Institui Regime Especial de Trabalho da Secretaria Municipal de Educação e Cultura para os integrantes do cargo efetivo de Agente Educativo e dá outras providências.

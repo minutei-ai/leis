@@ -1,5 +1,3 @@
-# Lei nº 18.464, de 27/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212663)<br>
 
 # LEI N° 18.464, DE 27 DE MAIO DE 2026

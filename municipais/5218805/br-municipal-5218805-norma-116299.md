@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.297, de 2022-09-26
-
 LEI N°. 7.297, DE 26 DE SETEMBRO DE 2022
 
 Autoriza o auxílio-transporte para os servidores Agente de Combate à Endemias e Agente Comunitário de Saúde.

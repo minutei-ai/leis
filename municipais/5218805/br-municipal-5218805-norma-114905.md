@@ -1,5 +1,3 @@
-# Lei Complementar nº 205, de 2021-05-06
-
 LEI COMPLEMENTAR Nº 205, DE 06 DE MAIO DE 2021.
 
 Cria Zona Especial de Interesse Social e estabelece regramentos especiais para o parcelamento, uso e ocupação do solo, alterando as Leis Complementares n. 5.478/2008 e 3.633/98.

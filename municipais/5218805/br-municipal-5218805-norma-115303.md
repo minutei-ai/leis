@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.402, de 2023-08-28
-
 LEI N° 7.402,28 DE AGOSTO DE 2023
 
 Dispõe sobre a substituição do pictograma atual de sinalização indicativa de prioridade à pessoa idosa representado por uma pessoa curvada de bengala, em vagas, assentos, filas dentre outros, nos Espaços Públicos no âmbito do Município de Rio Verde e dá outras providências.

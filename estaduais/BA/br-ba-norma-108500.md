@@ -1,5 +1,3 @@
-# LD Nº 49 DE 24 DE MAIO DE 1983
-
 LEI DELEGADA Nº 49 DE 24 DE MAIO DE 1983
 
 Altera a redação dos [incisos XI](https://www.legislabahia.ba.gov.br/documentos/ld-no-28-de-28-de-fevereiro-de-1983#LD_28_Art__16_XI) e [XXIII do art. 16 da Lei Delegada nº 28, de 28 de fevereiro de 1983](https://www.legislabahia.ba.gov.br/documentos/ld-no-28-de-28-de-fevereiro-de-1983#LD_28_Art__16_XXIII) .

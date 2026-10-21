@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.908, de 2026-05-11
-
 DECRETO Nº 10.908 DE 11 DE MAIO DE 2026
 
 Decreta luto oficial pelo falecimento de PAULO VARGAS.

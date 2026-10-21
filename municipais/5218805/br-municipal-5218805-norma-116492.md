@@ -1,5 +1,3 @@
-# Lei Complementar nº 266, de 2022-11-25
-
 LEI COMPLEMENTAR Nº 266, DE 25 DE NOVEMBRO DE 2022.
 
 Projeto de Lei alterando a Lei nº. 3.853/1999 para extinguir e colocar cargos em extinção.

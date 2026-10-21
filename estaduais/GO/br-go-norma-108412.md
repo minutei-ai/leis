@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.400, de 2024-01-30
-
 DECRETO Nº 10.400, DE 30 DE JANEIRO DE 2024<br>
  
 

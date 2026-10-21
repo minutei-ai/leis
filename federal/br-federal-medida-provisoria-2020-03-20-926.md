@@ -1,5 +1,3 @@
-# Medida Provisória nº 926 de 20/03/2020
-
 MEDIDA PROVISÓRIA Nº 926, DE 20 DE MARÇO DE 2020
 
 Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre procedimentos para aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus.

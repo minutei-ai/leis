@@ -1,5 +1,3 @@
-# Decreto Numerado nº 121, de 2024-03-08
-
 DECRETO “N” Nº 121 DE 08 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

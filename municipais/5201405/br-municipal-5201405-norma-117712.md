@@ -1,5 +1,3 @@
-# Decreto Numerado nº 148, de 2023-03-09
-
 DECRETO “N” Nº 148 DE 09 DE MARÇO DE 2023.
 
 Dispõe sobre a instauração e classificação de Regularização Fundiária Urbana de Interesse Social – REURB-S do Núcleo Urbano Informal Consolidado denominado de Jardim Rio Dourado.

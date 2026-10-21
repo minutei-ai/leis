@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.845, de 2025-12-23
-
 DECRETO Nº 10.845, DE 23 DE DEZEMBRO DE 2025 
 
 Implanta o adicional ao Bônus por Resultado na Secretaria de Estado da Educação – SEDUC em janeiro de 2026.

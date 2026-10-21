@@ -1,5 +1,3 @@
-# Medida Provisória nº 707 de 30/12/2015
-
 MEDIDA PROVISÓRIA Nº 707, DE 30 DE DEZEMBRO DE 2015
 
 Altera a Lei nº 12.096, de 24 de novembro de 2009, e a Lei nº 12.844, de 19 de julho de 2013, para alterar os prazos que especifica.

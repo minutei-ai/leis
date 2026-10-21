@@ -1,5 +1,3 @@
-# Lei Complementar nº 166, de 2019-10-09
-
 LEI COMPLEMENTAR Nº 166, DE 09 DE OUTUBRO DE 2019
 
 Altera a lei complementar 95, de 17 de outubro de 2014 que institui o plano de cargos, carreiras e vencimentos dos trabalhadores administrativos da secretaria de educação do município de Aparecida de Goiânia e dá outras providências.

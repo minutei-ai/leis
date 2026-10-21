@@ -1,5 +1,3 @@
-# LEI N° 14.858 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.858 DE 12 DE FEVEREIRO DE 2025
 
 Proíbe, no âmbito do Estado da Bahia, a distribuição, comercialização e a utilização ou porte de serpentinas metalizadas.

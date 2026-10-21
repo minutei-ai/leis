@@ -1,5 +1,3 @@
-# Decreto Numerado nº 46, de 2024-01-30
-
 DECRETO “N” Nº 46 DE 30 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

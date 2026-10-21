@@ -1,5 +1,3 @@
-# LEI Nº 14.975 DE 09 DE SETEMBRO DE 2025
-
 LEI Nº 14.975 DE 09 DE SETEMBRO DE 2025
 
 Altera a Lei Estadual nº [8.902](https://www.legislabahia.ba.gov.br/documentos/lei-no-8902-de-18-de-dezembro-de-2003), de 18 de dezembro de 2003, para estruturar o Núcleo de Atendimento ao Cidadão e Transparência (NACT).

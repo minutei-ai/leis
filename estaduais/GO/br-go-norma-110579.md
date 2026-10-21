@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.334, de 2025-04-13
-
 LEI Nº 23.334, DE 13 DE ABRIL DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Pet Friendly Day, realizado no Município de Goiânia/GO.

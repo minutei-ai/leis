@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.357, de 2025-04-22
-
 LEI Nº 23.357, DE 22 DE ABRIL DE 2025
 
 Institui a Política Estadual de Prevenção da Mononucleose.

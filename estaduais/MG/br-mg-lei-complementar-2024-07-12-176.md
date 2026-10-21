@@ -1,5 +1,3 @@
-# LCP nº 176, de 12/07/2024
-
 Altera a Lei Complementar nº 121, de 29 de dezembro de 2011, que altera a Lei Complementar nº 64, de 25 de março de 2002, que institui o Regime Próprio de Previdência e Assistência Social dos servidores públicos do Estado de Minas Gerais e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

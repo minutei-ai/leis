@@ -1,5 +1,3 @@
-# Medida Provisória nº 877 de 25/03/2019
-
 MEDIDA PROVISÓRIA Nº 877, DE 25 DE MARÇO DE 2019
 
 Altera a Lei nº 9.430, de 27 de dezembro de 1996, para dispor sobre a dispensa de retenção de tributos federais na aquisição de passagens aéreas pelos órgãos ou pelas entidades da administração pública federal.

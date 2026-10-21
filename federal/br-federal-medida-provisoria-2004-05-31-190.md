@@ -1,5 +1,3 @@
-# Medida Provisória nº 190 de 31/05/2004
-
 ###MPV-000190-0-000-31-05-2004@@@
 
 MEDIDA PROVISÓRIA Nº 190, DE 31 DE MAIO 2004

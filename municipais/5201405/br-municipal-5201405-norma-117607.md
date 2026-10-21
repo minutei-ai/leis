@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1062, de 2024-12-10
-
 DECRETO “N” Nº 1062 DE 11 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

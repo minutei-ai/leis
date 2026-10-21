@@ -1,5 +1,3 @@
-# Decreto Numerado nº 565, de 2023-08-28
-
 DECRETO “N” Nº 565 DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis.

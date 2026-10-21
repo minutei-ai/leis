@@ -1,5 +1,3 @@
-# Decreto Numerado nº 221, de 2016-10-25
-
 DECRETO “N" N° 221, DE 25 DE OUTUBRO DE 2016.
 
 Altera o art.80 da Lei Municipal nº 010, de 20 de junho de 2005, que trata das alíquotas de contribuição previdenciária e dá outras providências.

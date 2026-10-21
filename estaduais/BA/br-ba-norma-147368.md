@@ -1,5 +1,3 @@
-# LEI Nº 14.939 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.939 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública a Associação Acolher e Transformar: Amor Essencial, com sede e foro no município de Jequié.

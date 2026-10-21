@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.777, de 2024-06-10
-
 LEI Nº 22.777, DE 10 DE JUNHO DE 2024
 
 Institui o Dia Estadual do Técnico e Auxiliar em Saúde Bucal e dá outras providências.

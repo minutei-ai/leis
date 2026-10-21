@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.692, de 2003-10-03
-
 LEI Nº. 4.692, DE 3 DE OUTUBRO DE 2003.
 
 Dispõe sobre a organização administrativa do IPARV.

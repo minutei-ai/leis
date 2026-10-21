@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.411, de 2018-04-26
-
 LEI MUNICIPAL Nº 3.411, DE 26 DE ABRIL DE 2018
 
 Assegura matrícula para o aluno portador de deficiência locomotora na escola municipal mais próxima da sua residência, e dá outras providências.

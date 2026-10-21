@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.365 de 03/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.365, DE 3 DE JUNHO DE 2026
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 1.000.000.000,00, para o fim que especifica.

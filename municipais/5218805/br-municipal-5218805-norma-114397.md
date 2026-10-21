@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.684, de 2025-06-30
-
 LEI Nº 7.684, DE 30 DE JUNHO DE 2025.
 
 Altera a [Lei nº 7.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114396 "Abrir Lei Ordinária nº 7651, de 2025 em nova aba"), de 26 de maio de 2025, que dispõe sobre a concessão do auxílio-fardamento aos Agentes de Trânsito e Guardas Civis Municipais de Rio Verde e dá outras providências.

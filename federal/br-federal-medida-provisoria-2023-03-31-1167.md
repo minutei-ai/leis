@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.167 de 31/03/2023
-
 MEDIDA PROVISÓRIA Nº 1.167, DE 2023
 
 Altera a Lei nº 14.133, de 1º de abril de 2021, para prorrogar a possibilidade de uso da Lei nº 8.666, de 21 de junho de 1993, da Lei º 10.520, de 17 de julho de 2002, e dos art. 1º a art. 47-A da Lei nº 12.462, de 4 de agosto de 2011.

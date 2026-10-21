@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.556, de 2020-06-09
-
 LEI MUNICIPAL Nº 3.556 DE 09 DE JUNHO DE 2020.
 
 "Dispõe sobre sistema de coleta de dados biométricos de recém-nascidos nas unidades de saúde públicas e privadas do Município de Aparecida de Goiânia, e dá outras providências."

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.658, de 2025-03-17
-
 DECRETO Nº 10.658, DE 17 DE MARÇO DE 2025
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual no Município de Rio Verde/GO durante a semana de realização da Feira de Tecnologia em Agronegócio – Tecnoshow.

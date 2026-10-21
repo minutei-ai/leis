@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.901, de 2025-08-05
-
 DECRETO Nº 1.901, DE 5 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua 1, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

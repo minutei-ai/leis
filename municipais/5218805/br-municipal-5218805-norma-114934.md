@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.564, de 2024-10-31
-
 LEI Nº 7.564, DE 31 DE OUTUBRO DE 2024.
 
 Assegura aos portadores de deficiência visual o direito de receber boletos de pagamento do consumo mensal dos serviços públicos de telefone, energia elétrica, gás e água confeccionados no sistema braile.

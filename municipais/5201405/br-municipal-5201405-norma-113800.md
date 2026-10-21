@@ -1,5 +1,3 @@
-# Decreto Numerado nº 283, de 2026-04-13
-
 DECRETO Nº 283, DE 13 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua Belo Horizonte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

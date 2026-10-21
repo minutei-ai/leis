@@ -1,5 +1,3 @@
-# Decreto Numerado nº 664, de 2024-08-15
-
 DECRETO “N” Nº 664 DE 15 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

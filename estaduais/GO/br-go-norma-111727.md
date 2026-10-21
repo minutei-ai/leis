@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.826, de 2025-12-08
-
 DECRETO Nº 10.826, DE 8 DE DEZEMBRO DE 2025
 
 Regulamenta, para o exercício de 2026, a [Lei nº 21.073](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104260), de 9 de agosto de 2021, que cria o incentivo à alfabetização, destinado a premiar as escolas públicas das redes estadual e municipal de ensino, de acordo com os resultados no Índice de Desenvolvimento da Educação do Estado de Goiás na Alfabetização – IDEGO-Alfa e no Sistema de Avaliação Educacional do Estado de Goiás – SAEGO.

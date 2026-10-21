@@ -1,5 +1,3 @@
-# LEI Nº 14.748 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.748 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ORGANIZAÇÃO SOCIAL HORA DA CRIANÇA (OSHC), com sede e foro no município de Salvador.

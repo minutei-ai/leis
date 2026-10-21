@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.536, de 2026-09-10
-
 LEI Nº 24.536, DE 10 DE SETEMBRO DE 2026
 
 Dá denominação ao próprio público que especifica.

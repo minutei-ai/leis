@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.876, de 2026-06-29
-
 LEI Nº 7.876, DE 19 DE JUNHO DE 2026.
 
 Altera a Lei Municipal nº 7.719, de 12 de novembro de 2025, que Institui a Cota para o Exercício da Atividade Parlamentar (CEAP).

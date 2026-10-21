@@ -1,5 +1,3 @@
-# Medida Provisória nº 366 de 26/04/2007
-
 ###MPV-000366-0-000-26-04-2007@@@
 
 MEDIDA PROVISÓRIA Nº 366, DE 26 DE ABRIL DE 2007.

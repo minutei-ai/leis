@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.191, de 2014-07-02
-
 LEI MUNICIPAL Nº 3.191, DE 02 DE JULHO DE 2014.
 
 Reconhece de Utilidade Pública Municipal a “ORGANIZAÇÃO BRASILEIRA DE DESENVOLVIMENTO E CIDADANIA – OBDC” e dá outras providências.

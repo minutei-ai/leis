@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.041, de 2005-09-20
-
 LEI Nº 5.041, DE 20 DE SETEMBRO DE 2005.
 
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170).

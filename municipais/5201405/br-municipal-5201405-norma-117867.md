@@ -1,5 +1,3 @@
-# Decreto Numerado nº 146, de 2023-03-06
-
 DECRETO “N” Nº 146 DE 06 DE MARÇO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento INDUSTRIAL SANTO ANTÔNIO, neste município.

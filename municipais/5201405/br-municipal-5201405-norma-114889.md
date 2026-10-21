@@ -1,5 +1,3 @@
-# Decreto Numerado nº 424, de 2026-05-27
-
 DECRETO Nº 424, DE 27 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Capitão José Francisco Póvoa, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

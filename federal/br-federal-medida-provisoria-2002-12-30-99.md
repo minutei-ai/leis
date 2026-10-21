@@ -1,5 +1,3 @@
-# Medida Provisória nº 99 de 30/12/2002
-
 ###MPV-000099-0-000-30-12-2002@@@
 
 MEDIDA PROVISÓRIA Nº 99, DE 30 DE DEZEMBRO 2002.

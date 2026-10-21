@@ -1,5 +1,3 @@
-# Lei Complementar nº 327, de 2023-11-27
-
 LEI COMPLEMENTAR Nº 327, DE 27 DE NOVEMBRO DE 2023. 
 
 <br>

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.918, de 2026-07-13
-
 LEI Nº 3.918, DE 13 DE JULHO DE 2026
 
 Denomina “ELIAS FERREIRA BARBOSA” o campo de futebol localizado na Praça Cidade Satélite São Luiz, no Município de Aparecida de Goiânia, Estado de Goiás.

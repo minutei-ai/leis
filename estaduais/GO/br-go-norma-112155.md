@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 368, de 2025-12-18
-
 Portaria Orçamentária nº 368/2025 - Economia
 
 **O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de janeiro de 2025.

@@ -1,5 +1,3 @@
-# Lei nº 18.112, de 12/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210732)<br>
 
 # LEI N° 18.112, DE 12 DE MARÇO DE 2025

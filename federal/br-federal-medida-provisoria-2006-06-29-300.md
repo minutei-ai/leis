@@ -1,5 +1,3 @@
-# Medida Provisória nº 300 de 29/06/2006
-
 ###MPV-000300-0-000-29-06-2006@@@
 
 MEDIDA PROVISÓRIA Nº 300, DE 29 DE JUNHO DE 2006.

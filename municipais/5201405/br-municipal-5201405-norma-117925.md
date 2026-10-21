@@ -1,5 +1,3 @@
-# Decreto Numerado nº 198, de 2023-03-24
-
 DECRETO “N” Nº 198 DE 24 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL VILLAGE GARAVELO, neste município.

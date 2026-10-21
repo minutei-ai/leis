@@ -1,5 +1,3 @@
-# LEI Nº 15.160 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.160 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Maracás (APAE-MARACÁS), com sede e foro em Maracás.

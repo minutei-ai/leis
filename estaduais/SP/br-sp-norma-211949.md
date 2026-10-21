@@ -1,5 +1,3 @@
-# Decreto nº 70.170, de 04/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211949)<br>
 
 # DECRETO N° 70.170, DE 04 DE DEZEMBRO DE 2025

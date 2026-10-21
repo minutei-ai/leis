@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.754, de 2025-07-07
-
 DECRETO Nº 1.754, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua 18, no Loteamento Setor Marista Sul, no Município de Aparecida de Goiânia.

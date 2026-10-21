@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.523, de 2025-06-23
-
 LEI Nº 23.523, DE 23 DE JUNHO DE 2025<br>
 \- [Vide Decreto nº 10.801, de 21-10-2025 - Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111445).
 

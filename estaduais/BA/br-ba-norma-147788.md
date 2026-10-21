@@ -1,5 +1,3 @@
-# LEI Nº 15.006 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.006 DE 28 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a Associação dos Pequenos Produtores Rurais de Lagoa do Pedro, com sede e foro no município de Piritiba.

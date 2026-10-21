@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.061 de 09/08/2021
-
 MEDIDA PROVISÓRIA Nº 1.061, DE 9 DE AGOSTO DE 2021
 
 Institui o Programa Auxílio Brasil e o Programa Alimenta Brasil, e dá outras providências.

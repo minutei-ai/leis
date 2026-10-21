@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.889, de 2026-08-18
-
 **LEI Nº 7.889, DE 18 DE AGOSTO DE 2026.**
 
 Autoriza desafetação e alienação de imóvel público localizado no Parque dos Buritis.

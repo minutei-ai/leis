@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.481, de 2024-06-20
-
 DECRETO Nº 10.481, DE 20 DE JUNHO DE 2024
 
 Dispõe sobre o funcionamento da sede simbólica do Poder Executivo estadual e transfere o feriado consagrado à fundação da Cidade de Goiás para o dia 22 de julho de 2024.

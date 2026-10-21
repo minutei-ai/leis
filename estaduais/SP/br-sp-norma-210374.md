@@ -1,5 +1,3 @@
-# Lei nº 18.061, de 18/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210374)<br>
 
 # LEI N° 18.061, DE 18 DE DEZEMBRO DE 2024

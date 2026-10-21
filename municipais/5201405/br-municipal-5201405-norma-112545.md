@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.408, de 2025-05-21
-
 DECRETO Nº 1.408, DE 21 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 32, situado à Rua 23 de Março no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 57 de 07/08/2002
-
 ###MPV-000057-0-000-07-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 57, DE 7 DE AGOSTO DE 2002

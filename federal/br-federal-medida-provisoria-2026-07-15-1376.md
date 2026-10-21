@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.376 de 15/07/2026
-
 MEDIDA PROVISÓRIA Nº 1.376, DE 15 DE JULHO DE 2026
 
 Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos.

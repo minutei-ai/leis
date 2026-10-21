@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.079, de 2020-06-03
-
 LEI N. 7.079, DE 03 DE JUNHO DE 2020
 
 Altera [Lei n. 6.407](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115822 "Abrir Lei Ordinária nº 6407, de 2014 em nova aba")/2014 que define, normatiza e regulamenta os benefícios eventuais no âmbito do Município de Rio Verde.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 461 de 15/04/2009
-
 MEDIDA PROVISÓRIA Nº  461, DE 15 DE ABRIL DE 2009
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 300.000.000,00, para os fins que especifica.

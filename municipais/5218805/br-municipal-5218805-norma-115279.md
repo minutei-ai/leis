@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.406, de 2023-08-28
-
 **LEI N° 7.406, DE 28 DE AGOSTO DE 2023**
 
 Institui a Política Municipal de Empoderamento da Mulher e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.224, de 2025-09-17
-
 DECRETO Nº 2.224, DE 17 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 53, situado à Rua Joaquim Mendonça Sobrinho, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

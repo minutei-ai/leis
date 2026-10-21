@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.671, de 2025-11-19
-
 DECRETO Nº 2.671, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Tereza Sônia Mazzocatto, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

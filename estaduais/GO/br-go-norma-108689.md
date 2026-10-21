@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.623, de 2024-04-17
-
 LEI Nº 22.623, DE 17 DE ABRIL DE 2024
 
 Altera a [Lei nº 20.707](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100911), de 14 de janeiro de 2020, que dispõe sobre a realização do exame de detecção de mutação genética que especifica.

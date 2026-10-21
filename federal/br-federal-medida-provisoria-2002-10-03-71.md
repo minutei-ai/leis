@@ -1,5 +1,3 @@
-# Medida Provisória nº 71 de 03/10/2002
-
 ###MPV-000071-0-000-03-10-2002@@@
 
 MEDIDA PROVISÓRIA Nº 71, DE 3 DE OUTUBRO DE 2002

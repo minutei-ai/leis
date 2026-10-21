@@ -1,5 +1,3 @@
-# Decreto Numerado nº 223, de 2026-03-16
-
 DECRETO Nº 223, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 06, situado à Rua Apinagés, no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

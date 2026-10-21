@@ -1,5 +1,3 @@
-# Decreto nº 69.302, de 09/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210527)<br>
 
 # DECRETO N° 69.302, DE 09 DE JANEIRO DE 2025

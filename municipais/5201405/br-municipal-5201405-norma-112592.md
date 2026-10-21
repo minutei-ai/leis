@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.447, de 2025-05-27
-
 DECRETO Nº 1.447, DE 27 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Terezinha Leal Póvoa, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

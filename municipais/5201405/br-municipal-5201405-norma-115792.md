@@ -1,5 +1,3 @@
-# Decreto Numerado nº 530, de 2024-07-27
-
 DECRETO “N” Nº 530 DE 02 DE JULHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

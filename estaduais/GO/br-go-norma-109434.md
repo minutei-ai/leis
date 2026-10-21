@@ -1,5 +1,3 @@
-# Lei Complementar nº 195, de 2024-09-02
-
 LEI COMPLEMENTAR Nº 195, DE 2 DE SETEMBRO DE 2024
 
 Altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências; a [Lei Complementar nº 103](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101090), de 1º de outubro de 2013, que altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 06 de julho de 1998, cria cargos e funções de confiança no Ministério Público do Estado de Goiás, altera denominação de cargos, concede reajustes e dá outras providências; a [Lei nº 13.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82255), de 05 de novembro de 1997, que dispõe sobre a estrutura organizacional do Ministério Público do Estado de Goiás, cria Cargos de Promotor de Justiça, institui o Plano de Classificação de Cargos e Vencimentos de seus Serviços Auxiliares e dá outras providências; e dá outras providências.

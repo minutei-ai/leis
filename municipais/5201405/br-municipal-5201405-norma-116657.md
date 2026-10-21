@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.453, de 2018-12-20
-
 LEI Nº 3.453, DE 20 DE DEZEMBRO DE 2018
 
 Dispõe sobre a responsabilização da subsidiária BRK AMBIENTAL, pela reparação da malha asfáltica nos casos em que tiver causado dano, durante o processo de realização de obras ou na prestação de serviços de abastecimento de agua e ou esgoto, ou quaisquer outros procedimentos para prestação de saneamento básico no Município de Aparecida de Goiânia e dá outras providências.

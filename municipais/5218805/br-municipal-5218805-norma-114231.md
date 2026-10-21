@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.718, de 2025-09-22
-
 LEI Nº 7.718, DE 22 DE SETEMBRO DE 2025.
 
 Institui o “Dia D da Cidadania” no Município de Rio Verde, com o objetivo de incentivar ações de mobilização social para regularização de documentos pessoais nos bairros, e dá outras providências.

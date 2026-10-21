@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.431, de 2023-10-23
-
 LEI N. 7.431, DE 23 DE OUTUBRO DE 2023
 
 Autoriza a outorga de concessão de Direito Real de Uso de imóvel que menciona.

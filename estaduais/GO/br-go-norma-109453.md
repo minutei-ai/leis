@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.543, de 2024-09-10
-
 DECRETO Nº 10.543, DE 10 DE SETEMBRO DE 2024
 
 Altera o [Decreto nº 9.130](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70056), de 29 de dezembro de 2017, que dispõe sobre o Programa Estadual de Pagamento por Serviços Ambientais – PEPSA e dá outras providências.

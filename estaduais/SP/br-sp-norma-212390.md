@@ -1,5 +1,3 @@
-# Decreto nº 70.482, de 24/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212390)<br>
 
 # DECRETO N° 70.482, DE 24 DE MARÇO DE 2026

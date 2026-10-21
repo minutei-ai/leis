@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.381, de 2025-04-30
-
 LEI Nº 23.381, DE 30 DE ABRIL DE 2025
 
 Declara de utilidade pública a entidade que especifica.

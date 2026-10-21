@@ -1,5 +1,3 @@
-# Medida Provisória nº 294 de 08/05/2006
-
 ###MPV-000294-0-000-08-05-2006@@@
 
 MEDIDA PROVISÓRIA Nº 294, DE 8 DE MAIO DE 2006.

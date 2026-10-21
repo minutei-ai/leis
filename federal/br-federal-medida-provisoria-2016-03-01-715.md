@@ -1,5 +1,3 @@
-# Medida Provisória nº 715 de 01/03/2016
-
 MEDIDA PROVISÓRIA Nº 715, DE 1 DE MARÇO DE 2016
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Agrário, no valor de R$ 316.230.970,00, para o fim que especifica.

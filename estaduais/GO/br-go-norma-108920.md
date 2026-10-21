@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.758, de 2024-06-07
-
 LEI Nº 22.758, DE 7 DE JUNHO DE 2024
 
 Institui a Política Estadual de Conscientização sobre o Puerpério.

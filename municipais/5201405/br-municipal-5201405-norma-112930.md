@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.995, de 2025-08-18
-
 DECRETO Nº 1.995, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua 43-E, no Loteamento Garavelo Residencial Park, no Município de Aparecida de Goiânia.

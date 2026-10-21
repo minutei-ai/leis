@@ -1,5 +1,3 @@
-# LEI Nº 15.152 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.152 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública a Associação dos Moradores do Bairro Iêda Dourado, com sede e foro em Irecê.

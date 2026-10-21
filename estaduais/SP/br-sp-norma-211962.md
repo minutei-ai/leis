@@ -1,5 +1,3 @@
-# Decreto nº 70.184, de 08/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211962)<br>
 
 # DECRETO N° 70.184, DE 08 DE DEZEMBRO DE 2025

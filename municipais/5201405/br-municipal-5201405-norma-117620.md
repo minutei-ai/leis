@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.068, de 2024-12-11
-
 DECRETO “N” Nº 1.068 DE 11 DE DEZEMBRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

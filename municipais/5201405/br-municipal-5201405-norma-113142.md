@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.727, de 2025-12-03
-
 DECRETO Nº 2.727, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 09, 10, 11, 12, 13, 14, 15, Quadra 04/05/06 e Partes das Ruas Rio Negro e Rua Mamoré, Todos da Quadra 03, situados à Avenida Abel Gonçalves de Aguiar, Rua Moçoró, Rua Guará, Rua Pindorama e Rua Mamoré, no Loteamento Internacional Park, no Município de Aparecida de Goiânia.

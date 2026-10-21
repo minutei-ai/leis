@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.512, de 2024-07-30
-
 DECRETO Nº 10.512 DE 30 DE JULHO DE 2024
 
 Concede a Medalha do Mérito Guardião às autoridades que especifica.

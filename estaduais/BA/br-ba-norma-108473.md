@@ -1,5 +1,3 @@
-# LD Nº 09 DE 20 DE MAIO DE 1976
-
 LEI DELEGADA Nº 09 DE 20 DE MAIO DE 1976
 
 Fixa o efetivo da Polícia Militar do Estado e dá outras providências.

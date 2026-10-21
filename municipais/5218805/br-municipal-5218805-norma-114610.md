@@ -1,5 +1,3 @@
-# Lei Complementar nº 50, de 2015-12-14
-
 LEI COMPLEMENTAR Nº50, DE 14 DE DEZEMBRO DE 2015.
 
 Altera Tabelas Anexas às Lei Complementares 5.727/2009 e 3.635/98 e dá outras providências.

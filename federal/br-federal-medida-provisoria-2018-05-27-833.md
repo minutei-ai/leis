@@ -1,5 +1,3 @@
-# Medida Provisória nº 833 de 27/05/2018
-
 MEDIDA PROVISÓRIA Nº 833, DE 27 DE MAIO DE 2018
 
 Altera a [Lei nº 13.103, de 2 de março de 2015](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-02;13103), para prever que, em todo o território nacional, os veículos de transporte de cargas que circularem vazios nas vias terrestres federais, estaduais, distritais e municipais ficarão isentos da cobrança de pedágio sobre os eixos que mantiverem suspensos.

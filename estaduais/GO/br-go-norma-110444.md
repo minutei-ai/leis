@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.254, de 2025-02-28
-
 LEI Nº 23.254, DE 28 DE FEVEREIRO DE 2025
 
 Autoriza a aquisição, por doação onerosa de particular, do imóvel que especifica.

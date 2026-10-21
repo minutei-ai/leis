@@ -1,5 +1,3 @@
-# Decreto Numerado nº 175, de 2026-03-10
-
 DECRETO Nº 175, DE 10 DE MARÇO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 12 e 13, todos da Quadra 86, situados à Rua Viterita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

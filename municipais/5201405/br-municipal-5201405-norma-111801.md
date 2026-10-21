@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.863, de 2025-11-13
-
 LEI Nº 3.863, DE 13 DE NOVEMBRO DE 2025
 
 Dispõe sobre a transparência no fluxo de acesso ao prontuário clínico de pacientes nas maternidades públicas e privadas.

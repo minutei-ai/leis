@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1120, de 2024-12-19
-
 DECRETO “N” Nº 1120 DE 19 DE DEZEMBRO DE 2024
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.302 de 09/06/2025
-
 MEDIDA PROVISÓRIA Nº 1.302, DE 9 DE JUNHO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério dos Direitos Humanos e da Cidadania, no valor de R$ 15.000.000,00, para o fim que especifica.

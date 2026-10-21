@@ -1,5 +1,3 @@
-# Lei Complementar nº 143, de 2018-10-29
-
 <br>
 **[Lei Complementar n 143](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101130)3, DE 29 DE OUTUBRO DE 2018**
 

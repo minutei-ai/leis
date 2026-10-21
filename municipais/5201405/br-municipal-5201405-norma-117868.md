@@ -1,5 +1,3 @@
-# Decreto Numerado nº 149, de 2023-03-09
-
 DECRETO “N” Nº 149, DE 09 DE MARÇO DE 2023.
 
 Regulamenta a Lei Federal nº 14.133, de 1º de abril de 2021, no âmbito dos órgãos e entidades da Administração Pública direta, autárquica e fundacional vinculados ao Poder Executivo do Município de Aparecida de Goiânia.

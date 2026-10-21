@@ -1,5 +1,3 @@
-# Decreto Numerado nº 4, de 2024-01-11
-
 DECRETO “N” Nº 04 DE 11 DE JANEIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

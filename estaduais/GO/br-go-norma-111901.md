@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.841, de 2025-12-20
-
 DECRETO Nº 10.841, DE 20 DE DEZEMBRO DE 2025
 
 Altera o [Decreto nº 10.623](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110376 "Abrir Decreto Numerado nº 10623, de 2025 em nova aba"), de 10 de janeiro de 2025, que regulamenta o Programa Bolsa Estudo.

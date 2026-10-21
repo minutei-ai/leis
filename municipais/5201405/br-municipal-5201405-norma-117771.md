@@ -1,5 +1,3 @@
-# Decreto Numerado nº 49, de 2023-01-24
-
 DECRETO “N” Nº 49 DE 24 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento RESIDENCIAL SOLAR GARDEN II, neste município.

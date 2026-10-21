@@ -1,5 +1,3 @@
-# Decreto nº 70.835, de 01/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212938)<br>
 
 # DECRETO N° 70.835, DE 01 DE SETEMBRO DE 2026

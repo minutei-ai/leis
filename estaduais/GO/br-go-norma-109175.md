@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.500, de 2024-07-08
-
 DECRETO Nº 10.500, DE 8 DE JULHO DE 2024
 
 Regulamenta as atividades econômicas classificadas como de baixo risco para as quais fica dispensada a obtenção prévia dos atos públicos de liberação de funcionamento, conforme a Lei federal nº 13.874, de 20 de setembro de 2019, e a [Lei estadual nº 22.612](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108673), de 11 de abril de 2024.

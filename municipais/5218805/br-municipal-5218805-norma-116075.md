@@ -1,5 +1,3 @@
-# Lei Complementar nº 337, de 2024-02-26
-
 LEI COMPLEMENTAR Nº 337, DE 26 DE FEVEREIRO DE 2024.
 
 Altera a Lei Complementar nº. 6.111, de 19 de março de 2012.

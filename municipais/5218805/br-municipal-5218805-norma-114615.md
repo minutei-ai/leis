@@ -1,5 +1,3 @@
-# Lei Complementar nº 204, de 2021-06-16
-
 LEI COMPLEMENTAR Nº 204, DE 16 DE JUNHO DE 2021.
 
 Altera o art. 7º da Lei. 3.635/98, do Código de Posturas do Município de Rio Verde-GO.

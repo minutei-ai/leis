@@ -1,5 +1,3 @@
-# Decreto Numerado nº 151, de 2026-02-12
-
 DECRETO Nº 151, DE 12 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua 5, no Loteamento Bairro Independência, no Município de Aparecida de Goiânia.

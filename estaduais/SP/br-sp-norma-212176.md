@@ -1,5 +1,3 @@
-# Decreto nº 70.346, de 27/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212176)<br>
 
 # DECRETO N° 70.346, DE 27 DE JANEIRO DE 2026

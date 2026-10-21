@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.423, de 2024-03-13
-
 DECRETO Nº 10.423, DE 13 DE MARÇO DE 2024
 
 Declara de utilidade pública, para fins de desapropriação, a área de terras que especifica.

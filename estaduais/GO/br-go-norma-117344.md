@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.534, de 2026-09-10
-
 LEI Nº 24.534, DE 10 DE SETEMBRO DE 2026
 
 Altera a [Lei nº 21.268](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105266), de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás.

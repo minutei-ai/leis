@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.035, de 2025-08-25
-
 DECRETO Nº 2.035, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Paraná, no Loteamento Jardim Cristalino, no Município de Aparecida de Goiânia.

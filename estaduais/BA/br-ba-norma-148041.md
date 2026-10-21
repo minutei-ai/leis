@@ -1,5 +1,3 @@
-# LEI Nº 15.043 DE 12 DE DEZEMBRO DE 2025
-
 LEI Nº 15.043 DE 12 DE DEZEMBRO DE 2025
 
 Altera a Lei nº [14.572](https://www.legislabahia.ba.gov.br/documentos/lei-no-14572-de-25-de-maio-de-2023), de 25 de maio de 2023, na forma que indica, e dá outras providências.

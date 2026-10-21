@@ -1,5 +1,3 @@
-# Decreto Numerado nº 564, de 2023-08-28
-
 DECRETO “N” Nº 564 DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

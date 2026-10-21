@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.238, de 2025-04-15
-
 DECRETO Nº 1.238, DE 15 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua C-8 no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

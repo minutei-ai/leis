@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3224, de 2014-10-09
-
 LEI MUNICIPAL 3.224, DE 09 DE OUTUBRO DE 2014.
 
 Dá nome à Unidade de Pronto Atendimento – UPA do Parque Flamboyant, neste Município.

@@ -1,5 +1,3 @@
-# Decreto nº 69.099, de 29/11/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210278)<br>
 
 # DECRETO N° 69.099, DE 29 DE NOVEMBRO DE 2024

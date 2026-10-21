@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.700, de 2023-03-14
-
 **LEI  MUNICIPAL Nº 3.700, DE 14 DE MARÇO DE 2023**
 
 Institui políticas públicas para garantia, proteção e ampliação dos direitos das pessoas com transtorno do espectro autista (TEA) e seus familiares no âmbito do município de aparecida de Goiânia e dá outras providências.

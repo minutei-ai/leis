@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.512, de 2024-06-05
-
 LEI Nº 7.512, DE 05 DE JUNHO DE 2024.
 
 Altera a Lei nº 7.425, de 02 de outubro de 2023, que dispõe sobre a prestação de Serviço de Transporte Remunerado Privado Individual de Passageiros intermediado por Plataformas Digitais ou Aplicativos.

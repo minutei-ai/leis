@@ -1,5 +1,3 @@
-# LD Nº 58 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 58 DE 01 DE JUNHO DE 1983
 
 Altera a redação do [inciso V, do artigo 8º, da Lei Delegada nº 25 de 10 de fevereiro de 1983](https://www.legislabahia.ba.gov.br/documentos/ld-no-25-de-10-de-fevereiro-de-1983#LD_25_Art__8_V) e dá outras providências.

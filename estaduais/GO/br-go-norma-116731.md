@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 306, de 2026-07-01
-
 Portaria Orçamentária nº 306/2026 - Economia
 
 **A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.

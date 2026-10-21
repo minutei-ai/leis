@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.047 de 03/05/2021
-
 MEDIDA PROVISÓRIA Nº 1.047, DE 3 DE MAIO DE 2021
 
 Dispõe sobre as medidas excepcionais para a aquisição de bens e a contratação de serviços, inclusive de engenharia, e insumos destinados ao enfrentamento da pandemia da covid-19.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.165, de 2014-03-13
-
 LEI MUNICIPAL Nº 3.165, DE 13 DE MARÇO DE 2014.
 
 Aprova o Loteamento Logístico ALL PARK PÓLO EMPRESARIAL, neste Município e dá outras providências.

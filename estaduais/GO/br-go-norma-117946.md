@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 395, de 2026-08-07
-
 PortariaOrçamentária nº 395/2026 - Economia
 
 O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de janeiro de 2026.

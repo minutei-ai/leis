@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.500, de 2026-08-27
-
 LEI Nº 24.500, DE 27 DE AGOSTO DE 2026
 
 Autoriza a instituição do Programa Estadual “Futebol Série A” e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.742, de 2025-07-29
-
 DECRETO Nº 10.742 DE 29 DE JULHO DE 2025
 
 Institui o Cartão de Pagamento do Governo de Goiás – CPGG, na administração direta, autárquica e fundacional do Poder Executivo estadual, e revoga o [Decreto nº 9.050](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69796), de 18 de setembro de 2017.

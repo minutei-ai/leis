@@ -1,5 +1,3 @@
-# LEI N° 14.861 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.861 DE 12 DE FEVEREIRO DE 2025
 
 Institui a Política Estadual de Estímulo, Incentivo e Promoção ao Desenvolvimento Local de _Startups_, e dá outras providências.

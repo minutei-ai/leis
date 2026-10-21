@@ -1,5 +1,3 @@
-# Decreto Numerado nº 513, de 2026-06-25
-
 DECRETO Nº 513, DE 25 DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua da Alegria, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

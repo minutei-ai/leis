@@ -1,5 +1,3 @@
-# LEI Nº 15.153 DE 22 DE MAIO DE 2026
-
 LEI Nº 15.153 DE 22 DE MAIO DE 2026
 
 Declara de utilidade pública o Instituto Social Sacramento Pereira (ISSP), com sede e foro em Salvador.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 104 de 09/01/2003
-
 ###MPV-000104-0-000-09-01-2003@@@
 
 MEDIDA PROVISÓRIA Nº 104, DE 9 DE JANEIRO 2003.

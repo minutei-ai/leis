@@ -1,5 +1,3 @@
-# LEI Nº 14.921 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.921 DE 27 DE MAIO DE 2025
 
 Declara de utilidade pública a Associação Família Azul – A Família do Autista de Conceição do Coité, com sede e foro no município de Conceição de Coité.

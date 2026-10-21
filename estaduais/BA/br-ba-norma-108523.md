@@ -1,5 +1,3 @@
-# LD Nº 78 DE 03 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 78 DE 03 DE JUNHO DE 1983
 
 Reorganiza a Secretaria da Segurança Pública, institui o Sistema Estadual de Segurança Pública e dá outras providências.

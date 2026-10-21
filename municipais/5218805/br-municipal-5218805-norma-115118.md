@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.501, de 2024-04-01
-
 LEI Nº 7.501, DE 1º DE ABRIL DE 2024.
 
 Denomina a praça situada na Vila Menezes e dá outras providências.

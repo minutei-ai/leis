@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.023, de 2024-10-02
-
 LEI Nº 23.023, DE 2 DE OUTUBRO DE 2024
 
 Institui o Dia Estadual de Acolhimento do Paciente Oncológico.

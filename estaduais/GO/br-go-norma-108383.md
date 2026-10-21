@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.527, de 2024-01-05
-
 LEI Nº 22.527, DE 5 DE JANEIRO DE 2024
 
 Dispõe sobre o Plano de Carreira e Remuneração do cargo de Pesquisador do Instituto Mauro Borges de Estatísticas e Estudos Socioeconômicos – IMB.

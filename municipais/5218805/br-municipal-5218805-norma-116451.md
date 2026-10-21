@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.267, de 2022-05-27
-
 LEI N° 7.267, DE 27 DE MAIO DE 2022
 
 Autoriza o Poder Executivo a desafetar e doar imóveis para construção de unidades habitacionais a pessoas que se enquadrem nos critérios e requisitos das Políticas Habitacionais.

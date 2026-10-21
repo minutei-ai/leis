@@ -1,5 +1,3 @@
-# Lei Complementar nº 105, de 2017-12-13
-
 LEI COMPLEMENTAR Nº 105, DE 13 DE DEZEMBRO DE 2017.
 
 Altera a Lei n. 3.633/1998.

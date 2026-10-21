@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.544, de 2020-03-23
-
 LEI MUNICIPAL Nº 3.544, DE 23 DE MARÇO DE 2020
 
 “Dispõe sobre a denominação da praça VALDOMIRO EVANGELISTA DANTAS no Parque Veiga Jardim, neste Município e da outras providencias”

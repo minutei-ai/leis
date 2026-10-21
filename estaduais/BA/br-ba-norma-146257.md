@@ -1,5 +1,3 @@
-# LEI Nº 14.873 DE 12 DE FEVEREIRO DE 2025
-
 LEI Nº 14.873 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre o Programa Estadual de Incentivo, Proteção e Fomento ao Ofício das Baianas de Acarajé, no âmbito do Estado da Bahia.

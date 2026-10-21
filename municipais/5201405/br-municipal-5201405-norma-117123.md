@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.241, de 2014-12-22
-
 LEI MUNICIPAL Nº 3.241, DE 22 de fevereiro de 2014.
 
 Dispõe sobre a garantia da prioridade de vagas nas Escolas Municipais de Ensino Fundamental, Cmeis Públicos e Conveniados do Município de Aparecida de Goiânia – GO, para filhos de mulheres vítimas de violência doméstica e familiar.

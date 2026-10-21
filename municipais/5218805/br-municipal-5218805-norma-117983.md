@@ -1,5 +1,3 @@
-# Lei Complementar nº 302, de 2023-05-29
-
 **LEI COMPLEMENTAR Nº 302, DE 29 DE MAIO DE 2023**
 
 Altera a [Lei Complementar nº 6.074](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117894)/2011, que traça o Perímetro Urbano do Município de Rio Verde-GO.

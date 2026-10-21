@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.649, de 2024-04-30
-
 LEI Nº 22.649, DE 30 DE ABRIL DE 2024<br>
 \- [Vide Decreto nº 10.588, de 6-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110089) (Implanta o adicional no Bônus por Resultado de que trata o art. 7º da Lei nº 22.649, de 30 de abril de 2024).
 

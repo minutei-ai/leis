@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.433, de 2024-04-08
-
 DECRETO Nº 10.433, DE 8 DE ABRIL DE 2024
 
 Institui a Política Estadual de Governança das Empresas Estatais do Estado de Goiás.

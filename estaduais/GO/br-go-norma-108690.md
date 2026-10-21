@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 82, de 2024-04-16
-
 EMENDA CONSTITUCIONAL Nº 82, DE 16 DE ABRIL DE 2024
 
 Altera o art. 11 da Constituição Estadual e dá outras providências.

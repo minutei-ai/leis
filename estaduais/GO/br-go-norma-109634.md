@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.564, de 2024-10-03
-
 DECRETO Nº 10.564, DE 3 DE OUTUBRO DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica.

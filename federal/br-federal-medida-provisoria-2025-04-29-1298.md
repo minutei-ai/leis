@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.298 de 29/04/2025
-
 MEDIDA PROVISÓRIA Nº 1.298, DE 29 DE ABRIL DE 2025
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 14.002.342,00, para o fim que especifica.

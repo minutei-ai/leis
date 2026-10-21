@@ -1,5 +1,3 @@
-# Decreto nº 70.675, de 09/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212721)<br>
 
 # DECRETO N° 70.675, DE 09 DE JUNHO DE 2026

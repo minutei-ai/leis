@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.389, de 2025-05-06
-
 LEI Nº 23.389, DE 6 DE MAIO DE 2025<br>
 \- Vide Decreto nº 10.789, de 1º-10-2025 - Regulamenta no Poder Executivo do Estado de Goiás a [Lei nº 23.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110645), de 6 de maio de 2025.
 

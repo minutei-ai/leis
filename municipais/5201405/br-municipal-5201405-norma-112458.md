@@ -1,5 +1,3 @@
-# Decreto Numerado nº 87, de 2026-01-26
-
 DECRETO Nº 087, DE 26 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Zenith Sisterdi Bezerra, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

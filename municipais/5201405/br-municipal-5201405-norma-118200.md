@@ -1,5 +1,3 @@
-# Decreto Numerado nº 420, de 2023-06-27
-
 DECRETO “N” Nº 420 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento RESIDENCIAL VILLAGE GARAVELO, neste município.

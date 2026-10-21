@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.888, de 2026-01-06
-
 LEI Nº 3.888, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre a garantia de atendimento humanizado às parturientes de natimorto e às diagnosticadas com óbito fetal no âmbito do Município de Aparecida de Goiânia e dá outras providências.

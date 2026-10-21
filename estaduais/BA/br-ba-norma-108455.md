@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 21 DE 12 DE JANEIRO DE 2004
-
 LEI COMPLEMENTAR Nº 21 DE 12 DE JANEIRO DE 2004
 
 Altera dispositivos da [Lei Complementar 11/96](https://www.legislabahia.ba.gov.br/documentos/lc-no-011-de-18-de-janeiro-de-1996#LEI_11) e dá outras providências.

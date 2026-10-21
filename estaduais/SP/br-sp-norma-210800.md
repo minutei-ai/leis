@@ -1,5 +1,3 @@
-# Lei nº 18.146, de 26/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210800)<br>
 
 # LEI N° 18.146, DE 26 DE MARÇO DE 2025

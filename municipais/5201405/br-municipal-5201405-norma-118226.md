@@ -1,5 +1,3 @@
-# Decreto Numerado nº 443, de 2023-07-06
-
 DECRETO “N” Nº 443, DE 06 DE JULHO DE 2023.
 
 Altera Decreto “N” n° 152 de 13 de março de 2023, que nomeia membros para compor o Conselho de Administração e Fiscal, da Companhia de Desenvolvimento de Aparecida de Goiânia – CODAP.

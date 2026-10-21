@@ -1,5 +1,3 @@
-# Lei Complementar nº 442, de 2026-02-19
-
 LEI COMPLEMENTAR Nº 442, DE 19 DE FEVEREIRO DE 2026.
 
 Dispõe sobre a obrigação de fiscalização da execução das obras de infraestrutura em novos loteamentos por parte das prestadoras de serviços públicos de abastecimento de água e de esgotamento sanitário no âmbito do Município de Rio Verde, e altera a [Lei Complementar nº 3.633](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114617 "Abrir Lei Complementar nº 3633, de 1998 em nova aba"), de 4 de março de 1998.

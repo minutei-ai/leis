@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.427, de 08/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211153)<br>
 
 # LEI COMPLEMENTAR N° 1.427, DE 08 DE JULHO DE 2025

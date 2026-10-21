@@ -1,5 +1,3 @@
-# Medida Provisória nº 937 de 02/04/2020
-
 MEDIDA PROVISÓRIA Nº 937, DE 2 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 98.200.000.000,00, para os fins que especifica.

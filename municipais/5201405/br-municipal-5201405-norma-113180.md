@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.603, de 2025-11-10
-
 DECRETO Nº 2.603, DE 10 DE NOVEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 14, 15 e 16, todos da Quadra U, situados à Alameda D esquina com Alameda C, no Loteamento Setor Araguaia - Acréscimo, no Município de Aparecida de Goiânia.

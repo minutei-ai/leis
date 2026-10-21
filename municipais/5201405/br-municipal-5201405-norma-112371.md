@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.020, de 2025-03-12
-
 DECRETO Nº 1.020, DE 12 DE MARÇO DE 2025
 
 Dispõe sobre a aprovação do loteamento denominado Porto Jatobá, no âmbito do Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto nº 70.163, de 04/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211941)<br>
 
 # DECRETO N° 70.163, DE 04 DE DEZEMBRO DE 2025

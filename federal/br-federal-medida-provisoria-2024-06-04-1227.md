@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.227 de 04/06/2024
-
 MEDIDA PROVISÓRIA Nº 1.227, DE 4 DE JUNHO DE 2024
 
 Prevê condições para fruição de benefícios fiscais, delega competência para julgamento de processo administrativo fiscal relativo ao Imposto sobre a Propriedade Territorial Rural - ITR, limita a compensação de créditos relativos a tributos administrados pela Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda e revoga hipóteses de ressarcimento e de compensação de créditos presumidos da Contribuição para o PIS/Pasep e da Cofins.

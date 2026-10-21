@@ -1,5 +1,3 @@
-# Decreto Numerado nº 329, de 2026-05-04
-
 DECRETO Nº 329, DE 4 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 16, 18, 19 e 21, todos da Quadra 54, situados à Rua Xavantes, Rua Aymorés e Rua Javaés, no Loteamento Jardim Eldorado Continuação - 2ª Etapa, no Município de Aparecida de Goiânia.

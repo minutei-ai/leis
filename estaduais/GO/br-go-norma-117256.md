@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.509, de 2026-09-09
-
 LEI Nº 24.509, DE 9 DE SETEMBRO DE 2026
 
 Concede o título de cidadania que especifica.

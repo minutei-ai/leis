@@ -1,5 +1,3 @@
-# Medida Provisória nº 967 de 19/05/2020
-
 MEDIDA PROVISÓRIA Nº 967, DE 19 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 5.566.379.351,00, para os fins que especifica e dá outras providências.

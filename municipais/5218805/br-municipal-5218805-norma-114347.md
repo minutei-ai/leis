@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.687, de 2025-08-21
-
 LEI Nº 7.687, DE 21 DE AGOSTO DE 2025.
 
 Dispõe sobre a criação do Fundo Municipal de Turismo de Rio Verde - FUMTUR, define suas finalidades, fontes de recursos, formas de aplicação e dá outras providências.

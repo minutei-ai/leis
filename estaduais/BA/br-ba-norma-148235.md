@@ -1,5 +1,3 @@
-# LEI Nº 15.114 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.114 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a criação, manejo e exposição de aves da Raça Mura – Galo de Combate, com vistas a atender os princípios de garantia do bem-estar animal e da preservação da espécie, no âmbito do Estado da Bahia.

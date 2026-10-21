@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.353, de 2023-04-28
-
 LEI N° 7.353, DE 28 DE ABRIL DE 2023.
 
 Autoriza desafetação de áreas de propriedades do Município de Rio Verde objetivando a dação em pagamento em processo de desapropriação.

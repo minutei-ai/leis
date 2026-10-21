@@ -1,5 +1,3 @@
-# Medida Provisória nº 171 de 04/03/2004
-
 ###MPV-000171-0-000-04-03-2004-PUB-01@@@
 
 MEDIDA PROVISÓRIA Nº 171, DE 4 DE MARÇO 2004.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.157, de 2026-03-18
-
 LEI Nº 24.157, DE 18 DE MARÇO DE 2026
 
 Institui a Política Estadual de Restauração Ecológica e dá outras providências.

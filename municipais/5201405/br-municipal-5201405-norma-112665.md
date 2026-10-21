@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.582, de 2025-06-13
-
 DECRETO Nº 1.582, DE 13 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Avenida Neuza de Jesus Macedo, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 119, de 2023-02-14
-
 DECRETO “N” Nº 119 DE 14 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM DAS CASCATAS, neste município.

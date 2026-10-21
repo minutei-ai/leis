@@ -1,5 +1,3 @@
-# LEI Nº 14.957 DE 14 DE JULHO DE 2025
-
 LEI Nº 14.957 DE 14 DE JULHO DE 2025
 
 Dispõe sobre a criação da Central de Cálculos Judiciais Fazendários no Tribunal de Justiça do Estado da Bahia.

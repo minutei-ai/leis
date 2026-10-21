@@ -1,5 +1,3 @@
-# Lei Complementar nº 182, de 2020-12-23
-
 LEI COMPLEMENTAR N° 182, DE 23 DE DEZEMBRO DE 2020
 
 “Altera a [Lei Complementar nº 046](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111755 "Abrir Lei Complementar nº 046, de 2011 em nova aba"), de 21 de dezembro de 2011, que institui o Código Tributário Municipal (CTM), aprova a Planta de Valores Genéricos dos Terrenos Urbanos e a Tabela dos Preços das Construções, para o exercício fiscal de 2021, institui redução de alíquota para o Imposto sobre a Transmissão de Bens Imóveis (ITBI) por período determinado e dá outras providências”.

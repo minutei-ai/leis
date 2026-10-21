@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.798, de 2025-11-06
-
 LEI Nº 23.798, DE 6 DE NOVEMBRO DE 2025
 
 Altera a [Lei nº 21.198](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104684 "Abrir Lei Ordinária nº 21198, de 2021 em nova aba"), de 10 de dezembro de 2021, que convalida e revigora fundos rotativos no âmbito da Universidade Estadual de Goiás – UEG, e abre crédito especial a essa instituição.

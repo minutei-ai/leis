@@ -1,5 +1,3 @@
-# LEI Nº 15.027 DE 26 DE NOVEMBRO DE 2025
-
 LEI Nº 15.027 DE 26 DE NOVEMBRO DE 2025
 
 Eleva a Comarca de Nova Soure de entrância inicial para entrância intermediária, na forma que indica, e dá outras providências.

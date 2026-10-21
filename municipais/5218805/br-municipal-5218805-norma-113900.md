@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.815, de 2026-02-19
-
 LEI Nº 7.815, DE 19 DE FEVEREIRO DE 2026.
 
 Inclui no Calendário Oficial de Datas Comemorativas do Município de Rio Verde-GO, o Dia Municipal dos Legendários, a ser celebrado no dia 05 de Junho, e dá outras providências.

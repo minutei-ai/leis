@@ -1,5 +1,3 @@
-# Decreto Numerado nº 474, de 2023-07-19
-
 DECRETO "N" N° 474, DE 19 DE JULHO DE 2023.<br>
 (Revogado pelo Decreto "N" Nº 656, de 16 de outubro de 2023).
 

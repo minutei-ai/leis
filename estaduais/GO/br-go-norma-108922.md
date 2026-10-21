@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.759, de 2024-06-07
-
 LEI Nº 22.759, DE 7 DE JUNHO DE 2024
 
 Institui o Dia Estadual da Agricultura Irrigada.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.876, de 2010-12-15
-
 LEI COMPLEMENTAR Nº  5.876, DE 15 DE DEZEMBRO DE 2010.
 
 Altera Lei 5.727/2010.

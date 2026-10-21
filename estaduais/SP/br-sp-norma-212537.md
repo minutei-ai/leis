@@ -1,5 +1,3 @@
-# Decreto nº 70.572, de 05/05/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212537)<br>
 
 # DECRETO N° 70.572, DE 05 DE MAIO DE 2026

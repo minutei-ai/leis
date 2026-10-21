@@ -1,5 +1,3 @@
-# LEI Nº 15.122 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.122 DE 28 DE JANEIRO DE 2026
 
 Declara o município de João Dourado, localizado no Estado da Bahia, como "Capital Estadual da Cebola” e dá outras providências.

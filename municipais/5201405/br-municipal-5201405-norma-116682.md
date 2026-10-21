@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.369, de 2017-08-14
-
 LEI MUNICIPAL 3.369, DE 14 DE AGOSTO DE 2017
 
 “Dá nome à Unidade Básica de Saúde - UBS FRANCISCO ESTEVAM DA COSTA, situada no Setor Rosa dos Ventos, neste Município.”

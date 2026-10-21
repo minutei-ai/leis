@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.723, de 2023-06-23
-
 LEI MUNICIPAL Nº 3.723 DE 23 DE JUNHO DE 2023.
 
 Dispõe sobre a declaração dos Pit-dogs como Patrimônio Cultural Imaterial a gastronomia e a cultura do Município de Aparecida de Goiânia, dá outras providências.

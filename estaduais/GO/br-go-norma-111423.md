@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.733, de 2025-10-14
-
 LEI Nº 23.733, DE 14 DE OUTUBRO DE 2025
 
 Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a [Lei nº 13.453](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81297 "Abrir Lei Ordinária nº 13453, de 1999 em nova aba"), de 16 de abril de 1999.

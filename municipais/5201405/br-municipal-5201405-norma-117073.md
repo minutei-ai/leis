@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.184, de 2014-06-11
-
 LEI MUNICIPAL Nº 3.184, DE 11 DE JUNHO DE 2014.
 
 Cria o Conselho Municipal de Habitação de Interesse Social Aparecida de Goiânia e dá outras providências.

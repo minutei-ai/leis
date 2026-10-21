@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.249, de 2022-04-01
-
 LEI N. 7.249, DE 1º DE ABRIL DE 2022
 
 Altera a [Lei n°. 5.558/2009](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003), que instituiu o Programa Bolsa de Produção Cultural

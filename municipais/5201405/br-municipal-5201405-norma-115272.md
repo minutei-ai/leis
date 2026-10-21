@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.649, de 2022-01-17
-
 LEI MUNICIPAL Nº 3.649, DE 17 DE JANEIRO DE 2022.
 
 Altera a Lei Municipal nº 3.518, de 01 de novembro de 2019 que autoriza o Poder Executivo a contratar operação de crédito com à Caixa Econômica Federal, com a garantia da União e dá outras providências.

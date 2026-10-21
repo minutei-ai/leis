@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1128, de 2024-12-26
-
 DECRETO “N” Nº 1128, DE 26 DE DEZEMBRO DE 2024.
 
 Atualiza a Planta de Valores Genéricos dos Terrenos Urbanos e a Tabela dos Preços das Construções, para o exercício fiscal de 2025, e dá outras providências.

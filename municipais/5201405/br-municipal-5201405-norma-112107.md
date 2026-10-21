@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.543, de 2005-12-08
-
 LEI MUNICIPAL Nº 2.543, DE 08 DE DEZEMBRO DE 2005.
 
 Altera dispositivos da Lei Municipal n.º 1.966, de 17/09/1999, que dispõe sobre a Gratificação de Produtividade dos servidores ocupantes do cargo de Fiscalização de Posturas, Obras e Vigilância Sanitária e dá outras providências.

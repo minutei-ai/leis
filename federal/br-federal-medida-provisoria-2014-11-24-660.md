@@ -1,5 +1,3 @@
-# Medida Provisória nº 660 de 24/11/2014
-
 MEDIDA PROVISÓRIA Nº 660, DE 24 DE NOVEMBRO DE 2014
 
 Altera a Lei nº 12.800, de 23 de abril de 2013, que dispõe sobre as tabelas de salários, vencimentos, soldos e demais vantagens aplicáveis aos servidores civis, aos militares e aos empregados oriundos do ex- Território Federal de Rondônia integrantes do quadro em extinção de que trata o art. 85 da Lei nº 12.249, de 11 de junho de 2010, e dá outras providências.

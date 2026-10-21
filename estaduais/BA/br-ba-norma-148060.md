@@ -1,5 +1,3 @@
-# LEI Nº 15.058 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.058 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação Lar da Misericórdia de Vitória da Conquista, com sede e foro no município de Vitória da Conquista.

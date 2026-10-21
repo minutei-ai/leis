@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.417, de 2024-03-01
-
 DECRETO Nº 10.417, DE 1º DE MARÇO DE 2024
 
 Institui o Programa de Eficiência Energética da administração direta e indireta do Estado de Goiás e dá outras providências.

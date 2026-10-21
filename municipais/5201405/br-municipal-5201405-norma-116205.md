@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.559, de 2020-06-23
-
 LEI MUNICIPAL Nº 3.559, DE 23 DE JUNHO DE 2020.
 
 “Altera a Lei n° 2.974/2011 que institui o Fundo Especial de Reaparelhamento da Câmara Municipal de Aparecida de Goiânia – FERCAG e dá outras providências”

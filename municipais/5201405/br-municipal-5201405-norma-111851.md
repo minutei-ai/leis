@@ -1,5 +1,3 @@
-# Lei Complementar nº 238, de 2025-05-13
-
 LEI COMPLEMENTAR N° 238, DE 13 DE MAIO DE 2025
 
 Concede remissão da Taxa Anual de Licença para o Exercício de Comércio ou Atividade Eventual, Feirante, Feirante Especial ou Ambulante e da Taxa de Licença para Ocupação de Áreas em Vias e Logradouros Públicos para os feirantes, relativamente aos fatos geradores dos exercícios de 2022, 2023 e 2024, e dá outras providências.

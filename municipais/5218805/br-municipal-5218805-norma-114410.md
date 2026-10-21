@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.650, de 2025-06-02
-
 LEI Nº 7.650, DE 2 DE JUNHO DE 2025.
 
 Reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos e de empregos públicos nos Poderes Executivo e Legislativo do Município de Rio Verde - Goiás.

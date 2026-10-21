@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.680, de 2025-09-17
-
 LEI Nº 23.680, DE 17 DE SETEMBRO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

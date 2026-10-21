@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.600, de 2024-12-11
-
 DECRETO Nº 10.600, DE 11 DE DEZEMBRO DE 2024
 
 Declara de utilidade pública, para efeito de desapropriação e instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.514, de 2025-06-10
-
 DECRETO Nº 1.514, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua Mônaco, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

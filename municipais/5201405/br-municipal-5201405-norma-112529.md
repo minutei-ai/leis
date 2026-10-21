@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.362, de 2025-05-09
-
 DECRETO Nº 1.362, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Cambuci no Loteamento Parque Hayala, no Município de Aparecida de Goiânia.

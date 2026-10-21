@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.115, de 2024-11-26
-
 LEI Nº 23.115, DE 26 DE NOVEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

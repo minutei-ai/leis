@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 156, de 2025-08-11
-
 Portaria Orçamentária nº 156/2025 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 12 da Lei nº 23.246, de 25 de Janeiro de 2025. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.

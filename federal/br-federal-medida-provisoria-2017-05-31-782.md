@@ -1,5 +1,3 @@
-# Medida Provisória nº 782 de 31/05/2017
-
 MEDIDA PROVISÓRIA Nº 782, DE 31 DE MAIO DE 2017
 
 Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios.

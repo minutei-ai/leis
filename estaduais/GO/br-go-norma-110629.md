@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.374, de 2025-04-28
-
 LEI Nº 23.374, DE 28 DE Abril DE 2025
 
 Concede o título de cidadania que especifica.

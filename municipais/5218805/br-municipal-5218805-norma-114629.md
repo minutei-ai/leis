@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.704, de 2025-09-22
-
 LEI Nº 7.704, DE 22 DE SETEMBRO DE 2025.
 
 Altera o caput do art. 13 da [Lei nº 7.143](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114650 "Abrir Lei Ordinária nº 7143, de 2021 em nova aba"), de 31 de maio de 2021, que dispõe sobre a Regularização Fundiária de Núcleos Urbanos no Município de Rio Verde.

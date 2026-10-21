@@ -1,5 +1,3 @@
-# Decreto Numerado nº 150, de 2026-02-12
-
 DECRETO Nº 150, DE 12 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Calcedônia, no Loteamento Parque Trindade III, no Município de Aparecida de Goiânia.

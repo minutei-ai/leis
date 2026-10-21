@@ -1,5 +1,3 @@
-# LEI Nº 15.001 DE 20 DE OUTUBRO DE 2025
-
 LEI Nº 15.001 DE 20 DE OUTUBRO DE 2025
 
 Declara de utilidade pública o Grupo Musical Dois de Janeiro, com sede e foro no município de Canavieiras.

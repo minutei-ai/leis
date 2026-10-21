@@ -1,5 +1,3 @@
-# Decreto Numerado nº 99, de 2023-02-08
-
 DECRETO “N” Nº 99 DE 08 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel do Loteamento PARQUE FLORESTA, neste município.

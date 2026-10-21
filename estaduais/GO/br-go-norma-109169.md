@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.490, de 2024-07-04
-
 DECRETO Nº 10.490, DE 4 DE JULHO DE 2024.
 
 Declara de utilidade pública, para efeito de instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

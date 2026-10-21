@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.303 de 11/06/2025
-
 MEDIDA PROVISÓRIA Nº 1.303, DE 11 DE JUNHO DE 2025
 
 Dispõe sobre a tributação de aplicações financeiras e ativos virtuais no País e dá outras providências.

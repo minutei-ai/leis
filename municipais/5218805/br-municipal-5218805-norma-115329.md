@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.393, de 2023-08-28
-
 LEI N° 7.393, DE 28 DE AGOSTO DE 2023.
 
 Denomina nome de escola que especifica e dá outras providências.

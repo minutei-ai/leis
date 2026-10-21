@@ -1,5 +1,3 @@
-# Lei Complementar nº 204, de 2025-03-31
-
 LEI COMPLEMENTAR Nº 204, DE 31 DE MARÇO DE 2025
 
 Altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.

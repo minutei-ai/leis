@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.457, de 2025-06-06
-
 LEI Nº 23.457, DE 6 DE JUNHO DE 2025
 
 Autoriza o Poder Executivo a contratar operação de crédito externo com o Banco Interamericano de Desenvolvimento – BID, com a garantia da União.<br>

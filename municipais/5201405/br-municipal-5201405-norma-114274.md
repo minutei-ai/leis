@@ -1,5 +1,3 @@
-# Decreto Numerado nº 336, de 2026-05-06
-
 DECRETO Nº 336, DE 6 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 19 e 20, todos da Quadra 21, situados à Avenida Rio Branco, no Loteamento Jardim Veneza, no Município de Aparecida de Goiânia.

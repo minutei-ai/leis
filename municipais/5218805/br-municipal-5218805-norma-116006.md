@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.950, de 2011-05-14
-
 **LEI N. 5.950, DE 14 DE MAIO DE 2011**
 
 <br>

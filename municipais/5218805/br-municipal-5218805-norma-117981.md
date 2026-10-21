@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.855, de 2010-11-10
-
 LEI COMPLEMENTAR Nº 5.855, DE 10 DE NOVEMBRO DE 2010.
 
 Altera Lei 5.727/2010.

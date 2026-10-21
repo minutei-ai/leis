@@ -1,5 +1,3 @@
-# Decreto Numerado nº 264, de 2023-04-19
-
 DECRETO “N” Nº 264 DE 19 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VALE DO SOL - GLEBA 2, neste município.

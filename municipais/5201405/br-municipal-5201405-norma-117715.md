@@ -1,5 +1,3 @@
-# Decreto Numerado nº 222, de 2023-04-05
-
 DECRETO “N” Nº 222, DE 05 DE ABRIL DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Parque Montreal neste município como de Interesse Social.

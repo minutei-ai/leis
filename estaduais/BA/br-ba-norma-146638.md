@@ -1,5 +1,3 @@
-# LEI Nº 14.901 DE 19 DE MAIO DE 2025
-
 LEI Nº 14.901 DE 19 DE MAIO DE 2025
 
 Institui o Programa de Promoção, Popularização e Difusão da Ciência, Tecnologia e Inovação - Programa PopCiência Bahia, na forma que indica, e dá outras providências.

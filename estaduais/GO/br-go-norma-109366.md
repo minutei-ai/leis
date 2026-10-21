@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.917, de 2024-08-08
-
 LEI Nº 22.917, DE 8 DE AGOSTO DE 2024
 
 Altera a [Lei nº 21.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104344), de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.

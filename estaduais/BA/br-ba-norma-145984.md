@@ -1,5 +1,3 @@
-# LEI Nº 14.807 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.807 DE 26 DE DEZEMBRO DE 2024
 
 Altera a Lei nº [13.222](https://www.legislabahia.ba.gov.br/documentos/lei-no-13222-de-12-de-janeiro-de-2015), de 12 de janeiro de 2015, na forma que indica, e dá outras providências.

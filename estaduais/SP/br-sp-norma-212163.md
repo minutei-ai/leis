@@ -1,5 +1,3 @@
-# Decreto nº 70.338, de 12/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212163)<br>
 
 # DECRETO N° 70.338, DE 12 DE JANEIRO DE 2026

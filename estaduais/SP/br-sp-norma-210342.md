@@ -1,5 +1,3 @@
-# Decreto nº 69.146, de 12/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210342)<br>
 
 # DECRETO N° 69.146, DE 12 DE DEZEMBRO DE 2024

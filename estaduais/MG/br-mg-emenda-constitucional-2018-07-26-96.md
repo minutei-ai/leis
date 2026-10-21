@@ -1,5 +1,3 @@
-# EMC nº 96, de 26/07/2018
-
 Acrescenta dispositivos aos arts. 159, 160 e 181 da Constituição do Estado e ao Ato das Disposições Constitucionais Transitórias.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

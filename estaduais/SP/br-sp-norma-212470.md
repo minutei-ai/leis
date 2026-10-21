@@ -1,5 +1,3 @@
-# Decreto nº 70.532, de 14/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212470)<br>
 
 # DECRETO N° 70.532, DE 14 DE ABRIL DE 2026

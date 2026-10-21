@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.778, de 2025-11-03
-
 LEI Nº 23.778, DE 3 DE NOVEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Peão, realizada no Município de Professor Jamil/GO.

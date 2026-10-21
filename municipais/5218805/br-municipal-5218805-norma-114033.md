@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.786, de 2025-12-15
-
 LEI Nº 7.786, DE 15 DE DEZEMBRO DE 2025.
 
 Autoriza o Poder Executivo a outorgar concessão remunerada para a exploração dos serviços funerários no Município de Rio Verde – GO, regulamenta sua execução e dá outras providências.

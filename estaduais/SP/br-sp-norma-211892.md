@@ -1,5 +1,3 @@
-# Decreto nº 70.129, de 25/11/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211892)<br>
 
 # DECRETO N° 70.129, DE 25 DE NOVEMBRO DE 2025

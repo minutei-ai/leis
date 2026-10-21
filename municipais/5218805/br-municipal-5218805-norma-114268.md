@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.706, de 2025-09-22
-
 LEI Nº 7.706, DE 22 DE SETEMBRO DE 2025.
 
 Dispõe sobre a criação do Conselho Municipal de Turismo de Rio Verde – COMTUR e dá outras providências.

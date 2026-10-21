@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.729, de 2023-08-09
-
 LEI MUNICIPAL Nº 3.729, DE 09 DE AGOSTO DE 2023.
 
 Concede remissão parcial da Taxa de Licença para Ocupação de Áreas em Vias e Logradouros Públicos e dá outras providências.

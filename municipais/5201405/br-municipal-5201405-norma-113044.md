@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.127, de 2025-09-02
-
 DECRETO Nº 2.127, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 29, da Quadra 42, situado à Rua dos Gerânius, no Loteamento Expansul, no Município de Aparecida de Goiânia.

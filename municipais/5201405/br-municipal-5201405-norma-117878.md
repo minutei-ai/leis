@@ -1,5 +1,3 @@
-# Decreto Numerado nº 154, de 2023-03-13
-
 DECRETO “N” Nº 154 DE 13 DE MARÇO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento QUINTA DA BOA VISTA, neste município.

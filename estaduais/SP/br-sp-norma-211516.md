@@ -1,5 +1,3 @@
-# Lei nº 18.282, de 19/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211516)<br>
 
 # LEI N° 18.282, DE 19 DE SETEMBRO DE 2025

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.562, de 2024-10-31
-
 LEI Nº 7.562, DE 31 DE OUTUBRO DE 2024.
 
 Institui a Campanha Permanente De Conscientização Da Saúde Mental Infantil e na Adolescência e dá outras providências.

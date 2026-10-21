@@ -1,5 +1,3 @@
-# LD Nº 48 DE 16 DE MAIO DE 1983
-
 LEI DELEGADA Nº 48 DE 16 DE MAIO DE 1983
 
 Altera a redação dos dispositivos que indica, da [Lei Delegada nº 39, de 14 de março de 1983](https://www.legislabahia.ba.gov.br/documentos/ld-no-39-de-14-de-marco-de-1983#LD_39) e dá outras providências.

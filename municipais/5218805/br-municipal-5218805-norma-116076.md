@@ -1,5 +1,3 @@
-# Lei Complementar nº 386, de 2025-04-14
-
 LEI COMPLEMENTAR Nº 386, DE 14 DE ABRIL DE 2025.
 
 Altera a Lei Complementar nº 6.111, de 19 de março de 2012, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da área fim da Secretaria Municipal de Saúde de Rio Verde e dá outras providências.

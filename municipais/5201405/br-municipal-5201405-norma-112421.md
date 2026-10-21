@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.141, de 2025-03-28
-
 DECRETO Nº 1.141, DE 28 DE MARÇO DE 2025
 
 Altera o Decreto “N” nº 1074, de 11 de dezembro de 2024, na parte relativa à identificação da área do imóvel.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.187, de 2021-11-04
-
 LEI Nº 7.187, DE 04 DE NOVEMBRO DE 2021.
 
 Altera a Lei 6.655/2016 que a cria o do Conselho Municipal dos Direitos da Mulher.

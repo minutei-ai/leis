@@ -1,5 +1,3 @@
-# Decreto nº 70.676, de 09/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212722)<br>
 
 # DECRETO N° 70.676, DE 09 DE JUNHO DE 2026

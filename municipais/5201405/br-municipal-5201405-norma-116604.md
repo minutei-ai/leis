@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.415, de 2018-05-25
-
 LEI MUNICIPAL N° 3.415, DE 25 DE MAIO DE 2018
 
 Altera a Lei n° 3.115/2013, que autoriza o Poder Executivo Municipal a doar imóveis ao FUNDO DE ARRENDAMENTO RESIDENCIAL-FAR.

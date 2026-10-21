@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.403, de 2018-01-29
-
 LEI MUNICIPAL Nº 3.403, DE 29 DE JANEIRO DE 2018
 
 Institui o programa "ADOTE O VERDE" no Município de Aparecida de Goiânia – Goiás.

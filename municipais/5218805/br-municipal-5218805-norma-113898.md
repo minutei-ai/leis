@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.817, de 2026-02-19
-
 LEI Nº 7.817, DE 19 DE FEVEREIRO DE 2026.
 
 Institui no Calendário Oficial de Eventos do Município a campanha “Dezembro Solidário em Defesa dos Animais” e dá outras providências.

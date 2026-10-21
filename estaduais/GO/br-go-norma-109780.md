@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.044, de 2024-10-29
-
 LEI Nº 23.044, DE 29 DE OUTUBRO DE 2024
 
 Autoriza a aquisição, por doação onerosa do Município de Santa Fé de Goiás/GO, dos imóveis que especifica.

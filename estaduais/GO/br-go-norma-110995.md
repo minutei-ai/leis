@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.714, de 2025-06-23
-
 DECRETO Nº 10.714, DE 23 DE JUNHO DE 2025
 
 Altera o [Decreto nº 6.037](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61232), de 18 de novembro de 2004, que dispõe sobre reparações econômicas em forma de pensão especial aos anistiados políticos que especifica.

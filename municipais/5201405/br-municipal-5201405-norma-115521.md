@@ -1,5 +1,3 @@
-# Decreto Numerado nº 373, de 2024-05-21
-
 DECRETO “N” Nº 373 DE 21 DE MAIO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

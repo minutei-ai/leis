@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.530, de 2025-06-11
-
 DECRETO Nº 1.530, DE 11 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua São Pedro, no Loteamento Jardim Alto Paraiso, no Município de Aparecida de Goiânia.

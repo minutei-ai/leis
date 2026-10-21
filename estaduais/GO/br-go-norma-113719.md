@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 33, de 2026-02-11
-
 Portaria Orçamentária nº 33/2026 - Economia
 
 **O DEFENSOR PÚBLICO-GERAL DO ESTADO DE GOIÁS**, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 6 de janeiro de 2026.

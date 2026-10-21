@@ -1,5 +1,3 @@
-# Decreto nº 69.744, de 22/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211241)<br>
 
 # DECRETO N° 69.744, DE 22 DE JULHO DE 2025

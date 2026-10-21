@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.269, de 2026-05-21
-
 LEI Nº 24.269, DE 21 DE MAIO DE 2026
 
 Declara de utilidade pública a entidade que especifica.

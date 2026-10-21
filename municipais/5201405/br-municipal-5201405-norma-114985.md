@@ -1,5 +1,3 @@
-# Decreto Numerado nº 265, de 2024-04-16
-
 DECRETO “N” Nº 265 DE 16 ABRIL DE 2024
 
 Dispõe sobre remembramento e desmembramento.

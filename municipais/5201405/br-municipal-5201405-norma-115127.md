@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.735, de 2023-09-26
-
 LEI MUNICIPAL Nº 3.735, DE 26 DE SETEMBRO DE 2023.
 
 Dispõe sobre a denominação da Praça Samuel Nunes de Meira, no Parque das Nações, neste município, e dá outras providências.

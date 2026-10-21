@@ -1,5 +1,3 @@
-# Medida Provisória nº 867 de 26/12/2018
-
 MEDIDA PROVISÓRIA Nº 867, DE 26 DE DEZEMBRO DE 2018
 
 Altera a [Lei nº 12.651, de 25 de maio de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-05-25;12651), para dispor sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.

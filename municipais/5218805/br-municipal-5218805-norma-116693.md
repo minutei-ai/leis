@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.233, de 2022-02-22
-
 LEI Nº 7.233, DE 22 DE FEVEIRO DE 2022
 
 Autoriza reposição das perdas salariais dos servidores efetivos e comissionados da FESURV- Universidade de Rio Verde.

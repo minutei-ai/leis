@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.730, de 2025-07-10
-
 DECRETO Nº 10.730, DE 10 DE JULHO DE 2025
 
 Regulamenta a Rede de Tecnologia da Informação e Comunicação – Rede TIC, que integra o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e regulamentado pelo [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.953, de 2025-12-17
-
 LEI Nº 23.953, DE 17 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 22.230,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107679) de 24 de agosto de 2023, que institui a Política Estadual de Conscientização e Atenção Integral à Saúde da Mulher no Climatério e na Menopausa.

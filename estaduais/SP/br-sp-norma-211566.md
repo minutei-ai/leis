@@ -1,5 +1,3 @@
-# Decreto nº 69.905, de 25/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211566)<br>
 
 # DECRETO N° 69.905, DE 25 DE SETEMBRO DE 2025

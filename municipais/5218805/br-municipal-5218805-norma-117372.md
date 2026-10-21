@@ -1,5 +1,3 @@
-# Lei Complementar nº 101, de 2017-10-30
-
 <br>
 **LEI COMPLEMENTAR Nº 101, DE 30 DE OUTUBRO DE 2017**
 

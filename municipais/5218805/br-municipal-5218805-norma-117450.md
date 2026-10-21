@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.152, de 2021-06-15
-
 LEI Nº 7.152, DE 15 DE JUNHO DE 2021.
 
 Promove alteração de denominação de Avenida e Rua no Bairro Martins e dá outras providências.

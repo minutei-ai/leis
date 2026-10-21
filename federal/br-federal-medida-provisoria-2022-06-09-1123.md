@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.123 de 09/06/2022
-
 MEDIDA PROVISÓRIA Nº 1.123, DE 9 DE JUNHO DE 2022
 
 Altera a Lei nº 12.598, de 21 de março de 2012, que estabelece normas especiais para as compras, as contratações e o desenvolvimento de produtos e de sistemas de defesa, e dispõe sobre regras de incentivo à área estratégica de defesa.

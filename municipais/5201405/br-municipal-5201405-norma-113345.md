@@ -1,5 +1,3 @@
-# Lei Complementar nº 135, de 2017-11-27
-
 LEI COMPLEMENTAR Nº 135, DE 27 DE NOVEMBRO DE 2017
 
 Prorroga o prazo do art. 45 da Lei Complementar n° 111, de 08 de dezembro de 2015, para promover o Enquadramento dos Membros da Guarda Civil Municipal.

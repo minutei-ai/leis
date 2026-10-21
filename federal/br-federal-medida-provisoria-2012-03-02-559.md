@@ -1,5 +1,3 @@
-# Medida Provisória nº 559 de 02/03/2012
-
 MEDIDA PROVISÓRIA Nº\- 559, DE 2 DE MARÇO DE 2012
 
 Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRAS a adquirir participação na Celg Distribuição S.A. - CELG D e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.505, de 2024-07-23
-
 DECRETO Nº 10.505, DE 23 DE JULHO DE 2024
 
 Confere a Comenda da Ordem do Mérito Anhanguera às autoridades que especifica.

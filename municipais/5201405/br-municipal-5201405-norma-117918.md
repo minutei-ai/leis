@@ -1,5 +1,3 @@
-# Decreto Numerado nº 190, de 2023-03-21
-
 DECRETO “N” Nº 190 DE 21 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento JARDIM BURITI SERENO, neste município.

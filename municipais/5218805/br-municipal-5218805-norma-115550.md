@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.857, de 2026-05-19
-
 LEI Nº 7.857, DE 19 DE MAIO DE 2026.
 
 Institui o Dia Municipal dos Animais em Situação de Rua no Município de Rio Verde – GO e dá outras providências.

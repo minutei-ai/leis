@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.025, de 2024-10-07
-
 LEI Nº 23.025, DE 7 DE OUTUBRO DE 2024
 
 Institui a Política Estadual para o Desenvolvimento e a Expansão da Apicultura e Meliponicultura e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.704, de 2025-06-03
-
 DECRETO Nº 10.704, DE 3 DE JUNHO DE 2025
 
 Altera o [Decreto nº 5.568](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61457), de 18 de março de 2002, que cria o Parque Estadual de Paraúna e dá outras providências.

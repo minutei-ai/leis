@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.273, de 2007-04-24
-
 LEI COMPLEMENTAR Nº 5.273, DE 24 DE ABRIL DE 2007.
 
 Modifica a Lei n. 3.635/98, Código de Posturas do Município de Rio Verde – Goiás.

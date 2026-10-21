@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.668, de 2022-05-19
-
 LEI MUNICIPAL Nº 3.668, DE 19 DE MAIO DE 2022.
 
 Institui o Conselho Municipal de Política Cultural de Aparecida de Goiânia e dá outras providências.

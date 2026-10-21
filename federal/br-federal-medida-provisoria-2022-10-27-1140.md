@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.140 de 27/10/2022
-
 MEDIDA PROVISÓRIA Nº 1.140, DE 27 DE OUTUBRO DE 2022
 
 Institui o Programa de Prevenção e Combate ao Assédio Sexual no âmbito dos sistemas de ensino federal, estadual, municipal e distrital.

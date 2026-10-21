@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.894, de 2026-04-09
-
 LEI Nº 3.894, DE 9 DE ABRIL DE 2026
 
 Revoga a Lei Municipal nº 3.804, de 17 de outubro de 2024, que dispõe sobre a criação e denominação da Escola Municipal Raios Brilhantes.

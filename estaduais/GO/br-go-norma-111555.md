@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.816, de 2025-11-10
-
 LEI Nº 23.816, DE 10 DE NOVEMBRO DE 2025
 
 Dá denominação ao próprio público que especifica.

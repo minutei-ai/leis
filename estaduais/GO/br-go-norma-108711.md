@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.625, de 2024-04-25
-
 LEI Nº 22.625, DE 25 DE ABRIL DE 2024
 
 Altera a [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 26 de janeiro de 2010, que dispõe sobre as consignações em folha de pagamento dos servidores e militares, ativos e inativos, e pensionistas do Poder Executivo Estadual.

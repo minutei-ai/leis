@@ -1,5 +1,3 @@
-# Decreto nº 70.815, de 24/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212912)<br>
 
 # DECRETO N° 70.815, DE 24 DE AGOSTO DE 2026

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.212 de 09/04/2024
-
 MEDIDA PROVISÓRIA Nº 1.212, DE 9 DE ABRIL DE 2024
 
 Altera a [Lei nº 9.427, de 26 de dezembro de 1996](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-26;9427), a [Lei nº 9.991, de 24 de julho de 2000](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-07-24;9991), e a [Lei nº 14.182, de 12 de julho de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-07-12;14182), e dá outras providências.

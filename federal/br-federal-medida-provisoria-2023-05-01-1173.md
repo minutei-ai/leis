@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.173 de 01/05/2023
-
 MEDIDA PROVISÓRIA Nº 1.173, DE 1 DE MAIO DE 2023
 
 Altera o prazo previsto no [art. 1º-A da Lei nº 6.321, de 14 de abril de 1976](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1976-04-14;6321!art1-1), referente à operacionalização dos serviços de pagamento e à portabilidade dos programas de alimentação do trabalhador.

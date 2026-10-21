@@ -1,5 +1,3 @@
-# Medida Provisória nº 12 de 06/12/2001
-
 ###MPV-000012-0-000-06-12-2001@@@
 
 MEDIDA PROVISÓRIA Nº 12, DE 6 DE DEZEMBRO DE 2001.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.141, de 2021-05-06
-
 LEI Nº 7.141, DE 06 DE MAIO DE 2021.
 
 Extingue ônus que gravam imóveis que menciona.

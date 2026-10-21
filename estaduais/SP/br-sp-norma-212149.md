@@ -1,5 +1,3 @@
-# Decreto nº 70.323, de 30/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212149)<br>
 
 # DECRETO N° 70.323, DE 30 DE DEZEMBRO DE 2025

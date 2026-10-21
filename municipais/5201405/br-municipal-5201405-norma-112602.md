@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.339, de 2025-10-02
-
 DECRETO Nº 2.339, DE 2 DE OUTUBRO DE 2025 "
 
 Regulamenta a Contribuição para Custeio de Serviços de Iluminação Pública – COSIP no Município de Aparecida de Goiânia.

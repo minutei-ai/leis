@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.503, de 2024-07-24
-
 DECRETO Nº 10.503, DE 24 DE JULHO DE 2024
 
 Declara a situação de emergência ambiental no Estado de Goiás no ano de 2024 em razão da alta probabilidade de ocorrência de incêndios florestais.

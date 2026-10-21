@@ -1,5 +1,3 @@
-# Decreto Numerado nº 580, de 2023-09-05
-
 DECRETO “N” Nº 580 DE 05 DE SETEMBRO DE 2023
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 87, de 2014-06-24
-
 LEI COMPLEMENTAR Nº 87, DE 24 DE JUNHO DE 2014.
 
 Autoriza o Chefe do Poder Executivo Municipal a firmar Termo de Cooperação com o Tribunal de Justiça do Estado de Goiás, visando operacionalizar sistemas eficientes para fins de protocolização, fiscalização, controle, administração e distribuição automática das ações referentes às execuções fiscais, dispõe sobre a arrecadação, transação dos débitos tributários e dá outras providências.

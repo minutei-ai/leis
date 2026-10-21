@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.108, de 2024-11-26
-
 LEI Nº 23.108, DE 26 DE NOVEMBRO DE 2024
 
 Proíbe a publicidade de jogos de azar ou de apostas não regulamentadas, na forma que especifica.

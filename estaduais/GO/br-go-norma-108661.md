@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.602, de 2024-04-09
-
 LEI Nº 22.602, DE 9 DE ABRIL DE 2024
 
 Dispõe sobre a obrigatoriedade de identificação de crianças e adolescentes em estabelecimentos de hotelaria e hospitalidade e dá outras providências.

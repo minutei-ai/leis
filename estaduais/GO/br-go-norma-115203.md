@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.334, de 2026-06-08
-
 LEI Nº 24.334, DE 8 DE JUNHO DE 2026
 
 Institui o Programa de Empreendedorismo, Qualificação e Integração de Soluções Financeiras – Pequi Bank.

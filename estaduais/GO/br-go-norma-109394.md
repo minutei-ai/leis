@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.530, de 2024-08-21
-
 DECRETO Nº 10.530, DE 21 DE AGOSTO DE 2024
 
 Regulamenta a [Lei nº 22.933](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109393), de 21 de agosto de 2024, que dispõe sobre o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte – SUSAF/GO.

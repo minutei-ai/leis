@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.110, de 2024-11-26
-
 LEI Nº 23.110, DE 26 DE NOVEMBRO DE 2024
 
 Altera a [Lei nº 17.696](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89751), de 04 de julho de 2012, que institui a Semana de Combate ao _Bullying_ e ao _Cyberbullying_ nas escolas da rede pública e privada da Educação Básica do Estado de Goiás.

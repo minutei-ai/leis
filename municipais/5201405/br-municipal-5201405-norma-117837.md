@@ -1,5 +1,3 @@
-# Decreto Numerado nº 112, de 2023-02-14
-
 DECRETO “N” Nº 112 DE 14 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM MONTE CRISTO, neste município.

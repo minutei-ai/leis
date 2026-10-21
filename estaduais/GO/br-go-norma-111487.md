@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.786, de 2025-11-03
-
 LEI Nº 23.786, DE 3 DE NOVEMBRO DE 2025
 
 Confere ao Município de Catalão/GO o título de “Capital Goiana da Congada”.

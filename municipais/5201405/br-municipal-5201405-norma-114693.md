@@ -1,5 +1,3 @@
-# Decreto Numerado nº 401, de 2026-05-20
-
 DECRETO Nº 401, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Aristóteles, no Loteamento Villa Deifiore, no Município de Aparecida de Goiânia.

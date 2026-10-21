@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.450, de 2018-12-18
-
 LEI Nº 3.450, DE 18 DE DEZEMBRO DE 2018.
 
 Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2019 e dá outras previdências.

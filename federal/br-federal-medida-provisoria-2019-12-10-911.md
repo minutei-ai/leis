@@ -1,5 +1,3 @@
-# Medida Provisória nº 911 de 10/12/2019
-
 MEDIDA PROVISÓRIA Nº 911, DE 10 DE DEZEMBRO DE 2019
 
 Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 131.702.068,00, para o fim que especifica.

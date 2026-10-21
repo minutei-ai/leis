@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.548, de 2020-04-06
-
 LEI MUNICIPAL Nº 3.548, DE 06 DE ABRIL DE 2020.
 
 Dispõe sobre a Política Pública de Assistência Social do Município de Aparecida de Goiânia e dá outras providências.

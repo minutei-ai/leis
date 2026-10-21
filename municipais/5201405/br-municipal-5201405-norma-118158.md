@@ -1,5 +1,3 @@
-# Decreto Numerado nº 382, de 2023-06-13
-
 DECRETO “N” Nº 382 DE 13 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento denominado JARDIM ELDORADO CONTINUAÇÃO - 2ª ETAPA, neste município.

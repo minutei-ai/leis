@@ -1,5 +1,3 @@
-# Decreto Numerado nº 686, de 2025-01-28
-
 DECRETO Nº 686, DE 28 DE JANEIRO DE 2025.
 
 Dispõe sobre desmembramento de imóvel.

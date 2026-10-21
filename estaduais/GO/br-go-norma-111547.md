@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 249, de 2025-10-15
-
 Portaria Orçamentária nº 249/2025 
 
 **RESOLVE:**

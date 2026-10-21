@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.892, de 2026-03-13
-
 LEI Nº 3.892, DE 13 DE MARÇO DE 2026
 
 Reconhece como Utilidade Pública Municipal a CRECHE TIA GRÉCIA, e dá outras providências.

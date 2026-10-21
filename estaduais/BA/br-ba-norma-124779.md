@@ -1,5 +1,3 @@
-# LD Nº 21 DE 07 DE ABRIL DE 1981
-
 LEI DELEGADA Nº 21 DE 07 DE ABRIL DE 1981
 
 Reorganiza a Secretaria do Planejamento, Ciência e Tecnologia, e dá outras providências.

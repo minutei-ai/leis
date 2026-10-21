@@ -1,5 +1,3 @@
-# Decreto Numerado nº 689, de 2023-11-01
-
 DECRETO “N” Nº 689 DE 01 DE NOVEMBRO DE 2023.<br>
 (Revogado pelo Decreto "N" nº 994, de 19 de novembro de 2023).
 

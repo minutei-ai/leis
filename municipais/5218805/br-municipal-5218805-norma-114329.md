@@ -1,5 +1,3 @@
-# Lei Complementar nº 110, de 2018-02-26
-
 LEI COMPLEMENTAR Nº 110, DE 26 DE FEVEREIRO DE 2018.
 
 Altera a [Lei nº 3.968](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), de 31 de agosto de 2000, Estatuto dos Servidores Públicos Municipais.

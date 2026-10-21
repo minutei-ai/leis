@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.889, de 2026-01-19
-
 LEI Nº 3.889, DE 19 DE JANEIRO DE 2026
 
 Dispõe sobre o Conselho Municipal dos Direitos da Pessoa com Deficiência e o Fundo Municipal dos Direitos da Pessoa com Deficiência, no âmbito do Município de Aparecida de Goiânia e dá outras providências.

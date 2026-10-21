@@ -1,5 +1,3 @@
-# Decreto Numerado nº 305, de 2026-04-23
-
 DECRETO Nº 305, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Hematita, no Loteamento Pontal Sul - Acréscimo, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.457, de 2023-12-22
-
 LEI Nº 7.457, DE 22 DE DEZEMBRO DE 2023.
 
 Autoriza o Poder Executivo a doar áreas de sua propriedade ao Fundo de Arrendamento Residencial – FAR, representado pela Caixa Econômica Federal, para fins de construção de moradias destinadas à alienação no âmbito do Programa Minha Casa Minha Vida - PMCMV.

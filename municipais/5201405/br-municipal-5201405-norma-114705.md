@@ -1,5 +1,3 @@
-# Decreto Numerado nº 122, de 2024-03-08
-
 DECRETO “N” Nº 122 DE 08 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 736 de 29/06/2016
-
 MEDIDA PROVISÓRIA Nº 736, DE 29 DE JUNHO DE 2016
 
 Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 2.900.000.000,00, para o fim que especifica.

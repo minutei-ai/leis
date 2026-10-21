@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.101 de 21/02/2022
-
 MEDIDA PROVISÓRIA Nº 1.101, DE 21 DE FEVEREIRO DE 2022
 
 Altera a Lei nº 14.046, de 24 de agosto de 2020, que dispõe sobre medidas emergenciais para atenuar os efeitos da crise decorrente da pandemia da covid-19 nos setores de turismo e de cultura.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.427, de 2024-03-19
-
 DECRETO Nº 10.427, DE 19 DE MARÇO DE 2024
 
 Altera o [Decreto estadual nº 9.001](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69745), de 18 de julho de 2017, que cria o Comitê Estadual da Reserva da Biosfera do Cerrado em Goiás e dá outras providências.

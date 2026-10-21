@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.046 de 27/04/2021
-
 MEDIDA PROVISÓRIA Nº 1.046, DE 27 DE ABRIL DE 2021
 
 Dispõe sobre as medidas trabalhistas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19).

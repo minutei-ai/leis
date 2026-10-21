@@ -1,5 +1,3 @@
-# Decreto Numerado nº 74, de 2026-01-20
-
 DECRETO Nº 074, DE 20 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 24, situado à Rua das Tulipas, no Loteamento Expansul, no Município de Aparecida de Goiânia.

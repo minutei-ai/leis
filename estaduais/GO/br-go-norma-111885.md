@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.958, de 2025-12-20
-
 LEI Nº 23.958, DE 20 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 15.331](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80435 "Abrir Lei Ordinária nº 15331, de 2005 em nova aba"), de 05 de agosto de 2005, que institui a Semana do Cerrado.

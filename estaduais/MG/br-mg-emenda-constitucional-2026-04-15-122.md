@@ -1,5 +1,3 @@
-# EMC nº 122, de 15/04/2026
-
 Dá nova redação aos §§ 4º e 6º do art. 160 da Constituição do Estado e acrescenta parágrafo ao mesmo artigo.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.093 de 31/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.093, DE 31 DE DEZEMBRO DE 2021
 
 Altera a Lei nº 8.212, de 24 de julho de 1991, para dispor sobre a divulgação do resultado financeiro do Regime Geral de Previdência Social.

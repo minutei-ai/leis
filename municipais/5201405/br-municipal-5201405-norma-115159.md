@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.762, de 2023-12-18
-
 LEI MUNICIPAL Nº 3.762 DE 18 DE DEZEMBRO DE 2023.
 
 Dispõe sobre a denominação da Praça ROSALINA PEREIRA ALVES OLIVEIRA no Bairro Vila Mariana neste Município e dá outras providencias.

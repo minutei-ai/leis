@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.710, de 2023-05-04
-
 LEI MUNICIPAL Nº 3.710 DE 04 DE MAIO DE 2023.
 
 Dispõe sobre utilidade pública do ASD – Associação Servos de Deus, neste município e dá outras providências.

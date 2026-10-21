@@ -1,5 +1,3 @@
-# Decreto Numerado nº 199, de 2026-03-12
-
 DECRETO Nº 199, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 29, situado à Rua 24, no Loteamento Jardim Bonança, no Município de Aparecida de Goiânia.

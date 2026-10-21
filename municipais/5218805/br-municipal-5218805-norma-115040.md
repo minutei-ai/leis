@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.549, de 2024-09-16
-
 LEI Nº 7.549, DE 16 DE SETEMBRO DE 2024.
 
 Autoriza a Universidade de Rio Verde a conceder patrocínio ao CONPEDI – Conselho Nacional de Pesquisa e Pós-Graduação em Direito.

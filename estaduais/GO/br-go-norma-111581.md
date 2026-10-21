@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.836, de 2025-11-14
-
 LEI Nº 23.836, DE 14 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

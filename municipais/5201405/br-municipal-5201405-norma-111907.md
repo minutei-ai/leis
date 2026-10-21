@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.833, de 2025-05-21
-
 LEI Nº 3.833, DE 21 DE MAIO DE 2025
 
 Dispõe sobre a denominação do Centro de Artesanato IVONETE PIRES localizado no Setor Garavelo, neste município e dá outras providências.

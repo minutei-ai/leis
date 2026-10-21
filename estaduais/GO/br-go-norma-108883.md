@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.723, de 2024-05-28
-
 LEI Nº 22.723, DE 28 DE MAIO DE 2024
 
 Concede o título de cidadania que especifica.

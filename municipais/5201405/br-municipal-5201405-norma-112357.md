@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.503, de 2019-10-09
-
 LEI MUNICIPAL Nº 3.503, DE 09 DE OUTUBRO DE 2019
 
 Dispõe sobre a Criação de Conselho Tutelar no Município de Aparecida de Goiânia, dá outras providências.

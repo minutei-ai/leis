@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.580, de 2020-09-21
-
 LEI MUNICIPAL N° 3.580, DE 21 DE SETEMBRO DE 2020.
 
 “Institui no âmbito do Município de Aparecida de Goiânia a campanha “Dezembro Verde” não ao abandono de animais.

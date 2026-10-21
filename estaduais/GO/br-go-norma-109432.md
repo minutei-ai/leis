@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.964, de 2024-09-02
-
 LEI Nº 22.964, DE 2 DE SETEMBRO DE 2024
 
 Abre crédito especial à Secretaria de Estado da Educação, à Secretaria-Geral de Governo, à Secretaria de Estado da Retomada e à Secretaria de Estado da Infraestrutura, e cria iniciativas e produtos no Plano Plurianual 2024-2027.

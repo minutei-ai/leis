@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.871, de 2026-06-17
-
 LEI Nº 7.871, DE 17 DE JUNHO DE 2026.
 
 Altera a Lei nº 7.622, de 24 de março de 2025, que dispõe sobre as regras para a constituição e normas gerais de funcionamento de ambiente regulatório experimental, denominado Sandbox Rio Verde, para autorizar a cessão temporária de uso de áreas públicas aos participantes do programa.

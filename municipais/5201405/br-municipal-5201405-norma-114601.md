@@ -1,5 +1,3 @@
-# Decreto Numerado nº 87, de 2024-02-21
-
 DECRETO “N” Nº 87 DE 21 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

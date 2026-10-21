@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.828, de 2025-12-08
-
 DECRETO Nº 10.828, DE 8 DE DEZEMBRO DE 2025
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.149 de 21/12/2022
-
 MEDIDA PROVISÓRIA Nº 1.149, DE 21 DE DEZEMBRO DE 2022
 
 Dispõe sobre a gestão e a operacionalização dos pedidos das indenizações previstas no art. 3º da Lei nº 6.194, de 19 de dezembro de 1974, com vistas a assegurar a sua continuidade, e altera a Lei nº 14.075, de 22 de outubro de 2020.

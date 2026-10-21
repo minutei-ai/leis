@@ -1,5 +1,3 @@
-# Decreto Numerado nº 335, de 2024-05-08
-
 DECRETO “N” Nº 335 DE 08 DE MAIO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóvel.

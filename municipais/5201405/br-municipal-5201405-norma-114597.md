@@ -1,5 +1,3 @@
-# Decreto Numerado nº 83, de 2024-02-20
-
 DECRETO “N” Nº 83 DE 20 DE FEVEREIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

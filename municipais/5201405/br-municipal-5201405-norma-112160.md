@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2, de 2026-01-06
-
 DECRETO Nº 002, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua das Cerejeiras, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.801, de 2010-06-16
-
 LEI COMPLEMENTAR Nº  5.801, DE 16 DE JUNHO DE 2010.
 
 <br>

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.461, de 2024-05-06
-
 DECRETO Nº 10.461, DE 6 DE MAIO DE 2024
 
 Dispõe sobre a elaboração e a divulgação da Grade de Parâmetros Macroeconômicos do Estado de Goiás, sob a responsabilidade do Instituto Mauro Borges de Estatísticas e Estudos Socioeconômicos – IMB.

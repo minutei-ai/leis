@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.895, de 2025-08-04
-
 DECRETO Nº 1.895, DE 4 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 11, 16 e 17, situados à Rua 7 e Rua Joaquim Cardoso da Silva, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

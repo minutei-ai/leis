@@ -1,5 +1,3 @@
-# LEI Nº 14.775 DE 04 DE SETEMBRO DE 2024
-
 LEI Nº 14.775 DE 04 DE SETEMBRO DE 2024
 
 Institui a Política Estadual de Incentivo à Produção de Cacau de Qualidade.

@@ -1,5 +1,3 @@
-# LEI Nº 14.893 DE 05 DE MAIO DE 2025
-
 LEI Nº 14.893 DE 05 DE MAIO DE 2025
 
 Altera as Leis nº [11.373](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009), de 05 de fevereiro de 2009, nº [12.598,](https://www.legislabahia.ba.gov.br/documentos/lei-no-12598-de-28-de-novembro-de-2012) de 28 de novembro de 2012, e nº [12.822](https://www.legislabahia.ba.gov.br/documentos/lei-no-12822-de-04-de-julho-de-2013), de 04 de julho de 2013, na forma que indica, e dá outras providências.

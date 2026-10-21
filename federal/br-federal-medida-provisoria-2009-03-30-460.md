@@ -1,5 +1,3 @@
-# Medida Provisória nº 460 de 30/03/2009
-
 ###MPV-000460-0-000-30-03-2009@@@
 
 MEDIDA PROVISÓRIA Nº 460, DE 30 DE MARÇO DE 2009.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.051, de 2024-11-04
-
 LEI Nº 23.051, DE 4 DE NOVEMBRO DE 2024
 
 Autoriza a aquisição, por doação onerosa do Município de Abadiânia/GO, do imóvel que especifica.

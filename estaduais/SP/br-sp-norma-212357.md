@@ -1,5 +1,3 @@
-# Lei nº 18.428, de 13/03/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212357)<br>
 
 # LEI N° 18.428, DE 13 DE MARÇO DE 2026

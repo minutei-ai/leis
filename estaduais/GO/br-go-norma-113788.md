@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.225, de 2026-04-09
-
 LEI Nº 24.225, DE 9 DE ABRIL DE 2026
 
 Institui a Semana Estadual da Sustentabilidade Digital, Governança da Internet e Direitos Digitais e dá outras providências.

@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 85, de 2024-12-18
-
 **EMENDA CONSTITUCIONAL Nº 85, DE 18 DE DEZEMBRO DE 2024.**
 
  

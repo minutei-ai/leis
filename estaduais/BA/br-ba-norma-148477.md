@@ -1,5 +1,3 @@
-# LEI Nº 15.130 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.130 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública o Instituto Tear – Trabalhar, Esperançar, Acolher e Realizar, com sede e foro no município de Vitória da Conquista.

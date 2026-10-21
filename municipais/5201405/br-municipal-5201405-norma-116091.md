@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.614, de 2021-06-24
-
 LEI MUNICIPAL Nº 3.614, DE 24 DE JUNHO DE 2021.
 
 Altera a Lei Municipal nº. 3.056, de 12 de julho de 2012, que Dispõe sobre a qualificação de entidades como organizações sociais municipais e dá outras providências.

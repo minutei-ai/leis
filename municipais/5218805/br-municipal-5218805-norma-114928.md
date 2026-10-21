@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.569, de 2024-12-02
-
 LEI Nº 7.569, DE 2 DE DEZEMBRO DE 2024.
 
 Autoriza as organizações da sociedade civil que mantiverem parceria com o Município de Rio Verde – GO a utilizar os recursos públicos vinculados à parceria na execução de obras, desde que realizadas em imóvel próprio e comprovada a relação dessas obras com o objeto da parceria a ser executada ou na edificação de moradias para atendimento de famílias em estado de vulnerabilidade social.

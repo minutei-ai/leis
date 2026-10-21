@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.401, de 2025-05-06
-
 LEI Nº 23.401, DE 6 DE MAIO DE 2025
 
 Concede o título de cidadania que especifica.

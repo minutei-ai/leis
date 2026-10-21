@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.029 de 20/06/2000
-
 ###MPV-002029-0-000-20-06-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.029, DE 20 DE JUNHO DE 2000.

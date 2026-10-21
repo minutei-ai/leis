@@ -1,5 +1,3 @@
-# LEI Nº 15.115 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.115 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a permanência do profissional fisioterapeuta nos Centros de Terapia Intensiva – CTIS, adulto, pediátrico e neonatal no Estado da Bahia, e dá outras providências.

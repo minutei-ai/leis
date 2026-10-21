@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.685, de 2025-07-03
-
 LEI Nº 7.685, DE 3 DE JULHO DE 2025.
 
 Altera a Lei nº 4.536, de 31 de dezembro de 2002, que dispõe sobre a Contribuição de Iluminação Pública.

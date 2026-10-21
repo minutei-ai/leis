@@ -1,5 +1,3 @@
-# Medida Provisória nº 675 de 21/05/2015
-
 MEDIDA PROVISÓRIA Nº 675, DE 21 DE MAIO DE 2015
 
 Altera a Lei nº 7.689, de 15 de dezembro de 1988, para elevar a alíquota da Contribuição Social sobre o Lucro Líquido - CSLL em relação às pessoas jurídicas de seguros privados e de capitalização e às referidas nos incisos I a VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001.

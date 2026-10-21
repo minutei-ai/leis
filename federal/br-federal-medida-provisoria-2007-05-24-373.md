@@ -1,5 +1,3 @@
-# Medida Provisória nº 373 de 24/05/2007
-
 ###MPV-000373-0-000-24-05-2007@@@
 
 MEDIDA PROVISÓRIA Nº 373, DE 24 DE MAIO DE 2007.

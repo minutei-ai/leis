@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.532, de 2025-07-01
-
 LEI Nº 23.532, DE 1º DE JULHO DE 2025
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Firminópolis/GO.

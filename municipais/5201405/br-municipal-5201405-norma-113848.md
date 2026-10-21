@@ -1,5 +1,3 @@
-# Decreto Numerado nº 81, de 2024-02-16
-
 DECRETO “N” Nº 81, DE 16 DE FEVEREIRO DE 2024.
 
 Declara de utilidade pública, para efeito de instituição de servidão de passagem e desapropriação, as áreas abaixo especificadas e outras providências.

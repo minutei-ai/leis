@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.504, de 2019-10-10
-
 LEI MUNICIPAL Nº 3.504, DE 10 DE OUTUBRO DE 2019
 
 <br>

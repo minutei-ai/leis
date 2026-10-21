@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.864, de 2026-05-19
-
 LEI Nº 7.864, DE 19 DE MAIO DE 2026.
 
 Autoriza a celebração de parceria com a Associação Comercial, Industrial e Serviços de Rio Verde – ACIRV para a realização da SUDOEXPO 2026.

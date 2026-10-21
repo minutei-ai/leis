@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.125, de 2021-02-19
-
 LEI Nº 7.125, DE 19 DE FEVEREIRO DE 2021.
 
 Autoriza a FESURV a conceder bolsas de estudo.

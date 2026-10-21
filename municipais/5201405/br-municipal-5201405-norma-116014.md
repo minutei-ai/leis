@@ -1,5 +1,3 @@
-# Lei Complementar nº 187, de 2021-06-22
-
 LEI MUNICIPAL COMPLEMENTAR Nº 187 DE 22 DE JUNHO DE 2021.
 
 Reajusta o Piso Salarial do Profissional da Educação do Município de Aparecida de Goiânia e dá outras providências.

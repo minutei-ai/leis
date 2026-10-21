@@ -1,5 +1,3 @@
-# Lei Complementar nº 156, de 2018-12-03
-
 LEI COMPLEMENTAR Nº 156, DE 03 DE DEZEMBRO DE 2018
 
 Altera a Lei nº 2.577, de 09 de maio de 2006, e dá outras providências.

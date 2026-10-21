@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.151, de 2024-12-12
-
 LEI Nº 23.151, DE 12 DE DEZEMBRO DE 2024
 
 Altera a [Lei nº 18.673](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90937), de 21 de novembro de 2014, que dispõe sobre os serviços de transporte rodoviário intermunicipal de passageiros no Estado de Goiás e dá outras providências.

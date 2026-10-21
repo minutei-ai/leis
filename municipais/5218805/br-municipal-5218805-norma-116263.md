@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.307, de 2022-12-08
-
 LEI N°. 7.307, DE 8 DE DEZEMBRO DE 2022
 
 Institui o Dia Municipal do Historiador no Município e dá outras providências.

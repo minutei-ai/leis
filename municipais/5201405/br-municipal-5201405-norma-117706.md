@@ -1,5 +1,3 @@
-# Decreto Numerado nº 666, de 2023-10-19
-
 DECRETO “N” Nº 666, DE 19 DE OUTUBRO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Cidade Livre, neste município como de Interesse Social.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.859, de 2026-01-27
-
 DECRETO Nº 10.859, DE 27 DE JANEIRO DE 2026
 
 Institui a Carta de Serviços ao Usuário do Estado de Goiás e as regras para sua gestão e para a governança de serviços no âmbito do Poder Executivo do Estado de Goiás, também revoga o [Decreto nº 9.574](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72488), de 5 de dezembro de 2019.

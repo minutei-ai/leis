@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.794, de 2025-12-15
-
 LEI Nº 7.794, DE 15 DE DEZEMBRO DE 2025.
 
 Autoriza a FESURV - Universidade de Rio Verde a outorgar concessão onerosa de uso de áreas públicas localizadas em seus campi e dá outras providências.

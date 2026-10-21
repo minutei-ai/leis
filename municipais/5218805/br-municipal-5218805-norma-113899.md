@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.816, de 2026-02-19
-
 LEI Nº 7.816, DE 19 DE FEVEREIRO DE 2026.
 
 Institui o “Dia dos Artistas da Terra” no município de Rio Verde, destinado à valorização, promoção e reconhecimento dos artistas locais, em todas as suas expressões culturais.

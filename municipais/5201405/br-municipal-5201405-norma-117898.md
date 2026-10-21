@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.092, de 2013-05-27
-
 LEI MUNICIPAL Nº 3.092, DE 27 DE MAIO DE 2013.
 
 Autoriza a cessão de uso do GALPÃO DE TRIAGEM DE RESÍDUOS SÓLIDOS de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.869, de 2025-11-25
-
 LEI Nº 3.869, DE 25 DE NOVEMBRO DE 2025
 
 Institui o Selo Escola Amiga do Autismo no âmbito municipal e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.881, de 2025-12-30
-
 DECRETO Nº 2.881, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 13 e 28, todos da Quadra 166, situados à Avenida Liberdade e Rua 19-D, no Loteamento Setor Garavelo, no Município de Aparecida de Goiânia.

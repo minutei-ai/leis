@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.098, de 2026-02-18
-
 LEI Nº 24.098, DE 18 DE fevereiro DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Moto Fest Angatu, realizado no Município de Porangatu/GO.

@@ -1,5 +1,3 @@
-# Decreto nº 69.587, de 09/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211023)<br>
 
 # DECRETO N° 69.587, DE 09 DE JUNHO DE 2025

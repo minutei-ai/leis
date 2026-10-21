@@ -1,5 +1,3 @@
-# Decreto nº 70.516, de 06/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212445)<br>
 
 # DECRETO N° 70.516, DE 06 DE ABRIL DE 2026

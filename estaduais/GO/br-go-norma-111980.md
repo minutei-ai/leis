@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.988, de 2025-12-30
-
 LEI Nº 23.988, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre a Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR e dá outras providências.

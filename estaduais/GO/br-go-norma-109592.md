@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.559, de 2024-09-25
-
 DECRETO Nº 10.559, DE 25 DE SETEMBRO DE 2024
 
 Altera o [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946), de 23 de abril de 2021, que autoriza a Secretaria de Estado da Educação – SEDUC a celebrar e manter os contratos temporários que especifica, e o [Decreto nº 10.499](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177), de 8 de julho de 2024, que dispõe sobre a celebração dos contratos temporários da administração estadual direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.

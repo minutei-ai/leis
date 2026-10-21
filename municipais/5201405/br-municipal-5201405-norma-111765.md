@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.859, de 2009-11-13
-
 **LEI MUNICIPAL Nº 2.859, DE 13 DE NOVEMBRO DE 2009.**
 
 Dá nova redação a Lei Municipal n.º 2.702/2007, que Cria o Fundo Municipal de Habitação de Interesse Social – FHIS e Institui o Conselho - Gestor do FHIS.

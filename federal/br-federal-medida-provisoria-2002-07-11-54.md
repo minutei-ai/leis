@@ -1,5 +1,3 @@
-# Medida Provisória nº 54 de 11/07/2002
-
 ###MPV-000054-0-000-11-07-2002@@@
 
 MEDIDA PROVISÓRIA Nº 54, DE 11 DE JULHO DE 2002

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.024 de 31/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.024, DE 31 DE DEZEMBRO DE 2020
 
 Altera a Lei nº 14.034, de 5 de agosto de 2020, para prorrogar o prazo de vigência de medidas emergenciais para a aviação civil brasileira em razão da pandemia da covid-19.

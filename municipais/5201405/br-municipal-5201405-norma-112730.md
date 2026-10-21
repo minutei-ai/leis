@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.777, de 2024-03-14
-
 LEI MUNICIPAL Nº 3.777, DE 14 DE MARÇO DE 2024
 
 Dispõe sobre o reconhecimento de Utilidade Pública Municipal da Organização dos Haitianos Progressista de Goiás.

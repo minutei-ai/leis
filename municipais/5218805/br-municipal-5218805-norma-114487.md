@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.117, de 2006-03-06
-
 LEI COMPLEMENTAR Nº 5.117, DE 06 DE MARÇO DE 2006.
 
 <br>

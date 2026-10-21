@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.288, de 2025-03-24
-
 LEI Nº 23.288, DE 24 DE MARÇO DE 2025
 
 Destina os bens que especifica e cria o Fundo Estadual de Combate ao Tráfico de Drogas e ao Crime Organizado.

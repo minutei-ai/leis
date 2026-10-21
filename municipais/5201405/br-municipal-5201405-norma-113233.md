@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.447, de 2025-10-15
-
 DECRETO Nº 2.447, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 24, da Quadra 17, situado à Rua 13-E, no Loteamento Garavelo Residencial Park, no Município de Aparecida de Goiânia.

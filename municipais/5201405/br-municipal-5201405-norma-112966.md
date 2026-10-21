@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.874, de 2025-12-29
-
 DECRETO Nº 2.874, DE 29 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua 126, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

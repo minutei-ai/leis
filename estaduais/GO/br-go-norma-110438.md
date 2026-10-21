@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.251, de 2025-02-26
-
 LEI Nº 23.251, DE 26 DE FEVEREIRO DE 2025.
 
 Altera a [Lei nº 22.368](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107923), de 31 de outubro de 2023, que estabelece prazos para a regularização de barragens em cursos hídricos no âmbito do Estado de Goiás e dá outras providências.

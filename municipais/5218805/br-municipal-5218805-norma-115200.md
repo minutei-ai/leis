@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.446, de 2023-11-27
-
 LEI Nº 7.446, DE 27 DE NOVEMBRO DE 2023.
 
 Concede bolsas a odontólogos que compõe o quadro clínico das instituições conveniadas com a Universidade de Rio Verde para atuarem como preceptores dos acadêmicos da Faculdade de Odontologia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.434, de 2025-05-21
-
 LEI Nº 23.434, DE 21 DE MAIO DE 2025
 
 Institui o Programa Goiás Mais Energia Rural do Estado de Goiás.

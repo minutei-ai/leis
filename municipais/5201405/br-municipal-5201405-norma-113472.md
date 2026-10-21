@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.701, de 2023-03-22
-
 LEI MUNICIPAL Nº 3.701 DE 22 DE MARÇO DE 2023.
 
 Dispõe sobre a obrigatoriedade de fixação de placas de advertências sobre automedicação em farmácias no município de Aparecida de Goiânia.

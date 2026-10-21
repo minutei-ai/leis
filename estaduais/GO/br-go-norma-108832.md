@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.682, de 2024-05-10
-
 LEI Nº 22.682, DE 10 DE MAIO DE 2024
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.420, de 10/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210860)<br>
 
 # LEI COMPLEMENTAR N° 1.420, DE 10 DE ABRIL DE 2025

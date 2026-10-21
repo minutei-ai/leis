@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.663, de 2024-05-06
-
 LEI Nº 22.663, DE 6 DE MAIO DE 2024
 
 Institui a Política Estadual de Apoio e Incentivo à Mulher no Esporte.

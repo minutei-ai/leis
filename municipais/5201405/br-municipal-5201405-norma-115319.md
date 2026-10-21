@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.665, de 2022-05-05
-
 LEI MUNICIPAL Nº 3.665, DE 05 DE MAIO DE 2022.
 
 “Declara a Bíblia Sagrada como patrimônio cultural e imaterial no município de Aparecida de Goiânia-Go”.

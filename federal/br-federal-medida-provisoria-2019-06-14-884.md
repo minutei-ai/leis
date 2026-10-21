@@ -1,5 +1,3 @@
-# Medida Provisória nº 884 de 14/06/2019
-
 MEDIDA PROVISÓRIA Nº 884, DE 14 DE JUNHO DE 2019
 
 Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa e dá outras providências.

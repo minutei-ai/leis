@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.364, de 2025-04-23
-
 LEI Nº 23.364, DE 23 DE ABRIL DE 2025
 
 Obriga a concessionária ou permissionária dos serviços de fornecimento de energia elétrica a disponibilizar opções de pagamento ao consumidor, na hipótese e da forma que especifica.

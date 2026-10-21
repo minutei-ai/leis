@@ -1,5 +1,3 @@
-# Lei Complementar nº 4.810, de 2004-05-18
-
 LEI complementar Nº  4.810, DE 18 DE MAIO DE 2004.
 
 <br>

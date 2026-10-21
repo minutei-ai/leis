@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.554, de 2005-12-23
-
 LEI MUNICIPAL N.º 2.554, DE 23 DE DEZEMBRO DE 2005.
 
 Altera a Lei Municipal n.º 2.229, de 18 de dezembro de 2001, com nova redação da Lei Municipal n.º 2.430, de 05 de janeiro de 2004, que dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia e dá outras providências.

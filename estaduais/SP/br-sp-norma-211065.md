@@ -1,5 +1,3 @@
-# Decreto nº 69.627, de 13/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211065)<br>
 
 # DECRETO N° 69.627, DE 13 DE JUNHO DE 2025

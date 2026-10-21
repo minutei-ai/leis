@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.895, de 2026-04-24
-
 LEI Nº 3.895, DE 24 DE ABRIL DE 2026
 
 Institui o Dia Municipal do Rotary e dos Rotarianos no Município de Aparecida de Goiânia, define diretrizes para sua celebração e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto nº 70.696, de 17/06/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212765)<br>
 
 # DECRETO N° 70.696, DE 17 DE JUNHO DE 2026

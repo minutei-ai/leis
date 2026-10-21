@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.926, de 2026-09-09
-
 LEI Nº 3.926, DE 9 DE SETEMBRO DE 2026
 
 Declara a Corrida de Rua como patrimônio cultural imaterial do município de Aparecida de Goiânia.

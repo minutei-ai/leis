@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.659, de 2025-05-26
-
 LEI Nº 7.659, DE 26 DE MAIO DE 2025.
 
 Institui a data comemorativa do aniversário do Distrito de Riverlândia do Município de Rio Verde, e dá outras providências.

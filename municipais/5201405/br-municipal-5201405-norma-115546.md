@@ -1,5 +1,3 @@
-# Decreto Numerado nº 395, de 2024-05-23
-
 DECRETO “N” Nº 395 DE 23 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

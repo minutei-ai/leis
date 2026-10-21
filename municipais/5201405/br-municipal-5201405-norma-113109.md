@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.150, de 2025-09-04
-
 DECRETO Nº 2.150, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 17, da Quadra 05, situado à Rua C-1, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

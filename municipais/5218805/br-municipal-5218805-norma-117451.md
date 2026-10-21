@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.151, de 2021-05-31
-
 LEI Nº 7.151, DE 31 DE MAIO DE 2021.
 
 Autoriza a FESURV a repassar recursos financeiros ao Hospital do Câncer de Rio Verde - HCRV.

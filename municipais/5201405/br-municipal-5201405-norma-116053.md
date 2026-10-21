@@ -1,5 +1,3 @@
-# Lei Ordinária nº 1.866, de 1998-12-20
-
 LEI MUNICIPAL N.º 1.866, DE 22 DE DEZEMBRO DE 1998.
 
 Altera dispositivos a seguir enumerados da Lei nº. 1.332 de 22 de dezembro de 1993 e dá outras providências.

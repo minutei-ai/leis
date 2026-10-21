@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.304, de 2025-09-24
-
 DECRETO Nº 2.304, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 06 e 07, da Quadra 152, situado à Avenida Marechal Rondon, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

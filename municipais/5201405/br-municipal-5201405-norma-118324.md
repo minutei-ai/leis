@@ -1,5 +1,3 @@
-# Decreto Numerado nº 563, de 2023-08-28
-
 DECRETO “N” Nº 563 DE 28 DE AGOSTO DE 2023
 
 Dispõe sobre remembramento de imóveis.

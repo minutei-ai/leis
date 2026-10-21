@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.547, de 2026-09-16
-
 LEI Nº 24.547, DE 16 DE SETEMBRO DE 2026
 
 Altera a localização do Agrocolégio Estadual Maguito Vilela para o Município de Goianésia/GO, altera a [Lei nº 22.555](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108525), de 12 de março de 2024, e revoga o art. 11-C da [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965), de 12 de maio de 2017.

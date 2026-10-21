@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.715, de 2023-05-23
-
 LEI MUNICIPAL Nº 3.715, DE 23 DE MAIO DE 2023.
 
 Autoriza o Município de Aparecida de Goiânia a conceder revisão anual e aumento salarial a quem especifica e dá outras providências.

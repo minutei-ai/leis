@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.539, de 2009-02-27
-
 LEI Nº 5.539, DE 27 DE FEVEREIRO DE 2009.
 
 Autoriza aumento de quantitativo do cargo de Enfermeira.

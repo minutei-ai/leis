@@ -1,5 +1,3 @@
-# Medida Provisória nº 800 de 18/09/2017
-
 MEDIDA PROVISÓRIA Nº 800, DE 18 DE SETEMBRO DE 2017
 
 Estabelece as diretrizes para a reprogramação de investimentos em concessões rodoviárias federais e dá outras providências.

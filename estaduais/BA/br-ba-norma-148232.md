@@ -1,5 +1,3 @@
-# LEI Nº 15.111 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.111 DE 28 DE JANEIRO DE 2026
 
 Dá ao prédio da Governadoria localizado na 3ª Avenida - Centro Administrativo da Bahia – CAB, a denominação de "Palácio Todos os Santos”.

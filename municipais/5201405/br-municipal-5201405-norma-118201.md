@@ -1,5 +1,3 @@
-# Decreto Numerado nº 421, de 2023-06-27
-
 DECRETO “N” Nº 421 DE 27 DE JUNHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR MARISTA SUL, neste município.

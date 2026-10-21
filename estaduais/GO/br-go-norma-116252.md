@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.465, de 2026-07-16
-
 LEI Nº 24.465, DE 16 DE JULHO DE 2026
 
 Concede o título de cidadania que especifica.

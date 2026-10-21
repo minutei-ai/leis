@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.137 de 21/09/2022
-
 MEDIDA PROVISÓRIA Nº 1.137, DE 21 DE SETEMBRO DE 2022
 
 Altera a Lei nº 11.312, de 27 de junho de 2006, e dispõe sobre a redução a zero das alíquotas do imposto sobre a renda de beneficiário residente ou domiciliado no exterior nas operações que especifica.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 224, de 2026-03-16
-
 DECRETO Nº 224, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua 62, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

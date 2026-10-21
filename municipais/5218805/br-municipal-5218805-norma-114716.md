@@ -1,5 +1,3 @@
-# Lei Complementar nº 69, de 2017-05-04
-
 LEI COMPLEMENTAR Nº 69, DE 04 DE MAIO DE 2017.
 
 Altera Lei complementar n. 3.633/98 que dispõe sobre o parcelamento do solo e dá outras providências.

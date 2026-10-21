@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.990, de 2025-08-18
-
 DECRETO Nº 1.990, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua Zacarias Alves Lima, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

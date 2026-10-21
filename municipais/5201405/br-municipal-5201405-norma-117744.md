@@ -1,5 +1,3 @@
-# Decreto Numerado nº 22, de 2023-01-18
-
 DECRETO “N” Nº 22 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento PARQUE FLAMBOYANT, neste município.

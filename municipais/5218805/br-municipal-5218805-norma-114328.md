@@ -1,5 +1,3 @@
-# Lei Complementar nº 92, de 2017-05-30
-
 LEI COMPLEMENTAR Nº 92, de 30 de maio de 2017.
 
 Altera a [Lei nº 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Servidores do Município, criando gratificação por encargo que menciona.

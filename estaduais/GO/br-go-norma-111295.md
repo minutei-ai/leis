@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 163, de 2025-08-12
-
 Portaria Orçamentária nº 163/2025 - Economia
 
 O PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS, no uso de suas atribuições legais, com fundamento no art. 9º §1º da Lei nº 23.246, de 25 de janeiro de 2025.

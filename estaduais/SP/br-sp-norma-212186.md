@@ -1,5 +1,3 @@
-# Lei nº 18.392, de 02/02/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212186)<br>
 
 # LEI N° 18.392, DE 02 DE FEVEREIRO DE 2026

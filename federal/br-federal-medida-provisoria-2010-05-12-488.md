@@ -1,5 +1,3 @@
-# Medida Provisória nº 488 de 12/05/2010
-
 ###MPV-000488-0-000-12-05-2010@@@
 
 MEDIDA PROVISÓRIA Nº 488, DE 12 DE MAIO DE 2010.

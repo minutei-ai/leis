@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.604, de 2016-04-26
-
 **LEI N. 6.604, DE 26 DE ABRIL DE 2016**
 
 <br>

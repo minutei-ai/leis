@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3249, de 2014-12-23
-
 LEI MUNICIPAL Nº 3.249, DE 23 DE DEZEMBRO DE 2014.<br>
 (Revogada pela Lei Ordinária nº 3.548, de 6 de abril de 2020).
 

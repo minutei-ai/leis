@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.168 de 03/04/2023
-
 MEDIDA PROVISÓRIA Nº 1.168, DE 3 DE ABRIL DE 2023
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública; do Meio Ambiente e Mudança do Clima; da Defesa; do Desenvolvimento e Assistência Social, Família e Combate à Fome; e dos Povos Indígenas, no valor de R$ 640.074.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.311, de 2026-05-25
-
 LEI Nº 24.311, DE 25 DE MAIO DE 2026
 
 Autoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica.

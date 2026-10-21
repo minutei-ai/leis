@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.606, de 2025-02-24
-
 LEI Nº 7.606, DE 24 DE FEVEREIRO DE 2025.
 
 Dispõe sobre denominação de ponte localizada na região do Rio São Tomaz, e dá outras providências.

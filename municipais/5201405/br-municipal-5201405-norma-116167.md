@@ -1,5 +1,3 @@
-# Lei Complementar nº 181, de 2020-12-21
-
 LEI COMPLEMENTAR N° 181, DE 21 DE DEZEMBRO DE 2020
 
 “Dispõe sobre a Suspensão de Benefícios Transitórios – Auxílio Doença, Auxílio Reclusão, Salário Família e Salário Maternidade”.

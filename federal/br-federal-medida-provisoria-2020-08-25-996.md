@@ -1,5 +1,3 @@
-# Medida Provisória nº 996 de 25/08/2020
-
 MEDIDA PROVISÓRIA Nº 996, DE 25 DE AGOSTO DE 2020
 
 Institui o Programa Casa Verde e Amarela.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 255, de 2024-04-15
-
 DECRETO “N” Nº 255 DE 15 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

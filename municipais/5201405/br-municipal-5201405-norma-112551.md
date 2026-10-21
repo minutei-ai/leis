@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.419, de 2025-05-22
-
 DECRETO Nº 1.419, DE 22 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Vereador Elberto Batista no Loteamento Setor Serra Dourada – 3º Etapa, no Município de Aparecida de Goiânia.

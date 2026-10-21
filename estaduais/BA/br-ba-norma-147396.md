@@ -1,5 +1,3 @@
-# LEI Nº 14.954 DE 14 DE JULHO DE 2025
-
 LEI Nº 14.954 DE 14 DE JULHO DE 2025
 
 Altera as Leis nº [8.966](https://www.legislabahia.ba.gov.br/documentos/lei-no-8966-de-22-de-dezembro-de-2003), de 22 de dezembro de 2003, e [12.607](https://www.legislabahia.ba.gov.br/documentos/lei-no-12607-de-26-de-dezembro-de-2012), de 26 de dezembro de 2012, modifica o Regime Jurídico aplicável aos servidores do Quadro de Pessoal do Ministério Público do Estado da Bahia, reestrutura o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia e dá outras providências.

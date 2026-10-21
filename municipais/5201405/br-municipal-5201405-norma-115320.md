@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.666, de 2022-05-06
-
 LEI MUNICIPAL Nº 3.666, DE 06 DE MAIO DE 2022.
 
 “Dispõe sobre a denominação da Praça Liosmar Evaristo Mendanha - Léo Mendanha no Jardim Olímpico neste município e dá outras providências”.

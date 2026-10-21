@@ -1,5 +1,3 @@
-# Decreto Numerado nº 428, de 2023-07-03
-
 DECRETO “N” Nº 428 DE 03 DE JULHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE VEIGA JARDIM, neste município.

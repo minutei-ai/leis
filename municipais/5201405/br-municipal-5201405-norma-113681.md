@@ -1,5 +1,3 @@
-# Decreto Numerado nº 263, de 2026-03-26
-
 DECRETO Nº 263, DE 26 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

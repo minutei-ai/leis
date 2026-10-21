@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.219 de 15/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.219, DE 15 DE MAIO DE 2024
 
 Institui Apoio Financeiro destinado às famílias desalojadas ou desabrigadas nos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecida pelo Poder Executivo federal.

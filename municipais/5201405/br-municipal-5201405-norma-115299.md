@@ -1,5 +1,3 @@
-# Decreto Numerado nº 462, de 2026-06-12
-
 DECRETO Nº 462, DE 12 DE JUNHO DE 2026
 
 Dispõe sobre a Regularização Fundiária Urbana de Interesse Social – Reurb-S do Lote 8-A, da Quadra 32, situado à Rua Tocantins, no Loteamento Setor Santo André, no Município de Aparecida de Goiânia e dá outras providências.

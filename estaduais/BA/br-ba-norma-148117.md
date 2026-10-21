@@ -1,5 +1,3 @@
-# LEI Nº 15.066 DE 19 DE DEZEMBRO DE 2025
-
 LEI Nº 15.066 DE 19 DE DEZEMBRO DE 2025
 
 Altera a Lei nº 11.631, de 30 de dezembro de 2009, e a Lei nº 12.929, de 27 de dezembro de 2013, na forma que indica, e dá outras providências.

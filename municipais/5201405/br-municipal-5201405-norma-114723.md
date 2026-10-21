@@ -1,5 +1,3 @@
-# Decreto Numerado nº 407, de 2026-05-21
-
 DECRETO Nº 407, DE 21 DE MAIO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 12 e 13, situados à Avenida Domingos de Barros Vellasco, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

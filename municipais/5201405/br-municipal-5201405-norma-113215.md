@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.484, de 2025-10-21
-
 DECRETO Nº 2.484, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua dos Palmitos, no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia.

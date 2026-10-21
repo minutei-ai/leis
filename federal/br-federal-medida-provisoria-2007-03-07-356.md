@@ -1,5 +1,3 @@
-# Medida Provisória nº 356 de 07/03/2007
-
 ###MPV-000356-0-000-07-03-2007@@@
 
 MEDIDA PROVISÓRIA Nº 356, DE 7 DE MARÇO DE 2007.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 213, de 2026-03-13
-
 DECRETO Nº 213, DE 13 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Dr. Antônio Felix da Silva, no Loteamento Jardim Dom Bosco – 2º Etapa, no Município de Aparecida de Goiânia.

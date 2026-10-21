@@ -1,5 +1,3 @@
-# Decreto Numerado nº 383, de 2026-05-14
-
 DECRETO Nº 383, DE 14 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua Professor Guerreiro Ramos, no Loteamento Jardim Riviera, no Município de Aparecida de Goiânia.

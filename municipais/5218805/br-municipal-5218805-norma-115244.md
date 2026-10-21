@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.721, de 2023-10-02
-
 LEI Nº. 7.421, DE 02 DE OUTUBRO DE 2023.
 
 Dispõe sobre transação e parcelamento de débitos decorrentes de tributos, multas tributárias e não tributárias do Município de Rio Verde, a fim de atender o Programa de Recuperação de Créditos Fiscais doravante denominado de REFIS, exceto os tratados pela Lei Municipal nº. 7.394/2023, e dá outras providências.

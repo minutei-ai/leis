@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.312, de 2025-03-31
-
 LEI Nº 23.312, DE 31 DE MARÇO DE 2025
 
 Altera a [Lei nº 22.304](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107831), de 3 de outubro de 2023, que institui a Política Estadual de Atenção à Saúde Materno-Infantil.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.688, de 2022-11-11
-
 LEI MUNICIPAL Nº 3.688 DE 11 DE NOVEMBRO DE 2022.
 
 Altera a Lei Municipal 3.335 de 21 de outubro de 2016, que “Dá nome à Avenida com início no Jardim Bela Vista, passando pelos Setores Santa Luzia, Residencial Santa Luzia, Chácara São Pedro, Jardim dos Buritis, Vila São Pedro, Vale do Sol e termina na Avenida Santana, no Setor Real Grandeza (Eixo Norte – Sul 1 – NS1)".

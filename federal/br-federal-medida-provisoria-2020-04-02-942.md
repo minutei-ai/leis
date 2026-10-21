@@ -1,5 +1,3 @@
-# Medida Provisória nº 942 de 02/04/2020
-
 MEDIDA PROVISÓRIA Nº 942, DE 2 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor da Presidência da República e dos Ministérios da Educação, da Justiça e Segurança Pública, e da Mulher, da Família e dos Direitos Humanos, no valor de R$ 639.034.512,00, para os fins que especifica.

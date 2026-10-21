@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.133, de 2026-03-13
-
 LEI Nº 24.133, DE 13 DE MARÇO DE 2026
 
 Altera a [Lei nº 21.671](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106377), de 6 de dezembro de 2022, alteradora da [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, Código Tributário do Estado de Goiás – CTE, da [Lei nº 13.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82287), de 26 de dezembro de 1997, e da [Lei nº 13.453](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81297), de 16 de abril de 1999, que tratam de matéria tributária, e dispõe sobre a sucessão da titularidade, da gestão, da execução, da fiscalização e do acompanhamento de projetos, obras, serviços, contratos e demais instrumentos jurídicos vinculados ao Fundo Estadual de Infraestrutura em favor da Agência Goiana de Infraestrutura e Transportes.

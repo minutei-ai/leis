@@ -1,5 +1,3 @@
-# Lei Complementar nº 91, de 2014-06-02
-
 LEI COMPLEMENTAR Nº 91, DE 02 DE JULHO DE 2014
 
 Altera dispositivos e Anexos que especifica, da Lei Complementar nº 085, de 17 de junho de 2014, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadro Permanente da Secretaria Municipal de Saúde de Aparecida de Goiânia – Altera a Lei Municipal nº 2.229 de 18, de dezembro de 2001 e dá outras providências.

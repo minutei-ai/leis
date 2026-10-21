@@ -1,5 +1,3 @@
-# LD Nº 35 DE 11 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 35 DE 11 DE MARÇO DE 1983
 
 Reorganiza o Instituto de Cacau da Bahia - ICB e dá outras providências.

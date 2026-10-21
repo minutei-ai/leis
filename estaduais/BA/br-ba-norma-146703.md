@@ -1,5 +1,3 @@
-# LEI Nº 14.915 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.915 DE 27 DE MAIO DE 2025
 
 Revoga a Lei nº [14.201](https://www.legislabahia.ba.gov.br/documentos/lei-no-14201-de-29-de-janeiro-de-2020), de 29 de janeiro de 2020.

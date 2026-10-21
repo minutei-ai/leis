@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.212, de 2025-09-12
-
 DECRETO Nº 2.212, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, da Quadra 02, situado à Rua 1, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

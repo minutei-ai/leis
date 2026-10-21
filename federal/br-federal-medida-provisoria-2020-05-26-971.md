@@ -1,5 +1,3 @@
-# Medida Provisória nº 971 de 26/05/2020
-
 MEDIDA PROVISÓRIA Nº 971, DE 26 DE MAIO DE 2020
 
 Aumenta a remuneração da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal e da Polícia Militar e do Corpo de Bombeiros Militar dos Extintos Territórios Federais e altera as regras de cessão da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal.

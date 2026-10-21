@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.264, de 2025-09-23
-
 DECRETO Nº 2.264, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, da Quadra 69, situado à Avenida W-1, no Loteamento Mansões Paraíso, no Município de Aparecida de Goiânia.

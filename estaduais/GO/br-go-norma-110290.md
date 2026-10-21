@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.175, de 2024-12-27
-
 LEI Nº 23.175, DE 27 DE DEZEMBRO DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.

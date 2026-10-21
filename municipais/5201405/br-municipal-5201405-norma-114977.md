@@ -1,5 +1,3 @@
-# Decreto Numerado nº 257, de 2024-04-16
-
 DECRETO “N” Nº 257 DE 16 DE ABRIL DE 2024.
 
 Dispõe sobre remembramento de imóveis.

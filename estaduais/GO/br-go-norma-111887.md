@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.960, de 2025-12-20
-
 LEI Nº 23.960, DE 20 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 23.302](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110530 "Abrir Lei Ordinária nº 23302, de 2025 em nova aba"), de 27 de março de 2025, que institui o Circuito Estadual de Feiras do Agronegócio.

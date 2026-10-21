@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.536, de 2024-01-09
-
 LEI Nº 22.536, DE 9 DE JANEIRO DE 2024<br>
  
 

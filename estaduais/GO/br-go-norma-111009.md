@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.534, de 2025-07-01
-
 LEI Nº 23.534, DE 1º DE JULHO DE 2025
 
 Autoriza a aquisição, por doação onerosa do Município de Senador Canedo/GO, do imóvel que especifica.

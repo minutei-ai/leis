@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.991, de 2025-12-30
-
 LEI Nº 23.991, DE 30 DE DEZEMBRO DE 2025<br>
 \- [Vide Lei nº 24.312, de 25-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114842/lei-24312) - Altera a denominação do estabelecimento de ensino que especifica. 
 

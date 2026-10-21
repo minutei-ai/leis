@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.120, de 2025-09-01
-
 DECRETO Nº 2.120, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01 ao 08 e 25 ao 32, situados à na Rua JI-51 e Rua JI-50, no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

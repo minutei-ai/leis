@@ -1,5 +1,3 @@
-# Decreto Numerado nº 230, de 2024-04-10
-
 DECRETO “N” Nº 230 DE 10 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

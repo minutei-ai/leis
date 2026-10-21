@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.510, de 2024-07-26
-
 DECRETO Nº 10.510, DE 26 DE JULHO DE 2024
 
 Institui, no Estado de Goiás, a Semana de Celebração e de Valorização da Cultura e da História das Comunidades Quilombolas, a ser celebrada anualmente na primeira semana de maio.

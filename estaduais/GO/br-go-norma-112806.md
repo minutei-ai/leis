@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.086, de 2026-02-10
-
 LEI Nº 24.086, DE 10 DE FEVEREIRO DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval de Porangatu, realizado no Município de Porangatu/GO.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.482, de 2024-06-21
-
 DECRETO Nº 10.482, DE 21 DE JUNHO DE 2024
 
 Aprova o Regulamento da Secretaria de Estado da Educação – SEDUC.

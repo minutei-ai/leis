@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.597, de 2024-12-10
-
 DECRETO Nº 10.597, DE 10 DE DEZEMBRO DE 2024
 
 Decreta a intervenção estadual no Município de Goiânia/GO para adotar as medidas necessárias à normalização das ações e dos serviços essenciais de saúde nos termos que especifica.

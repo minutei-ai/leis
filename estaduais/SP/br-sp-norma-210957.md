@@ -1,5 +1,3 @@
-# Decreto nº 69.553, de 22/05/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210957)<br>
 
 # DECRETO N° 69.553, DE 22 DE MAIO DE 2025

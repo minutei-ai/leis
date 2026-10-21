@@ -1,5 +1,3 @@
-# Decreto nº 69.751, de 28/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211250)<br>
 
 # DECRETO N° 69.751, DE 28 DE JULHO DE 2025

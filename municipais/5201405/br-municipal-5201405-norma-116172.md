@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.534, de 2020-01-07
-
 LEI MUNICIPAL Nº 3.534, DE 07 DE JANEIRO DE 2020.
 
 Altera dispositivos da Lei nº 3.024, de 20 de abril de 2012, que dispõe sobre a Gratificação de produtividade dos servidores ocupantes do cargo de Fiscal de Saúde Pública de Aparecida de Goiânia e dá outras providências.

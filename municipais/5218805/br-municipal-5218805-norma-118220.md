@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.895, de 2004-12-15
-
 **LEI Nº 4.895/2004, DE 15 DE DEZEMBRO DE 2004**
 
 Altera a Lei nº 3.496/97.

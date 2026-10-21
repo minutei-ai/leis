@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.696, de 2025-06-27
-
 DECRETO Nº 1.696, DE 27 DE JUNHO DE 2025
 
 Dispõe sobre o remembramento do Lote 16, 17, 18 e 19, da Quadra 102, situado à Avenida Presidente Vargas, no Loteamento Goiânia Park Sul, no Município de Aparecida de Goiânia.

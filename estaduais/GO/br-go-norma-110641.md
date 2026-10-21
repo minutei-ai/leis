@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.386, de 2025-04-30
-
 LEI Nº 23.386, DE 30 DE ABRIL DE 2025
 
 Altera a [Lei nº 17.356](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89346), de 21 de junho de 2011, que institui a Política Estadual de Saúde Bucal e dá outras providências.

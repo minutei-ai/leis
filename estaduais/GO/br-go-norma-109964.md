@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.099, de 2024-11-25
-
 LEI Nº 23.099, DE 25 DE NOVEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.849, de 2026-04-23
-
 LEI Nº 7.849, DE 23 DE ABRIL DE 2026.
 
 Institui o Dia do Campista Católico no Município de Rio Verde – Goiás e dá outras providências.

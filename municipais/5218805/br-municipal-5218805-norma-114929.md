@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.567, de 2024-10-31
-
 LEI Nº 7.567, DE 31 DE OUTUBRO DE 2024.
 
 Institui no Município de Rio Verde a “Semana do Brincar” Municipal de Estímulo a Brincadeiras na Infância.

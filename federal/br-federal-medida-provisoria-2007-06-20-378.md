@@ -1,5 +1,3 @@
-# Medida Provisória nº 378 de 20/06/2007
-
 ###MPV-000378-0-000-20-06-2007@@@
 
 MEDIDA PROVISÓRIA Nº 378, DE 20 DE JUNHO DE 2007.

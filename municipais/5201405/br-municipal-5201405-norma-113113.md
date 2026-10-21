@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.186, de 2025-09-08
-
 DECRETO Nº 2.186, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua C-7, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

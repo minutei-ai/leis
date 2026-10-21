@@ -1,5 +1,3 @@
-# Medida Provisória nº 801 de 20/09/2017
-
 MEDIDA PROVISÓRIA Nº 801, DE 20 DE SETEMBRO DE 2017
 
 Dispõe sobre a contratação, o aditamento, a repactuação e a renegociação de operações de crédito, a concessão de garantia pela União e a contratação com a União realizadas com fundamento na [Lei Complementar nº 156, de 28 de dezembro de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2016-12-28;156), e na [Lei Complementar nº 159, de 19 de maio de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2017-05-19;159), e sobre a realização de termos aditivos a contratos de refinanciamento celebrados com a União com fundamento na [Lei Complementar nº 148, de 25 de novembro de 2014](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2014-11-25;148).

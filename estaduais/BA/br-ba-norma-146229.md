@@ -1,5 +1,3 @@
-# LEI N° 14.862 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.862 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre a realização de seminário antidrogas no início de cada semestre do ano letivo nas escolas da Rede Estadual de Ensino do Estado da Bahia.

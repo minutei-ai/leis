@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.194 de 13/11/2023
-
 MEDIDA PROVISÓRIA Nº 1.194, DE 13 DE NOVEMBRO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 100.000.000,00, para o fim que especifica.

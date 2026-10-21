@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.794, de 2024-06-17
-
 LEI Nº 22.794, DE 17 DE JUNHO DE 2024
 
 Institui o Dia Estadual da Música Gospel.

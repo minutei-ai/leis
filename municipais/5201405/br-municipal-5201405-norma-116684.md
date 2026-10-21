@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.371, de 2017-08-16
-
 LEI MUNICIPAL Nº 3.371, DE 16 DE AGOSTO DE 2017
 
 “Dá nome a academia de ginástica no Centro Olímpico, de ANTÔNIO SANTOS MACHADO, situada no Setor Conde dos Arcos, neste município.”

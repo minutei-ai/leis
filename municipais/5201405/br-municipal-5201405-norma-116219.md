@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.576, de 2020-09-18
-
 LEI MUNICIPAL N° 3.576, DE 18 DE SETEMBRO DE 2020.
 
 “Revoga a Lei Municipal nº 2.982, de 12 de Setembro de 2011.”

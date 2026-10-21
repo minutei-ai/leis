@@ -1,5 +1,3 @@
-# Decreto nº 69.112, de 05/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210294)<br>
 
 # DECRETO N° 69.112, DE 05 DE DEZEMBRO DE 2024

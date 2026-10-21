@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.174, de 2026-03-26
-
 LEI Nº 24.174, DE 26 DE MARÇO DE 2026
 
 Autoriza a instalação e o funcionamento de farmácias e drogarias integradas às áreas de venda de supermercados, hipermercados, atacarejos e estabelecimentos similares no Estado de Goiás e dá outras providências.

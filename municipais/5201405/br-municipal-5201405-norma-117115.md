@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.231, de 2014-12-08
-
 LEI MUNICIPAL N° 3.231, DE 08 DE DEZEMBRO DE 2014.
 
 Dá nome ao Centro Municipal de Educação Infantil – CMEI do Parque Trindade I, neste Município.

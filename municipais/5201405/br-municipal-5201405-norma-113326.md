@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.305, de 2025-09-24
-
 DECRETO Nº 2.305, DE 24 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 07, situado à Rua C-9, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

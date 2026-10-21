@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.424, de 2025-05-15
-
 LEI Nº 23.424, DE 15 DE maio DE 2025
 
 Dispõe sobre a obrigatoriedade da assinatura física das pessoas idosas em contratos de operação de crédito firmados por meio eletrônico ou telefônico.

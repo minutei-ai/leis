@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.441, de 2023-11-27
-
 LEI Nº 7.441, DE 27 DE NOVEMBRO DE 2023.
 
 Altera Lei nº 5.981, de 24 de agosto de 2011, que institui o auxílio-alimentação para os servidores públicos de Rio Verde.

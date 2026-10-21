@@ -1,5 +1,3 @@
-# Decreto Numerado nº 12, de 2026-01-08
-
 DECRETO Nº 012, DE 8 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 16 e 17, situados à Rua Manoel Gomes Xavier, no Loteamento Setor Serra Dourada 3ª Etapa, no Município de Aparecida de Goiânia.

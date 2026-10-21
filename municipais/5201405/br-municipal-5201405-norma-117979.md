@@ -1,5 +1,3 @@
-# Decreto Numerado nº 227, de 2023-04-10
-
 DECRETO “N” Nº 227 DE 10 DE ABRIL DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento SETOR ARAGUAIA ACRÉSCIMO, neste município.

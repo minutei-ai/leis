@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.600, de 2025-06-18
-
 DECRETO Nº 1.600, DE 18 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Guanabara, no Loteamento Bairro Independência – 3º Complemento, no Município de Aparecida de Goiânia.

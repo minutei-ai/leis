@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.071, de 2001-05-07
-
 LEI Nº 4.071, DE 07 DE MAIO DE 2001.
 
 Altera a Lei n. 3.635/98, Código de Posturas do Município.

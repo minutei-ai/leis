@@ -1,5 +1,3 @@
-# Medida Provisória nº 187 de 13/05/2004
-
 ###MPV-000187-0-000-13-05-2004@@@
 
 MEDIDA PROVISÓRIA Nº 187, DE 13 DE MAIO 2004

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.683, de 2025-06-30
-
 LEI N° 7.683, DE 30 DE JUNHO DE 2025
 
 Altera a Lei n° 6.865, de 5 de julho de 2018, que dispões sobre o Programa Municipal de Desenvolvimento Econômico - PRODEN-RV.

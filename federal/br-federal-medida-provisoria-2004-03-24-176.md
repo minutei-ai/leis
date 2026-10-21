@@ -1,5 +1,3 @@
-# Medida Provisória nº 176 de 24/03/2004
-
 ###MPV-000176-0-000-24-03-2004@@@
 
 MEDIDA PROVISÓRIA Nº 176, DE 24 DE MARÇO DE 2004

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.204, de 2026-04-07
-
 LEI Nº 24.204, DE 7 DE ABRIL DE 2026
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.745, de 2010-03-02
-
 LEI Nº 5.745, DE 02 DE MARÇO DE 2010
 
 Altera quantitativo do cargo de Fiscal Ambiental.

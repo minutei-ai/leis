@@ -1,5 +1,3 @@
-# Decreto Numerado nº 544, de 2026-10-09
-
 DECRETO Nº 544, DE 9 DE OUTUBRO DE 2026
 
 Altera o Decreto nº 1.020, de 12 de março de 2025, que aprovou loteamento denominado Porto Jatobá, no âmbito do Município de Aparecida de Goiânia.

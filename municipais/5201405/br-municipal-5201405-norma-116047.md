@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.026, de 1999-12-23
-
 LEI MUNICIPAL Nº 2.026-A, DE 23 DE DEZEMBRO DE 1999.
 
 Altera dispositivo a seguir enumerados da Lei Municipal nº 1.332, de 22 de dezembro 1993 e da Lei Municipal nº 1.353, de 24 de março de 1994.

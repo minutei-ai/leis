@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.181, de 2014-05-23
-
 LEI MUNICIPAL Nº 3.181, DE 26 DE MAIO DE 2014.
 
 Dá nome de Escola Municipal Francisco de Assis Nunes, em construção na Área Pública Municipal 02, localizada na confluência das Ruas MG-13 esquina com a Alameda João Reis, Setor Madre Germana I, Aparecida de Goiânia-GO.<br>

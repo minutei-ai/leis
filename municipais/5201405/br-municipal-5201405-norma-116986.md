@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.272, de 2015-07-06
-
 LEI MUNICIPAL Nº 3.272, DE 06 DE JULHO DE 2015.
 
 Revoga a Lei Municipal n. 2.816, de 04 de junho de 2009.

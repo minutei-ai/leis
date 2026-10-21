@@ -1,5 +1,3 @@
-# Lei Ordinária nº 4.076, de 2001-05-07
-
 LEI Nº 4.076, DE 07 DE MAIOR DE 2001.
 
 Altera quantitativo de cargos e dá outras providências.

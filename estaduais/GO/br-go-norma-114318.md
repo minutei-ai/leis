@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.904, de 2026-05-07
-
 DECRETO Nº 10.904, DE 7 DE MAIO DE 2026
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE.

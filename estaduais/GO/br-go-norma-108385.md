@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.529, de 2024-01-08
-
 LEI Nº 22.529, DE 8 DE JANEIRO DE 2024
 
 Altera a [Lei nº 12.695](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82639), de 11 de setembro de 1995, que cria a Política Estadualde Atenção ao Deficiente, o Fundo Estadual de Apoio ao Deficiente, o Conselho Estadual dos Direitos da Pessoa com Deficiência e dá outras providências, a [Lei nº 19.075](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/96752), de 27 de outubro de 2015, que institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista e estabelece diretrizes para sua consecução, e a [Lei nº 20.116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99992), de 08 de junho de 2018, que obriga os estabelecimentos públicos e privados a inserir nas placas de atendimento prioritário o símbolo mundial do autismo.

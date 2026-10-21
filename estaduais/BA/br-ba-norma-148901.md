@@ -1,5 +1,3 @@
-# LEI Nº 15.183 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.183 DE 1º DE JULHO DE 2026
 
 Declara de utilidade pública o Instituto Cumoa, com sede e foro em Salvador.

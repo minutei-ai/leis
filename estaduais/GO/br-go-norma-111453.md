@@ -1,5 +1,3 @@
-# Emenda Constitucional nº 87, de 2025-10-16
-
 EMENDA CONSTITUCIONAL Nº 87, DE 16 DE OUTUBRO DE 2025.
 
 Altera o art. 15 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba").

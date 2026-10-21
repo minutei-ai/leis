@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.263, de 2026-05-13
-
 LEI Nº 24.263, DE 13 DE MAIO DE 2026
 
 Institui o Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia.

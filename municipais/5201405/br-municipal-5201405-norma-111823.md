@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.845, de 2025-07-24
-
 LEI Nº 3.845, DE 24 DE JULHO DE 2025
 
 Cria a Medalha do Mérito Legislativo Maria Elis de Deus no Município de Aparecida de Goiânia e dá outras providências. 

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.792, de 2025-11-03
-
 LEI Nº 23.792, DE 3 DE NOVEMBRO DE 2025
 
 Institui a Política Estadual “Aluno Presente”.

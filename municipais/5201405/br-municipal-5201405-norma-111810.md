@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.854, de 2025-09-05
-
 LEI Nº 3.854, DE 5 DE SETEMBRO DE 2025
 
 Veda a inauguração de obra pública incompleta ou que não atenda ao fim que se destina, no âmbito da administração direta, autárquica e fundacional do Município de Aparecida de Goiânia.

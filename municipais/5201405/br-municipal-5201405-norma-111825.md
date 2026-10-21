@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.842, de 2025-07-24
-
 LEI Nº 3.842, DE 24 DE JULHO DE 2025 
 
 Reconhece como Utilidade Pública Municipal a “Igreja Batista Independente Cidade Livre” e dá outras providências.

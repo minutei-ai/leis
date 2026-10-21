@@ -1,5 +1,3 @@
-# Decreto Numerado nº 220, de 2024-04-09
-
 DECRETO “N” Nº 220 DE 09 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

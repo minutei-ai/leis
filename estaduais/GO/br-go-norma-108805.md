@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.660, de 2024-05-06
-
 LEI Nº 22.660, DE 6 DE MAIO DE 2024
 
 Concede o título de cidadania que especifica.

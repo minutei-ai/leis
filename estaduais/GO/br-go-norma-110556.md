@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.670, de 2025-04-02
-
 DECRETO Nº 10.670, DE 2 DE ABRIL DE 2025
 
 Altera os Anexos I e II do [Decreto nº 10.557](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109477), de 18 de setembro de 2024, que declara de utilidade pública, para efeito de desapropriação e instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

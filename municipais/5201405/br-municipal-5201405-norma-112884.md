@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.674, de 2025-11-19
-
 DECRETO Nº 2.674, DE 19 DE NOVEMBRO DE 2025
 
 Dispõe sobre a aprovação do Loteamento Setor Araguaia Acréscimo I, no âmbito do Município de Aparecida de Goiânia.

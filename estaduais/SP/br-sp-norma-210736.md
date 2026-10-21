@@ -1,5 +1,3 @@
-# Lei nº 18.116, de 12/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210736)<br>
 
 # LEI N° 18.116, DE 12 DE MARÇO DE 2025

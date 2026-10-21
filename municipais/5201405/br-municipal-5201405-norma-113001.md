@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.890, de 2026-02-19
-
 LEI Nº 3.890, DE 19 DE FEVEREIRO DE 2026
 
 Institui o Dia Municipal da Advocacia Jovem no Município de Aparecida de Goiânia e dá outras providências.

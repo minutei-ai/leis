@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.770, de 2025-07-16
-
 DECRETO Nº 1.770, DE 16 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 2P, situado à Rua 114 no Loteamento Jardim Miramar no Município de Aparecida de Goiânia.

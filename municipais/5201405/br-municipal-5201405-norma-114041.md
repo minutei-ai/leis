@@ -1,5 +1,3 @@
-# Decreto Numerado nº 648, de 2024-08-13
-
 DECRETO “N” N° 648, DE 13 DE AGOSTO DE 2024.
 
 Dispõe sobre a regulamentação da Lei Municipal nº 3.728 de 09 de agosto de 2023 que dispõe sobre a criação do Fundo Especial de Mobilidade e Transporte de Aparecida (FEMTA) e dá outras providências.

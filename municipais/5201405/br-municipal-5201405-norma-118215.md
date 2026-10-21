@@ -1,5 +1,3 @@
-# Decreto Numerado nº 436, de 2023-07-04
-
 DECRETO “N” Nº 436 DE 04 DE JULHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento BAIRRO CARDOSO, neste município.

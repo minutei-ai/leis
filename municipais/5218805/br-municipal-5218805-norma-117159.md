@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.175, de 2021-10-01
-
 LEI Nº 7.175, DE 1º DE OUTUBRO DE 2021.
 
 Autoriza o Chefe do Poder Executivo a firmar Parcerias Intermunicipais, e dá outras providências.

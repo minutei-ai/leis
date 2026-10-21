@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.922, de 2026-08-24
-
 LEI Nº 3.922, DE 24 DE AGOSTO DE 2026
 
 Dispõe sobre o licenciamento para o funcionamento de estabelecimentos em determinados loteamentos irregulares ou clandestinos consolidados no Município de Aparecida de Goiânia e dá outras providências.

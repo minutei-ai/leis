@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.529, de 2019-12-09
-
 LEI MUNICIPAL Nº 3.529, DE 09 DE DEZEMBRO DE 2019.
 
 Altera a Lei Municipal n° 3.235/2014, que “Estabelece normas e diretrizes para efetivação de matriculas nos Centros Municipais de Ensino Infantil – CMEIS, neste Município.

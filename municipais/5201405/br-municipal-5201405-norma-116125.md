@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.625, de 2021-09-21
-
 LEI MUNICIPAL Nº 3.625, DE 21 DE SETEMBRO DE 2021.
 
 “Altera a Lei Municipal nº 3.474 de 14 de junho de 2019 que Desafeta bens públicos situados no loteamento Garavelo Residencial Park, neste Município, e autoriza permuta e dá outras providências.”

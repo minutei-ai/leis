@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.141, de 2025-09-04
-
 DECRETO Nº 2.141, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 20, 21 e 22, todos da Quadra 04, situados à Rua 67, no Loteamento Pontal Sul - Acréscimo, no Município de Aparecida de Goiânia.

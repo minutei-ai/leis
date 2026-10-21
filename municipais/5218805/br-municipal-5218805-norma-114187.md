@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.732, de 2025-11-12
-
 LEI Nº 7.732, DE 12 DE NOVEMBRO DE 2025.
 
 Reconhece como Utilidade Pública Municipal a Escola Adventista de Rio Verde - GO e dá outras providências.

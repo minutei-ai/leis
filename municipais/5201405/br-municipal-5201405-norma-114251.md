@@ -1,5 +1,3 @@
-# Decreto Numerado nº 823, de 2024-10-01
-
 DECRETO “N” Nº 823, DE 01 DE OUTUBRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Jardim Riviera neste município como de Interesse Social.

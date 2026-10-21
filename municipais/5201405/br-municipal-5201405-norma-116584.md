@@ -1,5 +1,3 @@
-# Lei Complementar nº 153, de 2018-10-09
-
 LEI COMPLEMENTAR Nº 153, DE 09 DE OUTUBRO DE 2018
 
 Altera a Lei Complementar nº 95, de 17 de outubro de 2014 – Plano de Cargos, Carreiras e Vencimentos dos Trabalhadores Administrativos da Secretaria Municipal de Educação da Prefeitura Municipal de Aparecida de Goiânia-GO.

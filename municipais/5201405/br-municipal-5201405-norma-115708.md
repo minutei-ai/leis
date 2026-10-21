@@ -1,5 +1,3 @@
-# Decreto Numerado nº 465, de 2024-06-14
-
 DECRETO “N” Nº 465 DE 14 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

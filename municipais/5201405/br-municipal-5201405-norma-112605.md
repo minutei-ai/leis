@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.419, de 2025-10-08
-
 DECRETO Nº 2.419, DE 8 DE OUTUBRO DE 2025
 
 Declara ponto facultativo no âmbito da Administração Pública Municipal, em razão do Dia do Servidor Público.

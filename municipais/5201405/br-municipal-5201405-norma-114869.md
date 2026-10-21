@@ -1,5 +1,3 @@
-# Decreto Numerado nº 422, de 2026-05-25
-
 DECRETO Nº 422, DE 25 DE MAIO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 05 e 30, todos da Quadra 45, situados à Rua do Lirio e Avenida das Laranjeiras, no Loteamento Parque Primavera, no Município de Aparecida de Goiânia.

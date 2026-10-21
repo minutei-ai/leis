@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.871, de 2025-12-02
-
 LEI Nº 3.871, DE 2 DE DEZEMBRO DE 2025
 
 Institui o Programa Banco de Ração para Animais Domésticos e seus Utensílios no município de Aparecida de Goiânia-GO, com o objetivo de captar doações e promover sua distribuição.

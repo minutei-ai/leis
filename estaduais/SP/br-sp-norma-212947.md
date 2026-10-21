@@ -1,5 +1,3 @@
-# Decreto nº 70.844, de 03/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212947)<br>
 
 # DECRETO N° 70.844, DE 03 DE SETEMBRO DE 2026

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.331, de 2016-09-16
-
 LEI MUNICIPAL Nº 3.331, DE 16 DE SETEMBRO DE 2016.
 
 Disciplina o recolhimento de veículos abandonados em vias ou logradouros públicos neste município, e dá outras providências. 

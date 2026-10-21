@@ -1,5 +1,3 @@
-# LD Nº 05 DE 16 DE DEZEMBRO DE 1971
-
 LEI DELEGADA Nº 05 DE 16 DE DEZEMBRO DE 1971
 
 Majora os vencimentos dos tarefeiros estabilizados.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.776, de 2025-09-08
-
 DECRETO Nº 10.776 DE 8 DE SETEMBRO DE 2025
 
 Altera o [Decreto nº 10.716](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111001), de 26 de junho de 2025, que declara a situação de emergência em saúde pública no Estado de Goiás em razão do cenário epidemiológico da Síndrome Respiratória Aguda Grave – SRAG.

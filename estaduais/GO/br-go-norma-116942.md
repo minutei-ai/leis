@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.979, de 2026-08-27
-
 DECRETO Nº 10.979, DE 27 DE AGOSTO DE 2026
 
 Declara de utilidade pública, para efeito de desapropriação em favor da Saneamento de Goiás S.A. – SANEAGO, as áreas que especifica.

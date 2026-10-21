@@ -1,5 +1,3 @@
-# EMC nº 103, de 20/12/2019
-
 Altera os arts. 62 e 90 da Constituição do Estado, com referência à concessão do título de cidadão honorário do Estado, e ainda o art. 54.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

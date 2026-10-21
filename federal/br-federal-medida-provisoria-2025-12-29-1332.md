@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.332 de 29/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.332, DE 29 DE DEZEMBRO DE 2025
 
 Altera o [Decreto-Lei nº 9.760, de 5 de setembro de 1946](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1946-09-05;9760), para prorrogar o prazo para conclusão da identificação dos terrenos marginais de rios federais navegáveis, dos terrenos de marinha e seus acrescidos.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.120, de 2021-02-19
-
 LEI Nº 7.120, DE 19 DE FEVEREIRO DE 2021.
 
 Dispõe sobre transposição, transferências e remanejamento de créditos orçamentários no âmbito do Poder Executivo e Legislativo Municipal no vigente orçamento e dá outras providências.

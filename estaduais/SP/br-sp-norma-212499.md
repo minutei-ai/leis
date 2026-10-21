@@ -1,5 +1,3 @@
-# Decreto nº 70.552, de 17/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212499)<br>
 
 # DECRETO N° 70.552, DE 17 DE ABRIL DE 2026

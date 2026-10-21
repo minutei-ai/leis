@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.374 de 30/06/2026
-
 MEDIDA PROVISÓRIA Nº 1.374, DE 30 DE JUNHO DE 2026
 
 Autoriza a concessão de apoio financeiro, na forma de subvenção econômica, aos produtores independentes de cana-de-açúcar da Região Nordeste que sofreram prejuízos econômicos decorrentes da tributação adicional sobre exportações brasileiras impostas pelos Estados Unidos da América ou de eventos climáticos extremos, com o objetivo de preservar a renda, a produção e os empregos no setor sucroenergético, e altera a [Lei nº 9.818, de 23 de agosto de 1999](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-08-23;9818), a [Lei nº 11.540, de 12 de novembro de 2007](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-12;11540), a [Lei nº 14.947, de 2 de agosto de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-08-02;14947), e a [Medida Provisória nº 1.353, de 30 de abril de 2026](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-04-30;1353).

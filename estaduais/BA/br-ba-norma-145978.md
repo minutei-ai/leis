@@ -1,5 +1,3 @@
-# LEI Nº 14.802 DE 26 DE DEZEMBRO DE 2024
-
 LEI Nº 14.802 DE 26 DE DEZEMBRO DE 2024
 
 Altera as Leis nº [4.826](https://www.legislabahia.ba.gov.br/documentos/lei-no-4826-de-27-de-janeiro-de-1989), de 27 de janeiro de 1989, e nº 6.348, de 17 de dezembro de 1991, na forma que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.819, de 2026-02-19
-
 LEI Nº 7.819, DE 19 DE FEVEREIRO DE 2026.
 
 Cria o Programa Terceira Idade em Atividade, destinado a incentivar a inserção e a manutenção de idosos no mercado de trabalho e dá outras providências.

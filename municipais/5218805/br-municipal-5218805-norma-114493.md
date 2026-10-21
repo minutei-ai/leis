@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.308, de 2007-06-27
-
 LEI COMPLEMENTAR Nº 5.308, DE 27 DE JULHO DE 2007.
 
 Altera a Lei n. 3.635/98, Código de Posturas do Município.

@@ -1,5 +1,3 @@
-# LEI N° 14.875 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.875 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre a obrigatoriedade das escolas sediadas na Bahia oferecerem aulas de manobra de Heimlich durante o Ensino Fundamental 2 e Médio.

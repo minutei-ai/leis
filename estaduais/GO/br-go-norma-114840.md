@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.310, de 2026-05-25
-
 LEI Nº 24.310, DE 25 DE MAIO DE 2026
 
 Determina a comunicação à Ordem dos Advogados do Brasil – Seção Goiás – OAB-GO dos casos de violência doméstica ou familiar que envolvam advogadas e advogados.

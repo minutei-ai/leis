@@ -1,5 +1,3 @@
-# Lei Complementar nº 174, de 2020-07-03
-
 LEI COMPLEMENTAR Nº 174 , DE 03 DE JULHO DE 2020.
 
 Cria cargo e altera a Lei Complementar Municipal nº 125 de 11 de Janeiro de 2017, que dispõe sobre a Estrutura Organizacional Administrativa do Município de Aparecida de Goiânia e dá outras providências.

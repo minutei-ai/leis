@@ -1,5 +1,3 @@
-# Lei Ordinária nº 5.747, de 2010-03-02
-
 **LEI N. 5.747, DE 2 DE MARÇO DE 2010**
 
 Altera a Lei n. 5.558/2009, que cria o Programa Bolsa de Produção Cultural.

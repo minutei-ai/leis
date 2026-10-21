@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.827, de 2025-04-28
-
 LEI MUNICIPAL Nº 3.827, DE 28 DE ABRIL DE 2025
 
 Dispõe sobre diretrizes para a realização de eventos nas unidades escolares da rede pública municipal de Aparecida de Goiânia.

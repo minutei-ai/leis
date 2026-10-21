@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.441, de 2024-04-15
-
 DECRETO Nº 10.441, DE 15 DE ABRIL DE 2024
 
 Dispõe sobre a organização do Conselho Estadual do Meio Ambiente – CEMAm e revoga o [Decreto estadual nº 9.769](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103649), de 21 de dezembro de 2020.

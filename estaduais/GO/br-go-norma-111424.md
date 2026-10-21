@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.734, de 2025-10-14
-
 LEI Nº 23.734, DE 14 DE OUTUBRO DE 2025
 
 Institui o Dia Estadual do Orgulho Autista e dá outras providências.

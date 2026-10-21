@@ -1,5 +1,3 @@
-# Lei nº 18.495, de 02/07/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212816)<br>
 
 # LEI N° 18.495, DE 02 DE JULHO DE 2026

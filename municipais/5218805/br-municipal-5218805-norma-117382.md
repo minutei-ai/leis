@@ -1,5 +1,3 @@
-# Lei Complementar nº 365, de 2024-10-31
-
 LEI COMPLEMENTAR Nº 365, DE 31 DE OUTUBRO DE 2024.
 
 Altera a [Lei Complementar nº 88](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117370), de 30 de maio de 2017, que dispõe sobre a criação da Guarda Municipal de Rio Verde.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.866, de 2026-03-06
-
 DECRETO Nº 10.866 DE 6 DE MARÇO DE 2026
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais no dia 20 de março de 2026.

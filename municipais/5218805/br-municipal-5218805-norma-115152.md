@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.485, de 2024-02-26
-
 LEI Nº 7.485, DE 26 DE FEVEREIRO DE 2024.
 
 Altera a Lei nº. 7.283/2022 para reajustar o valor do auxílio-alimentação dos servidores da FESURV – Universidade de Rio Verde.

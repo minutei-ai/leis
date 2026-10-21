@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.637, de 2024-04-29
-
 LEI Nº 22.637, DE 29 DE ABRIL DE 2024
 
 Altera a [Lei nº 21.525](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105968), de 26 de julho de 2022, que dispõe sobre a destinação, às mulheres vítimas de violência doméstica, de 5% (cinco por cento) das unidades de programas de loteamentos sociais e de habitação popular.

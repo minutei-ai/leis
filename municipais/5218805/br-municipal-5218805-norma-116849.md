@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.212, de 2021-11-30
-
 LEI Nº 7.212, DE 30 DE NOVEMBRO DE 2021
 
 Cria comenda que menciona.

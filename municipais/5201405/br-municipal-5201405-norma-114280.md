@@ -1,5 +1,3 @@
-# Decreto Numerado nº 342, de 2026-05-06
-
 DECRETO Nº 342, DE 6 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Rua Rosarita Fleury, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

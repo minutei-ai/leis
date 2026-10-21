@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.873, de 2025-11-28
-
 LEI Nº 23.873, DE 28 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual dos Carros Antigos e dá outras providências.

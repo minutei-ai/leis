@@ -1,5 +1,3 @@
-# Decreto Numerado nº 405, de 2026-05-20
-
 DECRETO Nº 405, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Rio de Janeiro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

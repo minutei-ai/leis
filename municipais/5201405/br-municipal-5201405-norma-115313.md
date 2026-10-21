@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.660, de 2022-03-16
-
 LEI MUNICIPAL Nº 3.660 DE 16 DE MARÇO DE 2022.
 
 Revoga a Lei Municipal nº 3.558, de 17 de Junho de 2020, que dispõe sobre o uso obrigatório de máscaras de proteção facial como medida de prevenção da pandemia provocada pelo Coronavírus (COVID-19) no município de Aparecida de Goiânia e dá outras providências.

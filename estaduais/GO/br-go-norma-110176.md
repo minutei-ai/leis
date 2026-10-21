@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.155, de 2024-12-18
-
 LEI Nº 23.155, DE 18 DE DEZEMBRO DE 2024
 
 Institui a Política Estadual de Incentivo à Prática de Esportes Olímpicos e Paralímpicos.

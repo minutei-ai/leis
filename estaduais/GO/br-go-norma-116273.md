@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.959, de 2026-07-17
-
 DECRETO Nº 10.959, DE 17 DE JULHO DE 2026
 
 Altera o Regulamento da Procuradoria-Geral do Estado – PGE, aprovado pelo [Decreto nº 10.489](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109067 "Abrir Decreto Numerado nº 10489, de 2024 em nova aba"), de 2 de julho de 2024.

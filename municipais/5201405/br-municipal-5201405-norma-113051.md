@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.817, de 2025-12-15
-
 DECRETO Nº 2.817, DE 15 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 31, situado à Rua D. Gercina Borges Teixeira, no Loteamento Bairro Ilda, no Município de Aparecida de Goiânia.

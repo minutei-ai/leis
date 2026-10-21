@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.569, de 2025-07-09
-
 LEI Nº 23.569, DE 9 DE JULHO DE 2025
 
 Concede o título de cidadania que especifica.

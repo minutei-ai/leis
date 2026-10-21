@@ -1,5 +1,3 @@
-# Medida Provisória nº 958 de 24/04/2020
-
 MEDIDA PROVISÓRIA Nº 958, DE 24 DE ABRIL DE 2020
 
 Estabelece normas para a facilitação do acesso ao crédito e mitigação dos impactos econômicos decorrentes da pandemia de coronavírus (covid-19).

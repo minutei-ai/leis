@@ -1,5 +1,3 @@
-# Lei Complementar nº 115, de 2018-02-26
-
 **LEI COMPLEMENTAR Nº 115, DE 26 DE FEVEREIRO DE 2018**
 
 Altera a Lei nº 4.904/2005 e Lei Complementar nº 87/2017.

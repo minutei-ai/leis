@@ -1,5 +1,3 @@
-# EMC nº 111, de 29/06/2022
-
 Altera os arts. 10, 31, 34, 61, 65, 66, 136 e 137 da Constituição do Estado e acrescenta-lhe os arts. 143-A a 143-G, altera o art. 148 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado e acrescenta-lhe o art. 158 e dá outra providência.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

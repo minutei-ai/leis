@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.934, de 2025-08-08
-
 DECRETO Nº 1.934, DE 8 DE AGOSTO DE 2025
 
 Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Parque Montreal, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# LEI N° 14.859 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.859 DE 12 DE FEVEREIRO DE 2025
 
 Institui o Programa de Estímulo à Implantação das Tecnologias de Conectividade Móvel no Estado da Bahia para viabilizar a chegada da tecnologia de quinta geração (5G), e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 51, de 2012-05-24
-
 LEI COMPLEMENTAR Nº 51, DE 24 DE MAIO DE 2012.
 
 Altera a Lei Municipal nº 2.637, de 22 de maio de 2007, que dispõe sobre a criação do conselho do FUNDEB – Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e valorização dos Profissionais da Educação e dá outras providências.

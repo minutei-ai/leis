@@ -1,5 +1,3 @@
-# LEI Nº 15.142 DE 31 DE MARÇO DE 2026
-
 LEI Nº 15.142 DE 31 DE MARÇO DE 2026
 
 Declara de utilidade pública a Associação Feirense de Pessoas com Doenças Falciforme de Feira de Santana, com sede e foro em Feira de Santana.

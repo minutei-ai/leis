@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.387, de 2017-11-22
-
 LEI MUNICIPAL Nº 3.387, DE 22 DE NOVEMBRO 2017.
 
 Denomina Unidade Básica de Saúde - UBS localizada no Setor Santo André e dá outras providências.

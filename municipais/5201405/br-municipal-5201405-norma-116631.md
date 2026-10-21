@@ -1,5 +1,3 @@
-# Decreto Numerado nº 534, de 2026-08-11
-
 DECRETO Nº 534, DE 11 DE AGOSTO DE 2026
 
 Altera a destinação da Área Pública Municipal nº 07, localizada no Loteamento Residencial Cândido Queiroz, de Centro Esportivo para Praça Pública, e determina a averbação no registro imobiliário.

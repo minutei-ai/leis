@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.864, de 2025-11-24
-
 LEI Nº 23.864, DE 24 DE NOVEMBRO DE 2025<br>
 [\-](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111728)  [Vide Decreto nº 10.827, de 08-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111728) - Regulamenta a Lei nº 23.864/2025.
 

@@ -1,5 +1,3 @@
-# Medida Provisória nº 965 de 13/05/2020
-
 MEDIDA PROVISÓRIA Nº 965, DE 13 DE MAIO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Justiça e Segurança Pública, no valor de R$ 408.869.802,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.748, de 2025-10-14
-
 LEI Nº 23.748, DE 14 DE OUTUBRO DE 2025
 
 Concede o título de cidadania que especifica.

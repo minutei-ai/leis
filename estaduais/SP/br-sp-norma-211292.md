@@ -1,5 +1,3 @@
-# Decreto nº 69.791, de 11/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211292)<br>
 
 # DECRETO N° 69.791, DE 11 DE AGOSTO DE 2025

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 172, de 2023-03-16
-
 DECRETO “N” Nº 172 DE 16 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE DAS NAÇÕES, neste município.

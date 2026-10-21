@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.054, de 2025-08-25
-
 DECRETO Nº 2.054, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, da Quadra 90, situado à Rua 41, no Loteamento Bairro Independência 2º Complemento, no Município de Aparecida de Goiânia.

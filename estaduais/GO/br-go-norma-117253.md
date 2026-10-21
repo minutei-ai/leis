@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.506, de 2026-09-09
-
 LEI Nº 24.506, DE 9 DE SETEMBRO DE 2026
 
 Altera a [Lei nº 21.469](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105681), de 23 de junho de 2022, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.

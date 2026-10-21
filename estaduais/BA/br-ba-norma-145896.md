@@ -1,5 +1,3 @@
-# LEI Nº 14.792 DE 06 DE DEZEMBRO DE 2024
-
 LEI Nº 14.792 DE 06 DE DEZEMBRO DE 2024
 
 Altera a Lei nº 13.194, de 19 de novembro de 2014, na forma que indica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.818, de 2025-11-10
-
 LEI Nº 23.818, DE 10 DE NOVEMBRO DE 2025
 
 Institui o Dia Estadual das Ligas Acadêmicas.

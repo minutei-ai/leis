@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.781, de 2024-04-12
-
 LEI MUNICIPAL Nº 3.781, DE 12 DE ABRIL DE 2024.
 
 Altera a Lei Municipal nº 2.990, de 19 de outubro de 2011 que desafeta e doa os lotes 01 a 32, da quadra 300 e parte da Avenida Marechal Rondon, localizados no loteamento Jardim Buriti Sereno, ao Estado de Goiás e dá outras providências.

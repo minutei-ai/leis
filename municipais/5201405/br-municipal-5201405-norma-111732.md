@@ -1,5 +1,3 @@
-# Lei Complementar nº 241, de 2025-06-27
-
 LEI COMPLEMENTAR Nº 241, DE 27 DE JUNHO DE 2025
 
 Altera a [Lei Complementar nº 124](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101111 "Abrir Lei Complementar nº 124, de 2016 em nova aba"), de 14 de dezembro de 2016.

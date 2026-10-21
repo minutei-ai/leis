@@ -1,5 +1,3 @@
-# Decreto Numerado nº 152, de 2023-03-13
-
 DECRETO “N” Nº 152, DE 13 DE MARÇO DE 2023.
 
 Nomeia membros para compor os Conselhos, de Administração e Fiscal, da Companhia de Desenvolvimento de Aparecida de Goiânia – CODAP.

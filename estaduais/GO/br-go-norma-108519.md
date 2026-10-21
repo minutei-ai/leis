@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.551, de 2024-03-08
-
 LEI Nº 22.551, DE 8 DE MARÇO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

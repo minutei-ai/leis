@@ -1,5 +1,3 @@
-# Decreto Numerado nº 388, de 2023-06-13
-
 DECRETO “N” Nº 388 DE 13 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento VILA BRASÍLIA, neste município.

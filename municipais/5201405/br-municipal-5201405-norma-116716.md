@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.363, de 2017-06-22
-
 LEI MUNICIPAL Nº 3.363, DE 22 DE JUNHO DE 2017
 
 Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2018.

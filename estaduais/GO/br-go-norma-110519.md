@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.293, de 2025-03-24
-
 LEI Nº 23.293, DE 24 DE MARÇO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Encontro dos Filhos de Baliza, realizado no Município de Baliza/GO.

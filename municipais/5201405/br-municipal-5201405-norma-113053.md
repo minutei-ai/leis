@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.819, de 2025-12-15
-
 DECRETO Nº 2.819, DE 15 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado à Rua 126, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

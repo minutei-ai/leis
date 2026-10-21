@@ -1,5 +1,3 @@
-# Decreto Numerado nº 310, de 2026-04-23
-
 DECRETO Nº 310, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 08, situado à Rua 51, no Loteamento Bairro Independência 3º Complemento, no Município de Aparecida de Goiânia.

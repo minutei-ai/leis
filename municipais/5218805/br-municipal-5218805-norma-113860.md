@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.837, de 2026-03-23
-
 LEI Nº 7.837, DE 23 DE MARÇO DE 2026.
 
 Institui o Dia Municipal do Designer de Interiores no Município de Rio Verde – GO e dá outras providências.

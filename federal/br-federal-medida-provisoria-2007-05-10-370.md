@@ -1,5 +1,3 @@
-# Medida Provisória nº 370 de 10/05/2007
-
 ###MPV-000370-0-000-10-05-2007@@@
 
 MEDIDA PROVISÓRIA Nº 370, DE 10 DE MAIO DE 2007.

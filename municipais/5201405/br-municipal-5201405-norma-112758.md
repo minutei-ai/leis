@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.809, de 2024-12-06
-
 LEI MUNICIPAL Nº 3.809, DE 6 DE DEZEMBRO DE 2024
 
 Dispõe sobre a fixação de subsídio dos Vereadores para a 16ª Legislatura, ano 2025 a 2028, e dá outras providências.

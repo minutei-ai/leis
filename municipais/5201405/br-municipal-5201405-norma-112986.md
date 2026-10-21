@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.860, de 2025-12-18
-
 DECRETO Nº 2.860, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 01, 02, 03 e 58, Todos da Quadra 161, situados à Avenida Liberdade, Avenida Niemeyer e Rua Jardim Botânico, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

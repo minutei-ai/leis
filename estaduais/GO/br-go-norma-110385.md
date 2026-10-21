@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.625, de 2025-01-14
-
 DECRETO Nº 10.625, DE 14 DE JANEIRO DE 2025
 
 Retifica o [Decreto estadual nº 6.617](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62364), de 25 de abril de 2007, que concede a Medalha de Tempo de Serviço aos militares que especifica, e o [Decreto estadual nº 7.090](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/64139), de 9 de abril de 2010, que concede a Medalha de Tempo de Serviço aos militares que especifica.

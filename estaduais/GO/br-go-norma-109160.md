@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.493, de 2024-07-04
-
 DECRETO Nº 10.493, DE 4 DE JULHO DE 2024
 
 Altera os Anexos III e IV do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021, que define os municípios que sediarão as unidades regionais dos órgãos que especifica, integrantes da Secretaria de Estado da Segurança Pública, e fixa as respectivas circunscrições.

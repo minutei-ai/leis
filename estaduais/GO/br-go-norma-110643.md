@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.688, de 2025-04-30
-
 DECRETO Nº 10.688 DE 30 DE ABRIL DE 2025
 
 Altera os Anexos III e IV do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021, que define os municípios que sediarão as unidades regionais dos órgãos que especifica, integrantes da Secretaria de Estado da Segurança Pública, e fixa as respectivas circunscrições.

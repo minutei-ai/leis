@@ -1,5 +1,3 @@
-# Decreto Numerado nº 272, de 2026-04-07
-
 DECRETO Nº 272, DE 7 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 17, situado à Rua dos Benjamins, no Loteamento Vila Alzira, no Município de Aparecida de Goiânia.

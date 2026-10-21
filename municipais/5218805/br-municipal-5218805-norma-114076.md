@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.773, de 2025-11-17
-
 LEI Nº 7.773, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a Lei nº 7.435/2023 e dá outras providências.

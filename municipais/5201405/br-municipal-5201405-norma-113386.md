@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.262, de 2025-09-23
-
 DECRETO Nº 2.262, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 32 e 33, da Quadra 07, situado à Rua Lírio no Loteamento Residencial Jardins Versalhes, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.753, de 2025-11-17
-
 LEI Nº 7.753, DE 17 DE NOVEMBRO DE 2025.
 
 Altera a [Lei nº 7.711](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114266 "Abrir Lei Ordinária nº 7711, de 2025 em nova aba")/2025 e dá outras providências.

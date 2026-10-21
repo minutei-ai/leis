@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.443, de 2023-11-27
-
 LEI Nº 7.443, DE 27 DE NOVEMBRO DE 2023.
 
 Altera a Lei nº 5.536/2009, que cria o Conselho Municipal de Agricultura, Pecuária e Abastecimento e dá outras providências.

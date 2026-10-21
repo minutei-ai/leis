@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.416, de 2025-05-15
-
 LEI Nº 23.416, DE 15 DE MAIO DE 2025
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

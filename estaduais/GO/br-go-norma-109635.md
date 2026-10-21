@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.565, de 2024-10-03
-
 DECRETO Nº 10.565, DE 3 DE OUTUBRO DE 2024
 
 Desqualifica como Organização Social de Saúde, no âmbito do Estado de Goiás, a entidade que especifica.

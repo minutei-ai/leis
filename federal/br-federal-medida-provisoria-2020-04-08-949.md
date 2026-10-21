@@ -1,5 +1,3 @@
-# Medida Provisória nº 949 de 08/04/2020
-
 MEDIDA PROVISÓRIA Nº 949, DE 8 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 900.000.000,00, para o fim que especifica.

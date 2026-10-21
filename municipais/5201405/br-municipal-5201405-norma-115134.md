@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.742, de 2023-10-03
-
 LEI MUNICIPAL Nº 3.742, DE 03 DE OUTUBRO DE 2023.
 
 “Declara Utilidade Pública Municipal a Associação Buriti Doações - ABD, entidade sem fins lucrativos”.

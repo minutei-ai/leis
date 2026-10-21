@@ -1,5 +1,3 @@
-# Decreto Numerado nº 545, de 2024-07-04
-
 DECRETO “N” Nº 545 DE 04 DE JULHO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 656, de 15 de agosto de 2014).
 

@@ -1,5 +1,3 @@
-# Decreto nº 70.004, de 20/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211697)<br>
 
 # DECRETO N° 70.004, DE 20 DE OUTUBRO DE 2025

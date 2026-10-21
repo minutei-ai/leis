@@ -1,5 +1,3 @@
-# EMENDA CONSTITUCIONAL Nº 25 DE 19 DE DEZEMBRO DE 2018
-
 EMENDA CONSTITUCIONAL Nº 25 DE 19 DE DEZEMBRO DE 2018
 
 Altera o § 5º do art. 34 da [Constituição do Estado da Bahia](https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989) e dá outras providências.

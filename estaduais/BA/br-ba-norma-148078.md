@@ -1,5 +1,3 @@
-# LEI Nº 15.068 DE 19 DE DEZEMBRO DE 2025
-
 LEI Nº 15.068 DE 19 DE DEZEMBRO DE 2025
 
 Altera o Quadro Organizacional das Procuradorias e Promotorias de Justiça do Ministério Público do Estado da Bahia e dá outras providências. 

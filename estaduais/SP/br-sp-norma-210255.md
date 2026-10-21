@@ -1,5 +1,3 @@
-# Decreto nº 69.086, de 22/11/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210255)<br>
 
 # DECRETO N° 69.086, DE 22 DE NOVEMBRO DE 2024

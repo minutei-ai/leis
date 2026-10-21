@@ -1,5 +1,3 @@
-# Decreto Numerado nº 68, de 2023-01-25
-
 DECRETO “N” Nº 68 DE 25 DE JANEIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento PARQUE ATALAIA, neste município.

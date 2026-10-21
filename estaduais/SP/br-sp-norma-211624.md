@@ -1,5 +1,3 @@
-# Decreto nº 69.947, de 10/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211624)<br>
 
 # DECRETO N° 69.947, DE 10 DE OUTUBRO DE 2025

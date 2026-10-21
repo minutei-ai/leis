@@ -1,5 +1,3 @@
-# Decreto Numerado nº 163, de 2026-02-26
-
 DECRETO Nº 163, DE 26 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua 101, no Loteamento Bairro Itapoã, no Município de Aparecida de Goiânia.

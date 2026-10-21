@@ -1,5 +1,3 @@
-# Lei Complementar nº 42, de 2015-09-02
-
 LEI COMPLEMENTAR N° 42, DE 02 DE SETEMBRO DE 2015.
 
 Altera a Lei n° 3.635/98, Código de Posturas do Município.

@@ -1,5 +1,3 @@
-# LEI Nº 15.016 DE 25 DE NOVEMBRO DE 2025
-
 LEI Nº 15.016 DE 25 DE NOVEMBRO DE 2025
 
 Declara de utilidade pública o Centro Espírita Caminho de Luz – CECAMLUZ, com sede e foro no município de Salvador.

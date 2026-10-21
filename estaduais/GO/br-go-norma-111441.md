@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.751, de 2025-10-15
-
 LEI Nº 23.751, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o reconhecimento da marcha equina e de muares como manifestação de relevância cultural e atividade esportiva de competição no âmbito do Estado de Goiás.

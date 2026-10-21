@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.236, de 2022-02-22
-
 LEI N° 7.236, DE 22 DE FEVEREIRO DE 2022
 
 Concede reposição geral anual da remuneração dos servidores públicos e agentes públicos municipais.

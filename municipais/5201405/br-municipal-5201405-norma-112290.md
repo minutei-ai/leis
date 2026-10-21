@@ -1,5 +1,3 @@
-# Decreto Numerado nº 846, de 2025-02-18
-
 DECRETO Nº 846, DE 18 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

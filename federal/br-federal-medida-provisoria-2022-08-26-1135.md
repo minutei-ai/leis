@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.135 de 26/08/2022
-
 MEDIDA PROVISÓRIA Nº 1.135, DE 26 DE AGOSTO DE 2022
 
 Altera a Lei Complementar nº 195, de 8 de julho de 2022, a Lei nº 14.399, de 8 de julho de 2022, e a Lei nº 14.148, de 3 de maio de 2021, para dispor sobre o apoio financeiro ao setor cultural e ao setor de eventos.

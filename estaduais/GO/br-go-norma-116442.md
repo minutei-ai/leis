@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 240, de 2026-06-09
-
 Portaria Orçamentária nº 240/2026 - Economia
 
 **O PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS,** no uso de suas atribuições legais, com fundamento no art. 9º § 1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026.

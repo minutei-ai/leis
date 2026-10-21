@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.832, de 2025-05-15
-
 LEI Nº 3.832, DE 15 DE MAIO DE 2025
 
 Altera a Lei nº 1.353, de 24 de março de 1994, que institui o Código de Processo Administrativo Tributário e Fiscal e Cria o Colegiado de Recursos Tributários de Aparecida de Goiânia, e dá outras providências.

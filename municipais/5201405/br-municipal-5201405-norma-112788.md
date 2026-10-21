@@ -1,5 +1,3 @@
-# Decreto Numerado nº 132, de 2026-02-09
-
 DECRETO Nº 132, DE 9 DE FEVEREIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 12, situado à Rua Juruá e Rua Paraguaçú, no Loteamento Setor dos Afonsos, no Município de Aparecida de Goiânia.

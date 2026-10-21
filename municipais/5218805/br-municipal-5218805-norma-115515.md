@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.852, de 2026-04-23
-
 LEI Nº 7.852, DE 23 DE ABRIL DE 2026.
 
 Dispõe sobre a promoção da norma culta da Língua Portuguesa nas instituições de ensino do Município de Rio Verde e dá outras providências.

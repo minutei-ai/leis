@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.325, de 2023-02-17
-
 LEI N° 7.325, DE 17 DE FEVEREIRO DE 2023
 
 Autoriza reajuste das perdas salariais dos servidores efetivos e comissionados da FESURV- Universidade de Rio Verde.

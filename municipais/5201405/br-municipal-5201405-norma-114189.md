@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.898, de 2026-04-30
-
 LEI Nº 3.898, DE 30 DE ABRIL DE 2026
 
 Institui a Política Municipal de Incentivo à Reciclagem de Garrafas de Vidro e Polietileno Tereftalato - PET no Município de Aparecida de Goiânia e dá outras providências.

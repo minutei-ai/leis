@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.910, de 2025-08-07
-
 DECRETO Nº 1.910, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 08, situado à Avenida C-8, no Loteamento Jardim Boa Esperança, no Município de Aparecida de Goiânia.

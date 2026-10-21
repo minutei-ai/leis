@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.059, de 2025-08-25
-
 DECRETO Nº 2.059, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 02, da Quadra 59, situado à Rua Severiano Moreira, no Loteamento Nova Olinda 2º Complemento, no Município de Aparecida de Goiânia.

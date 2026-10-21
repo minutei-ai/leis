@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.086, de 2024-11-18
-
 LEI Nº 23.086, DE 18 DE NOVEMBRO DE 2024
 
 Institui a Semana Estadual de Combate à Violência Escolar e dá outras providências.

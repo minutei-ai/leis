@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.747, de 2025-08-01
-
 DECRETO Nº 10.747, DE 1º DE AGOSTO DE 2025
 
 Altera o Regulamento da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR, aprovado pelo [Decreto nº 10.319](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107715), de 12 de setembro de 2023.

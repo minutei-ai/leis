@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.809, de 2025-11-12
-
 DECRETO Nº 10.809, DE 12 DE NOVEMBRO DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750 "Abrir Decreto Numerado nº 10218, de 2023 em nova aba"), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749 "Abrir Lei Ordinária nº 21792, de 2023 em nova aba"), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo.

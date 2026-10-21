@@ -1,5 +1,3 @@
-# LEI Nº 14.756 DE 26 DE JUNHO DE 2024
-
 LEI Nº 14.756 DE 26 DE JUNHO DE 2024
 
 Altera a Lei nº [14.647](https://www.legislabahia.ba.gov.br/documentos/lei-no-14647-de-26-de-dezembro-de-2023), de 26 de dezembro de 2023, na forma que indica, e dá outras providências.

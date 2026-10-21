@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.883, de 2025-11-28
-
 LEI Nº 23.883, DE 28 DE NOVEMBRO DE 2025
 
 Institui a Política Estadual de Prevenção e Combate ao Crime de Perseguição – SOS STALKING.

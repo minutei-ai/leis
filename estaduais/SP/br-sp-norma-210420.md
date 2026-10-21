@@ -1,5 +1,3 @@
-# Lei nº 18.072, de 26/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210420)<br>
 
 # LEI N° 18.072, DE 26 DE DEZEMBRO DE 2024

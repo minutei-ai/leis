@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.390, de 2025-10-08
-
 DECRETO Nº 2.390, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 15, da Quadra B-18, situado à Avenida C-5 e Rua C-44, no Loteamento Jardim Boa Esperança - Continuação, no Município de Aparecida de Goiânia.

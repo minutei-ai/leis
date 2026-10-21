@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.400, de 2026-06-29
-
 LEI Nº 24.400, DE 29 DE JUNHO DE 2026
 
 Altera a [Lei nº 15.949](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80062 "Abrir Lei Ordinária nº 15949, de 2006 em nova aba"), de 29 de dezembro de 2006, o Anexo VI da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 6 de janeiro de 2026, revoga dispositivos da [Lei nº 15.668](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79712 "Abrir Lei Ordinária nº 15668, de 2006 em nova aba"), de 1º de junho de 2006, e da [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826 "Abrir Lei Ordinária nº 19951, de 2017 em nova aba"), de 29 de dezembro de 2017, e revoga a [Lei nº 17.706](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89703 "Abrir Lei Ordinária nº 17706, de 2012 em nova aba"), de 09 de julho de 2012.

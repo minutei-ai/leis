@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.695, de 2024-05-15
-
 LEI Nº 22.695, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual da remuneração dos servidores da Defensoria Pública do Estado de Goiás.

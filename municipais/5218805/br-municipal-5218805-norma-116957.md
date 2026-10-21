@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.185, de 2021-10-06
-
 LEI Nº 7.185, DE 06 DE OUTUBRO DE 2021.
 
 Denomina ANTIGO COLÉGIO PÁSSARO AZUL, que menciona e dá outras providências.

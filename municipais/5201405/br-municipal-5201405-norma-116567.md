@@ -1,5 +1,3 @@
-# Decreto Numerado nº 533, de 2026-08-07
-
 DECRETO Nº 533, DE 7 DE AGOSTO DE 2026
 
 Regulamenta a Lei nº 3.904, de 12 de junho de 2026, quanto aos procedimentos administrativos de aferição, registro, auditoria, validação, homologação e pagamento da Gratificação de Produtividade devida aos servidores ocupantes do cargo de Médico Perito Previdenciário do Instituto de Previdência dos Servidores do Município de Aparecida de Goiânia – Aparecidaprev.

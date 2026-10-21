@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.944, de 2026-06-29
-
 DECRETO Nº 10.944, DE 29 DE JUNHO DE 2026
 
 Altera o [Decreto nº 9.618](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72534 "Abrir Decreto Numerado nº 9618, de 2020 em nova aba"), de 20 de fevereiro de 2020, que institui o Programa de Estágio de Pós-Graduação, lato ou stricto sensu, no âmbito da Procuradoria-Geral do Estado de Goiás.

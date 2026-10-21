@@ -1,5 +1,3 @@
-# LEI Nº 14.753 DE 25 DE JUNHO DE 2024
-
 LEI Nº 14.753 DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a ASSOCIAÇÃO DOS PEQUENOS AGRICULTORES DE CACHIMBO E ADJACÊNCIAS, com sede e foro no município de Pindobaçu.

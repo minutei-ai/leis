@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.713, de 2025-12-02
-
 DECRETO Nº 2.713, DE 2 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 12, 13, 14 e 15, situados à Rua Joaquim Cardoso da Silva, Rua 05 e Rua 07, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

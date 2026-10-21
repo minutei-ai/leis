@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.639, de 2025-04-14
-
 LEI Nº 7.639, DE 14 DE ABRIL DE 2025.
 
 Estabelece o Dia Municipal do Profissional do Serviço de Atendimento Móvel de Urgência (SAMU) no Município de Rio Verde.

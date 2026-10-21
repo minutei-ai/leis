@@ -1,5 +1,3 @@
-# LEI Nº 14.909 DE 20 DE MAIO DE 2025
-
 LEI Nº 14.909 DE 20 DE MAIO DE 2025
 
 Declara de utilidade pública o Centro Espírita Alvorada Nova, com sede e foro no município de Ipiaú.

@@ -1,5 +1,3 @@
-# Lei nº 18.444, de 14/04/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212465)<br>
 
 # LEI N° 18.444, DE 14 DE ABRIL DE 2026

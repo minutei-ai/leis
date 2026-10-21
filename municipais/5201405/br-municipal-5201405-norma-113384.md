@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.261, de 2025-09-23
-
 DECRETO Nº 2.261, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra 54, situado à Rua Dona Adelaide Monclar, no Loteamento Parque Veiga Jardim, no Município de Aparecida de Goiânia.

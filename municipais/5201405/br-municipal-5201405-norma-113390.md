@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.266, de 2025-09-23
-
 DECRETO Nº 2.266, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 05, da Quadra 67, situado à Rua Olegário Herculano da Silveira Pinto, no Loteamento Cidade Satélite São Luiz, no Município de Aparecida de Goiânia.

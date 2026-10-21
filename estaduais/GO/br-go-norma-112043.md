@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.019, de 2026-01-06
-
 LEI Nº 24.019, DE 6 DE JANEIRO DE 2026
 
 Estima a receita e ﬁxa a despesa do Estado de Goiás para o exercício de 2026. 

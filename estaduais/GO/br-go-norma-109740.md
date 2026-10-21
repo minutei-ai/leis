@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.032, de 2024-10-18
-
 LEI Nº 23.032, DE 18 DE outubro DE 2024
 
 Institui a Semana Estadual de Valorização dos Municípios do Entorno do Distrito Federal e dá outras providências.

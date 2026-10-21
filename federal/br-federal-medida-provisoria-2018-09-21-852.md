@@ -1,5 +1,3 @@
-# Medida Provisória nº 852 de 21/09/2018
-
 MEDIDA PROVISÓRIA Nº 852, DE 21 DE SETEMBRO DE 2018
 
 Dispõe sobre a transferência de imóveis do Fundo do Regime Geral de Previdência Social para a União, sobre a administração, a alienação e a gestão dos imóveis da extinta Rede Ferroviária Federal S.A. - RFFSA, extingue o Fundo Contingente da Extinta RFFSA - FC e dispõe sobre a gestão dos imóveis da União.

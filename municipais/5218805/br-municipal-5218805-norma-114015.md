@@ -1,5 +1,3 @@
-# Lei Complementar nº 436, de 2025-12-15
-
 LEI COMPLEMENTAR Nº 436, DE 15 DE DEZEMBRO DE 2025.
 
 Altera a Lei Complementar nº 4.904, de 28 de fevereiro de 2005, para extinguir o quantitativo de unidades dos cargos de Assessor Pedagógico e aumentar o quantitativo de cargos comissionados.

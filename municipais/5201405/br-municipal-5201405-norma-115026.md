@@ -1,5 +1,3 @@
-# Decreto Numerado nº 311, de 2024-04-30
-
 DECRETO “N” Nº 311 DE 30 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

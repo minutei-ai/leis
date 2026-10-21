@@ -1,5 +1,3 @@
-# Decreto nº 69.269, de 30/12/2024
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210494)<br>
 
 # DECRETO N° 69.269, DE 30 DE DEZEMBRO DE 2024

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.618, de 2021-08-24
-
 LEI MUNICIPAL Nº 3.618, DE 24 DE AGOSTO DE 2021.
 
 "Dispõe sobre a alteração do Artigo 1° da Lei de n º 3.588/20, do dia 20 de novembro de 2020 que denomina como Praça OLEGARIO JOSE SANTOS”.

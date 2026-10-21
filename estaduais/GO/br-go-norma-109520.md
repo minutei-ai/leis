@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 474, de 2024-08-16
-
 Portaria Orçamentária nº 474/2024 - Economia
 
 O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392/lei-22536), de 9 de Janeiro de 2024, conforme Processo nº 202400004035893.

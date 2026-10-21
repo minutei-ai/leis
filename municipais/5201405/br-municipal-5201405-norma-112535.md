@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.368, de 2025-05-09
-
 DECRETO Nº 1.368, DE 9 DE MAIO DE 2025
 
 O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município:

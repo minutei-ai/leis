@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.263, de 2022-05-27
-
 LEI N° 7.263, DE 27 DE MAIO DE 2022
 
 Altera a Lei n°. 7.210/2021 que concede bilhetes para transporte coletivo.

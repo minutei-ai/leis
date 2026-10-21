@@ -1,5 +1,3 @@
-# Lei Complementar nº 60, de 2012-08-24
-
 LEI COMPLEMENTAR Nº 60, DE 24 DE AGOSTO DE 2012.
 
 Dispõe sobre alteração dos quantitativos por cargos dos servidores da Secretaria Municipal da Educação da Prefeitura Municipal de Aparecida de Goiânia e da outras providências.

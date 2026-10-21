@@ -1,5 +1,3 @@
-# Lei Complementar nº 131, de 2018-07-05
-
 LEI COMPLEMENTAR Nº 131, DE 05 DE JULHO DE 2018.
 
 <br>

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.142, de 2025-09-04
-
 DECRETO Nº 2.142, DE 4 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, da Quadra B-16, situado à Rua C-44, no Loteamento Jardim Boa Esperança Continuação, no Município de Aparecida de Goiânia.

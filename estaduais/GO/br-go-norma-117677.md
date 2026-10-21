@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.990, de 2026-09-26
-
 DECRETO Nº 10.990, DE 26 DE SETEMBRO DE 2026
 
 Decreta luto oficial pelo falecimento de AMILTON BATISTA DE FARIA FILHO.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.823, de 2025-12-15
-
 DECRETO Nº 2.823, DE 15 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Sapucaia, no Loteamento Parque Itatiaia, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.084, de 2024-11-18
-
 LEI Nº 23.084, DE 18 DE NOVEMBRO DE 2024
 
 Institui o Dia Estadual do Fonoaudiólogo e da Fonoaudiologia e dá outras providências.

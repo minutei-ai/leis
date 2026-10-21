@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.291, de 2022-09-08
-
 LEI N°. 7.291, DE 8 DE SETEMBRO DE 2022
 
 Autoriza o Poder Executivo a realizar dação em pagamento de imóvel como indenização de desapropriação amigável.

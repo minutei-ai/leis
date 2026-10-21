@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.895, de 2026-04-15
-
 DECRETO Nº 10.895, DE 15 DE ABRIL DE 2026
 
 Declara a situação de emergência em saúde pública no Estado de Goiás em razão do cenário epidemiológico da Síndrome Respiratória Aguda Grave – SRAG.

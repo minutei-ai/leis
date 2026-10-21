@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.738, de 2023-09-27
-
 LEI MUNICIPAL N° 3.738, DE 27 DE SETEMBRO DE 2023.
 
 Institui medidas para promover à segurança, à prevenção, à proteção e o combate à violência contra Profissionais da Educação no município de Aparecida de Goiânia - GO e dá outras providências.

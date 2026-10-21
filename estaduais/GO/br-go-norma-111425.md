@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.735, de 2025-10-14
-
 LEI Nº 23.735, DE 14 DE OUTUBRO DE 2025
 
 Institui o Dia Estadual do Psicólogo.

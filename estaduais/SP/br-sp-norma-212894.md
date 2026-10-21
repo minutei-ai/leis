@@ -1,5 +1,3 @@
-# Decreto nº 70.797, de 20/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212894)<br>
 
 # DECRETO N° 70.797, DE 20 DE AGOSTO DE 2026

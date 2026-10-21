@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.541, de 2020-03-11
-
 LEI MUNICIPAL Nº 3.541, DE 11 DE MARÇO DE 2020
 
 Dispõe sobre a denominação da Praça MAURÍCIO PEDROSA MENDES (MAURÍCIO CARROCEIRO), no Setor Colina Azul, neste Município e dá outras providências.

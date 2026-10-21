@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.824, de 2025-02-12
-
 LEI Nº 3.824, 12 DE fevereiro DE 2025
 
 Reconhece como Utilidade Pública Municipal a “ONG ESPERANÇA SOCIAL”, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.590, de 2024-03-29
-
 LEI Nº 22.590, DE 29 DE MARÇO DE 2024
 
 Altera a [Lei nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203), de 18 de julho de 2013, que dispõe sobre a proteção da vegetação nativa, institui a nova Política Florestal do Estado de Goiás e dá outras providências.

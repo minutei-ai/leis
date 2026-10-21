@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.173, de 2014-04-10
-
 LEI MUNICIPAL Nº 3.173, DE 10 DE ABRIL DE 2014.<br>
 (Revogada pela Lei Ordinária nº 3.719, de 25 de maio de 2023).
 

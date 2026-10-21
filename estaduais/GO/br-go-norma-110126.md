@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.147, de 2024-12-11
-
 LEI Nº 23.147, DE 11 DE DEZEMBRO DE 2024
 
 Institui o Dia Estadual do Católico Apostólico Romano e dá outras providências.

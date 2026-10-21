@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.377, de 2017-09-11
-
 LEI MUNICIPAL 3.377, DE 11 DE SETEMBRO DE 2017
 
 Desafeta e doa área localizada no Garavelo Residencial Park, neste Município, ao ESTADO DE GOIÁS e dá outras providências.

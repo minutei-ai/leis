@@ -1,5 +1,3 @@
-# Decreto Numerado nº 411, de 2026-05-21
-
 DECRETO Nº 411, DE 21 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 10, situado à Rua Rui Antônio da Silva, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

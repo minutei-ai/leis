@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.451, de 2008-06-13
-
 LEI COMPLEMENTAR Nº 5.451, DE 13 DE JUNHO DE 2008.
 
 Altera o art. 142 da Lei n. 3.635/98, Código de Posturas.

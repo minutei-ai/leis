@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.805, de 2025-12-11
-
 DECRETO Nº 2.805, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Belo Horizonte, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

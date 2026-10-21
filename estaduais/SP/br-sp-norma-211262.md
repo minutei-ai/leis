@@ -1,5 +1,3 @@
-# Decreto nº 69.762, de 04/08/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211262)<br>
 
 # DECRETO N° 69.762, DE 04 DE AGOSTO DE 2025

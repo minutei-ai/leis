@@ -1,5 +1,3 @@
-# Lei Complementar nº 155, de 2018-11-27
-
 LEI COMPLEMENTAR Nº 155 DE 27 DE NOVEMBRO DE 2018.
 
 Cria o plano de cargos, carreiras e vencimentos dos servidores efetivos da Câmara Municipal de Aparecida de Goiânia, e dá outras providências.

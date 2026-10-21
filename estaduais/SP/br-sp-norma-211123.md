@@ -1,5 +1,3 @@
-# Decreto nº 69.664, de 29/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211123)<br>
 
 # DECRETO N° 69.664, DE 29 DE JUNHO DE 2025

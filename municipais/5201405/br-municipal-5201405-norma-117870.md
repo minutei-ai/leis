@@ -1,5 +1,3 @@
-# Decreto Numerado nº 147, de 2023-03-09
-
 DECRETO “N” Nº 147, DE 09 DE MARÇO DE 2023
 
 Altera a composição da Unidade de Execução Municipal – UEM, instituída pelo Decreto “N” nº 233, de 04 de setembro de 2013, e dá outras providências.

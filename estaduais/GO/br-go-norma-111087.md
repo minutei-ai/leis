@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.570, de 2025-07-11
-
 LEI Nº 23.570, DE 10 DE JULHO DE 2025
 
 Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2026.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.225, de 2014-10-20
-
 LEI MUNICIPAL Nº 3.225, DE 20 DE OUTUBRO DE 2014.
 
 Dá nome a Unidade Básica de Saúde - UBS, situado no setor Pontal Sul, neste município.

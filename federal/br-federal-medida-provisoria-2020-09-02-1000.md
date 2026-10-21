@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.000 de 02/09/2020
-
 MEDIDA PROVISÓRIA Nº 1.000, DE 2 DE SETEMBRO DE 2020
 
 Institui o auxílio emergencial residual para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19) responsável pelo surto de 2019, a que se refere a Lei nº 13.979, de 6 de fevereiro de 2020.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 379, de 2025-02-24
-
 LEI COMPLEMENTAR Nº 379, DE 24 DE FEVEREIRO DE 2025.
 
 Altera a Lei Complementar nº 3.968, de 31 de agosto de 2000, que dispõe sobre o Estatuto dos Servidores do Município de Rio Verde – GO.

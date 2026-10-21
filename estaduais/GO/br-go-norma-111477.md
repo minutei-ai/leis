@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.776, de 2025-11-03
-
 LEI Nº 23.776, DE 3 DE NOVEMBRO DE 2025
 
 Institui a Semana Estadual de Valorização das Congadas.

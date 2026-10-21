@@ -1,5 +1,3 @@
-# Decreto Numerado nº 392, de 2024-05-22
-
 DECRETO “N” Nº 392 DE 22 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

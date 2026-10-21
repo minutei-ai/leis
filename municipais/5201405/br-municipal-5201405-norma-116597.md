@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.409, de 2018-04-05
-
 LEI MUNICIPAL Nº 3.409, DE 05 DE ABRIL DE 2018
 
 Institui, no âmbito do Município de Aparecida de Goiânia, o mês da luta pela saúde mental e emocional da população denominado Janeiro Branco, e da outras providências.

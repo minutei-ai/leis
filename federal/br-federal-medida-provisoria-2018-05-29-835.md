@@ -1,5 +1,3 @@
-# Medida Provisória nº 835 de 29/05/2018
-
 MEDIDA PROVISÓRIA Nº 835, DE 29 DE MAIO DE 2018
 
 Autoriza o acesso aos estoques de milho em grãos do Governo federal do Programa de Vendas em Balcão da Companhia Nacional de Abastecimento aos criadores de aves e suínos e às indústrias de processamento de ração animal de todo o País.

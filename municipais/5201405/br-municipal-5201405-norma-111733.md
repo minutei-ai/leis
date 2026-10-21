@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.095, de 2013-06-17
-
 **LEI MUNICIPAL Nº 3.095, DE 17 DE JUNHO DE 2013.**
 
 Cria a Medalha do Mérito Legislativo “NORBERTO JOSÉ TEIXEIRA” no município de Aparecida de Goiânia e dá outras providências.

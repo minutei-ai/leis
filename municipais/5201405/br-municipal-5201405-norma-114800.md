@@ -1,5 +1,3 @@
-# Decreto Numerado nº 171, de 2024-03-25
-
 DECRETO “N” Nº 171 DE 25 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.482, de 2025-10-21
-
 DECRETO Nº 2.482, DE 21 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 13 e 14, situados à Rua Mica e Alameda Leucita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

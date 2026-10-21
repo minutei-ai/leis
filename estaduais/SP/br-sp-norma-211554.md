@@ -1,5 +1,3 @@
-# Decreto nº 69.899, de 22/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211554)<br>
 
 # DECRETO N° 69.899, DE 22 DE SETEMBRO DE 2025

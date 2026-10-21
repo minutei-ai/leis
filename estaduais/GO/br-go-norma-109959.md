@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.095, de 2024-11-25
-
 LEI Nº 23.095, DE 25 DE NOVEMBRO DE 2024
 
 Abre crédito especial ao Fundo Estadual dos Direitos da Criança e do Adolescente – FECAD e ao Fundo Estadual dos Direitos da Pessoa Idosa – FEDPI/GO.

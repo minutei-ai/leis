@@ -1,5 +1,3 @@
-# Medida Provisória nº 36 de 08/05/2002
-
 ###MPV-000036-0-000-08-05-2002@@@
 
 MEDIDA PROVISÓRIA Nº 36, DE 8 DE MAIO DE 2002

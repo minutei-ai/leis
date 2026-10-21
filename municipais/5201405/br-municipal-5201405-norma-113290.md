@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.395, de 2025-10-08
-
 DECRETO Nº 2.395, DE 8 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra B-13, situado Rua C-44, no Loteamento Jardim Boa Esperança - Continuação, no Município de Aparecida de Goiânia.

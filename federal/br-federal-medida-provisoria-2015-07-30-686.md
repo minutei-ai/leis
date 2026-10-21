@@ -1,5 +1,3 @@
-# Medida Provisória nº 686 de 30/07/2015
-
 MEDIDA PROVISÓRIA Nº 686, DE 30 DE JULHO DE 2015
 
 Abre crédito extraordinário, em favor do Ministério da Educação, de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 9.820.639.868,00, para os fins que especifica, e dá outras providências.

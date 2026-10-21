@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.703, de 2025-06-03
-
 DECRETO Nº 10.703, DE 3 DE JUNHO DE 2025
 
 Cria o Monumento Natural de Paraúna e dá outras providências.

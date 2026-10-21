@@ -1,5 +1,3 @@
-# Decreto nº 69.322, de 22/01/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210549)<br>
 
 # DECRETO N° 69.322, DE 22 DE JANEIRO DE 2025

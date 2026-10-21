@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.397, de 2025-05-06
-
 LEI Nº 23.397, DE 6 DE MAIO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da ALEGO, realizado no Município de Goiânia/GO.

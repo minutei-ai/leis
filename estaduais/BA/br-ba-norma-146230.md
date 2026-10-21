@@ -1,5 +1,3 @@
-# LEI N° 14.863 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.863 DE 12 DE FEVEREIRO DE 2025
 
 Dispõe sobre a obrigatoriedade da especificação da informação e da divulgação da presença de alimentos alergênicos nos cardápios dos estabelecimentos de comercialização de alimentos que indica.

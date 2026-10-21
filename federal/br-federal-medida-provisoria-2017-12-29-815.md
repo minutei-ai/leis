@@ -1,5 +1,3 @@
-# Medida Provisória nº 815 de 29/12/2017
-
 MEDIDA PROVISÓRIA Nº 815, DE 29 DE DEZEMBRO DE 2017
 
 Dispõe sobre a prestação de apoio financeiro pela União aos entes federativos que recebem o Fundo de Participação dos Municípios - FPM, no exercício de 2018.

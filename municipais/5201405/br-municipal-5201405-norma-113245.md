@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.455, de 2025-10-16
-
 DECRETO Nº 2.455, DE 16 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 04, da Quadra 08, situado à Avenida Mineira, no Loteamento Jardim Nova Era - Acréscimo, no Município de Aparecida de Goiânia.

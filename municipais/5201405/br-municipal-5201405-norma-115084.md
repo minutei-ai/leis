@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.708, de 2023-04-20
-
 LEI MUNICIPAL Nº 3.708, DE 20 DE ABRIL DE 2023.
 
 Desafeta área pública e autoriza doação para o Estado de Goiás para legalização de escola situada no Loteamento Chácaras São Pedro e dá outras providências.

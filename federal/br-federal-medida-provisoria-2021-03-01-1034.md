@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.034 de 01/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.034, DE 1 DE MARÇO DE 2021
 
 Altera a Lei nº 7.689, de 15 de dezembro de 1988, para majorar a alíquota da Contribuição Social sobre o Lucro Líquido devida pelas pessoas jurídicas do setor financeiro, a Lei nº 8.989, de 24 de fevereiro de 1995, para modificar a concessão da isenção relativa ao Imposto sobre Produtos Industrializados incidente na aquisição de automóveis por pessoa com deficiência, revoga a tributação especial relativa à nafta e a outros produtos destinados a centrais petroquímicas, e institui crédito presumido da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público e da Contribuição Social para o Financiamento da Seguridade Social para produtos destinados ao uso em hospitais, clínicas, consultórios médicos e campanhas de vacinação.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 192, de 2024-04-24
-
 LEI COMPLEMENTAR Nº 192, DE 24 DE ABRIL DE 2024
 
 Institui o benefício especial de que tratam o § 16 do art. 97 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152) e o § 3º do art. 2º da [Lei nº 19.179](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98359), de 29 de dezembro de 2015, e dá outras providências.

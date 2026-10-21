@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.342, de 2025-04-13
-
 LEI Nº 23.342, DE 14 DE ABRIL DE 2025
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Araçu/GO.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.273, de 2015-07-06
-
 LEI MUNICIPAL Nº 3.273, DE 06 DE JULHO DE 2015.
 
 “Altera o artigo 2º da Lei Municipal n.º 2.533, de 18 de outubro de 2005, que dispõe sobre a doação de imóvel desafetado e situado no loteamento Residencial Anhambi à Associação Profetas do Amor, neste Município.”

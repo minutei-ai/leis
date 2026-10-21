@@ -1,5 +1,3 @@
-# Medida Provisória nº 776 de 26/04/2017
-
 MEDIDA PROVISÓRIA Nº 776, DE 26 DE ABRIL DE 2017
 
 Altera a [Lei nº 6.015, de 31 de dezembro de 1973](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1973-12-31;6015), que dispõe sobre os registros públicos.

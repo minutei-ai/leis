@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.178, de 2021-11-05
-
 LEI Nº 7.178, DE 05 DE OUTUBRO DE 2021.
 
 Altera Lei 6.687/2017, que dispõe sobre o desmembramento de terrenos urbanos e dá outras providências.

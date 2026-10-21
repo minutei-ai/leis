@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.872, de 2025-12-05
-
 LEI Nº 3.872, DE 5 DE DEZEMBRO DE 2025
 
 Dispõe sobre a denominação do Centro Municipal de Educação Infantil – CMEI Primeira-dama Neide Leite da Silva, situado na Rua 5, Chácara 314, Chácara São Pedro, Aparecida de Goiânia-GO, e dá outras providências.

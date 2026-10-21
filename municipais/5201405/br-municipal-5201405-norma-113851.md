@@ -1,5 +1,3 @@
-# Decreto Numerado nº 94, de 2024-02-26
-
 DECRETO “N” Nº 094, DE 26 DE FEVEREIRO DE 2024.
 
 Nomeia membros para compor o CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL de Aparecida de Goiânia para o biênio 2024-2025.

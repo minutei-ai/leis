@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.843, de 2026-04-23
-
 LEI Nº 7.843, DE 23 DE ABRIL DE 2026.
 
 Institui o Programa de Recuperação de Créditos (PRC) de natureza não tributária da Universidade de Rio Verde - UniRV.

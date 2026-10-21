@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.144, de 2024-12-06
-
 LEI Nº 23.144, DE 6 DE DEZEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

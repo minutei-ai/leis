@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.644, de 2025-02-07
-
 DECRETO Nº 10.644, DE 7 DE FEVEREIRO DE 2025
 
 Dispõe sobre o ponto facultativo nas repartições públicas estaduais na véspera da festa popular de Carnaval e parcialmente depois dela.

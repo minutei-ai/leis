@@ -1,5 +1,3 @@
-# Decreto nº 70.217, de 16/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212013)<br>
 
 # DECRETO N° 70.217, DE 16 DE DEZEMBRO DE 2025

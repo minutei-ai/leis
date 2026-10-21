@@ -1,5 +1,3 @@
-# Decreto nº 69.376, de 26/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210662)<br>
 
 # DECRETO N° 69.376, DE 26 DE FEVEREIRO DE 2025

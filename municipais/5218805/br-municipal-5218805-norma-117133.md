@@ -1,5 +1,3 @@
-# Lei Complementar nº 248, de 2022-05-27
-
 LEI COMPLEMENTAR Nº 248, DE 27 DE MAIO DE 2022
 
 Altera as Leis Complementares nº 88/2017 e nº 182/2020.

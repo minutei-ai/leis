@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.806, de 2024-06-25
-
 LEI Nº 22.806, DE 25 DE JUNHO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

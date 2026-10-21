@@ -1,5 +1,3 @@
-# Decreto Numerado nº 437, de 2024-06-07
-
 DECRETO “N” Nº 437, DE 07 DE JUNHO DE 2024.
 
 Dispõe sobre a liberação parcial dos lotes caucionados do Loteamento Vilares Andorinha.

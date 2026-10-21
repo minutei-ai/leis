@@ -1,5 +1,3 @@
-# Decreto Numerado nº 423, de 2024-06-05
-
 DECRETO “N” Nº 423 DE 05 DE JUNHO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

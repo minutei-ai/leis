@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.185, de 2014-06-16
-
 LEI MUNICIPAL Nº 3.185, DE 16 DE JUNHO DE 2014.
 
 Reconhece de Utilidade Pública Municipal a “COMUNIDADE ESPÍRITA IRMÃ SHEILLA” e dá outras providências.

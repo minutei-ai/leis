@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.021, de 2025-03-14
-
 DECRETO Nº 1.021, DE 14 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel, localizado no Município de Aparecida de Goiânia.

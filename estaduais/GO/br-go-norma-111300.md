@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.785, de 2025-09-24
-
 DECRETO Nº 10.785, DE 24 DE SETEMBRO DE 2025
 
 Aprova o Regulamento da Diretoria-Geral de Polícia Penal – DGPP, altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, e o Regimento Interno do Conselho Penitenciário do Estado de Goiás, aprovado pelo [Decreto nº 3.786](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63664), de 7 de maio de 1992, bem como revoga o [Decreto nº 9.517](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72432), de 23 de setembro de 2019.

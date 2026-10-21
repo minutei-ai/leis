@@ -1,5 +1,3 @@
-# Lei Complementar nº 101, de 2015-05-29
-
 LEI COMPLEMENTAR Nº 101, DE 29 DE MAIO DE 2015.
 
 “Aprova o Loteamento JARDIM CÉLIA MARIA ACRÉSCIMO, neste Município e dá Outras Providências”

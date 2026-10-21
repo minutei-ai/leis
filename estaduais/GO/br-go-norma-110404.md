@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.629, de 2025-01-20
-
 DECRETO Nº 10.629, DE 20 DE JANEIRO DE 2025
 
 Declara de utilidade pública, para efeito de instituição de servidão administrativa em favor da Saneamento de Goiás S/A – SANEAGO, as áreas que especifica.

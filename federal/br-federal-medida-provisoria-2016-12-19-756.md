@@ -1,5 +1,3 @@
-# Medida Provisória nº 756 de 19/12/2016
-
 MEDIDA PROVISÓRIA Nº 756, DE 19 DE DEZEMBRO DE 2016
 
 Altera os limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim.

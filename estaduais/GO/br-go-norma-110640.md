@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.385, de 2025-04-30
-
 LEI Nº 23.385, DE 30 DE ABRIL DE 2025
 
 Altera a [Lei nº 19.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98775), de 11 de outubro de 2016, que dispõe sobre a coleta e o descarte de medicamentos vencidos e dá outras providências.

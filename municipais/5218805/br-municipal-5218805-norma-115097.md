@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.425, de 2023-10-02
-
 LEI Nº 7.425, DE 02 DE OUTUBRO DE 2023.
 
 Dispõe sobre a prestação de Serviço de Transporte Remunerado Privado Individual de Passageiros intermediado por Plataformas Digitais ou Aplicativos, na forma da Lei Federal nº. 12.587, de 03 de janeiro de 2012, e dá outras providências.

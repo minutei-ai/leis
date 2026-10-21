@@ -1,5 +1,3 @@
-# Decreto Numerado nº 72, de 2024-02-09
-
 DECRETO “N” Nº 72 DE 09 DE FEVEREIRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

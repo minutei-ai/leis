@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.270, de 2025-09-23
-
 DECRETO Nº 2.270, DE 23 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 16, da Quadra 123, situado à Rua Cianita, no Loteamento Pontal Sul, no Município de Aparecida de Goiânia.

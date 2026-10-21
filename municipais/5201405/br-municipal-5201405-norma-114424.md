@@ -1,5 +1,3 @@
-# Decreto Numerado nº 371, de 2026-05-13
-
 DECRETO Nº 371, DE 13 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 02, situado à Rua Antônio Teodoro da Silva Neiva, no Loteamento Parque Trindade, no Município de Aparecida de Goiânia.

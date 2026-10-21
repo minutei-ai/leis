@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.198, de 2014-07-16
-
 LEI MUNICIPAL Nº 3.198, DE 16 DE JULHO DE 2014.
 
 Dispõe sobre a criação, composição e competências do Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia – COMPIR e dá outras providências.

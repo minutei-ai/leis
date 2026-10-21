@@ -1,5 +1,3 @@
-# Medida Provisória nº 826 de 11/04/2018
-
 MEDIDA PROVISÓRIA Nº 826, DE 11 DE ABRIL DE 2018
 
 Cria o cargo de Natureza Especial de Interventor Federal no Estado do Rio de Janeiro, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Comissionadas do Poder Executivo - FCPE, destinados a compor o Gabinete de Intervenção Federal no Estado do Rio de Janeiro e dispõe sobre o pagamento da gratificação de representação de que trata a [Medida Provisória nº 2.215-10, de 31 de agosto de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-08-31;2215-10).

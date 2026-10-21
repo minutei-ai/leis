@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.243, de 2022-04-01
-
 LEI N° 7.243, DE 1º DE ABRIL DE 2022
 
 Autoriza prorrogação de prazo de edificação em imóvel doado ao Estado de Goiás.

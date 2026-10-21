@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.439, de 2025-05-21
-
 LEI Nº 23.439, DE 21 DE MAIO DE 2025
 
 Altera a [Lei nº 21.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104344), de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.

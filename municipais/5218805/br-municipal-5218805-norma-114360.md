@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.668, de 2025-06-30
-
 LEI Nº 7.668, DE 30 DE JUNHO DE 2025.
 
 Institui o Dia da Comunidade Terapêutica, a ser comemorado anualmente no dia 18 de agosto, e dá outras providências.

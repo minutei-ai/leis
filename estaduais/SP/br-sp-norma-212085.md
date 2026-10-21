@@ -1,5 +1,3 @@
-# Lei nº 18.377, de 23/12/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212085)<br>
 
 # LEI N° 18.377, DE 23 DE DEZEMBRO DE 2025

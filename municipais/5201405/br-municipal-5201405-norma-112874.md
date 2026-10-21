@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.850, de 2025-07-23
-
 DECRETO Nº 1.850, DE 23 DE JULHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, situado na Avenida Neuza de Jesus Macedo, no Loteamento Jardim Dom Bosco 2ª etapa, no Município de Aparecida de Goiânia.

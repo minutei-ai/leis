@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.366, de 2017-06-26
-
 LEI MUNICIPAL Nº 3.366, DE 26 DE JUNHO DE 2017.
 
 Dispõe sobre o acesso à informação previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º, do art. 216, da Constituição Federal e na Lei nº 12.527/2011, sobre a instituição do Conselho Municipal da Transparência, Controle Social e Prevenção à Corrupção e, sobre regulamentação municipal da Lei nº 12.846/2013.

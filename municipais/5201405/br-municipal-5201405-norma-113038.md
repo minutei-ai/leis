@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.121, de 2025-09-01
-
 DECRETO Nº 2.121, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, situado na Avenida R-1, no Loteamento Porto das Pedras, no Município de Aparecida de Goiânia.

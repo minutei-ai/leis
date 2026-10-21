@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.187, de 2014-06-17
-
 LEI MUNICIPAL Nº 3.187, DE 17 DE JUNHO DE 2014.
 
 Institui o Diário Oficial Eletrônico do Município de Aparecida de Goiânia, normatiza suas publicações e dá outras providências.

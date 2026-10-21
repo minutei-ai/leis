@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.489, de 2026-07-29
-
 LEI Nº 24.489, DE 29 DE JULHO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano, institui o Dia Estadual do Galo Índio Gigante e dá outras providências.

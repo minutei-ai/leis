@@ -1,5 +1,3 @@
-# Medida Provisória nº 669 de 26/02/2015
-
 MEDIDA PROVISÓRIA Nº 669, DE 26 DE FEVEREIRO DE 2015
 
 Altera a Lei nº 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta; a Lei nº 12.469, de 26 de agosto de 2011, a Lei nº 12.995, de 18 de junho de 2014, e a Lei nº 11.196, de 21 de novembro de 2005, quanto à tributação de bebidas frias; e a Lei nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016.

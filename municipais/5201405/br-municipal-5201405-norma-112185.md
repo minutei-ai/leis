@@ -1,5 +1,3 @@
-# Decreto Numerado nº 27, de 2026-01-12
-
 DECRETO Nº 027, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 15, situado à Rua Felipe Camarão e Rua Gonçalves Dias, no Loteamento Jardim Nova Era, no Município de Aparecida de Goiânia.

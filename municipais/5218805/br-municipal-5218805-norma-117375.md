@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.160, de 2021-07-06
-
 LEI Nº 7.160, DE 06 DE JULHO DE 2021.
 
 Denomina praça que está em construção no Setor Central o que especifica e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 650, de 2023-10-16
-
 DECRETO “N” Nº 650 DE 16 DE OUTUBRO DE 2023.
 
 Dispõe sobre desmembramento de imóvel.

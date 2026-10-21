@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.315 de 15/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.315, DE 15 DE SETEMBRO DE 2025
 
 Altera a [Lei nº 14.871, de 28 de maio de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-05-28;14871), para dispor sobre o limite da autorização para concessão de quotas diferenciadas de depreciação acelerada para navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados exclusivamente em atividades de cabotagem de petróleo e seus derivados e de derivados de gás natural, e para embarcações de apoio marítimo utilizadas para o suporte logístico e a prestação de serviços aos campos, às instalações e às plataformas offshore.

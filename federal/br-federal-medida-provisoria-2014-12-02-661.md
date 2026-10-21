@@ -1,5 +1,3 @@
-# Medida Provisória nº 661 de 02/12/2014
-
 MEDIDA PROVISÓRIA Nº 661, DE 2 DE DEZEMBRO DE 2014
 
 Autoriza a União a conceder crédito ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES e a destinar superávit financeiro das fontes de recursos existentes no Tesouro Nacional à cobertura de despesas primárias obrigatórias.

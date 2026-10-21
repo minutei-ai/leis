@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.128 de 05/07/2022
-
 MEDIDA PROVISÓRIA Nº 1.128, DE 5 DE JULHO DE 2022
 
 Dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.

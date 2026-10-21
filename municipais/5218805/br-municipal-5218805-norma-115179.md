@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.465, de 2023-12-22
-
 LEI Nº 7.465, DE 22 DE DEZEMBRO DE 2023.
 
 Autoriza o Poder Executivo a desafetar área e doá-la ao Serviço de Apoio às Micro e Pequenas Empresas do Estado de Goiás – SEBRAE/GO e dá outras providências.

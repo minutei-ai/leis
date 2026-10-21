@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.489, de 2025-10-22
-
 DECRETO Nº 2.489, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 2, situado à Avenida Maracanã, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

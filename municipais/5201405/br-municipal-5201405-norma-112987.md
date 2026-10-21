@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.861, de 2025-12-18
-
 DECRETO Nº 2.861, DE 18 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua C-16 e Rua C-7, no Loteamento Jardim das Cascatas, no Município de Aparecida de Goiânia.

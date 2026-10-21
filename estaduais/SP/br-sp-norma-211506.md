@@ -1,5 +1,3 @@
-# Lei nº 18.275, de 19/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211506)<br>
 
 # LEI N° 18.275, DE 19 DE SETEMBRO DE 2025

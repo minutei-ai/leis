@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.718, de 2025-12-03
-
 DECRETO Nº 2.718, DE 3 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 14, situado à Rua Paris, no Loteamento Residencial Solar Central Park, no Município de Aparecida de Goiânia.

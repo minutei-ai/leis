@@ -1,5 +1,3 @@
-# Decreto Numerado nº 35, de 2023-01-19
-
 DECRETO “N” Nº 35 DE 19 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento VILA OLIVEIRA, neste município.

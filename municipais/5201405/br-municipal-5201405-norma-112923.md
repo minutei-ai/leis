@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.945, de 2025-08-11
-
 DECRETO Nº 1.945, DE 11 DE AGOSTO DE 2025
 
 Dispõe sobre a instauração e classificação de Regularização Fundiária Urbana de Interesse Social – REURB-S do Núcleo Urbano Informal Consolidado no Município de Aparecida de Goiânia.

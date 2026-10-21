@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.365, de 2026-06-22
-
 LEI Nº 24.365, DE 22 DE junho DE 2026
 
 Institui a Campanha Estadual “Saúde Renal para Todos”.

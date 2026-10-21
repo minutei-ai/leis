@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.881, de 2009-12-14
-
 LEI MUNICIPAL N.º 2.881, DE 14 DE DEZEMBRO DE 2009.
 
 Altera a Lei Municipal nº 1.353, de 24/03/1994, com alterações, a qual institui o Código de Processo Administrativo Tributário e Fiscal do Município de Aparecida de Goiânia e dá outras providências.

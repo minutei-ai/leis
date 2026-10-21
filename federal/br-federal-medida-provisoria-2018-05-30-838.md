@@ -1,5 +1,3 @@
-# Medida Provisória nº 838 de 30/05/2018
-
 MEDIDA PROVISÓRIA Nº 838, DE 30 DE MAIO DE 2018
 
 Dispõe sobre a concessão de subvenção econômica à comercialização de óleo diesel.

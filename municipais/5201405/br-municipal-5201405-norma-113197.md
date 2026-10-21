@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.535, de 2025-11-04
-
 DECRETO Nº 2.535, DE 4 DE NOVEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Cuiabá no Loteamento Jardim Cristal, no Município de Aparecida de Goiânia.

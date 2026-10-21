@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.804, de 2024-06-25
-
 LEI Nº 22.804, DE 25 DE junho DE 2024
 
 Concede o título de cidadania que especifica.

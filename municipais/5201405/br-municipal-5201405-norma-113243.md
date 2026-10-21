@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.198, de 2025-09-09
-
 DECRETO Nº 2.198, DE 9 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 09, da Quadra 92, situado à Rua São Salvador, no Loteamento Jardim Alto Paraíso, no Município de Aparecida de Goiânia.

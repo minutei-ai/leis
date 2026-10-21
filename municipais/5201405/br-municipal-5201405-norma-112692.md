@@ -1,5 +1,3 @@
-# Lei Complementar nº 25, de 2010-07-14
-
 LEI COMPLEMENTAR Nº 025, DE 14 DE JULHO DE 2010.
 
 Dispõe sobre a criação de cargos administrativos no âmbito da Secretaria Municipal da Educação e altera dispositivo do Anexo VI, da Lei Municipal n° 2.606/2006 – Plano de Cargos e Salários dos Servidores de Educação, e dá outras providências.

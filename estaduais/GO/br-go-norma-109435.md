@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.540, de 2024-09-02
-
 DECRETO Nº 10.540, DE 2 DE SETEMBRO DE 2024
 
 Dispensa a emissão de documento fiscal na operação e na prestação de serviço de transporte relativa à remessa de mercadorias doadas para a assistência às vítimas de calamidade pública.

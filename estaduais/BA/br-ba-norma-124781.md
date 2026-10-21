@@ -1,5 +1,3 @@
-# LD Nº 24 DE 10 DE FEVEREIRO DE 1983
-
 LEI DELEGADA Nº 24 DE 10 DE FEVEREIRO DE 1983
 
 Reorganiza a Secretaria de Saúde do Estado da Bahia - SESAB e dá outras providências.

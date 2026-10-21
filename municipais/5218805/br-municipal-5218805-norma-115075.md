@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.528, de 2024-06-24
-
 LEI Nº 7.528, DE 24 DE JUNHO DE 2024.
 
 Autoriza o Poder Executivo a conceder patrocínio à Associação Comercial, Industrial e de Serviços do Estado de Goiás (ACIEG).

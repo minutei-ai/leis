@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.458, de 2025-10-16
-
 DECRETO Nº 2.458, DE 16 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 25, da Quadra 120, situado à Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

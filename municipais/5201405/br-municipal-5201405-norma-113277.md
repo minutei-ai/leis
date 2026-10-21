@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.382, de 2025-10-07
-
 DECRETO Nº 2.382, DE 7 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 11, da Quadra 11, situado à Avenida Leopoldo Kirst, no Loteamento Parque Atalaia, no Município de Aparecida de Goiânia.

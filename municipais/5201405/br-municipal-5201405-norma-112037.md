@@ -1,5 +1,3 @@
-# Lei Complementar nº 141, de 2018-04-16
-
 LEI COMPLEMENTAR Nº 141, DE 16 DE ABRIL DE 2018
 
 Altera a descrição do cargo de motorista constante no Anexo III da Lei Complementar nº 127/2017, que trata da Estrutura Administrativa do Instituto de Previdência de Aparecida de Goiânia – APARECIDAPREV.

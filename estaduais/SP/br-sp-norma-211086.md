@@ -1,5 +1,3 @@
-# Lei nº 18.155, de 19/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211086)<br>
 
 # LEI N° 18.155, DE 19 DE JUNHO DE 2025

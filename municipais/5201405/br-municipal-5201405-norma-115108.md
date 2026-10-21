@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.731, de 2023-08-09
-
 LEI MUNICIPAL Nº 3.731, DE 09 DE AGOSTO DE 2023.
 
 Altera o § 2º, do art. 3º da Lei Municipal nº 3.719, de 25 de maio de 2023, que dispõe sobre o incentivo de bolsa moradia, bolsa alimentação e ajuda de custo aos médicos participantes do programa mais médicos para o Brasil e médicos para o Brasil, e dá outras providências.

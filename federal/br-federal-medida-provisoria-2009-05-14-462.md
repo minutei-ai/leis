@@ -1,5 +1,3 @@
-# Medida Provisória nº 462 de 14/05/2009
-
 ###MPV-000462-0-000-14-05-2009@@@
 
 MEDIDA PROVISÓRIA Nº 462, DE 14 DE MAIO DE 2009.

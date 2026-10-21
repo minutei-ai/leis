@@ -1,5 +1,3 @@
-# Decreto Numerado nº 243, de 2024-04-12
-
 DECRETO “N” Nº 243, DE 12 DE ABRIL DE 2024
 
 Delega atribuição ao Secretário Executivo de Mobilidade.

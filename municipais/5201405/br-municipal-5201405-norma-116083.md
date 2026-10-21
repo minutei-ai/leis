@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.613, de 2021-06-24
-
 LEI MUNICIPAL Nº 3.613, DE 24 DE JUNHO DE 2021.
 
 Cria a Comenda do Mérito Legislativo “LIOSMAR EVARISTO MENDANHA” no Município de Aparecida de Goiânia e dá outras providências.

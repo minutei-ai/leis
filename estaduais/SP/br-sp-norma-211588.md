@@ -1,5 +1,3 @@
-# Decreto nº 69.920, de 30/09/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211588)<br>
 
 # DECRETO N° 69.920, DE 30 DE SETEMBRO DE 2025

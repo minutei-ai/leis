@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.655, de 2022-01-28
-
 LEI MUNICIPAL Nº 3.655, DE 28 DE JANEIRO DE 2022.
 
 Dispõe sobre a obrigatoriedade das salas de cinema e todos os locais que utilizem telas de projeção de filmes, shows e similares, localizadas no Município de Aparecida de Goiânia, a divulgar fotos de crianças, adolescentes, adultos desaparecidos, com seus respectivos nomes para comunicar o seu paradeiro, e dá outras providências.

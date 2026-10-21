@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.545, de 2024-02-27
-
 LEI Nº 22.545, DE 27 DE FEVEREIRO DE 2024
 
 Altera a [Lei nº 17.139](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89215), de 27 de agosto de 2010, que institui o Estatuto do Portador de Câncer no Estado de Goiás.

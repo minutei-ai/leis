@@ -1,5 +1,3 @@
-# Medida Provisória nº 795 de 17/08/2017
-
 MEDIDA PROVISÓRIA Nº 795, DE 17 DE AGOSTO DE 2017
 
 Dispõe sobre o tratamento tributário das atividades de exploração e de desenvolvimento de campo de petróleo ou de gás natural, altera a [Lei nº 9.481, de 13 de agosto de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-08-13;9481), e a [Lei nº 12.973, de 13 de maio de 2014](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-05-13;12973), e institui regime tributário especial para as atividades de exploração, desenvolvimento e produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos.

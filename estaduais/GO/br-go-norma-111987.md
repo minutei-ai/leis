@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.995, de 2025-12-30
-
 LEI Nº 23.995, DE 30 DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

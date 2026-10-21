@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.691, de 2025-08-21
-
 LEI Nº 7.691, DE 21 DE AGOSTO DE 2025.
 
 Altera a [Lei nº 7.331](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114687 "Abrir Lei Ordinária nº 7331, de 2023 em nova aba"), de 17 de fevereiro de 2023, para prever a contribuição da FESURV – Universidade de Rio Verde na aquisição de equipamentos para o Hospital Municipal Universitário.

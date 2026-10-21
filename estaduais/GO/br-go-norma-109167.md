@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.829, de 2024-07-04
-
 LEI Nº 22.829, DE 4 DE JULHO DE 2024
 
 Institui o Dia Estadual do Diabetes.

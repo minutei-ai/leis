@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.314, de 2016-04-19
-
 LEI MUNICIPAL Nº 3.314, DE 19 DE ABRIL DE 2016.
 
 Reconhece de Utilidade Pública a Casa Espírita Cristã Irmã Rosália.

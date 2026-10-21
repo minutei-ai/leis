@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.224, de 2026-04-09
-
 LEI Nº 24.224, DE 9 DE ABRIL DE 2026
 
 Institui a Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática – PTI.

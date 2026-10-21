@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.157 de 01/01/2023
-
 MEDIDA PROVISÓRIA Nº 1.157, DE 1 DE JANEIRO DE 2023
 
 Reduz as alíquotas da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins incidentes sobre operações realizadas com óleo diesel, biodiesel, gás liquefeito de petróleo, álcool, querosene de aviação, gás natural veicular e gasolina.

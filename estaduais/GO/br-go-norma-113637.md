@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.884, de 2026-03-19
-
 DECRETO Nº 10.884, DE 19 DE MARÇO DE 2026
 
 Institui a Medalha do Mérito Veterano na Polícia Militar do Estado de Goiás.

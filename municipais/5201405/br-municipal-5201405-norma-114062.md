@@ -1,5 +1,3 @@
-# Decreto Numerado nº 722, de 2024-09-16
-
 DECRETO “N” Nº 722, DE 16 DE SETEMBRO DE 2024.
 
 Altera a composição da Unidade de Execução Municipal – UEM, instituída pelo Decreto “N” nº 233, de 04 de setembro de 2013, e dá outras providências.

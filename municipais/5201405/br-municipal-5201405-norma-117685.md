@@ -1,5 +1,3 @@
-# Decreto Numerado nº 536, de 2023-08-11
-
 DECRETO "N" N° 536, DE 11 DE AGOSTO DE 2023.
 
 Dispõe sobre aprovação do Loteamento denominado Distrito Agroindustrial Norberto Teixeira, e dá outras providências.

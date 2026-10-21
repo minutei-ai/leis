@@ -1,5 +1,3 @@
-# LEI Nº 14.913 DE 27 DE MAIO DE 2025
-
 LEI Nº 14.913 DE 27 DE MAIO DE 2025
 
 Institui no âmbito do estado da Bahia o "Mês Março Verde”.

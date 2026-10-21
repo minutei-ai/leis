@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.477, de 2024-06-10
-
 DECRETO Nº 10.477, DE 10 DE JUNHO DE 2024
 
 Dispõe sobre a criação, na Polícia Militar do Estado de Goiás, das Unidades Policiais Militares que especifica.

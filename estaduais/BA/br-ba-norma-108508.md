@@ -1,5 +1,3 @@
-# LD Nº 60 DE 01 DE JUNHO DE 1983
-
 LEI DELEGADA Nº 60 DE 01 DE JUNHO DE 1983
 
 Autoriza a instituição de empresa pública, sob a denominação de Companhia de Desenvolvimento Urbano e Articulação Municipal - INTERURB, e dá outras providências.

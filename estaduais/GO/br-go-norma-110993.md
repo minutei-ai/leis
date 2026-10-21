@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.524, de 2025-06-23
-
 LEI Nº 23.524, DE 23 DE JUNHO DE 2025
 
 Cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.

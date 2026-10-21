@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 13 DE 30 DE DEZEMBRO DE 1997
-
 revogadoLEI COMPLEMENTAR Nº 13 DE 30 DE DEZEMBRO DE 1997
 
 Revogado pela [Lei Complementar 53](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-53-de-31-deagosto-de-2022) de 31 de agosto de 2022.

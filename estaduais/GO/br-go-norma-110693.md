@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.429, de 2025-05-19
-
 LEI Nº 23.429, DE 19 DE MAIO DE 2025
 
 Autoriza o pedido de encerramento do Estado de Goiás ao Regime de Recuperação Fiscal, instituído pela Lei Complementar federal nº 159, de 19 de maio de 2017.

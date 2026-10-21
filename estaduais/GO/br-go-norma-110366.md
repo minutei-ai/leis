@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.218, de 2025-01-09
-
 LEI Nº 23.218, DE 9 DE JANEIRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Uirapuru/GO.

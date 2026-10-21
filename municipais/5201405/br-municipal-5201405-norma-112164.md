@@ -1,5 +1,3 @@
-# Decreto Numerado nº 6, de 2026-01-06
-
 DECRETO Nº 006, DE 6 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Dr Odilon Macêdo, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

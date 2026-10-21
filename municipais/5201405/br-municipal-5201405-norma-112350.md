@@ -1,5 +1,3 @@
-# Decreto Numerado nº 974, de 2025-02-26
-
 DECRETO Nº 974, DE 26 DE FEVEREIRO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

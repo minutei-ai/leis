@@ -1,5 +1,3 @@
-# Decreto Numerado nº 326, de 2023-05-16
-
 DECRETO “N” Nº 326 DE 16 DE MAIO DE 2023
 
 Dispõe sobre remembramento de imóveis situados no loteamento POLO EMPRESARIAL GOIÁS-ETAPA IV, neste município.

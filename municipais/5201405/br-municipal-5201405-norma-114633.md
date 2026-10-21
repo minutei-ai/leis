@@ -1,5 +1,3 @@
-# Decreto Numerado nº 389, de 2026-05-19
-
 DECRETO Nº 389, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 19, situado à Avenida C, no Loteamento Setor Marista Sul, no Município de Aparecida de Goiânia.

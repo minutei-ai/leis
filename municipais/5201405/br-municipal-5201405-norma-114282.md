@@ -1,5 +1,3 @@
-# Decreto Numerado nº 344, de 2026-05-06
-
 DECRETO Nº 344, DE 6 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua Antônio Dumont Alves, no Loteamento Vila Maria, no Município de Aparecida de Goiânia.

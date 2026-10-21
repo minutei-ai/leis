@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.384, de 2017-10-25
-
 LEI MUNICIPAL Nº 3.384, DE 25 DE OUTUBRO DE 2017.
 
 Reconhece como Utilidade Pública Municipal a CRECHE ANJO DA GUARDA - OBRA DOM ORIONE e dá outras providências.

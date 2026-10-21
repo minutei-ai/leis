@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.506, de 2024-04-29
-
 LEI Nº 7.506, DE 29 DE ABRIL DE 2024.
 
 Altera a [Lei nº 6.560](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115847 "Abrir Lei Ordinária nº 6560, de 2015 em nova aba"), de 27 de outubro de 2015, que autoriza a Concessão de Direito Real de Uso de Imóvel que especifica.

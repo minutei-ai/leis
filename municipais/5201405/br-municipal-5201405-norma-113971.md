@@ -1,5 +1,3 @@
-# Decreto Numerado nº 151, de 2023-03-13
-
 DECRETO “N” Nº 151 DE 13 DE MARÇO DE 2023.<br>
 (Revogado pelo Decreto “N” Nº 616 de 21 de setembro de 2023)
 

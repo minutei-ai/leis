@@ -1,5 +1,3 @@
-# Decreto Numerado nº 403, de 2026-05-20
-
 DECRETO Nº 403, DE 20 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 26, situado à Rua Havana, no Loteamento Parque das Nações, no Município de Aparecida de Goiânia.

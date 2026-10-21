@@ -1,5 +1,3 @@
-# LEI Nº 14.993 DE 02 DE OUTUBRO DE 2025
-
 LEI Nº 14.993 DE 02 DE OUTUBRO DE 2025
 
 Altera a Lei nº [7.990](https://www.legislabahia.ba.gov.br/documentos/lei-no-7990-de-27-de-dezembro-de-2001), de 27 de dezembro de 2001, na forma que indica.

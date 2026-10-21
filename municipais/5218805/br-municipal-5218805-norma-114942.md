@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.554, de 2024-10-31
-
 LEI Nº 7.554, DE 31 DE OUTUBRO DE 2024.
 
 Dispõe sobre a aquisição de imóvel pela FESURV - Universidade de Rio Verde.

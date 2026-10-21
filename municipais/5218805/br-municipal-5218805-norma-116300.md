@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.295, de 2022-09-26
-
 LEI N. 7.295 DE 26 DE SETEMBRO DE 2022
 
 Autoriza a desafetação de imóveis públicos.

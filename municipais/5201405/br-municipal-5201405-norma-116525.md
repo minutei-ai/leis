@@ -1,5 +1,3 @@
-# Lei Complementar nº 250, de 2026-08-05
-
 LEI COMPLEMENTAR Nº 250, DE 5 DE AGOSTO DE 2026
 
 Desafeta áreas públicas, autoriza a doação de imóveis municipais ao Fundo de Arrendamento Residencial – FAR, no âmbito do Programa Minha Casa, Minha Vida, concede isenções tributárias e dá outras providências.

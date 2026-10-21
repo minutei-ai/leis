@@ -1,5 +1,3 @@
-# Decreto nº 69.983, de 18/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211675)<br>
 
 # DECRETO N° 69.983, DE 18 DE OUTUBRO DE 2025

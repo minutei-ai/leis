@@ -1,5 +1,3 @@
-# LEI Nº 15.005 DE 28 DE OUTUBRO DE 2025
-
 LEI Nº 15.005 DE 28 DE OUTUBRO DE 2025
 
 Declara de utilidade pública a Associação dos Moradores do Alto da Colina - AMAC, com sede e foro no município de Conceição do Coité-BA.

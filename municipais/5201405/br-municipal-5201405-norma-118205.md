@@ -1,5 +1,3 @@
-# Decreto Numerado nº 424, de 2023-07-03
-
 DECRETO “N” Nº 424 DE 03 DE JUlHO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento PARQUE DAS NAÇÕES, neste município.

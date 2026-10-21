@@ -1,5 +1,3 @@
-# Decreto Numerado nº 863, de 2024-10-15
-
 DECRETO “N” Nº 863 DE 15 DE OUTUBRO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

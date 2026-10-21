@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.909, de 2025-08-07
-
 DECRETO Nº 1.909, DE 7 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 06, 07, 17, 18 e 19, situados a Rua Agenor Macedo e Avenida Perimetral , no Loteamento Setor Oeste, no Município de Aparecida de Goiânia.

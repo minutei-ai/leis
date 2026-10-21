@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.642, de 2022-01-03
-
 LEI MUNICIPAL Nº 3.642, DE 03 DE JANEIRO DE 2022.
 
 Reconhece de Utilidade Pública a entidade denominada INSTITUTO VIVER MELHOR. 

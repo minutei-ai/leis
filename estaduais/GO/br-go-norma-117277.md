@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.525, de 2026-09-09
-
 LEI Nº 24.525, DE 9 DE setembro DE 2026
 
 Concede o título de cidadania que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.887, de 2026-01-06
-
 LEI Nº 3.887, DE 6 DE JANEIRO DE 2026
 
 Institui o Programa de Vacinação Domiciliar de Idosos e Pessoas com Dificuldade de Locomoção no Município de Aparecida de Goiânia e dá outras providências.

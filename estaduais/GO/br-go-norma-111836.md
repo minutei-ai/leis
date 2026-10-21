@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.948, de 2025-12-17
-
 LEI Nº 23.948, DE 17 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual de Combate à Evasão Escolar de Mães e Pais Adolescentes.

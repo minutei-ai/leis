@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.878, de 2024-07-26
-
 LEI Nº 22.878, DE 26 DE JULHO DE 2024
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Exposição Agropecuária de Uruaçu, realizada no Município de Uruaçu/GO.

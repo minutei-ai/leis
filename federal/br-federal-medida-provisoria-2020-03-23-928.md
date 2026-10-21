@@ -1,5 +1,3 @@
-# Medida Provisória nº 928 de 23/03/2020
-
 MEDIDA PROVISÓRIA Nº 928, DE 23 DE MARÇO DE 2020
 
 Altera a Lei nº 13.979, de 6 de fevereiro de 2020, que dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019, e revoga o art. 18 da Medida Provisória nº 927, de 22 de março de 2020.

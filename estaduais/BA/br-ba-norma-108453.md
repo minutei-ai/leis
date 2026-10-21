@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 18 DE 21 DE AGOSTO DE 2002
-
 LEI COMPLEMENTAR Nº 18 DE 21 DE AGOSTO DE 2002
 
 Dispõe sobre a criação de cargos de Promotor de Justiça e dá outras providências.

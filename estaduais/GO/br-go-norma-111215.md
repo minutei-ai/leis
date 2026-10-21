@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.630, de 2025-09-04
-
 LEI Nº 23.630, DE 4 DE SETEMBRO DE 2025
 
 Autoriza os municípios a instalarem faixas elevadas para travessia de pedestres – lombofaixas – nas rodovias estaduais que atravessam o perímetro urbano.

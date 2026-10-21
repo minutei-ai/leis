@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.460, de 2023-12-22
-
 LEI Nº 7.460, DE 22 DE DEZEMBRO DE 2023.
 
 Altera a Lei nº 6.836, de 27 de março de 2018, que autoriza o Poder Executivo Municipal a doar áreas de sua propriedade ao Fundo de Arrendamento Residencial – FAR, representado pela Caixa Econômica Federal.

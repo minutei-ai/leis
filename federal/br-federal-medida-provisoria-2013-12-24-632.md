@@ -1,5 +1,3 @@
-# Medida Provisória nº 632 de 24/12/2013
-
 MEDIDA PROVISÓRIA Nº  632, DE 24 DE DEZEMBRO DE 2013
 
 Dispõe sobre remuneração das Carreiras e dos Planos Especiais de Cargos das Agências Reguladoras, das Carreiras e do Plano Especial de Cargos do Departamento Nacional de Infraestrutura de Transportes - DNIT, das Carreiras e do Plano Especial de Cargos do Departamento Nacional de Produção Mineral - DNPM, da Carreira de Perito Federal Agrário, das Carreiras do Hospital das Forças Armadas, da Fundação Nacional do Índio - FUNAI, dos empregados de que trata a Lei nº 8.878, de 11 de maio de 1994; autoriza a prorrogação de contratos por tempo determinado; altera a Lei nº 8.112, de 11 de dezembro de 1990, a Lei nº 8.745, de 9 de dezembro de 1993, a Lei nº 11.890, de 24 de dezembro de 2008, a Lei nº 12.800, de 23 de abril de 2013; e dá outras providências.

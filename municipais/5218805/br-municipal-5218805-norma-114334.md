@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.697, de 2025-08-21
-
 LEI N° 7.697, DE 21 DE AGOSTO DE 2025.
 
 Institui no Município de Rio Verde GO a Semana Municipal de Combate e Enfrentamento da Violência Contra Profissionais da Educação.

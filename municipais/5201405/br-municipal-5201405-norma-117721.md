@@ -1,5 +1,3 @@
-# Decreto Numerado nº 665, de 2023-10-19
-
 DECRETO “N” Nº 665, DE 19 DE OUTUBRO DE 2023
 
 Dispõe sobre remanejamento de Gleba que abrange o loteamento JARDIM CRISTAL – 1º COMPLEMENTO, neste município.

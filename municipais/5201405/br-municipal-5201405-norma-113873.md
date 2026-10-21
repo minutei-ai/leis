@@ -1,5 +1,3 @@
-# Decreto Numerado nº 159, de 2024-03-20
-
 DECRETO Nº 159, DE 20 DE MARÇO DE 2024.
 
 Nomeia membros para compor o CONSELHO MUNICIPAL DO DIREITO DA PESSOA IDOSA para o biênio 2024-2025.

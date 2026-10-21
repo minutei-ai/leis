@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.283, de 2025-03-18
-
 LEI Nº 23.283, DE 17 DE MARÇO DE 2025
 
 Dispõe sobre o reconhecimento das feiras livres como patrimônio cultural imaterial goiano.

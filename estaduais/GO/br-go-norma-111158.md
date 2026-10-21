@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.585, de 2025-08-19
-
 LEI Nº 23.585, DE 19 DE AGOSTO DE 2025
 
 Dispõe sobre a observância da fila do Complexo Regulador Estadual no âmbito do Estado de Goiás e dá outras providências.

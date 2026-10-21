@@ -1,5 +1,3 @@
-# Decreto Numerado nº 440, de 2026-06-01
-
 DECRETO Nº 440, DE 1º DE JUNHO DE 2026
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua Irã, no Loteamento Setor Aeroporto Sul – 2ª Etapa, no Município de Aparecida de Goiânia.

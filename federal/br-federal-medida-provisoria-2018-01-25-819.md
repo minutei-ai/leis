@@ -1,5 +1,3 @@
-# Medida Provisória nº 819 de 25/01/2018
-
 MEDIDA PROVISÓRIA Nº 819, DE 25 DE JANEIRO DE 2018
 
 Autoriza a União a doar recursos ao Estado da Palestina para a restauração da Basílica da Natividade.

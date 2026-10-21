@@ -1,5 +1,3 @@
-# Medida Provisória nº 733 de 14/06/2016
-
 MEDIDA PROVISÓRIA Nº 733, DE 14 DE JUNHO DE 2016
 
 Autoriza a liquidação e a renegociação de dívidas de crédito rural e altera a [Lei nº 10.177, de 12 de janeiro de 2001](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-01-12;10177).

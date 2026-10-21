@@ -1,5 +1,3 @@
-# LEI Nº 14.885 DE 15 DE ABRIL DE 2025
-
 LEI Nº 14.885 DE 15 DE ABRIL DE 2025
 
 Institui o dia 11 (onze) de fevereiro como o "Dia Estadual das Mulheres e Meninas na Ciência”, e dá outras providências.

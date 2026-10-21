@@ -1,5 +1,3 @@
-# Medida Provisória nº 908 de 28/11/2019
-
 MEDIDA PROVISÓRIA Nº 908, DE 28 DE NOVEMBRO DE 2019
 
 Institui o Auxílio Emergencial Pecuniário para os pescadores profissionais artesanais inscritos e ativos no Registro Geral da Atividade Pesqueira, domiciliados nos Municípios afetados pelas manchas de óleo.

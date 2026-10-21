@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.632, de 2025-04-14
-
 LEI Nº 7.635, DE 14 DE ABRIL DE 2025.
 
 Autoriza o Município de Rio Verde a adotar o modelo de gestão de que trata a Lei federal nº 13.019, de 31 de julho de 2014, para a oferta de bens e cuidados de saúde aos usuários do Sistema Único de Saúde - SUS na rede municipal.

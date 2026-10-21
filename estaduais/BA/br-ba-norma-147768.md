@@ -1,5 +1,3 @@
-# LEI Nº 14.998 DE 20 DE OUTUBRO DE 2025
-
 LEI Nº 14.998 DE 20 DE OUTUBRO DE 2025
 
 Declara de utilidade pública o Projeto Tambores Abençoados Alagoinhas Bahia, com sede e foro no município de Alagoinhas.

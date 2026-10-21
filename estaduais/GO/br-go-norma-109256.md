@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.521, de 2024-08-02
-
 DECRETO Nº 10.521 , DE 2 DE AGOSTO DE 2024
 
 Altera o [Decreto nº 9.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104181), de 7 de julho de 2021, que dispõe sobre a delegação de competência prevista no § 1º do art. 35 da [Lei estadual nº 17.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89895), de 27 de dezembro de 2012.

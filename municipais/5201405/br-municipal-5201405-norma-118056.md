@@ -1,5 +1,3 @@
-# Decreto Numerado nº 463, de 2023-07-17
-
 DECRETO “N” Nº 463, DE 17 DE JULHO DE 2023.
 
 Dispõe sobre a alteração de destinação das áreas públicas municipais situados no Setor Planície, neste Município.

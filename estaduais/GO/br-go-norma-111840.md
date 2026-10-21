@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.952, de 2025-12-17
-
 LEI Nº 23.952, DE 17 DE DEZEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

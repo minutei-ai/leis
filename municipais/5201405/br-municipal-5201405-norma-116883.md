@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3326, de 2016-07-22
-
 LEI MUNICIPAL 3.326, DE 22 DE JULHO DE 2016.<br>
 (Revogada pela Lei Ordinária nº 3.567, de 3 de julho de 2020).
 

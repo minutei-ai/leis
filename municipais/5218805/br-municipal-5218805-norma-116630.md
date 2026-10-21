@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.929, de 2019-03-29
-
 <br>
 **LEI Nº 6.929, DE 29 DE MARÇO DE 2019**
 

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.208 de 27/02/2024
-
 MEDIDA PROVISÓRIA Nº 1.208, DE 28 DE FEVEREIRO DE 2024
 
 Revoga dispositivos da [Medida Provisória nº 1.202, de 28 de dezembro de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2023-12-28;1202).

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.450, de 2023-11-27
-
 LEI Nº 7.450, DE 27 DE NOVEMBRO DE 2023.
 
 Autoriza patrocínio ao Centro de Tradições Gaúchas Querência de Rio Verde para evento cultural.

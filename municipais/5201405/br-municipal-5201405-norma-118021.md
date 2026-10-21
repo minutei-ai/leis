@@ -1,5 +1,3 @@
-# Decreto Numerado nº 249, de 2023-04-17
-
 DECRETO “N” Nº 249 DE 17 DE ABRIL DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento VILA MARIA, neste município.

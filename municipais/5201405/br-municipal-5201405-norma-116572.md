@@ -1,5 +1,3 @@
-# Lei Complementar nº 143, de 2018-05-10
-
 LEI COMPLEMENTAR Nº 143, DE 10 DE MAIO DE 2018
 
 Cria a Unidade de Acolhimento Institucional para Adolescentes no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Decreto nº 70.928, de 19/10/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213037)<br>
 
 # DECRETO N° 70.928, DE 19 DE OUTUBRO DE 2026

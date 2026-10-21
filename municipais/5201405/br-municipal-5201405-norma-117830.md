@@ -1,5 +1,3 @@
-# Decreto Numerado nº 107, de 2023-02-13
-
 DECRETO “N” Nº 107 DE 13 DE FEVEREIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento COLINA AZUL, neste município.

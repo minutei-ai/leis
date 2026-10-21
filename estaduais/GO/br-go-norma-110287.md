@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.178, de 2024-12-27
-
 LEI Nº 23.178, DE 27 DE DEZEMBRO DE 2024
 
 Declara de utilidade pública a entidade que especifica.

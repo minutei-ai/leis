@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.195, de 2021-11-09
-
 LEI Nº 7.195, DE 09 DE NOVEMBRO DE 2021.
 
 Dispõe sobre a divulgação dos dados dos Conselhos Municipais na página oficial da Prefeitura e Câmara Municipal na internet, e da outras providências.

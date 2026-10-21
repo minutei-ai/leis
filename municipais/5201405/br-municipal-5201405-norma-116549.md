@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.530, de 2019-12-09
-
 LEI MUNICIPAL Nº 3.530, DE 09 DE DEZEMBRO DE 2019.
 
 “Dispõe sobre a denominação da Praça OLÍCIO PEDRO CALAÇA, no Setor Residencial Caraíbas, neste Município e dá outras providências.”

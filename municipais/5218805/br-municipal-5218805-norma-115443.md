@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.846, de 2026-04-23
-
 LEI Nº 7.846, DE 23 DE ABRIL DE 2026.
 
 Institui o Dia e a Semana Municipal de Conscientização sobre as Doenças da Tireoide, inclui no Calendário Oficial de Eventos do Município e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 143, de 2024-03-14
-
 DECRETO “N” Nº 143 DE 14 DE MARÇO DE 2024
 
 Dispõe sobre remembramento e desmembramento.

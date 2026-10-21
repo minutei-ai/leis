@@ -1,5 +1,3 @@
-# Lei Complementar nº 94, de 2014-09-09
-
 LEI COMPLEMENTAR N° 94, DE 09 DE SETEMBRO DE 2014.
 
 Institui a criação do Programa Aparecida Cooperando e Reciclando com Dignidade e estabelece as condições para o serviço público de coleta seletiva dos resíduos sólidos em residências, empresas e indústrias no município de Aparecida de Goiânia e dá outras providências.

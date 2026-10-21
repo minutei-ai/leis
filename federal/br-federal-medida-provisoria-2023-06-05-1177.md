@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.177 de 05/06/2023
-
 MEDIDA PROVISÓRIA Nº 1.177, DE 5 DE JUNHO DE 2023
 
 Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 200.000.000,00, para o fim que especifica.

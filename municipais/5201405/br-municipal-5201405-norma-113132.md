@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.195, de 2025-09-08
-
 DECRETO Nº 2.195, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 20, situado à Rua 114, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

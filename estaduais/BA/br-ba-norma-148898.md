@@ -1,5 +1,3 @@
-# LEI Nº 15.180 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.180 DE 1º DE JULHO DE 2026
 
 Dispõe sobre a denominação do trecho da Rodovia BA-617, compreendido entre o Povoado de Pancadão, no Município de Lagoa Real (entroncamento da BR-030), e o Município de Ibiassucê, passando a denominar-se Rodovia Prefeito Francisco Adauto Rebouças Prates.

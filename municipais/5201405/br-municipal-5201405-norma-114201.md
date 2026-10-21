@@ -1,5 +1,3 @@
-# Decreto Numerado nº 675, de 2024-08-16
-
 DECRETO “N” Nº 675, DE 16 DE AGOSTO DE 2024.
 
 Declara de utilidade pública para fins de desapropriação o imóvel situado na Fazenda Santo Antônio, no Município de Aparecida de Goiânia.

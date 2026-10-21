@@ -1,5 +1,3 @@
-# Decreto Numerado nº 225, de 2026-03-16
-
 DECRETO Nº 225, DE 16 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 25, situado à Rua Dimitry Novgorodcev, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

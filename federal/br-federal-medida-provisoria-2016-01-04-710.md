@@ -1,5 +1,3 @@
-# Medida Provisória nº 710 de 04/01/2016
-
 MEDIDA PROVISÓRIA Nº 710, DE 4 DE JANEIRO DE 2016
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça, da Cultura, da Defesa, da Integração Nacional e do Turismo e de Encargos Financeiros da União, no valor de R$ 1.472.650.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.823, de 2024-06-28
-
 LEI Nº 22.823, DE 28 DE JUNHO DE 2024
 
 Cria e denomina o estabelecimento de ensino que especifica.<br>

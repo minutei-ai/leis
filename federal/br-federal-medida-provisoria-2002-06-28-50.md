@@ -1,5 +1,3 @@
-# Medida Provisória nº 50 de 28/06/2002
-
 ###MPV-000050-0-000-28-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 50, DE 28 DE JUNHO DE 2002

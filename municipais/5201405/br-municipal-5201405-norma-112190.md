@@ -1,5 +1,3 @@
-# Decreto Numerado nº 32, de 2026-01-14
-
 DECRETO Nº 032, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o remembramento dos Lotes 05, 06 e 07, todos da Quadra U, situados à Avenida A e Rua 6A, no Loteamento Setor Araguaia, no Município de Aparecida de Goiânia.

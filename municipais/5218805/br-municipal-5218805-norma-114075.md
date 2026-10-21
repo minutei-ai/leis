@@ -1,5 +1,3 @@
-# Lei Complementar nº 437, de 2025-12-15
-
 LEI COMPLEMENTAR Nº 437, DE 15 DE DEZEMBRO DE 2025.
 
 Altera a Lei Complementar nº 5.727, de 11 de dezembro de 2009 - Código Tributário do Município de Rio Verde.

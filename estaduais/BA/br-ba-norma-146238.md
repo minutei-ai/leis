@@ -1,5 +1,3 @@
-# LEI N° 14.871 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.871 DE 12 DE FEVEREIRO DE 2025
 
 Institui a Campanha Maio Vermelho, dedicada à prevenção e o combate ao câncer cucal.

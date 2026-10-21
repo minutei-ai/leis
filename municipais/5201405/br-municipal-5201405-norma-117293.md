@@ -1,5 +1,3 @@
-# Decreto Numerado nº 790, de 2024-09-24
-
 DECRETO “N” Nº 790 DE 24 DE SETEMBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

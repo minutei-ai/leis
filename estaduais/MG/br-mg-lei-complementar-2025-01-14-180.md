@@ -1,5 +1,3 @@
-# LCP nº 180, de 14/01/2025
-
 Institui o regime de previdência complementar para parlamentares da Assembleia Legislativa do Estado de Minas Gerais.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

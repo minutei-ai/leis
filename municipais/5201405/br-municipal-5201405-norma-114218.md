@@ -1,5 +1,3 @@
-# Decreto Numerado nº 635, de 2024-08-02
-
 DECRETO “N” Nº 635 DE 02 DE AGOSTO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis públicos do Loteamento Alvorada Oeste, neste município, como de Interesse Social.

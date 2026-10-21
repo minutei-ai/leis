@@ -1,5 +1,3 @@
-# Medida Provisória nº 382 de 24/07/2007
-
 ###MPV-000382-0-000-24-07-2007@@@
 
 MEDIDA PROVISÓRIA Nº 382, DE 24 DE JULHO DE 2007.

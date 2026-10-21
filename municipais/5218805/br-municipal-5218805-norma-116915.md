@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.832, de 2026-03-23
-
 LEI Nº 7.832, DE 23 DE MARÇO DE 2026.
 
 Cria a Escola do Legislativo de Rio Verde, no âmbito da Câmara Municipal de Rio Verde e promove a reorganização administrativa alterando a Estrutura Organizacional - Lei nº 7434/2023 e o Plano de Cargos e Remuneração dos Servidores – Lei nº 7.435/2023 e dá outras providências.

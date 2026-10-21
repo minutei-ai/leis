@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.612, de 2025-02-24
-
 LEI N° 7.612, DE 24 DE FEVEREIRO DE 2025.
 
 Autoriza desafetação e alienação de imóvel público por investidura.

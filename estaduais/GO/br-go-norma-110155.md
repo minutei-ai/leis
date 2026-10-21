@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.607, de 2024-12-16
-
 DECRETO Nº 10.607, DE 16 DE DEZEMBRO DE 2024
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica, no Município de Santa Bárbara de Goiás/GO.

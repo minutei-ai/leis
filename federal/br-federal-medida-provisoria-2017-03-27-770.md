@@ -1,5 +1,3 @@
-# Medida Provisória nº 770 de 27/03/2017
-
 MEDIDA PROVISÓRIA Nº 770, DE 27 DE MARÇO DE 2017
 
 Prorroga o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica - RECINE.

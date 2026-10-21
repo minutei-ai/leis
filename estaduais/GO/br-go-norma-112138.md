@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.025, de 2026-01-09
-
 LEI Nº 24.025, DE 9 DE JANEIRO DE 2026
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

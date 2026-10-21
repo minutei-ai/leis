@@ -1,5 +1,3 @@
-# Decreto Numerado nº 133, de 2023-03-02
-
 DECRETO “N” Nº 133 DE 02 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento ROSA DOS VENTOS, neste município.

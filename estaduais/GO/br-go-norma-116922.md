@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.978, de 2026-08-26
-
 DECRETO Nº 10.978, DE 26 DE AGOSTO DE 2026
 
 Institui e instala, em caráter temporário, o Gabinete de Ações Integradas para o planejamento, a coordenação, a preparação e a resposta aos incêndios florestais, à estiagem e a outras ameaças decorrentes do fenômeno El Niño, no ciclo 2026/2027, no Estado de Goiás.

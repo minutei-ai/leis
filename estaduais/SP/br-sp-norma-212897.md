@@ -1,5 +1,3 @@
-# Decreto nº 70.800, de 20/08/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212897)<br>
 
 # DECRETO N° 70.800, DE 20 DE AGOSTO DE 2026

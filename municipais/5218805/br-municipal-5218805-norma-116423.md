@@ -1,5 +1,3 @@
-# Lei Complementar nº 22, de 2014-09-15
-
 LEI COMPLEMENTAR Nº 22, DE 15 DE SETEMBRO DE 2014.
 
 Cria o cargo de Agente de Proteção da Aviação civiL - APAC.

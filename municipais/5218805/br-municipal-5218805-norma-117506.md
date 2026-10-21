@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.132, de 2021-03-30
-
 LEI Nº 7.132, DE 30 DE MARÇO DE 2021
 
 Autoriza celebração de Termo de Compromisso com o Departamento Nacional de Infraestrutura de Transportes - DNIT e o Município de Rio Verde-GO.

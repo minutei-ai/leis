@@ -1,5 +1,3 @@
-# LEI Nº 14.878 DE 24 DE FEVEREIRO DE 2025
-
 LEI Nº 14.878 DE 24 DE FEVEREIRO DE 2025
 
 Institui o Código de Vigilância em Saúde do Estado.

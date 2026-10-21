@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.252, de 2022-04-01
-
 LEI N° 7.252, DE 1º DE ABRIL DE 2022 
 
 Altera Lei nº 5.981, de 24 de agosto de 2011.

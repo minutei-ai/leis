@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.125, de 2025-09-01
-
 DECRETO Nº 2.125, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 03, situado à Rua Cerita, no Loteamento Vila Oliveira, no Município de Aparecida de Goiânia.

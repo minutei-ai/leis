@@ -1,5 +1,3 @@
-# LCP nº 152, de 30/12/2019
-
 Altera a Lei Complementar nº 138, de 28 de abril de 2016, que dispõe sobre a licença para tratamento de saúde dos servidores atingidos pela decisão do Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade nº 4.876, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DE MINAS GERAIS,

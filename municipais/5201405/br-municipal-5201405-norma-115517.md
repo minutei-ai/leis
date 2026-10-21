@@ -1,5 +1,3 @@
-# Decreto Numerado nº 334, de 2024-05-08
-
 DECRETO “N” Nº 334 DE 08 DE MAIO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

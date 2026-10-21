@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.242, de 2026-04-28
-
 LEI Nº 24.242, DE 28 DE ABRIL DE 2026
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Gastronômica, realizada no Município de Santo Antônio de Goiás/GO.

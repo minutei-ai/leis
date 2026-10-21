@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.889, de 2024-08-05
-
 LEI Nº 22.889, DE 5 DE AGOSTO DE 2024
 
 Altera a [Lei nº 18.622](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90844), de 11 de julho de 2014, que institui o Conselho de Excelência das Unidades Públicas Hospitalares Gerenciadas por Organizações Sociais de Saúde no âmbito do Estado de Goiás, e a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

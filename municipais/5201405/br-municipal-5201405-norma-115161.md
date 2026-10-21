@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.765, de 2023-12-19
-
 LEI MUNICIPAL Nº 3.765, DE 19 DE DEZEMBRO DE 2023.
 
 Dispõe sobre a obrigatoriedade de disponibilização de acesso gratuito à internet em estabelecimentos comerciais que optarem por oferecer aos consumidores cardápio na forma digital.

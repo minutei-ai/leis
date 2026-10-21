@@ -1,5 +1,3 @@
-# LEI Nº 14.785 DE 04 DE NOVEMBRO DE 2024
-
 LEI Nº 14.785 DE 04 DE NOVEMBRO DE 2024
 
 Autoriza o Poder Executivo a contratar operação de crédito com instituições financeiras nacionais, com garantia da União, e dá outras providências.

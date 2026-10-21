@@ -1,5 +1,3 @@
-# Medida Provisória nº 723 de 29/04/2016
-
 MEDIDA PROVISÓRIA Nº 723, DE 29 DE ABRIL DE 2016
 
 Prorroga o prazo de dispensa de que trata o [caput do art. 16 da Lei nº 12.871, de 22 de outubro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-10-22;12871!art16_cpt).

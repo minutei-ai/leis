@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.656, de 2025-03-10
-
 DECRETO Nº 10.656, DE 10 DE MARÇO DE 2025
 
 Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), também de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo, e os Anexos III e IV do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021, que define os municípios que sediarão as unidades regionais dos órgãos que especifica, integrantes da Secretaria de Estado da Segurança Pública, e fixa as respectivas circunscrições.

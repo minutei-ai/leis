@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.818, de 2009-06-04
-
 LEI MUNICIPAL Nº. 2.818, DE 04 DE JUNHO DE 2009.
 
 Altera os artigos 20 e 41, da Lei Municipal n.º 2.548, de 21 de dezembro de 2005, que dispõe sobre a Política Municipal de Atendimento dos Direitos da Criança e do Adolescente.

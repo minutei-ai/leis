@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.535, de 2025-07-01
-
 LEI Nº 23.535, DE 1º DE JULHO DE 2025
 
 Abre crédito especial à Secretaria de Estado de Desenvolvimento Social – SEDS.

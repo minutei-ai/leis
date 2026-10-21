@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.392, de 2017-12-06
-
 LEI MUNICIPAL Nº 3.392, DE 06 DE DEZEMBRO DE 2017
 
 Dá nome a PRAÇA ISRAEL, situada à Rua João de Souza Climaco com Alameda Wilton Pinheiro, no Parque Trindade II, neste Município.

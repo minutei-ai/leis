@@ -1,5 +1,3 @@
-# Medida Provisória nº 910 de 10/12/2019
-
 MEDIDA PROVISÓRIA Nº 910, DE 10 DE DEZEMBRO DE 2019
 
 Altera a Lei nº 11.952, de 25 de junho de 2009, que dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, a Lei nº 8.666, de 21 de junho de 1993, que institui normas para licitações e contratos da administração pública, e a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 236, de 2025-10-06
-
 Portaria Orçamentária nº 236/2025 - Economia
 
 O PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS, no uso de suas atribuições legais, com fundamento no art. 9º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de janeiro de 2025.

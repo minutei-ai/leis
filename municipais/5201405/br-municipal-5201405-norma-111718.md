@@ -1,5 +1,3 @@
-# Lei Complementar nº 246, de 2025-11-13
-
 LEI COMPLEMENTAR Nº 246, DE 13 DE NOVEMBRO DE 2025.
 
 Dispõe sobre a redução temporária das alíquotas do Imposto sobre a Transmissão de Bens Imóveis (ITBI) no âmbito do Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.726, de 2025-10-06
-
 LEI Nº 23.726, DE 6 DE OUTUBRO DE 2025
 
 Altera a [Lei nº 13.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82287 "Abrir Lei Ordinária nº 13194, de 1997 em nova aba"), de 26 de dezembro de 1997, que trata de matéria tributária.

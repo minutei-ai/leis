@@ -1,5 +1,3 @@
-# Decreto Numerado nº 71, de 2024-02-09
-
 DECRETO “N” Nº 71 DE 09 DE FEVEREIRO DE 2024.<br>
 (Revogado pelo Decreto "N" Nº 399, de 28 de maio de 2024).
 

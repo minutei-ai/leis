@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.720, de 2025-07-02
-
 DECRETO Nº 10.720 , DE 2 DE JULHO DE 2025
 
 Altera o [Decreto nº 5.794](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61331), de 7 de julho de 2003, que dispõe sobre a composição e as atribuições do Conselho Estadual de Turismo de Goiás e dá outras providências.

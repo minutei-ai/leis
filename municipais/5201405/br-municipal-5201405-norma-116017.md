@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.602, de 2021-03-24
-
 LEI MUNICIPAL Nº 3.602 DE 24 DE MARÇO DE 2021.
 
 Cria a Logomarca do Município de Aparecida de Goiânia, em conformidade com o Art. 2º da Lei Orgânica Municipal e dá outras providencias. 

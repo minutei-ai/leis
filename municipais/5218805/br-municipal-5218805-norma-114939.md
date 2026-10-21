@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.551, de 2024-10-31
-
 LEI Nº 7.551, DE 31 DE OUTUBRO DE 2024.
 
 Autoriza o Poder Executivo a afetar áreas públicas, inserindo-as no Sistema Viário do Município.

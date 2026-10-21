@@ -1,5 +1,3 @@
-# Decreto Numerado nº 214, de 2023-04-05
-
 DECRETO “N” Nº 214 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre remembramento de imóveis situados no Loteamento JARDIM ELDORADO, neste município.

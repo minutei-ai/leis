@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.725, de 2024-05-29
-
 LEI Nº 22.725, DE 29 DE MAIO DE 2024
 
 Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jaupaci/GO.

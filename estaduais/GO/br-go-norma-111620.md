@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.868, de 2025-11-26
-
 LEI Nº 23.868, DE 26 DE NOVEMBRO DE 2025
 
 Concede o título de cidadania que especifica.

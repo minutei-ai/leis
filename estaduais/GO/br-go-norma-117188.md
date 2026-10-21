@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.502, de 2026-09-08
-
 **LEI Nº 24.502, DE 8 DE SETEMBRO DE 2026**
 
 Institui o Dia Estadual do Opala e da Caravan e dá outras providências.

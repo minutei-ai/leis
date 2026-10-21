@@ -1,5 +1,3 @@
-# LEI Nº 15.062 DE 18 DE DEZEMBRO DE 2025
-
 LEI Nº 15.062 DE 18 DE DEZEMBRO DE 2025
 
 Declara de utilidade pública a Associação de Catadores de Resíduos Sólidos Recicláveis de Vitória da Conquista - ACRES, com sede e foro no município de Vitória da Conquista.

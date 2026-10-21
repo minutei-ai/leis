@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.219, de 2025-09-12
-
 DECRETO Nº 2.219, DE 12 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua da Candelária, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

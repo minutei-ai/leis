@@ -1,5 +1,3 @@
-# Medida Provisória nº 465 de 29/06/2009
-
 ###MPV-000465-0-000-29-06-2009@@@
 
 MEDIDA PROVISÓRIA Nº 465, DE 29 DE JUNHO DE 2009.

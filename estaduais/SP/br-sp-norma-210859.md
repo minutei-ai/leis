@@ -1,5 +1,3 @@
-# Decreto nº 69.473, de 10/04/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210859)<br>
 
 # DECRETO N° 69.473, DE 10 DE ABRIL DE 2025

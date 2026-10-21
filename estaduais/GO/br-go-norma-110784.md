@@ -1,5 +1,3 @@
-# Lei Complementar nº 206, de 2025-06-02
-
 LEI COMPLEMENTAR Nº 206, DE 2 DE JUNHO DE 2025
 
 Altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências; e dá outras providências.

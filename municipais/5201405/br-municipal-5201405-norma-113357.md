@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.891, de 2026-02-25
-
 LEI Nº 3.891, DE 25 DE FEVEREIRO DE 2026
 
 Dispõe sobre alteração da Lei nº 2.424/2004 e Lei nº 3.328/2016, que trata sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, nos termos do inciso IX do artigo 37 da Constituição Federal, e dá outras providências no âmbito do município de Aparecida de Goiânia.

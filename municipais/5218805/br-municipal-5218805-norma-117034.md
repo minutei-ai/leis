@@ -1,5 +1,3 @@
-# Lei Complementar nº 336, de 2024-02-26
-
 LEI COMPLEMENTAR Nº 336, DE 26 DE FEVEREIRO DE 2024.
 
 Altera a [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774)/2020, que dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipal, para criar a Secretaria Municipal de Turismo, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.004, de 2024-09-20
-
 LEI Nº 23.004, DE 20 DE SETEMBRO DE 2024
 
 Altera a [Lei nº 13.345](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82892), de 24 de setembro de 1998, que autoriza a prática de ato que especifica.

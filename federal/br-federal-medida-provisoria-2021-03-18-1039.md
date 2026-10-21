@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.039 de 18/03/2021
-
 MEDIDA PROVISÓRIA Nº 1.039, DE 18 DE MARÇO DE 2021
 
 Institui o Auxílio Emergencial 2021 para o enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19).

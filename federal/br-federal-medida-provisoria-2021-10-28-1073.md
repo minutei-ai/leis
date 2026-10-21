@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.073 de 28/10/2021
-
 MEDIDA PROVISÓRIA Nº 1.073, DE 28 DE OUTUBRO DE 2021
 
 Autoriza a prorrogação de contratos temporários no âmbito do Ministério da Agricultura, Pecuária e Abastecimento e da Agência Nacional de Saúde Suplementar - ANS.

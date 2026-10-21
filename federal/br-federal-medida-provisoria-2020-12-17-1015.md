@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.015 de 17/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.015, DE 17 DE DEZEMBRO DE 2020
 
 Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 20.000.000.000,00, para o fim que especifica.

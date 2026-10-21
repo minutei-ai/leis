@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.133 de 12/08/2022
-
 MEDIDA PROVISÓRIA Nº 1.133, DE 12 DE AGOSTO DE 2022
 
 Dispõe sobre as Indústrias Nucleares do Brasil S.A. e sobre a pesquisa, a lavra e a comercialização de minérios nucleares, de seus concentrados e derivados, e de materiais nucleares.

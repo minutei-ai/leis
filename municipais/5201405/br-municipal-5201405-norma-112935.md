@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.000, de 2025-08-18
-
 DECRETO Nº 2.000, DE 18 DE AGOSTO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 11, 21, 22, 23, 24, 25, 26 e 27, situados na Avenida Jatai e Alameda Pedro Sá, no Loteamento Jardim dos Buriti e Chácaras São Pedro, no Município de Aparecida de Goiânia.

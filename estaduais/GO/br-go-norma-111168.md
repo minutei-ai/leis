@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.592, de 2025-08-25
-
 LEI Nº 23.592, DE 25 DE AGOSTO DE 2025
 
 Abre crédito especial aos Encargos Financeiros do Estado e aos Encargos Especiais.

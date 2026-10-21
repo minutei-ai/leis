@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.389, de 2023-08-28
-
 LEI N. 7.389, DE 28 DE AGOSTO DE 2023
 
 Autoriza a desafetação da Rua Odair Cardoso da Silva, parte do sistema viário do Residencial Lázaro Pimenta.

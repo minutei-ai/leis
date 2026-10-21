@@ -1,5 +1,3 @@
-# Medida Provisória nº 617 de 31/05/2013
-
 MEDIDA PROVISÓRIA Nº 617, DE 31 DE MAIO DE 2013
 
 Reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social – COFINS incidentes sobre a receita decorrente da prestação de serviços de transporte coletivo de passageiros nas modalidades que menciona.

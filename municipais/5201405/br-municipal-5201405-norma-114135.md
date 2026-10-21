@@ -1,5 +1,3 @@
-# Decreto Numerado nº 320, de 2026-04-28
-
 DECRETO Nº 320, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua Frei João Batista Vogel, no Loteamento Rosa dos Ventos, no Município de Aparecida de Goiânia.

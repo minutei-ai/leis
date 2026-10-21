@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.358, de 2025-05-09
-
 DECRETO Nº 1.358, DE 9 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 29, situado à Rua Adriano Souza no Loteamento Real Grandeza - 2º ETAPA, no Município de Aparecida de Goiânia.

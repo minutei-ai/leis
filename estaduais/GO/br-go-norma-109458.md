@@ -1,5 +1,3 @@
-# Lei Complementar nº 196, de 2024-09-10
-
 LEI COMPLEMENTAR Nº 196, DE 10 DE SETEMBRO DE 2024.<br>
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 

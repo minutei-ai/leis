@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.517, de 2019-10-28
-
 LEI MUNICIPAL Nº 3.517, DE 28 DE OUTUBRO DE 2019
 
 Reconhece de Utilidade Pública a entidade denominada INSTITUTO REGER DE EDUCAÇÃO, CULTURA E TECNOLOGIA.

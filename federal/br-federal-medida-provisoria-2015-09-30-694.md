@@ -1,5 +1,3 @@
-# Medida Provisória nº 694 de 30/09/2015
-
 MEDIDA PROVISÓRIA Nº 694, DE 30 DE SETEMBRO DE 2015
 
 Altera a Lei nº 9.249, de 26 de dezembro de 1995, para dispor sobre o imposto sobre a renda incidente sobre juros de capital próprio, a Lei nº 10.865, de 30 de abril de 2004, e a Lei nº 11.196, de 21 de novembro de 2005, para dispor sobre os benefícios fiscais do Regime Especial da Indústria Química e para suspender, no ano-calendário de 2016, os benefícios fiscais de que tratam os arts. 19, 19-A e 26 desta Lei.

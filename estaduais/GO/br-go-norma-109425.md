@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.959, de 2024-08-28
-
 LEI Nº 22.959, DE 28 DE AGOSTO 2024
 
 Institui a Política Pública “Jovem Economista”.

@@ -1,5 +1,3 @@
-# LEI Nº 14.997 DE 17 DE OUTUBRO DE 2025
-
 LEI Nº 14.997 DE 17 DE OUTUBRO DE 2025
 
 Altera a Lei nº [14.889](https://www.legislabahia.ba.gov.br/documentos/lei-no-14889-de-24-de-abril-de-2025), de 24 abril de 2025, na forma que indica.

@@ -1,5 +1,3 @@
-# LEI COMPLEMENTAR Nº 48 DE 10 DE JUNHO DE 2019
-
 LEI COMPLEMENTAR Nº 48 DE 10 DE JUNHO DE 2019
 
 Institui as Microrregiões de Saneamento Básico do Algodão, da Bacia do Paramirim, da Bacia do Velho Chico, da Bacia do Rio Grande, da Chapada Diamantina, do Extremo Sul, de Irecê, do Litoral Norte e Agreste Baiano, do Litoral Sul e Baixo Sul, do Médio Sudoeste da Bahia, do Piemonte-Diamantina, do Piemonte do Paraguaçu, do Recôncavo, do São Francisco Norte, do Semiárido do Nordeste, do Sisal-Jacuípe, da Terra do Sol, de Vitória da Conquista e do Portal do Sertão, e dá outras providências.

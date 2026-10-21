@@ -1,5 +1,3 @@
-# LEI Nº 14.940 DE 1º DE JULHO DE 2025
-
 LEI Nº 14.940 DE 1º DE JULHO DE 2025
 
 Declara de utilidade pública o Instituto de Integração e Formação Casa da Cidadania, com sede e foro no município de Vitória da Conquista.

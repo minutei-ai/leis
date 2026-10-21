@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.343, de 2025-04-16
-
 LEI Nº 23.343, DE 16 DE ABRIL DE 2025
 
 Concede o título de cidadania que especifica.

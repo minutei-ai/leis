@@ -1,5 +1,3 @@
-# Medida Provisória nº 901 de 18/10/2019
-
 MEDIDA PROVISÓRIA Nº 901, DE 18 DE OUTUBRO DE 2019
 
 Altera a Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá terras pertencentes à União.

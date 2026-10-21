@@ -1,5 +1,3 @@
-# LEI Nº 15.036 DE 11 DE DEZEMBRO DE 2025
-
 LEI Nº 15.036 DE 11 DE DEZEMBRO DE 2025
 
 Altera os arts. 10, 11 e 14 da Lei nº [11.918](https://www.legislabahia.ba.gov.br/documentos/lei-no-11918-de-16-de-junho-de-2010), de 16 de junho de 2010, e dá outras providências.

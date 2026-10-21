@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.429, de 2018-09-10
-
 LEI Nº 3.429, DE 10 DE SETEMBRO DE 2018
 
 Autoriza o Poder Executivo a contratar financiamento junto a União, por meio da Caixa Econômica Federal, na qualidade de agente financeiro, e oferecer garantias e dá outras providências.

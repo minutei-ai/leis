@@ -1,5 +1,3 @@
-# Decreto Numerado nº 919, de 2024-10-30
-
 DECRETO “N” Nº 919, DE 30 DE OUTUBRO DE 2024.
 
 Dispõe sobre a convalidação da PROGRESSÃO VERTICAL de servidora da Secretaria Municipal de Educação.

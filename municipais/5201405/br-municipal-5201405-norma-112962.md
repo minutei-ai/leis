@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.044, de 2025-08-25
-
 DECRETO Nº 2.044, DE 25 DE AGOSTO DE 2025
 
 Dispõe sobre o desmembramento do Lote 19, da quadra 50, situado à Rua Leonor Artiaga Póvoa, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

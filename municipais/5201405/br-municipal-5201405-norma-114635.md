@@ -1,5 +1,3 @@
-# Decreto Numerado nº 391, de 2026-05-19
-
 DECRETO Nº 391, DE 19 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 07, situado à Rua 5B, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

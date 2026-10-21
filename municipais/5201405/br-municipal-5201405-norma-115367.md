@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.681, de 2022-09-29
-
 LEI MUNICIPAL Nº 3.681 DE 29 DE SETEMBRO DE 2022.
 
 “Dispõe sobre a homenagem às vítimas do COVID-19 no Município de aparecida de Goiânia”

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 109, de 2023-02-13
-
 DECRETO “N” Nº 109, DE 13 DE FEVEREIRO DE 2023.
 
 Decreta Ponto Facultativo e dá outras providências.

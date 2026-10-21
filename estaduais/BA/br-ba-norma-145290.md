@@ -1,5 +1,3 @@
-# LEI Nº 14.760 DE 24 DE JULHO DE 2024
-
 LEI Nº 14.760 DE 24 DE JULHO  DE 2024
 
 Altera a Lei no [7.015](https://www.legislabahia.ba.gov.br/documentos/lei-no-7015-de-09-de-dezembro-de-1996), de 09 de dezembro de 1996, na forma que indica, e dá outras providências.

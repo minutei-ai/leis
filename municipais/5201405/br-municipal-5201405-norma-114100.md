@@ -1,5 +1,3 @@
-# Decreto Numerado nº 891, de 2024-10-23
-
 DECRETO “N” Nº 891, DE 23 DE OUTUBRO DE 2024.
 
 Declara ponto facultativo no âmbito da Administração Pública Municipal.

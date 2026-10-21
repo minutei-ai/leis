@@ -1,5 +1,3 @@
-# Decreto Numerado nº 481, de 2026-06-17
-
 DECRETO Nº 481, DE 17 DE JUNHO DE 2026
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 17 e 18, situados à Rua Sete de Setembro, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

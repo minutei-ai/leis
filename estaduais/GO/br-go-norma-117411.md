@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.986, de 2026-09-16
-
 DECRETO Nº 10.986, DE 16 DE SETEMBRO DE 2026
 
 Altera o Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, e o [Decreto nº 10.089](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105598), de 17 de maio de 2022, que dispõe sobre a transferência de crédito acumulado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS na situação que especifica.

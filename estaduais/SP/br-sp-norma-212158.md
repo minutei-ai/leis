@@ -1,5 +1,3 @@
-# Decreto nº 70.332, de 07/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212158)<br>
 
 # DECRETO N° 70.332, DE 07 DE JANEIRO DE 2026

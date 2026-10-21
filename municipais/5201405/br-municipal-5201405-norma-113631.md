@@ -1,5 +1,3 @@
-# Decreto Numerado nº 247, de 2026-03-19
-
 DECRETO Nº 247, DE 19 DE MARÇO DE 2026
 
 Reconhece e enquadra o Setor Parque Montreal como núcleo urbano informal para fins de Regularização Fundiária de Interesse Social – Reurb-S, e dá outras providências.

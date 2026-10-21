@@ -1,5 +1,3 @@
-# Decreto Numerado nº 100, de 2026-01-28
-
 DECRETO Nº 100, DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua José Rapouso da Fonseca, no Loteamento Residencial Solar Garden II, no Município de Aparecida de Goiânia.

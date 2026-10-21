@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.555, de 2024-03-12
-
 LEI Nº 22.555, DE 12 DE MARÇO DE 2024
 
 Dispõe sobre a criação e a denominação do AGROCOLÉGIO ESTADUAL MAGUITO VILELA.

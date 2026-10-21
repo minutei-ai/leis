@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.765, de 2025-12-09
-
 DECRETO Nº 2.765, DE 9 DE DEZEMBRO DE 2025
 
 Dispõe sobre o desmembramento da Área 03, situada na Quinta da Boa Vista - Acréscimo, no Município de Aparecida de Goiânia.

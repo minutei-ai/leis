@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.470, de 2025-06-13
-
 LEI Nº 23.470, DE 13 DE JUNHO DE 2025
 
 Dispõe sobre a presidência a distância por Delegados de Polícia de atos e procedimentos policiais, sobre a formalização virtual deles, e dá outras providências.

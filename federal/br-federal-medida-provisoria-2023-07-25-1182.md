@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.182 de 25/07/2023
-
 MEDIDA PROVISÓRIA Nº 1.182, DE 25 DE JULHO DE 2023
 
 Altera a [Lei nº 13.756, de 12 de dezembro de 2018](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-12;13756), para disciplinar a exploração da loteria de aposta de quota fixa pela União.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.647, de 2022-01-17
-
 LEI MUNICIPAL Nº 3.647, DE 17 DE JANEIRO DE 2022.
 
 Dispõe sobre a denominação do Hospital Municipal de Aparecida (HMAP) localizado na Cidade Vera Cruz, neste Município, e dá outras providências.

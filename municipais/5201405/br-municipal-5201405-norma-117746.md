@@ -1,5 +1,3 @@
-# Decreto Numerado nº 24, de 2023-01-18
-
 DECRETO “N” Nº 24 DE 18 DE JANEIRO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO INDEPENDÊNCIA – 3° COMPLEMENTO, neste município.

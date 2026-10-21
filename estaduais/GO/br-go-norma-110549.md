@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.665, de 2025-03-31
-
 DECRETO Nº 10.665, DE 31 DE MARÇO DE 2025
 
 Convoca a 5ª Conferência Estadual de Saúde do Trabalhador e da Trabalhadora – 5ª CESTT.

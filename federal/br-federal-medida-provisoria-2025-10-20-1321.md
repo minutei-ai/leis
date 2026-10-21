@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.321 de 20/10/2025
-
 MEDIDA PROVISÓRIA Nº 1.321, DE 20 DE OUTUBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 2.500.000,00, para o fim que especifica.

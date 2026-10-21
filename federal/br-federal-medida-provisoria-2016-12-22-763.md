@@ -1,5 +1,3 @@
-# Medida Provisória nº 763 de 22/12/2016
-
 MEDIDA PROVISÓRIA Nº 763, DE 22 DE DEZEMBRO DE 2016
 
 Altera a Lei nº 8.036, de 11 de maio de 1990, para elevar a rentabilidade das contas vinculadas do trabalhador por meio da distribuição de lucros do Fundo de Garantia do Tempo de Serviço e dispor sobre possibilidade de movimentação de conta do Fundo vinculada a contrato de trabalho extinto até 31 de dezembro de 2015.

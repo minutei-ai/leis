@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.327 de 09/12/2025
-
 MEDIDA PROVISÓRIA Nº 1.327, DE 9 DE DEZEMBRO DE 2025
 
 Altera a [Lei nº 9.503, de 23 de setembro de 1997](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503) - Código de Trânsito Brasileiro.

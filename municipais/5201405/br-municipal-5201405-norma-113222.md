@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.491, de 2025-10-22
-
 DECRETO Nº 2.491, DE 22 DE OUTUBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Princesa Isabel, no Loteamento Parque Real de Goiânia, no Município de Aparecida de Goiânia.

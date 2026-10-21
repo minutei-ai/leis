@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.307, de 2016-04-18
-
 LEI MUNICIPAL Nº 3.307, DE 18 DE ABRIL DE 2016.
 
 Denomina Pista de Skate localizada no Parque Lafaiete Campos Filho no Setor Residencial Village Garavelo I e dá outras providencias.

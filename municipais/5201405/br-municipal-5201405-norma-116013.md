@@ -1,5 +1,3 @@
-# Lei Complementar nº 186, de 2021-05-26
-
 LEI COMPLEMENTAR Nº 186, DE 26 DE MAIO DE 2021.<br>
 (Revogada pela Lei Complementar nº 203, de 9 de fevereiro de 2023).
 

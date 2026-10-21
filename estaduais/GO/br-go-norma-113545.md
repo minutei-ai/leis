@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.874, de 2026-03-12
-
 DECRETO Nº 10.874, DE 12 DE MARÇO DE 2026
 
 Altera o [Decreto nº 10.089](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105598), de 17 de maio de 2022, que dispõe sobre a transferência de crédito acumulado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS na situação que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.759, de 2023-12-06
-
 LEI MUNICIPAL Nº 3.759 DE 06 DE DEZEMBRO DE 2023.
 
 Reconhece como utilidade pública Municipal a “Tenda Espírita Cabocla Jurema” e dá outras providências.

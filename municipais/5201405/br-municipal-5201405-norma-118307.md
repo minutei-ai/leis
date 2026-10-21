@@ -1,5 +1,3 @@
-# Decreto Numerado nº 532, de 2023-08-09
-
 DECRETO “N” Nº 532 DE 09 DE AGOSTO DE 2023.
 
 Dispõe sobre remembramento de imóvel.

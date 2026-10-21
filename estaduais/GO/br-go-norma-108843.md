@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.698, de 2024-05-15
-
 LEI Nº 22.698, DE 15 DE MAIO DE 2024
 
 Concede revisão geral anual da remuneração dos servidores do Ministério Público do Estado de Goiás.

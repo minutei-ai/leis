@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.132, de 2025-09-02
-
 DECRETO Nº 2.132, DE 2 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 06, da Quadra 06, situado à Rua Maricá, no Loteamento Vila Alzira, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 745 de 15/09/2016
-
 MEDIDA PROVISÓRIA Nº 745, DE 15 DE SETEMBRO DE 2016
 
 Autoriza o Banco Central do Brasil a adquirir papel moeda e moeda metálica fabricados fora do País por fornecedor estrangeiro.

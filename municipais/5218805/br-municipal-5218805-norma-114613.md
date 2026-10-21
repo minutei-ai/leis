@@ -1,5 +1,3 @@
-# Lei Complementar nº 116, de 2018-03-27
-
 LEI COMPLEMENTAR Nº 116, DE 27 DE MARÇO DE 2018
 
 Altera dispositivos do Código de Posturas, Lei Complementar nº 3.635, de 03 de março de 1998.

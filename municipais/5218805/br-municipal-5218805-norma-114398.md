@@ -1,5 +1,3 @@
-# Lei Complementar nº 355, de 2024-05-27
-
 LEI COMPLEMENTAR Nº 355, DE 27 DE MAIO DE 2024.
 
 Institui e regulamenta a Academia de Ensino da Guarda Civil de Rio Verde (ACEGRV) e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.883, de 2025-12-30
-
 DECRETO Nº 2.883, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 21 e 45, todos da Quadra 02, situados à Rua dos Pinheiros e Rua das Castanheiras, no Loteamento Residencial Caraibas, no Município de Aparecida de Goiânia.

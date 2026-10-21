@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.143, de 2013-12-13
-
 LEI MUNICIPAL Nº 3.143, DE 13 DE DEZEMBRO DE 2013.<br>
 (Revogada Pela Lei Ordinária nº 3.173, de 10 de abril de 2014).
 

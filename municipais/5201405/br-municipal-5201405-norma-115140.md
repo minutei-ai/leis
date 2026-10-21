@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.749, de 2023-10-31
-
 LEI MUNICIPAL Nº 3.749, DE 31 DE OUTUBRO DE 2023.
 
 Dispõe sobre a denominação da Praça Maria das Vitorias Lopes da Silva, no Setor Residencial Campos Elísios, neste município, e dá outras providências.

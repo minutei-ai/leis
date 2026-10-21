@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.822, de 2025-01-28
-
 LEI MUNICIPAL Nº 3.822, DE 28 DE JANEIRO DE 2025.
 
 Altera a Lei Municipal nº 3.787/2024, que dispõe sobre as Diretrizes Gerais para elaboração da Lei Orçamentária Anual e dá outras providências.

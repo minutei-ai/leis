@@ -1,5 +1,3 @@
-# Decreto Numerado nº 194, de 2026-03-11
-
 DECRETO Nº 194, DE 11 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 28, situado à Avenida Imperial, no Loteamento Nova Olinda, no Município de Aparecida de Goiânia.

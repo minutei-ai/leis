@@ -1,5 +1,3 @@
-# Medida Provisória nº 919 de 30/01/2020
-
 MEDIDA PROVISÓRIA Nº 919, DE 30 DE JANEIRO DE 2020
 
 Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de fevereiro de 2020.

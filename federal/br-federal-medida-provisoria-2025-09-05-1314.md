@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.314 de 05/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.314, DE 5 DE SETEMBRO DE 2025
 
 Autoriza a utilização do superávit financeiro de fontes supervisionadas pelo Ministério da Fazenda e de recursos livres das instituições financeiras para a disponibilização de linhas de crédito rural destinadas à liquidação ou à amortização de dívidas de produtores rurais prejudicados por eventos adversos.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 285, de 2023-02-17
-
 LEI COMPLEMENTAR Nº 285, DE 17 DE FEVEREIRO DE 2023.
 
 Altera a Lei n. 3.853/1999, que dispõe sobre o Plano de Cargos e Vencimentos dos Funcionários do Município e dá outras providências.

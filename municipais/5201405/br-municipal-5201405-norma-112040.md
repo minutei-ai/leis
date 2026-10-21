@@ -1,5 +1,3 @@
-# Lei Complementar nº 154, de 2018-11-23
-
 LEI COMPLEMENTAR Nº 154, DE 23 DE NOVEMBRO DE 2018
 
 Altera a Lei Complementar n° 010, de 20 de junho de 2005.

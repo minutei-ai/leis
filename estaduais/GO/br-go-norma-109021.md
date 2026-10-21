@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.787, de 2024-06-17
-
 LEI Nº 22.787, DE 17 DE JUNHO DE 2024
 
 Concede o título de cidadania que especifica.

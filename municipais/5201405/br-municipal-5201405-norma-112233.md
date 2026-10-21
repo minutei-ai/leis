@@ -1,5 +1,3 @@
-# Decreto Numerado nº 771, de 2025-02-11
-
 DECRETO Nº 771, DE 11 DE FEVEREIRO DE 2025.
 
 Dispõe sobre o remembramento e desmembramento de imóveis no Município de Aparecida de Goiânia.

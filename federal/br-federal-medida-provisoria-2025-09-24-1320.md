@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.320 de 24/09/2025
-
 MEDIDA PROVISÓRIA Nº 1.320, DE 24 DE SETEMBRO DE 2025
 
 Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Agrário e Agricultura Familiar, no valor de R$ 37.998.000,00, para o fim que especifica.

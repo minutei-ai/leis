@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.597, de 2025-02-24
-
 LEI N° 7.597, DE 24 DE FEVEREIRO DE 2025.
 
 Concede Licença Remunerada a docente para cursar doutorado.

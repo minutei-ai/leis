@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.858, de 2026-01-27
-
 DECRETO Nº 10.858, DE 27 DE JANEIRO DE 2026
 
 Declara de interesse social, para fins de licenciamento ambiental, a obra que especifica no Município de Aragoiânia/GO.

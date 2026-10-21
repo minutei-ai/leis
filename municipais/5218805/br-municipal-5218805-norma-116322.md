@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.285, de 2022-08-30
-
 LEI N° 7.285, DE 30 DE AGOSTO DE 2022
 
 Autoriza o Município a celebrar Convênio de Acordo de Cooperação Técnica com a Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.

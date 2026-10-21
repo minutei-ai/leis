@@ -1,5 +1,3 @@
-# Decreto nº 70.331, de 06/01/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212157)<br>
 
 # DECRETO N° 70.331, DE 06 DE JANEIRO DE 2026

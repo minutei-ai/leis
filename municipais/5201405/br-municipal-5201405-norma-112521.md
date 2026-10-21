@@ -1,5 +1,3 @@
-# Decreto Numerado nº 91, de 2026-01-27
-
 DECRETO Nº 091, DE 27 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Rio Vermelho, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.017 de 17/12/2020
-
 MEDIDA PROVISÓRIA Nº 1.017, DE 17 DE DEZEMBRO DE 2020
 
 Define as diretrizes para a quitação e para a renegociação das dívidas relativas às debêntures emitidas por empresas e subscritas pelos fundos de investimentos regionais e para o desinvestimento, a liquidação e a extinção dos fundos.

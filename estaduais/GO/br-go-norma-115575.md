@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.358, de 2026-06-18
-
 LEI Nº 24.358, DE 18 DE JUNHO DE 2026
 
 Concede o título de cidadania que especifica.

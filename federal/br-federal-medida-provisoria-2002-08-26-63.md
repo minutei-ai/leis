@@ -1,5 +1,3 @@
-# Medida Provisória nº 63 de 26/08/2002
-
 ###MPV-000063-0-000-26-08-2002@@@
 
 MEDIDA PROVISÓRIA Nº 63, DE 26 DE AGOSTO DE 2002

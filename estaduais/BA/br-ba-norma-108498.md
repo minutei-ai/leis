@@ -1,5 +1,3 @@
-# LD Nº 47 DE 10 DE MAIO DE 1983
-
 LEI DELEGADA Nº 47 DE 10 DE MAIO DE 1983
 
 Autoriza, na forma que indica, a introdução de modificações nos Estatutos Sociais de MATADOUROS FRIGORÍFICOS S/A - MAFRISA.

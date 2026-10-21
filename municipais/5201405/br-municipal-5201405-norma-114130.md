@@ -1,5 +1,3 @@
-# Decreto Numerado nº 315, de 2026-04-28
-
 DECRETO Nº 315, DE 28 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 04, situado à Rua 101 e Rua 114, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

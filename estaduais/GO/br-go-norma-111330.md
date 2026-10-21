@@ -1,5 +1,3 @@
-# Lei Complementar nº 209, de 2025-09-29
-
 LEI COMPLEMENTAR Nº 209, DE 29 DE SETEMBRO DE 2025
 
 Altera a [Lei Complementar nº 26](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101024), de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.

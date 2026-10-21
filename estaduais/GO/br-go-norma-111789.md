@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.937, de 2025-12-11
-
 LEI Nº 23.937, DE 11 DE DEZEMBRO DE 2025
 
 Institui a Política Estadual de Salvaguarda e Incentivo à Capoeira.

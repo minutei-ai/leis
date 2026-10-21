@@ -1,5 +1,3 @@
-# Decreto Numerado nº 403, de 2023-06-22
-
 DECRETO “N” Nº 403 DE 22 DE JUNHO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóvel situado no Loteamento JARDIM BONANÇA, neste município.

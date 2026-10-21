@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2.316, de 2002-11-08
-
 LEI MUNICIPAL Nº 2.316, DE 08 DE NOVEMBRO DE 2002.
 
 Institui dia comemorativo e dá outras providências.

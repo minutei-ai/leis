@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.009 de 13/11/2020
-
 MEDIDA PROVISÓRIA Nº 1.009, DE 13 DE NOVEMBRO DE 2020
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Educação, do Fundo Nacional de Desenvolvimento da Educação - FNDE, do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Capes e da Agência Nacional de Saúde Suplementar - ANS.

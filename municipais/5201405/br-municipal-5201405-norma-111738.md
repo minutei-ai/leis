@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.859, de 2025-10-08
-
 LEI Nº 3.859, DE 8 DE OUTUBRO DE 2025
 
 Altera a Lei nº 3.456, de 15 de fevereiro de 2019, que Dispõe sobre a proteção, defesa e bem-estar dos animais no Município de Aparecida de Goiânia.

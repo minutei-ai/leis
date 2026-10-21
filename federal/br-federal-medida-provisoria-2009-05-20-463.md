@@ -1,5 +1,3 @@
-# Medida Provisória nº 463 de 20/05/2009
-
 ###MPV-000463-0-000-20-05-2009@@@
 
 MEDIDA PROVISÓRIA Nº 463, DE 20 DE MAIO DE 2009.

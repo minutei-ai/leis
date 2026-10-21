@@ -1,5 +1,3 @@
-# Medida Provisória nº 182 de 29/04/2004
-
 ###MPV-000182-0-000-29-04-2004@@@
 
 MEDIDA PROVISÓRIA Nº 182, DE 29 DE ABRIL 2004

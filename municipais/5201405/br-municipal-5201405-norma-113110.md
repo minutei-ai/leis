@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.183, de 2025-09-08
-
 DECRETO Nº 2.183, DE 8 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 48, da Quadra 50, situado à Rua Provença, no Loteamento Setor Residencial Campos Elísios, no Município de Aparecida de Goiânia.

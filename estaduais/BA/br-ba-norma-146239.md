@@ -1,5 +1,3 @@
-# LEI N° 14.872 DE 12 DE FEVEREIRO DE 2025
-
 LEI N° 14.872 DE 12 DE FEVEREIRO DE 2025
 
 Estabelece limites sobre a faixa de segurança mínima para redes de distribuição de energia em áreas rurais, regulamenta as atividades de manutenção da vegetação nessas áreas e em áreas urbanas, incluindo condomínios privados no Estado da Bahia.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 941 de 02/04/2020
-
 MEDIDA PROVISÓRIA Nº 941, DE 2 DE ABRIL DE 2020
 
 Abre crédito extraordinário, em favor dos Ministérios da Educação, da Saúde e da Cidadania, no valor de R$ 2.113.789.466,00, para os fins que especifica.

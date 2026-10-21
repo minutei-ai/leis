@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.724, de 2025-10-31
-
 LEI Nº 7.724, DE 31 DE OUTUBRO DE 2025.
 
 Altera a [Lei nº 7.436](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114235 "Abrir Lei Ordinária nº 7436, de 2023 em nova aba"), de 23 de outubro de 2023, que dispõe sobre a padronização, alinhamento e identificação da fiação aérea no Município de Rio Verde.

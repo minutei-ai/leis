@@ -1,5 +1,3 @@
-# Medida Provisória nº 285 de 06/03/2006
-
 ###MPV-000285-0-000-06-03-2006@@@
 
 MEDIDA PROVISÓRIA Nº 285, DE 6 DE MARÇO DE 2006.

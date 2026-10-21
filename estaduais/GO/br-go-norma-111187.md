@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.606, de 2025-08-29
-
 LEI Nº 23.606, DE 29 DE AGOSTO DE 2025
 
 Confere ao Município de Goianésia/GO o título de “Capital Goiana da Produção Sucroalcooleira”.

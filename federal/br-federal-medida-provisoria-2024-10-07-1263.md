@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.263 de 07/10/2024
-
 MEDIDA PROVISÓRIA Nº 1.263, DE 7 DE OUTUBRO DE 2024
 
 Institui o Auxílio Extraordinário destinado a pescadoras e pescadores profissionais artesanais beneficiários do Seguro-Desemprego do Pescador Artesanal - Seguro-Defeso cadastrados em Municípios da Região Norte.

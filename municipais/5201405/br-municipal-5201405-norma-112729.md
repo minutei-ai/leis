@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.776, de 2024-03-08
-
 LEI MUNICIPAL Nº 3.776, DE 8 DE MARÇO DE 2024
 
 Institui canal de comunicação para recebimento de denúncias nas escolas do município de Aparecida de Goiânia e estabelece a afixação de cartazes para divulgação.

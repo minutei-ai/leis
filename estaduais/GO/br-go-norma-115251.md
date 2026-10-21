@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.923, de 2026-06-11
-
 DECRETO Nº 10.923, DE 11 DE JUNHO DE 2026
 
 Declara de utilidade pública, para fins de desapropriação as áreas de terras que especifica.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 6.847, de 2018-05-30
-
 <br>
 **LEI Nº 6.847, DE 30 DE MAIO DE 2018**
 

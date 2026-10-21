@@ -1,5 +1,3 @@
-# Decreto Numerado nº 11, de 2024-01-15
-
 DECRETO “N” Nº 11, DE 15 DE JANEIRO DE 2024.
 
 Nomeia servidores para compor a Comissão de Contratação, Agentes de contratação, Pregoeiros e Equipe de Apoio do Município de Aparecida de Goiânia, nos termos da Lei Federal nº 14.133/2021, Lei Complementar Municipal nº 203, de 09 de fevereiro de 2023 e Lei Federal nº 13.019/2014.

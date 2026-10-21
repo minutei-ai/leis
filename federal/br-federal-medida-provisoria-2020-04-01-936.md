@@ -1,5 +1,3 @@
-# Medida Provisória nº 936 de 01/04/2020
-
 MEDIDA PROVISÓRIA Nº 936, DE 1 DE ABRIL DE 2020
 
 Institui o Programa Emergencial de Manutenção do Emprego e da Renda e dispõe sobre medidas trabalhistas complementares para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19), de que trata a Lei nº 13.979, de 6 de fevereiro de 2020, e dá outras providências.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 242, de 2025-07-24
-
 LEI COMPLEMENTAR Nº 242, DE 24 DE JULHO DE 2025
 
 Dispõe sobre a proibição da utilização de fogos de artifício e espetáculos de pirotecnia no âmbito municipal de Aparecida de Goiânia, e dá outras providências.

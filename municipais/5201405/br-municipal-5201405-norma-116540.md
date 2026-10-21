@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.523, de 2019-11-18
-
 LEI MUNICIPAL Nº 3.523, DE 18 DE NOVEMBRO DE 2019
 
 “Estabelece a prioridade de encaminhamento á vaga de emprego e de cursos profissionalizantes ás mulheres vítimas de violência doméstica no município de Aparecida de Goiânia-GO, e dá outras providências.”

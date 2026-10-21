@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.750, de 2025-07-07
-
 DECRETO Nº 1.750, DE 7 DE JULHO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 01 ao 13 e 16 ao 28, situado à Rua JI-48 e Rua JI-30 no Loteamento Jardim Ipê, no Município de Aparecida de Goiânia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.983, de 2024-09-12
-
 LEI Nº 22.983, DE 12 DE SETEMBRO DE 2024
 
 Abre crédito especial à Agência Estadual de Turismo – GOIÁS TURISMO e cria produto no Plano Plurianual do Estado de Goiás – PPA para o quadriênio 2024-2027, de que trata a [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 18 de outubro de 2023.

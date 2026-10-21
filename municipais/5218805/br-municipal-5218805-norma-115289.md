@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.403, de 2023-08-28
-
 LEI N° 7.403, DE 28 DE AGOSTO DE 2023
 
 Institui o Programa “Mulheres na Política”, no Município de Rio Verde e dá outras providências.

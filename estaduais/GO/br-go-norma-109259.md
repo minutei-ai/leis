@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.894, de 2024-08-05
-
 LEI Nº 22.894, DE 5 DE AGOSTO DE 2024
 
 Institui a Política Estadual de Atenção, Diagnóstico e Tratamento da Retinopatia Diabética.

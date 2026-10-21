@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.849, de 2025-11-14
-
 LEI Nº 23.849, DE 14 DE NOVEMBRO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Campus Party Goiás, realizada no Município de Goiânia/GO.

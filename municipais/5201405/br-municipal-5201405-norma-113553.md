@@ -1,5 +1,3 @@
-# Decreto Numerado nº 202, de 2026-03-12
-
 DECRETO Nº 202, DE 12 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 30, situado à Rua Luiz Olegário de Jesus, no Loteamento Jardim Dom Bosco 2º Etapa, no Município de Aparecida de Goiânia.

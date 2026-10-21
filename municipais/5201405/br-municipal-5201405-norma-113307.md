@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.323, de 2025-09-29
-
 DECRETO Nº 2.323, DE 29 DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 12, da Quadra 53, situado à Rua L-24, no Loteamento Papillon Park - Complemento, no Município de Aparecida de Goiânia.

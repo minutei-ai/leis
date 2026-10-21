@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.250 de 06/08/2024
-
 MEDIDA PROVISÓRIA Nº 1.250, DE 6 DE AGOSTO DE 2024
 
 Institui Apoio Financeiro destinado às famílias desalojadas ou desabrigadas nos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecida pelo Poder Executivo federal.

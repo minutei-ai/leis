@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.786, de 2025-09-24
-
 DECRETO Nº 10.786, DE 24 DE SETEMBRO DE 2025
 
 Altera o Regulamento da Secretaria de Estado de Relações Institucionais – SERINT, aprovado pelo [Decreto nº 10.400](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108412), de 30 de janeiro de 2024.

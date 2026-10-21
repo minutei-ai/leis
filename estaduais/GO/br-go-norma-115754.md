@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.931, de 2026-06-22
-
 DECRETO Nº 10.931, DE 22 DE JUNHO DE 2026
 
 Declara  de utilidade pública, para fins de desapropriação, as áreas de terras que especifica.

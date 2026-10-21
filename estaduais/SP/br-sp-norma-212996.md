@@ -1,5 +1,3 @@
-# Decreto nº 70.882, de 18/09/2026
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212996)<br>
 
 # DECRETO N° 70.882, DE 18 DE SETEMBRO DE 2026

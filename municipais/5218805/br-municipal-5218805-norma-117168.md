@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.174, de 2021-09-02
-
 LEI Nº 7.174, DE 02 DE SETEMBRO DE 2021.
 
 Denomina nome de praça que especifica e dá outras providências.

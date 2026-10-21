@@ -1,5 +1,3 @@
-# LEI Nº 15.109 DE 28 DE JANEIRO DE 2026
-
 LEI Nº 15.109 DE 28 DE JANEIRO DE 2026
 
 Dispõe sobre a restituição dos valores da taxa de matrícula pelas instituições de ensino superior privadas no Estado da Bahia.

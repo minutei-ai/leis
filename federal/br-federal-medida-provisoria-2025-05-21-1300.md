@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.300 de 21/05/2025
-
 MEDIDA PROVISÓRIA Nº 1.300, DE 21 DE MAIO DE 2025
 
 Altera a [Lei nº 9.074, de 7 de julho de 1995](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1995-07-07;9074), a [Lei nº 9.427, de 26 de dezembro de 1996](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-26;9427), a [Lei nº 10.438, de 26 de abril de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-04-26;10438), a [Lei nº 10.848, de 15 de março de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-03-15;10848), a [Lei nº 12.111, de 9 de dezembro de 2009](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2009-12-09;12111), a [Lei nº 12.212, de 20 de janeiro de 2010](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-01-20;12212), a [Lei nº 13.203, de 8 de dezembro de 2015](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-12-08;13203), e a [Lei nº 14.300, de 6 de janeiro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-01-06;14300).

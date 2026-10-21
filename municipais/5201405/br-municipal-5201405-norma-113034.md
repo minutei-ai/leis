@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.117, de 2025-09-01
-
 DECRETO Nº 2.117, DE 1º DE SETEMBRO DE 2025
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Del Grosso, no Loteamento Chácaras São Pedro, no Município de Aparecida de Goiânia.

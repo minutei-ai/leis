@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.990, de 2025-12-30
-
 LEI Nº 23.990, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre a alteração do valor do Fundo Rotativo do Tribunal de Contas do Estado de Goiás.

@@ -1,5 +1,3 @@
-# Lei Complementar nº 230, de 2024-01-09
-
 LEI COMPLEMENTAR Nº 230, DE 09 DE JANEIRO DE 2024.
 
 Constitui mecanismo de garantia de pagamento do Complemento Tarifário em favor das Concessionárias do Sistema Integrado de Transporte da Rede Metropolitana de Transporte Coletivo da Grande Goiânia – SIT-RMTC.

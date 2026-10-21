@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.548, de 2024-03-08
-
 LEI Nº 22.548, DE 8 DE MARÇO DE 2024
 
 Prevê o pagamento de férias indenizadas aos militares ocupantes de cargos de provimento em comissão integrantes das estruturas básica e complementar do Poder Executivo estadual.

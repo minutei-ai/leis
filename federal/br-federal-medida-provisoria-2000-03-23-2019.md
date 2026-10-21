@@ -1,5 +1,3 @@
-# Medida Provisória nº 2.019 de 23/03/2000
-
 ###MPV-002019-0-000-23-03-2000@@@
 
 MEDIDA PROVISÓRIA Nº 2.019, DE 23 DE MARÇO DE 2000.

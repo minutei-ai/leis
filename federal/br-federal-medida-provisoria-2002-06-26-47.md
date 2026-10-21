@@ -1,5 +1,3 @@
-# Medida Provisória nº 47 de 26/06/2002
-
 ###MPV-000047-0-000-26-06-2002@@@
 
 MEDIDA PROVISÓRIA Nº 47, DE 26 DE JUNHO DE 2002

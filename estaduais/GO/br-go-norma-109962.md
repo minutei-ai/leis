@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.097, de 2024-11-25
-
 LEI Nº 23.097, DE 25 DE NOVEMBRO DE 2024
 
 Autoriza a aquisição, por doação onerosa do Município de Nova América/GO, do imóvel que especifica.

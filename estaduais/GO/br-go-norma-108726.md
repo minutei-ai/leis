@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.639, de 2024-04-29
-
 LEI Nº 22.639, DE 29 DE ABRIL DE 2024
 
 Altera a [Lei nº 16.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88613), de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.

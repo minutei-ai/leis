@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.858, de 2025-10-08
-
 LEI Nº 3.858, DE 8 DE OUTUBRO DE 2025
 
 Reconhece como Utilidade Pública Municipal a Associação Beneficente São Nicolau e dá outras providências.

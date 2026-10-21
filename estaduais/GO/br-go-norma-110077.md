@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.585, de 2024-12-02
-
 DECRETO Nº 10.585 , DE 2 DE DEZEMBRO DE 2024
 
 Altera os Decretos [nº 9.737](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103555), de 27 de outubro de 2020, e [nº 9.943](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289), de 8 de setembro de 2021, que dispõem essencialmente sobre racionalização de gastos e programação e execução orçamentária e financeira, e revoga os dispositivos que especifica.

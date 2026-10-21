@@ -1,5 +1,3 @@
-# Decreto nº 69.696, de 14/07/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211185)<br>
 
 # DECRETO N° 69.696, DE 14 DE JULHO DE 2025

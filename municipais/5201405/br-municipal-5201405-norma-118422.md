@@ -1,5 +1,3 @@
-# Decreto Numerado nº 687, de 2023-11-06
-
 DECRETO “N” Nº 687 06 DE NOVEMBRO DE 2023.
 
 Dispõe sobre remembramento de imóveis.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.804, de 2025-12-11
-
 DECRETO Nº 2.804, DE 11 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento e desmembramento dos Lotes 21 e 22, situados à Avenida Domingos de Barros Vellasco, no Loteamento Quinta da Boa Vista, no Município de Aparecida de Goiânia.

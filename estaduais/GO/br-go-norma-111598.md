@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.810, de 2025-11-17
-
 DECRETO Nº 10.810, DE 17 DE NOVEMBRO DE 2025
 
 Altera o Regulamento da Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA, aprovado pelo [Decreto nº 10.318](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107714 "Abrir Decreto Numerado nº 10318, de 2023 em nova aba"), de 12 de setembro de 2023.

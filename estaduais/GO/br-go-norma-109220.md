@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.870, de 2024-07-19
-
 LEI Nº 22.870, DE 19 DE JULHO DE 2024
 
 Altera a [Lei nº 16.140](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86552), de 02 de outubro de 2007, que dispõe sobre o Sistema Único de Saúde – SUS, as condições para a promoção, proteção e recuperação da saúde, a organização, regulamentação, fiscalização e o controle dos serviços correspondentes e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 245, de 2024-04-12
-
 DECRETO “N” Nº 245, DE 12 DE ABRIL DE 2024.
 
 Dispõe sobre a nomeação dos membros do Conselho Municipal de Mobilidade e Transporte de Aparecida de Goiânia e dá outras providências.

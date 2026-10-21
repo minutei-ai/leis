@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.193, de 2014-07-02
-
 LEI MUNICIPAL Nº 3.193, DE 02 DE JULHO DE 2014.
 
 “Altera a Lei nº 1.353 de 24 de março de 1.994, que instituiu o Código de Processo Administrativo Tributário Fiscal do Município de Aparecida de Goiânia – Goiás, e dá outras providencias”.

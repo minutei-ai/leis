@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.734, de 2025-11-12
-
 LEI Nº 7.734, DE 12 DE NOVEMBRO DE 2025.
 
 Institui a Semana Municipal do Detox Digital para Crianças e Adolescentes, com o objetivo de promover o uso consciente da tecnologia e incentivar atividades offline em família.

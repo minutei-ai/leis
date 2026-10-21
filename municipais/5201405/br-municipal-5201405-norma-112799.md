@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.880, de 2025-12-30
-
 DECRETO Nº 2.880, DE 30 DE DEZEMBRO DE 2025
 
 Dispõe sobre o remembramento dos Lotes 03C e 03A, Todos da Quadra 99, situados à Rua Parecis e Rua da Estrada, no Loteamento Vila Brasilia, no Município de Aparecida de Goiânia.

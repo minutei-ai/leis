@@ -1,5 +1,3 @@
-# Lei Complementar nº 84, de 2014-06-11
-
 LEI COMPLEMENTAR Nº 84, DE 11 DE JUNHO DE 2014.
 
 Altera o Anexo I da Lei Complementar Municipal nº 015, de 08 de agosto de 2008, aumentando o quantitativo de cargos para Procurador do Município de Nível III.

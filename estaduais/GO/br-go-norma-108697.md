@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.449, de 2024-04-22
-
 DECRETO Nº 10.449, DE 22 DE ABRIL DE 2024
 
 Declara de interesse social, para licenciamento ambiental, a obra que especifica.

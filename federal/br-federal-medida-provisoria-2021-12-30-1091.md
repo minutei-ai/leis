@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.091 de 30/12/2021
-
 MEDIDA PROVISÓRIA Nº 1.091, DE 30 DE DEZEMBRO DE 2021
 
 Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2022.

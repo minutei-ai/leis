@@ -1,5 +1,3 @@
-# Medida Provisória nº 887 de 25/06/2019
-
 MEDIDA PROVISÓRIA Nº 887, DE 25 DE JUNHO DE 2019
 
 Autoriza a prorrogação de contratos por tempo determinado no âmbito do Comando da Aeronáutica do Ministério da Defesa, do Instituto de Fomento e Coordenação Industrial.

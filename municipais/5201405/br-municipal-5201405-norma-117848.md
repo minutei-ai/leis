@@ -1,5 +1,3 @@
-# Decreto Numerado nº 123, de 2023-02-17
-
 DECRETO “N” Nº 123 DE 17 DE FEVEREIRO DE 2023
 
 Dispõe sobre remembramento e desmembramento de imóveis situados no Loteamento RIVIERA SUL, neste município.

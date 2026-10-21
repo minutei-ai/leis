@@ -1,5 +1,3 @@
-# Medida Provisória nº 839 de 30/05/2018
-
 MEDIDA PROVISÓRIA Nº 839, DE 30 DE MAIO DE 2018
 
 Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia e da Defesa, no valor de R$ 9.580.000.000,00, para os fins que especifica.

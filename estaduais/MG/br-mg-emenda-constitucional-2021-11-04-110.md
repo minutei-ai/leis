@@ -1,5 +1,3 @@
-# EMC nº 110, de 04/11/2021
-
 Acrescenta dispositivos aos arts. 106 e 118 da Constituição do Estado, dá nova redação ao art. 13 da Emenda à Constituição do Estado nº 39, de 2 de junho de 1999, e dá outras providências.
 
 A Mesa da Assembleia Legislativa do Estado de Minas Gerais, nos termos do § 4º do art. 64 da Constituição do Estado, promulga a seguinte emenda ao texto constitucional:

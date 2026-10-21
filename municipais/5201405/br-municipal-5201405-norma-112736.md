@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.784, de 2024-05-29
-
 LEI MUNICIPAL Nº 3.784, DE 29 DE MAIO DE 2024
 
 Reconhecer como Utilidade Pública Municipal a “ASSOCIAÇÃO DOS MORADORES DO JARDIM RIVIERA’’ e dá outras providências.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.632, de 2025-01-27
-
 DECRETO Nº 10.632, DE 27 DE JANEIRO DE 2025
 
 Altera o [Decreto nº 9.843](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103913), de 30 de março de 2021, que regulamenta a [Lei nº 20.957](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103684), de 4 de janeiro de 2021, que institui o Programa Universitário do Bem – PROBEM.

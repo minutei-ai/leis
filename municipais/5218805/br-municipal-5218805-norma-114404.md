@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.660, de 2025-05-26
-
 LEI Nº 7.660, DE 26 DE MAIO DE 2025.
 
 Institui o dia da Mãe Atípica no Município de Rio Verde.

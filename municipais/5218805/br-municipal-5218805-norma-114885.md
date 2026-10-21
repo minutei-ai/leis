@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.585, de 2024-12-16
-
 LEI Nº 7.585, DE 16 DE DEZEMBRO DE 2024.
 
 Concede Licença Remunerada a docente para cursar doutorado.

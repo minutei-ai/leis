@@ -1,5 +1,3 @@
-# Decreto Numerado nº 947, de 2024-11-04
-
 DECRETO “N” Nº 947 DE 04 DE NOVEMBRO DE 2024.
 
 Dispõe sobre remembramento e desmembramento de imóveis.

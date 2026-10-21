@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.563, de 2025-07-09
-
 LEI Nº 23.563, DE 9 DE JULHO DE 2025
 
 Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Encontro de Mocidades Evangélicas, realizado no Município de Petrolina de Goiás/GO.

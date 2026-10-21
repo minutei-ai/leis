@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.221, de 2026-04-09
-
 LEI Nº 24.221, DE 9 DE ABRIL DE 2026
 
 Declara de utilidade pública a entidade que especifica.

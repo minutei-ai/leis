@@ -1,5 +1,3 @@
-# Decreto Numerado nº 168, de 2024-04-25
-
 DECRETO “N” Nº 168 DE 25 DE MARÇO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

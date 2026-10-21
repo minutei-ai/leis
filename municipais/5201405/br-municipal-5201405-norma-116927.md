@@ -1,5 +1,3 @@
-# Lei Ordinária nº 2673, de 2007-06-25
-
 Lei nº 2.673, de 25 de junho de 2007
 
 Cria Unidades Municipais de Saúde e dá outras providências.

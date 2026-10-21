@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.411, de 2026-07-03
-
 LEI Nº 24.411, DE 3 DE JULHO DE 2026
 
 Dispõe sobre a organização dos Quadros de Oficiais Especialistas – QOEs da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Goiás, altera a [Lei nº 17.866](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89860), de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar, e a [Lei nº 16.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88613), de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar, e revoga a [Lei nº 19.452](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98768), de 14 de setembro de 2016, que reorganiza os Quadros de Oficiais Auxiliares e Oficiais Músicos da Polícia Militar.

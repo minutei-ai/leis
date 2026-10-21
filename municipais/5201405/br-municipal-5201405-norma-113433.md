@@ -1,5 +1,3 @@
-# Decreto Numerado nº 168, de 2026-03-02
-
 DECRETO Nº 168, DE 2 DE MARÇO DE 2026
 
 Dispõe sobre o desmembramento do Lote 33, situado à Rua Dr José Amaral Neddeemeyer, no Loteamento Setor Serra Dourada 1º Etapa, no Município de Aparecida de Goiânia.

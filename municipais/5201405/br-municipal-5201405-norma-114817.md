@@ -1,5 +1,3 @@
-# Decreto Numerado nº 189, de 2024-03-26
-
 DECRETO “N” Nº 189 DE 26 DE MARÇO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

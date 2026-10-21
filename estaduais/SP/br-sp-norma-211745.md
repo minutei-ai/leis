@@ -1,5 +1,3 @@
-# Lei Complementar nº 1.435, de 31/10/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211745)<br>
 
 # LEI COMPLEMENTAR N° 1.435, DE 31 DE OUTUBRO DE 2025

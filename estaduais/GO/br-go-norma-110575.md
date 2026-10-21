@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.330, de 2025-04-13
-
 LEI Nº 23.330, DE 13 DE ABRIL DE 2025
 
 Declara de utilidade pública a entidade que especifica.

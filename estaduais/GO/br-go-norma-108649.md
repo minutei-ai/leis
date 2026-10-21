@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.594, de 2024-04-05
-
 LEI Nº 22.594, DE 5 DE ABRIL DE 2024
 
 Altera a [Lei nº 19.790](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99105), de 24 de julho de 2017, que institui a Política Estadual de Prevenção à Violência Obstétrica no Estado de Goiás.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 351, de 2026-05-07
-
 DECRETO Nº 351, DE 7 DE MAIO DE 2026
 
 Dispõe sobre o desmembramento do Lote 39, situado à Avenida Portugal, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

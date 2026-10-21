@@ -1,5 +1,3 @@
-# Decreto Numerado nº 218, de 2024-04-08
-
 DECRETO “N” Nº 218 DE 08 DE ABRIL DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

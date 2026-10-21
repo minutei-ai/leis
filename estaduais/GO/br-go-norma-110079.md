@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.120, de 2024-12-02
-
 LEI Nº 23.120, DE 2 DE DEZEMBRO DE 2024
 
 Dispõe sobre a nomenclatura do cargo de Auditor do Tribunal de Contas do Estado de Goiás, prevista na [Lei nº 16.168](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86708), de 11 de dezembro de 2007, que trata do assunto.

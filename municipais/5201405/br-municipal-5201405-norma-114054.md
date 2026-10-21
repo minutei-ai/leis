@@ -1,5 +1,3 @@
-# Decreto Numerado nº 695, de 2024-08-26
-
 DECRETO “N” Nº 695, DE 26 DE AGOSTO DE 2024. Faz o enquadramento à Lei Municipal que
 
 instituiu o PROGRAMA DE INCENTIVOS FISCAIS à empresa que especifica.

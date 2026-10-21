@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.223 de 23/05/2024
-
 MEDIDA PROVISÓRIA Nº 1.223, DE 23 DE MAIO DE 2024
 
 Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo federal, da Defensoria Pública da União, e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.828.262.094,00, para os fins que especifica.

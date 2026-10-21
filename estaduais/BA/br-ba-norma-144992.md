@@ -1,5 +1,3 @@
-# EMENDA À CONSTITUIÇÃO Nº 33 DE 19 DE MARÇO DE 2024
-
 EMENDA À CONSTITUIÇÃO N.º 33, DE 19 DE MARÇO DE 2024
 
 Dá nova redação ao § 3º do art. 67 e ao inciso II do art. 71 da Constituição do Estado da Bahia.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.512, de 2019-10-17
-
 LEI MUNICIPAL Nº 3.512, DE 17 DE OUTUBRO DE 2019
 
 “Dispõe sobre o Programa “Adote um Abrigo de Ônibus” e dá outras providências.”

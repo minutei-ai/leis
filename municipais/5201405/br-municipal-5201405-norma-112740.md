@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.788, de 2024-06-20
-
 LEI MUNICIPAL Nº 3.788, DE 20 DE JUNHO DE 2024.
 
 Dispõe sobre a alteração do nome da Praça Professor Moacir Monclar Brandão para Praça Gaspar de Oliveira Pires no Setor Veiga Jardim II, neste Município e dá outras providências.

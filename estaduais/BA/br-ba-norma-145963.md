@@ -1,5 +1,3 @@
-# LEI Nº 14.801 DE 20 DE DEZEMBRO DE 2024
-
 LEI Nº 14.801 DE 20 DE DEZEMBRO DE 2024
 
 Institui a Política Estadual de Cultura Viva da Bahia, na forma que indica, e dá outras providências.

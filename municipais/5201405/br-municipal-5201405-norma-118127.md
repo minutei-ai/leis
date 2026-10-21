@@ -1,5 +1,3 @@
-# Decreto Numerado nº 351, de 2023-06-02
-
 DECRETO “N” Nº 351 DE 02 DE JUNHO DE 2023
 
 Dispõe sobre remembramento de imóveis situados na FAZENDA SANTO ANTÔNIO, neste município.

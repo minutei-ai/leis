@@ -1,5 +1,3 @@
-# Medida Provisória nº 485 de 30/03/2010
-
 ###MPV-000485-0-000-30-03-2010@@@
 
 MEDIDA PROVISÓRIA Nº 485, DE 30 DE MARÇO DE 2010.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 291, de 2026-06-26
-
 Portaria Orçamentária nº 291/2026 - Economia
 
 **A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 06 de Janeiro de 2026, conforme processo 202600004006506.

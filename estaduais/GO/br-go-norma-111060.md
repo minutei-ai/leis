@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 104, de 2025-06-10
-
 Portaria Orçamentária nº 104/2025 - Economia
 
 O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º e inciso II da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de janeiro de 2025.

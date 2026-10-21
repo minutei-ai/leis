@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.388, de 2017-11-22
-
 LEI MUNICIPAL Nº 3.388, DE 22 DE NOVEMBRO DE 2017<br>
 (Revogado pela Lei Ordinária nº 3.496, de 6 de setembro de 2019).
 

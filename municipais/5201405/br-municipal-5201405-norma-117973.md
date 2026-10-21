@@ -1,5 +1,3 @@
-# Decreto Numerado nº 220, de 2023-04-05
-
 DECRETO “N” Nº 220 DE 05 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO INDEPENDÊNCIA 3º COMPLEMENTO, neste município.

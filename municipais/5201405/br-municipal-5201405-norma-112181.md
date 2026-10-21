@@ -1,5 +1,3 @@
-# Decreto Numerado nº 23, de 2026-01-12
-
 DECRETO Nº 023, DE 12 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 18, situado à Rua Bento Lisboa, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

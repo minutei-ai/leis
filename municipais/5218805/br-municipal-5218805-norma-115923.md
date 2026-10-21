@@ -1,5 +1,3 @@
-# Lei Complementar nº 6.148, de 2012-05-22
-
 LEI COMPLEMENTAR N. 6.148, DE 22 DE MAIO DE 2012.
 
 Dispõe sobre loteamentos fechados e conjuntos residenciais fechados no município de Rio Verde – GO e dá outras providências.

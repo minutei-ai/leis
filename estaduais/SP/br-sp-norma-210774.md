@@ -1,5 +1,3 @@
-# Lei nº 18.142, de 20/03/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210774)<br>
 
 # LEI N° 18.142, DE 20 DE MARÇO DE 2025

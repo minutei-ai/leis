@@ -1,5 +1,3 @@
-# Decreto Numerado nº 100, de 2024-02-27
-
 DECRETO “N” Nº 100 DE 27 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

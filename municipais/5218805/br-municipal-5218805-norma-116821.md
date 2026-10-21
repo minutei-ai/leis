@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.204, de 2021-11-09
-
 LEI Nº 7.204, DE 09 DE NOVEMBRO DE 2021
 
 Denomina nome PRAÇA IONE DE MORAES CAPPARELLI, que especifica e dá outras providências, etc.

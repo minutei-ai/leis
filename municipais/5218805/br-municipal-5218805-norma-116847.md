@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.200, de 2021-11-03
-
 LEI Nº 7.200, DE 03 DE NOVEMBRO DE 2021
 
 Autoriza o Poder Executivo a realizar desapropriação e pagamento e indenização de imóveis. 

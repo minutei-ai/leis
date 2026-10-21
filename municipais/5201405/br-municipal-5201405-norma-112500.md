@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.326, de 2025-05-08
-
 DECRETO Nº 1.326, DE 08 DE MAIO DE 2025
 
 Dispõe sobre o desmembramento do Lote 27, situado à Rua 53 no Loteamento Bairro Independência-3º Complemento,no Município de Aparecida de Goiânia.

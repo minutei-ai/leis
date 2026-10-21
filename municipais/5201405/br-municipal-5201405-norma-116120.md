@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.620, de 2021-09-03
-
 LEI N° 3.620 DE 03 DE SETEMBRO DE 2021.
 
 Altera a Lei Municipal nº 3.592, de 20 de novembro de 2020, que estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO para o exercício de 2021 e dá outras previdências.

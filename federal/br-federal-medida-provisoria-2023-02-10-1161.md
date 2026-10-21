@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.161 de 10/02/2023
-
 MEDIDA PROVISÓRIA Nº 1.161, DE 10 DE FEVEREIRO DE 2023
 
 Altera a Lei nº 13.334, de 13 de setembro de 2016, que cria o Programa de Parcerias de Investimentos - PPI.

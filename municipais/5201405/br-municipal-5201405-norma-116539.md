@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.519, de 2019-11-04
-
 LEI MUNICIPAL Nº 3.519, DE 04 DE NOVEMBRO DE 2019
 
 “Institui a Semana Municipal do Idoso e dá outras providências.”

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.040, de 2026-01-14
-
 LEI Nº 24.040, DE 14 DE JANEIRO DE 2026
 
 Institui a Semana Estadual de Orientação sobre Primeiros Socorros nas escolas da rede pública estadual de ensino.

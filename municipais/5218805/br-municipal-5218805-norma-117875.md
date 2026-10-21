@@ -1,5 +1,3 @@
-# Lei Complementar nº 397, de 2025-06-30
-
 LEI COMPLEMENTAR Nº 397, DE 30 DE JUNHO DE 2025.
 
 Altera a Lei nº 4.904, de 28 de fevereiro de 2005, e [Lei Complementar nº 38](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117740), de 2 de setembro de 2015, para ampliar o número de vagas dos cargos de Procurador e Defensor Jurídico do Núcleo de Práticas Jurídicas – NPJ, no quadro de servidores da Universidade de Rio Verde – UniRV.

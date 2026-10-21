@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.505, de 2019-10-10
-
 LEI MUNICIPAL Nº 3.505, DE 10 DE OUTUBRO DE 2019
 
 Dispõe sobre a denominação da praça “JOSÉ COUTINHO DE ABREU”, no Setor Veiga Jardim IV e dá outras providências.

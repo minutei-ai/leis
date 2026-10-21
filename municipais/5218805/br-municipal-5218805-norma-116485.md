@@ -1,5 +1,3 @@
-# Lei Complementar nº 255, de 2022-06-27
-
 LEI COMPLEMENTAR Nº. 255, DE 27 DE JUNHO DE 2022
 
 Altera a lei complementar municipal nº. 3.853/1999

@@ -1,5 +1,3 @@
-# Lei Complementar nº 210, de 2025-12-11
-
 LEI COMPLEMENTAR Nº 210, DE 11 DE DEZEMBRO DE 2025.
 
 Altera o art. 27 e seu parágrafo único da [Lei Complementar nº 26](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101024/lei-complementar-026), de 28 de dezembro de 1998.

@@ -1,5 +1,3 @@
-# Portaria Orçamentária nº 110, de 2026-03-30
-
 Portaria Orçamentária nº 110/2026 - Economia
 
 O DEFENSOR PÚBLICO-GERAL DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de janeiro de 2025.

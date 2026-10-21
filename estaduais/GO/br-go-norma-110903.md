@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.706, de 2025-06-10
-
 DECRETO Nº 10.706, DE 10 DE JUNHO DE 2025
 
 Considera as obras de infraestrutura que especifica como prioritárias para a concessão do crédito outorgado, conforme estabelece a alínea “f” do inciso XVI do art. 12 do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 29 de dezembro de 1997, Regulamento do [Código Tributário do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836) – RCTE.

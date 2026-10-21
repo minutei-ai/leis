@@ -1,5 +1,3 @@
-# Medida Provisória nº 934 de 01/04/2020
-
 MEDIDA PROVISÓRIA Nº 934, DE 1 DE ABRIL DE 2020
 
 Estabelece normas excepcionais sobre o ano letivo da educação básica e do ensino superior decorrentes das medidas para enfrentamento da situação de emergência de saúde pública de que trata a Lei nº 13.979, de 6 de fevereiro de 2020.

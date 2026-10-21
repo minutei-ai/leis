@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.608, de 2025-09-02
-
 LEI Nº 23.608, DE 2 DE SETEMBRO DE 2025
 
 Declara de utilidade pública a entidade que especifica.

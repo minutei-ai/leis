@@ -1,5 +1,3 @@
-# Medida Provisória nº 982 de 13/06/2020
-
 MEDIDA PROVISÓRIA Nº 982, DE 13 DE JUNHO DE 2020
 
 Dispõe sobre a conta do tipo poupança social digital.

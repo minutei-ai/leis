@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.022, de 2025-03-14
-
 DECRETO Nº 1.022, DE 14 DE MARÇO DE 2025
 
 Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.

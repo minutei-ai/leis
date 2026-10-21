@@ -1,5 +1,3 @@
-# Lei Complementar nº 5.340, de 2007-10-08
-
 LEI COMPLEMENTAR Nº 5.340, DE 08 DE OUTUBRO DE 2007.
 
 Altera a Lei n. 3.853/99, Plano de Cargos e Vencimentos dos Funcionários do Município.

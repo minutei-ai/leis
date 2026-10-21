@@ -1,5 +1,3 @@
-# Decreto Numerado nº 306, de 2026-04-23
-
 DECRETO Nº 306, DE 23 DE ABRIL DE 2026
 
 Dispõe sobre o desmembramento do Lote 05, situado à Rua 101 e 102, no Loteamento Jardim Miramar, no Município de Aparecida de Goiânia.

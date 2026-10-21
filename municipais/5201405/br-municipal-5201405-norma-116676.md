@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.361, de 2017-06-12
-
 LEI MUNICIPAL 3.361, DE 12 DE JUNHO DE 2017
 
 Dá nome à Praça Valdson Vieira de Sousa” (Praça Vieira), no Setor Madre Germana I, em Aparecida de Goiânia-Go.

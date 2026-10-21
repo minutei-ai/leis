@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.851, de 2025-11-14
-
 LEI Nº 23.851, DE 14 DE NOVEMBRO DE 2025
 
 Institui a Campanha Estadual “Dirija como uma Mulher”.

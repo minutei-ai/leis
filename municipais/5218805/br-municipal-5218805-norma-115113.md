@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.509, de 2024-04-26
-
 LEI Nº 7.509, DE 26 DE ABRIL DE 2024.
 
 Garante a gestante a possibilidade de optar pelo parto normal ou cesariano, a partir da primeira consulta de pré-natal da gestação, bem como a analgesia, mesmo quando escolhido o parto normal, garantindo, por meio do profissional de saúde, as informações necessárias.

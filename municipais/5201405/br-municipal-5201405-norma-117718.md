@@ -1,5 +1,3 @@
-# Decreto Numerado nº 288, de 2023-05-05
-
 DECRETO “N” Nº 288, DE 05 DE MAIO DE 2023.
 
 Declara a Regularização Fundiária Urbana de imóvel púbico do Loteamento Serra Dourada 3ª Etapa neste município como de Interesse Social.

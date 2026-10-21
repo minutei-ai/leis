@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.596, de 2025-02-24
-
 LEI Nº 7.596, DE 24 DE FEVEREIRO DE 2025.
 
 Estabelece a margem consignável para descontos das consignações compulsórias e facultativas na folha de pagamento dos servidores efetivos, ativos e inativos, e pensionistas do Poder Executivo Municipal.

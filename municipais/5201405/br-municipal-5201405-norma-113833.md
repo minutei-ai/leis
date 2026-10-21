@@ -1,5 +1,3 @@
-# Decreto Numerado nº 681, de 2022-09-14
-
 DECRETO “N” Nº 681 DE 14 DE SETEMBRO DE 2022.<br>
 (Revogado pelo Decreto "N" nº 456, de 12 de julho de 2023).
 

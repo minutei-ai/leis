@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.519, de 2025-06-10
-
 DECRETO Nº 1.519, DE 10 DE JUNHO DE 2025
 
 Dispõe sobre o desmembramento do Lote 13, situado à Rua Corcovado, no Loteamento Jardim Buriti Sereno, no Município de Aparecida de Goiânia.

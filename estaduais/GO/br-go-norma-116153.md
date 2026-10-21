@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.438, de 2026-07-10
-
 LEI Nº 24.438, DE 10 DE JULHO DE 2026
 
 Cria e denomina o estabelecimento de ensino que especifica.

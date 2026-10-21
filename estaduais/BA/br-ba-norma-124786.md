@@ -1,5 +1,3 @@
-# LD Nº 32 DE 03 DE MARÇO DE 1983
-
 LEI DELEGADA Nº 32 DE 03 DE MARÇO DE 1983
 
 Reorganiza a Secretaria do Planejamento, Ciência e Tecnologia - SEPLANTEC, dispõe sobre o Sistema Estadual de Planejamento e dá outras providências.

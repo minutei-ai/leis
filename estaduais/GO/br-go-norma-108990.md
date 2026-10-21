@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.760, de 2024-06-10
-
 LEI Nº 22.760, DE 10 DE JUNHO DE 2024
 
 Regulamenta o Programa de Apoio Social – PAS, destinado aos servidores, aos militares, ativos e inativos, aos pensionistas e aos empregados públicos do Estado de Goiás, bem como aos seus dependentes, nos termos do inciso II do art. 27 da [Lei nº 21.880](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107066), de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde.

@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.357 de 12/05/2026
-
 MEDIDA PROVISÓRIA Nº 1.357, DE 12 DE MAIO DE 2026
 
 Altera o [Decreto-Lei nº 1.804, de 3 de setembro de 1980](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1980-09-03;1804), que dispõe sobre tributação simplificada das remessas postais internacionais.

@@ -1,5 +1,3 @@
-# Decreto Numerado nº 637, de 2024-08-02
-
 DECRETO “N” Nº 637 DE 02 DE AGOSTO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

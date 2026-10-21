@@ -1,5 +1,3 @@
-# Decreto Numerado nº 610, de 2024-07-26
-
 DECRETO “N” Nº 610 DE 26 DE JULHO DE 2024.
 
 Dispõe sobre remembramento de imóveis.

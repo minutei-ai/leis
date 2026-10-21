@@ -1,5 +1,3 @@
-# Medida Provisória nº 1.193 de 09/11/2023
-
 MEDIDA PROVISÓRIA Nº 1.193, DE 9 DE NOVEMBRO DE 2023
 
 Abre crédito extraordinário em favor do Ministério das Cidades, no valor de R$ 195.000.000,00, para os fins que especifica.

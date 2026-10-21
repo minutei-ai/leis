@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.577, de 2024-11-13
-
 DECRETO Nº 10.577 , DE 13 DE NOVEMBRO DE 2024
 
 Altera o [Decreto nº 9.922](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104261), de 10 de agosto de 2021, que reorganiza o Complexo Estadual de Serviços de Saúde de Goiás, insere novas unidades e padroniza a nomenclatura dos respectivos equipamentos públicos.

@@ -1,5 +1,3 @@
-# Lei Ordinária nº 23.981, de 2025-12-23
-
 LEI Nº 23.981, DE 23 DE DEZEMBRO DE 2025
 
 Extingue o Fundo Rotativo da Creche Cantinho Feliz, da Secretaria de Estado da Saúde, e revoga o inciso XXIX do art. 1º da [Lei nº 14.586](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81212 "Abrir Lei Ordinária nº 14586, de 2003 em nova aba"), de 17 de novembro de 2003.

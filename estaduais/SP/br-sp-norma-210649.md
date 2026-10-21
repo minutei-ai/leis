@@ -1,5 +1,3 @@
-# Decreto nº 69.374, de 21/02/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210649)<br>
 
 # DECRETO N° 69.374, DE 21 DE FEVEREIRO DE 2025

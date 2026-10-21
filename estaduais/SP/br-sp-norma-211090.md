@@ -1,5 +1,3 @@
-# Decreto nº 69.645, de 23/06/2025
-
 [Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211090)<br>
 
 # DECRETO N° 69.645, DE 23 DE JUNHO DE 2025

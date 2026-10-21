@@ -1,5 +1,3 @@
-# Medida Provisória nº 891 de 05/08/2019
-
 MEDIDA PROVISÓRIA Nº 891, DE 5 DE AGOSTO DE 2019
 
 Altera a [Lei nº 8.213, de 24 de julho de 1991](urn:lex:br:federal:lei:1991-07-24;8213), que dispõe sobre os planos de benefícios da Previdência Social, e a [Lei nº 13.846, de 18 de junho de 2019](urn:lex:br:federal:lei:2019-06-18;13846), que institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade.

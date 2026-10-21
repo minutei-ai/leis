@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.982, de 2026-08-28
-
 DECRETO Nº 10.982, DE 28 DE AGOSTO DE 2026
 
 Altera o Anexo V do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021, que define os municípios que sediarão as unidades regionais dos órgãos que especifica, integrantes da Secretaria de Estado da Segurança Pública, e fixa as respectivas circunscrições.

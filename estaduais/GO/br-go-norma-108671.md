@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.610, de 2024-04-11
-
 LEI Nº 22.610, DE 11 DE ABRIL DE 2024
 
 Autoriza a cessão de uso dos ginásios e praças esportivas estaduais e dá outras providências.

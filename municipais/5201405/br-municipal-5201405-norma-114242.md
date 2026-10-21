@@ -1,5 +1,3 @@
-# Decreto Numerado nº 80, de 2024-02-15
-
 DECRETO “N” Nº 080, DE 15 DE FEVEREIRO DE 2024.
 
 Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Jardim Florença, neste município, como de Interesse Social.

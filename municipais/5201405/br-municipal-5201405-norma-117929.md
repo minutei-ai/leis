@@ -1,5 +1,3 @@
-# Decreto Numerado nº 203, de 2023-03-29
-
 DECRETO “N” Nº 203 DE 29 DE MARÇO DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR AEROPORTO SUL, neste município.

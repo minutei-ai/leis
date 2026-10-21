@@ -1,5 +1,3 @@
-# Lei Ordinária nº 24.236, de 2026-04-16
-
 LEI Nº 24.236, DE 16 DE ABRIL DE 2026
 
 Institui a Política Estadual de Prevenção ao Afogamento no Estado de Goiás.

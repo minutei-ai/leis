@@ -1,5 +1,3 @@
-# Decreto Numerado nº 464, de 2026-06-12
-
 DECRETO Nº 464, DE 12 DE JUNHO DE 2026
 
 Dispõe sobre a Regularização Fundiária Urbana de Interesse Social – Reurb-S de áreas situadas no Loteamento Retiro do Bosque, no Município de Aparecida de Goiânia e dá outras providências.

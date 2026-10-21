@@ -1,5 +1,3 @@
-# Lei Ordinária nº 3.783, de 2024-05-22
-
 LEI MUNICIPAL Nº 3.783, DE 22 DE MAIO DE 2024.
 
 Declara as feiras livres e especiais da Cidade de Aparecida de Goiânia como patrimônio cultural imaterial e determina outras providências.

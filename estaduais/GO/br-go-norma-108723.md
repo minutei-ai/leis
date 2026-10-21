@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.626, de 2024-04-26
-
 LEI Nº 22.626, DE 26 DE ABRIL DE 2024
 
 Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.

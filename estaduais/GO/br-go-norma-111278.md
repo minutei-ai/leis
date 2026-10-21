@@ -1,5 +1,3 @@
-# Decreto Numerado nº 10.784, de 2025-09-22
-
 DECRETO Nº 10.784 DE 22 DE SETEMBRO DE 2025
 
 Altera o [Decreto nº 9.833](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103900), de 18 de março de 2021, que define o quantitativo da Gratificação de Dedicação Plena e Integral – GDPI e outros aspectos da [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral e dá outras providências, e o [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946), de 23 de abril de 2021, que autoriza a Secretaria de Estado da Educação – SEDUC a celebrar e manter os contratos temporários que especifica.

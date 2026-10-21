@@ -1,5 +1,3 @@
-# Lei Complementar nº 231, de 2024-01-09
-
 LEI COMPLEMENTAR Nº 231, DE 09 DE JANEIRO DE 2024.
 
 Reajusta o valor das gratificações de Secretário Geral de Escola; Coordenador Pedagógico; Assessor Pedagógico e Analista Educacional do quadro de funcionários da Secretaria de Educação do Município de Aparecida de Goiânia e dá outras providências.

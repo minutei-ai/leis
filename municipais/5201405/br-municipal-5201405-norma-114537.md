@@ -1,5 +1,3 @@
-# Decreto Numerado nº 59, de 2024-02-05
-
 DECRETO “N” Nº 59 DE 05 DE FEVEREIRO DE 2024.
 
 Dispõe sobre desmembramento de imóvel.

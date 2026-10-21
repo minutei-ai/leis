@@ -1,5 +1,3 @@
-# Decreto Numerado nº 38, de 2026-01-13
-
 DECRETO Nº 038, DE 13 DE JANEIRO DE 2026
 
 Dispõe sobre o desmembramento do Lote 21, situado à Rua Cel. Manoel Saraiva da Cruz, no Loteamento Jardim Dom Bosco – 2ª Etapa, no Município de Aparecida de Goiânia.

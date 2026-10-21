@@ -1,5 +1,3 @@
-# LEI Nº 15.178 DE 1º DE JULHO DE 2026
-
 LEI Nº 15.178 DE 1º DE JULHO DE 2026
 
 Institui o dia 04 de outubro como o Dia dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias no Estado da Bahia.

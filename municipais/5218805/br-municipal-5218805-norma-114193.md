@@ -1,5 +1,3 @@
-# Lei Ordinária nº 7.727, de 2025-10-31
-
 LEI Nº 7.727, DE 31 DE OUTUBRO DE 2025.
 
 Autoriza a dação em pagamento de imóvel de propriedade do Município de Rio Verde/GO em razão de indenização por desapropriação indireta.

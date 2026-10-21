@@ -1,5 +1,3 @@
-# Decreto Numerado nº 2.452, de 2025-10-15
-
 DECRETO Nº 2.452, DE 15 DE OUTUBRO DE 2025
 
 Dispõe sobre o remembramento dos lotes 10, 11, 12, 24, 25 e 26, da Quadra 57, situados à Rua B-6A e Rua Palmares, no Loteamento Cidade Livre, no Município de Aparecida de Goiânia.

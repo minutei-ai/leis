@@ -1,5 +1,3 @@
-# Decreto Numerado nº 229, de 2023-04-10
-
 DECRETO “N” Nº 229 DE 10 DE ABRIL DE 2023
 
 Dispõe sobre desmembramento de imóvel situado no Loteamento EXPANSUL, neste município.

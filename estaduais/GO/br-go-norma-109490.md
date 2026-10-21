@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.999, de 2024-09-19
-
 LEI Nº 22.999, DE 19 DE SETEMBRO DE 2024
 
 Concede o título de cidadania que especifica.

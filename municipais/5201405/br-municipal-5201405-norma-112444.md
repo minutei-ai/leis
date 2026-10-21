@@ -1,5 +1,3 @@
-# Decreto Numerado nº 1.177, de 2025-04-10
-
 DECRETO Nº 1.177, DE 10 DE ABRIL DE 2025
 
 Dispõe sobre o desmembramento de imóveis no Município de Aparecida de Goiânia.

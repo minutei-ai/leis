@@ -1,5 +1,3 @@
-# Lei Complementar nº 147, de 2018-12-13
-
 LEI COMPLEMENTAR Nº 147, DE 13 DE DEZEMBRO DE 2018
 
 Cria o cargo de Analista de Projeto na Lei nº 3.853, de 22 de setembro de 1999.

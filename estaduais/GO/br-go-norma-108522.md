@@ -1,5 +1,3 @@
-# Lei Ordinária nº 22.556, de 2024-03-12
-
 LEI Nº 22.556, DE 12 DE MARÇO DE 2024
 
 Altera a [Lei nº 17.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89884), de 27 de dezembro de 2012, que autoriza a alienação dos imóveis que especifica.
