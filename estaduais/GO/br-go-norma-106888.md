@@ -1,0 +1,119 @@
+LEI Nº 21.847, DE 11 DE ABRIL DE 2023
+
+Disciplina a criação e a organização das associações denominadas empresas juniores, com funcionamento perante instituições de ensino superior, no âmbito do Estado de Goiás, e dá outras providências _._
+
+A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS** , nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Esta Lei disciplina a criação e a organização das associações denominadas empresas juniores, com funcionamento perante instituições de ensino superior, no âmbito do Estado de Goiás.
+
+Art. 2º Considera-se empresa júnior a entidade organizada nos termos desta Lei, sob a forma de associação civil gerida por estudantes matriculados em cursos de graduação de instituições de ensino superior, com o propósito de realizar projetos e serviços que contribuam para o desenvolvimento acadêmico e profissional dos associados, capacitando-os para o mercado de trabalho.
+
+§ 1º A empresa júnior será inscrita como associação civil no Registro Civil das Pessoas Jurídicas e no Cadastro Estadual da Pessoa Jurídica.
+
+§ 2º A empresa júnior vincular-se-á à instituição de ensino superior e desenvolverá atividades relacionadas ao campo de abrangência de pelo menos um curso de graduação indicado no estatuto da empresa júnior, nos termos do estatuto ou do regimento interno da instituição de ensino superior, vedada qualquer forma de ligação partidária.
+
+Art. 3º Poderão integrar a empresa júnior estudantes regularmente matriculados na instituição de ensino superior e no curso de graduação a que a entidade seja vinculada, desde que manifestem interesse, observados os procedimentos estabelecidos no estatuto.
+
+Parágrafo único. Os estudantes matriculados em curso de graduação e associados à respectiva empresa júnior exercem trabalho voluntário, nos termos da Lei federal nº 9.608, de 18 de fevereiro de 1998.
+
+Art. 4º A empresa júnior somente poderá desenvolver atividades que atendam a pelo menos uma das seguintes condições:
+
+I – relacionem– se aos conteúdos programáticos do curso de graduação ou dos cursos de graduação a que se vinculem;
+
+II – constituam atribuição da categoria profissional correspondente à formação superior dos estudantes associados à entidade.
+
+§ 1º As atividades desenvolvidas pela empresa júnior deverão ser orientadas e supervisionadas por professores e profissionais especializados, e a empresa, desde que devidamente reconhecida nos termos do art. 9º, terá gestão autônoma em relação à direção da faculdade, ao centro acadêmico e a qualquer outra entidade acadêmica.
+
+§ 2º A empresa júnior poderá cobrar pela elaboração de produtos e pela prestação de serviços independentemente de autorização do conselho profissional regulamentador de sua área de atuação profissional, ainda que esse seja regido por legislação específica, desde que essas atividades sejam acompanhadas por professores orientadores da instituição de ensino superior ou supervisionadas por profissionais habilitados.
+
+Art. 5º A empresa júnior, cujos fins são educacionais e não lucrativos, terá, além de outros específicos, os seguintes objetivos:
+
+I – proporcionar a seus membros as condições necessárias para a aplicação prática dos conhecimentos teóricos referentes à respectiva área de formação profissional, dando– lhes oportunidade de vivenciar o mercado de trabalho em caráter de formação para o exercício da futura profissão e incentivando o espírito crítico, analítico e empreendedor;
+
+II – aperfeiçoar o processo de formação dos profissionais em nível superior;
+
+III – estimular o espírito empreendedor e promover o desenvolvimento técnico, acadêmico, pessoal e profissional de seus membros associados por meio de contato direto com a realidade do mercado de trabalho, desenvolvendo atividades de consultoria e de assessoria a empresários e empreendedores, com a orientação de professores e profissionais especializados;
+
+IV – melhorar as condições de aprendizado em nível superior, mediante a aplicação da teoria dada em sala de aula na prática do mercado de trabalho no âmbito dessa atividade de extensão;
+
+V – proporcionar aos estudantes a preparação e a valorização profissionais por meio da adequada assistência de professores e especialistas;
+
+VI – intensificar o relacionamento entre as instituições de ensino superior e o meio empresarial;
+
+VII – promover o desenvolvimento econômico e social da comunidade ao mesmo tempo em que fomenta o empreendedorismo de seus associados.
+
+Art. 6º Para atingir seus objetivos, caberá à empresa júnior:
+
+I – promover o recrutamento, a seleção e o aperfeiçoamento de seu pessoal com base em critérios técnicos;
+
+II – realizar estudos e elaborar diagnósticos e relatórios sobre assuntos específicos inseridos em sua área de atuação;
+
+III – assessorar a implantação das soluções indicadas para os problemas diagnosticados;
+
+IV – promover o treinamento, a capacitação e o aprimoramento de graduandos em suas áreas de atuação;
+
+V – buscar a capacitação contínua nas atividades de gerenciamento e desenvolvimento de projetos;
+
+VI – desenvolver projetos, pesquisas e estudos, em nível de consultoria, assessoramento, planejamento e desenvolvimento, elevando o grau de qualificação dos futuros profissionais e colaborando, assim, para aproximar o ensino superior da realidade do mercado de trabalho;
+
+VII – fomentar, na instituição a que seja vinculada, cultura voltada para o estímulo ao surgimento de empreendedores, com base em política de desenvolvimento econômico sustentável;
+
+VIII – promover e difundir o conhecimento por meio de intercâmbio com outras associações, no Brasil e no exterior.
+
+Art. 7º É vedado à empresa júnior:
+
+I – captar recursos financeiros para seus integrantes por intermédio da realização de seus projetos ou de qualquer outra atividade;
+
+II – propagar qualquer forma de ideologia ou pensamento político– partidário.
+
+Parágrafo único. A renda obtida com os projetos e serviços prestados pela empresa júnior deverá ser revertida exclusivamente para o incremento das atividades-fim da empresa.
+
+Art. 8º A empresa júnior deverá comprometer-se a:
+
+I – exercer suas atividades em regime de livre e leal concorrência;
+
+II – exercer suas atividades segundo a legislação específica aplicável à sua área de atuação e segundo os acordos e as convenções da categoria profissional correspondente;
+
+III – promover, com outras empresas juniores, o intercâmbio de informações de natureza comercial, profissional e técnica sobre estrutura e projetos;
+
+IV – cuidar para que não se faça publicidade ou propaganda comparativa, por qualquer meio de divulgação, que deprecie, desabone ou desacredite a concorrência;
+
+V – integrar os novos membros por meio de política previamente definida, com períodos destinados à qualificação e à avaliação;
+
+VI – captar clientela com base na qualidade dos serviços e na competitividade dos preços, vedado o aliciamento ou o desvio desleal de clientes da concorrência, bem como o pagamento de comissões e outras benesses a quem os promova.
+
+Art. 9º O reconhecimento de empresa júnior por instituição de ensino superior dar-se-á conforme as normas internas dessa instituição e nos termos deste artigo.
+
+§ 1º Competirá ao órgão colegiado da unidade de ensino da instituição de ensino superior a aprovação do plano acadêmico da empresa júnior, cuja elaboração deverá contar com a participação do professor orientador e dos estudantes envolvidos na iniciativa júnior.
+
+§ 2º O plano acadêmico indicará, entre outros, os seguintes aspectos educacionais e estruturais da empresa júnior e da instituição de ensino superior:
+
+I – reconhecimento da carga horária dedicada pelo professor orientador;
+
+II – suporte institucional, técnico e material necessário ao início das atividades da empresa júnior.
+
+§ 3º A instituição de ensino superior é autorizada a ceder espaço físico a título gratuito, dentro da própria instituição, que servirá de sede para as atividades de assessoria e consultoria geridas pelos estudantes empresários juniores.
+
+§ 4º As atividades da empresa júnior serão inseridas no conteúdo acadêmico da instituição de ensino superior preferencialmente como atividades de extensão.
+
+§ 5º Competirá ao órgão colegiado da instituição de ensino superior criar normas para disciplinar sua relação com a empresa júnior, assegurada a participação de representantes das empresas juniores na elaboração desse regramento.
+
+Art. 10. (VETADO).
+
+Art. 11. O Estado adotará e regulamentará políticas de incentivo ao setor, com a criação de um sistema de tratamento especial, com regime tributário diferenciado para as empresas juniores.
+
+Art. 12. As despesas decorrentes desta Lei correrão à conta das dotações orçamentárias próprias consignadas no orçamento vigente, conforme estabelecido no artigo 3º da [Lei Complementar nº 112](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101099), de 18 de setembro de 2014.
+
+Art. 13. Esta Lei entra em vigor na data de sua publicação.
+
+Goiânia, 11 de abril de 2023; 135º da República.
+
+<br>
+
+RONALDO CAIADO
+
+Governador do Estado
+
+VIRMONDES CRUVINEL
+
+Deputado Estadual

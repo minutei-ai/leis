@@ -1,0 +1,103 @@
+Portaria Orçamentária nº 417/2022 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 21.232](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232), de 11 de janeiro de 2022, conforme processo 202200004017585.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à SECRETARIA DE ESTADO DA EDUCAÇÃO, 7 (sete) créditos suplementares no valor global de R$ 11.210.866,56 (onze milhões, duzentos e dez mil, oitocentos e sessenta e seis reais e cinquenta e seis centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 26 dias do mês de Julho de 2022.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+|
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+
+**2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO**
+
+ |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 3 - OUTRAS DESPESAS CORRENTES | 15400108 | 50 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,50 | R$ 1.270.000,50 | R$ 1.270.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 4 - INVESTIMENTOS | 15400108 | 50 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,50 | R$ 432.932,80 | R$ 432.932,30 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 4 - INVESTIMENTOS | 15400108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,50 | R$ 7.217.857,76 | R$ 7.217.857,26 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 1008 2.013 | CONSTRUÇÃO, AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES E PRÉDIOS PÚBLICOS | 4 - INVESTIMENTOS | 15400108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,10 | R$ 1.216.149,49 | R$ 1.216.149,39 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 1008 2.013 | CONSTRUÇÃO, AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES E PRÉDIOS PÚBLICOS | 4 - INVESTIMENTOS | 15400108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 2.722,69 | R$ 1.020.837,12 | R$ 1.018.114,43 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 366 1008 2.013 | CONSTRUÇÃO, AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES E PRÉDIOS PÚBLICOS | 4 - INVESTIMENTOS | 15400108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 5.000,00 | R$ 53.893,01 | R$ 48.893,01 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 367 1008 2.013 | CONSTRUÇÃO, AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES E PRÉDIOS PÚBLICOS | 4 - INVESTIMENTOS | 15400108 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 4.185,32 | R$ 11.105,49 | R$ 6.920,17 |
+|
+
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 11.210.866,56 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+|
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+
+**2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO**
+
+ |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 1008 2.020 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO | 4 - INVESTIMENTOS | 15400108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 78.321.943,40 | R$ 9.000.000,00 | R$ 9.000.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 1008 2.013 | CONSTRUÇÃO, AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES E PRÉDIOS PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 15400108 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.936.326,40 | R$ 2.210.866,56 | R$ 2.210.866,56 |
+|
+
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 11.210.866,56 |

@@ -1,0 +1,63 @@
+1
+
+###MPV-001170-0-000-26-10-1995@@@
+
+# MEDIDA PROVISÓRIA Nº 1.170, DE 26 DE OUTUBRO DE 1995.
+
+Dispõe sobre a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais de Financiamento das Regiões Norte, Nordeste e Centro-Oeste e dos Fundos de Investimentos do Nordeste e da Amazônia e do Fundo de Recuperação Econômica do Estado do Espírito Santo, e com recursos das Operações Oficiais de Crédito, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º A partir de 1º de julho de 1995, os financiamentos concedidos com recursos dos Fundos Constitucionais de Financiamento das Regiões Norte, Nordeste e Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, terão como custo básico a Taxa de Juros de Longo Prazo -TJLP.
+
+§ 1º Os bancos administradores dos Fundos de que trata este artigo poderão cobrar del credere de cada mutuário pelo risco de crédito, adicionalmente ao custo previsto no caput deste artigo, de até oito por cento ao ano.
+
+§ 2º Os contratos de financiamentos com recursos dos Fundos de que trata este artigo, celebrados até 30 de junho de 1995, poderão ter os respectivos encargos financeiros ajustados, a partir de 1º de julho de 1995, de forma a compatibilizá-los aos custos previstos no caput e no § 1º, observado o critério pro rata tempore.
+
+Art. 2º As debêntures subscritas com recursos do Fundo de Investimentos do Nordeste (FINOR), do Fundo de Investimentos da Amazônia (FINAM), e do Fundo de Recuperação Econômica do Espírito Santo (FUNRES), de que trata a Lei nº 8.167, de 16 de janeiro de 1991, terão custos básicos equivalentes à TJLP, acrescidos de outros encargos financeiros de quatro por cento ao ano.
+
+Art. 3º Os recursos dos Fundos Constitucionais de Financiamento das Regiões Norte, Nordeste e Centro-Oeste, desembolsados pelos bancos administradores ou operadores, serão remunerados de acordo com o previsto no caput do art. 1º.
+
+Art. 4º Os recursos dos Fundos de que tratam os arts. 1º e 2º, bem como os depósitos para reinvestimentos previstos no art. 19 da Lei nº 8.167. de 1991, enquanto não desembolsados pelos bancos administradores ou operadores, serão remunerados pelos mesmos critérios e prazos aplicados aos depósitos das disponibilidades de caixa de Tesouro Nacional.
+
+Art. 5º Os bancos administradores poderão aplicar até vinte por cento dos Fundos mencionados no caput do art. 1º para o financiamento a empreendimentos e projetos do setor produtivo das respectivas Regiões, destinados à produção ou à comercialização de bens com reconhecida inserção internacional.
+
+Parágrafo único. Os recursos referidos no caput deste artigo, bem como os saldos devedores dos financiamentos a que se destinem, serão referenciados pelo contravalor, em moeda nacional, da cotação do dólar dos Estados Unidos da América, divulgada pelo Banco Central do Brasil.
+
+Art. 6º Os recursos dos Fundos mencionados no caput do art. 1º, aplicados na forma do artigo anterior, terão como remuneração a Taxa de Juros para Empréstimos e Financiamentos no Mercado Interbancário de Londres (LIBOR), informada pelo Banco Central do Brasil, reajustável na mesma periodicidade da exigibilidade dos encargos e estabelecidas em cada operação de financiamento, acrescida de del credere definido pelos bancos administradores dos referidos Fundos, em função do risco de crédito.
+
+Parágrafo único. Os recursos aplicados na forma do artigo anterior não terão a redução de encargos financeiros a que se refere a Lei nº 7.827, de 1989.
+
+Art. 7º O art. 4º da Lei nº 7.827, de 1989, fica acrescido do seguinte § 3º:
+
+"§ 3º O Poder Executivo poderá, a cada exercício financeiro, destinar até dez por cento dos recursos a serem alocados aos respectivos Fundos para realizar aporte de capital nas respectivas instituições financeiras gestoras, que deverão destinar idêntica quantia, para aplicação em programas de financiamento ao setor produtivo das respectivas Regiões, conforme previsto na alínea c do inciso I do art. 159 da Constituição, nas condições previstas na Lei nº 7.827, de 1989."
+
+Art. 8º A partir de 1º de setembro de 1995, os financiamentos para investimentos agropecuários e agroindustriais, contratados ao amparo de recursos das Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da Fazenda, constantes do Orçamento Fiscal da União, terão como custo básico a Taxa de Juros de Longo Prazo - TJLP.
+
+Parágrafo único. Os contratos de financiamentos para investimentos agropecuários e agroindustriais, com recursos das Operações Oficiais de Crédito, celebrados até 31 de agosto de 1995, com base na Taxa Referencial - TR, poderão ter os custos básicos ajustados, a partir de 1º de setembro de 1995, de forma a compatibilizá-los aos custos previstos no caput deste artigo, observado o critério pro rata tempore.
+
+Art. 9º Os financiamentos de operações de investimento rural, sob a égide do Programa de Recuperação da Lavoura Cacaueira Baiana, concebido pela Comissão Executiva do Plano da Lavoura Cacueira - CEPLAC para controle da doença "vassoura-de-bruxa" e simultânea recuperação de produtividade, poderão ser concedidos com risco para o Tesouro Nacional, desde que, cumulativamente:
+
+I - sejam lastreadas com recursos orçamentários das Operações Oficiais de Crédito - Recursos sob supervisão do Ministério da Fazenda ou com recursos repassados pelo Banco Nacional de Desenvolvimento Econômico e Social - BNDES;
+
+II - forem julgados tecnicamente indispensáveis ao êxito do Programa sob referência, apesar de não atenderem integralmente às exigências bancárias.
+
+§ 1º O disposto no art. 27 da Lei nº 8.036, de 11 de maio de 1990, não se aplica aos financiamentos a que se refere este artigo, quando concedidos a produtores rurais, pessoas físicas.
+
+§ 2º O Conselho Monetário Nacional expedirá as instruções necessárias ao cumprimento do disposto neste artigo.
+
+Art. 10. Além dos casos previstos no art. 31 da Lei nº 8.171, de 17 de janeiro de 1991, o Poder Público, ouvido o Conselho Monetário Nacional, poderá, em casos emergenciais, inclusive para atender problemas regionais, adquirir, com recursos do Orçamento das Operações Oficiais de Crédito - Recursos sob supervisão do Ministério da Fazenda, produtos rurais, para entrega futura, utilizando-se da Cédula de Produto Rural - CPR, criada pela Lei nº 8.929, de 22 de agosto de 1994.
+
+Art. 11. Ficam convalidados os atos praticados com base na Medida Provisória nº 1.137, de 26 de setembro de 1995.
+
+Art. 12. Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Art. 13. Ficam revogados o art. 12 e o parágrafo único do art. 17 da Lei nº 7.827, de 27 de setembro de 1989, e o art. 41 da Lei nº 8.177, de 1º de março de 1991.
+
+Brasília, 26 de outubro de 1995; 174º da Independência e 107º da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+Pedro Malan
+
+José Serra

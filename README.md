@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**31.990 normas publicadas.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**42.133 normas publicadas.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,12 +16,12 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 4.088 |
+| Federal | [Brasil](federal/) | 5.062 |
 | Estadual | [Bahia](estaduais/BA/) | 633 |
-| Estadual | [Goiás](estaduais/GO/) | 5.503 |
-| Estadual | [Minas Gerais](estaduais/MG/) | 8.683 |
-| Estadual | [São Paulo](estaduais/SP/) | 2.923 |
-| Municipal | [São Paulo · SP](municipais/3550308/) | 4.850 |
+| Estadual | [Goiás](estaduais/GO/) | 8.369 |
+| Estadual | [Minas Gerais](estaduais/MG/) | 11.961 |
+| Estadual | [São Paulo](estaduais/SP/) | 4.144 |
+| Municipal | [São Paulo · SP](municipais/3550308/) | 6.654 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.081 |
 

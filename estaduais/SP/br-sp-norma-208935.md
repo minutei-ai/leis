@@ -1,0 +1,37 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208935)<br>
+
+# DECRETO N° 68.169, DE 09 DE DEZEMBRO DE 2023
+
+### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas complementares necessárias à duplicação do trecho entre os km 58+600m e 61+000m da Rodovia Raposo Tavares, SP-270, no Município de São Roque, e dá providências correlatas.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320),
+
+Decreta:
+
+**Artigo 1° -** Ficam declaradas de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, empresa concessionária de serviço público, por via amigável ou judicial, as áreas identificadas nas plantas cadastrais DE-SP0000270-058.061-312-D03/001 e DE-SP0000270-058.061-312-D03/002 e descritas nos memoriais constantes dos autos do Processo 134.00008612/2023-84, necessárias à duplicação do trecho entre os km 58+600m e 61+000m da Rodovia Raposo Tavares, SP-270, no Município e Comarca de São Roque, as quais totalizam 735,24mÂ² (setecentos e trinta e cinco metros quadrados e vinte e quatro decímetros quadrados) e se encontram inseridas dentro dos perímetros a seguir descritos:
+
+I - área 1 - conforme a planta cadastral DE-SP0000270-058.061-312-D03/001, a área, que consta pertencer a Alice Weishaupt, Rosalina Weishaupt e/ou outros, situa-se na Rodovia Raposo Tavares, SP-270, km 59+700m, pista leste, no Município e Comarca de São Roque, e tem linha de divisa que, partindo do ponto denominado 1, de coordenadas N=7.394.124,641 e E=282.319,710, segue com os seguintes azimutes e distâncias: 284°20'50'' e 13,51m até o ponto 2, de coordenadas N=7.394.127,988 e E=282.306,625; 305°02'18'' e 31,85m até o ponto 3, de coordenadas N=7.394.146,276 e E=282.280,544; 326°04'18'' e 10,59m até o ponto 4, de coordenadas N=7.394.155,065 e E=282.274,631; 310°34'47'' e 10,23m até o ponto 5, de coordenadas N=7.394.161,721 e E=282.266,861; 297°35'59'' e 13,34m até o ponto 6, de coordenadas N=7.394.167,901 e E=282.255,039; 312°29'31'' e 30,14m até o ponto 7, de coordenadas N=7.394.188,259 e E=282.232,816; 334°13'43'' e 16,17m até o ponto 8, de coordenadas N=7.394.202,818 e E=282.225,787; 135°37'22'' e 20,26m até o ponto 9, de coordenadas N=7.394.188,339 e E=282.239,954; 132°01'33'' e 20,14m até o ponto 10, de coordenadas N=7.394.174,857 e E=282.254,914; 130°06'51'' e 21,29m até o ponto 11, de coordenadas N=7.394.161,140 e E=282.271,195; 129°36'53'' e 18,45m até o ponto 12, de coordenadas N=7.394.149,379 e E=282.285,405; 125°21'24'' e 16,56m até o ponto 13, de coordenadas N=7.394.139,795 e E=282.298,913; 135°14'39'' e 2,42m até o ponto 14, de coordenadas N=7.394.138,077 e E=282.300,616; 124°58'55'' e 18,50m até o ponto 15, de coordenadas N=7.394.127,468 e E=282.315,777; e 125°42'38'' e 4,84m até o ponto 1, que é referencial de partida da presente descrição, perfazendo a área de 496,03mÂ²  (quatrocentos e noventa e seis metros quadrados e três decímetros quadrados);
+
+II - área 2 - conforme a planta cadastral DE-SP0000270-058.061-312-D03/001, a área, que consta pertencer a Alice Weishaupt, Rosalina Weishaupt e/ou outros, situa-se na Rodovia Raposo Tavares, SP-270, km 59+830m, pista leste, no Município e Comarca de São Roque, e tem linha de divisa que, partindo do ponto denominado 1, de coordenadas N=7.394.374,284 e E=282.115,361, segue com os seguintes azimutes e distâncias: 311°08'48'' e 7,73m até o ponto 2, de coordenadas N=7.394.379,371 e E=282.109,539; 340°32'36'' e 23,37m até o ponto 3, de coordenadas N=7.394.401,407 e E=282.101,754; 8°19'57'' e 6,55m até o ponto 4, de coordenadas N=7.394.407,884 e E=282.102,703; 159°24'34'' e 6,20m até o ponto 5, de coordenadas N=7.394.402,083 e E=282.104,882; 159°46'27'' e 22,27m até o ponto 6, de coordenadas N=7.394.381,186 e E=282.112,581; e 158°04'01'' e 7,44m até o ponto 1, que é referencial de partida da presente descrição, perfazendo a área de 98,71mÂ²  (noventa e oito metros quadrados e setenta e um decímetros quadrados);
+
+III - área 3 - conforme a planta cadastral DE-SP0000270-058.061-312-D03/002, a área, que consta pertencer a Roberto Infanti, Jacqueline Fernandes Costa Infanti e/ou outros, situa-se na Rodovia Raposo Tavares, SP-270, km 60+200m, pista leste, no Município e Comarca de São Roque, e tem linha de divisa que, partindo do ponto denominado 1, de coordenadas N=7.394.644,331 e E=281.996,954, segue com os seguintes azimutes e distâncias: 271°48'11'' e 3,03m até o ponto 2, de coordenadas N=7.394.644,426 e E=281.993,924; 260°26'01'' e 4,42m até o ponto 3, de coordenadas N=7.394.643,691 e E=281.989,562; 316°20'07'' e 10,13m até o ponto 4, de coordenadas N=7.394.651,016 e E=281.982,571; 54°57'14'' e 4,05m até o ponto 5, de coordenadas N=7.394.653,340 e E=281.985,883; 58°14'57'' e 3,25m até o ponto 6, de coordenadas N=7.394.655,049 e E=281.988,645; 141°14'39'' e 12,85m até o ponto 7, de coordenadas N=7.394.645,030 e E=281.996,688; e 159°10'17'' e 0,75m até o ponto 1, que é referencial de partida da presente descrição, perfazendo a área de 79,15mÂ²  (setenta e nove metros quadrados e quinze decímetros quadrados);
+
+IV - área 4 - conforme a planta cadastral DE-SP0000270-058.061-312-D03/002, a área, que consta pertencer a José Luis de Rosa Santos, José Alexandre de Moura Santos e/ou outros, situa-se na Rodovia Raposo Tavares, SP-270, km 60+470m, pista leste, no Município e Comarca de São Roque, e tem linha de divisa que, partindo do ponto denominado 1, de coordenadas N=7.394.781,633 e E=281.692,766, segue com os seguintes azimutes e distâncias: 259°42'14'' e 9,80m até o ponto 2, de coordenadas N=7.394.779,882 e E=281.683,127; 349°42'14'' e 10,78m até o ponto 3, de coordenadas N=7.394.790,489 e E=281.681,200; 79°42'14'' e 2,14m até o ponto 4, de coordenadas N=7.394.790,872 e E=281.683,304; 138°28'01'' e 6,26m até o ponto 5, de coordenadas N=7.394.786,184 e E=281.687,456; e 130°35'54'' e 6,99m, até o ponto 1, que é referencial de partida da presente descrição, perfazendo a área de 61,35mÂ²  (sessenta e um metros quadrados e trinta e cinco decímetros quadrados).
+
+**Artigo 2° -** Fica a Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e alterações posteriores, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.
+
+**Artigo 3° -** As despesas com a execução do presente decreto correrão por conta de verba própria da Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A.
+
+**Artigo 4° -** Ficam excluídos da presente declaração de utilidade pública os imóveis de propriedade de pessoas jurídicas de direito público eventualmente situados dentro dos perímetros descritos no artigo 1° deste decreto.
+
+**Artigo 5° -** Este decreto entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 9 de dezembro de 2023.
+
+TARCÍSIO DE FREITAS
+
+Arthur Luis Pinho de Lima
+
+Secretário-Chefe da Casa Civil
+
+Publicado na Casa Civil, aos 9 de dezembro de 2023.

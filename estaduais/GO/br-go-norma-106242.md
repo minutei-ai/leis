@@ -1,0 +1,89 @@
+Portaria Orçamentária nº 537/2022 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 11 da [Lei nº 21.232](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232), de 11 de janeiro de 2022, conforme processo 202200004017585.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto à SECRETARIA DE ESTADO DA EDUCAÇÃO, 1 (um) crédito suplementar no valor de R$ 20.000.000,00 (vinte milhões de reais), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 27 dias do mês de Setembro de 2022.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 122 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 1 - PESSOAL E ENCARGOS SOCIAIS | 15000100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 7.000.000,00 | R$ 27.000.000,00 | R$ 20.000.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 20.000.000,00 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **1700 - SECRETARIA DE ESTADO DA ECONOMIA<br>
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 122 1016 3.014 | GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 0,00 | R$ 705.000,00 | R$ 705.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 129 1016 3.025 | ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 0,00 | R$ 2.650.000,00 | R$ 2.650.000,00 |
+| **1700 - SECRETARIA DE ESTADO DA ECONOMIA<br>
+1702 - ENCARGOS FINANCEIROS DO ESTADO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 99 999 9999 9.000 | RESERVA DE CONTINGÊNCIA | 9 - RESERVA DE CONTINGÊNCIA | 15000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 0,00 | R$ 14.293.868,20 | R$ 14.293.868,20 |
+| **3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL<br>
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 1008 2.194 | PASSE LIVRE ESTUDANTIL - ENSINO FUNDAMENTAL | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 0,00 | R$ 1.245.154,70 | R$ 1.245.154,70 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 1008 2.196 | PASSE LIVRE ESTUDANTIL - ENSINO MÉDIO | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 0,00 | R$ 232.286,35 | R$ 232.286,35 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 364 1008 2.195 | PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 0,00 | R$ 873.690,75 | R$ 873.690,75 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 20.000.000,00 |

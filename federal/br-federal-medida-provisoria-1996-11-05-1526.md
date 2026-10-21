@@ -1,0 +1,457 @@
+###MPV-001526-0-000-05-11-1996@@@
+
+MEDIDA PROVISÓRIA Nº 1.526, DE 5 DE NOVEMBRO DE 1996.
+
+Dispõe sobre o regime tributário das microempresas e das empresas de pequeno porte, institui o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de Lei:
+
+# Capítulo I
+
+## DAS DISPOSIÇÕES PRELIMINARES
+
+Art. 1º Esta Medida Provisória regula, em conformidade com o disposto no art. 179 da Constituição, o tratamento diferenciado, simplificado e favorecido, aplicável às microempresas e empresas de pequeno porte, relativo aos impostos e às contribuições que menciona.
+
+# Capítulo II
+
+## DA MICROEMPRESA E DA EMPRESA DE PEQUENO PORTE
+
+# Seção Única
+
+## Da Definição
+
+Art. 2º Para os fins do disposto nesta Medida Provisória, considera-se:
+
+I - microempresa, a pessoa jurídica que tenha auferido, no ano-calendário, receita bruta igual ou inferior a R$120.000,00 (cento e vinte mil reais);
+
+II - empresa de pequeno porte, a pessoa jurídica que tenha auferido, no ano-calendário, receita bruta superior a R$120.000,00 (cento e vinte mil reais) e igual ou inferior a R$720.000,00 (setecentos e vinte mil reais).
+
+§ 1º No caso de início de atividades no próprio ano-calendário, os limites de que tratam os incisos I e II deste artigo serão proporcionais ao número de meses em que a pessoa jurídica houver exercido atividade, desconsideradas as frações de meses.
+
+§ 2º Para os fins do disposto neste artigo, considera-se receita bruta o produto da venda de bens e serviços nas operações de conta própria, o preço dos serviços prestados e o resultado nas operações em conta alheia, não incluídas as vendas canceladas e os descontos incondicionais concedidos.
+
+# Capítulo III
+
+## DO SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES - SIMPLES
+
+# Seção I
+
+## Da Definição e da Abrangência
+
+Art. 3º A pessoa jurídica enquadrada na condição de microempresa e de empresa de pequeno porte, na forma do art. 2º, poderá optar pela inscrição no Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte - SIMPLES.
+
+§ 1º A inscrição no SIMPLES implica pagamento mensal unificado dos seguintes impostos e contribuições:
+
+a) Imposto de Renda das Pessoas Jurídicas - IRPJ;
+
+b) Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP;
+
+c) Contribuição Social sobre o Lucro Líquido - CSLL;
+
+d) Contribuição para Financiamento da Seguridade Social - COFINS;
+
+e) Imposto sobre Produtos Industrializados - IPI;
+
+f) Contribuições para a Seguridade Social, a cargo da pessoa jurídica, de que tratam o art. 22 da Lei nº 8.212, de 24 de julho de 1991, e a Lei Complementar n° 84, de 18 de janeiro de 1996.
+
+§ 2º O pagamento na forma do parágrafo anterior não exclui a incidência dos seguintes impostos ou contribuições, devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação aplicável às demais pessoas jurídicas:
+
+a) Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF;
+
+b) Imposto sobre Importação de Produtos Estrangeiros - II;
+
+c) Imposto sobre Exportação, para o Exterior, de Produtos Nacionais ou Nacionalizados - IE;
+
+d) Imposto de Renda Retido na Fonte - IRRF, relativo aos pagamentos ou créditos efetuados pela pessoa jurídica, bem assim aos rendimentos ou ganhos líquidos auferidos em aplicações de renda fixa ou variável;
+
+e) Imposto sobre a Propriedade Territorial Rural - ITR;
+
+f) Contribuição Provisória sobre a Movimentação Financeira - CPMF;
+
+g) Contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS;
+
+h) Contribuição para a Seguridade Social, relativa ao empregado.
+
+§ 3º A incidência do imposto de renda na fonte relativa aos rendimentos e ganhos líquidos auferidos em aplicações de renda fixa ou variável, na hipótese da alínea d do parágrafo anterior, será definitiva.
+
+§ 4º A inscrição no SIMPLES dispensa a pessoa jurídica do pagamento das demais contribuições instituídas pela União.
+
+Art. 4º O SIMPLES poderá incluir o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Serviços de Transporte Interestadual e Intermunicipal - ICMS ou o Imposto sobre Serviços de Qualquer Natureza - ISS devido por microempresa e empresa de pequeno porte, desde que a Unidade Federada ou o município em que esteja estabelecida venha a ele aderir mediante convênio.
+
+§ 1º Os convênios serão bilaterais e terão como partes a União, representada pela Secretaria da Receita Federal, e a Unidade Federada ou o município.
+
+§ 2º O convênio entrará em vigor a partir do terceiro mês subseqüente ao da publicação, no Diário Oficial da União, de seu extrato.
+
+§ 3º Denunciado o convênio, por qualquer das partes, a exclusão do ICMS ou do ISS do SIMPLES somente produzirá efeitos a partir de lº de janeiro do ano-calendário subseqüente ao da sua denúncia.
+
+# Seção II
+
+## Do Recolhimento e dos Percentuais
+
+Art. 5º O valor devido mensalmente pelas microempresas e empresas de pequeno porte, inscritas no SIMPLES, será determinado mediante a aplicação, sobre a receita bruta mensal auferida, dos seguintes percentuais:
+
+I - para as microempresas: 5% (cinco por cento);
+
+II - para as empresas de pequeno porte, em relação à receita bruta acumulada dentro do ano-calendário:
+
+a) até R$240.000,00 (duzentos e quarenta mil reais): 5,4% (cinco inteiros e quatro décimos por cento);
+
+b) de R$240.000,01 (duzentos e quarenta mil reais e um centavo) a R$360.000,00 (trezentos e sessenta mil reais): 5,8% (cinco inteiros e oito décimos por cento);
+
+c) de R$360.000,01 (trezentos e sessenta mil reais e um centavo) a R$480.000,00 (quatrocentos e oitenta mil reais): 6,2% (seis inteiros e dois décimos por cento);
+
+d) de R$480.000,01 (quatrocentos e oitenta mil reais e um centavo) a R$600.000,00 (seiscentos mil reais): 6,6% (seis inteiros e seis décimos por cento);
+
+e) de R$600.000,01 (seiscentos mil reais e um centavo) a R$720.000,00 (setecentos e vinte mil reais): 7% (sete por cento).
+
+§ 1º O percentual a ser aplicado em cada mês, na forma deste artigo, será o correspondente à receita bruta acumulada até o próprio mês.
+
+§ 2º No caso de pessoa jurídica contribuinte do IPI, os percentuais referidos no caput deste artigo serão acrescidos de 0,5 (meio) ponto percentual.
+
+§ 3º Caso a Unidade Federada em que esteja estabelecida a microempresa ou a empresa de pequeno porte tenha celebrado convênio com a União, nos termos do art. 4º, os percentuais referidos no caput deste artigo serão acrescidos, a título de pagamento do ICMS, observado o disposto no respectivo convênio:
+
+a) em relação a microempresa contribuinte exclusivamente do ICMS: de até 1 (um) ponto percentual;
+
+b) em relação a microempresa contribuinte do ICMS e do ISS: de até 0,5 (meio) ponto percentual;
+
+c) em relação a empresa de pequeno porte contribuinte exclusivamente do ICMS: de até 2,5 (dois e meio) pontos percentuais;
+
+d) em relação a empresa de pequeno porte contribuinte do ICMS e do ISS: de até 2 (dois) pontos percentuais.
+
+§ 4º Caso o município em que esteja estabelecida a microempresa ou a empresa de pequeno porte tenha celebrado convênio com a União, nos termos do art. 4º, os percentuais referidos no caput deste artigo serão acrescidos, a título de pagamento do ISS, observado o disposto no respectivo convênio:
+
+a) em relação a microempresa contribuinte exclusivamente do ISS: de até 1 (um) ponto percentual;
+
+b) em relação a microempresa contribuinte do ISS e do ICMS: de até 0,5 (meio) ponto percentual;
+
+c) em relação a empresa de pequeno porte contribuinte exclusivamente do ISS: de até 2,5 (dois e meio) pontos percentuais;
+
+d) em relação a empresa de pequeno porte contribuinte do ISS e do ICMS: de até 0,5 (meio) ponto percentual.
+
+§ 5º A inscrição no SIMPLES veda, para a microempresa ou empresa de pequeno porte, a utilização ou destinação de qualquer valor a título de incentivo fiscal, bem assim a apropriação ou a transferência de créditos relativos ao IPI e ao ICMS.
+
+# Seção III
+
+## Da Data e da Forma de Pagamento
+
+Art. 6º O pagamento unificado de impostos e contribuições, devidos pelas microempresas e pelas empresas de pequeno porte, inscritas no SIMPLES, será feito de forma centralizada, até o décimo dia do mês subseqüente àquele em que houver sido auferida a receita bruta.
+
+§ 1º Para fins do disposto neste artigo, a Secretaria da Receita Federal instituirá documento de arrecadação único e específico (DARF-SIMPLES).
+
+§ 2º Os impostos e contribuições devidos pelas pessoas jurídicas inscritas no SIMPLES não poderão ser objeto de parcelamento.
+
+# Seção IV
+
+## Da Declaração Anual Simplificada, da Escrituração e dos Documentos
+
+Art. 7º A microempresa e a empresa de pequeno porte, inscritas no SIMPLES apresentarão, anualmente, declaração simplificada, que será entregue até o último dia útil do mês de maio do ano-calendário subseqüente ao de ocorrência dos fatos geradores dos impostos e contribuições de que tratam os arts. 3º e 4º.
+
+§ 1º A microempresa e a empresa de pequeno porte ficam dispensadas de escrituração comercial desde que mantenham, em boa ordem e guarda e enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que lhes sejam pertinentes:
+
+a) Livro Caixa, no qual deverá estar escriturada toda a sua movimentação financeira, inclusive bancária;
+
+b) Livro de Registro de Inventário, no qual deverão constar registrados os estoques existentes no término de cada ano-calendário;
+
+c) todos os documentos e demais papéis que serviram de base para a escrituração dos livros referidos nas alíneas anteriores.
+
+§ 2º O disposto neste artigo não dispensa o cumprimento, por parte da microempresa e da empresa de pequeno porte, das obrigações acessórias previstas na legislação previdenciária e trabalhista.
+
+# Capítulo IV
+
+## DA OPÇÃO PELO SIMPLES
+
+Art. 8º A opção pelo SIMPLES dar-se-á mediante a inscrição da pessoa jurídica enquadrada na condição de microempresa ou empresa de pequeno porte no Cadastro Geral de Contribuintes do Ministério da Fazenda - CGC/MF, quando o contribuinte prestará todas as informações necessárias, inclusive quanto:
+
+I - à especificação dos impostos, dos quais é contribuinte (IPI, ICMS ou ISS);
+
+II - ao porte da pessoa jurídica (microempresa ou empresa de pequeno porte).
+
+§ 1º As pessoas jurídicas já devidamente cadastradas no CGC/MF exercerão sua opção pelo SIMPLES mediante alteração cadastral.
+
+§ 2º A opção exercida de conformidade com este artigo submeterá a pessoa jurídica à sistemática do SIMPLES a partir do primeiro dia do ano-calendário subseqüente, sendo definitiva para todo o período.
+
+§ 3º Excepcionalmente, no ano-calendário de 1997, a opção poderá ser efetuada até 31 de março, com efeitos a partir de 1º de janeiro daquele ano.
+
+§ 4º As pessoas jurídicas inscritas no SIMPLES deverão manter em seus estabelecimentos, em local visível ao público, placa indicativa que esclareça tratar-se de microempresa ou empresa de pequeno porte inscrita no SIMPLES.
+
+# Capítulo V
+
+## DAS VEDAÇÕES À OPÇÃO
+
+Art. 9º Não poderá optar pelo SIMPLES, a pessoa jurídica:
+
+I - na condição de microempresa, que tenha auferido, no ano-calendário imediatamente anterior, receita bruta superior a R$120.000,00 (cento e vinte mil reais);
+
+II - na condição de empresa de pequeno porte, que tenha auferido, no ano-calendário imediatamente anterior, receita bruta superior a R$720.000,00 (setecentos e vinte mil reais);
+
+III - constituída sob a forma de sociedade por ações;
+
+IV - cuja atividade seja banco comercial, banco de investimentos, banco de desenvolvimento, caixa econômica, sociedade de crédito, financiamento e investimento, sociedade de crédito imobiliário, sociedade corretora de títulos, valores mobiliários e câmbio, distribuidora de títulos e valores imobiliários, empresa de arrendamento mercantil, cooperativa de crédito, empresa de seguros privados e de capitalização e entidade de previdência privada aberta;
+
+V - que se dedique à compra e à venda, ao loteamento, à incorporação ou à construção de imóveis e à execução de obras da construção civil;
+
+VI - que tenha sócio residente no exterior;
+
+VII - constituída sob qualquer forma, de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
+
+VIII - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
+
+IX - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa, desde que a receita bruta global ultrapasse os limites de que tratam os incisos I e II do art. 2º;
+
+X - de cujo capital participe, como sócio, outra pessoa jurídica;
+
+XI - cuja receita decorrente da venda de bens importados seja superior a 10% (dez por cento) de sua receita bruta total;
+
+XII - que realize operações relativas a:
+
+a) importação de produtos estrangeiros;
+
+b) locação ou administração de imóveis;
+
+c) armazenamento e depósito de produtos de terceiros;
+
+d) propaganda e publicidade, excluídos os veículos de comunicação;
+
+e) factoring;
+
+f) prestação de serviço de vigilância, limpeza, conservação e locação de mão-de-obra;
+
+XIII - que preste serviços profissionais de corretor, representante comercial, despachante, ator, empresário, diretor ou produtor de espetáculos, cantor, músico, dançarino, médico, dentista, enfermeiro, veterinário, engenheiro, arquiteto, físico, químico, economista, contador, auditor, consultor, estatístico, administrador, programador, analista de sistema, advogado, psicólogo, professor, jornalista, publicitário, fisicultor, ou assemelhados, e de qualquer outra profissão cujo exercício dependa de habilitação profissional legalmente exigida;
+
+XIV - que participe do capital de outra pessoa jurídica, ressalvados os investimentos provenientes de incentivos fiscais efetuados antes da vigência da Lei n° 7.256, de 27 de novembro de 1984, quando se tratar de microempresa, ou antes da vigência desta Medida Provisória, quando se tratar de empresa de pequeno porte;
+
+XV - que tenha débito inscrito em Dívida Ativa da União ou do Instituto Nacional do Seguro Social - INSS, cuja exigibilidade não esteja suspensa;
+
+XVI - cujo titular, ou sócio que participe de seu capital com mais de 10% (dez por cento), esteja inscrito em Dívida Ativa da União ou do Instituto Nacional do Seguro Social - INSS, cuja exigibilidade não esteja suspensa;
+
+XVII - seja resultante de cisão ou qualquer outra forma de desmembramento da pessoa jurídica, salvo em relação aos eventos ocorridos antes da vigência desta Medida Provisória;
+
+XVIII - cujo titular, ou sócio com participação em seu capital superior a 10% (dez por cento), adquira bens ou realize gastos em valor incompatível com os rendimentos por ele declarados.
+
+§ 1º Na hipótese de início de atividade no ano-calendário imediatamente anterior ao da opção, os valores a que se referem os incisos I e II serão, respectivamente, de R$10.000,00 (dez mil reais) e R$60.000,00 (sessenta mil reais) multiplicados pelo número de meses de funcionamento naquele período, desconsideradas as frações de meses.
+
+§ 2º O disposto nos incisos IX e XIV deste artigo não se aplica à participação em centrais de compras, bolsas de subcontratação, consórcio de exportação e associações assemelhadas, desde que estas não exerçam as atividades referidas no inciso XII.
+
+§ 3º O disposto no inciso XI e na alínea a do inciso XII não se aplica à pessoa jurídica situada exclusivamente em área da Zona Franca de Manaus e da Amazônia Ocidental, a que se referem os Decretos-Leis nºs 288, de 28 de fevereiro de 1967, e 356, de 15 de agosto de 1968.
+
+Art. 10. Não poderá pagar o ICMS, na forma do SIMPLES, ainda que a Unidade Federada onde esteja estabelecida seja conveniada, a pessoa jurídica:
+
+I - que possua estabelecimento em mais de uma Unidade Federada;
+
+II - que exerça, ainda que parcialmente, atividade de transporte interestadual ou intermunicipal.
+
+Art. 11. Não poderá pagar o ISS, na forma do SIMPLES, ainda que o Município onde esteja estabelecida seja conveniado, a pessoa jurídica que possua estabelecimento em mais de um município.
+
+# Capítulo VI
+
+## DA EXCLUSÃO DO SIMPLES
+
+Art. 12\. A exclusão do SIMPLES será feita mediante comunicação pela pessoa jurídica ou de ofício.
+
+Art. 13\. A exclusão mediante comunicação da pessoa jurídica dar-se-á:
+
+I - por opção;
+
+II - obrigatoriamente, quando:
+
+a) incorrer em qualquer das situações excludentes constantes do art. 9º;
+
+b) ultrapassado, no ano-calendário de início de atividades, o limite de receita bruta correspondente a R$60.000,00 (sessenta mil reais) multiplicados pelo número de meses de funcionamento nesse período.
+
+§ 1º A exclusão na forma deste artigo será formalizada mediante alteração cadastral.
+
+§ 2º A microempresa que ultrapassar, no ano-calendário imediatamente anterior, o limite de receita bruta correspondente a R$120.000,00 (cento e vinte mil reais), estará excluída do SIMPLES nessa condição, podendo, mediante alteração cadastral, inscrever-se na condição de empresa de pequeno porte.
+
+§ 3º No caso do inciso II do caput deste artigo e do parágrafo anterior, a comunicação deverá ser efetuada:
+
+a) até o último dia útil do mês de janeiro do ano-calendário subseqüente àquele em que se deu o excesso de receita bruta, nas hipóteses dos incisos I e II do art. 9º.
+
+b) até o último dia útil do mês subseqüente àquele em que houver ocorrido o fato que deu ensejo à exclusão, nas hipóteses dos demais incisos do art. 9º e da alínea b do inciso II deste artigo.
+
+Art. 14\. A exclusão dar-se-á de ofício quando a pessoa jurídica incorrer em quaisquer das seguintes hipóteses:
+
+I - exclusão obrigatória, nas formas do inciso II e § 2º do artigo anterior, quando não realizada por comunicação da pessoa jurídica;
+
+II - embaraço à fiscalização, caracterizado pela negativa não justificada de exibição de livros e documentos a que estiver obrigada, bem assim pelo não fornecimento de informações sobre bens, movimentação financeira, negócio ou atividade, próprios ou de terceiros, quando intimado, e demais hipóteses que autorizam a requisição de auxílio da força pública, nos termos do art. 200 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional);
+
+III - resistência à fiscalização, caracterizada pela negativa de acesso ao estabelecimento, ao domicílio fiscal ou a qualquer outro local onde se desenvolvam as atividades da pessoa jurídica ou se encontrem bens de sua posse ou propriedade;
+
+IV - constituição da pessoa jurídica por interpostas pessoas que não sejam os verdadeiros sócios ou acionista, ou o titular, no caso de firma individual;
+
+V - prática reiterada de infração à legislação tributária;
+
+VI - comercialização de mercadorias objeto de contrabando ou descaminho;
+
+VII - incidência em crime contra a ordem tributária, com decisão definitiva.
+
+Art. 15\. A exclusão do SIMPLES nas condições de que tratam os arts. 13 e 14 surtirá efeito:
+
+I - a partir do ano-calendário subseqüente, na hipótese de que trata o inciso I do art. 13;
+
+II - a partir do mês subseqüente ao em que ocorrida a situação excludente, nas hipóteses de que tratam os incisos III a XVIII do art. 9º;
+
+III - a partir do início de atividade da pessoa jurídica, sujeitando-a ao pagamento da totalidade ou diferença dos respectivos impostos e contribuições, devidos de conformidade com as normas gerais de incidência, acrescidos, apenas, de juros de mora quando efetuado antes do início de procedimento de ofício, na hipótese do inciso II, alínea b, do art. 13;
+
+IV - a partir do ano-calendário subseqüente àquele em que foi ultrapassado o limite estabelecido, nas hipóteses dos incisos I e II do art. 9º;
+
+V - a partir, inclusive, do mês de ocorrência de qualquer dos fatos mencionados nos incisos II a VII do artigo anterior.
+
+§ 1º A pessoa jurídica que, por qualquer razão, for excluída do SIMPLES deverá apurar o estoque de produtos, matérias-primas, produtos intermediários e materiais de embalagem existente no último dia do último mês em que houver apurado o IPI ou o ICMS de conformidade com aquele sistema e determinar, a partir da respectiva documentação de aquisição, o montante dos créditos que serão passíveis de aproveitamento nos períodos de apuração subseqüentes.
+
+§ 2º O convênio poderá estabelecer outra forma de determinação dos créditos relativos ao ICMS, passíveis de aproveitamento, na hipótese de que trata o parágrafo anterior.
+
+Art. 16\. A pessoa jurídica excluída do SIMPLES sujeitar-se-á, a partir do período em que se processarem os efeitos da exclusão, às normas de tributação aplicáveis às demais pessoas jurídicas.
+
+# Capítulo VII
+
+## DAS ATIVIDADES DE ARRECADAÇÃO, COBRANÇA, FISCALIZAÇÃO E TRIBUTAÇÃO
+
+Art. 17. Competem à Secretaria da Receita Federal as atividades de arrecadação, cobrança, fiscalização e tributação dos impostos e contribuições pagos de conformidade com o SIMPLES.
+
+§ 1º Aos processos de determinação e exigência dos créditos tributários e de consulta, relativos aos impostos e contribuições devidos de conformidade com o SIMPLES, aplicam-se as normas relativas ao imposto de renda.
+
+§ 2º A celebração de convênio, na forma do art. 4º, implica delegar competência, à Secretaria da Receita Federal, para o exercício das atividades de que trata este artigo, nos termos do art. 7º da Lei nº 5.172, de 1966.
+
+§ 3º O convênio a que se refere o parágrafo anterior poderá, também, disciplinar a forma de participação das Unidades Federadas nas atividades de fiscalização.
+
+# Seção I
+
+## Da Omissão de Receita
+
+Art. 18. Aplicam-se à microempresa e à empresa de pequeno porte todas as presunções de omissão de receita existentes nas legislações de regência dos impostos e contribuições de que trata esta Medida Provisória, desde que apuráveis com base nos livros e documentos a que estiverem obrigadas aquelas pessoas jurídicas.
+
+# Seção II
+
+## Dos Acréscimos Legais
+
+Art. 19. Aplicam-se aos impostos e contribuições devidos pelas microempresas e pelas empresas de pequeno porte, inscritas no SIMPLES, as normas relativas aos juros e multa de mora e de ofício previstas para o imposto de renda, inclusive, quando for o caso, em relação ao ICMS e ao ISS.
+
+Art. 20\. A inobservância da exigência de que trata o § 4º do art. 8º sujeitará a pessoa jurídica à multa correspondente a 2% (dois por cento) do total dos impostos e contribuições devidos de conformidade com o SIMPLES no próprio mês em que constatada a irregularidade, não inferior a R$100,00 (cem reais), insusceptível de redução.
+
+Parágrafo único. A multa a que se refere este artigo será aplicada, mensalmente, enquanto perdurar o descumprimento da obrigação a que se refere.
+
+Art. 21\. A falta de comunicação, quando obrigatória, da exclusão da pessoa jurídica do SIMPLES, nos prazos determinados no § 3º do art. 13, sujeitará a pessoa jurídica à multa correspondente à 10% (dez por cento) do total dos impostos e contribuições devidos de conformidade com o SIMPLES no mês que anteceder o início dos efeitos da exclusão, não inferior a R$100,00 (cem reais), insusceptível de redução.
+
+Art. 22\. A imposição das multas de que trata esta Medida Provisória não exclui a aplicação das sanções previstas na legislação penal, inclusive em relação a declaração falsa, adulteração de documentos e emissão de nota fiscal em desacordo com a operação efetivamente praticada, a que estão sujeitos o titular ou sócio da pessoa jurídica.
+
+# Seção III
+
+## Da Partilha dos Valores Pagos
+
+Art. 23. Os valores pagos pelas pessoas jurídica inscritas no SIMPLES corresponderão a:
+
+I - no caso de microempresas:
+
+a) 0% (zero por cento), relativo ao IRPJ;
+
+b) 0% (zero por cento), relativo ao PIS/PASEP;
+
+c) 1% (um por cento), relativo à CSLL;
+
+d) 2% (dois por cento), relativo à COFINS;
+
+e) 2% (dois por cento), relativo às contribuições de que trata a alínea f do § 1º do art. 3º;
+
+II - no caso de empresa de pequeno porte:
+
+a) em relação à faixa de receita bruta de que trata a alínea a do inciso II do art. 5º:
+
+1\. 0,13% (treze centésimos por cento), relativo ao IRPJ;
+
+2\. 0,13% (treze centésimos por cento), relativo ao PIS/PASEP;
+
+3\. 1% (um por cento), relativo à CSLL;
+
+4\. 2% (dois por cento), relativo à COFINS;
+
+5\. 2,14% (dois inteiros e quatorze centésimos por cento), relativo às contribuições de que trata a alínea f do § 1º do art. 3º;
+
+b) em relação à faixa de receita bruta de que trata a alínea b do inciso II do art. 5º:
+
+1\. 0,26% (vinte e seis centésimos por cento), relativo ao IRPJ;
+
+2\. 0,26% (vinte e seis centésimos por cento), relativo ao PIS/PASEP;
+
+3\. 1% (um por cento), relativo à CSLL;
+
+4\. 2% (dois por cento), relativo à COFINS;
+
+5\. 2,28% (dois inteiros e vinte e oito centésimos por cento), relativo às contribuições de que trata a alínea f do § 1º do art. 3º;
+
+c) em relação à faixa de receita bruta de que trata a alínea c do inciso II do art. 5º:
+
+1\. 0,39% (trinta e nove centésimos por cento), relativo ao IRPJ;
+
+2\. 0,39% (trinta e nove centésimos por cento), relativo ao PIS/PASEP;
+
+3\. 1% (um por cento), relativo à CSLL;
+
+4\. 2% (dois por cento), relativo à COFINS;
+
+5\. 2,42% (dois inteiros e quarenta e dois centésimos por cento), relativo às contribuições de que trata a alínea f do § 1º do art. 3º;
+
+d) em relação à faixa de receita bruta de que trata a alínea d do inciso II do art. 5º:
+
+1\. 0,52% (cinqüenta e dois centésimos por cento), relativo ao IRPJ;
+
+2\. 0,52% (cinqüenta e dois centésimos por cento), relativo ao PIS/PASEP;
+
+3\. 1% (um por cento), relativo à CSLL;
+
+4\. 2% (dois por cento), relativo à COFINS;
+
+5\. 2,56% (dois inteiros e cinqüenta e seis centésimos por cento), relativo às contribuições de que trata a alínea f do § 1º do art. 3º.
+
+e) em relação à faixa de receita bruta de que trata a alínea e do inciso II do art. 5º:
+
+1\. 0,65% (sessenta e cinco centésimos por cento), relativo ao IRPJ;
+
+2\. 0,65% (sessenta e cinco centésimos por cento), relativo ao PIS/PASEP;
+
+3\. 1% (um por cento), relativo à CSLL;
+
+4\. 2% (dois por cento), relativo à COFINS;
+
+5\. 2,7% (dois inteiros e sete décimos por cento), relativo às contribuições de que trata a alínea f do § 1º do art. 3º.
+
+§ 1º Os percentuais relativos ao IPI, ao ICMS e ao ISS serão acrescidos de conformidade com o disposto nos §§ 2º a 4º do art. 5º, respectivamente.
+
+§ 2º A pessoa jurídica, inscrita no SIMPLES na condição de microempresa, que ultrapassar, no decurso do ano-calendário, o limite de que trata o art. 2º, inciso I, sujeitar-se-á, em relação aos valores excedentes, dentro daquele ano, aos percentuais e normas aplicáveis às empresas de pequeno porte, observado o disposto no parágrafo seguinte.
+
+§ 3º A pessoa jurídica cuja receita bruta, no decurso do ano-calendário, exceder ao limite a que se refere o inciso II do art. 2º adotará, em relação aos valores excedentes, dentro daquele ano, os percentuais previstos na alínea e do inciso II e nos §§ 2º, 3º, alínea c ou d, e 4º, alínea c ou d, todos do art. 5º, acrescidos de 20% (vinte por cento), observado o disposto em seu § 1º.
+
+§ 4º Na hipótese do parágrafo anterior, o acréscimo corresponderá integralmente ao IRPJ.
+
+Art. 24. Os valores arrecadados pelo SIMPLES serão creditados a cada imposto e contribuição a que corresponder.
+
+Parágrafo único. Serão repassadas diretamente, pela União, às Unidades Federadas e aos Municípios conveniados, até o último dia útil do mês da arrecadação, os valores correspondentes, respectivamente, ao ICMS e ao ISS, vedada qualquer retenção.
+
+# Capítulo VIII
+
+## DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+# Seção I
+
+## Da Isenção dos Rendimentos Distribuídos aos Sócios e ao Titular
+
+Art. 25. Consideram-se isentos do imposto de renda, na fonte e na declaração de ajuste do beneficiário, os valores efetivamente pagos ao titular ou sócio da microempresa ou da empresa de pequeno porte, salvo os que corresponderem a pro-labore, aluguéis ou serviços prestados.
+
+# Seção II
+
+## Do Parcelamento
+
+Art. 26. Poderá ser autorizado o parcelamento, em até setenta e duas parcelas mensais e sucessivas, dos débitos para com a Fazenda Nacional e para com a Seguridade Social, de responsabilidade da microempresa ou empresa de pequeno porte e de seu titular ou sócio, relativos a fatos geradores ocorridos até 31 de outubro de 1996.
+
+§ 1º O valor mínimo da parcela mensal será de R$100,00 (cem reais), considerados isoladamente os débitos para com a Fazenda Nacional e para com a Seguridade Social.
+
+§ 2º Aplicam-se ao disposto neste artigo as demais regras vigentes para parcelamento de tributos e contribuições federais.
+
+Art. 27. Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1997.
+
+Art. 28. Revogam-se os arts. 2º, 3º, 11 a 16, 19, incisos II e III, e 25 a 27 da Lei nº 7.256, de 27 de novembro de 1984, e o art. 42 da Lei nº 8.383, de 30 de dezembro de 1991, e os arts. 12 a 14 da Lei nº 8.864, de 28 de março de 1994.
+
+Brasília, 5 de novembro de 1996; 175º da Independência e 108º da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+Pedro Malan

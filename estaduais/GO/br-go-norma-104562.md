@@ -1,0 +1,95 @@
+Portaria Orçamentária nº 187/2021 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da Lei nº [20.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968), de 18 de fevereiro de 2021,conforme processo nº 202100004062060.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto ao FUNDO ESTADUAL DE SAÚDE - FES, 1 (um) crédito suplementar no valor de R$ 1.485.000,00 (um milhão, quatrocentos e oitenta e cinco mil reais), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 9 dias do mês de Junho de 2021.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **2850 - FUNDO ESTADUAL DE SAÚDE - FES** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 302 1043 2.148 | ATENÇÃO À SAÚDE DE MÉDIA E ALTA COMPLEXIDADE | 3 - OUTRAS DESPESAS CORRENTES | 100 | 41 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 6.337.283,35 | R$ 7.822.283,35 | R$ 1.485.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 1.485.000,00 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **2850 - FUNDO ESTADUAL DE SAÚDE - FES** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 032 1022 2.083 | OUVIDORIA E CONTROLE SOCIAL NA GESTÃO DO SUS | 4 - INVESTIMENTOS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 4 - INVESTIMENTOS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 171.527,38 | R$ 171.527,38 | R$ 171.527,38 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 128 1043 2.153 | FORMAÇÃO, APERFEIÇOAMENTO E APRIMORAMENTO DE PESSOAL PARA O SUS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 375.456,32 | R$ 375.456,32 | R$ 375.456,32 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 128 1043 2.153 | FORMAÇÃO, APERFEIÇOAMENTO E APRIMORAMENTO DE PESSOAL PARA O SUS | 4 - INVESTIMENTOS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 301 1043 2.152 | ESTRATÉGIAS PARA IMPLANTAÇÃO, IMPLEMENTAÇÃO DAS POLÍTICAS DE ATENÇÃO INTEGRAL À SAÚDE E FORTALECIMENTO DO SUS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 1.378.688,55 | R$ 878.016,30 | R$ 878.016,30 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 301 1043 2.152 | ESTRATÉGIAS PARA IMPLANTAÇÃO, IMPLEMENTAÇÃO DAS POLÍTICAS DE ATENÇÃO INTEGRAL À SAÚDE E FORTALECIMENTO DO SUS | 4 - INVESTIMENTOS | 100 | 41 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 301 1043 2.152 | ESTRATÉGIAS PARA IMPLANTAÇÃO, IMPLEMENTAÇÃO DAS POLÍTICAS DE ATENÇÃO INTEGRAL À SAÚDE E FORTALECIMENTO DO SUS | 4 - INVESTIMENTOS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 301 1043 2.155 | PREVENÇÃO, PROTEÇÃO E INTEGRAÇÃO AO DEPENDENTE QUÍMICO | 4 - INVESTIMENTOS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 10 302 1043 2.147 | AMPLIAÇÃO E FORTALECIMENTO DAS AÇÕES LABORATORIAIS DE INTERESSE DE SAÚDE PÚBLICA | 4 - INVESTIMENTOS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 1.485.000,00 |

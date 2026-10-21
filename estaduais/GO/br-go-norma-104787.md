@@ -1,0 +1,44 @@
+Portaria Orçamentária nº 333/2021 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "b" e art. 12 da [Lei nº 20.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968), de 18 de fevereiro de 2021, conforme processo nº 202100004096267.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO DE REAPARELHAMENTO E APERFEIÇOAMENTO DA POLÍCIA MILITAR - FREAP/PM, 2 (dois) créditos suplementares no valor global de R$ 1.716.583,80 (um milhão, setecentos e dezesseis mil, quinhentos e oitenta e três reais e oitenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso II do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de excesso de arrecadação.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 1 dias do mês de Setembro de 2021.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **2954 - FUNDO DE REAPARELHAMENTO E APERFEIÇOAMENTO DA POLÍCIA MILITAR - FREAP/PM** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 06 122 1021 2.079 | PREVENÇÃO E REPRESSÃO AO CRIME | 3 - OUTRAS DESPESAS CORRENTES | 161 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 63.291,00 | R$ 275.061,95 | R$ 211.770,95 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 06 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 3 - OUTRAS DESPESAS CORRENTES | 161 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 1.118.948,52 | R$ 2.623.761,37 | R$ 1.504.812,85 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 1.716.583,80 |

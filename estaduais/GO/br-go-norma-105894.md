@@ -1,0 +1,45 @@
+Portaria Orçamentária nº 331/2022 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 21.232](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232), de 11 de janeiro de 2022, conforme processo 202200004017585.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à SECRETARIA DE ESTADO DA ADMINISTRAÇÃO, 2 (dois) créditos suplementares no valor global de R$ 19.483.465,22 (dezenove milhões, quatrocentos e oitenta e três mil, quatrocentos e sessenta e cinco reais e vinte e dois centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 10 dias do mês de Junho de 2022.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO<br>
+1802 - ENCARGOS GERAIS DO ESTADO** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 08 244 1040 2.188 | PROJETOS SOCIAIS A CARGO DE ORGANIZAÇÕES SOCIAIS | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 50 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 31.078.669,08 | R$ 46.817.288,30 | R$ 15.738.619,22 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 08 244 1040 2.188 | PROJETOS SOCIAIS A CARGO DE ORGANIZAÇÕES SOCIAIS | 4 - INVESTIMENTOS | 25000100 | 50 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 0,00 | R$ 3.744.846,00 | R$ 3.744.846,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 19.483.465,22 |

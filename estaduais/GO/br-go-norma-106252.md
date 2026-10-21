@@ -1,0 +1,95 @@
+Portaria Orçamentária nº 547/2022 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 21.232](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232), de 11 de janeiro de 2022, conforme processo 202200004017585.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA, 3 (três) créditos suplementares no valor global de R$ 47.600.000,00 (quarenta e sete milhões e seiscentos mil reais), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 7 dias do mês de Outubro de 2022.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **3163 - AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 782 1041 3.100 | GOIÁS EM MOVIMENTO - PAVIMENTAÇÃO DE RODOVIA | 4 - INVESTIMENTOS | 25000100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 24.666,03 | R$ 15.524.666,03 | R$ 15.500.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 782 1041 3.101 | GOIÁS EM MOVIMENTO - RECONSTRUÇÃO DE RODOVIA | 4 - INVESTIMENTOS | 25000100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 146.833,56 | R$ 15.846.833,56 | R$ 15.700.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 782 1041 3.102 | GOIÁS EM MOVIMENTO - MANUTEÇÃO DE RODOVIA | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 860.232,19 | R$ 17.260.232,19 | R$ 16.400.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 47.600.000,00 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **3163 - AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 122 1003 3.096 | GOIÁS EM MOVIMENTO - CONSTRUÇÃO DE OBRAS CIVIS | 4 - INVESTIMENTOS | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 5.242.552,92 | R$ 5.000.000,00 | R$ 5.000.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 122 4200 4.217 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA GOINFRA | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 1.660.157,40 | R$ 1.000.000,00 | R$ 1.000.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 122 4200 4.217 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA GOINFRA | 4 - INVESTIMENTOS | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 7.921.768,16 | R$ 7.900.000,00 | R$ 7.900.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 781 1041 2.230 | GOIÁS EM MOVIMENTO - MANUTENÇÃO DE AERÓDROMOS | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 1.200.000,00 | R$ 1.200.000,00 | R$ 1.200.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 782 1041 2.231 | SEGURANÇA E FISCALIZAÇÃO RODOVIÁRIA | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 16.118.880,90 | R$ 14.200.000,00 | R$ 14.200.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 782 1041 3.102 | GOIÁS EM MOVIMENTO - MANUTEÇÃO DE RODOVIA | 4 - INVESTIMENTOS | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 7.860.096,66 | R$ 7.800.000,00 | R$ 7.800.000,00 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 26 782 1041 3.103 | GOIÁS EM MOVIMENTO - CONSTRUÇÃO DE PONTES | 4 - INVESTIMENTOS | 25000100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 10.544.296,32 | R$ 10.500.000,00 | R$ 10.500.000,00 |
+|
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 47.600.000,00 |

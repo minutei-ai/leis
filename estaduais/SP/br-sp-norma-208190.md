@@ -1,0 +1,33 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208190)<br>
+
+# LEI N° 17.697, DE 13 DE JUNHO DE 2023
+
+## (Projeto de lei n° 812, de 2021, do Deputado Frederico d'Avila - PSL)
+
+### Denomina "Ruy d'Avila" a passarela localizada no km 224,710 da Rodovia Francisco Alves Negrão - SP 258, em Capão Bonito
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1° -** Passa a denominar-se "Ruy dâ€™Avila" a passarela localizada no km 224,710 da Rodovia Francisco Alves Negrão - SP 258, em Capão Bonito.
+
+**Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 13 de junho de 2023
+
+TARCÍSIO DE FREITAS
+
+Natália Resende Andrade Ávila
+
+Secretária de Meio Ambiente, Infraestrutura e Logística
+
+Gilberto Kassab
+
+Secretário de Governo e Relações Institucionais
+
+Arthur Luis Pinho de Lima
+
+Secretário-Chefe da Casa Civil
+
+Publicada na Subsecretaria de Gestão Legislativa da Casa Civil, em 14 de junho de 2023.

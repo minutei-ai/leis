@@ -1,0 +1,106 @@
+Portaria Orçamentária nº 410/2021 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 12 da [Lei nº 20.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968), de 18 de fevereiro de 2021, conforme processo nº 202100004105727.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à SECRETARIA DE ESTADO DA EDUCAÇÃO, 6 (seis) créditos suplementares no valor global de R$ 120.000.000,00 (cento e vinte milhões de reais), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 30 dias do mês de Setembro de 2021.
+
+<br>
+
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+|
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+
+**2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO**
+
+ |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 122 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 6.257.884,71 | R$ 17.403.316,06 | R$ 11.145.431,35 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 361 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 37.893.974,73 | R$ 89.963.409,22 | R$ 52.069.434,49 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 362 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 12.561.390,14 | R$ 59.074.307,65 | R$ 46.512.917,51 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 363 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 75.016,00 | R$ 518.986,90 | R$ 443.970,90 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 366 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 1.311.765,73 | R$ 8.002.858,90 | R$ 6.691.093,17 |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 12 367 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 3 - OUTRAS DESPESAS CORRENTES | 100 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 981.248,12 | R$ 4.118.400,70 | R$ 3.137.152,58 |
+|
+
+ |
+
+ |
+
+ | **VALOR TOTAL A SUPLEMENTAR** |
+|
+
+ |
+
+ |
+
+ | R$ 120.000.000,00 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+|
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+
+**1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA**
+
+ |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 122 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 1 - PESSOAL E ENCARGOS SOCIAIS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 136.712.388,69 | R$ 80.000.000,00 | R$ 80.000.000,00 |
+|
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+
+**2902 - POLÍCIA MILITAR**
+
+ |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 06 122 4100 4.144 | FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS | 1 - PESSOAL E ENCARGOS SOCIAIS | 100 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 308.172.267,10 | R$ 40.000.000,00 | R$ 40.000.000,00 |
+|
+
+ |
+
+ |
+
+ | **VALOR TOTAL A REDUZIR** |
+|
+
+ |
+
+ |
+
+ | R$ 120.000.000,00 |

@@ -1,0 +1,1292 @@
+LEI Nº 21.398, DE 13 DE MAIO DE 2022
+
+Autoriza a abertura de crédito especial aos órgãos, às entidades e aos fundos que especifica.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercício, crédito especial no valor de até R$ 24.177.000,00 (vinte e quatro milhões e cento e setenta e sete mil reais), conforme o Anexo I desta Lei, assim discriminado:
+
+I – R$ 330.000,00 (trezentos e trinta mil reais), em favor da Agência Brasil Central – ABC;
+
+II – R$ 37.000,00 (trinta e sete mil reais), em favor da Agência Estadual de Turismo – GOIÁS TURISMO;
+
+III – R$ 70.000,00 (setenta mil reais), em favor da Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária – EMATER;
+
+IV – R$ 1.000.000,00 (um milhão de reais), em favor da Agência Goiana de Defesa Agropecuária – AGRODEFESA;
+
+V – R$ 220.000,00 (duzentos e vinte mil reais), em favor da Agência Goiana de Infraestrutura e Transportes – GOINFRA;
+
+VI – R$ 300.000,00 (trezentos mil reais), em favor da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR;
+
+VII – R$ 370.000,00 (trezentos e setenta mil reais), em favor da Controladoria– Geral do Estado – CGE;
+
+VIII – R$ 560.000,00 (quinhentos e sessenta mil reais), em favor do Departamento Estadual de Trânsito – DETRAN;
+
+IX – R$ 310.000,00 (trezentos e dez mil reais), em favor da Diretoria– Geral de Administração Penitenciária – DGAP;
+
+X – R$ 70.000,00 (setenta mil reais), em favor da Fundação de Amparo à Pesquisa do Estado de Goiás – FAPEG;
+
+XI – R$ 150.000,00 (cento e cinquenta mil reais), em favor do Fundo Financeiro do Regime Próprio de Previdência do Servidor – FFRPPS;
+
+XII – R$ 90.000,00 (noventa mil reais), em favor do Fundo Financeiro do Regime Próprio de Previdência Militar – FFRPPM;
+
+XIII – R$ 250.000,00 (duzentos e cinquenta mil reais), em favor da Goiás Previdência – GOIASPREV;
+
+XIV – R$ 90.000,00 (noventa mil reais), em favor do Instituto de Assistência dos Servidores Públicos do Estado de Goiás – IPASGO;
+
+XV – R$ 2.000.000,00 (dois milhões de reais), em favor da Polícia Militar – PM;
+
+XVI – R$ 250.000,00 (duzentos e cinquenta mil reais), em favor da Procuradoria– Geral do Estado – PGE;
+
+XVII – R$ 50.000,00 (cinquenta mil reais), em favor da Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA;
+
+XVIII – R$ 70.000,00 (setenta mil reais), em favor da Secretaria de Estado da Casa Civil – CASA CIVIL;
+
+XIX – R$ 140.000,00 (cento e quarenta mil reais), em favor da Secretaria de Estado da Casa Militar – CASA MILITAR;
+
+XX – R$ 90.000,00 (noventa mil reais), em favor da Secretaria de Estado de Desenvolvimento e Inovação – SEDI;
+
+XXI – R$ 360.000,00 (trezentos e sessenta mil reais), em favor da Secretaria de Estado de Desenvolvimento Social – SEDS;
+
+XXII – R$ 13.000.000,00 (treze milhões de reais), em favor da Secretaria de Estado da Economia – ECONOMIA;
+
+XXIII – R$ 50.000,00 (cinquenta mil reais), em favor da Secretaria de Estado de Esporte e Lazer – SEL;
+
+XXIV – R$ 190.000,00 (cento e noventa mil reais), em favor da Secretaria de Estado do Governo – SEGOV;
+
+XXV – R$ 20.000,00 (vinte mil reais), em favor da Secretaria de Estado de Indústria, Comércio e Serviços – SIC;
+
+XXVI – R$ 500.000,00 (quinhentos mil reais), em favor da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável – SEMAD;
+
+XXVII – R$ 50.000,00 (cinquenta mil reais), em favor da Secretaria de Estado da Retomada – SER;
+
+XXVIII – R$ 250.000,00 (duzentos e cinquenta mil reais), em favor da Secretaria de Estado da Segurança Pública – SSP;
+
+XXIX – R$ 70.000,00 (setenta mil reais), em favor da Secretaria– Geral da Governadoria – SGG;
+
+XXX – R$ 3.000.000,00 (três milhões de reais), em favor da Universidade Estadual de Goiás – UEG; e
+
+XXXI – R$ 240.000,00 (duzentos e quarenta mil reais), em favor da Vice– Governadoria.
+
+Art. 2º O recurso necessário à execução do disposto no art. 1º desta Lei decorre de anulação parcial ou total de dotação orçamentária, em conformidade com o disposto no inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, conforme o disposto no Anexo II desta Lei.
+
+Art. 3º Esta lei entra em vigor na data de sua publicação.
+
+Goiânia, 13 de maio de 2022; 134º da República.
+
+<br>
+
+RONALDO CAIADO
+
+Governador do Estado
+
+ANEXO I
+
+DETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1261 – AGÊNCIA BRASIL CENTRAL – ABC |
+| Unidade | 1261 – AGÊNCIA BRASIL CENTRAL – ABC |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 17990163 – OUTRAS VINCULAÇÕES LEGAIS – ENCARGOS LEGAIS E HONORÁRIOS ADVOCATÍCIOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 330.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3361 – AGÊNCIA ESTADUAL DE TURISMO – GOIÁS TURISMO |
+| Unidade | 3361 – AGÊNCIA ESTADUAL DE TURISMO – GOIÁS TURISMO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 37.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+|
+Órgão
+
+ | 3262 – **AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA** – EMATER |
+| Unidade | 3262 – **AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA** – EMATER |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3262 – AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA – EMATER |
+| Unidade | 3262 – AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA – EMATER |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3261 – AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA – AGRODEFESA |
+| Unidade | 3261 – AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA – AGRODEFESA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 17530161 – RECURSOS PROVENIENTES DE TAXAS E CONTRIBUIÇÕES – TAXAS POR SERVIÇOS PÚBLICOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 800.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3261 – AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA – AGRODEFESA |
+| Unidade | 3261 – AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA – AGRODEFESA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 17530161 – RECURSOS PROVENIENTES DE TAXAS E CONTRIBUIÇÕES – TAXAS POR SERVIÇOS PÚBLICOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 200.000,00 |
+
+<table><tbody><tr><td>Exercício</td><td>2022</td></tr><tr><td>Órgão</td><td>3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA</td></tr><tr><td>Unidade</td><td>3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA</td></tr><tr><td>Função</td><td>28 – ENCARGOS ESPECIAIS</td></tr><tr><td>Subfunção</td><td>846 – OUTROS ENCARGOS ESPECIAIS</td></tr><tr><td>Programa</td><td>0100 – ENCARGOS ESPECIAIS</td></tr><tr><td>Ação</td><td>7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV</td></tr><tr><td>Grupo de Despesa</td><td>01 – PESSOAL E ENCARGOS SOCIAIS</td></tr><tr><td>Fonte</td><td>15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS</td></tr><tr><td>Modalidade Aplicação</td><td>90 – APLICAÇÕES DIRETAS</td></tr><tr><td>Valor</td><td>R$ 170.000,00</td></tr></tbody></table>
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA |
+| Unidade | 3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1761 – AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS – AGR |
+| Unidade | 1761 – AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS – AGR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 240.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1761 – AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS – AGR |
+| Unidade | 1761 – AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS – AGR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 60.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1500 – CONTROLADORIA-GERAL DO ESTADO – CGE |
+| Unidade | 1501 – GABINETE DO SECRETÁRIO-CHEFE DA CGE |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 124 – CONTROLE INTERNO |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4145 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS – BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 200.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1500 – CONTROLADORIA-GERAL DO ESTADO – CGE |
+| Unidade | 1501 – GABINETE DO SECRETÁRIO-CHEFE DA CGE |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 130.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1500 – CONTROLADORIA-GERAL DO ESTADO – CGE |
+| Unidade | 1501 – GABINETE DO SECRETÁRIO-CHEFE DA CGE |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 40.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2961 – DEPARTAMENTO ESTADUAL DE TRÂNSITO – DETRAN |
+| Unidade | 2961 – DEPARTAMENTO ESTADUAL DE TRÂNSITO – DETRAN |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 17530161 – RECURSOS PROVENIENTES DE TAXAS E CONTRIBUIÇÕES – TAXAS POR SERVIÇOS PÚBLICOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 560.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2906 – DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA – DGAP |
+| Unidade | 2906 – DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA – DGAP |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 250.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2906 – DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA – DGAP |
+| Unidade | 2906 – DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA – DGAP |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 60.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3161 – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS – FAPEG |
+| Unidade | 3161 – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS – FAPEG |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3161 – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS – FAPEG |
+| Unidade | 3161 – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS – FAPEG |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1780 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR – FFRPPS |
+| Unidade | 1780 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR – FFRPPS |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 120.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1780 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR – FFRPPS |
+| Unidade | 1780 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR – FFRPPS |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 30.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1781 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR – FFRPPM |
+| Unidade | 1781 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR – FFRPPM |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 70.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1781 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR – FFRPPM |
+| Unidade | 1781 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR – FFRPPM |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1762 – GOIÁS PREVIDÊNCIA – GOIASPREV |
+| Unidade | 1762 – GOIÁS PREVIDÊNCIA – GOIASPREV |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4145 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS – BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 18020330 – RECURSOS VINCULADOS AO RPPS – TAXA DE ADMINISTRAÇÃO |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 250.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Unidade | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15010220 – OUTROS RECURSOS NÃO VINCULADOS – DIRETAMENTE ARRECADADOS PRÓPRIOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 80.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Unidade | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 0200 – ENCARGOS DOS BENEFÍCIOS PREVIDENCIÁRIOS E ESPECIAIS |
+| Ação | 7250 – PAGAMENTO DE PENSÕES ESPECIAIS |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15010220 – OUTROS RECURSOS NÃO VINCULADOS – DIRETAMENTE ARRECADADOS PRÓPRIOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 10.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2902 – POLÍCIA MILITAR |
+| Unidade | 2902 – POLÍCIA MILITAR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 1.600.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2902 – POLÍCIA MILITAR |
+| Unidade | 2902 – POLÍCIA MILITAR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 400.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1400 – PROCURADORIA-GERAL DO ESTADO – PGE |
+| Unidade | 1401 – GABINETE DO PROCURADOR-GERAL DO ESTADO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 200.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1400 – PROCURADORIA-GERAL DO ESTADO – PGE |
+| Unidade | 1401 – GABINETE DO PROCURADOR-GERAL DO ESTADO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3200 – SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO – SEAPA |
+| Unidade | 3201 – GABINETE DO SECRETÁRIO DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 30.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3200 – SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO – SEAPA |
+| Unidade | 3201 – GABINETE DO SECRETÁRIO DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1100 – SECRETARIA DE ESTADO DA CASA CIVIL |
+| Unidade | 1101 – GABINETE DO SECRETÁRIO DE ESTADO DA CASA CIVIL |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1100 – SECRETARIA DE ESTADO DA CASA CIVIL |
+| Unidade | 1101 – GABINETE DO SECRETÁRIO DE ESTADO DA CASA CIVIL |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1600 – SECRETARIA DE ESTADO DA CASA MILITAR |
+| Unidade | 1601 – GABINETE DO SECRETÁRIO-CHEFE DA CASA MILITAR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 110.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1600 – SECRETARIA DE ESTADO DA CASA MILITAR |
+| Unidade | 1601 – GABINETE DO SECRETÁRIO-CHEFE DA CASA MILITAR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 30.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3100 – SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO – SEDI |
+| Unidade | 3101 – GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 70.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3100 – SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO – SEDI |
+| Unidade | 3101 – GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3000 – SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL – SEDS |
+| Unidade | 3001 – GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 280.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3000 – SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL – SEDS |
+| Unidade | 3001 – GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 80.000,00 |
+|   |   |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1700 – SECRETARIA DE ESTADO DA ECONOMIA |
+| Unidade | 1704 – ENCARGOS ESPECIAIS |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 13.000.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2600 – SECRETARIA DE ESTADO DE ESPORTE E LAZER – SEL |
+| Unidade | 2601 – GABINETE DO SECRETÁRIO DE ESTADO DE ESPORTE E LAZER |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 30.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2600 – SECRETARIA DE ESTADO DE ESPORTE E LAZER – SEL |
+| Unidade | 2601 – GABINETE DO SECRETÁRIO DE ESTADO DE ESPORTE E LAZER |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1900 – SECRETARIA DE ESTADO DO GOVERNO – SEGOV |
+| Unidade | 1901 – GABINETE DO SECRETÁRIO DE ESTADO DE GOVERNO |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4145 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS – BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 190.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3300 – **SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS** – SIC |
+| Unidade | 3301 – GABINETE DO SECRETÁRIO DE ESTADO DE **INDÚSTRIA, COMÉRCIO E SERVIÇOS** |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 10.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3300 – **SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS** – SIC |
+| Unidade | 3301 – GABINETE DO SECRETÁRIO DE ESTADO DE **INDÚSTRIA, COMÉRCIO E SERVIÇOS** |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 10.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2100 – SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL – SEMAD |
+| Unidade | 2101 – GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 400.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2100 – SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL – SEMAD |
+| Unidade | 2101 – GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 100.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 4200 – SECRETARIA DE ESTADO DA RETOMADA – SER |
+| Unidade | 4201 – GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 40.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 4200 – SECRETARIA DE ESTADO DA RETOMADA – SER |
+| Unidade | 4201 – GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 10.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2900 – SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA – SSP |
+| Unidade | 2901 – GABINETE DO SECRETÁRIO DE ESTADO DA SEGURANÇA PÚBLICA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 200.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2900 – SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA – SSP |
+| Unidade | 2901 – GABINETE DO SECRETÁRIO DE ESTADO DA SEGURANÇA PÚBLICA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022<br>
+\- [Redação dada pela Lei nº 21.483, de 30-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105770/lei-21483). |
+| --- | --- |
+| Órgão | 4000 – SECRETARIA-GERAL DA GOVERNADORIA – SGG |
+| Unidade | 4001 – GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| ~~Exercício~~ | ~~2022~~ |
+| --- | --- |
+| ~~Órgão~~ | ~~4000 – SECRETARIA-GERAL DA GOVERNADORIA – SGG~~ |
+| ~~Unidade~~ | ~~4001 – GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA~~ |
+| ~~Função~~ | ~~28 – ENCARGOS ESPECIAIS~~ |
+| ~~Subfunção~~ | ~~846 – OUTROS ENCARGOS ESPECIAIS~~ |
+| ~~Programa~~ | ~~0100 – ENCARGOS ESPECIAIS~~ |
+| ~~Ação~~ | ~~7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV~~ |
+| ~~Grupo de Despesa~~ | ~~03 – OUTRAS DESPESAS CORRENTES~~ |
+| ~~Fonte~~ | ~~15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS~~ |
+| ~~Modalidade Aplicação~~ | ~~90 – APLICAÇÕES DIRETAS~~ |
+| ~~Valor~~ | ~~R$ 50.000,00~~ |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 4000 – SECRETARIA-GERAL DA GOVERNADORIA – SGG |
+| Unidade | 4001 – GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3162 – UNIVERSIDADE ESTADUAL DE GOIÁS – UEG |
+| Unidade | 3162 – UNIVERSIDADE ESTADUAL DE GOIÁS – UEG |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 2.400.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3162 – UNIVERSIDADE ESTADUAL DE GOIÁS – UEG |
+| Unidade | 3162 – UNIVERSIDADE ESTADUAL DE GOIÁS – UEG |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 600.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1300 – VICE-GOVERNADORIA |
+| Unidade | 1301 – GABINETE DO VICE-GOVERNADOR |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4145 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS – BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 210.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1300 – VICE-GOVERNADORIA |
+| Unidade | 1301 – GABINETE DO VICE-GOVERNADOR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1300 – VICE-GOVERNADORIA |
+| Unidade | 1301 – GABINETE DO VICE-GOVERNADOR |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 10.000,00 |
+
+ANEXO II
+
+DETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1261 – AGÊNCIA BRASIL CENTRAL – ABC |
+| Unidade | 1261 – AGÊNCIA BRASIL CENTRAL – ABC |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 17990163 – OUTRAS VINCULAÇÕES LEGAIS – ENCARGOS LEGAIS E HONORÁRIOS ADVOCATÍCIOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 330.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3361 – AGÊNCIA ESTADUAL DE TURISMO – GOIÁS TURISMO |
+| Unidade | 3361 – AGÊNCIA ESTADUAL DE TURISMO – GOIÁS TURISMO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 37.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3262 – **AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA** – EMATER |
+| Unidade | 3262 – **AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA** – EMATER |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 70.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3261 – AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA – AGRODEFESA |
+| Unidade | 3261 – AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA – AGRODEFESA |
+| Função | 20 – AGRICULTURA |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 17530161 – RECURSOS PROVENIENTES DE TAXAS E CONTRIBUIÇÕES – TAXAS POR SERVIÇOS PÚBLICOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 1.000.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA |
+| Unidade | 3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 220.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1761 – AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS – AGR |
+| Unidade | 1761 – AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS – AGR |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 300.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1500 – CONTROLADORIA-GERAL DO ESTADO – CGE |
+| Unidade | 1501 – GABINETE DO SECRETÁRIO-CHEFE DA CGE |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 124 – CONTROLE INTERNO |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 200.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1500 – CONTROLADORIA-GERAL DO ESTADO – CGE |
+| Unidade | 1501 – GABINETE DO SECRETÁRIO-CHEFE DA CGE |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 124 – CONTROLE INTERNO |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 170.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2961 – DEPARTAMENTO ESTADUAL DE TRÂNSITO – DETRAN |
+| Unidade | 2961 – DEPARTAMENTO ESTADUAL DE TRÂNSITO – DETRAN |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 17530161 – RECURSOS PROVENIENTES DE TAXAS E CONTRIBUIÇÕES – TAXAS POR SERVIÇOS PÚBLICOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 560.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2906 – DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA – DGAP |
+| Unidade | 2906 – DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA – DGAP |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 310.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3161 – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS – FAPEG |
+| Unidade | 3161 – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS – FAPEG |
+| Função | 19 – CIÊNCIA E TECNOLOGIA |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 70.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1780 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR – FFRPPS |
+| Unidade | 1780 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR – FFRPPS |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7105 – ENCARGOS JUDICIÁRIOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 150.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1781 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR – FFRPPM |
+| Unidade | 1781 – FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA MILITAR – FFRPPM |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7105 – ENCARGOS JUDICIÁRIOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 90.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1762 – GOIÁS PREVIDÊNCIA – GOIASPREV |
+| Unidade | 1762 – GOIÁS PREVIDÊNCIA – GOIASPREV |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 18020330 – RECURSOS VINCULADOS AO RPPS – TAXA DE ADMINISTRAÇÃO |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 250.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Unidade | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15010220 – OUTROS RECURSOS NÃO VINCULADOS – DIRETAMENTE ARRECADADOS PRÓPRIOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 80.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Unidade | 1861 – INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE GOIÁS – IPASGO |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15010220 – OUTROS RECURSOS NÃO VINCULADOS – DIRETAMENTE ARRECADADOS PRÓPRIOS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 10.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2902 – POLÍCIA MILITAR |
+| Unidade | 2902 – POLÍCIA MILITAR |
+| Função | 06 – SEGURANÇA PÚBLICA |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 2.000.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1400 – PROCURADORIA-GERAL DO ESTADO – PGE |
+| Unidade | 1401 – GABINETE DO PROCURADOR-GERAL DO ESTADO |
+| Função | 02 – JUDICIÁRIA |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 250.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3200 – SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO – SEAPA |
+| Unidade | 3201 – GABINETE DO SECRETÁRIO DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1100 – SECRETARIA DE ESTADO DA CASA CIVIL |
+| Unidade | 1101 – GABINETE DO SECRETÁRIO DE ESTADO DA CASA CIVIL |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 70.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1600 – SECRETARIA DE ESTADO DA CASA MILITAR |
+| Unidade | 1601 – GABINETE DO SECRETÁRIO-CHEFE DA CASA MILITAR |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 140.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3100 – SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO – SEDI |
+| Unidade | 3101 – GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 90.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3000 – SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL – SEDS |
+| Unidade | 3001 – GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 360.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1700 – SECRETARIA DE ESTADO DA ECONOMIA |
+| Unidade | 1704 – ENCARGOS ESPECIAIS |
+| Função | 28 – ENCARGOS ESPECIAIS |
+| Subfunção | 846 – OUTROS ENCARGOS ESPECIAIS |
+| Programa | 0100 – ENCARGOS ESPECIAIS |
+| Ação | 7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 13.000.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2600 – SECRETARIA DE ESTADO DE ESPORTE E LAZER – SEL |
+| Unidade | 2601 – GABINETE DO SECRETÁRIO DE ESTADO DE ESPORTE E LAZER |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1900 – SECRETARIA DE ESTADO DO GOVERNO – SEGOV |
+| Unidade | 1901 – GABINETE DO SECRETÁRIO DE ESTADO DE GOVERNO |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 190.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3300 – **SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS** – SIC |
+| Unidade | 3301 – GABINETE DO SECRETÁRIO DE ESTADO DE **INDÚSTRIA, COMÉRCIO E SERVIÇOS** |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 20.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2100 – SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL – SEMAD |
+| Unidade | 2101 – GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 500.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 4200 – SECRETARIA DE ESTADO DA RETOMADA – SER |
+| Unidade | 4201 – GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 50.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 2900 – SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA – SSP |
+| Unidade | 2901 – GABINETE DO SECRETÁRIO DE ESTADO DA SEGURANÇA PÚBLICA |
+| Função | 06 – SEGURANÇA PÚBLICA |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 250.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 4000 – SECRETARIA-GERAL DA GOVERNADORIA – SGG |
+| Unidade | 4001 – GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 70.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 3162 – UNIVERSIDADE ESTADUAL DE GOIÁS – UEG |
+| Unidade | 3162 – UNIVERSIDADE ESTADUAL DE GOIÁS – UEG |
+| Função | 12 – EDUCAÇÃO |
+| Subfunção | 364 – ENSINO SUPERIOR |
+| Programa | 1038 – PROFISSIONAIS TRANSFORMANDO GOIÁS |
+| Ação | 3105 – RECONSTRUÇÃO DA INFRAESTRUTURA FÍSICA DA UEG |
+| Grupo de Despesa | 04 – INVESTIMENTOS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 3.000.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1300 – VICE-GOVERNADORIA |
+| Unidade | 1301 – GABINETE DO VICE-GOVERNADOR |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 03 – OUTRAS DESPESAS CORRENTES |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 210.000,00 |
+
+| Exercício | 2022 |
+| --- | --- |
+| Órgão | 1300 – VICE-GOVERNADORIA |
+| Unidade | 1301 – GABINETE DO VICE-GOVERNADOR |
+| Função | 04 – ADMINISTRAÇÃO |
+| Subfunção | 122 – ADMINISTRAÇÃO GERAL |
+| Programa | 4100 – ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS |
+| Ação | 4144 – FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS |
+| Grupo de Despesa | 01 – PESSOAL E ENCARGOS SOCIAIS |
+| Fonte | 15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS |
+| Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
+| Valor | R$ 30.000,00 |
