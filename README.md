@@ -2,7 +2,7 @@
 
 Acervo público do [Minutei](https://minutei.legal), coletado diretamente de fontes oficiais. Um arquivo Markdown por norma, com origem, versão, data de coleta e hashes SHA-256. O objetivo é ampliar o acesso à legislação brasileira em texto simples, com coleta reproduzível e histórico real das atualizações.
 
-As quantidades publicadas, os catálogos consultados e o que falta coletar estão em **[COBERTURA.md](COBERTURA.md)**. O acervo está em formação e ainda não contém todas as leis brasileiras. A coleta em lotes está configurada no GitHub Actions a cada seis horas, além da execução manual. A automação só publica material que passa pelos testes e pela auditoria; isso não certifica completude nacional.
+As quantidades publicadas, os catálogos consultados e o que falta coletar estão em **[COBERTURA.md](COBERTURA.md)**. O acervo está em formação e ainda não contém todas as leis brasileiras. A coleta é executada diretamente pelos scripts deste repositório.
 
 ## Consultar
 
@@ -72,7 +72,7 @@ As skills são roteiros de pesquisa, sujeitos a revisão; não certificam vigên
 
 ## Reproduzir e ampliar
 
-Requer [Bun](https://bun.sh), na versão registrada no CI.
+Requer [Bun](https://bun.sh), na versão compatível com o lockfile.
 
 ```sh
 bun install --frozen-lockfile
@@ -125,13 +125,11 @@ A descoberta reutiliza catálogos locais. Para atualizar um ano já consultado, 
 
 As requisições são sequenciais, com intervalo e timeout. Na descoberta federal, falhas são registradas por família/ano, os demais anos continuam e o comando termina com código diferente de zero se houver falhas. Os catálogos concluídos são preservados para retomada. Na ALMG, falhas anuais são registradas e os demais anos continuam. Na Bahia, falhas interrompem a paginação da categoria afetada, preservam as páginas concluídas e permitem continuar as demais categorias. Na coleta dos textos, uma falha é registrada por norma e as demais continuam; o processo termina com código diferente de zero se houver falhas. Arquivos incompletos ou com hashes divergentes são recolhidos na próxima execução. Uma interrupção pode deixar arquivos parciais: confira a auditoria antes de publicar.
 
-Os testes usam fontes reais preservadas, sem acesso à rede, e cobrem identidade, versões, rejeição de páginas inválidas e conversão. `bun run audit` verifica os hashes e reproduz a conversão de todas as normas disponíveis no checkout. O CI executa ambos. O relatório mede o material presente, sem equiparar reprodução e hash a completude nacional.
+Os testes usam fontes reais preservadas, sem acesso à rede, e cobrem identidade, versões, rejeição de páginas inválidas e conversão. `bun run audit` verifica os hashes e reproduz a conversão de todas as normas disponíveis no checkout. O relatório mede o material presente, sem equiparar reprodução e hash a completude nacional.
 
-## Coleta contínua e limites de cobertura
+## Coleta direta e cobertura
 
-O workflow [Ampliar acervo oficial](.github/workflows/coletar.yml) executa a descoberta e lotes de até 1.000 novas tentativas por fonte a cada seis horas, seguidos de até 100 retentativas por fonte. Também pode ser iniciado pela aba Actions, com limite ajustável. Uma única execução roda por vez. A descoberta renova as páginas da Alesp e os catálogos do ano corrente do Senado, da ALMG e da PMSP, para que novos atos não fiquem presos aos inventários em cache. Na Bahia, a descoberta avança por até 100 páginas novas a cada rodada, retomando as páginas preservadas; a atualização de categorias já consultadas usa `--refresh --pages 1000000` para percorrer a categoria inteira. Catálogos históricos já consultados são reutilizados; alterações retroativas nesses catálogos exigem uma execução com `--refresh`. Ela coleta os arquivos ausentes, valida o acervo e publica o lote na `main`; se a auditoria falhar, não publica. O CI verde certifica os checks executados, não que todas as leis estejam presentes.
-
-O modo `--skip-failures`, usado na automação, permite avançar pelos registros ainda não tentados sem que os mesmos documentos indisponíveis ocupem todos os lotes. A automação também reavalia até 100 falhas por fonte, priorizando a data de tentativa mais antiga para que erros persistentes não monopolizem a fila. Para reavaliar apenas falhas manualmente, execute o coletor com `--only-failures --limit 100`. As opções `--only-failures` e `--skip-failures` são mutuamente exclusivas. Os erros continuam em `falhas/` até uma tentativa bem-sucedida. Pendências do inventário (por exemplo, norma sem link para texto) permanecem no catálogo oficial preservado e no relatório. Duplicações equivalentes da ALMG são contadas uma vez como norma e mantidas como linhas pendentes; identidades conflitantes interrompem a descoberta para revisão.
+Execute os coletores acima para baixar e converter os textos. Eles retomam arquivos já íntegros. `--skip-failures` avança pelas normas ainda não tentadas; `--only-failures --limit 100` reavalia erros registrados. `--refresh` consulta novamente fontes já preservadas. Não há CI nem Actions de coleta neste repositório.
 
 O objetivo abrange a legislação federal, dos 26 estados, do Distrito Federal e dos municípios, inclusive normas históricas e revogadas. A presença de um catálogo não equivale à presença dos textos. As fontes integradas até aqui são Senado/Câmara, ALMG, Alesp, Casa Civil da Bahia e o catálogo municipal da Prefeitura de São Paulo; os demais entes ainda precisam de coletores e validação. O acesso SRU do LexML retornou uma verificação de segurança na consulta realizada, sem inventário utilizável.
 
