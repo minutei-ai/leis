@@ -1,0 +1,11 @@
+###DEC-000000-0-101-26-11-1822@@@
+
+DECRETO - DE 26 DE NOVEMBRO DE 1822
+
+Commuta a pena de degredo para a India e Costa d'Africa na de trabalhos nas obras publicas aos réos detidos nas cadeias.
+
+Sendo-Me presente, que uma grande parte dos presos das Cadeias desta Côrte e Império, é formada de réos vindos de Portugal, para serem remettidos em degredo para os Estados da Índia, e Costas d'Africa, e que, por falta de transportes, e por outros motivos, que tem occorrido, tanto estes como outros sentenciados aqui nas mesmas penas, não têm podido ser enviados aos seus destinos, e por isso se conservam retidos nas prisões, obrigados a passarem largo tempo de necessidades e afflicções, sem verem correr o tempo marcado para a expiação dos seus crimes: e Attendendo a que, pelos soffrimentos, que experimentam estes desgraçados com a privação da sua liberdade natural, em tão lastimosa situação, vem a recahir sobre elles uma pena mais afflictiva, e maior do que aquella, que lhes foi imposta. Hei por bem, por effeitos da Minha Imperial Commiseração, e por Querer que estes réos, pelo allivio das suas penas, participem também da geral alegria, e applausos dos faustissimos dias da Minha Imperial Acclamação e Coroação, que a todos os condemnados a degredos para a Índia, ou África, e detidos nas Cadeias, ou outras prisões desta Côrte e Império, nos referidos  faustissimos Dias, sejam commutados os seus Degredos em trabalhos dos Arsenaes, Fortalezas e Obras Publicas, pelo tempo que parecer de Justiça e de equidade, tendo-se em consideração a qualidade do crime, o numero da annos, em que foram sentenciados, e o tempo em que estiveram presos; fazendo-se as commutações aos que não tiverem processos, á vista das guias, e realisando-se quanto ás Mulheres, ou no serviço dos Hospitaes, ou em Degredo para os logares deste Império do Brazil mais carecidos de povoação. O Conde Regedor da Casa da Supplicação, os Governadores das Relações da Bahia, Pernambuco e Maranhão, e os Presidentes das Juntas de Justiças estabelecidas em algumas Províncias, o tenham assim entendido, e façam executar. Paço em 26 de Novembro de 1822.
+
+Com a rubrica de Sua Magestade Imperial.
+
+Caetano Pinto de Miranda Montenegro.
